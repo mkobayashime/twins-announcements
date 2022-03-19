@@ -182,7 +182,7 @@ const saveFeedToFiles = async ({ rss2 }: { rss2: string }) => {
 
 const main = async () => {
   const browser = await puppeteer.launch({
-    headless: false,
+    headless: true,
     defaultViewport: null,
   });
   const page = await browser.newPage();
