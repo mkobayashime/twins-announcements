@@ -1,4 +1,8 @@
+import { writeFile, mkdir } from "fs/promises";
+import path from "path";
+
 import puppeteer, { ElementHandle } from "puppeteer";
+import { Feed } from "feed";
 
 const FEED_ITEMS_NUMBER = 2;
 const TWINS_ROOT_URL = "https://twins.tsukuba.ac.jp/campusweb/campusportal.do";
@@ -142,6 +146,40 @@ const getAnnouncementBody = async ({
   return announcement;
 };
 
+const generateFeed = (
+  announcements: Announcement[],
+): {
+  rss2: string;
+} => {
+  const feedClient = new Feed({
+    title: "在学生へのお知らせ | 筑波大学",
+    id: "https://github.com/mkobayashime/twins-announcements",
+    link: "https://github.com/mkobayashime/twins-announcements",
+    copyright: "",
+    language: "ja",
+  });
+
+  announcements.forEach(({ id, title, text, date, url }) => {
+    feedClient.addItem({
+      id,
+      title,
+      description: text,
+      link: url,
+      // date,
+      date: new Date(),
+    });
+  });
+
+  return {
+    rss2: feedClient.rss2(),
+  };
+};
+
+const saveFeedToFiles = async ({ rss2 }: { rss2: string }) => {
+  await mkdir(path.resolve("dist"));
+  await writeFile(path.resolve("dist", "twins-announcements.rss"), rss2);
+};
+
 const main = async () => {
   const browser = await puppeteer.launch({
     headless: false,
@@ -150,7 +188,8 @@ const main = async () => {
   const page = await browser.newPage();
 
   const announcements = await getAnnouncements({ page });
-  console.log(announcements);
+  const feeds = generateFeed(announcements);
+  await saveFeedToFiles(feeds);
 
   await browser.close();
 };
