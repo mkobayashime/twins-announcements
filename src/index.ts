@@ -176,7 +176,7 @@ const generateFeed = (
 };
 
 const saveFeedToFiles = async ({ rss2 }: { rss2: string }) => {
-  await mkdir(path.resolve("dist"));
+  await mkdir(path.resolve("dist"), { recursive: true });
   await writeFile(path.resolve("dist", "twins-announcements.rss"), rss2);
 };
 
