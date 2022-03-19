@@ -18,7 +18,43 @@ const getAnnouncements = async ({
 }): Promise<Announcement[]> => {
   const announcements: Announcement[] = [];
 
+  const waitForAnnouncementToBeLoaded = async ({
+    page,
+  }: {
+    page: puppeteer.Page;
+  }): Promise<boolean> => {
+    const spinner = await page.$$("#main-frame-if-loading");
+    if (!spinner) throw Error("Spinner element not found.");
+
+    for (let timeSpent = 0; timeSpent < 30000; timeSpent += 200) {
+      const displayValue = await page.evaluate((spinner: HTMLElement) => {
+        const { display } = window.getComputedStyle(spinner);
+        console.log(display);
+        return display;
+      }, ...spinner);
+      if (displayValue === "none") {
+        return true;
+      }
+
+      await new Promise((resolve) => setTimeout(resolve, 200));
+    }
+    return false;
+  };
+
   await page.goto(TWINS_ROOT_URL);
+
+  /**
+   * For testing slow network
+   */
+  // const devToolsClient = await page.target().createCDPSession();
+  // await devToolsClient.send("Network.emulateNetworkConditions", {
+  //   offline: false,
+  //   latency: 2000,
+  //   downloadThroughput: (1000 * 1024) / 8,
+  //   // downloadThroughput: (376 * 1024) / 8,
+  //   uploadThroughput: (200 * 1024) / 8,
+  // });
+  // await page.setCacheEnabled(false);
 
   const announcementItems = await page.$$("#keiji-portlet tr");
   const recentAnnouncementItems = announcementItems.slice(0, FEED_ITEMS_NUMBER);
@@ -27,6 +63,10 @@ const getAnnouncements = async ({
     const anchorElement = await announcementItem.$("a");
     await anchorElement?.click();
     await page.waitForTimeout(1000);
+
+    const loadingTimeout = await waitForAnnouncementToBeLoaded({ page });
+    if (!loadingTimeout) return [];
+
     const announcement = await getAnnouncementBody({ page });
     if (announcement) {
       announcements.push(announcement);
