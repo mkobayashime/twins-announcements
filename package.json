@@ -12,6 +12,7 @@
     "@typescript-eslint/parser": "^5.15.0",
     "eslint": "^8.11.0",
     "eslint-config-prettier": "^8.5.0",
+    "feed": "^4.2.2",
     "prettier": "^2.6.0",
     "puppeteer": "^13.5.1",
     "ts-node": "^10.7.0",
