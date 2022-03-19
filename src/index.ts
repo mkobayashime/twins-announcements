@@ -1,4 +1,4 @@
-import puppeteer from "puppeteer";
+import puppeteer, { ElementHandle } from "puppeteer";
 
 const FEED_ITEMS_NUMBER = 2;
 const TWINS_ROOT_URL = "https://twins.tsukuba.ac.jp/campusweb/campusportal.do";
@@ -41,7 +41,9 @@ const getAnnouncementBody = async ({
 }: {
   page: puppeteer.Page;
 }): Promise<Announcement | undefined> => {
-  const targetIFrame = await page.$("iframe#main-frame-if");
+  const targetIFrame: ElementHandle<HTMLIFrameElement> | null = await page.$(
+    "iframe#main-frame-if",
+  );
   if (!targetIFrame) {
     console.error("target iframe not found");
     return;
