@@ -103,7 +103,10 @@ const getAnnouncementBody = async ({
 };
 
 const main = async () => {
-  const browser = await puppeteer.launch({ headless: false });
+  const browser = await puppeteer.launch({
+    headless: false,
+    defaultViewport: null,
+  });
   const page = await browser.newPage();
 
   const announcements = await getAnnouncements({ page });
