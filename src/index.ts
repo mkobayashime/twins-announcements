@@ -63,6 +63,27 @@ const getAnnouncements = async ({
   const recentAnnouncementItems = announcementItems.slice(0, FEED_ITEMS_NUMBER);
 
   for (const announcementItem of recentAnnouncementItems) {
+    const { title, date } = await page.evaluate((trElement: HTMLElement) => {
+      const title = trElement.querySelector("a")?.innerText;
+
+      /**
+       * Remove the title part to avoid matching date-like string included in the title
+       */
+      const innerHTMLWithoutTitle = trElement.innerHTML.replace(
+        /<a.*<\/a>/s,
+        "",
+      );
+
+      const dateMatch = innerHTMLWithoutTitle?.match(/\d{4}\/\d{1,2}\/\d{1,2}/);
+      const date = dateMatch && dateMatch.length ? dateMatch[0] : undefined;
+
+      return {
+        title,
+        date,
+      };
+    }, announcementItem);
+    if (!title || !date) return [];
+
     const anchorElement = await announcementItem.$("a");
     await anchorElement?.click();
     await page.waitForTimeout(1000);
@@ -70,7 +91,7 @@ const getAnnouncements = async ({
     const loadingTimeout = await waitForAnnouncementToBeLoaded({ page });
     if (!loadingTimeout) return [];
 
-    const announcement = await getAnnouncementBody({ page });
+    const announcement = await getAnnouncementBody({ page, title, date });
     if (announcement) {
       announcements.push(announcement);
     }
@@ -81,8 +102,12 @@ const getAnnouncements = async ({
 
 const getAnnouncementBody = async ({
   page,
+  title,
+  date,
 }: {
   page: puppeteer.Page;
+  title: string;
+  date: string;
 }): Promise<Announcement | undefined> => {
   const targetIFrame: ElementHandle<HTMLIFrameElement> | null = await page.$(
     "iframe#main-frame-if",
@@ -93,7 +118,7 @@ const getAnnouncementBody = async ({
   }
 
   const announcement: Announcement | undefined = await targetIFrame.evaluate(
-    async (iframe: HTMLIFrameElement) => {
+    async (iframe: HTMLIFrameElement, { title, date }) => {
       async function hashString(string: string) {
         const msgUint8 = new TextEncoder().encode(string);
         const hashBuffer = await crypto.subtle.digest("SHA-256", msgUint8);
@@ -107,23 +132,14 @@ const getAnnouncementBody = async ({
       const iFrameSrc = iframe.getAttribute("src");
 
       const documentRoot = iframe.contentDocument;
-      const titleWithDate = documentRoot?.querySelector<HTMLDivElement>(
-        "#webpage-list-title-inner",
-      )?.innerText;
+
       const text =
         documentRoot?.querySelector<HTMLDivElement>(
           "#webpage-contents",
         )?.innerText;
 
-      const title = titleWithDate?.replace(/\s+\d{4}\/\d{1,2}\/\d{1,2}$/, "");
-      const dateMatch = titleWithDate?.match(
-        /^.*\s+(\d{4}\/\d{1,2}\/\d{1,2})$/,
-      );
-      const date = dateMatch && dateMatch.length > 1 ? dateMatch[1] : undefined;
-
-      if (!titleWithDate || !title || !text || !date || !iFrameSrc) {
+      if (!title || !text || !date || !iFrameSrc) {
         console.error("absent field found", {
-          titleWithDate,
           title,
           text,
           date,
@@ -133,13 +149,14 @@ const getAnnouncementBody = async ({
       }
 
       return {
-        id: await hashString(titleWithDate),
+        id: await hashString(title),
         title,
         text,
         date,
         url: "https://twins.tsukuba.ac.jp/campusweb/" + iFrameSrc,
       };
     },
+    { title, date },
   );
 
   return announcement;
