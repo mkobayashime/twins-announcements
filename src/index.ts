@@ -27,7 +27,7 @@ const getAnnouncements = async ({
   }: {
     page: puppeteer.Page;
   }): Promise<boolean> => {
-    const spinner = await page.$$("#main-frame-if-loading");
+    const spinner = await page.$("#main-frame-if-loading");
     if (!spinner) throw Error("Spinner element not found.");
 
     for (let timeSpent = 0; timeSpent < 30000; timeSpent += 200) {
@@ -35,7 +35,7 @@ const getAnnouncements = async ({
         const { display } = window.getComputedStyle(spinner);
         console.log(display);
         return display;
-      }, ...spinner);
+      }, spinner);
       if (displayValue === "none") {
         return true;
       }
