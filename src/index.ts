@@ -4,6 +4,7 @@ import path from "path";
 import puppeteer, { ElementHandle } from "puppeteer";
 import { Feed } from "feed";
 
+const HEADLESS = process.env.HEADLESS === "true";
 const FEED_ITEMS_NUMBER = 2;
 const TWINS_ROOT_URL = "https://twins.tsukuba.ac.jp/campusweb/campusportal.do";
 
@@ -198,7 +199,7 @@ const saveFeedToFiles = async ({ rss2 }: { rss2: string }) => {
 
 const main = async () => {
   const browser = await puppeteer.launch({
-    headless: true,
+    headless: HEADLESS,
     defaultViewport: null,
   });
   const page = await browser.newPage();
