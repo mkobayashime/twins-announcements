@@ -186,6 +186,11 @@ const main = async () => {
   });
   const page = await browser.newPage();
 
+  /**
+   * For forwarding logs in the browser to the terminal
+   */
+  page.on("console", (message) => console.log("page: " + message.text()));
+
   const announcements = await getAnnouncements({ page });
   const feeds = generateFeed(announcements);
   await saveFeedToFiles(feeds);
