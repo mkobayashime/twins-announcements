@@ -33,7 +33,6 @@ const getAnnouncements = async ({
     for (let timeSpent = 0; timeSpent < 30000; timeSpent += 200) {
       const displayValue = await page.evaluate((spinner: HTMLElement) => {
         const { display } = window.getComputedStyle(spinner);
-        console.log(display);
         return display;
       }, spinner);
       if (displayValue === "none") {
