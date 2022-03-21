@@ -1,3 +1,4 @@
+import { parse } from "date-fns";
 import md5 from "md5";
 import puppeteer, { ElementHandle } from "puppeteer";
 
@@ -10,7 +11,7 @@ const getAnnouncementBody = async ({
 }: {
   page: puppeteer.Page;
   title: string;
-  date: string;
+  date: Date;
 }): Promise<Announcement> => {
   const targetIFrame: ElementHandle<HTMLIFrameElement> | null = await page.$(
     "iframe#main-frame-if",
@@ -125,12 +126,19 @@ export const getAnnouncements = async ({
         };
       }, announcementItem);
 
+      /**
+       * Published time is not shown in TWINS, so assume it's noon JST
+       */
+      const parsedDate = parse(`${date} 12:00`, "y/M/d H:mm", new Date());
+
       const anchorElement = await announcementItem.$("a");
       await anchorElement?.click();
       await page.waitForTimeout(1000);
       await waitForAnnouncementToBeLoaded({ page });
 
-      announcements.push(await getAnnouncementBody({ page, title, date }));
+      announcements.push(
+        await getAnnouncementBody({ page, title, date: parsedDate }),
+      );
     }
 
     return announcements;
