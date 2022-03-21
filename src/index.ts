@@ -2,6 +2,7 @@ import { writeFile, mkdir } from "fs/promises";
 import path from "path";
 
 import puppeteer, { ElementHandle } from "puppeteer";
+import md5 from "md5";
 import { Feed } from "feed";
 
 const HEADLESS = process.env.HEADLESS === "true";
@@ -141,9 +142,7 @@ const getAnnouncementBody = async ({
     });
 
   return {
-    // FIXME:
-    // id: await hashString(title),
-    id: "aa",
+    id: md5(title),
     title,
     text,
     date,
