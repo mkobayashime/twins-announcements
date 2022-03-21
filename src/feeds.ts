@@ -7,6 +7,8 @@ import { Announcement, Feeds } from "./types";
 export const generateFeed = (announcements: Announcement[]): Feeds => {
   const feedClient = new Feed({
     title: "在学生へのお知らせ | 筑波大学",
+    description:
+      "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     id: "https://github.com/mkobayashime/twins-announcements",
     link: "https://github.com/mkobayashime/twins-announcements",
     copyright: "",
