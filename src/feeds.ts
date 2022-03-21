@@ -19,8 +19,7 @@ export const generateFeed = (announcements: Announcement[]): Feeds => {
       title,
       description: text,
       link: url,
-      // date,
-      date: new Date(),
+      date,
     });
   });
 
