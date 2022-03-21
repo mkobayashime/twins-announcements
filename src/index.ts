@@ -4,7 +4,7 @@ import { generateFeed, saveFeedToFiles } from "./feeds";
 import { getAnnouncements } from "./getAnnouncements";
 
 const HEADLESS = process.env.HEADLESS === "true";
-const FEED_ITEMS_NUMBER = 2;
+const FEED_ITEMS_NUMBER = 20;
 const TWINS_ROOT_URL = "https://twins.tsukuba.ac.jp/campusweb/campusportal.do";
 
 const main = async () => {
