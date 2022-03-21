@@ -27,7 +27,7 @@ const getAnnouncements = async ({
     page,
   }: {
     page: puppeteer.Page;
-  }): Promise<boolean> => {
+  }) => {
     const spinner = await page.$("#main-frame-if-loading");
     if (!spinner) throw Error("Spinner element not found.");
 
@@ -37,12 +37,13 @@ const getAnnouncements = async ({
         return display;
       }, spinner);
       if (displayValue === "none") {
-        return true;
+        return;
       }
 
       await new Promise((resolve) => setTimeout(resolve, 200));
     }
-    return false;
+
+    throw new Error("Loading announcement timeout");
   };
 
   await page.goto(TWINS_ROOT_URL);
@@ -63,42 +64,45 @@ const getAnnouncements = async ({
   const announcementItems = await page.$$("#keiji-portlet tr");
   const recentAnnouncementItems = announcementItems.slice(0, FEED_ITEMS_NUMBER);
 
-  for (const announcementItem of recentAnnouncementItems) {
-    const { title, date } = await page.evaluate((trElement: HTMLElement) => {
-      const title = trElement.querySelector("a")?.innerText;
+  try {
+    for (const announcementItem of recentAnnouncementItems) {
+      const { title, date } = await page.evaluate((trElement: HTMLElement) => {
+        const title = trElement.querySelector("a")?.innerText;
+        if (!title) throw new Error("Title not found");
 
-      /**
-       * Remove the title part to avoid matching date-like string included in the title
-       */
-      const innerHTMLWithoutTitle = trElement.innerHTML.replace(
-        /<a.*<\/a>/s,
-        "",
-      );
+        /**
+         * Remove the title part to avoid matching date-like string included in the title
+         */
+        const innerHTMLWithoutTitle = trElement.innerHTML.replace(
+          /<a.*<\/a>/s,
+          "",
+        );
 
-      const dateMatch = innerHTMLWithoutTitle?.match(/\d{4}\/\d{1,2}\/\d{1,2}/);
-      const date = dateMatch && dateMatch.length ? dateMatch[0] : undefined;
+        const dateMatch = innerHTMLWithoutTitle?.match(
+          /\d{4}\/\d{1,2}\/\d{1,2}/,
+        );
+        const date = dateMatch && dateMatch.length ? dateMatch[0] : undefined;
+        if (!date) throw new Error("Date not found");
 
-      return {
-        title,
-        date,
-      };
-    }, announcementItem);
-    if (!title || !date) return [];
+        return {
+          title,
+          date,
+        };
+      }, announcementItem);
 
-    const anchorElement = await announcementItem.$("a");
-    await anchorElement?.click();
-    await page.waitForTimeout(1000);
+      const anchorElement = await announcementItem.$("a");
+      await anchorElement?.click();
+      await page.waitForTimeout(1000);
+      await waitForAnnouncementToBeLoaded({ page });
 
-    const loadingTimeout = await waitForAnnouncementToBeLoaded({ page });
-    if (!loadingTimeout) return [];
-
-    const announcement = await getAnnouncementBody({ page, title, date });
-    if (announcement) {
-      announcements.push(announcement);
+      announcements.push(await getAnnouncementBody({ page, title, date }));
     }
-  }
 
-  return announcements;
+    return announcements;
+  } catch (err) {
+    console.error(err);
+    return [];
+  }
 };
 
 const getAnnouncementBody = async ({
@@ -109,28 +113,18 @@ const getAnnouncementBody = async ({
   page: puppeteer.Page;
   title: string;
   date: string;
-}): Promise<Announcement | undefined> => {
+}): Promise<Announcement> => {
   const targetIFrame: ElementHandle<HTMLIFrameElement> | null = await page.$(
     "iframe#main-frame-if",
   );
   if (!targetIFrame) {
-    console.error("target iframe not found");
-    return;
+    throw new Error("Target iframe not found");
   }
 
-  const announcement: Announcement | undefined = await targetIFrame.evaluate(
-    async (iframe: HTMLIFrameElement, { title, date }) => {
-      async function hashString(string: string) {
-        const msgUint8 = new TextEncoder().encode(string);
-        const hashBuffer = await crypto.subtle.digest("SHA-256", msgUint8);
-        const hashArray = Array.from(new Uint8Array(hashBuffer));
-        const hashHex = hashArray
-          .map((b) => b.toString(16).padStart(2, "0"))
-          .join("");
-        return hashHex;
-      }
-
+  const { text, url }: Pick<Announcement, "text" | "url"> =
+    await targetIFrame.evaluate(async (iframe: HTMLIFrameElement) => {
       const iFrameSrc = iframe.getAttribute("src");
+      if (!iFrameSrc) throw new Error("iFrameSrc not found");
 
       const documentRoot = iframe.contentDocument;
 
@@ -138,29 +132,23 @@ const getAnnouncementBody = async ({
         documentRoot?.querySelector<HTMLDivElement>(
           "#webpage-contents",
         )?.innerText;
-
-      if (!title || !text || !date || !iFrameSrc) {
-        console.error("absent field found", {
-          title,
-          text,
-          date,
-          iFrameSrc,
-        });
-        return;
-      }
+      if (!text) throw new Error("Announcement text not found");
 
       return {
-        id: await hashString(title),
-        title,
         text,
-        date,
         url: "https://twins.tsukuba.ac.jp/campusweb/" + iFrameSrc,
       };
-    },
-    { title, date },
-  );
+    });
 
-  return announcement;
+  return {
+    // FIXME:
+    // id: await hashString(title),
+    id: "aa",
+    title,
+    text,
+    date,
+    url,
+  };
 };
 
 const generateFeed = (
@@ -210,6 +198,8 @@ const main = async () => {
   page.on("console", (message) => console.log("page: " + message.text()));
 
   const announcements = await getAnnouncements({ page });
+  if (!announcements.length) throw new Error("No announcements found");
+
   const feeds = generateFeed(announcements);
   await saveFeedToFiles(feeds);
 
