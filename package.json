@@ -13,6 +13,7 @@
     "@typescript-eslint/parser": "5.15.0",
     "eslint": "8.11.0",
     "eslint-config-prettier": "8.5.0",
+    "eslint-plugin-import": "^2.25.4",
     "feed": "4.2.2",
     "md5": "^2.3.0",
     "prettier": "2.6.0",

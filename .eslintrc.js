@@ -6,6 +6,8 @@ module.exports = {
   },
   extends: [
     "eslint:recommended",
+    "plugin:import/recommended",
+    "plugin:import/typescript",
     "plugin:@typescript-eslint/recommended",
     "prettier",
   ],
@@ -14,9 +16,18 @@ module.exports = {
     ecmaVersion: 12,
     sourceType: "module",
   },
-  plugins: ["@typescript-eslint"],
+  plugins: ["import", "@typescript-eslint"],
   rules: {
     "@typescript-eslint/no-var-requires": 0,
     "@typescript-eslint/no-namespace": 0,
+    "import/order": [
+      2,
+      {
+        alphabetize: { caseInsensitive: true, order: "asc" },
+        groups: [["builtin", "external"], "parent", ["sibling", "index"]],
+        "newlines-between": "always",
+      },
+    ],
+    "import/first": 2,
   },
 };

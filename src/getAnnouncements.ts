@@ -1,5 +1,5 @@
-import puppeteer, { ElementHandle } from "puppeteer";
 import md5 from "md5";
+import puppeteer, { ElementHandle } from "puppeteer";
 
 import type { Announcement } from "./types";
 
