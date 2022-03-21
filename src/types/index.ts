@@ -8,4 +8,6 @@ export type Announcement = Readonly<{
 
 export type Feeds = Readonly<{
   rss2: string;
+  atom1: string;
+  json1: string;
 }>;
