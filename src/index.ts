@@ -5,17 +5,11 @@ import puppeteer, { ElementHandle } from "puppeteer";
 import md5 from "md5";
 import { Feed } from "feed";
 
+import type { Announcement } from "./types";
+
 const HEADLESS = process.env.HEADLESS === "true";
 const FEED_ITEMS_NUMBER = 2;
 const TWINS_ROOT_URL = "https://twins.tsukuba.ac.jp/campusweb/campusportal.do";
-
-type Announcement = Readonly<{
-  id: string;
-  title: string;
-  text: string;
-  date: string;
-  url: string;
-}>;
 
 const getAnnouncements = async ({
   page,
