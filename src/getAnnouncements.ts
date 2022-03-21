@@ -4,15 +4,9 @@ import puppeteer, { ElementHandle } from "puppeteer";
 
 import type { Announcement } from "./types";
 
-const getAnnouncementBody = async ({
-  page,
-  title,
-  date,
-}: {
-  page: puppeteer.Page;
-  title: string;
-  date: Date;
-}): Promise<Announcement> => {
+const getAnnouncementBody = async (
+  page: puppeteer.Page,
+): Promise<Pick<Announcement, "text" | "url">> => {
   const targetIFrame: ElementHandle<HTMLIFrameElement> | null = await page.$(
     "iframe#main-frame-if",
   );
@@ -40,10 +34,7 @@ const getAnnouncementBody = async ({
     });
 
   return {
-    id: md5(title),
-    title,
     text,
-    date,
     url,
   };
 };
@@ -136,9 +127,12 @@ export const getAnnouncements = async ({
       await page.waitForTimeout(1000);
       await waitForAnnouncementToBeLoaded({ page });
 
-      announcements.push(
-        await getAnnouncementBody({ page, title, date: parsedDate }),
-      );
+      announcements.push({
+        id: md5(title),
+        title,
+        date: parsedDate,
+        ...(await getAnnouncementBody(page)),
+      });
     }
 
     return announcements;
