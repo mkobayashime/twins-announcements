@@ -5,3 +5,7 @@ export type Announcement = Readonly<{
   date: string;
   url: string;
 }>;
+
+export type Feeds = Readonly<{
+  rss2: string;
+}>;
