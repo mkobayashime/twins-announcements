@@ -2,6 +2,7 @@
     "version": "https://jsonfeed.org/version/1",
     "title": "在学生へのお知らせ | 筑波大学",
     "home_page_url": "https://github.com/mkobayashime/twins-announcements",
+    "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
             "id": "7d28ad61507e5caf32829dfa6b5e8d3c",
@@ -14,7 +15,7 @@
             "id": "a5fcc66e2a0d458d50ecf3978be2f4dd",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=2925",
             "title": "【お知らせ】次世代研究者挑戦的研究プログラム研究発表会について",
-            "summary": "茨城県におけるまん延防止等重点措置は３月２１日で解除される見込みですが、本学では依然として\n学生の感染者数は増加傾向にあり、３月上旬には、複数の一般学生団体が関わる感染者数５０名を\n超える大規模なクラスターが発生しています。\nこの状況を危惧し、茨城県から本学における感染防止対策の更なる強化について指導がありました。\nこのことを踏まえ、本学では大学全体として感染の拡大を防止するため、３月１９日から添付の\nとおり課外活動に関する自粛要請を強化します。\n\nAs you may know, the COVID-19 pre-emergency measures will be lifted on March 21(Mon.).\nHowever, in the University of Tsukuba, we just had a couple of “Large Cluster of COVID-19.” One of the clusters comprises more than 50 cases. Thus, the University STRENGTH the prevention MEASURES though many cities in Japan will soon lift the COVID-19 measure.\nFor the further detail, please check the notification. We will soon post its English notice on the University’s website; Latest Information about Measures in Response to COVID-19 (To Students). We kindly ask you to regularly check the updates.\nAt last, we AGAIN ask you to take basic infection prevention measures thoroughly.\n",
+            "summary": "　3月22日（火）・23日（水）の2日間に渡り、次世代研究者挑戦的研究プログラム等の研究支援プログラムに採用された大学院生の研究発表会を別添のとおり開催します。\n　2日間で300件以上のポスター掲出を予定していますので、大学院生の研究成果をご覧に会場にお越しください。\n\n※各開催日に掲出されるポスターの研究課題は別添の「研究発表会研究課題一覧」をご覧ください。",
             "date_modified": "2022-03-18T12:00:00.000Z"
         }
     ]
