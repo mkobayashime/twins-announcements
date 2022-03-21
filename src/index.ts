@@ -1,7 +1,7 @@
 import puppeteer from "puppeteer";
 
-import { getAnnouncements } from "./getAnnouncements";
 import { generateFeed, saveFeedToFiles } from "./feeds";
+import { getAnnouncements } from "./getAnnouncements";
 
 const HEADLESS = process.env.HEADLESS === "true";
 const FEED_ITEMS_NUMBER = 2;

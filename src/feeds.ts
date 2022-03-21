@@ -1,7 +1,6 @@
+import { Feed } from "feed";
 import { writeFile, mkdir } from "fs/promises";
 import path from "path";
-
-import { Feed } from "feed";
 
 import { Announcement, Feeds } from "./types";
 
