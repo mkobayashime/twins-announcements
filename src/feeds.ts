@@ -25,10 +25,18 @@ export const generateFeed = (announcements: Announcement[]): Feeds => {
 
   return {
     rss2: feedClient.rss2(),
+    atom1: feedClient.atom1(),
+    json1: feedClient.json1(),
   };
 };
 
-export const saveFeedToFiles = async ({ rss2 }: Feeds) => {
+export const saveFeedToFiles = async ({ rss2, atom1, json1 }: Feeds) => {
   await mkdir(path.resolve("dist"), { recursive: true });
-  await writeFile(path.resolve("dist", "twins-announcements.rss"), rss2);
+
+  await writeFile(path.resolve("dist", "twins-announcements-rss2.xml"), rss2);
+  await writeFile(path.resolve("dist", "twins-announcements-atom1.xml"), atom1);
+  await writeFile(
+    path.resolve("dist", "twins-announcements-json1.json"),
+    json1,
+  );
 };
