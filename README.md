@@ -8,9 +8,9 @@ TWINS の「在学生へのお知らせ」を定期的にスクレイピング�
 
 ## 各形式のフィード
 
-- [RSS](https://raw.githubusercontent.com/mkobayashime/twins-announcements/dist/twins-announcements-rss2.xml)
-- [Atom](https://raw.githubusercontent.com/mkobayashime/twins-announcements/dist/twins-announcements-atom1.xml)
-- [JSON Feed](https://raw.githubusercontent.com/mkobayashime/twins-announcements/dist/twins-announcements-json1.json)
+- [RSS](https://mkobayashime.github.io/twins-announcements/twins-announcements-rss2.xml)
+- [Atom](https://mkobayashime.github.io/twins-announcements/twins-announcements-atom1.xml)
+- [JSON Feed](https://mkobayashime.github.io/twins-announcements/twins-announcements-json1.json)
 
 ## 特徴
 
