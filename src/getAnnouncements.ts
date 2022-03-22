@@ -28,7 +28,7 @@ const getAnnouncementBody = async (
       if (!text) throw new Error("Announcement text not found");
 
       return {
-        text,
+        text: text.length < 200 ? text : text.slice(0, 200) + "…",
         url: "https://twins.tsukuba.ac.jp/campusweb/" + iFrameSrc,
       };
     });
