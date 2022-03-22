@@ -4,7 +4,10 @@ import { generateFeed, saveFeedToFiles } from "./feeds";
 import { getAnnouncements } from "./getAnnouncements";
 
 const HEADLESS = process.env.HEADLESS === "true";
-const FEED_ITEMS_NUMBER = 20;
+const NANABLE_FEED_ITEMS_NUMBER = parseInt(process.env.FEED_ITEMS_NUMBER ?? "");
+const FEED_ITEMS_NUMBER = isNaN(NANABLE_FEED_ITEMS_NUMBER)
+  ? 20
+  : NANABLE_FEED_ITEMS_NUMBER;
 const TWINS_ROOT_URL = "https://twins.tsukuba.ac.jp/campusweb/campusportal.do";
 
 const main = async () => {
