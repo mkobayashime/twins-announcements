@@ -123,7 +123,12 @@ export const getAnnouncements = async ({
       const parsedDate = parse(`${date} 12:00`, "y/M/d H:mm", new Date());
 
       const anchorElement = await announcementItem.$("a");
+      if (!anchorElement) {
+        throw new Error("Anchor element for an announcement not found");
+      }
+
       await anchorElement?.click();
+
       await page.waitForTimeout(1000);
       await waitForAnnouncementToBeLoaded({ page });
 
