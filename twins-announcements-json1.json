@@ -5,6 +5,20 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "a473755e588cb5f21db7452731cf1c5b",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=2929",
+            "title": "【通知】更新作業に伴うe-ラーニング「INFOSS情報倫理」の停止について／[Notice] About suspension of \"INFOSS information ethics\"...",
+            "summary": "(日本語)\n\n年度更新作業のため下記期間にe-ラーニング「INFOSS情報倫理」(manaba)を停止いたします。\n\n　記\n\n期間：2022年3月28日(月)～4月1日(金)\n\n※上記期間でもmanabaへはログイン可能です。\nログインできない場合はmanabaサポートデスク（support-manaba@ecloud.tsukuba.ac.jp）\nにご連絡ください。\n\n\n情報環境機構\n学術情報部…",
+            "date_modified": "2022-03-23T03:00:00.000Z"
+        },
+        {
+            "id": "2c72d596c0e31a2fd099ea9237d5de08",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=2928",
+            "title": "就職支援講座【公務員関係】公務員試験ガイダンス",
+            "summary": "対象：2023年実施公務員試験受験予定者\n日時：4/13（水）14:00-15:30　オンラインライブにて実施\n申込締切：4/12（火）12:00\n申込方法：就職課WEBの「ガイダンス等及び模擬試験登録・申請」から。\n内容：\n・公務員試験の概要と試験対策。公務員の種類と仕事。学内講座の案内。\n・質疑応答\n・公務員インターンシップ申込に関する注意点\n\n詳細は就職課ＷＥＢをご覧ください。\n",
+            "date_modified": "2022-03-23T03:00:00.000Z"
+        },
+        {
             "id": "8146e2587ee068dfda6fcfbb2edccb3e",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=2927",
             "title": "「模擬株式投資コンテスト勉強会」参加者募集のお知らせ",
@@ -50,7 +64,7 @@
             "id": "1f374e29a0391258333b88263901aab1",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=2914",
             "title": "スーツ等の割引サービスについて（3月16日更新）",
-            "summary": "茨城県の小中学校と連携して、外国にルーツのある子どもたちの日本語学習や教科学習のサポートをする「日本語サポーター」を募集します。 授業の空き時間を利用して、好きな時に好きな頻度で活動することができ、各自の活動時間に応じて単位認定されます。\n\n日本語サポーターになるためには、下記の授業を履修してください。\n学類や専門は問いません。基礎的な知識やスキルを身につけるところからスタートします。\n\n　■ 集…",
+            "summary": "本学は紳士服の大手4社と契約しています。\nそのため、在学生とそのご家族の皆様には、全国のAOKI、コナカ、はるやま、洋服の青山で、通常の割引価格から更に割引いた価格でスーツ等をご購入いただけます。\n大変お得ですので、是非ご利用ください。\n※ご購入いただいた金額の一部が大学に寄附されます。",
             "date_modified": "2022-03-16T03:00:00.000Z"
         },
         {
@@ -129,20 +143,6 @@
             "title": "公開セミナー動画公開のお知らせ",
             "summary": "第46回ASIP/TG⁺公開セミナー【『逸脱者』が歩む国際協力のキャリアとは：20年間の】キャリアパスを振り返って】\n\n2月18日に開催しましたセミナーの動画を公開しています。\n視聴方法：ｍanabaの「マイページ」右側にある「自己登録」欄の「コースを検索して登録」から、\nコースコード：xx21149\nまたは\nコース名：2021年度【ASIP/TG⁺公開セミナー】\nで検索、登録後、コンテンツ内の「…",
             "date_modified": "2022-03-04T03:00:00.000Z"
-        },
-        {
-            "id": "c658e513f6471d9376efcedb71b190fc",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=2924",
-            "title": "筑波大学山岳科学センターシンポジウム 「草原のつながり　～人と自然が織りなす歴史遺産～」",
-            "summary": "筑波大学山岳科学センターシンポジウム 「草原のつながり　～人と自然が織りなす歴史遺産～」\n\nURL：\nhttps://msc.tsukuba.ac.jp/news20220225/\n\n本文：\nこちらのシンポジウム（オンライン＋会場）の参加者を募集しています。\n\n草原は、人と自然のつながりによって歴史的に維持されてきた自然であり、豊かな生態系が形成されています。そうしたつながりから、私達の社会や文化…",
-            "date_modified": "2022-03-02T03:00:00.000Z"
-        },
-        {
-            "id": "c658e513f6471d9376efcedb71b190fc",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=2923",
-            "title": "筑波大学山岳科学センターシンポジウム 「草原のつながり　～人と自然が織りなす歴史遺産～」",
-            "summary": "筑波大学山岳科学センターシンポジウム 「草原のつながり　～人と自然が織りなす歴史遺産～」\n\nURL：\nhttps://msc.tsukuba.ac.jp/news20220225/\n\n本文：\nこちらのシンポジウム（オンライン＋会場）の参加者を募集しています。\n\n草原は、人と自然のつながりによって歴史的に維持されてきた自然であり、豊かな生態系が形成されています。そうしたつながりから、私達の社会や文化…",
-            "date_modified": "2022-03-02T03:00:00.000Z"
         }
     ]
 }
