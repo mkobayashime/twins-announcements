@@ -1,2 +1,3 @@
 export HEADLESS=true
+export FORCE_FULL_FETCH=true
 export FEED_ITEMS_NUMBER=2
