@@ -4,7 +4,7 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Wed, 23 Mar 2022 11:01:16 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 23 Mar 2022 15:10:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
@@ -65,16 +65,6 @@
 超える大規模なクラスターが発生しています。
 この状況を危惧し、茨城県から本学における感染防止対策の更なる強化について指導がありました。
 このことを踏まえ、本学では大学全体として感染の拡大を防止するため、３月１９日から添…]]></description>
-        </item>
-        <item>
-            <title><![CDATA[【お知らせ】次世代研究者挑戦的研究プログラム研究発表会について]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=2925</link>
-            <guid>a5fcc66e2a0d458d50ecf3978be2f4dd</guid>
-            <pubDate>Fri, 18 Mar 2022 03:00:00 GMT</pubDate>
-            <description><![CDATA[　3月22日（火）・23日（水）の2日間に渡り、次世代研究者挑戦的研究プログラム等の研究支援プログラムに採用された大学院生の研究発表会を別添のとおり開催します。
-　2日間で300件以上のポスター掲出を予定していますので、大学院生の研究成果をご覧に会場にお越しください。
-
-※各開催日に掲出されるポスターの研究課題は別添の「研究発表会研究課題一覧」をご覧ください。]]></description>
         </item>
         <item>
             <title><![CDATA[【開催案内】社会学類主催就職相談会]]></title>
@@ -236,6 +226,21 @@ As you may know, IBARAKI announced the extensi…]]></description>
 または
 コース名：2021年度【ASIP/TG⁺公開セミナー】
 で検索、登録後、コンテンツ内の「…]]></description>
+        </item>
+        <item>
+            <title><![CDATA[筑波大学山岳科学センターシンポジウム 「草原のつながり　～人と自然が織りなす歴史遺産～」]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=2924</link>
+            <guid>c658e513f6471d9376efcedb71b190fc</guid>
+            <pubDate>Wed, 02 Mar 2022 03:00:00 GMT</pubDate>
+            <description><![CDATA[筑波大学山岳科学センターシンポジウム 「草原のつながり　～人と自然が織りなす歴史遺産～」
+
+URL：
+https://msc.tsukuba.ac.jp/news20220225/
+
+本文：
+こちらのシンポジウム（オンライン＋会場）の参加者を募集しています。
+
+草原は、人と自然のつながりによって歴史的に維持されてきた自然であり、豊かな生態系が形成されています。そうしたつながりから、私達の社会や文化…]]></description>
         </item>
     </channel>
 </rss>
