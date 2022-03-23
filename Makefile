@@ -4,9 +4,6 @@ install:
 run: install
 	yarn ts-node src/index.ts
 
-run.headless: install
-	HEADLESS=true yarn ts-node src/index.ts
-
 lint: install
 	yarn eslint .
 

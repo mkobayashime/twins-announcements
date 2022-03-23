@@ -32,6 +32,7 @@ jobs:
     runs-on: ubuntu-latest
     timeout-minutes: 30
     env:
+      HEADLESS: true
       FEED_ITEMS_NUMBER: 2
     steps:
       - uses: actions/checkout@v3
@@ -46,4 +47,4 @@ jobs:
       - name: Install dependencies
         run: yarn --frozen-lockfile
       - name: Run
-        run: make run.headless
+        run: make run
