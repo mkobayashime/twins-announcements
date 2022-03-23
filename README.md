@@ -25,3 +25,21 @@ twins-announcements は [puppeteer](https://github.com/puppeteer/puppeteer) を�
 私は利用に伴って発生したいかなる損害にも責任を負いませんので、あらかじめご了承ください
 
 また、事情により一時的/恒久的に提供を取りやめる可能性があります
+
+## Development
+
+```sh
+make run #実行
+```
+
+以下の環境変数を設定することで実行時の挙動を調整することができます
+
+`.envrc.sample` を `.envrc` にコピーし、[direnv](https://github.com/direnv/direnv) などを用いて load するのがおすすめです
+
+| name                | description                                                              |
+| ------------------- | ------------------------------------------------------------------------ |
+| `HEADLESS`          | puppeteer をヘッドレスで実行するか                                       |
+| `FORCE_FULL_FETCH`  | 最新のお知らせが前回実行時と変わっていない場合にも処理をスキップしないか |
+| `FEED_ITEMS_NUMBER` | 取得するお知らせの最大数                                                 |
+
+設定する値については `.envrc.sample` や `src/index.ts` などを参照ください
