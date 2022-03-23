@@ -21,3 +21,6 @@ typecheck: install
 
 typecheck.watch: install
 	yarn tsc --noEmit --watch
+
+clear: install
+	yarn rimraf dist
