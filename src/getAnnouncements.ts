@@ -129,7 +129,7 @@ export const getAnnouncements = async ({
 
       await anchorElement?.click();
 
-      await page.waitForTimeout(1000);
+      await page.waitForTimeout(2000);
       await waitForAnnouncementToBeLoaded({ page });
 
       announcements.push({
