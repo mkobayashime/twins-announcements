@@ -1,11 +1,8 @@
 on:
-  push:
-    branches:
-      - main
   schedule:
-    - cron: "0 */1 * * *"
+    - cron: "0 9/6 * * *"
 
-name: Deploy
+name: Deploy - Force full fetch
 
 env:
   TZ: Asia/Tokyo
@@ -17,12 +14,9 @@ jobs:
     timeout-minutes: 30
     env:
       HEADLESS: true
+      FORCE_FULL_FETCH: true
     steps:
       - uses: actions/checkout@v3
-      - uses: actions/checkout@v3
-        with:
-          ref: dist
-          path: dist
       - name: Use Node.js
         uses: actions/setup-node@v3
         with:
