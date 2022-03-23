@@ -1,3 +1,4 @@
+import * as O from "fp-ts/Option";
 import puppeteer from "puppeteer";
 
 import { generateFeed, saveFeedToFiles } from "./feeds";
@@ -5,6 +6,7 @@ import { getAnnouncements } from "./getAnnouncements";
 import { saveLatestAnnouncementTitle } from "./saveLatestAnnouncementTitle";
 
 const HEADLESS = process.env.HEADLESS === "true";
+const FORCE_FULL_FETCH = process.env.FORCE_FULL_FETCH === "true";
 const NANABLE_FEED_ITEMS_NUMBER = parseInt(process.env.FEED_ITEMS_NUMBER ?? "");
 const FEED_ITEMS_NUMBER = isNaN(NANABLE_FEED_ITEMS_NUMBER)
   ? 20
@@ -29,17 +31,21 @@ const main = async () => {
 
   const announcements = await getAnnouncements({
     page,
+    FORCE_FULL_FETCH,
     FEED_ITEMS_NUMBER,
     TWINS_ROOT_URL,
   });
-  if (!announcements.length) throw new Error("No announcements found");
 
   await browser.close();
 
-  const feeds = generateFeed(announcements);
-  await saveFeedToFiles(feeds);
+  if (O.isSome(announcements)) {
+    if (!announcements.value.length) throw new Error("No announcements found");
 
-  await saveLatestAnnouncementTitle(announcements);
+    const feeds = generateFeed(announcements.value);
+    await saveFeedToFiles(feeds);
+
+    await saveLatestAnnouncementTitle(announcements.value);
+  }
 
   global.clearTimeout(timeout);
 };
