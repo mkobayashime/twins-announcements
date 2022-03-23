@@ -1,7 +1,9 @@
 import { parse } from "date-fns";
+import * as O from "fp-ts/Option";
 import md5 from "md5";
 import puppeteer, { ElementHandle } from "puppeteer";
 
+import { getLatestAnnouncementTitle } from "./getLatestAnnouncementTitle";
 import type { Announcement } from "./types";
 
 const getAnnouncementBody = async (
@@ -41,13 +43,15 @@ const getAnnouncementBody = async (
 
 export const getAnnouncements = async ({
   page,
+  FORCE_FULL_FETCH,
   FEED_ITEMS_NUMBER,
   TWINS_ROOT_URL,
 }: {
   page: puppeteer.Page;
+  FORCE_FULL_FETCH: boolean;
   FEED_ITEMS_NUMBER: number;
   TWINS_ROOT_URL: string;
-}): Promise<Announcement[]> => {
+}): Promise<O.Option<Announcement[]>> => {
   const announcements: Announcement[] = [];
 
   const waitForAnnouncementToBeLoaded = async ({
@@ -91,8 +95,10 @@ export const getAnnouncements = async ({
   const announcementItems = await page.$$("#keiji-portlet tr");
   const recentAnnouncementItems = announcementItems.slice(0, FEED_ITEMS_NUMBER);
 
+  const latestAnnouncementTitle = await getLatestAnnouncementTitle();
+
   try {
-    for (const announcementItem of recentAnnouncementItems) {
+    for (const [index, announcementItem] of recentAnnouncementItems.entries()) {
       const { title, date } = await page.evaluate((trElement: HTMLElement) => {
         const title = trElement.querySelector("a")?.innerText;
         if (!title) throw new Error("Title not found");
@@ -117,6 +123,16 @@ export const getAnnouncements = async ({
         };
       }, announcementItem);
 
+      if (
+        !FORCE_FULL_FETCH &&
+        index === 0 &&
+        O.isSome(latestAnnouncementTitle) &&
+        latestAnnouncementTitle.value === title
+      ) {
+        console.log("Full fetch skipped");
+        return O.none;
+      }
+
       /**
        * Published time is not shown in TWINS, so assume it's noon JST
        */
@@ -140,9 +156,9 @@ export const getAnnouncements = async ({
       });
     }
 
-    return announcements;
+    return O.some(announcements);
   } catch (err) {
     console.error(err);
-    return [];
+    return O.some([]);
   }
 };

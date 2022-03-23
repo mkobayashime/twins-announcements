@@ -33,6 +33,7 @@ jobs:
     timeout-minutes: 30
     env:
       HEADLESS: true
+      FORCE_FULL_FETCH: true
       FEED_ITEMS_NUMBER: 2
     steps:
       - uses: actions/checkout@v3
