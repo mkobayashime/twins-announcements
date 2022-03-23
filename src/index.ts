@@ -2,6 +2,7 @@ import puppeteer from "puppeteer";
 
 import { generateFeed, saveFeedToFiles } from "./feeds";
 import { getAnnouncements } from "./getAnnouncements";
+import { saveLatestAnnouncementTitle } from "./saveLatestAnnouncementTitle";
 
 const HEADLESS = process.env.HEADLESS === "true";
 const NANABLE_FEED_ITEMS_NUMBER = parseInt(process.env.FEED_ITEMS_NUMBER ?? "");
@@ -37,6 +38,8 @@ const main = async () => {
 
   const feeds = generateFeed(announcements);
   await saveFeedToFiles(feeds);
+
+  await saveLatestAnnouncementTitle(announcements);
 
   global.clearTimeout(timeout);
 };
