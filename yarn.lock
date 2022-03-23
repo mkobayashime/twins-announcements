@@ -785,7 +785,7 @@ flatted@^3.1.0:
   resolved "https://registry.yarnpkg.com/flatted/-/flatted-3.2.1.tgz#bbef080d95fca6709362c73044a1634f7c6e7d05"
   integrity sha512-OMQjaErSFHmHqZe+PSidH5n8j3O0F2DdnVh8JB4j4eUQ2k6KvB0qGfrKIhapvez5JerBbmWkaLYUYWISaESoXg==
 
-fp-ts@^2.11.9:
+fp-ts@2.11.9:
   version "2.11.9"
   resolved "https://registry.yarnpkg.com/fp-ts/-/fp-ts-2.11.9.tgz#bbc204e0932954b59c98a282635754a4b624a05e"
   integrity sha512-GhYlNKkCOfdjp71ocdtyaQGoqCswEoWDJLRr+2jClnBBq2dnSOtd6QxmJdALq8UhfqCyZZ0f0lxadU4OhwY9nw==
