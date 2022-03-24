@@ -36,10 +36,10 @@ make run #実行
 
 `.envrc.sample` を `.envrc` にコピーし、[direnv](https://github.com/direnv/direnv) などを用いて load するのがおすすめです
 
-| name                | description                                                              |
-| ------------------- | ------------------------------------------------------------------------ |
-| `HEADLESS`          | puppeteer をヘッドレスで実行するか                                       |
-| `FORCE_FULL_FETCH`  | 最新のお知らせが前回実行時と変わっていない場合にも処理をスキップしないか |
-| `FEED_ITEMS_NUMBER` | 取得するお知らせの最大数                                                 |
+| name                | description                                                                     |
+| ------------------- | ------------------------------------------------------------------------------- |
+| `HEADLESS`          | `true` の場合 puppeteer をヘッドレスで実行する                                  |
+| `FORCE_FULL_FETCH`  | `true` の場合最新のお知らせが前回実行時と変わっていなくても処理をスキップしない |
+| `FEED_ITEMS_NUMBER` | 取得するお知らせの最大数                                                        |
 
 設定する値については `.envrc.sample` や `src/index.ts` などを参照ください
