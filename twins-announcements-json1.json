@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "d19696cfda1d90b1db8bee9536f7532b",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=2933",
+            "title": "世界を変えよう基金「ヨーロッパ絵画を楽しむ会」開催のお知らせ",
+            "summary": "筑波大学「世界を変えよう基金」では、「ヨーロッパ絵画を楽しむ会」を４月24日から隔週日曜日20時にZoom上で開催します（8月前半まで9回開催予定）。\n\n初期ルネサンスから１9世紀初頭までのヨーロッパ絵画の主要作品を、キリスト教絵画、ギリシア・ローマ神話画、肖像画、風景画、静物画、風俗画のジャンル別に鑑賞します。各作品について基本的な情報は提供しますが、参加メンバーがこれらの作品から感じることを自…",
+            "date_modified": "2022-03-25T03:00:00.000Z"
+        },
+        {
             "id": "63428c4fba0f5d4440f7854178966797",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=2932",
             "title": "【開催案内】コンサルティング・地方Uターン・ベンチャー、就職相談会 （再掲）",
@@ -136,13 +143,6 @@
             "title": "本日19時　【J-Chat～にほんごではなそ～】2021秋の陣／オンライン日本語会話イベント！",
             "summary": "「J-Chat～にほんごではなそ～」は、本学留学生や日本語を学習する協定校の学生と筑波大学の学生を結ぶ、日本語チャットイベントです。\n日本語での会話を練習したい方（初心者歓迎！）はもちろん、留学生と友達になりたい！国際交流に興味がある友達がほしい！と思っている日本人学生の皆さんも是非参加してください！\n※日本語を教えるイベントではありません\nイベント詳細：https://ssc.sec.tsuku…",
             "date_modified": "2022-03-08T03:00:00.000Z"
-        },
-        {
-            "id": "437f402d9066e0a0b00364940eafaae5",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=2898",
-            "title": "まん防延長に伴う課外活動の自粛について（要請延長）/ Updated Guidelines from IBARAKI",
-            "summary": "茨城県から３月４日に発表された「まん延防止重点措置の再延長について」に伴い、本学では２月１８日付で発出した課外活動に関する自粛要請の内容を、３月２１日まで延長します。\n\nThank you for your continued cooperation with the COVID-19 measures.\nAs you may know, IBARAKI announced the extensi…",
-            "date_modified": "2022-03-07T03:00:00.000Z"
         }
     ]
 }
