@@ -4,7 +4,7 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Sun, 27 Mar 2022 09:08:47 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 27 Mar 2022 15:09:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
@@ -133,18 +133,6 @@
 　ま…]]></description>
         </item>
         <item>
-            <title><![CDATA[【単位認定】日本語サポーター募集！（TWINS締切3/18）]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=2915</link>
-            <guid>10782f93575eea384b6d0ead8d34b1e5</guid>
-            <pubDate>Wed, 16 Mar 2022 03:00:00 GMT</pubDate>
-            <description><![CDATA[茨城県の小中学校と連携して、外国にルーツのある子どもたちの日本語学習や教科学習のサポートをする「日本語サポーター」を募集します。 授業の空き時間を利用して、好きな時に好きな頻度で活動することができ、各自の活動時間に応じて単位認定されます。
-
-日本語サポーターになるためには、下記の授業を履修してください。
-学類や専門は問いません。基礎的な知識やスキルを身につけるところからスタートします。
-
-　■ 集…]]></description>
-        </item>
-        <item>
             <title><![CDATA[スーツ等の割引サービスについて（3月16日更新）]]></title>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=2914</link>
             <guid>1f374e29a0391258333b88263901aab1</guid>
@@ -237,6 +225,20 @@ As you may know, IBARAKI announced the extensi…]]></description>
 納付されないときは、本学学則による除籍処分となります。
 
 ※本掲示は全ての学生・教員に通知しております。]]></description>
+        </item>
+        <item>
+            <title><![CDATA[公開セミナー動画公開のお知らせ]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=2894</link>
+            <guid>dbcdec120fce15249e6194250a1704a9</guid>
+            <pubDate>Fri, 04 Mar 2022 03:00:00 GMT</pubDate>
+            <description><![CDATA[第46回ASIP/TG⁺公開セミナー【『逸脱者』が歩む国際協力のキャリアとは：20年間の】キャリアパスを振り返って】
+
+2月18日に開催しましたセミナーの動画を公開しています。
+視聴方法：ｍanabaの「マイページ」右側にある「自己登録」欄の「コースを検索して登録」から、
+コースコード：xx21149
+または
+コース名：2021年度【ASIP/TG⁺公開セミナー】
+で検索、登録後、コンテンツ内の「…]]></description>
         </item>
     </channel>
 </rss>
