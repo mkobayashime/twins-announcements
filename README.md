@@ -29,7 +29,7 @@ twins-announcements は [puppeteer](https://github.com/puppeteer/puppeteer) を�
 ## Development
 
 ```sh
-make run #実行
+make run # 実行
 ```
 
 以下の環境変数を設定することで実行時の挙動を調整することができます
