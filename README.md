@@ -4,6 +4,8 @@ TWINS の「在学生へのお知らせ」を定期的にスクレイピング�
 
 更新時の通知を受け取るには、各種フィードリーダーで購読するほか、Slack の [RSS App](https://slack.com/apps/A0F81R7U7-rss) を用いてチャンネルに転送するのがおすすめです
 
+![Slack チャンネルへの転送イメージ](./img/sample-round-shadow.png)
+
 ## 各形式のフィード
 
 - [RSS](https://mkobayashime.github.io/twins-announcements/twins-announcements-rss2.xml)
