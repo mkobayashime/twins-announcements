@@ -5,6 +5,20 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "fac5fc2b24a465f1934ec8d855b761e7",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=2935",
+            "title": "チューター募集について",
+            "summary": "2022年4月に多くの留学生が入学する予定です。\n(実際の入学時期については、コロナ禍の影響により変更となる場合があります。)\nこれに伴い、チューター支援（主に生活の立ち上げ支援、必要に応じてオンライン支援も可）を必要とするケースも増加する見込みです。\n本学においては、チューターバンク制度を2020年度より運用開始しており、チューターに興味があるが、周りに留学生がおらず、チューターの依頼が見込まれ…",
+            "date_modified": "2022-03-29T03:00:00.000Z"
+        },
+        {
+            "id": "27c549b8edc5db56a36fdf8c1d3a45a2",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=2934",
+            "title": "5/14(土)・6/18(土) 5年一貫制博士課程「ヒューマニクス学位プログラム」入試説明会／オンサイト＆Zoomハイブリッド開催",
+            "summary": "学類生の皆さまへ\n\n「生命医科学」×「理・工・情報学」\n5年一貫制博士課程 ヒューマニクス学位プログラム\n完全ダブルメンター制のもと、2つの研究室に所属して独創的な融合研究を目指しませんか？\n★2023年以降の受験をお考えの方もお気軽にお問合せください★\n\nPh.D. Program in Humanics (5-year Doctoral Program)\nBriefing Session fo…",
+            "date_modified": "2022-03-29T03:00:00.000Z"
+        },
+        {
             "id": "d19696cfda1d90b1db8bee9536f7532b",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=2933",
             "title": "世界を変えよう基金「ヨーロッパ絵画を楽しむ会」開催のお知らせ",
@@ -129,20 +143,6 @@
             "title": "まん防延長に伴う課外活動の自粛について（要請延長）/ Updated Guidelines from IBARAKI",
             "summary": "茨城県から３月４日に発表された「まん延防止重点措置の再延長について」に伴い、本学では２月１８日付で発出した課外活動に関する自粛要請の内容を、３月２１日まで延長します。\n\nThank you for your continued cooperation with the COVID-19 measures.\nAs you may know, IBARAKI announced the extensi…",
             "date_modified": "2022-03-07T03:00:00.000Z"
-        },
-        {
-            "id": "f52371a75d87ea22c03fadbc3f4ebd80",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=2895",
-            "title": "【重要】2021年度授業料の納入督促について",
-            "summary": "2021年度分授業料未納者は、「払込取扱票」が送付されているので、再度確認の上、速やかに金融機関窓口にて納付されるようお願いします。\n納付されないときは、本学学則による除籍処分となります。\n\n※本掲示は全ての学生・教員に通知しております。",
-            "date_modified": "2022-03-04T03:00:00.000Z"
-        },
-        {
-            "id": "dbcdec120fce15249e6194250a1704a9",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=2894",
-            "title": "公開セミナー動画公開のお知らせ",
-            "summary": "第46回ASIP/TG⁺公開セミナー【『逸脱者』が歩む国際協力のキャリアとは：20年間の】キャリアパスを振り返って】\n\n2月18日に開催しましたセミナーの動画を公開しています。\n視聴方法：ｍanabaの「マイページ」右側にある「自己登録」欄の「コースを検索して登録」から、\nコースコード：xx21149\nまたは\nコース名：2021年度【ASIP/TG⁺公開セミナー】\nで検索、登録後、コンテンツ内の「…",
-            "date_modified": "2022-03-04T03:00:00.000Z"
         }
     ]
 }

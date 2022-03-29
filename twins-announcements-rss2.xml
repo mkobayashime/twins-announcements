@@ -4,10 +4,35 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Mon, 28 Mar 2022 21:08:55 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 29 Mar 2022 02:25:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
+        <item>
+            <title><![CDATA[チューター募集について]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=2935</link>
+            <guid>fac5fc2b24a465f1934ec8d855b761e7</guid>
+            <pubDate>Tue, 29 Mar 2022 03:00:00 GMT</pubDate>
+            <description><![CDATA[2022年4月に多くの留学生が入学する予定です。
+(実際の入学時期については、コロナ禍の影響により変更となる場合があります。)
+これに伴い、チューター支援（主に生活の立ち上げ支援、必要に応じてオンライン支援も可）を必要とするケースも増加する見込みです。
+本学においては、チューターバンク制度を2020年度より運用開始しており、チューターに興味があるが、周りに留学生がおらず、チューターの依頼が見込まれ…]]></description>
+        </item>
+        <item>
+            <title><![CDATA[5/14(土)・6/18(土) 5年一貫制博士課程「ヒューマニクス学位プログラム」入試説明会／オンサイト＆Zoomハイブリッド開催]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=2934</link>
+            <guid>27c549b8edc5db56a36fdf8c1d3a45a2</guid>
+            <pubDate>Tue, 29 Mar 2022 03:00:00 GMT</pubDate>
+            <description><![CDATA[学類生の皆さまへ
+
+「生命医科学」×「理・工・情報学」
+5年一貫制博士課程 ヒューマニクス学位プログラム
+完全ダブルメンター制のもと、2つの研究室に所属して独創的な融合研究を目指しませんか？
+★2023年以降の受験をお考えの方もお気軽にお問合せください★
+
+Ph.D. Program in Humanics (5-year Doctoral Program)
+Briefing Session fo…]]></description>
+        </item>
         <item>
             <title><![CDATA[世界を変えよう基金「ヨーロッパ絵画を楽しむ会」開催のお知らせ]]></title>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=2933</link>
@@ -215,30 +240,6 @@ This chat p…]]></description>
 
 Thank you for your continued cooperation with the COVID-19 measures.
 As you may know, IBARAKI announced the extensi…]]></description>
-        </item>
-        <item>
-            <title><![CDATA[【重要】2021年度授業料の納入督促について]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=2895</link>
-            <guid>f52371a75d87ea22c03fadbc3f4ebd80</guid>
-            <pubDate>Fri, 04 Mar 2022 03:00:00 GMT</pubDate>
-            <description><![CDATA[2021年度分授業料未納者は、「払込取扱票」が送付されているので、再度確認の上、速やかに金融機関窓口にて納付されるようお願いします。
-納付されないときは、本学学則による除籍処分となります。
-
-※本掲示は全ての学生・教員に通知しております。]]></description>
-        </item>
-        <item>
-            <title><![CDATA[公開セミナー動画公開のお知らせ]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=2894</link>
-            <guid>dbcdec120fce15249e6194250a1704a9</guid>
-            <pubDate>Fri, 04 Mar 2022 03:00:00 GMT</pubDate>
-            <description><![CDATA[第46回ASIP/TG⁺公開セミナー【『逸脱者』が歩む国際協力のキャリアとは：20年間の】キャリアパスを振り返って】
-
-2月18日に開催しましたセミナーの動画を公開しています。
-視聴方法：ｍanabaの「マイページ」右側にある「自己登録」欄の「コースを検索して登録」から、
-コースコード：xx21149
-または
-コース名：2021年度【ASIP/TG⁺公開セミナー】
-で検索、登録後、コンテンツ内の「…]]></description>
         </item>
     </channel>
 </rss>
