@@ -5,6 +5,20 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "765d6cbc99ed619fb9a8ab2285da9b0b",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=2938",
+            "title": "Designing and Running Randomized Evaluations (ランダム化比較評価手法)に関する勉強会参加者募集",
+            "summary": "筑波大学「世界を変えよう基金」では、社会科学、自然科学で多用されているRCT(Randomized Controlled Trial) を途上国の現場で活用する勉強会を４月21日（木）から開催します。\n\n勉強会は毎週木曜日20時から約90分です（12月まで約30回)。教材はMITのオンライン講義ビデオ(英語、字幕付き)、ファシリテイターは途上国及び米国でRCTを活用している実務家です。\n\n途上国の…",
+            "date_modified": "2022-03-30T03:00:00.000Z"
+        },
+        {
+            "id": "88373f43259ea12909fb8220490d8682",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=2937",
+            "title": "Study Group on “Designing and Running Randomized Evaluations”",
+            "summary": "Tsukuba University’s “Make a Difference in the World Fund” is seeking participants for a new study group on “Designing and Running Randomized Evaluations”, which will discuss how to design and run the…",
+            "date_modified": "2022-03-30T03:00:00.000Z"
+        },
+        {
             "id": "0cb22633bf310402550ac9b05dfbc908",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=2936",
             "title": "【連絡】課外活動団体への第三エリアの教室の貸出について",
@@ -129,20 +143,6 @@
             "title": "[3/31 15:00-] 第8回ICR/DDPI共同セミナー「誰の平等か？：無国籍研究、ポスト・アントロポセン研究の経験から」",
             "summary": "人文社会系山本英弘研究室では、格差・不平等の政策的解決、そのためのデジタル技術の可能性（デジタル民主主義）などをテーマとしつつセミナー・シリーズを断続的に開催しております。\nhttps://ddpi.icrhs.tsukuba.ac.jp/topics/528/\n\n第8回は秋山肇助教にご講演いただきます。\n\n秋山氏は、国際移民・難民保護、無国籍者問題をめぐる法律学的研究から、ポスト・アントロポセン…",
             "date_modified": "2022-03-11T03:00:00.000Z"
-        },
-        {
-            "id": "ecc9b2e5aee003001df9dbdda30f6434",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=2900",
-            "title": "TODAY!【Online Japanese Chat Event】 J-Chat～にほんごではなそ～2021 Winter",
-            "summary": "「J-Chat～にほんごではなそ～」 is a program where international and domestic students of the University of Tsukuba and students from partner universities who are studying Japanese to meet and mingle.\n\nThis chat p…",
-            "date_modified": "2022-03-08T03:00:00.000Z"
-        },
-        {
-            "id": "e49aab94cc24401d16f9b9ba92b06f17",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=2899",
-            "title": "本日19時　【J-Chat～にほんごではなそ～】2021秋の陣／オンライン日本語会話イベント！",
-            "summary": "「J-Chat～にほんごではなそ～」は、本学留学生や日本語を学習する協定校の学生と筑波大学の学生を結ぶ、日本語チャットイベントです。\n日本語での会話を練習したい方（初心者歓迎！）はもちろん、留学生と友達になりたい！国際交流に興味がある友達がほしい！と思っている日本人学生の皆さんも是非参加してください！\n※日本語を教えるイベントではありません\nイベント詳細：https://ssc.sec.tsuku…",
-            "date_modified": "2022-03-08T03:00:00.000Z"
         }
     ]
 }
