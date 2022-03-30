@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "0cb22633bf310402550ac9b05dfbc908",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=2936",
+            "title": "【連絡】課外活動団体への第三エリアの教室の貸出について",
+            "summary": "第三エリアの特定の教室について、令和4年4月11日（月）から課外活動団体への貸出を再開いたします。\n教室を利用したい団体は、添付の資料をご確認の上、システム情報エリア支援室において申請してください。",
+            "date_modified": "2022-03-30T03:00:00.000Z"
+        },
+        {
             "id": "fac5fc2b24a465f1934ec8d855b761e7",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=2935",
             "title": "チューター募集について",
@@ -136,13 +143,6 @@
             "title": "本日19時　【J-Chat～にほんごではなそ～】2021秋の陣／オンライン日本語会話イベント！",
             "summary": "「J-Chat～にほんごではなそ～」は、本学留学生や日本語を学習する協定校の学生と筑波大学の学生を結ぶ、日本語チャットイベントです。\n日本語での会話を練習したい方（初心者歓迎！）はもちろん、留学生と友達になりたい！国際交流に興味がある友達がほしい！と思っている日本人学生の皆さんも是非参加してください！\n※日本語を教えるイベントではありません\nイベント詳細：https://ssc.sec.tsuku…",
             "date_modified": "2022-03-08T03:00:00.000Z"
-        },
-        {
-            "id": "437f402d9066e0a0b00364940eafaae5",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=2898",
-            "title": "まん防延長に伴う課外活動の自粛について（要請延長）/ Updated Guidelines from IBARAKI",
-            "summary": "茨城県から３月４日に発表された「まん延防止重点措置の再延長について」に伴い、本学では２月１８日付で発出した課外活動に関する自粛要請の内容を、３月２１日まで延長します。\n\nThank you for your continued cooperation with the COVID-19 measures.\nAs you may know, IBARAKI announced the extensi…",
-            "date_modified": "2022-03-07T03:00:00.000Z"
         }
     ]
 }

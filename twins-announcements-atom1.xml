@@ -2,10 +2,18 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/mkobayashime/twins-announcements</id>
     <title>在学生へのお知らせ | 筑波大学</title>
-    <updated>2022-03-29T21:09:11.650Z</updated>
+    <updated>2022-03-30T05:03:44.921Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://github.com/mkobayashime/twins-announcements"/>
     <subtitle>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</subtitle>
+    <entry>
+        <title type="html"><![CDATA[【連絡】課外活動団体への第三エリアの教室の貸出について]]></title>
+        <id>0cb22633bf310402550ac9b05dfbc908</id>
+        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=2936"/>
+        <updated>2022-03-30T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[第三エリアの特定の教室について、令和4年4月11日（月）から課外活動団体への貸出を再開いたします。
+教室を利用したい団体は、添付の資料をご確認の上、システム情報エリア支援室において申請してください。]]></summary>
+    </entry>
     <entry>
         <title type="html"><![CDATA[チューター募集について]]></title>
         <id>fac5fc2b24a465f1934ec8d855b761e7</id>
@@ -228,15 +236,5 @@ This chat p…]]></summary>
 日本語での会話を練習したい方（初心者歓迎！）はもちろん、留学生と友達になりたい！国際交流に興味がある友達がほしい！と思っている日本人学生の皆さんも是非参加してください！
 ※日本語を教えるイベントではありません
 イベント詳細：https://ssc.sec.tsuku…]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[まん防延長に伴う課外活動の自粛について（要請延長）/ Updated Guidelines from IBARAKI]]></title>
-        <id>437f402d9066e0a0b00364940eafaae5</id>
-        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=2898"/>
-        <updated>2022-03-07T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[茨城県から３月４日に発表された「まん延防止重点措置の再延長について」に伴い、本学では２月１８日付で発出した課外活動に関する自粛要請の内容を、３月２１日まで延長します。
-
-Thank you for your continued cooperation with the COVID-19 measures.
-As you may know, IBARAKI announced the extensi…]]></summary>
     </entry>
 </feed>
