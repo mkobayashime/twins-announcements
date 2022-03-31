@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "b15676afd91708942e5f8163fd7ca32c",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=2939",
+            "title": "ブラジル国籍の外国人留学生で日本で働くことを希望する方へお知らせ",
+            "summary": "久光製薬株式会社から日本で働くことを希望している学生向けにお知らせがありました。\n興味のある学生は,下記の問い合わせ先に直接連絡をおとりください。\n就職課はあくまでも周知のみとなります。\n\n\n久光製薬では、グローバル展開に向けた外国人留学生の募集をしています。\n＜募集情報＞         \n・職種：国際営業企画職\n・勤務地：東京                                  …",
+            "date_modified": "2022-03-31T03:00:00.000Z"
+        },
+        {
             "id": "765d6cbc99ed619fb9a8ab2285da9b0b",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=2938",
             "title": "Designing and Running Randomized Evaluations (ランダム化比較評価手法)に関する勉強会参加者募集",
@@ -136,13 +143,6 @@
             "title": "【お知らせ】筑波大学公式オリジナルグッズECサイトついにオープン！",
             "summary": "大変長らくお待たせいたしました。\n筑波大学公式オリジナルグッズ販売サイト「TSUKUBA-SHOP」がついにオープンしました！\nTシャツやネックストラップ、マグカップなど様々な商品をお取り扱いしております。\nどうぞご覧いただき、皆様の「日常生活」、「思い出」、「プレゼント」などにご活用いただけますと幸いです。\n\nECサイトはこちら\nhttps://tsukuba-shop.com/\n※学内専用割引…",
             "date_modified": "2022-03-14T03:00:00.000Z"
-        },
-        {
-            "id": "6db70e0b680ed79f67b5398ccba87ef9",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=2907",
-            "title": "[3/31 15:00-] 第8回ICR/DDPI共同セミナー「誰の平等か？：無国籍研究、ポスト・アントロポセン研究の経験から」",
-            "summary": "人文社会系山本英弘研究室では、格差・不平等の政策的解決、そのためのデジタル技術の可能性（デジタル民主主義）などをテーマとしつつセミナー・シリーズを断続的に開催しております。\nhttps://ddpi.icrhs.tsukuba.ac.jp/topics/528/\n\n第8回は秋山肇助教にご講演いただきます。\n\n秋山氏は、国際移民・難民保護、無国籍者問題をめぐる法律学的研究から、ポスト・アントロポセン…",
-            "date_modified": "2022-03-11T03:00:00.000Z"
         }
     ]
 }
