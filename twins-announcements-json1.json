@@ -5,6 +5,34 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "2af3ac5c287ebe957aabce2a51b5ef5d",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=2943",
+            "title": "【注意喚起】学生の飲酒と事故の防止について",
+            "summary": "　例年４月は「20歳未満飲酒防止強調月間」となっています。\n\n　本学においても、毎年急性アルコール中毒にて救急搬送される案件が発生しており、中には20歳未満の飲酒の案件も発生しています。20歳未満の飲酒は、若年層の脳の機能を低下させる、アルコール依存症になりやすくなる等の理由から、法律により禁止されています。\n\n　４月は新歓等により飲酒する機会が増える時期です。20歳未満の学生には飲酒をさせない・…",
+            "date_modified": "2022-04-01T03:00:00.000Z"
+        },
+        {
+            "id": "65520a5de86992a5e18dc546ad6f07c4",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=2942",
+            "title": "【注意喚起】成年年齢引き下げに成年に達した若年者に対する周知について",
+            "summary": "　成年年齢引き下げ後の18歳、19歳の若年者の消費者被害拡大の防止等の観点から、文部科学省より通知がありましたので、お知らせいたします。\n\n　令和４年４月１日に、成年年齢を引き下げること等を内容とする民法改正法が施行されることに伴い、18歳、19歳の方が保護者の同意を得ることなく契約を結ぶことができるようになる反面、若年層を狙った詐欺等が懸念されます。\n　契約行為を行う場合には、契約書等にしっかり…",
+            "date_modified": "2022-04-01T03:00:00.000Z"
+        },
+        {
+            "id": "754030a84b3b1cd3a9796fffbcffb94f",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=2941",
+            "title": "【お知らせ】令和４年度「若年層の性暴力被害予防月間」の実施について",
+            "summary": "　性犯罪・性暴力は、被害者の尊厳を著しく踏みにじる行為であり、その心身に長期にわたり重大な悪影響を及ぼすものです。特に、10代から20代の若年層を狙った性犯罪・性暴力は、その未熟さに付け込んだ許しがたい重大な人権侵害であり、決して許されるものではありません。\n\n　令和３年度から、４月１日から４月３０日の１か月間は、「若年層の性暴力被害予防のための月間」に定められています。４月は進学や就職等に伴い、…",
+            "date_modified": "2022-04-01T03:00:00.000Z"
+        },
+        {
+            "id": "201ecc03210a5dc166e5ce7efc22da7c",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=2940",
+            "title": "【お知らせ】新年度に向けた自殺予防に係る学生等への文部科学大臣メッセージについて",
+            "summary": "　文部科学大臣からのメッセージを別紙のとおり周知いたします。\n\n○文部科学大臣メッセージ\n「不安や悩みを抱える全国の児童生徒や学生等のみなさんへ」\n　https://www.mext.go.jp/a_menu/shotou/seitoshidou/1302907.htm\n\n　４月からの新しい環境や学業について、また、自身の将来のキャリアや人間関係について悩んだり、不安を感じたときには、家族友人等の…",
+            "date_modified": "2022-04-01T03:00:00.000Z"
+        },
+        {
             "id": "b15676afd91708942e5f8163fd7ca32c",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=2939",
             "title": "ブラジル国籍の外国人留学生で日本で働くことを希望する方へお知らせ",
@@ -115,34 +143,6 @@
             "title": "スーツ等の割引サービスについて（3月16日更新）",
             "summary": "本学は紳士服の大手4社と契約しています。\nそのため、在学生とそのご家族の皆様には、全国のAOKI、コナカ、はるやま、洋服の青山で、通常の割引価格から更に割引いた価格でスーツ等をご購入いただけます。\n大変お得ですので、是非ご利用ください。\n※ご購入いただいた金額の一部が大学に寄附されます。",
             "date_modified": "2022-03-16T03:00:00.000Z"
-        },
-        {
-            "id": "98ebf05fef35756bfe5e362cacb41716",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=2911",
-            "title": "【お知らせ】筑波大学公式オリジナルグッズECサイトついにオープン！",
-            "summary": "大変長らくお待たせいたしました。\n筑波大学公式オリジナルグッズ販売サイト「TSUKUBA-SHOP」がついにオープンしました！\nTシャツやネックストラップ、マグカップなど様々な商品をお取り扱いしております。\nどうぞご覧いただき、皆様の「日常生活」、「思い出」、「プレゼント」などにご活用いただけますと幸いです。\n\nECサイトはこちら\nhttps://tsukuba-shop.com/\n※学内専用割引…",
-            "date_modified": "2022-03-14T03:00:00.000Z"
-        },
-        {
-            "id": "437f402d9066e0a0b00364940eafaae5",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=2898",
-            "title": "まん防延長に伴う課外活動の自粛について（要請延長）/ Updated Guidelines from IBARAKI",
-            "summary": "茨城県から３月４日に発表された「まん延防止重点措置の再延長について」に伴い、本学では２月１８日付で発出した課外活動に関する自粛要請の内容を、３月２１日まで延長します。\n\nThank you for your continued cooperation with the COVID-19 measures.\nAs you may know, IBARAKI announced the extensi…",
-            "date_modified": "2022-03-07T03:00:00.000Z"
-        },
-        {
-            "id": "5c78033ece940f827f18b6c79208dfa3",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=2892",
-            "title": "令和４年度全学ＴＡ研修会のお知らせ/Training Seminar for Teaching Assistants AY 2022",
-            "summary": "多くの授業に TA が関わっている現在では、TA の役割と力量がより質の高い授業を作るうえでの鍵になります。今回、教育者としての TA の役割や基本的な心構えについて理解を深めること、レポート採点支援等を目的として、TA 研修プログラムを実施します。\nTA を予定している大学院生に限らず、新規に採用された先生や授業で TA を活用される先生方など、幅広い参加をお待ちしています。\n＊研修会は日本語で…",
-            "date_modified": "2022-03-02T03:00:00.000Z"
-        },
-        {
-            "id": "870bf8964578a493f5bd9e81bff42abd",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=2891",
-            "title": "Change of Buses Routes Adopted for the Bus Pass of On-campus Transportation System [April 2022].",
-            "summary": "Effective April 1, 2022, the Bus Pass of On-campus Transportation System can only be used on the “Tsukuba Daigaku Junkan” Route.\n\nEven though you have the Bus Pass of On-campus Transportation System, …",
-            "date_modified": "2022-03-01T03:00:00.000Z"
         }
     ]
 }
