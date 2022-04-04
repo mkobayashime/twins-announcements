@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/mkobayashime/twins-announcements</id>
     <title>在学生へのお知らせ | 筑波大学</title>
-    <updated>2022-04-03T15:09:22.468Z</updated>
+    <updated>2022-04-04T00:25:51.986Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://github.com/mkobayashime/twins-announcements"/>
     <subtitle>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</subtitle>
+    <entry>
+        <title type="html"><![CDATA[【通知】2022年度版INFOSS情報倫理」の受講について ／【Notification】 Regarding participation of "INFOSS Information Ethics"]]></title>
+        <id>b2a4b26c16ccaeaaa17e44bd4f63537b</id>
+        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=2944"/>
+        <updated>2022-04-04T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[2022年度版のINFOSS情報倫理が受講可能となりました。
+受講マニュアルは、情報環境機構のサイトからもダウンロードできます。
+日本語版：https://oii.tsukuba.ac.jp/wp-content/uploads/sites/29/infoss/2022-infoss-student-detail.pdf
+
+INFOSS情報倫理は、１～５まである修了テストを順に合格した後、「情報の…]]></summary>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【注意喚起】学生の飲酒と事故の防止について]]></title>
         <id>2af3ac5c287ebe957aabce2a51b5ef5d</id>
@@ -229,15 +240,5 @@ Briefing Session fo…]]></summary>
 　　　　第1エリア中央図書館近くです
 
 ・『コロナ禍就活の実態』『人気業種の就活と働き方』『Uターン就職に関する情報の集め方』『転職の仕方』などの情報を、社会学類OB・OGが体験談として活き活きと、対面…]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[スーツ等の割引サービスについて（3月16日更新）]]></title>
-        <id>1f374e29a0391258333b88263901aab1</id>
-        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=2914"/>
-        <updated>2022-03-16T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[本学は紳士服の大手4社と契約しています。
-そのため、在学生とそのご家族の皆様には、全国のAOKI、コナカ、はるやま、洋服の青山で、通常の割引価格から更に割引いた価格でスーツ等をご購入いただけます。
-大変お得ですので、是非ご利用ください。
-※ご購入いただいた金額の一部が大学に寄附されます。]]></summary>
     </entry>
 </feed>
