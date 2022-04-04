@@ -5,6 +5,20 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "2132679876f275506d83aeb2e0383963",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=2946",
+            "title": "本学の課外活動等における当面の対応について　Guideline for Upcoming Activities / Events",
+            "summary": "本学においてクラスターが発生したことや感染者数が多かった等の状況から課外活動については自粛を要請しておりましたが、４月５日（火）から別添の副学長通知の取扱いとします。\n\nなお、新入生歓迎等での有志での集団の会食、懇親会等の自粛は強く要請するとともに、引き続き感染防止対策の徹底への協力をお願いします。\n\nDear English readers,\n\nWe appreciate your contin…",
+            "date_modified": "2022-04-04T03:00:00.000Z"
+        },
+        {
+            "id": "a68b4c291a61b69a78de5eb3a2ab124c",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=2945",
+            "title": "2022年度第1期分授業料の納付について",
+            "summary": "2022年度第1期授業料の納付について、添付の通りお知らせいたします。",
+            "date_modified": "2022-04-04T03:00:00.000Z"
+        },
+        {
             "id": "b2a4b26c16ccaeaaa17e44bd4f63537b",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=2944",
             "title": "【通知】2022年度版INFOSS情報倫理」の受講について ／【Notification】 Regarding participation of \"INFOSS Information Ethics\"",
@@ -129,20 +143,6 @@
             "title": "「模擬株式投資コンテスト勉強会」参加者募集のお知らせ",
             "summary": "筑波大学「世界を変えよう基金」では、金融literacyを学ぶ機会として「お金の超基本勉強会」「つみたてNISA投資信託勉強会」を開催していますが、その上級クラスとして「模擬株式投資コンテスト」を4月16日（土）から5か月間、隔週土曜日に開催します（20時開始）。\n\n勉強会では、株式投資に関する2冊の書籍（奥野一成著「教養としての投資」、村上世彰著「高校生に投資を教える」、各1650円）を教科書に…",
             "date_modified": "2022-03-22T03:00:00.000Z"
-        },
-        {
-            "id": "7d28ad61507e5caf32829dfa6b5e8d3c",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=2926",
-            "title": "本学での大規模クラスター発生に伴う今後の活動について / Upcoming Activities After the UT Large clusters",
-            "summary": "茨城県におけるまん延防止等重点措置は３月２１日で解除される見込みですが、本学では依然として\n学生の感染者数は増加傾向にあり、３月上旬には、複数の一般学生団体が関わる感染者数５０名を\n超える大規模なクラスターが発生しています。\nこの状況を危惧し、茨城県から本学における感染防止対策の更なる強化について指導がありました。\nこのことを踏まえ、本学では大学全体として感染の拡大を防止するため、３月１９日から添…",
-            "date_modified": "2022-03-18T03:00:00.000Z"
-        },
-        {
-            "id": "43f2709ebd5290ffca5844405f32a04b",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=2917",
-            "title": "【開催案内】社会学類主催就職相談会",
-            "summary": "社会学類主催『コンサルティング、ベンチャー・IT、地方Uターン』就職相談会\n\n・日時：3月26日（土）15：00ー18：00　\n　場所：1C210教室（当日参加者多数の場合、1H201教室に変更）\n　　　　第1エリア中央図書館近くです\n\n・『コロナ禍就活の実態』『人気業種の就活と働き方』『Uターン就職に関する情報の集め方』『転職の仕方』などの情報を、社会学類OB・OGが体験談として活き活きと、対面…",
-            "date_modified": "2022-03-18T03:00:00.000Z"
         }
     ]
 }
