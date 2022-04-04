@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "a679fcd78b977fe041b29360f2a97bfd",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=2947",
+            "title": "スーツ等の割引サービスについて（4月4日更新）",
+            "summary": "本学は紳士服の大手4社と契約しています。\nそのため、在学生とそのご家族の皆様には、全国のAOKI、コナカ、はるやま、洋服の青山で、通常の割引価格から更に割引いた価格でスーツ等をご購入いただけます。\n大変お得ですので、是非ご利用ください。\n※ご購入いただいた金額の一部が大学に寄附されます。",
+            "date_modified": "2022-04-04T03:00:00.000Z"
+        },
+        {
             "id": "2132679876f275506d83aeb2e0383963",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=2946",
             "title": "本学の課外活動等における当面の対応について　Guideline for Upcoming Activities / Events",
@@ -136,13 +143,6 @@
             "title": "就職支援講座【公務員関係】公務員試験ガイダンス",
             "summary": "対象：2023年実施公務員試験受験予定者\n日時：4/13（水）14:00-15:30　オンラインライブにて実施\n申込締切：4/12（火）12:00\n申込方法：就職課WEBの「ガイダンス等及び模擬試験登録・申請」から。\n内容：\n・公務員試験の概要と試験対策。公務員の種類と仕事。学内講座の案内。\n・質疑応答\n・公務員インターンシップ申込に関する注意点\n\n詳細は就職課ＷＥＢをご覧ください。\n",
             "date_modified": "2022-03-23T03:00:00.000Z"
-        },
-        {
-            "id": "8146e2587ee068dfda6fcfbb2edccb3e",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=2927",
-            "title": "「模擬株式投資コンテスト勉強会」参加者募集のお知らせ",
-            "summary": "筑波大学「世界を変えよう基金」では、金融literacyを学ぶ機会として「お金の超基本勉強会」「つみたてNISA投資信託勉強会」を開催していますが、その上級クラスとして「模擬株式投資コンテスト」を4月16日（土）から5か月間、隔週土曜日に開催します（20時開始）。\n\n勉強会では、株式投資に関する2冊の書籍（奥野一成著「教養としての投資」、村上世彰著「高校生に投資を教える」、各1650円）を教科書に…",
-            "date_modified": "2022-03-22T03:00:00.000Z"
         }
     ]
 }
