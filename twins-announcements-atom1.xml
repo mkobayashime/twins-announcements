@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/mkobayashime/twins-announcements</id>
     <title>在学生へのお知らせ | 筑波大学</title>
-    <updated>2022-04-04T11:03:30.622Z</updated>
+    <updated>2022-04-04T12:14:17.155Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://github.com/mkobayashime/twins-announcements"/>
     <subtitle>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</subtitle>
+    <entry>
+        <title type="html"><![CDATA[世界を変えよう基金「時事問題を英語で読み書き話す勉強会」開催のお知らせ]]></title>
+        <id>cced7288c47c19b32c3ce1e88c76c8fc</id>
+        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=2948"/>
+        <updated>2022-04-04T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[筑波大学「世界を変えよう基金」では、世界に重大な影響を与える時事問題について、英語ニュース（BBC, CNN, CGTN, Al Jazeera等）を題材に、アカデミック・エッセーまたはパワポ・スライドを作成し、英語で議論する勉強会をZoomで開催します。4月17日（日）20:30から始まり、８月まで隔週日曜日20:30に開催します（各回2時間程度）。勉強会では、原則英語のみ使用します。
+
+前回参…]]></summary>
+    </entry>
     <entry>
         <title type="html"><![CDATA[スーツ等の割引サービスについて（4月4日更新）]]></title>
         <id>a679fcd78b977fe041b29360f2a97bfd</id>
@@ -220,22 +229,5 @@ Briefing Session fo…]]></summary>
 
 情報環境機構
 学術情報部…]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[就職支援講座【公務員関係】公務員試験ガイダンス]]></title>
-        <id>2c72d596c0e31a2fd099ea9237d5de08</id>
-        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=2928"/>
-        <updated>2022-03-23T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[対象：2023年実施公務員試験受験予定者
-日時：4/13（水）14:00-15:30　オンラインライブにて実施
-申込締切：4/12（火）12:00
-申込方法：就職課WEBの「ガイダンス等及び模擬試験登録・申請」から。
-内容：
-・公務員試験の概要と試験対策。公務員の種類と仕事。学内講座の案内。
-・質疑応答
-・公務員インターンシップ申込に関する注意点
-
-詳細は就職課ＷＥＢをご覧ください。
-]]></summary>
     </entry>
 </feed>

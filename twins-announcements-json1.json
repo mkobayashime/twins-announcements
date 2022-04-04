@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "cced7288c47c19b32c3ce1e88c76c8fc",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=2948",
+            "title": "世界を変えよう基金「時事問題を英語で読み書き話す勉強会」開催のお知らせ",
+            "summary": "筑波大学「世界を変えよう基金」では、世界に重大な影響を与える時事問題について、英語ニュース（BBC, CNN, CGTN, Al Jazeera等）を題材に、アカデミック・エッセーまたはパワポ・スライドを作成し、英語で議論する勉強会をZoomで開催します。4月17日（日）20:30から始まり、８月まで隔週日曜日20:30に開催します（各回2時間程度）。勉強会では、原則英語のみ使用します。\n\n前回参…",
+            "date_modified": "2022-04-04T03:00:00.000Z"
+        },
+        {
             "id": "a679fcd78b977fe041b29360f2a97bfd",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=2947",
             "title": "スーツ等の割引サービスについて（4月4日更新）",
@@ -135,13 +142,6 @@
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=2929",
             "title": "【通知】更新作業に伴うe-ラーニング「INFOSS情報倫理」の停止について／[Notice] About suspension of \"INFOSS information ethics\"...",
             "summary": "(日本語)\n\n年度更新作業のため下記期間にe-ラーニング「INFOSS情報倫理」(manaba)を停止いたします。\n\n　記\n\n期間：2022年3月28日(月)～4月1日(金)\n\n※上記期間でもmanabaへはログイン可能です。\nログインできない場合はmanabaサポートデスク（support-manaba@ecloud.tsukuba.ac.jp）\nにご連絡ください。\n\n\n情報環境機構\n学術情報部…",
-            "date_modified": "2022-03-23T03:00:00.000Z"
-        },
-        {
-            "id": "2c72d596c0e31a2fd099ea9237d5de08",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=2928",
-            "title": "就職支援講座【公務員関係】公務員試験ガイダンス",
-            "summary": "対象：2023年実施公務員試験受験予定者\n日時：4/13（水）14:00-15:30　オンラインライブにて実施\n申込締切：4/12（火）12:00\n申込方法：就職課WEBの「ガイダンス等及び模擬試験登録・申請」から。\n内容：\n・公務員試験の概要と試験対策。公務員の種類と仕事。学内講座の案内。\n・質疑応答\n・公務員インターンシップ申込に関する注意点\n\n詳細は就職課ＷＥＢをご覧ください。\n",
             "date_modified": "2022-03-23T03:00:00.000Z"
         }
     ]
