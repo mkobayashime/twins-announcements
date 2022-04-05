@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "889c1d70a9c7fcc05a674da0313365d2",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=2949",
+            "title": "【再掲】令和４年度学生定期健康診断について　Announcement on the AY2021 Student Health Examination",
+            "summary": "令和４年度の学生定期健康診断は、身体検査とこころの健康調査に分けて実施します。必ず受診してください。\n\n身体検査\n４月１４日（木）から４月２７日（水）で実施されます。\n予約優先となりますので、指定日時内の希望の時間を保健管理センターのホームページにて予約してください。\n\n心の健康調査\n４月１３日(水) から５月３１日(火)で実施されます。\n学習管理システム（manaba）での回答となります。\n\n詳…",
+            "date_modified": "2022-04-05T03:00:00.000Z"
+        },
+        {
             "id": "cced7288c47c19b32c3ce1e88c76c8fc",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=2948",
             "title": "世界を変えよう基金「時事問題を英語で読み書き話す勉強会」開催のお知らせ",
@@ -136,13 +143,6 @@
             "title": "春学期（ABモジュール）の教科書販売について（お知らせ）",
             "summary": "新型コロナウイルス感染防止のため、丸善雄松堂での教科書販売については全てオンラインでのみの取り扱いとなりますので、購入の際は余裕をもって手続きください。（詳細は添付のチラシにてご確認ください。）\n\n春学期教科書販売専用サイト：　https://bit.ly/3nRHXho\n\n■秋学期とはURLが異なりますので、ご注意ください。\n　\n■サイトオープン期間 ： ４月１１日(金) ９時～５月１３日(金)…",
             "date_modified": "2022-03-24T03:00:00.000Z"
-        },
-        {
-            "id": "a473755e588cb5f21db7452731cf1c5b",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=2929",
-            "title": "【通知】更新作業に伴うe-ラーニング「INFOSS情報倫理」の停止について／[Notice] About suspension of \"INFOSS information ethics\"...",
-            "summary": "(日本語)\n\n年度更新作業のため下記期間にe-ラーニング「INFOSS情報倫理」(manaba)を停止いたします。\n\n　記\n\n期間：2022年3月28日(月)～4月1日(金)\n\n※上記期間でもmanabaへはログイン可能です。\nログインできない場合はmanabaサポートデスク（support-manaba@ecloud.tsukuba.ac.jp）\nにご連絡ください。\n\n\n情報環境機構\n学術情報部…",
-            "date_modified": "2022-03-23T03:00:00.000Z"
         }
     ]
 }
