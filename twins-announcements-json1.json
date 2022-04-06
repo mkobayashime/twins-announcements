@@ -5,6 +5,27 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "b4cccfde69f5256981f904855615dfc2",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=2955",
+            "title": "【GOTCHAT2022】1対1の言語交換プログラム参加者募集",
+            "summary": "「GOTCHAT2022」は、学生同士が習得した言語を教えあう（練習しあう）ための1対1言語交換プログラムです。筑波大生をメインとして、筑波大学の海外協定校の学生も参加可能です。\n\n必ず下記URLより詳細を確認してから参加登録をしてください。\n\nスチューデントサポートセンター国際交流支援室では、国際交流イベントを企画・実施しています。\n詳細はスチューデントサポートセンター国際交流支援ウェブサイトを…",
+            "date_modified": "2022-04-06T03:00:00.000Z"
+        },
+        {
+            "id": "bbee545a9e63ba2cbbd8b749030753d2",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=2954",
+            "title": "【GOTCHAT2022】1 on 1 Language Exchange Program",
+            "summary": "“GOTCHAT　2022” is Language Exchange Program for students to teach (practice) each other the language they wish to learn.\nPlease be sure to check the details from the URL below before register.\n\nThe Of…",
+            "date_modified": "2022-04-06T03:00:00.000Z"
+        },
+        {
+            "id": "2bc57b83c30caddf541a477851726a9d",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=2953",
+            "title": "(再掲) 令和４年度全学ＴＡ研修会のお知らせ/Training Seminar for Teaching Assistants AY 2022",
+            "summary": "多くの授業に TA が関わっている現在では、TA の役割と力量がより質の高い授業を作るうえでの鍵になります。今回、教育者としての TA の役割や基本的な心構えについて理解を深めること、レポート採点支援等を目的として、TA 研修プログラムを実施します。\nTA を予定している大学院生に限らず、新規に採用された先生や授業で TA を活用される先生方など、幅広い参加をお待ちしています。\n＊研修会は日本語で…",
+            "date_modified": "2022-04-06T03:00:00.000Z"
+        },
+        {
             "id": "455f564a4e76ccdbc757a620cc9ecf27",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=2952",
             "title": "自然保護寄附講座第９期生春募集！[Apply Now for the CPNC (Spring Semester)!]",
@@ -122,27 +143,6 @@
             "title": "【連絡】課外活動団体への第三エリアの教室の貸出について",
             "summary": "第三エリアの特定の教室について、令和4年4月11日（月）から課外活動団体への貸出を再開いたします。\n教室を利用したい団体は、添付の資料をご確認の上、システム情報エリア支援室において申請してください。",
             "date_modified": "2022-03-30T03:00:00.000Z"
-        },
-        {
-            "id": "fac5fc2b24a465f1934ec8d855b761e7",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=2935",
-            "title": "チューター募集について",
-            "summary": "2022年4月に多くの留学生が入学する予定です。\n(実際の入学時期については、コロナ禍の影響により変更となる場合があります。)\nこれに伴い、チューター支援（主に生活の立ち上げ支援、必要に応じてオンライン支援も可）を必要とするケースも増加する見込みです。\n本学においては、チューターバンク制度を2020年度より運用開始しており、チューターに興味があるが、周りに留学生がおらず、チューターの依頼が見込まれ…",
-            "date_modified": "2022-03-29T03:00:00.000Z"
-        },
-        {
-            "id": "27c549b8edc5db56a36fdf8c1d3a45a2",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=2934",
-            "title": "5/14(土)・6/18(土) 5年一貫制博士課程「ヒューマニクス学位プログラム」入試説明会／オンサイト＆Zoomハイブリッド開催",
-            "summary": "学類生の皆さまへ\n\n「生命医科学」×「理・工・情報学」\n5年一貫制博士課程 ヒューマニクス学位プログラム\n完全ダブルメンター制のもと、2つの研究室に所属して独創的な融合研究を目指しませんか？\n★2023年以降の受験をお考えの方もお気軽にお問合せください★\n\nPh.D. Program in Humanics (5-year Doctoral Program)\nBriefing Session fo…",
-            "date_modified": "2022-03-29T03:00:00.000Z"
-        },
-        {
-            "id": "d19696cfda1d90b1db8bee9536f7532b",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=2933",
-            "title": "世界を変えよう基金「ヨーロッパ絵画を楽しむ会」開催のお知らせ",
-            "summary": "筑波大学「世界を変えよう基金」では、「ヨーロッパ絵画を楽しむ会」を４月24日から隔週日曜日20時にZoom上で開催します（8月前半まで9回開催予定）。\n\n初期ルネサンスから１9世紀初頭までのヨーロッパ絵画の主要作品を、キリスト教絵画、ギリシア・ローマ神話画、肖像画、風景画、静物画、風俗画のジャンル別に鑑賞します。各作品について基本的な情報は提供しますが、参加メンバーがこれらの作品から感じることを自…",
-            "date_modified": "2022-03-25T03:00:00.000Z"
         }
     ]
 }
