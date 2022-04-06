@@ -4,10 +4,17 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Wed, 06 Apr 2022 05:00:17 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 Apr 2022 09:14:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
+        <item>
+            <title><![CDATA[【新入生向けお知らせ】令和4年度共通科目「情報」 情報リテラシー(講義・演習)の実施について]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=2956</link>
+            <guid>67bf92a982f7c23c007e9ee1b089be0d</guid>
+            <pubDate>Wed, 06 Apr 2022 03:00:00 GMT</pubDate>
+            <description><![CDATA[共通科目｢情報｣ 情報リテラシー(講義･演習)の実施について、別紙のとおりお知らせいたします。]]></description>
+        </item>
         <item>
             <title><![CDATA[【GOTCHAT2022】1対1の言語交換プログラム参加者募集]]></title>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=2955</link>
@@ -217,14 +224,6 @@ INFOSS情報倫理は、１～５まである修了テストを順に合格し�
             <guid>88373f43259ea12909fb8220490d8682</guid>
             <pubDate>Wed, 30 Mar 2022 03:00:00 GMT</pubDate>
             <description><![CDATA[Tsukuba University’s “Make a Difference in the World Fund” is seeking participants for a new study group on “Designing and Running Randomized Evaluations”, which will discuss how to design and run the…]]></description>
-        </item>
-        <item>
-            <title><![CDATA[【連絡】課外活動団体への第三エリアの教室の貸出について]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=2936</link>
-            <guid>0cb22633bf310402550ac9b05dfbc908</guid>
-            <pubDate>Wed, 30 Mar 2022 03:00:00 GMT</pubDate>
-            <description><![CDATA[第三エリアの特定の教室について、令和4年4月11日（月）から課外活動団体への貸出を再開いたします。
-教室を利用したい団体は、添付の資料をご確認の上、システム情報エリア支援室において申請してください。]]></description>
         </item>
     </channel>
 </rss>
