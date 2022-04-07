@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "b9b42b3bbc0caee183aa6b9e8b37172c",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=2959",
+            "title": "[4/26 15:10-] 「熟議民主主義は格差・不平等を解決できるか? 」（第9回DDPIセミナー）",
+            "summary": "人文社会系「デジタル民主主義と政治的不平等（DDPI, Digital Democracy and Political Inequality）」研究プロジェクトでは、格差・不平等の政策的解決、そのためのデジタル技術の可能性（デジタル民主主義）などをテーマとしつつ、2022年度もセミナー・シリーズを断続的に開催してまいります。\n\n第9回のセミナーは4月26日（火）開催としまして、本学人文社会系准教授…",
+            "date_modified": "2022-04-07T03:00:00.000Z"
+        },
+        {
             "id": "a96c9f6108a8b1e5a1b8070e02ef164c",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=2958",
             "title": "【4/20開催】就活＆インターンシップ ガイダンス",
@@ -136,13 +143,6 @@
             "title": "【お知らせ】新年度に向けた自殺予防に係る学生等への文部科学大臣メッセージについて",
             "summary": "　文部科学大臣からのメッセージを別紙のとおり周知いたします。\n\n○文部科学大臣メッセージ\n「不安や悩みを抱える全国の児童生徒や学生等のみなさんへ」\n　https://www.mext.go.jp/a_menu/shotou/seitoshidou/1302907.htm\n\n　４月からの新しい環境や学業について、また、自身の将来のキャリアや人間関係について悩んだり、不安を感じたときには、家族友人等の…",
             "date_modified": "2022-04-01T03:00:00.000Z"
-        },
-        {
-            "id": "b15676afd91708942e5f8163fd7ca32c",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=2939",
-            "title": "ブラジル国籍の外国人留学生で日本で働くことを希望する方へお知らせ",
-            "summary": "久光製薬株式会社から日本で働くことを希望している学生向けにお知らせがありました。\n興味のある学生は,下記の問い合わせ先に直接連絡をおとりください。\n就職課はあくまでも周知のみとなります。\n\n\n久光製薬では、グローバル展開に向けた外国人留学生の募集をしています。\n＜募集情報＞         \n・職種：国際営業企画職\n・勤務地：東京                                  …",
-            "date_modified": "2022-03-31T03:00:00.000Z"
         }
     ]
 }
