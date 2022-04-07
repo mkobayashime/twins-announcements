@@ -4,10 +4,26 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Wed, 06 Apr 2022 21:09:43 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Apr 2022 00:30:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
+        <item>
+            <title><![CDATA[【4/20開催】就活＆インターンシップ ガイダンス]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=2958</link>
+            <guid>a96c9f6108a8b1e5a1b8070e02ef164c</guid>
+            <pubDate>Thu, 07 Apr 2022 03:00:00 GMT</pubDate>
+            <description><![CDATA[就活＆インターンシップ ガイダンスを開催します。
+4/20(水)　15:15-16:35
+就活＆インターンシップ　ガイダンス
+対象：主に学群3年生、修士・博士前期１年生
+※他の学年の参加も歓迎
+詳細：
+https://syushoku.sec.tsukuba.ac.jp/career/?p=17529
+――――――――――――――――――――――
+【そのほかのイベント情報】
+◆4/13(水)　14…]]></description>
+        </item>
         <item>
             <title><![CDATA[【Announcement for first-year students】On Data Science course of English Program in 2022]]></title>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=2957</link>
@@ -214,17 +230,6 @@ INFOSS情報倫理は、１～５まである修了テストを順に合格し�
 ＜募集情報＞         
 ・職種：国際営業企画職
 ・勤務地：東京                                  …]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Designing and Running Randomized Evaluations (ランダム化比較評価手法)に関する勉強会参加者募集]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=2938</link>
-            <guid>765d6cbc99ed619fb9a8ab2285da9b0b</guid>
-            <pubDate>Wed, 30 Mar 2022 03:00:00 GMT</pubDate>
-            <description><![CDATA[筑波大学「世界を変えよう基金」では、社会科学、自然科学で多用されているRCT(Randomized Controlled Trial) を途上国の現場で活用する勉強会を４月21日（木）から開催します。
-
-勉強会は毎週木曜日20時から約90分です（12月まで約30回)。教材はMITのオンライン講義ビデオ(英語、字幕付き)、ファシリテイターは途上国及び米国でRCTを活用している実務家です。
-
-途上国の…]]></description>
         </item>
     </channel>
 </rss>

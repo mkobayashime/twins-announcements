@@ -2,10 +2,26 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/mkobayashime/twins-announcements</id>
     <title>在学生へのお知らせ | 筑波大学</title>
-    <updated>2022-04-06T21:09:43.601Z</updated>
+    <updated>2022-04-07T00:30:23.136Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://github.com/mkobayashime/twins-announcements"/>
     <subtitle>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</subtitle>
+    <entry>
+        <title type="html"><![CDATA[【4/20開催】就活＆インターンシップ ガイダンス]]></title>
+        <id>a96c9f6108a8b1e5a1b8070e02ef164c</id>
+        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=2958"/>
+        <updated>2022-04-07T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[就活＆インターンシップ ガイダンスを開催します。
+4/20(水)　15:15-16:35
+就活＆インターンシップ　ガイダンス
+対象：主に学群3年生、修士・博士前期１年生
+※他の学年の参加も歓迎
+詳細：
+https://syushoku.sec.tsukuba.ac.jp/career/?p=17529
+――――――――――――――――――――――
+【そのほかのイベント情報】
+◆4/13(水)　14…]]></summary>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【Announcement for first-year students】On Data Science course of English Program in 2022]]></title>
         <id>265361e6f54f3f585c14117b622959f6</id>
@@ -212,16 +228,5 @@ INFOSS情報倫理は、１～５まである修了テストを順に合格し�
 ＜募集情報＞         
 ・職種：国際営業企画職
 ・勤務地：東京                                  …]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Designing and Running Randomized Evaluations (ランダム化比較評価手法)に関する勉強会参加者募集]]></title>
-        <id>765d6cbc99ed619fb9a8ab2285da9b0b</id>
-        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=2938"/>
-        <updated>2022-03-30T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[筑波大学「世界を変えよう基金」では、社会科学、自然科学で多用されているRCT(Randomized Controlled Trial) を途上国の現場で活用する勉強会を４月21日（木）から開催します。
-
-勉強会は毎週木曜日20時から約90分です（12月まで約30回)。教材はMITのオンライン講義ビデオ(英語、字幕付き)、ファシリテイターは途上国及び米国でRCTを活用している実務家です。
-
-途上国の…]]></summary>
     </entry>
 </feed>

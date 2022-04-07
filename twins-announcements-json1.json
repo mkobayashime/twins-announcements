@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "a96c9f6108a8b1e5a1b8070e02ef164c",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=2958",
+            "title": "【4/20開催】就活＆インターンシップ ガイダンス",
+            "summary": "就活＆インターンシップ ガイダンスを開催します。\n4/20(水)　15:15-16:35\n就活＆インターンシップ　ガイダンス\n対象：主に学群3年生、修士・博士前期１年生\n※他の学年の参加も歓迎\n詳細：\nhttps://syushoku.sec.tsukuba.ac.jp/career/?p=17529\n――――――――――――――――――――――\n【そのほかのイベント情報】\n◆4/13(水)　14…",
+            "date_modified": "2022-04-07T03:00:00.000Z"
+        },
+        {
             "id": "265361e6f54f3f585c14117b622959f6",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=2957",
             "title": "【Announcement for first-year students】On Data Science course of English Program in 2022",
@@ -136,13 +143,6 @@
             "title": "ブラジル国籍の外国人留学生で日本で働くことを希望する方へお知らせ",
             "summary": "久光製薬株式会社から日本で働くことを希望している学生向けにお知らせがありました。\n興味のある学生は,下記の問い合わせ先に直接連絡をおとりください。\n就職課はあくまでも周知のみとなります。\n\n\n久光製薬では、グローバル展開に向けた外国人留学生の募集をしています。\n＜募集情報＞         \n・職種：国際営業企画職\n・勤務地：東京                                  …",
             "date_modified": "2022-03-31T03:00:00.000Z"
-        },
-        {
-            "id": "765d6cbc99ed619fb9a8ab2285da9b0b",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=2938",
-            "title": "Designing and Running Randomized Evaluations (ランダム化比較評価手法)に関する勉強会参加者募集",
-            "summary": "筑波大学「世界を変えよう基金」では、社会科学、自然科学で多用されているRCT(Randomized Controlled Trial) を途上国の現場で活用する勉強会を４月21日（木）から開催します。\n\n勉強会は毎週木曜日20時から約90分です（12月まで約30回)。教材はMITのオンライン講義ビデオ(英語、字幕付き)、ファシリテイターは途上国及び米国でRCTを活用している実務家です。\n\n途上国の…",
-            "date_modified": "2022-03-30T03:00:00.000Z"
         }
     ]
 }
