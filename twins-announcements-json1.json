@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "546ae046bc0da6d8c9d294b1a43ed3bb",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=2960",
+            "title": "Apply Now for the Certificate Programme on Nature Conservation (Spring Semester)!",
+            "summary": "Apply now for the Certificate Programme on Nature Conservation of 2022!\n\nApplication Period From 5 Tue April to 26 Tue April (15:00), 2022\nFor further information, please visit our webpage;\nhttps://ww…",
+            "date_modified": "2022-04-08T03:00:00.000Z"
+        },
+        {
             "id": "b9b42b3bbc0caee183aa6b9e8b37172c",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=2959",
             "title": "[4/26 15:10-] 「熟議民主主義は格差・不平等を解決できるか? 」（第9回DDPIセミナー）",
@@ -135,13 +142,6 @@
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=2941",
             "title": "【お知らせ】令和４年度「若年層の性暴力被害予防月間」の実施について",
             "summary": "　性犯罪・性暴力は、被害者の尊厳を著しく踏みにじる行為であり、その心身に長期にわたり重大な悪影響を及ぼすものです。特に、10代から20代の若年層を狙った性犯罪・性暴力は、その未熟さに付け込んだ許しがたい重大な人権侵害であり、決して許されるものではありません。\n\n　令和３年度から、４月１日から４月３０日の１か月間は、「若年層の性暴力被害予防のための月間」に定められています。４月は進学や就職等に伴い、…",
-            "date_modified": "2022-04-01T03:00:00.000Z"
-        },
-        {
-            "id": "201ecc03210a5dc166e5ce7efc22da7c",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=2940",
-            "title": "【お知らせ】新年度に向けた自殺予防に係る学生等への文部科学大臣メッセージについて",
-            "summary": "　文部科学大臣からのメッセージを別紙のとおり周知いたします。\n\n○文部科学大臣メッセージ\n「不安や悩みを抱える全国の児童生徒や学生等のみなさんへ」\n　https://www.mext.go.jp/a_menu/shotou/seitoshidou/1302907.htm\n\n　４月からの新しい環境や学業について、また、自身の将来のキャリアや人間関係について悩んだり、不安を感じたときには、家族友人等の…",
             "date_modified": "2022-04-01T03:00:00.000Z"
         }
     ]

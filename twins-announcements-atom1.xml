@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/mkobayashime/twins-announcements</id>
     <title>在学生へのお知らせ | 筑波大学</title>
-    <updated>2022-04-07T21:08:40.410Z</updated>
+    <updated>2022-04-08T00:29:08.669Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://github.com/mkobayashime/twins-announcements"/>
     <subtitle>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</subtitle>
+    <entry>
+        <title type="html"><![CDATA[Apply Now for the Certificate Programme on Nature Conservation (Spring Semester)!]]></title>
+        <id>546ae046bc0da6d8c9d294b1a43ed3bb</id>
+        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=2960"/>
+        <updated>2022-04-08T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Apply now for the Certificate Programme on Nature Conservation of 2022!
+
+Application Period From 5 Tue April to 26 Tue April (15:00), 2022
+For further information, please visit our webpage;
+https://ww…]]></summary>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[4/26 15:10-] 「熟議民主主義は格差・不平等を解決できるか? 」（第9回DDPIセミナー）]]></title>
         <id>b9b42b3bbc0caee183aa6b9e8b37172c</id>
@@ -209,18 +220,5 @@ INFOSS情報倫理は、１～５まである修了テストを順に合格し�
         <summary type="html"><![CDATA[　性犯罪・性暴力は、被害者の尊厳を著しく踏みにじる行為であり、その心身に長期にわたり重大な悪影響を及ぼすものです。特に、10代から20代の若年層を狙った性犯罪・性暴力は、その未熟さに付け込んだ許しがたい重大な人権侵害であり、決して許されるものではありません。
 
 　令和３年度から、４月１日から４月３０日の１か月間は、「若年層の性暴力被害予防のための月間」に定められています。４月は進学や就職等に伴い、…]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【お知らせ】新年度に向けた自殺予防に係る学生等への文部科学大臣メッセージについて]]></title>
-        <id>201ecc03210a5dc166e5ce7efc22da7c</id>
-        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=2940"/>
-        <updated>2022-04-01T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[　文部科学大臣からのメッセージを別紙のとおり周知いたします。
-
-○文部科学大臣メッセージ
-「不安や悩みを抱える全国の児童生徒や学生等のみなさんへ」
-　https://www.mext.go.jp/a_menu/shotou/seitoshidou/1302907.htm
-
-　４月からの新しい環境や学業について、また、自身の将来のキャリアや人間関係について悩んだり、不安を感じたときには、家族友人等の…]]></summary>
     </entry>
 </feed>
