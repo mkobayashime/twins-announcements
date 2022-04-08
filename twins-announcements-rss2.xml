@@ -4,10 +4,20 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Fri, 08 Apr 2022 06:09:39 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 Apr 2022 07:07:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
+        <item>
+            <title><![CDATA[Notice about the Undergraduate Final Examinations in 2022 (To All the Undergraduate Students)]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=2962</link>
+            <guid>76d512f5a8ed04b95adbf762e2bedcb0</guid>
+            <pubDate>Fri, 08 Apr 2022 03:00:00 GMT</pubDate>
+            <description><![CDATA[To All the Undergraduate Students
+
+University of Tsukuba conducts the undergraduate final examinations in 2022 as stated below.
+Classrooms assigned the examinations might be changed, thus, please pay …]]></description>
+        </item>
         <item>
             <title><![CDATA[令和４年度学群期末試験について]]></title>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=2961</link>
@@ -217,16 +227,6 @@ INFOSS情報倫理は、１～５まである修了テストを順に合格し�
 　本学においても、毎年急性アルコール中毒にて救急搬送される案件が発生しており、中には20歳未満の飲酒の案件も発生しています。20歳未満の飲酒は、若年層の脳の機能を低下させる、アルコール依存症になりやすくなる等の理由から、法律により禁止されています。
 
 　４月は新歓等により飲酒する機会が増える時期です。20歳未満の学生には飲酒をさせない・…]]></description>
-        </item>
-        <item>
-            <title><![CDATA[【注意喚起】成年年齢引き下げに成年に達した若年者に対する周知について]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=2942</link>
-            <guid>65520a5de86992a5e18dc546ad6f07c4</guid>
-            <pubDate>Fri, 01 Apr 2022 03:00:00 GMT</pubDate>
-            <description><![CDATA[　成年年齢引き下げ後の18歳、19歳の若年者の消費者被害拡大の防止等の観点から、文部科学省より通知がありましたので、お知らせいたします。
-
-　令和４年４月１日に、成年年齢を引き下げること等を内容とする民法改正法が施行されることに伴い、18歳、19歳の方が保護者の同意を得ることなく契約を結ぶことができるようになる反面、若年層を狙った詐欺等が懸念されます。
-　契約行為を行う場合には、契約書等にしっかり…]]></description>
         </item>
     </channel>
 </rss>
