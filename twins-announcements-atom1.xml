@@ -2,10 +2,44 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/mkobayashime/twins-announcements</id>
     <title>在学生へのお知らせ | 筑波大学</title>
-    <updated>2022-04-08T07:07:01.787Z</updated>
+    <updated>2022-04-08T08:09:52.417Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://github.com/mkobayashime/twins-announcements"/>
     <subtitle>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</subtitle>
+    <entry>
+        <title type="html"><![CDATA[To All the students (NOTICE)：Changes in Class Dates in 2022]]></title>
+        <id>d57c49cd23a74432001c55e75dd04c36</id>
+        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=2964"/>
+        <updated>2022-04-08T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[To All the students
+
+In order to ensure certain number of class days, classes on listed dates are scheduled to be held as follows (excluding Tokyo Campus):
+
+　　　　　　　　　　　　Statement
+
+【Spring semester】
+Tu…]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[令和４年度授業の曜日振替について]]></title>
+        <id>24ea60a38eabeab3d0a91d6d6b744cda</id>
+        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=2963"/>
+        <updated>2022-04-08T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[学生各位
+
+このことについて、授業日数確保のため、下記のとおり曜日が振替になっていますので、ご注意願います。
+（但し、東京キャンパスは除く。）
+
+　　　　　　　　　　　　　記
+
+【春学期授業】
+令和４年  ５月　６日（金）は、火曜日の授業を実施（終日）
+
+【秋学期授業】
+令和４年１１月　８日（火）は、木曜日の授業を実施（終日）
+令和４年１１月　９日（水）は、金曜日の授業を実施（終日）
+令和４年１１…]]></summary>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Notice about the Undergraduate Final Examinations in 2022 (To All the Undergraduate Students)]]></title>
         <id>76d512f5a8ed04b95adbf762e2bedcb0</id>
@@ -203,27 +237,5 @@ We appreciate your contin…]]></summary>
         <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=2945"/>
         <updated>2022-04-04T03:00:00.000Z</updated>
         <summary type="html"><![CDATA[2022年度第1期授業料の納付について、添付の通りお知らせいたします。]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【通知】2022年度版INFOSS情報倫理」の受講について ／【Notification】 Regarding participation of "INFOSS Information Ethics"]]></title>
-        <id>b2a4b26c16ccaeaaa17e44bd4f63537b</id>
-        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=2944"/>
-        <updated>2022-04-04T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[2022年度版のINFOSS情報倫理が受講可能となりました。
-受講マニュアルは、情報環境機構のサイトからもダウンロードできます。
-日本語版：https://oii.tsukuba.ac.jp/wp-content/uploads/sites/29/infoss/2022-infoss-student-detail.pdf
-
-INFOSS情報倫理は、１～５まである修了テストを順に合格した後、「情報の…]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【注意喚起】学生の飲酒と事故の防止について]]></title>
-        <id>2af3ac5c287ebe957aabce2a51b5ef5d</id>
-        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=2943"/>
-        <updated>2022-04-01T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[　例年４月は「20歳未満飲酒防止強調月間」となっています。
-
-　本学においても、毎年急性アルコール中毒にて救急搬送される案件が発生しており、中には20歳未満の飲酒の案件も発生しています。20歳未満の飲酒は、若年層の脳の機能を低下させる、アルコール依存症になりやすくなる等の理由から、法律により禁止されています。
-
-　４月は新歓等により飲酒する機会が増える時期です。20歳未満の学生には飲酒をさせない・…]]></summary>
     </entry>
 </feed>

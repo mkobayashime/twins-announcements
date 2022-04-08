@@ -4,10 +4,44 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Fri, 08 Apr 2022 07:07:01 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 Apr 2022 08:09:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
+        <item>
+            <title><![CDATA[To All the students (NOTICE)：Changes in Class Dates in 2022]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=2964</link>
+            <guid>d57c49cd23a74432001c55e75dd04c36</guid>
+            <pubDate>Fri, 08 Apr 2022 03:00:00 GMT</pubDate>
+            <description><![CDATA[To All the students
+
+In order to ensure certain number of class days, classes on listed dates are scheduled to be held as follows (excluding Tokyo Campus):
+
+　　　　　　　　　　　　Statement
+
+【Spring semester】
+Tu…]]></description>
+        </item>
+        <item>
+            <title><![CDATA[令和４年度授業の曜日振替について]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=2963</link>
+            <guid>24ea60a38eabeab3d0a91d6d6b744cda</guid>
+            <pubDate>Fri, 08 Apr 2022 03:00:00 GMT</pubDate>
+            <description><![CDATA[学生各位
+
+このことについて、授業日数確保のため、下記のとおり曜日が振替になっていますので、ご注意願います。
+（但し、東京キャンパスは除く。）
+
+　　　　　　　　　　　　　記
+
+【春学期授業】
+令和４年  ５月　６日（金）は、火曜日の授業を実施（終日）
+
+【秋学期授業】
+令和４年１１月　８日（火）は、木曜日の授業を実施（終日）
+令和４年１１月　９日（水）は、金曜日の授業を実施（終日）
+令和４年１１…]]></description>
+        </item>
         <item>
             <title><![CDATA[Notice about the Undergraduate Final Examinations in 2022 (To All the Undergraduate Students)]]></title>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=2962</link>
@@ -205,28 +239,6 @@ We appreciate your contin…]]></description>
             <guid>a68b4c291a61b69a78de5eb3a2ab124c</guid>
             <pubDate>Mon, 04 Apr 2022 03:00:00 GMT</pubDate>
             <description><![CDATA[2022年度第1期授業料の納付について、添付の通りお知らせいたします。]]></description>
-        </item>
-        <item>
-            <title><![CDATA[【通知】2022年度版INFOSS情報倫理」の受講について ／【Notification】 Regarding participation of "INFOSS Information Ethics"]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=2944</link>
-            <guid>b2a4b26c16ccaeaaa17e44bd4f63537b</guid>
-            <pubDate>Mon, 04 Apr 2022 03:00:00 GMT</pubDate>
-            <description><![CDATA[2022年度版のINFOSS情報倫理が受講可能となりました。
-受講マニュアルは、情報環境機構のサイトからもダウンロードできます。
-日本語版：https://oii.tsukuba.ac.jp/wp-content/uploads/sites/29/infoss/2022-infoss-student-detail.pdf
-
-INFOSS情報倫理は、１～５まである修了テストを順に合格した後、「情報の…]]></description>
-        </item>
-        <item>
-            <title><![CDATA[【注意喚起】学生の飲酒と事故の防止について]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=2943</link>
-            <guid>2af3ac5c287ebe957aabce2a51b5ef5d</guid>
-            <pubDate>Fri, 01 Apr 2022 03:00:00 GMT</pubDate>
-            <description><![CDATA[　例年４月は「20歳未満飲酒防止強調月間」となっています。
-
-　本学においても、毎年急性アルコール中毒にて救急搬送される案件が発生しており、中には20歳未満の飲酒の案件も発生しています。20歳未満の飲酒は、若年層の脳の機能を低下させる、アルコール依存症になりやすくなる等の理由から、法律により禁止されています。
-
-　４月は新歓等により飲酒する機会が増える時期です。20歳未満の学生には飲酒をさせない・…]]></description>
         </item>
     </channel>
 </rss>
