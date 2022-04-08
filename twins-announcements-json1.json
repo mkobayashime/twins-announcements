@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "b7d1ad63e6b6346fdc6995c367c36687",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=2961",
+            "title": "令和４年度学群期末試験について",
+            "summary": "学群学生各位\n\n　標記の試験については、下記の期間に実施する。\n　なお、実施に当たっては、教室等を変更する場合があるので、掲示等に十分留意し誤りのないように受験されたい。\n　また、受験に当たっては、次の諸点に注意すること。\n１　学生証を机上に提示すること。\n２　書き終わった答案用紙は、裏返して机上に置くこと。\n３　携帯電話、スマートフォン等は、試験室に入る前に電源を切り、かばん等（ただし、衣服を除…",
+            "date_modified": "2022-04-08T03:00:00.000Z"
+        },
+        {
             "id": "546ae046bc0da6d8c9d294b1a43ed3bb",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=2960",
             "title": "Apply Now for the Certificate Programme on Nature Conservation (Spring Semester)!",
@@ -135,13 +142,6 @@
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=2942",
             "title": "【注意喚起】成年年齢引き下げに成年に達した若年者に対する周知について",
             "summary": "　成年年齢引き下げ後の18歳、19歳の若年者の消費者被害拡大の防止等の観点から、文部科学省より通知がありましたので、お知らせいたします。\n\n　令和４年４月１日に、成年年齢を引き下げること等を内容とする民法改正法が施行されることに伴い、18歳、19歳の方が保護者の同意を得ることなく契約を結ぶことができるようになる反面、若年層を狙った詐欺等が懸念されます。\n　契約行為を行う場合には、契約書等にしっかり…",
-            "date_modified": "2022-04-01T03:00:00.000Z"
-        },
-        {
-            "id": "754030a84b3b1cd3a9796fffbcffb94f",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=2941",
-            "title": "【お知らせ】令和４年度「若年層の性暴力被害予防月間」の実施について",
-            "summary": "　性犯罪・性暴力は、被害者の尊厳を著しく踏みにじる行為であり、その心身に長期にわたり重大な悪影響を及ぼすものです。特に、10代から20代の若年層を狙った性犯罪・性暴力は、その未熟さに付け込んだ許しがたい重大な人権侵害であり、決して許されるものではありません。\n\n　令和３年度から、４月１日から４月３０日の１か月間は、「若年層の性暴力被害予防のための月間」に定められています。４月は進学や就職等に伴い、…",
             "date_modified": "2022-04-01T03:00:00.000Z"
         }
     ]

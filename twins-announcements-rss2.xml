@@ -4,10 +4,24 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Fri, 08 Apr 2022 00:29:08 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 Apr 2022 06:09:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
+        <item>
+            <title><![CDATA[令和４年度学群期末試験について]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=2961</link>
+            <guid>b7d1ad63e6b6346fdc6995c367c36687</guid>
+            <pubDate>Fri, 08 Apr 2022 03:00:00 GMT</pubDate>
+            <description><![CDATA[学群学生各位
+
+　標記の試験については、下記の期間に実施する。
+　なお、実施に当たっては、教室等を変更する場合があるので、掲示等に十分留意し誤りのないように受験されたい。
+　また、受験に当たっては、次の諸点に注意すること。
+１　学生証を机上に提示すること。
+２　書き終わった答案用紙は、裏返して机上に置くこと。
+３　携帯電話、スマートフォン等は、試験室に入る前に電源を切り、かばん等（ただし、衣服を除…]]></description>
+        </item>
         <item>
             <title><![CDATA[Apply Now for the Certificate Programme on Nature Conservation (Spring Semester)!]]></title>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=2960</link>
@@ -213,15 +227,6 @@ INFOSS情報倫理は、１～５まである修了テストを順に合格し�
 
 　令和４年４月１日に、成年年齢を引き下げること等を内容とする民法改正法が施行されることに伴い、18歳、19歳の方が保護者の同意を得ることなく契約を結ぶことができるようになる反面、若年層を狙った詐欺等が懸念されます。
 　契約行為を行う場合には、契約書等にしっかり…]]></description>
-        </item>
-        <item>
-            <title><![CDATA[【お知らせ】令和４年度「若年層の性暴力被害予防月間」の実施について]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=2941</link>
-            <guid>754030a84b3b1cd3a9796fffbcffb94f</guid>
-            <pubDate>Fri, 01 Apr 2022 03:00:00 GMT</pubDate>
-            <description><![CDATA[　性犯罪・性暴力は、被害者の尊厳を著しく踏みにじる行為であり、その心身に長期にわたり重大な悪影響を及ぼすものです。特に、10代から20代の若年層を狙った性犯罪・性暴力は、その未熟さに付け込んだ許しがたい重大な人権侵害であり、決して許されるものではありません。
-
-　令和３年度から、４月１日から４月３０日の１か月間は、「若年層の性暴力被害予防のための月間」に定められています。４月は進学や就職等に伴い、…]]></description>
         </item>
     </channel>
 </rss>
