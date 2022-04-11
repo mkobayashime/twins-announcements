@@ -4,10 +4,21 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Sun, 10 Apr 2022 21:08:42 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 Apr 2022 03:34:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
+        <item>
+            <title><![CDATA[【公示】令和４年度学生定期健康診断期間中の授業の実施について]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=2965</link>
+            <guid>61454ac9542b9203fddc28506a45858b</guid>
+            <pubDate>Mon, 11 Apr 2022 03:00:00 GMT</pubDate>
+            <description><![CDATA[学生各位
+
+令和４年度学年暦において、定期健康診断の実施時間に当たる学群・学類の当該年次及び大学院の授業は臨時休講するとしておりましたが、令和４年度学生定期健康診断は、別紙のとおり全日受診可能の予約制で実施することから、学生定期健康診断期間中の授業の臨時休講は行わないこととします。
+つきましては、適宜ご自身の履修計画と照らし合わせた上で、定期健康診断を受診してください。
+]]></description>
+        </item>
         <item>
             <title><![CDATA[To All the students (NOTICE)：Changes in Class Dates in 2022]]></title>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=2964</link>
@@ -232,13 +243,6 @@ https://www.conservation.tsukuba.ac.jp/index.php?action=pages_view_main&active_a
 Dear English readers,
 
 We appreciate your contin…]]></description>
-        </item>
-        <item>
-            <title><![CDATA[2022年度第1期分授業料の納付について]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=2945</link>
-            <guid>a68b4c291a61b69a78de5eb3a2ab124c</guid>
-            <pubDate>Mon, 04 Apr 2022 03:00:00 GMT</pubDate>
-            <description><![CDATA[2022年度第1期授業料の納付について、添付の通りお知らせいたします。]]></description>
         </item>
     </channel>
 </rss>
