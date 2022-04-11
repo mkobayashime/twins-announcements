@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "bbdf06b40f300efbf48c09bf833ddc04",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=2969",
+            "title": "【周知】新型コロナワクチン職域接種（大学拠点接種）（３回目）の実施について",
+            "summary": "本学では、新型コロナワクチン職域接種（大学拠点接種）（３回目）を実施いたします。\n本学公式HPへ実施案内を掲載しましたので、詳細は以下のURLから確認してください。",
+            "date_modified": "2022-04-11T03:00:00.000Z"
+        },
+        {
             "id": "086ff6d4da3c4a4860b04245e3f4f85b",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=2968",
             "title": "留学情報・国際交流イベント情報について",
@@ -136,13 +143,6 @@
             "title": "【再掲】令和４年度学生定期健康診断について　Announcement on the AY2021 Student Health Examination",
             "summary": "令和４年度の学生定期健康診断は、身体検査とこころの健康調査に分けて実施します。必ず受診してください。\n\n身体検査\n４月１４日（木）から４月２７日（水）で実施されます。\n予約優先となりますので、指定日時内の希望の時間を保健管理センターのホームページにて予約してください。\n\n心の健康調査\n４月１３日(水) から５月３１日(火)で実施されます。\n学習管理システム（manaba）での回答となります。\n\n詳…",
             "date_modified": "2022-04-05T03:00:00.000Z"
-        },
-        {
-            "id": "cced7288c47c19b32c3ce1e88c76c8fc",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=2948",
-            "title": "世界を変えよう基金「時事問題を英語で読み書き話す勉強会」開催のお知らせ",
-            "summary": "筑波大学「世界を変えよう基金」では、世界に重大な影響を与える時事問題について、英語ニュース（BBC, CNN, CGTN, Al Jazeera等）を題材に、アカデミック・エッセーまたはパワポ・スライドを作成し、英語で議論する勉強会をZoomで開催します。4月17日（日）20:30から始まり、８月まで隔週日曜日20:30に開催します（各回2時間程度）。勉強会では、原則英語のみ使用します。\n\n前回参…",
-            "date_modified": "2022-04-04T03:00:00.000Z"
         }
     ]
 }

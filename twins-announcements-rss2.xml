@@ -4,10 +4,18 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Mon, 11 Apr 2022 09:12:46 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 Apr 2022 11:03:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
+        <item>
+            <title><![CDATA[【周知】新型コロナワクチン職域接種（大学拠点接種）（３回目）の実施について]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=2969</link>
+            <guid>bbdf06b40f300efbf48c09bf833ddc04</guid>
+            <pubDate>Mon, 11 Apr 2022 03:00:00 GMT</pubDate>
+            <description><![CDATA[本学では、新型コロナワクチン職域接種（大学拠点接種）（３回目）を実施いたします。
+本学公式HPへ実施案内を掲載しましたので、詳細は以下のURLから確認してください。]]></description>
+        </item>
         <item>
             <title><![CDATA[留学情報・国際交流イベント情報について]]></title>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=2968</link>
@@ -235,15 +243,6 @@ https://www.conservation.tsukuba.ac.jp/index.php?action=pages_view_main&active_a
 学習管理システム（manaba）での回答となります。
 
 詳…]]></description>
-        </item>
-        <item>
-            <title><![CDATA[世界を変えよう基金「時事問題を英語で読み書き話す勉強会」開催のお知らせ]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=2948</link>
-            <guid>cced7288c47c19b32c3ce1e88c76c8fc</guid>
-            <pubDate>Mon, 04 Apr 2022 03:00:00 GMT</pubDate>
-            <description><![CDATA[筑波大学「世界を変えよう基金」では、世界に重大な影響を与える時事問題について、英語ニュース（BBC, CNN, CGTN, Al Jazeera等）を題材に、アカデミック・エッセーまたはパワポ・スライドを作成し、英語で議論する勉強会をZoomで開催します。4月17日（日）20:30から始まり、８月まで隔週日曜日20:30に開催します（各回2時間程度）。勉強会では、原則英語のみ使用します。
-
-前回参…]]></description>
         </item>
     </channel>
 </rss>
