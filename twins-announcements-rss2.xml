@@ -4,10 +4,26 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Thu, 14 Apr 2022 21:08:42 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Apr 2022 06:08:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
+        <item>
+            <title><![CDATA[4/18(月)~「留学相談強化週間」開催！予約不要！]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=2976</link>
+            <guid>2404a4ce1671e467bd08801eccde1d16</guid>
+            <pubDate>Fri, 15 Apr 2022 03:00:00 GMT</pubDate>
+            <description><![CDATA[「留学相談強化週間」を開催します。
+
+留学に行きたいけど、何をしたらいいのか。
+留学先はどのように決定するのか。行きたい大学が決まっているんだけど。。。
+と、留学を考え始めたばかりのあなたも、具体的に行動を始めているあなたも。
+気軽に会場を覗いてみてください！
+
+期間　4/18（月）～4/22（金）
+時間　14時～17時
+場所　バーチャルスチューデント・コモンズ（oVice／ｵﾝﾗｲﾝ）https…]]></description>
+        </item>
         <item>
             <title><![CDATA[【厚労省】新型コロナワクチン接種（3回目）接種の啓発案内について]]></title>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=2975</link>
@@ -229,15 +245,6 @@ https://syushoku.sec.tsukuba.ac.jp/career/?p=17529
 Please be sure to check the details from the URL below before register.
 
 The Of…]]></description>
-        </item>
-        <item>
-            <title><![CDATA[(再掲) 令和４年度全学ＴＡ研修会のお知らせ/Training Seminar for Teaching Assistants AY 2022]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=2953</link>
-            <guid>2bc57b83c30caddf541a477851726a9d</guid>
-            <pubDate>Wed, 06 Apr 2022 03:00:00 GMT</pubDate>
-            <description><![CDATA[多くの授業に TA が関わっている現在では、TA の役割と力量がより質の高い授業を作るうえでの鍵になります。今回、教育者としての TA の役割や基本的な心構えについて理解を深めること、レポート採点支援等を目的として、TA 研修プログラムを実施します。
-TA を予定している大学院生に限らず、新規に採用された先生や授業で TA を活用される先生方など、幅広い参加をお待ちしています。
-＊研修会は日本語で…]]></description>
         </item>
     </channel>
 </rss>

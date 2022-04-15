@@ -2,10 +2,26 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/mkobayashime/twins-announcements</id>
     <title>在学生へのお知らせ | 筑波大学</title>
-    <updated>2022-04-14T21:08:42.043Z</updated>
+    <updated>2022-04-15T06:08:06.279Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://github.com/mkobayashime/twins-announcements"/>
     <subtitle>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</subtitle>
+    <entry>
+        <title type="html"><![CDATA[4/18(月)~「留学相談強化週間」開催！予約不要！]]></title>
+        <id>2404a4ce1671e467bd08801eccde1d16</id>
+        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=2976"/>
+        <updated>2022-04-15T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[「留学相談強化週間」を開催します。
+
+留学に行きたいけど、何をしたらいいのか。
+留学先はどのように決定するのか。行きたい大学が決まっているんだけど。。。
+と、留学を考え始めたばかりのあなたも、具体的に行動を始めているあなたも。
+気軽に会場を覗いてみてください！
+
+期間　4/18（月）～4/22（金）
+時間　14時～17時
+場所　バーチャルスチューデント・コモンズ（oVice／ｵﾝﾗｲﾝ）https…]]></summary>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【厚労省】新型コロナワクチン接種（3回目）接種の啓発案内について]]></title>
         <id>09006f8e5a4fd73474f9154292225dd7</id>
@@ -227,14 +243,5 @@ https://syushoku.sec.tsukuba.ac.jp/career/?p=17529
 Please be sure to check the details from the URL below before register.
 
 The Of…]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[(再掲) 令和４年度全学ＴＡ研修会のお知らせ/Training Seminar for Teaching Assistants AY 2022]]></title>
-        <id>2bc57b83c30caddf541a477851726a9d</id>
-        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=2953"/>
-        <updated>2022-04-06T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[多くの授業に TA が関わっている現在では、TA の役割と力量がより質の高い授業を作るうえでの鍵になります。今回、教育者としての TA の役割や基本的な心構えについて理解を深めること、レポート採点支援等を目的として、TA 研修プログラムを実施します。
-TA を予定している大学院生に限らず、新規に採用された先生や授業で TA を活用される先生方など、幅広い参加をお待ちしています。
-＊研修会は日本語で…]]></summary>
     </entry>
 </feed>

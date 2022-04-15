@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "2404a4ce1671e467bd08801eccde1d16",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=2976",
+            "title": "4/18(月)~「留学相談強化週間」開催！予約不要！",
+            "summary": "「留学相談強化週間」を開催します。\n\n留学に行きたいけど、何をしたらいいのか。\n留学先はどのように決定するのか。行きたい大学が決まっているんだけど。。。\nと、留学を考え始めたばかりのあなたも、具体的に行動を始めているあなたも。\n気軽に会場を覗いてみてください！\n\n期間　4/18（月）～4/22（金）\n時間　14時～17時\n場所　バーチャルスチューデント・コモンズ（oVice／ｵﾝﾗｲﾝ）https…",
+            "date_modified": "2022-04-15T03:00:00.000Z"
+        },
+        {
             "id": "09006f8e5a4fd73474f9154292225dd7",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=2975",
             "title": "【厚労省】新型コロナワクチン接種（3回目）接種の啓発案内について",
@@ -135,13 +142,6 @@
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=2954",
             "title": "【GOTCHAT2022】1 on 1 Language Exchange Program",
             "summary": "“GOTCHAT　2022” is Language Exchange Program for students to teach (practice) each other the language they wish to learn.\nPlease be sure to check the details from the URL below before register.\n\nThe Of…",
-            "date_modified": "2022-04-06T03:00:00.000Z"
-        },
-        {
-            "id": "2bc57b83c30caddf541a477851726a9d",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=2953",
-            "title": "(再掲) 令和４年度全学ＴＡ研修会のお知らせ/Training Seminar for Teaching Assistants AY 2022",
-            "summary": "多くの授業に TA が関わっている現在では、TA の役割と力量がより質の高い授業を作るうえでの鍵になります。今回、教育者としての TA の役割や基本的な心構えについて理解を深めること、レポート採点支援等を目的として、TA 研修プログラムを実施します。\nTA を予定している大学院生に限らず、新規に採用された先生や授業で TA を活用される先生方など、幅広い参加をお待ちしています。\n＊研修会は日本語で…",
             "date_modified": "2022-04-06T03:00:00.000Z"
         }
     ]
