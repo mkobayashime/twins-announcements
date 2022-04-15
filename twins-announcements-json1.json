@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "54f79a7d71ab5755a6d1f41b7c80dec1",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=2980",
+            "title": "パリ第8大学　留学説明会（5月12日（木）18時～）",
+            "summary": "本学の協定校であるフランスの「パリ第8大学」への留学説明会を開催します！\nフランスへの留学に関心のある方は、是非参加してください。\n\n開催日：2022年5月12日（木）18：00～19：00\n開催方法：オンライン（Zoom)\n登録方法：下記URょり詳細を確認いただき、登録フォームより申請してください。登録者には前日までにZoomの入室URLをメールでお送りいたします。\n\n※留学の現状を含む留学関連…",
+            "date_modified": "2022-04-15T03:00:00.000Z"
+        },
+        {
             "id": "c7b75fc61a4a8e05d64c5e95b71676d6",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=2979",
             "title": "新委員募集―一流アーティストによるコンサートをプロデュースしてみませんか？",
@@ -136,13 +143,6 @@
             "title": "【4/20開催】就活＆インターンシップ ガイダンス",
             "summary": "就活＆インターンシップ ガイダンスを開催します。\n4/20(水)　15:15-16:35\n就活＆インターンシップ　ガイダンス\n対象：主に学群3年生、修士・博士前期１年生\n※他の学年の参加も歓迎\n詳細：\nhttps://syushoku.sec.tsukuba.ac.jp/career/?p=17529\n――――――――――――――――――――――\n【そのほかのイベント情報】\n◆4/13(水)　14…",
             "date_modified": "2022-04-07T03:00:00.000Z"
-        },
-        {
-            "id": "265361e6f54f3f585c14117b622959f6",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=2957",
-            "title": "【Announcement for first-year students】On Data Science course of English Program in 2022",
-            "summary": "　In order to prevent the spread of COVID-19 infection, all courses of Data Science of the English program (required for the first year) in the spring semester will be offered online in the year 2022.\n…",
-            "date_modified": "2022-04-06T03:00:00.000Z"
         }
     ]
 }
