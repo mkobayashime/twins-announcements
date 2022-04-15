@@ -5,6 +5,20 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "c7b75fc61a4a8e05d64c5e95b71676d6",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=2979",
+            "title": "新委員募集―一流アーティストによるコンサートをプロデュースしてみませんか？",
+            "summary": "つくばリサイタルシリーズ実行委員会は筑波大学の有志学生からなる委員会です。\n毎年、つくばの地に国内外で活躍される一流のアーティストをお招きし演奏会を\nプロデュースしています。\n音楽を「聴く」のでもなく「演奏する」のでもなく、両者を「つなぐ」お仕事。\n学生や地域の皆様に低価格で気軽に音楽を楽しめる、\nそんな機会が提供できたら、素敵ではありませんか。\n\n音楽に詳しくなくても、楽器が演奏できなくても、大…",
+            "date_modified": "2022-04-15T03:00:00.000Z"
+        },
+        {
+            "id": "18964145668edd17a5a97d06e323caac",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=2978",
+            "title": "塙美里 サクソフォンが彩るクラッシックの世界　【第1回TRSサロンシリーズ】",
+            "summary": "2022年5月29日（日）14:00開演（13:15開場）\n場所：つくばアルスホール\n一般チケット：1,500円　学生チケット：500円　\nチケット申し込みはこちらから\nhttps://teket.jp/1479/11731\n\n曲目：ヴィヴァルディ フルート協奏曲 作品10-2“夜”\n　　　C.P.E.バッハ ヴァイオリン協奏曲 二短調 第1楽章\n　　　シューマン ヴァイオリン・ソナタ第1番\n　　…",
+            "date_modified": "2022-04-15T03:00:00.000Z"
+        },
+        {
             "id": "e01524a2b5e562263dc9f0f6d08ce6e5",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=2977",
             "title": "【開催案内】7th Special Lecture and Discussion Series \"Central Eurasian Studies in East Asia and Beyond\"",
@@ -128,20 +142,6 @@
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=2957",
             "title": "【Announcement for first-year students】On Data Science course of English Program in 2022",
             "summary": "　In order to prevent the spread of COVID-19 infection, all courses of Data Science of the English program (required for the first year) in the spring semester will be offered online in the year 2022.\n…",
-            "date_modified": "2022-04-06T03:00:00.000Z"
-        },
-        {
-            "id": "67bf92a982f7c23c007e9ee1b089be0d",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=2956",
-            "title": "【新入生向けお知らせ】令和4年度共通科目「情報」 情報リテラシー(講義・演習)の実施について",
-            "summary": "共通科目｢情報｣ 情報リテラシー(講義･演習)の実施について、別紙のとおりお知らせいたします。",
-            "date_modified": "2022-04-06T03:00:00.000Z"
-        },
-        {
-            "id": "b4cccfde69f5256981f904855615dfc2",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=2955",
-            "title": "【GOTCHAT2022】1対1の言語交換プログラム参加者募集",
-            "summary": "「GOTCHAT2022」は、学生同士が習得した言語を教えあう（練習しあう）ための1対1言語交換プログラムです。筑波大生をメインとして、筑波大学の海外協定校の学生も参加可能です。\n\n必ず下記URLより詳細を確認してから参加登録をしてください。\n\nスチューデントサポートセンター国際交流支援室では、国際交流イベントを企画・実施しています。\n詳細はスチューデントサポートセンター国際交流支援ウェブサイトを…",
             "date_modified": "2022-04-06T03:00:00.000Z"
         }
     ]

@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/mkobayashime/twins-announcements</id>
     <title>在学生へのお知らせ | 筑波大学</title>
-    <updated>2022-04-15T07:05:15.008Z</updated>
+    <updated>2022-04-15T08:08:04.264Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://github.com/mkobayashime/twins-announcements"/>
     <subtitle>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</subtitle>
+    <entry>
+        <title type="html"><![CDATA[新委員募集―一流アーティストによるコンサートをプロデュースしてみませんか？]]></title>
+        <id>c7b75fc61a4a8e05d64c5e95b71676d6</id>
+        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=2979"/>
+        <updated>2022-04-15T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[つくばリサイタルシリーズ実行委員会は筑波大学の有志学生からなる委員会です。
+毎年、つくばの地に国内外で活躍される一流のアーティストをお招きし演奏会を
+プロデュースしています。
+音楽を「聴く」のでもなく「演奏する」のでもなく、両者を「つなぐ」お仕事。
+学生や地域の皆様に低価格で気軽に音楽を楽しめる、
+そんな機会が提供できたら、素敵ではありませんか。
+
+音楽に詳しくなくても、楽器が演奏できなくても、大…]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[塙美里 サクソフォンが彩るクラッシックの世界　【第1回TRSサロンシリーズ】]]></title>
+        <id>18964145668edd17a5a97d06e323caac</id>
+        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=2978"/>
+        <updated>2022-04-15T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[2022年5月29日（日）14:00開演（13:15開場）
+場所：つくばアルスホール
+一般チケット：1,500円　学生チケット：500円　
+チケット申し込みはこちらから
+https://teket.jp/1479/11731
+
+曲目：ヴィヴァルディ フルート協奏曲 作品10-2“夜”
+　　　C.P.E.バッハ ヴァイオリン協奏曲 二短調 第1楽章
+　　　シューマン ヴァイオリン・ソナタ第1番
+　　…]]></summary>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【開催案内】7th Special Lecture and Discussion Series "Central Eurasian Studies in East Asia and Beyond"]]></title>
         <id>e01524a2b5e562263dc9f0f6d08ce6e5</id>
@@ -221,24 +251,5 @@ https://syushoku.sec.tsukuba.ac.jp/career/?p=17529
         <updated>2022-04-06T03:00:00.000Z</updated>
         <summary type="html"><![CDATA[　In order to prevent the spread of COVID-19 infection, all courses of Data Science of the English program (required for the first year) in the spring semester will be offered online in the year 2022.
 …]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【新入生向けお知らせ】令和4年度共通科目「情報」 情報リテラシー(講義・演習)の実施について]]></title>
-        <id>67bf92a982f7c23c007e9ee1b089be0d</id>
-        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=2956"/>
-        <updated>2022-04-06T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[共通科目｢情報｣ 情報リテラシー(講義･演習)の実施について、別紙のとおりお知らせいたします。]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【GOTCHAT2022】1対1の言語交換プログラム参加者募集]]></title>
-        <id>b4cccfde69f5256981f904855615dfc2</id>
-        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=2955"/>
-        <updated>2022-04-06T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[「GOTCHAT2022」は、学生同士が習得した言語を教えあう（練習しあう）ための1対1言語交換プログラムです。筑波大生をメインとして、筑波大学の海外協定校の学生も参加可能です。
-
-必ず下記URLより詳細を確認してから参加登録をしてください。
-
-スチューデントサポートセンター国際交流支援室では、国際交流イベントを企画・実施しています。
-詳細はスチューデントサポートセンター国際交流支援ウェブサイトを…]]></summary>
     </entry>
 </feed>
