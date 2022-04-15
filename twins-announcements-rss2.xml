@@ -4,10 +4,17 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Fri, 15 Apr 2022 06:08:06 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Apr 2022 07:05:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
+        <item>
+            <title><![CDATA[【開催案内】7th Special Lecture and Discussion Series "Central Eurasian Studies in East Asia and Beyond"]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=2977</link>
+            <guid>e01524a2b5e562263dc9f0f6d08ce6e5</guid>
+            <pubDate>Fri, 15 Apr 2022 03:00:00 GMT</pubDate>
+            <description><![CDATA[The Special Program in Japanese and Eurasian Studies and the Nippon Foundation Central Asia-Japan Human Resource Development Project (NipCA) are pleased to invite you to the 7th Special Lecture and Di…]]></description>
+        </item>
         <item>
             <title><![CDATA[4/18(月)~「留学相談強化週間」開催！予約不要！]]></title>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=2976</link>
@@ -235,16 +242,6 @@ https://syushoku.sec.tsukuba.ac.jp/career/?p=17529
 
 スチューデントサポートセンター国際交流支援室では、国際交流イベントを企画・実施しています。
 詳細はスチューデントサポートセンター国際交流支援ウェブサイトを…]]></description>
-        </item>
-        <item>
-            <title><![CDATA[【GOTCHAT2022】1 on 1 Language Exchange Program]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=2954</link>
-            <guid>bbee545a9e63ba2cbbd8b749030753d2</guid>
-            <pubDate>Wed, 06 Apr 2022 03:00:00 GMT</pubDate>
-            <description><![CDATA[“GOTCHAT　2022” is Language Exchange Program for students to teach (practice) each other the language they wish to learn.
-Please be sure to check the details from the URL below before register.
-
-The Of…]]></description>
         </item>
     </channel>
 </rss>
