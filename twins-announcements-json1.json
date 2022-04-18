@@ -5,6 +5,20 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "2fdf8e7c96d7562fec13979838b921eb",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=2985",
+            "title": "芸術専門学群の応募要件科目等の記載に関する修正について",
+            "summary": "応募要件・重点科目の修正について\n\n入学時にみなさんに配付した移行関係の冊子に記載されている芸術専門学群の応募要件・重点科目について、\n下記のとおり修正がありました。\n\nついては、①については修正した冊子を再配付します。\n【4/19（火）14:00~4/26（火）まで】に学生証を持参のうえ、\nアカデミックサポートセンターに取りに来てください。\n\n＜誤＞\n\n①『令和5年度(2023年度）筑波大学総合…",
+            "date_modified": "2022-04-18T03:00:00.000Z"
+        },
+        {
+            "id": "e68bae6e06741d792df64505b3ca1666",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=2984",
+            "title": "パリ第8大学　2022年秋学期渡航の交換留学生公募及び留学説明会（5月12日18時）",
+            "summary": "本学の協定校であるフランスの「パリ第8大学」への2022秋学期渡航分の交換留学生を追加公募します！\nhttps://ssc.sec.tsukuba.ac.jp/archives/12781\n同時に、2023年春学期渡航分の公募（SSC公募型）も募集しています！\nhttps://ssc.sec.tsukuba.ac.jp/ssc_call\n\n公募にあたって、パリ第8大学への交換留学について説明会を開…",
+            "date_modified": "2022-04-18T03:00:00.000Z"
+        },
+        {
             "id": "5bebbf743a0c308ce8aad54a9de70820",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=2983",
             "title": "【社会学類】社会学類生対象モバイルバッテリーの貸出",
@@ -128,20 +142,6 @@
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=2964",
             "title": "To All the students (NOTICE)：Changes in Class Dates in 2022",
             "summary": "To All the students\n\nIn order to ensure certain number of class days, classes on listed dates are scheduled to be held as follows (excluding Tokyo Campus):\n\n　　　　　　　　　　　　Statement\n\n【Spring semester】\nTu…",
-            "date_modified": "2022-04-08T03:00:00.000Z"
-        },
-        {
-            "id": "24ea60a38eabeab3d0a91d6d6b744cda",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=2963",
-            "title": "令和４年度授業の曜日振替について",
-            "summary": "学生各位\n\nこのことについて、授業日数確保のため、下記のとおり曜日が振替になっていますので、ご注意願います。\n（但し、東京キャンパスは除く。）\n\n　　　　　　　　　　　　　記\n\n【春学期授業】\n令和４年  ５月　６日（金）は、火曜日の授業を実施（終日）\n\n【秋学期授業】\n令和４年１１月　８日（火）は、木曜日の授業を実施（終日）\n令和４年１１月　９日（水）は、金曜日の授業を実施（終日）\n令和４年１１…",
-            "date_modified": "2022-04-08T03:00:00.000Z"
-        },
-        {
-            "id": "76d512f5a8ed04b95adbf762e2bedcb0",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=2962",
-            "title": "Notice about the Undergraduate Final Examinations in 2022 (To All the Undergraduate Students)",
-            "summary": "To All the Undergraduate Students\n\nUniversity of Tsukuba conducts the undergraduate final examinations in 2022 as stated below.\nClassrooms assigned the examinations might be changed, thus, please pay …",
             "date_modified": "2022-04-08T03:00:00.000Z"
         }
     ]

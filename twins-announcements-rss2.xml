@@ -4,10 +4,40 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Mon, 18 Apr 2022 07:06:08 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 18 Apr 2022 08:08:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
+        <item>
+            <title><![CDATA[芸術専門学群の応募要件科目等の記載に関する修正について]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=2985</link>
+            <guid>2fdf8e7c96d7562fec13979838b921eb</guid>
+            <pubDate>Mon, 18 Apr 2022 03:00:00 GMT</pubDate>
+            <description><![CDATA[応募要件・重点科目の修正について
+
+入学時にみなさんに配付した移行関係の冊子に記載されている芸術専門学群の応募要件・重点科目について、
+下記のとおり修正がありました。
+
+ついては、①については修正した冊子を再配付します。
+【4/19（火）14:00~4/26（火）まで】に学生証を持参のうえ、
+アカデミックサポートセンターに取りに来てください。
+
+＜誤＞
+
+①『令和5年度(2023年度）筑波大学総合…]]></description>
+        </item>
+        <item>
+            <title><![CDATA[パリ第8大学　2022年秋学期渡航の交換留学生公募及び留学説明会（5月12日18時）]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=2984</link>
+            <guid>e68bae6e06741d792df64505b3ca1666</guid>
+            <pubDate>Mon, 18 Apr 2022 03:00:00 GMT</pubDate>
+            <description><![CDATA[本学の協定校であるフランスの「パリ第8大学」への2022秋学期渡航分の交換留学生を追加公募します！
+https://ssc.sec.tsukuba.ac.jp/archives/12781
+同時に、2023年春学期渡航分の公募（SSC公募型）も募集しています！
+https://ssc.sec.tsukuba.ac.jp/ssc_call
+
+公募にあたって、パリ第8大学への交換留学について説明会を開…]]></description>
+        </item>
         <item>
             <title><![CDATA[【社会学類】社会学類生対象モバイルバッテリーの貸出]]></title>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=2983</link>
@@ -230,36 +260,6 @@ In order to ensure certain number of class days, classes on listed dates are sch
 
 【Spring semester】
 Tu…]]></description>
-        </item>
-        <item>
-            <title><![CDATA[令和４年度授業の曜日振替について]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=2963</link>
-            <guid>24ea60a38eabeab3d0a91d6d6b744cda</guid>
-            <pubDate>Fri, 08 Apr 2022 03:00:00 GMT</pubDate>
-            <description><![CDATA[学生各位
-
-このことについて、授業日数確保のため、下記のとおり曜日が振替になっていますので、ご注意願います。
-（但し、東京キャンパスは除く。）
-
-　　　　　　　　　　　　　記
-
-【春学期授業】
-令和４年  ５月　６日（金）は、火曜日の授業を実施（終日）
-
-【秋学期授業】
-令和４年１１月　８日（火）は、木曜日の授業を実施（終日）
-令和４年１１月　９日（水）は、金曜日の授業を実施（終日）
-令和４年１１…]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Notice about the Undergraduate Final Examinations in 2022 (To All the Undergraduate Students)]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=2962</link>
-            <guid>76d512f5a8ed04b95adbf762e2bedcb0</guid>
-            <pubDate>Fri, 08 Apr 2022 03:00:00 GMT</pubDate>
-            <description><![CDATA[To All the Undergraduate Students
-
-University of Tsukuba conducts the undergraduate final examinations in 2022 as stated below.
-Classrooms assigned the examinations might be changed, thus, please pay …]]></description>
         </item>
     </channel>
 </rss>
