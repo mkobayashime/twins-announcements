@@ -2,10 +2,26 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/mkobayashime/twins-announcements</id>
     <title>在学生へのお知らせ | 筑波大学</title>
-    <updated>2022-04-17T21:08:23.701Z</updated>
+    <updated>2022-04-18T02:47:16.164Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://github.com/mkobayashime/twins-announcements"/>
     <subtitle>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</subtitle>
+    <entry>
+        <title type="html"><![CDATA[本日から4/18(月)「留学相談強化週間」開催！予約不要！]]></title>
+        <id>ea42080355a06f5abeff5eb64d0008b7</id>
+        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=2981"/>
+        <updated>2022-04-18T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[「留学相談強化週間」を開催します。
+
+留学に行きたいけど、何をしたらいいのかわからない。
+留学先はどのように決定するのか？　行きたい大学が決まっているんだけど。。。
+と、留学を考え始めたばかりのあなたも、具体的に行動を始めているあなたも。
+気軽に会場を覗いてみてください！
+
+期間　4/18（月）～4/22（金）
+時間　14時～17時
+場所　バーチャルスチューデント・コモンズ（oVice／ｵﾝﾗｲﾝ…]]></summary>
+    </entry>
     <entry>
         <title type="html"><![CDATA[パリ第8大学　留学説明会（5月12日（木）18時～）]]></title>
         <id>54f79a7d71ab5755a6d1f41b7c80dec1</id>
@@ -241,21 +257,5 @@ Classrooms assigned the examinations might be changed, thus, please pay …]]></
         <summary type="html"><![CDATA[人文社会系「デジタル民主主義と政治的不平等（DDPI, Digital Democracy and Political Inequality）」研究プロジェクトでは、格差・不平等の政策的解決、そのためのデジタル技術の可能性（デジタル民主主義）などをテーマとしつつ、2022年度もセミナー・シリーズを断続的に開催してまいります。
 
 第9回のセミナーは4月26日（火）開催としまして、本学人文社会系准教授…]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【4/20開催】就活＆インターンシップ ガイダンス]]></title>
-        <id>a96c9f6108a8b1e5a1b8070e02ef164c</id>
-        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=2958"/>
-        <updated>2022-04-07T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[就活＆インターンシップ ガイダンスを開催します。
-4/20(水)　15:15-16:35
-就活＆インターンシップ　ガイダンス
-対象：主に学群3年生、修士・博士前期１年生
-※他の学年の参加も歓迎
-詳細：
-https://syushoku.sec.tsukuba.ac.jp/career/?p=17529
-――――――――――――――――――――――
-【そのほかのイベント情報】
-◆4/13(水)　14…]]></summary>
     </entry>
 </feed>

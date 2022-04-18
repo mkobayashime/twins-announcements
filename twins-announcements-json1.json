@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "ea42080355a06f5abeff5eb64d0008b7",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=2981",
+            "title": "本日から4/18(月)「留学相談強化週間」開催！予約不要！",
+            "summary": "「留学相談強化週間」を開催します。\n\n留学に行きたいけど、何をしたらいいのかわからない。\n留学先はどのように決定するのか？　行きたい大学が決まっているんだけど。。。\nと、留学を考え始めたばかりのあなたも、具体的に行動を始めているあなたも。\n気軽に会場を覗いてみてください！\n\n期間　4/18（月）～4/22（金）\n時間　14時～17時\n場所　バーチャルスチューデント・コモンズ（oVice／ｵﾝﾗｲﾝ…",
+            "date_modified": "2022-04-18T03:00:00.000Z"
+        },
+        {
             "id": "54f79a7d71ab5755a6d1f41b7c80dec1",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=2980",
             "title": "パリ第8大学　留学説明会（5月12日（木）18時～）",
@@ -135,13 +142,6 @@
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=2959",
             "title": "[4/26 15:10-] 「熟議民主主義は格差・不平等を解決できるか? 」（第9回DDPIセミナー）",
             "summary": "人文社会系「デジタル民主主義と政治的不平等（DDPI, Digital Democracy and Political Inequality）」研究プロジェクトでは、格差・不平等の政策的解決、そのためのデジタル技術の可能性（デジタル民主主義）などをテーマとしつつ、2022年度もセミナー・シリーズを断続的に開催してまいります。\n\n第9回のセミナーは4月26日（火）開催としまして、本学人文社会系准教授…",
-            "date_modified": "2022-04-07T03:00:00.000Z"
-        },
-        {
-            "id": "a96c9f6108a8b1e5a1b8070e02ef164c",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=2958",
-            "title": "【4/20開催】就活＆インターンシップ ガイダンス",
-            "summary": "就活＆インターンシップ ガイダンスを開催します。\n4/20(水)　15:15-16:35\n就活＆インターンシップ　ガイダンス\n対象：主に学群3年生、修士・博士前期１年生\n※他の学年の参加も歓迎\n詳細：\nhttps://syushoku.sec.tsukuba.ac.jp/career/?p=17529\n――――――――――――――――――――――\n【そのほかのイベント情報】\n◆4/13(水)　14…",
             "date_modified": "2022-04-07T03:00:00.000Z"
         }
     ]
