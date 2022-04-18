@@ -2,10 +2,36 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/mkobayashime/twins-announcements</id>
     <title>在学生へのお知らせ | 筑波大学</title>
-    <updated>2022-04-18T09:10:16.065Z</updated>
+    <updated>2022-04-18T13:19:53.491Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://github.com/mkobayashime/twins-announcements"/>
     <subtitle>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</subtitle>
+    <entry>
+        <title type="html"><![CDATA[スポーツ・デー学生委員会からのお知らせ]]></title>
+        <id>199cc49950256c6d7405fa2d4181e2de</id>
+        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=2987"/>
+        <updated>2022-04-18T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[スポーツ・デー学生委員会より以下のとおり周知依頼がありましたのでお知らせします。
+
+-------------------------------------------------------------------------
+秋季スポーツ・デーe-sports新種目に関するアンケートについて
+
+筑波大学スポーツ・デー学生委員会からのお知らせです。
+スポーツ・デー学生委員会では11月に行う秋季…]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[スポーツ・デー学生委員会からのお知らせ]]></title>
+        <id>199cc49950256c6d7405fa2d4181e2de</id>
+        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=2986"/>
+        <updated>2022-04-18T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[スポーツ・デー学生委員会より以下のとおり周知依頼がありましたのでお知らせします。
+
+-------------------------------------------------------------------------
+秋季スポーツ・デーe-sports新種目に関するアンケートについて
+
+筑波大学スポーツ・デー学生委員会からのお知らせです。
+スポーツ・デー学生委員会では11月に行う秋季…]]></summary>
+    </entry>
     <entry>
         <title type="html"><![CDATA[芸術専門学群の応募要件科目等の記載に関する修正について]]></title>
         <id>2fdf8e7c96d7562fec13979838b921eb</id>
@@ -235,28 +261,5 @@ Email：isc-kaigai@un.tsukuba.ac.jp]]></summary>
 令和４年度学年暦において、定期健康診断の実施時間に当たる学群・学類の当該年次及び大学院の授業は臨時休講するとしておりましたが、令和４年度学生定期健康診断は、別紙のとおり全日受診可能の予約制で実施することから、学生定期健康診断期間中の授業の臨時休講は行わないこととします。
 つきましては、適宜ご自身の履修計画と照らし合わせた上で、定期健康診断を受診してください。
 ]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[To All the students (NOTICE)：Classes to be held during the 2022 Health Examination for Students]]></title>
-        <id>6099cd3ad7c414f84157608d963ec147</id>
-        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=2966"/>
-        <updated>2022-04-11T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[To All the students
-
-In the Academic Calendar 2022-2023, it was stated that the classes for the undergraduate school and graduate school would be temporarily cancelled during the periodic health exami…]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[To All the students (NOTICE)：Changes in Class Dates in 2022]]></title>
-        <id>d57c49cd23a74432001c55e75dd04c36</id>
-        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=2964"/>
-        <updated>2022-04-08T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[To All the students
-
-In order to ensure certain number of class days, classes on listed dates are scheduled to be held as follows (excluding Tokyo Campus):
-
-　　　　　　　　　　　　Statement
-
-【Spring semester】
-Tu…]]></summary>
     </entry>
 </feed>
