@@ -4,10 +4,25 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Mon, 18 Apr 2022 05:09:08 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 18 Apr 2022 07:06:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
+        <item>
+            <title><![CDATA[【社会学類】社会学類生対象モバイルバッテリーの貸出]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=2983</link>
+            <guid>5bebbf743a0c308ce8aad54a9de70820</guid>
+            <pubDate>Mon, 18 Apr 2022 03:00:00 GMT</pubDate>
+            <description><![CDATA[モバイルバッテリーの貸出について
+
+　社会学類では、社会学類生を対象としたモバイルバッテリー（エレコム DE-AC02-3350）の
+　貸出をいたします。
+　貸出期間は原則１週間です。使用後は充電してご返却ください。
+
+　希望者は社会学類長室（１A棟３階人文社会エリア支援室内：sec.shakai@un.tsukuba.ac.jp）　
+　までご連絡ください。
+]]></description>
+        </item>
         <item>
             <title><![CDATA[【重要】新型コロナワクチン職域接種（大学拠点接種）（３回目）について / Workplace COVID-19 Vaccination (3rd University Vaccination)]]></title>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=2982</link>
@@ -245,20 +260,6 @@ Tu…]]></description>
 
 University of Tsukuba conducts the undergraduate final examinations in 2022 as stated below.
 Classrooms assigned the examinations might be changed, thus, please pay …]]></description>
-        </item>
-        <item>
-            <title><![CDATA[令和４年度学群期末試験について]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=2961</link>
-            <guid>b7d1ad63e6b6346fdc6995c367c36687</guid>
-            <pubDate>Fri, 08 Apr 2022 03:00:00 GMT</pubDate>
-            <description><![CDATA[学群学生各位
-
-　標記の試験については、下記の期間に実施する。
-　なお、実施に当たっては、教室等を変更する場合があるので、掲示等に十分留意し誤りのないように受験されたい。
-　また、受験に当たっては、次の諸点に注意すること。
-１　学生証を机上に提示すること。
-２　書き終わった答案用紙は、裏返して机上に置くこと。
-３　携帯電話、スマートフォン等は、試験室に入る前に電源を切り、かばん等（ただし、衣服を除…]]></description>
         </item>
     </channel>
 </rss>

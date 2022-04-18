@@ -2,10 +2,25 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/mkobayashime/twins-announcements</id>
     <title>在学生へのお知らせ | 筑波大学</title>
-    <updated>2022-04-18T05:09:08.749Z</updated>
+    <updated>2022-04-18T07:06:08.337Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://github.com/mkobayashime/twins-announcements"/>
     <subtitle>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</subtitle>
+    <entry>
+        <title type="html"><![CDATA[【社会学類】社会学類生対象モバイルバッテリーの貸出]]></title>
+        <id>5bebbf743a0c308ce8aad54a9de70820</id>
+        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=2983"/>
+        <updated>2022-04-18T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[モバイルバッテリーの貸出について
+
+　社会学類では、社会学類生を対象としたモバイルバッテリー（エレコム DE-AC02-3350）の
+　貸出をいたします。
+　貸出期間は原則１週間です。使用後は充電してご返却ください。
+
+　希望者は社会学類長室（１A棟３階人文社会エリア支援室内：sec.shakai@un.tsukuba.ac.jp）　
+　までご連絡ください。
+]]></summary>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【重要】新型コロナワクチン職域接種（大学拠点接種）（３回目）について / Workplace COVID-19 Vaccination (3rd University Vaccination)]]></title>
         <id>28de454c5b2ab9688434bfbc0b71e3f6</id>
@@ -243,19 +258,5 @@ Tu…]]></summary>
 
 University of Tsukuba conducts the undergraduate final examinations in 2022 as stated below.
 Classrooms assigned the examinations might be changed, thus, please pay …]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[令和４年度学群期末試験について]]></title>
-        <id>b7d1ad63e6b6346fdc6995c367c36687</id>
-        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=2961"/>
-        <updated>2022-04-08T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[学群学生各位
-
-　標記の試験については、下記の期間に実施する。
-　なお、実施に当たっては、教室等を変更する場合があるので、掲示等に十分留意し誤りのないように受験されたい。
-　また、受験に当たっては、次の諸点に注意すること。
-１　学生証を机上に提示すること。
-２　書き終わった答案用紙は、裏返して机上に置くこと。
-３　携帯電話、スマートフォン等は、試験室に入る前に電源を切り、かばん等（ただし、衣服を除…]]></summary>
     </entry>
 </feed>
