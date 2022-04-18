@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "28de454c5b2ab9688434bfbc0b71e3f6",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=2982",
+            "title": "【重要】新型コロナワクチン職域接種（大学拠点接種）（３回目）について / Workplace COVID-19 Vaccination (3rd University Vaccination)",
+            "summary": "本学での新型コロナワクチン職域接種について、詳細の実施内容を本学公式ホームページに掲載しました。\n本学で3回目接種を希望される学生の皆さんは、必ず内容をご確認ください。\nThe details of the Workplace COVID-19 Vaccination at the University have been posted on the official website of our…",
+            "date_modified": "2022-04-18T03:00:00.000Z"
+        },
+        {
             "id": "ea42080355a06f5abeff5eb64d0008b7",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=2981",
             "title": "本日から4/18(月)「留学相談強化週間」開催！予約不要！",
@@ -136,13 +143,6 @@
             "title": "令和４年度学群期末試験について",
             "summary": "学群学生各位\n\n　標記の試験については、下記の期間に実施する。\n　なお、実施に当たっては、教室等を変更する場合があるので、掲示等に十分留意し誤りのないように受験されたい。\n　また、受験に当たっては、次の諸点に注意すること。\n１　学生証を机上に提示すること。\n２　書き終わった答案用紙は、裏返して机上に置くこと。\n３　携帯電話、スマートフォン等は、試験室に入る前に電源を切り、かばん等（ただし、衣服を除…",
             "date_modified": "2022-04-08T03:00:00.000Z"
-        },
-        {
-            "id": "b9b42b3bbc0caee183aa6b9e8b37172c",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=2959",
-            "title": "[4/26 15:10-] 「熟議民主主義は格差・不平等を解決できるか? 」（第9回DDPIセミナー）",
-            "summary": "人文社会系「デジタル民主主義と政治的不平等（DDPI, Digital Democracy and Political Inequality）」研究プロジェクトでは、格差・不平等の政策的解決、そのためのデジタル技術の可能性（デジタル民主主義）などをテーマとしつつ、2022年度もセミナー・シリーズを断続的に開催してまいります。\n\n第9回のセミナーは4月26日（火）開催としまして、本学人文社会系准教授…",
-            "date_modified": "2022-04-07T03:00:00.000Z"
         }
     ]
 }

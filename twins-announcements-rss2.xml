@@ -4,10 +4,19 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Mon, 18 Apr 2022 02:47:16 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 18 Apr 2022 05:09:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
+        <item>
+            <title><![CDATA[【重要】新型コロナワクチン職域接種（大学拠点接種）（３回目）について / Workplace COVID-19 Vaccination (3rd University Vaccination)]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=2982</link>
+            <guid>28de454c5b2ab9688434bfbc0b71e3f6</guid>
+            <pubDate>Mon, 18 Apr 2022 03:00:00 GMT</pubDate>
+            <description><![CDATA[本学での新型コロナワクチン職域接種について、詳細の実施内容を本学公式ホームページに掲載しました。
+本学で3回目接種を希望される学生の皆さんは、必ず内容をご確認ください。
+The details of the Workplace COVID-19 Vaccination at the University have been posted on the official website of our…]]></description>
+        </item>
         <item>
             <title><![CDATA[本日から4/18(月)「留学相談強化週間」開催！予約不要！]]></title>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=2981</link>
@@ -250,15 +259,6 @@ Classrooms assigned the examinations might be changed, thus, please pay …]]></
 １　学生証を机上に提示すること。
 ２　書き終わった答案用紙は、裏返して机上に置くこと。
 ３　携帯電話、スマートフォン等は、試験室に入る前に電源を切り、かばん等（ただし、衣服を除…]]></description>
-        </item>
-        <item>
-            <title><![CDATA[[4/26 15:10-] 「熟議民主主義は格差・不平等を解決できるか? 」（第9回DDPIセミナー）]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=2959</link>
-            <guid>b9b42b3bbc0caee183aa6b9e8b37172c</guid>
-            <pubDate>Thu, 07 Apr 2022 03:00:00 GMT</pubDate>
-            <description><![CDATA[人文社会系「デジタル民主主義と政治的不平等（DDPI, Digital Democracy and Political Inequality）」研究プロジェクトでは、格差・不平等の政策的解決、そのためのデジタル技術の可能性（デジタル民主主義）などをテーマとしつつ、2022年度もセミナー・シリーズを断続的に開催してまいります。
-
-第9回のセミナーは4月26日（火）開催としまして、本学人文社会系准教授…]]></description>
         </item>
     </channel>
 </rss>
