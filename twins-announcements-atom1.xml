@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/mkobayashime/twins-announcements</id>
     <title>在学生へのお知らせ | 筑波大学</title>
-    <updated>2022-04-20T05:27:16.518Z</updated>
+    <updated>2022-04-20T08:13:12.833Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://github.com/mkobayashime/twins-announcements"/>
     <subtitle>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</subtitle>
+    <entry>
+        <title type="html"><![CDATA[【お知らせ】筑波大学ピアサポートチームから、新入生向けお悩み解決イベント]]></title>
+        <id>79b8d8df70b1ccd7d5fc070c782de3bf</id>
+        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=2991"/>
+        <updated>2022-04-20T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[筑波大学ピアサポートチームからのお知らせです。
+ピアサポートチームは、「仲間同士の支え合い」をモットーに、あたたかなキャンパスづくりを目指して活動している学生相談室内の組織です。
+
+新入生の皆さん、入学して1か月が経とうとしていますが、まだまだ慣れない生活が続いていることと思います。そこで、新入生のお悩みを解決すべく、座談会配信を企画しました。学類1年生だけではなく、院の1年生の方や、我こそは新入…]]></summary>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【参加者募集】Biomedical Innovation ＆ Entrepreneurship Training Course for SPARK Asia and Oceania]]></title>
         <id>f48180e87a55eb4dfc01687966722c04</id>
@@ -249,13 +259,5 @@ https://forms.gle/mw7SdgzkHyL1aRnW7
 学生部学生交流課（海外留学）
 Tel：029-853-6792
 Email：isc-kaigai@un.tsukuba.ac.jp]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【周知】新型コロナワクチン職域接種（大学拠点接種）（３回目）の実施について]]></title>
-        <id>bbdf06b40f300efbf48c09bf833ddc04</id>
-        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=2969"/>
-        <updated>2022-04-11T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[本学では、新型コロナワクチン職域接種（大学拠点接種）（３回目）を実施いたします。
-本学公式HPへ実施案内を掲載しましたので、詳細は以下のURLから確認してください。]]></summary>
     </entry>
 </feed>
