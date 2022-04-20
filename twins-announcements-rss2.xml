@@ -4,10 +4,20 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Tue, 19 Apr 2022 21:09:15 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 20 Apr 2022 04:00:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
+        <item>
+            <title><![CDATA[カナダのプリンスエドワード島大学夏期英語研修（比較文化国際研修II ）の説明会開催]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=2989</link>
+            <guid>8c2484c701c1f709363f02a4876c4526</guid>
+            <pubDate>Wed, 20 Apr 2022 03:00:00 GMT</pubDate>
+            <description><![CDATA[カナダのプリンスエドワード島大学夏期英語研修（比較文化国際研修II  (AC66013)）の説明会を
+４月２７日（１１時３０分から１２時）にオンラインで開催します。
+詳細は添付ポスターを参照ください。
+]]></description>
+        </item>
         <item>
             <title><![CDATA[春の図書館講習会について / Library Workshops]]></title>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=2988</link>
@@ -256,17 +266,6 @@ Email：isc-kaigai@un.tsukuba.ac.jp]]></description>
 - 海外留学のための奨学金「はばたけ！筑大生」4月期募集開始！
 
 ＜オ…]]></description>
-        </item>
-        <item>
-            <title><![CDATA[【通知】令和４年度学生定期健康診断期間中の授業の実施について]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=2967</link>
-            <guid>e1188914dcd191cd0fc8ee818f92b554</guid>
-            <pubDate>Mon, 11 Apr 2022 03:00:00 GMT</pubDate>
-            <description><![CDATA[学生各位
-
-令和４年度学年暦において、定期健康診断の実施時間に当たる学群・学類の当該年次及び大学院の授業は臨時休講するとしておりましたが、令和４年度学生定期健康診断は、別紙のとおり全日受診可能の予約制で実施することから、学生定期健康診断期間中の授業の臨時休講は行わないこととします。
-つきましては、適宜ご自身の履修計画と照らし合わせた上で、定期健康診断を受診してください。
-]]></description>
         </item>
     </channel>
 </rss>

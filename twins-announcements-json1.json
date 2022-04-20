@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "8c2484c701c1f709363f02a4876c4526",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=2989",
+            "title": "カナダのプリンスエドワード島大学夏期英語研修（比較文化国際研修II ）の説明会開催",
+            "summary": "カナダのプリンスエドワード島大学夏期英語研修（比較文化国際研修II  (AC66013)）の説明会を\n４月２７日（１１時３０分から１２時）にオンラインで開催します。\n詳細は添付ポスターを参照ください。\n",
+            "date_modified": "2022-04-20T03:00:00.000Z"
+        },
+        {
             "id": "ce6d8cc0fcba6b6b96ba62a77eb2ba0b",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=2988",
             "title": "春の図書館講習会について / Library Workshops",
@@ -135,13 +142,6 @@
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=2968",
             "title": "留学情報・国際交流イベント情報について",
             "summary": "留学情報や国際交流イベント等の情報は、スチューデントサポートセンター国際交流支援室ウェブサイトにて発信しています。下記URLよりウェブサイトへお越しください！\n\n＜海外留学情報＞\n- 海外留学を希望する方へ（留学の基本情報）\n- CiC及び全学対象協定校への交換留学の公募について\n- 留学相談（オンライン）4月18日開始予定！\n- 海外留学のための奨学金「はばたけ！筑大生」4月期募集開始！\n\n＜オ…",
-            "date_modified": "2022-04-11T03:00:00.000Z"
-        },
-        {
-            "id": "e1188914dcd191cd0fc8ee818f92b554",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=2967",
-            "title": "【通知】令和４年度学生定期健康診断期間中の授業の実施について",
-            "summary": "学生各位\n\n令和４年度学年暦において、定期健康診断の実施時間に当たる学群・学類の当該年次及び大学院の授業は臨時休講するとしておりましたが、令和４年度学生定期健康診断は、別紙のとおり全日受診可能の予約制で実施することから、学生定期健康診断期間中の授業の臨時休講は行わないこととします。\nつきましては、適宜ご自身の履修計画と照らし合わせた上で、定期健康診断を受診してください。\n",
             "date_modified": "2022-04-11T03:00:00.000Z"
         }
     ]
