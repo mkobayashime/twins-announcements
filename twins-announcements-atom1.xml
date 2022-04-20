@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/mkobayashime/twins-announcements</id>
     <title>在学生へのお知らせ | 筑波大学</title>
-    <updated>2022-04-20T15:16:39.069Z</updated>
+    <updated>2022-04-20T21:08:51.706Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://github.com/mkobayashime/twins-announcements"/>
     <subtitle>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</subtitle>
@@ -61,13 +61,18 @@ In the …]]></summary>
         <id>2fdf8e7c96d7562fec13979838b921eb</id>
         <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=2985"/>
         <updated>2022-04-18T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[スポーツ・デー学生委員会より以下のとおり周知依頼がありましたのでお知らせします。
+        <summary type="html"><![CDATA[応募要件・重点科目の修正について
 
--------------------------------------------------------------------------
-秋季スポーツ・デーe-sports新種目に関するアンケートについて
+入学時にみなさんに配付した移行関係の冊子に記載されている芸術専門学群の応募要件・重点科目について、
+下記のとおり修正がありました。
 
-筑波大学スポーツ・デー学生委員会からのお知らせです。
-スポーツ・デー学生委員会では11月に行う秋季…]]></summary>
+ついては、①については修正した冊子を再配付します。
+【4/19（火）14:00~4/26（火）まで】に学生証を持参のうえ、
+アカデミックサポートセンターに取りに来てください。
+
+＜誤＞
+
+①『令和5年度(2023年度）筑波大学総合…]]></summary>
     </entry>
     <entry>
         <title type="html"><![CDATA[パリ第8大学　2022年秋学期渡航の交換留学生公募及び留学説明会（5月12日18時）]]></title>
@@ -247,7 +252,14 @@ Email：isc-kaigai@un.tsukuba.ac.jp]]></summary>
         <id>086ff6d4da3c4a4860b04245e3f4f85b</id>
         <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=2968"/>
         <updated>2022-04-11T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[本学では、新型コロナワクチン職域接種（大学拠点接種）（３回目）を実施いたします。
-本学公式HPへ実施案内を掲載しましたので、詳細は以下のURLから確認してください。]]></summary>
+        <summary type="html"><![CDATA[留学情報や国際交流イベント等の情報は、スチューデントサポートセンター国際交流支援室ウェブサイトにて発信しています。下記URLよりウェブサイトへお越しください！
+
+＜海外留学情報＞
+- 海外留学を希望する方へ（留学の基本情報）
+- CiC及び全学対象協定校への交換留学の公募について
+- 留学相談（オンライン）4月18日開始予定！
+- 海外留学のための奨学金「はばたけ！筑大生」4月期募集開始！
+
+＜オ…]]></summary>
     </entry>
 </feed>
