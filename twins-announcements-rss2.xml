@@ -4,10 +4,22 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Wed, 20 Apr 2022 21:08:51 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Apr 2022 02:52:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
+        <item>
+            <title><![CDATA[【参加者募集！】SDGs×TSUKUBA ~SDGsをChatする～]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=2992</link>
+            <guid>3e923cf821bbcb1cac80fb623a79a9f0</guid>
+            <pubDate>Thu, 21 Apr 2022 03:00:00 GMT</pubDate>
+            <description><![CDATA[SDGsについて、自分の研究や学問分野を基に、協定校学生と英語で議論してみませんか？
+昨年度、単発開催した”SDGs×TSUKUBA”ですが、とても好評だったため、今年度は月1回のシリーズとして開催していきます！
+得意な分野を選んで参加してください。全部参加してもOKです！
+世界の学生と交流したい方、英語のスピーキングを向上させたい方、是非参加してください！
+
+日時とテーマ：第1回　2022年5月…]]></description>
+        </item>
         <item>
             <title><![CDATA[【お知らせ】筑波大学ピアサポートチームから、新入生向けお悩み解決イベント]]></title>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=2991</link>
@@ -248,21 +260,6 @@ Email：isc-kaigai@un.tsukuba.ac.jp]]></description>
             <pubDate>Mon, 11 Apr 2022 03:00:00 GMT</pubDate>
             <description><![CDATA[本学では、新型コロナワクチン職域接種（大学拠点接種）（３回目）を実施いたします。
 本学公式HPへ実施案内を掲載しましたので、詳細は以下のURLから確認してください。]]></description>
-        </item>
-        <item>
-            <title><![CDATA[留学情報・国際交流イベント情報について]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=2968</link>
-            <guid>086ff6d4da3c4a4860b04245e3f4f85b</guid>
-            <pubDate>Mon, 11 Apr 2022 03:00:00 GMT</pubDate>
-            <description><![CDATA[留学情報や国際交流イベント等の情報は、スチューデントサポートセンター国際交流支援室ウェブサイトにて発信しています。下記URLよりウェブサイトへお越しください！
-
-＜海外留学情報＞
-- 海外留学を希望する方へ（留学の基本情報）
-- CiC及び全学対象協定校への交換留学の公募について
-- 留学相談（オンライン）4月18日開始予定！
-- 海外留学のための奨学金「はばたけ！筑大生」4月期募集開始！
-
-＜オ…]]></description>
         </item>
     </channel>
 </rss>
