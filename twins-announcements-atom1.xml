@@ -2,10 +2,18 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/mkobayashime/twins-announcements</id>
     <title>在学生へのお知らせ | 筑波大学</title>
-    <updated>2022-04-21T02:52:36.678Z</updated>
+    <updated>2022-04-21T07:04:22.213Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://github.com/mkobayashime/twins-announcements"/>
     <subtitle>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</subtitle>
+    <entry>
+        <title type="html"><![CDATA[【募集】全学群対象R4年度「障害学生支援技術」について]]></title>
+        <id>20f40b83411e37409fda29ca052871dd</id>
+        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=2993"/>
+        <updated>2022-04-21T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[　【自由科目（特設）科目番号8100102 「障害学生支援技術」】
+　本授業では、オンライン（オンデマンド型）にて本学における障害学生支援のしくみと視覚障害、聴覚障害、運動・内部障害、発達障害等のニーズに関する実際の支援内容について学びます。その後、対面とオンラインを併用し、各支援技術別に実施する講義・演習として、印刷物のテキストデータ化、パソコン要約筆記、ノートテイク、学習・コミュニケーション支…]]></summary>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【参加者募集！】SDGs×TSUKUBA ~SDGsをChatする～]]></title>
         <id>3e923cf821bbcb1cac80fb623a79a9f0</id>
@@ -250,13 +258,5 @@ https://forms.gle/mw7SdgzkHyL1aRnW7
 学生部学生交流課（海外留学）
 Tel：029-853-6792
 Email：isc-kaigai@un.tsukuba.ac.jp]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【周知】新型コロナワクチン職域接種（大学拠点接種）（３回目）の実施について]]></title>
-        <id>bbdf06b40f300efbf48c09bf833ddc04</id>
-        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=2969"/>
-        <updated>2022-04-11T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[本学では、新型コロナワクチン職域接種（大学拠点接種）（３回目）を実施いたします。
-本学公式HPへ実施案内を掲載しましたので、詳細は以下のURLから確認してください。]]></summary>
     </entry>
 </feed>

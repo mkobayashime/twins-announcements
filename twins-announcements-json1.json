@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "20f40b83411e37409fda29ca052871dd",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=2993",
+            "title": "【募集】全学群対象R4年度「障害学生支援技術」について",
+            "summary": "　【自由科目（特設）科目番号8100102 「障害学生支援技術」】\n　本授業では、オンライン（オンデマンド型）にて本学における障害学生支援のしくみと視覚障害、聴覚障害、運動・内部障害、発達障害等のニーズに関する実際の支援内容について学びます。その後、対面とオンラインを併用し、各支援技術別に実施する講義・演習として、印刷物のテキストデータ化、パソコン要約筆記、ノートテイク、学習・コミュニケーション支…",
+            "date_modified": "2022-04-21T03:00:00.000Z"
+        },
+        {
             "id": "3e923cf821bbcb1cac80fb623a79a9f0",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=2992",
             "title": "【参加者募集！】SDGs×TSUKUBA ~SDGsをChatする～",
@@ -136,13 +143,6 @@
             "title": "2022年度夏季セブ島短期英語研修の実施について",
             "summary": "2022年度夏季セブ島短期英語研修は、新型コロナウイルス感染症の世界的な影響拡大により、募集は中止します。\n\n　中止科目：8030106　フィリピン英語研修Ⅰ（夏季集中）\n\n【問い合わせ先】\n学生部学生交流課（海外留学）\nTel：029-853-6792\nEmail：isc-kaigai@un.tsukuba.ac.jp",
             "date_modified": "2022-04-14T03:00:00.000Z"
-        },
-        {
-            "id": "bbdf06b40f300efbf48c09bf833ddc04",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=2969",
-            "title": "【周知】新型コロナワクチン職域接種（大学拠点接種）（３回目）の実施について",
-            "summary": "本学では、新型コロナワクチン職域接種（大学拠点接種）（３回目）を実施いたします。\n本学公式HPへ実施案内を掲載しましたので、詳細は以下のURLから確認してください。",
-            "date_modified": "2022-04-11T03:00:00.000Z"
         }
     ]
 }
