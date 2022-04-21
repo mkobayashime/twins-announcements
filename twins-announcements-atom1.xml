@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/mkobayashime/twins-announcements</id>
     <title>在学生へのお知らせ | 筑波大学</title>
-    <updated>2022-04-21T15:15:33.171Z</updated>
+    <updated>2022-04-21T21:09:09.174Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://github.com/mkobayashime/twins-announcements"/>
     <subtitle>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</subtitle>
@@ -19,8 +19,12 @@
         <id>3e923cf821bbcb1cac80fb623a79a9f0</id>
         <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=2992"/>
         <updated>2022-04-21T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[　【自由科目（特設）科目番号8100102 「障害学生支援技術」】
-　本授業では、オンライン（オンデマンド型）にて本学における障害学生支援のしくみと視覚障害、聴覚障害、運動・内部障害、発達障害等のニーズに関する実際の支援内容について学びます。その後、対面とオンラインを併用し、各支援技術別に実施する講義・演習として、印刷物のテキストデータ化、パソコン要約筆記、ノートテイク、学習・コミュニケーション支…]]></summary>
+        <summary type="html"><![CDATA[SDGsについて、自分の研究や学問分野を基に、協定校学生と英語で議論してみませんか？
+昨年度、単発開催した”SDGs×TSUKUBA”ですが、とても好評だったため、今年度は月1回のシリーズとして開催していきます！
+得意な分野を選んで参加してください。全部参加してもOKです！
+世界の学生と交流したい方、英語のスピーキングを向上させたい方、是非参加してください！
+
+日時とテーマ：第1回　2022年5月…]]></summary>
     </entry>
     <entry>
         <title type="html"><![CDATA[【お知らせ】筑波大学ピアサポートチームから、新入生向けお悩み解決イベント]]></title>
@@ -214,16 +218,9 @@ https://teket.jp/1479/11731
         <id>09006f8e5a4fd73474f9154292225dd7</id>
         <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=2975"/>
         <updated>2022-04-14T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[「留学相談強化週間」を開催します。
-
-留学に行きたいけど、何をしたらいいのか。
-留学先はどのように決定するのか。行きたい大学が決まっているんだけど。。。
-と、留学を考え始めたばかりのあなたも、具体的に行動を始めているあなたも。
-気軽に会場を覗いてみてください！
-
-期間　4/18（月）～4/22（金）
-時間　14時～17時
-場所　バーチャルスチューデント・コモンズ（oVice／ｵﾝﾗｲﾝ）https…]]></summary>
+        <summary type="html"><![CDATA[厚生労働省から、大学生向けに新型コロナワクチン接種（3回目）の啓発案内がありました。
+学生の皆さんにあっては、新型コロナウイルス感染後の重症化や後遺症を防ぐため、３回目接種をご検討下さい。
+詳細は以下のリンク（厚生労働省HP）をご確認ください。]]></summary>
     </entry>
     <entry>
         <title type="html"><![CDATA[Notice of Implementation of Workplace COVID-19 Vaccination (3rd University Vaccination)]]></title>
