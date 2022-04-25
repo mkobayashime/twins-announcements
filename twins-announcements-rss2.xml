@@ -4,10 +4,26 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Mon, 25 Apr 2022 09:15:22 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Apr 2022 11:08:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
+        <item>
+            <title><![CDATA[5/20(金）学生のための実験廃棄物管理研修会を行います。]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3000</link>
+            <guid>f142d022c62a80b857971822e30a2e1f</guid>
+            <pubDate>Mon, 25 Apr 2022 03:00:00 GMT</pubDate>
+            <description><![CDATA[目的
+
+実験に携わる学群・大学院生向けに，化学物質の危険性や有害性を伝え，事件事故や健康障害を引き起こすリスクを減らすこと
+動物実験系廃棄物の排出者向けに，具体的な解説を交えて処理依頼上の注意事項を伝え，適切な排出法の周知をすること
+
+開催日時および場所
+
+日時：令和４年５月２０日（金）１６時４５分～１８時００分
+場所：大学会館ホール（収容人数：約250人）
+※　オンデマンド開催については別途お知…]]></description>
+        </item>
         <item>
             <title><![CDATA[【Online Japanese Chat Event】 J-Chat～にほんごではなそ～2022 Spring]]></title>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=2999</link>
@@ -246,13 +262,6 @@ https://teket.jp/1479/11731
 　　　C.P.E.バッハ ヴァイオリン協奏曲 二短調 第1楽章
 　　　シューマン ヴァイオリン・ソナタ第1番
 　　…]]></description>
-        </item>
-        <item>
-            <title><![CDATA[【開催案内】7th Special Lecture and Discussion Series "Central Eurasian Studies in East Asia and Beyond"]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=2977</link>
-            <guid>e01524a2b5e562263dc9f0f6d08ce6e5</guid>
-            <pubDate>Fri, 15 Apr 2022 03:00:00 GMT</pubDate>
-            <description><![CDATA[The Special Program in Japanese and Eurasian Studies and the Nippon Foundation Central Asia-Japan Human Resource Development Project (NipCA) are pleased to invite you to the 7th Special Lecture and Di…]]></description>
         </item>
     </channel>
 </rss>

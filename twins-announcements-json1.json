@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "f142d022c62a80b857971822e30a2e1f",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3000",
+            "title": "5/20(金）学生のための実験廃棄物管理研修会を行います。",
+            "summary": "目的\n\n実験に携わる学群・大学院生向けに，化学物質の危険性や有害性を伝え，事件事故や健康障害を引き起こすリスクを減らすこと\n動物実験系廃棄物の排出者向けに，具体的な解説を交えて処理依頼上の注意事項を伝え，適切な排出法の周知をすること\n\n開催日時および場所\n\n日時：令和４年５月２０日（金）１６時４５分～１８時００分\n場所：大学会館ホール（収容人数：約250人）\n※　オンデマンド開催については別途お知…",
+            "date_modified": "2022-04-25T03:00:00.000Z"
+        },
+        {
             "id": "143d07bb7fe23105c1c853bb779c50f2",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=2999",
             "title": "【Online Japanese Chat Event】 J-Chat～にほんごではなそ～2022 Spring",
@@ -135,13 +142,6 @@
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=2978",
             "title": "塙美里 サクソフォンが彩るクラッシックの世界　【第1回TRSサロンシリーズ】",
             "summary": "2022年5月29日（日）14:00開演（13:15開場）\n場所：つくばアルスホール\n一般チケット：1,500円　学生チケット：500円　\nチケット申し込みはこちらから\nhttps://teket.jp/1479/11731\n\n曲目：ヴィヴァルディ フルート協奏曲 作品10-2“夜”\n　　　C.P.E.バッハ ヴァイオリン協奏曲 二短調 第1楽章\n　　　シューマン ヴァイオリン・ソナタ第1番\n　　…",
-            "date_modified": "2022-04-15T03:00:00.000Z"
-        },
-        {
-            "id": "e01524a2b5e562263dc9f0f6d08ce6e5",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=2977",
-            "title": "【開催案内】7th Special Lecture and Discussion Series \"Central Eurasian Studies in East Asia and Beyond\"",
-            "summary": "The Special Program in Japanese and Eurasian Studies and the Nippon Foundation Central Asia-Japan Human Resource Development Project (NipCA) are pleased to invite you to the 7th Special Lecture and Di…",
             "date_modified": "2022-04-15T03:00:00.000Z"
         }
     ]
