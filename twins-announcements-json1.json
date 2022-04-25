@@ -5,6 +5,20 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "546ae046bc0da6d8c9d294b1a43ed3bb",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=2996",
+            "title": "Apply Now for the Certificate Programme on Nature Conservation (Spring Semester)!",
+            "summary": "Apply now for the Certificate Programme on Nature Conservation of 2022!\n\nApplication Period From 5 Tue April to 26 Tue April (15:00), 2022\n\nFor further information, please visit our webpage;\nhttps://w…",
+            "date_modified": "2022-04-25T03:00:00.000Z"
+        },
+        {
+            "id": "455f564a4e76ccdbc757a620cc9ecf27",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=2995",
+            "title": "自然保護寄附講座第９期生春募集！[Apply Now for the CPNC (Spring Semester)!]",
+            "summary": "自然保護寄附講座では筑波大学大学院生を対象として、第９期生（2022年度春履修開始）を募集しています。\n\n<自然保護寄附講座第９期生（2022年度春履修開始）募集中>\n募集案内ページ　https://www.conservation.tsukuba.ac.jp/\n\n〆切：4月26日（火）15:00\n\n是非ご応募ください！",
+            "date_modified": "2022-04-25T03:00:00.000Z"
+        },
+        {
             "id": "6bbc508d55111385a6fdf76bd74cdd8b",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=2994",
             "title": "【再掲】新型コロナワクチン職域接種（大学拠点接種）（３回目）について / Workplace COVID-19 Vaccination (3rd University Vaccination)",
@@ -129,20 +143,6 @@
             "title": "【CEGLOC】日本語授業ボランティア募集について",
             "summary": "CEGLOCで開講する日本語の授業では、学生と一緒に学習活動に参加してくださる\nボランティアを随時募集しています。\n\nご興味のある方は、以下のフォームより日本語授業ボランティア登録をお願いします。\nhttps://forms.gle/mw7SdgzkHyL1aRnW7\nこちらのフォームに登録しておくと、担当教員よりボランティア募集があった際に\n登録したメールアドレスに情報が届きます。\n\n※本学の学…",
             "date_modified": "2022-04-14T03:00:00.000Z"
-        },
-        {
-            "id": "3905bf7dbe2dd2a3a3f36bea83b74d15",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=2970",
-            "title": "2022年度夏季セブ島短期英語研修の実施について",
-            "summary": "2022年度夏季セブ島短期英語研修は、新型コロナウイルス感染症の世界的な影響拡大により、募集は中止します。\n\n　中止科目：8030106　フィリピン英語研修Ⅰ（夏季集中）\n\n【問い合わせ先】\n学生部学生交流課（海外留学）\nTel：029-853-6792\nEmail：isc-kaigai@un.tsukuba.ac.jp",
-            "date_modified": "2022-04-14T03:00:00.000Z"
-        },
-        {
-            "id": "bbdf06b40f300efbf48c09bf833ddc04",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=2969",
-            "title": "【周知】新型コロナワクチン職域接種（大学拠点接種）（３回目）の実施について",
-            "summary": "本学では、新型コロナワクチン職域接種（大学拠点接種）（３回目）を実施いたします。\n本学公式HPへ実施案内を掲載しましたので、詳細は以下のURLから確認してください。",
-            "date_modified": "2022-04-11T03:00:00.000Z"
         }
     ]
 }
