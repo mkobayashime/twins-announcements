@@ -5,6 +5,20 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "143d07bb7fe23105c1c853bb779c50f2",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=2999",
+            "title": "【Online Japanese Chat Event】 J-Chat～にほんごではなそ～2022 Spring",
+            "summary": "「J-Chat～にほんごではなそ～」 is a program where international and domestic students of the University of Tsukuba and students from partner universities who are studying Japanese to meet and mingle.\n\nThis chat p…",
+            "date_modified": "2022-04-25T03:00:00.000Z"
+        },
+        {
+            "id": "274f6e36d1c4c6a2ad0d5fe9974ca727",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=2998",
+            "title": "【オンライン日本語会話交流イベント!】J-Chat～にほんごではなそ～2022 春の陣",
+            "summary": "「J-Chat～にほんごではなそ～」は、本学留学生や日本語を学習する協定校の学生と筑波大学の学生を結ぶ、日本語チャットイベントです。\n日本語での会話を練習したい方（初心者歓迎！）はもちろん、留学生と友達になりたい！国際交流に興味がある友達がほしい！と思っている日本人学生の皆さんも是非参加してください！\n※日本語を教えるイベントではありません。\n\nイベント詳細：https://ssc.sec.tsu…",
+            "date_modified": "2022-04-25T03:00:00.000Z"
+        },
+        {
             "id": "daceae543f6c5009728d3895ee23a6bb",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=2997",
             "title": "5/14(土)・6/18(土) [大学院入試説明会] ヒューマニクス学位プログラム（5年一貫制博士課程）",
@@ -129,20 +143,6 @@
             "title": "【開催案内】7th Special Lecture and Discussion Series \"Central Eurasian Studies in East Asia and Beyond\"",
             "summary": "The Special Program in Japanese and Eurasian Studies and the Nippon Foundation Central Asia-Japan Human Resource Development Project (NipCA) are pleased to invite you to the 7th Special Lecture and Di…",
             "date_modified": "2022-04-15T03:00:00.000Z"
-        },
-        {
-            "id": "09006f8e5a4fd73474f9154292225dd7",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=2975",
-            "title": "【厚労省】新型コロナワクチン接種（3回目）接種の啓発案内について",
-            "summary": "厚生労働省から、大学生向けに新型コロナワクチン接種（3回目）の啓発案内がありました。\n学生の皆さんにあっては、新型コロナウイルス感染後の重症化や後遺症を防ぐため、３回目接種をご検討下さい。\n詳細は以下のリンク（厚生労働省HP）をご確認ください。",
-            "date_modified": "2022-04-14T03:00:00.000Z"
-        },
-        {
-            "id": "23ef2a548e400a0097494d75c7650191",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=2974",
-            "title": "Notice of Implementation of Workplace COVID-19 Vaccination (3rd University Vaccination)",
-            "summary": "Our university will implement the 3rd university vaccination.\nPlease refer to the following URL for details.",
-            "date_modified": "2022-04-14T03:00:00.000Z"
         }
     ]
 }

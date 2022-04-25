@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/mkobayashime/twins-announcements</id>
     <title>在学生へのお知らせ | 筑波大学</title>
-    <updated>2022-04-25T03:36:56.786Z</updated>
+    <updated>2022-04-25T09:10:17.479Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://github.com/mkobayashime/twins-announcements"/>
     <subtitle>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</subtitle>
+    <entry>
+        <title type="html"><![CDATA[【Online Japanese Chat Event】 J-Chat～にほんごではなそ～2022 Spring]]></title>
+        <id>143d07bb7fe23105c1c853bb779c50f2</id>
+        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=2999"/>
+        <updated>2022-04-25T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[「J-Chat～にほんごではなそ～」 is a program where international and domestic students of the University of Tsukuba and students from partner universities who are studying Japanese to meet and mingle.
+
+This chat p…]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【オンライン日本語会話交流イベント!】J-Chat～にほんごではなそ～2022 春の陣]]></title>
+        <id>274f6e36d1c4c6a2ad0d5fe9974ca727</id>
+        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=2998"/>
+        <updated>2022-04-25T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[「J-Chat～にほんごではなそ～」は、本学留学生や日本語を学習する協定校の学生と筑波大学の学生を結ぶ、日本語チャットイベントです。
+日本語での会話を練習したい方（初心者歓迎！）はもちろん、留学生と友達になりたい！国際交流に興味がある友達がほしい！と思っている日本人学生の皆さんも是非参加してください！
+※日本語を教えるイベントではありません。
+
+イベント詳細：https://ssc.sec.tsu…]]></summary>
+    </entry>
     <entry>
         <title type="html"><![CDATA[5/14(土)・6/18(土) [大学院入試説明会] ヒューマニクス学位プログラム（5年一貫制博士課程）]]></title>
         <id>daceae543f6c5009728d3895ee23a6bb</id>
@@ -231,22 +251,5 @@ https://teket.jp/1479/11731
         <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=2977"/>
         <updated>2022-04-15T03:00:00.000Z</updated>
         <summary type="html"><![CDATA[The Special Program in Japanese and Eurasian Studies and the Nippon Foundation Central Asia-Japan Human Resource Development Project (NipCA) are pleased to invite you to the 7th Special Lecture and Di…]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【厚労省】新型コロナワクチン接種（3回目）接種の啓発案内について]]></title>
-        <id>09006f8e5a4fd73474f9154292225dd7</id>
-        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=2975"/>
-        <updated>2022-04-14T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[厚生労働省から、大学生向けに新型コロナワクチン接種（3回目）の啓発案内がありました。
-学生の皆さんにあっては、新型コロナウイルス感染後の重症化や後遺症を防ぐため、３回目接種をご検討下さい。
-詳細は以下のリンク（厚生労働省HP）をご確認ください。]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Notice of Implementation of Workplace COVID-19 Vaccination (3rd University Vaccination)]]></title>
-        <id>23ef2a548e400a0097494d75c7650191</id>
-        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=2974"/>
-        <updated>2022-04-14T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Our university will implement the 3rd university vaccination.
-Please refer to the following URL for details.]]></summary>
     </entry>
 </feed>
