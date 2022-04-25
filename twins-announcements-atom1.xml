@@ -2,10 +2,24 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/mkobayashime/twins-announcements</id>
     <title>在学生へのお知らせ | 筑波大学</title>
-    <updated>2022-04-25T02:45:14.388Z</updated>
+    <updated>2022-04-25T03:36:56.786Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://github.com/mkobayashime/twins-announcements"/>
     <subtitle>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</subtitle>
+    <entry>
+        <title type="html"><![CDATA[5/14(土)・6/18(土) [大学院入試説明会] ヒューマニクス学位プログラム（5年一貫制博士課程）]]></title>
+        <id>daceae543f6c5009728d3895ee23a6bb</id>
+        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=2997"/>
+        <updated>2022-04-25T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[学類生の皆さまへ
+
+ヒューマニクス学位プログラムは、生命医科学と理・工・情報学、両分野の知識を博士レベルまで極める、国内でも類を見ない先進的なカリキュラムを提供しています。
+多種多様なバックグラウンドを持った学生が集う刺激的な環境の中で、独創的な融合研究に取り組みませんか？
+
+4年生はもちろん「ヒューマニクスって何？」という１〜３年生もお気軽にご参加ください。
+
+説明会後半は、留学生を含むヒューマ…]]></summary>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Apply Now for the Certificate Programme on Nature Conservation (Spring Semester)!]]></title>
         <id>546ae046bc0da6d8c9d294b1a43ed3bb</id>
@@ -234,20 +248,5 @@ https://teket.jp/1479/11731
         <updated>2022-04-14T03:00:00.000Z</updated>
         <summary type="html"><![CDATA[Our university will implement the 3rd university vaccination.
 Please refer to the following URL for details.]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【CEGLOC】日本語授業ボランティア募集について]]></title>
-        <id>f98e913fcc09a2ae6b8a605db8268132</id>
-        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=2971"/>
-        <updated>2022-04-14T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[CEGLOCで開講する日本語の授業では、学生と一緒に学習活動に参加してくださる
-ボランティアを随時募集しています。
-
-ご興味のある方は、以下のフォームより日本語授業ボランティア登録をお願いします。
-https://forms.gle/mw7SdgzkHyL1aRnW7
-こちらのフォームに登録しておくと、担当教員よりボランティア募集があった際に
-登録したメールアドレスに情報が届きます。
-
-※本学の学…]]></summary>
     </entry>
 </feed>

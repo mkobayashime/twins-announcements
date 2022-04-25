@@ -4,10 +4,24 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Mon, 25 Apr 2022 02:45:14 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Apr 2022 03:36:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
+        <item>
+            <title><![CDATA[5/14(土)・6/18(土) [大学院入試説明会] ヒューマニクス学位プログラム（5年一貫制博士課程）]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=2997</link>
+            <guid>daceae543f6c5009728d3895ee23a6bb</guid>
+            <pubDate>Mon, 25 Apr 2022 03:00:00 GMT</pubDate>
+            <description><![CDATA[学類生の皆さまへ
+
+ヒューマニクス学位プログラムは、生命医科学と理・工・情報学、両分野の知識を博士レベルまで極める、国内でも類を見ない先進的なカリキュラムを提供しています。
+多種多様なバックグラウンドを持った学生が集う刺激的な環境の中で、独創的な融合研究に取り組みませんか？
+
+4年生はもちろん「ヒューマニクスって何？」という１〜３年生もお気軽にご参加ください。
+
+説明会後半は、留学生を含むヒューマ…]]></description>
+        </item>
         <item>
             <title><![CDATA[Apply Now for the Certificate Programme on Nature Conservation (Spring Semester)!]]></title>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=2996</link>
@@ -236,21 +250,6 @@ https://teket.jp/1479/11731
             <pubDate>Thu, 14 Apr 2022 03:00:00 GMT</pubDate>
             <description><![CDATA[Our university will implement the 3rd university vaccination.
 Please refer to the following URL for details.]]></description>
-        </item>
-        <item>
-            <title><![CDATA[【CEGLOC】日本語授業ボランティア募集について]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=2971</link>
-            <guid>f98e913fcc09a2ae6b8a605db8268132</guid>
-            <pubDate>Thu, 14 Apr 2022 03:00:00 GMT</pubDate>
-            <description><![CDATA[CEGLOCで開講する日本語の授業では、学生と一緒に学習活動に参加してくださる
-ボランティアを随時募集しています。
-
-ご興味のある方は、以下のフォームより日本語授業ボランティア登録をお願いします。
-https://forms.gle/mw7SdgzkHyL1aRnW7
-こちらのフォームに登録しておくと、担当教員よりボランティア募集があった際に
-登録したメールアドレスに情報が届きます。
-
-※本学の学…]]></description>
         </item>
     </channel>
 </rss>
