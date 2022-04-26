@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/mkobayashime/twins-announcements</id>
     <title>在学生へのお知らせ | 筑波大学</title>
-    <updated>2022-04-26T08:13:15.844Z</updated>
+    <updated>2022-04-26T09:12:17.495Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://github.com/mkobayashime/twins-announcements"/>
     <subtitle>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</subtitle>
+    <entry>
+        <title type="html"><![CDATA[Welcome Event for Japanese & International Students!]]></title>
+        <id>23141b3b3f4d462b47d3caa1d5ab714a</id>
+        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3004"/>
+        <updated>2022-04-26T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Let's complete missions in groups! Make friends while hanging around the campus! If you clear the missions, you will get prizes!
+
+①(Required) Register (https://forms.office.com/r/MQhdEHcrCx) *Registra…]]></summary>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【新入生・留学生歓迎イベント！】]]></title>
         <id>71fd47d2f8715d0bfaaaba6f3d9bcdca</id>
@@ -238,19 +247,5 @@ https://ssc.sec.tsukuba.ac.jp/ssc_call
         <summary type="html"><![CDATA[本学での新型コロナワクチン職域接種について、詳細の実施内容を本学公式ホームページに掲載しました。
 本学で3回目接種を希望される学生の皆さんは、必ず内容をご確認ください。
 The details of the Workplace COVID-19 Vaccination at the University have been posted on the official website of our…]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[パリ第8大学　留学説明会（5月12日（木）18時～）]]></title>
-        <id>54f79a7d71ab5755a6d1f41b7c80dec1</id>
-        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=2980"/>
-        <updated>2022-04-15T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[本学の協定校であるフランスの「パリ第8大学」への留学説明会を開催します！
-フランスへの留学に関心のある方は、是非参加してください。
-
-開催日：2022年5月12日（木）18：00～19：00
-開催方法：オンライン（Zoom)
-登録方法：下記URょり詳細を確認いただき、登録フォームより申請してください。登録者には前日までにZoomの入室URLをメールでお送りいたします。
-
-※留学の現状を含む留学関連…]]></summary>
     </entry>
 </feed>
