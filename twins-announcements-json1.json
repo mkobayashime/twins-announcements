@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "d6f4500c8a9fe23fa505d05b3441718c",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3005",
+            "title": "本学の活動形態の変更について（令和４年４月28日～）",
+            "summary": "４月28日（水）から、本学の活動形態が一部変更となります。\n詳細は下記URL（本学公式HP）をご確認ください。",
+            "date_modified": "2022-04-27T03:00:00.000Z"
+        },
+        {
             "id": "23141b3b3f4d462b47d3caa1d5ab714a",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3004",
             "title": "Welcome Event for Japanese & International Students!",
@@ -135,13 +142,6 @@
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=2980",
             "title": "パリ第8大学　留学説明会（5月12日（木）18時～）",
             "summary": "本学の協定校であるフランスの「パリ第8大学」への留学説明会を開催します！\nフランスへの留学に関心のある方は、是非参加してください。\n\n開催日：2022年5月12日（木）18：00～19：00\n開催方法：オンライン（Zoom)\n登録方法：下記URょり詳細を確認いただき、登録フォームより申請してください。登録者には前日までにZoomの入室URLをメールでお送りいたします。\n\n※留学の現状を含む留学関連…",
-            "date_modified": "2022-04-15T03:00:00.000Z"
-        },
-        {
-            "id": "c7b75fc61a4a8e05d64c5e95b71676d6",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=2979",
-            "title": "新委員募集―一流アーティストによるコンサートをプロデュースしてみませんか？",
-            "summary": "つくばリサイタルシリーズ実行委員会は筑波大学の有志学生からなる委員会です。\n毎年、つくばの地に国内外で活躍される一流のアーティストをお招きし演奏会を\nプロデュースしています。\n音楽を「聴く」のでもなく「演奏する」のでもなく、両者を「つなぐ」お仕事。\n学生や地域の皆様に低価格で気軽に音楽を楽しめる、\nそんな機会が提供できたら、素敵ではありませんか。\n\n音楽に詳しくなくても、楽器が演奏できなくても、大…",
             "date_modified": "2022-04-15T03:00:00.000Z"
         }
     ]
