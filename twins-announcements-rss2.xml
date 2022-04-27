@@ -4,10 +4,23 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Wed, 27 Apr 2022 06:08:20 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Apr 2022 07:04:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
+        <item>
+            <title><![CDATA[課外活動の今後の活動形態について（2022.4.27） / [Extracurricular Activities] Changes in the Mode of Operations]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3006</link>
+            <guid>530cf593145387e699128b49b525cee3</guid>
+            <pubDate>Wed, 27 Apr 2022 03:00:00 GMT</pubDate>
+            <description><![CDATA[日頃より感染拡大防止対策及び課外活動自粛へご協力いただきありがとうございます。
+本学の課外活動等における当面の対応について、４月２８日（木）から、以下のとおりの取扱いとしますのでお知らせします。
+
+Dear English readers,
+
+We appreciate your continuous cooperation with our safety measures.
+Today, we …]]></description>
+        </item>
         <item>
             <title><![CDATA[本学の活動形態の変更について（令和４年４月28日～）]]></title>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3005</link>
@@ -231,20 +244,6 @@ https://ssc.sec.tsukuba.ac.jp/ssc_call
             <description><![CDATA[本学での新型コロナワクチン職域接種について、詳細の実施内容を本学公式ホームページに掲載しました。
 本学で3回目接種を希望される学生の皆さんは、必ず内容をご確認ください。
 The details of the Workplace COVID-19 Vaccination at the University have been posted on the official website of our…]]></description>
-        </item>
-        <item>
-            <title><![CDATA[パリ第8大学　留学説明会（5月12日（木）18時～）]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=2980</link>
-            <guid>54f79a7d71ab5755a6d1f41b7c80dec1</guid>
-            <pubDate>Fri, 15 Apr 2022 03:00:00 GMT</pubDate>
-            <description><![CDATA[本学の協定校であるフランスの「パリ第8大学」への留学説明会を開催します！
-フランスへの留学に関心のある方は、是非参加してください。
-
-開催日：2022年5月12日（木）18：00～19：00
-開催方法：オンライン（Zoom)
-登録方法：下記URょり詳細を確認いただき、登録フォームより申請してください。登録者には前日までにZoomの入室URLをメールでお送りいたします。
-
-※留学の現状を含む留学関連…]]></description>
         </item>
     </channel>
 </rss>
