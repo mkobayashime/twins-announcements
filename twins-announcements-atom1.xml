@@ -2,10 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/mkobayashime/twins-announcements</id>
     <title>在学生へのお知らせ | 筑波大学</title>
-    <updated>2022-04-27T21:09:49.711Z</updated>
+    <updated>2022-04-28T03:29:59.258Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://github.com/mkobayashime/twins-announcements"/>
     <subtitle>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</subtitle>
+    <entry>
+        <title type="html"><![CDATA[Join the exchange event "Rotary's Kitchen in Tsuchiura" hosted by Tsuchiura Rotary Club!]]></title>
+        <id>e25e5b3de5887b7b7723c04aaa31db87</id>
+        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3008"/>
+        <updated>2022-04-28T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The Tsuchiura Rotary Club, which always supports studentsof UT in various ways, has invited us to an event!
+We will plant crops, make curry, and interact with each other while eating the curry we made…]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【参加者募集】土浦ロータリークラブ主催「ロータリーの台所 in つちうら」に参加しよう！]]></title>
+        <id>b5a4f7cd3ed882a82b1a1bea6f14be34</id>
+        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3007"/>
+        <updated>2022-04-28T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[いつも筑波大生を様々な形で支援してくださる土浦ロータリークラブさんより、イベントへの招待がありました！農作物の植え付けやカレー作りを行い、自分たちで作ったカレーを食べながら、交流を行います。
+先着で筑波大生20名が優先参加できます！参加費無料です！
+
+開催日時：2022/05/22（日）　
+　　　　　現地集合9:30　/　現地解散14:30（予定）
+
+開催場所：土浦市荒川沖6-638（土浦市荒川本…]]></summary>
+    </entry>
     <entry>
         <title type="html"><![CDATA[課外活動の今後の活動形態について（2022.4.27） / [Extracurricular Activities] Changes in the Mode of Operations]]></title>
         <id>530cf593145387e699128b49b525cee3</id>
@@ -223,28 +244,5 @@ https://ssc.sec.tsukuba.ac.jp/ssc_call
 　希望者は社会学類長室（１A棟３階人文社会エリア支援室内：sec.shakai@un.tsukuba.ac.jp）　
 　までご連絡ください。
 ]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【重要】新型コロナワクチン職域接種（大学拠点接種）（３回目）について / Workplace COVID-19 Vaccination (3rd University Vaccination)]]></title>
-        <id>28de454c5b2ab9688434bfbc0b71e3f6</id>
-        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=2982"/>
-        <updated>2022-04-18T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[本学での新型コロナワクチン職域接種について、詳細の実施内容を本学公式ホームページに掲載しました。
-本学で3回目接種を希望される学生の皆さんは、必ず内容をご確認ください。
-The details of the Workplace COVID-19 Vaccination at the University have been posted on the official website of our…]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[パリ第8大学　留学説明会（5月12日（木）18時～）]]></title>
-        <id>54f79a7d71ab5755a6d1f41b7c80dec1</id>
-        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=2980"/>
-        <updated>2022-04-15T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[本学の協定校であるフランスの「パリ第8大学」への留学説明会を開催します！
-フランスへの留学に関心のある方は、是非参加してください。
-
-開催日：2022年5月12日（木）18：00～19：00
-開催方法：オンライン（Zoom)
-登録方法：下記URょり詳細を確認いただき、登録フォームより申請してください。登録者には前日までにZoomの入室URLをメールでお送りいたします。
-
-※留学の現状を含む留学関連…]]></summary>
     </entry>
 </feed>

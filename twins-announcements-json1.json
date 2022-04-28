@@ -5,6 +5,20 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "e25e5b3de5887b7b7723c04aaa31db87",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3008",
+            "title": "Join the exchange event \"Rotary's Kitchen in Tsuchiura\" hosted by Tsuchiura Rotary Club!",
+            "summary": "The Tsuchiura Rotary Club, which always supports studentsof UT in various ways, has invited us to an event!\nWe will plant crops, make curry, and interact with each other while eating the curry we made…",
+            "date_modified": "2022-04-28T03:00:00.000Z"
+        },
+        {
+            "id": "b5a4f7cd3ed882a82b1a1bea6f14be34",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3007",
+            "title": "【参加者募集】土浦ロータリークラブ主催「ロータリーの台所 in つちうら」に参加しよう！",
+            "summary": "いつも筑波大生を様々な形で支援してくださる土浦ロータリークラブさんより、イベントへの招待がありました！農作物の植え付けやカレー作りを行い、自分たちで作ったカレーを食べながら、交流を行います。\n先着で筑波大生20名が優先参加できます！参加費無料です！\n\n開催日時：2022/05/22（日）　\n　　　　　現地集合9:30　/　現地解散14:30（予定）\n\n開催場所：土浦市荒川沖6-638（土浦市荒川本…",
+            "date_modified": "2022-04-28T03:00:00.000Z"
+        },
+        {
             "id": "530cf593145387e699128b49b525cee3",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3006",
             "title": "課外活動の今後の活動形態について（2022.4.27） / [Extracurricular Activities] Changes in the Mode of Operations",
@@ -129,20 +143,6 @@
             "title": "【社会学類】社会学類生対象モバイルバッテリーの貸出",
             "summary": "モバイルバッテリーの貸出について\n\n　社会学類では、社会学類生を対象としたモバイルバッテリー（エレコム DE-AC02-3350）の\n　貸出をいたします。\n　貸出期間は原則１週間です。使用後は充電してご返却ください。\n\n　希望者は社会学類長室（１A棟３階人文社会エリア支援室内：sec.shakai@un.tsukuba.ac.jp）　\n　までご連絡ください。\n",
             "date_modified": "2022-04-18T03:00:00.000Z"
-        },
-        {
-            "id": "28de454c5b2ab9688434bfbc0b71e3f6",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=2982",
-            "title": "【重要】新型コロナワクチン職域接種（大学拠点接種）（３回目）について / Workplace COVID-19 Vaccination (3rd University Vaccination)",
-            "summary": "本学での新型コロナワクチン職域接種について、詳細の実施内容を本学公式ホームページに掲載しました。\n本学で3回目接種を希望される学生の皆さんは、必ず内容をご確認ください。\nThe details of the Workplace COVID-19 Vaccination at the University have been posted on the official website of our…",
-            "date_modified": "2022-04-18T03:00:00.000Z"
-        },
-        {
-            "id": "54f79a7d71ab5755a6d1f41b7c80dec1",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=2980",
-            "title": "パリ第8大学　留学説明会（5月12日（木）18時～）",
-            "summary": "本学の協定校であるフランスの「パリ第8大学」への留学説明会を開催します！\nフランスへの留学に関心のある方は、是非参加してください。\n\n開催日：2022年5月12日（木）18：00～19：00\n開催方法：オンライン（Zoom)\n登録方法：下記URょり詳細を確認いただき、登録フォームより申請してください。登録者には前日までにZoomの入室URLをメールでお送りいたします。\n\n※留学の現状を含む留学関連…",
-            "date_modified": "2022-04-15T03:00:00.000Z"
         }
     ]
 }
