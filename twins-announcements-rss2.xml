@@ -4,10 +4,25 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Thu, 28 Apr 2022 03:29:59 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 28 Apr 2022 08:13:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
+        <item>
+            <title><![CDATA[【派遣学生募集】2023年春学期渡航分の募集スタート！]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3009</link>
+            <guid>1bf7fc7c284e47f71e2e1703e095f127</guid>
+            <pubDate>Thu, 28 Apr 2022 03:00:00 GMT</pubDate>
+            <description><![CDATA[※2023年春学期渡航分の募集要項公開中※
+SSC公募型の対象協定校への派遣学生の募集！！
+
+・募集対象: 2022年6月締切/2023年春学期渡航分
+・募集締切: 2022年6月6日（月）7：30AM　
+　　※それ以降の提出はいかなる理由があろうとも受け付けできません。
+・募集要項 （添付ファイル）: 必ず熟読の上、応募すること。
+・申請書（添付ファイル）：学習・研究計画書　/　大学院生推薦状
+…]]></description>
+        </item>
         <item>
             <title><![CDATA[Join the exchange event "Rotary's Kitchen in Tsuchiura" hosted by Tsuchiura Rotary Club!]]></title>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3008</link>
@@ -231,21 +246,6 @@ https://ssc.sec.tsukuba.ac.jp/archives/12781
 https://ssc.sec.tsukuba.ac.jp/ssc_call
 
 公募にあたって、パリ第8大学への交換留学について説明会を開…]]></description>
-        </item>
-        <item>
-            <title><![CDATA[【社会学類】社会学類生対象モバイルバッテリーの貸出]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=2983</link>
-            <guid>5bebbf743a0c308ce8aad54a9de70820</guid>
-            <pubDate>Mon, 18 Apr 2022 03:00:00 GMT</pubDate>
-            <description><![CDATA[モバイルバッテリーの貸出について
-
-　社会学類では、社会学類生を対象としたモバイルバッテリー（エレコム DE-AC02-3350）の
-　貸出をいたします。
-　貸出期間は原則１週間です。使用後は充電してご返却ください。
-
-　希望者は社会学類長室（１A棟３階人文社会エリア支援室内：sec.shakai@un.tsukuba.ac.jp）　
-　までご連絡ください。
-]]></description>
         </item>
     </channel>
 </rss>

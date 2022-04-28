@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "1bf7fc7c284e47f71e2e1703e095f127",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3009",
+            "title": "【派遣学生募集】2023年春学期渡航分の募集スタート！",
+            "summary": "※2023年春学期渡航分の募集要項公開中※\nSSC公募型の対象協定校への派遣学生の募集！！\n\n・募集対象: 2022年6月締切/2023年春学期渡航分\n・募集締切: 2022年6月6日（月）7：30AM　\n　　※それ以降の提出はいかなる理由があろうとも受け付けできません。\n・募集要項 （添付ファイル）: 必ず熟読の上、応募すること。\n・申請書（添付ファイル）：学習・研究計画書　/　大学院生推薦状\n…",
+            "date_modified": "2022-04-28T03:00:00.000Z"
+        },
+        {
             "id": "e25e5b3de5887b7b7723c04aaa31db87",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3008",
             "title": "Join the exchange event \"Rotary's Kitchen in Tsuchiura\" hosted by Tsuchiura Rotary Club!",
@@ -135,13 +142,6 @@
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=2984",
             "title": "パリ第8大学　2022年秋学期渡航の交換留学生公募及び留学説明会（5月12日18時）",
             "summary": "本学の協定校であるフランスの「パリ第8大学」への2022秋学期渡航分の交換留学生を追加公募します！\nhttps://ssc.sec.tsukuba.ac.jp/archives/12781\n同時に、2023年春学期渡航分の公募（SSC公募型）も募集しています！\nhttps://ssc.sec.tsukuba.ac.jp/ssc_call\n\n公募にあたって、パリ第8大学への交換留学について説明会を開…",
-            "date_modified": "2022-04-18T03:00:00.000Z"
-        },
-        {
-            "id": "5bebbf743a0c308ce8aad54a9de70820",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=2983",
-            "title": "【社会学類】社会学類生対象モバイルバッテリーの貸出",
-            "summary": "モバイルバッテリーの貸出について\n\n　社会学類では、社会学類生を対象としたモバイルバッテリー（エレコム DE-AC02-3350）の\n　貸出をいたします。\n　貸出期間は原則１週間です。使用後は充電してご返却ください。\n\n　希望者は社会学類長室（１A棟３階人文社会エリア支援室内：sec.shakai@un.tsukuba.ac.jp）　\n　までご連絡ください。\n",
             "date_modified": "2022-04-18T03:00:00.000Z"
         }
     ]
