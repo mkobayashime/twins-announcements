@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/mkobayashime/twins-announcements</id>
     <title>在学生へのお知らせ | 筑波大学</title>
-    <updated>2022-04-30T09:09:22.528Z</updated>
+    <updated>2022-04-30T15:10:04.816Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://github.com/mkobayashime/twins-announcements"/>
     <subtitle>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</subtitle>
@@ -151,14 +151,11 @@ This chat p…]]></summary>
         <id>daceae543f6c5009728d3895ee23a6bb</id>
         <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=2997"/>
         <updated>2022-04-25T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[学類生の皆さまへ
+        <summary type="html"><![CDATA[「J-Chat～にほんごではなそ～」は、本学留学生や日本語を学習する協定校の学生と筑波大学の学生を結ぶ、日本語チャットイベントです。
+日本語での会話を練習したい方（初心者歓迎！）はもちろん、留学生と友達になりたい！国際交流に興味がある友達がほしい！と思っている日本人学生の皆さんも是非参加してください！
+※日本語を教えるイベントではありません。
 
-ヒューマニクス学位プログラムは、生命医科学と理・工・情報学、両分野の知識を博士レベルまで極める、国内でも類を見ない先進的なカリキュラムを提供しています。
-多種多様なバックグラウンドを持った学生が集う刺激的な環境の中で、独創的な融合研究に取り組みませんか？
-
-4年生はもちろん「ヒューマニクスって何？」という１〜３年生もお気軽にご参加ください。
-
-説明会後半は、留学生を含むヒューマ…]]></summary>
+イベント詳細：https://ssc.sec.tsu…]]></summary>
     </entry>
     <entry>
         <title type="html"><![CDATA[【再掲】新型コロナワクチン職域接種（大学拠点接種）（３回目）について / Workplace COVID-19 Vaccination (3rd University Vaccination)]]></title>
@@ -209,19 +206,6 @@ https://www.tulips.tsukuba.ac.jp/lib/support/guidance
 In the …]]></summary>
     </entry>
     <entry>
-        <title type="html"><![CDATA[スポーツ・デー学生委員会からのお知らせ]]></title>
-        <id>199cc49950256c6d7405fa2d4181e2de</id>
-        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=2987"/>
-        <updated>2022-04-18T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[スポーツ・デー学生委員会より以下のとおり周知依頼がありましたのでお知らせします。
-
--------------------------------------------------------------------------
-秋季スポーツ・デーe-sports新種目に関するアンケートについて
-
-筑波大学スポーツ・デー学生委員会からのお知らせです。
-スポーツ・デー学生委員会では11月に行う秋季…]]></summary>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[芸術専門学群の応募要件科目等の記載に関する修正について]]></title>
         <id>2fdf8e7c96d7562fec13979838b921eb</id>
         <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=2985"/>
@@ -250,5 +234,20 @@ https://ssc.sec.tsukuba.ac.jp/archives/12781
 https://ssc.sec.tsukuba.ac.jp/ssc_call
 
 公募にあたって、パリ第8大学への交換留学について説明会を開…]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【社会学類】社会学類生対象モバイルバッテリーの貸出]]></title>
+        <id>5bebbf743a0c308ce8aad54a9de70820</id>
+        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=2983"/>
+        <updated>2022-04-18T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[モバイルバッテリーの貸出について
+
+　社会学類では、社会学類生を対象としたモバイルバッテリー（エレコム DE-AC02-3350）の
+　貸出をいたします。
+　貸出期間は原則１週間です。使用後は充電してご返却ください。
+
+　希望者は社会学類長室（１A棟３階人文社会エリア支援室内：sec.shakai@un.tsukuba.ac.jp）　
+　までご連絡ください。
+]]></summary>
     </entry>
 </feed>
