@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "d87779b4c2ccd685d4919cea9d36ee48",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3011",
+            "title": "筑波大学Visionシンポジウムの開催について",
+            "summary": "2022年4月1日、「筑波大学Vision 2030」を学内外に向けて公表しました。「筑波大学Vision 2030」は、来る2030 年を目途に、筑波大学が、一丸となって自ら目指す大学の姿とその実現に向けた基本方針を示したものです。本シンポジウムでは、「筑波大学Vision 2030」策定の背景と策定した重点戦略等を学内のステークホルダーと広く共有するとともに、筑波大学の未来について意見交換を行…",
+            "date_modified": "2022-05-06T03:00:00.000Z"
+        },
+        {
             "id": "84ddb6761141c5d8011b50cc91bd9d57",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3010",
             "title": "【お知らせ】筑波大学公式オリジナルグッズECサイト割引クーポンコード（5月）",
@@ -135,13 +142,6 @@
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=2984",
             "title": "パリ第8大学　2022年秋学期渡航の交換留学生公募及び留学説明会（5月12日18時）",
             "summary": "本学の協定校であるフランスの「パリ第8大学」への2022秋学期渡航分の交換留学生を追加公募します！\nhttps://ssc.sec.tsukuba.ac.jp/archives/12781\n同時に、2023年春学期渡航分の公募（SSC公募型）も募集しています！\nhttps://ssc.sec.tsukuba.ac.jp/ssc_call\n\n公募にあたって、パリ第8大学への交換留学について説明会を開…",
-            "date_modified": "2022-04-18T03:00:00.000Z"
-        },
-        {
-            "id": "5bebbf743a0c308ce8aad54a9de70820",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=2983",
-            "title": "【社会学類】社会学類生対象モバイルバッテリーの貸出",
-            "summary": "モバイルバッテリーの貸出について\n\n　社会学類では、社会学類生を対象としたモバイルバッテリー（エレコム DE-AC02-3350）の\n　貸出をいたします。\n　貸出期間は原則１週間です。使用後は充電してご返却ください。\n\n　希望者は社会学類長室（１A棟３階人文社会エリア支援室内：sec.shakai@un.tsukuba.ac.jp）　\n　までご連絡ください。\n",
             "date_modified": "2022-04-18T03:00:00.000Z"
         }
     ]
