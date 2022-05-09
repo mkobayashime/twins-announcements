@@ -4,10 +4,17 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Mon, 09 May 2022 03:41:57 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 09 May 2022 05:12:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
+        <item>
+            <title><![CDATA[【開催案内】8th Special Lecture and Discussion Series "Central Eurasian Studies in East Asia and Beyond"]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3016</link>
+            <guid>96c080d677536af0591b8b6c378f90a2</guid>
+            <pubDate>Mon, 09 May 2022 03:00:00 GMT</pubDate>
+            <description><![CDATA[The Special Program in Japanese and Eurasian Studies and the Nippon Foundation Central Asia-Japan Human Resource Development Project (NipCA) are pleased to invite you to the 8th Special Lecture and Di…]]></description>
+        </item>
         <item>
             <title><![CDATA[[5/26 15:10] 第10回DDPIセミナー「環境をめぐる世代内公正と世代間公正」]]></title>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3015</link>
@@ -225,18 +232,6 @@ This chat p…]]></description>
 本学で3回目接種を希望される学生の皆さんは、必ず内容をご確認ください。
 
 The details of the workplace COVID-19 vaccination at the university have been posted on the official website of o…]]></description>
-        </item>
-        <item>
-            <title><![CDATA[【参加者募集！】SDGs×TSUKUBA ~SDGsをChatする～]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=2992</link>
-            <guid>3e923cf821bbcb1cac80fb623a79a9f0</guid>
-            <pubDate>Thu, 21 Apr 2022 03:00:00 GMT</pubDate>
-            <description><![CDATA[SDGsについて、自分の研究や学問分野を基に、協定校学生と英語で議論してみませんか？
-昨年度、単発開催した”SDGs×TSUKUBA”ですが、とても好評だったため、今年度は月1回のシリーズとして開催していきます！
-得意な分野を選んで参加してください。全部参加してもOKです！
-世界の学生と交流したい方、英語のスピーキングを向上させたい方、是非参加してください！
-
-日時とテーマ：第1回　2022年5月…]]></description>
         </item>
     </channel>
 </rss>
