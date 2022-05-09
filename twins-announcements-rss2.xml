@@ -4,10 +4,21 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Mon, 09 May 2022 02:50:29 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 09 May 2022 03:41:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
+        <item>
+            <title><![CDATA[[5/26 15:10] 第10回DDPIセミナー「環境をめぐる世代内公正と世代間公正」]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3015</link>
+            <guid>68e64a05f495902a3d0e379e516a4dee</guid>
+            <pubDate>Mon, 09 May 2022 03:00:00 GMT</pubDate>
+            <description><![CDATA[人文社会系DDPIプロジェクトは、格差・不平等の政策的解決、そのためのデジタル技術の可能性（デジタル民主主義）などをテーマとしつつ、2022年度もセミナー・シリーズを断続的に開催しております。
+
+今回は、環境社会学をご専門とする名古屋大学大学院環境学研究科准教授の青木聡子様にご講演いただきます。
+
+産業革命以降の人類は、エネルギー利用の爆発的増大とともに経済と科学技術を飛躍的に発展させ、豊かで便利…]]></description>
+        </item>
         <item>
             <title><![CDATA[パリ第8大学　留学説明会（5月12日18時～：オンライン）]]></title>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3013</link>
@@ -226,23 +237,6 @@ The details of the workplace COVID-19 vaccination at the university have been po
 世界の学生と交流したい方、英語のスピーキングを向上させたい方、是非参加してください！
 
 日時とテーマ：第1回　2022年5月…]]></description>
-        </item>
-        <item>
-            <title><![CDATA[春の図書館講習会について / Library Workshops]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=2988</link>
-            <guid>ce6d8cc0fcba6b6b96ba62a77eb2ba0b</guid>
-            <pubDate>Tue, 19 Apr 2022 03:00:00 GMT</pubDate>
-            <description><![CDATA[附属図書館では、4月から春の講習会をオンラインで開催します。
-図書館の使い方や各種データベースの使い方など、学習や研究に役立つ内容です。
-manabaでコース登録をしてご参加ください。
-皆様のご参加をお待ちしております。
-
-詳しくは下記Webページをご覧ください。
-https://www.tulips.tsukuba.ac.jp/lib/support/guidance
-
----
-
-In the …]]></description>
         </item>
     </channel>
 </rss>
