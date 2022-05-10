@@ -5,6 +5,20 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "d03cf9c06ed0c7d6eef494448645feb2",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3022",
+            "title": "Japanese Chat Event for all levels: \"G-Chat Japanese\"",
+            "summary": "If you are looking for an opportunity to chat in Japanese, this program is for you!\nThis is a 1-on-1 chat program where you can practice Japanese with Japanese students!\n\nFor: University of Tsukuba st…",
+            "date_modified": "2022-05-10T03:00:00.000Z"
+        },
+        {
+            "id": "866ed133ad34070d62df964b9fcbe195",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3021",
+            "title": "Join the exchenge event \"Rotary's Kitchen in Tsuchiura\" hosted by Tsuchiura Club!",
+            "summary": "The Tsuchiura Rotary Club, which always supports studentsof UT in various ways, has invited us to an event!\nWe will plant crops, make curry, and interact with each other while eating the curry we made…",
+            "date_modified": "2022-05-10T03:00:00.000Z"
+        },
+        {
             "id": "b5a4f7cd3ed882a82b1a1bea6f14be34",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3020",
             "title": "【参加者募集】土浦ロータリークラブ主催「ロータリーの台所 in つちうら」に参加しよう！",
@@ -129,20 +143,6 @@
             "title": "【新入生・留学生歓迎イベント！】",
             "summary": "キャンパス内を回りながら、様々なミッションをグループで達成する交流イベントです！\n留学生はもちろん、「留学生と友達になりたい」「国際交流に興味がある友達がほしい」と思っている日本人学生の皆さんも是非参加してください！共通言語は基本的英語です。\n\n　①〈必須〉申し込みをする：https://forms.office.com/r/MQhdEHcrCx　※申し込み締め切り 5/11（水）\n　②〈必須〉O…",
             "date_modified": "2022-04-26T03:00:00.000Z"
-        },
-        {
-            "id": "e27f56a773d705f1126537875d97a490",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3001",
-            "title": "【お知らせ】令和４年度筑波大学学園祭の企画募集について",
-            "summary": "\n　令和４年度学園祭（11月5日(土)・6日(日)）につきましては、オンラインでの配信とともに、企画数を制限したうえで対面での開催が予定されております。\n　参照：第48回筑波大学学園祭の実施形態に関するお知らせ\n\n　4/25(月)より、一般企画・ステージ企画の募集が開始されましたので、応募を検討される本学団体等におかれましては、「雙峰祭オンラインシステム」内の募集要項を確認のうえ、同システムにて応…",
-            "date_modified": "2022-04-26T03:00:00.000Z"
-        },
-        {
-            "id": "f142d022c62a80b857971822e30a2e1f",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3000",
-            "title": "5/20(金）学生のための実験廃棄物管理研修会を行います。",
-            "summary": "目的\n\n実験に携わる学群・大学院生向けに，化学物質の危険性や有害性を伝え，事件事故や健康障害を引き起こすリスクを減らすこと\n動物実験系廃棄物の排出者向けに，具体的な解説を交えて処理依頼上の注意事項を伝え，適切な排出法の周知をすること\n\n開催日時および場所\n\n日時：令和４年５月２０日（金）１６時４５分～１８時００分\n場所：大学会館ホール（収容人数：約250人）\n※　オンデマンド開催については別途お知…",
-            "date_modified": "2022-04-25T03:00:00.000Z"
         }
     ]
 }

@@ -4,10 +4,28 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Tue, 10 May 2022 08:14:17 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 10 May 2022 09:12:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
+        <item>
+            <title><![CDATA[Japanese Chat Event for all levels: "G-Chat Japanese"]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3022</link>
+            <guid>d03cf9c06ed0c7d6eef494448645feb2</guid>
+            <pubDate>Tue, 10 May 2022 03:00:00 GMT</pubDate>
+            <description><![CDATA[If you are looking for an opportunity to chat in Japanese, this program is for you!
+This is a 1-on-1 chat program where you can practice Japanese with Japanese students!
+
+For: University of Tsukuba st…]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Join the exchenge event "Rotary's Kitchen in Tsuchiura" hosted by Tsuchiura Club!]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3021</link>
+            <guid>866ed133ad34070d62df964b9fcbe195</guid>
+            <pubDate>Tue, 10 May 2022 03:00:00 GMT</pubDate>
+            <description><![CDATA[The Tsuchiura Rotary Club, which always supports studentsof UT in various ways, has invited us to an event!
+We will plant crops, make curry, and interact with each other while eating the curry we made…]]></description>
+        </item>
         <item>
             <title><![CDATA[【参加者募集】土浦ロータリークラブ主催「ロータリーの台所 in つちうら」に参加しよう！]]></title>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3020</link>
@@ -213,33 +231,6 @@ Today, we …]]></description>
 
 　①〈必須〉申し込みをする：https://forms.office.com/r/MQhdEHcrCx　※申し込み締め切り 5/11（水）
 　②〈必須〉O…]]></description>
-        </item>
-        <item>
-            <title><![CDATA[【お知らせ】令和４年度筑波大学学園祭の企画募集について]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3001</link>
-            <guid>e27f56a773d705f1126537875d97a490</guid>
-            <pubDate>Tue, 26 Apr 2022 03:00:00 GMT</pubDate>
-            <description><![CDATA[
-　令和４年度学園祭（11月5日(土)・6日(日)）につきましては、オンラインでの配信とともに、企画数を制限したうえで対面での開催が予定されております。
-　参照：第48回筑波大学学園祭の実施形態に関するお知らせ
-
-　4/25(月)より、一般企画・ステージ企画の募集が開始されましたので、応募を検討される本学団体等におかれましては、「雙峰祭オンラインシステム」内の募集要項を確認のうえ、同システムにて応…]]></description>
-        </item>
-        <item>
-            <title><![CDATA[5/20(金）学生のための実験廃棄物管理研修会を行います。]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3000</link>
-            <guid>f142d022c62a80b857971822e30a2e1f</guid>
-            <pubDate>Mon, 25 Apr 2022 03:00:00 GMT</pubDate>
-            <description><![CDATA[目的
-
-実験に携わる学群・大学院生向けに，化学物質の危険性や有害性を伝え，事件事故や健康障害を引き起こすリスクを減らすこと
-動物実験系廃棄物の排出者向けに，具体的な解説を交えて処理依頼上の注意事項を伝え，適切な排出法の周知をすること
-
-開催日時および場所
-
-日時：令和４年５月２０日（金）１６時４５分～１８時００分
-場所：大学会館ホール（収容人数：約250人）
-※　オンデマンド開催については別途お知…]]></description>
         </item>
     </channel>
 </rss>
