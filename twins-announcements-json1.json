@@ -5,6 +5,20 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "b5a4f7cd3ed882a82b1a1bea6f14be34",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3020",
+            "title": "【参加者募集】土浦ロータリークラブ主催「ロータリーの台所 in つちうら」に参加しよう！",
+            "summary": "いつも筑波大生を様々な形で支援してくださる土浦ロータリークラブさんより、イベントへの招待がありました！農作物の植え付けやカレー作りを行い、自分たちで作ったカレーを食べながら、交流を行います。\n先着で筑波大生20名が優先参加できます！参加費無料です！\n\n開催日時：2022/05/22（日）　\n　　　　　現地集合9:30　/　現地解散14:30（予定）\n\n開催場所：土浦市荒川沖6-638（土浦市荒川本…",
+            "date_modified": "2022-05-10T03:00:00.000Z"
+        },
+        {
+            "id": "f62b935c5733c8509d07db3a060c0f5f",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3019",
+            "title": "Johnson &amp; Johnson Data Science Internshipの募集",
+            "summary": "ジョンソン・エンド・ジョンソンよりインターンシップの募集がございました。\n興味のある学生はぜひご応募ください。\n\n6月14日（火）15時から16時にオンライン説明会を予定しています。\n参加希望の方は以下より、情報の入力をお願いします。\nhttps://forms.gle/NVS6S5t9FeK2M2tCA\n匿名での当日参加も可能です。\n\nオンライン説明会は必須ではなく直接のエントリーも可能です！ポ…",
+            "date_modified": "2022-05-10T03:00:00.000Z"
+        },
+        {
             "id": "2497698d447f596c74c88aa8b739a569",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3018",
             "title": "【英語チャットイベント参加者募集：5月13日（金）】SDGs×TSUKUBA ~SDGsをChatする～",
@@ -129,20 +143,6 @@
             "title": "5/20(金）学生のための実験廃棄物管理研修会を行います。",
             "summary": "目的\n\n実験に携わる学群・大学院生向けに，化学物質の危険性や有害性を伝え，事件事故や健康障害を引き起こすリスクを減らすこと\n動物実験系廃棄物の排出者向けに，具体的な解説を交えて処理依頼上の注意事項を伝え，適切な排出法の周知をすること\n\n開催日時および場所\n\n日時：令和４年５月２０日（金）１６時４５分～１８時００分\n場所：大学会館ホール（収容人数：約250人）\n※　オンデマンド開催については別途お知…",
             "date_modified": "2022-04-25T03:00:00.000Z"
-        },
-        {
-            "id": "daceae543f6c5009728d3895ee23a6bb",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=2997",
-            "title": "5/14(土)・6/18(土) [大学院入試説明会] ヒューマニクス学位プログラム（5年一貫制博士課程）",
-            "summary": "学類生の皆さまへ\n\nヒューマニクス学位プログラムは、生命医科学と理・工・情報学、両分野の知識を博士レベルまで極める、国内でも類を見ない先進的なカリキュラムを提供しています。\n多種多様なバックグラウンドを持った学生が集う刺激的な環境の中で、独創的な融合研究に取り組みませんか？\n\n4年生はもちろん「ヒューマニクスって何？」という１〜３年生もお気軽にご参加ください。\n\n説明会後半は、留学生を含むヒューマ…",
-            "date_modified": "2022-04-25T03:00:00.000Z"
-        },
-        {
-            "id": "6bbc508d55111385a6fdf76bd74cdd8b",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=2994",
-            "title": "【再掲】新型コロナワクチン職域接種（大学拠点接種）（３回目）について / Workplace COVID-19 Vaccination (3rd University Vaccination)",
-            "summary": "\n本学での新型コロナワクチン職域接種について、詳細の実施内容を本学公式ホームページに掲載しました。\n本学で3回目接種を希望される学生の皆さんは、必ず内容をご確認ください。\n\nThe details of the workplace COVID-19 vaccination at the university have been posted on the official website of o…",
-            "date_modified": "2022-04-22T03:00:00.000Z"
         }
     ]
 }
