@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/mkobayashime/twins-announcements</id>
     <title>在学生へのお知らせ | 筑波大学</title>
-    <updated>2022-05-09T21:13:35.156Z</updated>
+    <updated>2022-05-10T06:08:12.133Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://github.com/mkobayashime/twins-announcements"/>
     <subtitle>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</subtitle>
+    <entry>
+        <title type="html"><![CDATA[【英語チャットイベント参加者募集：5月13日（金）】SDGs×TSUKUBA ~SDGsをChatする～]]></title>
+        <id>2497698d447f596c74c88aa8b739a569</id>
+        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3018"/>
+        <updated>2022-05-10T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[SDGsについて、自分の研究や学問分野を基に、協定校学生と英語で議論してみませんか？
+昨年度、単発開催した”SDGs×TSUKUBA”ですが、とても好評だったため、今年度は月1回のシリーズとして開催していきます！
+得意な分野を選んで参加してください。全部参加してもOKです！
+世界の学生と交流したい方、英語のスピーキングを向上させたい方、是非参加してください！
+
+日時とテーマ：第1回　2022年5月…]]></summary>
+    </entry>
     <entry>
         <title type="html"><![CDATA[国際交流イベント・留学情報について]]></title>
         <id>02aec61d8389fab5db25921d36d209d9</id>
@@ -223,17 +235,5 @@ Today, we …]]></summary>
 本学で3回目接種を希望される学生の皆さんは、必ず内容をご確認ください。
 
 The details of the workplace COVID-19 vaccination at the university have been posted on the official website of o…]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【参加者募集！】SDGs×TSUKUBA ~SDGsをChatする～]]></title>
-        <id>3e923cf821bbcb1cac80fb623a79a9f0</id>
-        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=2992"/>
-        <updated>2022-04-21T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[SDGsについて、自分の研究や学問分野を基に、協定校学生と英語で議論してみませんか？
-昨年度、単発開催した”SDGs×TSUKUBA”ですが、とても好評だったため、今年度は月1回のシリーズとして開催していきます！
-得意な分野を選んで参加してください。全部参加してもOKです！
-世界の学生と交流したい方、英語のスピーキングを向上させたい方、是非参加してください！
-
-日時とテーマ：第1回　2022年5月…]]></summary>
     </entry>
 </feed>
