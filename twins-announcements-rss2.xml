@@ -4,10 +4,20 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Fri, 13 May 2022 09:15:17 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 13 May 2022 10:12:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
+        <item>
+            <title><![CDATA[日本財団オーシャンイノベーションコンソーシアム　就職先調査]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3030</link>
+            <guid>5128703be73ebbeeb527ba87f8519dd1</guid>
+            <pubDate>Fri, 13 May 2022 03:00:00 GMT</pubDate>
+            <description><![CDATA[日本財団オーシャンイノベーションコンソーシアムでは、大学生、大学院生向けに海洋開発業界の魅力を伝える活動や、将来海洋開発に携わっていくために求められる能力を高める場の提供などの活動を行っております。
+
+今後の活動の参考とさせていただきたく、2022年3月に卒業されている方に対して就職先アンケートを実施しております。
+既に回答いただいている学生もおりますが、貴大学に所属している学生にもご連絡いただけ…]]></description>
+        </item>
         <item>
             <title><![CDATA[【5/16～5/27開催】附属図書館修復完成記念特別公開「歴聖大儒像　儒者のまなざし」]]></title>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3029</link>
@@ -216,22 +226,6 @@ https://ssc.sec.tsukuba.ac.jp/archives/12733
             <guid>d87779b4c2ccd685d4919cea9d36ee48</guid>
             <pubDate>Fri, 06 May 2022 03:00:00 GMT</pubDate>
             <description><![CDATA[2022年4月1日、「筑波大学Vision 2030」を学内外に向けて公表しました。「筑波大学Vision 2030」は、来る2030 年を目途に、筑波大学が、一丸となって自ら目指す大学の姿とその実現に向けた基本方針を示したものです。本シンポジウムでは、「筑波大学Vision 2030」策定の背景と策定した重点戦略等を学内のステークホルダーと広く共有するとともに、筑波大学の未来について意見交換を行…]]></description>
-        </item>
-        <item>
-            <title><![CDATA[【お知らせ】筑波大学公式オリジナルグッズECサイト割引クーポンコード（5月）]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3010</link>
-            <guid>84ddb6761141c5d8011b50cc91bd9d57</guid>
-            <pubDate>Thu, 28 Apr 2022 03:00:00 GMT</pubDate>
-            <description><![CDATA[筑波大学公式オリジナルグッズ販売サイト「TSUKUBA-SHOP」の5月の割引クーポンコードをお知らせいたします！
-
-Tシャツやネックストラップ、マグカップなど様々な商品をお取り扱いしております。
-
-どうぞご覧いただき、皆様の「日常生活」、「思い出」、「プレゼント」などにご活用いただけますと幸いです。
-
-
-ECサイトは以下のリンクから
-
-クーポンコード有効期間：2022年5月1日（日）～2022年…]]></description>
         </item>
     </channel>
 </rss>
