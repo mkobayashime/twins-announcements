@@ -4,10 +4,23 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Fri, 13 May 2022 07:08:06 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 13 May 2022 08:12:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
+        <item>
+            <title><![CDATA[【5/16～5/27開催】附属図書館修復完成記念特別公開「歴聖大儒像　儒者のまなざし」]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3029</link>
+            <guid>e9756e24f0412324e0f7513f77e02532</guid>
+            <pubDate>Fri, 13 May 2022 03:00:00 GMT</pubDate>
+            <description><![CDATA[附属図書館では、狩野山雪画「歴聖大儒像」の修復が完成したことを記念し、下記のとおり特別公開いたします。この機会に附属図書館が所蔵する貴重な資料をぜひご覧ください。
+なお、当該資料は、朝日新聞文化財団、出光文化福祉財団、住友財団による美術品修復助成を受けて修復が行われました。
+
+
+修復完成記念特別公開　「歴聖大儒像　儒者のまなざし」
+
+【会期】令和4年5月16日（月）～5月27日（金）　9:00～1…]]></description>
+        </item>
         <item>
             <title><![CDATA[Explanatory Meeting of Degree Program in Education Master’s Program]]></title>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3028</link>
@@ -219,21 +232,6 @@ Tシャツやネックストラップ、マグカップなど様々な商品を�
 ECサイトは以下のリンクから
 
 クーポンコード有効期間：2022年5月1日（日）～2022年…]]></description>
-        </item>
-        <item>
-            <title><![CDATA[【派遣学生募集】2023年春学期渡航分の募集スタート！]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3009</link>
-            <guid>1bf7fc7c284e47f71e2e1703e095f127</guid>
-            <pubDate>Thu, 28 Apr 2022 03:00:00 GMT</pubDate>
-            <description><![CDATA[※2023年春学期渡航分の募集要項公開中※
-SSC公募型の対象協定校への派遣学生の募集！！
-
-・募集対象: 2022年6月締切/2023年春学期渡航分
-・募集締切: 2022年6月6日（月）7：30AM　
-　　※それ以降の提出はいかなる理由があろうとも受け付けできません。
-・募集要項 （添付ファイル）: 必ず熟読の上、応募すること。
-・申請書（添付ファイル）：学習・研究計画書　/　大学院生推薦状
-…]]></description>
         </item>
     </channel>
 </rss>
