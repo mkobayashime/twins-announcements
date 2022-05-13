@@ -5,6 +5,20 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "3201d5b2183771f45cc96ebdd62301ba",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3028",
+            "title": "Explanatory Meeting of Degree Program in Education Master’s Program",
+            "summary": "Explanatory meeting of degree program in education master’s program ( subprogram in school education for the next generation,  subprogram in international education, subprogram in education sciences) …",
+            "date_modified": "2022-05-13T03:00:00.000Z"
+        },
+        {
+            "id": "f1003114b2b10efa0a4995110773757c",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3027",
+            "title": "【進学・入試説明会】2022年度教育学学位プログラム進学・入試説明 会 のお知らせ",
+            "summary": "教育学学位プログラム（博士前期課程：次世代学校教育創成サブプログラム、\n国際教育サブプログラム、教育基礎科学サブプログラム、博士後期課程：教育学\n学位プログラム）では、大学院進学に関心のある方向けに、進学・入試説明会を\n実施します。当日は、教員・院生から直接説明を聞いたり、質問・相談をしたり\nすることが可能です。参加費は無料ですので、ご興味がある方は是非ご参加くだ\nさい。\n\n日時：6月19日（日）…",
+            "date_modified": "2022-05-13T03:00:00.000Z"
+        },
+        {
             "id": "b8517e55997451760636a95d536e5506",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3026",
             "title": "【参加者募集・オンラインセミナー】ヨーロッパ留学セミナー2022",
@@ -128,20 +142,6 @@
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3009",
             "title": "【派遣学生募集】2023年春学期渡航分の募集スタート！",
             "summary": "※2023年春学期渡航分の募集要項公開中※\nSSC公募型の対象協定校への派遣学生の募集！！\n\n・募集対象: 2022年6月締切/2023年春学期渡航分\n・募集締切: 2022年6月6日（月）7：30AM　\n　　※それ以降の提出はいかなる理由があろうとも受け付けできません。\n・募集要項 （添付ファイル）: 必ず熟読の上、応募すること。\n・申請書（添付ファイル）：学習・研究計画書　/　大学院生推薦状\n…",
-            "date_modified": "2022-04-28T03:00:00.000Z"
-        },
-        {
-            "id": "e25e5b3de5887b7b7723c04aaa31db87",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3008",
-            "title": "Join the exchange event \"Rotary's Kitchen in Tsuchiura\" hosted by Tsuchiura Rotary Club!",
-            "summary": "The Tsuchiura Rotary Club, which always supports studentsof UT in various ways, has invited us to an event!\nWe will plant crops, make curry, and interact with each other while eating the curry we made…",
-            "date_modified": "2022-04-28T03:00:00.000Z"
-        },
-        {
-            "id": "b5a4f7cd3ed882a82b1a1bea6f14be34",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3007",
-            "title": "【参加者募集】土浦ロータリークラブ主催「ロータリーの台所 in つちうら」に参加しよう！",
-            "summary": "いつも筑波大生を様々な形で支援してくださる土浦ロータリークラブさんより、イベントへの招待がありました！農作物の植え付けやカレー作りを行い、自分たちで作ったカレーを食べながら、交流を行います。\n先着で筑波大生20名が優先参加できます！参加費無料です！\n\n開催日時：2022/05/22（日）　\n　　　　　現地集合9:30　/　現地解散14:30（予定）\n\n開催場所：土浦市荒川沖6-638（土浦市荒川本…",
             "date_modified": "2022-04-28T03:00:00.000Z"
         }
     ]
