@@ -4,7 +4,7 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Sat, 14 May 2022 09:09:47 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 14 May 2022 15:10:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
@@ -28,10 +28,15 @@
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3030</link>
             <guid>5128703be73ebbeeb527ba87f8519dd1</guid>
             <pubDate>Fri, 13 May 2022 03:00:00 GMT</pubDate>
-            <description><![CDATA[日本財団オーシャンイノベーションコンソーシアムでは、大学生、大学院生向けに海洋開発業界の魅力を伝える活動や、将来海洋開発に携わっていくために求められる能力を高める場の提供などの活動を行っております。
+            <description><![CDATA[標記についてWEB参加用URLをお知らせいたします。
 
-今後の活動の参考とさせていただきたく、2022年3月に卒業されている方に対して就職先アンケートを実施しております。
-既に回答いただいている学生もおりますが、貴大学に所属している学生にもご連絡いただけ…]]></description>
+筑波大学VisionシンポジウムWEB参加URL：本文の最後に掲載しているURLより参加してください。
+
+視聴を希望される方は定刻になりましたら本学のMicrosoft  365アカウントにログインのうえ、ご参加をお願いいたします。
+
+ライブイベント方式となり、質問についてはチャットでの受付になりますが、予めご了承願います。
+
+また、対面参加…]]></description>
         </item>
         <item>
             <title><![CDATA[【5/16～5/27開催】附属図書館修復完成記念特別公開「歴聖大儒像　儒者のまなざし」]]></title>
@@ -158,18 +163,6 @@ https://forms.gle/NVS6S5t9FeK2M2tCA
 オンライン説明会は必須ではなく直接のエントリーも可能です！ポ…]]></description>
         </item>
         <item>
-            <title><![CDATA[【英語チャットイベント参加者募集：5月13日（金）】SDGs×TSUKUBA ~SDGsをChatする～]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3018</link>
-            <guid>2497698d447f596c74c88aa8b739a569</guid>
-            <pubDate>Tue, 10 May 2022 03:00:00 GMT</pubDate>
-            <description><![CDATA[SDGsについて、自分の研究や学問分野を基に、協定校学生と英語で議論してみませんか？
-昨年度、単発開催した”SDGs×TSUKUBA”ですが、とても好評だったため、今年度は月1回のシリーズとして開催していきます！
-得意な分野を選んで参加してください。全部参加してもOKです！
-世界の学生と交流したい方、英語のスピーキングを向上させたい方、是非参加してください！
-
-日時とテーマ：第1回　2022年5月…]]></description>
-        </item>
-        <item>
             <title><![CDATA[国際交流イベント・留学情報について]]></title>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3017</link>
             <guid>02aec61d8389fab5db25921d36d209d9</guid>
@@ -234,6 +227,13 @@ https://ssc.sec.tsukuba.ac.jp/archives/12733
 連携大学院制度を使うことにより、各大学の学生は大学に所属したまま、日々の研究生活を理化学研究所で行うことができます。
 
 学部学生、修士課程の学生の方々等に当センターの連携大学院に…]]></description>
+        </item>
+        <item>
+            <title><![CDATA[筑波大学Visionシンポジウムの開催について]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3011</link>
+            <guid>d87779b4c2ccd685d4919cea9d36ee48</guid>
+            <pubDate>Fri, 06 May 2022 03:00:00 GMT</pubDate>
+            <description><![CDATA[2022年4月1日、「筑波大学Vision 2030」を学内外に向けて公表しました。「筑波大学Vision 2030」は、来る2030 年を目途に、筑波大学が、一丸となって自ら目指す大学の姿とその実現に向けた基本方針を示したものです。本シンポジウムでは、「筑波大学Vision 2030」策定の背景と策定した重点戦略等を学内のステークホルダーと広く共有するとともに、筑波大学の未来について意見交換を行…]]></description>
         </item>
     </channel>
 </rss>
