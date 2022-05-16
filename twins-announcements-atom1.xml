@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/mkobayashime/twins-announcements</id>
     <title>在学生へのお知らせ | 筑波大学</title>
-    <updated>2022-05-16T02:26:42.034Z</updated>
+    <updated>2022-05-16T03:29:16.576Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://github.com/mkobayashime/twins-announcements"/>
     <subtitle>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</subtitle>
+    <entry>
+        <title type="html"><![CDATA[【周知】構内における放置自転車・放置自動車等の一斉撤去について / Removal of All Abandoned Bicycles and Vehicles in Campus]]></title>
+        <id>d94157561e302c4db0f83cc32f24cb5b</id>
+        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3037"/>
+        <updated>2022-05-16T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[　本学では、良好な構内環境を保持するため、本学の要項に基づき、放置車両と思われる車両については、撤去通告書を車両に貼付後、一定の期間を置いてから一斉撤去を実施します。
+　つきましては、別添に日程等詳細を記載しておりますので、所有されている車両について現状確認をしていただくようお願いします。
+　また、駐車場、駐輪場、駐輪スペース以外に停めている場合は、必ず移動してください。
+
+
+　In order …]]></summary>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【日本原子力開発機構】令和4年度夏季休暇実習生の募集について]]></title>
         <id>c360bcfd5ea9ba7300e16cccc2b7e460</id>
@@ -221,16 +233,5 @@ https://forms.gle/NVS6S5t9FeK2M2tCA
         <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3016"/>
         <updated>2022-05-09T03:00:00.000Z</updated>
         <summary type="html"><![CDATA[The Special Program in Japanese and Eurasian Studies and the Nippon Foundation Central Asia-Japan Human Resource Development Project (NipCA) are pleased to invite you to the 8th Special Lecture and Di…]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[5/26 15:10] 第10回DDPIセミナー「環境をめぐる世代内公正と世代間公正」]]></title>
-        <id>68e64a05f495902a3d0e379e516a4dee</id>
-        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3015"/>
-        <updated>2022-05-09T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[人文社会系DDPIプロジェクトは、格差・不平等の政策的解決、そのためのデジタル技術の可能性（デジタル民主主義）などをテーマとしつつ、2022年度もセミナー・シリーズを断続的に開催しております。
-
-今回は、環境社会学をご専門とする名古屋大学大学院環境学研究科准教授の青木聡子様にご講演いただきます。
-
-産業革命以降の人類は、エネルギー利用の爆発的増大とともに経済と科学技術を飛躍的に発展させ、豊かで便利…]]></summary>
     </entry>
 </feed>
