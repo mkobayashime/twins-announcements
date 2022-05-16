@@ -4,10 +4,22 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Mon, 16 May 2022 09:10:27 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 16 May 2022 10:08:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
+        <item>
+            <title><![CDATA[国際交流イベント情報・留学情報について]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3038</link>
+            <guid>31939ae20e7468f1d7e1ab47365a4069</guid>
+            <pubDate>Mon, 16 May 2022 03:00:00 GMT</pubDate>
+            <description><![CDATA[国際交流イベント等の情報や留学情報はスチューデントサポートセンター国際交流支援室ウェブサイトにてお知らせしています！
+
+＜国際交流イベント（オンラインチャットイベント）＞
+- Tsuku-Chat（英語グループチャット）今週初回！5月18日（水）参加受付中
+- J-Chat （日本語グループチャット）今週初回！5月17日（火）日本語話者歓迎！！
+- G-Chat（学生スタッフと英語・日本語を1対１…]]></description>
+        </item>
         <item>
             <title><![CDATA[【周知】構内における放置自転車・放置自動車等の一斉撤去について / Removal of All Abandoned Bicycles and Vehicles in Campus]]></title>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3037</link>
@@ -228,13 +240,6 @@ https://forms.gle/NVS6S5t9FeK2M2tCA
 - CiC及び全学対象協定校への交換留学の公募（2023春学期渡航分、応募締切6月6日）
 - 留学相談（オンライン）
 - 海外留学のための奨学金「はばたけ！筑大生」（4月期応…]]></description>
-        </item>
-        <item>
-            <title><![CDATA[【開催案内】8th Special Lecture and Discussion Series "Central Eurasian Studies in East Asia and Beyond"]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3016</link>
-            <guid>96c080d677536af0591b8b6c378f90a2</guid>
-            <pubDate>Mon, 09 May 2022 03:00:00 GMT</pubDate>
-            <description><![CDATA[The Special Program in Japanese and Eurasian Studies and the Nippon Foundation Central Asia-Japan Human Resource Development Project (NipCA) are pleased to invite you to the 8th Special Lecture and Di…]]></description>
         </item>
     </channel>
 </rss>
