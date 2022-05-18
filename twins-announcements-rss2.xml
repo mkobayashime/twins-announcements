@@ -4,10 +4,20 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Tue, 17 May 2022 21:07:53 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 18 May 2022 02:45:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
+        <item>
+            <title><![CDATA[6/2開催！“未来は僕らの手の中に～社会課題を「事業」で突破する～”講演]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3039</link>
+            <guid>6bf56cdb65c0d7dbb1dba2e3d8b5017d</guid>
+            <pubDate>Wed, 18 May 2022 03:00:00 GMT</pubDate>
+            <description><![CDATA[日本環境設計株式会社取締役　執行役員会長 岩元美智彦氏をお招きし、次世代の起業家にとって必要なマインドを教授いただきます。
+本講演は、学士基盤科目「次世代起業家養成講座」第2回授業内で実施します。授業の履修有無に限らず参加が可能ですので、起業や事業立ち上げにご興味のある方はぜひお申込みください！
+
+詳細・お申込みはURLよりお願いいたします。]]></description>
+        </item>
         <item>
             <title><![CDATA[国際交流イベント情報・留学情報について]]></title>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3038</link>
@@ -224,18 +234,6 @@ https://forms.gle/NVS6S5t9FeK2M2tCA
 今回は、環境社会学をご専門とする名古屋大学大学院環境学研究科准教授の青木聡子様にご講演いただきます。
 
 産業革命以降の人類は、エネルギー利用の爆発的増大とともに経済と科学技術を飛躍的に発展させ、豊かで便利…]]></description>
-        </item>
-        <item>
-            <title><![CDATA[パリ第8大学　留学説明会（5月12日18時～：オンライン）]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3013</link>
-            <guid>201aa12a47b40e1c772794230f605b6e</guid>
-            <pubDate>Mon, 09 May 2022 03:00:00 GMT</pubDate>
-            <description><![CDATA[本学の協定校であるフランスの「パリ第8大学」への留学説明会を実施します。
-https://ssc.sec.tsukuba.ac.jp/archives/12733
-
-開催日：2022年5月12日（木）18：00～19：00
-開催方法：オンライン（Zoom)
-登録方法：下記URょり詳細を確認いただき、登録フォームより申請してください。登録者には前日の11日にZoomの入室URLをメールでお送りいたし…]]></description>
         </item>
     </channel>
 </rss>
