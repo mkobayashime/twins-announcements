@@ -4,10 +4,24 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Wed, 18 May 2022 02:45:29 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 18 May 2022 06:08:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
+        <item>
+            <title><![CDATA[第２回岡山大学医歯薬学総合研究科修士課程学生募集説明会（6/3(金)）について]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3040</link>
+            <guid>ab84fe975eb623ec2b49663a0bdc33c6</guid>
+            <pubDate>Wed, 18 May 2022 03:00:00 GMT</pubDate>
+            <description><![CDATA[岡山大学大学院医歯薬学総合研究科医歯科学専攻（修士課程）
+　　　　　　　　　第２回学生募集説明会　開催！
+
+【日　時】　２０２２年　６月　３日（金）１３：００～
+【場　所】　鹿田キャンパス　基礎研究棟１階　大学院セミナー室
+　　　　　　★オンライン参加も可能！対面とZoomを使ったハイブリッド方式★
+【対　象】　修士課程に進学希望の学生（出身学部を問いません。一年生も大歓迎）
+【内　容】　専攻の概…]]></description>
+        </item>
         <item>
             <title><![CDATA[6/2開催！“未来は僕らの手の中に～社会課題を「事業」で突破する～”講演]]></title>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3039</link>
@@ -223,17 +237,6 @@ https://forms.gle/NVS6S5t9FeK2M2tCA
             <guid>96c080d677536af0591b8b6c378f90a2</guid>
             <pubDate>Mon, 09 May 2022 03:00:00 GMT</pubDate>
             <description><![CDATA[The Special Program in Japanese and Eurasian Studies and the Nippon Foundation Central Asia-Japan Human Resource Development Project (NipCA) are pleased to invite you to the 8th Special Lecture and Di…]]></description>
-        </item>
-        <item>
-            <title><![CDATA[[5/26 15:10] 第10回DDPIセミナー「環境をめぐる世代内公正と世代間公正」]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3015</link>
-            <guid>68e64a05f495902a3d0e379e516a4dee</guid>
-            <pubDate>Mon, 09 May 2022 03:00:00 GMT</pubDate>
-            <description><![CDATA[人文社会系DDPIプロジェクトは、格差・不平等の政策的解決、そのためのデジタル技術の可能性（デジタル民主主義）などをテーマとしつつ、2022年度もセミナー・シリーズを断続的に開催しております。
-
-今回は、環境社会学をご専門とする名古屋大学大学院環境学研究科准教授の青木聡子様にご講演いただきます。
-
-産業革命以降の人類は、エネルギー利用の爆発的増大とともに経済と科学技術を飛躍的に発展させ、豊かで便利…]]></description>
         </item>
     </channel>
 </rss>

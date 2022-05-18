@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "ab84fe975eb623ec2b49663a0bdc33c6",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3040",
+            "title": "第２回岡山大学医歯薬学総合研究科修士課程学生募集説明会（6/3(金)）について",
+            "summary": "岡山大学大学院医歯薬学総合研究科医歯科学専攻（修士課程）\n　　　　　　　　　第２回学生募集説明会　開催！\n\n【日　時】　２０２２年　６月　３日（金）１３：００～\n【場　所】　鹿田キャンパス　基礎研究棟１階　大学院セミナー室\n　　　　　　★オンライン参加も可能！対面とZoomを使ったハイブリッド方式★\n【対　象】　修士課程に進学希望の学生（出身学部を問いません。一年生も大歓迎）\n【内　容】　専攻の概…",
+            "date_modified": "2022-05-18T03:00:00.000Z"
+        },
+        {
             "id": "6bf56cdb65c0d7dbb1dba2e3d8b5017d",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3039",
             "title": "6/2開催！“未来は僕らの手の中に～社会課題を「事業」で突破する～”講演",
@@ -135,13 +142,6 @@
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3016",
             "title": "【開催案内】8th Special Lecture and Discussion Series \"Central Eurasian Studies in East Asia and Beyond\"",
             "summary": "The Special Program in Japanese and Eurasian Studies and the Nippon Foundation Central Asia-Japan Human Resource Development Project (NipCA) are pleased to invite you to the 8th Special Lecture and Di…",
-            "date_modified": "2022-05-09T03:00:00.000Z"
-        },
-        {
-            "id": "68e64a05f495902a3d0e379e516a4dee",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3015",
-            "title": "[5/26 15:10] 第10回DDPIセミナー「環境をめぐる世代内公正と世代間公正」",
-            "summary": "人文社会系DDPIプロジェクトは、格差・不平等の政策的解決、そのためのデジタル技術の可能性（デジタル民主主義）などをテーマとしつつ、2022年度もセミナー・シリーズを断続的に開催しております。\n\n今回は、環境社会学をご専門とする名古屋大学大学院環境学研究科准教授の青木聡子様にご講演いただきます。\n\n産業革命以降の人類は、エネルギー利用の爆発的増大とともに経済と科学技術を飛躍的に発展させ、豊かで便利…",
             "date_modified": "2022-05-09T03:00:00.000Z"
         }
     ]
