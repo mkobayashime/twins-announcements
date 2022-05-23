@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "d4c49a8ab9fd0bdf4881be841a9bbb89",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3041",
+            "title": "【2023年3月卒業・修了予定の学生対象】就活再点検講座",
+            "summary": "就活に困っていませんか？悩んでいませんか？\nそんな就活中の学生のためのガイダンスです。\nマイナビの高橋編集長が筑波大生のために、\n今年の就活の現状と今後の対策をお話します。\n\n企業の最新の採用動向を踏まえた、\n「エントリーシート作成のコツ」「面接突破のコツ」を伝授します。\n新しい視点であなたの就活をブラッシュアップしませんか？\n\n講義のあと、質問（匿名可）にライブでお答えします。\n事前に受け付けた…",
+            "date_modified": "2022-05-23T03:00:00.000Z"
+        },
+        {
             "id": "ab84fe975eb623ec2b49663a0bdc33c6",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3040",
             "title": "第２回岡山大学医歯薬学総合研究科修士課程学生募集説明会（6/3(金)）について",
@@ -136,13 +143,6 @@
             "title": "パリ第8大学　留学説明会（5月12日18時～：オンライン）",
             "summary": "本学の協定校であるフランスの「パリ第8大学」への留学説明会を実施します。\nhttps://ssc.sec.tsukuba.ac.jp/archives/12733\n\n開催日：2022年5月12日（木）18：00～19：00\n開催方法：オンライン（Zoom)\n登録方法：下記URょり詳細を確認いただき、登録フォームより申請してください。登録者には前日の11日にZoomの入室URLをメールでお送りいたし…",
             "date_modified": "2022-05-09T03:00:00.000Z"
-        },
-        {
-            "id": "09737a7e057fcecb1c7773bcad12282a",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3014",
-            "title": "【開催案内】第4回 オンラインによるロシア・中央アジア映画上映会_6/3(金)",
-            "summary": "この度、筑波大学「日本財団 中央アジア・日本人材育成プロジェクト (NipCA)」は、中央アジアの文化とSDGsへの理解促進のため、オンラインによるロシア・中央アジア映画上映会を開催することになりました。\n\n上映作品：エウジェン・マリヤン『鳥のミルク』（2021年、 76分）ロシア語 / 日本語字幕付き\n\n日時：令和4年6月3日（金）19:15〜21:20\n\n19:00　Zoom開場　※お早めにお…",
-            "date_modified": "2022-05-06T03:00:00.000Z"
         }
     ]
 }
