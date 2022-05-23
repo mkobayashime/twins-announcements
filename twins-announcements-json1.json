@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "0077d0efde1d56635512d3e89712c55a",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3042",
+            "title": "【総合科目(学士基盤科目)】「次世代起業家養成講座」開講のお知らせ",
+            "summary": "「次世代起業家養成講座」\n（科目番号：1226194　学士基盤科目　春 BC 木 4）\n～社会課題解決型の起業家精神を学ぶ\n起業家精神（アントレプレナーシップ）とは、必ずしも起業することを意味するのではなく、\n自立していくためのキャリア形成にとってすべての人が身に付けるべきものです。\n本授業では、社会的な課題を、つくば地区に顕在化するシーズ/ニーズを元に解決する検討を通じて、\nアントレプレナーシッ…",
+            "date_modified": "2022-05-23T03:00:00.000Z"
+        },
+        {
             "id": "d4c49a8ab9fd0bdf4881be841a9bbb89",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3041",
             "title": "【2023年3月卒業・修了予定の学生対象】就活再点検講座",
@@ -135,13 +142,6 @@
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3015",
             "title": "[5/26 15:10] 第10回DDPIセミナー「環境をめぐる世代内公正と世代間公正」",
             "summary": "人文社会系DDPIプロジェクトは、格差・不平等の政策的解決、そのためのデジタル技術の可能性（デジタル民主主義）などをテーマとしつつ、2022年度もセミナー・シリーズを断続的に開催しております。\n\n今回は、環境社会学をご専門とする名古屋大学大学院環境学研究科准教授の青木聡子様にご講演いただきます。\n\n産業革命以降の人類は、エネルギー利用の爆発的増大とともに経済と科学技術を飛躍的に発展させ、豊かで便利…",
-            "date_modified": "2022-05-09T03:00:00.000Z"
-        },
-        {
-            "id": "201aa12a47b40e1c772794230f605b6e",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3013",
-            "title": "パリ第8大学　留学説明会（5月12日18時～：オンライン）",
-            "summary": "本学の協定校であるフランスの「パリ第8大学」への留学説明会を実施します。\nhttps://ssc.sec.tsukuba.ac.jp/archives/12733\n\n開催日：2022年5月12日（木）18：00～19：00\n開催方法：オンライン（Zoom)\n登録方法：下記URょり詳細を確認いただき、登録フォームより申請してください。登録者には前日の11日にZoomの入室URLをメールでお送りいたし…",
             "date_modified": "2022-05-09T03:00:00.000Z"
         }
     ]

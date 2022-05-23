@@ -4,10 +4,23 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Mon, 23 May 2022 00:32:12 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 23 May 2022 02:47:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
+        <item>
+            <title><![CDATA[【総合科目(学士基盤科目)】「次世代起業家養成講座」開講のお知らせ]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3042</link>
+            <guid>0077d0efde1d56635512d3e89712c55a</guid>
+            <pubDate>Mon, 23 May 2022 03:00:00 GMT</pubDate>
+            <description><![CDATA[「次世代起業家養成講座」
+（科目番号：1226194　学士基盤科目　春 BC 木 4）
+～社会課題解決型の起業家精神を学ぶ
+起業家精神（アントレプレナーシップ）とは、必ずしも起業することを意味するのではなく、
+自立していくためのキャリア形成にとってすべての人が身に付けるべきものです。
+本授業では、社会的な課題を、つくば地区に顕在化するシーズ/ニーズを元に解決する検討を通じて、
+アントレプレナーシッ…]]></description>
+        </item>
         <item>
             <title><![CDATA[【2023年3月卒業・修了予定の学生対象】就活再点検講座]]></title>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3041</link>
@@ -224,18 +237,6 @@ https://forms.gle/NVS6S5t9FeK2M2tCA
 今回は、環境社会学をご専門とする名古屋大学大学院環境学研究科准教授の青木聡子様にご講演いただきます。
 
 産業革命以降の人類は、エネルギー利用の爆発的増大とともに経済と科学技術を飛躍的に発展させ、豊かで便利…]]></description>
-        </item>
-        <item>
-            <title><![CDATA[パリ第8大学　留学説明会（5月12日18時～：オンライン）]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3013</link>
-            <guid>201aa12a47b40e1c772794230f605b6e</guid>
-            <pubDate>Mon, 09 May 2022 03:00:00 GMT</pubDate>
-            <description><![CDATA[本学の協定校であるフランスの「パリ第8大学」への留学説明会を実施します。
-https://ssc.sec.tsukuba.ac.jp/archives/12733
-
-開催日：2022年5月12日（木）18：00～19：00
-開催方法：オンライン（Zoom)
-登録方法：下記URょり詳細を確認いただき、登録フォームより申請してください。登録者には前日の11日にZoomの入室URLをメールでお送りいたし…]]></description>
         </item>
     </channel>
 </rss>
