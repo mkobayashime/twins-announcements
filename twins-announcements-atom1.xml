@@ -2,10 +2,25 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/mkobayashime/twins-announcements</id>
     <title>在学生へのお知らせ | 筑波大学</title>
-    <updated>2022-05-24T08:09:44.837Z</updated>
+    <updated>2022-05-24T09:07:35.959Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://github.com/mkobayashime/twins-announcements"/>
     <subtitle>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</subtitle>
+    <entry>
+        <title type="html"><![CDATA[6/18(土) [大学院入試説明会] ヒューマニクス学位プログラム（5年一貫制博士課程）]]></title>
+        <id>53ab60fc9e2a6193d37b3447b1279340</id>
+        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3045"/>
+        <updated>2022-05-24T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[学類生の皆さまへ
+
+＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊
+第1回入試説明会（5/14）には多くの皆様にご参加いただき、ありがとうございました。
+日本を含む7ヶ国出身の在学生が集結し、参加者の皆様とのトークセッションでは「ここでしか聞けない」ヒューマニクスの裏トークも展開されました。
+第2回（6/18）も同様の形式で開催しますので、是非オンサイトでご参加ください！
+＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊
+
+ヒュー…]]></summary>
+    </entry>
     <entry>
         <title type="html"><![CDATA[スポーツ国際開発学共同専攻　入試説明会のお知らせ]]></title>
         <id>d6a06eff7c5b77747b6be3b1bb52c087</id>
@@ -232,16 +247,5 @@ https://forms.gle/NVS6S5t9FeK2M2tCA
 匿名での当日参加も可能です。
 
 オンライン説明会は必須ではなく直接のエントリーも可能です！ポ…]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[5/26 15:10] 第10回DDPIセミナー「環境をめぐる世代内公正と世代間公正」]]></title>
-        <id>68e64a05f495902a3d0e379e516a4dee</id>
-        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3015"/>
-        <updated>2022-05-09T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[人文社会系DDPIプロジェクトは、格差・不平等の政策的解決、そのためのデジタル技術の可能性（デジタル民主主義）などをテーマとしつつ、2022年度もセミナー・シリーズを断続的に開催しております。
-
-今回は、環境社会学をご専門とする名古屋大学大学院環境学研究科准教授の青木聡子様にご講演いただきます。
-
-産業革命以降の人類は、エネルギー利用の爆発的増大とともに経済と科学技術を飛躍的に発展させ、豊かで便利…]]></summary>
     </entry>
 </feed>
