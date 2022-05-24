@@ -2,10 +2,25 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/mkobayashime/twins-announcements</id>
     <title>在学生へのお知らせ | 筑波大学</title>
-    <updated>2022-05-23T21:09:42.935Z</updated>
+    <updated>2022-05-24T08:09:44.837Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://github.com/mkobayashime/twins-announcements"/>
     <subtitle>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</subtitle>
+    <entry>
+        <title type="html"><![CDATA[スポーツ国際開発学共同専攻　入試説明会のお知らせ]]></title>
+        <id>d6a06eff7c5b77747b6be3b1bb52c087</id>
+        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3044"/>
+        <updated>2022-05-24T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[人間総合科学学術院スポーツ国際開発学共同専攻では、本専攻に関心のある方向けに入試説明会を以下のとおり開催することになりましたので、お知らせいたします。
+
+スポーツ国際開発学共同専攻　入試説明会
+・日　時　：　６月１０日（金）１８：３０～１９：３０
+・場　所　：　オンライン（ZOOM）
+詳細は添付のポスターをご確認ください。
+
+※本説明会は事前登録が必要です。
+興味のある方は、６月６日（月）までに、…]]></summary>
+    </entry>
     <entry>
         <title type="html"><![CDATA[今週は留学相談強化週間！～国際交流イベント・留学情報～]]></title>
         <id>d07f083129279e91e0ee9de3df165193</id>
@@ -228,17 +243,5 @@ https://forms.gle/NVS6S5t9FeK2M2tCA
 今回は、環境社会学をご専門とする名古屋大学大学院環境学研究科准教授の青木聡子様にご講演いただきます。
 
 産業革命以降の人類は、エネルギー利用の爆発的増大とともに経済と科学技術を飛躍的に発展させ、豊かで便利…]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[パリ第8大学　留学説明会（5月12日18時～：オンライン）]]></title>
-        <id>201aa12a47b40e1c772794230f605b6e</id>
-        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3013"/>
-        <updated>2022-05-09T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[本学の協定校であるフランスの「パリ第8大学」への留学説明会を実施します。
-https://ssc.sec.tsukuba.ac.jp/archives/12733
-
-開催日：2022年5月12日（木）18：00～19：00
-開催方法：オンライン（Zoom)
-登録方法：下記URょり詳細を確認いただき、登録フォームより申請してください。登録者には前日の11日にZoomの入室URLをメールでお送りいたし…]]></summary>
     </entry>
 </feed>
