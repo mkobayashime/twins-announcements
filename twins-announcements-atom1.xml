@@ -2,10 +2,24 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/mkobayashime/twins-announcements</id>
     <title>在学生へのお知らせ | 筑波大学</title>
-    <updated>2022-05-25T02:52:17.174Z</updated>
+    <updated>2022-05-25T07:06:21.921Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://github.com/mkobayashime/twins-announcements"/>
     <subtitle>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</subtitle>
+    <entry>
+        <title type="html"><![CDATA[【募集】筑波大生のための「地域連携型インターンシップ」（6/24応募締切）]]></title>
+        <id>08de415cd17b7b8318834e0987765001</id>
+        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3050"/>
+        <updated>2022-05-25T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[就職課オリジナルの「地域連携型インターンシップ」の参加者を募集しています。
+
+40時間以上の実習、充実した事前・事後学習等により、体系的に学ぶことのできる筑波大生のためのインターンシップです。
+
+■地域連携型インターンシップの特徴
+・学群1年生からインターンシップに参加できます！
+・事前事後学習が整っているので、インターンシップに初めて参加する学生も、安心して参加することができます！
+・つくば市近…]]></summary>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【募集】土浦市学校サポーターの募集について]]></title>
         <id>7e213aacbc11c73e5117d26f0f991277</id>
@@ -240,14 +254,5 @@ https://teket.jp/1479/11731
 
 曲目：ヴィヴァルディ フルート協奏曲 作品10-2“夜”
 　　　C.P.E.バッハ ヴァイオリン協奏曲 二短調 第1…]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[第10回筑波大学オープンファシリティー研究機器共同利用説明会開催のご案内]]></title>
-        <id>a6c4e136e2c04dfdf267c6b920dbf773</id>
-        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3023"/>
-        <updated>2022-05-13T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[筑波大学 オープンファシリティー推進機構では、教育研究を効率的に推進するため、211台の共同利用機器をオープンファシリティーシステムに登録し、設備の有効活用に伴う利用サポートを実施いたしております。
-第10回目の開催となる、本年度の説明会では、筑波大学の研究機器だけでなく、物質・材料研究機構及び高エネルギー加速器研究機構の研究機器も含め、つくば地区の共用機器を幅広くご紹介いたします。
-研究促進に役…]]></summary>
     </entry>
 </feed>
