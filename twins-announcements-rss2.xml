@@ -4,10 +4,26 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Tue, 24 May 2022 21:09:36 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 25 May 2022 00:33:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
+        <item>
+            <title><![CDATA[【募集】TG⁺プログラム第3期生の募集を開始します]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3046</link>
+            <guid>6420b49af28904f6a23940997326909c</guid>
+            <pubDate>Wed, 25 May 2022 03:00:00 GMT</pubDate>
+            <description><![CDATA[TG⁺プログラム第３期生の募集を開始します！
+
+「さあ、新興国へのドアを開けよう！」
+
+筑波大学グローバル⁺リーダーシップ教育プログラムでは第3期のプログラム生を募集します。募集にあたりプログラム説明会を開催します。プログラムにご興味・相談のある方は、ぜひご参加ください。
+
+2022年6月15日（水） 11:30~12:00
+2022年7月20日（水） 11:30~12:00
+
+説明会の申し込みは…]]></description>
+        </item>
         <item>
             <title><![CDATA[6/18(土) [大学院入試説明会] ヒューマニクス学位プログラム（5年一貫制博士課程）]]></title>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3045</link>
@@ -234,21 +250,6 @@ https://teket.jp/1479/11731
 This is a 1-on-1 chat program where you can practice Japanese with Japanese students!
 
 For: University of Tsukuba st…]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Johnson &amp; Johnson Data Science Internshipの募集]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3019</link>
-            <guid>f62b935c5733c8509d07db3a060c0f5f</guid>
-            <pubDate>Tue, 10 May 2022 03:00:00 GMT</pubDate>
-            <description><![CDATA[ジョンソン・エンド・ジョンソンよりインターンシップの募集がございました。
-興味のある学生はぜひご応募ください。
-
-6月14日（火）15時から16時にオンライン説明会を予定しています。
-参加希望の方は以下より、情報の入力をお願いします。
-https://forms.gle/NVS6S5t9FeK2M2tCA
-匿名での当日参加も可能です。
-
-オンライン説明会は必須ではなく直接のエントリーも可能です！ポ…]]></description>
         </item>
     </channel>
 </rss>
