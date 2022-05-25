@@ -4,10 +4,21 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Wed, 25 May 2022 00:33:19 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 25 May 2022 02:52:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
+        <item>
+            <title><![CDATA[【募集】土浦市学校サポーターの募集について]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3049</link>
+            <guid>7e213aacbc11c73e5117d26f0f991277</guid>
+            <pubDate>Wed, 25 May 2022 03:00:00 GMT</pubDate>
+            <description><![CDATA[土浦市教育委員会から学校サポーターの募集がありました。
+詳細は添付ファイルを確認し、申込を希望する方は申込先へ連絡してください。
+
+
+#ts]]></description>
+        </item>
         <item>
             <title><![CDATA[【募集】TG⁺プログラム第3期生の募集を開始します]]></title>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3046</link>
@@ -240,16 +251,6 @@ https://teket.jp/1479/11731
             <description><![CDATA[筑波大学 オープンファシリティー推進機構では、教育研究を効率的に推進するため、211台の共同利用機器をオープンファシリティーシステムに登録し、設備の有効活用に伴う利用サポートを実施いたしております。
 第10回目の開催となる、本年度の説明会では、筑波大学の研究機器だけでなく、物質・材料研究機構及び高エネルギー加速器研究機構の研究機器も含め、つくば地区の共用機器を幅広くご紹介いたします。
 研究促進に役…]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Japanese Chat Event for all levels: "G-Chat Japanese"]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3022</link>
-            <guid>d03cf9c06ed0c7d6eef494448645feb2</guid>
-            <pubDate>Tue, 10 May 2022 03:00:00 GMT</pubDate>
-            <description><![CDATA[If you are looking for an opportunity to chat in Japanese, this program is for you!
-This is a 1-on-1 chat program where you can practice Japanese with Japanese students!
-
-For: University of Tsukuba st…]]></description>
         </item>
     </channel>
 </rss>
