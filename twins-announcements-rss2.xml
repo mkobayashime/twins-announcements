@@ -4,10 +4,23 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Wed, 25 May 2022 21:09:49 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 26 May 2022 00:30:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
+        <item>
+            <title><![CDATA[【再掲】【開催案内】第4回 オンラインによるロシア・中央アジア映画上映会_6/3(金)]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3051</link>
+            <guid>418b6b98e4efd051624d64eeec8b0fbc</guid>
+            <pubDate>Thu, 26 May 2022 03:00:00 GMT</pubDate>
+            <description><![CDATA[この度、筑波大学「日本財団 中央アジア・日本人材育成プロジェクト (NipCA)」は、中央アジアの文化とSDGsへの理解促進のため、オンラインによるロシア・中央アジア映画上映会を開催することになりました。
+
+上映作品：エウジェン・マリヤン『鳥のミルク』（2021年、 76分）ロシア語, モルドバ語 / 日本語字幕付き
+
+日時：令和4年6月3日（金）19:15〜21:20
+
+19:00　Zoom開場…]]></description>
+        </item>
         <item>
             <title><![CDATA[【募集】筑波大生のための「地域連携型インターンシップ」（6/24応募締切）]]></title>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3050</link>
@@ -240,15 +253,6 @@ https://teket.jp/1479/11731
 
 曲目：ヴィヴァルディ フルート協奏曲 作品10-2“夜”
 　　　C.P.E.バッハ ヴァイオリン協奏曲 二短調 第1…]]></description>
-        </item>
-        <item>
-            <title><![CDATA[第10回筑波大学オープンファシリティー研究機器共同利用説明会開催のご案内]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3023</link>
-            <guid>a6c4e136e2c04dfdf267c6b920dbf773</guid>
-            <pubDate>Fri, 13 May 2022 03:00:00 GMT</pubDate>
-            <description><![CDATA[筑波大学 オープンファシリティー推進機構では、教育研究を効率的に推進するため、211台の共同利用機器をオープンファシリティーシステムに登録し、設備の有効活用に伴う利用サポートを実施いたしております。
-第10回目の開催となる、本年度の説明会では、筑波大学の研究機器だけでなく、物質・材料研究機構及び高エネルギー加速器研究機構の研究機器も含め、つくば地区の共用機器を幅広くご紹介いたします。
-研究促進に役…]]></description>
         </item>
     </channel>
 </rss>
