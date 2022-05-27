@@ -4,10 +4,19 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Fri, 27 May 2022 02:54:56 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 27 May 2022 04:11:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
+        <item>
+            <title><![CDATA[[6/17 14:00-]「テクノロジーが創る新しい市民社会の構築」（第11回DDPIセミナー）]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3055</link>
+            <guid>1fc322f48c4a439021907a454c2646e0</guid>
+            <pubDate>Fri, 27 May 2022 03:00:00 GMT</pubDate>
+            <description><![CDATA[人文社会系山本研究室・DDPIプロジェクトでは、格差・不平等の政策的解決、そのためのデジタル技術の可能性（デジタル民主主義）などをテーマとし、2022年度もセミナー・シリーズを断続的に開催しております。
+
+今回は『テクノロジーが創る新しい市民社会の構築』と題しまして、一般社団法人コード・フォー・カナザワ（Code for Kanazawa）代表理事でありアイパブリッシング株式会社代表取締役の福島健…]]></description>
+        </item>
         <item>
             <title><![CDATA[【注意喚起】自動車の駐車マナーについて]]></title>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3054</link>
@@ -240,13 +249,6 @@ If you have not …]]></description>
 修復完成記念特別公開　「歴聖大儒像　儒者のまなざし」
 
 【会期】令和4年5月16日（月）～5月27日（金）　9:00～1…]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Explanatory Meeting of Degree Program in Education Master’s Program]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3028</link>
-            <guid>3201d5b2183771f45cc96ebdd62301ba</guid>
-            <pubDate>Fri, 13 May 2022 03:00:00 GMT</pubDate>
-            <description><![CDATA[Explanatory meeting of degree program in education master’s program ( subprogram in school education for the next generation,  subprogram in international education, subprogram in education sciences) …]]></description>
         </item>
     </channel>
 </rss>

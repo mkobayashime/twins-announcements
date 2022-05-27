@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "1fc322f48c4a439021907a454c2646e0",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3055",
+            "title": "[6/17 14:00-]「テクノロジーが創る新しい市民社会の構築」（第11回DDPIセミナー）",
+            "summary": "人文社会系山本研究室・DDPIプロジェクトでは、格差・不平等の政策的解決、そのためのデジタル技術の可能性（デジタル民主主義）などをテーマとし、2022年度もセミナー・シリーズを断続的に開催しております。\n\n今回は『テクノロジーが創る新しい市民社会の構築』と題しまして、一般社団法人コード・フォー・カナザワ（Code for Kanazawa）代表理事でありアイパブリッシング株式会社代表取締役の福島健…",
+            "date_modified": "2022-05-27T03:00:00.000Z"
+        },
+        {
             "id": "ff2b233d6771a5460f4c974978d85c61",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3054",
             "title": "【注意喚起】自動車の駐車マナーについて",
@@ -135,13 +142,6 @@
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3029",
             "title": "【5/16～5/27開催】附属図書館修復完成記念特別公開「歴聖大儒像　儒者のまなざし」",
             "summary": "附属図書館では、狩野山雪画「歴聖大儒像」の修復が完成したことを記念し、下記のとおり特別公開いたします。この機会に附属図書館が所蔵する貴重な資料をぜひご覧ください。\nなお、当該資料は、朝日新聞文化財団、出光文化福祉財団、住友財団による美術品修復助成を受けて修復が行われました。\n\n\n修復完成記念特別公開　「歴聖大儒像　儒者のまなざし」\n\n【会期】令和4年5月16日（月）～5月27日（金）　9:00～1…",
-            "date_modified": "2022-05-13T03:00:00.000Z"
-        },
-        {
-            "id": "3201d5b2183771f45cc96ebdd62301ba",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3028",
-            "title": "Explanatory Meeting of Degree Program in Education Master’s Program",
-            "summary": "Explanatory meeting of degree program in education master’s program ( subprogram in school education for the next generation,  subprogram in international education, subprogram in education sciences) …",
             "date_modified": "2022-05-13T03:00:00.000Z"
         }
     ]
