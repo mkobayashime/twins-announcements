@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "ff2b233d6771a5460f4c974978d85c61",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3054",
+            "title": "【注意喚起】自動車の駐車マナーについて",
+            "summary": "ローソンつくば天久保三丁目店から、筑波大学生と思われる者が、長時間無断で自動車を駐車している、といった苦情が寄せられました。今一度、ご自身の駐車マナーを振り返っていただき、筑波大学生として節度ある行動を心がけてください。",
+            "date_modified": "2022-05-27T03:00:00.000Z"
+        },
+        {
             "id": "06c9f6287ecf5023c1001c43958c5166",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3053",
             "title": "2022年度「海外英語研修I」（3単位、オンライン）参加者募集",
@@ -135,13 +142,6 @@
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3028",
             "title": "Explanatory Meeting of Degree Program in Education Master’s Program",
             "summary": "Explanatory meeting of degree program in education master’s program ( subprogram in school education for the next generation,  subprogram in international education, subprogram in education sciences) …",
-            "date_modified": "2022-05-13T03:00:00.000Z"
-        },
-        {
-            "id": "f1003114b2b10efa0a4995110773757c",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3027",
-            "title": "【進学・入試説明会】2022年度教育学学位プログラム進学・入試説明 会 のお知らせ",
-            "summary": "教育学学位プログラム（博士前期課程：次世代学校教育創成サブプログラム、\n国際教育サブプログラム、教育基礎科学サブプログラム、博士後期課程：教育学\n学位プログラム）では、大学院進学に関心のある方向けに、進学・入試説明会を\n実施します。当日は、教員・院生から直接説明を聞いたり、質問・相談をしたり\nすることが可能です。参加費は無料ですので、ご興味がある方は是非ご参加くだ\nさい。\n\n日時：6月19日（日）…",
             "date_modified": "2022-05-13T03:00:00.000Z"
         }
     ]

@@ -4,10 +4,17 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Thu, 26 May 2022 21:10:17 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 27 May 2022 02:54:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
+        <item>
+            <title><![CDATA[【注意喚起】自動車の駐車マナーについて]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3054</link>
+            <guid>ff2b233d6771a5460f4c974978d85c61</guid>
+            <pubDate>Fri, 27 May 2022 03:00:00 GMT</pubDate>
+            <description><![CDATA[ローソンつくば天久保三丁目店から、筑波大学生と思われる者が、長時間無断で自動車を駐車している、といった苦情が寄せられました。今一度、ご自身の駐車マナーを振り返っていただき、筑波大学生として節度ある行動を心がけてください。]]></description>
+        </item>
         <item>
             <title><![CDATA[2022年度「海外英語研修I」（3単位、オンライン）参加者募集]]></title>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3053</link>
@@ -240,20 +247,6 @@ If you have not …]]></description>
             <guid>3201d5b2183771f45cc96ebdd62301ba</guid>
             <pubDate>Fri, 13 May 2022 03:00:00 GMT</pubDate>
             <description><![CDATA[Explanatory meeting of degree program in education master’s program ( subprogram in school education for the next generation,  subprogram in international education, subprogram in education sciences) …]]></description>
-        </item>
-        <item>
-            <title><![CDATA[【進学・入試説明会】2022年度教育学学位プログラム進学・入試説明 会 のお知らせ]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3027</link>
-            <guid>f1003114b2b10efa0a4995110773757c</guid>
-            <pubDate>Fri, 13 May 2022 03:00:00 GMT</pubDate>
-            <description><![CDATA[教育学学位プログラム（博士前期課程：次世代学校教育創成サブプログラム、
-国際教育サブプログラム、教育基礎科学サブプログラム、博士後期課程：教育学
-学位プログラム）では、大学院進学に関心のある方向けに、進学・入試説明会を
-実施します。当日は、教員・院生から直接説明を聞いたり、質問・相談をしたり
-することが可能です。参加費は無料ですので、ご興味がある方は是非ご参加くだ
-さい。
-
-日時：6月19日（日）…]]></description>
         </item>
     </channel>
 </rss>
