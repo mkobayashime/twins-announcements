@@ -2,10 +2,17 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/mkobayashime/twins-announcements</id>
     <title>在学生へのお知らせ | 筑波大学</title>
-    <updated>2022-05-29T21:09:06.895Z</updated>
+    <updated>2022-05-30T04:26:19.570Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://github.com/mkobayashime/twins-announcements"/>
     <subtitle>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</subtitle>
+    <entry>
+        <title type="html"><![CDATA[外務省が発出する感染症危険情報レベルの一部引き下げについて]]></title>
+        <id>b7f65edd4f24581008ac1833b4288924</id>
+        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3057"/>
+        <updated>2022-05-30T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[本学では「海外での危機発生時における学生及び教職員の渡航に関する指針」（学長決定）において、学生に関しては、外務省が発出する危険情報または感染症危険情報が「レベル2：不要不急の渡航は取り止めてください」以上の国への渡航は原則取り止めるよう定めておりますが、令和4年5月26日に外務省により、36か国についての感染症危険情報レベルがレベル2から「レベル1：十分注意してください」に引き下げられたため、当…]]></summary>
+    </entry>
     <entry>
         <title type="html"><![CDATA[世界を変えよう基金「お金の超基本勉強会―卒業してからでは遅すぎる」開催のお知らせ]]></title>
         <id>17cb00643ae5a2bedf4fa7ee14562583</id>
@@ -234,15 +241,5 @@ If you have not …]]></summary>
 まだ回答していない方は、以下のURLより回答をお願いいたします。
 The Mental Health Survey for the 2022 Student Health Examination is now being conducted until Tuesday, May 31.
 If you have not …]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[日本財団オーシャンイノベーションコンソーシアム　就職先調査]]></title>
-        <id>5128703be73ebbeeb527ba87f8519dd1</id>
-        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3030"/>
-        <updated>2022-05-13T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[日本財団オーシャンイノベーションコンソーシアムでは、大学生、大学院生向けに海洋開発業界の魅力を伝える活動や、将来海洋開発に携わっていくために求められる能力を高める場の提供などの活動を行っております。
-
-今後の活動の参考とさせていただきたく、2022年3月に卒業されている方に対して就職先アンケートを実施しております。
-既に回答いただいている学生もおりますが、貴大学に所属している学生にもご連絡いただけ…]]></summary>
     </entry>
 </feed>
