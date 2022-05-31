@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "418b6b98e4efd051624d64eeec8b0fbc",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3066",
+            "title": "【再掲】【開催案内】第4回 オンラインによるロシア・中央アジア映画上映会_6/3(金)",
+            "summary": "この度、筑波大学「日本財団 中央アジア・日本人材育成プロジェクト (NipCA)」は、中央アジアの文化とSDGsへの理解促進のため、オンラインによるロシア・中央アジア映画上映会を開催することになりました。\n\n上映作品：エウジェン・マリヤン『鳥のミルク』（2021年、 76分）ロシア語、モルドバ語 / 日本語字幕付き\n\n日時：令和4年6月3日（金）19:15〜21:20\n\n19:00　Zoom開場　…",
+            "date_modified": "2022-06-01T03:00:00.000Z"
+        },
+        {
             "id": "ad829608e7926bae6daebc91053d63b8",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3065",
             "title": "【お知らせ】筑波大学公式オリジナルグッズECサイト割引クーポンコード（6月）",
@@ -120,7 +127,7 @@
             "id": "53ab60fc9e2a6193d37b3447b1279340",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3045",
             "title": "6/18(土) [大学院入試説明会] ヒューマニクス学位プログラム（5年一貫制博士課程）",
-            "summary": "土浦市教育委員会から学校サポーターの募集がありました。\n詳細は添付ファイルを確認し、申込を希望する方は申込先へ連絡してください。\n\n\n#ts",
+            "summary": "学類生の皆さまへ\n\n＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊\n第1回入試説明会（5/14）には多くの皆様にご参加いただき、ありがとうございました。\n日本を含む7ヶ国出身の在学生が集結し、参加者の皆様とのトークセッションでは「ここでしか聞けない」ヒューマニクスの裏トークも展開されました。\n第2回（6/18）も同様の形式で開催しますので、是非オンサイトでご参加ください！\n＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊\n\nヒュー…",
             "date_modified": "2022-05-24T03:00:00.000Z"
         },
         {
@@ -135,13 +142,6 @@
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3042",
             "title": "【総合科目(学士基盤科目)】「次世代起業家養成講座」開講のお知らせ",
             "summary": "「次世代起業家養成講座」\n（科目番号：1226194　学士基盤科目　春 BC 木 4）\n～社会課題解決型の起業家精神を学ぶ\n起業家精神（アントレプレナーシップ）とは、必ずしも起業することを意味するのではなく、\n自立していくためのキャリア形成にとってすべての人が身に付けるべきものです。\n本授業では、社会的な課題を、つくば地区に顕在化するシーズ/ニーズを元に解決する検討を通じて、\nアントレプレナーシッ…",
-            "date_modified": "2022-05-23T03:00:00.000Z"
-        },
-        {
-            "id": "d4c49a8ab9fd0bdf4881be841a9bbb89",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3041",
-            "title": "【2023年3月卒業・修了予定の学生対象】就活再点検講座",
-            "summary": "就活に困っていませんか？悩んでいませんか？\nそんな就活中の学生のためのガイダンスです。\nマイナビの高橋編集長が筑波大生のために、\n今年の就活の現状と今後の対策をお話します。\n\n企業の最新の採用動向を踏まえた、\n「エントリーシート作成のコツ」「面接突破のコツ」を伝授します。\n新しい視点であなたの就活をブラッシュアップしませんか？\n\n講義のあと、質問（匿名可）にライブでお答えします。\n事前に受け付けた…",
             "date_modified": "2022-05-23T03:00:00.000Z"
         }
     ]
