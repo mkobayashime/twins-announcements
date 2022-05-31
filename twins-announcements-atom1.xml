@@ -2,10 +2,36 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/mkobayashime/twins-announcements</id>
     <title>在学生へのお知らせ | 筑波大学</title>
-    <updated>2022-05-30T21:09:30.678Z</updated>
+    <updated>2022-05-31T05:14:37.580Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://github.com/mkobayashime/twins-announcements"/>
     <subtitle>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</subtitle>
+    <entry>
+        <title type="html"><![CDATA[学習効果と満足度に関するアンケート調査]]></title>
+        <id>f7e9cc636ac7c9f2665f4d863f703a6f</id>
+        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3060"/>
+        <updated>2022-05-31T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[■アンケート依頼
+件　　名：学習効果と満足度に関するアンケート調査
+対　　象：２年以上の学部学生
+依 頼 元：大学基準協会
+回答方法：本文の最後に掲載してあるURLよりご回答ください。
+　　　　　https://www.juaa.or.jp/survey2022にアクセスし、回答。
+　　　　　筑波大学専用のログイン情報（アカウント：J0037、パスワード：c59ad113）
+回答期限：令和４年９月…]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【期間限定見逃し配信】筑波大学Visionシンポジウムについて]]></title>
+        <id>7bc09d628af314b6fbdc8ffec3acfce1</id>
+        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3059"/>
+        <updated>2022-05-31T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[筑波大学Visionシンポジウム（5月18日開催）の動画を期間限定で配信します。
+動画の視聴は、本文最後に掲載してあるURLより本学のMicrosoft  365アカウントでログインしてください。
+視聴後のアンケートにもぜひご協力ください。
+
+【動画へのリンク※学内限り】
+https://o365tsukuba.sharepoint.com/:v:/s/msteams_33ecae/EeZop4m…]]></summary>
+    </entry>
     <entry>
         <title type="html"><![CDATA[About the Lowered Level of MOFA’s Travel Advice and Warning on Infectious Diseases of Some Countries]]></title>
         <id>ec9f8ebc3be5e7db2a46fd7ab196419d</id>
@@ -216,25 +242,5 @@
 参加希望者は、下記のページから応募してください。
 
 ]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【全学生対象】こころの健康調査を５月３１日(火)まで実施中です。【For all students】Mental Health Survey ends May 31.]]></title>
-        <id>c0f841c749dabb3db2e45c07615c05d0</id>
-        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3035"/>
-        <updated>2022-05-16T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[令和４年度学生定期健康診断のこころの健康調査を５月３１日(火)まで実施中です。
-まだ回答していない方は、以下のURLより回答をお願いいたします。
-The Mental Health Survey for the 2022 Student Health Examination is now being conducted until Tuesday, May 31.
-If you have not …]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【全学生対象】こころの健康調査を５月３１日(火)まで実施中です。【For all students】Mental Health Survey ends May 31.]]></title>
-        <id>c0f841c749dabb3db2e45c07615c05d0</id>
-        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3034"/>
-        <updated>2022-05-16T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[令和４年度学生定期健康診断のこころの健康調査を５月３１日(火)まで実施中です。
-まだ回答していない方は、以下のURLより回答をお願いいたします。
-The Mental Health Survey for the 2022 Student Health Examination is now being conducted until Tuesday, May 31.
-If you have not …]]></summary>
     </entry>
 </feed>
