@@ -4,10 +4,19 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Tue, 31 May 2022 05:14:37 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 31 May 2022 06:08:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
+        <item>
+            <title><![CDATA[【注意喚起】薬物乱用防止について]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3061</link>
+            <guid>33fa39e8ed5ac08573da19e690da49f7</guid>
+            <pubDate>Tue, 31 May 2022 03:00:00 GMT</pubDate>
+            <description><![CDATA[　青少年による薬物（大麻、その他の麻薬、危険ドラックなど）乱用が深刻な問題となっており、特に若年層における大麻の乱用拡大が問題となっております。
+　薬物（大麻、その他の麻薬、危険ドラックなど）の乱用は、自身の心身のみならず、その後の人生や、家族、友人関係などに計り知れない影響を与えます。甘い言葉や誤った情報には流されずに、はっきりと断る強い意志をもって、絶対に関わりを持たないようにしてください。
+…]]></description>
+        </item>
         <item>
             <title><![CDATA[学習効果と満足度に関するアンケート調査]]></title>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3060</link>
@@ -233,17 +242,6 @@ https://o365tsukuba.sharepoint.com/:v:/s/msteams_33ecae/EeZop4m…]]></descripti
 
 
 　In order …]]></description>
-        </item>
-        <item>
-            <title><![CDATA[【日本原子力開発機構】令和4年度夏季休暇実習生の募集について]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3036</link>
-            <guid>c360bcfd5ea9ba7300e16cccc2b7e460</guid>
-            <pubDate>Mon, 16 May 2022 03:00:00 GMT</pubDate>
-            <description><![CDATA[国立開発法人日本原子力研究開発機構から、令和4年度夏季休暇実習生募集の案内がありましたので、
-お知らせします。
-参加希望者は、下記のページから応募してください。
-
-]]></description>
         </item>
     </channel>
 </rss>

@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "33fa39e8ed5ac08573da19e690da49f7",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3061",
+            "title": "【注意喚起】薬物乱用防止について",
+            "summary": "　青少年による薬物（大麻、その他の麻薬、危険ドラックなど）乱用が深刻な問題となっており、特に若年層における大麻の乱用拡大が問題となっております。\n　薬物（大麻、その他の麻薬、危険ドラックなど）の乱用は、自身の心身のみならず、その後の人生や、家族、友人関係などに計り知れない影響を与えます。甘い言葉や誤った情報には流されずに、はっきりと断る強い意志をもって、絶対に関わりを持たないようにしてください。\n…",
+            "date_modified": "2022-05-31T03:00:00.000Z"
+        },
+        {
             "id": "f7e9cc636ac7c9f2665f4d863f703a6f",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3060",
             "title": "学習効果と満足度に関するアンケート調査",
@@ -135,13 +142,6 @@
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3037",
             "title": "【周知】構内における放置自転車・放置自動車等の一斉撤去について / Removal of All Abandoned Bicycles and Vehicles in Campus",
             "summary": "　本学では、良好な構内環境を保持するため、本学の要項に基づき、放置車両と思われる車両については、撤去通告書を車両に貼付後、一定の期間を置いてから一斉撤去を実施します。\n　つきましては、別添に日程等詳細を記載しておりますので、所有されている車両について現状確認をしていただくようお願いします。\n　また、駐車場、駐輪場、駐輪スペース以外に停めている場合は、必ず移動してください。\n\n\n　In order …",
-            "date_modified": "2022-05-16T03:00:00.000Z"
-        },
-        {
-            "id": "c360bcfd5ea9ba7300e16cccc2b7e460",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3036",
-            "title": "【日本原子力開発機構】令和4年度夏季休暇実習生の募集について",
-            "summary": "国立開発法人日本原子力研究開発機構から、令和4年度夏季休暇実習生募集の案内がありましたので、\nお知らせします。\n参加希望者は、下記のページから応募してください。\n\n",
             "date_modified": "2022-05-16T03:00:00.000Z"
         }
     ]
