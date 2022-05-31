@@ -2,10 +2,24 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/mkobayashime/twins-announcements</id>
     <title>在学生へのお知らせ | 筑波大学</title>
-    <updated>2022-05-31T09:10:17.903Z</updated>
+    <updated>2022-05-31T10:08:40.310Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://github.com/mkobayashime/twins-announcements"/>
     <subtitle>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</subtitle>
+    <entry>
+        <title type="html"><![CDATA[令和4年度夏季休業前の海外危機管理セミナーの開催について]]></title>
+        <id>2927c0a5c659e3fb66ed17ac68af7361</id>
+        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3064"/>
+        <updated>2022-05-31T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[海外危機管理セミナー（オンライン）を開催しますので、お知らせいたします。
+海外危機管理に関するスペシャリストをお招きし、海外渡航※前の準備事項と、現地での安全対策について学びます。ご参加に当たっては、期日までに事前登録してください。
+
+１．日時：　令和4年6月23日（木）18：15～19：30
+
+２．内容・講師：
+①「安全対策として渡航前準備事項を確認し、海外渡航中の安全管理を考える」
+　　講師：…]]></summary>
+    </entry>
     <entry>
         <title type="html"><![CDATA[T-ACT Welcome Fest 2022 ―つくばアクションプロジェクト新入生歓迎会・活動報告会― 開催のお知らせ 【6/15(水) 18:00～20:00】]]></title>
         <id>41e723cbd746df972ec2f541b0e4a383</id>
@@ -227,15 +241,5 @@ https://o365tsukuba.sharepoint.com/:v:/s/msteams_33ecae/EeZop4m…]]></summary>
 　　　　　　★オンライン参加も可能！対面とZoomを使ったハイブリッド方式★
 【対　象】　修士課程に進学希望の学生（出身学部を問いません。一年生も大歓迎）
 【内　容】　専攻の概…]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[6/2開催！“未来は僕らの手の中に～社会課題を「事業」で突破する～”講演]]></title>
-        <id>6bf56cdb65c0d7dbb1dba2e3d8b5017d</id>
-        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3039"/>
-        <updated>2022-05-18T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[日本環境設計株式会社取締役　執行役員会長 岩元美智彦氏をお招きし、次世代の起業家にとって必要なマインドを教授いただきます。
-本講演は、学士基盤科目「次世代起業家養成講座」第2回授業内で実施します。授業の履修有無に限らず参加が可能ですので、起業や事業立ち上げにご興味のある方はぜひお申込みください！
-
-詳細・お申込みはURLよりお願いいたします。]]></summary>
     </entry>
 </feed>
