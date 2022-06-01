@@ -5,6 +5,27 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "41b79a8d1f071627a63d240043464722",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3069",
+            "title": "【Library】 Free Ebook Trial Service",
+            "summary": "In order to support teaching and learning in the COVID-19 pandemic, the library provides an eBook trial service.\n\nYou can try any part of the eBooks from the following eBook platforms for free for fiv…",
+            "date_modified": "2022-06-01T03:00:00.000Z"
+        },
+        {
+            "id": "06b12b55e382a16f48f9421423e7f963",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3068",
+            "title": "【附属図書館】 電子ブック 全文無料試し読みサービスのご案内",
+            "summary": "附属図書館では、コロナ禍における教育・学習を支援するため、電子ブックの全文無料試し読みサービスを実施します。\n\n対象プラットフォームの電子ブックからお好きな部分を1タイトルにつき5分間、試し読みすることができます。また、購入を希望される場合にはリクエストを送信することもできます。この機会にぜひお試しください。\n\n【実施期間と対象プラットフォーム】\n・KinoDen（紀伊國屋書店）【期間限定！202…",
+            "date_modified": "2022-06-01T03:00:00.000Z"
+        },
+        {
+            "id": "369075e223286095d805b88db7492874",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3067",
+            "title": "【再掲】Tsukuba Global⁺第3期生の募集を開始します",
+            "summary": "TG⁺プログラム第３期生の募集を開始します！\n\n「さあ、新興国へのドアを開けよう！」\n\n筑波大学グローバル⁺リーダーシップ教育プログラムでは第3期のプログラム生を募集します。募集にあたりプログラム説明会を開催します。プログラムにご興味・相談のある方は、ぜひご参加ください。\n\n2022年6月15日（水） 11:30~12:00\n2022年7月20日（水） 11:30~12:00\n\n説明会の申し込みは…",
+            "date_modified": "2022-06-01T03:00:00.000Z"
+        },
+        {
             "id": "418b6b98e4efd051624d64eeec8b0fbc",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3066",
             "title": "【再掲】【開催案内】第4回 オンラインによるロシア・中央アジア映画上映会_6/3(金)",
@@ -122,27 +143,6 @@
             "title": "【募集】土浦市学校サポーターの募集について",
             "summary": "土浦市教育委員会から学校サポーターの募集がありました。\n詳細は添付ファイルを確認し、申込を希望する方は申込先へ連絡してください。\n\n\n#ts",
             "date_modified": "2022-05-25T03:00:00.000Z"
-        },
-        {
-            "id": "53ab60fc9e2a6193d37b3447b1279340",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3045",
-            "title": "6/18(土) [大学院入試説明会] ヒューマニクス学位プログラム（5年一貫制博士課程）",
-            "summary": "学類生の皆さまへ\n\n＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊\n第1回入試説明会（5/14）には多くの皆様にご参加いただき、ありがとうございました。\n日本を含む7ヶ国出身の在学生が集結し、参加者の皆様とのトークセッションでは「ここでしか聞けない」ヒューマニクスの裏トークも展開されました。\n第2回（6/18）も同様の形式で開催しますので、是非オンサイトでご参加ください！\n＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊\n\nヒュー…",
-            "date_modified": "2022-05-24T03:00:00.000Z"
-        },
-        {
-            "id": "d6a06eff7c5b77747b6be3b1bb52c087",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3044",
-            "title": "スポーツ国際開発学共同専攻　入試説明会のお知らせ",
-            "summary": "人間総合科学学術院スポーツ国際開発学共同専攻では、本専攻に関心のある方向けに入試説明会を以下のとおり開催することになりましたので、お知らせいたします。\n\nスポーツ国際開発学共同専攻　入試説明会\n・日　時　：　６月１０日（金）１８：３０～１９：３０\n・場　所　：　オンライン（ZOOM）\n詳細は添付のポスターをご確認ください。\n\n※本説明会は事前登録が必要です。\n興味のある方は、６月６日（月）までに、…",
-            "date_modified": "2022-05-24T03:00:00.000Z"
-        },
-        {
-            "id": "0077d0efde1d56635512d3e89712c55a",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3042",
-            "title": "【総合科目(学士基盤科目)】「次世代起業家養成講座」開講のお知らせ",
-            "summary": "「次世代起業家養成講座」\n（科目番号：1226194　学士基盤科目　春 BC 木 4）\n～社会課題解決型の起業家精神を学ぶ\n起業家精神（アントレプレナーシップ）とは、必ずしも起業することを意味するのではなく、\n自立していくためのキャリア形成にとってすべての人が身に付けるべきものです。\n本授業では、社会的な課題を、つくば地区に顕在化するシーズ/ニーズを元に解決する検討を通じて、\nアントレプレナーシッ…",
-            "date_modified": "2022-05-23T03:00:00.000Z"
         }
     ]
 }
