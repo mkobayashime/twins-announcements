@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/mkobayashime/twins-announcements</id>
     <title>在学生へのお知らせ | 筑波大学</title>
-    <updated>2022-06-01T07:09:33.715Z</updated>
+    <updated>2022-06-01T08:10:26.257Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://github.com/mkobayashime/twins-announcements"/>
     <subtitle>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</subtitle>
+    <entry>
+        <title type="html"><![CDATA[[7/7 16:45- 対面]「孤独・孤立対策による健康格差の是正：社会疫学の視点で考える」（第12回DDPI拡大講演会）]]></title>
+        <id>50b6fd8f9533c1af14f87ba1b683dc83</id>
+        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3071"/>
+        <updated>2022-06-01T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[人文社会系DDPIプロジェクトでは、6月17日に引き続き、7月7日に対面での拡大講演会を企画しております。
+ぜひとも幅広いご所属の方のご参加を歓迎いたします。
+
+今回は『孤独・孤立対策による健康格差の是正：社会疫学の視点で考える』と題し、社会疫学者である近藤尚己先生をお招きし、格差・不平等の問題を考えるうえでのもっとも基本的な出発点である人間に焦点をあてて、個人と個人の間における格差のイメージのう…]]></summary>
+    </entry>
     <entry>
         <title type="html"><![CDATA[クアッドフェローシップ応募について]]></title>
         <id>356e28f63c908a9f0f48ecc5940d2dee</id>
@@ -217,19 +227,5 @@ https://o365tsukuba.sharepoint.com/:v:/s/msteams_33ecae/EeZop4m…]]></summary>
 日時：令和4年6月3日（金）19:15〜21:20
 
 19:00　Zoom開場…]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【募集】筑波大生のための「地域連携型インターンシップ」（6/24応募締切）]]></title>
-        <id>08de415cd17b7b8318834e0987765001</id>
-        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3050"/>
-        <updated>2022-05-25T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[就職課オリジナルの「地域連携型インターンシップ」の参加者を募集しています。
-
-40時間以上の実習、充実した事前・事後学習等により、体系的に学ぶことのできる筑波大生のためのインターンシップです。
-
-■地域連携型インターンシップの特徴
-・学群1年生からインターンシップに参加できます！
-・事前事後学習が整っているので、インターンシップに初めて参加する学生も、安心して参加することができます！
-・つくば市近…]]></summary>
     </entry>
 </feed>

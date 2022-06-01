@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "50b6fd8f9533c1af14f87ba1b683dc83",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3071",
+            "title": "[7/7 16:45- 対面]「孤独・孤立対策による健康格差の是正：社会疫学の視点で考える」（第12回DDPI拡大講演会）",
+            "summary": "人文社会系DDPIプロジェクトでは、6月17日に引き続き、7月7日に対面での拡大講演会を企画しております。\nぜひとも幅広いご所属の方のご参加を歓迎いたします。\n\n今回は『孤独・孤立対策による健康格差の是正：社会疫学の視点で考える』と題し、社会疫学者である近藤尚己先生をお招きし、格差・不平等の問題を考えるうえでのもっとも基本的な出発点である人間に焦点をあてて、個人と個人の間における格差のイメージのう…",
+            "date_modified": "2022-06-01T03:00:00.000Z"
+        },
+        {
             "id": "356e28f63c908a9f0f48ecc5940d2dee",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3070",
             "title": "クアッドフェローシップ応募について",
@@ -136,13 +143,6 @@
             "title": "【再掲】【開催案内】第4回 オンラインによるロシア・中央アジア映画上映会_6/3(金)",
             "summary": "この度、筑波大学「日本財団 中央アジア・日本人材育成プロジェクト (NipCA)」は、中央アジアの文化とSDGsへの理解促進のため、オンラインによるロシア・中央アジア映画上映会を開催することになりました。\n\n上映作品：エウジェン・マリヤン『鳥のミルク』（2021年、 76分）ロシア語, モルドバ語 / 日本語字幕付き\n\n日時：令和4年6月3日（金）19:15〜21:20\n\n19:00　Zoom開場…",
             "date_modified": "2022-05-26T03:00:00.000Z"
-        },
-        {
-            "id": "08de415cd17b7b8318834e0987765001",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3050",
-            "title": "【募集】筑波大生のための「地域連携型インターンシップ」（6/24応募締切）",
-            "summary": "就職課オリジナルの「地域連携型インターンシップ」の参加者を募集しています。\n\n40時間以上の実習、充実した事前・事後学習等により、体系的に学ぶことのできる筑波大生のためのインターンシップです。\n\n■地域連携型インターンシップの特徴\n・学群1年生からインターンシップに参加できます！\n・事前事後学習が整っているので、インターンシップに初めて参加する学生も、安心して参加することができます！\n・つくば市近…",
-            "date_modified": "2022-05-25T03:00:00.000Z"
         }
     ]
 }
