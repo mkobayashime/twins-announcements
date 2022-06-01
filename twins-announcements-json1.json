@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "356e28f63c908a9f0f48ecc5940d2dee",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3070",
+            "title": "クアッドフェローシップ応募について",
+            "summary": "2021年9月24日、クアッド参加国であるオーストラリア、インド、日本、米国は、次世代を担う科学者や技術者たちの連携を目的とする初の奨学金制度「クアッド・フェローシップ」を発表しました。慈善活動団体「Schmidt Futures」が、クアッド参加各国の学術、外交政策、民間部門のリーダーから成る非政府団体と協議しながら、フェローシッププログラムの運営・管理を行います。\n\nこのプログラムは、科学、技…",
+            "date_modified": "2022-06-01T03:00:00.000Z"
+        },
+        {
             "id": "41b79a8d1f071627a63d240043464722",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3069",
             "title": "【Library】 Free Ebook Trial Service",
@@ -135,13 +142,6 @@
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3050",
             "title": "【募集】筑波大生のための「地域連携型インターンシップ」（6/24応募締切）",
             "summary": "就職課オリジナルの「地域連携型インターンシップ」の参加者を募集しています。\n\n40時間以上の実習、充実した事前・事後学習等により、体系的に学ぶことのできる筑波大生のためのインターンシップです。\n\n■地域連携型インターンシップの特徴\n・学群1年生からインターンシップに参加できます！\n・事前事後学習が整っているので、インターンシップに初めて参加する学生も、安心して参加することができます！\n・つくば市近…",
-            "date_modified": "2022-05-25T03:00:00.000Z"
-        },
-        {
-            "id": "7e213aacbc11c73e5117d26f0f991277",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3049",
-            "title": "【募集】土浦市学校サポーターの募集について",
-            "summary": "土浦市教育委員会から学校サポーターの募集がありました。\n詳細は添付ファイルを確認し、申込を希望する方は申込先へ連絡してください。\n\n\n#ts",
             "date_modified": "2022-05-25T03:00:00.000Z"
         }
     ]

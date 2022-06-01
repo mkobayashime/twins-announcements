@@ -4,10 +4,19 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Wed, 01 Jun 2022 03:20:21 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 01 Jun 2022 07:09:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
+        <item>
+            <title><![CDATA[クアッドフェローシップ応募について]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3070</link>
+            <guid>356e28f63c908a9f0f48ecc5940d2dee</guid>
+            <pubDate>Wed, 01 Jun 2022 03:00:00 GMT</pubDate>
+            <description><![CDATA[2021年9月24日、クアッド参加国であるオーストラリア、インド、日本、米国は、次世代を担う科学者や技術者たちの連携を目的とする初の奨学金制度「クアッド・フェローシップ」を発表しました。慈善活動団体「Schmidt Futures」が、クアッド参加各国の学術、外交政策、民間部門のリーダーから成る非政府団体と協議しながら、フェローシッププログラムの運営・管理を行います。
+
+このプログラムは、科学、技…]]></description>
+        </item>
         <item>
             <title><![CDATA[【Library】 Free Ebook Trial Service]]></title>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3069</link>
@@ -224,17 +233,6 @@ https://o365tsukuba.sharepoint.com/:v:/s/msteams_33ecae/EeZop4m…]]></descripti
 ・学群1年生からインターンシップに参加できます！
 ・事前事後学習が整っているので、インターンシップに初めて参加する学生も、安心して参加することができます！
 ・つくば市近…]]></description>
-        </item>
-        <item>
-            <title><![CDATA[【募集】土浦市学校サポーターの募集について]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3049</link>
-            <guid>7e213aacbc11c73e5117d26f0f991277</guid>
-            <pubDate>Wed, 25 May 2022 03:00:00 GMT</pubDate>
-            <description><![CDATA[土浦市教育委員会から学校サポーターの募集がありました。
-詳細は添付ファイルを確認し、申込を希望する方は申込先へ連絡してください。
-
-
-#ts]]></description>
         </item>
     </channel>
 </rss>

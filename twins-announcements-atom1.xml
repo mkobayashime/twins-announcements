@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/mkobayashime/twins-announcements</id>
     <title>在学生へのお知らせ | 筑波大学</title>
-    <updated>2022-06-01T03:20:21.835Z</updated>
+    <updated>2022-06-01T07:09:33.715Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://github.com/mkobayashime/twins-announcements"/>
     <subtitle>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</subtitle>
+    <entry>
+        <title type="html"><![CDATA[クアッドフェローシップ応募について]]></title>
+        <id>356e28f63c908a9f0f48ecc5940d2dee</id>
+        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3070"/>
+        <updated>2022-06-01T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[2021年9月24日、クアッド参加国であるオーストラリア、インド、日本、米国は、次世代を担う科学者や技術者たちの連携を目的とする初の奨学金制度「クアッド・フェローシップ」を発表しました。慈善活動団体「Schmidt Futures」が、クアッド参加各国の学術、外交政策、民間部門のリーダーから成る非政府団体と協議しながら、フェローシッププログラムの運営・管理を行います。
+
+このプログラムは、科学、技…]]></summary>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【Library】 Free Ebook Trial Service]]></title>
         <id>41b79a8d1f071627a63d240043464722</id>
@@ -222,16 +231,5 @@ https://o365tsukuba.sharepoint.com/:v:/s/msteams_33ecae/EeZop4m…]]></summary>
 ・学群1年生からインターンシップに参加できます！
 ・事前事後学習が整っているので、インターンシップに初めて参加する学生も、安心して参加することができます！
 ・つくば市近…]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【募集】土浦市学校サポーターの募集について]]></title>
-        <id>7e213aacbc11c73e5117d26f0f991277</id>
-        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3049"/>
-        <updated>2022-05-25T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[土浦市教育委員会から学校サポーターの募集がありました。
-詳細は添付ファイルを確認し、申込を希望する方は申込先へ連絡してください。
-
-
-#ts]]></summary>
     </entry>
 </feed>
