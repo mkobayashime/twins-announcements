@@ -2,10 +2,26 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/mkobayashime/twins-announcements</id>
     <title>在学生へのお知らせ | 筑波大学</title>
-    <updated>2022-06-01T09:12:29.173Z</updated>
+    <updated>2022-06-01T10:09:31.119Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://github.com/mkobayashime/twins-announcements"/>
     <subtitle>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</subtitle>
+    <entry>
+        <title type="html"><![CDATA[【6/28（火）14：00～】化学防護手袋の適切な取り扱い方法等の講習会をオンライン開催します。]]></title>
+        <id>b3ac8bf6b1d515cbcf8e123d8a395c92</id>
+        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3072"/>
+        <updated>2022-06-01T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[各位
+
+この度，下記のとおり化学防護手袋の適切な取り扱い方法についての講習会を開催する
+ことになりました。この講習は衛生管理者向けですが，本学関係者であればどなたでも
+聴講できます。是非ご参加くださるようお願いいたします。
+　　　　　　　　　　　　　
+　　　　　　　　　　　　　記
+
+１．日　　時：令和４年６月２８日（火）　１４：００～１５：３０
+２．実施方法：Microsoft Teamsを用いた…]]></summary>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[7/7 16:45- 対面]「孤独・孤立対策による健康格差の是正：社会疫学の視点で考える」（第12回DDPI拡大講演会）]]></title>
         <id>50b6fd8f9533c1af14f87ba1b683dc83</id>
@@ -214,18 +230,5 @@ https://o365tsukuba.sharepoint.com/:v:/s/msteams_33ecae/EeZop4m…]]></summary>
 2022年7月20日（水） 11:30~12:00
 
 説明会の申し込みは…]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【再掲】【開催案内】第4回 オンラインによるロシア・中央アジア映画上映会_6/3(金)]]></title>
-        <id>418b6b98e4efd051624d64eeec8b0fbc</id>
-        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3051"/>
-        <updated>2022-05-26T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[この度、筑波大学「日本財団 中央アジア・日本人材育成プロジェクト (NipCA)」は、中央アジアの文化とSDGsへの理解促進のため、オンラインによるロシア・中央アジア映画上映会を開催することになりました。
-
-上映作品：エウジェン・マリヤン『鳥のミルク』（2021年、 76分）ロシア語, モルドバ語 / 日本語字幕付き
-
-日時：令和4年6月3日（金）19:15〜21:20
-
-19:00　Zoom開場…]]></summary>
     </entry>
 </feed>

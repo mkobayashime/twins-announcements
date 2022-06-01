@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "b3ac8bf6b1d515cbcf8e123d8a395c92",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3072",
+            "title": "【6/28（火）14：00～】化学防護手袋の適切な取り扱い方法等の講習会をオンライン開催します。",
+            "summary": "各位\n\nこの度，下記のとおり化学防護手袋の適切な取り扱い方法についての講習会を開催する\nことになりました。この講習は衛生管理者向けですが，本学関係者であればどなたでも\n聴講できます。是非ご参加くださるようお願いいたします。\n　　　　　　　　　　　　　\n　　　　　　　　　　　　　記\n\n１．日　　時：令和４年６月２８日（火）　１４：００～１５：３０\n２．実施方法：Microsoft Teamsを用いた…",
+            "date_modified": "2022-06-01T03:00:00.000Z"
+        },
+        {
             "id": "50b6fd8f9533c1af14f87ba1b683dc83",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3071",
             "title": "[7/7 16:45- 対面]「孤独・孤立対策による健康格差の是正：社会疫学の視点で考える」（第12回DDPI拡大講演会）",
@@ -135,13 +142,6 @@
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3052",
             "title": "【募集】Tsukuba Global+第3期生の募集を開始します",
             "summary": "TG⁺プログラム第３期生の募集を開始します！\n\n「さあ、新興国へのドアを開けよう！」\n\n筑波大学グローバル⁺リーダーシップ教育プログラムでは第3期のプログラム生を募集します。募集にあたりプログラム説明会を開催します。プログラムにご興味・相談のある方は、ぜひご参加ください。\n\n2022年6月15日（水） 11:30~12:00\n2022年7月20日（水） 11:30~12:00\n\n説明会の申し込みは…",
-            "date_modified": "2022-05-26T03:00:00.000Z"
-        },
-        {
-            "id": "418b6b98e4efd051624d64eeec8b0fbc",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3051",
-            "title": "【再掲】【開催案内】第4回 オンラインによるロシア・中央アジア映画上映会_6/3(金)",
-            "summary": "この度、筑波大学「日本財団 中央アジア・日本人材育成プロジェクト (NipCA)」は、中央アジアの文化とSDGsへの理解促進のため、オンラインによるロシア・中央アジア映画上映会を開催することになりました。\n\n上映作品：エウジェン・マリヤン『鳥のミルク』（2021年、 76分）ロシア語, モルドバ語 / 日本語字幕付き\n\n日時：令和4年6月3日（金）19:15〜21:20\n\n19:00　Zoom開場…",
             "date_modified": "2022-05-26T03:00:00.000Z"
         }
     ]
