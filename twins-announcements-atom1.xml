@@ -2,10 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/mkobayashime/twins-announcements</id>
     <title>在学生へのお知らせ | 筑波大学</title>
-    <updated>2022-06-01T21:10:21.779Z</updated>
+    <updated>2022-06-02T07:08:24.955Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://github.com/mkobayashime/twins-announcements"/>
     <subtitle>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</subtitle>
+    <entry>
+        <title type="html"><![CDATA[Request to submit the form "Self-Declaration on Specific Categories" 特定類型自己申告書の提出について]]></title>
+        <id>9a00a760f346bbe87d0b0d9715df1dfd</id>
+        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3073"/>
+        <updated>2022-06-02T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[令和4年5月1日より前に在籍・在職している
+研究員・学生（大学院生、研究生）　　各位
+
+令和4年5月1日施行の輸出管理に関する法令改正により、国内での技術提供の
+規制対象が変更となりました。
+従来は、居住者から居住者への技術提供は規制対象外でしたが、
+「特定類型」該当となる居住者（日本人を含む）については、技術の提供時に
+外為法上の規制対象となります。
+
+添付ファイルを熟読下さい。
+
+
+]]></summary>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【6/28（火）14：00～】化学防護手袋の適切な取り扱い方法等の講習会をオンライン開催します。]]></title>
         <id>b3ac8bf6b1d515cbcf8e123d8a395c92</id>
@@ -214,21 +233,5 @@ https://o365tsukuba.sharepoint.com/:v:/s/msteams_33ecae/EeZop4m…]]></summary>
 
 ●8030306「海外英語研修I-a」（3単位）
  プログラム：ブリティッシュ・コロンビア大学（U…]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【募集】Tsukuba Global+第3期生の募集を開始します]]></title>
-        <id>c8eadefabb76b0fc0b93871983a608c5</id>
-        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3052"/>
-        <updated>2022-05-26T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[TG⁺プログラム第３期生の募集を開始します！
-
-「さあ、新興国へのドアを開けよう！」
-
-筑波大学グローバル⁺リーダーシップ教育プログラムでは第3期のプログラム生を募集します。募集にあたりプログラム説明会を開催します。プログラムにご興味・相談のある方は、ぜひご参加ください。
-
-2022年6月15日（水） 11:30~12:00
-2022年7月20日（水） 11:30~12:00
-
-説明会の申し込みは…]]></summary>
     </entry>
 </feed>
