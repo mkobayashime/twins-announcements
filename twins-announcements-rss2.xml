@@ -4,10 +4,23 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Fri, 03 Jun 2022 10:04:04 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 03 Jun 2022 12:10:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
+        <item>
+            <title><![CDATA[課外活動の今後の活動形態について(2022.6.2) / (Extracurricular Activities) Changes in the Mode of Operations 2022/6/2]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3077</link>
+            <guid>6886a83b59410c1d343a5c06a13e35c1</guid>
+            <pubDate>Fri, 03 Jun 2022 03:00:00 GMT</pubDate>
+            <description><![CDATA[日頃より感染拡大防止対策及び課外活動自粛へご協力いただきありがとうございます。
+本学の課外活動等における当面の対応について、6月2日（木）から、以下のとおりの取扱いとしますのでお知らせします。
+
+Dear English readers,
+
+We appreciate your continuous cooperation with our safety measures.
+Today, we i…]]></description>
+        </item>
         <item>
             <title><![CDATA[【再掲】世界を変えよう基金「お金の超基本勉強会―卒業してからでは遅すぎる」開催のお知らせ]]></title>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3076</link>
@@ -241,16 +254,6 @@ https://o365tsukuba.sharepoint.com/:v:/s/msteams_33ecae/EeZop4m…]]></descripti
             <guid>b7f65edd4f24581008ac1833b4288924</guid>
             <pubDate>Mon, 30 May 2022 03:00:00 GMT</pubDate>
             <description><![CDATA[本学では「海外での危機発生時における学生及び教職員の渡航に関する指針」（学長決定）において、学生に関しては、外務省が発出する危険情報または感染症危険情報が「レベル2：不要不急の渡航は取り止めてください」以上の国への渡航は原則取り止めるよう定めておりますが、令和4年5月26日に外務省により、36か国についての感染症危険情報レベルがレベル2から「レベル1：十分注意してください」に引き下げられたため、当…]]></description>
-        </item>
-        <item>
-            <title><![CDATA[世界を変えよう基金「お金の超基本勉強会―卒業してからでは遅すぎる」開催のお知らせ]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3056</link>
-            <guid>17cb00643ae5a2bedf4fa7ee14562583</guid>
-            <pubDate>Fri, 27 May 2022 03:00:00 GMT</pubDate>
-            <description><![CDATA[「筑波大学・世界を変えよう基金」では、お金に関する基礎知識（生涯マネー・プランの作成、所得税計算方法、結婚・出産・教育・マイホーム・老後・病気への備え方、投資等）を学ぶ「お金の超基本勉強会」を週１回、４週間にわたって7月にZoomで開催します。
-開催曜日は、下記の中で参加希望人数が多い時間帯を選ぶ予定です。
-〇毎週月曜18:00~19:30, 〇毎週水曜20:00~21:30,
-〇毎週木曜18:0…]]></description>
         </item>
     </channel>
 </rss>

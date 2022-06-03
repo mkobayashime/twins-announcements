@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "6886a83b59410c1d343a5c06a13e35c1",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3077",
+            "title": "課外活動の今後の活動形態について(2022.6.2) / (Extracurricular Activities) Changes in the Mode of Operations 2022/6/2",
+            "summary": "日頃より感染拡大防止対策及び課外活動自粛へご協力いただきありがとうございます。\n本学の課外活動等における当面の対応について、6月2日（木）から、以下のとおりの取扱いとしますのでお知らせします。\n\nDear English readers,\n\nWe appreciate your continuous cooperation with our safety measures.\nToday, we i…",
+            "date_modified": "2022-06-03T03:00:00.000Z"
+        },
+        {
             "id": "d3094318e66a7f0cdb84b2d7a2f1a597",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3076",
             "title": "【再掲】世界を変えよう基金「お金の超基本勉強会―卒業してからでは遅すぎる」開催のお知らせ",
@@ -136,13 +143,6 @@
             "title": "外務省が発出する感染症危険情報レベルの一部引き下げについて",
             "summary": "本学では「海外での危機発生時における学生及び教職員の渡航に関する指針」（学長決定）において、学生に関しては、外務省が発出する危険情報または感染症危険情報が「レベル2：不要不急の渡航は取り止めてください」以上の国への渡航は原則取り止めるよう定めておりますが、令和4年5月26日に外務省により、36か国についての感染症危険情報レベルがレベル2から「レベル1：十分注意してください」に引き下げられたため、当…",
             "date_modified": "2022-05-30T03:00:00.000Z"
-        },
-        {
-            "id": "17cb00643ae5a2bedf4fa7ee14562583",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3056",
-            "title": "世界を変えよう基金「お金の超基本勉強会―卒業してからでは遅すぎる」開催のお知らせ",
-            "summary": "「筑波大学・世界を変えよう基金」では、お金に関する基礎知識（生涯マネー・プランの作成、所得税計算方法、結婚・出産・教育・マイホーム・老後・病気への備え方、投資等）を学ぶ「お金の超基本勉強会」を週１回、４週間にわたって7月にZoomで開催します。\n開催曜日は、下記の中で参加希望人数が多い時間帯を選ぶ予定です。\n〇毎週月曜18:00~19:30, 〇毎週水曜20:00~21:30,\n〇毎週木曜18:0…",
-            "date_modified": "2022-05-27T03:00:00.000Z"
         }
     ]
 }
