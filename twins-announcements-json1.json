@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "e6fbf368bb0d343bd77e64a3bbc5b7b2",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3075",
+            "title": "【お知らせ】令和４年度構内における放置自転車・放置自動車等の一斉撤去について",
+            "summary": "　本学では、良好な構内環境を保持するため、本学の要項に基づき、放置車両と思われる車両については、撤去通告書を車両に貼付後、一定の期間を置いてから一斉撤去を実施します。\nつきましては、別添に日程等詳細を記載しておりますので、所有されている車両について現状確認をしていただくようお願いします。\n　また、駐車場、駐輪場、駐輪スペース以外に停めている場合は、必ず移動してください。\n\n〇放置自転車\n１、車体が…",
+            "date_modified": "2022-06-03T03:00:00.000Z"
+        },
+        {
             "id": "75fb554eb24de50b107f366e71fa6261",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3074",
             "title": "【開催案内】第34回「中央ユーラシアと日本の未来」公開講演会_㈱国際開発センター 経済開発部次長 榊原洋司氏_6/13(月)",
@@ -135,13 +142,6 @@
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3055",
             "title": "[6/17 14:00-]「テクノロジーが創る新しい市民社会の構築」（第11回DDPIセミナー）",
             "summary": "人文社会系山本研究室・DDPIプロジェクトでは、格差・不平等の政策的解決、そのためのデジタル技術の可能性（デジタル民主主義）などをテーマとし、2022年度もセミナー・シリーズを断続的に開催しております。\n\n今回は『テクノロジーが創る新しい市民社会の構築』と題しまして、一般社団法人コード・フォー・カナザワ（Code for Kanazawa）代表理事でありアイパブリッシング株式会社代表取締役の福島健…",
-            "date_modified": "2022-05-27T03:00:00.000Z"
-        },
-        {
-            "id": "ff2b233d6771a5460f4c974978d85c61",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3054",
-            "title": "【注意喚起】自動車の駐車マナーについて",
-            "summary": "ローソンつくば天久保三丁目店から、筑波大学生と思われる者が、長時間無断で自動車を駐車している、といった苦情が寄せられました。今一度、ご自身の駐車マナーを振り返っていただき、筑波大学生として節度ある行動を心がけてください。",
             "date_modified": "2022-05-27T03:00:00.000Z"
         }
     ]
