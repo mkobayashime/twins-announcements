@@ -4,7 +4,7 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Sat, 04 Jun 2022 09:09:55 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 04 Jun 2022 15:08:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
@@ -87,16 +87,19 @@ Today, we i…]]></description>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3072</link>
             <guid>b3ac8bf6b1d515cbcf8e123d8a395c92</guid>
             <pubDate>Wed, 01 Jun 2022 03:00:00 GMT</pubDate>
-            <description><![CDATA[各位
+            <description><![CDATA[令和4年5月1日より前に在籍・在職している
+研究員・学生（大学院生、研究生）　　各位
 
-この度，下記のとおり化学防護手袋の適切な取り扱い方法についての講習会を開催する
-ことになりました。この講習は衛生管理者向けですが，本学関係者であればどなたでも
-聴講できます。是非ご参加くださるようお願いいたします。
-　　　　　　　　　　　　　
-　　　　　　　　　　　　　記
+令和4年5月1日施行の輸出管理に関する法令改正により、国内での技術提供の
+規制対象が変更となりました。
+従来は、居住者から居住者への技術提供は規制対象外でしたが、
+「特定類型」該当となる居住者（日本人を含む）については、技術の提供時に
+外為法上の規制対象となります。
 
-１．日　　時：令和４年６月２８日（火）　１４：００～１５：３０
-２．実施方法：Microsoft Teamsを用いた…]]></description>
+添付ファイルを熟読下さい。
+
+
+]]></description>
         </item>
         <item>
             <title><![CDATA[[7/7 16:45- 対面]「孤独・孤立対策による健康格差の是正：社会疫学の視点で考える」（第12回DDPI拡大講演会）]]></title>
