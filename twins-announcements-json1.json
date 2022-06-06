@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "ac1d3d41a47778d0ee6839bb1a2c62c3",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3078",
+            "title": "【6/7開催：参加申込6/6 12時まで】第10回筑波大学オープンファシリティー研究機器共同利用説明会開催のご案内",
+            "summary": "筑波大学 オープンファシリティー推進機構では、教育研究を効率的に推進するため、211台の共同利用機器をオープンファシリティーシステムに登録し、設備の有効活用に伴う利用サポートを実施いたしております。\n第10回目の開催となる、本年度の説明会では、筑波大学の研究機器だけでなく、物質・材料研究機構及び高エネルギー加速器研究機構の研究機器も含め、つくば地区の共用機器を幅広くご紹介いたします。\n研究促進に役…",
+            "date_modified": "2022-06-06T03:00:00.000Z"
+        },
+        {
             "id": "6886a83b59410c1d343a5c06a13e35c1",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3077",
             "title": "課外活動の今後の活動形態について(2022.6.2) / (Extracurricular Activities) Changes in the Mode of Operations 2022/6/2",
@@ -136,13 +143,6 @@
             "title": "外務省が発出する感染症危険情報レベルの一部引き下げについて",
             "summary": "本学では「海外での危機発生時における学生及び教職員の渡航に関する指針」（学長決定）において、学生に関しては、外務省が発出する危険情報または感染症危険情報が「レベル2：不要不急の渡航は取り止めてください」以上の国への渡航は原則取り止めるよう定めておりますが、令和4年5月26日に外務省により、36か国についての感染症危険情報レベルがレベル2から「レベル1：十分注意してください」に引き下げられたため、当…",
             "date_modified": "2022-05-30T03:00:00.000Z"
-        },
-        {
-            "id": "17cb00643ae5a2bedf4fa7ee14562583",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3056",
-            "title": "世界を変えよう基金「お金の超基本勉強会―卒業してからでは遅すぎる」開催のお知らせ",
-            "summary": "「筑波大学・世界を変えよう基金」では、お金に関する基礎知識（生涯マネー・プランの作成、所得税計算方法、結婚・出産・教育・マイホーム・老後・病気への備え方、投資等）を学ぶ「お金の超基本勉強会」を週１回、４週間にわたって7月にZoomで開催します。\n開催曜日は、下記の中で参加希望人数が多い時間帯を選ぶ予定です。\n〇毎週月曜18:00~19:30, 〇毎週水曜20:00~21:30,\n〇毎週木曜18:0…",
-            "date_modified": "2022-05-27T03:00:00.000Z"
         }
     ]
 }
