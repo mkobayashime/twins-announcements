@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "2bf81bb27d57bc54683bf61f2422e724",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3083",
+            "title": "【募集】世界展開力強化事業（CAMPUS-Asia6）海外派遣学生の募集開始！",
+            "summary": "世界展開力強化事業「アジア高等教育共同体形成促進」（CAMPUS-Asia6）海外派遣学生の募集を開始します！\n\n日本、中国、韓国およびASEAN（インドネシア、タイ、マレーシア）で行う交換留学プログラムです。\n各国との交流を通して、「地球規模課題」について考えてみませんか？\n\n募集にあたりプログラム説明会を開催します。プログラムにご興味・相談のある方は、ぜひご参加ください。\n\n　　　 日時：20…",
+            "date_modified": "2022-06-07T03:00:00.000Z"
+        },
+        {
             "id": "87bd29e9c021aae903bba61ffabc3f78",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3082",
             "title": "【再掲】TG⁺プログラム第3期生の募集を開始します",
@@ -135,13 +142,6 @@
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3062",
             "title": "T-ACT Welcome Fest 2022 ―つくばアクションプロジェクト新入生歓迎会・活動報告会― 開催のお知らせ 【6/15(水) 18:00～20:00】",
             "summary": "これまでに、つくばアクションプロジェクト（T-ACT）で実際に企画した大学生や教職員の話を聞いて、話して、あなたの「やってみたい」を一緒に考えてみませんか？\n\nT-ACTの今年度の活動報告会は初の6月開催となります。そして、新入生歓迎の意味合いも込め 「T-ACT Welcome Fest 2022」 と題し、本学の新入生、教職員はもちろん、全国の筑波大学に興味のある中学生、高校生、大学生、地域の…",
-            "date_modified": "2022-05-31T03:00:00.000Z"
-        },
-        {
-            "id": "33fa39e8ed5ac08573da19e690da49f7",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3061",
-            "title": "【注意喚起】薬物乱用防止について",
-            "summary": "　青少年による薬物（大麻、その他の麻薬、危険ドラックなど）乱用が深刻な問題となっており、特に若年層における大麻の乱用拡大が問題となっております。\n　薬物（大麻、その他の麻薬、危険ドラックなど）の乱用は、自身の心身のみならず、その後の人生や、家族、友人関係などに計り知れない影響を与えます。甘い言葉や誤った情報には流されずに、はっきりと断る強い意志をもって、絶対に関わりを持たないようにしてください。\n…",
             "date_modified": "2022-05-31T03:00:00.000Z"
         }
     ]
