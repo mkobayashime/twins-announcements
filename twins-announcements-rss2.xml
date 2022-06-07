@@ -4,10 +4,20 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Mon, 06 Jun 2022 21:08:17 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 07 Jun 2022 02:46:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
+        <item>
+            <title><![CDATA[【重要】第1期分授業料の納入督促について]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3080</link>
+            <guid>97b90f04b3231a70430e730a0299d45e</guid>
+            <pubDate>Tue, 07 Jun 2022 03:00:00 GMT</pubDate>
+            <description><![CDATA[　2022年度第1期分授業料について、5月27日(金)に口座振替により引落しを行いました。残高不足等のため引落しができなかった者については、6月27日(月)に再度預金口座から引落しを行います。
+　つきましては、金融機関の前営業日である6月24日(金)までに登録した預金口座へ入金をお願いします。
+
+　なお、引落しがされている場合は、通帳に“ツクバダイ”と記帳されますので、引落しがされているか登録した…]]></description>
+        </item>
         <item>
             <title><![CDATA[【開催案内】9th Special Lecture and Discussion Series "Central Eurasian Studies in East Asia and Beyond"]]></title>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3079</link>
@@ -243,13 +253,6 @@ T-ACTの今年度の活動報告会は初の6月開催となります。そし�
 
 【動画へのリンク※学内限り】
 https://o365tsukuba.sharepoint.com/:v:/s/msteams_33ecae/EeZop4m…]]></description>
-        </item>
-        <item>
-            <title><![CDATA[About Lowering of the Level of ”Travel Advice and Warning” on Infectious Diseases by MOFA]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3063</link>
-            <guid>213bd53633f04f84f72881e81a19cb5b</guid>
-            <pubDate>Mon, 30 May 2022 03:00:00 GMT</pubDate>
-            <description><![CDATA[In accordance with the "Travel Guideline for Students, Faculty Members and University Employees in case of a Crisis Overseas"（Decision by the President）, the University of Tsukuba has a policy that st…]]></description>
         </item>
     </channel>
 </rss>
