@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "3516e9e4ac01725a3d72557e4dc43083",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3081",
+            "title": "【留学・IELTS】オンライン説明会　6/8（水）6/9（木）",
+            "summary": "①6月8日（水）　11：30～12：15　\n　https://ssc.sec.tsukuba.ac.jp/archives/13989\n筑波大学生向けオンライン留学説明会のお知らせです。\nこの夏のオンライン留学を検討している方は説明会へご参加ください。\n\n②6月9日（木）　11：30～12：15\n　https://ssc.sec.tsukuba.ac.jp/archives/13973\nJSAF-…",
+            "date_modified": "2022-06-07T03:00:00.000Z"
+        },
+        {
             "id": "97b90f04b3231a70430e730a0299d45e",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3080",
             "title": "【重要】第1期分授業料の納入督促について",
@@ -135,13 +142,6 @@
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3060",
             "title": "学習効果と満足度に関するアンケート調査",
             "summary": "■アンケート依頼\n件　　名：学習効果と満足度に関するアンケート調査\n対　　象：２年以上の学部学生\n依 頼 元：大学基準協会\n回答方法：本文の最後に掲載してあるURLよりご回答ください。\n　　　　　https://www.juaa.or.jp/survey2022にアクセスし、回答。\n　　　　　筑波大学専用のログイン情報（アカウント：J0037、パスワード：c59ad113）\n回答期限：令和４年９月…",
-            "date_modified": "2022-05-31T03:00:00.000Z"
-        },
-        {
-            "id": "7bc09d628af314b6fbdc8ffec3acfce1",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3059",
-            "title": "【期間限定見逃し配信】筑波大学Visionシンポジウムについて",
-            "summary": "筑波大学Visionシンポジウム（5月18日開催）の動画を期間限定で配信します。\n動画の視聴は、本文最後に掲載してあるURLより本学のMicrosoft  365アカウントでログインしてください。\n視聴後のアンケートにもぜひご協力ください。\n\n【動画へのリンク※学内限り】\nhttps://o365tsukuba.sharepoint.com/:v:/s/msteams_33ecae/EeZop4m…",
             "date_modified": "2022-05-31T03:00:00.000Z"
         }
     ]
