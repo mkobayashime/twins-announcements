@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/mkobayashime/twins-announcements</id>
     <title>在学生へのお知らせ | 筑波大学</title>
-    <updated>2022-06-07T10:04:39.792Z</updated>
+    <updated>2022-06-07T21:08:52.963Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://github.com/mkobayashime/twins-announcements"/>
     <subtitle>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</subtitle>
@@ -77,15 +77,6 @@ JSAF-…]]></summary>
         <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3079"/>
         <updated>2022-06-06T03:00:00.000Z</updated>
         <summary type="html"><![CDATA[The Special Program in Japanese and Eurasian Studies and the Nippon Foundation Central Asia-Japan Human Resource Development Project (NipCA) are pleased to invite you to the 9th Special Lecture and Di…]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【6/7開催：参加申込6/6 12時まで】第10回筑波大学オープンファシリティー研究機器共同利用説明会開催のご案内]]></title>
-        <id>ac1d3d41a47778d0ee6839bb1a2c62c3</id>
-        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3078"/>
-        <updated>2022-06-06T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[筑波大学 オープンファシリティー推進機構では、教育研究を効率的に推進するため、211台の共同利用機器をオープンファシリティーシステムに登録し、設備の有効活用に伴う利用サポートを実施いたしております。
-第10回目の開催となる、本年度の説明会では、筑波大学の研究機器だけでなく、物質・材料研究機構及び高エネルギー加速器研究機構の研究機器も含め、つくば地区の共用機器を幅広くご紹介いたします。
-研究促進に役…]]></summary>
     </entry>
     <entry>
         <title type="html"><![CDATA[課外活動の今後の活動形態について(2022.6.2) / (Extracurricular Activities) Changes in the Mode of Operations 2022/6/2]]></title>
@@ -262,5 +253,14 @@ ECサイトは以下のリンクから
 ２．内容・講師：
 ①「安全対策として渡航前準備事項を確認し、海外渡航中の安全管理を考える」
 　　講師：…]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[T-ACT Welcome Fest 2022 ―つくばアクションプロジェクト新入生歓迎会・活動報告会― 開催のお知らせ 【6/15(水) 18:00～20:00】]]></title>
+        <id>41e723cbd746df972ec2f541b0e4a383</id>
+        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3062"/>
+        <updated>2022-05-31T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[これまでに、つくばアクションプロジェクト（T-ACT）で実際に企画した大学生や教職員の話を聞いて、話して、あなたの「やってみたい」を一緒に考えてみませんか？
+
+T-ACTの今年度の活動報告会は初の6月開催となります。そして、新入生歓迎の意味合いも込め 「T-ACT Welcome Fest 2022」 と題し、本学の新入生、教職員はもちろん、全国の筑波大学に興味のある中学生、高校生、大学生、地域の…]]></summary>
     </entry>
 </feed>
