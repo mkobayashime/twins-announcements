@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/mkobayashime/twins-announcements</id>
     <title>在学生へのお知らせ | 筑波大学</title>
-    <updated>2022-06-07T09:10:10.978Z</updated>
+    <updated>2022-06-07T10:04:39.792Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://github.com/mkobayashime/twins-announcements"/>
     <subtitle>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</subtitle>
+    <entry>
+        <title type="html"><![CDATA[オンライン七夕/Online Tanabata]]></title>
+        <id>eccd21fd1b2a95bf1e1a5186645fd01a</id>
+        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3085"/>
+        <updated>2022-06-07T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[7月7日の七夕に向けて、オンラインで願いを寄せ書きとして集めます!
+また、7月10日のCity Chat Cafeで、七夕の願い事について、英語で話し合いましょう！
+
+Share your wishes and support each other to get through this difficult time together!
+Also, let's talk about your Ta…]]></summary>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【募集】世界展開力強化事業（CAMPUS-Asia6）海外派遣学生の募集開始！]]></title>
         <id>2bf81bb27d57bc54683bf61f2422e724</id>
@@ -251,14 +262,5 @@ ECサイトは以下のリンクから
 ２．内容・講師：
 ①「安全対策として渡航前準備事項を確認し、海外渡航中の安全管理を考える」
 　　講師：…]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[T-ACT Welcome Fest 2022 ―つくばアクションプロジェクト新入生歓迎会・活動報告会― 開催のお知らせ 【6/15(水) 18:00～20:00】]]></title>
-        <id>41e723cbd746df972ec2f541b0e4a383</id>
-        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3062"/>
-        <updated>2022-05-31T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[これまでに、つくばアクションプロジェクト（T-ACT）で実際に企画した大学生や教職員の話を聞いて、話して、あなたの「やってみたい」を一緒に考えてみませんか？
-
-T-ACTの今年度の活動報告会は初の6月開催となります。そして、新入生歓迎の意味合いも込め 「T-ACT Welcome Fest 2022」 と題し、本学の新入生、教職員はもちろん、全国の筑波大学に興味のある中学生、高校生、大学生、地域の…]]></summary>
     </entry>
 </feed>
