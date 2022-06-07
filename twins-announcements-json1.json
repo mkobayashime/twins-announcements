@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "87bd29e9c021aae903bba61ffabc3f78",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3082",
+            "title": "【再掲】TG⁺プログラム第3期生の募集を開始します",
+            "summary": "TG⁺プログラム第３期生の募集を開始します！\n\n「さあ、新興国へのドアを開けよう！」\n\n筑波大学グローバル⁺リーダーシップ教育プログラムでは第3期のプログラム生を募集します。募集にあたりプログラム説明会を開催します。プログラムにご興味・相談のある方は、ぜひご参加ください。\n\n2022年6月15日（水） 11:30~12:00\n2022年7月20日（水） 11:30~12:00\n\n説明会の申し込みは…",
+            "date_modified": "2022-06-07T03:00:00.000Z"
+        },
+        {
             "id": "3516e9e4ac01725a3d72557e4dc43083",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3081",
             "title": "【留学・IELTS】オンライン説明会　6/8（水）6/9（木）",
@@ -135,13 +142,6 @@
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3061",
             "title": "【注意喚起】薬物乱用防止について",
             "summary": "　青少年による薬物（大麻、その他の麻薬、危険ドラックなど）乱用が深刻な問題となっており、特に若年層における大麻の乱用拡大が問題となっております。\n　薬物（大麻、その他の麻薬、危険ドラックなど）の乱用は、自身の心身のみならず、その後の人生や、家族、友人関係などに計り知れない影響を与えます。甘い言葉や誤った情報には流されずに、はっきりと断る強い意志をもって、絶対に関わりを持たないようにしてください。\n…",
-            "date_modified": "2022-05-31T03:00:00.000Z"
-        },
-        {
-            "id": "f7e9cc636ac7c9f2665f4d863f703a6f",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3060",
-            "title": "学習効果と満足度に関するアンケート調査",
-            "summary": "■アンケート依頼\n件　　名：学習効果と満足度に関するアンケート調査\n対　　象：２年以上の学部学生\n依 頼 元：大学基準協会\n回答方法：本文の最後に掲載してあるURLよりご回答ください。\n　　　　　https://www.juaa.or.jp/survey2022にアクセスし、回答。\n　　　　　筑波大学専用のログイン情報（アカウント：J0037、パスワード：c59ad113）\n回答期限：令和４年９月…",
             "date_modified": "2022-05-31T03:00:00.000Z"
         }
     ]
