@@ -4,10 +4,28 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Wed, 08 Jun 2022 07:04:34 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 08 Jun 2022 09:05:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
+        <item>
+            <title><![CDATA[【開催案内】第35回「中央ユーラシアと日本の未来」公開講演会_大阪大学大学院人間科学研究科 講師 木村友美氏_6/20(月)]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3093</link>
+            <guid>e7a7917dc1093c67df9e2603823845c7</guid>
+            <pubDate>Wed, 08 Jun 2022 03:00:00 GMT</pubDate>
+            <description><![CDATA[筑波大学「日本財団 中央アジア・日本人材育成プロジェクト(NipCA)」主催  
+第35回「中央ユーラシアと日本の未来」公開講演会を、
+次のとおりオンライン（Zoom meeting）により開催いたします。
+
+
+第35回「中央ユーラシアと日本の未来」公開講演会
+
+講師：大阪大学大学院人間科学研究科 講師
+　　　木村 友美 氏
+
+題目：高所住民の食と健康
+　　　－ヒマラヤ高地ラダックにおけるフィール…]]></description>
+        </item>
         <item>
             <title><![CDATA[【参加者募集】ーブラジルの魅力、留学のための心得ー　CiCブラジル留学説明会（オンライン）：6月16日（木）]]></title>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3092</link>
@@ -238,18 +256,6 @@ Today, we i…]]></description>
             <description><![CDATA[In order to support teaching and learning in the COVID-19 pandemic, the library provides an eBook trial service.
 
 You can try any part of the eBooks from the following eBook platforms for free for fiv…]]></description>
-        </item>
-        <item>
-            <title><![CDATA[【附属図書館】 電子ブック 全文無料試し読みサービスのご案内]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3068</link>
-            <guid>06b12b55e382a16f48f9421423e7f963</guid>
-            <pubDate>Wed, 01 Jun 2022 03:00:00 GMT</pubDate>
-            <description><![CDATA[附属図書館では、コロナ禍における教育・学習を支援するため、電子ブックの全文無料試し読みサービスを実施します。
-
-対象プラットフォームの電子ブックからお好きな部分を1タイトルにつき5分間、試し読みすることができます。また、購入を希望される場合にはリクエストを送信することもできます。この機会にぜひお試しください。
-
-【実施期間と対象プラットフォーム】
-・KinoDen（紀伊國屋書店）【期間限定！202…]]></description>
         </item>
     </channel>
 </rss>
