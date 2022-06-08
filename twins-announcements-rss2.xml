@@ -4,10 +4,19 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Tue, 07 Jun 2022 21:08:52 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 08 Jun 2022 00:29:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
+        <item>
+            <title><![CDATA[【6/28開催】教育関係共同利用拠点「ダイバーシティ＆インクルージョン教育拠点」第1回FD/SD研修会「吃音のある学生の理解と支援」の開催について]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3086</link>
+            <guid>620f873b9bf8c69a0b95911b4798d87e</guid>
+            <pubDate>Wed, 08 Jun 2022 03:00:00 GMT</pubDate>
+            <description><![CDATA[ダイバーシティ・アクセシビリティ・キャリアセンターでは、令和4年度第1回FD/SD研修会「吃音のある学生の理解と支援」を開催いたします。
+近年、アクティブ・ラーニングが促進されるに伴い、グループワークやディスカッション、プレゼンテーション等を通した学修が高等教育機関においても取り入れられるようになってきています。吃音等、ことばの面で悩みを抱える学生は潜在的に多数存在することが想定されています。
+本…]]></description>
+        </item>
         <item>
             <title><![CDATA[オンライン七夕/Online Tanabata]]></title>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3085</link>
@@ -255,15 +264,6 @@ ECサイトは以下のリンクから
 ２．内容・講師：
 ①「安全対策として渡航前準備事項を確認し、海外渡航中の安全管理を考える」
 　　講師：…]]></description>
-        </item>
-        <item>
-            <title><![CDATA[T-ACT Welcome Fest 2022 ―つくばアクションプロジェクト新入生歓迎会・活動報告会― 開催のお知らせ 【6/15(水) 18:00～20:00】]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3062</link>
-            <guid>41e723cbd746df972ec2f541b0e4a383</guid>
-            <pubDate>Tue, 31 May 2022 03:00:00 GMT</pubDate>
-            <description><![CDATA[これまでに、つくばアクションプロジェクト（T-ACT）で実際に企画した大学生や教職員の話を聞いて、話して、あなたの「やってみたい」を一緒に考えてみませんか？
-
-T-ACTの今年度の活動報告会は初の6月開催となります。そして、新入生歓迎の意味合いも込め 「T-ACT Welcome Fest 2022」 と題し、本学の新入生、教職員はもちろん、全国の筑波大学に興味のある中学生、高校生、大学生、地域の…]]></description>
         </item>
     </channel>
 </rss>
