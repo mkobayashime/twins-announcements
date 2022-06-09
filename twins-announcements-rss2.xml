@@ -4,10 +4,26 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Wed, 08 Jun 2022 21:08:49 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 09 Jun 2022 03:45:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
+        <item>
+            <title><![CDATA[海外留学支援ワークショップを開催します]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3094</link>
+            <guid>bafb7d3fa2d98b1e974c9dcfa6b07efd</guid>
+            <pubDate>Thu, 09 Jun 2022 03:00:00 GMT</pubDate>
+            <description><![CDATA[自然保護寄附講座海外留学⽀援ワークショップ「自然保護分野での海外留学や国際連携に興味ある？～ワークショップで情報収集しよう～」を開催します。
+
+日時：2022年6月27日（月）13:00-14:00　
+開催方法：対面or Zoom
+
+話題提供：
+①国際的な視点を⾝につける
+庄⼦晶⼦（筑波⼤学⽣物学類・⽣物学学位プログラム所属）
+「海外留学AtoZ: 学校選びから費⽤⽀援の⾒つけ⽅」
+（カナダやイギ…]]></description>
+        </item>
         <item>
             <title><![CDATA[【開催案内】第35回「中央ユーラシアと日本の未来」公開講演会_大阪大学大学院人間科学研究科 講師 木村友美氏_6/20(月)]]></title>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3093</link>
@@ -247,15 +263,6 @@ Today, we i…]]></description>
             <description><![CDATA[2021年9月24日、クアッド参加国であるオーストラリア、インド、日本、米国は、次世代を担う科学者や技術者たちの連携を目的とする初の奨学金制度「クアッド・フェローシップ」を発表しました。慈善活動団体「Schmidt Futures」が、クアッド参加各国の学術、外交政策、民間部門のリーダーから成る非政府団体と協議しながら、フェローシッププログラムの運営・管理を行います。
 
 このプログラムは、科学、技…]]></description>
-        </item>
-        <item>
-            <title><![CDATA[【Library】 Free Ebook Trial Service]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3069</link>
-            <guid>41b79a8d1f071627a63d240043464722</guid>
-            <pubDate>Wed, 01 Jun 2022 03:00:00 GMT</pubDate>
-            <description><![CDATA[In order to support teaching and learning in the COVID-19 pandemic, the library provides an eBook trial service.
-
-You can try any part of the eBooks from the following eBook platforms for free for fiv…]]></description>
         </item>
     </channel>
 </rss>
