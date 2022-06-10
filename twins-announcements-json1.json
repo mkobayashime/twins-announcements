@@ -5,6 +5,27 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "5a000bcd94c38becde1389d17a22e49e",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3097",
+            "title": "【再掲】6/18(土) [大学院入試説明会] ヒューマニクス学位プログラム（5年一貫制博士課程）",
+            "summary": "学類生の皆さまへ\n\n＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊\n第1回入試説明会（5/14）には多くの皆様にご参加いただき、ありがとうございました。\n日本を含む7ヶ国出身の在学生が集結し、参加者の皆様とのトークセッションでは「ここでしか聞けない」ヒューマニクスの裏トークも展開されました。\n第2回（6/18）も同様の形式で開催しますので、是非オンサイトでご参加ください！\n＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊\n\nヒュー…",
+            "date_modified": "2022-06-10T03:00:00.000Z"
+        },
+        {
+            "id": "3f5b5b4eec88178d25e0945955de8237",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3096",
+            "title": "Information for international students and International exchange events！",
+            "summary": "On Student Support Center's website, the office of international exchange support posts useful information for international students and international exchange events etc.\nFor more detail, please vis…",
+            "date_modified": "2022-06-10T03:00:00.000Z"
+        },
+        {
+            "id": "31939ae20e7468f1d7e1ab47365a4069",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3095",
+            "title": "国際交流イベント情報・留学情報について",
+            "summary": "国際交流イベント等の情報や留学情報は、スチューデントサポートセンター国際交流支援室ウェブサイトにてお知らせしています！是非チェックしてください！\n\n＜海外留学情報＞\n- 留学相談（オンライン）・・・留学の基本情報はウェブサイトで確認できます！\n- CiCブラジル留学説明会（オンライン）6月16日（木）17：30～\n- 海外危機管理セミナー（オンライン）6月23日（木）18：15～\n- 各種協定校か…",
+            "date_modified": "2022-06-10T03:00:00.000Z"
+        },
+        {
             "id": "bafb7d3fa2d98b1e974c9dcfa6b07efd",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3094",
             "title": "海外留学支援ワークショップを開催します",
@@ -121,27 +142,6 @@
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3072",
             "title": "【6/28（火）14：00～】化学防護手袋の適切な取り扱い方法等の講習会をオンライン開催します。",
             "summary": "各位\n\nこの度，下記のとおり化学防護手袋の適切な取り扱い方法についての講習会を開催する\nことになりました。この講習は衛生管理者向けですが，本学関係者であればどなたでも\n聴講できます。是非ご参加くださるようお願いいたします。\n　　　　　　　　　　　　　\n　　　　　　　　　　　　　記\n\n１．日　　時：令和４年６月２８日（火）　１４：００～１５：３０\n２．実施方法：Microsoft Teamsを用いた…",
-            "date_modified": "2022-06-01T03:00:00.000Z"
-        },
-        {
-            "id": "50b6fd8f9533c1af14f87ba1b683dc83",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3071",
-            "title": "[7/7 16:45- 対面]「孤独・孤立対策による健康格差の是正：社会疫学の視点で考える」（第12回DDPI拡大講演会）",
-            "summary": "人文社会系DDPIプロジェクトでは、6月17日に引き続き、7月7日に対面での拡大講演会を企画しております。\nぜひとも幅広いご所属の方のご参加を歓迎いたします。\n\n今回は『孤独・孤立対策による健康格差の是正：社会疫学の視点で考える』と題し、社会疫学者である近藤尚己先生をお招きし、格差・不平等の問題を考えるうえでのもっとも基本的な出発点である人間に焦点をあてて、個人と個人の間における格差のイメージのう…",
-            "date_modified": "2022-06-01T03:00:00.000Z"
-        },
-        {
-            "id": "356e28f63c908a9f0f48ecc5940d2dee",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3070",
-            "title": "クアッドフェローシップ応募について",
-            "summary": "2021年9月24日、クアッド参加国であるオーストラリア、インド、日本、米国は、次世代を担う科学者や技術者たちの連携を目的とする初の奨学金制度「クアッド・フェローシップ」を発表しました。慈善活動団体「Schmidt Futures」が、クアッド参加各国の学術、外交政策、民間部門のリーダーから成る非政府団体と協議しながら、フェローシッププログラムの運営・管理を行います。\n\nこのプログラムは、科学、技…",
-            "date_modified": "2022-06-01T03:00:00.000Z"
-        },
-        {
-            "id": "41b79a8d1f071627a63d240043464722",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3069",
-            "title": "【Library】 Free Ebook Trial Service",
-            "summary": "In order to support teaching and learning in the COVID-19 pandemic, the library provides an eBook trial service.\n\nYou can try any part of the eBooks from the following eBook platforms for free for fiv…",
             "date_modified": "2022-06-01T03:00:00.000Z"
         }
     ]
