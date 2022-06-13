@@ -5,6 +5,20 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "6396af82c3f9037134788fb3de1011d3",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3099",
+            "title": "【再掲：開催案内】T-ACT Welcome Fest 2022 ―つくばアクションプロジェクト新入生歓迎会・活動報告会― （6/15(水) 18:00～20:00）",
+            "summary": "T-ACTの今年度の活動報告会は初の6月開催となります。新入生歓迎の意味合いも込め 「T-ACT Welcome Fest 2022」 と題し、本学の新入生、教職員はもちろん、全国の筑波大学に興味のある中学生、高校生、大学生、地域のみなさまやOBOGをお招きいたします。\n様々な分野で活動する方々が一堂に会し、参加者同士で交流を楽しめるプログラムとなりますので、みなさまお誘い合わせのうえ、ご参加くだ…",
+            "date_modified": "2022-06-13T03:00:00.000Z"
+        },
+        {
+            "id": "7f19b8d6bcb46b48a1088b695ab3ec6f",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3098",
+            "title": "2022年度「海外英語研修I」（3単位、オンライン）参加者募集（再掲載）",
+            "summary": "2022年7～9月に実施される、「海外英語研修I-a・I-b」（3単位、オンライン）の参加者を募集します。プログラムの詳細や申込方法については、manabaコース「xx20371　海外英語研修オンライン募集説明会」に登録のうえ、募集説明動画と申込に関する情報をコースニュースにて確認してください。\n\n●8030306「海外英語研修I-a」（3単位）\n プログラム：ブリティッシュ・コロンビア大学（U…",
+            "date_modified": "2022-06-13T03:00:00.000Z"
+        },
+        {
             "id": "5a000bcd94c38becde1389d17a22e49e",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3097",
             "title": "【再掲】6/18(土) [大学院入試説明会] ヒューマニクス学位プログラム（5年一貫制博士課程）",
@@ -129,20 +143,6 @@
             "title": "【開催案内】第34回「中央ユーラシアと日本の未来」公開講演会_㈱国際開発センター 経済開発部次長 榊原洋司氏_6/13(月)",
             "summary": "筑波大学「日本財団 中央アジア・日本人材育成プロジェクト(NipCA)」主催  \n第34回「中央ユーラシアと日本の未来」公開講演会を、\n次のとおりオンライン（Zoom meeting）により開催いたします。\n\n\n第34回「中央ユーラシアと日本の未来」公開講演会\n\n講師：㈱国際開発センター 経済開発部次長、主任研究員\n　　　榊原 洋司 氏\n\n題目：観光セクターから見た中央アジア\n\n日時：令和4年6月…",
             "date_modified": "2022-06-02T03:00:00.000Z"
-        },
-        {
-            "id": "9a00a760f346bbe87d0b0d9715df1dfd",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3073",
-            "title": "Request to submit the form \"Self-Declaration on Specific Categories\" 特定類型自己申告書の提出について",
-            "summary": "令和4年5月1日より前に在籍・在職している\n研究員・学生（大学院生、研究生）　　各位\n\n令和4年5月1日施行の輸出管理に関する法令改正により、国内での技術提供の\n規制対象が変更となりました。\n従来は、居住者から居住者への技術提供は規制対象外でしたが、\n「特定類型」該当となる居住者（日本人を含む）については、技術の提供時に\n外為法上の規制対象となります。\n\n添付ファイルを熟読下さい。\n\n\n",
-            "date_modified": "2022-06-02T03:00:00.000Z"
-        },
-        {
-            "id": "b3ac8bf6b1d515cbcf8e123d8a395c92",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3072",
-            "title": "【6/28（火）14：00～】化学防護手袋の適切な取り扱い方法等の講習会をオンライン開催します。",
-            "summary": "各位\n\nこの度，下記のとおり化学防護手袋の適切な取り扱い方法についての講習会を開催する\nことになりました。この講習は衛生管理者向けですが，本学関係者であればどなたでも\n聴講できます。是非ご参加くださるようお願いいたします。\n　　　　　　　　　　　　　\n　　　　　　　　　　　　　記\n\n１．日　　時：令和４年６月２８日（火）　１４：００～１５：３０\n２．実施方法：Microsoft Teamsを用いた…",
-            "date_modified": "2022-06-01T03:00:00.000Z"
         }
     ]
 }
