@@ -5,6 +5,20 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "88385f1f9f1ac635731560908231377c",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3109",
+            "title": "【再掲】Tsukuba Global+プログラム第3期生の募集を開始します",
+            "summary": "G⁺プログラム第３期生の募集を開始します！\n\n「さあ、新興国へのドアを開けよう！」\n\n筑波大学グローバル⁺リーダーシップ教育プログラムでは第3期のプログラム生を募集します。募集にあたりプログラム説明会を開催します。プログラムにご興味・相談のある方は、ぜひご参加ください。\n\n2022年7月20日（水） 11:30~12:00\n\n説明会の申し込みは コチラ→https://forms.gle/aq5e…",
+            "date_modified": "2022-06-15T03:00:00.000Z"
+        },
+        {
+            "id": "112cd228a1b08f66582e66b10b93e8f9",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3108",
+            "title": "Asia’s Journey to Prosperity【PEPP Seminar (online)】",
+            "summary": "University of Tokyo's Dr. SAWADA Yasuyuki (Graduate School of Economics) is to present 'Asia's Journey to Prosperity' as the latest in a series of seminars related to economics and public policy arran…",
+            "date_modified": "2022-06-15T03:00:00.000Z"
+        },
+        {
             "id": "182fa4ef75d2336da8ef3e1860b2a193",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3106",
             "title": "【明日6/16開催！】ーブラジルの魅力、留学のための心得ー　CiCブラジル留学説明会（オンライン）",
@@ -128,20 +142,6 @@
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3085",
             "title": "オンライン七夕/Online Tanabata",
             "summary": "7月7日の七夕に向けて、オンラインで願いを寄せ書きとして集めます!\nまた、7月10日のCity Chat Cafeで、七夕の願い事について、英語で話し合いましょう！\n\nShare your wishes and support each other to get through this difficult time together!\nAlso, let's talk about your Ta…",
-            "date_modified": "2022-06-07T03:00:00.000Z"
-        },
-        {
-            "id": "87bd29e9c021aae903bba61ffabc3f78",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3082",
-            "title": "【再掲】TG⁺プログラム第3期生の募集を開始します",
-            "summary": "TG⁺プログラム第３期生の募集を開始します！\n\n「さあ、新興国へのドアを開けよう！」\n\n筑波大学グローバル⁺リーダーシップ教育プログラムでは第3期のプログラム生を募集します。募集にあたりプログラム説明会を開催します。プログラムにご興味・相談のある方は、ぜひご参加ください。\n\n2022年6月15日（水） 11:30~12:00\n2022年7月20日（水） 11:30~12:00\n\n説明会の申し込みは…",
-            "date_modified": "2022-06-07T03:00:00.000Z"
-        },
-        {
-            "id": "97b90f04b3231a70430e730a0299d45e",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3080",
-            "title": "【重要】第1期分授業料の納入督促について",
-            "summary": "　2022年度第1期分授業料について、5月27日(金)に口座振替により引落しを行いました。残高不足等のため引落しができなかった者については、6月27日(月)に再度預金口座から引落しを行います。\n　つきましては、金融機関の前営業日である6月24日(金)までに登録した預金口座へ入金をお願いします。\n\n　なお、引落しがされている場合は、通帳に“ツクバダイ”と記帳されますので、引落しがされているか登録した…",
             "date_modified": "2022-06-07T03:00:00.000Z"
         }
     ]
