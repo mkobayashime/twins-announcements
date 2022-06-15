@@ -4,10 +4,17 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Wed, 15 Jun 2022 06:08:04 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 Jun 2022 08:08:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
+        <item>
+            <title><![CDATA[OPEN Seminars - The Program in Economic and Public Policy (PEPP)]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3110</link>
+            <guid>518f4d6c0ce98b20c7cb972d228d0ed7</guid>
+            <pubDate>Wed, 15 Jun 2022 03:00:00 GMT</pubDate>
+            <description><![CDATA[The Program in Economic and Public Policy (PEPP) will welcome students with an interest in Master's level International Public Policy and Economics to Open Seminars on June 20th and 27th. Details as f…]]></description>
+        </item>
         <item>
             <title><![CDATA[【再掲】Tsukuba Global+プログラム第3期生の募集を開始します]]></title>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3109</link>
@@ -238,17 +245,6 @@ For more detail, please vis…]]></description>
             <description><![CDATA[ダイバーシティ・アクセシビリティ・キャリアセンターでは、令和4年度第1回FD/SD研修会「吃音のある学生の理解と支援」を開催いたします。
 近年、アクティブ・ラーニングが促進されるに伴い、グループワークやディスカッション、プレゼンテーション等を通した学修が高等教育機関においても取り入れられるようになってきています。吃音等、ことばの面で悩みを抱える学生は潜在的に多数存在することが想定されています。
 本…]]></description>
-        </item>
-        <item>
-            <title><![CDATA[オンライン七夕/Online Tanabata]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3085</link>
-            <guid>eccd21fd1b2a95bf1e1a5186645fd01a</guid>
-            <pubDate>Tue, 07 Jun 2022 03:00:00 GMT</pubDate>
-            <description><![CDATA[7月7日の七夕に向けて、オンラインで願いを寄せ書きとして集めます!
-また、7月10日のCity Chat Cafeで、七夕の願い事について、英語で話し合いましょう！
-
-Share your wishes and support each other to get through this difficult time together!
-Also, let's talk about your Ta…]]></description>
         </item>
     </channel>
 </rss>
