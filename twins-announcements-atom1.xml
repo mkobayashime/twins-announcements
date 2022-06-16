@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/mkobayashime/twins-announcements</id>
     <title>在学生へのお知らせ | 筑波大学</title>
-    <updated>2022-06-16T09:10:32.710Z</updated>
+    <updated>2022-06-16T12:11:44.909Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://github.com/mkobayashime/twins-announcements"/>
     <subtitle>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</subtitle>
+    <entry>
+        <title type="html"><![CDATA[【注意喚起】不審者情報について]]></title>
+        <id>6bc4ec8d1884b61bb77c60b1adb7f141</id>
+        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3118"/>
+        <updated>2022-06-16T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[　学生各位
+
+　先日第二エリア敷地内において、日中に筑波大生を名乗る者から声をかけられた旨の情報提供がありました。また併せて先日深夜に天久保２丁目付近におきまして、不審者に声をかけられたという情報がありましたので、周知いたします。
+
+　夜間（深夜）の外出についてはなるべく控えるようにしてください。やむを得ず出かけるときには明るい通りを選ぶ、防犯グッズを携帯するとともに、一人で出歩かないように心がけ…]]></summary>
+    </entry>
     <entry>
         <title type="html"><![CDATA[再掲:【募集（6/24締切）】筑波大生のための「地域連携型インターンシップ」]]></title>
         <id>e1a05f856585ce3aa038b72f5631f4f3</id>
@@ -231,21 +242,5 @@ For more detail, please vis…]]></summary>
 - CiCブラジル留学説明会（オンライン）6月16日（木）17：30～
 - 海外危機管理セミナー（オンライン）6月23日（木）18：15～
 - 各種協定校か…]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[海外留学支援ワークショップを開催します]]></title>
-        <id>bafb7d3fa2d98b1e974c9dcfa6b07efd</id>
-        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3094"/>
-        <updated>2022-06-09T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[自然保護寄附講座海外留学⽀援ワークショップ「自然保護分野での海外留学や国際連携に興味ある？～ワークショップで情報収集しよう～」を開催します。
-
-日時：2022年6月27日（月）13:00-14:00　
-開催方法：対面or Zoom
-
-話題提供：
-①国際的な視点を⾝につける
-庄⼦晶⼦（筑波⼤学⽣物学類・⽣物学学位プログラム所属）
-「海外留学AtoZ: 学校選びから費⽤⽀援の⾒つけ⽅」
-（カナダやイギ…]]></summary>
     </entry>
 </feed>

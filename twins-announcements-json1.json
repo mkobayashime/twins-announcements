@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "6bc4ec8d1884b61bb77c60b1adb7f141",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3118",
+            "title": "【注意喚起】不審者情報について",
+            "summary": "　学生各位\n\n　先日第二エリア敷地内において、日中に筑波大生を名乗る者から声をかけられた旨の情報提供がありました。また併せて先日深夜に天久保２丁目付近におきまして、不審者に声をかけられたという情報がありましたので、周知いたします。\n\n　夜間（深夜）の外出についてはなるべく控えるようにしてください。やむを得ず出かけるときには明るい通りを選ぶ、防犯グッズを携帯するとともに、一人で出歩かないように心がけ…",
+            "date_modified": "2022-06-16T03:00:00.000Z"
+        },
+        {
             "id": "e1a05f856585ce3aa038b72f5631f4f3",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3117",
             "title": "再掲:【募集（6/24締切）】筑波大生のための「地域連携型インターンシップ」",
@@ -136,13 +143,6 @@
             "title": "国際交流イベント情報・留学情報について",
             "summary": "国際交流イベント等の情報や留学情報は、スチューデントサポートセンター国際交流支援室ウェブサイトにてお知らせしています！是非チェックしてください！\n\n＜海外留学情報＞\n- 留学相談（オンライン）・・・留学の基本情報はウェブサイトで確認できます！\n- CiCブラジル留学説明会（オンライン）6月16日（木）17：30～\n- 海外危機管理セミナー（オンライン）6月23日（木）18：15～\n- 各種協定校か…",
             "date_modified": "2022-06-10T03:00:00.000Z"
-        },
-        {
-            "id": "bafb7d3fa2d98b1e974c9dcfa6b07efd",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3094",
-            "title": "海外留学支援ワークショップを開催します",
-            "summary": "自然保護寄附講座海外留学⽀援ワークショップ「自然保護分野での海外留学や国際連携に興味ある？～ワークショップで情報収集しよう～」を開催します。\n\n日時：2022年6月27日（月）13:00-14:00　\n開催方法：対面or Zoom\n\n話題提供：\n①国際的な視点を⾝につける\n庄⼦晶⼦（筑波⼤学⽣物学類・⽣物学学位プログラム所属）\n「海外留学AtoZ: 学校選びから費⽤⽀援の⾒つけ⽅」\n（カナダやイギ…",
-            "date_modified": "2022-06-09T03:00:00.000Z"
         }
     ]
 }
