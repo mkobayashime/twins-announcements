@@ -5,6 +5,20 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "d8fdff2d736aa27d71966190c46e1790",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3113",
+            "title": "（学内参加者募集）つくば次世代アントレプレナー育成プログラム～ビジネスデベロップ講座～",
+            "summary": "つくば次世代アントレプレナー育成プログラム〜ビジネスデベロップ講座〜は、筑波大学の次世代アントレプレナー育成事業（EDGE-NEXT；2017年度～2021年度文科省補助事業）により開発されたハンズオン支援型の実践的教育プログラムを基盤とし、教育・研究機関等に所属する研究者等を対象として開設する筑波大学エクステンションプログラムです。アントレプレナーの輩出と研究・技術シーズに基づくスタートアップ創…",
+            "date_modified": "2022-06-16T03:00:00.000Z"
+        },
+        {
+            "id": "1e0fb561fb073bc81c357381d64d44a6",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3112",
+            "title": "【7/9 13:00】第2回 en nichi 主催セミナー「映画「イン・ザ・ハイツ」から　移民について考える」",
+            "summary": "皆さんは、「移民」と聞いて何をイメージしますか？\n皆さん自身は、国境、言語、文化を越えて、移動した経験はありますか？\n\n今回のセミナーでは、映画「イン・ザ・ハイツ」を題材とし、皆さんで「移民」について考える会となっています。映画「イン・ザ・ハイツ」の舞台となるニューヨークの“ワシントン・ハイツ”は、実在する移民の街。その街で育ったキャラクターたちが、自分達の未来に向かって逆境に立ち向かい、夢へと踏…",
+            "date_modified": "2022-06-16T03:00:00.000Z"
+        },
+        {
             "id": "518f4d6c0ce98b20c7cb972d228d0ed7",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3110",
             "title": "OPEN Seminars - The Program in Economic and Public Policy (PEPP)",
@@ -129,20 +143,6 @@
             "title": "スチューデントサポートセンターテラス（SSCテラス）（仮称）の整備について",
             "summary": "スチューデントサポートセンターでは、今年度、設置２年目を迎え、学生支援のさらなる充実を図るため、第一エリアに新たに学生サービス提供と学生交流の場を整備します。\nその整備に伴い、学生部学生生活課（紫峰会業務推進室）は、令和4年6月21日（火）より事務室を移転しますのでお知らせします。\n\n＊移 転 先：１A棟２階（元１A棟丸善書店）\n＊開室時間：9：00～17：00\n＊TEL：029-853-5886…",
             "date_modified": "2022-06-08T03:00:00.000Z"
-        },
-        {
-            "id": "620f873b9bf8c69a0b95911b4798d87e",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3086",
-            "title": "【6/28開催】教育関係共同利用拠点「ダイバーシティ＆インクルージョン教育拠点」第1回FD/SD研修会「吃音のある学生の理解と支援」の開催について",
-            "summary": "ダイバーシティ・アクセシビリティ・キャリアセンターでは、令和4年度第1回FD/SD研修会「吃音のある学生の理解と支援」を開催いたします。\n近年、アクティブ・ラーニングが促進されるに伴い、グループワークやディスカッション、プレゼンテーション等を通した学修が高等教育機関においても取り入れられるようになってきています。吃音等、ことばの面で悩みを抱える学生は潜在的に多数存在することが想定されています。\n本…",
-            "date_modified": "2022-06-08T03:00:00.000Z"
-        },
-        {
-            "id": "eccd21fd1b2a95bf1e1a5186645fd01a",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3085",
-            "title": "オンライン七夕/Online Tanabata",
-            "summary": "7月7日の七夕に向けて、オンラインで願いを寄せ書きとして集めます!\nまた、7月10日のCity Chat Cafeで、七夕の願い事について、英語で話し合いましょう！\n\nShare your wishes and support each other to get through this difficult time together!\nAlso, let's talk about your Ta…",
-            "date_modified": "2022-06-07T03:00:00.000Z"
         }
     ]
 }
