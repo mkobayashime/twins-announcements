@@ -5,6 +5,20 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "e1a05f856585ce3aa038b72f5631f4f3",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3117",
+            "title": "再掲:【募集（6/24締切）】筑波大生のための「地域連携型インターンシップ」",
+            "summary": "就職課オリジナルの「地域連携型インターンシップ」の参加者を募集しています。\n\n40時間以上の実習、充実した事前・事後学習等により、体系的に学ぶことのできる筑波大生のためのインターンシップです。\n\n■地域連携型インターンシップの特徴\n・学群1年生からインターンシップに参加できます！\n・事前事後学習が整っているので、インターンシップに初めて参加する学生も、安心して参加することができます！\n・つくば市近…",
+            "date_modified": "2022-06-16T03:00:00.000Z"
+        },
+        {
+            "id": "7195257289ee836d6974fcb2538c7c62",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3116",
+            "title": "GTIE研究者・大学院生向けアントレプレナーシップ・セミナーのお知らせ",
+            "summary": "Greater Tokyo Innovation Ecosystem（GTIE：ジータイ）は、首都圏を中心とした大学からなる『世界を変える大学発スタートアップを育てる』プラットフォームです。筑波大学は共同機関としてGTIEに参画しています。\n\nこのたびGTIEで研究者・大学院生向けに以下のセミナーが開催されます。ご関心のある方はご参加ください。\n\n【セミナー名】\nGTIE研究者・大学院生向けアント…",
+            "date_modified": "2022-06-16T03:00:00.000Z"
+        },
+        {
             "id": "ecb2e4f9f6aca7e0ee37c4e06a9fa6e4",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3115",
             "title": "【単位認定】日本語サポーター募集！（TWINS 締切 7/10）",
@@ -129,20 +143,6 @@
             "title": "海外留学支援ワークショップを開催します",
             "summary": "自然保護寄附講座海外留学⽀援ワークショップ「自然保護分野での海外留学や国際連携に興味ある？～ワークショップで情報収集しよう～」を開催します。\n\n日時：2022年6月27日（月）13:00-14:00　\n開催方法：対面or Zoom\n\n話題提供：\n①国際的な視点を⾝につける\n庄⼦晶⼦（筑波⼤学⽣物学類・⽣物学学位プログラム所属）\n「海外留学AtoZ: 学校選びから費⽤⽀援の⾒つけ⽅」\n（カナダやイギ…",
             "date_modified": "2022-06-09T03:00:00.000Z"
-        },
-        {
-            "id": "e7a7917dc1093c67df9e2603823845c7",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3093",
-            "title": "【開催案内】第35回「中央ユーラシアと日本の未来」公開講演会_大阪大学大学院人間科学研究科 講師 木村友美氏_6/20(月)",
-            "summary": "筑波大学「日本財団 中央アジア・日本人材育成プロジェクト(NipCA)」主催  \n第35回「中央ユーラシアと日本の未来」公開講演会を、\n次のとおりオンライン（Zoom meeting）により開催いたします。\n\n\n第35回「中央ユーラシアと日本の未来」公開講演会\n\n講師：大阪大学大学院人間科学研究科 講師\n　　　木村 友美 氏\n\n題目：高所住民の食と健康\n　　　－ヒマラヤ高地ラダックにおけるフィール…",
-            "date_modified": "2022-06-08T03:00:00.000Z"
-        },
-        {
-            "id": "3eabb113a60562d74c917298007ca0aa",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3092",
-            "title": "【参加者募集】ーブラジルの魅力、留学のための心得ー　CiCブラジル留学説明会（オンライン）：6月16日（木）",
-            "summary": "ブラジルへの留学説明会を開催します！\nブラジル（特にサンパウロ大学）への留学を検討している方は、是非参加してください！\n\n開催日：2022年6月16日（木）17:30～19:00\n対象：筑波大学在学生で交換留学を希望する者\n開催方法：オンライン（Microsoft Teams)\n",
-            "date_modified": "2022-06-08T03:00:00.000Z"
         }
     ]
 }
