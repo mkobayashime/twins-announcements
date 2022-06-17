@@ -4,10 +4,22 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Fri, 17 Jun 2022 03:46:15 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 17 Jun 2022 08:12:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
+        <item>
+            <title><![CDATA[【お知らせ】認知症サポーターについて（茨城県 長寿福祉課）]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3123</link>
+            <guid>92153fe68c26dbb0e97285d50490f563</guid>
+            <pubDate>Fri, 17 Jun 2022 03:00:00 GMT</pubDate>
+            <description><![CDATA[茨城県長寿福祉課より、認知症サポーター養成講座についてのお知らせです。
+
+――――――――――――――――――――――――――――――――――――――――
+[認知症について学ぶ！ ～ 認知症サポーター ～ ]
+認知症サポーターは、認知症について正しく理解し、認知症の人や家族を温かく見守り、支援する応援者です。
+認知症になっても安心して暮らせるまちになることを 目指して「認知症サポーター」を全国で養…]]></description>
+        </item>
         <item>
             <title><![CDATA[春学期Cモジュールの教科書販売方法の変更について]]></title>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3122</link>
@@ -243,16 +255,6 @@ GTIE研究者・大学院生向けアント…]]></description>
 　　　　　　　　　　　　　　　　　記
 
 １．日　　時　　令和４年７月１２日（火）　１５時１５分～…]]></description>
-        </item>
-        <item>
-            <title><![CDATA[2022年度「海外英語研修I」（3単位、オンライン）参加者募集（再掲載）]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3098</link>
-            <guid>7f19b8d6bcb46b48a1088b695ab3ec6f</guid>
-            <pubDate>Mon, 13 Jun 2022 03:00:00 GMT</pubDate>
-            <description><![CDATA[2022年7～9月に実施される、「海外英語研修I-a・I-b」（3単位、オンライン）の参加者を募集します。プログラムの詳細や申込方法については、manabaコース「xx20371　海外英語研修オンライン募集説明会」に登録のうえ、募集説明動画と申込に関する情報をコースニュースにて確認してください。
-
-●8030306「海外英語研修I-a」（3単位）
- プログラム：ブリティッシュ・コロンビア大学（U…]]></description>
         </item>
     </channel>
 </rss>

@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "92153fe68c26dbb0e97285d50490f563",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3123",
+            "title": "【お知らせ】認知症サポーターについて（茨城県 長寿福祉課）",
+            "summary": "茨城県長寿福祉課より、認知症サポーター養成講座についてのお知らせです。\n\n――――――――――――――――――――――――――――――――――――――――\n[認知症について学ぶ！ ～ 認知症サポーター ～ ]\n認知症サポーターは、認知症について正しく理解し、認知症の人や家族を温かく見守り、支援する応援者です。\n認知症になっても安心して暮らせるまちになることを 目指して「認知症サポーター」を全国で養…",
+            "date_modified": "2022-06-17T03:00:00.000Z"
+        },
+        {
             "id": "e6871de25c771e1241f6b157b535ce3c",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3122",
             "title": "春学期Cモジュールの教科書販売方法の変更について",
@@ -135,13 +142,6 @@
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3100",
             "title": "7/12(火)令和４年度高圧ガスボンベ利用者安全講習会のオンライン開催について（通知）",
             "summary": "日頃より，安全衛生・健康管理の取組にご協力いただきありがとうございます。\nこの度，下記のとおり高圧ガスボンベ利用者安全講習会をオンラインで開催することになりました。\nこの講習会では，高圧ガスに関する基礎知識から安全な取扱方法，事故事例等について，専門家より\n最新の情報を交えながらお話しいただきます。\n\n　　　　　　　　　　　　　　　　　記\n\n１．日　　時　　令和４年７月１２日（火）　１５時１５分～…",
-            "date_modified": "2022-06-13T03:00:00.000Z"
-        },
-        {
-            "id": "7f19b8d6bcb46b48a1088b695ab3ec6f",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3098",
-            "title": "2022年度「海外英語研修I」（3単位、オンライン）参加者募集（再掲載）",
-            "summary": "2022年7～9月に実施される、「海外英語研修I-a・I-b」（3単位、オンライン）の参加者を募集します。プログラムの詳細や申込方法については、manabaコース「xx20371　海外英語研修オンライン募集説明会」に登録のうえ、募集説明動画と申込に関する情報をコースニュースにて確認してください。\n\n●8030306「海外英語研修I-a」（3単位）\n プログラム：ブリティッシュ・コロンビア大学（U…",
             "date_modified": "2022-06-13T03:00:00.000Z"
         }
     ]
