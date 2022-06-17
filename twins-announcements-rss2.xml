@@ -4,10 +4,26 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Fri, 17 Jun 2022 00:26:46 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 17 Jun 2022 03:46:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
+        <item>
+            <title><![CDATA[春学期Cモジュールの教科書販売方法の変更について]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3122</link>
+            <guid>e6871de25c771e1241f6b157b535ce3c</guid>
+            <pubDate>Fri, 17 Jun 2022 03:00:00 GMT</pubDate>
+            <description><![CDATA[学内書店事業者である丸善雄松堂株式会社から、
+春学期の教科書販売方法について、変更の連絡がありましたのでお知らせします。
+
+　　春学期の教科書販売については全てオンライン販売としていましたが、
+　　Cモジュールでは、学内の丸善雄松堂店舗にて店頭販売することになりました。
+
+　★教科書購入は店頭（大学会館・医学）のみとなりますので、ご了承ください。
+
+　　　　【教科書販売についての問い合わせ先】
+　…]]></description>
+        </item>
         <item>
             <title><![CDATA[台湾とのオンライン学生交流プログラム: UTxNTU Online Forum on SDG#5]]></title>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3121</link>
@@ -237,21 +253,6 @@ GTIE研究者・大学院生向けアント…]]></description>
 
 ●8030306「海外英語研修I-a」（3単位）
  プログラム：ブリティッシュ・コロンビア大学（U…]]></description>
-        </item>
-        <item>
-            <title><![CDATA[【再掲】6/18(土) [大学院入試説明会] ヒューマニクス学位プログラム（5年一貫制博士課程）]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3097</link>
-            <guid>5a000bcd94c38becde1389d17a22e49e</guid>
-            <pubDate>Fri, 10 Jun 2022 03:00:00 GMT</pubDate>
-            <description><![CDATA[学類生の皆さまへ
-
-＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊
-第1回入試説明会（5/14）には多くの皆様にご参加いただき、ありがとうございました。
-日本を含む7ヶ国出身の在学生が集結し、参加者の皆様とのトークセッションでは「ここでしか聞けない」ヒューマニクスの裏トークも展開されました。
-第2回（6/18）も同様の形式で開催しますので、是非オンサイトでご参加ください！
-＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊
-
-ヒュー…]]></description>
         </item>
     </channel>
 </rss>
