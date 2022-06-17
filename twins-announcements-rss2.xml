@@ -4,10 +4,39 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Thu, 16 Jun 2022 21:08:26 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 17 Jun 2022 00:26:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
+        <item>
+            <title><![CDATA[台湾とのオンライン学生交流プログラム: UTxNTU Online Forum on SDG#5]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3121</link>
+            <guid>e9049f2b47c3fc7d0498d3c2687ead3b</guid>
+            <pubDate>Fri, 17 Jun 2022 03:00:00 GMT</pubDate>
+            <description><![CDATA[2022年8月開催の台湾とのオンライン学生交流プログラムに参加する学生を募集します！
+国立台湾大学の学生と友達になって将来の留学につなげよう！
+
+＜目的＞
+・国立台湾大学の学生と交流を深める
+・SDGsやグローバルイシューについて、英語でディスカッションを行う
+・言語や文化交流を行う
+
+＜ディスカッション・トピック＞
+・ジェンダー平等を実現しよう（SGDs 目標5）
+
+＜概要＞
+・各大学の紹介、文…]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Japanese Online Practice Program for all levels: "G-Chat Japanese"]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3119</link>
+            <guid>3df922d8cb48337b723e8d89a96a99a9</guid>
+            <pubDate>Fri, 17 Jun 2022 03:00:00 GMT</pubDate>
+            <description><![CDATA[If you are looking for an opportunity to pratice Japanese, this program is for you!
+This is a 1-on-1 online program where you can talk in Japanese with Japanese students!
+
+For: University of Tsukuba s…]]></description>
+        </item>
         <item>
             <title><![CDATA[【注意喚起】不審者情報について]]></title>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3118</link>
@@ -223,27 +252,6 @@ GTIE研究者・大学院生向けアント…]]></description>
 ＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊
 
 ヒュー…]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Information for international students and International exchange events！]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3096</link>
-            <guid>3f5b5b4eec88178d25e0945955de8237</guid>
-            <pubDate>Fri, 10 Jun 2022 03:00:00 GMT</pubDate>
-            <description><![CDATA[On Student Support Center's website, the office of international exchange support posts useful information for international students and international exchange events etc.
-For more detail, please vis…]]></description>
-        </item>
-        <item>
-            <title><![CDATA[国際交流イベント情報・留学情報について]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3095</link>
-            <guid>31939ae20e7468f1d7e1ab47365a4069</guid>
-            <pubDate>Fri, 10 Jun 2022 03:00:00 GMT</pubDate>
-            <description><![CDATA[国際交流イベント等の情報や留学情報は、スチューデントサポートセンター国際交流支援室ウェブサイトにてお知らせしています！是非チェックしてください！
-
-＜海外留学情報＞
-- 留学相談（オンライン）・・・留学の基本情報はウェブサイトで確認できます！
-- CiCブラジル留学説明会（オンライン）6月16日（木）17：30～
-- 海外危機管理セミナー（オンライン）6月23日（木）18：15～
-- 各種協定校か…]]></description>
         </item>
     </channel>
 </rss>

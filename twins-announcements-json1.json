@@ -5,6 +5,20 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "e9049f2b47c3fc7d0498d3c2687ead3b",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3121",
+            "title": "台湾とのオンライン学生交流プログラム: UTxNTU Online Forum on SDG#5",
+            "summary": "2022年8月開催の台湾とのオンライン学生交流プログラムに参加する学生を募集します！\n国立台湾大学の学生と友達になって将来の留学につなげよう！\n\n＜目的＞\n・国立台湾大学の学生と交流を深める\n・SDGsやグローバルイシューについて、英語でディスカッションを行う\n・言語や文化交流を行う\n\n＜ディスカッション・トピック＞\n・ジェンダー平等を実現しよう（SGDs 目標5）\n\n＜概要＞\n・各大学の紹介、文…",
+            "date_modified": "2022-06-17T03:00:00.000Z"
+        },
+        {
+            "id": "3df922d8cb48337b723e8d89a96a99a9",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3119",
+            "title": "Japanese Online Practice Program for all levels: \"G-Chat Japanese\"",
+            "summary": "If you are looking for an opportunity to pratice Japanese, this program is for you!\nThis is a 1-on-1 online program where you can talk in Japanese with Japanese students!\n\nFor: University of Tsukuba s…",
+            "date_modified": "2022-06-17T03:00:00.000Z"
+        },
+        {
             "id": "6bc4ec8d1884b61bb77c60b1adb7f141",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3118",
             "title": "【注意喚起】不審者情報について",
@@ -128,20 +142,6 @@
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3097",
             "title": "【再掲】6/18(土) [大学院入試説明会] ヒューマニクス学位プログラム（5年一貫制博士課程）",
             "summary": "学類生の皆さまへ\n\n＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊\n第1回入試説明会（5/14）には多くの皆様にご参加いただき、ありがとうございました。\n日本を含む7ヶ国出身の在学生が集結し、参加者の皆様とのトークセッションでは「ここでしか聞けない」ヒューマニクスの裏トークも展開されました。\n第2回（6/18）も同様の形式で開催しますので、是非オンサイトでご参加ください！\n＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊\n\nヒュー…",
-            "date_modified": "2022-06-10T03:00:00.000Z"
-        },
-        {
-            "id": "3f5b5b4eec88178d25e0945955de8237",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3096",
-            "title": "Information for international students and International exchange events！",
-            "summary": "On Student Support Center's website, the office of international exchange support posts useful information for international students and international exchange events etc.\nFor more detail, please vis…",
-            "date_modified": "2022-06-10T03:00:00.000Z"
-        },
-        {
-            "id": "31939ae20e7468f1d7e1ab47365a4069",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3095",
-            "title": "国際交流イベント情報・留学情報について",
-            "summary": "国際交流イベント等の情報や留学情報は、スチューデントサポートセンター国際交流支援室ウェブサイトにてお知らせしています！是非チェックしてください！\n\n＜海外留学情報＞\n- 留学相談（オンライン）・・・留学の基本情報はウェブサイトで確認できます！\n- CiCブラジル留学説明会（オンライン）6月16日（木）17：30～\n- 海外危機管理セミナー（オンライン）6月23日（木）18：15～\n- 各種協定校か…",
             "date_modified": "2022-06-10T03:00:00.000Z"
         }
     ]
