@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/mkobayashime/twins-announcements</id>
     <title>在学生へのお知らせ | 筑波大学</title>
-    <updated>2022-06-19T21:08:46.629Z</updated>
+    <updated>2022-06-20T09:04:49.997Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://github.com/mkobayashime/twins-announcements"/>
     <subtitle>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</subtitle>
+    <entry>
+        <title type="html"><![CDATA[【お知らせ】6/21(火)筑波大学公式オリジナル自転車販売店舗オープンのご案内]]></title>
+        <id>254fde826ecbd1f257a1c0a94ea281df</id>
+        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3125"/>
+        <updated>2022-06-20T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[本店舗（CYCLE CHIC つくば店）は、本学と連携して自転車に関する様々な取り組みを行っていく予定です。
+まずは、「校章」や「University of Tsukuba」、「IMAGINE THE FUTURE.」が入ったかっこよく、おしゃれな自転車が販売されます。
+この自転車の売り上げの一部は大学に寄附され、さらに筑波大学カード（三井住友カードと提携しているクレジットカード）での決済で特典を…]]></summary>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【お知らせ】認知症サポーターについて（茨城県 長寿福祉課）]]></title>
         <id>92153fe68c26dbb0e97285d50490f563</id>
@@ -248,23 +257,5 @@ GTIE研究者・大学院生向けアント…]]></summary>
 庄⼦晶⼦（筑波⼤学⽣物学類・⽣物学学位プログラム所属）
 「海外留学AtoZ: 学校選びから費⽤⽀援の⾒つけ⽅」
 （カナダやイギ…]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【開催案内】第35回「中央ユーラシアと日本の未来」公開講演会_大阪大学大学院人間科学研究科 講師 木村友美氏_6/20(月)]]></title>
-        <id>e7a7917dc1093c67df9e2603823845c7</id>
-        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3093"/>
-        <updated>2022-06-08T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[筑波大学「日本財団 中央アジア・日本人材育成プロジェクト(NipCA)」主催  
-第35回「中央ユーラシアと日本の未来」公開講演会を、
-次のとおりオンライン（Zoom meeting）により開催いたします。
-
-
-第35回「中央ユーラシアと日本の未来」公開講演会
-
-講師：大阪大学大学院人間科学研究科 講師
-　　　木村 友美 氏
-
-題目：高所住民の食と健康
-　　　－ヒマラヤ高地ラダックにおけるフィール…]]></summary>
     </entry>
 </feed>
