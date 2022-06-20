@@ -4,7 +4,7 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Mon, 20 Jun 2022 09:09:48 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 20 Jun 2022 15:15:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
@@ -179,19 +179,6 @@ GTIE研究者・大学院生向けアント…]]></description>
 説明会の申し込みは コチラ→https://forms.gle/aq5e…]]></description>
         </item>
         <item>
-            <title><![CDATA[【17日（金）開催】SDGs×TSUKUBA 2022 ～SDGsをチャットする～]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3105</link>
-            <guid>3477626692b58a5c673b6a8c57cc5002</guid>
-            <pubDate>Tue, 14 Jun 2022 03:00:00 GMT</pubDate>
-            <description><![CDATA[SDGsについて、自分の研究や学問分野を基に、協定校学生と英語で議論してみませんか？
-月1回、テーマを変えて開催します！単発参加もOK、全部参加もOKです！
-第2回は今週、6月17日（金）、テーマはGender Equalityです。
-
-世界の学生と交流したい方、英語のスピーキングを向上させたい方、是非参加してください！
-
-日時とテーマ：第2回   2022年6月17日（金）19:00~20:45…]]></description>
-        </item>
-        <item>
             <title><![CDATA[【募集】世界展開力強化事業（CAMPUS-Asia6）海外派遣学生の募集開始！]]></title>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3104</link>
             <guid>2bf81bb27d57bc54683bf61f2422e724</guid>
@@ -259,6 +246,13 @@ GTIE研究者・大学院生向けアント…]]></description>
 庄⼦晶⼦（筑波⼤学⽣物学類・⽣物学学位プログラム所属）
 「海外留学AtoZ: 学校選びから費⽤⽀援の⾒つけ⽅」
 （カナダやイギ…]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Place to Meet & Mingle; Terrace of Student Support Center (SSC Terrace) *tentative name]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3091</link>
+            <guid>40c82615b396330cff0e877da15e9b7d</guid>
+            <pubDate>Wed, 08 Jun 2022 03:00:00 GMT</pubDate>
+            <description><![CDATA[The Student Support Center (SSC) is now in its 2nd year of operation. In order to provide better support to the students, SSC is arranging to make places in Area 1 where we provide student support ser…]]></description>
         </item>
     </channel>
 </rss>
