@@ -4,10 +4,22 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Tue, 21 Jun 2022 21:08:45 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 22 Jun 2022 02:58:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
+        <item>
+            <title><![CDATA[【日仏科学協力】サイエンスフォトコンテスト開催のご案内]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3129</link>
+            <guid>06f1f8859fc809330235164b91e3e595</guid>
+            <pubDate>Wed, 22 Jun 2022 03:00:00 GMT</pubDate>
+            <description><![CDATA[在日フランス大使館科学技術部は第2回サイエンスフォトコンテスト「科学の幽玄 – Beauté cachée de la science」を開催いたします。このフォトコンテストは画像を通して既存の日仏学術研究協力に光を当てることを目的としています。
+
+【フォトコンテストの概要】
+対象作品
+• フランスと日本の研究機関による研究プロジェクトであること
+• 日本の研究機関で行われた研究プロジェクトで、フ…]]></description>
+        </item>
         <item>
             <title><![CDATA[令和４年度授業の実施指針について(2022.6.16) / Implementation guidelines of classes in the AY 2022]]></title>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3127</link>
@@ -247,16 +259,6 @@ GTIE研究者・大学院生向けアント…]]></description>
 　　　　　　　　　　　　　　　　　記
 
 １．日　　時　　令和４年７月１２日（火）　１５時１５分～…]]></description>
-        </item>
-        <item>
-            <title><![CDATA[2022年度「海外英語研修I」（3単位、オンライン）参加者募集（再掲載）]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3098</link>
-            <guid>7f19b8d6bcb46b48a1088b695ab3ec6f</guid>
-            <pubDate>Mon, 13 Jun 2022 03:00:00 GMT</pubDate>
-            <description><![CDATA[2022年7～9月に実施される、「海外英語研修I-a・I-b」（3単位、オンライン）の参加者を募集します。プログラムの詳細や申込方法については、manabaコース「xx20371　海外英語研修オンライン募集説明会」に登録のうえ、募集説明動画と申込に関する情報をコースニュースにて確認してください。
-
-●8030306「海外英語研修I-a」（3単位）
- プログラム：ブリティッシュ・コロンビア大学（U…]]></description>
         </item>
     </channel>
 </rss>
