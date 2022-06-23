@@ -5,6 +5,20 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "702295b42d53d51b057f3533077952de",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3131",
+            "title": "【オンデマンド開催】令和４年度学生のための実験廃棄物管理研修会及び動物実験系廃棄物取扱い研修会",
+            "summary": "下記のとおり研修会をオンデマンドで開催いたしますので，参加登録のうえ視聴願います。\n英語字幕版も後日公開予定です。\n\n　　　　　　　記\n\n目　的：\n１・実験に携わる学群・大学院生向けに，化学物質の危険性や有害性を伝え，事件事故や健康障害を\n　　引き起こすリスクを減らすこと\n２・動物実験系廃棄物の排出者向けに，具体的な解説を交えて処理依頼上の注意事項を伝え，適切な\n　　排出法の周知をすること\n\n開催…",
+            "date_modified": "2022-06-23T03:00:00.000Z"
+        },
+        {
+            "id": "98f653d5f603193ab07f82fa8476a4dd",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3130",
+            "title": "【再掲　6/28（火）14：00～】化学防護手袋の適切な取り扱い方法等の講習会をオンライン開催します。 2022/6/01",
+            "summary": "各位\n\nこの度，下記のとおり化学防護手袋の適切な取り扱い方法についての講習会を開催する\nことになりました。この講習は衛生管理者向けですが，本学関係者であればどなたでも\n聴講できます。是非ご参加くださるようお願いいたします。\n　　　　　　　　　　　　　\n　　　　　　　　　　　　　記\n\n１．日　　時：令和４年６月２８日（火）　１４：００～１５：３０\n２．実施方法：Microsoft Teamsを用いた…",
+            "date_modified": "2022-06-23T03:00:00.000Z"
+        },
+        {
             "id": "06f1f8859fc809330235164b91e3e595",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3129",
             "title": "【日仏科学協力】サイエンスフォトコンテスト開催のご案内",
@@ -129,20 +143,6 @@
             "title": "【募集】世界展開力強化事業（CAMPUS-Asia6）海外派遣学生の募集開始！",
             "summary": "世界展開力強化事業「アジア高等教育共同体形成促進」（CAMPUS-Asia6）海外派遣学生の募集を開始します！\n\n日本、中国、韓国およびASEAN（インドネシア、タイ、マレーシア）で行う交換留学プログラムです。\n各国との交流を通して、「地球規模課題」について考えてみませんか？\n\n募集にあたりプログラム説明会を開催します。プログラムに興味・相談のある方は、ぜひご参加ください。\n　　　　　\n　　　日時…",
             "date_modified": "2022-06-14T03:00:00.000Z"
-        },
-        {
-            "id": "0829fd021f504b30c67afc1592f3ad10",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3102",
-            "title": "　山岳科学学位プログラム（博士前期課程）オンライン相談会＆説明会（6/20～27）",
-            "summary": "陸地には必ず山・谷の地形があり、標高に沿った物質移動や環境の勾配があります。\nこれを「山岳」と捉えることで、地球圏・生物圏・人間圏の横断的な理解を目指すの\nが山岳科学です。\n\n日本初、「山岳科学」の修士号を出すなどユニークな教育を行っている山岳科学学位\nプログラムは、山岳地域を広く捉え、持続的管理や環境問題のスペシャリスト養成を\n目指しています。\n\n令和4年度8月期入試（出願期間 7/1～7/21…",
-            "date_modified": "2022-06-13T03:00:00.000Z"
-        },
-        {
-            "id": "0259d95e966cd7b3126cee5b0d483351",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3100",
-            "title": "7/12(火)令和４年度高圧ガスボンベ利用者安全講習会のオンライン開催について（通知）",
-            "summary": "日頃より，安全衛生・健康管理の取組にご協力いただきありがとうございます。\nこの度，下記のとおり高圧ガスボンベ利用者安全講習会をオンラインで開催することになりました。\nこの講習会では，高圧ガスに関する基礎知識から安全な取扱方法，事故事例等について，専門家より\n最新の情報を交えながらお話しいただきます。\n\n　　　　　　　　　　　　　　　　　記\n\n１．日　　時　　令和４年７月１２日（火）　１５時１５分～…",
-            "date_modified": "2022-06-13T03:00:00.000Z"
         }
     ]
 }
