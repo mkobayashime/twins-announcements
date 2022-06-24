@@ -1,7 +1,7 @@
 import { parse } from "date-fns";
 import * as O from "fp-ts/Option";
 import md5 from "md5";
-import puppeteer, { ElementHandle } from "puppeteer";
+import puppeteer from "puppeteer";
 
 import { getLatestAnnouncementTitle } from "./getLatestAnnouncementTitle";
 import type { Announcement } from "./types";
@@ -9,15 +9,19 @@ import type { Announcement } from "./types";
 const getAnnouncementBody = async (
   page: puppeteer.Page,
 ): Promise<Pick<Announcement, "text" | "url">> => {
-  const targetIFrame: ElementHandle<HTMLIFrameElement> | null = await page.$(
-    "iframe#main-frame-if",
-  );
+  const targetIFrame = await page.$("iframe#main-frame-if");
   if (!targetIFrame) {
     throw new Error("Target iframe not found");
   }
 
   const { text, url }: Pick<Announcement, "text" | "url"> =
-    await targetIFrame.evaluate(async (iframe: HTMLIFrameElement) => {
+    await targetIFrame.evaluate(async (iframe) => {
+      if (!(iframe instanceof HTMLIFrameElement)) {
+        throw new Error(
+          "Target iframe is not an instance of HTMLIFrameElement",
+        );
+      }
+
       const iFrameSrc = iframe.getAttribute("src");
       if (!iFrameSrc) throw new Error("iFrameSrc not found");
 
@@ -63,7 +67,7 @@ export const getAnnouncements = async ({
     if (!spinner) throw Error("Spinner element not found.");
 
     for (let timeSpent = 0; timeSpent < 30000; timeSpent += 200) {
-      const displayValue = await page.evaluate((spinner: HTMLElement) => {
+      const displayValue = await page.evaluate((spinner) => {
         const { display } = window.getComputedStyle(spinner);
         return display;
       }, spinner);
@@ -99,7 +103,7 @@ export const getAnnouncements = async ({
 
   try {
     for (const [index, announcementItem] of recentAnnouncementItems.entries()) {
-      const { title, date } = await page.evaluate((trElement: HTMLElement) => {
+      const { title, date } = await page.evaluate((trElement) => {
         const title = trElement.querySelector("a")?.innerText;
         if (!title) throw new Error("Title not found");
 
