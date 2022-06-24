@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/mkobayashime/twins-announcements</id>
     <title>在学生へのお知らせ | 筑波大学</title>
-    <updated>2022-06-24T03:01:07.545Z</updated>
+    <updated>2022-06-24T05:13:57.991Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://github.com/mkobayashime/twins-announcements"/>
     <subtitle>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</subtitle>
+    <entry>
+        <title type="html"><![CDATA[【博士後期向け】7月キャリアイベントのお知らせ【〆切迫る】]]></title>
+        <id>6b5f2c9745ab82aef338bff8b349852d</id>
+        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3135"/>
+        <updated>2022-06-24T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[こんにちは、DACセンター/就職課です。
+博士後期課程学生向けのキャリアイベントを開催します。
+日本語・英語を別日で開催しますので、留学生の方は英語開催の方へ参加してください。
+Japanese and English sessions will be held on separate days, so international students are encouraged to attend…]]></summary>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【CiCフランス留学説明会】7/7（木）18:15～「フランス人との異文化コミュニケーション」（オンライン）]]></title>
         <id>ed1aeaa3620265eff25fb51a5462533b</id>
@@ -253,15 +263,5 @@ GTIE研究者・大学院生向けアント…]]></summary>
         <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3113"/>
         <updated>2022-06-16T03:00:00.000Z</updated>
         <summary type="html"><![CDATA[つくば次世代アントレプレナー育成プログラム〜ビジネスデベロップ講座〜は、筑波大学の次世代アントレプレナー育成事業（EDGE-NEXT；2017年度～2021年度文科省補助事業）により開発されたハンズオン支援型の実践的教育プログラムを基盤とし、教育・研究機関等に所属する研究者等を対象として開設する筑波大学エクステンションプログラムです。アントレプレナーの輩出と研究・技術シーズに基づくスタートアップ創…]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【7/9 13:00】第2回 en nichi 主催セミナー「映画「イン・ザ・ハイツ」から　移民について考える」]]></title>
-        <id>1e0fb561fb073bc81c357381d64d44a6</id>
-        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3112"/>
-        <updated>2022-06-16T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[皆さんは、「移民」と聞いて何をイメージしますか？
-皆さん自身は、国境、言語、文化を越えて、移動した経験はありますか？
-
-今回のセミナーでは、映画「イン・ザ・ハイツ」を題材とし、皆さんで「移民」について考える会となっています。映画「イン・ザ・ハイツ」の舞台となるニューヨークの“ワシントン・ハイツ”は、実在する移民の街。その街で育ったキャラクターたちが、自分達の未来に向かって逆境に立ち向かい、夢へと踏…]]></summary>
     </entry>
 </feed>
