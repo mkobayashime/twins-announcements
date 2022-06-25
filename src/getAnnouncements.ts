@@ -1,7 +1,7 @@
 import { parse } from "date-fns";
 import * as O from "fp-ts/Option";
 import md5 from "md5";
-import puppeteer from "puppeteer";
+import puppeteer, { ElementHandle } from "puppeteer";
 
 import { getLatestAnnouncementTitle } from "./getLatestAnnouncementTitle";
 import type { Announcement } from "./types";
@@ -9,19 +9,15 @@ import type { Announcement } from "./types";
 const getAnnouncementBody = async (
   page: puppeteer.Page,
 ): Promise<Pick<Announcement, "text" | "url">> => {
-  const targetIFrame = await page.$("iframe#main-frame-if");
+  const targetIFrame: ElementHandle<HTMLIFrameElement> | null = await page.$(
+    "iframe#main-frame-if",
+  );
   if (!targetIFrame) {
     throw new Error("Target iframe not found");
   }
 
   const { text, url }: Pick<Announcement, "text" | "url"> =
     await targetIFrame.evaluate(async (iframe) => {
-      if (!(iframe instanceof HTMLIFrameElement)) {
-        throw new Error(
-          "Target iframe is not an instance of HTMLIFrameElement",
-        );
-      }
-
       const iFrameSrc = iframe.getAttribute("src");
       if (!iFrameSrc) throw new Error("iFrameSrc not found");
 
