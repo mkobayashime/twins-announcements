@@ -4,10 +4,24 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Mon, 27 Jun 2022 08:08:28 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 27 Jun 2022 09:05:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
+        <item>
+            <title><![CDATA[【事前申込制】7月実施　実践対策講座 (ES・GD・集団面接）]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3142</link>
+            <guid>5107b36bd8cb5322534c521bd6e34dcc</guid>
+            <pubDate>Mon, 27 Jun 2022 03:00:00 GMT</pubDate>
+            <description><![CDATA[2024年4月就職を希望している学生向けのインターンシップ選考や本選考に向けた実践対策講座です。
+エントリーシート(ES)、グループディスカッション(GD)、集団面接を体験します。
+グループに分かれて学生どうし、学び合います。
+他の学生からの視点を得ることによって自分の課題に気づき、本番に備えましょう。
+講師からの全体講評の時間もあります。
+
+※受講にあたっては事前申込が必要です。
+※事前課題や資…]]></description>
+        </item>
         <item>
             <title><![CDATA[【再掲】春の図書館講習会 / Library Workshops]]></title>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3140</link>
@@ -258,18 +272,6 @@ For: University of Tsukuba s…]]></description>
 
 【セミナー名】
 GTIE研究者・大学院生向けアント…]]></description>
-        </item>
-        <item>
-            <title><![CDATA[【単位認定】日本語サポーター募集！（TWINS 締切 7/10）]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3115</link>
-            <guid>ecb2e4f9f6aca7e0ee37c4e06a9fa6e4</guid>
-            <pubDate>Thu, 16 Jun 2022 03:00:00 GMT</pubDate>
-            <description><![CDATA[茨城県の小中学校と連携して、外国にルーツのある子どもたちの日本語学習や教科学習のサポートをする「日本語サポーター」を募集します。 授業の空き時間を利用して、好きな時に好きな頻度で活動することができ、各自の活動時間に応じて単位認定されます。
-
-日本語サポーターになるためには、下記の授業を履修してください。
-学類や専門は問いません。基礎的な知識やスキルを身につけるところからスタートします。
-
-■ 集中…]]></description>
         </item>
     </channel>
 </rss>

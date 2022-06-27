@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "5107b36bd8cb5322534c521bd6e34dcc",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3142",
+            "title": "【事前申込制】7月実施　実践対策講座 (ES・GD・集団面接）",
+            "summary": "2024年4月就職を希望している学生向けのインターンシップ選考や本選考に向けた実践対策講座です。\nエントリーシート(ES)、グループディスカッション(GD)、集団面接を体験します。\nグループに分かれて学生どうし、学び合います。\n他の学生からの視点を得ることによって自分の課題に気づき、本番に備えましょう。\n講師からの全体講評の時間もあります。\n\n※受講にあたっては事前申込が必要です。\n※事前課題や資…",
+            "date_modified": "2022-06-27T03:00:00.000Z"
+        },
+        {
             "id": "bd4fe7a928bae274bf176eeefdd90a0c",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3140",
             "title": "【再掲】春の図書館講習会 / Library Workshops",
@@ -135,13 +142,6 @@
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3116",
             "title": "GTIE研究者・大学院生向けアントレプレナーシップ・セミナーのお知らせ",
             "summary": "Greater Tokyo Innovation Ecosystem（GTIE：ジータイ）は、首都圏を中心とした大学からなる『世界を変える大学発スタートアップを育てる』プラットフォームです。筑波大学は共同機関としてGTIEに参画しています。\n\nこのたびGTIEで研究者・大学院生向けに以下のセミナーが開催されます。ご関心のある方はご参加ください。\n\n【セミナー名】\nGTIE研究者・大学院生向けアント…",
-            "date_modified": "2022-06-16T03:00:00.000Z"
-        },
-        {
-            "id": "ecb2e4f9f6aca7e0ee37c4e06a9fa6e4",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3115",
-            "title": "【単位認定】日本語サポーター募集！（TWINS 締切 7/10）",
-            "summary": "茨城県の小中学校と連携して、外国にルーツのある子どもたちの日本語学習や教科学習のサポートをする「日本語サポーター」を募集します。 授業の空き時間を利用して、好きな時に好きな頻度で活動することができ、各自の活動時間に応じて単位認定されます。\n\n日本語サポーターになるためには、下記の授業を履修してください。\n学類や専門は問いません。基礎的な知識やスキルを身につけるところからスタートします。\n\n■ 集中…",
             "date_modified": "2022-06-16T03:00:00.000Z"
         }
     ]
