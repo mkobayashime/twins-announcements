@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "c3c25ac7af14217d496c0bf32405c778",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3139",
+            "title": "【7/11開催】ASIP/TG+公開セミナー「グローバルキャリアへのステップ～留学と就活の両立・仕事の探し方～」",
+            "summary": "第47回ASIP/TG⁺公開セミナー\n「グローバルキャリアへのステップ～留学と就活の両立・仕事の探し方～」\n\n日時：2022年7月11日（月）　15：15～16：45\n形式：オンラインZoom\n講師：林　香織氏（株式会社マイナビ　グローバルキャリアサポーター\n\n当日のコンテンツ（予定）\n・最新のグローバル企業の就職市場\n・グローバルなキャリア・仕事の探し方\n・留学中に意識するべきこと\n・留学と就活…",
+            "date_modified": "2022-06-27T03:00:00.000Z"
+        },
+        {
             "id": "302981f0bd270252d1445f1f742f44bb",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3138",
             "title": "筑波大学学生人材バンクから学生登録のお知らせ",
@@ -135,13 +142,6 @@
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3114",
             "title": "【再掲】【6/28（火）14：00～化学防護手袋の適切な取り扱い方法等の講習会をオンライン開催します。",
             "summary": "各位\n\nこの度，下記のとおり化学防護手袋の適切な取り扱い方法についての講習会を開催する\nことになりました。この講習は衛生管理者向けですが，本学関係者であればどなたでも\n聴講できます。是非ご参加くださるようお願いいたします。\n　　　　　　　　　　　　　\n　　　　　　　　　　　　　記\n\n１．日　　時：令和４年６月２８日（火）　１４：００～１５：３０\n２．実施方法：Microsoft Teamsを用いた…",
-            "date_modified": "2022-06-16T03:00:00.000Z"
-        },
-        {
-            "id": "d8fdff2d736aa27d71966190c46e1790",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3113",
-            "title": "（学内参加者募集）つくば次世代アントレプレナー育成プログラム～ビジネスデベロップ講座～",
-            "summary": "つくば次世代アントレプレナー育成プログラム〜ビジネスデベロップ講座〜は、筑波大学の次世代アントレプレナー育成事業（EDGE-NEXT；2017年度～2021年度文科省補助事業）により開発されたハンズオン支援型の実践的教育プログラムを基盤とし、教育・研究機関等に所属する研究者等を対象として開設する筑波大学エクステンションプログラムです。アントレプレナーの輩出と研究・技術シーズに基づくスタートアップ創…",
             "date_modified": "2022-06-16T03:00:00.000Z"
         }
     ]
