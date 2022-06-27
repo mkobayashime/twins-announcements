@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "bd4fe7a928bae274bf176eeefdd90a0c",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3140",
+            "title": "【再掲】春の図書館講習会 / Library Workshops",
+            "summary": "附属図書館では、4月から春の図書館講習会をオンラインで開催しています。\nリアルタイム配信はすべて終了しましたが、manabaで講習会録画や資料などを提供しています。\nその他に、オンデマンドで受講できる講習会動画もあります。\nmanabaでコース登録をして、ぜひご視聴ください。\n\n詳細は、下記webページをご覧ください。\nhttps://www.tulips.tsukuba.ac.jp/lib/su…",
+            "date_modified": "2022-06-27T03:00:00.000Z"
+        },
+        {
             "id": "c3c25ac7af14217d496c0bf32405c778",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3139",
             "title": "【7/11開催】ASIP/TG+公開セミナー「グローバルキャリアへのステップ～留学と就活の両立・仕事の探し方～」",
@@ -135,13 +142,6 @@
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3115",
             "title": "【単位認定】日本語サポーター募集！（TWINS 締切 7/10）",
             "summary": "茨城県の小中学校と連携して、外国にルーツのある子どもたちの日本語学習や教科学習のサポートをする「日本語サポーター」を募集します。 授業の空き時間を利用して、好きな時に好きな頻度で活動することができ、各自の活動時間に応じて単位認定されます。\n\n日本語サポーターになるためには、下記の授業を履修してください。\n学類や専門は問いません。基礎的な知識やスキルを身につけるところからスタートします。\n\n■ 集中…",
-            "date_modified": "2022-06-16T03:00:00.000Z"
-        },
-        {
-            "id": "1a31041381d720c93a06c1decd1b7888",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3114",
-            "title": "【再掲】【6/28（火）14：00～化学防護手袋の適切な取り扱い方法等の講習会をオンライン開催します。",
-            "summary": "各位\n\nこの度，下記のとおり化学防護手袋の適切な取り扱い方法についての講習会を開催する\nことになりました。この講習は衛生管理者向けですが，本学関係者であればどなたでも\n聴講できます。是非ご参加くださるようお願いいたします。\n　　　　　　　　　　　　　\n　　　　　　　　　　　　　記\n\n１．日　　時：令和４年６月２８日（火）　１４：００～１５：３０\n２．実施方法：Microsoft Teamsを用いた…",
             "date_modified": "2022-06-16T03:00:00.000Z"
         }
     ]
