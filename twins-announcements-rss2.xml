@@ -4,7 +4,7 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Tue, 28 Jun 2022 09:09:41 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 Jun 2022 15:11:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
@@ -207,22 +207,6 @@ Japanese and English sessions will be held on separate days, so international st
 開催…]]></description>
         </item>
         <item>
-            <title><![CDATA[【再掲　6/28（火）14：00～】化学防護手袋の適切な取り扱い方法等の講習会をオンライン開催します。 2022/6/01]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3130</link>
-            <guid>98f653d5f603193ab07f82fa8476a4dd</guid>
-            <pubDate>Thu, 23 Jun 2022 03:00:00 GMT</pubDate>
-            <description><![CDATA[各位
-
-この度，下記のとおり化学防護手袋の適切な取り扱い方法についての講習会を開催する
-ことになりました。この講習は衛生管理者向けですが，本学関係者であればどなたでも
-聴講できます。是非ご参加くださるようお願いいたします。
-　　　　　　　　　　　　　
-　　　　　　　　　　　　　記
-
-１．日　　時：令和４年６月２８日（火）　１４：００～１５：３０
-２．実施方法：Microsoft Teamsを用いた…]]></description>
-        </item>
-        <item>
             <title><![CDATA[【日仏科学協力】サイエンスフォトコンテスト開催のご案内]]></title>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3129</link>
             <guid>06f1f8859fc809330235164b91e3e595</guid>
@@ -269,6 +253,18 @@ We would like to inform you of the following Implementation guidelines of classe
             <description><![CDATA[本店舗（CYCLE CHIC つくば店）は、本学と連携して自転車に関する様々な取り組みを行っていく予定です。
 まずは、「校章」や「University of Tsukuba」、「IMAGINE THE FUTURE.」が入ったかっこよく、おしゃれな自転車が販売されます。
 この自転車の売り上げの一部は大学に寄附され、さらに筑波大学カード（三井住友カードと提携しているクレジットカード）での決済で特典を…]]></description>
+        </item>
+        <item>
+            <title><![CDATA[【お知らせ】認知症サポーターについて（茨城県 長寿福祉課）]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3123</link>
+            <guid>92153fe68c26dbb0e97285d50490f563</guid>
+            <pubDate>Fri, 17 Jun 2022 03:00:00 GMT</pubDate>
+            <description><![CDATA[茨城県長寿福祉課より、認知症サポーター養成講座についてのお知らせです。
+
+――――――――――――――――――――――――――――――――――――――――
+[認知症について学ぶ！ ～ 認知症サポーター ～ ]
+認知症サポーターは、認知症について正しく理解し、認知症の人や家族を温かく見守り、支援する応援者です。
+認知症になっても安心して暮らせるまちになることを 目指して「認知症サポーター」を全国で養…]]></description>
         </item>
     </channel>
 </rss>
