@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "d43e0ed75a5836d43d2951e6c1f20723",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3149",
+            "title": "【お知らせ】筑波大学公式オリジナルグッズECサイト割引クーポンコード（7月）",
+            "summary": "筑波大学公式オリジナルグッズ販売サイト「TSUKUBA-SHOP」の7月の割引クーポンコードをお知らせいたします！\n\nTシャツやネックストラップ、マグカップなど様々な商品をお取り扱いしております。\n\nどうぞご覧いただき、皆様の「日常生活」、「思い出」、「プレゼント」などにご活用いただけますと幸いです。\n\n\nECサイトは以下のリンクから\n\nクーポンコード有効期間：2022年7月1日（金）～2022年…",
+            "date_modified": "2022-06-30T03:00:00.000Z"
+        },
+        {
             "id": "55aa1b1cf02e5781d2a082faf01c191c",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3148",
             "title": "【事前申込制】第7回オンラインOB・OGキャリアカフェ（7/13(水)13:00締切）",
@@ -15,7 +22,7 @@
             "id": "103d65b05a8494723768753db308cfa4",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3147",
             "title": "【キャンパス交通システム】Biviつくば1階バスチケットうりばでの期間限定販売について（7/4～7/10）",
-            "summary": "筑波大生が、筑波大の卒業生（OB・OG）に\nオンラインで質問できるイベントを開催します！\n\n大学の先輩から就職活動やキャリア、\n学生生活などのアドバイスについて本音で聞ける貴重な機会です。\n\n学年問わず、学群１年生から後期課程の大学院生までどなたでも参加可能です。\nこの機会をぜひご活用ください！！\n\n【日時】\n７月１５日（金）　①17：00～18：30（１コマ目）、②18：30～20：00（２コマ…",
+            "summary": "学生のみなさま、\n\nキャンパス交通システムバス定期券が、期間限定、Biviつくばで買えちゃいます！！\n\n平日の日中、授業が詰まっていて書籍部の営業時間内に買いに行けない…\n自分が普段使用する講義室等の近くに書籍部がない…\n\nといった方は、ぜひこの機会にこちらでご購入ください！\n\n■期間限定販売の詳細はこちら\n　販売期間：7月4日（月）～7月10日（日）\n　販売場所：Biviつくば1階 バスチケット…",
             "date_modified": "2022-06-28T03:00:00.000Z"
         },
         {
@@ -136,13 +143,6 @@
             "title": "【お知らせ】6/21(火)筑波大学公式オリジナル自転車販売店舗オープンのご案内",
             "summary": "本店舗（CYCLE CHIC つくば店）は、本学と連携して自転車に関する様々な取り組みを行っていく予定です。\nまずは、「校章」や「University of Tsukuba」、「IMAGINE THE FUTURE.」が入ったかっこよく、おしゃれな自転車が販売されます。\nこの自転車の売り上げの一部は大学に寄附され、さらに筑波大学カード（三井住友カードと提携しているクレジットカード）での決済で特典を…",
             "date_modified": "2022-06-20T03:00:00.000Z"
-        },
-        {
-            "id": "92153fe68c26dbb0e97285d50490f563",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3123",
-            "title": "【お知らせ】認知症サポーターについて（茨城県 長寿福祉課）",
-            "summary": "茨城県長寿福祉課より、認知症サポーター養成講座についてのお知らせです。\n\n――――――――――――――――――――――――――――――――――――――――\n[認知症について学ぶ！ ～ 認知症サポーター ～ ]\n認知症サポーターは、認知症について正しく理解し、認知症の人や家族を温かく見守り、支援する応援者です。\n認知症になっても安心して暮らせるまちになることを 目指して「認知症サポーター」を全国で養…",
-            "date_modified": "2022-06-17T03:00:00.000Z"
         }
     ]
 }
