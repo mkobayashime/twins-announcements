@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "29571cfe6c0df990b1dc11212ad032e0",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3137",
+            "title": "【博士後期向け】8月キャリアイベントのお知らせ",
+            "summary": "こんにちは、DACセンター/就職課です。\n\n弊課ではほぼ毎月、博士後期課程学生向けのキャリアイベントを開催しています。\n日本語・英語を別日で開催しますので、留学生の方は英語開催の方へ参加してください。\nJapanese and English sessions will be held on separate days, so international students are encourag…",
+            "date_modified": "2022-07-01T03:00:00.000Z"
+        },
+        {
             "id": "953faf7039912c117b03b6842ed8b893",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3154",
             "title": "課外活動の今後の活動形態について(2022.7.1) / (Extracurricular Activities) Changes in the Mode of Operations 2022/7/1",
@@ -136,13 +143,6 @@
             "title": "スーツ等の割引サービスについて（6月24日更新）",
             "summary": "本学は紳士服の大手4社と契約しています。\nそのため、在学生とそのご家族の皆様には、全国のAOKI、コナカ、はるやま、洋服の青山で、通常の割引価格から更に割引いた価格でスーツ等をご購入いただけます。\n大変お得ですので、是非ご利用ください。\n※ご購入いただいた金額の一部が大学に寄附されます。",
             "date_modified": "2022-06-24T03:00:00.000Z"
-        },
-        {
-            "id": "d669dbbd666346c2ce70cf9226b93f5a",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3132",
-            "title": "【派遣者募集】ブランデンブルク工科大学コトブス＝ゼンフテンベルク校（BTU）への 派遣学生の募集について（令和４年10月派遣開始分）",
-            "summary": "2022年10月に派遣を開始するドイツ・ブランデンブルク工科大学コトブス＝ゼンフテンベルク校（BTU）への交換留学生を募集します。\n\n下記URLのウェブサイト及び募集通知をよく確認の上、応募してください。\n\n留学期間：2022年10月～2023年9月\n対象：筑波大学正規生（大学院生含む）\n募集人数：2名程度\n応募方法：応募はmanabaで行います。詳細は募集ページを確認してください。\n応募締切：2…",
-            "date_modified": "2022-06-23T03:00:00.000Z"
         }
     ]
 }
