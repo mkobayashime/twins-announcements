@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "953faf7039912c117b03b6842ed8b893",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3154",
+            "title": "課外活動の今後の活動形態について(2022.7.1) / (Extracurricular Activities) Changes in the Mode of Operations 2022/7/1",
+            "summary": "日頃より課外活動における感染拡大防止対策にご協力いただきありがとうございます。\n本学の課外活動等における当面の対応について、7月1日（金）から、以下のとおりの取扱いとしますのでお知らせします。\n\nDear English readers,\n\nWe appreciate your continuous cooperation with our safety measures.\nToday, we i…",
+            "date_modified": "2022-06-30T03:00:00.000Z"
+        },
+        {
             "id": "bf0cb452d2e79b9d23ef3ed2d7045cd3",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3153",
             "title": "【募集】筑波大学ホームゲーム「TSUKUBA LIVE!」の運営スタッフ募集",
@@ -135,13 +142,6 @@
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3132",
             "title": "【派遣者募集】ブランデンブルク工科大学コトブス＝ゼンフテンベルク校（BTU）への 派遣学生の募集について（令和４年10月派遣開始分）",
             "summary": "2022年10月に派遣を開始するドイツ・ブランデンブルク工科大学コトブス＝ゼンフテンベルク校（BTU）への交換留学生を募集します。\n\n下記URLのウェブサイト及び募集通知をよく確認の上、応募してください。\n\n留学期間：2022年10月～2023年9月\n対象：筑波大学正規生（大学院生含む）\n募集人数：2名程度\n応募方法：応募はmanabaで行います。詳細は募集ページを確認してください。\n応募締切：2…",
-            "date_modified": "2022-06-23T03:00:00.000Z"
-        },
-        {
-            "id": "702295b42d53d51b057f3533077952de",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3131",
-            "title": "【オンデマンド開催】令和４年度学生のための実験廃棄物管理研修会及び動物実験系廃棄物取扱い研修会",
-            "summary": "下記のとおり研修会をオンデマンドで開催いたしますので，参加登録のうえ視聴願います。\n英語字幕版も後日公開予定です。\n\n　　　　　　　記\n\n目　的：\n１・実験に携わる学群・大学院生向けに，化学物質の危険性や有害性を伝え，事件事故や健康障害を\n　　引き起こすリスクを減らすこと\n２・動物実験系廃棄物の排出者向けに，具体的な解説を交えて処理依頼上の注意事項を伝え，適切な\n　　排出法の周知をすること\n\n開催…",
             "date_modified": "2022-06-23T03:00:00.000Z"
         }
     ]
