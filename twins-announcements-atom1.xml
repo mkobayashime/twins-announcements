@@ -2,10 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/mkobayashime/twins-announcements</id>
     <title>在学生へのお知らせ | 筑波大学</title>
-    <updated>2022-07-01T04:45:16.230Z</updated>
+    <updated>2022-07-01T07:03:48.809Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://github.com/mkobayashime/twins-announcements"/>
     <subtitle>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</subtitle>
+    <entry>
+        <title type="html"><![CDATA[日本語教師　JICA派遣海外協力隊　MJIIT（マレーシア）募集]]></title>
+        <id>da0733aae44bc393c72bd246ce8187b0</id>
+        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3156"/>
+        <updated>2022-07-01T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[みなさん、
+マレーシアで日本語教育を行うことに興味ありませんか。
+JICAからの派遣プログラムの説明会をいたします。
+
+興味・関心のある方は、7月20日までに
+人文社会系　小野正樹宛　ご連絡ください。
+
+今まで、日日学類から３人が派遣されました。
+
+----------------------------------
+
+派遣先：Malaysia-Japan International Instit…]]></summary>
+    </entry>
     <entry>
         <title type="html"><![CDATA[7月の国際交流イベント情報・留学情報]]></title>
         <id>0d511169e36645dd4628e29e947028b9</id>
@@ -261,17 +279,5 @@ https://www.tulips.tsukuba.ac.jp/lib/su…]]></summary>
 博士後期課程学生向けのキャリアイベントを開催します。
 日本語・英語を別日で開催しますので、留学生の方は英語開催の方へ参加してください。
 Japanese and English sessions will be held on separate days, so international students are encouraged to attend…]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【CiCフランス留学説明会】7/7（木）18:15～「フランス人との異文化コミュニケーション」（オンライン）]]></title>
-        <id>ed1aeaa3620265eff25fb51a5462533b</id>
-        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3134"/>
-        <updated>2022-06-24T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[フランスへの留学説明会を開催します！
-フランス（特にボルドー大学）への留学を検討している方は、是非参加してください！
-
-開催日：2022年7月7日（木）18:15～19:45
-対象：筑波大学在学生で交換留学を希望する者
-開催方法：オンライン（Microsoft Teams)]]></summary>
     </entry>
 </feed>

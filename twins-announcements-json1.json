@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "da0733aae44bc393c72bd246ce8187b0",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3156",
+            "title": "日本語教師　JICA派遣海外協力隊　MJIIT（マレーシア）募集",
+            "summary": "みなさん、\nマレーシアで日本語教育を行うことに興味ありませんか。\nJICAからの派遣プログラムの説明会をいたします。\n\n興味・関心のある方は、7月20日までに\n人文社会系　小野正樹宛　ご連絡ください。\n\n今まで、日日学類から３人が派遣されました。\n\n----------------------------------\n\n派遣先：Malaysia-Japan International Instit…",
+            "date_modified": "2022-07-01T03:00:00.000Z"
+        },
+        {
             "id": "0d511169e36645dd4628e29e947028b9",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3155",
             "title": "7月の国際交流イベント情報・留学情報",
@@ -135,13 +142,6 @@
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3135",
             "title": "【博士後期向け】7月キャリアイベントのお知らせ【〆切迫る】",
             "summary": "こんにちは、DACセンター/就職課です。\n博士後期課程学生向けのキャリアイベントを開催します。\n日本語・英語を別日で開催しますので、留学生の方は英語開催の方へ参加してください。\nJapanese and English sessions will be held on separate days, so international students are encouraged to attend…",
-            "date_modified": "2022-06-24T03:00:00.000Z"
-        },
-        {
-            "id": "ed1aeaa3620265eff25fb51a5462533b",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3134",
-            "title": "【CiCフランス留学説明会】7/7（木）18:15～「フランス人との異文化コミュニケーション」（オンライン）",
-            "summary": "フランスへの留学説明会を開催します！\nフランス（特にボルドー大学）への留学を検討している方は、是非参加してください！\n\n開催日：2022年7月7日（木）18:15～19:45\n対象：筑波大学在学生で交換留学を希望する者\n開催方法：オンライン（Microsoft Teams)",
             "date_modified": "2022-06-24T03:00:00.000Z"
         }
     ]
