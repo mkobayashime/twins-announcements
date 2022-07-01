@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "0d511169e36645dd4628e29e947028b9",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3155",
+            "title": "7月の国際交流イベント情報・留学情報",
+            "summary": "スチューデントサポートセンター国際交流支援室ウェブサイトでは、国際交流イベントの情報や留学情報をお知らせしています！\n\n＜海外留学情報＞\n- CiCフランス留学説明会（オンライン）7月7日（木）18：15～\n- 留学相談（オンライン）※8.9月はお休みになります。7月中に相談しよう！\n\n＜オンライン国際交流＞\nいつからでも、単発でも参加OKです!!\n- Tsuku-Chat（英語グループチャット）…",
+            "date_modified": "2022-07-01T03:00:00.000Z"
+        },
+        {
             "id": "29571cfe6c0df990b1dc11212ad032e0",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3137",
             "title": "【博士後期向け】8月キャリアイベントのお知らせ",
@@ -135,13 +142,6 @@
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3134",
             "title": "【CiCフランス留学説明会】7/7（木）18:15～「フランス人との異文化コミュニケーション」（オンライン）",
             "summary": "フランスへの留学説明会を開催します！\nフランス（特にボルドー大学）への留学を検討している方は、是非参加してください！\n\n開催日：2022年7月7日（木）18:15～19:45\n対象：筑波大学在学生で交換留学を希望する者\n開催方法：オンライン（Microsoft Teams)",
-            "date_modified": "2022-06-24T03:00:00.000Z"
-        },
-        {
-            "id": "1aa911f56bd6aee62344442e7722e6d2",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3133",
-            "title": "スーツ等の割引サービスについて（6月24日更新）",
-            "summary": "本学は紳士服の大手4社と契約しています。\nそのため、在学生とそのご家族の皆様には、全国のAOKI、コナカ、はるやま、洋服の青山で、通常の割引価格から更に割引いた価格でスーツ等をご購入いただけます。\n大変お得ですので、是非ご利用ください。\n※ご購入いただいた金額の一部が大学に寄附されます。",
             "date_modified": "2022-06-24T03:00:00.000Z"
         }
     ]
