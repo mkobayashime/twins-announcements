@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "8415325e0d2da4b88697678c58226cb8",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3157",
+            "title": "【manaba掲載のお知らせ】令和4年度夏季休業前の海外危機管理セミナーについて",
+            "summary": "6/23(木)に開催した標記セミナーについて、セミナーの動画と関係資料をmanabaに掲載しましたので、お知らせいたします。\nコース登録方法、動画視聴方法等につきましては、添付ファイルをご参照ください。\n\n\n＜以下、参考：セミナーの概要情報＞\n海外危機管理に関するスペシャリストをお招きし、海外渡航※前の準備事項と、現地での安全対策について学びます。\n\n１．日時：　令和4年6月23日（木）18：15…",
+            "date_modified": "2022-07-01T03:00:00.000Z"
+        },
+        {
             "id": "da0733aae44bc393c72bd246ce8187b0",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3156",
             "title": "日本語教師　JICA派遣海外協力隊　MJIIT（マレーシア）募集",
@@ -136,13 +143,6 @@
             "title": "筑波大学学生人材バンクから学生登録のお知らせ",
             "summary": "筑波大学学生人材バンクは、学生の自主性および自立心を育成することを目的として、経済的支援、キャリア支援を兼ねて整備された制度であり、「委託業務」と「短期雇用」で構成されています。HPでメールアドレスを登録すると、最新の募集情報をメールで受け取ることができます。\n“起業に興味がある方や学内でアルバイトをしてみたいという方は、ぜひ筑波大学学生人材バンクに登録しましょう。”\n\n【現在募集中の短期雇用】\n…",
             "date_modified": "2022-06-27T03:00:00.000Z"
-        },
-        {
-            "id": "6b5f2c9745ab82aef338bff8b349852d",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3135",
-            "title": "【博士後期向け】7月キャリアイベントのお知らせ【〆切迫る】",
-            "summary": "こんにちは、DACセンター/就職課です。\n博士後期課程学生向けのキャリアイベントを開催します。\n日本語・英語を別日で開催しますので、留学生の方は英語開催の方へ参加してください。\nJapanese and English sessions will be held on separate days, so international students are encouraged to attend…",
-            "date_modified": "2022-06-24T03:00:00.000Z"
         }
     ]
 }

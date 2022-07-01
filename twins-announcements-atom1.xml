@@ -2,10 +2,24 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/mkobayashime/twins-announcements</id>
     <title>在学生へのお知らせ | 筑波大学</title>
-    <updated>2022-07-01T07:03:48.809Z</updated>
+    <updated>2022-07-01T09:04:22.403Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://github.com/mkobayashime/twins-announcements"/>
     <subtitle>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</subtitle>
+    <entry>
+        <title type="html"><![CDATA[【manaba掲載のお知らせ】令和4年度夏季休業前の海外危機管理セミナーについて]]></title>
+        <id>8415325e0d2da4b88697678c58226cb8</id>
+        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3157"/>
+        <updated>2022-07-01T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[6/23(木)に開催した標記セミナーについて、セミナーの動画と関係資料をmanabaに掲載しましたので、お知らせいたします。
+コース登録方法、動画視聴方法等につきましては、添付ファイルをご参照ください。
+
+
+＜以下、参考：セミナーの概要情報＞
+海外危機管理に関するスペシャリストをお招きし、海外渡航※前の準備事項と、現地での安全対策について学びます。
+
+１．日時：　令和4年6月23日（木）18：15…]]></summary>
+    </entry>
     <entry>
         <title type="html"><![CDATA[日本語教師　JICA派遣海外協力隊　MJIIT（マレーシア）募集]]></title>
         <id>da0733aae44bc393c72bd246ce8187b0</id>
@@ -269,15 +283,5 @@ https://www.tulips.tsukuba.ac.jp/lib/su…]]></summary>
 
 【現在募集中の短期雇用】
 …]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【博士後期向け】7月キャリアイベントのお知らせ【〆切迫る】]]></title>
-        <id>6b5f2c9745ab82aef338bff8b349852d</id>
-        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3135"/>
-        <updated>2022-06-24T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[こんにちは、DACセンター/就職課です。
-博士後期課程学生向けのキャリアイベントを開催します。
-日本語・英語を別日で開催しますので、留学生の方は英語開催の方へ参加してください。
-Japanese and English sessions will be held on separate days, so international students are encouraged to attend…]]></summary>
     </entry>
 </feed>
