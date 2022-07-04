@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "213bd53633f04f84f72881e81a19cb5b",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3162",
+            "title": "About Lowering of the Level of ”Travel Advice and Warning” on Infectious Diseases by MOFA",
+            "summary": "In accordance with the “Travel Guideline for Students, Faculty Members and University Employees in case of a Crisis Overseas”（Decision by the President）, the University of Tsukuba has a policy that st…",
+            "date_modified": "2022-07-04T03:00:00.000Z"
+        },
+        {
             "id": "4de25c310941f378a4993ebef8fa0d3a",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3161",
             "title": "起業家教育プログラム「筑波クリエイティブ・キャンプ・アドバンスト」のご案内",
@@ -135,13 +142,6 @@
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3144",
             "title": "【通知】2022年度　キャリア支援日本語コースの実施　【Notice】Japanese for Professional Purposes for the 2022 Academic year　",
             "summary": "グローバルコミュニケーション教育センター（CEGLOC）が開講するキャリア支援日本語コースの受講を希望する留学生等は、下記のリンクから受講手続を確認してください。\n\nIf you are interested in the Japanese for Professional Purposes offered by the Center for Education of Global Communi…",
-            "date_modified": "2022-06-28T03:00:00.000Z"
-        },
-        {
-            "id": "7f19b8d6bcb46b48a1088b695ab3ec6f",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3143",
-            "title": "2022年度「海外英語研修I」（3単位、オンライン）参加者募集（再掲載）",
-            "summary": "2022年7～9月に実施される、「海外英語研修I-a・I-b」（3単位、オンライン）の参加者を募集します。プログラムの詳細や申込方法については、manabaコース「xx20371　海外英語研修オンライン募集説明会」に登録のうえ、募集説明動画と申込に関する情報をコースニュースにて確認してください。\n\n●8030306「海外英語研修I-a」（3単位）\n プログラム：ブリティッシュ・コロンビア大学（U…",
             "date_modified": "2022-06-28T03:00:00.000Z"
         }
     ]
