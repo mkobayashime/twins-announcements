@@ -5,6 +5,20 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "51e19c004c865a3477434cc79ce844e2",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3159",
+            "title": "【再掲・7.11開催】ASIP/TG⁺公開セミナー 「グローバルキャリアへのステップ～留学と就活の両立・仕事の探し方～」",
+            "summary": "第47回ASIP/TG⁺公開セミナー\n「グローバルキャリアへのステップ～留学と就活の両立・仕事の探し方～」\n\n日時：2022年7月11日（月）　15：15～16：45\n形式：オンラインZoom\n講師：林　香織氏（株式会社マイナビ　グローバルキャリアサポーター\n\n当日のコンテンツ（予定）\n・最新のグローバル企業の就職市場\n・グローバルなキャリア・仕事の探し方\n・留学中に意識するべきこと\n・留学と就活…",
+            "date_modified": "2022-07-04T03:00:00.000Z"
+        },
+        {
+            "id": "7e44b0c29a292d66f64053e91946e642",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3158",
+            "title": "【注意喚起】学内外における公職選挙法に違反する行為について",
+            "summary": "７月１０日（日）に第２６回参議院議員通常選挙が行われます。\n学生の皆さんにおいては、学内外にて、公職選挙法に違反するような活動を行わないよう注意願います。\n違反した場合、懲役もしくは禁錮又は罰金刑の対象となることがあります。\n\nーーーーーーーーーーーーーーーーーーーーーーーーーーーーーー\n《違反行為（例）》\n・現金や品物で投票の依頼を受けること。\n・選挙運動に関し、飲食物の提供を受けること。\n・選…",
+            "date_modified": "2022-07-04T03:00:00.000Z"
+        },
+        {
             "id": "8415325e0d2da4b88697678c58226cb8",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3157",
             "title": "【manaba掲載のお知らせ】令和4年度夏季休業前の海外危機管理セミナーについて",
@@ -128,20 +142,6 @@
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3140",
             "title": "【再掲】春の図書館講習会 / Library Workshops",
             "summary": "附属図書館では、4月から春の図書館講習会をオンラインで開催しています。\nリアルタイム配信はすべて終了しましたが、manabaで講習会録画や資料などを提供しています。\nその他に、オンデマンドで受講できる講習会動画もあります。\nmanabaでコース登録をして、ぜひご視聴ください。\n\n詳細は、下記webページをご覧ください。\nhttps://www.tulips.tsukuba.ac.jp/lib/su…",
-            "date_modified": "2022-06-27T03:00:00.000Z"
-        },
-        {
-            "id": "c3c25ac7af14217d496c0bf32405c778",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3139",
-            "title": "【7/11開催】ASIP/TG+公開セミナー「グローバルキャリアへのステップ～留学と就活の両立・仕事の探し方～」",
-            "summary": "第47回ASIP/TG⁺公開セミナー\n「グローバルキャリアへのステップ～留学と就活の両立・仕事の探し方～」\n\n日時：2022年7月11日（月）　15：15～16：45\n形式：オンラインZoom\n講師：林　香織氏（株式会社マイナビ　グローバルキャリアサポーター\n\n当日のコンテンツ（予定）\n・最新のグローバル企業の就職市場\n・グローバルなキャリア・仕事の探し方\n・留学中に意識するべきこと\n・留学と就活…",
-            "date_modified": "2022-06-27T03:00:00.000Z"
-        },
-        {
-            "id": "302981f0bd270252d1445f1f742f44bb",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3138",
-            "title": "筑波大学学生人材バンクから学生登録のお知らせ",
-            "summary": "筑波大学学生人材バンクは、学生の自主性および自立心を育成することを目的として、経済的支援、キャリア支援を兼ねて整備された制度であり、「委託業務」と「短期雇用」で構成されています。HPでメールアドレスを登録すると、最新の募集情報をメールで受け取ることができます。\n“起業に興味がある方や学内でアルバイトをしてみたいという方は、ぜひ筑波大学学生人材バンクに登録しましょう。”\n\n【現在募集中の短期雇用】\n…",
             "date_modified": "2022-06-27T03:00:00.000Z"
         }
     ]
