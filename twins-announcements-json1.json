@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "64614d530503dbc620138adea2aff697",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3163",
+            "title": "新型コロナウイルス感染が疑われる場合の本人の行動フローの改定について／Revision of COVID-19 Flowchart",
+            "summary": "新型コロナウイルス感染が疑われる場合の本人の行動フローが新しくなりました。（第４版）\n詳細は以下URLから本学公式HPをご確認ください。\nRevision of  COVID-19 Flowchart.(4th edition)\nFor details, please refer to the University's official website at the URL below.\n",
+            "date_modified": "2022-07-04T03:00:00.000Z"
+        },
+        {
             "id": "213bd53633f04f84f72881e81a19cb5b",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3162",
             "title": "About Lowering of the Level of ”Travel Advice and Warning” on Infectious Diseases by MOFA",
@@ -135,13 +142,6 @@
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3145",
             "title": "キャンパス交通システム（バス定期券）のご案内",
             "summary": "学生のみなさん、\n\nキャンパス交通システムをご存じですか？\nこのシステムの利用証（バス定期券）を購入すれば、つくばセンターから大学構内を走る「筑波大学循環線」が、通常価格（注1）の80％OFFの19,000円で年度いっぱい乗り放題になります！\n\n授業が、順次「対面」または「対面とオンデマンドの併用」で実施されることが決まったこのタイミングで、ぜひ、このバス定期券の購入をご検討ください！\n今から購入…",
-            "date_modified": "2022-06-28T03:00:00.000Z"
-        },
-        {
-            "id": "9f911faa6a8c1a4447c1b173ce77ceff",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3144",
-            "title": "【通知】2022年度　キャリア支援日本語コースの実施　【Notice】Japanese for Professional Purposes for the 2022 Academic year　",
-            "summary": "グローバルコミュニケーション教育センター（CEGLOC）が開講するキャリア支援日本語コースの受講を希望する留学生等は、下記のリンクから受講手続を確認してください。\n\nIf you are interested in the Japanese for Professional Purposes offered by the Center for Education of Global Communi…",
             "date_modified": "2022-06-28T03:00:00.000Z"
         }
     ]
