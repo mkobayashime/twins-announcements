@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "4e89923f3ea356f1d492f449b2c2f50e",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3164",
+            "title": "【CiCドイツ留学説明会】7/13（木）18:15～「ドイツ留学の意義」",
+            "summary": "・CiC留学マイスター制度（SGU事業推進室）\n・チャレンジ活動計画の発表（CiC派遣予定者）\n・「ドイツ留学の意義」（仮）（相澤啓一名誉教授・ケルン日本文化会館館長）\n・ボーフム大学（RUB）の紹介（RUB交換留学生）",
+            "date_modified": "2022-07-05T03:00:00.000Z"
+        },
+        {
             "id": "64614d530503dbc620138adea2aff697",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3163",
             "title": "新型コロナウイルス感染が疑われる場合の本人の行動フローの改定について／Revision of COVID-19 Flowchart",
@@ -135,13 +142,6 @@
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3146",
             "title": "On-campus Transportation System(Bus Pass)",
             "summary": "To students\n\nHave you heard about On-campus Transportation System?\nIf you purchase the bus pass for this system, you can ride on the buses from any bus stop on the route between the Tsukuba Center bus…",
-            "date_modified": "2022-06-28T03:00:00.000Z"
-        },
-        {
-            "id": "62b7e33eb2808234cfa1c0d204c49aa2",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3145",
-            "title": "キャンパス交通システム（バス定期券）のご案内",
-            "summary": "学生のみなさん、\n\nキャンパス交通システムをご存じですか？\nこのシステムの利用証（バス定期券）を購入すれば、つくばセンターから大学構内を走る「筑波大学循環線」が、通常価格（注1）の80％OFFの19,000円で年度いっぱい乗り放題になります！\n\n授業が、順次「対面」または「対面とオンデマンドの併用」で実施されることが決まったこのタイミングで、ぜひ、このバス定期券の購入をご検討ください！\n今から購入…",
             "date_modified": "2022-06-28T03:00:00.000Z"
         }
     ]
