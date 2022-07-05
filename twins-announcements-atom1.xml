@@ -2,10 +2,27 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/mkobayashime/twins-announcements</id>
     <title>在学生へのお知らせ | 筑波大学</title>
-    <updated>2022-07-05T03:06:28.797Z</updated>
+    <updated>2022-07-05T09:06:37.975Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://github.com/mkobayashime/twins-announcements"/>
     <subtitle>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</subtitle>
+    <entry>
+        <title type="html"><![CDATA[第41回 現代語・現代文化フォーラム（「万博と展示デザイン」）開催のお知らせ]]></title>
+        <id>c9e13405f8a888e0c5d9b909f3f82eab</id>
+        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3166"/>
+        <updated>2022-07-05T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[以下のイベントの開催について告知いたします。
+
+＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊
+
+第41回　現代語・現代文化フォーラム
+万博と展示デザイン
+－2020年ドバイ国際博覧会におけるパビリオン展示・演出技術等の潮流
+
+ドバイ万博は、中東・アフリカ地域の登録博覧会としてUAE建国50周年である
+2021年に開催されました。展示部門で金賞を受賞した日本館は電通ライブが総合
+プロデュース、丹青社とムラヤ…]]></summary>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2022年度「海外英語研修I」（3単位、オンライン）参加者募集(再掲載)]]></title>
         <id>6182f064eacd0e81b7fb3d5c70bfed0e</id>
@@ -254,23 +271,5 @@ ECサイトは以下のリンクから
 
 【日時】
 ７月１５日（金）　①17：00～18：30（１コマ目）、②18：30～20：00（２コマ…]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【キャンパス交通システム】Biviつくば1階バスチケットうりばでの期間限定販売について（7/4～7/10）]]></title>
-        <id>103d65b05a8494723768753db308cfa4</id>
-        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3147"/>
-        <updated>2022-06-28T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[学生のみなさま、
-
-キャンパス交通システムバス定期券が、期間限定、Biviつくばで買えちゃいます！！
-
-平日の日中、授業が詰まっていて書籍部の営業時間内に買いに行けない…
-自分が普段使用する講義室等の近くに書籍部がない…
-
-といった方は、ぜひこの機会にこちらでご購入ください！
-
-■期間限定販売の詳細はこちら
-　販売期間：7月4日（月）～7月10日（日）
-　販売場所：Biviつくば1階 バスチケット…]]></summary>
     </entry>
 </feed>
