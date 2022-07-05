@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "78e99f0dbd601527c59ed034697c62da",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3167",
+            "title": "【参加無料！筑波大学ホームゲーム】8月7日（日）14:00～ 「TSUKUBA LIVE! Summer Tuuune!」に行こう！",
+            "summary": "8月7日（日）14:00より筑波大学ホームゲームTSUKUBA LIVE! のエントリーがスタートしました！\n友達を誘って、筑波で最高な夏をかき鳴らそう！\n\n「TSUKUBA LIVE!」とは筑波大学アスレチックデパートメントが主催するホームゲームイベントです。\n\n当日はバスケットボールと水球のWホームゲーム「筑波大学vs日本体育大学」の試合に加え、アイドル研究会Bombs!やときめき太鼓塾、体操…",
+            "date_modified": "2022-07-05T03:00:00.000Z"
+        },
+        {
             "id": "c9e13405f8a888e0c5d9b909f3f82eab",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3166",
             "title": "第41回 現代語・現代文化フォーラム（「万博と展示デザイン」）開催のお知らせ",
@@ -136,13 +143,6 @@
             "title": "【お知らせ】筑波大学公式オリジナルグッズECサイト割引クーポンコード（7月）",
             "summary": "筑波大学公式オリジナルグッズ販売サイト「TSUKUBA-SHOP」の7月の割引クーポンコードをお知らせいたします！\n\nTシャツやネックストラップ、マグカップなど様々な商品をお取り扱いしております。\n\nどうぞご覧いただき、皆様の「日常生活」、「思い出」、「プレゼント」などにご活用いただけますと幸いです。\n\n\nECサイトは以下のリンクから\n\nクーポンコード有効期間：2022年7月1日（金）～2022年…",
             "date_modified": "2022-06-30T03:00:00.000Z"
-        },
-        {
-            "id": "55aa1b1cf02e5781d2a082faf01c191c",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3148",
-            "title": "【事前申込制】第7回オンラインOB・OGキャリアカフェ（7/13(水)13:00締切）",
-            "summary": "筑波大生が、筑波大の卒業生（OB・OG）に\nオンラインで質問できるイベントを開催します！\n\n大学の先輩から就職活動やキャリア、\n学生生活などのアドバイスについて本音で聞ける貴重な機会です。\n\n学年問わず、学群１年生から後期課程の大学院生までどなたでも参加可能です。\nこの機会をぜひご活用ください！！\n\n【日時】\n７月１５日（金）　①17：00～18：30（１コマ目）、②18：30～20：00（２コマ…",
-            "date_modified": "2022-06-28T03:00:00.000Z"
         }
     ]
 }
