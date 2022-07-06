@@ -2,10 +2,24 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/mkobayashime/twins-announcements</id>
     <title>在学生へのお知らせ | 筑波大学</title>
-    <updated>2022-07-06T00:37:04.379Z</updated>
+    <updated>2022-07-06T03:12:45.548Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://github.com/mkobayashime/twins-announcements"/>
     <subtitle>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</subtitle>
+    <entry>
+        <title type="html"><![CDATA[TSUKUBA憲法レクチャー「スポーツ、SDGsと人権」（7/25）のお知らせ]]></title>
+        <id>9fb09e8351fdc93fd3b7cd63d94789e3</id>
+        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3170"/>
+        <updated>2022-07-06T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[社会・国際学群では、山口香先生（筑波大学体育系教授）をお招きし、第3回TSUKUBA憲法レクチャー「スポーツ、SDGsと人権」を開催いたします。
+学生、教職員の皆さまはどなたでもご参加いただけますので、ふるってご参加下さい。
+
+---
+第3回TSUKUBA憲法レクチャー「スポーツ、SDGsと人権」
+
+日時：2022年7月25日（月）10:10-11:25（10:05開場）
+場所：オンライン（Tea…]]></summary>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Implementation of the Free Bazaar]]></title>
         <id>3e2b1b915f8ecac6fd72ae0f5a8ca2f6</id>
@@ -246,15 +260,5 @@ TSUKUBA LIVE!は、筑波大学のスポーツチームの試合をメインに�
 
 
 筑波大学アスレチックデパート…]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Remind [7/7 16:45- 対面]「孤独・孤立対策による健康格差の是正：社会疫学の視点で考える」（第12回DDPI拡大講演会）]]></title>
-        <id>0196cfe937b74871cc14d2fb42f546f4</id>
-        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3151"/>
-        <updated>2022-06-30T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[人文社会系DDPIプロジェクトでは、6月17日に引き続き、7月7日に対面での拡大講演会を企画しております。
-ぜひとも幅広いご所属の方のご参加を歓迎いたします。
-
-今回は『孤独・孤立対策による健康格差の是正：社会疫学の視点で考える』と題し、社会疫学者である近藤尚己先生をお招きし、格差・不平等の問題を考えるうえでのもっとも基本的な出発点である人間に焦点をあてて、個人と個人の間における格差のイメージのう…]]></summary>
     </entry>
 </feed>

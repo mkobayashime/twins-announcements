@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "9fb09e8351fdc93fd3b7cd63d94789e3",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3170",
+            "title": "TSUKUBA憲法レクチャー「スポーツ、SDGsと人権」（7/25）のお知らせ",
+            "summary": "社会・国際学群では、山口香先生（筑波大学体育系教授）をお招きし、第3回TSUKUBA憲法レクチャー「スポーツ、SDGsと人権」を開催いたします。\n学生、教職員の皆さまはどなたでもご参加いただけますので、ふるってご参加下さい。\n\n---\n第3回TSUKUBA憲法レクチャー「スポーツ、SDGsと人権」\n\n日時：2022年7月25日（月）10:10-11:25（10:05開場）\n場所：オンライン（Tea…",
+            "date_modified": "2022-07-06T03:00:00.000Z"
+        },
+        {
             "id": "3e2b1b915f8ecac6fd72ae0f5a8ca2f6",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3169",
             "title": "Implementation of the Free Bazaar",
@@ -135,13 +142,6 @@
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3152",
             "title": "【募集】筑波大学ホームゲーム「TSUKUBA LIVE!」の運営スタッフ募集",
             "summary": "この夏、一緒に、筑波スポーツを盛り上げませんか？\n\n\n\n8月7日（日）に筑波大学ホームゲーム「TSUKUBA LIVE!」が開催されます。\n\nTSUKUBA LIVE!は、筑波大学のスポーツチームの試合をメインに、さまざまな部活・サークルも出演し、来場者と一緒に盛り上がる新しいホームゲームイベントです。\n\n今回はバスケットボールと水球の試合をメインに開催します。\n\n\n\n筑波大学アスレチックデパート…",
-            "date_modified": "2022-06-30T03:00:00.000Z"
-        },
-        {
-            "id": "0196cfe937b74871cc14d2fb42f546f4",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3151",
-            "title": "Remind [7/7 16:45- 対面]「孤独・孤立対策による健康格差の是正：社会疫学の視点で考える」（第12回DDPI拡大講演会）",
-            "summary": "人文社会系DDPIプロジェクトでは、6月17日に引き続き、7月7日に対面での拡大講演会を企画しております。\nぜひとも幅広いご所属の方のご参加を歓迎いたします。\n\n今回は『孤独・孤立対策による健康格差の是正：社会疫学の視点で考える』と題し、社会疫学者である近藤尚己先生をお招きし、格差・不平等の問題を考えるうえでのもっとも基本的な出発点である人間に焦点をあてて、個人と個人の間における格差のイメージのう…",
             "date_modified": "2022-06-30T03:00:00.000Z"
         }
     ]
