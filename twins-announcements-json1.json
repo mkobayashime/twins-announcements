@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "5201c6945f7d89eebae9afdf52eaa9d9",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3171",
+            "title": "つくば次世代アントレプレナー育成プログラム～ビジネスデベロップ講座説明会のご案内",
+            "summary": "本講座は、筑波大学の次世代アントレプレナー育成事業（EDGE-NEX平成29年度～令和3年度文科省補助事業）により開発されたハンズオン支援型の実践的教育プログラムを用いて、事業化に成功するアントレプレナーの輩出と研究・技術シーズに基づくスタートアップ創出を促進することを目的とします。\n\n事業化の必須スキルを実践的に学び、事業化シーズを投資対象となるビジネスプラン（顧客の課題を解決する製品と市場規模…",
+            "date_modified": "2022-07-06T03:00:00.000Z"
+        },
+        {
             "id": "9fb09e8351fdc93fd3b7cd63d94789e3",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3170",
             "title": "TSUKUBA憲法レクチャー「スポーツ、SDGsと人権」（7/25）のお知らせ",
@@ -133,13 +140,6 @@
         {
             "id": "bf0cb452d2e79b9d23ef3ed2d7045cd3",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3153",
-            "title": "【募集】筑波大学ホームゲーム「TSUKUBA LIVE!」の運営スタッフ募集",
-            "summary": "この夏、一緒に、筑波スポーツを盛り上げませんか？\n\n\n\n8月7日（日）に筑波大学ホームゲーム「TSUKUBA LIVE!」が開催されます。\n\nTSUKUBA LIVE!は、筑波大学のスポーツチームの試合をメインに、さまざまな部活・サークルも出演し、来場者と一緒に盛り上がる新しいホームゲームイベントです。\n\n今回はバスケットボールと水球の試合をメインに開催します。\n\n\n\n筑波大学アスレチックデパート…",
-            "date_modified": "2022-06-30T03:00:00.000Z"
-        },
-        {
-            "id": "bf0cb452d2e79b9d23ef3ed2d7045cd3",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3152",
             "title": "【募集】筑波大学ホームゲーム「TSUKUBA LIVE!」の運営スタッフ募集",
             "summary": "この夏、一緒に、筑波スポーツを盛り上げませんか？\n\n\n\n8月7日（日）に筑波大学ホームゲーム「TSUKUBA LIVE!」が開催されます。\n\nTSUKUBA LIVE!は、筑波大学のスポーツチームの試合をメインに、さまざまな部活・サークルも出演し、来場者と一緒に盛り上がる新しいホームゲームイベントです。\n\n今回はバスケットボールと水球の試合をメインに開催します。\n\n\n\n筑波大学アスレチックデパート…",
             "date_modified": "2022-06-30T03:00:00.000Z"
