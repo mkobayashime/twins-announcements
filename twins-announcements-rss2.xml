@@ -4,10 +4,23 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Thu, 07 Jul 2022 05:17:34 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Jul 2022 06:07:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
+        <item>
+            <title><![CDATA[【重要】2022年度第1期分授業料の納入督促について]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3173</link>
+            <guid>6be6a93498e182fc509b2c71120c8c0f</guid>
+            <pubDate>Thu, 07 Jul 2022 03:00:00 GMT</pubDate>
+            <description><![CDATA[2022年度第1期分授業料未納者は、「払込取扱票」が送付されているので、再度確認の上、速やかに金融機関窓口にて納付されるようお願いします。
+納付されないときは、本学学則による除籍処分該当者となります。
+
+・口座振替対象の未納者は、7月に発行された払込取扱票により納入をお願いします。
+・以前に払込取扱票を発行されている未納者は、既にお持ちの払込取扱票により納入をお願いします。
+
+※本掲示は全ての学生…]]></description>
+        </item>
         <item>
             <title><![CDATA[【附属図書館】LA企画「筑波大生なんでも相談室」の質問を募集します(7/1-9/30)]]></title>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3172</link>
@@ -232,19 +245,6 @@ JICAからの派遣プログラムの説明会をいたします。
 弊課ではほぼ毎月、博士後期課程学生向けのキャリアイベントを開催しています。
 日本語・英語を別日で開催しますので、留学生の方は英語開催の方へ参加してください。
 Japanese and English sessions will be held on separate days, so international students are encourag…]]></description>
-        </item>
-        <item>
-            <title><![CDATA[課外活動の今後の活動形態について(2022.7.1) / (Extracurricular Activities) Changes in the Mode of Operations 2022/7/1]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3154</link>
-            <guid>953faf7039912c117b03b6842ed8b893</guid>
-            <pubDate>Thu, 30 Jun 2022 03:00:00 GMT</pubDate>
-            <description><![CDATA[日頃より課外活動における感染拡大防止対策にご協力いただきありがとうございます。
-本学の課外活動等における当面の対応について、7月1日（金）から、以下のとおりの取扱いとしますのでお知らせします。
-
-Dear English readers,
-
-We appreciate your continuous cooperation with our safety measures.
-Today, we i…]]></description>
         </item>
     </channel>
 </rss>

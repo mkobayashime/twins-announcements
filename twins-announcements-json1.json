@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "6be6a93498e182fc509b2c71120c8c0f",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3173",
+            "title": "【重要】2022年度第1期分授業料の納入督促について",
+            "summary": "2022年度第1期分授業料未納者は、「払込取扱票」が送付されているので、再度確認の上、速やかに金融機関窓口にて納付されるようお願いします。\n納付されないときは、本学学則による除籍処分該当者となります。\n\n・口座振替対象の未納者は、7月に発行された払込取扱票により納入をお願いします。\n・以前に払込取扱票を発行されている未納者は、既にお持ちの払込取扱票により納入をお願いします。\n\n※本掲示は全ての学生…",
+            "date_modified": "2022-07-07T03:00:00.000Z"
+        },
+        {
             "id": "dce8146b10d55435ebb6258d249d6a76",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3172",
             "title": "【附属図書館】LA企画「筑波大生なんでも相談室」の質問を募集します(7/1-9/30)",
@@ -136,13 +143,6 @@
             "title": "【博士後期向け】8月キャリアイベントのお知らせ",
             "summary": "こんにちは、DACセンター/就職課です。\n\n弊課ではほぼ毎月、博士後期課程学生向けのキャリアイベントを開催しています。\n日本語・英語を別日で開催しますので、留学生の方は英語開催の方へ参加してください。\nJapanese and English sessions will be held on separate days, so international students are encourag…",
             "date_modified": "2022-07-01T03:00:00.000Z"
-        },
-        {
-            "id": "953faf7039912c117b03b6842ed8b893",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3154",
-            "title": "課外活動の今後の活動形態について(2022.7.1) / (Extracurricular Activities) Changes in the Mode of Operations 2022/7/1",
-            "summary": "日頃より課外活動における感染拡大防止対策にご協力いただきありがとうございます。\n本学の課外活動等における当面の対応について、7月1日（金）から、以下のとおりの取扱いとしますのでお知らせします。\n\nDear English readers,\n\nWe appreciate your continuous cooperation with our safety measures.\nToday, we i…",
-            "date_modified": "2022-06-30T03:00:00.000Z"
         }
     ]
 }
