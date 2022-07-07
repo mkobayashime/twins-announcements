@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "b4e42569e4ac11375c9b737771a8e253",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3174",
+            "title": "【進学・入試相談会】2022年度教育学学位プログラム＜次世代学校教育 創成サブプログラム＞進学・入試相談会（対面）のお知らせ",
+            "summary": "　教育学学位プログラム　博士前期課程　次世代学校教育創成サブプログラムで\nは、大学院進学に関心のある方向けに、進学・入試説明会を実施します。当日は、\n教員・院生から直接説明を聞いたり、質問・相談をしたりすることが可能です。\n参加費は無料ですので、ご興味がある方は是非ご参加ください。\n\n説明会の詳細\n日時：8月27日（土）13:00 ～ 14:30（12:30受付開始） 事前申込必須　※無料\n方法：…",
+            "date_modified": "2022-07-07T03:00:00.000Z"
+        },
+        {
             "id": "6be6a93498e182fc509b2c71120c8c0f",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3173",
             "title": "【重要】2022年度第1期分授業料の納入督促について",
@@ -135,13 +142,6 @@
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3155",
             "title": "7月の国際交流イベント情報・留学情報",
             "summary": "スチューデントサポートセンター国際交流支援室ウェブサイトでは、国際交流イベントの情報や留学情報をお知らせしています！\n\n＜海外留学情報＞\n- CiCフランス留学説明会（オンライン）7月7日（木）18：15～\n- 留学相談（オンライン）※8.9月はお休みになります。7月中に相談しよう！\n\n＜オンライン国際交流＞\nいつからでも、単発でも参加OKです!!\n- Tsuku-Chat（英語グループチャット）…",
-            "date_modified": "2022-07-01T03:00:00.000Z"
-        },
-        {
-            "id": "29571cfe6c0df990b1dc11212ad032e0",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3137",
-            "title": "【博士後期向け】8月キャリアイベントのお知らせ",
-            "summary": "こんにちは、DACセンター/就職課です。\n\n弊課ではほぼ毎月、博士後期課程学生向けのキャリアイベントを開催しています。\n日本語・英語を別日で開催しますので、留学生の方は英語開催の方へ参加してください。\nJapanese and English sessions will be held on separate days, so international students are encourag…",
             "date_modified": "2022-07-01T03:00:00.000Z"
         }
     ]

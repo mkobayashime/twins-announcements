@@ -4,10 +4,24 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Thu, 07 Jul 2022 09:09:35 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Jul 2022 10:08:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
+        <item>
+            <title><![CDATA[【進学・入試相談会】2022年度教育学学位プログラム＜次世代学校教育 創成サブプログラム＞進学・入試相談会（対面）のお知らせ]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3174</link>
+            <guid>b4e42569e4ac11375c9b737771a8e253</guid>
+            <pubDate>Thu, 07 Jul 2022 03:00:00 GMT</pubDate>
+            <description><![CDATA[　教育学学位プログラム　博士前期課程　次世代学校教育創成サブプログラムで
+は、大学院進学に関心のある方向けに、進学・入試説明会を実施します。当日は、
+教員・院生から直接説明を聞いたり、質問・相談をしたりすることが可能です。
+参加費は無料ですので、ご興味がある方は是非ご参加ください。
+
+説明会の詳細
+日時：8月27日（土）13:00 ～ 14:30（12:30受付開始） 事前申込必須　※無料
+方法：…]]></description>
+        </item>
         <item>
             <title><![CDATA[【重要】2022年度第1期分授業料の納入督促について]]></title>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3173</link>
@@ -234,17 +248,6 @@ JICAからの派遣プログラムの説明会をいたします。
 ＜オンライン国際交流＞
 いつからでも、単発でも参加OKです!!
 - Tsuku-Chat（英語グループチャット）…]]></description>
-        </item>
-        <item>
-            <title><![CDATA[【博士後期向け】8月キャリアイベントのお知らせ]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3137</link>
-            <guid>29571cfe6c0df990b1dc11212ad032e0</guid>
-            <pubDate>Fri, 01 Jul 2022 03:00:00 GMT</pubDate>
-            <description><![CDATA[こんにちは、DACセンター/就職課です。
-
-弊課ではほぼ毎月、博士後期課程学生向けのキャリアイベントを開催しています。
-日本語・英語を別日で開催しますので、留学生の方は英語開催の方へ参加してください。
-Japanese and English sessions will be held on separate days, so international students are encourag…]]></description>
         </item>
     </channel>
 </rss>
