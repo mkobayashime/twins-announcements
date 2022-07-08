@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "ff44e9a5676e27b2d6ae4d04f90dcbaf",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3175",
+            "title": "フランス語入門講座開催のお知らせ",
+            "summary": "(公財)茨城県国際交流協会ではフランス語入門講座(初心者向け)を開催します。\n興味のある方は、協会に直接メールでご連絡下さい。\n尚、参加条件や申請先などの詳細は添付のPDFをご参照ください。",
+            "date_modified": "2022-07-08T03:00:00.000Z"
+        },
+        {
             "id": "b4e42569e4ac11375c9b737771a8e253",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3174",
             "title": "【進学・入試相談会】2022年度教育学学位プログラム＜次世代学校教育 創成サブプログラム＞進学・入試相談会（対面）のお知らせ",
@@ -135,13 +142,6 @@
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3156",
             "title": "日本語教師　JICA派遣海外協力隊　MJIIT（マレーシア）募集",
             "summary": "みなさん、\nマレーシアで日本語教育を行うことに興味ありませんか。\nJICAからの派遣プログラムの説明会をいたします。\n\n興味・関心のある方は、7月20日までに\n人文社会系　小野正樹宛　ご連絡ください。\n\n今まで、日日学類から３人が派遣されました。\n\n----------------------------------\n\n派遣先：Malaysia-Japan International Instit…",
-            "date_modified": "2022-07-01T03:00:00.000Z"
-        },
-        {
-            "id": "0d511169e36645dd4628e29e947028b9",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3155",
-            "title": "7月の国際交流イベント情報・留学情報",
-            "summary": "スチューデントサポートセンター国際交流支援室ウェブサイトでは、国際交流イベントの情報や留学情報をお知らせしています！\n\n＜海外留学情報＞\n- CiCフランス留学説明会（オンライン）7月7日（木）18：15～\n- 留学相談（オンライン）※8.9月はお休みになります。7月中に相談しよう！\n\n＜オンライン国際交流＞\nいつからでも、単発でも参加OKです!!\n- Tsuku-Chat（英語グループチャット）…",
             "date_modified": "2022-07-01T03:00:00.000Z"
         }
     ]

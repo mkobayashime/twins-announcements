@@ -4,10 +4,19 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Thu, 07 Jul 2022 21:08:50 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 Jul 2022 03:03:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
+        <item>
+            <title><![CDATA[フランス語入門講座開催のお知らせ]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3175</link>
+            <guid>ff44e9a5676e27b2d6ae4d04f90dcbaf</guid>
+            <pubDate>Fri, 08 Jul 2022 03:00:00 GMT</pubDate>
+            <description><![CDATA[(公財)茨城県国際交流協会ではフランス語入門講座(初心者向け)を開催します。
+興味のある方は、協会に直接メールでご連絡下さい。
+尚、参加条件や申請先などの詳細は添付のPDFをご参照ください。]]></description>
+        </item>
         <item>
             <title><![CDATA[【進学・入試相談会】2022年度教育学学位プログラム＜次世代学校教育 創成サブプログラム＞進学・入試相談会（対面）のお知らせ]]></title>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3174</link>
@@ -233,21 +242,6 @@ JICAからの派遣プログラムの説明会をいたします。
 ----------------------------------
 
 派遣先：Malaysia-Japan International Instit…]]></description>
-        </item>
-        <item>
-            <title><![CDATA[7月の国際交流イベント情報・留学情報]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3155</link>
-            <guid>0d511169e36645dd4628e29e947028b9</guid>
-            <pubDate>Fri, 01 Jul 2022 03:00:00 GMT</pubDate>
-            <description><![CDATA[スチューデントサポートセンター国際交流支援室ウェブサイトでは、国際交流イベントの情報や留学情報をお知らせしています！
-
-＜海外留学情報＞
-- CiCフランス留学説明会（オンライン）7月7日（木）18：15～
-- 留学相談（オンライン）※8.9月はお休みになります。7月中に相談しよう！
-
-＜オンライン国際交流＞
-いつからでも、単発でも参加OKです!!
-- Tsuku-Chat（英語グループチャット）…]]></description>
         </item>
     </channel>
 </rss>
