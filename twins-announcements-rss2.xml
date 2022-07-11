@@ -4,10 +4,19 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Mon, 11 Jul 2022 05:16:46 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 Jul 2022 06:08:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
+        <item>
+            <title><![CDATA[ウクライナ避難学生のためのチューター募集について]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3182</link>
+            <guid>d816952872291c48acbc680e4c72fe00</guid>
+            <pubDate>Mon, 11 Jul 2022 03:00:00 GMT</pubDate>
+            <description><![CDATA[本学では、学修・研究の継続を希望するウクライナからの学生を支援するため、経済支援（渡航費や生活費支援等）をはじめとした学生支援の取組を開始し、今般、第一期選考を終え、学士課程学生20名の受入れを決定しました。
+当該学生が円滑に本学での学修を再開するためには、チューター支援（主に生活の立ち上げ支援、必要に応じてオンライン支援も可）が不可欠です。
+本学においては、チューターバンク制度を2020年度より…]]></description>
+        </item>
         <item>
             <title><![CDATA[【Library】 Free Ebook Trial Service (Repost)]]></title>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3181</link>
@@ -224,13 +233,6 @@ For details, please refer to the University's official website at the URL below.
             <description><![CDATA[学群自由科目・大学院共通科目「筑波クリエイティブ・キャンプ・アドバンスト」が10月5日（水）から始まります！
 各自の持つビジネスプランを、Customer-Problem Fit/Solution-Problem Fitのプロセスにより検証・ブラッシュアップする、最新事業化メソッドカリキュラムを実施します。
 LINEを世界的SNSに成長させ、さらに現在はC CHANNELを世界的動画ファッションマ…]]></description>
-        </item>
-        <item>
-            <title><![CDATA[外務省が発出する感染症危険情報レベルの一部引き下げ（令和4年7月1日付）について]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3160</link>
-            <guid>4af1e959b2c4e7ed00d72f3e27f7a84c</guid>
-            <pubDate>Mon, 04 Jul 2022 03:00:00 GMT</pubDate>
-            <description><![CDATA[本学では「海外での危機発生時における学生及び教職員の渡航に関する指針」（学長決定）において、学生に関しては、外務省が発出する危険情報または感染症危険情報が「レベル2：不要不急の渡航は取り止めてください」以上の国への渡航は原則取り止めるよう定めておりますが、令和4年7月1日に外務省により、新たに34か国についての感染症危険情報レベルがレベル2から「レベル1：十分注意してください」に引き下げられたため…]]></description>
         </item>
     </channel>
 </rss>

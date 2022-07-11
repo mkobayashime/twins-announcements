@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "d816952872291c48acbc680e4c72fe00",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3182",
+            "title": "ウクライナ避難学生のためのチューター募集について",
+            "summary": "本学では、学修・研究の継続を希望するウクライナからの学生を支援するため、経済支援（渡航費や生活費支援等）をはじめとした学生支援の取組を開始し、今般、第一期選考を終え、学士課程学生20名の受入れを決定しました。\n当該学生が円滑に本学での学修を再開するためには、チューター支援（主に生活の立ち上げ支援、必要に応じてオンライン支援も可）が不可欠です。\n本学においては、チューターバンク制度を2020年度より…",
+            "date_modified": "2022-07-11T03:00:00.000Z"
+        },
+        {
             "id": "e36c148ae98e1f03161e6d0437acd206",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3181",
             "title": "【Library】 Free Ebook Trial Service (Repost)",
@@ -135,13 +142,6 @@
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3161",
             "title": "起業家教育プログラム「筑波クリエイティブ・キャンプ・アドバンスト」のご案内",
             "summary": "学群自由科目・大学院共通科目「筑波クリエイティブ・キャンプ・アドバンスト」が10月5日（水）から始まります！\n各自の持つビジネスプランを、Customer-Problem Fit/Solution-Problem Fitのプロセスにより検証・ブラッシュアップする、最新事業化メソッドカリキュラムを実施します。\nLINEを世界的SNSに成長させ、さらに現在はC CHANNELを世界的動画ファッションマ…",
-            "date_modified": "2022-07-04T03:00:00.000Z"
-        },
-        {
-            "id": "4af1e959b2c4e7ed00d72f3e27f7a84c",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3160",
-            "title": "外務省が発出する感染症危険情報レベルの一部引き下げ（令和4年7月1日付）について",
-            "summary": "本学では「海外での危機発生時における学生及び教職員の渡航に関する指針」（学長決定）において、学生に関しては、外務省が発出する危険情報または感染症危険情報が「レベル2：不要不急の渡航は取り止めてください」以上の国への渡航は原則取り止めるよう定めておりますが、令和4年7月1日に外務省により、新たに34か国についての感染症危険情報レベルがレベル2から「レベル1：十分注意してください」に引き下げられたため…",
             "date_modified": "2022-07-04T03:00:00.000Z"
         }
     ]
