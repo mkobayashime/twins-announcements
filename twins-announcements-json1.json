@@ -5,6 +5,20 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "e36c148ae98e1f03161e6d0437acd206",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3181",
+            "title": "【Library】 Free Ebook Trial Service (Repost)",
+            "summary": "In order to support teaching and learning in the COVID-19 pandemic, the library provides an eBook trial service.\n\nYou can try any part of the eBooks from the following eBook platforms for free for fiv…",
+            "date_modified": "2022-07-11T03:00:00.000Z"
+        },
+        {
+            "id": "74ef2642cdb2b2f1cb904003dd3bbb64",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3180",
+            "title": "【附属図書館】 電子ブック 全文無料試し読みサービスのご案内（再掲）",
+            "summary": "附属図書館では、コロナ禍における教育・学習を支援するため、電子ブックの全文無料試し読みサービスを実施します。\n\n対象プラットフォームの電子ブックからお好きな部分を1タイトルにつき5分間、試し読みすることができます。また、購入を希望される場合にはリクエストを送信することもできます。この機会にぜひお試しください。\n\n【実施期間と対象プラットフォーム】\n・KinoDen（紀伊國屋書店）【期間限定！202…",
+            "date_modified": "2022-07-11T03:00:00.000Z"
+        },
+        {
             "id": "87bd29e9c021aae903bba61ffabc3f78",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3179",
             "title": "【再掲】TG⁺プログラム第3期生の募集を開始します",
@@ -129,20 +143,6 @@
             "title": "外務省が発出する感染症危険情報レベルの一部引き下げ（令和4年7月1日付）について",
             "summary": "本学では「海外での危機発生時における学生及び教職員の渡航に関する指針」（学長決定）において、学生に関しては、外務省が発出する危険情報または感染症危険情報が「レベル2：不要不急の渡航は取り止めてください」以上の国への渡航は原則取り止めるよう定めておりますが、令和4年7月1日に外務省により、新たに34か国についての感染症危険情報レベルがレベル2から「レベル1：十分注意してください」に引き下げられたため…",
             "date_modified": "2022-07-04T03:00:00.000Z"
-        },
-        {
-            "id": "51e19c004c865a3477434cc79ce844e2",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3159",
-            "title": "【再掲・7.11開催】ASIP/TG⁺公開セミナー 「グローバルキャリアへのステップ～留学と就活の両立・仕事の探し方～」",
-            "summary": "第47回ASIP/TG⁺公開セミナー\n「グローバルキャリアへのステップ～留学と就活の両立・仕事の探し方～」\n\n日時：2022年7月11日（月）　15：15～16：45\n形式：オンラインZoom\n講師：林　香織氏（株式会社マイナビ　グローバルキャリアサポーター\n\n当日のコンテンツ（予定）\n・最新のグローバル企業の就職市場\n・グローバルなキャリア・仕事の探し方\n・留学中に意識するべきこと\n・留学と就活…",
-            "date_modified": "2022-07-04T03:00:00.000Z"
-        },
-        {
-            "id": "8415325e0d2da4b88697678c58226cb8",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3157",
-            "title": "【manaba掲載のお知らせ】令和4年度夏季休業前の海外危機管理セミナーについて",
-            "summary": "6/23(木)に開催した標記セミナーについて、セミナーの動画と関係資料をmanabaに掲載しましたので、お知らせいたします。\nコース登録方法、動画視聴方法等につきましては、添付ファイルをご参照ください。\n\n\n＜以下、参考：セミナーの概要情報＞\n海外危機管理に関するスペシャリストをお招きし、海外渡航※前の準備事項と、現地での安全対策について学びます。\n\n１．日時：　令和4年6月23日（木）18：15…",
-            "date_modified": "2022-07-01T03:00:00.000Z"
         }
     ]
 }
