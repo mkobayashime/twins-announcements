@@ -4,10 +4,29 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Tue, 12 Jul 2022 03:13:10 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 12 Jul 2022 06:07:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
+        <item>
+            <title><![CDATA[台湾国立大学とのオンライン学生交流プログラム：UT×NTU Online Forum on SDGs#5]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3184</link>
+            <guid>7acf9aeeeba5147f019764fce5e38358</guid>
+            <pubDate>Tue, 12 Jul 2022 03:00:00 GMT</pubDate>
+            <description><![CDATA[2022年8月開催の台湾とのオンライン学生交流プログラムに参加する学生を募集します！
+国立台湾大学の学生と友達になって将来の留学につなげよう！
+
+＜目的＞
+・国立台湾大学の学生と交流を深める
+・SDGsやグローバルイシューについて、英語でディスカッションを行う
+・言語や文化交流を行う
+
+＜ディスカッション・トピック＞
+・ジェンダー平等を実現しよう（SGDs 目標5）
+
+＜概要＞
+・各大学の紹介、文…]]></description>
+        </item>
         <item>
             <title><![CDATA[「What is special about Japan？―日本のことを英語で説明できますか勉強会」開催のお知らせ]]></title>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3183</link>
@@ -226,13 +245,6 @@ The…]]></description>
 Revision of  COVID-19 Flowchart.(4th edition)
 For details, please refer to the University's official website at the URL below.
 ]]></description>
-        </item>
-        <item>
-            <title><![CDATA[About Lowering of the Level of ”Travel Advice and Warning” on Infectious Diseases by MOFA]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3162</link>
-            <guid>213bd53633f04f84f72881e81a19cb5b</guid>
-            <pubDate>Mon, 04 Jul 2022 03:00:00 GMT</pubDate>
-            <description><![CDATA[In accordance with the “Travel Guideline for Students, Faculty Members and University Employees in case of a Crisis Overseas”（Decision by the President）, the University of Tsukuba has a policy that st…]]></description>
         </item>
     </channel>
 </rss>

@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "7acf9aeeeba5147f019764fce5e38358",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3184",
+            "title": "台湾国立大学とのオンライン学生交流プログラム：UT×NTU Online Forum on SDGs#5",
+            "summary": "2022年8月開催の台湾とのオンライン学生交流プログラムに参加する学生を募集します！\n国立台湾大学の学生と友達になって将来の留学につなげよう！\n\n＜目的＞\n・国立台湾大学の学生と交流を深める\n・SDGsやグローバルイシューについて、英語でディスカッションを行う\n・言語や文化交流を行う\n\n＜ディスカッション・トピック＞\n・ジェンダー平等を実現しよう（SGDs 目標5）\n\n＜概要＞\n・各大学の紹介、文…",
+            "date_modified": "2022-07-12T03:00:00.000Z"
+        },
+        {
             "id": "a731ee539df804cbdf331a0c0880dd33",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3183",
             "title": "「What is special about Japan？―日本のことを英語で説明できますか勉強会」開催のお知らせ",
@@ -135,13 +142,6 @@
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3163",
             "title": "新型コロナウイルス感染が疑われる場合の本人の行動フローの改定について／Revision of COVID-19 Flowchart",
             "summary": "新型コロナウイルス感染が疑われる場合の本人の行動フローが新しくなりました。（第４版）\n詳細は以下URLから本学公式HPをご確認ください。\nRevision of  COVID-19 Flowchart.(4th edition)\nFor details, please refer to the University's official website at the URL below.\n",
-            "date_modified": "2022-07-04T03:00:00.000Z"
-        },
-        {
-            "id": "213bd53633f04f84f72881e81a19cb5b",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3162",
-            "title": "About Lowering of the Level of ”Travel Advice and Warning” on Infectious Diseases by MOFA",
-            "summary": "In accordance with the “Travel Guideline for Students, Faculty Members and University Employees in case of a Crisis Overseas”（Decision by the President）, the University of Tsukuba has a policy that st…",
             "date_modified": "2022-07-04T03:00:00.000Z"
         }
     ]
