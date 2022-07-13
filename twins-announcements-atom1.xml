@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/mkobayashime/twins-announcements</id>
     <title>在学生へのお知らせ | 筑波大学</title>
-    <updated>2022-07-12T21:08:56.889Z</updated>
+    <updated>2022-07-13T07:02:54.779Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://github.com/mkobayashime/twins-announcements"/>
     <subtitle>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</subtitle>
+    <entry>
+        <title type="html"><![CDATA[【注意喚起】カルト勧誘について]]></title>
+        <id>c0c13854575cb1895d6aab6a399778d7</id>
+        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3185"/>
+        <updated>2022-07-13T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[学生各位
+
+　最近、様々な行動制限が緩和され、人々の活動が活発になったことに伴い、カルト団体関係の勧誘活動についても全国的に活発化しているようです。
+　カルト団体の勧誘では、はじめは全く宗教の話はなく、サークルやボランティア活動、研究セミナーや勉強会、各種サミットなどを装い、少しずつ巧妙な手段で取り込んでいきます。
+　このような宗教活動で、様々な個人情報を提供させられ、多額の金品を請求されたり、社…]]></summary>
+    </entry>
     <entry>
         <title type="html"><![CDATA[台湾国立大学とのオンライン学生交流プログラム：UT×NTU Online Forum on SDGs#5]]></title>
         <id>7acf9aeeeba5147f019764fce5e38358</id>
@@ -232,16 +243,5 @@ The…]]></summary>
 ・チャレンジ活動計画の発表（CiC派遣予定者）
 ・「ドイツ留学の意義」（仮）（相澤啓一名誉教授・ケルン日本文化会館館長）
 ・ボーフム大学（RUB）の紹介（RUB交換留学生）]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[新型コロナウイルス感染が疑われる場合の本人の行動フローの改定について／Revision of COVID-19 Flowchart]]></title>
-        <id>64614d530503dbc620138adea2aff697</id>
-        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3163"/>
-        <updated>2022-07-04T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[新型コロナウイルス感染が疑われる場合の本人の行動フローが新しくなりました。（第４版）
-詳細は以下URLから本学公式HPをご確認ください。
-Revision of  COVID-19 Flowchart.(4th edition)
-For details, please refer to the University's official website at the URL below.
-]]></summary>
     </entry>
 </feed>

@@ -4,10 +4,21 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Tue, 12 Jul 2022 21:08:56 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 Jul 2022 07:02:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
+        <item>
+            <title><![CDATA[【注意喚起】カルト勧誘について]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3185</link>
+            <guid>c0c13854575cb1895d6aab6a399778d7</guid>
+            <pubDate>Wed, 13 Jul 2022 03:00:00 GMT</pubDate>
+            <description><![CDATA[学生各位
+
+　最近、様々な行動制限が緩和され、人々の活動が活発になったことに伴い、カルト団体関係の勧誘活動についても全国的に活発化しているようです。
+　カルト団体の勧誘では、はじめは全く宗教の話はなく、サークルやボランティア活動、研究セミナーや勉強会、各種サミットなどを装い、少しずつ巧妙な手段で取り込んでいきます。
+　このような宗教活動で、様々な個人情報を提供させられ、多額の金品を請求されたり、社…]]></description>
+        </item>
         <item>
             <title><![CDATA[台湾国立大学とのオンライン学生交流プログラム：UT×NTU Online Forum on SDGs#5]]></title>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3184</link>
@@ -234,17 +245,6 @@ The…]]></description>
 ・チャレンジ活動計画の発表（CiC派遣予定者）
 ・「ドイツ留学の意義」（仮）（相澤啓一名誉教授・ケルン日本文化会館館長）
 ・ボーフム大学（RUB）の紹介（RUB交換留学生）]]></description>
-        </item>
-        <item>
-            <title><![CDATA[新型コロナウイルス感染が疑われる場合の本人の行動フローの改定について／Revision of COVID-19 Flowchart]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3163</link>
-            <guid>64614d530503dbc620138adea2aff697</guid>
-            <pubDate>Mon, 04 Jul 2022 03:00:00 GMT</pubDate>
-            <description><![CDATA[新型コロナウイルス感染が疑われる場合の本人の行動フローが新しくなりました。（第４版）
-詳細は以下URLから本学公式HPをご確認ください。
-Revision of  COVID-19 Flowchart.(4th edition)
-For details, please refer to the University's official website at the URL below.
-]]></description>
         </item>
     </channel>
 </rss>
