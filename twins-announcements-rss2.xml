@@ -4,10 +4,27 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Wed, 13 Jul 2022 21:09:59 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 Jul 2022 00:36:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
+        <item>
+            <title><![CDATA[【資料掲載】令和４度高圧ガスボンベ利用者安全講習会]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3186</link>
+            <guid>d9d6e8f9dab8ee4bf50983254e498db5</guid>
+            <pubDate>Thu, 14 Jul 2022 03:00:00 GMT</pubDate>
+            <description><![CDATA[日頃より，安全衛生・健康管理の取組にご協力いただきありがとうございます。
+
+令和４年７月１２日にオンラインにて開催した，令和４年度高圧ガスボンベ利用者安全講習会の資料を、環境安全管理室ホームページへ掲載しました。　
+
+下記URLから資料掲載ページへアクセスしてください。
+
+講習会内容
+1.高圧ガス保安法とガスの種類
+2.容器・バルブ類の構造と注意点
+3.事故から学ぶ高圧ガスの危険性
+4.緊急時の措…]]></description>
+        </item>
         <item>
             <title><![CDATA[【注意喚起】カルト勧誘について]]></title>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3185</link>
@@ -237,13 +254,6 @@ The…]]></description>
 Revision of  COVID-19 Flowchart.(4th edition)
 For details, please refer to the University's official website at the URL below.
 ]]></description>
-        </item>
-        <item>
-            <title><![CDATA[About Lowering of the Level of ”Travel Advice and Warning” on Infectious Diseases by MOFA]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3162</link>
-            <guid>213bd53633f04f84f72881e81a19cb5b</guid>
-            <pubDate>Mon, 04 Jul 2022 03:00:00 GMT</pubDate>
-            <description><![CDATA[In accordance with the “Travel Guideline for Students, Faculty Members and University Employees in case of a Crisis Overseas”（Decision by the President）, the University of Tsukuba has a policy that st…]]></description>
         </item>
     </channel>
 </rss>

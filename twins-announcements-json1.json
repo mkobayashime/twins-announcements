@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "d9d6e8f9dab8ee4bf50983254e498db5",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3186",
+            "title": "【資料掲載】令和４度高圧ガスボンベ利用者安全講習会",
+            "summary": "日頃より，安全衛生・健康管理の取組にご協力いただきありがとうございます。\n\n令和４年７月１２日にオンラインにて開催した，令和４年度高圧ガスボンベ利用者安全講習会の資料を、環境安全管理室ホームページへ掲載しました。　\n\n下記URLから資料掲載ページへアクセスしてください。\n\n講習会内容\n1.高圧ガス保安法とガスの種類\n2.容器・バルブ類の構造と注意点\n3.事故から学ぶ高圧ガスの危険性\n4.緊急時の措…",
+            "date_modified": "2022-07-14T03:00:00.000Z"
+        },
+        {
             "id": "c0c13854575cb1895d6aab6a399778d7",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3185",
             "title": "【注意喚起】カルト勧誘について",
@@ -135,13 +142,6 @@
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3163",
             "title": "新型コロナウイルス感染が疑われる場合の本人の行動フローの改定について／Revision of COVID-19 Flowchart",
             "summary": "新型コロナウイルス感染が疑われる場合の本人の行動フローが新しくなりました。（第４版）\n詳細は以下URLから本学公式HPをご確認ください。\nRevision of  COVID-19 Flowchart.(4th edition)\nFor details, please refer to the University's official website at the URL below.\n",
-            "date_modified": "2022-07-04T03:00:00.000Z"
-        },
-        {
-            "id": "213bd53633f04f84f72881e81a19cb5b",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3162",
-            "title": "About Lowering of the Level of ”Travel Advice and Warning” on Infectious Diseases by MOFA",
-            "summary": "In accordance with the “Travel Guideline for Students, Faculty Members and University Employees in case of a Crisis Overseas”（Decision by the President）, the University of Tsukuba has a policy that st…",
             "date_modified": "2022-07-04T03:00:00.000Z"
         }
     ]
