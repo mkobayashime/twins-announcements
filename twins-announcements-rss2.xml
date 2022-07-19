@@ -4,10 +4,22 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Tue, 19 Jul 2022 03:16:29 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 Jul 2022 09:12:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
+        <item>
+            <title><![CDATA[「筑波＿卒業後を考える会」開催のお知らせ]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3191</link>
+            <guid>21013fd0cf2716259d0f630d85f6a1a3</guid>
+            <pubDate>Tue, 19 Jul 2022 03:00:00 GMT</pubDate>
+            <description><![CDATA[筑波大学「世界を変えよう基金アカデミー」では、就活を終えた4年生が自らの経験を下級生に伝える「筑波＿卒業後を考える会」をZoomで開催します。ガクチカ、就活対象先を絞り込んで最終内定先を選んだ過程等、就活を始める皆さんにとって興味深いお話を聞ける機会です。
+
+日程は下記のとおりで、いずれも20:30 開始です。
+
+① 8/28(日) 国際4年、教育関連企業内定
+② 9/4(日) 日本語・日本文化4…]]></description>
+        </item>
         <item>
             <title><![CDATA[【作品展示】未来社会デザイン棟（仮称）についての学生有志による提案について]]></title>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3190</link>
@@ -252,18 +264,6 @@ The…]]></description>
 
 日時：2022年7月25日（月）10:10-11:25（10:05開場）
 場所：オンライン（Tea…]]></description>
-        </item>
-        <item>
-            <title><![CDATA[【参加無料！筑波大学ホームゲーム】8月7日（日）14:00～ 「TSUKUBA LIVE! Summer Tuuune!」に行こう！]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3167</link>
-            <guid>78e99f0dbd601527c59ed034697c62da</guid>
-            <pubDate>Tue, 05 Jul 2022 03:00:00 GMT</pubDate>
-            <description><![CDATA[8月7日（日）14:00より筑波大学ホームゲームTSUKUBA LIVE! のエントリーがスタートしました！
-友達を誘って、筑波で最高な夏をかき鳴らそう！
-
-「TSUKUBA LIVE!」とは筑波大学アスレチックデパートメントが主催するホームゲームイベントです。
-
-当日はバスケットボールと水球のWホームゲーム「筑波大学vs日本体育大学」の試合に加え、アイドル研究会Bombs!やときめき太鼓塾、体操…]]></description>
         </item>
     </channel>
 </rss>

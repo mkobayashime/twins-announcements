@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "21013fd0cf2716259d0f630d85f6a1a3",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3191",
+            "title": "「筑波＿卒業後を考える会」開催のお知らせ",
+            "summary": "筑波大学「世界を変えよう基金アカデミー」では、就活を終えた4年生が自らの経験を下級生に伝える「筑波＿卒業後を考える会」をZoomで開催します。ガクチカ、就活対象先を絞り込んで最終内定先を選んだ過程等、就活を始める皆さんにとって興味深いお話を聞ける機会です。\n\n日程は下記のとおりで、いずれも20:30 開始です。\n\n① 8/28(日) 国際4年、教育関連企業内定\n② 9/4(日) 日本語・日本文化4…",
+            "date_modified": "2022-07-19T03:00:00.000Z"
+        },
+        {
             "id": "7f259116c69263fa474396162b7218b2",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3190",
             "title": "【作品展示】未来社会デザイン棟（仮称）についての学生有志による提案について",
@@ -136,13 +143,6 @@
             "title": "TSUKUBA憲法レクチャー「スポーツ、SDGsと人権」（7/25）のお知らせ",
             "summary": "社会・国際学群では、山口香先生（筑波大学体育系教授）をお招きし、第3回TSUKUBA憲法レクチャー「スポーツ、SDGsと人権」を開催いたします。\n学生、教職員の皆さまはどなたでもご参加いただけますので、ふるってご参加下さい。\n\n---\n第3回TSUKUBA憲法レクチャー「スポーツ、SDGsと人権」\n\n日時：2022年7月25日（月）10:10-11:25（10:05開場）\n場所：オンライン（Tea…",
             "date_modified": "2022-07-06T03:00:00.000Z"
-        },
-        {
-            "id": "78e99f0dbd601527c59ed034697c62da",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3167",
-            "title": "【参加無料！筑波大学ホームゲーム】8月7日（日）14:00～ 「TSUKUBA LIVE! Summer Tuuune!」に行こう！",
-            "summary": "8月7日（日）14:00より筑波大学ホームゲームTSUKUBA LIVE! のエントリーがスタートしました！\n友達を誘って、筑波で最高な夏をかき鳴らそう！\n\n「TSUKUBA LIVE!」とは筑波大学アスレチックデパートメントが主催するホームゲームイベントです。\n\n当日はバスケットボールと水球のWホームゲーム「筑波大学vs日本体育大学」の試合に加え、アイドル研究会Bombs!やときめき太鼓塾、体操…",
-            "date_modified": "2022-07-05T03:00:00.000Z"
         }
     ]
 }
