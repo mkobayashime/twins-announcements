@@ -2,10 +2,17 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/mkobayashime/twins-announcements</id>
     <title>在学生へのお知らせ | 筑波大学</title>
-    <updated>2022-07-24T21:09:00.649Z</updated>
+    <updated>2022-07-25T00:33:23.041Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://github.com/mkobayashime/twins-announcements"/>
     <subtitle>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</subtitle>
+    <entry>
+        <title type="html"><![CDATA[Announcement on the Fall Semester of 2022 to Suzuki Scholarship Application]]></title>
+        <id>8feb385fccc64ee48b0638873597f917</id>
+        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3197"/>
+        <updated>2022-07-25T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[“Make a Difference in the World Fund (MDW Fund)” at the University of Tsukuba was established in 2015 by Visiting Professor Hideaki Suzuki. The Fund has provided financial assistance to students who e…]]></summary>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Notice on the current alert for overseas travel]]></title>
         <id>3beb214e7e459694966878bfdb2999f2</id>
@@ -237,19 +244,5 @@ You can try any part of the eBooks from the following eBook platforms for free f
 講演 LECTURE：
 アーティストと場とのかかわり―ホワイトキューブの外でアートを展開する面白さと役割―
 The…]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【注意喚起】文書の無許可での掲示について]]></title>
-        <id>8b879f674bc3bfe6bfccef3a199f58fe</id>
-        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3177"/>
-        <updated>2022-07-08T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[　学生各位
-
-　先日、大学側の許可を取らずに掲示されたビラが、学内の数か所において発見されました。
-　学生又は学生団体が学内において文書（ビラ・ポスター）を掲示するときには、大学の許可が必要になりますので、必ずエリア支援室等に届け出て、許可を受けてください。
-　なお、今後大学内において無許可の文書（ビラ・ポスター）を確認しましたら、即時に撤去します。
-
-　（参考）
-　・筑波大学学生の活動に関する法…]]></summary>
     </entry>
 </feed>
