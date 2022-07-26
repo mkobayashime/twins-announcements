@@ -2,10 +2,17 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/mkobayashime/twins-announcements</id>
     <title>在学生へのお知らせ | 筑波大学</title>
-    <updated>2022-07-25T21:09:06.375Z</updated>
+    <updated>2022-07-26T00:35:57.858Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://github.com/mkobayashime/twins-announcements"/>
     <subtitle>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</subtitle>
+    <entry>
+        <title type="html"><![CDATA[Application for the Fall Semester of 2022 to Suzuki Scholarship]]></title>
+        <id>0c0b388230eb1035a349a42981684d91</id>
+        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3200"/>
+        <updated>2022-07-26T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[“Make a Difference in the World Fund (MDW Fund)” at the University of Tsukuba was established in 2015 by Visiting Professor Hideaki Suzuki. The Fund has provided financial assistance to students who e…]]></summary>
+    </entry>
     <entry>
         <title type="html"><![CDATA[7/29応募締切：国立台湾大学とのオンライン学生交流プログラム：UT×NTU Online Forum on SDGs#5]]></title>
         <id>2ee9b9d657aa98f5d17835e29d571160</id>
@@ -32,13 +39,6 @@
         <updated>2022-07-25T03:00:00.000Z</updated>
         <summary type="html"><![CDATA[On-demand English subtitled version of the Laboratory Waste Management Workshop for Students held on Friday, May 20, 2022.
 To determine the number of attendees, please click on each link to watch the …]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Announcement on the Fall Semester of 2022 to Suzuki Scholarship Application]]></title>
-        <id>8feb385fccc64ee48b0638873597f917</id>
-        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3197"/>
-        <updated>2022-07-25T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[“Make a Difference in the World Fund (MDW Fund)” at the University of Tsukuba was established in 2015 by Visiting Professor Hideaki Suzuki. The Fund has provided financial assistance to students who e…]]></summary>
     </entry>
     <entry>
         <title type="html"><![CDATA[Notice on the current alert for overseas travel]]></title>

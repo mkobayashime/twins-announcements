@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "0c0b388230eb1035a349a42981684d91",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3200",
+            "title": "Application for the Fall Semester of 2022 to Suzuki Scholarship",
+            "summary": "“Make a Difference in the World Fund (MDW Fund)” at the University of Tsukuba was established in 2015 by Visiting Professor Hideaki Suzuki. The Fund has provided financial assistance to students who e…",
+            "date_modified": "2022-07-26T03:00:00.000Z"
+        },
+        {
             "id": "2ee9b9d657aa98f5d17835e29d571160",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3199",
             "title": "7/29応募締切：国立台湾大学とのオンライン学生交流プログラム：UT×NTU Online Forum on SDGs#5",
@@ -16,13 +23,6 @@
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3198",
             "title": "Laboratory Waste Management Workshop 2022　On-campus use only",
             "summary": "On-demand English subtitled version of the Laboratory Waste Management Workshop for Students held on Friday, May 20, 2022.\nTo determine the number of attendees, please click on each link to watch the …",
-            "date_modified": "2022-07-25T03:00:00.000Z"
-        },
-        {
-            "id": "8feb385fccc64ee48b0638873597f917",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3197",
-            "title": "Announcement on the Fall Semester of 2022 to Suzuki Scholarship Application",
-            "summary": "“Make a Difference in the World Fund (MDW Fund)” at the University of Tsukuba was established in 2015 by Visiting Professor Hideaki Suzuki. The Fund has provided financial assistance to students who e…",
             "date_modified": "2022-07-25T03:00:00.000Z"
         },
         {
