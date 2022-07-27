@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "2ee9b9d657aa98f5d17835e29d571160",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3203",
+            "title": "7/29応募締切：国立台湾大学とのオンライン学生交流プログラム：UT×NTU Online Forum on SDGs#5",
+            "summary": "2022年8月開催の台湾とのオンライン学生交流プログラムに参加する学生を募集します！\n国立台湾大学の学生と友達になって将来の留学につなげよう！\n\n＜目的＞\n・国立台湾大学の学生と交流を深める\n・SDGsやグローバルイシューについて、英語でディスカッションを行う\n・言語や文化交流を行う\n\n＜ディスカッション・トピック＞\n・ジェンダー平等を実現しよう（SGDs 目標5）\n\n＜概要＞\n・各大学の紹介、文…",
+            "date_modified": "2022-07-27T03:00:00.000Z"
+        },
+        {
             "id": "dff7e0d1c754cc1987c8fa15bb48bd88",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3202",
             "title": "「新型コロナウイルス感染が疑われる場合の本人の行動フロー」の改定について",
@@ -135,13 +142,6 @@
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3182",
             "title": "ウクライナ避難学生のためのチューター募集について",
             "summary": "本学では、学修・研究の継続を希望するウクライナからの学生を支援するため、経済支援（渡航費や生活費支援等）をはじめとした学生支援の取組を開始し、今般、第一期選考を終え、学士課程学生20名の受入れを決定しました。\n当該学生が円滑に本学での学修を再開するためには、チューター支援（主に生活の立ち上げ支援、必要に応じてオンライン支援も可）が不可欠です。\n本学においては、チューターバンク制度を2020年度より…",
-            "date_modified": "2022-07-11T03:00:00.000Z"
-        },
-        {
-            "id": "e36c148ae98e1f03161e6d0437acd206",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3181",
-            "title": "【Library】 Free Ebook Trial Service (Repost)",
-            "summary": "In order to support teaching and learning in the COVID-19 pandemic, the library provides an eBook trial service.\n\nYou can try any part of the eBooks from the following eBook platforms for free for fiv…",
             "date_modified": "2022-07-11T03:00:00.000Z"
         }
     ]
