@@ -5,6 +5,20 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "9d5a99a21f4b8126f8d0f5dc9d1ba3b0",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3208",
+            "title": "【再掲】TG⁺プログラム第3期生の募集をしています",
+            "summary": "TG⁺プログラム第３期生の募集を開始します！\n\n「さあ、新興国へのドアを開けよう！」\n\n筑波大学グローバル⁺リーダーシップ教育プログラムでは第3期のプログラム生を募集します。プログラムにご興味・相談のある方、ご質問等ございましたらお気軽にTG事務局（tgplus-office@ml.cc.tsukuba.ac.jp）までお問い合わせください。\n\nプログラムHP：https://tgplus.has…",
+            "date_modified": "2022-08-01T03:00:00.000Z"
+        },
+        {
+            "id": "d188e0b49043660c88be7d224b46abd6",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3207",
+            "title": "【お知らせ】筑波大学公式オリジナルグッズECサイト割引クーポンコード（8月）",
+            "summary": "筑波大学公式オリジナルグッズ販売サイト「TSUKUBA-SHOP」の8月の割引クーポンコードをお知らせいたします！\n\nTシャツやネックストラップ、マグカップなど様々な商品をお取り扱いしております。\n\nどうぞご覧いただき、皆様の「日常生活」、「思い出」、「プレゼント」などにご活用いただけますと幸いです。\n\n\nECサイトは以下のリンクから\n\n有効期間：2022年8月1日（月）～2022年8月31日（水…",
+            "date_modified": "2022-08-01T03:00:00.000Z"
+        },
+        {
             "id": "d84df776c5060fcc74efbb5725322609",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3206",
             "title": "[募集] 研究・実験補助業務スタッフ （対象：博士課程への進学希望・興味がある学群生）",
@@ -129,20 +143,6 @@
             "title": "学生支援員の募集について",
             "summary": "土浦市教育委員会から、特別な教育的支援を必要とする児童・生徒に対する支援の充実を図るため、学生支援員の 募集ありました。\n\n学生支援員の対象は、以下のとおりです。\n○ 大学等の教職課程のある学科に在籍する学生\n○ 大学等の障害者医療・福祉に関する学科に在籍する学生\n\n希望する方は、添付ファイルにて詳細をご確認ください。\n\n\n#ts",
             "date_modified": "2022-07-15T03:00:00.000Z"
-        },
-        {
-            "id": "d9d6e8f9dab8ee4bf50983254e498db5",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3186",
-            "title": "【資料掲載】令和４度高圧ガスボンベ利用者安全講習会",
-            "summary": "日頃より，安全衛生・健康管理の取組にご協力いただきありがとうございます。\n\n令和４年７月１２日にオンラインにて開催した，令和４年度高圧ガスボンベ利用者安全講習会の資料を、環境安全管理室ホームページへ掲載しました。　\n\n下記URLから資料掲載ページへアクセスしてください。\n\n講習会内容\n1.高圧ガス保安法とガスの種類\n2.容器・バルブ類の構造と注意点\n3.事故から学ぶ高圧ガスの危険性\n4.緊急時の措…",
-            "date_modified": "2022-07-14T03:00:00.000Z"
-        },
-        {
-            "id": "c0c13854575cb1895d6aab6a399778d7",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3185",
-            "title": "【注意喚起】カルト勧誘について",
-            "summary": "学生各位\n\n　最近、様々な行動制限が緩和され、人々の活動が活発になったことに伴い、カルト団体関係の勧誘活動についても全国的に活発化しているようです。\n　カルト団体の勧誘では、はじめは全く宗教の話はなく、サークルやボランティア活動、研究セミナーや勉強会、各種サミットなどを装い、少しずつ巧妙な手段で取り込んでいきます。\n　このような宗教活動で、様々な個人情報を提供させられ、多額の金品を請求されたり、社…",
-            "date_modified": "2022-07-13T03:00:00.000Z"
         }
     ]
 }
