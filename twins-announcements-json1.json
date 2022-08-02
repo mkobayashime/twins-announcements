@@ -5,6 +5,20 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "a2f1bc04b6601d7952a310e9e3ace233",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3210",
+            "title": "【9月27日開催】教育関係共同利用拠点　第3回FD/SD研修会「学生のメンタルヘルスと修学支援」の開催について",
+            "summary": "ダイバーシティ・アクセシビリティ・キャリアセンターでは、令和4年度第3回FD/SD研修会「学生のメンタルヘルスと修学支援」を開催いたします。\n\n充実したキャンパスライフを送るためには心身ともに健康であることが重要だが、大学生期は心身の不安定状態を呈しやすい時期であることに加え、昨今の種々の状況から、潜在的にも顕在的にも不安やストレス等の困難さを抱える学生が多く存在することが想定されます。\n本研修会…",
+            "date_modified": "2022-08-02T03:00:00.000Z"
+        },
+        {
+            "id": "ceacd1513bc7b0c02044ca2a4282a369",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3209",
+            "title": "【再掲】「筑波＿卒業後を考える会」開催のお知らせ",
+            "summary": "筑波大学「世界を変えよう基金アカデミー」では、就活を終えた4年生が自らの経験を下級生に伝える「筑波＿卒業後を考える会」をZoomで開催します。ガクチカ、就活対象先を絞り込んで最終内定先を選んだ過程等、就活を始める皆さんにとって興味深いお話を聞ける機会です。\n\n日程は下記のとおりで、いずれも20:30 開始です。\n① 8/28(日) 国際4年、教育関連企業内定\n② 9/4(日) 日本語・日本文化4年…",
+            "date_modified": "2022-08-02T03:00:00.000Z"
+        },
+        {
             "id": "9d5a99a21f4b8126f8d0f5dc9d1ba3b0",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3208",
             "title": "【再掲】TG⁺プログラム第3期生の募集をしています",
@@ -129,20 +143,6 @@
             "title": "2022年度「学研災付帯 海外留学保険（付帯海学）」の申し込みに際して",
             "summary": "海外留学等に際して付帯海学に申し込むためには、渡航の全期間、学研災に加入している必要がありますが、学研災の加入状況が分からないまま保険代理店（エキスパート株式会社）へ行くケースが増えています。\n\n保険代理店は皆さんの加入状況を把握していませんので、もし加入の有無等がはっきりしない場合には、保険代理店に申し込みへ行く前に、支援室で海外留学等の全期間学研災に加入しているかどうかを必ず確認してください。…",
             "date_modified": "2022-07-15T03:00:00.000Z"
-        },
-        {
-            "id": "d494fd0e9a39f5973f1b127ba7235cc9",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3187",
-            "title": "学生支援員の募集について",
-            "summary": "土浦市教育委員会から、特別な教育的支援を必要とする児童・生徒に対する支援の充実を図るため、学生支援員の 募集ありました。\n\n学生支援員の対象は、以下のとおりです。\n○ 大学等の教職課程のある学科に在籍する学生\n○ 大学等の障害者医療・福祉に関する学科に在籍する学生\n\n希望する方は、添付ファイルにて詳細をご確認ください。\n\n\n#ts",
-            "date_modified": "2022-07-15T03:00:00.000Z"
-        },
-        {
-            "id": "d9d6e8f9dab8ee4bf50983254e498db5",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3186",
-            "title": "【資料掲載】令和４度高圧ガスボンベ利用者安全講習会",
-            "summary": "日頃より，安全衛生・健康管理の取組にご協力いただきありがとうございます。\n\n令和４年７月１２日にオンラインにて開催した，令和４年度高圧ガスボンベ利用者安全講習会の資料を、環境安全管理室ホームページへ掲載しました。　\n\n下記URLから資料掲載ページへアクセスしてください。\n\n講習会内容\n1.高圧ガス保安法とガスの種類\n2.容器・バルブ類の構造と注意点\n3.事故から学ぶ高圧ガスの危険性\n4.緊急時の措…",
-            "date_modified": "2022-07-14T03:00:00.000Z"
         }
     ]
 }
