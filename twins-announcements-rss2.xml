@@ -4,10 +4,21 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Wed, 03 Aug 2022 05:35:21 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 03 Aug 2022 08:08:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
+        <item>
+            <title><![CDATA[令和３年度社会貢献プロジェクト報告書の掲載等について]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3212</link>
+            <guid>e836a26acaff73d7fda0875d45e2f558</guid>
+            <pubDate>Wed, 03 Aug 2022 03:00:00 GMT</pubDate>
+            <description><![CDATA[つくば・地域連携推進室では、本学と社会・地域との多様な形での連携活動やその取組等を「社会貢献プロジェクト」として採択し、経費支援等を行っています。
+※「社会貢献プロジェクト」は、学生も申請できるものとなっています。
+
+このたび、『令和３年度社会貢献プロジェクト報告書』を下記ホームページに掲載しましたのでお知らせします。
+筑波大学社会貢献・地域連携HP：　https://scpj.tsukuba.a…]]></description>
+        </item>
         <item>
             <title><![CDATA[【再掲】ウクライナ避難学生のためのチューター募集について]]></title>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3211</link>
@@ -225,21 +236,6 @@ To determine the number of attendees, please click on each link to watch the …
 　　　　　模型　縮尺1:100
 
 　今回の企画は、未来社会デザイン棟（仮称）の設計にあ…]]></description>
-        </item>
-        <item>
-            <title><![CDATA[【7/20説明会】TG+第3期生を募集します]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3189</link>
-            <guid>43eee5b105067c7cbc5c4b2de041c0ba</guid>
-            <pubDate>Tue, 19 Jul 2022 03:00:00 GMT</pubDate>
-            <description><![CDATA[TG⁺プログラム第３期生の募集をしております！
-
-「さあ、新興国へのドアを開けよう！」
-
-筑波大学グローバル⁺リーダーシップ教育プログラムでは第3期のプログラム生を募集します。募集にあたりプログラム説明会を開催します。プログラムにご興味・相談のある方は、ぜひご参加ください。
-
-2022年7月20日（水） 11:30~12:00
-
-説明会の申し込みは コチラ→https://forms.gle/aq…]]></description>
         </item>
     </channel>
 </rss>

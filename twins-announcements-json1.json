@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "e836a26acaff73d7fda0875d45e2f558",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3212",
+            "title": "令和３年度社会貢献プロジェクト報告書の掲載等について",
+            "summary": "つくば・地域連携推進室では、本学と社会・地域との多様な形での連携活動やその取組等を「社会貢献プロジェクト」として採択し、経費支援等を行っています。\n※「社会貢献プロジェクト」は、学生も申請できるものとなっています。\n\nこのたび、『令和３年度社会貢献プロジェクト報告書』を下記ホームページに掲載しましたのでお知らせします。\n筑波大学社会貢献・地域連携HP：　https://scpj.tsukuba.a…",
+            "date_modified": "2022-08-03T03:00:00.000Z"
+        },
+        {
             "id": "f2ef3c411b0961ab82b31ca5667464a8",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3211",
             "title": "【再掲】ウクライナ避難学生のためのチューター募集について",
@@ -135,13 +142,6 @@
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3190",
             "title": "【作品展示】未来社会デザイン棟（仮称）についての学生有志による提案について",
             "summary": "　現在、本学において計画中の未来社会デザイン棟（仮称）に係るデザイン案について、学生有志からご提案をいただいた作品を下記のとおり展示しますので、是非ご覧ください。\n\n展示期間：令和４年７月２５日（月）から８月５日（金）\n場　　所：本部棟１階ロビー\n作品内容：コンセプト、平面図、パース・スケッチなど（A1判程度）\n　　　　　模型　縮尺1:100\n\n　今回の企画は、未来社会デザイン棟（仮称）の設計にあ…",
-            "date_modified": "2022-07-19T03:00:00.000Z"
-        },
-        {
-            "id": "43eee5b105067c7cbc5c4b2de041c0ba",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3189",
-            "title": "【7/20説明会】TG+第3期生を募集します",
-            "summary": "TG⁺プログラム第３期生の募集をしております！\n\n「さあ、新興国へのドアを開けよう！」\n\n筑波大学グローバル⁺リーダーシップ教育プログラムでは第3期のプログラム生を募集します。募集にあたりプログラム説明会を開催します。プログラムにご興味・相談のある方は、ぜひご参加ください。\n\n2022年7月20日（水） 11:30~12:00\n\n説明会の申し込みは コチラ→https://forms.gle/aq…",
             "date_modified": "2022-07-19T03:00:00.000Z"
         }
     ]
