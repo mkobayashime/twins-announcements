@@ -4,7 +4,7 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Wed, 03 Aug 2022 15:11:13 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 03 Aug 2022 21:09:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
@@ -182,10 +182,16 @@ To determine the number of attendees, please click on each link to watch the …
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3194</link>
             <guid>5056f678cf41de27d5404f2405561af4</guid>
             <pubDate>Fri, 22 Jul 2022 03:00:00 GMT</pubDate>
-            <description><![CDATA[夏季休業を目前に控える現在も国内外で新型コロナウイルスの影響が継続していることから、本学では「海外での危機発生時における学生及び教職員の渡航に関する指針」において、次のとおり定めておりますこと、あらためてお知らせします。
-
-●本学では常時より、学生（留学生含む）の海外渡航について、外務省が発出する危険情報または感染症危険情報がレベル2以上の国・地域においては、原則取り止めるよう定めています。
-ただ…]]></description>
+            <description><![CDATA[「研究渡航体験記」開催のお知らせ
+研究渡航を果たした2名の博士後期課程学生お呼びして渡航に至るまでの経緯やこれからのキャリアについてをお話しいただきます。
+興味がある方はぜひ参加してください。
+【開催日時】
+2022年8月8日(月)16:00-17:00
+【内容】カフェでの気軽なミーティングをイメージ☕
+・チェックイン
+・スピーカー講演
+・スピーカーと司会を交えた質疑応答タイム
+・全体での振り返り…]]></description>
         </item>
         <item>
             <title><![CDATA[【見逃し配信】教育関係共同利用拠点「ダイバーシティ＆インクルージョン教育拠点」FD/SD研修会「吃音のある学生の理解と支援」]]></title>
@@ -201,9 +207,9 @@ To determine the number of attendees, please click on each link to watch the …
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3192</link>
             <guid>3c0d55ea0e7e4badb8f7f01b8ec81b8d</guid>
             <pubDate>Fri, 22 Jul 2022 03:00:00 GMT</pubDate>
-            <description><![CDATA[令和4年6月28日（火）に開催しました、令和4年度第1回教育関係共同利用拠点「ダイバーシティ＆インクルージョン教育拠点」FD/SD研修会「吃音のある学生の理解と支援」の見逃し配信を行います。
-見逃し配信は、安定したインターネットに接続できる端末をご用意いただければ、下記の視聴期間中いつでもどこでも自由に視聴することができます。申込後に見逃し配信への接続方法がメールで自動的に通知されます。
-つきまし…]]></description>
+            <description><![CDATA[筑波大学「世界を変えよう基金」は、2015年12月本学客員教授を務めていた鈴木英明氏の提唱により創設され、大学内外の社会的・文化的ニーズに貢献する活動を行う筑波大学生を対象に資金支援を行っています。
+
+2020年秋学期から、新型肺炎感染拡大により経済的に困窮する学生が急増した状況に鑑み、経済的困難に直面しながらも将来海外で活躍する意欲を有する学生に対して、奨学金（月２万円）を支給しています。奨学金…]]></description>
         </item>
         <item>
             <title><![CDATA[「筑波＿卒業後を考える会」開催のお知らせ]]></title>
@@ -222,12 +228,14 @@ To determine the number of attendees, please click on each link to watch the …
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3190</link>
             <guid>7f259116c69263fa474396162b7218b2</guid>
             <pubDate>Tue, 19 Jul 2022 03:00:00 GMT</pubDate>
-            <description><![CDATA[筑波大学「世界を変えよう基金アカデミー」では、就活を終えた4年生が自らの経験を下級生に伝える「筑波＿卒業後を考える会」をZoomで開催します。ガクチカ、就活対象先を絞り込んで最終内定先を選んだ過程等、就活を始める皆さんにとって興味深いお話を聞ける機会です。
+            <description><![CDATA[　現在、本学において計画中の未来社会デザイン棟（仮称）に係るデザイン案について、学生有志からご提案をいただいた作品を下記のとおり展示しますので、是非ご覧ください。
 
-日程は下記のとおりで、いずれも20:30 開始です。
+展示期間：令和４年７月２５日（月）から８月５日（金）
+場　　所：本部棟１階ロビー
+作品内容：コンセプト、平面図、パース・スケッチなど（A1判程度）
+　　　　　模型　縮尺1:100
 
-① 8/28(日) 国際4年、教育関連企業内定
-② 9/4(日) 日本語・日本文化4…]]></description>
+　今回の企画は、未来社会デザイン棟（仮称）の設計にあ…]]></description>
         </item>
     </channel>
 </rss>
