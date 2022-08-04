@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "d360839e66b9dc54d9b16985d3a31ee7",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3215",
+            "title": "【注意喚起】課外活動等における注意喚起について",
+            "summary": "　日頃より課外活動における感染拡大防止対策にご協力いただきありがとうございます。\n　直近の新型コロナウイルス感染者数の拡大を踏まえ、別紙「課外活動等における注意喚起について」のとおり注意喚起します。\n　また、関連して文部科学省から以下の通知がありましたので、これらについても留意してください。\n\n\n＜文部科学省通知＞\n・新型コロナウイルス感染症対策の基本的対処方針の変更及び大学等における感染対策の徹…",
+            "date_modified": "2022-08-04T03:00:00.000Z"
+        },
+        {
             "id": "6c3beeb72b509e3cc1ecd332d0135bb4",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3214",
             "title": "【Library】Free Ebook Trial Service(-August 31)",
@@ -135,13 +142,6 @@
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3193",
             "title": "【見逃し配信】教育関係共同利用拠点「ダイバーシティ＆インクルージョン教育拠点」FD/SD研修会「吃音のある学生の理解と支援」",
             "summary": "令和4年6月28日（火）に開催しました、令和4年度第1回教育関係共同利用拠点「ダイバーシティ＆インクルージョン教育拠点」FD/SD研修会「吃音のある学生の理解と支援」の見逃し配信を行います。\n見逃し配信は、安定したインターネットに接続できる端末をご用意いただければ、下記の視聴期間中いつでもどこでも自由に視聴することができます。申込後に見逃し配信への接続方法がメールで自動的に通知されます。\nつきまし…",
-            "date_modified": "2022-07-22T03:00:00.000Z"
-        },
-        {
-            "id": "3c0d55ea0e7e4badb8f7f01b8ec81b8d",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3192",
-            "title": "筑波大学「世界を変えよう基金」鈴木奨学金2022年秋学期奨学生募集のお知らせ",
-            "summary": "筑波大学「世界を変えよう基金」は、2015年12月本学客員教授を務めていた鈴木英明氏の提唱により創設され、大学内外の社会的・文化的ニーズに貢献する活動を行う筑波大学生を対象に資金支援を行っています。\n\n2020年秋学期から、新型肺炎感染拡大により経済的に困窮する学生が急増した状況に鑑み、経済的困難に直面しながらも将来海外で活躍する意欲を有する学生に対して、奨学金（月２万円）を支給しています。奨学金…",
             "date_modified": "2022-07-22T03:00:00.000Z"
         }
     ]
