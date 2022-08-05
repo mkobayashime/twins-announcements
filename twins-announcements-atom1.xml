@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/mkobayashime/twins-announcements</id>
     <title>在学生へのお知らせ | 筑波大学</title>
-    <updated>2022-08-04T21:08:46.899Z</updated>
+    <updated>2022-08-05T03:06:52.003Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://github.com/mkobayashime/twins-announcements"/>
     <subtitle>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</subtitle>
+    <entry>
+        <title type="html"><![CDATA[2023年秋学期渡航分　カリフォルニア州立大学への派遣留学生募集について]]></title>
+        <id>4f693ece968fb951ccc80bffd3f74034</id>
+        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3217"/>
+        <updated>2022-08-05T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[本学の国際交流協定校であるカリフォルニア州立大学について、2023年秋学期より長期派遣（1 年以内）を希望する学生を募集します。
+申請を希望する学生は、下記URLより募集要項等をよく確認の上、応募してください。
+
+対象：学群の正規課程に在籍する者
+応募締切：2022年10月21日（金）7：30AM
+語学要件：TOEFL-iBT76点（推奨80点）以上/ IELTS 6.0 以上
+　　　　　※応募時…]]></summary>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【注意喚起】課外活動等における注意喚起について]]></title>
         <id>d360839e66b9dc54d9b16985d3a31ee7</id>
@@ -222,14 +235,5 @@ To determine the number of attendees, please click on each link to watch the …
 ・スピーカー講演
 ・スピーカーと司会を交えた質疑応答タイム
 ・全体での振り返り…]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【見逃し配信】教育関係共同利用拠点「ダイバーシティ＆インクルージョン教育拠点」FD/SD研修会「吃音のある学生の理解と支援」]]></title>
-        <id>df280a9e3ff9c5a46714098c25273716</id>
-        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3193"/>
-        <updated>2022-07-22T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[令和4年6月28日（火）に開催しました、令和4年度第1回教育関係共同利用拠点「ダイバーシティ＆インクルージョン教育拠点」FD/SD研修会「吃音のある学生の理解と支援」の見逃し配信を行います。
-見逃し配信は、安定したインターネットに接続できる端末をご用意いただければ、下記の視聴期間中いつでもどこでも自由に視聴することができます。申込後に見逃し配信への接続方法がメールで自動的に通知されます。
-つきまし…]]></summary>
     </entry>
 </feed>

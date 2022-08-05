@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "4f693ece968fb951ccc80bffd3f74034",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3217",
+            "title": "2023年秋学期渡航分　カリフォルニア州立大学への派遣留学生募集について",
+            "summary": "本学の国際交流協定校であるカリフォルニア州立大学について、2023年秋学期より長期派遣（1 年以内）を希望する学生を募集します。\n申請を希望する学生は、下記URLより募集要項等をよく確認の上、応募してください。\n\n対象：学群の正規課程に在籍する者\n応募締切：2022年10月21日（金）7：30AM\n語学要件：TOEFL-iBT76点（推奨80点）以上/ IELTS 6.0 以上\n　　　　　※応募時…",
+            "date_modified": "2022-08-05T03:00:00.000Z"
+        },
+        {
             "id": "d360839e66b9dc54d9b16985d3a31ee7",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3216",
             "title": "【注意喚起】課外活動等における注意喚起について",
@@ -135,13 +142,6 @@
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3194",
             "title": "NEW🌟「研究渡航体験記」開催のお知らせ",
             "summary": "「研究渡航体験記」開催のお知らせ\n研究渡航を果たした2名の博士後期課程学生お呼びして渡航に至るまでの経緯やこれからのキャリアについてをお話しいただきます。\n興味がある方はぜひ参加してください。\n【開催日時】\n2022年8月8日(月)16:00-17:00\n【内容】カフェでの気軽なミーティングをイメージ☕\n・チェックイン\n・スピーカー講演\n・スピーカーと司会を交えた質疑応答タイム\n・全体での振り返り…",
-            "date_modified": "2022-07-22T03:00:00.000Z"
-        },
-        {
-            "id": "df280a9e3ff9c5a46714098c25273716",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3193",
-            "title": "【見逃し配信】教育関係共同利用拠点「ダイバーシティ＆インクルージョン教育拠点」FD/SD研修会「吃音のある学生の理解と支援」",
-            "summary": "令和4年6月28日（火）に開催しました、令和4年度第1回教育関係共同利用拠点「ダイバーシティ＆インクルージョン教育拠点」FD/SD研修会「吃音のある学生の理解と支援」の見逃し配信を行います。\n見逃し配信は、安定したインターネットに接続できる端末をご用意いただければ、下記の視聴期間中いつでもどこでも自由に視聴することができます。申込後に見逃し配信への接続方法がメールで自動的に通知されます。\nつきまし…",
             "date_modified": "2022-07-22T03:00:00.000Z"
         }
     ]
