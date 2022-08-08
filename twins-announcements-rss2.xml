@@ -4,10 +4,25 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Sun, 07 Aug 2022 21:08:41 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 08 Aug 2022 06:08:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
+        <item>
+            <title><![CDATA[【お知らせ】情報処理エンジニア育成セミナーの受講者募集]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3218</link>
+            <guid>9341f10b34b80a32886089a2f425b667</guid>
+            <pubDate>Mon, 08 Aug 2022 03:00:00 GMT</pubDate>
+            <description><![CDATA[茨城大学社会連携センターからのお知らせです。
+
++++
+産業の情報化が急激に進む中、高度なIT知識を持つ人材の需要は日に日に高まっています。
+茨城大学では、茨城県と連携して情報処理エンジニアを育成するセミナーを本年度も開催いたします。
+大学教員から専門知識を学びながら、ITエンジニアの登竜門とされる「基本情報技術者試験」の試験対策も行う、充実の内容となっています。
+
+■開催方法
+対面またはオンライ…]]></description>
+        </item>
         <item>
             <title><![CDATA[2023年秋学期渡航分　カリフォルニア州立大学への派遣留学生募集について]]></title>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3217</link>
@@ -221,22 +236,6 @@ To determine the number of attendees, please click on each link to watch the …
 
 ●本学では常時より、学生（留学生含む）の海外渡航について、外務省が発出する危険情報または感染症危険情報がレベル2以上の国・地域においては、原則取り止めるよう定めています。
 ただ…]]></description>
-        </item>
-        <item>
-            <title><![CDATA[NEW🌟「研究渡航体験記」開催のお知らせ]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3194</link>
-            <guid>5056f678cf41de27d5404f2405561af4</guid>
-            <pubDate>Fri, 22 Jul 2022 03:00:00 GMT</pubDate>
-            <description><![CDATA[「研究渡航体験記」開催のお知らせ
-研究渡航を果たした2名の博士後期課程学生お呼びして渡航に至るまでの経緯やこれからのキャリアについてをお話しいただきます。
-興味がある方はぜひ参加してください。
-【開催日時】
-2022年8月8日(月)16:00-17:00
-【内容】カフェでの気軽なミーティングをイメージ☕
-・チェックイン
-・スピーカー講演
-・スピーカーと司会を交えた質疑応答タイム
-・全体での振り返り…]]></description>
         </item>
     </channel>
 </rss>
