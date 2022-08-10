@@ -4,10 +4,25 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Tue, 09 Aug 2022 21:08:52 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 10 Aug 2022 02:30:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
+        <item>
+            <title><![CDATA[【大学院生募集（化学）】総合学域群ラーニングサポーター]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3221</link>
+            <guid>b4cdf60712c223637473dc2dc5b43747</guid>
+            <pubDate>Wed, 10 Aug 2022 03:00:00 GMT</pubDate>
+            <description><![CDATA[総合学域群では、総合学域群生に対して個別の学修相談を行う大学院生（化学担当）を募集します。
+詳細は添付のポスターをご確認ください。
+
+＊給与：本学給与規則により決定(1,290円/時間(修士号を有する方は1,470円/時間))
+＊募集締切：8/25（木）
+
+ぜひ気軽にお問合せ・応募してください。
+scs-jimu@un.tsukuba.ac.jp
+]]></description>
+        </item>
         <item>
             <title><![CDATA[【お知らせ】茨城県学生ビジネスプランコンテスト2022]]></title>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3220</link>
@@ -227,13 +242,6 @@ SDGsアイデア賞、ちばぎんアイデア賞、はまぎんアイデア賞�
             <pubDate>Mon, 25 Jul 2022 03:00:00 GMT</pubDate>
             <description><![CDATA[On-demand English subtitled version of the Laboratory Waste Management Workshop for Students held on Friday, May 20, 2022.
 To determine the number of attendees, please click on each link to watch the …]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Notice on the current alert for overseas travel]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3196</link>
-            <guid>3beb214e7e459694966878bfdb2999f2</guid>
-            <pubDate>Fri, 22 Jul 2022 03:00:00 GMT</pubDate>
-            <description><![CDATA[In light of the continuous impact of COVID-19 at home and overseas today when we are close to summer recess, we would like to inform you again that our university has a rule on overseas travel, based …]]></description>
         </item>
     </channel>
 </rss>

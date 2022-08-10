@@ -2,10 +2,25 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/mkobayashime/twins-announcements</id>
     <title>在学生へのお知らせ | 筑波大学</title>
-    <updated>2022-08-09T21:08:52.315Z</updated>
+    <updated>2022-08-10T02:30:57.348Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://github.com/mkobayashime/twins-announcements"/>
     <subtitle>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</subtitle>
+    <entry>
+        <title type="html"><![CDATA[【大学院生募集（化学）】総合学域群ラーニングサポーター]]></title>
+        <id>b4cdf60712c223637473dc2dc5b43747</id>
+        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3221"/>
+        <updated>2022-08-10T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[総合学域群では、総合学域群生に対して個別の学修相談を行う大学院生（化学担当）を募集します。
+詳細は添付のポスターをご確認ください。
+
+＊給与：本学給与規則により決定(1,290円/時間(修士号を有する方は1,470円/時間))
+＊募集締切：8/25（木）
+
+ぜひ気軽にお問合せ・応募してください。
+scs-jimu@un.tsukuba.ac.jp
+]]></summary>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【お知らせ】茨城県学生ビジネスプランコンテスト2022]]></title>
         <id>ee7d9a593f7ad1861a3aa09ada4e80ba</id>
@@ -225,12 +240,5 @@ SDGsアイデア賞、ちばぎんアイデア賞、はまぎんアイデア賞�
         <updated>2022-07-25T03:00:00.000Z</updated>
         <summary type="html"><![CDATA[On-demand English subtitled version of the Laboratory Waste Management Workshop for Students held on Friday, May 20, 2022.
 To determine the number of attendees, please click on each link to watch the …]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Notice on the current alert for overseas travel]]></title>
-        <id>3beb214e7e459694966878bfdb2999f2</id>
-        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3196"/>
-        <updated>2022-07-22T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[In light of the continuous impact of COVID-19 at home and overseas today when we are close to summer recess, we would like to inform you again that our university has a rule on overseas travel, based …]]></summary>
     </entry>
 </feed>
