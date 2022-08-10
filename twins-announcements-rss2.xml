@@ -4,10 +4,20 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Wed, 10 Aug 2022 07:04:46 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 10 Aug 2022 09:05:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
+        <item>
+            <title><![CDATA[夏季休業期間中の新型コロナウイルス感染症に関する注意喚起について]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3225</link>
+            <guid>ef1e61bb6200134f0aef5f2194205a51</guid>
+            <pubDate>Wed, 10 Aug 2022 03:00:00 GMT</pubDate>
+            <description><![CDATA[夏季休業期間中の新型コロナウイルス感染症の注意喚起について通知しています。
+詳細は以下のURL（本学公式HP）を確認ください。
+
+]]></description>
+        </item>
         <item>
             <title><![CDATA[【参加者募集9/9〆切】３大学合同COOL型未来開拓セミナー]]></title>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3224</link>
@@ -241,16 +251,6 @@ ECサイトは以下のリンクから
 
 ＜概要＞
 ・各大学の紹介、文…]]></description>
-        </item>
-        <item>
-            <title><![CDATA[「新型コロナウイルス感染が疑われる場合の本人の行動フロー」の改定について]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3202</link>
-            <guid>dff7e0d1c754cc1987c8fa15bb48bd88</guid>
-            <pubDate>Tue, 26 Jul 2022 03:00:00 GMT</pubDate>
-            <description><![CDATA[令和４年７月22日付けで、厚生労働省新型コロナウイルス感染症対策推進本部が濃厚接触者の待機期間の見直し（７日間から５日間への短縮等）を行ったことを受け、本学においても「新型コロナウイルス感染が疑われる場合の本人の行動フロー」を以下のとおり改定します。
-
-詳細は以下のリンク（本学公式HP）をご確認ください。
-]]></description>
         </item>
     </channel>
 </rss>
