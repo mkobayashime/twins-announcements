@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "6b25fd2d0603e5f0226f10a4529ce165",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3226",
+            "title": "【Reminder】Laboratory Waste Management Workshop 2022　On-campus use only",
+            "summary": "On-demand English subtitled version of the Laboratory Waste Management Workshop for Students held on Friday, May 20, 2022.\nTo determine the number of attendees, please click on each link to watch the …",
+            "date_modified": "2022-08-12T03:00:00.000Z"
+        },
+        {
             "id": "ef1e61bb6200134f0aef5f2194205a51",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3225",
             "title": "夏季休業期間中の新型コロナウイルス感染症に関する注意喚起について",
@@ -136,13 +143,6 @@
             "title": "【9/4開催】一般公開WEBイベント「青年期・成人期における発達障害のある人を誰一人取り残さない社会に向けて」の開催について",
             "summary": "一般公開WEBイベント「青年期・成人期における発達障害のある人を誰一人取り残さない社会に向けて」を（Zoomウェビナー）開催いたします。SDGsの理念である「誰一人取り残さない」社会に向けて、青年期・成人における発達障害のある人を取り巻く現状や課題、そして、私たちが取り組めることについて議論します。ご関心のある方は、ぜひご参加ください！\n\n【開催日時】\n　令和4(2022)年9月4日（日）13:0…",
             "date_modified": "2022-07-28T03:00:00.000Z"
-        },
-        {
-            "id": "2ee9b9d657aa98f5d17835e29d571160",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3203",
-            "title": "7/29応募締切：国立台湾大学とのオンライン学生交流プログラム：UT×NTU Online Forum on SDGs#5",
-            "summary": "2022年8月開催の台湾とのオンライン学生交流プログラムに参加する学生を募集します！\n国立台湾大学の学生と友達になって将来の留学につなげよう！\n\n＜目的＞\n・国立台湾大学の学生と交流を深める\n・SDGsやグローバルイシューについて、英語でディスカッションを行う\n・言語や文化交流を行う\n\n＜ディスカッション・トピック＞\n・ジェンダー平等を実現しよう（SGDs 目標5）\n\n＜概要＞\n・各大学の紹介、文…",
-            "date_modified": "2022-07-27T03:00:00.000Z"
         }
     ]
 }
