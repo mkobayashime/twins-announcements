@@ -9,22 +9,19 @@ import type { Announcement } from "./types";
 const getAnnouncementBody = async (
   page: puppeteer.Page,
 ): Promise<Pick<Announcement, "text" | "url">> => {
-  const targetIFrame = (await page.$(
-    "iframe#main-frame-if",
-    /**
-     * Looks terrible, but the only way out there.
-     * puppeteer doesn't infer Element type with kind of complex queries like above,
-     * and we cannot pass sth like `HTMLIFrameElement` as type parameter
-     * without `unknown` cast. Even if we can do that, specifying
-     * the type of element manually is no longer safer than `unknown` casting.
-     */
-  )) as unknown as ElementHandle<HTMLIFrameElement> | null;
+  const targetIFrame = await page.$("iframe#main-frame-if");
   if (!targetIFrame) {
     throw new Error("Target iframe not found");
   }
 
   const { text, url }: Pick<Announcement, "text" | "url"> =
     await targetIFrame.evaluate(async (iframe) => {
+      if (!(iframe instanceof HTMLIFrameElement)) {
+        throw new Error(
+          "targetIFrame doesn't have element of HTMLIFrameElement",
+        );
+      }
+
       const iFrameSrc = iframe.getAttribute("src");
       if (!iFrameSrc) throw new Error("iFrameSrc not found");
 
