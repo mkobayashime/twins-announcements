@@ -5,6 +5,20 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "a59936d6e3542dadbb17f74bf5628f1f",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3229",
+            "title": "カスミ筑波大学店太陽光発電設備工事のお知らせ",
+            "summary": "カスミ筑波大学店の太陽光発電設備工事に伴い、以下の日程で店舗駐車場に工事車両を駐車しての作業を行いますのでお知らせします。\n\n１．日時\n　　機材搬入搬出クレーン作業\n　　搬入：８月２７日（土）ＡＭ０時　～　ＡＭ１時予定\n　　搬出：９月　７日（水）ＡＭ８時　～　ＰＭ１７時予定\n　　（※荒天の場合は延期になります。）\n\n２．工事内容\n　　資材搬入搬出クレーン作業：駐車場にクレーンを設置して店舗屋上へ資…",
+            "date_modified": "2022-08-22T03:00:00.000Z"
+        },
+        {
+            "id": "fac5fc2b24a465f1934ec8d855b761e7",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3228",
+            "title": "チューター募集について",
+            "summary": "2022年10月に多くの留学生が入学する予定です。\n(実際の入学時期については、コロナ禍の影響により変更となる場合があります。)\nこれに伴い、チューター支援（主に生活の立ち上げ支援、必要に応じてオンライン支援も可）を必要とするケースも増加する見込みです。\n本学においては、チューターバンク制度を2020年度より運用開始しており、チューターに興味があるが、周りに留学生がおらず、チューターの依頼が見込ま…",
+            "date_modified": "2022-08-22T03:00:00.000Z"
+        },
+        {
             "id": "7a430374286fd500c37fc01ffbd94de2",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3227",
             "title": "【開催案内】第36回「中央ユーラシアと日本の未来」公開講演会_高田世界館 支配人 上野迪音氏_8/30(火)",
@@ -128,20 +142,6 @@
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3208",
             "title": "【再掲】TG⁺プログラム第3期生の募集をしています",
             "summary": "TG⁺プログラム第３期生の募集を開始します！\n\n「さあ、新興国へのドアを開けよう！」\n\n筑波大学グローバル⁺リーダーシップ教育プログラムでは第3期のプログラム生を募集します。プログラムにご興味・相談のある方、ご質問等ございましたらお気軽にTG事務局（tgplus-office@ml.cc.tsukuba.ac.jp）までお問い合わせください。\n\nプログラムHP：https://tgplus.has…",
-            "date_modified": "2022-08-01T03:00:00.000Z"
-        },
-        {
-            "id": "d188e0b49043660c88be7d224b46abd6",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3207",
-            "title": "【お知らせ】筑波大学公式オリジナルグッズECサイト割引クーポンコード（8月）",
-            "summary": "筑波大学公式オリジナルグッズ販売サイト「TSUKUBA-SHOP」の8月の割引クーポンコードをお知らせいたします！\n\nTシャツやネックストラップ、マグカップなど様々な商品をお取り扱いしております。\n\nどうぞご覧いただき、皆様の「日常生活」、「思い出」、「プレゼント」などにご活用いただけますと幸いです。\n\n\nECサイトは以下のリンクから\n\n有効期間：2022年8月1日（月）～2022年8月31日（水…",
-            "date_modified": "2022-08-01T03:00:00.000Z"
-        },
-        {
-            "id": "d84df776c5060fcc74efbb5725322609",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3206",
-            "title": "[募集] 研究・実験補助業務スタッフ （対象：博士課程への進学希望・興味がある学群生）",
-            "summary": "ヒューマニクス学位プログラムでは、博士課程への進学を希望・興味がある学群生を対象に、研究・実験補助業務スタッフを募集しております。（10月開始予定）\n\n応募希望の学生は、当プログラム ホームページの「学類生支援制度募集／Early Exposure Program (EEP)」をご確認の上、Humanics Early Exposure Program 申請書を8月25日（木）までにグローバル教育…",
             "date_modified": "2022-08-01T03:00:00.000Z"
         }
     ]
