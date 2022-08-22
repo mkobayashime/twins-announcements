@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "bab3be0328fb3d0f0e8a9287ba43f8bc",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3230",
+            "title": "9/26（月）第5回ヒューマニクス学位プログラムシンポジウム「バイオインフォマティクス最前線～異分野連携が拓く未来～」開催のお知らせ",
+            "summary": "学生の皆さまへ\n\n5年一貫制博士課程「ヒューマニクス学位プログラム」より、第5回ヒューマニクス学位プログラムシンポジウム「バイオインフォマティクス最前線～異分野連携が拓く未来～」開催のご案内です。\n\n＊＊＊＊＊＊\nコロナパンデミック以降、DNAやタンパク質の解析といったバイオインフォマティクスが注目を集めています。本シンポジウムでは、バイオインフォマティス関連の研究者に最先端の研究についてご講演い…",
+            "date_modified": "2022-08-22T03:00:00.000Z"
+        },
+        {
             "id": "a59936d6e3542dadbb17f74bf5628f1f",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3229",
             "title": "カスミ筑波大学店太陽光発電設備工事のお知らせ",
@@ -136,13 +143,6 @@
             "title": "【再掲】「筑波＿卒業後を考える会」開催のお知らせ",
             "summary": "筑波大学「世界を変えよう基金アカデミー」では、就活を終えた4年生が自らの経験を下級生に伝える「筑波＿卒業後を考える会」をZoomで開催します。ガクチカ、就活対象先を絞り込んで最終内定先を選んだ過程等、就活を始める皆さんにとって興味深いお話を聞ける機会です。\n\n日程は下記のとおりで、いずれも20:30 開始です。\n① 8/28(日) 国際4年、教育関連企業内定\n② 9/4(日) 日本語・日本文化4年…",
             "date_modified": "2022-08-02T03:00:00.000Z"
-        },
-        {
-            "id": "9d5a99a21f4b8126f8d0f5dc9d1ba3b0",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3208",
-            "title": "【再掲】TG⁺プログラム第3期生の募集をしています",
-            "summary": "TG⁺プログラム第３期生の募集を開始します！\n\n「さあ、新興国へのドアを開けよう！」\n\n筑波大学グローバル⁺リーダーシップ教育プログラムでは第3期のプログラム生を募集します。プログラムにご興味・相談のある方、ご質問等ございましたらお気軽にTG事務局（tgplus-office@ml.cc.tsukuba.ac.jp）までお問い合わせください。\n\nプログラムHP：https://tgplus.has…",
-            "date_modified": "2022-08-01T03:00:00.000Z"
         }
     ]
 }
