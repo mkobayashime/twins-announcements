@@ -2,10 +2,24 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/mkobayashime/twins-announcements</id>
     <title>在学生へのお知らせ | 筑波大学</title>
-    <updated>2022-08-23T21:09:43.001Z</updated>
+    <updated>2022-08-24T03:25:20.557Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://github.com/mkobayashime/twins-announcements"/>
     <subtitle>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</subtitle>
+    <entry>
+        <title type="html"><![CDATA[9/29（木）オンライン時代の学生のメンタルケア～こころの専門家と考えよう 若者のいのち～]]></title>
+        <id>899850fa92ce333e981cd0c6470f21f1</id>
+        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3231"/>
+        <updated>2022-08-24T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[学生の皆さまへ
+
+東京都主催、医学医療系共催で標記講演会を開催します。
+日時：9月29日（木曜日）14時00分から16時30分まで
+実施方法：オンライン開催（無料オンライン配信ツールにより、ライブ配信にて開催）
+
+都内在住以外の方でも参加可能です。申込方法等の詳細は以下の東京都ホームページをご確認ください。
+https://www.fukushihoken.metro.tokyo.lg.jp/ir…]]></summary>
+    </entry>
     <entry>
         <title type="html"><![CDATA[9/26（月）第5回ヒューマニクス学位プログラムシンポジウム「バイオインフォマティクス最前線～異分野連携が拓く未来～」開催のお知らせ]]></title>
         <id>bab3be0328fb3d0f0e8a9287ba43f8bc</id>
@@ -235,16 +249,5 @@ You can try any part of the eBooks from the following eBook platforms for free f
 
 充実したキャンパスライフを送るためには心身ともに健康であることが重要だが、大学生期は心身の不安定状態を呈しやすい時期であることに加え、昨今の種々の状況から、潜在的にも顕在的にも不安やストレス等の困難さを抱える学生が多く存在することが想定されます。
 本研修会…]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【再掲】「筑波＿卒業後を考える会」開催のお知らせ]]></title>
-        <id>ceacd1513bc7b0c02044ca2a4282a369</id>
-        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3209"/>
-        <updated>2022-08-02T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[筑波大学「世界を変えよう基金アカデミー」では、就活を終えた4年生が自らの経験を下級生に伝える「筑波＿卒業後を考える会」をZoomで開催します。ガクチカ、就活対象先を絞り込んで最終内定先を選んだ過程等、就活を始める皆さんにとって興味深いお話を聞ける機会です。
-
-日程は下記のとおりで、いずれも20:30 開始です。
-① 8/28(日) 国際4年、教育関連企業内定
-② 9/4(日) 日本語・日本文化4年…]]></summary>
     </entry>
 </feed>
