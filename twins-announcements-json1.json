@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "88c2b3f47c0a3727073f919dfae460f1",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3232",
+            "title": "（学術情報メディアセンター）障害発生による一時的な連絡先について / Temporary contact information due to system trouble",
+            "summary": "学術情報メディアセンターのサーバに障害が発生したため、全学計算機システム、\nMicrosoft 関連、その他のソフトウェアに関する問い合わせ用のアドレスへメールが\n届きません。当面の間は、問い合わせ等は次のアドレスへお送りください。\n\n全学計算機システム： icho-inquiry-tmp_AT_rose.cc.tsukuba.ac.jp\nMicrosoft 関連　　：ms-inquiry-tmp…",
+            "date_modified": "2022-08-24T03:00:00.000Z"
+        },
+        {
             "id": "899850fa92ce333e981cd0c6470f21f1",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3231",
             "title": "9/29（木）オンライン時代の学生のメンタルケア～こころの専門家と考えよう 若者のいのち～",
@@ -136,13 +143,6 @@
             "title": "【再掲】ウクライナ避難学生のためのチューター募集について",
             "summary": "◎引き続きチューターを募集します。\n\nウクライナ情勢悪化に伴い、本学で学修・研究の継続を希望するウクライナからの学生を支援するため、経済支援（渡航費や生活費支援等）をはじめとした学生支援の取組を開始し、学士課程学生20名の受入れを決定しました。\n学生が円滑に本学での学修を再開するためには、チューター支援（特に生活の立ち上げ支援）が不可欠です。\n\nそのため、当該学生のためのチューターを募集しますので…",
             "date_modified": "2022-08-03T03:00:00.000Z"
-        },
-        {
-            "id": "a2f1bc04b6601d7952a310e9e3ace233",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3210",
-            "title": "【9月27日開催】教育関係共同利用拠点　第3回FD/SD研修会「学生のメンタルヘルスと修学支援」の開催について",
-            "summary": "ダイバーシティ・アクセシビリティ・キャリアセンターでは、令和4年度第3回FD/SD研修会「学生のメンタルヘルスと修学支援」を開催いたします。\n\n充実したキャンパスライフを送るためには心身ともに健康であることが重要だが、大学生期は心身の不安定状態を呈しやすい時期であることに加え、昨今の種々の状況から、潜在的にも顕在的にも不安やストレス等の困難さを抱える学生が多く存在することが想定されます。\n本研修会…",
-            "date_modified": "2022-08-02T03:00:00.000Z"
         }
     ]
 }
