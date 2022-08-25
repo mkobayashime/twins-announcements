@@ -4,7 +4,7 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Thu, 25 Aug 2022 15:12:36 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 25 Aug 2022 21:09:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
@@ -201,8 +201,15 @@ Academic Calendar for 2023-2024 is determined now. To view it, see the following
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3218</link>
             <guid>9341f10b34b80a32886089a2f425b667</guid>
             <pubDate>Mon, 08 Aug 2022 03:00:00 GMT</pubDate>
-            <description><![CDATA[茨城大学より「茨城県学生ビジネスプランコンテスト2022」について案内がありましたので、お知らせします。
-詳細は以下のURLをご参照ください。]]></description>
+            <description><![CDATA[茨城大学社会連携センターからのお知らせです。
+
++++
+産業の情報化が急激に進む中、高度なIT知識を持つ人材の需要は日に日に高まっています。
+茨城大学では、茨城県と連携して情報処理エンジニアを育成するセミナーを本年度も開催いたします。
+大学教員から専門知識を学びながら、ITエンジニアの登竜門とされる「基本情報技術者試験」の試験対策も行う、充実の内容となっています。
+
+■開催方法
+対面またはオンライ…]]></description>
         </item>
         <item>
             <title><![CDATA[2023年秋学期渡航分　カリフォルニア州立大学への派遣留学生募集について]]></title>
