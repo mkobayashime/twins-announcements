@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "efed9bcb4cab53cc4cc0249892fdd592",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3235",
+            "title": "【参加者募集中】課題解決型 海洋開発人材育成プロジェクト演習(Project-Based Learning)",
+            "summary": "日本財団オーシャンイノベーションコンソーシアムよりお知らせです。\n\n今年9月～来年２月にかけて、本コンソーシアムの会員企業７社が直面するビジネス上の実際の課題について、\n大学生・大学院生3～4名のチームで約５ヶ月かけ、その解決策を提案するProject-Based Learning　を実施いたします。\n\n＜参加企業とお題＞\n\n１）日本郵船株式会社\n　　■お題：「我が国の海事産業が抱える課題を解決す…",
+            "date_modified": "2022-08-25T03:00:00.000Z"
+        },
+        {
             "id": "3f281ed38ec07935fc349b37a038dac0",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3234",
             "title": "（復旧）学術情報メディアセンターのメールとwebのサーバ障害について/(Fixed) Web service and e-mail trouble with the ACCC",
@@ -136,13 +143,6 @@
             "title": "【附属図書館】電子ブック 全文無料試し読みサービスのご案内（8月31日まで！）",
             "summary": "附属図書館では、コロナ禍における教育・学習を支援するため、電子ブックの全文無料試し読みサービスを実施しています。\n\n対象プラットフォームの電子ブックからお好きな部分を1タイトルにつき5分間、試し読みすることができます。また、購入を希望される場合にはリクエストを送信することもできます。\n\n日本語の電子ブック5万冊を提供している[KinoDen]の無料サービス期間は8月31日までです。卒論執筆や就職活…",
             "date_modified": "2022-08-04T03:00:00.000Z"
-        },
-        {
-            "id": "e836a26acaff73d7fda0875d45e2f558",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3212",
-            "title": "令和３年度社会貢献プロジェクト報告書の掲載等について",
-            "summary": "つくば・地域連携推進室では、本学と社会・地域との多様な形での連携活動やその取組等を「社会貢献プロジェクト」として採択し、経費支援等を行っています。\n※「社会貢献プロジェクト」は、学生も申請できるものとなっています。\n\nこのたび、『令和３年度社会貢献プロジェクト報告書』を下記ホームページに掲載しましたのでお知らせします。\n筑波大学社会貢献・地域連携HP：　https://scpj.tsukuba.a…",
-            "date_modified": "2022-08-03T03:00:00.000Z"
         }
     ]
 }

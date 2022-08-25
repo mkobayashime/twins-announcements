@@ -4,10 +4,25 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Thu, 25 Aug 2022 06:21:27 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 25 Aug 2022 08:10:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
+        <item>
+            <title><![CDATA[【参加者募集中】課題解決型 海洋開発人材育成プロジェクト演習(Project-Based Learning)]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3235</link>
+            <guid>efed9bcb4cab53cc4cc0249892fdd592</guid>
+            <pubDate>Thu, 25 Aug 2022 03:00:00 GMT</pubDate>
+            <description><![CDATA[日本財団オーシャンイノベーションコンソーシアムよりお知らせです。
+
+今年9月～来年２月にかけて、本コンソーシアムの会員企業７社が直面するビジネス上の実際の課題について、
+大学生・大学院生3～4名のチームで約５ヶ月かけ、その解決策を提案するProject-Based Learning　を実施いたします。
+
+＜参加企業とお題＞
+
+１）日本郵船株式会社
+　　■お題：「我が国の海事産業が抱える課題を解決す…]]></description>
+        </item>
         <item>
             <title><![CDATA[（復旧）学術情報メディアセンターのメールとwebのサーバ障害について/(Fixed) Web service and e-mail trouble with the ACCC]]></title>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3234</link>
@@ -242,17 +257,6 @@ You can try any part of the eBooks from the following eBook platforms for free f
 対象プラットフォームの電子ブックからお好きな部分を1タイトルにつき5分間、試し読みすることができます。また、購入を希望される場合にはリクエストを送信することもできます。
 
 日本語の電子ブック5万冊を提供している[KinoDen]の無料サービス期間は8月31日までです。卒論執筆や就職活…]]></description>
-        </item>
-        <item>
-            <title><![CDATA[令和３年度社会貢献プロジェクト報告書の掲載等について]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3212</link>
-            <guid>e836a26acaff73d7fda0875d45e2f558</guid>
-            <pubDate>Wed, 03 Aug 2022 03:00:00 GMT</pubDate>
-            <description><![CDATA[つくば・地域連携推進室では、本学と社会・地域との多様な形での連携活動やその取組等を「社会貢献プロジェクト」として採択し、経費支援等を行っています。
-※「社会貢献プロジェクト」は、学生も申請できるものとなっています。
-
-このたび、『令和３年度社会貢献プロジェクト報告書』を下記ホームページに掲載しましたのでお知らせします。
-筑波大学社会貢献・地域連携HP：　https://scpj.tsukuba.a…]]></description>
         </item>
     </channel>
 </rss>
