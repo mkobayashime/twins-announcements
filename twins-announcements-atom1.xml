@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/mkobayashime/twins-announcements</id>
     <title>在学生へのお知らせ | 筑波大学</title>
-    <updated>2022-08-24T15:10:57.575Z</updated>
+    <updated>2022-08-25T03:26:35.943Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://github.com/mkobayashime/twins-announcements"/>
     <subtitle>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</subtitle>
+    <entry>
+        <title type="html"><![CDATA[【再掲】【締切間近】TG⁺プログラム第3期生の募集について]]></title>
+        <id>2389f07c408c1ec1f3ad1a8a22049913</id>
+        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3233"/>
+        <updated>2022-08-25T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[TG⁺プログラム第３期生の募集締め切りは、８月31日（水）となっています。
+
+「さあ、新興国へのドアを開けよう！」
+
+筑波大学グローバル⁺リーダーシップ教育プログラムでは第3期のプログラム生を募集しています。プログラムにご興味・相談のある方、ご質問等ございましたらお気軽にTG事務局（tgplus-office@ml.cc.tsukuba.ac.jp）までお問い合わせください。
+
+プログラムHP：h…]]></summary>
+    </entry>
     <entry>
         <title type="html"><![CDATA[（学術情報メディアセンター）障害発生による一時的な連絡先について / Temporary contact information due to system trouble]]></title>
         <id>88c2b3f47c0a3727073f919dfae460f1</id>
@@ -202,13 +215,12 @@ scs-jimu@un.tsukuba.ac.jp
         <id>d360839e66b9dc54d9b16985d3a31ee7</id>
         <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3216"/>
         <updated>2022-08-04T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[本学の国際交流協定校であるカリフォルニア州立大学について、2023年秋学期より長期派遣（1 年以内）を希望する学生を募集します。
-申請を希望する学生は、下記URLより募集要項等をよく確認の上、応募してください。
+        <summary type="html"><![CDATA[　日頃より課外活動における感染拡大防止対策にご協力いただきありがとうございます。
+　直近の新型コロナウイルス感染者数の拡大を踏まえ、別紙「課外活動等における注意喚起について」のとおり注意喚起します。
+　また、関連して文部科学省から以下の通知がありましたので、これらについても留意してください。
 
-対象：学群の正規課程に在籍する者
-応募締切：2022年10月21日（金）7：30AM
-語学要件：TOEFL-iBT76点（推奨80点）以上/ IELTS 6.0 以上
-　　　　　※応募時…]]></summary>
+＜文部科学省通知＞
+・新型コロナウイルス感染症対策の基本的対処方針の変更及び大学等における感染対策の徹底…]]></summary>
     </entry>
     <entry>
         <title type="html"><![CDATA[【Library】Free Ebook Trial Service(-August 31)]]></title>
@@ -240,17 +252,5 @@ You can try any part of the eBooks from the following eBook platforms for free f
 
 このたび、『令和３年度社会貢献プロジェクト報告書』を下記ホームページに掲載しましたのでお知らせします。
 筑波大学社会貢献・地域連携HP：　https://scpj.tsukuba.a…]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【再掲】ウクライナ避難学生のためのチューター募集について]]></title>
-        <id>f2ef3c411b0961ab82b31ca5667464a8</id>
-        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3211"/>
-        <updated>2022-08-03T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[◎引き続きチューターを募集します。
-
-ウクライナ情勢悪化に伴い、本学で学修・研究の継続を希望するウクライナからの学生を支援するため、経済支援（渡航費や生活費支援等）をはじめとした学生支援の取組を開始し、学士課程学生20名の受入れを決定しました。
-学生が円滑に本学での学修を再開するためには、チューター支援（特に生活の立ち上げ支援）が不可欠です。
-
-そのため、当該学生のためのチューターを募集しますので…]]></summary>
     </entry>
 </feed>
