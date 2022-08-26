@@ -2,10 +2,18 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/mkobayashime/twins-announcements</id>
     <title>在学生へのお知らせ | 筑波大学</title>
-    <updated>2022-08-25T21:09:36.360Z</updated>
+    <updated>2022-08-26T05:17:14.096Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://github.com/mkobayashime/twins-announcements"/>
     <subtitle>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</subtitle>
+    <entry>
+        <title type="html"><![CDATA[学内者における臨時駐車車両の駐車場有料化について]]></title>
+        <id>0b7e52c4f0eec55d7a3e6cafa8b8ce03</id>
+        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3237"/>
+        <updated>2022-08-26T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[令和 4 年 10 月 1 日から、本学の駐車場に臨時的に駐車する場合の受付方法を統一します。
+詳細は以下のリンクをご確認ください。]]></summary>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【再掲】令和４年度授業の実施指針について(2022.6.16) / Implementation guidelines of classes in the AY 2022]]></title>
         <id>596863256631f9ed08a4e7d62d57141c</id>
@@ -242,16 +250,5 @@ Academic Calendar for 2023-2024 is determined now. To view it, see the following
         <summary type="html"><![CDATA[In order to support teaching and learning in the COVID-19 pandemic, the library provides an eBook trial service.
 
 You can try any part of the eBooks from the following eBook platforms for free for fiv…]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【附属図書館】電子ブック 全文無料試し読みサービスのご案内（8月31日まで！）]]></title>
-        <id>737ee0c2585d791804cafa53b0810baf</id>
-        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3213"/>
-        <updated>2022-08-04T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[附属図書館では、コロナ禍における教育・学習を支援するため、電子ブックの全文無料試し読みサービスを実施しています。
-
-対象プラットフォームの電子ブックからお好きな部分を1タイトルにつき5分間、試し読みすることができます。また、購入を希望される場合にはリクエストを送信することもできます。
-
-日本語の電子ブック5万冊を提供している[KinoDen]の無料サービス期間は8月31日までです。卒論執筆や就職活…]]></summary>
     </entry>
 </feed>
