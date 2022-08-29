@@ -4,7 +4,7 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Mon, 29 Aug 2022 06:37:31 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 29 Aug 2022 09:10:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
@@ -253,13 +253,15 @@ Academic Calendar for 2023-2024 is determined now. To view it, see the following
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3217</link>
             <guid>4f693ece968fb951ccc80bffd3f74034</guid>
             <pubDate>Fri, 05 Aug 2022 03:00:00 GMT</pubDate>
-            <description><![CDATA[本学の国際交流協定校であるカリフォルニア州立大学について、2023年秋学期より長期派遣（1 年以内）を希望する学生を募集します。
-申請を希望する学生は、下記URLより募集要項等をよく確認の上、応募してください。
+            <description><![CDATA[茨城大学社会連携センターからのお知らせです。
 
-対象：学群の正規課程に在籍する者
-応募締切：2022年10月21日（金）7：30AM
-語学要件：TOEFL-iBT76点（推奨80点）以上/ IELTS 6.0 以上
-　　　　　※応募時…]]></description>
++++
+産業の情報化が急激に進む中、高度なIT知識を持つ人材の需要は日に日に高まっています。
+茨城大学では、茨城県と連携して情報処理エンジニアを育成するセミナーを本年度も開催いたします。
+大学教員から専門知識を学びながら、ITエンジニアの登竜門とされる「基本情報技術者試験」の試験対策も行う、充実の内容となっています。
+
+■開催方法
+対面またはオンライ…]]></description>
         </item>
     </channel>
 </rss>
