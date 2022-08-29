@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "57674da119cdedd98e0a0fe138a041b4",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3239",
+            "title": "「筑波＿卒業後を考える会」後期開催のお知らせ",
+            "summary": "筑波大学「世界を変えよう基金アカデミー」では、就活を終えた4年生が自分の経験を下級生に伝える「筑波＿卒業後を考える会」後期編をZoomで９月２５日から毎週開催します。ガクチカ、就活対象先選定過程、最終内定先決定過程等、就活を始める皆さんにとって興味深いお話を聞ける絶好の機会です。\n\n日程は下記のとおりで、いずれも20:30 開始です。\n9/25(日) 国際4年、素材メーカー内定\n10/2(日) 国…",
+            "date_modified": "2022-08-29T03:00:00.000Z"
+        },
+        {
             "id": "36953ef5bda0d75823f28cd165aa3f91",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3238",
             "title": "【再掲】【開催案内】第36回「中央ユーラシアと日本の未来」公開講演会_高田世界館 支配人 上野迪音氏_8/30(火)",
@@ -136,13 +143,6 @@
             "title": "2023年秋学期渡航分　カリフォルニア州立大学への派遣留学生募集について",
             "summary": "本学の国際交流協定校であるカリフォルニア州立大学について、2023年秋学期より長期派遣（1 年以内）を希望する学生を募集します。\n申請を希望する学生は、下記URLより募集要項等をよく確認の上、応募してください。\n\n対象：学群の正規課程に在籍する者\n応募締切：2022年10月21日（金）7：30AM\n語学要件：TOEFL-iBT76点（推奨80点）以上/ IELTS 6.0 以上\n　　　　　※応募時…",
             "date_modified": "2022-08-05T03:00:00.000Z"
-        },
-        {
-            "id": "d360839e66b9dc54d9b16985d3a31ee7",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3216",
-            "title": "【注意喚起】課外活動等における注意喚起について",
-            "summary": "　日頃より課外活動における感染拡大防止対策にご協力いただきありがとうございます。\n　直近の新型コロナウイルス感染者数の拡大を踏まえ、別紙「課外活動等における注意喚起について」のとおり注意喚起します。\n　また、関連して文部科学省から以下の通知がありましたので、これらについても留意してください。\n\n＜文部科学省通知＞\n・新型コロナウイルス感染症対策の基本的対処方針の変更及び大学等における感染対策の徹底…",
-            "date_modified": "2022-08-04T03:00:00.000Z"
         }
     ]
 }
