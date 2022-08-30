@@ -5,6 +5,27 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "d2c8a124ed5b5ae8ee9b27463b66c1cb",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3242",
+            "title": "Announcement on the Student Health Examination for Fall Semester 2022",
+            "summary": "The Student Health Examination for Fall Semester 2022 will be divided into a physical examination and a mental health survey as follows.\nPlease be sure to take the examination if you are eligible.\n\nPh…",
+            "date_modified": "2022-08-30T03:00:00.000Z"
+        },
+        {
+            "id": "a6dcba2f46e49131eb5b0ef79d9c7a85",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3241",
+            "title": "【お知らせ】サイモン・ケイナー教授（セインズベリー日本藝術研究所所長）による講演会",
+            "summary": "イギリスにおいて日本芸術・文化研究を牽引しているセインズベリー日本藝術研究所\n（イースト・アングリア大学）の所長、サイモン・ケイナー教授による講演会を開催いたします。\n講演会の後では、筑波大学大学院（人文学学位プログラム）の在学生と修了生の研究発表も行います。\nぜひご参加ください。\n\nzoomでの参加を希望の方は、比較文化学類長山口教授(yamaguchi.eriko.gm@u.tsukuba.a…",
+            "date_modified": "2022-08-30T03:00:00.000Z"
+        },
+        {
+            "id": "c49cf90d30cca49af0d6c8d38518456c",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3240",
+            "title": "令和４年度秋学期学生健康診断について",
+            "summary": "令和４年度秋学期学生健康診断について、身体検査とこころの健康調査に分けて以下の通り実施します。\n該当者は必ず受診してください。\n\n身体検査\n１０月２５日（火）から１０月２６日（水）で実施されます。\n【対象】・令和４年９月・10月に入学した学群生・大学院生\n　　　　・令和４年５月以降に来日した非正規留学生\n　　　　・令和４年４月の健康診断実施時に海外にいた学生←※申込必須\n\n心の健康調査\n１０月１２…",
+            "date_modified": "2022-08-30T03:00:00.000Z"
+        },
+        {
             "id": "57674da119cdedd98e0a0fe138a041b4",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3239",
             "title": "「筑波＿卒業後を考える会」後期開催のお知らせ",
@@ -122,27 +143,6 @@
             "title": "令和５年度学年暦について",
             "summary": "学生各位\n\n令和5年度学年暦が決定しましたのでお知らせします。下記の大学HPからご覧ください。\n\n日本語版：http://www.tsukuba.ac.jp/campuslife/calendar/index.html\n英 語 版：https://www.tsukuba.ac.jp/en/academics/academic-calendar/\n",
             "date_modified": "2022-08-10T03:00:00.000Z"
-        },
-        {
-            "id": "ee7d9a593f7ad1861a3aa09ada4e80ba",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3220",
-            "title": "【お知らせ】茨城県学生ビジネスプランコンテスト2022",
-            "summary": "茨城大学より「茨城県学生ビジネスプランコンテスト2022」について案内がありましたので、お知らせします。\n詳細は以下のURLをご参照ください。",
-            "date_modified": "2022-08-09T03:00:00.000Z"
-        },
-        {
-            "id": "9341f10b34b80a32886089a2f425b667",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3218",
-            "title": "【お知らせ】情報処理エンジニア育成セミナーの受講者募集",
-            "summary": "茨城大学社会連携センターからのお知らせです。\n\n+++\n産業の情報化が急激に進む中、高度なIT知識を持つ人材の需要は日に日に高まっています。\n茨城大学では、茨城県と連携して情報処理エンジニアを育成するセミナーを本年度も開催いたします。\n大学教員から専門知識を学びながら、ITエンジニアの登竜門とされる「基本情報技術者試験」の試験対策も行う、充実の内容となっています。\n\n■開催方法\n対面またはオンライ…",
-            "date_modified": "2022-08-08T03:00:00.000Z"
-        },
-        {
-            "id": "4f693ece968fb951ccc80bffd3f74034",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3217",
-            "title": "2023年秋学期渡航分　カリフォルニア州立大学への派遣留学生募集について",
-            "summary": "本学の国際交流協定校であるカリフォルニア州立大学について、2023年秋学期より長期派遣（1 年以内）を希望する学生を募集します。\n申請を希望する学生は、下記URLより募集要項等をよく確認の上、応募してください。\n\n対象：学群の正規課程に在籍する者\n応募締切：2022年10月21日（金）7：30AM\n語学要件：TOEFL-iBT76点（推奨80点）以上/ IELTS 6.0 以上\n　　　　　※応募時…",
-            "date_modified": "2022-08-05T03:00:00.000Z"
         }
     ]
 }
