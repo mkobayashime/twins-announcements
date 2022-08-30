@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "44fa3eaf12190ff89c7e2a4855bd27ed",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3243",
+            "title": "大学入学共通テスト施策問題調査モニター募集",
+            "summary": "大学入試センターでは、新しい高等学校学習指導要領に対応した出題を予定している令和７年度以降の\n大学入学共通テストの試作問題の調査モニターを募集いたします。\n\n【募集対象】大学１年生または大学２年生\n【調査内容】①試作問題の回答\n　　　　　　②アンケートの回答\n　　　　　　詳細は、添付ファイルをご覧ください。\n【実施方法】自宅等での受験（Zoomによる試験監督あり）\n【実施日時】令和４年１１月１０日…",
+            "date_modified": "2022-08-30T03:00:00.000Z"
+        },
+        {
             "id": "d2c8a124ed5b5ae8ee9b27463b66c1cb",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3242",
             "title": "Announcement on the Student Health Examination for Fall Semester 2022",
@@ -135,13 +142,6 @@
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3223",
             "title": "Academic Calendar for 2023-2024 determined",
             "summary": "Dear Students\n\nAcademic Calendar for 2023-2024 is determined now. To view it, see the following page. https://www.tsukuba.ac.jp/en/academics/academic-calendar/\n\n\n",
-            "date_modified": "2022-08-10T03:00:00.000Z"
-        },
-        {
-            "id": "48ee0de997f5ae45f58bd47cbd571f3c",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3222",
-            "title": "令和５年度学年暦について",
-            "summary": "学生各位\n\n令和5年度学年暦が決定しましたのでお知らせします。下記の大学HPからご覧ください。\n\n日本語版：http://www.tsukuba.ac.jp/campuslife/calendar/index.html\n英 語 版：https://www.tsukuba.ac.jp/en/academics/academic-calendar/\n",
             "date_modified": "2022-08-10T03:00:00.000Z"
         }
     ]
