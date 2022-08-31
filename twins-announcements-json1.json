@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "f004cd993b63d0b124f283bdf3092fd6",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3245",
+            "title": "【募集】創基151年筑波大学開学50周年記念事業ポスターデザインについて",
+            "summary": "2023年10月1日、筑波大学は開学50周年、そして創基151年を迎えます。\nこの大きな節目を学内外へ広く周知するためのポスターデザインを募集いたします。\nたくさんのご応募お待ちしております。",
+            "date_modified": "2022-08-31T03:00:00.000Z"
+        },
+        {
             "id": "0b39e5c1f49777a12a6204afb85df3b6",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3244",
             "title": "【お知らせ】筑波大学公式オリジナルグッズECサイト割引クーポンコード（9月）",
@@ -135,13 +142,6 @@
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3223",
             "title": "Academic Calendar for 2023-2024 determined",
             "summary": "Dear Students\n\nAcademic Calendar for 2023-2024 is determined now. To view it, see the following page. https://www.tsukuba.ac.jp/en/academics/academic-calendar/\n\n\n",
-            "date_modified": "2022-08-10T03:00:00.000Z"
-        },
-        {
-            "id": "48ee0de997f5ae45f58bd47cbd571f3c",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3222",
-            "title": "令和５年度学年暦について",
-            "summary": "学生各位\n\n令和5年度学年暦が決定しましたのでお知らせします。下記の大学HPからご覧ください。\n\n日本語版：http://www.tsukuba.ac.jp/campuslife/calendar/index.html\n英 語 版：https://www.tsukuba.ac.jp/en/academics/academic-calendar/\n",
             "date_modified": "2022-08-10T03:00:00.000Z"
         }
     ]

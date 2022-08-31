@@ -4,10 +4,19 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Wed, 31 Aug 2022 00:42:42 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 31 Aug 2022 03:46:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
+        <item>
+            <title><![CDATA[【募集】創基151年筑波大学開学50周年記念事業ポスターデザインについて]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3245</link>
+            <guid>f004cd993b63d0b124f283bdf3092fd6</guid>
+            <pubDate>Wed, 31 Aug 2022 03:00:00 GMT</pubDate>
+            <description><![CDATA[2023年10月1日、筑波大学は開学50周年、そして創基151年を迎えます。
+この大きな節目を学内外へ広く周知するためのポスターデザインを募集いたします。
+たくさんのご応募お待ちしております。]]></description>
+        </item>
         <item>
             <title><![CDATA[【お知らせ】筑波大学公式オリジナルグッズECサイト割引クーポンコード（9月）]]></title>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3244</link>
@@ -246,19 +255,6 @@ To determine the number of attendees, please click on each link to watch the …
 Academic Calendar for 2023-2024 is determined now. To view it, see the following page. https://www.tsukuba.ac.jp/en/academics/academic-calendar/
 
 
-]]></description>
-        </item>
-        <item>
-            <title><![CDATA[令和５年度学年暦について]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3222</link>
-            <guid>48ee0de997f5ae45f58bd47cbd571f3c</guid>
-            <pubDate>Wed, 10 Aug 2022 03:00:00 GMT</pubDate>
-            <description><![CDATA[学生各位
-
-令和5年度学年暦が決定しましたのでお知らせします。下記の大学HPからご覧ください。
-
-日本語版：http://www.tsukuba.ac.jp/campuslife/calendar/index.html
-英 語 版：https://www.tsukuba.ac.jp/en/academics/academic-calendar/
 ]]></description>
         </item>
     </channel>
