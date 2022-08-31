@@ -4,7 +4,7 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Wed, 31 Aug 2022 09:10:55 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 31 Aug 2022 15:10:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
@@ -126,13 +126,8 @@ zoomでの参加を希望の方は、比較文化学類長山口教授(yamaguchi
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3236</link>
             <guid>596863256631f9ed08a4e7d62d57141c</guid>
             <pubDate>Thu, 25 Aug 2022 03:00:00 GMT</pubDate>
-            <description><![CDATA[令和４年度授業の実施指針について、以下のとおりお知らせいたします。
-対面授業が基本となりますので、履修予定科目の実施方法を各種ツール（KdB、manaba、TWINS掲示板など）の情報で随時確認するようにしてください。
-
-
-Dear English readers,
-
-We would like to inform you of the following Implementation guide…]]></description>
+            <description><![CDATA[令和 4 年 10 月 1 日から、本学の駐車場に臨時的に駐車する場合の受付方法を統一します。
+詳細は以下のリンクをご確認ください。]]></description>
         </item>
         <item>
             <title><![CDATA[【参加者募集中】課題解決型 海洋開発人材育成プロジェクト演習(Project-Based Learning)]]></title>
@@ -159,19 +154,6 @@ We would like to inform you of the following Implementation guide…]]></descrip
 今回の不具合に関して、何かお気づきの点などありましたらお知らせください。
 
 The trouble with the Web and e-mail service at the ACCC has been…]]></description>
-        </item>
-        <item>
-            <title><![CDATA[【再掲】【締切間近】TG⁺プログラム第3期生の募集について]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3233</link>
-            <guid>2389f07c408c1ec1f3ad1a8a22049913</guid>
-            <pubDate>Thu, 25 Aug 2022 03:00:00 GMT</pubDate>
-            <description><![CDATA[TG⁺プログラム第３期生の募集締め切りは、８月31日（水）となっています。
-
-「さあ、新興国へのドアを開けよう！」
-
-筑波大学グローバル⁺リーダーシップ教育プログラムでは第3期のプログラム生を募集しています。プログラムにご興味・相談のある方、ご質問等ございましたらお気軽にTG事務局（tgplus-office@ml.cc.tsukuba.ac.jp）までお問い合わせください。
-
-プログラムHP：h…]]></description>
         </item>
         <item>
             <title><![CDATA[9/29（木）オンライン時代の学生のメンタルケア～こころの専門家と考えよう 若者のいのち～]]></title>
@@ -257,6 +239,18 @@ To determine the number of attendees, please click on each link to watch the …
 　グローバル社会において、また予測不能といわれる時代において、
 　自分自身と社会の未来を開拓していくために重要となるのは、
 　背景が異なる他者と対話し、…]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Academic Calendar for 2023-2024 determined]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3223</link>
+            <guid>54a0802cdb5fa99de163ad2bf9a2de09</guid>
+            <pubDate>Wed, 10 Aug 2022 03:00:00 GMT</pubDate>
+            <description><![CDATA[Dear Students
+
+Academic Calendar for 2023-2024 is determined now. To view it, see the following page. https://www.tsukuba.ac.jp/en/academics/academic-calendar/
+
+
+]]></description>
         </item>
     </channel>
 </rss>
