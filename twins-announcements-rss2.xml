@@ -4,10 +4,23 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Thu, 01 Sep 2022 21:11:25 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 02 Sep 2022 00:33:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
+        <item>
+            <title><![CDATA[【SSC公募型】2023年秋学期渡航分／CiCパートナー校及び全学対象協定校への海外留学の公募について]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3250</link>
+            <guid>55cd842aa91c3f4cf8acf7689bdd86fa</guid>
+            <pubDate>Fri, 02 Sep 2022 03:00:00 GMT</pubDate>
+            <description><![CDATA[スチューデントサポートセンター国際交流支援室では、2023年秋学期渡航分のCiCパートナー校及び全学対象協定校への海外留学を公募します。
+
+・対象協定校：全57校
+・募集対象: 2023年秋学期渡航分
+・募集締切: 2022年12月5日（月）8：30AM　
+・応募方法：下記SSCウェブサイト及び募集要項を確認の上、必要書類をmanabaより提出
+※締切までに学内選考もしくは希望協定校が定める要求ス…]]></description>
+        </item>
         <item>
             <title><![CDATA[[Remind 9/5 14:00-] 第13回DDPIセミナー「雇用改革と社会的不平等―産業的シチズンシップという轍―」]]></title>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3249</link>
@@ -238,16 +251,6 @@ https://www.fukushihoken.metro.tokyo.lg.jp/ir…]]></description>
             <pubDate>Fri, 12 Aug 2022 03:00:00 GMT</pubDate>
             <description><![CDATA[On-demand English subtitled version of the Laboratory Waste Management Workshop for Students held on Friday, May 20, 2022.
 To determine the number of attendees, please click on each link to watch the …]]></description>
-        </item>
-        <item>
-            <title><![CDATA[夏季休業期間中の新型コロナウイルス感染症に関する注意喚起について]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3225</link>
-            <guid>ef1e61bb6200134f0aef5f2194205a51</guid>
-            <pubDate>Wed, 10 Aug 2022 03:00:00 GMT</pubDate>
-            <description><![CDATA[夏季休業期間中の新型コロナウイルス感染症の注意喚起について通知しています。
-詳細は以下のURL（本学公式HP）を確認ください。
-
-]]></description>
         </item>
     </channel>
 </rss>

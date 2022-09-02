@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "55cd842aa91c3f4cf8acf7689bdd86fa",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3250",
+            "title": "【SSC公募型】2023年秋学期渡航分／CiCパートナー校及び全学対象協定校への海外留学の公募について",
+            "summary": "スチューデントサポートセンター国際交流支援室では、2023年秋学期渡航分のCiCパートナー校及び全学対象協定校への海外留学を公募します。\n\n・対象協定校：全57校\n・募集対象: 2023年秋学期渡航分\n・募集締切: 2022年12月5日（月）8：30AM　\n・応募方法：下記SSCウェブサイト及び募集要項を確認の上、必要書類をmanabaより提出\n※締切までに学内選考もしくは希望協定校が定める要求ス…",
+            "date_modified": "2022-09-02T03:00:00.000Z"
+        },
+        {
             "id": "7ccd83f412424e08f987db80de257723",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3249",
             "title": "[Remind 9/5 14:00-] 第13回DDPIセミナー「雇用改革と社会的不平等―産業的シチズンシップという轍―」",
@@ -136,13 +143,6 @@
             "title": "【Reminder】Laboratory Waste Management Workshop 2022　On-campus use only",
             "summary": "On-demand English subtitled version of the Laboratory Waste Management Workshop for Students held on Friday, May 20, 2022.\nTo determine the number of attendees, please click on each link to watch the …",
             "date_modified": "2022-08-12T03:00:00.000Z"
-        },
-        {
-            "id": "ef1e61bb6200134f0aef5f2194205a51",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3225",
-            "title": "夏季休業期間中の新型コロナウイルス感染症に関する注意喚起について",
-            "summary": "夏季休業期間中の新型コロナウイルス感染症の注意喚起について通知しています。\n詳細は以下のURL（本学公式HP）を確認ください。\n\n",
-            "date_modified": "2022-08-10T03:00:00.000Z"
         }
     ]
 }
