@@ -2,10 +2,26 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/mkobayashime/twins-announcements</id>
     <title>在学生へのお知らせ | 筑波大学</title>
-    <updated>2022-09-02T00:33:43.080Z</updated>
+    <updated>2022-09-02T09:06:10.269Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://github.com/mkobayashime/twins-announcements"/>
     <subtitle>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</subtitle>
+    <entry>
+        <title type="html"><![CDATA[【大学院説明会】10/8(土)・11/5(土) 5年一貫制博士課程「ヒューマニクス学位プログラム」入試説明会／オンサイト＆Zoomハイブリッド開催]]></title>
+        <id>9b26494ce90eb2abe9fa63809e36c2b3</id>
+        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3251"/>
+        <updated>2022-09-02T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[学類生の皆さまへ
+
+「生命医科学」×「理・工・情報学」
+5年一貫制博士課程 ヒューマニクス学位プログラムより、入試説明会のご案内です。
+
+ヒューマニクス学位プログラムは、生命医科学と理・工・情報学、両分野の知識を博士レベルまで極める、国内でも類を見ない先進的なカリキュラムを提供しています。
+多様なバックグラウンドを持った学生が集う刺激的な環境の中で、独創的な融合研究に取り組みませんか？
+
+＊＊＊
+…]]></summary>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【SSC公募型】2023年秋学期渡航分／CiCパートナー校及び全学対象協定校への海外留学の公募について]]></title>
         <id>55cd842aa91c3f4cf8acf7689bdd86fa</id>
@@ -241,13 +257,5 @@ https://www.fukushihoken.metro.tokyo.lg.jp/ir…]]></summary>
 (実際の入学時期については、コロナ禍の影響により変更となる場合があります。)
 これに伴い、チューター支援（主に生活の立ち上げ支援、必要に応じてオンライン支援も可）を必要とするケースも増加する見込みです。
 本学においては、チューターバンク制度を2020年度より運用開始しており、チューターに興味があるが、周りに留学生がおらず、チューターの依頼が見込ま…]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【Reminder】Laboratory Waste Management Workshop 2022　On-campus use only]]></title>
-        <id>6b25fd2d0603e5f0226f10a4529ce165</id>
-        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3226"/>
-        <updated>2022-08-12T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[On-demand English subtitled version of the Laboratory Waste Management Workshop for Students held on Friday, May 20, 2022.
-To determine the number of attendees, please click on each link to watch the …]]></summary>
     </entry>
 </feed>

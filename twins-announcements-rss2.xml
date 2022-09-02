@@ -4,10 +4,26 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Fri, 02 Sep 2022 00:33:43 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 02 Sep 2022 09:06:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
+        <item>
+            <title><![CDATA[【大学院説明会】10/8(土)・11/5(土) 5年一貫制博士課程「ヒューマニクス学位プログラム」入試説明会／オンサイト＆Zoomハイブリッド開催]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3251</link>
+            <guid>9b26494ce90eb2abe9fa63809e36c2b3</guid>
+            <pubDate>Fri, 02 Sep 2022 03:00:00 GMT</pubDate>
+            <description><![CDATA[学類生の皆さまへ
+
+「生命医科学」×「理・工・情報学」
+5年一貫制博士課程 ヒューマニクス学位プログラムより、入試説明会のご案内です。
+
+ヒューマニクス学位プログラムは、生命医科学と理・工・情報学、両分野の知識を博士レベルまで極める、国内でも類を見ない先進的なカリキュラムを提供しています。
+多様なバックグラウンドを持った学生が集う刺激的な環境の中で、独創的な融合研究に取り組みませんか？
+
+＊＊＊
+…]]></description>
+        </item>
         <item>
             <title><![CDATA[【SSC公募型】2023年秋学期渡航分／CiCパートナー校及び全学対象協定校への海外留学の公募について]]></title>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3250</link>
@@ -243,14 +259,6 @@ https://www.fukushihoken.metro.tokyo.lg.jp/ir…]]></description>
 (実際の入学時期については、コロナ禍の影響により変更となる場合があります。)
 これに伴い、チューター支援（主に生活の立ち上げ支援、必要に応じてオンライン支援も可）を必要とするケースも増加する見込みです。
 本学においては、チューターバンク制度を2020年度より運用開始しており、チューターに興味があるが、周りに留学生がおらず、チューターの依頼が見込ま…]]></description>
-        </item>
-        <item>
-            <title><![CDATA[【Reminder】Laboratory Waste Management Workshop 2022　On-campus use only]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3226</link>
-            <guid>6b25fd2d0603e5f0226f10a4529ce165</guid>
-            <pubDate>Fri, 12 Aug 2022 03:00:00 GMT</pubDate>
-            <description><![CDATA[On-demand English subtitled version of the Laboratory Waste Management Workshop for Students held on Friday, May 20, 2022.
-To determine the number of attendees, please click on each link to watch the …]]></description>
         </item>
     </channel>
 </rss>
