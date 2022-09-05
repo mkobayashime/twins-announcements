@@ -4,7 +4,7 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Mon, 05 Sep 2022 15:11:24 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 05 Sep 2022 21:10:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
@@ -221,8 +221,13 @@ zoomでの参加を希望の方は、比較文化学類長山口教授(yamaguchi
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3236</link>
             <guid>596863256631f9ed08a4e7d62d57141c</guid>
             <pubDate>Thu, 25 Aug 2022 03:00:00 GMT</pubDate>
-            <description><![CDATA[令和 4 年 10 月 1 日から、本学の駐車場に臨時的に駐車する場合の受付方法を統一します。
-詳細は以下のリンクをご確認ください。]]></description>
+            <description><![CDATA[令和４年度授業の実施指針について、以下のとおりお知らせいたします。
+対面授業が基本となりますので、履修予定科目の実施方法を各種ツール（KdB、manaba、TWINS掲示板など）の情報で随時確認するようにしてください。
+
+
+Dear English readers,
+
+We would like to inform you of the following Implementation guide…]]></description>
         </item>
         <item>
             <title><![CDATA[【参加者募集中】課題解決型 海洋開発人材育成プロジェクト演習(Project-Based Learning)]]></title>
@@ -244,15 +249,11 @@ zoomでの参加を希望の方は、比較文化学類長山口教授(yamaguchi
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3234</link>
             <guid>3f281ed38ec07935fc349b37a038dac0</guid>
             <pubDate>Thu, 25 Aug 2022 03:00:00 GMT</pubDate>
-            <description><![CDATA[日本財団オーシャンイノベーションコンソーシアムよりお知らせです。
+            <description><![CDATA[2022年8月25日(木)午前10頃に仮想環境のストレージの不整合の問題が解消して、
+現在は、通常通りのサービスを再開しました。長期間に渡り、ご不便とご迷惑をお掛けしたことをお詫び申し上げます。
+今回の不具合に関して、何かお気づきの点などありましたらお知らせください。
 
-今年9月～来年２月にかけて、本コンソーシアムの会員企業７社が直面するビジネス上の実際の課題について、
-大学生・大学院生3～4名のチームで約５ヶ月かけ、その解決策を提案するProject-Based Learning　を実施いたします。
-
-＜参加企業とお題＞
-
-１）日本郵船株式会社
-　　■お題：「我が国の海事産業が抱える課題を解決す…]]></description>
+The trouble with the Web and e-mail service at the ACCC has been…]]></description>
         </item>
     </channel>
 </rss>
