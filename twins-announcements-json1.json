@@ -5,6 +5,27 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "c48f15d14304ae34039fb2caa60bada5",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3254",
+            "title": "「日本絵画を楽しむ会」開催のお知らせ",
+            "summary": "筑波大学「世界を変えよう基金アカデミー」では、「日本絵画を楽しむ会」を10月中旬からZOOMで隔週7回開催します。東京国立博物館所蔵作品を中心に、江戸時代末までの日本絵画を鑑賞します。専門的な分析ではなく、各自が作品から感じることを自由に話し合うVirtual展覧会の試みです。\n\n各回の「展覧会」は、風景画、花鳥画、風俗画、肖像画、仏教画、絵巻物のジャンル別に作品を鑑賞します。\n\n参加は無料ですが…",
+            "date_modified": "2022-09-05T03:00:00.000Z"
+        },
+        {
+            "id": "c89f978491825365b95420a6adbab55c",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3253",
+            "title": "「時事問題を英語で読み書き話す勉強会」開催のお知らせ",
+            "summary": "筑波大学「世界を変えよう基金アカデミー」では、時事問題について英語メディアを題材に、academic essay及びPowerPointを作成し、英語で議論する勉強会を10月中旬からZoomで隔週開催します（10回、各2時間）。勉強会は英語で行います。\n\n上級クラスは、高校・大学で　academic writing 基礎について学習済み、かつ英語ディスカッションの経験を有し、TOEIC800点相当…",
+            "date_modified": "2022-09-05T03:00:00.000Z"
+        },
+        {
+            "id": "1a85c3043797edcc02dbb8f3e3ba4187",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3252",
+            "title": "「教育ボランティアを考える会」開催のお知らせ",
+            "summary": "筑波大学「世界を変えよう基金アカデミー」では、従来から貧困問題に関する様々な勉強会を開催していますが、地元つくば市でも貧困児童が教育格差に直面している状況を踏まえ、「教育ボランティアを考える会」を9月2４日（土）20:00 からZoom 上で開催します。\n\n当日は、2019年以来つくば市と連携して、つくば市在住のさまざまな困難を抱える子どもたちを対象に、大学生教師が「質の高い」学習機会を提供する活…",
+            "date_modified": "2022-09-05T03:00:00.000Z"
+        },
+        {
             "id": "9b26494ce90eb2abe9fa63809e36c2b3",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3251",
             "title": "【大学院説明会】10/8(土)・11/5(土) 5年一貫制博士課程「ヒューマニクス学位プログラム」入試説明会／オンサイト＆Zoomハイブリッド開催",
@@ -122,27 +143,6 @@
             "title": "9/29（木）オンライン時代の学生のメンタルケア～こころの専門家と考えよう 若者のいのち～",
             "summary": "学生の皆さまへ\n\n東京都主催、医学医療系共催で標記講演会を開催します。\n日時：9月29日（木曜日）14時00分から16時30分まで\n実施方法：オンライン開催（無料オンライン配信ツールにより、ライブ配信にて開催）\n\n都内在住以外の方でも参加可能です。申込方法等の詳細は以下の東京都ホームページをご確認ください。\nhttps://www.fukushihoken.metro.tokyo.lg.jp/ir…",
             "date_modified": "2022-08-24T03:00:00.000Z"
-        },
-        {
-            "id": "bab3be0328fb3d0f0e8a9287ba43f8bc",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3230",
-            "title": "9/26（月）第5回ヒューマニクス学位プログラムシンポジウム「バイオインフォマティクス最前線～異分野連携が拓く未来～」開催のお知らせ",
-            "summary": "学生の皆さまへ\n\n5年一貫制博士課程「ヒューマニクス学位プログラム」より、第5回ヒューマニクス学位プログラムシンポジウム「バイオインフォマティクス最前線～異分野連携が拓く未来～」開催のご案内です。\n\n＊＊＊＊＊＊\nコロナパンデミック以降、DNAやタンパク質の解析といったバイオインフォマティクスが注目を集めています。本シンポジウムでは、バイオインフォマティス関連の研究者に最先端の研究についてご講演い…",
-            "date_modified": "2022-08-22T03:00:00.000Z"
-        },
-        {
-            "id": "a59936d6e3542dadbb17f74bf5628f1f",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3229",
-            "title": "カスミ筑波大学店太陽光発電設備工事のお知らせ",
-            "summary": "カスミ筑波大学店の太陽光発電設備工事に伴い、以下の日程で店舗駐車場に工事車両を駐車しての作業を行いますのでお知らせします。\n\n１．日時\n　　機材搬入搬出クレーン作業\n　　搬入：８月２７日（土）ＡＭ０時　～　ＡＭ１時予定\n　　搬出：９月　７日（水）ＡＭ８時　～　ＰＭ１７時予定\n　　（※荒天の場合は延期になります。）\n\n２．工事内容\n　　資材搬入搬出クレーン作業：駐車場にクレーンを設置して店舗屋上へ資…",
-            "date_modified": "2022-08-22T03:00:00.000Z"
-        },
-        {
-            "id": "fac5fc2b24a465f1934ec8d855b761e7",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3228",
-            "title": "チューター募集について",
-            "summary": "2022年10月に多くの留学生が入学する予定です。\n(実際の入学時期については、コロナ禍の影響により変更となる場合があります。)\nこれに伴い、チューター支援（主に生活の立ち上げ支援、必要に応じてオンライン支援も可）を必要とするケースも増加する見込みです。\n本学においては、チューターバンク制度を2020年度より運用開始しており、チューターに興味があるが、周りに留学生がおらず、チューターの依頼が見込ま…",
-            "date_modified": "2022-08-22T03:00:00.000Z"
         }
     ]
 }
