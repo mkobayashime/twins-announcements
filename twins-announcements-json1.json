@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "c29aaafe00db6ee4411809939a59bdef",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3257",
+            "title": "一般財団法人学生サポートセンター主催2022（第20回）「学生ボランティア団体助成事業」　「学生ボランティア団体活動体験レポート」募集について」",
+            "summary": "※募集期間　2022/9/1～10/3\n\n▼詳細は下記「募集要項」を参照\n\n▼お問い合わせ\n学生生活課　総務\nTel:029-853-2224\nMail:gk.gakuseikikaku@un.tsukuba.ac.jp",
+            "date_modified": "2022-09-05T03:00:00.000Z"
+        },
+        {
             "id": "4e938d43ee0d600515114c87d0634f86",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3256",
             "title": "障害を理由とした合理的配慮としてのオンラインによる授業受講について（通知）",
@@ -135,13 +142,6 @@
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3236",
             "title": "【再掲】令和４年度授業の実施指針について(2022.6.16) / Implementation guidelines of classes in the AY 2022",
             "summary": "令和４年度授業の実施指針について、以下のとおりお知らせいたします。\n対面授業が基本となりますので、履修予定科目の実施方法を各種ツール（KdB、manaba、TWINS掲示板など）の情報で随時確認するようにしてください。\n\n\nDear English readers,\n\nWe would like to inform you of the following Implementation guide…",
-            "date_modified": "2022-08-25T03:00:00.000Z"
-        },
-        {
-            "id": "efed9bcb4cab53cc4cc0249892fdd592",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3235",
-            "title": "【参加者募集中】課題解決型 海洋開発人材育成プロジェクト演習(Project-Based Learning)",
-            "summary": "日本財団オーシャンイノベーションコンソーシアムよりお知らせです。\n\n今年9月～来年２月にかけて、本コンソーシアムの会員企業７社が直面するビジネス上の実際の課題について、\n大学生・大学院生3～4名のチームで約５ヶ月かけ、その解決策を提案するProject-Based Learning　を実施いたします。\n\n＜参加企業とお題＞\n\n１）日本郵船株式会社\n　　■お題：「我が国の海事産業が抱える課題を解決す…",
             "date_modified": "2022-08-25T03:00:00.000Z"
         }
     ]
