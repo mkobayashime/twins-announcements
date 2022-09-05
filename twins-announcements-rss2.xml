@@ -4,10 +4,22 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Mon, 05 Sep 2022 06:38:02 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 05 Sep 2022 07:23:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
+        <item>
+            <title><![CDATA[障害を理由とした合理的配慮としてのオンラインによる授業受講について（通知）]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3256</link>
+            <guid>4e938d43ee0d600515114c87d0634f86</guid>
+            <pubDate>Mon, 05 Sep 2022 03:00:00 GMT</pubDate>
+            <description><![CDATA[本学では、「令和４年度授業の実施方針について（令和４年６月１６日教育担当副学長通知）」により、
+春Ｃモジュール以降、対面授業または対面授業とオンデマンドの組み合わせにより実施することが基本的
+な方針となっております。
+この対応に伴って、障害のある学生から、障害を理由とした合理的配慮として対面授業をオンラインで
+受講できないか、という趣旨の個別の相談が増えてきております。
+ダイバーシティ・アクセシビ…]]></description>
+        </item>
         <item>
             <title><![CDATA[【総合科目】Ｒ4秋学期 学士基盤科目の授業形態について]]></title>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3255</link>
@@ -237,17 +249,6 @@ We would like to inform you of the following Implementation guide…]]></descrip
 
 １）日本郵船株式会社
 　　■お題：「我が国の海事産業が抱える課題を解決す…]]></description>
-        </item>
-        <item>
-            <title><![CDATA[（復旧）学術情報メディアセンターのメールとwebのサーバ障害について/(Fixed) Web service and e-mail trouble with the ACCC]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3234</link>
-            <guid>3f281ed38ec07935fc349b37a038dac0</guid>
-            <pubDate>Thu, 25 Aug 2022 03:00:00 GMT</pubDate>
-            <description><![CDATA[2022年8月25日(木)午前10頃に仮想環境のストレージの不整合の問題が解消して、
-現在は、通常通りのサービスを再開しました。長期間に渡り、ご不便とご迷惑をお掛けしたことをお詫び申し上げます。
-今回の不具合に関して、何かお気づきの点などありましたらお知らせください。
-
-The trouble with the Web and e-mail service at the ACCC has been…]]></description>
         </item>
     </channel>
 </rss>
