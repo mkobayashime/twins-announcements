@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "2176d295677584e81695385abee6b76c",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3255",
+            "title": "【総合科目】Ｒ4秋学期 学士基盤科目の授業形態について",
+            "summary": "【総合科目】Ｒ4秋学期 学士基盤科目の授業形態について\n\nＲ4秋学期の総合科目（学士基盤科目）の授業形態につきまして、添付のとおりお知らせします。\n履修予定の授業の授業形態をご確認ください。調整中の教室につきましては後日お知らせします。\n\n--------------------------------------------------------------------------------…",
+            "date_modified": "2022-09-05T03:00:00.000Z"
+        },
+        {
             "id": "c48f15d14304ae34039fb2caa60bada5",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3254",
             "title": "「日本絵画を楽しむ会」開催のお知らせ",
@@ -136,13 +143,6 @@
             "title": "（復旧）学術情報メディアセンターのメールとwebのサーバ障害について/(Fixed) Web service and e-mail trouble with the ACCC",
             "summary": "2022年8月25日(木)午前10頃に仮想環境のストレージの不整合の問題が解消して、\n現在は、通常通りのサービスを再開しました。長期間に渡り、ご不便とご迷惑をお掛けしたことをお詫び申し上げます。\n今回の不具合に関して、何かお気づきの点などありましたらお知らせください。\n\nThe trouble with the Web and e-mail service at the ACCC has been…",
             "date_modified": "2022-08-25T03:00:00.000Z"
-        },
-        {
-            "id": "899850fa92ce333e981cd0c6470f21f1",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3231",
-            "title": "9/29（木）オンライン時代の学生のメンタルケア～こころの専門家と考えよう 若者のいのち～",
-            "summary": "学生の皆さまへ\n\n東京都主催、医学医療系共催で標記講演会を開催します。\n日時：9月29日（木曜日）14時00分から16時30分まで\n実施方法：オンライン開催（無料オンライン配信ツールにより、ライブ配信にて開催）\n\n都内在住以外の方でも参加可能です。申込方法等の詳細は以下の東京都ホームページをご確認ください。\nhttps://www.fukushihoken.metro.tokyo.lg.jp/ir…",
-            "date_modified": "2022-08-24T03:00:00.000Z"
         }
     ]
 }
