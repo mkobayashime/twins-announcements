@@ -2,10 +2,34 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/mkobayashime/twins-announcements</id>
     <title>在学生へのお知らせ | 筑波大学</title>
-    <updated>2022-09-05T21:10:20.331Z</updated>
+    <updated>2022-09-06T00:38:02.933Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://github.com/mkobayashime/twins-announcements"/>
     <subtitle>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</subtitle>
+    <entry>
+        <title type="html"><![CDATA[（教室修正）【総合科目】Ｒ4秋学期 学士基盤科目の授業形態について]]></title>
+        <id>9588a3db7daf807f6537b75a81771475</id>
+        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3259"/>
+        <updated>2022-09-06T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[9月6日に掲示しましたR4総合科目（学士基盤科目）の授業形態につきまして、
+以下授業の教室を誤って掲示しておりましたので、再度ご確認お願いいたします。
+
+科目番号：1425011
+科目名：社会のなかの建築デザイン
+教室：（誤）1H201（正）5C416
+-------------------------------------------------------------------------…]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「日本絵画を楽しむ会」開催のお知らせ]]></title>
+        <id>c48f15d14304ae34039fb2caa60bada5</id>
+        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3258"/>
+        <updated>2022-09-06T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[筑波大学「世界を変えよう基金アカデミー」では、「日本絵画を楽しむ会」を10月中旬からZOOMで隔週7回開催します。東京国立博物館所蔵作品を中心に、江戸時代末までの日本絵画を鑑賞します。専門的な分析ではなく、各自が作品から感じることを自由に話し合うVirtual展覧会の試みです。
+
+各回の「展覧会」は、風景画、花鳥画、風俗画、肖像画、仏教画、絵巻物のジャンル別に作品を鑑賞します。
+
+参加は無料ですが…]]></summary>
+    </entry>
     <entry>
         <title type="html"><![CDATA[一般財団法人学生サポートセンター主催2022（第20回）「学生ボランティア団体助成事業」　「学生ボランティア団体活動体験レポート」募集について」]]></title>
         <id>c29aaafe00db6ee4411809939a59bdef</id>
@@ -31,18 +55,6 @@ Mail:gk.gakuseikikaku@un.tsukuba.ac.jp]]></summary>
 この対応に伴って、障害のある学生から、障害を理由とした合理的配慮として対面授業をオンラインで
 受講できないか、という趣旨の個別の相談が増えてきております。
 ダイバーシティ・アクセシビ…]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【総合科目】Ｒ4秋学期 学士基盤科目の授業形態について]]></title>
-        <id>2176d295677584e81695385abee6b76c</id>
-        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3255"/>
-        <updated>2022-09-05T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[【総合科目】Ｒ4秋学期 学士基盤科目の授業形態について
-
-Ｒ4秋学期の総合科目（学士基盤科目）の授業形態につきまして、添付のとおりお知らせします。
-履修予定の授業の授業形態をご確認ください。調整中の教室につきましては後日お知らせします。
-
---------------------------------------------------------------------------------…]]></summary>
     </entry>
     <entry>
         <title type="html"><![CDATA[「時事問題を英語で読み書き話す勉強会」開催のお知らせ]]></title>
@@ -241,16 +253,5 @@ We would like to inform you of the following Implementation guide…]]></summary
 
 １）日本郵船株式会社
 　　■お題：「我が国の海事産業が抱える課題を解決す…]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[（復旧）学術情報メディアセンターのメールとwebのサーバ障害について/(Fixed) Web service and e-mail trouble with the ACCC]]></title>
-        <id>3f281ed38ec07935fc349b37a038dac0</id>
-        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3234"/>
-        <updated>2022-08-25T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[2022年8月25日(木)午前10頃に仮想環境のストレージの不整合の問題が解消して、
-現在は、通常通りのサービスを再開しました。長期間に渡り、ご不便とご迷惑をお掛けしたことをお詫び申し上げます。
-今回の不具合に関して、何かお気づきの点などありましたらお知らせください。
-
-The trouble with the Web and e-mail service at the ACCC has been…]]></summary>
     </entry>
 </feed>
