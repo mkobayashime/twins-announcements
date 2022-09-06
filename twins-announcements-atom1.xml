@@ -2,10 +2,25 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/mkobayashime/twins-announcements</id>
     <title>在学生へのお知らせ | 筑波大学</title>
-    <updated>2022-09-06T03:39:58.682Z</updated>
+    <updated>2022-09-06T05:22:45.415Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://github.com/mkobayashime/twins-announcements"/>
     <subtitle>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</subtitle>
+    <entry>
+        <title type="html"><![CDATA[Tsukuba Global Science Week (TGSW) 2022]]></title>
+        <id>d01191bf54949decb560c7f796304896</id>
+        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3262"/>
+        <updated>2022-09-06T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[TGSW brings together a wide range of international researchers including experts and graduate students to Tsukuba Science City and aims to provide a platform for building global networks of collaborat…]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tsukuba Global Science Week(TGSW)2022開催のお知らせ]]></title>
+        <id>607cff49cc3023d35a57e9219992cb72</id>
+        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3261"/>
+        <updated>2022-09-06T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[TGSWは本学だけでなく、世界各国のベテランから若手まで、幅広い層の研究者や大学院生が筑波研究学園都市に会し、国や研究領域を超えた議論を行うことで、国際的な連携ネットワークの構築を図るとともに、高い研究レベルに裏付けされた「知の創造」を行い、Tsukubaの地で地球規模課題の解決に向けた熱い議論の場を提供することを目的としています。
+通算12回目の開催となるTGSW2022は、オンラインおよびハイ…]]></summary>
+    </entry>
     <entry>
         <title type="html"><![CDATA[10/7（金）10:00-12:00「Business Leaders’ Seminar/ビジネスリーダーズセミナー」オンライン開催のお知らせ （対象：全学生）]]></title>
         <id>c636c0d1810d631d2f3637c71b7322aa</id>
@@ -227,26 +242,5 @@ zoomでの参加を希望の方は、比較文化学類長山口教授(yamaguchi
 日程は下記のとおりで、いずれも20:30 開始です。
 9/25(日) 国際4年、素材メーカー内定
 10/2(日) 国…]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[学内者における臨時駐車車両の駐車場有料化について]]></title>
-        <id>0b7e52c4f0eec55d7a3e6cafa8b8ce03</id>
-        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3237"/>
-        <updated>2022-08-26T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[令和 4 年 10 月 1 日から、本学の駐車場に臨時的に駐車する場合の受付方法を統一します。
-詳細は以下のリンクをご確認ください。]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【再掲】令和４年度授業の実施指針について(2022.6.16) / Implementation guidelines of classes in the AY 2022]]></title>
-        <id>596863256631f9ed08a4e7d62d57141c</id>
-        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3236"/>
-        <updated>2022-08-25T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[令和４年度授業の実施指針について、以下のとおりお知らせいたします。
-対面授業が基本となりますので、履修予定科目の実施方法を各種ツール（KdB、manaba、TWINS掲示板など）の情報で随時確認するようにしてください。
-
-
-Dear English readers,
-
-We would like to inform you of the following Implementation guide…]]></summary>
     </entry>
 </feed>
