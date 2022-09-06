@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/mkobayashime/twins-announcements</id>
     <title>在学生へのお知らせ | 筑波大学</title>
-    <updated>2022-09-06T00:38:02.933Z</updated>
+    <updated>2022-09-06T03:39:58.682Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://github.com/mkobayashime/twins-announcements"/>
     <subtitle>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</subtitle>
+    <entry>
+        <title type="html"><![CDATA[10/7（金）10:00-12:00「Business Leaders’ Seminar/ビジネスリーダーズセミナー」オンライン開催のお知らせ （対象：全学生）]]></title>
+        <id>c636c0d1810d631d2f3637c71b7322aa</id>
+        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3260"/>
+        <updated>2022-09-06T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[ヒューマンバイオロジー学位プログラムでは授業の一環として「Business Leaders’ Seminar/ビジネスリーダーズセミナー」を開催しています。
+本セミナーは、世界のトップビジネスリーダーを招き、オムニバス形式でキャリア形成やビジネスに関する成功と失敗の話などの経験を紹介するものです。
+
+10月7日（金）10:00-12:00に開催するセミナーでは、1on1エンゲージメント研究所 代表…]]></summary>
+    </entry>
     <entry>
         <title type="html"><![CDATA[（教室修正）【総合科目】Ｒ4秋学期 学士基盤科目の授業形態について]]></title>
         <id>9588a3db7daf807f6537b75a81771475</id>
@@ -238,20 +248,5 @@ zoomでの参加を希望の方は、比較文化学類長山口教授(yamaguchi
 Dear English readers,
 
 We would like to inform you of the following Implementation guide…]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【参加者募集中】課題解決型 海洋開発人材育成プロジェクト演習(Project-Based Learning)]]></title>
-        <id>efed9bcb4cab53cc4cc0249892fdd592</id>
-        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3235"/>
-        <updated>2022-08-25T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[日本財団オーシャンイノベーションコンソーシアムよりお知らせです。
-
-今年9月～来年２月にかけて、本コンソーシアムの会員企業７社が直面するビジネス上の実際の課題について、
-大学生・大学院生3～4名のチームで約５ヶ月かけ、その解決策を提案するProject-Based Learning　を実施いたします。
-
-＜参加企業とお題＞
-
-１）日本郵船株式会社
-　　■お題：「我が国の海事産業が抱える課題を解決す…]]></summary>
     </entry>
 </feed>
