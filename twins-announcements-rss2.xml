@@ -4,10 +4,21 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Wed, 07 Sep 2022 00:36:54 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 07 Sep 2022 06:48:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
+        <item>
+            <title><![CDATA[学士基盤科目の授業形態について(R4秋学期)/Announcement on the Multidisciplinary subjects class form(Fall semester 2022)]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3264</link>
+            <guid>bf1952866e34bffebef85a78d24f08ab</guid>
+            <pubDate>Wed, 07 Sep 2022 03:00:00 GMT</pubDate>
+            <description><![CDATA[先日掲示しましたＲ4年度秋学期の総合科目（学士基盤科目）の授業形態につきましてすべての教室が確定しましたので、添付のとおりお知らせします。
+
+-------------------------------------------------
+
+We are pleased to announce that all the classrooms for the recently announced …]]></description>
+        </item>
         <item>
             <title><![CDATA[【重要】2022年度第1期分授業料の納入督促について]]></title>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3263</link>
@@ -229,23 +240,6 @@ Ph…]]></description>
 ぜひご参加ください。
 
 zoomでの参加を希望の方は、比較文化学類長山口教授(yamaguchi.eriko.gm@u.tsukuba.a…]]></description>
-        </item>
-        <item>
-            <title><![CDATA[令和４年度秋学期学生健康診断について]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3240</link>
-            <guid>c49cf90d30cca49af0d6c8d38518456c</guid>
-            <pubDate>Tue, 30 Aug 2022 03:00:00 GMT</pubDate>
-            <description><![CDATA[令和４年度秋学期学生健康診断について、身体検査とこころの健康調査に分けて以下の通り実施します。
-該当者は必ず受診してください。
-
-身体検査
-１０月２５日（火）から１０月２６日（水）で実施されます。
-【対象】・令和４年９月・10月に入学した学群生・大学院生
-　　　　・令和４年５月以降に来日した非正規留学生
-　　　　・令和４年４月の健康診断実施時に海外にいた学生←※申込必須
-
-心の健康調査
-１０月１２…]]></description>
         </item>
     </channel>
 </rss>
