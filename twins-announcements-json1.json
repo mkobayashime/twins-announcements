@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "af5ea57d0fe844e46c372d05e96c8c83",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3265",
+            "title": "TGSW2022のお知らせ",
+            "summary": "筑波大学では、多岐にわたる学術分野の最先端の研究成果を共有し、より良い未来を実現するための方策を議論する場として、筑波研究学園都市においてTsukuba Global Science Week (TGSW)を開催しています。\n\n今年は人間系から河野禎之先生、宮内久絵先生がセッション「インクルーシブ社会を実現するための人材開発：グローバル・ダイバーシティ・コンピテンスを考える」にご登壇されます。\n他…",
+            "date_modified": "2022-09-08T03:00:00.000Z"
+        },
+        {
             "id": "bf1952866e34bffebef85a78d24f08ab",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3264",
             "title": "学士基盤科目の授業形態について(R4秋学期)/Announcement on the Multidisciplinary subjects class form(Fall semester 2022)",
@@ -136,13 +143,6 @@
             "title": "令和４年度秋学期学生健康診断について",
             "summary": "令和４年度秋学期学生健康診断について、身体検査とこころの健康調査に分けて以下の通り実施します。\n該当者は必ず受診してください。\n\n身体検査\n１０月２５日（火）から１０月２６日（水）で実施されます。\n【対象】・令和４年９月・10月に入学した学群生・大学院生\n　　　　・令和４年５月以降に来日した非正規留学生\n　　　　・令和４年４月の健康診断実施時に海外にいた学生←※申込必須\n\n心の健康調査\n１０月１２…",
             "date_modified": "2022-08-30T03:00:00.000Z"
-        },
-        {
-            "id": "57674da119cdedd98e0a0fe138a041b4",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3239",
-            "title": "「筑波＿卒業後を考える会」後期開催のお知らせ",
-            "summary": "筑波大学「世界を変えよう基金アカデミー」では、就活を終えた4年生が自分の経験を下級生に伝える「筑波＿卒業後を考える会」後期編をZoomで９月２５日から毎週開催します。ガクチカ、就活対象先選定過程、最終内定先決定過程等、就活を始める皆さんにとって興味深いお話を聞ける絶好の機会です。\n\n日程は下記のとおりで、いずれも20:30 開始です。\n9/25(日) 国際4年、素材メーカー内定\n10/2(日) 国…",
-            "date_modified": "2022-08-29T03:00:00.000Z"
         }
     ]
 }

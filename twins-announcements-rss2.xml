@@ -4,10 +4,20 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Wed, 07 Sep 2022 21:09:48 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 08 Sep 2022 07:22:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
+        <item>
+            <title><![CDATA[TGSW2022のお知らせ]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3265</link>
+            <guid>af5ea57d0fe844e46c372d05e96c8c83</guid>
+            <pubDate>Thu, 08 Sep 2022 03:00:00 GMT</pubDate>
+            <description><![CDATA[筑波大学では、多岐にわたる学術分野の最先端の研究成果を共有し、より良い未来を実現するための方策を議論する場として、筑波研究学園都市においてTsukuba Global Science Week (TGSW)を開催しています。
+
+今年は人間系から河野禎之先生、宮内久絵先生がセッション「インクルーシブ社会を実現するための人材開発：グローバル・ダイバーシティ・コンピテンスを考える」にご登壇されます。
+他…]]></description>
+        </item>
         <item>
             <title><![CDATA[学士基盤科目の授業形態について(R4秋学期)/Announcement on the Multidisciplinary subjects class form(Fall semester 2022)]]></title>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3264</link>
@@ -232,17 +242,6 @@ Ph…]]></description>
 
 心の健康調査
 １０月１２…]]></description>
-        </item>
-        <item>
-            <title><![CDATA[「筑波＿卒業後を考える会」後期開催のお知らせ]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3239</link>
-            <guid>57674da119cdedd98e0a0fe138a041b4</guid>
-            <pubDate>Mon, 29 Aug 2022 03:00:00 GMT</pubDate>
-            <description><![CDATA[筑波大学「世界を変えよう基金アカデミー」では、就活を終えた4年生が自分の経験を下級生に伝える「筑波＿卒業後を考える会」後期編をZoomで９月２５日から毎週開催します。ガクチカ、就活対象先選定過程、最終内定先決定過程等、就活を始める皆さんにとって興味深いお話を聞ける絶好の機会です。
-
-日程は下記のとおりで、いずれも20:30 開始です。
-9/25(日) 国際4年、素材メーカー内定
-10/2(日) 国…]]></description>
         </item>
     </channel>
 </rss>
