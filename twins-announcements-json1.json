@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "20de4566d30794fbc5bc904d12d6ca01",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3271",
+            "title": "【Event】BOM-Borderless Online Meeting- /【イベント】英語によるランチタイム交流会について",
+            "summary": "We have an online meeting.\nYou can communicate with researchers from different departments here. Also, URA will share research activity information.\nThe purpose of BOM is to socialize with each other …",
+            "date_modified": "2022-09-14T03:00:00.000Z"
+        },
+        {
             "id": "5b8eec3b652000c663baf37b22a3733b",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3270",
             "title": "10/14（金）10:00-12:00「Business Leaders’ Seminar/ビジネスリーダーズセミナー」オンライン開催のお知らせ （対象：全学生）",
@@ -136,13 +143,6 @@
             "title": "【SSC公募型】2023年秋学期渡航分／CiCパートナー校及び全学対象協定校への海外留学の公募について",
             "summary": "スチューデントサポートセンター国際交流支援室では、2023年秋学期渡航分のCiCパートナー校及び全学対象協定校への海外留学を公募します。\n\n・対象協定校：全57校\n・募集対象: 2023年秋学期渡航分\n・募集締切: 2022年12月5日（月）8：30AM　\n・応募方法：下記SSCウェブサイト及び募集要項を確認の上、必要書類をmanabaより提出\n※締切までに学内選考もしくは希望協定校が定める要求ス…",
             "date_modified": "2022-09-02T03:00:00.000Z"
-        },
-        {
-            "id": "8eba5108991eee27bc249d7ed1d2ecad",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3248",
-            "title": "【第三エリア】課外活動の教室使用 予約枠の拡大について",
-            "summary": "第三エリアでは新型コロナウイルス感染症拡大防止のため、長らく貸出可能教室を３教室のみに制限しておりましたが、本日より予約枠を拡大し、以下の教室の予約が可能となります。\n\n3A202,203,204,207,209,212,213,214,301,304,305,306,308,311,312,402,403,405,407,408,409,410,415,416\n3B106,107,202,203…",
-            "date_modified": "2022-09-01T03:00:00.000Z"
         }
     ]
 }
