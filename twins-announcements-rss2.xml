@@ -4,7 +4,7 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Thu, 15 Sep 2022 09:14:28 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 15 Sep 2022 15:12:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
@@ -40,19 +40,6 @@ All students of the University of Tsukuba …]]></description>
             <pubDate>Thu, 15 Sep 2022 03:00:00 GMT</pubDate>
             <description><![CDATA[Welcome to the University of Tsukuba! We will organize a face-to-face event to receive all of you!
 You can participate in workshops about Japanese culture (free)! You can also buy university official …]]></description>
-        </item>
-        <item>
-            <title><![CDATA[【対面イベント 9/26-27】Welcome to Tsukuba uni.！/ようこそ筑波大学へ！]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3276</link>
-            <guid>586dc3b8925736eacff96f89ae83a927</guid>
-            <pubDate>Thu, 15 Sep 2022 03:00:00 GMT</pubDate>
-            <description><![CDATA[秋学期が間もなく始まりますね！筑波大学へのご入学おめでとうございます！という歓迎の意を表して、対面イベント開催！
-日本文化体験やります！大学公式グッズの販売も、あるよ！
-このタイミングで長らく閉鎖していたスチューデントコモンズも、開放・開室！
-日本人学生・留学生問わず、誰でも参加できます！遊びにきてね！
-
-日時：9/26（月）-27（火）　10：00～16：00　　
-場所：Student Comm…]]></description>
         </item>
         <item>
             <title><![CDATA[国際パートナーシップ研修(東南アジア)（全学自由科目（特設）2単位）の参加募集（10月14日締切）]]></title>
@@ -217,15 +204,26 @@ We are pleased to announce that all the classrooms for the recently announced �
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3260</link>
             <guid>c636c0d1810d631d2f3637c71b7322aa</guid>
             <pubDate>Tue, 06 Sep 2022 03:00:00 GMT</pubDate>
-            <description><![CDATA[ヒューマンバイオロジー学位プログラムでは授業の一環として「Business Leaders’ Seminar/ビジネスリーダーズセミナー」を開催しています。
-本セミナーは、世界のトップビジネスリーダーを招き、オムニバス形式でキャリア形成やビジネスに関する成功と失敗の話などの経験を紹介するものです。
-
-10月7日（金）10:00-12:00に開催するセミナーでは、1on1エンゲージメント研究所 代表…]]></description>
+            <description><![CDATA[TGSWは本学だけでなく、世界各国のベテランから若手まで、幅広い層の研究者や大学院生が筑波研究学園都市に会し、国や研究領域を超えた議論を行うことで、国際的な連携ネットワークの構築を図るとともに、高い研究レベルに裏付けされた「知の創造」を行い、Tsukubaの地で地球規模課題の解決に向けた熱い議論の場を提供することを目的としています。
+通算12回目の開催となるTGSW2022は、オンラインおよびハイ…]]></description>
         </item>
         <item>
             <title><![CDATA[（教室修正）【総合科目】Ｒ4秋学期 学士基盤科目の授業形態について]]></title>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3259</link>
             <guid>9588a3db7daf807f6537b75a81771475</guid>
+            <pubDate>Tue, 06 Sep 2022 03:00:00 GMT</pubDate>
+            <description><![CDATA[9月6日に掲示しましたR4総合科目（学士基盤科目）の授業形態につきまして、
+以下授業の教室を誤って掲示しておりましたので、再度ご確認お願いいたします。
+
+科目番号：1425011
+科目名：社会のなかの建築デザイン
+教室：（誤）1H201（正）5C416
+-------------------------------------------------------------------------…]]></description>
+        </item>
+        <item>
+            <title><![CDATA[「日本絵画を楽しむ会」開催のお知らせ]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3258</link>
+            <guid>c48f15d14304ae34039fb2caa60bada5</guid>
             <pubDate>Tue, 06 Sep 2022 03:00:00 GMT</pubDate>
             <description><![CDATA[9月6日に掲示しましたR4総合科目（学士基盤科目）の授業形態につきまして、
 以下授業の教室を誤って掲示しておりましたので、再度ご確認お願いいたします。
