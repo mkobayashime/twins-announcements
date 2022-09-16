@@ -5,6 +5,20 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "d494fd0e9a39f5973f1b127ba7235cc9",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3284",
+            "title": "学生支援員の募集について",
+            "summary": "土浦市から学生支援員募集のお知らせです。\n詳細は添付ファイルをご確認ください。\n\n\n#ts",
+            "date_modified": "2022-09-16T03:00:00.000Z"
+        },
+        {
+            "id": "cacc763d78dcca135f3245f155eea081",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3283",
+            "title": "【注意喚起】不審な団体等の勧誘に注意",
+            "summary": "学生各位\n\n　先日７月１３日付けで、カルト勧誘について注意喚起しましたが、最近、「カルト団体の勧誘活動」のほか、「過激な政治運動を行う団体の活動の勧誘（デモへの参加の誘いなど）」、「悪徳業者による活動」についても活発化しているという情報がありますので、改めて注意喚起します。\n\n　こうした勧誘については、目の前で自分を勧誘してくる相手が既に洗脳されてしまっているケースが多くあります。自分は善い行いを…",
+            "date_modified": "2022-09-16T03:00:00.000Z"
+        },
+        {
             "id": "e0b0d72418b60597e9f3950f71042019",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3281",
             "title": "10月10日【対面イベント】日本・ラテンアメリカ交流会",
@@ -128,20 +142,6 @@
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3262",
             "title": "Tsukuba Global Science Week (TGSW) 2022",
             "summary": "TGSW brings together a wide range of international researchers including experts and graduate students to Tsukuba Science City and aims to provide a platform for building global networks of collaborat…",
-            "date_modified": "2022-09-06T03:00:00.000Z"
-        },
-        {
-            "id": "607cff49cc3023d35a57e9219992cb72",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3261",
-            "title": "Tsukuba Global Science Week(TGSW)2022開催のお知らせ",
-            "summary": "TGSWは本学だけでなく、世界各国のベテランから若手まで、幅広い層の研究者や大学院生が筑波研究学園都市に会し、国や研究領域を超えた議論を行うことで、国際的な連携ネットワークの構築を図るとともに、高い研究レベルに裏付けされた「知の創造」を行い、Tsukubaの地で地球規模課題の解決に向けた熱い議論の場を提供することを目的としています。\n通算12回目の開催となるTGSW2022は、オンラインおよびハイ…",
-            "date_modified": "2022-09-06T03:00:00.000Z"
-        },
-        {
-            "id": "c636c0d1810d631d2f3637c71b7322aa",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3260",
-            "title": "10/7（金）10:00-12:00「Business Leaders’ Seminar/ビジネスリーダーズセミナー」オンライン開催のお知らせ （対象：全学生）",
-            "summary": "ヒューマンバイオロジー学位プログラムでは授業の一環として「Business Leaders’ Seminar/ビジネスリーダーズセミナー」を開催しています。\n本セミナーは、世界のトップビジネスリーダーを招き、オムニバス形式でキャリア形成やビジネスに関する成功と失敗の話などの経験を紹介するものです。\n\n10月7日（金）10:00-12:00に開催するセミナーでは、1on1エンゲージメント研究所 代表…",
             "date_modified": "2022-09-06T03:00:00.000Z"
         }
     ]
