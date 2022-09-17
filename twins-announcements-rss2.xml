@@ -4,7 +4,7 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Sat, 17 Sep 2022 09:10:53 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 17 Sep 2022 15:11:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
@@ -24,11 +24,11 @@
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3283</link>
             <guid>cacc763d78dcca135f3245f155eea081</guid>
             <pubDate>Fri, 16 Sep 2022 03:00:00 GMT</pubDate>
-            <description><![CDATA[学生各位
+            <description><![CDATA[土浦市から学生支援員募集のお知らせです。
+詳細は添付ファイルをご確認ください。
 
-　先日７月１３日付けで、カルト勧誘について注意喚起しましたが、最近、「カルト団体の勧誘活動」のほか、「過激な政治運動を行う団体の活動の勧誘（デモへの参加の誘いなど）」、「悪徳業者による活動」についても活発化しているという情報がありますので、改めて注意喚起します。
 
-　こうした勧誘については、目の前で自分を勧誘してくる相手が既に洗脳されてしまっているケースが多くあります。自分は善い行いを…]]></description>
+#ts]]></description>
         </item>
         <item>
             <title><![CDATA[10月10日【対面イベント】日本・ラテンアメリカ交流会]]></title>
@@ -231,7 +231,13 @@ We are pleased to announce that all the classrooms for the recently announced �
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3262</link>
             <guid>d01191bf54949decb560c7f796304896</guid>
             <pubDate>Tue, 06 Sep 2022 03:00:00 GMT</pubDate>
-            <description><![CDATA[TGSW brings together a wide range of international researchers including experts and graduate students to Tsukuba Science City and aims to provide a platform for building global networks of collaborat…]]></description>
+            <description><![CDATA[2022年度第1期分授業料未納者は、「払込取扱票」が送付されているので、再度確認の上、速やかに金融機関窓口にて納付されるようお願いします。
+納付されないときは、本学学則による除籍処分該当者となります。
+
+・8月口座振替対象の未納者は、9月に発行された払込取扱票により納入をお願いします。
+・その他の未納者は、既にお持ちの払込取扱票により納入をお願いします。
+
+※本掲示は全ての学生・教員に通知しており…]]></description>
         </item>
     </channel>
 </rss>
