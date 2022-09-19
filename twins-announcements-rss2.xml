@@ -4,7 +4,7 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Mon, 19 Sep 2022 09:16:13 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 19 Sep 2022 15:12:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
@@ -167,14 +167,10 @@ The 5th Symposium for Ph.D. Program in Humanics, “Bio-informatics on the Front
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3267</link>
             <guid>0a1c7621b105179e881a36283f336b24</guid>
             <pubDate>Mon, 12 Sep 2022 03:00:00 GMT</pubDate>
-            <description><![CDATA[学生の皆さまへ
+            <description><![CDATA[Dear Students,
 
-5年一貫制博士課程「ヒューマニクス学位プログラム」より、第5回ヒューマニクス学位プログラムシンポジウム「バイオインフォマティクス最前線～異分野連携が拓く未来～」開催のご案内です。
-
-本年度のシンポジウムは、つくばグローバル・サイエンス・ウィーク（TGSW）2022
-(https://tgsw.tsukuba.ac.jp)の１セッションという位置づけで開催いたします。
-
-＊＊＊＊＊…]]></description>
+This is an announcement from the office of the Ph.D. Program in Humanics, a 5-year doctoral program.
+The 5th Symposium for Ph.D. Program in Humanics, “Bio-informatics on the Front Line…]]></description>
         </item>
         <item>
             <title><![CDATA[【見逃し配信】一般公開WEBイベント「青年期・成人期における発達障害のある人を誰一人取り残さない社会に向けて」]]></title>
