@@ -2,10 +2,18 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/mkobayashime/twins-announcements</id>
     <title>在学生へのお知らせ | 筑波大学</title>
-    <updated>2022-09-20T09:16:40.298Z</updated>
+    <updated>2022-09-20T10:07:56.128Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://github.com/mkobayashime/twins-announcements"/>
     <subtitle>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</subtitle>
+    <entry>
+        <title type="html"><![CDATA[【On-site】Sept 27 (Tue) 15:00-18:00 World-science Leaders’ Seminar（For all students）]]></title>
+        <id>31616a0a5d3339ce3bb1f98d77425470</id>
+        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3285"/>
+        <updated>2022-09-20T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[World-science Leaders’ Seminar is a part of classes in Doctoral Program in Human Biology.
+Students attending this seminar will learn basic knowledge and recent research trends related to the specializ…]]></summary>
+    </entry>
     <entry>
         <title type="html"><![CDATA[学生支援員の募集について]]></title>
         <id>d494fd0e9a39f5973f1b127ba7235cc9</id>
@@ -223,12 +231,5 @@ We are pleased to announce that all the classrooms for the recently announced �
 ・その他の未納者は、既にお持ちの払込取扱票により納入をお願いします。
 
 ※本掲示は全ての学生・教員に通知しており…]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tsukuba Global Science Week (TGSW) 2022]]></title>
-        <id>d01191bf54949decb560c7f796304896</id>
-        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3262"/>
-        <updated>2022-09-06T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[TGSW brings together a wide range of international researchers including experts and graduate students to Tsukuba Science City and aims to provide a platform for building global networks of collaborat…]]></summary>
     </entry>
 </feed>

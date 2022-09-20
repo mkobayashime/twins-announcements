@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "31616a0a5d3339ce3bb1f98d77425470",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3285",
+            "title": "【On-site】Sept 27 (Tue) 15:00-18:00 World-science Leaders’ Seminar（For all students）",
+            "summary": "World-science Leaders’ Seminar is a part of classes in Doctoral Program in Human Biology.\nStudents attending this seminar will learn basic knowledge and recent research trends related to the specializ…",
+            "date_modified": "2022-09-20T03:00:00.000Z"
+        },
+        {
             "id": "d494fd0e9a39f5973f1b127ba7235cc9",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3284",
             "title": "学生支援員の募集について",
@@ -136,13 +143,6 @@
             "title": "【重要】2022年度第1期分授業料の納入督促について",
             "summary": "2022年度第1期分授業料未納者は、「払込取扱票」が送付されているので、再度確認の上、速やかに金融機関窓口にて納付されるようお願いします。\n納付されないときは、本学学則による除籍処分該当者となります。\n\n・8月口座振替対象の未納者は、9月に発行された払込取扱票により納入をお願いします。\n・その他の未納者は、既にお持ちの払込取扱票により納入をお願いします。\n\n※本掲示は全ての学生・教員に通知しており…",
             "date_modified": "2022-09-07T03:00:00.000Z"
-        },
-        {
-            "id": "d01191bf54949decb560c7f796304896",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3262",
-            "title": "Tsukuba Global Science Week (TGSW) 2022",
-            "summary": "TGSW brings together a wide range of international researchers including experts and graduate students to Tsukuba Science City and aims to provide a platform for building global networks of collaborat…",
-            "date_modified": "2022-09-06T03:00:00.000Z"
         }
     ]
 }

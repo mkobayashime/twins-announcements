@@ -4,10 +4,18 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Tue, 20 Sep 2022 09:16:40 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 20 Sep 2022 10:07:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
+        <item>
+            <title><![CDATA[【On-site】Sept 27 (Tue) 15:00-18:00 World-science Leaders’ Seminar（For all students）]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3285</link>
+            <guid>31616a0a5d3339ce3bb1f98d77425470</guid>
+            <pubDate>Tue, 20 Sep 2022 03:00:00 GMT</pubDate>
+            <description><![CDATA[World-science Leaders’ Seminar is a part of classes in Doctoral Program in Human Biology.
+Students attending this seminar will learn basic knowledge and recent research trends related to the specializ…]]></description>
+        </item>
         <item>
             <title><![CDATA[学生支援員の募集について]]></title>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3284</link>
@@ -225,13 +233,6 @@ We are pleased to announce that all the classrooms for the recently announced �
 ・その他の未納者は、既にお持ちの払込取扱票により納入をお願いします。
 
 ※本掲示は全ての学生・教員に通知しており…]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Tsukuba Global Science Week (TGSW) 2022]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3262</link>
-            <guid>d01191bf54949decb560c7f796304896</guid>
-            <pubDate>Tue, 06 Sep 2022 03:00:00 GMT</pubDate>
-            <description><![CDATA[TGSW brings together a wide range of international researchers including experts and graduate students to Tsukuba Science City and aims to provide a platform for building global networks of collaborat…]]></description>
         </item>
     </channel>
 </rss>
