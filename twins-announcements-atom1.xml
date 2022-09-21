@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/mkobayashime/twins-announcements</id>
     <title>在学生へのお知らせ | 筑波大学</title>
-    <updated>2022-09-20T21:09:43.381Z</updated>
+    <updated>2022-09-21T00:41:24.533Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://github.com/mkobayashime/twins-announcements"/>
     <subtitle>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</subtitle>
+    <entry>
+        <title type="html"><![CDATA[【開催案内】筑波大学 Open Facility Week 2022開催のお知らせ(10/17-21)]]></title>
+        <id>d25f45d39adc323dfee96d94c5303b2c</id>
+        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3286"/>
+        <updated>2022-09-21T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[オープンファシリティー推進機構では、教育研究を効率的に推進するため、210台以上の共同利用機器をオープンファシリティーシステムに登録し、設備の有効活用に伴う利用サポートを実施いたしております。
+この度、10月17日(月)から10月21日(金)までの期間を機器共用促進の重点実施期間として、「筑波大学Open Facility Week 2022」を開催することとなりましたので、ご案内申し上げます。
+…]]></summary>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【On-site】Sept 27 (Tue) 15:00-18:00 World-science Leaders’ Seminar（For all students）]]></title>
         <id>31616a0a5d3339ce3bb1f98d77425470</id>
@@ -218,18 +227,5 @@ The 5th Symposium for Ph.D. Program in Humanics, “Bio-informatics on the Front
 -------------------------------------------------
 
 We are pleased to announce that all the classrooms for the recently announced …]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【重要】2022年度第1期分授業料の納入督促について]]></title>
-        <id>6be6a93498e182fc509b2c71120c8c0f</id>
-        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3263"/>
-        <updated>2022-09-07T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[2022年度第1期分授業料未納者は、「払込取扱票」が送付されているので、再度確認の上、速やかに金融機関窓口にて納付されるようお願いします。
-納付されないときは、本学学則による除籍処分該当者となります。
-
-・8月口座振替対象の未納者は、9月に発行された払込取扱票により納入をお願いします。
-・その他の未納者は、既にお持ちの払込取扱票により納入をお願いします。
-
-※本掲示は全ての学生・教員に通知しており…]]></summary>
     </entry>
 </feed>
