@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "085ab046e1921c4ba66ed35473550f62",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3287",
+            "title": "インフルエンザワクチン接種、今年もやります。",
+            "summary": "今年度もインフルエンザのワクチン接種を行います。\n接種を希望される方は、以下の予約ページより事前にご予約をお願いします。\n\n　予約開始　：　令和４年９月２６日（月）１９：００頃～\n　接種期間　：　令和４年１０月４日（火）～\n　対　　象　：　筑波大学 学生・職員（本学の学生証または、職員証がある方）\n　料　　金　：　３，０００円\n\n　※接種当日は「インフルエンザHAワクチン予防接種予診票」をご記入の…",
+            "date_modified": "2022-09-21T03:00:00.000Z"
+        },
+        {
             "id": "d25f45d39adc323dfee96d94c5303b2c",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3286",
             "title": "【開催案内】筑波大学 Open Facility Week 2022開催のお知らせ(10/17-21)",
@@ -136,13 +143,6 @@
             "title": "TGSW2022のお知らせ",
             "summary": "筑波大学では、多岐にわたる学術分野の最先端の研究成果を共有し、より良い未来を実現するための方策を議論する場として、筑波研究学園都市においてTsukuba Global Science Week (TGSW)を開催しています。\n\n今年は人間系から河野禎之先生、宮内久絵先生がセッション「インクルーシブ社会を実現するための人材開発：グローバル・ダイバーシティ・コンピテンスを考える」にご登壇されます。\n他…",
             "date_modified": "2022-09-08T03:00:00.000Z"
-        },
-        {
-            "id": "bf1952866e34bffebef85a78d24f08ab",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3264",
-            "title": "学士基盤科目の授業形態について(R4秋学期)/Announcement on the Multidisciplinary subjects class form(Fall semester 2022)",
-            "summary": "先日掲示しましたＲ4年度秋学期の総合科目（学士基盤科目）の授業形態につきましてすべての教室が確定しましたので、添付のとおりお知らせします。\n\n-------------------------------------------------\n\nWe are pleased to announce that all the classrooms for the recently announced …",
-            "date_modified": "2022-09-07T03:00:00.000Z"
         }
     ]
 }

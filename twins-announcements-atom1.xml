@@ -2,10 +2,25 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/mkobayashime/twins-announcements</id>
     <title>在学生へのお知らせ | 筑波大学</title>
-    <updated>2022-09-21T00:41:24.533Z</updated>
+    <updated>2022-09-21T03:42:49.039Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://github.com/mkobayashime/twins-announcements"/>
     <subtitle>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</subtitle>
+    <entry>
+        <title type="html"><![CDATA[インフルエンザワクチン接種、今年もやります。]]></title>
+        <id>085ab046e1921c4ba66ed35473550f62</id>
+        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3287"/>
+        <updated>2022-09-21T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[今年度もインフルエンザのワクチン接種を行います。
+接種を希望される方は、以下の予約ページより事前にご予約をお願いします。
+
+　予約開始　：　令和４年９月２６日（月）１９：００頃～
+　接種期間　：　令和４年１０月４日（火）～
+　対　　象　：　筑波大学 学生・職員（本学の学生証または、職員証がある方）
+　料　　金　：　３，０００円
+
+　※接種当日は「インフルエンザHAワクチン予防接種予診票」をご記入の…]]></summary>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【開催案内】筑波大学 Open Facility Week 2022開催のお知らせ(10/17-21)]]></title>
         <id>d25f45d39adc323dfee96d94c5303b2c</id>
@@ -216,16 +231,5 @@ The 5th Symposium for Ph.D. Program in Humanics, “Bio-informatics on the Front
 
 今年は人間系から河野禎之先生、宮内久絵先生がセッション「インクルーシブ社会を実現するための人材開発：グローバル・ダイバーシティ・コンピテンスを考える」にご登壇されます。
 他…]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[学士基盤科目の授業形態について(R4秋学期)/Announcement on the Multidisciplinary subjects class form(Fall semester 2022)]]></title>
-        <id>bf1952866e34bffebef85a78d24f08ab</id>
-        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3264"/>
-        <updated>2022-09-07T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[先日掲示しましたＲ4年度秋学期の総合科目（学士基盤科目）の授業形態につきましてすべての教室が確定しましたので、添付のとおりお知らせします。
-
--------------------------------------------------
-
-We are pleased to announce that all the classrooms for the recently announced …]]></summary>
     </entry>
 </feed>
