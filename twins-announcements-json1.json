@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "64fb4a758f7cba4c27dd74ceb6e4952d",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3288",
+            "title": "Oct 10th [Face-to-face] Japan-Latin America Event",
+            "summary": "Would you like to interact with researchers from Mexico?\nIf you are interested in Latin America (especially Mexico), please join us!\n\nThe Permanent Research Seminar on Art and Culture Mexico-Japan (Se…",
+            "date_modified": "2022-09-21T03:00:00.000Z"
+        },
+        {
             "id": "085ab046e1921c4ba66ed35473550f62",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3287",
             "title": "インフルエンザワクチン接種、今年もやります。",
@@ -136,13 +143,6 @@
             "title": "【見逃し配信】一般公開WEBイベント「青年期・成人期における発達障害のある人を誰一人取り残さない社会に向けて」",
             "summary": "9月4日に開催した一般公開WEBイベント「青年期・成人期における発達障害のある人を誰一人取り残さない社会に向けて」について、当日は約700名の参加者がありました。\nこちらのイベントの見逃し配信を10月4日まで行っていますので、ぜひお申し込みください。\n現在、約3,300名の申し込みがございます。\n【再生時間】\n約3時間26分\n※速度調整ができます（2倍速まで）\n\n【内容】\n10分程度　趣旨説明\n司…",
             "date_modified": "2022-09-09T03:00:00.000Z"
-        },
-        {
-            "id": "af5ea57d0fe844e46c372d05e96c8c83",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3265",
-            "title": "TGSW2022のお知らせ",
-            "summary": "筑波大学では、多岐にわたる学術分野の最先端の研究成果を共有し、より良い未来を実現するための方策を議論する場として、筑波研究学園都市においてTsukuba Global Science Week (TGSW)を開催しています。\n\n今年は人間系から河野禎之先生、宮内久絵先生がセッション「インクルーシブ社会を実現するための人材開発：グローバル・ダイバーシティ・コンピテンスを考える」にご登壇されます。\n他…",
-            "date_modified": "2022-09-08T03:00:00.000Z"
         }
     ]
 }
