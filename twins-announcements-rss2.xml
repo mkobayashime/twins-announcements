@@ -4,7 +4,7 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Mon, 26 Sep 2022 09:16:46 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 26 Sep 2022 15:13:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
@@ -21,9 +21,8 @@ You can participate in workshops about Japanese culture (free)! You can also buy
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3290</link>
             <guid>020aa346b5ff9670e07ae65e53a82964</guid>
             <pubDate>Thu, 22 Sep 2022 03:00:00 GMT</pubDate>
-            <description><![CDATA[一般財団法人日本国際協力センター(JICE・ジャイス)が行っている日本語研修・就学支援の一環で、週末に「JICA筑波」で、外国籍の小中学生の宿題や教科学習（算数）のサポートコースを実施しています。その補助員を募集します。詳細は下記の添付でご確認ください。
-
-場所：JICA筑波　けやき棟3階　講義室１ https://www.jica.go.jp/tsukuba/office/access.html…]]></description>
+            <description><![CDATA[Welcome to the University of Tsukuba! We will organize a face-to-face event to receive all of you!
+You can participate in workshops about Japanese culture (free)! You can also buy university official …]]></description>
         </item>
         <item>
             <title><![CDATA[（9.30対面）「文系／理系ってなんだろう？～文理選択の“いま”について考える～」開催のお知らせ]]></title>
@@ -213,14 +212,20 @@ The purpo…]]></description>
 　受験方法 ： １１月１日（火）頃までに、Web掲示板(TIPS…]]></description>
         </item>
         <item>
-            <title><![CDATA[Sep 26 Online/The 5th Symposium for Ph.D. Program in Humanics, “Bio-informatics on the Front Line”]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3268</link>
-            <guid>928f1fe6aafabcb4432c7e5be2c379c4</guid>
-            <pubDate>Mon, 12 Sep 2022 03:00:00 GMT</pubDate>
-            <description><![CDATA[Dear Students,
+            <title><![CDATA[【見逃し配信】一般公開WEBイベント「青年期・成人期における発達障害のある人を誰一人取り残さない社会に向けて」]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3266</link>
+            <guid>da85e60e8ba9e9a5bb88b29e8ae37ed2</guid>
+            <pubDate>Fri, 09 Sep 2022 03:00:00 GMT</pubDate>
+            <description><![CDATA[9月4日に開催した一般公開WEBイベント「青年期・成人期における発達障害のある人を誰一人取り残さない社会に向けて」について、当日は約700名の参加者がありました。
+こちらのイベントの見逃し配信を10月4日まで行っていますので、ぜひお申し込みください。
+現在、約3,300名の申し込みがございます。
+【再生時間】
+約3時間26分
+※速度調整ができます（2倍速まで）
 
-This is an announcement from the office of the Ph.D. Program in Humanics, a 5-year doctoral program.
-The 5th Symposium for Ph.D. Program in Humanics, “Bio-informatics on the Front Line…]]></description>
+【内容】
+10分程度　趣旨説明
+司…]]></description>
         </item>
     </channel>
 </rss>
