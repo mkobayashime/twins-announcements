@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "c8e219fb2fb167a6b91ae68a6cf3fdb4",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3291",
+            "title": "【Face-to-face! Sept 26/27】Welcome Event & Cultural workshops!",
+            "summary": "Welcome to the University of Tsukuba! We will organize a face-to-face event to receive all of you!\nYou can participate in workshops about Japanese culture (free)! You can also buy university official …",
+            "date_modified": "2022-09-26T03:00:00.000Z"
+        },
+        {
             "id": "020aa346b5ff9670e07ae65e53a82964",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3290",
             "title": "JICE子どもサポートコース　補助員募集",
@@ -135,13 +142,6 @@
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3268",
             "title": "Sep 26 Online/The 5th Symposium for Ph.D. Program in Humanics, “Bio-informatics on the Front Line”",
             "summary": "Dear Students,\n\nThis is an announcement from the office of the Ph.D. Program in Humanics, a 5-year doctoral program.\nThe 5th Symposium for Ph.D. Program in Humanics, “Bio-informatics on the Front Line…",
-            "date_modified": "2022-09-12T03:00:00.000Z"
-        },
-        {
-            "id": "0a1c7621b105179e881a36283f336b24",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3267",
-            "title": "[登録受付中] 9/26（月）TGSW/第5回ヒューマニクス学位プログラムシンポジウム「バイオインフォマティクス最前線～異分野連携が拓く未来～」開催のお知らせ",
-            "summary": "学生の皆さまへ\n\n5年一貫制博士課程「ヒューマニクス学位プログラム」より、第5回ヒューマニクス学位プログラムシンポジウム「バイオインフォマティクス最前線～異分野連携が拓く未来～」開催のご案内です。\n\n本年度のシンポジウムは、つくばグローバル・サイエンス・ウィーク（TGSW）2022\n(https://tgsw.tsukuba.ac.jp)の１セッションという位置づけで開催いたします。\n\n＊＊＊＊＊…",
             "date_modified": "2022-09-12T03:00:00.000Z"
         }
     ]
