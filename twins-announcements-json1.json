@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "57674da119cdedd98e0a0fe138a041b4",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3292",
+            "title": "「筑波＿卒業後を考える会」後期開催のお知らせ",
+            "summary": "筑波大学「世界を変えよう基金アカデミー」では、就活を終えた4年生が自分の経験を下級生に伝える「筑波＿卒業後を考える会」をZoomで毎週日曜日20:30から開催しています。ガクチカ、就活対象先選定過程、最終内定先決定過程等、就活を始める皆さんにとって興味深いお話を聞ける絶好の機会です。\n\n日程は下記のとおりです。\n10/2(日) 国際4年、国際物流企業内定\n10/9(日) 地球4年、保険会社内定\n1…",
+            "date_modified": "2022-09-27T03:00:00.000Z"
+        },
+        {
             "id": "c8e219fb2fb167a6b91ae68a6cf3fdb4",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3291",
             "title": "【Face-to-face! Sept 26/27】Welcome Event & Cultural workshops!",
@@ -136,13 +143,6 @@
             "title": "学群3年次対象TOEICⓇ IPオンラインテストの実施について",
             "summary": "学群3年次対象TOEICⓇ IPオンラインテストを実施します。\n３年次生全員を対象としているため、申し込みは必要ありません。\n受験は１人１回のみです。\n\n　実 施 日 ： ２０２２年１１月２２日（火）～１１月３０日（水）最終日は正午まで　９日間\n　　　　　（期間中の都合の良い日時に受験できます。）\n　試験時間 ： 約６０分程度です。\n　受験方法 ： １１月１日（火）頃までに、Web掲示板(TIPS…",
             "date_modified": "2022-09-14T03:00:00.000Z"
-        },
-        {
-            "id": "da85e60e8ba9e9a5bb88b29e8ae37ed2",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3266",
-            "title": "【見逃し配信】一般公開WEBイベント「青年期・成人期における発達障害のある人を誰一人取り残さない社会に向けて」",
-            "summary": "9月4日に開催した一般公開WEBイベント「青年期・成人期における発達障害のある人を誰一人取り残さない社会に向けて」について、当日は約700名の参加者がありました。\nこちらのイベントの見逃し配信を10月4日まで行っていますので、ぜひお申し込みください。\n現在、約3,300名の申し込みがございます。\n【再生時間】\n約3時間26分\n※速度調整ができます（2倍速まで）\n\n【内容】\n10分程度　趣旨説明\n司…",
-            "date_modified": "2022-09-09T03:00:00.000Z"
         }
     ]
 }
