@@ -4,10 +4,23 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Tue, 27 Sep 2022 03:25:04 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 27 Sep 2022 06:39:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
+        <item>
+            <title><![CDATA[秋学期の教科書販売について]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3295</link>
+            <guid>78648abc8e560317ac808b82bd76c6a6</guid>
+            <pubDate>Tue, 27 Sep 2022 03:00:00 GMT</pubDate>
+            <description><![CDATA[学内書店事業者である丸善雄松堂株式会社から、
+秋学期の教科書販売についての連絡がありましたので、お知らせします。
+
+秋学期の教科書販売は、9/28（水）から、学内書店の各店頭とオンラインの両方で実施します。
+オンライン販売は期間限定となります。余裕をもってお申込みください。
+　　◆9月28日（水）9時 ～ 10月14日 (金)  23時59分
+　　★お申込みにあたっては別添資料の詳細を必ずご確認く…]]></description>
+        </item>
         <item>
             <title><![CDATA[【参加者募集」TSUKUBA LIVE!当日スタッフ説明会を開催します！（9月29日 13:00~）]]></title>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3294</link>
@@ -213,15 +226,6 @@ You can participate in workshops about Japanese culture (free)! You can also buy
             <description><![CDATA[筑波大学「世界を変えよう基金アカデミー」では、時事問題について英語メディアを題材に、academic essay及びPowerPointを作成し、英語で議論する勉強会を10月中旬からZoomで隔週開催します（10回、各2時間）。勉強会は英語で行います。
 
 上級クラスは、高校・大学で　academic writing 基礎について学習済み、かつ英語ディスカッションの経験を有し、TOEIC800点相当…]]></description>
-        </item>
-        <item>
-            <title><![CDATA[【Event】BOM-Borderless Online Meeting- by URA /【イベント】英語によるランチタイム交流会について]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3272</link>
-            <guid>6e1c8b81a851b3ef28785de1b9c1d18d</guid>
-            <pubDate>Wed, 14 Sep 2022 03:00:00 GMT</pubDate>
-            <description><![CDATA[The Research Administration/Management Office has an online meeting.
-You can communicate with researchers from different departments here. Also, URA will share research activity information.
-The purpo…]]></description>
         </item>
     </channel>
 </rss>
