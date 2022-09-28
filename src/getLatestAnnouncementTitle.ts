@@ -1,4 +1,4 @@
-import * as O from "fp-ts/Option";
+import * as O from "fp-ts/lib/Option";
 import { existsSync } from "fs";
 import { readFile } from "fs/promises";
 import path from "path";
