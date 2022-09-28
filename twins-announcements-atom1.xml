@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/mkobayashime/twins-announcements</id>
     <title>在学生へのお知らせ | 筑波大学</title>
-    <updated>2022-09-28T09:19:09.017Z</updated>
+    <updated>2022-09-28T15:16:39.812Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://github.com/mkobayashime/twins-announcements"/>
     <subtitle>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</subtitle>
@@ -174,14 +174,6 @@ All students of the University of Tsukuba …]]></summary>
 参加無料・予約不要・…]]></summary>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【Face-to-face! Sept 26/27】Welcome Event & Cultural workshops!]]></title>
-        <id>c8e219fb2fb167a6b91ae68a6cf3fdb4</id>
-        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3277"/>
-        <updated>2022-09-15T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Welcome to the University of Tsukuba! We will organize a face-to-face event to receive all of you!
-You can participate in workshops about Japanese culture (free)! You can also buy university official …]]></summary>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[国際パートナーシップ研修(東南アジア)（全学自由科目（特設）2単位）の参加募集（10月14日締切）]]></title>
         <id>e4641e7cc5acffa8e63a207a19704287</id>
         <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3275"/>
@@ -225,5 +217,15 @@ You can participate in workshops about Japanese culture (free)! You can also buy
         <summary type="html"><![CDATA[The Research Administration/Management Office has an online meeting.
 You can communicate with researchers from different departments here. Also, URA will share research activity information.
 The purpo…]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[10/14（金）10:00-12:00「Business Leaders’ Seminar/ビジネスリーダーズセミナー」オンライン開催のお知らせ （対象：全学生）]]></title>
+        <id>5b8eec3b652000c663baf37b22a3733b</id>
+        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3270"/>
+        <updated>2022-09-14T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[ヒューマンバイオロジー学位プログラムでは授業の一環として「Business Leaders’ Seminar/ビジネスリーダーズセミナー」を開催しています。
+本セミナーは、世界のトップビジネスリーダーを招き、オムニバス形式でキャリア形成やビジネスに関する成功と失敗の話などの経験を紹介するものです。
+
+10月14日（金）10:00-12:00に開催するセミナーでは、ナウビレッジ株式会社 代表取締役 …]]></summary>
     </entry>
 </feed>
