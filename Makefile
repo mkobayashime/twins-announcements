@@ -1,8 +1,10 @@
+ts-node = node --loader ts-node/esm --experimental-specifier-resolution=node
+
 install:
 	yarn
 
 run: install
-	yarn ts-node src/index.ts
+	$(ts-node) src/index.ts
 
 lint: install
 	yarn eslint .

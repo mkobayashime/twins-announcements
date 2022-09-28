@@ -1,4 +1,4 @@
-import * as O from "fp-ts/Option";
+import * as O from "fp-ts/lib/Option";
 import puppeteer from "puppeteer";
 
 import { generateFeed, saveFeedToFiles } from "./feeds";
