@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/mkobayashime/twins-announcements</id>
     <title>在学生へのお知らせ | 筑波大学</title>
-    <updated>2022-09-30T04:23:23.378Z</updated>
+    <updated>2022-09-30T09:18:07.159Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://github.com/mkobayashime/twins-announcements"/>
     <subtitle>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</subtitle>
+    <entry>
+        <title type="html"><![CDATA[【全学生対象】筑波大学学生生活実態調査にご協力をお願いいたします／Please cooperate and participate in a Survey for Student Life]]></title>
+        <id>a459b4e7062feb482316add8f57c314b</id>
+        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3299"/>
+        <updated>2022-09-30T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[筑波大学の全学生を対象に、「筑波大学学生生活実態調査」を実施します。学習管理システムmanabaを通して回答することができます。ぜひ調査へのご協力をお願いします。
+※調査結果は統計的に処理され、個人を特定できるデータは一切公開されません。
+
+The " Survey for Student Life " will be conducted for all University of Tsukuba…]]></summary>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[Graduate School Briefing Session] Ph.D. Program in Humanics (5-year Doctoral Program]]></title>
         <id>cad02f8a29803bbb244717798bd5ada0</id>
@@ -217,15 +227,5 @@ All students of the University of Tsukuba …]]></summary>
         <summary type="html"><![CDATA[The Research Administration/Management Office has an online meeting.
 You can communicate with researchers from different departments here. Also, URA will share research activity information.
 The purpo…]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[10/14（金）10:00-12:00「Business Leaders’ Seminar/ビジネスリーダーズセミナー」オンライン開催のお知らせ （対象：全学生）]]></title>
-        <id>5b8eec3b652000c663baf37b22a3733b</id>
-        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3270"/>
-        <updated>2022-09-14T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[ヒューマンバイオロジー学位プログラムでは授業の一環として「Business Leaders’ Seminar/ビジネスリーダーズセミナー」を開催しています。
-本セミナーは、世界のトップビジネスリーダーを招き、オムニバス形式でキャリア形成やビジネスに関する成功と失敗の話などの経験を紹介するものです。
-
-10月14日（金）10:00-12:00に開催するセミナーでは、ナウビレッジ株式会社 代表取締役 …]]></summary>
     </entry>
 </feed>

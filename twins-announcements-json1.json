@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "a459b4e7062feb482316add8f57c314b",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3299",
+            "title": "【全学生対象】筑波大学学生生活実態調査にご協力をお願いいたします／Please cooperate and participate in a Survey for Student Life",
+            "summary": "筑波大学の全学生を対象に、「筑波大学学生生活実態調査」を実施します。学習管理システムmanabaを通して回答することができます。ぜひ調査へのご協力をお願いします。\n※調査結果は統計的に処理され、個人を特定できるデータは一切公開されません。\n\nThe \" Survey for Student Life \" will be conducted for all University of Tsukuba…",
+            "date_modified": "2022-09-30T03:00:00.000Z"
+        },
+        {
             "id": "cad02f8a29803bbb244717798bd5ada0",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3298",
             "title": "[Graduate School Briefing Session] Ph.D. Program in Humanics (5-year Doctoral Program",
@@ -135,13 +142,6 @@
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3272",
             "title": "【Event】BOM-Borderless Online Meeting- by URA /【イベント】英語によるランチタイム交流会について",
             "summary": "The Research Administration/Management Office has an online meeting.\nYou can communicate with researchers from different departments here. Also, URA will share research activity information.\nThe purpo…",
-            "date_modified": "2022-09-14T03:00:00.000Z"
-        },
-        {
-            "id": "5b8eec3b652000c663baf37b22a3733b",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3270",
-            "title": "10/14（金）10:00-12:00「Business Leaders’ Seminar/ビジネスリーダーズセミナー」オンライン開催のお知らせ （対象：全学生）",
-            "summary": "ヒューマンバイオロジー学位プログラムでは授業の一環として「Business Leaders’ Seminar/ビジネスリーダーズセミナー」を開催しています。\n本セミナーは、世界のトップビジネスリーダーを招き、オムニバス形式でキャリア形成やビジネスに関する成功と失敗の話などの経験を紹介するものです。\n\n10月14日（金）10:00-12:00に開催するセミナーでは、ナウビレッジ株式会社 代表取締役 …",
             "date_modified": "2022-09-14T03:00:00.000Z"
         }
     ]
