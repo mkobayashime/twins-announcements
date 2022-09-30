@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "cad02f8a29803bbb244717798bd5ada0",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3298",
+            "title": "[Graduate School Briefing Session] Ph.D. Program in Humanics (5-year Doctoral Program",
+            "summary": "We will hold Briefing Sessions in a hybrid format, combining Onsite & Online.\n\nThe Ph.D. Program in Humanics will welcome students who have studied either biomedical sciences or physical sciences/engi…",
+            "date_modified": "2022-09-30T03:00:00.000Z"
+        },
+        {
             "id": "78648abc8e560317ac808b82bd76c6a6",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3295",
             "title": "秋学期の教科書販売について",
@@ -135,13 +142,6 @@
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3270",
             "title": "10/14（金）10:00-12:00「Business Leaders’ Seminar/ビジネスリーダーズセミナー」オンライン開催のお知らせ （対象：全学生）",
             "summary": "ヒューマンバイオロジー学位プログラムでは授業の一環として「Business Leaders’ Seminar/ビジネスリーダーズセミナー」を開催しています。\n本セミナーは、世界のトップビジネスリーダーを招き、オムニバス形式でキャリア形成やビジネスに関する成功と失敗の話などの経験を紹介するものです。\n\n10月14日（金）10:00-12:00に開催するセミナーでは、ナウビレッジ株式会社 代表取締役 …",
-            "date_modified": "2022-09-14T03:00:00.000Z"
-        },
-        {
-            "id": "a88484cf1ebf85bee9b8c91742f5f20c",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3269",
-            "title": "学群3年次対象TOEICⓇ IPオンラインテストの実施について",
-            "summary": "学群3年次対象TOEICⓇ IPオンラインテストを実施します。\n３年次生全員を対象としているため、申し込みは必要ありません。\n受験は１人１回のみです。\n\n　実 施 日 ： ２０２２年１１月２２日（火）～１１月３０日（水）最終日は正午まで　９日間\n　　　　　（期間中の都合の良い日時に受験できます。）\n　試験時間 ： 約６０分程度です。\n　受験方法 ： １１月１日（火）頃までに、Web掲示板(TIPS…",
             "date_modified": "2022-09-14T03:00:00.000Z"
         }
     ]
