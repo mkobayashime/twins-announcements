@@ -4,7 +4,7 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Mon, 03 Oct 2022 09:20:35 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 03 Oct 2022 15:15:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
@@ -230,9 +230,16 @@ All students of the University of Tsukuba …]]></description>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3272</link>
             <guid>6e1c8b81a851b3ef28785de1b9c1d18d</guid>
             <pubDate>Wed, 14 Sep 2022 03:00:00 GMT</pubDate>
-            <description><![CDATA[The Research Administration/Management Office has an online meeting.
-You can communicate with researchers from different departments here. Also, URA will share research activity information.
-The purpo…]]></description>
+            <description><![CDATA[海外派遣コースへの参加者を募集します。
+
+派遣日程：2023年2月18日-2月26日頃の一週間程度、（調整中。秋学期終了後すぐのおよそこの時期に実施）
+コース名：Workshop on Infection Diagnosis 感染症診断ワークショップ
+場所：ホーチミン市の協定機関
+対象者：筑波大学全学類生
+募集人数：8名
+
+応募いただいた中から、派遣候補者を選抜します。
+費用・サポートあり（見込み…]]></description>
         </item>
     </channel>
 </rss>
