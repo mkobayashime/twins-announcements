@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "c7960351ac4eaaa2aeb53c2a30312f69",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3301",
+            "title": "【10/5(水)　開催公開講演会】　医事法における人間の終期",
+            "summary": "学生の皆様、教職員の皆様\n\n  このたび社会・国際学群チュートリアルプログラムでは、公開講演会を開催いたします。\n講師は、神奈川大学・准教授の小谷昌子氏で、『医事法における人間の終期』というタイトルで講演を行っていただきます。\n皆様に是非ご参加いただきたく、以下のとおり、ご案内申し上げます。\n\n〇日時：令和４年１０月５日（水）１６時４５分～１８時００分\n〇開催場所：１B３０９・１B３１０講義室\n〇…",
+            "date_modified": "2022-10-03T03:00:00.000Z"
+        },
+        {
             "id": "7f54f930b1c540ef801a007f029ab69b",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3300",
             "title": "【お知らせ】2022年度筑波大学安全キャンペーン週間について",
@@ -135,13 +142,6 @@
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3272",
             "title": "【Event】BOM-Borderless Online Meeting- by URA /【イベント】英語によるランチタイム交流会について",
             "summary": "The Research Administration/Management Office has an online meeting.\nYou can communicate with researchers from different departments here. Also, URA will share research activity information.\nThe purpo…",
-            "date_modified": "2022-09-14T03:00:00.000Z"
-        },
-        {
-            "id": "5b8eec3b652000c663baf37b22a3733b",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3270",
-            "title": "10/14（金）10:00-12:00「Business Leaders’ Seminar/ビジネスリーダーズセミナー」オンライン開催のお知らせ （対象：全学生）",
-            "summary": "ヒューマンバイオロジー学位プログラムでは授業の一環として「Business Leaders’ Seminar/ビジネスリーダーズセミナー」を開催しています。\n本セミナーは、世界のトップビジネスリーダーを招き、オムニバス形式でキャリア形成やビジネスに関する成功と失敗の話などの経験を紹介するものです。\n\n10月14日（金）10:00-12:00に開催するセミナーでは、ナウビレッジ株式会社 代表取締役 …",
             "date_modified": "2022-09-14T03:00:00.000Z"
         }
     ]

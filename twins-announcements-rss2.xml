@@ -4,10 +4,25 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Mon, 03 Oct 2022 00:40:21 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 03 Oct 2022 02:55:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
+        <item>
+            <title><![CDATA[【10/5(水)　開催公開講演会】　医事法における人間の終期]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3301</link>
+            <guid>c7960351ac4eaaa2aeb53c2a30312f69</guid>
+            <pubDate>Mon, 03 Oct 2022 03:00:00 GMT</pubDate>
+            <description><![CDATA[学生の皆様、教職員の皆様
+
+  このたび社会・国際学群チュートリアルプログラムでは、公開講演会を開催いたします。
+講師は、神奈川大学・准教授の小谷昌子氏で、『医事法における人間の終期』というタイトルで講演を行っていただきます。
+皆様に是非ご参加いただきたく、以下のとおり、ご案内申し上げます。
+
+〇日時：令和４年１０月５日（水）１６時４５分～１８時００分
+〇開催場所：１B３０９・１B３１０講義室
+〇…]]></description>
+        </item>
         <item>
             <title><![CDATA[【お知らせ】2022年度筑波大学安全キャンペーン週間について]]></title>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3300</link>
@@ -218,16 +233,6 @@ All students of the University of Tsukuba …]]></description>
             <description><![CDATA[The Research Administration/Management Office has an online meeting.
 You can communicate with researchers from different departments here. Also, URA will share research activity information.
 The purpo…]]></description>
-        </item>
-        <item>
-            <title><![CDATA[10/14（金）10:00-12:00「Business Leaders’ Seminar/ビジネスリーダーズセミナー」オンライン開催のお知らせ （対象：全学生）]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3270</link>
-            <guid>5b8eec3b652000c663baf37b22a3733b</guid>
-            <pubDate>Wed, 14 Sep 2022 03:00:00 GMT</pubDate>
-            <description><![CDATA[ヒューマンバイオロジー学位プログラムでは授業の一環として「Business Leaders’ Seminar/ビジネスリーダーズセミナー」を開催しています。
-本セミナーは、世界のトップビジネスリーダーを招き、オムニバス形式でキャリア形成やビジネスに関する成功と失敗の話などの経験を紹介するものです。
-
-10月14日（金）10:00-12:00に開催するセミナーでは、ナウビレッジ株式会社 代表取締役 …]]></description>
         </item>
     </channel>
 </rss>
