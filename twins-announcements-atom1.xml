@@ -2,10 +2,24 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/mkobayashime/twins-announcements</id>
     <title>在学生へのお知らせ | 筑波大学</title>
-    <updated>2022-10-03T21:11:03.985Z</updated>
+    <updated>2022-10-04T04:47:20.398Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://github.com/mkobayashime/twins-announcements"/>
     <subtitle>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</subtitle>
+    <entry>
+        <title type="html"><![CDATA[【ボランティア募集】世界一プロジェクト：だるまさんが転んだギネス記録に挑戦]]></title>
+        <id>14b7778c0720619b545e49db98a67e95</id>
+        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3302"/>
+        <updated>2022-10-04T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[つくば市立学園の森義務教育学校のギネス記録挑戦に際して、
+ボランティアの募集がありました。
+詳細、申し込みは添付ファイルをご確認ください。
+
+申込期日は10月18日（火）までとなっています。
+
+
+#ts]]></summary>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【10/5(水)　開催公開講演会】　医事法における人間の終期]]></title>
         <id>c7960351ac4eaaa2aeb53c2a30312f69</id>
@@ -222,14 +236,5 @@ All students of the University of Tsukuba …]]></summary>
 
 応募いただいた中から、派遣候補者を選抜します。
 費用・サポートあり（見込み…]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【Event】BOM-Borderless Online Meeting- by URA /【イベント】英語によるランチタイム交流会について]]></title>
-        <id>6e1c8b81a851b3ef28785de1b9c1d18d</id>
-        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3272"/>
-        <updated>2022-09-14T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[The Research Administration/Management Office has an online meeting.
-You can communicate with researchers from different departments here. Also, URA will share research activity information.
-The purpo…]]></summary>
     </entry>
 </feed>

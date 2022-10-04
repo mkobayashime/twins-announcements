@@ -4,10 +4,24 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Mon, 03 Oct 2022 21:11:03 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 04 Oct 2022 04:47:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
+        <item>
+            <title><![CDATA[【ボランティア募集】世界一プロジェクト：だるまさんが転んだギネス記録に挑戦]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3302</link>
+            <guid>14b7778c0720619b545e49db98a67e95</guid>
+            <pubDate>Tue, 04 Oct 2022 03:00:00 GMT</pubDate>
+            <description><![CDATA[つくば市立学園の森義務教育学校のギネス記録挑戦に際して、
+ボランティアの募集がありました。
+詳細、申し込みは添付ファイルをご確認ください。
+
+申込期日は10月18日（火）までとなっています。
+
+
+#ts]]></description>
+        </item>
         <item>
             <title><![CDATA[【10/5(水)　開催公開講演会】　医事法における人間の終期]]></title>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3301</link>
@@ -224,15 +238,6 @@ All students of the University of Tsukuba …]]></description>
 
 応募いただいた中から、派遣候補者を選抜します。
 費用・サポートあり（見込み…]]></description>
-        </item>
-        <item>
-            <title><![CDATA[【Event】BOM-Borderless Online Meeting- by URA /【イベント】英語によるランチタイム交流会について]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3272</link>
-            <guid>6e1c8b81a851b3ef28785de1b9c1d18d</guid>
-            <pubDate>Wed, 14 Sep 2022 03:00:00 GMT</pubDate>
-            <description><![CDATA[The Research Administration/Management Office has an online meeting.
-You can communicate with researchers from different departments here. Also, URA will share research activity information.
-The purpo…]]></description>
         </item>
     </channel>
 </rss>

@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "14b7778c0720619b545e49db98a67e95",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3302",
+            "title": "【ボランティア募集】世界一プロジェクト：だるまさんが転んだギネス記録に挑戦",
+            "summary": "つくば市立学園の森義務教育学校のギネス記録挑戦に際して、\nボランティアの募集がありました。\n詳細、申し込みは添付ファイルをご確認ください。\n\n申込期日は10月18日（火）までとなっています。\n\n\n#ts",
+            "date_modified": "2022-10-04T03:00:00.000Z"
+        },
+        {
             "id": "c7960351ac4eaaa2aeb53c2a30312f69",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3301",
             "title": "【10/5(水)　開催公開講演会】　医事法における人間の終期",
@@ -136,13 +143,6 @@
             "title": "国際パートナーシップ研修(東南アジア)（全学自由科目（特設）2単位）の参加募集（10月14日締切）",
             "summary": "海外派遣コースへの参加者を募集します。\n\n派遣日程：2023年2月18日-2月26日頃の一週間程度、（調整中。秋学期終了後すぐのおよそこの時期に実施）\nコース名：Workshop on Infection Diagnosis 感染症診断ワークショップ\n場所：ホーチミン市の協定機関\n対象者：筑波大学全学類生\n募集人数：8名\n\n応募いただいた中から、派遣候補者を選抜します。\n費用・サポートあり（見込み…",
             "date_modified": "2022-09-15T03:00:00.000Z"
-        },
-        {
-            "id": "6e1c8b81a851b3ef28785de1b9c1d18d",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3272",
-            "title": "【Event】BOM-Borderless Online Meeting- by URA /【イベント】英語によるランチタイム交流会について",
-            "summary": "The Research Administration/Management Office has an online meeting.\nYou can communicate with researchers from different departments here. Also, URA will share research activity information.\nThe purpo…",
-            "date_modified": "2022-09-14T03:00:00.000Z"
         }
     ]
 }
