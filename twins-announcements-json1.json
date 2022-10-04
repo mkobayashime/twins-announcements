@@ -5,6 +5,20 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "986c6047e2cc18cfa2f7c2612d6732d4",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3309",
+            "title": "【予約不要・入退室自由】10月17日（月）～10月21日（金）「留学相談強化週間」オンライン/対面",
+            "summary": "スチューデントサポートセンター国際交流支援室では、10/17（月）～10/21（金）に留学相談強化週間を開催します。今回は再始動したスチューデント・コモンズでの対面相談も可能です！\n\n留学に行きたいけど、何をしたらいいのか。\n留学先はどのように決定するのか。行きたい大学が決まっているんだけど。。。\nと、留学を考え始めたばかりのあなたも、具体的に行動を始めているあなたも、気軽に会場を覗いてみてくださ…",
+            "date_modified": "2022-10-04T03:00:00.000Z"
+        },
+        {
+            "id": "b70d95ff71e8ed683e74236d41b145c0",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3306",
+            "title": "【SSC公募型：説明動画・資料公開】2023年秋学期渡航分／CiCパートナー校及び全学対象協定校への海外留学公募",
+            "summary": "スチューデントサポートセンター国際交流支援室にて公募している、2023年秋学期渡航分のCiCパートナー校及び全学対象協定校への海外留学及びカリフォルニア州立大学留学派遣生公募について、説明動画を公開しました。\n\n応募を検討されている方は、動画をご覧ください。\nhttps://ssc.sec.tsukuba.ac.jp/archives/20207\n\n",
+            "date_modified": "2022-10-04T03:00:00.000Z"
+        },
+        {
             "id": "14b7778c0720619b545e49db98a67e95",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3302",
             "title": "【ボランティア募集】世界一プロジェクト：だるまさんが転んだギネス記録に挑戦",
@@ -38,6 +52,20 @@
             "title": "電子ブック 全文無料試し読みサービス第２弾のご案内",
             "summary": "附属図書館では、コロナ禍における教育・学習を支援するため、6月～8月に実施し、ご好評をいただいた電子ブックの全文無料試し読みサービスの第２弾を実施します。今回は、丸善雄松堂が提供するMaruzen eBook Libraryを期間限定でご利用いただけます。\n\n対象プラットフォームの電子ブックからお好きな部分を1タイトルにつき5分間、試し読みすることができます。また、リクエストを送信することもできま…",
             "date_modified": "2022-10-03T03:00:00.000Z"
+        },
+        {
+            "id": "9658b849d9bddce9e96cb8aedafebd21",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3305",
+            "title": "2022年度第2期分授業料の納付について",
+            "summary": "2022年度第2期分授業料の納付について、添付の通りお知らせいたします。",
+            "date_modified": "2022-10-01T03:00:00.000Z"
+        },
+        {
+            "id": "868c5e421687bd0a409c4f61142136dd",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3304",
+            "title": "【お知らせ】筑波大学公式オリジナルグッズECサイト割引クーポンコードについて（10月）",
+            "summary": "筑波大学公式オリジナルグッズ販売サイト「TSUKUBA-SHOP」の10月の割引クーポンコードをお知らせいたします！\n\nTシャツやネックストラップ、マグカップなど様々な商品をお取り扱いしております。\n\nどうぞご覧いただき、皆様の「日常生活」、「思い出」、「プレゼント」などにご活用いただけますと幸いです。\n\n\nECサイトは以下のリンクから\n\nクーポンコード有効期間：2022年10月1日（土）～202…",
+            "date_modified": "2022-10-01T03:00:00.000Z"
         },
         {
             "id": "a459b4e7062feb482316add8f57c314b",
@@ -115,34 +143,6 @@
             "title": "学生支援員の募集について",
             "summary": "土浦市から学生支援員募集のお知らせです。\n詳細は添付ファイルをご確認ください。\n\n\n#ts",
             "date_modified": "2022-09-16T03:00:00.000Z"
-        },
-        {
-            "id": "cacc763d78dcca135f3245f155eea081",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3283",
-            "title": "【注意喚起】不審な団体等の勧誘に注意",
-            "summary": "学生各位\n\n　先日７月１３日付けで、カルト勧誘について注意喚起しましたが、最近、「カルト団体の勧誘活動」のほか、「過激な政治運動を行う団体の活動の勧誘（デモへの参加の誘いなど）」、「悪徳業者による活動」についても活発化しているという情報がありますので、改めて注意喚起します。\n\n　こうした勧誘については、目の前で自分を勧誘してくる相手が既に洗脳されてしまっているケースが多くあります。自分は善い行いを…",
-            "date_modified": "2022-09-16T03:00:00.000Z"
-        },
-        {
-            "id": "e0b0d72418b60597e9f3950f71042019",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3281",
-            "title": "10月10日【対面イベント】日本・ラテンアメリカ交流会",
-            "summary": "メキシコからの研究者と英語で交流しませんか？\nラテンアメリカ（特にメキシコ）に興味がある方は、是非参加してください！\n\nメキシコ日本芸術文化研究常設セミナー（以下、SepiacMJ）は、メキシコに拠点を持っている、日本とメキシコの芸術と文化の表象をその時代に即した関係性に着目して研究を進めていくための学際的な学術空間です。SepiacMJの参加研究者は、日本の様々な大学の学生・研究者・教員などと意…",
-            "date_modified": "2022-09-16T03:00:00.000Z"
-        },
-        {
-            "id": "2295a65275600e2c0e0ad37fedf15f00",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3279",
-            "title": "【Face-to-face】Sept 30 (Fri) 2022 Welcoming Festival & club activities presentations!",
-            "summary": "\"Tsuku・Koi\" is the welcoming festival, just after the entrance ceremony (same building)\nMany clubs and circles will participate and present their activities.\nAll students of the University of Tsukuba …",
-            "date_modified": "2022-09-15T03:00:00.000Z"
-        },
-        {
-            "id": "e4641e7cc5acffa8e63a207a19704287",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3275",
-            "title": "国際パートナーシップ研修(東南アジア)（全学自由科目（特設）2単位）の参加募集（10月14日締切）",
-            "summary": "海外派遣コースへの参加者を募集します。\n\n派遣日程：2023年2月18日-2月26日頃の一週間程度、（調整中。秋学期終了後すぐのおよそこの時期に実施）\nコース名：Workshop on Infection Diagnosis 感染症診断ワークショップ\n場所：ホーチミン市の協定機関\n対象者：筑波大学全学類生\n募集人数：8名\n\n応募いただいた中から、派遣候補者を選抜します。\n費用・サポートあり（見込み…",
-            "date_modified": "2022-09-15T03:00:00.000Z"
         }
     ]
 }
