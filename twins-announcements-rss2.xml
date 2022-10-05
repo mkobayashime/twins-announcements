@@ -4,10 +4,25 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Wed, 05 Oct 2022 03:03:16 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 05 Oct 2022 06:24:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
+        <item>
+            <title><![CDATA[【応募受付延長10/10迄】ROV製作設計セミナーの学生へのお知らせ]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3312</link>
+            <guid>1b29df86ac67d1d860bdc26c8e3ef947</guid>
+            <pubDate>Wed, 05 Oct 2022 03:00:00 GMT</pubDate>
+            <description><![CDATA[このたび、日本財団オーシャンイノベーションコンソーシアムの企画で
+以下のプログラムの大学生参加者を募集しております。
+
+チームでプログラミングに挑戦！～水中ロボットを開発せよ～
+2022年 10月21日（金）～23日（日）＠東京大学
+対象：全国の大学生、大学院1年生 ※詳しくは以下のURLでご確認ください。
+定員：20名
+応募締切：2022年10月10日（祝）23時59分　※延長しました！
+参加費…]]></description>
+        </item>
         <item>
             <title><![CDATA[Global Commons is now hiring a few more international students for English Conversation Partners!]]></title>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3310</link>
@@ -228,15 +243,6 @@ The Permanent Research Seminar on Art and Culture Mexico-Japan (Se…]]></descri
 　料　　金　：　３，０００円
 
 　※接種当日は「インフルエンザHAワクチン予防接種予診票」をご記入の…]]></description>
-        </item>
-        <item>
-            <title><![CDATA[【開催案内】筑波大学 Open Facility Week 2022開催のお知らせ(10/17-21)]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3286</link>
-            <guid>d25f45d39adc323dfee96d94c5303b2c</guid>
-            <pubDate>Wed, 21 Sep 2022 03:00:00 GMT</pubDate>
-            <description><![CDATA[オープンファシリティー推進機構では、教育研究を効率的に推進するため、210台以上の共同利用機器をオープンファシリティーシステムに登録し、設備の有効活用に伴う利用サポートを実施いたしております。
-この度、10月17日(月)から10月21日(金)までの期間を機器共用促進の重点実施期間として、「筑波大学Open Facility Week 2022」を開催することとなりましたので、ご案内申し上げます。
-…]]></description>
         </item>
     </channel>
 </rss>
