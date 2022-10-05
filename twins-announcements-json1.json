@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "f649fcd486e526eec3f8ecacbe2affb7",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3315",
+            "title": "【10/21 開催】SDGs×TSUKUBA 2022 ～SDGsをチャットする～(オンライン）",
+            "summary": "SDGsについて、自分の研究や学問分野を基に、協定校学生と英語で議論してみませんか？\n月1回、テーマを変えて開催しています！単発参加もOKです！\n世界の学生と交流したい方、英語のスピーキングを向上させたい方、是非参加してください！\n\n日時とテーマ：第5回　2022年10月21日（金）19:00~20:45 SDGｓGOALS#１ 貧困をなくそう / No poverty\n　　　　　　第6回　202…",
+            "date_modified": "2022-10-05T03:00:00.000Z"
+        },
+        {
             "id": "7bcc0ff4bb35c22fd6d65d91820e06e8",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3314",
             "title": "図書館LA企画「筑波大生なんでも相談室」を開催します【10/12(水)13:45-14:45】",
@@ -136,13 +143,6 @@
             "title": "【Face-to-face! Sept 26/27】Welcome Event & Cultural workshops!",
             "summary": "Welcome to the University of Tsukuba! We will organize a face-to-face event to receive all of you!\nYou can participate in workshops about Japanese culture (free)! You can also buy university official …",
             "date_modified": "2022-09-26T03:00:00.000Z"
-        },
-        {
-            "id": "020aa346b5ff9670e07ae65e53a82964",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3290",
-            "title": "JICE子どもサポートコース　補助員募集",
-            "summary": "一般財団法人日本国際協力センター(JICE・ジャイス)が行っている日本語研修・就学支援の一環で、週末に「JICA筑波」で、外国籍の小中学生の宿題や教科学習（算数）のサポートコースを実施しています。その補助員を募集します。詳細は下記の添付でご確認ください。\n\n場所：JICA筑波　けやき棟3階　講義室１ https://www.jica.go.jp/tsukuba/office/access.html…",
-            "date_modified": "2022-09-22T03:00:00.000Z"
         }
     ]
 }
