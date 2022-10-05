@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/mkobayashime/twins-announcements</id>
     <title>在学生へのお知らせ | 筑波大学</title>
-    <updated>2022-10-05T06:24:37.690Z</updated>
+    <updated>2022-10-05T08:11:15.056Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://github.com/mkobayashime/twins-announcements"/>
     <subtitle>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</subtitle>
+    <entry>
+        <title type="html"><![CDATA[【大塚特別支援学校】『えがおカフェ』開催＠体バチ]]></title>
+        <id>44b687b1032ece67ebae7e3ab9d8de9f</id>
+        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3313"/>
+        <updated>2022-10-05T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[【創基151年筑波大学50周年記念事業】
+
+筑波大学附属大塚特別支援学校は、知的障害のある幼児児童生徒が通う特別支援学校です。
+「えがおカフェ」として、高等部生徒による物品の開発・製作・販売活動及び職業実習(屋内、屋外の清掃)を実施しています。
+えがおカフェを知的障害のある高校生が「人の役に立つ」、「人に喜んでもらう」経験を積むことができるキャリア教育実践の場とすること、さまざまな年齢、性別、職種…]]></summary>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【応募受付延長10/10迄】ROV製作設計セミナーの学生へのお知らせ]]></title>
         <id>1b29df86ac67d1d860bdc26c8e3ef947</id>
@@ -226,20 +237,5 @@ You can participate in workshops about Japanese culture (free)! You can also buy
 If you are interested in Latin America (especially Mexico), please join us!
 
 The Permanent Research Seminar on Art and Culture Mexico-Japan (Se…]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[インフルエンザワクチン接種、今年もやります。]]></title>
-        <id>085ab046e1921c4ba66ed35473550f62</id>
-        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3287"/>
-        <updated>2022-09-21T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[今年度もインフルエンザのワクチン接種を行います。
-接種を希望される方は、以下の予約ページより事前にご予約をお願いします。
-
-　予約開始　：　令和４年９月２６日（月）１９：００頃～
-　接種期間　：　令和４年１０月４日（火）～
-　対　　象　：　筑波大学 学生・職員（本学の学生証または、職員証がある方）
-　料　　金　：　３，０００円
-
-　※接種当日は「インフルエンザHAワクチン予防接種予診票」をご記入の…]]></summary>
     </entry>
 </feed>

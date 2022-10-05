@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "44b687b1032ece67ebae7e3ab9d8de9f",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3313",
+            "title": "【大塚特別支援学校】『えがおカフェ』開催＠体バチ",
+            "summary": "【創基151年筑波大学50周年記念事業】\n\n筑波大学附属大塚特別支援学校は、知的障害のある幼児児童生徒が通う特別支援学校です。\n「えがおカフェ」として、高等部生徒による物品の開発・製作・販売活動及び職業実習(屋内、屋外の清掃)を実施しています。\nえがおカフェを知的障害のある高校生が「人の役に立つ」、「人に喜んでもらう」経験を積むことができるキャリア教育実践の場とすること、さまざまな年齢、性別、職種…",
+            "date_modified": "2022-10-05T03:00:00.000Z"
+        },
+        {
             "id": "1b29df86ac67d1d860bdc26c8e3ef947",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3312",
             "title": "【応募受付延長10/10迄】ROV製作設計セミナーの学生へのお知らせ",
@@ -135,13 +142,6 @@
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3288",
             "title": "Oct 10th [Face-to-face] Japan-Latin America Event",
             "summary": "Would you like to interact with researchers from Mexico?\nIf you are interested in Latin America (especially Mexico), please join us!\n\nThe Permanent Research Seminar on Art and Culture Mexico-Japan (Se…",
-            "date_modified": "2022-09-21T03:00:00.000Z"
-        },
-        {
-            "id": "085ab046e1921c4ba66ed35473550f62",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3287",
-            "title": "インフルエンザワクチン接種、今年もやります。",
-            "summary": "今年度もインフルエンザのワクチン接種を行います。\n接種を希望される方は、以下の予約ページより事前にご予約をお願いします。\n\n　予約開始　：　令和４年９月２６日（月）１９：００頃～\n　接種期間　：　令和４年１０月４日（火）～\n　対　　象　：　筑波大学 学生・職員（本学の学生証または、職員証がある方）\n　料　　金　：　３，０００円\n\n　※接種当日は「インフルエンザHAワクチン予防接種予診票」をご記入の…",
             "date_modified": "2022-09-21T03:00:00.000Z"
         }
     ]
