@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "e7e2857d8ff2378d5e17f5c0f7754a7d",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3317",
+            "title": "秋学期の図書館講習会 / Library Workshops (Fall Semester)",
+            "summary": "附属図書館では、10月から秋の講習会をオンラインで開催します。\n論文の探し方、各種データベースの使い方など、学習や研究に役立つ内容です。\n皆さんのご参加をお待ちしております。\n\n参加するにはmanabaでのコース登録が必要です。\n詳しくは以下のWebページをご覧ください。\nhttps://www.tulips.tsukuba.ac.jp/lib/support/guidance\n\n---\nLibr…",
+            "date_modified": "2022-10-06T03:00:00.000Z"
+        },
+        {
             "id": "e4743c5ffb5f49afb1f69a314ef09f28",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3316",
             "title": "キャリア・セミナー「理系院卒から霞が関へのキャリア・パス]開催のお知らせ",
@@ -135,13 +142,6 @@
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3293",
             "title": "令和4年度人文学類文化講演会のお知らせ (10/17(月)15:30-17:30))",
             "summary": "人文学類では、人文学に関連する著名な先生を学外からお招きして\nご講演いただく「文化講演会」というイベントを毎年開催しています。\n\n今年度も、下記の要領で文化講演会を開催することとなりました。\n人文学類生だけでなく、他学類の学群生や、大学院生の聴講も歓迎いたします。\n学外の著名な先生からお話を伺える貴重な機会となりますので、奮ってご参加ください。\n詳細につきましては、添付のポスターもご覧ください。\n…",
-            "date_modified": "2022-09-27T03:00:00.000Z"
-        },
-        {
-            "id": "57674da119cdedd98e0a0fe138a041b4",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3292",
-            "title": "「筑波＿卒業後を考える会」後期開催のお知らせ",
-            "summary": "筑波大学「世界を変えよう基金アカデミー」では、就活を終えた4年生が自分の経験を下級生に伝える「筑波＿卒業後を考える会」をZoomで毎週日曜日20:30から開催しています。ガクチカ、就活対象先選定過程、最終内定先決定過程等、就活を始める皆さんにとって興味深いお話を聞ける絶好の機会です。\n\n日程は下記のとおりです。\n10/2(日) 国際4年、国際物流企業内定\n10/9(日) 地球4年、保険会社内定\n1…",
             "date_modified": "2022-09-27T03:00:00.000Z"
         }
     ]
