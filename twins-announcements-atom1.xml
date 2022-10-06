@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/mkobayashime/twins-announcements</id>
     <title>在学生へのお知らせ | 筑波大学</title>
-    <updated>2022-10-05T21:11:00.189Z</updated>
+    <updated>2022-10-06T01:51:25.158Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://github.com/mkobayashime/twins-announcements"/>
     <subtitle>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</subtitle>
+    <entry>
+        <title type="html"><![CDATA[キャリア・セミナー「理系院卒から霞が関へのキャリア・パス]開催のお知らせ]]></title>
+        <id>e4743c5ffb5f49afb1f69a314ef09f28</id>
+        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3316"/>
+        <updated>2022-10-06T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[筑波大学「世界を変えよう基金アカデミー」では、理系大学院（農業土木分野、修士）から2013年に文部科学省に入省、現在つくば市政策ノベーション部長として活躍されている藤光智香氏をお招きして、Zoomキャリア・セミナー「理系院卒から霞が関へのキャリア・パス」を10月30日（日）20:00 から開催します。
+
+当日は、藤光氏から
+（１） 院卒後の進路として検討したキャリア・就職先、国家公務員を選択した理…]]></summary>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【10/21 開催】SDGs×TSUKUBA 2022 ～SDGsをチャットする～(オンライン）]]></title>
         <id>f649fcd486e526eec3f8ecacbe2affb7</id>
@@ -236,13 +246,5 @@ The Ph.D. Program in Humanics will welcome students who have studied either biom
 10/2(日) 国際4年、国際物流企業内定
 10/9(日) 地球4年、保険会社内定
 1…]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【Face-to-face! Sept 26/27】Welcome Event & Cultural workshops!]]></title>
-        <id>c8e219fb2fb167a6b91ae68a6cf3fdb4</id>
-        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3291"/>
-        <updated>2022-09-26T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Welcome to the University of Tsukuba! We will organize a face-to-face event to receive all of you!
-You can participate in workshops about Japanese culture (free)! You can also buy university official …]]></summary>
     </entry>
 </feed>

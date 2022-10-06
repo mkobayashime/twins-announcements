@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "e4743c5ffb5f49afb1f69a314ef09f28",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3316",
+            "title": "キャリア・セミナー「理系院卒から霞が関へのキャリア・パス]開催のお知らせ",
+            "summary": "筑波大学「世界を変えよう基金アカデミー」では、理系大学院（農業土木分野、修士）から2013年に文部科学省に入省、現在つくば市政策ノベーション部長として活躍されている藤光智香氏をお招きして、Zoomキャリア・セミナー「理系院卒から霞が関へのキャリア・パス」を10月30日（日）20:00 から開催します。\n\n当日は、藤光氏から\n（１） 院卒後の進路として検討したキャリア・就職先、国家公務員を選択した理…",
+            "date_modified": "2022-10-06T03:00:00.000Z"
+        },
+        {
             "id": "f649fcd486e526eec3f8ecacbe2affb7",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3315",
             "title": "【10/21 開催】SDGs×TSUKUBA 2022 ～SDGsをチャットする～(オンライン）",
@@ -136,13 +143,6 @@
             "title": "「筑波＿卒業後を考える会」後期開催のお知らせ",
             "summary": "筑波大学「世界を変えよう基金アカデミー」では、就活を終えた4年生が自分の経験を下級生に伝える「筑波＿卒業後を考える会」をZoomで毎週日曜日20:30から開催しています。ガクチカ、就活対象先選定過程、最終内定先決定過程等、就活を始める皆さんにとって興味深いお話を聞ける絶好の機会です。\n\n日程は下記のとおりです。\n10/2(日) 国際4年、国際物流企業内定\n10/9(日) 地球4年、保険会社内定\n1…",
             "date_modified": "2022-09-27T03:00:00.000Z"
-        },
-        {
-            "id": "c8e219fb2fb167a6b91ae68a6cf3fdb4",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3291",
-            "title": "【Face-to-face! Sept 26/27】Welcome Event & Cultural workshops!",
-            "summary": "Welcome to the University of Tsukuba! We will organize a face-to-face event to receive all of you!\nYou can participate in workshops about Japanese culture (free)! You can also buy university official …",
-            "date_modified": "2022-09-26T03:00:00.000Z"
         }
     ]
 }
