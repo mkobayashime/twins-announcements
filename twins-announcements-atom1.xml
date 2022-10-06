@@ -2,10 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/mkobayashime/twins-announcements</id>
     <title>在学生へのお知らせ | 筑波大学</title>
-    <updated>2022-10-06T09:18:19.639Z</updated>
+    <updated>2022-10-06T11:09:05.687Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://github.com/mkobayashime/twins-announcements"/>
     <subtitle>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</subtitle>
+    <entry>
+        <title type="html"><![CDATA[Oct 19th~ (Online) TSUKU-CHAT! Let's practice English in groups!]]></title>
+        <id>79d316e9d33d00a12398719b927bc2b3</id>
+        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3322"/>
+        <updated>2022-10-06T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA["Tsuku-Chat" is an English chat program where you can experience international exchange!
+Every week, you can have cultural exchanges while discussing in small groups diverse topics!
+Recommended for th…]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Oct 21st (Online) SDGs x TSUKUBA ～ Let's talk about the SDGs!]]></title>
+        <id>b88f121e04bfbeb3683a403d74e7de6c</id>
+        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3321"/>
+        <updated>2022-10-06T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[SDGs x Tsukuba is an English chat event were you can discuss and exchange opinions about the SDGs!
+
+Target: Students from University of Tsukuba and from our partner universities.
+Dates and topics (202…]]></summary>
+    </entry>
     <entry>
         <title type="html"><![CDATA[附属図書館企画「ライティング支援連続セミナー2022」のご案内]]></title>
         <id>46d62c6fa121eea90a3c07b73e5c40cc</id>
@@ -226,31 +245,5 @@ You can try any part of the eBooks from the following eBook platforms for free f
         <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3305"/>
         <updated>2022-10-01T03:00:00.000Z</updated>
         <summary type="html"><![CDATA[2022年度第2期分授業料の納付について、添付の通りお知らせいたします。]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【お知らせ】筑波大学公式オリジナルグッズECサイト割引クーポンコードについて（10月）]]></title>
-        <id>868c5e421687bd0a409c4f61142136dd</id>
-        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3304"/>
-        <updated>2022-10-01T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[筑波大学公式オリジナルグッズ販売サイト「TSUKUBA-SHOP」の10月の割引クーポンコードをお知らせいたします！
-
-Tシャツやネックストラップ、マグカップなど様々な商品をお取り扱いしております。
-
-どうぞご覧いただき、皆様の「日常生活」、「思い出」、「プレゼント」などにご活用いただけますと幸いです。
-
-
-ECサイトは以下のリンクから
-
-クーポンコード有効期間：2022年10月1日（土）～202…]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【全学生対象】筑波大学学生生活実態調査にご協力をお願いいたします／Please cooperate and participate in a Survey for Student Life]]></title>
-        <id>a459b4e7062feb482316add8f57c314b</id>
-        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3299"/>
-        <updated>2022-09-30T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[筑波大学の全学生を対象に、「筑波大学学生生活実態調査」を実施します。学習管理システムmanabaを通して回答することができます。ぜひ調査へのご協力をお願いします。
-※調査結果は統計的に処理され、個人を特定できるデータは一切公開されません。
-
-The " Survey for Student Life " will be conducted for all University of Tsukuba…]]></summary>
     </entry>
 </feed>

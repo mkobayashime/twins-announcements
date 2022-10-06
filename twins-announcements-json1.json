@@ -5,6 +5,20 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "79d316e9d33d00a12398719b927bc2b3",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3322",
+            "title": "Oct 19th~ (Online) TSUKU-CHAT! Let's practice English in groups!",
+            "summary": "\"Tsuku-Chat\" is an English chat program where you can experience international exchange!\nEvery week, you can have cultural exchanges while discussing in small groups diverse topics!\nRecommended for th…",
+            "date_modified": "2022-10-06T03:00:00.000Z"
+        },
+        {
+            "id": "b88f121e04bfbeb3683a403d74e7de6c",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3321",
+            "title": "Oct 21st (Online) SDGs x TSUKUBA ～ Let's talk about the SDGs!",
+            "summary": "SDGs x Tsukuba is an English chat event were you can discuss and exchange opinions about the SDGs!\n\nTarget: Students from University of Tsukuba and from our partner universities.\nDates and topics (202…",
+            "date_modified": "2022-10-06T03:00:00.000Z"
+        },
+        {
             "id": "46d62c6fa121eea90a3c07b73e5c40cc",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3320",
             "title": "附属図書館企画「ライティング支援連続セミナー2022」のご案内",
@@ -129,20 +143,6 @@
             "title": "2022年度第2期分授業料の納付について",
             "summary": "2022年度第2期分授業料の納付について、添付の通りお知らせいたします。",
             "date_modified": "2022-10-01T03:00:00.000Z"
-        },
-        {
-            "id": "868c5e421687bd0a409c4f61142136dd",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3304",
-            "title": "【お知らせ】筑波大学公式オリジナルグッズECサイト割引クーポンコードについて（10月）",
-            "summary": "筑波大学公式オリジナルグッズ販売サイト「TSUKUBA-SHOP」の10月の割引クーポンコードをお知らせいたします！\n\nTシャツやネックストラップ、マグカップなど様々な商品をお取り扱いしております。\n\nどうぞご覧いただき、皆様の「日常生活」、「思い出」、「プレゼント」などにご活用いただけますと幸いです。\n\n\nECサイトは以下のリンクから\n\nクーポンコード有効期間：2022年10月1日（土）～202…",
-            "date_modified": "2022-10-01T03:00:00.000Z"
-        },
-        {
-            "id": "a459b4e7062feb482316add8f57c314b",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3299",
-            "title": "【全学生対象】筑波大学学生生活実態調査にご協力をお願いいたします／Please cooperate and participate in a Survey for Student Life",
-            "summary": "筑波大学の全学生を対象に、「筑波大学学生生活実態調査」を実施します。学習管理システムmanabaを通して回答することができます。ぜひ調査へのご協力をお願いします。\n※調査結果は統計的に処理され、個人を特定できるデータは一切公開されません。\n\nThe \" Survey for Student Life \" will be conducted for all University of Tsukuba…",
-            "date_modified": "2022-09-30T03:00:00.000Z"
         }
     ]
 }

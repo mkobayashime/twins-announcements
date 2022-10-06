@@ -4,10 +4,29 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Thu, 06 Oct 2022 09:18:19 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 06 Oct 2022 11:09:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
+        <item>
+            <title><![CDATA[Oct 19th~ (Online) TSUKU-CHAT! Let's practice English in groups!]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3322</link>
+            <guid>79d316e9d33d00a12398719b927bc2b3</guid>
+            <pubDate>Thu, 06 Oct 2022 03:00:00 GMT</pubDate>
+            <description><![CDATA["Tsuku-Chat" is an English chat program where you can experience international exchange!
+Every week, you can have cultural exchanges while discussing in small groups diverse topics!
+Recommended for th…]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Oct 21st (Online) SDGs x TSUKUBA ～ Let's talk about the SDGs!]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3321</link>
+            <guid>b88f121e04bfbeb3683a403d74e7de6c</guid>
+            <pubDate>Thu, 06 Oct 2022 03:00:00 GMT</pubDate>
+            <description><![CDATA[SDGs x Tsukuba is an English chat event were you can discuss and exchange opinions about the SDGs!
+
+Target: Students from University of Tsukuba and from our partner universities.
+Dates and topics (202…]]></description>
+        </item>
         <item>
             <title><![CDATA[附属図書館企画「ライティング支援連続セミナー2022」のご案内]]></title>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3320</link>
@@ -228,32 +247,6 @@ You can try any part of the eBooks from the following eBook platforms for free f
             <guid>9658b849d9bddce9e96cb8aedafebd21</guid>
             <pubDate>Sat, 01 Oct 2022 03:00:00 GMT</pubDate>
             <description><![CDATA[2022年度第2期分授業料の納付について、添付の通りお知らせいたします。]]></description>
-        </item>
-        <item>
-            <title><![CDATA[【お知らせ】筑波大学公式オリジナルグッズECサイト割引クーポンコードについて（10月）]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3304</link>
-            <guid>868c5e421687bd0a409c4f61142136dd</guid>
-            <pubDate>Sat, 01 Oct 2022 03:00:00 GMT</pubDate>
-            <description><![CDATA[筑波大学公式オリジナルグッズ販売サイト「TSUKUBA-SHOP」の10月の割引クーポンコードをお知らせいたします！
-
-Tシャツやネックストラップ、マグカップなど様々な商品をお取り扱いしております。
-
-どうぞご覧いただき、皆様の「日常生活」、「思い出」、「プレゼント」などにご活用いただけますと幸いです。
-
-
-ECサイトは以下のリンクから
-
-クーポンコード有効期間：2022年10月1日（土）～202…]]></description>
-        </item>
-        <item>
-            <title><![CDATA[【全学生対象】筑波大学学生生活実態調査にご協力をお願いいたします／Please cooperate and participate in a Survey for Student Life]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3299</link>
-            <guid>a459b4e7062feb482316add8f57c314b</guid>
-            <pubDate>Fri, 30 Sep 2022 03:00:00 GMT</pubDate>
-            <description><![CDATA[筑波大学の全学生を対象に、「筑波大学学生生活実態調査」を実施します。学習管理システムmanabaを通して回答することができます。ぜひ調査へのご協力をお願いします。
-※調査結果は統計的に処理され、個人を特定できるデータは一切公開されません。
-
-The " Survey for Student Life " will be conducted for all University of Tsukuba…]]></description>
         </item>
     </channel>
 </rss>
