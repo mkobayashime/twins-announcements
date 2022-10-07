@@ -4,10 +4,19 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Thu, 06 Oct 2022 21:11:26 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 07 Oct 2022 00:55:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
+        <item>
+            <title><![CDATA[【開催案内】筑波大学 Open Facility Week 2022開催のお知らせ(10/17-21)※申込締切10/11]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3323</link>
+            <guid>ed1ae8665f5fe2e2cbe48cdac59e893e</guid>
+            <pubDate>Fri, 07 Oct 2022 03:00:00 GMT</pubDate>
+            <description><![CDATA[オープンファシリティー推進機構では、教育研究を効率的に推進するため、210台以上の共同利用機器をオープンファシリティーシステムに登録し、設備の有効活用に伴う利用サポートを実施いたしております。
+この度、10月17日(月)から10月21日(金)までの期間を機器共用促進の重点実施期間として、「筑波大学Open Facility Week 2022」を開催することとなりましたので、ご案内申し上げます。
+…]]></description>
+        </item>
         <item>
             <title><![CDATA[Oct 19th~ (Online) TSUKU-CHAT! Let's practice English in groups!]]></title>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3322</link>
@@ -240,13 +249,6 @@ You can try any part of the eBooks from the following eBook platforms for free f
             <description><![CDATA[附属図書館では、コロナ禍における教育・学習を支援するため、6月～8月に実施し、ご好評をいただいた電子ブックの全文無料試し読みサービスの第２弾を実施します。今回は、丸善雄松堂が提供するMaruzen eBook Libraryを期間限定でご利用いただけます。
 
 対象プラットフォームの電子ブックからお好きな部分を1タイトルにつき5分間、試し読みすることができます。また、リクエストを送信することもできま…]]></description>
-        </item>
-        <item>
-            <title><![CDATA[2022年度第2期分授業料の納付について]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3305</link>
-            <guid>9658b849d9bddce9e96cb8aedafebd21</guid>
-            <pubDate>Sat, 01 Oct 2022 03:00:00 GMT</pubDate>
-            <description><![CDATA[2022年度第2期分授業料の納付について、添付の通りお知らせいたします。]]></description>
         </item>
     </channel>
 </rss>
