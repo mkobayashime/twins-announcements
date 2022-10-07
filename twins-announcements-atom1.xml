@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/mkobayashime/twins-announcements</id>
     <title>在学生へのお知らせ | 筑波大学</title>
-    <updated>2022-10-07T00:55:21.015Z</updated>
+    <updated>2022-10-07T09:13:03.012Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://github.com/mkobayashime/twins-announcements"/>
     <subtitle>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</subtitle>
+    <entry>
+        <title type="html"><![CDATA[11/16（水）開催！「スタートアップの知財戦略～事業成長のための知財の活用と戦略法務～」講演]]></title>
+        <id>d6ad0fba850a4363e9670c41df806fe8</id>
+        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3325"/>
+        <updated>2022-10-07T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[スタートアップに必要な知財戦略、事業成長のための知財活用と戦略法務について、講演を実施いたします。スタートアップの視点から見た知財知識を身に付けたい方はぜひご参加ください！
+本講演は、令和4年度学群自由科目「起業家のための経営・知財必須知識」の第3回授業を兼ねています。教職員及び履修生以外の学生はオンライン（Microsoft Teams）での聴講が可能です。
+
+詳細は下記URL及びポスターでご確…]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[10/19（水）開催！「ベンチャービジネス・マーケティング～創業に必要な知識～」講演]]></title>
+        <id>7804f372dc5a71c4796f2bdfa3f943ca</id>
+        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3324"/>
+        <updated>2022-10-07T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[創業時に必要とされるマーケティングや契約などの必須分野について、第一線で活躍される方々の講演を開催いたします。起業に興味を持ち、必要な知識を身に付けたい方はぜひご参加ください！
+本講演は、令和4年度学群自由科目「起業家のための経営・知財必須知識」の第2回授業を兼ねています。履修生以外の学生及び教職員はオンライン（Microsoft Teams）での聴講が可能です。
+
+詳細は下記URL及びポスターで…]]></summary>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【開催案内】筑波大学 Open Facility Week 2022開催のお知らせ(10/17-21)※申込締切10/11]]></title>
         <id>ed1ae8665f5fe2e2cbe48cdac59e893e</id>
@@ -229,23 +249,5 @@ https://ssc.sec.tsukuba.ac.jp/archives/20207
 
 〇防犯啓発活動
 日時：10月3日…]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Free Ebook Trial Service Part2]]></title>
-        <id>3c31eda2472779f71da36b95e770c162</id>
-        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3297"/>
-        <updated>2022-10-03T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[In order to support teaching and learning in the COVID-19 pandemic, the library provides an eBook trial service again!
-
-You can try any part of the eBooks from the following eBook platforms for free f…]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[電子ブック 全文無料試し読みサービス第２弾のご案内]]></title>
-        <id>c58cc184230b81ef4ce7ebeb070b380c</id>
-        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3296"/>
-        <updated>2022-10-03T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[附属図書館では、コロナ禍における教育・学習を支援するため、6月～8月に実施し、ご好評をいただいた電子ブックの全文無料試し読みサービスの第２弾を実施します。今回は、丸善雄松堂が提供するMaruzen eBook Libraryを期間限定でご利用いただけます。
-
-対象プラットフォームの電子ブックからお好きな部分を1タイトルにつき5分間、試し読みすることができます。また、リクエストを送信することもできま…]]></summary>
     </entry>
 </feed>
