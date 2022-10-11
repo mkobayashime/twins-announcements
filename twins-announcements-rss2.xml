@@ -4,10 +4,21 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Tue, 11 Oct 2022 03:25:29 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 11 Oct 2022 08:16:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
+        <item>
+            <title><![CDATA[eラーニング講座「マネビタ」について]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3331</link>
+            <guid>5d0f8f073e2450c90b11a53a6e821dc9</guid>
+            <pubDate>Tue, 11 Oct 2022 03:00:00 GMT</pubDate>
+            <description><![CDATA[各位
+
+金融広報中央委員会より、eラーニング講座「マネビタ～人生を豊かにするお金の知恵～」の開講について案内がありました。講座内で日本学生支援機構奨学金についても触れられているようです。興味のある方は、以下のURL及び添付のチラシを参考に、受講登録をお願いいたします。
+
+以上]]></description>
+        </item>
         <item>
             <title><![CDATA[【日本財団】海洋開発にかかるリカレントセミナーのご案内（10月20日・水素エネルギー）]]></title>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3330</link>
@@ -236,17 +247,6 @@ Libr…]]></description>
 
 [Job description]
 -Provide English speaking lessons to assi…]]></description>
-        </item>
-        <item>
-            <title><![CDATA[【予約不要・入退室自由】10月17日（月）～10月21日（金）「留学相談強化週間」オンライン/対面]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3309</link>
-            <guid>986c6047e2cc18cfa2f7c2612d6732d4</guid>
-            <pubDate>Tue, 04 Oct 2022 03:00:00 GMT</pubDate>
-            <description><![CDATA[スチューデントサポートセンター国際交流支援室では、10/17（月）～10/21（金）に留学相談強化週間を開催します。今回は再始動したスチューデント・コモンズでの対面相談も可能です！
-
-留学に行きたいけど、何をしたらいいのか。
-留学先はどのように決定するのか。行きたい大学が決まっているんだけど。。。
-と、留学を考え始めたばかりのあなたも、具体的に行動を始めているあなたも、気軽に会場を覗いてみてくださ…]]></description>
         </item>
     </channel>
 </rss>

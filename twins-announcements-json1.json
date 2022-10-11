@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "5d0f8f073e2450c90b11a53a6e821dc9",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3331",
+            "title": "eラーニング講座「マネビタ」について",
+            "summary": "各位\n\n金融広報中央委員会より、eラーニング講座「マネビタ～人生を豊かにするお金の知恵～」の開講について案内がありました。講座内で日本学生支援機構奨学金についても触れられているようです。興味のある方は、以下のURL及び添付のチラシを参考に、受講登録をお願いいたします。\n\n以上",
+            "date_modified": "2022-10-11T03:00:00.000Z"
+        },
+        {
             "id": "8329726c0dbbd3fc1bafb0135f7b18ac",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3330",
             "title": "【日本財団】海洋開発にかかるリカレントセミナーのご案内（10月20日・水素エネルギー）",
@@ -136,13 +143,6 @@
             "title": "Global Commons is now hiring a few more international students for English Conversation Partners!",
             "summary": "If you are a good English speaker and interested in intercultural exchange with a Japanese university staff, this is a perfect JOB for you.\n\n[Job description]\n-Provide English speaking lessons to assi…",
             "date_modified": "2022-10-05T03:00:00.000Z"
-        },
-        {
-            "id": "986c6047e2cc18cfa2f7c2612d6732d4",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3309",
-            "title": "【予約不要・入退室自由】10月17日（月）～10月21日（金）「留学相談強化週間」オンライン/対面",
-            "summary": "スチューデントサポートセンター国際交流支援室では、10/17（月）～10/21（金）に留学相談強化週間を開催します。今回は再始動したスチューデント・コモンズでの対面相談も可能です！\n\n留学に行きたいけど、何をしたらいいのか。\n留学先はどのように決定するのか。行きたい大学が決まっているんだけど。。。\nと、留学を考え始めたばかりのあなたも、具体的に行動を始めているあなたも、気軽に会場を覗いてみてくださ…",
-            "date_modified": "2022-10-04T03:00:00.000Z"
         }
     ]
 }
