@@ -4,10 +4,23 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Mon, 10 Oct 2022 21:11:16 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 11 Oct 2022 00:41:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
+        <item>
+            <title><![CDATA[【10/28開催】卒業生によるお仕事説明会（児童心理司・児童福祉司）　岐阜県こども相談センター（児童相談所）]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3328</link>
+            <guid>0360133135ec3520a13ee99edcd00413</guid>
+            <pubDate>Tue, 11 Oct 2022 03:00:00 GMT</pubDate>
+            <description><![CDATA[卒業生によるお仕事説明会（児童心理司・児童福祉司）　岐阜県こども相談センター（児童相談所）
+
+本学卒業後、岐阜県の児童心理司として、子ども相談センター（児童相談所）で働く職員（2015年度本学卒業者）のリアルな話が聞ける説明会。
+公務員として福祉職・心理職として働きたい皆さん、心理・福祉の学びを活かした職を探している皆さんはぜひ参加してください！
+
+日にち：2022.10.28・金
+時　間：18:…]]></description>
+        </item>
         <item>
             <title><![CDATA[【TSUKUBA LIVE! Recruiting staff members for the day of the event】]]></title>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3327</link>
@@ -231,21 +244,6 @@ https://ssc.sec.tsukuba.ac.jp/archives/20207
 
 
 #ts]]></description>
-        </item>
-        <item>
-            <title><![CDATA[【10/5(水)　開催公開講演会】　医事法における人間の終期]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3301</link>
-            <guid>c7960351ac4eaaa2aeb53c2a30312f69</guid>
-            <pubDate>Mon, 03 Oct 2022 03:00:00 GMT</pubDate>
-            <description><![CDATA[学生の皆様、教職員の皆様
-
-  このたび社会・国際学群チュートリアルプログラムでは、公開講演会を開催いたします。
-講師は、神奈川大学・准教授の小谷昌子氏で、『医事法における人間の終期』というタイトルで講演を行っていただきます。
-皆様に是非ご参加いただきたく、以下のとおり、ご案内申し上げます。
-
-〇日時：令和４年１０月５日（水）１６時４５分～１８時００分
-〇開催場所：１B３０９・１B３１０講義室
-〇…]]></description>
         </item>
     </channel>
 </rss>
