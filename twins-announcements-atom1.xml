@@ -2,10 +2,18 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/mkobayashime/twins-announcements</id>
     <title>在学生へのお知らせ | 筑波大学</title>
-    <updated>2022-10-11T21:12:32.159Z</updated>
+    <updated>2022-10-12T05:39:56.200Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://github.com/mkobayashime/twins-announcements"/>
     <subtitle>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</subtitle>
+    <entry>
+        <title type="html"><![CDATA[【Online】Nov 4 (Fri) 10:00-12:00 World-science Leaders’ Seminar]]></title>
+        <id>4177c5920ab402a42030e6b5f0b2094e</id>
+        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3332"/>
+        <updated>2022-10-12T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[World-science Leaders’ Seminar is a part of classes in Doctoral Program in Human Biology.
+Students attending this seminar will learn basic knowledge and recent research trends related to the specializ…]]></summary>
+    </entry>
     <entry>
         <title type="html"><![CDATA[eラーニング講座「マネビタ」について]]></title>
         <id>5d0f8f073e2450c90b11a53a6e821dc9</id>
@@ -235,15 +243,5 @@ Libr…]]></summary>
 筑波大学附属大塚特別支援学校は、知的障害のある幼児児童生徒が通う特別支援学校です。
 「えがおカフェ」として、高等部生徒による物品の開発・製作・販売活動及び職業実習(屋内、屋外の清掃)を実施しています。
 えがおカフェを知的障害のある高校生が「人の役に立つ」、「人に喜んでもらう」経験を積むことができるキャリア教育実践の場とすること、さまざまな年齢、性別、職種…]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Global Commons is now hiring a few more international students for English Conversation Partners!]]></title>
-        <id>76a09716c3f5f92ca94ba77294d53881</id>
-        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3310"/>
-        <updated>2022-10-05T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[If you are a good English speaker and interested in intercultural exchange with a Japanese university staff, this is a perfect JOB for you.
-
-[Job description]
--Provide English speaking lessons to assi…]]></summary>
     </entry>
 </feed>
