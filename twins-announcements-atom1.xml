@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/mkobayashime/twins-announcements</id>
     <title>在学生へのお知らせ | 筑波大学</title>
-    <updated>2022-10-12T05:39:56.200Z</updated>
+    <updated>2022-10-12T06:21:13.554Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://github.com/mkobayashime/twins-announcements"/>
     <subtitle>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</subtitle>
+    <entry>
+        <title type="html"><![CDATA[【開催のご案内(11/9（水)】日本財団　海洋開発国際セミナー　DeepStar, スコットランドとの連携技術開発に関する報告会～]]></title>
+        <id>df75c091d95a2c9a63b92dc326e62155</id>
+        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3333"/>
+        <updated>2022-10-12T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[2022年11月9日（水）に、海洋開発に関する国際セミナーを開催の案内です。
+世界の海洋開発の分野における地球温暖化対策や再生可能エネルギーの利用、脱炭素燃料への代替等の課題への貢献として、日本財団は、米国DeepStar（2021年～）及びスコットランド開発公社（2017年～）と連携技術開発プログラムを実施しています。
+本セミナーでは、これら連携技術開発事業を進めてきた日本企業からDeepSta…]]></summary>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【Online】Nov 4 (Fri) 10:00-12:00 World-science Leaders’ Seminar]]></title>
         <id>4177c5920ab402a42030e6b5f0b2094e</id>
@@ -232,16 +241,5 @@ Libr…]]></summary>
 日時：2022年10月12日(水) 13:45～14:45
 開催方法：Zoomリアルタイム配信
 参加申込方法：下記URLにアクセスし、フォ…]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【大塚特別支援学校】『えがおカフェ』開催＠体バチ]]></title>
-        <id>44b687b1032ece67ebae7e3ab9d8de9f</id>
-        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3313"/>
-        <updated>2022-10-05T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[【創基151年筑波大学50周年記念事業】
-
-筑波大学附属大塚特別支援学校は、知的障害のある幼児児童生徒が通う特別支援学校です。
-「えがおカフェ」として、高等部生徒による物品の開発・製作・販売活動及び職業実習(屋内、屋外の清掃)を実施しています。
-えがおカフェを知的障害のある高校生が「人の役に立つ」、「人に喜んでもらう」経験を積むことができるキャリア教育実践の場とすること、さまざまな年齢、性別、職種…]]></summary>
     </entry>
 </feed>
