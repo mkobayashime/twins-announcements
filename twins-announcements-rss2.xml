@@ -4,10 +4,20 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Wed, 12 Oct 2022 09:17:34 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 12 Oct 2022 10:10:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
+        <item>
+            <title><![CDATA[スーツ等の割引サービスについて（10月12日更新）]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3334</link>
+            <guid>fd152c2f5f670f14501e0b1797d6db17</guid>
+            <pubDate>Wed, 12 Oct 2022 03:00:00 GMT</pubDate>
+            <description><![CDATA[本学は紳士服の大手4社と契約しています。
+そのため、在学生とそのご家族の皆様には、全国のAOKI、コナカ、はるやま、洋服の青山で、通常の割引価格から更に割引いた価格でスーツ等をご購入いただけます。
+大変お得ですので、是非ご利用ください。
+※ご購入いただいた金額の一部が大学に寄附されます。]]></description>
+        </item>
         <item>
             <title><![CDATA[【開催のご案内(11/9（水)】日本財団　海洋開発国際セミナー　DeepStar, スコットランドとの連携技術開発に関する報告会～]]></title>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3333</link>
@@ -229,20 +239,6 @@ Libr…]]></description>
 
 日時とテーマ：第5回　2022年10月21日（金）19:00~20:45 SDGｓGOALS#１ 貧困をなくそう / No poverty
 　　　　　　第6回　202…]]></description>
-        </item>
-        <item>
-            <title><![CDATA[図書館LA企画「筑波大生なんでも相談室」を開催します【10/12(水)13:45-14:45】]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3314</link>
-            <guid>7bcc0ff4bb35c22fd6d65d91820e06e8</guid>
-            <pubDate>Wed, 05 Oct 2022 03:00:00 GMT</pubDate>
-            <description><![CDATA[中央図書館の学生サポートデスクで活動するラーニング･アドバイザー(LA)が、
-この秋にオンライン座談会「筑波大生なんでも相談室」を開催します！
-学生の皆さんから寄せられた疑問・質問にお悩みにLAがお答えします。
-参加申し込み受付中です。ぜひお申込みください。
-
-日時：2022年10月12日(水) 13:45～14:45
-開催方法：Zoomリアルタイム配信
-参加申込方法：下記URLにアクセスし、フォ…]]></description>
         </item>
     </channel>
 </rss>
