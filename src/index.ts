@@ -13,7 +13,7 @@ const FEED_ITEMS_NUMBER = isNaN(NANABLE_FEED_ITEMS_NUMBER)
   : NANABLE_FEED_ITEMS_NUMBER;
 const TWINS_ROOT_URL = "https://twins.tsukuba.ac.jp/campusweb/campusportal.do";
 
-const main = async () => {
+(async () => {
   const timeout = global.setTimeout(() => {
     throw new Error("Root timeout");
   }, 10 * 60 * 1000);
@@ -48,6 +48,4 @@ const main = async () => {
   }
 
   global.clearTimeout(timeout);
-};
-
-main();
+})().catch((err) => console.log(err));

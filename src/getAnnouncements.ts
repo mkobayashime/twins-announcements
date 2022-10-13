@@ -15,7 +15,7 @@ const getAnnouncementBody = async (
   }
 
   const { text, url }: Pick<Announcement, "text" | "url"> =
-    await targetIFrame.evaluate(async (iframe) => {
+    await targetIFrame.evaluate((iframe) => {
       if (!(iframe instanceof HTMLIFrameElement)) {
         throw new Error(
           "targetIFrame doesn't have element of HTMLIFrameElement",
