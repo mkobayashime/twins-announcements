@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "d21eb748c7ce9be54909af51bd780aaf",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3335",
+            "title": "【学生宿舎/Student Residence Hall】学生宿舎入居募集情報について / Information of Residence Hall Application",
+            "summary": "令和５年度学生宿舎入居募集情報についてお知らせいたします。\n詳細は添付ファイルを参照してください。\n\n個別の募集の詳細はWEB掲示板の「大学から学生へのお知らせ（学内専用）」に掲載しています。\n\nThis is to inform you about AY2023 Residence Hall Application.\nPlease check attached PDF.\n\nMore detail…",
+            "date_modified": "2022-10-13T03:00:00.000Z"
+        },
+        {
             "id": "fd152c2f5f670f14501e0b1797d6db17",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3334",
             "title": "スーツ等の割引サービスについて（10月12日更新）",
@@ -136,13 +143,6 @@
             "title": "キャリア・セミナー「理系院卒から霞が関へのキャリア・パス]開催のお知らせ",
             "summary": "筑波大学「世界を変えよう基金アカデミー」では、理系大学院（農業土木分野、修士）から2013年に文部科学省に入省、現在つくば市政策ノベーション部長として活躍されている藤光智香氏をお招きして、Zoomキャリア・セミナー「理系院卒から霞が関へのキャリア・パス」を10月30日（日）20:00 から開催します。\n\n当日は、藤光氏から\n（１） 院卒後の進路として検討したキャリア・就職先、国家公務員を選択した理…",
             "date_modified": "2022-10-06T03:00:00.000Z"
-        },
-        {
-            "id": "f649fcd486e526eec3f8ecacbe2affb7",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3315",
-            "title": "【10/21 開催】SDGs×TSUKUBA 2022 ～SDGsをチャットする～(オンライン）",
-            "summary": "SDGsについて、自分の研究や学問分野を基に、協定校学生と英語で議論してみませんか？\n月1回、テーマを変えて開催しています！単発参加もOKです！\n世界の学生と交流したい方、英語のスピーキングを向上させたい方、是非参加してください！\n\n日時とテーマ：第5回　2022年10月21日（金）19:00~20:45 SDGｓGOALS#１ 貧困をなくそう / No poverty\n　　　　　　第6回　202…",
-            "date_modified": "2022-10-05T03:00:00.000Z"
         }
     ]
 }

@@ -2,10 +2,25 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/mkobayashime/twins-announcements</id>
     <title>在学生へのお知らせ | 筑波大学</title>
-    <updated>2022-10-12T21:12:20.490Z</updated>
+    <updated>2022-10-13T07:25:24.632Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://github.com/mkobayashime/twins-announcements"/>
     <subtitle>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</subtitle>
+    <entry>
+        <title type="html"><![CDATA[【学生宿舎/Student Residence Hall】学生宿舎入居募集情報について / Information of Residence Hall Application]]></title>
+        <id>d21eb748c7ce9be54909af51bd780aaf</id>
+        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3335"/>
+        <updated>2022-10-13T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[令和５年度学生宿舎入居募集情報についてお知らせいたします。
+詳細は添付ファイルを参照してください。
+
+個別の募集の詳細はWEB掲示板の「大学から学生へのお知らせ（学内専用）」に掲載しています。
+
+This is to inform you about AY2023 Residence Hall Application.
+Please check attached PDF.
+
+More detail…]]></summary>
+    </entry>
     <entry>
         <title type="html"><![CDATA[スーツ等の割引サービスについて（10月12日更新）]]></title>
         <id>fd152c2f5f670f14501e0b1797d6db17</id>
@@ -225,17 +240,5 @@ Libr…]]></summary>
 
 当日は、藤光氏から
 （１） 院卒後の進路として検討したキャリア・就職先、国家公務員を選択した理…]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【10/21 開催】SDGs×TSUKUBA 2022 ～SDGsをチャットする～(オンライン）]]></title>
-        <id>f649fcd486e526eec3f8ecacbe2affb7</id>
-        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3315"/>
-        <updated>2022-10-05T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[SDGsについて、自分の研究や学問分野を基に、協定校学生と英語で議論してみませんか？
-月1回、テーマを変えて開催しています！単発参加もOKです！
-世界の学生と交流したい方、英語のスピーキングを向上させたい方、是非参加してください！
-
-日時とテーマ：第5回　2022年10月21日（金）19:00~20:45 SDGｓGOALS#１ 貧困をなくそう / No poverty
-　　　　　　第6回　202…]]></summary>
     </entry>
 </feed>
