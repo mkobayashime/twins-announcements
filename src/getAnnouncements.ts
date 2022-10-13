@@ -1,7 +1,7 @@
 import { parse } from "date-fns";
 import * as O from "fp-ts/lib/Option";
 import md5 from "md5";
-import puppeteer, { ElementHandle } from "puppeteer";
+import puppeteer from "puppeteer";
 
 import { getLatestAnnouncementTitle } from "./getLatestAnnouncementTitle";
 import type { Announcement } from "./types";
