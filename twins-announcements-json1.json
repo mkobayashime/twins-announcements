@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "f649fcd486e526eec3f8ecacbe2affb7",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3338",
+            "title": "【10/21 開催】SDGs×TSUKUBA 2022 ～SDGsをチャットする～(オンライン）",
+            "summary": "SDGsについて、自分の研究や学問分野を基に、協定校学生と英語で議論してみませんか？\n月1回、テーマを変えて開催しています！単発参加もOKです！\n世界の学生と交流したい方、英語のスピーキングを向上させたい方、是非参加してください！\n\n日時とテーマ：第5回　2022年10月21日（金）19:00~20:45 SDGｓGOALS#１ 貧困をなくそう / No poverty\n　　　　　　第6回　202…",
+            "date_modified": "2022-10-14T03:00:00.000Z"
+        },
+        {
             "id": "84eacf2cef8bbcb74ba7f3fc0df48a05",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3337",
             "title": "【開催案内】第5回Special Lecture and Discussion_筑波大学 システム情報系 教授 谷口 守 先生_10/27(木)",
@@ -135,13 +142,6 @@
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3319",
             "title": "学園祭実施における石の広場周辺の交通規制と自転車撤去のお知らせ",
             "summary": "学園祭実行委員会からのお知らせです。\n学園祭のステージ設営・運営のため、下記の日時と場所で交通規制を行います。また、自転車の移動も行います。ご迷惑をおかけしますが、ご理解とご協力のほどよろしくお願いいたします。\n\n【交通規制】\n日時：11月3日（木）7:00～11月7日（月）19:00\n\n場所：理科系棟A棟から３A棟の向かうスロープ、階段、通路\n規制区域の出入口はフェンスにより封鎖されます。理科系…",
-            "date_modified": "2022-10-06T03:00:00.000Z"
-        },
-        {
-            "id": "7df4e7644bddf092a9eeb23dc15796ab",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3318",
-            "title": "【11/5-6開催】人文社会科学研究群公開講座『マンガで出会い直す世界の名作』のご案内",
-            "summary": "2022年11月5日（土）13:00-16:15、11月6日（日）13:00-16:30の2日にかけて公開講座『マンガで出会い直す世界の名作』をオンライン開催します。ご興味のある方は事前お申込みのうえ、ぜひご参加ください。\n\n■講座内容\n文学作品をマンガで読んでみると、今まで気がつかなかった新しい魅力を発見することがあります。\n今回の筑波大学人文社会科学研究群公開講座では、宮沢賢治『銀河鉄道の夜』…",
             "date_modified": "2022-10-06T03:00:00.000Z"
         }
     ]
