@@ -4,10 +4,20 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Fri, 14 Oct 2022 08:13:50 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 14 Oct 2022 09:13:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
+        <item>
+            <title><![CDATA[Oct 21st (Online) SDGs x TSUKUBA ～ Let's talk about the SDGs!]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3339</link>
+            <guid>b88f121e04bfbeb3683a403d74e7de6c</guid>
+            <pubDate>Fri, 14 Oct 2022 03:00:00 GMT</pubDate>
+            <description><![CDATA[SDGs x Tsukuba is an English chat event where you can discuss and exchange opinions about the SDGs!
+
+Target: Students from University of Tsukuba and from our partner universities.
+Dates and topics (20…]]></description>
+        </item>
         <item>
             <title><![CDATA[【10/21 開催】SDGs×TSUKUBA 2022 ～SDGsをチャットする～(オンライン）]]></title>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3338</link>
@@ -225,20 +235,6 @@ Dates and topics (202…]]></description>
 でもとてもアカデミックな冒険が待っています！
 
 本セミナーでは、参加＆アンケート回答で図書館オリジナ…]]></description>
-        </item>
-        <item>
-            <title><![CDATA[学園祭実施における石の広場周辺の交通規制と自転車撤去のお知らせ]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3319</link>
-            <guid>7e86049b31afe10fc9a8ee266e781862</guid>
-            <pubDate>Thu, 06 Oct 2022 03:00:00 GMT</pubDate>
-            <description><![CDATA[学園祭実行委員会からのお知らせです。
-学園祭のステージ設営・運営のため、下記の日時と場所で交通規制を行います。また、自転車の移動も行います。ご迷惑をおかけしますが、ご理解とご協力のほどよろしくお願いいたします。
-
-【交通規制】
-日時：11月3日（木）7:00～11月7日（月）19:00
-
-場所：理科系棟A棟から３A棟の向かうスロープ、階段、通路
-規制区域の出入口はフェンスにより封鎖されます。理科系…]]></description>
         </item>
     </channel>
 </rss>

@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/mkobayashime/twins-announcements</id>
     <title>在学生へのお知らせ | 筑波大学</title>
-    <updated>2022-10-14T08:13:50.967Z</updated>
+    <updated>2022-10-14T09:13:37.387Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://github.com/mkobayashime/twins-announcements"/>
     <subtitle>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</subtitle>
+    <entry>
+        <title type="html"><![CDATA[Oct 21st (Online) SDGs x TSUKUBA ～ Let's talk about the SDGs!]]></title>
+        <id>b88f121e04bfbeb3683a403d74e7de6c</id>
+        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3339"/>
+        <updated>2022-10-14T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[SDGs x Tsukuba is an English chat event where you can discuss and exchange opinions about the SDGs!
+
+Target: Students from University of Tsukuba and from our partner universities.
+Dates and topics (20…]]></summary>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【10/21 開催】SDGs×TSUKUBA 2022 ～SDGsをチャットする～(オンライン）]]></title>
         <id>f649fcd486e526eec3f8ecacbe2affb7</id>
@@ -223,19 +233,5 @@ Dates and topics (202…]]></summary>
 でもとてもアカデミックな冒険が待っています！
 
 本セミナーでは、参加＆アンケート回答で図書館オリジナ…]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[学園祭実施における石の広場周辺の交通規制と自転車撤去のお知らせ]]></title>
-        <id>7e86049b31afe10fc9a8ee266e781862</id>
-        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3319"/>
-        <updated>2022-10-06T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[学園祭実行委員会からのお知らせです。
-学園祭のステージ設営・運営のため、下記の日時と場所で交通規制を行います。また、自転車の移動も行います。ご迷惑をおかけしますが、ご理解とご協力のほどよろしくお願いいたします。
-
-【交通規制】
-日時：11月3日（木）7:00～11月7日（月）19:00
-
-場所：理科系棟A棟から３A棟の向かうスロープ、階段、通路
-規制区域の出入口はフェンスにより封鎖されます。理科系…]]></summary>
     </entry>
 </feed>
