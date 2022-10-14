@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "27a5304e506345dcc042606f69a27fff",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3336",
+            "title": "入学試験に伴う令和４年度授業の臨時休業 / AY 2022 Class Recess Due to the Undergraduate Entrance Examinations 2022/10/14",
+            "summary": "推薦入試、大学入学共通テスト及び個別学力検査等の実施に伴い、添付のとおり、試験場設営期間及び試験実施日の全学の授業を臨時休業とし、実施施設、その周辺及び周辺区域への立ち入りを禁止します。\n\n試験日程の変更が生じた場合は、決定次第改めて通知します。\n\n\nDue to the Undergraduate Entrance Examinations, such as the Entrance Exami…",
+            "date_modified": "2022-10-14T03:00:00.000Z"
+        },
+        {
             "id": "d21eb748c7ce9be54909af51bd780aaf",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3335",
             "title": "【学生宿舎/Student Residence Hall】学生宿舎入居募集情報について / Information of Residence Hall Application",
@@ -135,13 +142,6 @@
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3317",
             "title": "秋学期の図書館講習会 / Library Workshops (Fall Semester)",
             "summary": "附属図書館では、10月から秋の講習会をオンラインで開催します。\n論文の探し方、各種データベースの使い方など、学習や研究に役立つ内容です。\n皆さんのご参加をお待ちしております。\n\n参加するにはmanabaでのコース登録が必要です。\n詳しくは以下のWebページをご覧ください。\nhttps://www.tulips.tsukuba.ac.jp/lib/support/guidance\n\n---\nLibr…",
-            "date_modified": "2022-10-06T03:00:00.000Z"
-        },
-        {
-            "id": "e4743c5ffb5f49afb1f69a314ef09f28",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3316",
-            "title": "キャリア・セミナー「理系院卒から霞が関へのキャリア・パス]開催のお知らせ",
-            "summary": "筑波大学「世界を変えよう基金アカデミー」では、理系大学院（農業土木分野、修士）から2013年に文部科学省に入省、現在つくば市政策ノベーション部長として活躍されている藤光智香氏をお招きして、Zoomキャリア・セミナー「理系院卒から霞が関へのキャリア・パス」を10月30日（日）20:00 から開催します。\n\n当日は、藤光氏から\n（１） 院卒後の進路として検討したキャリア・就職先、国家公務員を選択した理…",
             "date_modified": "2022-10-06T03:00:00.000Z"
         }
     ]

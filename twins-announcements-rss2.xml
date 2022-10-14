@@ -4,10 +4,22 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Thu, 13 Oct 2022 21:13:07 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 14 Oct 2022 03:40:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
+        <item>
+            <title><![CDATA[入学試験に伴う令和４年度授業の臨時休業 / AY 2022 Class Recess Due to the Undergraduate Entrance Examinations 2022/10/14]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3336</link>
+            <guid>27a5304e506345dcc042606f69a27fff</guid>
+            <pubDate>Fri, 14 Oct 2022 03:00:00 GMT</pubDate>
+            <description><![CDATA[推薦入試、大学入学共通テスト及び個別学力検査等の実施に伴い、添付のとおり、試験場設営期間及び試験実施日の全学の授業を臨時休業とし、実施施設、その周辺及び周辺区域への立ち入りを禁止します。
+
+試験日程の変更が生じた場合は、決定次第改めて通知します。
+
+
+Due to the Undergraduate Entrance Examinations, such as the Entrance Exami…]]></description>
+        </item>
         <item>
             <title><![CDATA[【学生宿舎/Student Residence Hall】学生宿舎入居募集情報について / Information of Residence Hall Application]]></title>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3335</link>
@@ -232,16 +244,6 @@ https://www.tulips.tsukuba.ac.jp/lib/support/guidance
 
 ---
 Libr…]]></description>
-        </item>
-        <item>
-            <title><![CDATA[キャリア・セミナー「理系院卒から霞が関へのキャリア・パス]開催のお知らせ]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3316</link>
-            <guid>e4743c5ffb5f49afb1f69a314ef09f28</guid>
-            <pubDate>Thu, 06 Oct 2022 03:00:00 GMT</pubDate>
-            <description><![CDATA[筑波大学「世界を変えよう基金アカデミー」では、理系大学院（農業土木分野、修士）から2013年に文部科学省に入省、現在つくば市政策ノベーション部長として活躍されている藤光智香氏をお招きして、Zoomキャリア・セミナー「理系院卒から霞が関へのキャリア・パス」を10月30日（日）20:00 から開催します。
-
-当日は、藤光氏から
-（１） 院卒後の進路として検討したキャリア・就職先、国家公務員を選択した理…]]></description>
         </item>
     </channel>
 </rss>
