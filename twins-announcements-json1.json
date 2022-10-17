@@ -5,6 +5,27 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "d5fbb01ee25d61ad0a0c3936fc90a008",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3344",
+            "title": "Application closed for English Conversation Partners",
+            "summary": "We are sorry to inform you that we have closed the applications for English Conversation Partners Program because we have already received so many.\n\nWe are looking forward to your application next yea…",
+            "date_modified": "2022-10-17T03:00:00.000Z"
+        },
+        {
+            "id": "9967584d150bbe6c9ba6de1f56231f3a",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3343",
+            "title": "Notice of Implementation of University Vaccination (Omicron COVID-19 vaccine)",
+            "summary": "The University will administer the new corona vaccine (Omicron COVID-19 vaccine).\n【Advance registration】 is required for vaccination.\n\n\n〇Vaccination period (scheduled)\nDecember 5, 2022 (Monday) - Dece…",
+            "date_modified": "2022-10-17T03:00:00.000Z"
+        },
+        {
+            "id": "77d8d6cb19f26570362ebac0d550b066",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3342",
+            "title": "【重要】新型コロナワクチン大学拠点接種（オミクロン株対応ワクチン）の実施について",
+            "summary": "本学では、新型コロナワクチン（オミクロン対応ワクチン）の接種を行います。\n接種には【事前登録】が必須です。\n\n\n〇接種期間（予定）\n令和４年１２月５日（月）～令和４年１２月１６日（金）（土日を除く）\n\n〇接種ワクチン\nモデルナ社　オミクロン株（BA.１）対応２価ワクチン\n\n\n\n詳細は以下のリンク（本学公式HP）をご確認ください。",
+            "date_modified": "2022-10-17T03:00:00.000Z"
+        },
+        {
             "id": "4857f83fb79717ac52ef59fc4880bf74",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3341",
             "title": "【教員志望大学生向け】つくば市ICT 教育45 周年記念大会 先進的ICT で創る「未来の教室」 ～未来の先生たちへ～",
@@ -122,27 +143,6 @@
             "title": "11/16（水）開催！「スタートアップの知財戦略～事業成長のための知財の活用と戦略法務～」講演",
             "summary": "スタートアップに必要な知財戦略、事業成長のための知財活用と戦略法務について、講演を実施いたします。スタートアップの視点から見た知財知識を身に付けたい方はぜひご参加ください！\n本講演は、令和4年度学群自由科目「起業家のための経営・知財必須知識」の第3回授業を兼ねています。教職員及び履修生以外の学生はオンライン（Microsoft Teams）での聴講が可能です。\n\n詳細は下記URL及びポスターでご確…",
             "date_modified": "2022-10-07T03:00:00.000Z"
-        },
-        {
-            "id": "7804f372dc5a71c4796f2bdfa3f943ca",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3324",
-            "title": "10/19（水）開催！「ベンチャービジネス・マーケティング～創業に必要な知識～」講演",
-            "summary": "創業時に必要とされるマーケティングや契約などの必須分野について、第一線で活躍される方々の講演を開催いたします。起業に興味を持ち、必要な知識を身に付けたい方はぜひご参加ください！\n本講演は、令和4年度学群自由科目「起業家のための経営・知財必須知識」の第2回授業を兼ねています。履修生以外の学生及び教職員はオンライン（Microsoft Teams）での聴講が可能です。\n\n詳細は下記URL及びポスターで…",
-            "date_modified": "2022-10-07T03:00:00.000Z"
-        },
-        {
-            "id": "ed1ae8665f5fe2e2cbe48cdac59e893e",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3323",
-            "title": "【開催案内】筑波大学 Open Facility Week 2022開催のお知らせ(10/17-21)※申込締切10/11",
-            "summary": "オープンファシリティー推進機構では、教育研究を効率的に推進するため、210台以上の共同利用機器をオープンファシリティーシステムに登録し、設備の有効活用に伴う利用サポートを実施いたしております。\nこの度、10月17日(月)から10月21日(金)までの期間を機器共用促進の重点実施期間として、「筑波大学Open Facility Week 2022」を開催することとなりましたので、ご案内申し上げます。\n…",
-            "date_modified": "2022-10-07T03:00:00.000Z"
-        },
-        {
-            "id": "79d316e9d33d00a12398719b927bc2b3",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3322",
-            "title": "Oct 19th~ (Online) TSUKU-CHAT! Let's practice English in groups!",
-            "summary": "\"Tsuku-Chat\" is an English chat program where you can experience international exchange!\nEvery week, you can have cultural exchanges while discussing in small groups diverse topics!\nRecommended for th…",
-            "date_modified": "2022-10-06T03:00:00.000Z"
         }
     ]
 }
