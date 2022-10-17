@@ -4,10 +4,22 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Mon, 17 Oct 2022 09:26:26 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 17 Oct 2022 13:51:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
+        <item>
+            <title><![CDATA[【お知らせ（学園祭）】学園祭の実施に伴う石の広場周辺の交通規制について（11/3(木・祝)7:00～11/7(月)17:00）]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3345</link>
+            <guid>54acd79148ade67946184375a32dbc57</guid>
+            <pubDate>Mon, 17 Oct 2022 03:00:00 GMT</pubDate>
+            <description><![CDATA[　令和４年度学園祭の実施に向けて、石の広場へ特設ステージ等を設置することから、以下のとおり交通規制を行います。ご迷惑をおかけしますが、ご理解とご協力のほどよろしくお願いいたします。
+
+〇規制場所：石の広場周辺（理科系Ａ棟から３Ａ棟に向かうスロープ・階段及び通路）
+　　　　　（詳細な場所は別添ファイルを参照してください。）
+〇規制日時：令和４年11月3日（木祝）7:00～11月7日（月）19:00
+…]]></description>
+        </item>
         <item>
             <title><![CDATA[Application closed for English Conversation Partners]]></title>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3344</link>
@@ -245,16 +257,6 @@ This time, we are looking for …]]></description>
 💡こんな人におすすめ
 ・スポーツイベントの運営をしてみたい！
 ・学類…]]></description>
-        </item>
-        <item>
-            <title><![CDATA[11/16（水）開催！「スタートアップの知財戦略～事業成長のための知財の活用と戦略法務～」講演]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3325</link>
-            <guid>d6ad0fba850a4363e9670c41df806fe8</guid>
-            <pubDate>Fri, 07 Oct 2022 03:00:00 GMT</pubDate>
-            <description><![CDATA[スタートアップに必要な知財戦略、事業成長のための知財活用と戦略法務について、講演を実施いたします。スタートアップの視点から見た知財知識を身に付けたい方はぜひご参加ください！
-本講演は、令和4年度学群自由科目「起業家のための経営・知財必須知識」の第3回授業を兼ねています。教職員及び履修生以外の学生はオンライン（Microsoft Teams）での聴講が可能です。
-
-詳細は下記URL及びポスターでご確…]]></description>
         </item>
     </channel>
 </rss>
