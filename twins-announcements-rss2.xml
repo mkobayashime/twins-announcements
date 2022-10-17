@@ -4,10 +4,24 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Sun, 16 Oct 2022 21:10:28 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 17 Oct 2022 00:51:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
+        <item>
+            <title><![CDATA[【本日10/17 15:30~】人文学類文化講演会のお知らせ]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3340</link>
+            <guid>e4e38ca26f5f58a6753804c3e8907204</guid>
+            <pubDate>Mon, 17 Oct 2022 03:00:00 GMT</pubDate>
+            <description><![CDATA[人文学類では、人文学に関連する著名な先生を学外からお招きして
+ご講演いただく「文化講演会」というイベントを毎年開催しています。
+
+今年度も、下記の要領で文化講演会を開催することとなりました。
+人文学類生だけでなく、他学類の学群生や、大学院生の聴講も歓迎いたします。
+学外の著名な先生からお話を伺える貴重な機会となりますので、奮ってご参加ください。
+詳細につきましては、添付のポスターもご覧ください。
+…]]></description>
+        </item>
         <item>
             <title><![CDATA[Oct 21st (Online) SDGs x TSUKUBA ～ Let's talk about the SDGs!]]></title>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3339</link>
@@ -222,19 +236,6 @@ Recommended for th…]]></description>
 
 Target: Students from University of Tsukuba and from our partner universities.
 Dates and topics (202…]]></description>
-        </item>
-        <item>
-            <title><![CDATA[附属図書館企画「ライティング支援連続セミナー2022」のご案内]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3320</link>
-            <guid>46d62c6fa121eea90a3c07b73e5c40cc</guid>
-            <pubDate>Thu, 06 Oct 2022 03:00:00 GMT</pubDate>
-            <description><![CDATA[お待たせしました！附属図書館ではライティング支援セミナーを3年ぶりに開催します。
-読むこと、考えること、伝えること。高校までとは違う、大学での学びに必要なスキルを
-テーマ毎にご案内します。各回完結型ですので、受講は1回だけでもOKですが、
-ぜひ連続での受講をお薦めします。普通の講義とは少し違った、
-でもとてもアカデミックな冒険が待っています！
-
-本セミナーでは、参加＆アンケート回答で図書館オリジナ…]]></description>
         </item>
     </channel>
 </rss>
