@@ -2,10 +2,27 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/mkobayashime/twins-announcements</id>
     <title>在学生へのお知らせ | 筑波大学</title>
-    <updated>2022-10-17T00:51:54.750Z</updated>
+    <updated>2022-10-17T05:20:24.091Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://github.com/mkobayashime/twins-announcements"/>
     <subtitle>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</subtitle>
+    <entry>
+        <title type="html"><![CDATA[【教員志望大学生向け】つくば市ICT 教育45 周年記念大会 先進的ICT で創る「未来の教室」 ～未来の先生たちへ～]]></title>
+        <id>4857f83fb79717ac52ef59fc4880bf74</id>
+        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3341"/>
+        <updated>2022-10-17T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[つくば市教育委員会からのお知らせです。
+
+---------
+つくば市では学校ＩＣＴ教育を推進し45周年を迎えました。これまで目指してきた個別最適な学びと協働的な学びの実現を、より一層加速し「未来の教室」を実現します。皆様のご参加を心よりお待ちしております。
+
+期日：令和４年１１月２５日（金）
+会場：つくばカピオ
+つくば市竹園一丁目 10 番地 1
+---------
+
+詳細は添付のチラシ、URL…]]></summary>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【本日10/17 15:30~】人文学類文化講演会のお知らせ]]></title>
         <id>e4e38ca26f5f58a6753804c3e8907204</id>
@@ -224,15 +241,5 @@ This time, we are looking for …]]></summary>
         <summary type="html"><![CDATA["Tsuku-Chat" is an English chat program where you can experience international exchange!
 Every week, you can have cultural exchanges while discussing in small groups diverse topics!
 Recommended for th…]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Oct 21st (Online) SDGs x TSUKUBA ～ Let's talk about the SDGs!]]></title>
-        <id>b88f121e04bfbeb3683a403d74e7de6c</id>
-        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3321"/>
-        <updated>2022-10-06T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[SDGs x Tsukuba is an English chat event were you can discuss and exchange opinions about the SDGs!
-
-Target: Students from University of Tsukuba and from our partner universities.
-Dates and topics (202…]]></summary>
     </entry>
 </feed>
