@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "493fe2bc3296cb7831e73fe6cba3f2e3",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3351",
+            "title": "【教員志望向け】つくば市ICT 教育45 周年記念大会 先進的ICT で創る「未来の教室」 ～未来の先生たちへ～",
+            "summary": "つくば市教育委員会より、つくば市ICT教育に関するイベントの案内がありました。\n日程、会場などの詳細は添付ファイルをご確認ください。\n\n\n#ts",
+            "date_modified": "2022-10-18T03:00:00.000Z"
+        },
+        {
             "id": "bbe12ebc1c41dccc853ca1e25b51f526",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3350",
             "title": "【開催案内】10月30日（日）ウェビナーシンポジウム『個立社会の実現に向けて～社会的孤立と孤独について考える～』",
@@ -135,13 +142,6 @@
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3331",
             "title": "eラーニング講座「マネビタ」について",
             "summary": "各位\n\n金融広報中央委員会より、eラーニング講座「マネビタ～人生を豊かにするお金の知恵～」の開講について案内がありました。講座内で日本学生支援機構奨学金についても触れられているようです。興味のある方は、以下のURL及び添付のチラシを参考に、受講登録をお願いいたします。\n\n以上",
-            "date_modified": "2022-10-11T03:00:00.000Z"
-        },
-        {
-            "id": "8329726c0dbbd3fc1bafb0135f7b18ac",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3330",
-            "title": "【日本財団】海洋開発にかかるリカレントセミナーのご案内（10月20日・水素エネルギー）",
-            "summary": "海洋開発にかかるリカレントセミナー（オンライン・短縮版）を実施いたしますので、\nぜひご参加ください。\n\n・日時：2022年10月20日（木）13時～15時\n・場所：オンライン開催（Zoomを予定・申し込み完了メールに記載の参加用URLからご参加ください）\n・テーマ：水素社会への展望　～海洋開発の視点から～\n・申し込み方法：10月18日（火）17時までに以下URLよりお申し込みください。\n　本文の最…",
             "date_modified": "2022-10-11T03:00:00.000Z"
         }
     ]
