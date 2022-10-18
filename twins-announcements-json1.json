@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "0e90d200c7d57726d596837a7b21ef6c",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3346",
+            "title": "【再掲】キャリア・セミナー「理系院卒から霞が関へのキャリア・パス」開催のお知らせ",
+            "summary": "筑波大学「世界を変えよう基金アカデミー」では、理系大学院（農業土木分野、修士）から2013年に文部科学省に入省、現在つくば市政策ノベーション部長として活躍されている藤光智香氏をお招きして、Zoomキャリア・セミナー「理系院卒から霞が関へのキャリア・パス」を10月30日（日）20:00 から開催します。\n\n当日は、藤光氏から\n（１） 院卒後の進路として検討したキャリア・就職先、国家公務員を選択した理…",
+            "date_modified": "2022-10-18T03:00:00.000Z"
+        },
+        {
             "id": "54acd79148ade67946184375a32dbc57",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3345",
             "title": "【お知らせ（学園祭）】学園祭の実施に伴う石の広場周辺の交通規制について（11/3(木・祝)7:00～11/7(月)17:00）",
@@ -135,13 +142,6 @@
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3327",
             "title": "【TSUKUBA LIVE! Recruiting staff members for the day of the event】",
             "summary": "【TSUKUBA LIVE! Recruiting staff members for the day of the event📢】\n\"TSUKUBA LIVE!\", a home game event hosted by the Athletic Department, will be held again this fall!\n\n\nThis time, we are looking for …",
-            "date_modified": "2022-10-07T03:00:00.000Z"
-        },
-        {
-            "id": "b7e694b3eac093a6b837193352d5caa8",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3326",
-            "title": "【TSUKUBA LIVE!当日スタッフ募集】",
-            "summary": "【TSUKUBA LIVE!当日スタッフ募集📢】\nアスレチックデパートメント主催のホームゲームイベント「TSUKUBA LIVE!」が、この秋も開催予定です！\n\n今回は当日スタッフとして、一緒にTSUKUBA LIVE!を盛り上げてくれる学生を大募集します！\n\n募集人数には限りがあるため、お早めにご応募ください🏃‍♂️\n\n\n💡こんな人におすすめ\n・スポーツイベントの運営をしてみたい！\n・学類…",
             "date_modified": "2022-10-07T03:00:00.000Z"
         }
     ]
