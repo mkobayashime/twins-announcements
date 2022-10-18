@@ -2,10 +2,24 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/mkobayashime/twins-announcements</id>
     <title>在学生へのお知らせ | 筑波大学</title>
-    <updated>2022-10-18T08:15:51.783Z</updated>
+    <updated>2022-10-18T09:21:14.766Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://github.com/mkobayashime/twins-announcements"/>
     <subtitle>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</subtitle>
+    <entry>
+        <title type="html"><![CDATA[期限延長【ボランティア募集】世界一プロジェクト：だるまさんが転んだギネス記録に挑戦]]></title>
+        <id>03861c4b825827179119e877ee629f50</id>
+        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3353"/>
+        <updated>2022-10-18T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[つくば市立学園の森義務教育学校のギネス記録挑戦に際して、
+10月4日に同様の掲示をしましたが、申込期日が延長されたので再度掲示します。
+詳細、申し込みは添付ファイルをご確認ください。
+
+申込期日は10月27日（木）までに延長されています。
+
+
+#ts]]></summary>
+    </entry>
     <entry>
         <title type="html"><![CDATA[令和6年度(2024年度)入試心理学学位プログラム(前期・後期)説明会]]></title>
         <id>4180a0f6fe038b63db8bc9935960f03b</id>
@@ -227,13 +241,5 @@ More detail…]]></summary>
         <summary type="html"><![CDATA[2022年11月9日（水）に、海洋開発に関する国際セミナーを開催の案内です。
 世界の海洋開発の分野における地球温暖化対策や再生可能エネルギーの利用、脱炭素燃料への代替等の課題への貢献として、日本財団は、米国DeepStar（2021年～）及びスコットランド開発公社（2017年～）と連携技術開発プログラムを実施しています。
 本セミナーでは、これら連携技術開発事業を進めてきた日本企業からDeepSta…]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【Online】Nov 4 (Fri) 10:00-12:00 World-science Leaders’ Seminar]]></title>
-        <id>4177c5920ab402a42030e6b5f0b2094e</id>
-        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3332"/>
-        <updated>2022-10-12T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[World-science Leaders’ Seminar is a part of classes in Doctoral Program in Human Biology.
-Students attending this seminar will learn basic knowledge and recent research trends related to the specializ…]]></summary>
     </entry>
 </feed>

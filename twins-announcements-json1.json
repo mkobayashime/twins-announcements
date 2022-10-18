@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "03861c4b825827179119e877ee629f50",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3353",
+            "title": "期限延長【ボランティア募集】世界一プロジェクト：だるまさんが転んだギネス記録に挑戦",
+            "summary": "つくば市立学園の森義務教育学校のギネス記録挑戦に際して、\n10月4日に同様の掲示をしましたが、申込期日が延長されたので再度掲示します。\n詳細、申し込みは添付ファイルをご確認ください。\n\n申込期日は10月27日（木）までに延長されています。\n\n\n#ts",
+            "date_modified": "2022-10-18T03:00:00.000Z"
+        },
+        {
             "id": "4180a0f6fe038b63db8bc9935960f03b",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3352",
             "title": "令和6年度(2024年度)入試心理学学位プログラム(前期・後期)説明会",
@@ -135,13 +142,6 @@
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3333",
             "title": "【開催のご案内(11/9（水)】日本財団　海洋開発国際セミナー　DeepStar, スコットランドとの連携技術開発に関する報告会～",
             "summary": "2022年11月9日（水）に、海洋開発に関する国際セミナーを開催の案内です。\n世界の海洋開発の分野における地球温暖化対策や再生可能エネルギーの利用、脱炭素燃料への代替等の課題への貢献として、日本財団は、米国DeepStar（2021年～）及びスコットランド開発公社（2017年～）と連携技術開発プログラムを実施しています。\n本セミナーでは、これら連携技術開発事業を進めてきた日本企業からDeepSta…",
-            "date_modified": "2022-10-12T03:00:00.000Z"
-        },
-        {
-            "id": "4177c5920ab402a42030e6b5f0b2094e",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3332",
-            "title": "【Online】Nov 4 (Fri) 10:00-12:00 World-science Leaders’ Seminar",
-            "summary": "World-science Leaders’ Seminar is a part of classes in Doctoral Program in Human Biology.\nStudents attending this seminar will learn basic knowledge and recent research trends related to the specializ…",
             "date_modified": "2022-10-12T03:00:00.000Z"
         }
     ]
