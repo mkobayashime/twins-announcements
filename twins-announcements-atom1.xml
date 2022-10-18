@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/mkobayashime/twins-announcements</id>
     <title>在学生へのお知らせ | 筑波大学</title>
-    <updated>2022-10-18T03:34:13.473Z</updated>
+    <updated>2022-10-18T05:20:11.581Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://github.com/mkobayashime/twins-announcements"/>
     <subtitle>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</subtitle>
+    <entry>
+        <title type="html"><![CDATA[【開催案内】10月30日（日）ウェビナーシンポジウム『個立社会の実現に向けて～社会的孤立と孤独について考える～』]]></title>
+        <id>bbe12ebc1c41dccc853ca1e25b51f526</id>
+        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3350"/>
+        <updated>2022-10-18T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[医学医療系災害・地域精神医学教室では、受託研究（RISTEX）「社会的孤立の生成プロセス解明と介入法開発：健康な「個立」を目指して」の一環として上記の学際的ウェビナーシンポジウムを 開催いたします。本シンポジウムでは、研究者やひきこもりの経験者など幅広い立場のスピーカーを招き、社会的孤立・孤独の問題とは何か、「個立」社会の実現に向けて、何が必要であるかを多様な視点から検討します。
+
+第一部はシンポ…]]></summary>
+    </entry>
     <entry>
         <title type="html"><![CDATA[DESIGN THE FUTURE機構による「筑波大学SDGs発信月間」への 参加のお願い]]></title>
         <id>34234e4c6f1ac769695b444e4690c65c</id>
@@ -225,20 +234,5 @@ Students attending this seminar will learn basic knowledge and recent research t
 ・テーマ：水素社会への展望　～海洋開発の視点から～
 ・申し込み方法：10月18日（火）17時までに以下URLよりお申し込みください。
 　本文の最…]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[第46回秋季スポーツ・デー開催！！]]></title>
-        <id>78f6d1dd44ab5731e9cadf45e8ba6a9c</id>
-        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3329"/>
-        <updated>2022-10-11T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[第46回秋季スポーツ・デーについて、スポーツ・デー学生委員会から
-以下のように案内がありましたのでお知らせします。
-
-－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－
-スポーツ・デー学生委員会からのお知らせです。
-11月19日（土）、20日（日）に第46回秋季スポーツ・デーを開催します！
-
-只今正式種目、学生委員会企画、サークル企画の参加申し込みを受付中です。
-奮ってご参加ください…]]></summary>
     </entry>
 </feed>

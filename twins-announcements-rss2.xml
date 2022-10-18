@@ -4,10 +4,19 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Tue, 18 Oct 2022 03:34:13 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 18 Oct 2022 05:20:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
+        <item>
+            <title><![CDATA[【開催案内】10月30日（日）ウェビナーシンポジウム『個立社会の実現に向けて～社会的孤立と孤独について考える～』]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3350</link>
+            <guid>bbe12ebc1c41dccc853ca1e25b51f526</guid>
+            <pubDate>Tue, 18 Oct 2022 03:00:00 GMT</pubDate>
+            <description><![CDATA[医学医療系災害・地域精神医学教室では、受託研究（RISTEX）「社会的孤立の生成プロセス解明と介入法開発：健康な「個立」を目指して」の一環として上記の学際的ウェビナーシンポジウムを 開催いたします。本シンポジウムでは、研究者やひきこもりの経験者など幅広い立場のスピーカーを招き、社会的孤立・孤独の問題とは何か、「個立」社会の実現に向けて、何が必要であるかを多様な視点から検討します。
+
+第一部はシンポ…]]></description>
+        </item>
         <item>
             <title><![CDATA[DESIGN THE FUTURE機構による「筑波大学SDGs発信月間」への 参加のお願い]]></title>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3349</link>
@@ -227,21 +236,6 @@ Students attending this seminar will learn basic knowledge and recent research t
 ・テーマ：水素社会への展望　～海洋開発の視点から～
 ・申し込み方法：10月18日（火）17時までに以下URLよりお申し込みください。
 　本文の最…]]></description>
-        </item>
-        <item>
-            <title><![CDATA[第46回秋季スポーツ・デー開催！！]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3329</link>
-            <guid>78f6d1dd44ab5731e9cadf45e8ba6a9c</guid>
-            <pubDate>Tue, 11 Oct 2022 03:00:00 GMT</pubDate>
-            <description><![CDATA[第46回秋季スポーツ・デーについて、スポーツ・デー学生委員会から
-以下のように案内がありましたのでお知らせします。
-
-－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－
-スポーツ・デー学生委員会からのお知らせです。
-11月19日（土）、20日（日）に第46回秋季スポーツ・デーを開催します！
-
-只今正式種目、学生委員会企画、サークル企画の参加申し込みを受付中です。
-奮ってご参加ください…]]></description>
         </item>
     </channel>
 </rss>

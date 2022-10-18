@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "bbe12ebc1c41dccc853ca1e25b51f526",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3350",
+            "title": "【開催案内】10月30日（日）ウェビナーシンポジウム『個立社会の実現に向けて～社会的孤立と孤独について考える～』",
+            "summary": "医学医療系災害・地域精神医学教室では、受託研究（RISTEX）「社会的孤立の生成プロセス解明と介入法開発：健康な「個立」を目指して」の一環として上記の学際的ウェビナーシンポジウムを 開催いたします。本シンポジウムでは、研究者やひきこもりの経験者など幅広い立場のスピーカーを招き、社会的孤立・孤独の問題とは何か、「個立」社会の実現に向けて、何が必要であるかを多様な視点から検討します。\n\n第一部はシンポ…",
+            "date_modified": "2022-10-18T03:00:00.000Z"
+        },
+        {
             "id": "34234e4c6f1ac769695b444e4690c65c",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3349",
             "title": "DESIGN THE FUTURE機構による「筑波大学SDGs発信月間」への 参加のお願い",
@@ -135,13 +142,6 @@
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3330",
             "title": "【日本財団】海洋開発にかかるリカレントセミナーのご案内（10月20日・水素エネルギー）",
             "summary": "海洋開発にかかるリカレントセミナー（オンライン・短縮版）を実施いたしますので、\nぜひご参加ください。\n\n・日時：2022年10月20日（木）13時～15時\n・場所：オンライン開催（Zoomを予定・申し込み完了メールに記載の参加用URLからご参加ください）\n・テーマ：水素社会への展望　～海洋開発の視点から～\n・申し込み方法：10月18日（火）17時までに以下URLよりお申し込みください。\n　本文の最…",
-            "date_modified": "2022-10-11T03:00:00.000Z"
-        },
-        {
-            "id": "78f6d1dd44ab5731e9cadf45e8ba6a9c",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3329",
-            "title": "第46回秋季スポーツ・デー開催！！",
-            "summary": "第46回秋季スポーツ・デーについて、スポーツ・デー学生委員会から\n以下のように案内がありましたのでお知らせします。\n\n－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－\nスポーツ・デー学生委員会からのお知らせです。\n11月19日（土）、20日（日）に第46回秋季スポーツ・デーを開催します！\n\n只今正式種目、学生委員会企画、サークル企画の参加申し込みを受付中です。\n奮ってご参加ください…",
             "date_modified": "2022-10-11T03:00:00.000Z"
         }
     ]
