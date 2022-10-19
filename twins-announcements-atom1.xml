@@ -2,10 +2,17 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/mkobayashime/twins-announcements</id>
     <title>在学生へのお知らせ | 筑波大学</title>
-    <updated>2022-10-19T07:33:50.998Z</updated>
+    <updated>2022-10-19T08:17:53.764Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://github.com/mkobayashime/twins-announcements"/>
     <subtitle>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</subtitle>
+    <entry>
+        <title type="html"><![CDATA[TSUKUBA Lecture on Constitutional Law on international law and the Russia-Ukraine Crisis (14 Nov.)]]></title>
+        <id>fee4d8eb0cbac0a5c1df8a375472d03a</id>
+        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3362"/>
+        <updated>2022-10-19T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[School of Social and International Studies invites Dr Yota NEGISHI (Associate Professor, Seinan Gakuin University) and organises the 4th TSUKUBA Lecture on Constitutional Law on international law and …]]></summary>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【参加者募集！２年次以上全学群生対象】海外教育インターンシップSEA-Teacherプログラム]]></title>
         <id>5dfa62d84803ee28eb79ef0693bfed9c</id>
@@ -233,15 +240,5 @@ Dates and topics (20…]]></summary>
 
 日時とテーマ：第5回　2022年10月21日（金）19:00~20:45 SDGｓGOALS#１ 貧困をなくそう / No poverty
 　　　　　　第6回　202…]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【開催案内】第5回Special Lecture and Discussion_筑波大学 システム情報系 教授 谷口 守 先生_10/27(木)]]></title>
-        <id>84eacf2cef8bbcb74ba7f3fc0df48a05</id>
-        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3337"/>
-        <updated>2022-10-14T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[筑波大学「日本財団 中央アジア・日本人材育成プロジェクト(NipCA)」主催  
-第5回Special Lecture and Discussion “The Road to Digital Transformation to Change Society”を、次のとおり対面およびオンライン（Zoom meeting）により開催いたします。
-
-第5回Special Lecture and Disc…]]></summary>
     </entry>
 </feed>

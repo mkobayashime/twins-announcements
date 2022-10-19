@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "fee4d8eb0cbac0a5c1df8a375472d03a",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3362",
+            "title": "TSUKUBA Lecture on Constitutional Law on international law and the Russia-Ukraine Crisis (14 Nov.)",
+            "summary": "School of Social and International Studies invites Dr Yota NEGISHI (Associate Professor, Seinan Gakuin University) and organises the 4th TSUKUBA Lecture on Constitutional Law on international law and …",
+            "date_modified": "2022-10-19T03:00:00.000Z"
+        },
+        {
             "id": "5dfa62d84803ee28eb79ef0693bfed9c",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3361",
             "title": "【参加者募集！２年次以上全学群生対象】海外教育インターンシップSEA-Teacherプログラム",
@@ -135,13 +142,6 @@
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3338",
             "title": "【10/21 開催】SDGs×TSUKUBA 2022 ～SDGsをチャットする～(オンライン）",
             "summary": "SDGsについて、自分の研究や学問分野を基に、協定校学生と英語で議論してみませんか？\n月1回、テーマを変えて開催しています！単発参加もOKです！\n世界の学生と交流したい方、英語のスピーキングを向上させたい方、是非参加してください！\n\n日時とテーマ：第5回　2022年10月21日（金）19:00~20:45 SDGｓGOALS#１ 貧困をなくそう / No poverty\n　　　　　　第6回　202…",
-            "date_modified": "2022-10-14T03:00:00.000Z"
-        },
-        {
-            "id": "84eacf2cef8bbcb74ba7f3fc0df48a05",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3337",
-            "title": "【開催案内】第5回Special Lecture and Discussion_筑波大学 システム情報系 教授 谷口 守 先生_10/27(木)",
-            "summary": "筑波大学「日本財団 中央アジア・日本人材育成プロジェクト(NipCA)」主催  \n第5回Special Lecture and Discussion “The Road to Digital Transformation to Change Society”を、次のとおり対面およびオンライン（Zoom meeting）により開催いたします。\n\n第5回Special Lecture and Disc…",
             "date_modified": "2022-10-14T03:00:00.000Z"
         }
     ]
