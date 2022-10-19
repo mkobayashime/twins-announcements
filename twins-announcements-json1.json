@@ -5,6 +5,20 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "18f5350bc8d2b68391379744320f47e7",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3358",
+            "title": "全学停電に伴うTWINSおよびKdB休止のお知らせ/Planned Interruption to “TWINS”and KdB",
+            "summary": "令和４年10月29日（土）と10月30日（日）の2日間、電気設備の定期点検により、筑波キャンパス全体で停電となります。\nこのためTWINSおよびKdBも以下の期間、運転を休止します。\nご迷惑をおかけしますが、ご協力をお願いします。\n\nTWINSおよびKdB運転休止期間\n令和4年10月28日(金) 17:00　～　令和4年10月31日(月) 12:00\n\nRoutine inspections on…",
+            "date_modified": "2022-10-19T03:00:00.000Z"
+        },
+        {
+            "id": "26441b5e3a68edf3b91d47b51f4f5b74",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3357",
+            "title": "令和4年度筑波大学就職ミライ博 SDGs Career UP Seminar",
+            "summary": "最近よく耳にする「SDGs」とはどんな取り組みかご存知ですか？\n\n「SDGs」とは、「誰一人取り残さない」持続可能で多様性と包摂性のある社会の実現のため、2030年を年限とする17の国際目標を指します。実はつくば市も「SDGs未来都市」に選定されています。\n\n本セミナーでは、SDGsを身近に感じていただき、自分の関心や専攻等が17項目のどこに関連するのか、知識を深めると同時に、企業のSDGsに対す…",
+            "date_modified": "2022-10-19T03:00:00.000Z"
+        },
+        {
             "id": "4180a0f6fe038b63db8bc9935960f03b",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3355",
             "title": "令和6年度(2024年度)入試心理学学位プログラム(前期・後期)説明会",
@@ -129,20 +143,6 @@
             "title": "【学生宿舎/Student Residence Hall】学生宿舎入居募集情報について / Information of Residence Hall Application",
             "summary": "令和５年度学生宿舎入居募集情報についてお知らせいたします。\n詳細は添付ファイルを参照してください。\n\n個別の募集の詳細はWEB掲示板の「大学から学生へのお知らせ（学内専用）」に掲載しています。\n\nThis is to inform you about AY2023 Residence Hall Application.\nPlease check attached PDF.\n\nMore detail…",
             "date_modified": "2022-10-13T03:00:00.000Z"
-        },
-        {
-            "id": "fd152c2f5f670f14501e0b1797d6db17",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3334",
-            "title": "スーツ等の割引サービスについて（10月12日更新）",
-            "summary": "本学は紳士服の大手4社と契約しています。\nそのため、在学生とそのご家族の皆様には、全国のAOKI、コナカ、はるやま、洋服の青山で、通常の割引価格から更に割引いた価格でスーツ等をご購入いただけます。\n大変お得ですので、是非ご利用ください。\n※ご購入いただいた金額の一部が大学に寄附されます。",
-            "date_modified": "2022-10-12T03:00:00.000Z"
-        },
-        {
-            "id": "df75c091d95a2c9a63b92dc326e62155",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3333",
-            "title": "【開催のご案内(11/9（水)】日本財団　海洋開発国際セミナー　DeepStar, スコットランドとの連携技術開発に関する報告会～",
-            "summary": "2022年11月9日（水）に、海洋開発に関する国際セミナーを開催の案内です。\n世界の海洋開発の分野における地球温暖化対策や再生可能エネルギーの利用、脱炭素燃料への代替等の課題への貢献として、日本財団は、米国DeepStar（2021年～）及びスコットランド開発公社（2017年～）と連携技術開発プログラムを実施しています。\n本セミナーでは、これら連携技術開発事業を進めてきた日本企業からDeepSta…",
-            "date_modified": "2022-10-12T03:00:00.000Z"
         }
     ]
 }
