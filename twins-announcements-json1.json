@@ -5,6 +5,27 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "fb5c2659c31e6a066326feae000f373a",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3374",
+            "title": "2022年度「学研災付帯 海外留学保険（付帯海学）」の申し込みに際して",
+            "summary": "海外留学等に際して付帯海学に申し込むためには、渡航の全期間、学研災に加入している必要がありますが、学研災の加入状況が分からないまま保険代理店（エキスパート株式会社）へ行くケースが増えています。\n\n保険代理店は皆さんの加入状況を把握していませんので、もし加入の有無等がはっきりしない場合には、保険代理店に申し込みへ行く前に、本学ウェブサイトのキャンパスライフ「学生教育研究災害傷害保険（学研災）」の『学…",
+            "date_modified": "2022-10-20T03:00:00.000Z"
+        },
+        {
+            "id": "c35563be3c4e937e330c9bbdd9249c6b",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3371",
+            "title": "芸術の［実習室等使用願］様式変更のお知らせ",
+            "summary": "芸術の実習室等を使用する際は、実習室等使用願の用紙を学群教務に提出することとなっておりますが、\n2022年11月より使用願の様式が変更となりますので、お知らせいたします。\n2022年11月1日申請分より新様式をご使用ください。\n\n実習室使用願で申請せず、実習室を利用している学生が多くみられますので、\n実習室の利用を希望する場合には、必ず申請をするようにお願いいたします。\n\n使用願の様式は2種類あり…",
+            "date_modified": "2022-10-20T03:00:00.000Z"
+        },
+        {
+            "id": "481b2f9d59425fd03e443cad06fced1c",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3370",
+            "title": "【対面】中南米プログラム留学説明会！10月25日　18:30-19:30",
+            "summary": "中南米プログラム（メキシコ、コロンビア、ペルー、チリ、ブラジル）の留学説明会を開催します！\n中南米への留学を検討している方は、是非参加してください！\n\n開催日：2022年10月25日（火）18:30～19:30\n対象：筑波大学在学生で交換留学を希望する者\n場所：スチューデント・コモンズ（第一エリア 1A棟203）\n使用言語：日本語、英語\n内容：\n・中南米プログラム（筑波トランスパシフィックプログラ…",
+            "date_modified": "2022-10-20T03:00:00.000Z"
+        },
+        {
             "id": "51482046410d403a64300945d879c9c2",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3369",
             "title": "About Lowering of the Level of ”Travel Advice and Warning” by MOFA",
@@ -121,27 +142,6 @@
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3345",
             "title": "【お知らせ（学園祭）】学園祭の実施に伴う石の広場周辺の交通規制について（11/3(木・祝)7:00～11/7(月)17:00）",
             "summary": "　令和４年度学園祭の実施に向けて、石の広場へ特設ステージ等を設置することから、以下のとおり交通規制を行います。ご迷惑をおかけしますが、ご理解とご協力のほどよろしくお願いいたします。\n\n〇規制場所：石の広場周辺（理科系Ａ棟から３Ａ棟に向かうスロープ・階段及び通路）\n　　　　　（詳細な場所は別添ファイルを参照してください。）\n〇規制日時：令和４年11月3日（木祝）7:00～11月7日（月）19:00\n…",
-            "date_modified": "2022-10-17T03:00:00.000Z"
-        },
-        {
-            "id": "d5fbb01ee25d61ad0a0c3936fc90a008",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3344",
-            "title": "Application closed for English Conversation Partners",
-            "summary": "We are sorry to inform you that we have closed the applications for English Conversation Partners Program because we have already received so many.\n\nWe are looking forward to your application next yea…",
-            "date_modified": "2022-10-17T03:00:00.000Z"
-        },
-        {
-            "id": "9967584d150bbe6c9ba6de1f56231f3a",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3343",
-            "title": "Notice of Implementation of University Vaccination (Omicron COVID-19 vaccine)",
-            "summary": "The University will administer the new corona vaccine (Omicron COVID-19 vaccine).\n【Advance registration】 is required for vaccination.\n\n\n〇Vaccination period (scheduled)\nDecember 5, 2022 (Monday) - Dece…",
-            "date_modified": "2022-10-17T03:00:00.000Z"
-        },
-        {
-            "id": "77d8d6cb19f26570362ebac0d550b066",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3342",
-            "title": "【重要】新型コロナワクチン大学拠点接種（オミクロン株対応ワクチン）の実施について",
-            "summary": "本学では、新型コロナワクチン（オミクロン対応ワクチン）の接種を行います。\n接種には【事前登録】が必須です。\n\n\n〇接種期間（予定）\n令和４年１２月５日（月）～令和４年１２月１６日（金）（土日を除く）\n\n〇接種ワクチン\nモデルナ社　オミクロン株（BA.１）対応２価ワクチン\n\n\n\n詳細は以下のリンク（本学公式HP）をご確認ください。",
             "date_modified": "2022-10-17T03:00:00.000Z"
         }
     ]
