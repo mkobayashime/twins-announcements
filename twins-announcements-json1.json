@@ -5,6 +5,20 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "5da588d43e05e25a086228601b5b37da",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3365",
+            "title": "【今夜！対面！】AIMSプログラム留学説明会　10/20（木）18：30～　＠スチューデント・コモンズ",
+            "summary": "AIMS（Asian International Mobility for Students Program)　の対面説明会を開催します！\nアジア（東南アジア）への留学を検討している方は、是非参加してください！\n\n開催日：2022年10月20日（木）\n時　間：18：30-19：30\n対　象：筑波大学学群生\n場　所：スチューデント・コモンズ（1A203)\n使用言語：主として日本語\n参加方法：予約不要…",
+            "date_modified": "2022-10-20T03:00:00.000Z"
+        },
+        {
+            "id": "804565f59ba688ad3d53cda16336a420",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3364",
+            "title": "TSUKUBA憲法レクチャー「ロシア・ウクライナ危機における国際法言説－－『ルールに基づく国際秩序』の擁護・批判・改革」（11/14）のお知らせ",
+            "summary": "社会・国際学群では、根岸陽太さん（西南学院大学法学部准教授）をお招きし、第4回TSUKUBA憲法レクチャー「ロシア・ウクライナ危機における国際法言説－－『ルールに基づく国際秩序』の擁護・批判・改革」を開催いたします。\n学生、教職員の皆さまであればどなたでもご参加いただけますので、ふるってご参加下さい。\n\n---\n第4回TSUKUBA憲法レクチャー「ロシア・ウクライナ危機における国際法言説－－『ルー…",
+            "date_modified": "2022-10-20T03:00:00.000Z"
+        },
+        {
             "id": "fee4d8eb0cbac0a5c1df8a375472d03a",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3362",
             "title": "TSUKUBA Lecture on Constitutional Law on international law and the Russia-Ukraine Crisis (14 Nov.)",
@@ -16,13 +30,6 @@
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3361",
             "title": "【参加者募集！２年次以上全学群生対象】海外教育インターンシップSEA-Teacherプログラム",
             "summary": "東南アジアの提携大学での教育インターンシップへの参加者を募集します。現地教師の業務を実習し、授業を行うことを通して、グローバルな視野、異文化理解力、授業力、国際感覚を養うことが目標のプログラムです。2023年２月から３月の約一か月間、インドネシア、フィリピン、タイのいずれかの提携大学で実際に授業実習を行います。詳細は添付のチラシをご覧ください。\n\n\nなお、事前説明会を下記日程で実施します。興味があ…",
-            "date_modified": "2022-10-19T03:00:00.000Z"
-        },
-        {
-            "id": "804565f59ba688ad3d53cda16336a420",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3360",
-            "title": "TSUKUBA憲法レクチャー「ロシア・ウクライナ危機における国際法言説－－『ルールに基づく国際秩序』の擁護・批判・改革」（11/14）のお知らせ",
-            "summary": "社会・国際学群では、根岸陽太さん（西南学院大学法学部准教授）をお招きし、第4回TSUKUBA憲法レクチャー「日本国憲法と外交」を開催いたします。\n学生、教職員の皆さまであればどなたでもご参加いただけますので、ふるってご参加下さい。\n\n---\n第4回TSUKUBA憲法レクチャー「ロシア・ウクライナ危機における国際法言説－－『ルールに基づく国際秩序』の擁護・批判・改革」\n\n日時：2022年11月14日…",
             "date_modified": "2022-10-19T03:00:00.000Z"
         },
         {
@@ -135,13 +142,6 @@
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3339",
             "title": "Oct 21st (Online) SDGs x TSUKUBA ～ Let's talk about the SDGs!",
             "summary": "SDGs x Tsukuba is an English chat event where you can discuss and exchange opinions about the SDGs!\n\nTarget: Students from University of Tsukuba and from our partner universities.\nDates and topics (20…",
-            "date_modified": "2022-10-14T03:00:00.000Z"
-        },
-        {
-            "id": "f649fcd486e526eec3f8ecacbe2affb7",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3338",
-            "title": "【10/21 開催】SDGs×TSUKUBA 2022 ～SDGsをチャットする～(オンライン）",
-            "summary": "SDGsについて、自分の研究や学問分野を基に、協定校学生と英語で議論してみませんか？\n月1回、テーマを変えて開催しています！単発参加もOKです！\n世界の学生と交流したい方、英語のスピーキングを向上させたい方、是非参加してください！\n\n日時とテーマ：第5回　2022年10月21日（金）19:00~20:45 SDGｓGOALS#１ 貧困をなくそう / No poverty\n　　　　　　第6回　202…",
             "date_modified": "2022-10-14T03:00:00.000Z"
         }
     ]
