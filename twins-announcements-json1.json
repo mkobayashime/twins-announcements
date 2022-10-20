@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "a4dc9ab32f0f6753c9ef32d5193dc1cf",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3375",
+            "title": "Free Japanese classes for international students and their family",
+            "summary": "Free Japanese classes!\n\nFor beginning and primary Japanese learners\nPRACTICAL Japanese Instructions\nTEACHER are STUDENTS of Univ of Tsukuba\n\nDates: Friday\nDecember 9th, 16th, 23rd\nJanuary 6th, 20th, 2…",
+            "date_modified": "2022-10-20T03:00:00.000Z"
+        },
+        {
             "id": "fb5c2659c31e6a066326feae000f373a",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3374",
             "title": "2022年度「学研災付帯 海外留学保険（付帯海学）」の申し込みに際して",
@@ -136,13 +143,6 @@
             "title": "【再掲】キャリア・セミナー「理系院卒から霞が関へのキャリア・パス」開催のお知らせ",
             "summary": "筑波大学「世界を変えよう基金アカデミー」では、理系大学院（農業土木分野、修士）から2013年に文部科学省に入省、現在つくば市政策ノベーション部長として活躍されている藤光智香氏をお招きして、Zoomキャリア・セミナー「理系院卒から霞が関へのキャリア・パス」を10月30日（日）20:00 から開催します。\n\n当日は、藤光氏から\n（１） 院卒後の進路として検討したキャリア・就職先、国家公務員を選択した理…",
             "date_modified": "2022-10-18T03:00:00.000Z"
-        },
-        {
-            "id": "54acd79148ade67946184375a32dbc57",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3345",
-            "title": "【お知らせ（学園祭）】学園祭の実施に伴う石の広場周辺の交通規制について（11/3(木・祝)7:00～11/7(月)17:00）",
-            "summary": "　令和４年度学園祭の実施に向けて、石の広場へ特設ステージ等を設置することから、以下のとおり交通規制を行います。ご迷惑をおかけしますが、ご理解とご協力のほどよろしくお願いいたします。\n\n〇規制場所：石の広場周辺（理科系Ａ棟から３Ａ棟に向かうスロープ・階段及び通路）\n　　　　　（詳細な場所は別添ファイルを参照してください。）\n〇規制日時：令和４年11月3日（木祝）7:00～11月7日（月）19:00\n…",
-            "date_modified": "2022-10-17T03:00:00.000Z"
         }
     ]
 }

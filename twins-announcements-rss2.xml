@@ -4,10 +4,25 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Thu, 20 Oct 2022 07:20:03 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 20 Oct 2022 09:15:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
+        <item>
+            <title><![CDATA[Free Japanese classes for international students and their family]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3375</link>
+            <guid>a4dc9ab32f0f6753c9ef32d5193dc1cf</guid>
+            <pubDate>Thu, 20 Oct 2022 03:00:00 GMT</pubDate>
+            <description><![CDATA[Free Japanese classes!
+
+For beginning and primary Japanese learners
+PRACTICAL Japanese Instructions
+TEACHER are STUDENTS of Univ of Tsukuba
+
+Dates: Friday
+December 9th, 16th, 23rd
+January 6th, 20th, 2…]]></description>
+        </item>
         <item>
             <title><![CDATA[2022年度「学研災付帯 海外留学保険（付帯海学）」の申し込みに際して]]></title>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3374</link>
@@ -215,18 +230,6 @@ https://docs.google.com/forms/d/e/1FAIpQLSfGQVpp…]]></description>
 
 当日は、藤光氏から
 （１） 院卒後の進路として検討したキャリア・就職先、国家公務員を選択した理…]]></description>
-        </item>
-        <item>
-            <title><![CDATA[【お知らせ（学園祭）】学園祭の実施に伴う石の広場周辺の交通規制について（11/3(木・祝)7:00～11/7(月)17:00）]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3345</link>
-            <guid>54acd79148ade67946184375a32dbc57</guid>
-            <pubDate>Mon, 17 Oct 2022 03:00:00 GMT</pubDate>
-            <description><![CDATA[　令和４年度学園祭の実施に向けて、石の広場へ特設ステージ等を設置することから、以下のとおり交通規制を行います。ご迷惑をおかけしますが、ご理解とご協力のほどよろしくお願いいたします。
-
-〇規制場所：石の広場周辺（理科系Ａ棟から３Ａ棟に向かうスロープ・階段及び通路）
-　　　　　（詳細な場所は別添ファイルを参照してください。）
-〇規制日時：令和４年11月3日（木祝）7:00～11月7日（月）19:00
-…]]></description>
         </item>
     </channel>
 </rss>
