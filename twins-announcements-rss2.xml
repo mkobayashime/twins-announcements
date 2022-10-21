@@ -4,10 +4,24 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Thu, 20 Oct 2022 21:11:33 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 21 Oct 2022 00:40:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
+        <item>
+            <title><![CDATA[【就職課】みんなのキャリア相談会～ちょっとした「就活ハテナ」を聞いてみよう～]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3376</link>
+            <guid>d832314986c16cecca71564dc44aa607</guid>
+            <pubDate>Fri, 21 Oct 2022 03:00:00 GMT</pubDate>
+            <description><![CDATA[これから就活やキャリアについて考えようとしている学生向けに、
+みんなのキャリア相談会～ちょっとした「就活ハテナ」を聞いてみよう～
+を筑波大学就職課とリクナビ副編集長が合同で開催します。
+
+「キャリアについて迷いがあるが、周りの人に相談しづらい」
+「自分のこれからについて考えるきっかけがほしい」
+「就職課へ相談に行くのはハードルが高いが、ちょっと聞いてみたいことがある」
+という方、ぜひご参加ください…]]></description>
+        </item>
         <item>
             <title><![CDATA[Free Japanese classes for international students and their family]]></title>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3375</link>
@@ -220,15 +234,6 @@ https://docs.google.com/forms/d/e/1FAIpQLSfGQVpp…]]></description>
 　　　　　（詳細な場所は別添ファイルを参照してください。）
 〇規制日時：令和４年11月3日（木祝）7:00～11月7日（月）19:00
 …]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Application closed for English Conversation Partners]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3344</link>
-            <guid>d5fbb01ee25d61ad0a0c3936fc90a008</guid>
-            <pubDate>Mon, 17 Oct 2022 03:00:00 GMT</pubDate>
-            <description><![CDATA[We are sorry to inform you that we have closed the applications for English Conversation Partners Program because we have already received so many.
-
-We are looking forward to your application next yea…]]></description>
         </item>
     </channel>
 </rss>

@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "d832314986c16cecca71564dc44aa607",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3376",
+            "title": "【就職課】みんなのキャリア相談会～ちょっとした「就活ハテナ」を聞いてみよう～",
+            "summary": "これから就活やキャリアについて考えようとしている学生向けに、\nみんなのキャリア相談会～ちょっとした「就活ハテナ」を聞いてみよう～\nを筑波大学就職課とリクナビ副編集長が合同で開催します。\n\n「キャリアについて迷いがあるが、周りの人に相談しづらい」\n「自分のこれからについて考えるきっかけがほしい」\n「就職課へ相談に行くのはハードルが高いが、ちょっと聞いてみたいことがある」\nという方、ぜひご参加ください…",
+            "date_modified": "2022-10-21T03:00:00.000Z"
+        },
+        {
             "id": "a4dc9ab32f0f6753c9ef32d5193dc1cf",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3375",
             "title": "Free Japanese classes for international students and their family",
@@ -135,13 +142,6 @@
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3345",
             "title": "【お知らせ（学園祭）】学園祭の実施に伴う石の広場周辺の交通規制について（11/3(木・祝)7:00～11/7(月)17:00）",
             "summary": "　令和４年度学園祭の実施に向けて、石の広場へ特設ステージ等を設置することから、以下のとおり交通規制を行います。ご迷惑をおかけしますが、ご理解とご協力のほどよろしくお願いいたします。\n\n〇規制場所：石の広場周辺（理科系Ａ棟から３Ａ棟に向かうスロープ・階段及び通路）\n　　　　　（詳細な場所は別添ファイルを参照してください。）\n〇規制日時：令和４年11月3日（木祝）7:00～11月7日（月）19:00\n…",
-            "date_modified": "2022-10-17T03:00:00.000Z"
-        },
-        {
-            "id": "d5fbb01ee25d61ad0a0c3936fc90a008",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3344",
-            "title": "Application closed for English Conversation Partners",
-            "summary": "We are sorry to inform you that we have closed the applications for English Conversation Partners Program because we have already received so many.\n\nWe are looking forward to your application next yea…",
             "date_modified": "2022-10-17T03:00:00.000Z"
         }
     ]
