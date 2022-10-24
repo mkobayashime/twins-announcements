@@ -5,6 +5,20 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "945f11a7c2c7e24eaff65e2a6c84dceb",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3387",
+            "title": "[11/17 15:10-] 第14 回 DDPIセミナー「平等とは何か？ー現代正義論入門ー」",
+            "summary": "DDPIプロジェクトでは、格差・不平等の政策的解決、そのためのデジタル技術の可能性（デジタル民主主義）などをテーマとしつつ、セミナー・シリーズを開催しております。\n\n今回は『平等とは何か？ー現代正義論入門ー』と題し、\n北海道大学法学研究科・法学部 准教授である森悠一郎先生をお招きして、\n平等とは何かという根底からの問いに対して、法哲学の立場からのお話を提供していただきます。\n\nご関心おありの方はぜ…",
+            "date_modified": "2022-10-24T03:00:00.000Z"
+        },
+        {
+            "id": "6b25fd2d0603e5f0226f10a4529ce165",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3386",
+            "title": "【Reminder】Laboratory Waste Management Workshop 2022　On-campus use only",
+            "summary": "On-demand English subtitled version of the Laboratory Waste Management Workshop for Students held on Friday, May 20, 2022.\nTo determine the number of attendees, please click on each link to watch the …",
+            "date_modified": "2022-10-24T03:00:00.000Z"
+        },
+        {
             "id": "d2962be8d9877911ba92d69d94f30191",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3384",
             "title": "再掲【オンデマンド開催】令和４年度学生のための実験廃棄物管理研修会及び動物実験系廃棄物取扱い研修会",
@@ -128,20 +142,6 @@
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3358",
             "title": "全学停電に伴うTWINSおよびKdB休止のお知らせ/Planned Interruption to “TWINS”and KdB",
             "summary": "令和４年10月29日（土）と10月30日（日）の2日間、電気設備の定期点検により、筑波キャンパス全体で停電となります。\nこのためTWINSおよびKdBも以下の期間、運転を休止します。\nご迷惑をおかけしますが、ご協力をお願いします。\n\nTWINSおよびKdB運転休止期間\n令和4年10月28日(金) 17:00　～　令和4年10月31日(月) 12:00\n\nRoutine inspections on…",
-            "date_modified": "2022-10-19T03:00:00.000Z"
-        },
-        {
-            "id": "26441b5e3a68edf3b91d47b51f4f5b74",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3357",
-            "title": "令和4年度筑波大学就職ミライ博 SDGs Career UP Seminar",
-            "summary": "最近よく耳にする「SDGs」とはどんな取り組みかご存知ですか？\n\n「SDGs」とは、「誰一人取り残さない」持続可能で多様性と包摂性のある社会の実現のため、2030年を年限とする17の国際目標を指します。実はつくば市も「SDGs未来都市」に選定されています。\n\n本セミナーでは、SDGsを身近に感じていただき、自分の関心や専攻等が17項目のどこに関連するのか、知識を深めると同時に、企業のSDGsに対す…",
-            "date_modified": "2022-10-19T03:00:00.000Z"
-        },
-        {
-            "id": "4180a0f6fe038b63db8bc9935960f03b",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3355",
-            "title": "令和6年度(2024年度)入試心理学学位プログラム(前期・後期)説明会",
-            "summary": "令和6年度(2024年度)入試心理学学位プログラム(前期・後期)説明会\n\n下記日程で，人間総合科学学術院　心理学学位プログラム説明会の説明会を行います。\n受験をお考えの方は，ふるってご参加ください。\n\n説明会への参加を希望される方は申込みフォームからお申し込みをお願いいたします。\n\n申し込みフォーム：\nhttps://docs.google.com/forms/d/e/1FAIpQLSfGQVpp…",
             "date_modified": "2022-10-19T03:00:00.000Z"
         }
     ]
