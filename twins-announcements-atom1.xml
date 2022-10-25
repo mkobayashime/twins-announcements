@@ -2,25 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/mkobayashime/twins-announcements</id>
     <title>在学生へのお知らせ | 筑波大学</title>
-    <updated>2022-10-25T09:23:30.639Z</updated>
+    <updated>2022-10-25T15:13:24.362Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://github.com/mkobayashime/twins-announcements"/>
     <subtitle>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</subtitle>
-    <entry>
-        <title type="html"><![CDATA[TODAY!【対面】中南米プログラム留学説明会! 18:30-19:30]]></title>
-        <id>3b469b5d348ff51c95eb35fd533be881</id>
-        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3390"/>
-        <updated>2022-10-25T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[中南米プログラム（メキシコ、コロンビア、ペルー、チリ、ブラジル）の留学説明会を開催します！
-中南米への留学を検討している方は、是非参加してください！
-
-開催日：2022年10月25日（火）18:30～19:30
-対象：筑波大学在学生で交換留学を希望する者
-場所：スチューデント・コモンズ（第一エリア 1A棟203）
-使用言語：日本語、英語
-内容：
-・中南米プログラム（筑波トランスパシフィックプログラ…]]></summary>
-    </entry>
     <entry>
         <title type="html"><![CDATA[【学生宿舎】全学停電に伴う停電・断水についてお知らせ/【Student dormitory】Temporary Suspension of Electricity and Water supply.]]></title>
         <id>6d7030aca8a6eb51a439c5ed7f5a4a42</id>
@@ -70,8 +55,13 @@
         <id>6b25fd2d0603e5f0226f10a4529ce165</id>
         <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3386"/>
         <updated>2022-10-24T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[On-demand English subtitled version of the Laboratory Waste Management Workshop for Students held on Friday, May 20, 2022.
-To determine the number of attendees, please click on each link to watch the …]]></summary>
+        <summary type="html"><![CDATA[DDPIプロジェクトでは、格差・不平等の政策的解決、そのためのデジタル技術の可能性（デジタル民主主義）などをテーマとしつつ、セミナー・シリーズを開催しております。
+
+今回は『平等とは何か？ー現代正義論入門ー』と題し、
+北海道大学法学研究科・法学部 准教授である森悠一郎先生をお招きして、
+平等とは何かという根底からの問いに対して、法哲学の立場からのお話を提供していただきます。
+
+ご関心おありの方はぜ…]]></summary>
     </entry>
     <entry>
         <title type="html"><![CDATA[再掲【オンデマンド開催】令和４年度学生のための実験廃棄物管理研修会及び動物実験系廃棄物取扱い研修会]]></title>
@@ -267,5 +257,16 @@ January 6th, 20th, 2…]]></summary>
         <summary type="html"><![CDATA[東南アジアの提携大学での教育インターンシップへの参加者を募集します。現地教師の業務を実習し、授業を行うことを通して、グローバルな視野、異文化理解力、授業力、国際感覚を養うことが目標のプログラムです。2023年２月から３月の約一か月間、インドネシア、フィリピン、タイのいずれかの提携大学で実際に授業実習を行います。詳細は添付のチラシをご覧ください。
 
 応募先: criced@un.tsukuba.ac…]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TSUKUBA憲法レクチャー「ロシア・ウクライナ危機における国際法言説－－『ルールに基づく国際秩序』の擁護・批判・改革」（11/14）のお知らせ]]></title>
+        <id>804565f59ba688ad3d53cda16336a420</id>
+        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3364"/>
+        <updated>2022-10-20T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[社会・国際学群では、根岸陽太さん（西南学院大学法学部准教授）をお招きし、第4回TSUKUBA憲法レクチャー「ロシア・ウクライナ危機における国際法言説－－『ルールに基づく国際秩序』の擁護・批判・改革」を開催いたします。
+学生、教職員の皆さまであればどなたでもご参加いただけますので、ふるってご参加下さい。
+
+---
+第4回TSUKUBA憲法レクチャー「ロシア・ウクライナ危機における国際法言説－－『ルー…]]></summary>
     </entry>
 </feed>
