@@ -5,6 +5,20 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "3b469b5d348ff51c95eb35fd533be881",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3390",
+            "title": "TODAY!【対面】中南米プログラム留学説明会! 18:30-19:30",
+            "summary": "中南米プログラム（メキシコ、コロンビア、ペルー、チリ、ブラジル）の留学説明会を開催します！\n中南米への留学を検討している方は、是非参加してください！\n\n開催日：2022年10月25日（火）18:30～19:30\n対象：筑波大学在学生で交換留学を希望する者\n場所：スチューデント・コモンズ（第一エリア 1A棟203）\n使用言語：日本語、英語\n内容：\n・中南米プログラム（筑波トランスパシフィックプログラ…",
+            "date_modified": "2022-10-25T03:00:00.000Z"
+        },
+        {
+            "id": "6d7030aca8a6eb51a439c5ed7f5a4a42",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3389",
+            "title": "【学生宿舎】全学停電に伴う停電・断水についてお知らせ/【Student dormitory】Temporary Suspension of Electricity and Water supply.",
+            "summary": "電気設備点検の実施に伴い，下記のとおり停電・断水となります。ご不便をおかけしますが、ご理解ご協力をお願いいたします。また、オンライン授業を受講できる場所として10/27(木)28(金)においては【第三食堂】及び【体芸食堂】を開放しておりますので、ご利用ください。\n1. 平砂・追越学生宿舎及びグローバルヴィレッジ\n停電・断水：2022年10月27日(木) 9:00から17:00\n2. 一の矢学生宿舎…",
+            "date_modified": "2022-10-25T03:00:00.000Z"
+        },
+        {
             "id": "9c80c2c6b39a4c96a85851556b3670c9",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3388",
             "title": "10月25日(火) 中南米の留学説明会（オンライン＆対面）",
@@ -129,20 +143,6 @@
             "title": "【参加者募集！２年次以上全学群生対象】海外教育インターンシップSEA-Teacherプログラム",
             "summary": "東南アジアの提携大学での教育インターンシップへの参加者を募集します。現地教師の業務を実習し、授業を行うことを通して、グローバルな視野、異文化理解力、授業力、国際感覚を養うことが目標のプログラムです。2023年２月から３月の約一か月間、インドネシア、フィリピン、タイのいずれかの提携大学で実際に授業実習を行います。詳細は添付のチラシをご覧ください。\n\n応募先: criced@un.tsukuba.ac…",
             "date_modified": "2022-10-20T03:00:00.000Z"
-        },
-        {
-            "id": "804565f59ba688ad3d53cda16336a420",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3364",
-            "title": "TSUKUBA憲法レクチャー「ロシア・ウクライナ危機における国際法言説－－『ルールに基づく国際秩序』の擁護・批判・改革」（11/14）のお知らせ",
-            "summary": "社会・国際学群では、根岸陽太さん（西南学院大学法学部准教授）をお招きし、第4回TSUKUBA憲法レクチャー「ロシア・ウクライナ危機における国際法言説－－『ルールに基づく国際秩序』の擁護・批判・改革」を開催いたします。\n学生、教職員の皆さまであればどなたでもご参加いただけますので、ふるってご参加下さい。\n\n---\n第4回TSUKUBA憲法レクチャー「ロシア・ウクライナ危機における国際法言説－－『ルー…",
-            "date_modified": "2022-10-20T03:00:00.000Z"
-        },
-        {
-            "id": "fee4d8eb0cbac0a5c1df8a375472d03a",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3362",
-            "title": "TSUKUBA Lecture on Constitutional Law on international law and the Russia-Ukraine Crisis (14 Nov.)",
-            "summary": "School of Social and International Studies invites Dr Yota NEGISHI (Associate Professor, Seinan Gakuin University) and organises the 4th TSUKUBA Lecture on Constitutional Law on international law and …",
-            "date_modified": "2022-10-19T03:00:00.000Z"
         }
     ]
 }
