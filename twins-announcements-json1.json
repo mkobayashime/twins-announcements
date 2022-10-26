@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "c4a72b7dea7b0df1e764947f8595f57b",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3394",
+            "title": "Free Japanese classes for international students and their families",
+            "summary": "For beginning Japanese learners\nPRACTICAL Japanese classes\nTEACHER are STUDENTS of Univ of Tsukuba\n\nDates: Friday\n2022 December 9th, 16th, 23rd\n2023 January 6th, 20th, 27th\nTime: 10:00-11:55 AM\nPlace:…",
+            "date_modified": "2022-10-26T03:00:00.000Z"
+        },
+        {
             "id": "118f5c6d381ac4a604c5da14178aac56",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3393",
             "title": "テクニカルスタッフ募集（授業におけるPC準備及び連絡調整等）",
@@ -135,13 +142,6 @@
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3368",
             "title": "外務省が発出する感染症危険情報レベルの引き下げ（令和4年10月19日付）について",
             "summary": "本学では「海外での危機発生時における学生及び教職員の渡航に関する指針」（学長決定）において、学生に関しては、外務省が発出する危険情報または感染症危険情報が「レベル2：不要不急の渡航は取り止めてください」以上の国への渡航は原則取り止めるよう定めておりますが、令和4年10月19日に外務省により、全世界の感染症危険情報が一律「レベル1：十分注意してください」に引き下げられたため、学生による世界各国への渡…",
-            "date_modified": "2022-10-20T03:00:00.000Z"
-        },
-        {
-            "id": "7f429025264d9f3edd7e223fd53e4638",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3367",
-            "title": "【留学相談＆留学説明会】いろいろあります",
-            "summary": "オンライン・対面など情報盛りだくさん！\nスケジュールと興味に合わせて、ご参加ください。\n\n・【予約不要・入退室自由】10月17日（月）～10月21日（金）「留学相談強化週間」オンライン/対面\n\n・【対面！】AIMSプログラム留学説明会　10/20（木）18：30～　＠スチューデント・コモンズ\n\n・【10/13・21説明会】ライトハウス主催　2023年2月 グローバルキャリア　インターンシップ研修　…",
             "date_modified": "2022-10-20T03:00:00.000Z"
         }
     ]
