@@ -2,10 +2,17 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/mkobayashime/twins-announcements</id>
     <title>在学生へのお知らせ | 筑波大学</title>
-    <updated>2022-10-28T05:21:15.036Z</updated>
+    <updated>2022-10-31T00:43:11.944Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://github.com/mkobayashime/twins-announcements"/>
     <subtitle>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</subtitle>
+    <entry>
+        <title type="html"><![CDATA[Invitation to Let's Talk about Japan from “Make a Difference in the World” Fund]]></title>
+        <id>6587565330cea081bf3e9aefee935114</id>
+        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3397"/>
+        <updated>2022-10-28T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[MDW Fund is organizing a weekly face-to-face meeting of “Let’s Talk about Japan” between class sessions on weekdays, which may last about an hour. International and Japanese undergraduate students wil…]]></summary>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【開催案内】第37回「中央ユーラシアと日本の未来」公開講演会_WHO 西太平洋事務局コンサルタント 西尾彰泰氏_11/4(金)]]></title>
         <id>b5815e2843793e45e62b7da920c955a2</id>
@@ -269,20 +276,5 @@ January 6th, 20th, 2…]]></summary>
 実習室の利用を希望する場合には、必ず申請をするようにお願いいたします。
 
 使用願の様式は2種類あり…]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【対面】中南米プログラム留学説明会！10月25日　18:30-19:30]]></title>
-        <id>481b2f9d59425fd03e443cad06fced1c</id>
-        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3370"/>
-        <updated>2022-10-20T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[中南米プログラム（メキシコ、コロンビア、ペルー、チリ、ブラジル）の留学説明会を開催します！
-中南米への留学を検討している方は、是非参加してください！
-
-開催日：2022年10月25日（火）18:30～19:30
-対象：筑波大学在学生で交換留学を希望する者
-場所：スチューデント・コモンズ（第一エリア 1A棟203）
-使用言語：日本語、英語
-内容：
-・中南米プログラム（筑波トランスパシフィックプログラ…]]></summary>
     </entry>
 </feed>

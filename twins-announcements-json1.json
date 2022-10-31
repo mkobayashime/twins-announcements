@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "6587565330cea081bf3e9aefee935114",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3397",
+            "title": "Invitation to Let's Talk about Japan from “Make a Difference in the World” Fund",
+            "summary": "MDW Fund is organizing a weekly face-to-face meeting of “Let’s Talk about Japan” between class sessions on weekdays, which may last about an hour. International and Japanese undergraduate students wil…",
+            "date_modified": "2022-10-28T03:00:00.000Z"
+        },
+        {
             "id": "b5815e2843793e45e62b7da920c955a2",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3396",
             "title": "【開催案内】第37回「中央ユーラシアと日本の未来」公開講演会_WHO 西太平洋事務局コンサルタント 西尾彰泰氏_11/4(金)",
@@ -135,13 +142,6 @@
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3371",
             "title": "芸術の［実習室等使用願］様式変更のお知らせ",
             "summary": "芸術の実習室等を使用する際は、実習室等使用願の用紙を学群教務に提出することとなっておりますが、\n2022年11月より使用願の様式が変更となりますので、お知らせいたします。\n2022年11月1日申請分より新様式をご使用ください。\n\n実習室使用願で申請せず、実習室を利用している学生が多くみられますので、\n実習室の利用を希望する場合には、必ず申請をするようにお願いいたします。\n\n使用願の様式は2種類あり…",
-            "date_modified": "2022-10-20T03:00:00.000Z"
-        },
-        {
-            "id": "481b2f9d59425fd03e443cad06fced1c",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3370",
-            "title": "【対面】中南米プログラム留学説明会！10月25日　18:30-19:30",
-            "summary": "中南米プログラム（メキシコ、コロンビア、ペルー、チリ、ブラジル）の留学説明会を開催します！\n中南米への留学を検討している方は、是非参加してください！\n\n開催日：2022年10月25日（火）18:30～19:30\n対象：筑波大学在学生で交換留学を希望する者\n場所：スチューデント・コモンズ（第一エリア 1A棟203）\n使用言語：日本語、英語\n内容：\n・中南米プログラム（筑波トランスパシフィックプログラ…",
             "date_modified": "2022-10-20T03:00:00.000Z"
         }
     ]
