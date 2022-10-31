@@ -5,6 +5,34 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "26441b5e3a68edf3b91d47b51f4f5b74",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3403",
+            "title": "令和4年度筑波大学就職ミライ博 SDGs Career UP Seminar",
+            "summary": "最近よく耳にする「SDGs」とはどんな取り組みかご存知ですか？\n\n「SDGs」とは、「誰一人取り残さない」持続可能で多様性と包摂性のある社会の実現のため、2030年を年限とする17の国際目標を指します。実はつくば市も「SDGs未来都市」に選定されています。\n\n本セミナーでは、SDGsを身近に感じていただき、自分の関心や専攻等が17項目のどこに関連するのか、知識を深めると同時に、企業のSDGsに対す…",
+            "date_modified": "2022-10-31T03:00:00.000Z"
+        },
+        {
+            "id": "1ba6f7e1841df9b48198b806becfd92c",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3402",
+            "title": "Reposted【Until Today】Notice of Implementation of University Vaccination (Omicron COVID-19 vaccine)",
+            "summary": "The University will administer the new corona vaccine (Omicron COVID-19 vaccine).\n【Advance registration】 is required for vaccination.\n\n\n〇Vaccination period (scheduled)\nDecember 5, 2022 (Monday) - Dece…",
+            "date_modified": "2022-10-31T03:00:00.000Z"
+        },
+        {
+            "id": "d75f3584e0314149aa400f55ab597b20",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3401",
+            "title": "【参加学生募集】筑波トランスパシフィックプログラム　2022年度短期研修プログラム（コロンビア：ロスアンデス大学）",
+            "summary": "筑波トランスパシフィックプログラム（TTPP）では、地球規模課題の解決に向けて広く社会の安定に貢献できる中核的な実務人材育成を目的に、コロンビア・ロスアンデス大学での短期研修プログラムを実施します。\nプログラムへの参加を希望する学生は下記ウェブサイトより、募集要項等をよく確認の上、応募してください。\n\n・プログラム概要\n派遣先：ロスアンデス大学（コロンビア）\n派遣期間：2023年3月の2週間程度（…",
+            "date_modified": "2022-10-31T03:00:00.000Z"
+        },
+        {
+            "id": "0665b7ee903edb3c5018f06e0d8b0c5e",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3400",
+            "title": "再掲【事前登録は本日まで】新型コロナワクチン大学拠点接種（オミクロン株対応ワクチン）の実施について",
+            "summary": "※事前登録は本日10月31日17時までです。\n\n本学では、新型コロナワクチン（オミクロン対応ワクチン）の接種を行います。\n接種には【事前登録】が必須です。\n\n\n〇接種期間（予定）\n令和４年１２月５日（月）～令和４年１２月１６日（金）（土日を除く）\n\n〇接種ワクチン\nモデルナ社　オミクロン株（BA.１）対応２価ワクチン\n\n\n詳細は以下のリンク（本学公式HP）をご確認ください。",
+            "date_modified": "2022-10-31T03:00:00.000Z"
+        },
+        {
             "id": "62190ce3af774fd4f96650eda0d66987",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3399",
             "title": "【11/1-11/18開催】図書館特別展「孔子をまつる：歴聖大儒像の世界」",
@@ -115,34 +143,6 @@
             "title": "【お知らせ】令和４年度筑波地区防災訓練の実施について11月18日（金）/【Notice】Implementation of the Tsukuba Area Disaster Drills",
             "summary": "令和４年度筑波地区防災訓練を実施します。\n\n〇実施日時\n令和４年11月18日（金）  １１時２５分  （２限目終了時刻）\n　＜一斉避難訓練　　　　 ：１１時２５分 ～１１時４５分 ＞\n\n〇避難訓練\n学生については授業担当教員等の指示により、最寄りの屋外避難場所へ避難してください。\n\n〇安否報告訓練\n筑波大学安否確認システム（ANPIC）から一斉メールにより「安否確認メール」が送信されるので、メール…",
             "date_modified": "2022-10-21T03:00:00.000Z"
-        },
-        {
-            "id": "264d21a108e27e98ce0c7c75b66f438d",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3377",
-            "title": "【就職課】公開授業　キャリアデザイン入門～世界にはばたく未来の自分～",
-            "summary": "公開授業です。\n\n学士基盤科目「キャリアデザイン入門～世界にはばたく未来の自分～」第６回、第７回を全学年の皆さんに公開します。\nゲストスピーカーとして筑波大学卒業生が、自分の歩んできた人生を語り、後輩の皆さんに、力強いメッセージを届けてくれます。\nこの貴重な機会を逃さず、先輩の話をきっかけとして、自分のこれからのキャリアについて考えてみませんか？\n\n【日時とゲストスピーカー】講演:45分　質疑応答…",
-            "date_modified": "2022-10-21T03:00:00.000Z"
-        },
-        {
-            "id": "d832314986c16cecca71564dc44aa607",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3376",
-            "title": "【就職課】みんなのキャリア相談会～ちょっとした「就活ハテナ」を聞いてみよう～",
-            "summary": "これから就活やキャリアについて考えようとしている学生向けに、\nみんなのキャリア相談会～ちょっとした「就活ハテナ」を聞いてみよう～\nを筑波大学就職課とリクナビ副編集長が合同で開催します。\n\n「キャリアについて迷いがあるが、周りの人に相談しづらい」\n「自分のこれからについて考えるきっかけがほしい」\n「就職課へ相談に行くのはハードルが高いが、ちょっと聞いてみたいことがある」\nという方、ぜひご参加ください…",
-            "date_modified": "2022-10-21T03:00:00.000Z"
-        },
-        {
-            "id": "a4dc9ab32f0f6753c9ef32d5193dc1cf",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3375",
-            "title": "Free Japanese classes for international students and their family",
-            "summary": "Free Japanese classes!\n\nFor beginning and primary Japanese learners\nPRACTICAL Japanese Instructions\nTEACHER are STUDENTS of Univ of Tsukuba\n\nDates: Friday\nDecember 9th, 16th, 23rd\nJanuary 6th, 20th, 2…",
-            "date_modified": "2022-10-20T03:00:00.000Z"
-        },
-        {
-            "id": "fb5c2659c31e6a066326feae000f373a",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3374",
-            "title": "2022年度「学研災付帯 海外留学保険（付帯海学）」の申し込みに際して",
-            "summary": "海外留学等に際して付帯海学に申し込むためには、渡航の全期間、学研災に加入している必要がありますが、学研災の加入状況が分からないまま保険代理店（エキスパート株式会社）へ行くケースが増えています。\n\n保険代理店は皆さんの加入状況を把握していませんので、もし加入の有無等がはっきりしない場合には、保険代理店に申し込みへ行く前に、本学ウェブサイトのキャンパスライフ「学生教育研究災害傷害保険（学研災）」の『学…",
-            "date_modified": "2022-10-20T03:00:00.000Z"
         }
     ]
 }
