@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "fdc62990ef5d195707c2ea682f2bd86c",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3404",
+            "title": "Invitation to ”Let’s Talk about Japan“",
+            "summary": "The University’s “Make a Difference in the World” Fund will host a weekly one-hour face-to-face meeting of “Let’s Talk about Japan” between classes on weekdays. International and Japanese undergraduat…",
+            "date_modified": "2022-10-31T03:00:00.000Z"
+        },
+        {
             "id": "26441b5e3a68edf3b91d47b51f4f5b74",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3403",
             "title": "令和4年度筑波大学就職ミライ博 SDGs Career UP Seminar",
@@ -135,13 +142,6 @@
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3379",
             "title": "2022年度秋学期つくばスカラシップ育児支援奨学金の募集について",
             "summary": "2022年度秋学期筑波大学学生奨学金制度「つくばスカラシップ」育児支援奨学金の募集を開始いたしました。\n\n添付の募集要項、申請書をご確認いただき、申請期間内に必要書類を所属支援室の教務・学生支援担当にご提出ください。\n\n申請期間：　2022年11月2日～12月7日\n",
-            "date_modified": "2022-10-21T03:00:00.000Z"
-        },
-        {
-            "id": "b5c3172863b3bdb370e3da74b38049f3",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3378",
-            "title": "【お知らせ】令和４年度筑波地区防災訓練の実施について11月18日（金）/【Notice】Implementation of the Tsukuba Area Disaster Drills",
-            "summary": "令和４年度筑波地区防災訓練を実施します。\n\n〇実施日時\n令和４年11月18日（金）  １１時２５分  （２限目終了時刻）\n　＜一斉避難訓練　　　　 ：１１時２５分 ～１１時４５分 ＞\n\n〇避難訓練\n学生については授業担当教員等の指示により、最寄りの屋外避難場所へ避難してください。\n\n〇安否報告訓練\n筑波大学安否確認システム（ANPIC）から一斉メールにより「安否確認メール」が送信されるので、メール…",
             "date_modified": "2022-10-21T03:00:00.000Z"
         }
     ]
