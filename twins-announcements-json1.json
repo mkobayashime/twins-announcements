@@ -5,6 +5,20 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "e156cc07911782e816d53222ab7448bd",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3411",
+            "title": "Presenters, performers and poster exhibitors wanted! 【IMAGINE THE 海外.】 Thursday 1 December.",
+            "summary": "---- ---- ---- ----　\nEvent: University of Tsukuba International Exchange Festival: IMAGINE THE 海外.　\n\nContents: Promotion of international exchange on campus, introduction of partner universities, chat…",
+            "date_modified": "2022-11-01T03:00:00.000Z"
+        },
+        {
+            "id": "d3799d9692526c9c3c0eb60d09a48f79",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3410",
+            "title": "アピール参加者募集！【筑波大学国際交流フェス　IMAGINE　THE　海外.】12/1　Thu.",
+            "summary": "----　----　----　----　----　----　\nイベント：筑波大学国際交流フェス　IMAGINE THE 海外.　\n\n内　　容：学内の国際交流の促進。協定校の紹介。各地域の文化紹介。Chatイベント。留学相談など\n\n場　　所：大学会館\n\n開催日時：2022年12月1日　10：00～15：00\n----　----　----　----　----　----　\n留学生には日本と筑波大学をもっ…",
+            "date_modified": "2022-11-01T03:00:00.000Z"
+        },
+        {
             "id": "d64a03fbde76cf1491b8f23fc61c31f2",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3409",
             "title": "令和4年度全学防災訓練「障害学生等支援防災ワーク」（全学リスクマネジメントセミナー）の開催について",
@@ -128,20 +142,6 @@
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3387",
             "title": "[11/17 15:10-] 第14 回 DDPIセミナー「平等とは何か？ー現代正義論入門ー」",
             "summary": "DDPIプロジェクトでは、格差・不平等の政策的解決、そのためのデジタル技術の可能性（デジタル民主主義）などをテーマとしつつ、セミナー・シリーズを開催しております。\n\n今回は『平等とは何か？ー現代正義論入門ー』と題し、\n北海道大学法学研究科・法学部 准教授である森悠一郎先生をお招きして、\n平等とは何かという根底からの問いに対して、法哲学の立場からのお話を提供していただきます。\n\nご関心おありの方はぜ…",
-            "date_modified": "2022-10-24T03:00:00.000Z"
-        },
-        {
-            "id": "6b25fd2d0603e5f0226f10a4529ce165",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3386",
-            "title": "【Reminder】Laboratory Waste Management Workshop 2022　On-campus use only",
-            "summary": "On-demand English subtitled version of the Laboratory Waste Management Workshop for Students held on Friday, May 20, 2022.\nTo determine the number of attendees, please click on each link to watch the …",
-            "date_modified": "2022-10-24T03:00:00.000Z"
-        },
-        {
-            "id": "d2962be8d9877911ba92d69d94f30191",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3384",
-            "title": "再掲【オンデマンド開催】令和４年度学生のための実験廃棄物管理研修会及び動物実験系廃棄物取扱い研修会",
-            "summary": "下記のとおり研修会をオンデマンドで開催いたしますので，参加登録のうえ視聴願います。\n\n\n　　　　　　　記\n\n目　的：\n１・実験に携わる学群・大学院生向けに，化学物質の危険性や有害性を伝え，事件事故や健康障害を\n　　引き起こすリスクを減らすこと\n２・動物実験系廃棄物の排出者向けに，具体的な解説を交えて処理依頼上の注意事項を伝え，適切な\n　　排出法の周知をすること\n\n開催方法：オンデマンド\n内　容：\n…",
             "date_modified": "2022-10-24T03:00:00.000Z"
         }
     ]
