@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "d64a03fbde76cf1491b8f23fc61c31f2",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3409",
+            "title": "令和4年度全学防災訓練「障害学生等支援防災ワーク」（全学リスクマネジメントセミナー）の開催について",
+            "summary": "　令和4年度全学防災訓練「障害学生等支援防災ワーク」（全学リスクマネジメントセミナー）を開催いたします。\n\n　 大規模災害発生時に障害学生等と避難誘導者双方が安全に避難するための方法について、講話・実例を通じて学ぶことを目的とし、全学防災訓練の一環として行います。\n　なお、本防災ワークは全学リスクマネジメントセミナーを兼ねて実施します。\n　皆さまのご参加をお待ちしております。\n\n実施日時：2022…",
+            "date_modified": "2022-11-01T03:00:00.000Z"
+        },
+        {
             "id": "69ef032c4ccb04678dc391372a898681",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3408",
             "title": "11月の国際交流イベント情報・留学情報について",
@@ -135,13 +142,6 @@
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3384",
             "title": "再掲【オンデマンド開催】令和４年度学生のための実験廃棄物管理研修会及び動物実験系廃棄物取扱い研修会",
             "summary": "下記のとおり研修会をオンデマンドで開催いたしますので，参加登録のうえ視聴願います。\n\n\n　　　　　　　記\n\n目　的：\n１・実験に携わる学群・大学院生向けに，化学物質の危険性や有害性を伝え，事件事故や健康障害を\n　　引き起こすリスクを減らすこと\n２・動物実験系廃棄物の排出者向けに，具体的な解説を交えて処理依頼上の注意事項を伝え，適切な\n　　排出法の周知をすること\n\n開催方法：オンデマンド\n内　容：\n…",
-            "date_modified": "2022-10-24T03:00:00.000Z"
-        },
-        {
-            "id": "316ae4842a0192e20a1ccf5957873938",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3383",
-            "title": "【明日10/25】10:00~ ペルー留学説明会（オンライン）",
-            "summary": "ペルーへの留学説明会を開催します！\nペルー（特にサンマルコス大学）への留学を検討している方は、是非参加してください！\n\n開催日：2022年10月25日（火）10:00～11:00\n対象：筑波大学在学生で交換留学を希望する者\n開催方法：オンライン（Zoom)\n使用言語：英語（必要に応じては日本語）\n\n内容：\n・ペルーの紹介\n・サンマルコス大学の紹介（授業、キャンパスについて）\n・応募要項\n・安全管理…",
             "date_modified": "2022-10-24T03:00:00.000Z"
         }
     ]

@@ -4,10 +4,23 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Tue, 01 Nov 2022 06:17:12 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 01 Nov 2022 08:10:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
+        <item>
+            <title><![CDATA[令和4年度全学防災訓練「障害学生等支援防災ワーク」（全学リスクマネジメントセミナー）の開催について]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3409</link>
+            <guid>d64a03fbde76cf1491b8f23fc61c31f2</guid>
+            <pubDate>Tue, 01 Nov 2022 03:00:00 GMT</pubDate>
+            <description><![CDATA[　令和4年度全学防災訓練「障害学生等支援防災ワーク」（全学リスクマネジメントセミナー）を開催いたします。
+
+　 大規模災害発生時に障害学生等と避難誘導者双方が安全に避難するための方法について、講話・実例を通じて学ぶことを目的とし、全学防災訓練の一環として行います。
+　なお、本防災ワークは全学リスクマネジメントセミナーを兼ねて実施します。
+　皆さまのご参加をお待ちしております。
+
+実施日時：2022…]]></description>
+        </item>
         <item>
             <title><![CDATA[11月の国際交流イベント情報・留学情報について]]></title>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3408</link>
@@ -272,25 +285,6 @@ To determine the number of attendees, please click on each link to watch the …
 開催方法：オンデマンド
 内　容：
 …]]></description>
-        </item>
-        <item>
-            <title><![CDATA[【明日10/25】10:00~ ペルー留学説明会（オンライン）]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3383</link>
-            <guid>316ae4842a0192e20a1ccf5957873938</guid>
-            <pubDate>Mon, 24 Oct 2022 03:00:00 GMT</pubDate>
-            <description><![CDATA[ペルーへの留学説明会を開催します！
-ペルー（特にサンマルコス大学）への留学を検討している方は、是非参加してください！
-
-開催日：2022年10月25日（火）10:00～11:00
-対象：筑波大学在学生で交換留学を希望する者
-開催方法：オンライン（Zoom)
-使用言語：英語（必要に応じては日本語）
-
-内容：
-・ペルーの紹介
-・サンマルコス大学の紹介（授業、キャンパスについて）
-・応募要項
-・安全管理…]]></description>
         </item>
     </channel>
 </rss>
