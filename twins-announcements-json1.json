@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "69ef032c4ccb04678dc391372a898681",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3408",
+            "title": "11月の国際交流イベント情報・留学情報について",
+            "summary": "スチューデントサポートセンター国際交流支援室では、国際交流イベントや留学関連の情報を提供しています！\n\n＜海外留学情報＞\n-SSC公募型（2023年秋学期渡航分）募集中（締切：12月6日）\n-CiC協定校・グルノーブルアルプ大学留学説明会（11月17日時間未定）\n-筑波トランスパシフィックプログラム短期研修プログラム参加者募集（派遣先：コロンビア）（締切：12月18日）\n\n＜国際交流イベント＞\n-…",
+            "date_modified": "2022-11-01T03:00:00.000Z"
+        },
+        {
             "id": "9510ec6c1b35f493d423f8e9f5c7f176",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3407",
             "title": "【学生無料】桐朋学園オーケストラ（指揮：清水醍輝）　第12回つくばリサイタ ルシリーズ",
@@ -136,13 +143,6 @@
             "title": "【明日10/25】10:00~ ペルー留学説明会（オンライン）",
             "summary": "ペルーへの留学説明会を開催します！\nペルー（特にサンマルコス大学）への留学を検討している方は、是非参加してください！\n\n開催日：2022年10月25日（火）10:00～11:00\n対象：筑波大学在学生で交換留学を希望する者\n開催方法：オンライン（Zoom)\n使用言語：英語（必要に応じては日本語）\n\n内容：\n・ペルーの紹介\n・サンマルコス大学の紹介（授業、キャンパスについて）\n・応募要項\n・安全管理…",
             "date_modified": "2022-10-24T03:00:00.000Z"
-        },
-        {
-            "id": "6aca94687e28ce671e6c60297a6c163d",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3381",
-            "title": "Call for Application: Tsukuba Scholarship for Childcare in AY2022 Fall Semester",
-            "summary": "The application for the childcare scholarship is available for students to apply for.\n\nPlease find the attached forms; the application form and its guideline below, and submit the all required documen…",
-            "date_modified": "2022-10-21T03:00:00.000Z"
         }
     ]
 }

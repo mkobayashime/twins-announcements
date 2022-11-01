@@ -4,10 +4,25 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Tue, 01 Nov 2022 03:14:14 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 01 Nov 2022 06:17:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
+        <item>
+            <title><![CDATA[11月の国際交流イベント情報・留学情報について]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3408</link>
+            <guid>69ef032c4ccb04678dc391372a898681</guid>
+            <pubDate>Tue, 01 Nov 2022 03:00:00 GMT</pubDate>
+            <description><![CDATA[スチューデントサポートセンター国際交流支援室では、国際交流イベントや留学関連の情報を提供しています！
+
+＜海外留学情報＞
+-SSC公募型（2023年秋学期渡航分）募集中（締切：12月6日）
+-CiC協定校・グルノーブルアルプ大学留学説明会（11月17日時間未定）
+-筑波トランスパシフィックプログラム短期研修プログラム参加者募集（派遣先：コロンビア）（締切：12月18日）
+
+＜国際交流イベント＞
+-…]]></description>
+        </item>
         <item>
             <title><![CDATA[【学生無料】桐朋学園オーケストラ（指揮：清水醍輝）　第12回つくばリサイタ ルシリーズ]]></title>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3407</link>
@@ -276,15 +291,6 @@ To determine the number of attendees, please click on each link to watch the …
 ・サンマルコス大学の紹介（授業、キャンパスについて）
 ・応募要項
 ・安全管理…]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Call for Application: Tsukuba Scholarship for Childcare in AY2022 Fall Semester]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3381</link>
-            <guid>6aca94687e28ce671e6c60297a6c163d</guid>
-            <pubDate>Fri, 21 Oct 2022 03:00:00 GMT</pubDate>
-            <description><![CDATA[The application for the childcare scholarship is available for students to apply for.
-
-Please find the attached forms; the application form and its guideline below, and submit the all required documen…]]></description>
         </item>
     </channel>
 </rss>
