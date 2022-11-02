@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "99a9ca70d8ed7f019bee61f461539eb2",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3413",
+            "title": "[12/15 15:10-] 第15回 DDPIセミナー「投票権保障と日本の電子投票の未来」",
+            "summary": "*14回目(11/17)につづき15回目(12/15)についてもお知らせいたします*\n\nDDPIプロジェクトでは、格差・不平等の政策的解決、そのためのデジタル技術の可能性（デジタル民主主義）などをテーマとしつつ、セミナー・シリーズを開催しております。\n\n第15回となる今回は『投票権保障と日本の電子投票の未来』と題し、東北大学情報科学研究科 准教授である河村和徳先生をお招きします。\n河村先生は政治・…",
+            "date_modified": "2022-11-02T03:00:00.000Z"
+        },
+        {
             "id": "6a38881d3ade4a0c39eaf0f0cdcbce8b",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3412",
             "title": "トビタテ！留学JAPAN　新・日本代表プログラム2023年度応募に向けて、先輩トビタテ生の体験談を聞こう！！（11/16）",
@@ -135,13 +142,6 @@
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3387",
             "title": "[11/17 15:10-] 第14 回 DDPIセミナー「平等とは何か？ー現代正義論入門ー」",
             "summary": "DDPIプロジェクトでは、格差・不平等の政策的解決、そのためのデジタル技術の可能性（デジタル民主主義）などをテーマとしつつ、セミナー・シリーズを開催しております。\n\n今回は『平等とは何か？ー現代正義論入門ー』と題し、\n北海道大学法学研究科・法学部 准教授である森悠一郎先生をお招きして、\n平等とは何かという根底からの問いに対して、法哲学の立場からのお話を提供していただきます。\n\nご関心おありの方はぜ…",
-            "date_modified": "2022-10-24T03:00:00.000Z"
-        },
-        {
-            "id": "6b25fd2d0603e5f0226f10a4529ce165",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3386",
-            "title": "【Reminder】Laboratory Waste Management Workshop 2022　On-campus use only",
-            "summary": "On-demand English subtitled version of the Laboratory Waste Management Workshop for Students held on Friday, May 20, 2022.\nTo determine the number of attendees, please click on each link to watch the …",
             "date_modified": "2022-10-24T03:00:00.000Z"
         }
     ]

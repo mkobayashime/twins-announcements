@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/mkobayashime/twins-announcements</id>
     <title>在学生へのお知らせ | 筑波大学</title>
-    <updated>2022-11-02T03:13:44.277Z</updated>
+    <updated>2022-11-02T09:11:15.311Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://github.com/mkobayashime/twins-announcements"/>
     <subtitle>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</subtitle>
+    <entry>
+        <title type="html"><![CDATA[[12/15 15:10-] 第15回 DDPIセミナー「投票権保障と日本の電子投票の未来」]]></title>
+        <id>99a9ca70d8ed7f019bee61f461539eb2</id>
+        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3413"/>
+        <updated>2022-11-02T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[*14回目(11/17)につづき15回目(12/15)についてもお知らせいたします*
+
+DDPIプロジェクトでは、格差・不平等の政策的解決、そのためのデジタル技術の可能性（デジタル民主主義）などをテーマとしつつ、セミナー・シリーズを開催しております。
+
+第15回となる今回は『投票権保障と日本の電子投票の未来』と題し、東北大学情報科学研究科 准教授である河村和徳先生をお招きします。
+河村先生は政治・…]]></summary>
+    </entry>
     <entry>
         <title type="html"><![CDATA[トビタテ！留学JAPAN　新・日本代表プログラム2023年度応募に向けて、先輩トビタテ生の体験談を聞こう！！（11/16）]]></title>
         <id>6a38881d3ade4a0c39eaf0f0cdcbce8b</id>
@@ -261,13 +273,5 @@ Place:…]]></summary>
 平等とは何かという根底からの問いに対して、法哲学の立場からのお話を提供していただきます。
 
 ご関心おありの方はぜ…]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【Reminder】Laboratory Waste Management Workshop 2022　On-campus use only]]></title>
-        <id>6b25fd2d0603e5f0226f10a4529ce165</id>
-        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3386"/>
-        <updated>2022-10-24T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[On-demand English subtitled version of the Laboratory Waste Management Workshop for Students held on Friday, May 20, 2022.
-To determine the number of attendees, please click on each link to watch the …]]></summary>
     </entry>
 </feed>
