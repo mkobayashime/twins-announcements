@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "f0c2ccb77b3120c7da4b3667fca9dfc0",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3418",
+            "title": "【Online】Nov 18 (Fri) 10:00-12:00 World-science Leaders’ Seminar",
+            "summary": "World-science Leaders’ Seminar is a part of classes in Doctoral Program in Human Biology.\nStudents attending this seminar will learn basic knowledge and recent research trends related to the specializ…",
+            "date_modified": "2022-11-04T03:00:00.000Z"
+        },
+        {
             "id": "bfd681b867209d772d05cfa00dc55ae3",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3417",
             "title": "【12/7開催】ASIP/TG+公開セミナー海外ボランティアから始まる／広がるマイキャリア・マイライフその２　～看護師・研究者・教育者として国際協力に携わる～」",
@@ -136,13 +143,6 @@
             "title": "【開催案内】第37回「中央ユーラシアと日本の未来」公開講演会_WHO 西太平洋事務局コンサルタント 西尾彰泰氏_11/4(金)",
             "summary": "第37回「中央ユーラシアと日本の未来」公開講演会\n\n講師：西尾 彰泰 氏\nWHO 西太平洋事務局コンサルタント\n\n題目：グローバルメンタルヘルスとはなにか\n\n日時：令和4年 11月4日（金）17:00－18:15\n\n会場：オンライン (Zoom)\n\n対象：本学学生、本学教職員、一般\n\n申込方法：\n本講演会は Zoom を使用します。\n下記申込フォームにて参加登録をすると、どなたでも無料でご参加いた…",
             "date_modified": "2022-10-28T03:00:00.000Z"
-        },
-        {
-            "id": "c4a72b7dea7b0df1e764947f8595f57b",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3394",
-            "title": "Free Japanese classes for international students and their families",
-            "summary": "For beginning Japanese learners\nPRACTICAL Japanese classes\nTEACHER are STUDENTS of Univ of Tsukuba\n\nDates: Friday\n2022 December 9th, 16th, 23rd\n2023 January 6th, 20th, 27th\nTime: 10:00-11:55 AM\nPlace:…",
-            "date_modified": "2022-10-26T03:00:00.000Z"
         }
     ]
 }
