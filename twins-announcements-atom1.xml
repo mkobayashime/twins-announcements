@@ -2,10 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/mkobayashime/twins-announcements</id>
     <title>在学生へのお知らせ | 筑波大学</title>
-    <updated>2022-11-03T21:09:31.177Z</updated>
+    <updated>2022-11-04T03:02:09.744Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://github.com/mkobayashime/twins-announcements"/>
     <subtitle>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</subtitle>
+    <entry>
+        <title type="html"><![CDATA[【参加者募集】ドイツ・ハンブルク大学より「国際研究者デー」のご案内]]></title>
+        <id>64ea893313822c5e211daf20a7cb387f</id>
+        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3415"/>
+        <updated>2022-11-04T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[ドイツ・ハンブルク大学（全学協定校）より、博士課程の学生向けのオンラインイベントの案内をいただきました。
+興味のある方は、各自登録の上、ご参加ください。
+International Researcher Day on 16 November
+Information & Registration: www.hra-hamburg.de/en/international-researcher-day
+…]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[早稲田大学主催イスラエル海外武者修行プログラムのお知らせ]]></title>
+        <id>db3204234c6d79886c92ec04b26faa58</id>
+        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3414"/>
+        <updated>2022-11-04T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[早稲田大学より、イスラエル海外武者修行プログラムの案内がありました。
+筑波大学学生も参加可能なプログラムです。詳細は以下のURLをご覧ください。
+
+不明な点があればURLのページに記載されている事務局にお問い合わせください。]]></summary>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[12/15 15:10-] 第15回 DDPIセミナー「投票権保障と日本の電子投票の未来」]]></title>
         <id>99a9ca70d8ed7f019bee61f461539eb2</id>
@@ -239,39 +260,5 @@ Place:…]]></summary>
         <updated>2022-10-26T03:00:00.000Z</updated>
         <summary type="html"><![CDATA[標記の件につきまして、添付資料のとおり開催いたします。
 人文学学位プログラムへの進学をご検討されている方・ご興味のある方は、事前申込のうえ、ぜひご参加ください。]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[10月25日(火) 中南米の留学説明会（オンライン＆対面）]]></title>
-        <id>9c80c2c6b39a4c96a85851556b3670c9</id>
-        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3388"/>
-        <updated>2022-10-24T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[中南米の留学説明会を開催します！
-中南米への留学を検討している方は、是非参加してください！
-
-1. ペルー留学説明会（オンライン）
-開催日：2022年10月25日（火）10:00～11:00
-開催方法：オンライン（Zoom)
-使用言語：英語（必要に応じては日本語）
-
-内容（予定）：
-・ペルーの紹介
-・サンマルコス大学の紹介（授業、キャンパスについて）
-・応募要項
-・安全管理等
-
-2. 中南米プログ…]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[11/17 15:10-] 第14 回 DDPIセミナー「平等とは何か？ー現代正義論入門ー」]]></title>
-        <id>945f11a7c2c7e24eaff65e2a6c84dceb</id>
-        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3387"/>
-        <updated>2022-10-24T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[DDPIプロジェクトでは、格差・不平等の政策的解決、そのためのデジタル技術の可能性（デジタル民主主義）などをテーマとしつつ、セミナー・シリーズを開催しております。
-
-今回は『平等とは何か？ー現代正義論入門ー』と題し、
-北海道大学法学研究科・法学部 准教授である森悠一郎先生をお招きして、
-平等とは何かという根底からの問いに対して、法哲学の立場からのお話を提供していただきます。
-
-ご関心おありの方はぜ…]]></summary>
     </entry>
 </feed>
