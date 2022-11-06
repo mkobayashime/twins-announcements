@@ -4,10 +4,25 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Sun, 06 Nov 2022 09:11:28 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 06 Nov 2022 15:08:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
+        <item>
+            <title><![CDATA[【開催案内】第38回「中央ユーラシアと日本の未来」公開講演会_関西学院大学商学部／大学院言語コミュニケーション文化研究科 教授 柿原武史氏_11/15(火)]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3419</link>
+            <guid>5dd349c2f6db49777056ae10ae695320</guid>
+            <pubDate>Fri, 04 Nov 2022 03:00:00 GMT</pubDate>
+            <description><![CDATA[筑波大学「日本財団 中央アジア・日本人材育成プロジェクト (NipCA)」では、第38回「中央ユーラシアと日本の未来」公開講演会を、下記の通り開催いたします。
+
+講師：柿原 武史 氏
+関西学院大学商学部／大学院言語コミュニケーション文化研究科 教授
+
+題目：持続可能な移民政策について考える
+－スイスの地方自治体における外国人統合政策と言語サービスの事例から－
+
+日時：令和4年11月15日（火）18…]]></description>
+        </item>
         <item>
             <title><![CDATA[【Online】Nov 18 (Fri) 10:00-12:00 World-science Leaders’ Seminar]]></title>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3418</link>
@@ -237,21 +252,6 @@ December 5, 2022 (Monday) - Dece…]]></description>
             <pubDate>Mon, 31 Oct 2022 03:00:00 GMT</pubDate>
             <description><![CDATA[World-science Leaders’ Seminar is a part of classes in Doctoral Program in Human Biology.
 Students attending this seminar will learn basic knowledge and recent research trends related to the specializ…]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Free Japanese classes for international students and their families]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3394</link>
-            <guid>c4a72b7dea7b0df1e764947f8595f57b</guid>
-            <pubDate>Wed, 26 Oct 2022 03:00:00 GMT</pubDate>
-            <description><![CDATA[For beginning Japanese learners
-PRACTICAL Japanese classes
-TEACHER are STUDENTS of Univ of Tsukuba
-
-Dates: Friday
-2022 December 9th, 16th, 23rd
-2023 January 6th, 20th, 27th
-Time: 10:00-11:55 AM
-Place:…]]></description>
         </item>
     </channel>
 </rss>
