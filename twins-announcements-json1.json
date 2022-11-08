@@ -5,6 +5,20 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "9640db9af8b7b385955f8679c8f84fff",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3425",
+            "title": "Temporary Suspension of Overseas Travel System ”TRIP” (22 Nov, 2022 17:00- 24 Nov, 2022 17:00)",
+            "summary": "Due to system maintenance, the Overseas Travel System \"TRIP\" will not be available during the time specified below. We apologize for any inconvenience this may cause.\n\n＊Please note：the suspension peri…",
+            "date_modified": "2022-11-08T03:00:00.000Z"
+        },
+        {
+            "id": "bb6bf3d6cd7abc51fcb252d3a382e08a",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3424",
+            "title": "海外渡航システム（TRIP）運用休止について（2022/11/22（火）17時～11/24（木）17時（予定））",
+            "summary": "海外渡航システム（TRIP）のメンテナンス作業に伴い、システムの運用を下記の日程で休止します。\n作業完了次第、運用を再開いたします。ご迷惑をおかけしますが、どうぞよろしくお願いいたします。\n\n※作業の進捗によっては、システムの休止期間が延長される場合があります。\n※休止期間中は、TRIPに登録された渡航者の安否確認を、海外危機管理アドレス（gc-assitance@un.tsukuba.ac.jp…",
+            "date_modified": "2022-11-08T03:00:00.000Z"
+        },
+        {
             "id": "bfd681b867209d772d05cfa00dc55ae3",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3423",
             "title": "【12/7開催】ASIP/TG+公開セミナー海外ボランティアから始まる／広がるマイキャリア・マイライフその２　～看護師・研究者・教育者として国際協力に携わる～」",
@@ -128,20 +142,6 @@
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3404",
             "title": "Invitation to ”Let’s Talk about Japan“",
             "summary": "The University’s “Make a Difference in the World” Fund will host a weekly one-hour face-to-face meeting of “Let’s Talk about Japan” between classes on weekdays. International and Japanese undergraduat…",
-            "date_modified": "2022-10-31T03:00:00.000Z"
-        },
-        {
-            "id": "26441b5e3a68edf3b91d47b51f4f5b74",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3403",
-            "title": "令和4年度筑波大学就職ミライ博 SDGs Career UP Seminar",
-            "summary": "最近よく耳にする「SDGs」とはどんな取り組みかご存知ですか？\n\n「SDGs」とは、「誰一人取り残さない」持続可能で多様性と包摂性のある社会の実現のため、2030年を年限とする17の国際目標を指します。実はつくば市も「SDGs未来都市」に選定されています。\n\n本セミナーでは、SDGsを身近に感じていただき、自分の関心や専攻等が17項目のどこに関連するのか、知識を深めると同時に、企業のSDGsに対す…",
-            "date_modified": "2022-10-31T03:00:00.000Z"
-        },
-        {
-            "id": "1ba6f7e1841df9b48198b806becfd92c",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3402",
-            "title": "Reposted【Until Today】Notice of Implementation of University Vaccination (Omicron COVID-19 vaccine)",
-            "summary": "The University will administer the new corona vaccine (Omicron COVID-19 vaccine).\n【Advance registration】 is required for vaccination.\n\n\n〇Vaccination period (scheduled)\nDecember 5, 2022 (Monday) - Dece…",
             "date_modified": "2022-10-31T03:00:00.000Z"
         }
     ]
