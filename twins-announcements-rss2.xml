@@ -4,10 +4,21 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Tue, 08 Nov 2022 09:10:59 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 08 Nov 2022 12:13:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
+        <item>
+            <title><![CDATA[グルノーブル・アルプ大学留学説明会＠スチューデント・コモンズ（11月17日18：30～）]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3426</link>
+            <guid>d935a8a1309d0c12f4ebbaa5706715d7</guid>
+            <pubDate>Tue, 08 Nov 2022 03:00:00 GMT</pubDate>
+            <description><![CDATA[グルノーブル・アルプ大学教職員の来訪に合わせ、11月17日（木）に留学説明会を開催します！
+
+Campus in Campus協定校のひとつであるグルノーブル・アルプ大学の担当者が直接、大学の様子や交換留学生の生活についてを教えてくれます！グルノーブル・アルプ大学への交換留学を考えている方、フランス留学を検討している方、是非ご参加ください！
+
+日　　時：2022年11月17日（木）18：30-19…]]></description>
+        </item>
         <item>
             <title><![CDATA[Temporary Suspension of Overseas Travel System ”TRIP” (22 Nov, 2022 17:00- 24 Nov, 2022 17:00)]]></title>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3425</link>
@@ -244,13 +255,6 @@ ECサイトは以下のリンクから
 
 有効期間：2022年11月1日～2022年11月30日
 ※学内専用割引コードをTWINS掲示「大学…]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Invitation to ”Let’s Talk about Japan“]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3404</link>
-            <guid>fdc62990ef5d195707c2ea682f2bd86c</guid>
-            <pubDate>Mon, 31 Oct 2022 03:00:00 GMT</pubDate>
-            <description><![CDATA[The University’s “Make a Difference in the World” Fund will host a weekly one-hour face-to-face meeting of “Let’s Talk about Japan” between classes on weekdays. International and Japanese undergraduat…]]></description>
         </item>
     </channel>
 </rss>
