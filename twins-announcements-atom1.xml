@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/mkobayashime/twins-announcements</id>
     <title>在学生へのお知らせ | 筑波大学</title>
-    <updated>2022-11-09T02:59:48.632Z</updated>
+    <updated>2022-11-09T05:21:33.696Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://github.com/mkobayashime/twins-announcements"/>
     <subtitle>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</subtitle>
+    <entry>
+        <title type="html"><![CDATA[再掲：[就職課]公開授業　キャリアデザイン入門～世界にはばたく未来の自分～]]></title>
+        <id>4e902d40789ac3bf6e38850ca0bd590f</id>
+        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3428"/>
+        <updated>2022-11-09T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[公開授業です。
+
+学士基盤科目「キャリアデザイン入門～世界にはばたく未来の自分～」第６回、第７回を全学年の皆さんに公開します。
+ゲストスピーカーとして筑波大学卒業生が、自分の歩んできた人生を語り、後輩の皆さんに、力強いメッセージを届けてくれます。
+この貴重な機会を逃さず、先輩の話をきっかけとして、自分のこれからのキャリアについて考えてみませんか？
+
+【日時とゲストスピーカー】講演:45分　質疑応答…]]></summary>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【周知】令和４年度アルコール関連問題啓発週間について]]></title>
         <id>f26d05aca51ed53b463bf633861be161</id>
@@ -233,18 +246,5 @@ Contents: Promotion of international exchange on campus, introduction of partner
 
 ＜国際交流イベント＞
 -…]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【学生無料】桐朋学園オーケストラ（指揮：清水醍輝）　第12回つくばリサイタ ルシリーズ]]></title>
-        <id>9510ec6c1b35f493d423f8e9f5c7f176</id>
-        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3407"/>
-        <updated>2022-11-01T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[一流のクラシックを学生無料で、をコンセプトに開催してきたつくばリサイタル
-シリーズ、第12回となる今回は、小澤征爾氏をはじめとする世界的な音楽家を輩
-出してきた名門・桐朋学園オーケストラをお招きします。気鋭の指揮者、清水醍
-輝先生の率いる17名の弦楽オーケストラが、つくばカピオに結集します。
-
-戦後の混乱期を乗り越えた歴史を持つ桐朋学園と筑波大学。今日もコロナ禍で様
-々な制約がありますが、だからこ…]]></summary>
     </entry>
 </feed>

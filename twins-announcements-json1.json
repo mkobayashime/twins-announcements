@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "4e902d40789ac3bf6e38850ca0bd590f",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3428",
+            "title": "再掲：[就職課]公開授業　キャリアデザイン入門～世界にはばたく未来の自分～",
+            "summary": "公開授業です。\n\n学士基盤科目「キャリアデザイン入門～世界にはばたく未来の自分～」第６回、第７回を全学年の皆さんに公開します。\nゲストスピーカーとして筑波大学卒業生が、自分の歩んできた人生を語り、後輩の皆さんに、力強いメッセージを届けてくれます。\nこの貴重な機会を逃さず、先輩の話をきっかけとして、自分のこれからのキャリアについて考えてみませんか？\n\n【日時とゲストスピーカー】講演:45分　質疑応答…",
+            "date_modified": "2022-11-09T03:00:00.000Z"
+        },
+        {
             "id": "f26d05aca51ed53b463bf633861be161",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3427",
             "title": "【周知】令和４年度アルコール関連問題啓発週間について",
@@ -135,13 +142,6 @@
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3408",
             "title": "11月の国際交流イベント情報・留学情報について",
             "summary": "スチューデントサポートセンター国際交流支援室では、国際交流イベントや留学関連の情報を提供しています！\n\n＜海外留学情報＞\n-SSC公募型（2023年秋学期渡航分）募集中（締切：12月6日）\n-CiC協定校・グルノーブルアルプ大学留学説明会（11月17日時間未定）\n-筑波トランスパシフィックプログラム短期研修プログラム参加者募集（派遣先：コロンビア）（締切：12月18日）\n\n＜国際交流イベント＞\n-…",
-            "date_modified": "2022-11-01T03:00:00.000Z"
-        },
-        {
-            "id": "9510ec6c1b35f493d423f8e9f5c7f176",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3407",
-            "title": "【学生無料】桐朋学園オーケストラ（指揮：清水醍輝）　第12回つくばリサイタ ルシリーズ",
-            "summary": "一流のクラシックを学生無料で、をコンセプトに開催してきたつくばリサイタル\nシリーズ、第12回となる今回は、小澤征爾氏をはじめとする世界的な音楽家を輩\n出してきた名門・桐朋学園オーケストラをお招きします。気鋭の指揮者、清水醍\n輝先生の率いる17名の弦楽オーケストラが、つくばカピオに結集します。\n\n戦後の混乱期を乗り越えた歴史を持つ桐朋学園と筑波大学。今日もコロナ禍で様\n々な制約がありますが、だからこ…",
             "date_modified": "2022-11-01T03:00:00.000Z"
         }
     ]
