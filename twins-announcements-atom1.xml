@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/mkobayashime/twins-announcements</id>
     <title>在学生へのお知らせ | 筑波大学</title>
-    <updated>2022-11-08T21:10:17.821Z</updated>
+    <updated>2022-11-09T02:59:48.632Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://github.com/mkobayashime/twins-announcements"/>
     <subtitle>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</subtitle>
+    <entry>
+        <title type="html"><![CDATA[【周知】令和４年度アルコール関連問題啓発週間について]]></title>
+        <id>f26d05aca51ed53b463bf633861be161</id>
+        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3427"/>
+        <updated>2022-11-09T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[アルコール健康障害対策基本法では、国民の間に広くアルコール関連問題に関する関心と理解を深めるため、11月10日から16日までをアルコール関連問題啓発週間と定めています。
+
+学生の皆様も、節度ある適度な飲酒を心掛け、事故防止等に努めていただくようよろしくお願いいたします。
+
+下記の厚生労働省HPも参考にご覧ください。]]></summary>
+    </entry>
     <entry>
         <title type="html"><![CDATA[グルノーブル・アルプ大学留学説明会＠スチューデント・コモンズ（11月17日18：30～）]]></title>
         <id>d935a8a1309d0c12f4ebbaa5706715d7</id>
@@ -235,23 +246,5 @@ Contents: Promotion of international exchange on campus, introduction of partner
 
 戦後の混乱期を乗り越えた歴史を持つ桐朋学園と筑波大学。今日もコロナ禍で様
 々な制約がありますが、だからこ…]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【お知らせ】筑波大学公式オリジナルグッズECサイト割引クーポンコード（11月）]]></title>
-        <id>df0304d71c1c603e1b130afba8a9c1c8</id>
-        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3405"/>
-        <updated>2022-11-01T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[筑波大学公式オリジナルグッズ販売サイト「TSUKUBA-SHOP」の11月の割引クーポンコードをお知らせいたします！
-
-毎月商品数も少しずつ増えております。
-
-
-どうぞご覧いただき、皆様の「日常生活」、「思い出」、「プレゼント」などにご活用いただけますと幸いです。
-
-
-ECサイトは以下のリンクから
-
-有効期間：2022年11月1日～2022年11月30日
-※学内専用割引コードをTWINS掲示「大学…]]></summary>
     </entry>
 </feed>

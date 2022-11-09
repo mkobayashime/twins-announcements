@@ -4,10 +4,21 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Tue, 08 Nov 2022 21:10:17 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 09 Nov 2022 02:59:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
+        <item>
+            <title><![CDATA[【周知】令和４年度アルコール関連問題啓発週間について]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3427</link>
+            <guid>f26d05aca51ed53b463bf633861be161</guid>
+            <pubDate>Wed, 09 Nov 2022 03:00:00 GMT</pubDate>
+            <description><![CDATA[アルコール健康障害対策基本法では、国民の間に広くアルコール関連問題に関する関心と理解を深めるため、11月10日から16日までをアルコール関連問題啓発週間と定めています。
+
+学生の皆様も、節度ある適度な飲酒を心掛け、事故防止等に努めていただくようよろしくお願いいたします。
+
+下記の厚生労働省HPも参考にご覧ください。]]></description>
+        </item>
         <item>
             <title><![CDATA[グルノーブル・アルプ大学留学説明会＠スチューデント・コモンズ（11月17日18：30～）]]></title>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3426</link>
@@ -237,24 +248,6 @@ Contents: Promotion of international exchange on campus, introduction of partner
 
 戦後の混乱期を乗り越えた歴史を持つ桐朋学園と筑波大学。今日もコロナ禍で様
 々な制約がありますが、だからこ…]]></description>
-        </item>
-        <item>
-            <title><![CDATA[【お知らせ】筑波大学公式オリジナルグッズECサイト割引クーポンコード（11月）]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3405</link>
-            <guid>df0304d71c1c603e1b130afba8a9c1c8</guid>
-            <pubDate>Tue, 01 Nov 2022 03:00:00 GMT</pubDate>
-            <description><![CDATA[筑波大学公式オリジナルグッズ販売サイト「TSUKUBA-SHOP」の11月の割引クーポンコードをお知らせいたします！
-
-毎月商品数も少しずつ増えております。
-
-
-どうぞご覧いただき、皆様の「日常生活」、「思い出」、「プレゼント」などにご活用いただけますと幸いです。
-
-
-ECサイトは以下のリンクから
-
-有効期間：2022年11月1日～2022年11月30日
-※学内専用割引コードをTWINS掲示「大学…]]></description>
         </item>
     </channel>
 </rss>
