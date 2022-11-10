@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "151f32fc4baffaa184713daf6403486b",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3432",
+            "title": "【茗渓会主催】オンラインＯＢ・ＯＧキャリアカフェ",
+            "summary": "筑波大生が、筑波大の卒業生（OB・OG）に\nオンラインで質問できるイベントを開催します！\n大学の先輩から就職活動やキャリア、\n学生生活などのアドバイスについて本音で聞ける貴重な機会です。\n\n学年問わず、１年生から大学院生までどなたでも参加可能です。\nこの機会をぜひご活用ください！！\n【開催日】\n12月2日（金）17：00-20：00\n\n12月3日（土）10：00-13：00\n\n【対象】学年不問！筑…",
+            "date_modified": "2022-11-10T03:00:00.000Z"
+        },
+        {
             "id": "dbd23cac711908b0b69c45cf0ed14625",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3431",
             "title": "DACセンター/就職課のTwitterについてご案内します。",
@@ -136,13 +143,6 @@
             "title": "トビタテ！留学JAPAN　新・日本代表プログラム2023年度応募に向けて、先輩トビタテ生の体験談を聞こう！！（11/16）",
             "summary": "　新しいトビタテ！の応募申請がいよいよ始まります。それに先立ち、留学経験の先輩トビタテ生からの体験談を聞きませんか？トビタテ！に申請する方に限りません！留学を志す皆さん、留学をためらっている皆さん、留学に関心がある皆さんなど、奮ってご参加ください。きっと、楽しいお話が聞けますよ。チラシも参考にしてください。\n　なお、トビタテ！応募申請に関して、質問のある方はスタッフからの説明も受けられます。\n\n【…",
             "date_modified": "2022-11-02T03:00:00.000Z"
-        },
-        {
-            "id": "e156cc07911782e816d53222ab7448bd",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3411",
-            "title": "Presenters, performers and poster exhibitors wanted! 【IMAGINE THE 海外.】 Thursday 1 December.",
-            "summary": "---- ---- ---- ----　\nEvent: University of Tsukuba International Exchange Festival: IMAGINE THE 海外.　\n\nContents: Promotion of international exchange on campus, introduction of partner universities, chat…",
-            "date_modified": "2022-11-01T03:00:00.000Z"
         }
     ]
 }
