@@ -1,28 +1,33 @@
 ts-node = node --loader ts-node/esm --experimental-specifier-resolution=node
 
-install:
-	yarn
+node_modules: package.json yarn.lock
+ifeq ($(MAKE_YARN_FROZEN_LOCKFILE), 1)
+	yarn install --frozen-lockfile
+else
+	yarn install
+endif
+	@touch node_modules
 
-run: install
+run: node_modules
 	$(ts-node) src/index.ts
 
-lint: install
+lint: node_modules
 	yarn eslint .
 
-lint.fix: install
+lint.fix: node_modules
 	yarn eslint --fix .
 
-format: install
+format: node_modules
 	yarn prettier --write .
 
-format.check: install
+format.check: node_modules
 	yarn prettier --check .
 
-typecheck: install
+typecheck: node_modules
 	yarn tsc --noEmit
 
-typecheck.watch: install
+typecheck.watch: node_modules
 	yarn tsc --noEmit --watch
 
-clear: install
+clear: node_modules
 	yarn rimraf dist
