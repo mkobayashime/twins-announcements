@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "6a0d9b4dfb6ed546192f697658c3e5f1",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3430",
+            "title": "【本日15:00~】対面G-Chat English (英語おしゃべりイベント)",
+            "summary": "対面G-Chat Englishスタートします！\n少人数グループに分かれて、英語で会話をします！英語初心者も歓迎です！\n単発での参加も大歓迎です！\n対応スタッフ：本学の留学生（出身国はアメリカ、パラグアイ、台湾、インドなど）\n\n開催日：木曜日（全8回）\n　2022年11月10日、17日、24日\n　　 　　 12月1日、8日、15日\n　2023年１月19日、\n　　　　　2月2日\n時　間：15:00～…",
+            "date_modified": "2022-11-10T03:00:00.000Z"
+        },
+        {
             "id": "a643ba65c9831b8b9a3f15d948fe8dbb",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3429",
             "title": "【再掲・参加者募集】令和4年度全学防災訓練「障害学生等支援防災ワーク」（全学リスクマネジメントセミナー）の開催について",
@@ -135,13 +142,6 @@
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3410",
             "title": "アピール参加者募集！【筑波大学国際交流フェス　IMAGINE　THE　海外.】12/1　Thu.",
             "summary": "----　----　----　----　----　----　\nイベント：筑波大学国際交流フェス　IMAGINE THE 海外.　\n\n内　　容：学内の国際交流の促進。協定校の紹介。各地域の文化紹介。Chatイベント。留学相談など\n\n場　　所：大学会館\n\n開催日時：2022年12月1日　10：00～15：00\n----　----　----　----　----　----　\n留学生には日本と筑波大学をもっ…",
-            "date_modified": "2022-11-01T03:00:00.000Z"
-        },
-        {
-            "id": "69ef032c4ccb04678dc391372a898681",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3408",
-            "title": "11月の国際交流イベント情報・留学情報について",
-            "summary": "スチューデントサポートセンター国際交流支援室では、国際交流イベントや留学関連の情報を提供しています！\n\n＜海外留学情報＞\n-SSC公募型（2023年秋学期渡航分）募集中（締切：12月6日）\n-CiC協定校・グルノーブルアルプ大学留学説明会（11月17日時間未定）\n-筑波トランスパシフィックプログラム短期研修プログラム参加者募集（派遣先：コロンビア）（締切：12月18日）\n\n＜国際交流イベント＞\n-…",
             "date_modified": "2022-11-01T03:00:00.000Z"
         }
     ]

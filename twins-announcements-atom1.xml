@@ -2,10 +2,27 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/mkobayashime/twins-announcements</id>
     <title>在学生へのお知らせ | 筑波大学</title>
-    <updated>2022-11-09T21:10:46.727Z</updated>
+    <updated>2022-11-10T00:35:18.981Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://github.com/mkobayashime/twins-announcements"/>
     <subtitle>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</subtitle>
+    <entry>
+        <title type="html"><![CDATA[【本日15:00~】対面G-Chat English (英語おしゃべりイベント)]]></title>
+        <id>6a0d9b4dfb6ed546192f697658c3e5f1</id>
+        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3430"/>
+        <updated>2022-11-10T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[対面G-Chat Englishスタートします！
+少人数グループに分かれて、英語で会話をします！英語初心者も歓迎です！
+単発での参加も大歓迎です！
+対応スタッフ：本学の留学生（出身国はアメリカ、パラグアイ、台湾、インドなど）
+
+開催日：木曜日（全8回）
+　2022年11月10日、17日、24日
+　　 　　 12月1日、8日、15日
+　2023年１月19日、
+　　　　　2月2日
+時　間：15:00～…]]></summary>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【再掲・参加者募集】令和4年度全学防災訓練「障害学生等支援防災ワーク」（全学リスクマネジメントセミナー）の開催について]]></title>
         <id>a643ba65c9831b8b9a3f15d948fe8dbb</id>
@@ -231,20 +248,5 @@ Contents: Promotion of international exchange on campus, introduction of partner
 開催日時：2022年12月1日　10：00～15：00
 ----　----　----　----　----　----　
 留学生には日本と筑波大学をもっ…]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[11月の国際交流イベント情報・留学情報について]]></title>
-        <id>69ef032c4ccb04678dc391372a898681</id>
-        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3408"/>
-        <updated>2022-11-01T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[スチューデントサポートセンター国際交流支援室では、国際交流イベントや留学関連の情報を提供しています！
-
-＜海外留学情報＞
--SSC公募型（2023年秋学期渡航分）募集中（締切：12月6日）
--CiC協定校・グルノーブルアルプ大学留学説明会（11月17日時間未定）
--筑波トランスパシフィックプログラム短期研修プログラム参加者募集（派遣先：コロンビア）（締切：12月18日）
-
-＜国際交流イベント＞
--…]]></summary>
     </entry>
 </feed>
