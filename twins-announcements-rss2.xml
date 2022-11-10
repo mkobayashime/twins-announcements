@@ -4,10 +4,26 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Thu, 10 Nov 2022 00:35:18 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 10 Nov 2022 02:54:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
+        <item>
+            <title><![CDATA[DACセンター/就職課のTwitterについてご案内します。]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3431</link>
+            <guid>dbd23cac711908b0b69c45cf0ed14625</guid>
+            <pubDate>Thu, 10 Nov 2022 03:00:00 GMT</pubDate>
+            <description><![CDATA[DACセンター/就職課では、HPだけではなくTwitterを通しても学生の皆さんに向けて情報を発信しています。
+
+HPには載せられない情報のレファレンス
+スチューデントプラザにある書架の紹介
+企業担当スタッフのタレコミ……などなど。
+
+時には中の人のちょっとした呟きも加えて、本格的にSNSを運用していく所存です。
+
+
+各種イベントについても随時案内しているので、ぜひともフォローしていただきたいと思…]]></description>
+        </item>
         <item>
             <title><![CDATA[【本日15:00~】対面G-Chat English (英語おしゃべりイベント)]]></title>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3430</link>
@@ -234,22 +250,6 @@ DDPIプロジェクトでは、格差・不平等の政策的解決、そのた�
 Event: University of Tsukuba International Exchange Festival: IMAGINE THE 海外.　
 
 Contents: Promotion of international exchange on campus, introduction of partner universities, chat…]]></description>
-        </item>
-        <item>
-            <title><![CDATA[アピール参加者募集！【筑波大学国際交流フェス　IMAGINE　THE　海外.】12/1　Thu.]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3410</link>
-            <guid>d3799d9692526c9c3c0eb60d09a48f79</guid>
-            <pubDate>Tue, 01 Nov 2022 03:00:00 GMT</pubDate>
-            <description><![CDATA[----　----　----　----　----　----　
-イベント：筑波大学国際交流フェス　IMAGINE THE 海外.　
-
-内　　容：学内の国際交流の促進。協定校の紹介。各地域の文化紹介。Chatイベント。留学相談など
-
-場　　所：大学会館
-
-開催日時：2022年12月1日　10：00～15：00
-----　----　----　----　----　----　
-留学生には日本と筑波大学をもっ…]]></description>
         </item>
     </channel>
 </rss>
