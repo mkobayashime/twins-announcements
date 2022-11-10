@@ -4,6 +4,7 @@ name: CI
 
 env:
   TZ: Asia/Tokyo
+  MAKE_YARN_FROZEN_LOCKFILE: 1
 
 jobs:
   lint:
@@ -19,8 +20,6 @@ jobs:
         with:
           path: "**/node_modules"
           key: ${{ runner.os }}-modules-${{ hashFiles('**/yarn.lock') }}
-      - name: Install dependencies
-        run: yarn --frozen-lockfile
       - name: ESLint
         run: make lint
       - name: Prettier
@@ -45,7 +44,5 @@ jobs:
         with:
           path: "**/node_modules"
           key: ${{ runner.os }}-modules-${{ hashFiles('**/yarn.lock') }}
-      - name: Install dependencies
-        run: yarn --frozen-lockfile
       - name: Run
         run: make run
