@@ -1,3 +1,6 @@
+eslint = yarn run eslint --ignore-path .gitignore
+prettier = yarn run prettier --ignore-path .gitignore
+typecheck = yarn run tsc --noEmit
 ts-node = node --loader ts-node/esm --experimental-specifier-resolution=node
 
 node_modules: package.json yarn.lock
@@ -12,22 +15,22 @@ run: node_modules
 	$(ts-node) src/index.ts
 
 lint: node_modules
-	yarn eslint .
+	$(eslint) .
 
 lint.fix: node_modules
-	yarn eslint --fix .
+	$(eslint) --fix .
 
 format: node_modules
-	yarn prettier --write .
+	$(prettier) --write .
 
 format.check: node_modules
-	yarn prettier --check .
+	$(prettier) --check .
 
 typecheck: node_modules
-	yarn tsc --noEmit
+	$(typecheck)
 
 typecheck.watch: node_modules
-	yarn tsc --noEmit --watch
+	$(typecheck) --watch
 
 clear: node_modules
 	yarn rimraf dist
