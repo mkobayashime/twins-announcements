@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "fd1aaa5434b5f358e76d59e51afafd2a",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3435",
+            "title": "[DDPIよりご紹介] RIETI 先端技術と民主主義 国際シンポジウム「日本における電子投票・インターネット投票の未来」（11/30 13:00- 早大）",
+            "summary": "DDPIプロジェクトのセミナーシリーズではお世話になっております。\n\n来たる12月15日DDPIセミナーにてご講演をいただきます河村和徳先生（東北大学情報科学研究科准教授）より、11月30日（水）に早稲田大学にて対面開催予定のシンポジウムについてのご紹介がございました。シンポジウムは「日本における電子投票・インターネット投票の未来」とあり、現在、つくば市において実証実験の進められておりますインター…",
+            "date_modified": "2022-11-11T03:00:00.000Z"
+        },
+        {
             "id": "d535e5976110c9091ed6bd92d11d1fa2",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3434",
             "title": "【開催案内】2022年度つくばアクションプロジェクト公開シンポジウム",
@@ -136,13 +143,6 @@
             "title": "早稲田大学主催イスラエル海外武者修行プログラムのお知らせ",
             "summary": "早稲田大学より、イスラエル海外武者修行プログラムの案内がありました。\n筑波大学学生も参加可能なプログラムです。詳細は以下のURLをご覧ください。\n\n不明な点があればURLのページに記載されている事務局にお問い合わせください。",
             "date_modified": "2022-11-04T03:00:00.000Z"
-        },
-        {
-            "id": "99a9ca70d8ed7f019bee61f461539eb2",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3413",
-            "title": "[12/15 15:10-] 第15回 DDPIセミナー「投票権保障と日本の電子投票の未来」",
-            "summary": "*14回目(11/17)につづき15回目(12/15)についてもお知らせいたします*\n\nDDPIプロジェクトでは、格差・不平等の政策的解決、そのためのデジタル技術の可能性（デジタル民主主義）などをテーマとしつつ、セミナー・シリーズを開催しております。\n\n第15回となる今回は『投票権保障と日本の電子投票の未来』と題し、東北大学情報科学研究科 准教授である河村和徳先生をお招きします。\n河村先生は政治・…",
-            "date_modified": "2022-11-02T03:00:00.000Z"
         }
     ]
 }

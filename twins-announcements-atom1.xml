@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/mkobayashime/twins-announcements</id>
     <title>在学生へのお知らせ | 筑波大学</title>
-    <updated>2022-11-11T02:54:44.354Z</updated>
+    <updated>2022-11-11T03:49:10.971Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://github.com/mkobayashime/twins-announcements"/>
     <subtitle>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</subtitle>
+    <entry>
+        <title type="html"><![CDATA[[DDPIよりご紹介] RIETI 先端技術と民主主義 国際シンポジウム「日本における電子投票・インターネット投票の未来」（11/30 13:00- 早大）]]></title>
+        <id>fd1aaa5434b5f358e76d59e51afafd2a</id>
+        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3435"/>
+        <updated>2022-11-11T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[DDPIプロジェクトのセミナーシリーズではお世話になっております。
+
+来たる12月15日DDPIセミナーにてご講演をいただきます河村和徳先生（東北大学情報科学研究科准教授）より、11月30日（水）に早稲田大学にて対面開催予定のシンポジウムについてのご紹介がございました。シンポジウムは「日本における電子投票・インターネット投票の未来」とあり、現在、つくば市において実証実験の進められておりますインター…]]></summary>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【開催案内】2022年度つくばアクションプロジェクト公開シンポジウム]]></title>
         <id>d535e5976110c9091ed6bd92d11d1fa2</id>
@@ -243,17 +252,5 @@ Information & Registration: www.hra-hamburg.de/en/international-researcher-day
 筑波大学学生も参加可能なプログラムです。詳細は以下のURLをご覧ください。
 
 不明な点があればURLのページに記載されている事務局にお問い合わせください。]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[12/15 15:10-] 第15回 DDPIセミナー「投票権保障と日本の電子投票の未来」]]></title>
-        <id>99a9ca70d8ed7f019bee61f461539eb2</id>
-        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3413"/>
-        <updated>2022-11-02T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[*14回目(11/17)につづき15回目(12/15)についてもお知らせいたします*
-
-DDPIプロジェクトでは、格差・不平等の政策的解決、そのためのデジタル技術の可能性（デジタル民主主義）などをテーマとしつつ、セミナー・シリーズを開催しております。
-
-第15回となる今回は『投票権保障と日本の電子投票の未来』と題し、東北大学情報科学研究科 准教授である河村和徳先生をお招きします。
-河村先生は政治・…]]></summary>
     </entry>
 </feed>
