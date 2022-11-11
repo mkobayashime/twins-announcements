@@ -2,10 +2,26 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/mkobayashime/twins-announcements</id>
     <title>在学生へのお知らせ | 筑波大学</title>
-    <updated>2022-11-10T21:10:59.775Z</updated>
+    <updated>2022-11-11T02:54:44.354Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://github.com/mkobayashime/twins-announcements"/>
     <subtitle>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</subtitle>
+    <entry>
+        <title type="html"><![CDATA[【開催案内】2022年度つくばアクションプロジェクト公開シンポジウム]]></title>
+        <id>d535e5976110c9091ed6bd92d11d1fa2</id>
+        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3434"/>
+        <updated>2022-11-11T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[T-ACTは学生が自らの「やってみたい」という気持ちを基に活動やイベント等を企画立案し、その実現のために学生を支援する制度です。
+今年度は、聖徳大学講師の田中圭氏、スターバックスコーヒージャパン株式会社 中央図書館店ストアマネージャーの杉渕広美氏及びT-ACTオブザーバーでもある認定NPO法人 茨城NPOセンター・コモンズ 代表理事 横田能洋氏による講演と、3名の講師と学生及びT-ACT推進室員に…]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【Online】Dec 1 (Thu) 13:00-15:00 World-science Leaders’ Seminar]]></title>
+        <id>a3479ed910dab04b015bfdd5f7b9690d</id>
+        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3433"/>
+        <updated>2022-11-11T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[World-science Leaders’ Seminar is a part of classes in Doctoral Program in Human Biology.
+Students attending this seminar will learn basic knowledge and recent research trends related to the specializ…]]></summary>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【茗渓会主催】オンラインＯＢ・ＯＧキャリアカフェ]]></title>
         <id>151f32fc4baffaa184713daf6403486b</id>
@@ -239,25 +255,5 @@ DDPIプロジェクトでは、格差・不平等の政策的解決、そのた�
 
 第15回となる今回は『投票権保障と日本の電子投票の未来』と題し、東北大学情報科学研究科 准教授である河村和徳先生をお招きします。
 河村先生は政治・…]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[トビタテ！留学JAPAN　新・日本代表プログラム2023年度応募に向けて、先輩トビタテ生の体験談を聞こう！！（11/16）]]></title>
-        <id>6a38881d3ade4a0c39eaf0f0cdcbce8b</id>
-        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3412"/>
-        <updated>2022-11-02T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[　新しいトビタテ！の応募申請がいよいよ始まります。それに先立ち、留学経験の先輩トビタテ生からの体験談を聞きませんか？トビタテ！に申請する方に限りません！留学を志す皆さん、留学をためらっている皆さん、留学に関心がある皆さんなど、奮ってご参加ください。きっと、楽しいお話が聞けますよ。チラシも参考にしてください。
-　なお、トビタテ！応募申請に関して、質問のある方はスタッフからの説明も受けられます。
-
-【…]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Presenters, performers and poster exhibitors wanted! 【IMAGINE THE 海外.】 Thursday 1 December.]]></title>
-        <id>e156cc07911782e816d53222ab7448bd</id>
-        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3411"/>
-        <updated>2022-11-01T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[---- ---- ---- ----　
-Event: University of Tsukuba International Exchange Festival: IMAGINE THE 海外.　
-
-Contents: Promotion of international exchange on campus, introduction of partner universities, chat…]]></summary>
     </entry>
 </feed>

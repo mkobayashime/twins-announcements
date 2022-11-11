@@ -5,6 +5,20 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "d535e5976110c9091ed6bd92d11d1fa2",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3434",
+            "title": "【開催案内】2022年度つくばアクションプロジェクト公開シンポジウム",
+            "summary": "T-ACTは学生が自らの「やってみたい」という気持ちを基に活動やイベント等を企画立案し、その実現のために学生を支援する制度です。\n今年度は、聖徳大学講師の田中圭氏、スターバックスコーヒージャパン株式会社 中央図書館店ストアマネージャーの杉渕広美氏及びT-ACTオブザーバーでもある認定NPO法人 茨城NPOセンター・コモンズ 代表理事 横田能洋氏による講演と、3名の講師と学生及びT-ACT推進室員に…",
+            "date_modified": "2022-11-11T03:00:00.000Z"
+        },
+        {
+            "id": "a3479ed910dab04b015bfdd5f7b9690d",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3433",
+            "title": "【Online】Dec 1 (Thu) 13:00-15:00 World-science Leaders’ Seminar",
+            "summary": "World-science Leaders’ Seminar is a part of classes in Doctoral Program in Human Biology.\nStudents attending this seminar will learn basic knowledge and recent research trends related to the specializ…",
+            "date_modified": "2022-11-11T03:00:00.000Z"
+        },
+        {
             "id": "151f32fc4baffaa184713daf6403486b",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3432",
             "title": "【茗渓会主催】オンラインＯＢ・ＯＧキャリアカフェ",
@@ -129,20 +143,6 @@
             "title": "[12/15 15:10-] 第15回 DDPIセミナー「投票権保障と日本の電子投票の未来」",
             "summary": "*14回目(11/17)につづき15回目(12/15)についてもお知らせいたします*\n\nDDPIプロジェクトでは、格差・不平等の政策的解決、そのためのデジタル技術の可能性（デジタル民主主義）などをテーマとしつつ、セミナー・シリーズを開催しております。\n\n第15回となる今回は『投票権保障と日本の電子投票の未来』と題し、東北大学情報科学研究科 准教授である河村和徳先生をお招きします。\n河村先生は政治・…",
             "date_modified": "2022-11-02T03:00:00.000Z"
-        },
-        {
-            "id": "6a38881d3ade4a0c39eaf0f0cdcbce8b",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3412",
-            "title": "トビタテ！留学JAPAN　新・日本代表プログラム2023年度応募に向けて、先輩トビタテ生の体験談を聞こう！！（11/16）",
-            "summary": "　新しいトビタテ！の応募申請がいよいよ始まります。それに先立ち、留学経験の先輩トビタテ生からの体験談を聞きませんか？トビタテ！に申請する方に限りません！留学を志す皆さん、留学をためらっている皆さん、留学に関心がある皆さんなど、奮ってご参加ください。きっと、楽しいお話が聞けますよ。チラシも参考にしてください。\n　なお、トビタテ！応募申請に関して、質問のある方はスタッフからの説明も受けられます。\n\n【…",
-            "date_modified": "2022-11-02T03:00:00.000Z"
-        },
-        {
-            "id": "e156cc07911782e816d53222ab7448bd",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3411",
-            "title": "Presenters, performers and poster exhibitors wanted! 【IMAGINE THE 海外.】 Thursday 1 December.",
-            "summary": "---- ---- ---- ----　\nEvent: University of Tsukuba International Exchange Festival: IMAGINE THE 海外.　\n\nContents: Promotion of international exchange on campus, introduction of partner universities, chat…",
-            "date_modified": "2022-11-01T03:00:00.000Z"
         }
     ]
 }
