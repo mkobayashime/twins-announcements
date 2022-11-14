@@ -4,10 +4,24 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Sun, 13 Nov 2022 21:09:29 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 14 Nov 2022 02:49:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
+        <item>
+            <title><![CDATA[経済・公共政策プログラムのオープンセミナー]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3436</link>
+            <guid>d80273ac373b4bf9df695ec17b142e52</guid>
+            <pubDate>Mon, 14 Nov 2022 03:00:00 GMT</pubDate>
+            <description><![CDATA[経済・公共政策プログラムでは修士学生による、オープンセミナーを行います。
+修士の学生が自分たちの研究発表を行います。
+経済・公共政策プログラムに進学に関心がある学生は是非ご参加ください。
+
+場所：３A301
+時間：11時４０分～１３時３０分
+
+]]></description>
+        </item>
         <item>
             <title><![CDATA[[DDPIよりご紹介] RIETI 先端技術と民主主義 国際シンポジウム「日本における電子投票・インターネット投票の未来」（11/30 13:00- 早大）]]></title>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3435</link>
@@ -244,16 +258,6 @@ Students attending this seminar will learn basic knowledge and recent research t
 International Researcher Day on 16 November
 Information & Registration: www.hra-hamburg.de/en/international-researcher-day
 …]]></description>
-        </item>
-        <item>
-            <title><![CDATA[早稲田大学主催イスラエル海外武者修行プログラムのお知らせ]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3414</link>
-            <guid>db3204234c6d79886c92ec04b26faa58</guid>
-            <pubDate>Fri, 04 Nov 2022 03:00:00 GMT</pubDate>
-            <description><![CDATA[早稲田大学より、イスラエル海外武者修行プログラムの案内がありました。
-筑波大学学生も参加可能なプログラムです。詳細は以下のURLをご覧ください。
-
-不明な点があればURLのページに記載されている事務局にお問い合わせください。]]></description>
         </item>
     </channel>
 </rss>

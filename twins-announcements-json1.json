@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "d80273ac373b4bf9df695ec17b142e52",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3436",
+            "title": "経済・公共政策プログラムのオープンセミナー",
+            "summary": "経済・公共政策プログラムでは修士学生による、オープンセミナーを行います。\n修士の学生が自分たちの研究発表を行います。\n経済・公共政策プログラムに進学に関心がある学生は是非ご参加ください。\n\n場所：３A301\n時間：11時４０分～１３時３０分\n\n",
+            "date_modified": "2022-11-14T03:00:00.000Z"
+        },
+        {
             "id": "fd1aaa5434b5f358e76d59e51afafd2a",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3435",
             "title": "[DDPIよりご紹介] RIETI 先端技術と民主主義 国際シンポジウム「日本における電子投票・インターネット投票の未来」（11/30 13:00- 早大）",
@@ -135,13 +142,6 @@
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3415",
             "title": "【参加者募集】ドイツ・ハンブルク大学より「国際研究者デー」のご案内",
             "summary": "ドイツ・ハンブルク大学（全学協定校）より、博士課程の学生向けのオンラインイベントの案内をいただきました。\n興味のある方は、各自登録の上、ご参加ください。\nInternational Researcher Day on 16 November\nInformation & Registration: www.hra-hamburg.de/en/international-researcher-day\n…",
-            "date_modified": "2022-11-04T03:00:00.000Z"
-        },
-        {
-            "id": "db3204234c6d79886c92ec04b26faa58",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3414",
-            "title": "早稲田大学主催イスラエル海外武者修行プログラムのお知らせ",
-            "summary": "早稲田大学より、イスラエル海外武者修行プログラムの案内がありました。\n筑波大学学生も参加可能なプログラムです。詳細は以下のURLをご覧ください。\n\n不明な点があればURLのページに記載されている事務局にお問い合わせください。",
             "date_modified": "2022-11-04T03:00:00.000Z"
         }
     ]
