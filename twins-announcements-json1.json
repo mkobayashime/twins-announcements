@@ -5,6 +5,41 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "3f95a7aefa445bf395c039ae502824d1",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3444",
+            "title": "TOMORROW Face-to-face Japanese chat! (G-Chat Japanese)",
+            "summary": "If you are looking for an opportunity to practice Japanese, this program is for you!\nThis is a face-to-face program where you can talk in Japanese with Japanese students!\nNO RESERVATION NEEDED, also y…",
+            "date_modified": "2022-11-15T03:00:00.000Z"
+        },
+        {
+            "id": "c5da45252920156bf7f14e56a72ec054",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3443",
+            "title": "【Request for submission】Pledge for security export control through manaba.",
+            "summary": "From the perspective of controlling to prevent leakage of sensitive technology in the University, the Office of Conflict of Interest and Security Export Control requests students (\nGraduate level) to …",
+            "date_modified": "2022-11-15T03:00:00.000Z"
+        },
+        {
+            "id": "7c6bcdffdc66381a0306a420e46e8e6d",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3442",
+            "title": "【提出依頼】manabaによる安全保障輸出管理にかかる「誓約書」の提出について",
+            "summary": "利益相反・輸出管理マネジメント室では、大学の機微技術の流出を防止するための管理として、経済産業省の推奨に従い入学、修了時等の各段階で「外国為替及び外国貿易法」を遵守する誓約書の取得を行っています。\n入学時および修了（見込み）時等にそれぞれ提出してください。\n\n【提出対象者】大学院学生（退学者等含む）、大学院レベルの（研究生、特別聴講学生、特別研究学生）\n【manabaコース名／コースコード】\n誓約…",
+            "date_modified": "2022-11-15T03:00:00.000Z"
+        },
+        {
+            "id": "423016de9807a61bf11cd8f3d0b8c71c",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3441",
+            "title": "【参加学生募集】2022年度短期研修プログラム（コロンビア：ロスアンデス大学）",
+            "summary": "筑波トランスパシフィックプログラム（TTPP）では、地球規模課題の解決に向けて広く社会の安定に貢献できる中核的な実務人材育成を目的に、コロンビア・ロスアンデス大学での短期研修プログラムを実施します。\nプログラムへの参加を希望する学生は下記ウェブサイトより、募集要項等をよく確認の上、応募してください。\n\n・プログラム概要\n派遣先：ロスアンデス大学（コロンビア）\n派遣期間：2023年3月の2週間程度（…",
+            "date_modified": "2022-11-15T03:00:00.000Z"
+        },
+        {
+            "id": "b0903f972802bedc76cf82b8b1ac90ab",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3440",
+            "title": "【本日から２日間開催】令和4年度筑波大学就職ミライ博 SDGs Career UP Seminar",
+            "summary": "最近よく耳にする「SDGs」とはどんな取り組みかご存知ですか？\n\n「SDGs」とは、「誰一人取り残さない」持続可能で多様性と包摂性のある社会の実現のため、2030年を年限とする17の国際目標を指します。実はつくば市も「SDGs未来都市」に選定されています。\n\n本セミナーでは、SDGsを身近に感じていただき、自分の関心や専攻等が17項目のどこに関連するのか、知識を深めると同時に、企業のSDGsに対す…",
+            "date_modified": "2022-11-15T03:00:00.000Z"
+        },
+        {
             "id": "b2cf76805f9cf9d59a4301eff689a9b6",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3439",
             "title": "（対面）グルノーブル・アルプ大学（フランス）留学説明会　11月17日18：30～",
@@ -108,41 +143,6 @@
             "title": "海外渡航システム（TRIP）運用休止について（2022/11/22（火）17時～11/24（木）17時（予定））",
             "summary": "海外渡航システム（TRIP）のメンテナンス作業に伴い、システムの運用を下記の日程で休止します。\n作業完了次第、運用を再開いたします。ご迷惑をおかけしますが、どうぞよろしくお願いいたします。\n\n※作業の進捗によっては、システムの休止期間が延長される場合があります。\n※休止期間中は、TRIPに登録された渡航者の安否確認を、海外危機管理アドレス（gc-assitance@un.tsukuba.ac.jp…",
             "date_modified": "2022-11-08T03:00:00.000Z"
-        },
-        {
-            "id": "bfd681b867209d772d05cfa00dc55ae3",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3423",
-            "title": "【12/7開催】ASIP/TG+公開セミナー海外ボランティアから始まる／広がるマイキャリア・マイライフその２　～看護師・研究者・教育者として国際協力に携わる～」",
-            "summary": "第48回ASIP/TG+ 公開セミナー「海外ボランティアから始まる／広がるマイキャリア・マイライフその２　～看護師・研究者・教育者として国際協力に携わる～」のご案内です。\n\n日時：2022年12月7日（水）18時10分～19時40分\n会場：Zoomを使用したライブ配信\n講師：土谷 ちひろ　氏　医療創生大学　国際看護学部助教　\n内容：国際看護・公衆衛生の専門家である土谷氏をお招きし、途上国・新興国で…",
-            "date_modified": "2022-11-08T03:00:00.000Z"
-        },
-        {
-            "id": "c67444a5174f45add6e72a55329e3d5b",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3422",
-            "title": "中南米短期プログラム(2023年3月)",
-            "summary": "2023年3月の短期派遣プログラム（コロンビア）のご案内です！！\n\n派遣概要\n派遣先：ロスアンデス大学（コロンビア）\n派遣期間：2023年3月（現在3月5日～3月18日の日程で検討中）を予定　※渡航期間は2022年12月頃決定する予定です。\n募集人数：15名程度　　\n使用言語：スペイン語及び英語\n単位：2単位（国際パートナーシップ研修（中南米））\n\n研修内容\n本学の協定校において、現地への理解を深…",
-            "date_modified": "2022-11-07T03:00:00.000Z"
-        },
-        {
-            "id": "05e60377400675592fd4f5d78daeaf61",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3421",
-            "title": "対面G-Chat English (英語おしゃべりイベント)",
-            "summary": "対面G-Chat Englishスタートします！\n少人数グループに分かれて、英語で会話をします！英語初心者も歓迎です！\n単発での参加も大歓迎です！\n対応スタッフ：本学の留学生（出身国はアメリカ、パラグアイ、台湾、インドなど）\n\n開催日：木曜日（全8回）\n　2022年11月10日、17日、24日\n　　 　　 12月1日、8日、15日\n　2023年１月19日、\n　　　　　2月2日\n時　間：15:00～…",
-            "date_modified": "2022-11-07T03:00:00.000Z"
-        },
-        {
-            "id": "5dd349c2f6db49777056ae10ae695320",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3419",
-            "title": "【開催案内】第38回「中央ユーラシアと日本の未来」公開講演会_関西学院大学商学部／大学院言語コミュニケーション文化研究科 教授 柿原武史氏_11/15(火)",
-            "summary": "筑波大学「日本財団 中央アジア・日本人材育成プロジェクト (NipCA)」では、第38回「中央ユーラシアと日本の未来」公開講演会を、下記の通り開催いたします。\n\n講師：柿原 武史 氏\n関西学院大学商学部／大学院言語コミュニケーション文化研究科 教授\n\n題目：持続可能な移民政策について考える\n－スイスの地方自治体における外国人統合政策と言語サービスの事例から－\n\n日時：令和4年11月15日（火）18…",
-            "date_modified": "2022-11-04T03:00:00.000Z"
-        },
-        {
-            "id": "f0c2ccb77b3120c7da4b3667fca9dfc0",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3418",
-            "title": "【Online】Nov 18 (Fri) 10:00-12:00 World-science Leaders’ Seminar",
-            "summary": "World-science Leaders’ Seminar is a part of classes in Doctoral Program in Human Biology.\nStudents attending this seminar will learn basic knowledge and recent research trends related to the specializ…",
-            "date_modified": "2022-11-04T03:00:00.000Z"
         }
     ]
 }
