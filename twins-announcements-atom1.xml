@@ -2,10 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/mkobayashime/twins-announcements</id>
     <title>在学生へのお知らせ | 筑波大学</title>
-    <updated>2022-11-16T03:40:52.745Z</updated>
+    <updated>2022-11-16T06:08:58.424Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://github.com/mkobayashime/twins-announcements"/>
     <subtitle>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</subtitle>
+    <entry>
+        <title type="html"><![CDATA[東南アジア国際研修【オンライン実施】説明会のご案内]]></title>
+        <id>447b765b4b3a893d38b6fa91129b111a</id>
+        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3453"/>
+        <updated>2022-11-16T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[2022年度東南アジア国際研修（オンライン実施）の開講が決定しました。
+
+参加期間：2023年2月20日～3月24日
+内容： 語学研修、アテネオ・デ・マニラ大学教員による講義、学生交流会
+
+興味のある方はぜひ説明会にご参加ください。
+
+東南アジア国際研修（オンライン）説明会
+日時：11月29日（火）11：30～12：00
+場所：Teams（チームコード：53nvflo）
+
+説明会申込は以下のURL…]]></summary>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【Online】 December 8 (Thur.) 16:45-18:45 PEPP Special Seminar]]></title>
         <id>ff9d458b176fd246e7d086f2765db917</id>
@@ -191,24 +209,5 @@ Campus in Campus協定校のひとつであるグルノーブル・アルプ大�
         <updated>2022-11-11T03:00:00.000Z</updated>
         <summary type="html"><![CDATA[World-science Leaders’ Seminar is a part of classes in Doctoral Program in Human Biology.
 Students attending this seminar will learn basic knowledge and recent research trends related to the specializ…]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【茗渓会主催】オンラインＯＢ・ＯＧキャリアカフェ]]></title>
-        <id>151f32fc4baffaa184713daf6403486b</id>
-        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3432"/>
-        <updated>2022-11-10T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[筑波大生が、筑波大の卒業生（OB・OG）に
-オンラインで質問できるイベントを開催します！
-大学の先輩から就職活動やキャリア、
-学生生活などのアドバイスについて本音で聞ける貴重な機会です。
-
-学年問わず、１年生から大学院生までどなたでも参加可能です。
-この機会をぜひご活用ください！！
-【開催日】
-12月2日（金）17：00-20：00
-
-12月3日（土）10：00-13：00
-
-【対象】学年不問！筑…]]></summary>
     </entry>
 </feed>
