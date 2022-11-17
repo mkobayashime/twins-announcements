@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "03b9236aa8f5b5abcfa39c8430a01d01",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3455",
+            "title": "【Online】Dec 8 (Thu) 13:00-15:00 World-science Leaders’ Seminar",
+            "summary": "World-science Leaders’ Seminar is a part of classes in Doctoral Program in Human Biology.\nStudents attending this seminar will learn basic knowledge and recent research trends related to the specializ…",
+            "date_modified": "2022-11-17T03:00:00.000Z"
+        },
+        {
             "id": "492e3d6510b7aa9e9ccc8b8482a63ce5",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3454",
             "title": "《Repost》【Online】Nov 18 (Fri) 10:00-12:00 World-science Leaders’ Seminar",
@@ -135,13 +142,6 @@
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3435",
             "title": "[DDPIよりご紹介] RIETI 先端技術と民主主義 国際シンポジウム「日本における電子投票・インターネット投票の未来」（11/30 13:00- 早大）",
             "summary": "DDPIプロジェクトのセミナーシリーズではお世話になっております。\n\n来たる12月15日DDPIセミナーにてご講演をいただきます河村和徳先生（東北大学情報科学研究科准教授）より、11月30日（水）に早稲田大学にて対面開催予定のシンポジウムについてのご紹介がございました。シンポジウムは「日本における電子投票・インターネット投票の未来」とあり、現在、つくば市において実証実験の進められておりますインター…",
-            "date_modified": "2022-11-11T03:00:00.000Z"
-        },
-        {
-            "id": "d535e5976110c9091ed6bd92d11d1fa2",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3434",
-            "title": "【開催案内】2022年度つくばアクションプロジェクト公開シンポジウム",
-            "summary": "T-ACTは学生が自らの「やってみたい」という気持ちを基に活動やイベント等を企画立案し、その実現のために学生を支援する制度です。\n今年度は、聖徳大学講師の田中圭氏、スターバックスコーヒージャパン株式会社 中央図書館店ストアマネージャーの杉渕広美氏及びT-ACTオブザーバーでもある認定NPO法人 茨城NPOセンター・コモンズ 代表理事 横田能洋氏による講演と、3名の講師と学生及びT-ACT推進室員に…",
             "date_modified": "2022-11-11T03:00:00.000Z"
         }
     ]
