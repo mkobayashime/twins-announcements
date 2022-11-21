@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "7ce17c37bd38c68e8d7f14c7c8c74a77",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3464",
+            "title": "芸術の［実習室等使用願］様式の一部修正についてお知らせ",
+            "summary": "2022年11月1日申請分より「実習室等使用願」が新様式となりましたが、\n様式に一部修正がございますので、改めて掲示いたします。\n\n実習室使用願で申請せず、実習室を利用している学生が多くみられますので、\n実習室の利用を希望する場合には、必ず申請をするようにお願いいたします。\n\n使用願の様式は2種類ありますので、利用目的にあわせて申請願います。\n\n（1種類目）\n　実習室等時間外「特別」使用願…以下の…",
+            "date_modified": "2022-11-22T03:00:00.000Z"
+        },
+        {
             "id": "bfa9a1e526fe52e3c0ffd2a158476869",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3467",
             "title": "【12月1日（木）開催オンライン公開講演会】『歴史的・文化的視点と最先端社会科学の融合～現代への示唆』",
@@ -135,13 +142,6 @@
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3446",
             "title": "【Online】November 24 (Thur.) 16:45-18:45 PEPP Special Seminar",
             "summary": "The PEPP Special Seminar is a series of free public lecture events that are held by the Program in Economic and Public Policy on a regular basis.\n\nPlease see the information of this special seminar bl…",
-            "date_modified": "2022-11-15T03:00:00.000Z"
-        },
-        {
-            "id": "3ef5d22d091fedac785deec70876a459",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3445",
-            "title": "【明日19:00~】Tsuku-Chat (オンライン英語チャット)",
-            "summary": "「Tsuku-Chat」は、オンラインで国際交流を体験する英語チャットプログラムです！\n毎週、与えられたトピックについて、少人数のグループ内でディスカッションしながら、文化交流や意見交換をすることができます。\n英語力をもっと向上させたい方、留学を考えている方、国を超えて友達を作りたい方にもお薦めです！みなさんの参加をお待ちしています！\n※Tsuku-Chatはシリーズイベントですが、いつからでも参…",
             "date_modified": "2022-11-15T03:00:00.000Z"
         }
     ]
