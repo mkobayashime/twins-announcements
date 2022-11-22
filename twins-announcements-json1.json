@@ -5,6 +5,20 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "10f6c5dfb76b7b52fe213950c3919b65",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3469",
+            "title": "TSUKUBA憲法レクチャー「女性の健康 -リハビリテーションからのアプローチ-」（12/8）のお知らせ",
+            "summary": "社会・国際学群では、森野佐芳梨さん（大阪公立大学大学院 リハビリテーション学研究科 講師）をお招きし、第5回TSUKUBA憲法レクチャー「女性の健康 -リハビリテーションからのアプローチ-」を開催いたします。\n学生、教職員の皆さまであればどなたでもご参加いただけますので、ふるってご参加下さい。\n\n---\n第5回TSUKUBA憲法レクチャー「女性の健康 -リハビリテーションからのアプローチ-」\n\n日…",
+            "date_modified": "2022-11-22T03:00:00.000Z"
+        },
+        {
+            "id": "373e2bd538f830a8463264c6fc1f5f72",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3468",
+            "title": "【Online】December 13th (Tues.) 16:45-18:45 PEPP Special Seminar",
+            "summary": "The PEPP Special Seminar is a series of free public lecture events that are held by the Program in Economic and Public Policy on a regular basis. Students attending this seminar will learn about the m…",
+            "date_modified": "2022-11-22T03:00:00.000Z"
+        },
+        {
             "id": "7ce17c37bd38c68e8d7f14c7c8c74a77",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3464",
             "title": "芸術の［実習室等使用願］様式の一部修正についてお知らせ",
@@ -128,20 +142,6 @@
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3448",
             "title": "【注意喚起】セミナー等への不審な勧誘に注意",
             "summary": "　先日学内において、本学の学生が、キャリア関係のセミナーへの参加に関する不審な勧誘を受けた旨の情報提供がありましたので、注意喚起します。\n\n　大学の周辺では、正体を隠して勧誘を行う悪質な団体等が活動してます。また、大学生を狙った詐欺や悪質な商法による被害が毎年報告されています。\n　少しでも怪しいと感じたら、はっきりと断るなど、自己防衛に努めてください。また、何か気になったり、少しでもへんだと思った…",
-            "date_modified": "2022-11-15T03:00:00.000Z"
-        },
-        {
-            "id": "6bc4ec8d1884b61bb77c60b1adb7f141",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3447",
-            "title": "【注意喚起】不審者情報について",
-            "summary": "　表題の件につきまして、11月8日（月）午前1時ごろ、天久保2丁目からグローバルヴィレッジにかけて、不審な日本人と思われる男性に、付きまとわれた旨の情報提供がありましたので、注意喚起します。\n\n　本件以外にも、不審者に遭遇したという報告が学生生活課に寄せられております。学生の皆さんにおいては、夜間の外出はなるべく控えるとともに、やむを得ず出かける場合には、一人で外出しないように心がけてください。\n…",
-            "date_modified": "2022-11-15T03:00:00.000Z"
-        },
-        {
-            "id": "87f491e5e92bb0cac90599d3ff14669d",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3446",
-            "title": "【Online】November 24 (Thur.) 16:45-18:45 PEPP Special Seminar",
-            "summary": "The PEPP Special Seminar is a series of free public lecture events that are held by the Program in Economic and Public Policy on a regular basis.\n\nPlease see the information of this special seminar bl…",
             "date_modified": "2022-11-15T03:00:00.000Z"
         }
     ]
