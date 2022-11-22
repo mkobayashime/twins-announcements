@@ -4,10 +4,22 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Tue, 22 Nov 2022 05:05:04 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 22 Nov 2022 06:08:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
+        <item>
+            <title><![CDATA[【再掲】【12/7開催】ASIP/TG+公開セミナー海外ボランティアから始まる／広がるマイキャリア・マイライフその２　～看護師・研究者・教育者として国際協力に携わる～」 2022/11/22]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3471</link>
+            <guid>bb4361d9f1c22dd0810ed5ad49e8cf79</guid>
+            <pubDate>Tue, 22 Nov 2022 03:00:00 GMT</pubDate>
+            <description><![CDATA[第48回ASIP/TG+ 公開セミナー「海外ボランティアから始まる／広がるマイキャリア・マイライフその２　～看護師・研究者・教育者として国際協力に携わる～」のご案内です。
+
+日時：2022年12月7日（水）18時10分～19時40分
+会場：Zoomを使用したライブ配信
+講師：土谷 ちひろ　氏　医療創生大学　国際看護学部助教　
+内容：国際看護・公衆衛生の専門家である土谷氏をお招きし、途上国・新興国で…]]></description>
+        </item>
         <item>
             <title><![CDATA[文部科学省「全国アントレプレナーシップ人材育成プログラム」受講生募集]]></title>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3470</link>
@@ -234,15 +246,6 @@ Please see the information of this special seminar bl…]]></description>
 Please join and enjoy an international gathering, with free food (buffet), games (bingo), and performances (Japanese drum, Hyottoko)
 
 Date & Time: 13th De…]]></description>
-        </item>
-        <item>
-            <title><![CDATA[【お知らせ】性犯罪・性暴力被害者のためのワンストップ支援センターについて]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3449</link>
-            <guid>07e00a61c57d4f4a91dc4b81bbcf2f29</guid>
-            <pubDate>Tue, 15 Nov 2022 03:00:00 GMT</pubDate>
-            <description><![CDATA[　性犯罪・性暴力は被害者の尊厳を著しく踏みにじる行為であり、その心身に長期にわたり重大な影響を及ぼすため、その根絶に向けて社会全体で取り組む必要があります。
-
-　各都道府県には性犯罪・性暴力被害者のためのワンストップ支援センターが設置されています。被害直後から総合的な支援を行うことで、被害者の心身の負担を軽減し、その健康回復を図る組織であり、電話相談、面談相談のほか、病院や警察への同行支援や医療費…]]></description>
         </item>
     </channel>
 </rss>
