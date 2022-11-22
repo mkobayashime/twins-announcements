@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "1c1abacfc7a0f9582678d5fd04e9ede0",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3470",
+            "title": "文部科学省「全国アントレプレナーシップ人材育成プログラム」受講生募集",
+            "summary": "文部科学省が大学生・大学院生を対象に「全国アントレプレナーシップ人材育成プログラム」の受講生募集をしています。\n\n詳細は以下の内容とポスター をご覧ください\n\n—————————————-\n\n文部科学省では、この冬、全国2,000名の学生を対象に、アントレプレナーシップを身につけるプログラムをオンラインで開催します。\nアントレプレナーシップは、起業意思の有無に関わらず、自ら枠を超えて行動を起こし新…",
+            "date_modified": "2022-11-22T03:00:00.000Z"
+        },
+        {
             "id": "10f6c5dfb76b7b52fe213950c3919b65",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3469",
             "title": "TSUKUBA憲法レクチャー「女性の健康 -リハビリテーションからのアプローチ-」（12/8）のお知らせ",
@@ -135,13 +142,6 @@
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3449",
             "title": "【お知らせ】性犯罪・性暴力被害者のためのワンストップ支援センターについて",
             "summary": "　性犯罪・性暴力は被害者の尊厳を著しく踏みにじる行為であり、その心身に長期にわたり重大な影響を及ぼすため、その根絶に向けて社会全体で取り組む必要があります。\n\n　各都道府県には性犯罪・性暴力被害者のためのワンストップ支援センターが設置されています。被害直後から総合的な支援を行うことで、被害者の心身の負担を軽減し、その健康回復を図る組織であり、電話相談、面談相談のほか、病院や警察への同行支援や医療費…",
-            "date_modified": "2022-11-15T03:00:00.000Z"
-        },
-        {
-            "id": "cae45601cdec6cd02c7f4d50b2759d91",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3448",
-            "title": "【注意喚起】セミナー等への不審な勧誘に注意",
-            "summary": "　先日学内において、本学の学生が、キャリア関係のセミナーへの参加に関する不審な勧誘を受けた旨の情報提供がありましたので、注意喚起します。\n\n　大学の周辺では、正体を隠して勧誘を行う悪質な団体等が活動してます。また、大学生を狙った詐欺や悪質な商法による被害が毎年報告されています。\n　少しでも怪しいと感じたら、はっきりと断るなど、自己防衛に努めてください。また、何か気になったり、少しでもへんだと思った…",
             "date_modified": "2022-11-15T03:00:00.000Z"
         }
     ]
