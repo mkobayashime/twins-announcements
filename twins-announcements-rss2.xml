@@ -4,10 +4,23 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Tue, 22 Nov 2022 06:08:47 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 22 Nov 2022 07:05:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
+        <item>
+            <title><![CDATA[再掲：[就職課]公開授業　キャリアデザイン入門～世界にはばたく未来の自分～]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3472</link>
+            <guid>4e902d40789ac3bf6e38850ca0bd590f</guid>
+            <pubDate>Tue, 22 Nov 2022 03:00:00 GMT</pubDate>
+            <description><![CDATA[公開授業です。
+
+学士基盤科目「キャリアデザイン入門～世界にはばたく未来の自分～」第６回、第７回を全学年の皆さんに公開します。
+ゲストスピーカーとして筑波大学卒業生が、自分の歩んできた人生を語り、後輩の皆さんに、力強いメッセージを届けてくれます。
+この貴重な機会を逃さず、先輩の話をきっかけとして、自分のこれからのキャリアについて考えてみませんか？
+
+【日時とゲストスピーカー】講演:45分　質疑応答…]]></description>
+        </item>
         <item>
             <title><![CDATA[【再掲】【12/7開催】ASIP/TG+公開セミナー海外ボランティアから始まる／広がるマイキャリア・マイライフその２　～看護師・研究者・教育者として国際協力に携わる～」 2022/11/22]]></title>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3471</link>
@@ -236,16 +249,6 @@ Please see the information of this special seminar bl…]]></description>
             <description><![CDATA[The PEPP Special Seminar is a series of free public lecture events that are held by the Program in Economic and Public Policy on a regular basis.
 
 Please see the information of this special seminar bl…]]></description>
-        </item>
-        <item>
-            <title><![CDATA[International Party (Dec 13th) FREE!]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3450</link>
-            <guid>470d67b2ba3347e98d17e787bfc9c55f</guid>
-            <pubDate>Tue, 15 Nov 2022 03:00:00 GMT</pubDate>
-            <description><![CDATA[International Party with local entrepreneurs!
-Please join and enjoy an international gathering, with free food (buffet), games (bingo), and performances (Japanese drum, Hyottoko)
-
-Date & Time: 13th De…]]></description>
         </item>
     </channel>
 </rss>

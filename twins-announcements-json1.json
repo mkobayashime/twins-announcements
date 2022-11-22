@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "4e902d40789ac3bf6e38850ca0bd590f",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3472",
+            "title": "再掲：[就職課]公開授業　キャリアデザイン入門～世界にはばたく未来の自分～",
+            "summary": "公開授業です。\n\n学士基盤科目「キャリアデザイン入門～世界にはばたく未来の自分～」第６回、第７回を全学年の皆さんに公開します。\nゲストスピーカーとして筑波大学卒業生が、自分の歩んできた人生を語り、後輩の皆さんに、力強いメッセージを届けてくれます。\nこの貴重な機会を逃さず、先輩の話をきっかけとして、自分のこれからのキャリアについて考えてみませんか？\n\n【日時とゲストスピーカー】講演:45分　質疑応答…",
+            "date_modified": "2022-11-22T03:00:00.000Z"
+        },
+        {
             "id": "bb4361d9f1c22dd0810ed5ad49e8cf79",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3471",
             "title": "【再掲】【12/7開催】ASIP/TG+公開セミナー海外ボランティアから始まる／広がるマイキャリア・マイライフその２　～看護師・研究者・教育者として国際協力に携わる～」 2022/11/22",
@@ -136,13 +143,6 @@
             "title": "【Online】 December 8 (Thur.) 16:45-18:45 PEPP Special Seminar",
             "summary": "The PEPP Special Seminar is a series of free public lecture events that are held by the Program in Economic and Public Policy on a regular basis.\n\nPlease see the information of this special seminar bl…",
             "date_modified": "2022-11-16T03:00:00.000Z"
-        },
-        {
-            "id": "470d67b2ba3347e98d17e787bfc9c55f",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3450",
-            "title": "International Party (Dec 13th) FREE!",
-            "summary": "International Party with local entrepreneurs!\nPlease join and enjoy an international gathering, with free food (buffet), games (bingo), and performances (Japanese drum, Hyottoko)\n\nDate & Time: 13th De…",
-            "date_modified": "2022-11-15T03:00:00.000Z"
         }
     ]
 }
