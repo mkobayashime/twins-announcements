@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "1ac9205de4b99df7a559f0f21cd33654",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3483",
+            "title": "【再掲：開催案内】2022年度つくばアクションプロジェクト公開シンポジウム",
+            "summary": "T-ACTは学生が自らの「やってみたい」という気持ちを基に活動やイベント等を企画立案し、その実現のために学生を支援する制度です。\n\n今年度は、聖徳大学講師の田中圭氏、スターバックスコーヒージャパン株式会社 中央図書館店ストアマネージャーの杉渕広美氏及びT-ACTオブザーバーでもある認定NPO法人 茨城NPOセンター・コモンズ 代表理事 横田能洋氏による講演と、3名の講師と学生及びT-ACT推進室員…",
+            "date_modified": "2022-11-24T03:00:00.000Z"
+        },
+        {
             "id": "c479b4b7d97b8eaa65ede54e383110aa",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3482",
             "title": "【Face-to-face Japanese Chat Event】J-Chat～SCであそぼ～",
@@ -135,13 +142,6 @@
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3463",
             "title": "【12月2日（金）開催オンライン公開講演会】『インドネシアの伝統的エビ養殖農家と歩んだ30年－エコシュリンプ民衆交易事業の歴史を振り返る』",
             "summary": "学生の皆様、教職員の皆様\n\nこのたび社会・国際学群チュートリアルプログラムでは、オンラインによる公開講演会を開催いたします。講師は、特定非営利活動法人APLA（Alternative People’s  Linkage in Asia）事務局長の野川未央氏で、『インドネシアの伝統的エビ養殖農家と歩んだ30年－エコシュリンプ民衆交易事業の歴史を振り返る』というタイトルで講演を行っていただきます。皆様…",
-            "date_modified": "2022-11-21T03:00:00.000Z"
-        },
-        {
-            "id": "49d05e1fcac63552de3ccfaa12fb57f7",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3462",
-            "title": "【Reminder】Temporary Suspension of \"TRIP \" system (22 Nov, 2022 17:00- 24 Nov, 2022 17:00)",
-            "summary": "Due to system maintenance, the Overseas Travel System \"TRIP\" will not be available during the time specified below.\nWe apologize for any inconvenience this may cause.\n\n＊Please note：the suspension peri…",
             "date_modified": "2022-11-21T03:00:00.000Z"
         }
     ]
