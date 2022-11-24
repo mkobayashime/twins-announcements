@@ -4,10 +4,18 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Thu, 24 Nov 2022 02:22:01 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 24 Nov 2022 05:04:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
+        <item>
+            <title><![CDATA[【Online】Dec 9 (Fri) 10:00-12:00 World-science Leaders’ Seminar]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3480</link>
+            <guid>8b5c1fd92741430a914baf694e64693c</guid>
+            <pubDate>Thu, 24 Nov 2022 03:00:00 GMT</pubDate>
+            <description><![CDATA[World-science Leaders’ Seminar is a part of classes in Doctoral Program in Human Biology.
+Students attending this seminar will learn basic knowledge and recent research trends related to the specializ…]]></description>
+        </item>
         <item>
             <title><![CDATA[【本日15:00~】対面G-Chat English (英語おしゃべりイベント)]]></title>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3479</link>
@@ -242,18 +250,6 @@ We apologize for any inconvenience this may cause.
 なお、申請にあたっては、申請書への教員の署名（自署）が必要です。
 
 ※申請締切期限：令和５年１月23日（月）16時30分まで]]></description>
-        </item>
-        <item>
-            <title><![CDATA[「遺伝研メソッド」による科学英語プレゼンテーション出前研修]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3458</link>
-            <guid>79b2638081e540cc8642a00aac4bc79e</guid>
-            <pubDate>Mon, 21 Nov 2022 03:00:00 GMT</pubDate>
-            <description><![CDATA[(English follows Japanese)
-
-研究者の科学プレゼンテーション能力の向上を目的として、「遺伝研メソッド」による科学英語プレゼンテーション出前研修を開催いたします。オンライン開催ですのでぜひご参加ください。また指導教官の推薦があれば学生の参加も歓迎いたします。
-
-○科学英語プレゼンテーション出前研修
-対　象：若手研究者（PD含む）で原則すべての時間に参加できる方【部分参加（聴…]]></description>
         </item>
     </channel>
 </rss>
