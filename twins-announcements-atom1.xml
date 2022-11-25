@@ -2,10 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/mkobayashime/twins-announcements</id>
     <title>在学生へのお知らせ | 筑波大学</title>
-    <updated>2022-11-24T21:08:39.242Z</updated>
+    <updated>2022-11-25T02:23:46.617Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://github.com/mkobayashime/twins-announcements"/>
     <subtitle>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</subtitle>
+    <entry>
+        <title type="html"><![CDATA[【対面ワークショップ】サルサダンス　12月１日（木）*国際交流フェス]]></title>
+        <id>d2fdc02d5b237eaacc8567cf366d7b81</id>
+        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3485"/>
+        <updated>2022-11-25T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[絶対楽しい！ワークショップ！＜ラテンアメリカよりサルサダンス＞
+
+国際交流フェス ”IMAGINE THE 海外” にて、
+エクアドルからの留学生（フィットネス・スポーツ・ダンス専門）がサルサの踊り方を教えます！
+楽しく踊りましょう！初心者大歓迎！
+
+場所：大学会館講堂ステージ
+時間：① 10:30-11:00
+　　　② 12:30-13:00
+持ち物：水分、動きやすい服装
+※要予約]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[学研災および付帯賠責の加入状況の確認方法]]></title>
+        <id>d8fae7ab195ce5c6699059e581f7f936</id>
+        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3484"/>
+        <updated>2022-11-25T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[学研災（学生教育研究災害障害保険）および付帯賠責（学研災付帯賠償責任保険）の加入状況は、TWINSで確認することができます。確認方法は、PDFファイルを参照してください。
+
+学研災、付帯賠責の内容については、筑波大学のHPで確認してください。
+]]></summary>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【再掲：開催案内】2022年度つくばアクションプロジェクト公開シンポジウム]]></title>
         <id>1ac9205de4b99df7a559f0f21cd33654</id>
@@ -224,32 +251,5 @@ NO RESERVATION NEEDED! FREE!
 *Reservations required for some workshops only
 
 This event aims to make our u…]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【対面イベント】国際交流フェス ”IMAGINE THE 海外” 12月1日(木)]]></title>
-        <id>84478edff046d39cba8e868af8ea0da1</id>
-        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3465"/>
-        <updated>2022-11-21T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[日時：2022年12月1日（木）10：00～15：00
-場所：大学会館
-登録不要・参加無料！※一部イベントは要予約
-
-日本人学生も留学生も楽しめ、学べる交流イベントです！
-是非遊びにきてください！
-
-このイベントの趣旨は５つ
-① 世界各国からやってきている留学生の母国（地域）の文化を知ろう！
-② 交換留学生の協定校のことを知ろう！
-③ 大学生活を国際化しよう！
-④ 将来の留学につながる情報をGET…]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【12月2日（金）開催オンライン公開講演会】『インドネシアの伝統的エビ養殖農家と歩んだ30年－エコシュリンプ民衆交易事業の歴史を振り返る』]]></title>
-        <id>5b7e735f4dd178d03bcbc1892649eb75</id>
-        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3463"/>
-        <updated>2022-11-21T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[学生の皆様、教職員の皆様
-
-このたび社会・国際学群チュートリアルプログラムでは、オンラインによる公開講演会を開催いたします。講師は、特定非営利活動法人APLA（Alternative People’s  Linkage in Asia）事務局長の野川未央氏で、『インドネシアの伝統的エビ養殖農家と歩んだ30年－エコシュリンプ民衆交易事業の歴史を振り返る』というタイトルで講演を行っていただきます。皆様…]]></summary>
     </entry>
 </feed>
