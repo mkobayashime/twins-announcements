@@ -4,10 +4,22 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Fri, 25 Nov 2022 06:08:55 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 25 Nov 2022 09:04:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
+        <item>
+            <title><![CDATA[ボーフム大学（ドイツ）留学説明会　12/2（金）18：30～＠オンライン]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3488</link>
+            <guid>8b32f704778f838fefa8bbe8e85a84b0</guid>
+            <pubDate>Fri, 25 Nov 2022 03:00:00 GMT</pubDate>
+            <description><![CDATA[Campus in Campus協定校であるボーフム大学の留学説明会を開催します。
+ボーフム大学職員が大学の様子や交換留学生の生活について教えてくれます！ボーフム大学への交換留学を考えている方、ドイツ留学を検討している方、是非ご参加ください！
+
+日　　時：2022年12月2日（金）18：30-19：30
+場　　所：Microsoft Team　★オンライン開催です★
+参加方法：事前登録の上、チーム…]]></description>
+        </item>
         <item>
             <title><![CDATA[スーツ等の割引サービスについて（11月25日更新）]]></title>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3487</link>
@@ -229,22 +241,6 @@ An international student from Ecuador (specializing in fitness, sports, and danc
             <guid>373e2bd538f830a8463264c6fc1f5f72</guid>
             <pubDate>Tue, 22 Nov 2022 03:00:00 GMT</pubDate>
             <description><![CDATA[The PEPP Special Seminar is a series of free public lecture events that are held by the Program in Economic and Public Policy on a regular basis. Students attending this seminar will learn about the m…]]></description>
-        </item>
-        <item>
-            <title><![CDATA[芸術の［実習室等使用願］様式の一部修正についてお知らせ]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3464</link>
-            <guid>7ce17c37bd38c68e8d7f14c7c8c74a77</guid>
-            <pubDate>Tue, 22 Nov 2022 03:00:00 GMT</pubDate>
-            <description><![CDATA[2022年11月1日申請分より「実習室等使用願」が新様式となりましたが、
-様式に一部修正がございますので、改めて掲示いたします。
-
-実習室使用願で申請せず、実習室を利用している学生が多くみられますので、
-実習室の利用を希望する場合には、必ず申請をするようにお願いいたします。
-
-使用願の様式は2種類ありますので、利用目的にあわせて申請願います。
-
-（1種類目）
-　実習室等時間外「特別」使用願…以下の…]]></description>
         </item>
     </channel>
 </rss>

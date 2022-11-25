@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "8b32f704778f838fefa8bbe8e85a84b0",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3488",
+            "title": "ボーフム大学（ドイツ）留学説明会　12/2（金）18：30～＠オンライン",
+            "summary": "Campus in Campus協定校であるボーフム大学の留学説明会を開催します。\nボーフム大学職員が大学の様子や交換留学生の生活について教えてくれます！ボーフム大学への交換留学を考えている方、ドイツ留学を検討している方、是非ご参加ください！\n\n日　　時：2022年12月2日（金）18：30-19：30\n場　　所：Microsoft Team　★オンライン開催です★\n参加方法：事前登録の上、チーム…",
+            "date_modified": "2022-11-25T03:00:00.000Z"
+        },
+        {
             "id": "072dd0005b2bed5c58bd6e0efaf49c7c",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3487",
             "title": "スーツ等の割引サービスについて（11月25日更新）",
@@ -135,13 +142,6 @@
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3468",
             "title": "【Online】December 13th (Tues.) 16:45-18:45 PEPP Special Seminar",
             "summary": "The PEPP Special Seminar is a series of free public lecture events that are held by the Program in Economic and Public Policy on a regular basis. Students attending this seminar will learn about the m…",
-            "date_modified": "2022-11-22T03:00:00.000Z"
-        },
-        {
-            "id": "7ce17c37bd38c68e8d7f14c7c8c74a77",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3464",
-            "title": "芸術の［実習室等使用願］様式の一部修正についてお知らせ",
-            "summary": "2022年11月1日申請分より「実習室等使用願」が新様式となりましたが、\n様式に一部修正がございますので、改めて掲示いたします。\n\n実習室使用願で申請せず、実習室を利用している学生が多くみられますので、\n実習室の利用を希望する場合には、必ず申請をするようにお願いいたします。\n\n使用願の様式は2種類ありますので、利用目的にあわせて申請願います。\n\n（1種類目）\n　実習室等時間外「特別」使用願…以下の…",
             "date_modified": "2022-11-22T03:00:00.000Z"
         }
     ]
