@@ -4,10 +4,18 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Fri, 25 Nov 2022 02:23:46 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 25 Nov 2022 03:29:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
+        <item>
+            <title><![CDATA[【Online】Dec 16 (Fri) 10:00-12:00 Business Leaders’ Seminar]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3486</link>
+            <guid>7e5212775bea1974bcbff9281a0975e1</guid>
+            <pubDate>Fri, 25 Nov 2022 03:00:00 GMT</pubDate>
+            <description><![CDATA[Business Leaders’ Seminar is a part of classes in Doctoral Program in Human Biology.
+In this class, world's top business leaders invited to share their experiences in career development and business s…]]></description>
+        </item>
         <item>
             <title><![CDATA[【対面ワークショップ】サルサダンス　12月１日（木）*国際交流フェス]]></title>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3485</link>
@@ -240,19 +248,6 @@ An international student from Ecuador (specializing in fitness, sports, and danc
 〇日時：令和４年１２月１日（木）１６時４５分～１８時００分
 
 〇開催場…]]></description>
-        </item>
-        <item>
-            <title><![CDATA[【Face-to-face Event】International Exchange Festival "IMAGINE THE 海外", Dec 1st]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3466</link>
-            <guid>7a64934f3cbb702131129f9a3dc98530</guid>
-            <pubDate>Mon, 21 Nov 2022 03:00:00 GMT</pubDate>
-            <description><![CDATA[Date: December 1st, 2022 (Thursday)
-Time: 10:00-15:00
-Venue: University Hall (Daigaku Kaikan)
-NO RESERVATION NEEDED! FREE!
-*Reservations required for some workshops only
-
-This event aims to make our u…]]></description>
         </item>
     </channel>
 </rss>
