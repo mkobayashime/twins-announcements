@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/mkobayashime/twins-announcements</id>
     <title>在学生へのお知らせ | 筑波大学</title>
-    <updated>2022-11-25T03:29:08.099Z</updated>
+    <updated>2022-11-25T06:08:55.661Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://github.com/mkobayashime/twins-announcements"/>
     <subtitle>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</subtitle>
+    <entry>
+        <title type="html"><![CDATA[スーツ等の割引サービスについて（11月25日更新）]]></title>
+        <id>072dd0005b2bed5c58bd6e0efaf49c7c</id>
+        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3487"/>
+        <updated>2022-11-25T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[本学は紳士服の大手4社と契約しています。
+そのため、在学生とそのご家族の皆様には、全国のAOKI、コナカ、はるやま、洋服の青山で、通常の割引価格から更に割引いた価格でスーツ等をご購入いただけます。
+大変お得ですので、是非ご利用ください。
+※ご購入いただいた金額の一部が大学に寄附されます。]]></summary>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【Online】Dec 16 (Fri) 10:00-12:00 Business Leaders’ Seminar]]></title>
         <id>7e5212775bea1974bcbff9281a0975e1</id>
@@ -233,18 +243,5 @@ An international student from Ecuador (specializing in fitness, sports, and danc
 
 （1種類目）
 　実習室等時間外「特別」使用願…以下の…]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【12月1日（木）開催オンライン公開講演会】『歴史的・文化的視点と最先端社会科学の融合～現代への示唆』]]></title>
-        <id>bfa9a1e526fe52e3c0ffd2a158476869</id>
-        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3467"/>
-        <updated>2022-11-21T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[学生の皆様、教職員の皆様
-
-  このたび社会・国際学群チュートリアルプログラムでは、公開講演会を開催いたします。講師は、慶応義塾大学経済学部、教授の山田浩之氏で、『歴史的・文化的視点と最先端社会科学の融合～現代への示唆』というタイトルで講演を行っていただきます。皆様に是非ご参加いただきたく、以下のとおり、ご案内申し上げます。
-
-〇日時：令和４年１２月１日（木）１６時４５分～１８時００分
-
-〇開催場…]]></summary>
     </entry>
 </feed>
