@@ -5,6 +5,20 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "b7492d629bba4452947a2fc9382eb731",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3496",
+            "title": "12月1日（木）【IMAGINE THE 海外】大学公式グッズ対面販売のお知らせ",
+            "summary": "12月1日（木）に開催する国際交流フェス「IMAGINE THE 海外」＠大学会館　にて、普段はオンラインでしか購入できない大学公式グッズを対面販売します！\n\n他にも各国からの留学生による文化紹介ブースやパフォーマンス、プレゼンテーションなど盛りだくさん！\n是非、大学会館へお越しください！\n\n筑波大学国際交流フェス「IMAGINE THE 海外」10:00~15:00　＠大学会館\nhttps://…",
+            "date_modified": "2022-11-28T03:00:00.000Z"
+        },
+        {
+            "id": "b0cf54dc33b5efce00d2b7ee6b138f0d",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3494",
+            "title": "【Repost】Face-to-face workshop! Salsa dance - Dec 1st *International Exchange Fes",
+            "summary": "Let’s join the Salsa Workshop at the International Exchange Festival “IMAGINE THE 海外”!\nAn international student from Ecuador (specializing in fitness, sports, and dance) will teach you how to dance sa…",
+            "date_modified": "2022-11-28T03:00:00.000Z"
+        },
+        {
             "id": "460f0fec4790246d7546ffcaa595c20a",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3493",
             "title": "スロベニア短期研修",
@@ -128,20 +142,6 @@
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3476",
             "title": "【追加募集】2022年度短期研修プログラム（コロンビア：ロスアンデス大学）",
             "summary": "追加募集を実施いたします！12月9日〆切\n\n筑波トランスパシフィックプログラム（TTPP）では、地球規模課題の解決に向けて広く社会の安定に貢献できる中核的な実務人材育成を目的に、コロンビア・ロスアンデス大学での短期研修プログラムを実施します。\nプログラムへの参加を希望する学生は下記ウェブサイトより、募集要項等をよく確認の上、応募してください。\n\n・プログラム概要\n派遣先：ロスアンデス大学（コロンビ…",
-            "date_modified": "2022-11-22T03:00:00.000Z"
-        },
-        {
-            "id": "9b80240a1dd9f4ef5f16ef6c588965c4",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3474",
-            "title": "Face-to-face workshop! Salsa dance - Dec 1st *International Exchange Fes",
-            "summary": "Let’s join the Salsa Workshop at the International Exchange Festival “IMAGINE THE 海外”!\nAn international student from Ecuador (specializing in fitness, sports, and dance) will teach you how to dance sa…",
-            "date_modified": "2022-11-22T03:00:00.000Z"
-        },
-        {
-            "id": "d2fdc02d5b237eaacc8567cf366d7b81",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3473",
-            "title": "【対面ワークショップ】サルサダンス　12月１日（木）*国際交流フェス",
-            "summary": "絶対楽しい！ワークショップ！＜ラテンアメリカよりサルサダンス＞\n\n国際交流フェス ”IMAGINE THE 海外” にて、\nエクアドルからの留学生（フィットネス・スポーツ・ダンス専門）がサルサの踊り方を教えます！\n楽しく踊りましょう！初心者大歓迎！\n\n場所：大学会館講堂ステージ\n時間：① 10:30-11:00\n　　　② 12:30-13:00\n持ち物：水分、動きやすい服装\n※要予約\n",
             "date_modified": "2022-11-22T03:00:00.000Z"
         }
     ]
