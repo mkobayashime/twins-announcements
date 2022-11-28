@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "9249ccb22767d69b962ed8b3bc8edff0",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3490",
+            "title": "トビタテ！留学JAPAN　新・日本代表プログラム2023年度応募に向けて、先輩トビタテ生の体験談を聞こう！（12/1）",
+            "summary": "　新しいトビタテ！の応募申請が12月（予定）に始まります。それに先立ち、トビタテ！留学JAPAN日本代表プログラムで派遣され、帰国されたばかりのトビタテ先輩の方々に、留学体験談を共有して頂き、その後、概要説明及び質疑応答を行います。\nトビタテ！に申請する方に限りません。留学に関心のある方は、奮ってご参加下さい。先輩の体験談を参考に、是非留学について考えて下さい。\n　トビタテ！以外の奨学金についても…",
+            "date_modified": "2022-11-28T03:00:00.000Z"
+        },
+        {
             "id": "cb6fb7131901610457d0bd78ac096052",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3489",
             "title": "令和4年度就職ミライ博　業界研究会直前セミナー　",
@@ -135,13 +142,6 @@
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3469",
             "title": "TSUKUBA憲法レクチャー「女性の健康 -リハビリテーションからのアプローチ-」（12/8）のお知らせ",
             "summary": "社会・国際学群では、森野佐芳梨さん（大阪公立大学大学院 リハビリテーション学研究科 講師）をお招きし、第5回TSUKUBA憲法レクチャー「女性の健康 -リハビリテーションからのアプローチ-」を開催いたします。\n学生、教職員の皆さまであればどなたでもご参加いただけますので、ふるってご参加下さい。\n\n---\n第5回TSUKUBA憲法レクチャー「女性の健康 -リハビリテーションからのアプローチ-」\n\n日…",
-            "date_modified": "2022-11-22T03:00:00.000Z"
-        },
-        {
-            "id": "373e2bd538f830a8463264c6fc1f5f72",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3468",
-            "title": "【Online】December 13th (Tues.) 16:45-18:45 PEPP Special Seminar",
-            "summary": "The PEPP Special Seminar is a series of free public lecture events that are held by the Program in Economic and Public Policy on a regular basis. Students attending this seminar will learn about the m…",
             "date_modified": "2022-11-22T03:00:00.000Z"
         }
     ]
