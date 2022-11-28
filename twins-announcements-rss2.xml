@@ -4,10 +4,17 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Mon, 28 Nov 2022 09:10:55 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 28 Nov 2022 12:11:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
+        <item>
+            <title><![CDATA[Tsukuba-Hamburg Networking Challenge Grant [Deadline: Monday, December 12, 2022].]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3500</link>
+            <guid>95f861f4d06944865d41afc9ba7d9150</guid>
+            <pubDate>Mon, 28 Nov 2022 03:00:00 GMT</pubDate>
+            <description><![CDATA[The Research Administration/Management Office works closely with international coordinators at overseas research institutions to promote international transdisciplinary joint research with a variety o…]]></description>
+        </item>
         <item>
             <title><![CDATA[【再掲】【12月1日（木）開催オンライン公開講演会】『歴史的・文化的視点と最先端社会科学の融合～現代への示唆』]]></title>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3499</link>
@@ -232,24 +239,6 @@ In this class, world's top business leaders invited to share their experiences i
             <pubDate>Thu, 24 Nov 2022 03:00:00 GMT</pubDate>
             <description><![CDATA[World-science Leaders’ Seminar is a part of classes in Doctoral Program in Human Biology.
 Students attending this seminar will learn basic knowledge and recent research trends related to the specializ…]]></description>
-        </item>
-        <item>
-            <title><![CDATA[【本日15:00~】対面G-Chat English (英語おしゃべりイベント)]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3479</link>
-            <guid>6a0d9b4dfb6ed546192f697658c3e5f1</guid>
-            <pubDate>Thu, 24 Nov 2022 03:00:00 GMT</pubDate>
-            <description><![CDATA[対面G-Chat Englishです！
-少人数グループに分かれて、英語で会話をします！英語初心者も歓迎です！
-単発での参加も大歓迎です！
-対応スタッフ：本学の留学生（出身国はアメリカ、パラグアイ、台湾、インドなど）
-
-開催日：木曜日
-2022年11月24日
-　　　12月1日、8日、15日
-2023年１月19日、
-　　　2月2日
-時　間：15:00～17:00
-会　場：スチューデント・コモンズ（第一…]]></description>
         </item>
     </channel>
 </rss>

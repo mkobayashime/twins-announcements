@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "95f861f4d06944865d41afc9ba7d9150",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3500",
+            "title": "Tsukuba-Hamburg Networking Challenge Grant [Deadline: Monday, December 12, 2022].",
+            "summary": "The Research Administration/Management Office works closely with international coordinators at overseas research institutions to promote international transdisciplinary joint research with a variety o…",
+            "date_modified": "2022-11-28T03:00:00.000Z"
+        },
+        {
             "id": "1b56aee0b07c52c5fa4e8df170cd02a5",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3499",
             "title": "【再掲】【12月1日（木）開催オンライン公開講演会】『歴史的・文化的視点と最先端社会科学の融合～現代への示唆』",
@@ -135,13 +142,6 @@
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3480",
             "title": "【Online】Dec 9 (Fri) 10:00-12:00 World-science Leaders’ Seminar",
             "summary": "World-science Leaders’ Seminar is a part of classes in Doctoral Program in Human Biology.\nStudents attending this seminar will learn basic knowledge and recent research trends related to the specializ…",
-            "date_modified": "2022-11-24T03:00:00.000Z"
-        },
-        {
-            "id": "6a0d9b4dfb6ed546192f697658c3e5f1",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3479",
-            "title": "【本日15:00~】対面G-Chat English (英語おしゃべりイベント)",
-            "summary": "対面G-Chat Englishです！\n少人数グループに分かれて、英語で会話をします！英語初心者も歓迎です！\n単発での参加も大歓迎です！\n対応スタッフ：本学の留学生（出身国はアメリカ、パラグアイ、台湾、インドなど）\n\n開催日：木曜日\n2022年11月24日\n　　　12月1日、8日、15日\n2023年１月19日、\n　　　2月2日\n時　間：15:00～17:00\n会　場：スチューデント・コモンズ（第一…",
             "date_modified": "2022-11-24T03:00:00.000Z"
         }
     ]
