@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "e51f9201d8bc25caef010bd4ea0603fb",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3502",
+            "title": "【再掲】12月7日開催「海外ボランティアから始まる／広がるマイキャリア・マイライフその２~看護師・研究者・教育者として国際協力に携わる~」11/29",
+            "summary": "第48回ASIP/TG+ 公開セミナー「海外ボランティアから始まる／広がるマイキャリア・マイライフその２　～看護師・研究者・教育者として国際協力に携わる～」のご案内です。\n\n日時：2022年12月7日（水）18時10分～19時40分\n会場：Zoomを使用したライブ配信\n講師：土谷 ちひろ　氏　医療創生大学　国際看護学部助教　\n内容：国際看護・公衆衛生の専門家である土谷氏をお招きし、途上国・新興国で…",
+            "date_modified": "2022-11-29T03:00:00.000Z"
+        },
+        {
             "id": "23a97a678b885e59f05920ed310f9062",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3501",
             "title": "【Volunteers Needed】Schools Visit Program／【ボランティア募集】学校訪問プログラム",
@@ -135,13 +142,6 @@
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3482",
             "title": "【Face-to-face Japanese Chat Event】J-Chat～SCであそぼ～",
             "summary": "「J-Chat～SCであそぼ～」は、本学留学生と筑波大学の学生を結ぶ、日本語チャットイベントです。対面で工作などを行いながら、SC（Student Commons）で、のんびりと日本語でおしゃべりをします。\n\n日本語での会話を楽しみたい方（初心者歓迎！）はもちろん、留学生と友達になりたい！国際交流に興味がある友達がほしい！と思っている日本人学生の皆さんも是非参加してください！\n※工作に参加せずに、…",
-            "date_modified": "2022-11-24T03:00:00.000Z"
-        },
-        {
-            "id": "951e6f1aa1bc299d1a646bf1667e62a7",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3481",
-            "title": "【再掲】東南アジア国際研修（オンライン実施）説明会のご案内",
-            "summary": "2022年度東南アジア国際研修（オンライン実施）の開講が決定しました。\n\n参加期間：2023年2月20日～3月24日\n内容： 語学研修、アテネオ・デ・マニラ大学教員による講義、学生交流会\n（すべてオンラインでの実施）\n\n興味のある方はぜひ説明会にご参加ください。\n\n東南アジア国際研修（オンライン実施）説明会\n日時：11月29日（火）11：30～12：00\n場所：Teams（チームコード：53nvf…",
             "date_modified": "2022-11-24T03:00:00.000Z"
         }
     ]
