@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "3e1ce24e71776ac99d61310797baea84",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3503",
+            "title": "【再掲】【茗渓会主催】オンラインＯＢ・ＯＧキャリアカフェ",
+            "summary": "筑波大生が、筑波大の卒業生（OB・OG）に\nオンラインで質問できるイベントを開催します！\n大学の先輩から就職活動やキャリア、\n学生生活などのアドバイスについて本音で聞ける貴重な機会です。\n\n学年問わず、１年生から大学院生までどなたでも参加可能です。\nこの機会をぜひご活用ください！！\n【開催日】\n12月2日（金）17：00-20：00\n\n12月3日（土）10：00-13：00\n\n【対象】学年不問！筑…",
+            "date_modified": "2022-11-29T03:00:00.000Z"
+        },
+        {
             "id": "e51f9201d8bc25caef010bd4ea0603fb",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3502",
             "title": "【再掲】12月7日開催「海外ボランティアから始まる／広がるマイキャリア・マイライフその２~看護師・研究者・教育者として国際協力に携わる~」11/29",
@@ -135,13 +142,6 @@
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3483",
             "title": "【再掲：開催案内】2022年度つくばアクションプロジェクト公開シンポジウム",
             "summary": "T-ACTは学生が自らの「やってみたい」という気持ちを基に活動やイベント等を企画立案し、その実現のために学生を支援する制度です。\n\n今年度は、聖徳大学講師の田中圭氏、スターバックスコーヒージャパン株式会社 中央図書館店ストアマネージャーの杉渕広美氏及びT-ACTオブザーバーでもある認定NPO法人 茨城NPOセンター・コモンズ 代表理事 横田能洋氏による講演と、3名の講師と学生及びT-ACT推進室員…",
-            "date_modified": "2022-11-24T03:00:00.000Z"
-        },
-        {
-            "id": "c479b4b7d97b8eaa65ede54e383110aa",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3482",
-            "title": "【Face-to-face Japanese Chat Event】J-Chat～SCであそぼ～",
-            "summary": "「J-Chat～SCであそぼ～」は、本学留学生と筑波大学の学生を結ぶ、日本語チャットイベントです。対面で工作などを行いながら、SC（Student Commons）で、のんびりと日本語でおしゃべりをします。\n\n日本語での会話を楽しみたい方（初心者歓迎！）はもちろん、留学生と友達になりたい！国際交流に興味がある友達がほしい！と思っている日本人学生の皆さんも是非参加してください！\n※工作に参加せずに、…",
             "date_modified": "2022-11-24T03:00:00.000Z"
         }
     ]
