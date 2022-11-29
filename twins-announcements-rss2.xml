@@ -4,10 +4,22 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Mon, 28 Nov 2022 21:08:52 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 29 Nov 2022 03:18:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
+        <item>
+            <title><![CDATA[【Volunteers Needed】Schools Visit Program／【ボランティア募集】学校訪問プログラム]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3501</link>
+            <guid>23a97a678b885e59f05920ed310f9062</guid>
+            <pubDate>Tue, 29 Nov 2022 03:00:00 GMT</pubDate>
+            <description><![CDATA[公益社団法人 国際ＩＣ日本協会 (国連認定の国際ＮＧＯ)は、小学校に訪問し自国の文化紹介や体験談をご紹介いただける方を募集します。
+応募される方は2022年12月2日(金)までに学生交流課(isc-shien@un.tsukuba.ac.jp)宛に
+参加申込書をメールしてください。
+＊言語は日本語・英語、どちらでも可。
+＊ 詳細は添付Excelファイルをご参照ください。
+＊ 実際に参加できる方には…]]></description>
+        </item>
         <item>
             <title><![CDATA[Tsukuba-Hamburg Networking Challenge Grant [Deadline: Monday, December 12, 2022].]]></title>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3500</link>
@@ -231,14 +243,6 @@ In this class, world's top business leaders invited to share their experiences i
 東南アジア国際研修（オンライン実施）説明会
 日時：11月29日（火）11：30～12：00
 場所：Teams（チームコード：53nvf…]]></description>
-        </item>
-        <item>
-            <title><![CDATA[【Online】Dec 9 (Fri) 10:00-12:00 World-science Leaders’ Seminar]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3480</link>
-            <guid>8b5c1fd92741430a914baf694e64693c</guid>
-            <pubDate>Thu, 24 Nov 2022 03:00:00 GMT</pubDate>
-            <description><![CDATA[World-science Leaders’ Seminar is a part of classes in Doctoral Program in Human Biology.
-Students attending this seminar will learn basic knowledge and recent research trends related to the specializ…]]></description>
         </item>
     </channel>
 </rss>

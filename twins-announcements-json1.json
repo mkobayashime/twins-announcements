@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "23a97a678b885e59f05920ed310f9062",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3501",
+            "title": "【Volunteers Needed】Schools Visit Program／【ボランティア募集】学校訪問プログラム",
+            "summary": "公益社団法人 国際ＩＣ日本協会 (国連認定の国際ＮＧＯ)は、小学校に訪問し自国の文化紹介や体験談をご紹介いただける方を募集します。\n応募される方は2022年12月2日(金)までに学生交流課(isc-shien@un.tsukuba.ac.jp)宛に\n参加申込書をメールしてください。\n＊言語は日本語・英語、どちらでも可。\n＊ 詳細は添付Excelファイルをご参照ください。\n＊ 実際に参加できる方には…",
+            "date_modified": "2022-11-29T03:00:00.000Z"
+        },
+        {
             "id": "95f861f4d06944865d41afc9ba7d9150",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3500",
             "title": "Tsukuba-Hamburg Networking Challenge Grant [Deadline: Monday, December 12, 2022].",
@@ -135,13 +142,6 @@
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3481",
             "title": "【再掲】東南アジア国際研修（オンライン実施）説明会のご案内",
             "summary": "2022年度東南アジア国際研修（オンライン実施）の開講が決定しました。\n\n参加期間：2023年2月20日～3月24日\n内容： 語学研修、アテネオ・デ・マニラ大学教員による講義、学生交流会\n（すべてオンラインでの実施）\n\n興味のある方はぜひ説明会にご参加ください。\n\n東南アジア国際研修（オンライン実施）説明会\n日時：11月29日（火）11：30～12：00\n場所：Teams（チームコード：53nvf…",
-            "date_modified": "2022-11-24T03:00:00.000Z"
-        },
-        {
-            "id": "8b5c1fd92741430a914baf694e64693c",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3480",
-            "title": "【Online】Dec 9 (Fri) 10:00-12:00 World-science Leaders’ Seminar",
-            "summary": "World-science Leaders’ Seminar is a part of classes in Doctoral Program in Human Biology.\nStudents attending this seminar will learn basic knowledge and recent research trends related to the specializ…",
             "date_modified": "2022-11-24T03:00:00.000Z"
         }
     ]
