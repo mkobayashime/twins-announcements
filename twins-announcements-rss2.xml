@@ -4,10 +4,24 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Tue, 29 Nov 2022 21:09:26 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 30 Nov 2022 02:18:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
+        <item>
+            <title><![CDATA[e-Learningコースウエアの更新および説明会の実施について]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3507</link>
+            <guid>d6b2a26138745eede01e44b796b70ad0</guid>
+            <pubDate>Wed, 30 Nov 2022 03:00:00 GMT</pubDate>
+            <description><![CDATA[
+　CEGLOCで提供しておりますe-Learning システムについて、下記のとおり更新することとなりました。
+　つきましては、新e-Learningコースウエアの使用に関する説明会(オンライン)を実施しますのでご参加願います。
+　詳細は添付ファイルを参照願います。
+
+　（ 概 要 ）
+　　・現行のアルク・ネットワークアカデミーが令和５年２月末日で修了
+　　・新e-Learningコースウエアは…]]></description>
+        </item>
         <item>
             <title><![CDATA[【Repost】【Face-to-face Event】International Exchange Festival "IMAGINE THE 海外", Dec 1st 2022/11/21]]></title>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3506</link>
@@ -243,23 +257,6 @@ An international student from Ecuador (specializing in fitness, sports, and danc
             <pubDate>Fri, 25 Nov 2022 03:00:00 GMT</pubDate>
             <description><![CDATA[Business Leaders’ Seminar is a part of classes in Doctoral Program in Human Biology.
 In this class, world's top business leaders invited to share their experiences in career development and business s…]]></description>
-        </item>
-        <item>
-            <title><![CDATA[【対面ワークショップ】サルサダンス　12月１日（木）*国際交流フェス]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3485</link>
-            <guid>d2fdc02d5b237eaacc8567cf366d7b81</guid>
-            <pubDate>Fri, 25 Nov 2022 03:00:00 GMT</pubDate>
-            <description><![CDATA[絶対楽しい！ワークショップ！＜ラテンアメリカよりサルサダンス＞
-
-国際交流フェス ”IMAGINE THE 海外” にて、
-エクアドルからの留学生（フィットネス・スポーツ・ダンス専門）がサルサの踊り方を教えます！
-楽しく踊りましょう！初心者大歓迎！
-
-場所：大学会館講堂ステージ
-時間：① 10:30-11:00
-　　　② 12:30-13:00
-持ち物：水分、動きやすい服装
-※要予約]]></description>
         </item>
     </channel>
 </rss>
