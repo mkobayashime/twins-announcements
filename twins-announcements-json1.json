@@ -5,6 +5,20 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "a279787f75ffc4b7871f672df76d47ad",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3510",
+            "title": "二学期入学・留学生等健診結果についてAbout Health Checkup Results of 2nd Semester Enrollment and International Students",
+            "summary": "10月25日（火）及び10月26日（水）に健康診断を受けた方へ\n健診結果データ（視力）に不具合が生じましたので、しばらくの間、結果の出力は控えていただきますようお願いします。なお、回復後は再度お知らせします。\nFor those who had a health checkup on October 25th(Tuesday) and October 26th(Wednesday),\nthere …",
+            "date_modified": "2022-11-30T03:00:00.000Z"
+        },
+        {
+            "id": "e35e3d636892cf3e13ec22ecf0c02f5d",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3509",
+            "title": "【見逃し配信】11/16開催　～トビタテ！留学JAPAN新・日本代表プログラム～　 ≪先輩トビタテ生による留学体験談・スタッフによる申請説明会≫",
+            "summary": "11月16日（水）に開催された～トビタテ！留学JAPAN新・日本代表プログラム～　≪先輩トビタテ生による留学体験談・スタッフによる申請説明会≫に参加できなかった方々のため、学習管理システム「manaba」に録画を掲載しましたのでご案内いたします（2023年1月31日までご視聴いただけます）。\n\n　●録画の視聴方法\n１　manaba  にログインし、右のメニュー「自己登録について」内の「＞コースを検…",
+            "date_modified": "2022-11-30T03:00:00.000Z"
+        },
+        {
             "id": "20e969c954783705213cdd765fff4c1d",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3508",
             "title": "筑波大学学生人材バンク登録のご案内",
@@ -129,20 +143,6 @@
             "title": "令和4年度就職ミライ博　業界研究会直前セミナー　",
             "summary": "『令和4年度就職ミライ博　オンライン業界研究会』\nに向けて11月30日（水）15：15から\n「業界研究会 直前セミナー」を開催いたします。\n\n企業研究とは何か？\n多角的な視点から企業を知ることの重要性など\n業界研究会の活用メリットをお伝えします！\n\n【開催日時】11月30日(水)15：15－16：30\n【開催方法】オンライン（Zoom）\n【対象】主に2024年卒業・修了予定の方（他の学年も参加可）…",
             "date_modified": "2022-11-28T03:00:00.000Z"
-        },
-        {
-            "id": "8b32f704778f838fefa8bbe8e85a84b0",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3488",
-            "title": "ボーフム大学（ドイツ）留学説明会　12/2（金）18：30～＠オンライン",
-            "summary": "Campus in Campus協定校であるボーフム大学の留学説明会を開催します。\nボーフム大学職員が大学の様子や交換留学生の生活について教えてくれます！ボーフム大学への交換留学を考えている方、ドイツ留学を検討している方、是非ご参加ください！\n\n日　　時：2022年12月2日（金）18：30-19：30\n場　　所：Microsoft Team　★オンライン開催です★\n参加方法：事前登録の上、チーム…",
-            "date_modified": "2022-11-25T03:00:00.000Z"
-        },
-        {
-            "id": "072dd0005b2bed5c58bd6e0efaf49c7c",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3487",
-            "title": "スーツ等の割引サービスについて（11月25日更新）",
-            "summary": "本学は紳士服の大手4社と契約しています。\nそのため、在学生とそのご家族の皆様には、全国のAOKI、コナカ、はるやま、洋服の青山で、通常の割引価格から更に割引いた価格でスーツ等をご購入いただけます。\n大変お得ですので、是非ご利用ください。\n※ご購入いただいた金額の一部が大学に寄附されます。",
-            "date_modified": "2022-11-25T03:00:00.000Z"
         }
     ]
 }
