@@ -5,6 +5,20 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "09056c12c746d793c525a4a4a1f1fb85",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3517",
+            "title": "【Library】Free Ebook Trial Service Part2　(-December 31)",
+            "summary": "In order to support teaching and learning in the COVID-19 pandemic, the library provides an eBook trial service again!\n\nYou can try any part of the eBooks from the following eBook platforms for free f…",
+            "date_modified": "2022-12-01T03:00:00.000Z"
+        },
+        {
+            "id": "23ba1ea05ba40c3e9a93e63cc4f61b87",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3516",
+            "title": "【附属図書館】電子ブック 全文無料試し読みサービスのご案内（12月31日まで！）",
+            "summary": "附属図書館では、コロナ禍における教育・学習を支援するため、6月～8月に実施し、ご好評をいただいた電子ブックの全文無料試し読みサービスの第２弾を実施しています。\n\n対象プラットフォームの電子ブックからお好きな部分を1タイトルにつき5分間、試し読みすることができます。また、リクエストを送信することもできます。この機会にぜひお試しください。\n\n【実施期間と対象プラットフォーム】\n・Maruzen eBo…",
+            "date_modified": "2022-12-01T03:00:00.000Z"
+        },
+        {
             "id": "a279787f75ffc4b7871f672df76d47ad",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3515",
             "title": "二学期入学・留学生等健診結果についてAbout Health Checkup Results of 2nd Semester Enrollment and International Students",
@@ -128,20 +142,6 @@
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3498",
             "title": "【12/1, IMAGINE THE 海外】University of Tsukuba Official goods One day Pop-Up Shop!",
             "summary": "At the International Exchange Festival \"IMAGINE THE 海外(Kaigai）\" at the University Hall on Thursday, December 1st from 10 am to 3pm, official university goods, which are usually only available online, …",
-            "date_modified": "2022-11-28T03:00:00.000Z"
-        },
-        {
-            "id": "e5259924d9d850c72523f4ecbb3a8e65",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3497",
-            "title": "【再掲】【12月2日（金）開催オンライン公開講演会】『インドネシアの伝統的エビ養殖農家と歩んだ30年－エコシュリンプ民衆交易事業の歴史を振り返る』",
-            "summary": "学生の皆様、教職員の皆様\n\nこのたび社会・国際学群チュートリアルプログラムでは、オンラインによる公開講演会を開催いたします。講師は、特定非営利活動法人APLA（Alternative People’s  Linkage in Asia）事務局長の野川未央氏で、『インドネシアの伝統的エビ養殖農家と歩んだ30年－エコシュリンプ民衆交易事業の歴史を振り返る』というタイトルで講演を行っていただきます。皆様…",
-            "date_modified": "2022-11-28T03:00:00.000Z"
-        },
-        {
-            "id": "b7492d629bba4452947a2fc9382eb731",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3496",
-            "title": "12月1日（木）【IMAGINE THE 海外】大学公式グッズ対面販売のお知らせ",
-            "summary": "12月1日（木）に開催する国際交流フェス「IMAGINE THE 海外」＠大学会館　にて、普段はオンラインでしか購入できない大学公式グッズを対面販売します！\n\n他にも各国からの留学生による文化紹介ブースやパフォーマンス、プレゼンテーションなど盛りだくさん！\n是非、大学会館へお越しください！\n\n筑波大学国際交流フェス「IMAGINE THE 海外」10:00~15:00　＠大学会館\nhttps://…",
             "date_modified": "2022-11-28T03:00:00.000Z"
         }
     ]
