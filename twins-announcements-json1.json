@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "fb4b5fd19a307e96d6a527a855b365b6",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3514",
+            "title": "【お知らせ】筑波大学公式オリジナルグッズECサイト割引クーポンコード（12月）",
+            "summary": "筑波大学公式オリジナルグッズ販売サイト「TSUKUBA-SHOP」の12月の割引クーポンコードをお知らせいたします！\n\n毎月商品数も少しずつ増えております。\n\nどうぞご覧いただき、皆様の「日常生活」、「思い出」、「プレゼント」などにご活用いただけますと幸いです。\n\nECサイトは以下のリンクから\n\n有効期間：2022年12月1日～2022年12月31日\n※学内専用割引コードをTWINS掲示「大学から…",
+            "date_modified": "2022-12-01T03:00:00.000Z"
+        },
+        {
             "id": "c21a845cb1e0d4861e165b29b854b8df",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3513",
             "title": "【Repost】【Face-to-face Event】Today! International Exchange Festival \"IMAGINE THE 海外\", Dec 1st",
@@ -135,13 +142,6 @@
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3494",
             "title": "【Repost】Face-to-face workshop! Salsa dance - Dec 1st *International Exchange Fes",
             "summary": "Let’s join the Salsa Workshop at the International Exchange Festival “IMAGINE THE 海外”!\nAn international student from Ecuador (specializing in fitness, sports, and dance) will teach you how to dance sa…",
-            "date_modified": "2022-11-28T03:00:00.000Z"
-        },
-        {
-            "id": "460f0fec4790246d7546ffcaa595c20a",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3493",
-            "title": "スロベニア短期研修",
-            "summary": "スロベニア共和国リュブリャーナ大学での短期研修が、3年ぶりに現地訪問開催となりました。下記の通り、履修説明会を開催の上、履修者を募集いたします。履修希望者は、必ず出席してください。\n\n【研修について】\n・科目名：AE14E23「日本語・日本文化国際研修II」（３単位）\n・実施時期：秋C水5, 6・春季休業中 集中\n・対象：人文・文化学群、社会・国際学群、人間学群\n・研修先：スロベニア共和国 リュブ…",
             "date_modified": "2022-11-28T03:00:00.000Z"
         }
     ]
