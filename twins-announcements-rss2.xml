@@ -4,10 +4,20 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Thu, 01 Dec 2022 02:40:19 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 01 Dec 2022 03:30:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
+        <item>
+            <title><![CDATA[二学期入学・留学生等健診結果についてAbout Health Checkup Results of 2nd Semester Enrollment and International Students]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3515</link>
+            <guid>a279787f75ffc4b7871f672df76d47ad</guid>
+            <pubDate>Thu, 01 Dec 2022 03:00:00 GMT</pubDate>
+            <description><![CDATA[10月25日（火）及び10月26日（水）に健康診断を受けた方へ
+健診結果データ（視力）の不具合が解消し、出力が可能となりましたのでお知らせします。
+For those who had a health checkup on October 25th(Tuesday) and October 26th(Wednesday),
+We are pleased to inform you that the…]]></description>
+        </item>
         <item>
             <title><![CDATA[【お知らせ】筑波大学公式オリジナルグッズECサイト割引クーポンコード（12月）]]></title>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3514</link>
@@ -250,14 +260,6 @@ This event aims to make our u…]]></description>
 
 筑波大学国際交流フェス「IMAGINE THE 海外」10:00~15:00　＠大学会館
 https://…]]></description>
-        </item>
-        <item>
-            <title><![CDATA[【Repost】Face-to-face workshop! Salsa dance - Dec 1st *International Exchange Fes]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3494</link>
-            <guid>b0cf54dc33b5efce00d2b7ee6b138f0d</guid>
-            <pubDate>Mon, 28 Nov 2022 03:00:00 GMT</pubDate>
-            <description><![CDATA[Let’s join the Salsa Workshop at the International Exchange Festival “IMAGINE THE 海外”!
-An international student from Ecuador (specializing in fitness, sports, and dance) will teach you how to dance sa…]]></description>
         </item>
     </channel>
 </rss>
