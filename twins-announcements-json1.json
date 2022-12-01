@@ -5,6 +5,20 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "c21a845cb1e0d4861e165b29b854b8df",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3513",
+            "title": "【Repost】【Face-to-face Event】Today! International Exchange Festival \"IMAGINE THE 海外\", Dec 1st",
+            "summary": "Date: December 1st, 2022 (Thursday)\nTime: 10:00-15:00\nVenue: University Hall (Daigaku Kaikan)\nNO RESERVATION NEEDED! FREE!\n*Reservations required for some workshops only\n\nThis event aims to make our u…",
+            "date_modified": "2022-12-01T03:00:00.000Z"
+        },
+        {
+            "id": "b891ef3d4e4944e9a7bee0ab1fc79484",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3512",
+            "title": "【再掲】【対面イベント】本日！国際交流フェス ”IMAGINE THE 海外” 12月1日(木)",
+            "summary": "いよいよ本日開催！！企画盛りだくさんで\n日本人学生も留学生も楽しめ、学べる交流イベントです！\n是非遊びにきてください！\n\n日時：2022年12月1日（木）10：00～15：00\n場所：大学会館\n登録不要・参加無料！※一部イベントは要予約\n\nこのイベントの趣旨は５つ\n① 世界各国からやってきている留学生の母国（地域）の文化を知ろう！\n② 交換留学生の協定校のことを知ろう！\n③ 大学生活を国際化しよう…",
+            "date_modified": "2022-12-01T03:00:00.000Z"
+        },
+        {
             "id": "7f247995f2dc356777ccc7470294cd6f",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3511",
             "title": "【トビタテ主催オンライン相談会】～トビタテ！留学JAPAN新・日本代表プログラム～　 2023年度（15期）応募希望学生対象",
@@ -128,20 +142,6 @@
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3493",
             "title": "スロベニア短期研修",
             "summary": "スロベニア共和国リュブリャーナ大学での短期研修が、3年ぶりに現地訪問開催となりました。下記の通り、履修説明会を開催の上、履修者を募集いたします。履修希望者は、必ず出席してください。\n\n【研修について】\n・科目名：AE14E23「日本語・日本文化国際研修II」（３単位）\n・実施時期：秋C水5, 6・春季休業中 集中\n・対象：人文・文化学群、社会・国際学群、人間学群\n・研修先：スロベニア共和国 リュブ…",
-            "date_modified": "2022-11-28T03:00:00.000Z"
-        },
-        {
-            "id": "36f70d7657b87b4a2afcbee75085e7b9",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3492",
-            "title": "【再掲】【対面ワークショップ】サルサダンス　12月１日（木）*国際交流フェス",
-            "summary": "絶対楽しい！ワークショップ！＜ラテンアメリカよりサルサダンス＞\n\n国際交流フェス ”IMAGINE THE 海外” にて、\nエクアドルからの留学生（フィットネス・スポーツ・ダンス専門）がサルサの踊り方を教えます！\n楽しく踊りましょう！初心者大歓迎！\n\n場所：大学会館講堂ステージ\n時間：① 10:30-11:00\n　　　② 12:30-13:00\n持ち物：水分、動きやすい服装\n※要予約\nスチューデン…",
-            "date_modified": "2022-11-28T03:00:00.000Z"
-        },
-        {
-            "id": "9249ccb22767d69b962ed8b3bc8edff0",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3490",
-            "title": "トビタテ！留学JAPAN　新・日本代表プログラム2023年度応募に向けて、先輩トビタテ生の体験談を聞こう！（12/1）",
-            "summary": "　新しいトビタテ！の応募申請が12月（予定）に始まります。それに先立ち、トビタテ！留学JAPAN日本代表プログラムで派遣され、帰国されたばかりのトビタテ先輩の方々に、留学体験談を共有して頂き、その後、概要説明及び質疑応答を行います。\nトビタテ！に申請する方に限りません。留学に関心のある方は、奮ってご参加下さい。先輩の体験談を参考に、是非留学について考えて下さい。\n　トビタテ！以外の奨学金についても…",
             "date_modified": "2022-11-28T03:00:00.000Z"
         }
     ]
