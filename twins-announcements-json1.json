@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "a00fcad5f490dd366a41350bb0db895f",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3522",
+            "title": "【参加者募集】2023年2月　ロシア語・カザフ語短期語学研修（カザフスタン）",
+            "summary": "CiC協定大学のアルファラビ・カザフ国立大学へのロシア語・カザフ語短期語学研修（派遣）参加者募集\n\n【研修目的】\n多民族・多言語社会であるカザフスタンでの実践的な語学・異文化研修を通じて、ロシア語及びカザフ語の運用能力を伸ばすとともに、ロシア語圏の文化や社会の多様性に対する理解を一層深める。\n\n【研修内容】\n1.研修期間：2023年2月17日（金）〜3月24日（金）（36日間。移動日含む。変更の可…",
+            "date_modified": "2022-12-02T03:00:00.000Z"
+        },
+        {
             "id": "16c2b67f01dfdbf0a917d2086225ba8f",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3521",
             "title": "Remind [12/15 15:10-] 第15回 DDPIセミナー「投票権保障と日本の電子投票の未来」",
@@ -135,13 +142,6 @@
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3497",
             "title": "【再掲】【12月2日（金）開催オンライン公開講演会】『インドネシアの伝統的エビ養殖農家と歩んだ30年－エコシュリンプ民衆交易事業の歴史を振り返る』",
             "summary": "学生の皆様、教職員の皆様\n\nこのたび社会・国際学群チュートリアルプログラムでは、オンラインによる公開講演会を開催いたします。講師は、特定非営利活動法人APLA（Alternative People’s  Linkage in Asia）事務局長の野川未央氏で、『インドネシアの伝統的エビ養殖農家と歩んだ30年－エコシュリンプ民衆交易事業の歴史を振り返る』というタイトルで講演を行っていただきます。皆様…",
-            "date_modified": "2022-11-28T03:00:00.000Z"
-        },
-        {
-            "id": "b7492d629bba4452947a2fc9382eb731",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3496",
-            "title": "12月1日（木）【IMAGINE THE 海外】大学公式グッズ対面販売のお知らせ",
-            "summary": "12月1日（木）に開催する国際交流フェス「IMAGINE THE 海外」＠大学会館　にて、普段はオンラインでしか購入できない大学公式グッズを対面販売します！\n\n他にも各国からの留学生による文化紹介ブースやパフォーマンス、プレゼンテーションなど盛りだくさん！\n是非、大学会館へお越しください！\n\n筑波大学国際交流フェス「IMAGINE THE 海外」10:00~15:00　＠大学会館\nhttps://…",
             "date_modified": "2022-11-28T03:00:00.000Z"
         }
     ]
