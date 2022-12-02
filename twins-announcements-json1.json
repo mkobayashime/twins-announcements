@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "fd4a78ac081e66fcc5361535efd37245",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3518",
+            "title": "「東南アジア国際研修」オンライン（BA20033・3単位）",
+            "summary": "充実した英語研修のほかに、大学講義の聴講や学生交流会を通じて、オンラインながら現地の経験を積むことができる国際研修になります。時差が1時間のため受講しやすくなっています。\n\n~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~\n\n【日時】2023年2月20日（月）～2023年3月2…",
+            "date_modified": "2022-12-02T03:00:00.000Z"
+        },
+        {
             "id": "09056c12c746d793c525a4a4a1f1fb85",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3517",
             "title": "【Library】Free Ebook Trial Service Part2　(-December 31)",
@@ -135,13 +142,6 @@
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3488",
             "title": "ボーフム大学（ドイツ）留学説明会　12/2（金）18：30～＠オンライン",
             "summary": "Campus in Campus協定校であるボーフム大学の留学説明会を開催します。\nボーフム大学職員が大学の様子や交換留学生の生活について教えてくれます！ボーフム大学への交換留学を考えている方、ドイツ留学を検討している方、是非ご参加ください！\n\n日　　時：2022年12月2日（金）18：30-19：30\n場　　所：Microsoft Team　★オンライン開催です★\n参加方法：事前登録の上、チーム…",
-            "date_modified": "2022-11-25T03:00:00.000Z"
-        },
-        {
-            "id": "072dd0005b2bed5c58bd6e0efaf49c7c",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3487",
-            "title": "スーツ等の割引サービスについて（11月25日更新）",
-            "summary": "本学は紳士服の大手4社と契約しています。\nそのため、在学生とそのご家族の皆様には、全国のAOKI、コナカ、はるやま、洋服の青山で、通常の割引価格から更に割引いた価格でスーツ等をご購入いただけます。\n大変お得ですので、是非ご利用ください。\n※ご購入いただいた金額の一部が大学に寄附されます。",
             "date_modified": "2022-11-25T03:00:00.000Z"
         }
     ]
