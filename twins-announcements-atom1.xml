@@ -2,10 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/mkobayashime/twins-announcements</id>
     <title>在学生へのお知らせ | 筑波大学</title>
-    <updated>2022-12-05T06:08:17.228Z</updated>
+    <updated>2022-12-05T08:08:48.373Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://github.com/mkobayashime/twins-announcements"/>
     <subtitle>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</subtitle>
+    <entry>
+        <title type="html"><![CDATA[【12/9 開催】SDGs×TSUKUBA 2022 ～SDGsをチャットする～(オンライン）]]></title>
+        <id>ff689592328cefe6ee14d85f1d941991</id>
+        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3528"/>
+        <updated>2022-12-05T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[SDGsについて、協定校学生と英語で議論してみませんか？
+12月9日、第7回目のテーマは「GOALS#11 住み続けられるまちづくりを / Sustainable cities and communities」です！
+これまで参加したことがない方、単発参加も大歓迎です！
+
+テーマに関するビデオを見た後、４～５人のグループに分かれてディスカッションをします。
+その後、各グループでの討論をまとめて発表…]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Face-to-face Japanese chat! (G-Chat Japanese)]]></title>
+        <id>3c5aeeb9ab63e895161457b83c4e2b23</id>
+        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3527"/>
+        <updated>2022-12-05T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Japanese Practice Program for all levels: G-Chat Japanese
+If you are looking for an opportunity to practice Japanese, this program is for you!
+This is a face-to-face program where you can talk in Japa…]]></summary>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【追加募集！枠数残り僅か】海外教育インターンシップSEA-Teacherプログラム]]></title>
         <id>a55d523e22dd8dae8a5978fc2b8090be</id>
@@ -207,25 +228,5 @@ there …]]></summary>
 会場：Zoomを使用したライブ配信
 講師：土谷 ちひろ　氏　医療創生大学　国際看護学部助教　
 内容：国際看護・公衆衛生の専門家である土谷氏をお招きし、途上国・新興国で…]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tsukuba-Hamburg Networking Challenge Grant [Deadline: Monday, December 12, 2022].]]></title>
-        <id>95f861f4d06944865d41afc9ba7d9150</id>
-        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3500"/>
-        <updated>2022-11-28T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[The Research Administration/Management Office works closely with international coordinators at overseas research institutions to promote international transdisciplinary joint research with a variety o…]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[スロベニア短期研修]]></title>
-        <id>460f0fec4790246d7546ffcaa595c20a</id>
-        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3493"/>
-        <updated>2022-11-28T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[スロベニア共和国リュブリャーナ大学での短期研修が、3年ぶりに現地訪問開催となりました。下記の通り、履修説明会を開催の上、履修者を募集いたします。履修希望者は、必ず出席してください。
-
-【研修について】
-・科目名：AE14E23「日本語・日本文化国際研修II」（３単位）
-・実施時期：秋C水5, 6・春季休業中 集中
-・対象：人文・文化学群、社会・国際学群、人間学群
-・研修先：スロベニア共和国 リュブ…]]></summary>
     </entry>
 </feed>

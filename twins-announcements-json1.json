@@ -5,6 +5,20 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "ff689592328cefe6ee14d85f1d941991",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3528",
+            "title": "【12/9 開催】SDGs×TSUKUBA 2022 ～SDGsをチャットする～(オンライン）",
+            "summary": "SDGsについて、協定校学生と英語で議論してみませんか？\n12月9日、第7回目のテーマは「GOALS#11 住み続けられるまちづくりを / Sustainable cities and communities」です！\nこれまで参加したことがない方、単発参加も大歓迎です！\n\nテーマに関するビデオを見た後、４～５人のグループに分かれてディスカッションをします。\nその後、各グループでの討論をまとめて発表…",
+            "date_modified": "2022-12-05T03:00:00.000Z"
+        },
+        {
+            "id": "3c5aeeb9ab63e895161457b83c4e2b23",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3527",
+            "title": "Face-to-face Japanese chat! (G-Chat Japanese)",
+            "summary": "Japanese Practice Program for all levels: G-Chat Japanese\nIf you are looking for an opportunity to practice Japanese, this program is for you!\nThis is a face-to-face program where you can talk in Japa…",
+            "date_modified": "2022-12-05T03:00:00.000Z"
+        },
+        {
             "id": "a55d523e22dd8dae8a5978fc2b8090be",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3526",
             "title": "【追加募集！枠数残り僅か】海外教育インターンシップSEA-Teacherプログラム",
@@ -129,20 +143,6 @@
             "title": "【再掲】12月7日開催「海外ボランティアから始まる／広がるマイキャリア・マイライフその２~看護師・研究者・教育者として国際協力に携わる~」11/29",
             "summary": "第48回ASIP/TG+ 公開セミナー「海外ボランティアから始まる／広がるマイキャリア・マイライフその２　～看護師・研究者・教育者として国際協力に携わる～」のご案内です。\n\n日時：2022年12月7日（水）18時10分～19時40分\n会場：Zoomを使用したライブ配信\n講師：土谷 ちひろ　氏　医療創生大学　国際看護学部助教　\n内容：国際看護・公衆衛生の専門家である土谷氏をお招きし、途上国・新興国で…",
             "date_modified": "2022-11-29T03:00:00.000Z"
-        },
-        {
-            "id": "95f861f4d06944865d41afc9ba7d9150",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3500",
-            "title": "Tsukuba-Hamburg Networking Challenge Grant [Deadline: Monday, December 12, 2022].",
-            "summary": "The Research Administration/Management Office works closely with international coordinators at overseas research institutions to promote international transdisciplinary joint research with a variety o…",
-            "date_modified": "2022-11-28T03:00:00.000Z"
-        },
-        {
-            "id": "460f0fec4790246d7546ffcaa595c20a",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3493",
-            "title": "スロベニア短期研修",
-            "summary": "スロベニア共和国リュブリャーナ大学での短期研修が、3年ぶりに現地訪問開催となりました。下記の通り、履修説明会を開催の上、履修者を募集いたします。履修希望者は、必ず出席してください。\n\n【研修について】\n・科目名：AE14E23「日本語・日本文化国際研修II」（３単位）\n・実施時期：秋C水5, 6・春季休業中 集中\n・対象：人文・文化学群、社会・国際学群、人間学群\n・研修先：スロベニア共和国 リュブ…",
-            "date_modified": "2022-11-28T03:00:00.000Z"
         }
     ]
 }
