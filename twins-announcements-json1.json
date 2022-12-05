@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "a55d523e22dd8dae8a5978fc2b8090be",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3526",
+            "title": "【追加募集！枠数残り僅か】海外教育インターンシップSEA-Teacherプログラム",
+            "summary": "東南アジアの提携大学での教育インターンシップへの参加者を募集しています。現地教師の業務を実習し、授業を行うことを通して、グローバルな視野、異文化理解力、授業力、国際感覚を養うことが目標のプログラムです。2023年２月から３月の約一か月間、インドネシア、フィリピン、タイのいずれかの提携大学で実際に授業実習を行います。詳細は添付のチラシをご覧ください。\n\n対象: ２年次以上の全学群生(内容・教科等は実…",
+            "date_modified": "2022-12-05T03:00:00.000Z"
+        },
+        {
             "id": "b79fbb4210cee7b737cc44ba48b8bbf5",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3525",
             "title": "「東南アジア国際研修」オンライン（科目コードBA20033・3単位）",
@@ -135,13 +142,6 @@
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3493",
             "title": "スロベニア短期研修",
             "summary": "スロベニア共和国リュブリャーナ大学での短期研修が、3年ぶりに現地訪問開催となりました。下記の通り、履修説明会を開催の上、履修者を募集いたします。履修希望者は、必ず出席してください。\n\n【研修について】\n・科目名：AE14E23「日本語・日本文化国際研修II」（３単位）\n・実施時期：秋C水5, 6・春季休業中 集中\n・対象：人文・文化学群、社会・国際学群、人間学群\n・研修先：スロベニア共和国 リュブ…",
-            "date_modified": "2022-11-28T03:00:00.000Z"
-        },
-        {
-            "id": "9249ccb22767d69b962ed8b3bc8edff0",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3490",
-            "title": "トビタテ！留学JAPAN　新・日本代表プログラム2023年度応募に向けて、先輩トビタテ生の体験談を聞こう！（12/1）",
-            "summary": "　新しいトビタテ！の応募申請が12月（予定）に始まります。それに先立ち、トビタテ！留学JAPAN日本代表プログラムで派遣され、帰国されたばかりのトビタテ先輩の方々に、留学体験談を共有して頂き、その後、概要説明及び質疑応答を行います。\nトビタテ！に申請する方に限りません。留学に関心のある方は、奮ってご参加下さい。先輩の体験談を参考に、是非留学について考えて下さい。\n　トビタテ！以外の奨学金についても…",
             "date_modified": "2022-11-28T03:00:00.000Z"
         }
     ]
