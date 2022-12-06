@@ -5,6 +5,20 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "b8c64fa113b9989b958d5d9de8103686",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3536",
+            "title": "《Repost》【Online】Dec 9 (Fri) 10:00-12:00 World-science Leaders’ Seminar",
+            "summary": "World-science Leaders’ Seminar is a part of classes in Doctoral Program in Human Biology.\nStudents attending this seminar will learn basic knowledge and recent research trends related to the specializ…",
+            "date_modified": "2022-12-06T03:00:00.000Z"
+        },
+        {
+            "id": "c162fa6a01005a9a861da1c472cfba28",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3535",
+            "title": "《Repost》【Online】Dec 8 (Thu) 13:00-15:00 World-science Leaders’ Seminar",
+            "summary": "World-science Leaders’ Seminar is a part of classes in Doctoral Program in Human Biology.\nStudents attending this seminar will learn basic knowledge and recent research trends related to the specializ…",
+            "date_modified": "2022-12-06T03:00:00.000Z"
+        },
+        {
             "id": "6a72f9e5fbc0e8d2b17b7adb1b83d2e4",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3534",
             "title": "2022年度「海外英語研修II」（3単位、オンライン）参加者募集",
@@ -128,20 +142,6 @@
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3516",
             "title": "【附属図書館】電子ブック 全文無料試し読みサービスのご案内（12月31日まで！）",
             "summary": "附属図書館では、コロナ禍における教育・学習を支援するため、6月～8月に実施し、ご好評をいただいた電子ブックの全文無料試し読みサービスの第２弾を実施しています。\n\n対象プラットフォームの電子ブックからお好きな部分を1タイトルにつき5分間、試し読みすることができます。また、リクエストを送信することもできます。この機会にぜひお試しください。\n\n【実施期間と対象プラットフォーム】\n・Maruzen eBo…",
-            "date_modified": "2022-12-01T03:00:00.000Z"
-        },
-        {
-            "id": "a279787f75ffc4b7871f672df76d47ad",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3515",
-            "title": "二学期入学・留学生等健診結果についてAbout Health Checkup Results of 2nd Semester Enrollment and International Students",
-            "summary": "10月25日（火）及び10月26日（水）に健康診断を受けた方へ\n健診結果データ（視力）の不具合が解消し、出力が可能となりましたのでお知らせします。\nFor those who had a health checkup on October 25th(Tuesday) and October 26th(Wednesday),\nWe are pleased to inform you that the…",
-            "date_modified": "2022-12-01T03:00:00.000Z"
-        },
-        {
-            "id": "fb4b5fd19a307e96d6a527a855b365b6",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3514",
-            "title": "【お知らせ】筑波大学公式オリジナルグッズECサイト割引クーポンコード（12月）",
-            "summary": "筑波大学公式オリジナルグッズ販売サイト「TSUKUBA-SHOP」の12月の割引クーポンコードをお知らせいたします！\n\n毎月商品数も少しずつ増えております。\n\nどうぞご覧いただき、皆様の「日常生活」、「思い出」、「プレゼント」などにご活用いただけますと幸いです。\n\nECサイトは以下のリンクから\n\n有効期間：2022年12月1日～2022年12月31日\n※学内専用割引コードをTWINS掲示「大学から…",
             "date_modified": "2022-12-01T03:00:00.000Z"
         }
     ]
