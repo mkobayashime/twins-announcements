@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/mkobayashime/twins-announcements</id>
     <title>在学生へのお知らせ | 筑波大学</title>
-    <updated>2022-12-07T09:09:21.356Z</updated>
+    <updated>2022-12-07T15:09:30.086Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://github.com/mkobayashime/twins-announcements"/>
     <subtitle>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</subtitle>
@@ -102,17 +102,6 @@ Students attending this seminar will learn basic knowledge and recent research t
 
 戦後の混乱期を乗り越えた歴史を持つ桐朋学園と筑波大学。今日もコロナ禍で様
 々な制約がありますが、だからこ…]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【明日開催】第48回ASIP/TG+公開セミナー　]]></title>
-        <id>eaec17f61188fc3764d9ef4e2e62336a</id>
-        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3532"/>
-        <updated>2022-12-06T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[「海外ボランティアから始まる／広がるマイキャリア・マイライフその２~看護師・研究者・教育者として国際協力に携わる~」
-
-開催日時：12月7日　18:10-19:40
-申込み：グーグルフォームにお申込みください。
-]]></summary>
     </entry>
     <entry>
         <title type="html"><![CDATA[【開催中！】令和4年度筑波大学就職ミライ博 オンライン業界研究会]]></title>
@@ -238,5 +227,18 @@ This is a face-to-face program where you can talk in Japa…]]></summary>
         <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3520"/>
         <updated>2022-12-02T03:00:00.000Z</updated>
         <summary type="html"><![CDATA[The Japanese Language Education Division at CEGLOC organizes Japanese for Professional Purposes in the Fall C module under the motto of "Enhance your Japanese skills for job-hunting. Don't wait, do it…]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[キャリア支援日本語コースの実施（秋Cモジュール）]]></title>
+        <id>ceb459028e4bffbc9ee06e846e775b2d</id>
+        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3519"/>
+        <updated>2022-12-02T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[グローバルコミュニケーション教育センター（CEGLOC）日本語教育部門では、
+秋Cモジュールにキャリア支援日本語コースを開講いたします。
+題して「就職活動に向けて、日本語能力を伸ばそう。待たずに、今すぐ！」
+
+留学生（学群生・大学院生・研究生・特別聴講学生・特別研究学生）が受講可能です。
+詳しくはURLを確認してください。
+]]></summary>
     </entry>
 </feed>
