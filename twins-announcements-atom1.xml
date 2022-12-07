@@ -2,10 +2,24 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/mkobayashime/twins-announcements</id>
     <title>在学生へのお知らせ | 筑波大学</title>
-    <updated>2022-12-06T21:08:32.094Z</updated>
+    <updated>2022-12-07T00:29:44.610Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://github.com/mkobayashime/twins-announcements"/>
     <subtitle>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</subtitle>
+    <entry>
+        <title type="html"><![CDATA[【開催中！】令和4年度筑波大学就職ミライ博 オンライン業界研究会]]></title>
+        <id>be1bf0dfe2d289a859a6a9ad4b771911</id>
+        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3537"/>
+        <updated>2022-12-07T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[筑波大学就職ミライ博第2弾「オンライン業界研究会」を開催中！
+業界研究に特化した１０日間、様々な業界・業種のお話を聞くことができる大変貴重な機会です。
+出展企業は特設サイトから確認できます。低学年の方も大歓迎。ぜひご参加ください！
+※URLは会場直通です
+
+【日程】2022年12月6日（火）～8日（木）
+【時間】［1部］9：30-13：00　［2部］13：30～17：00
+【場所】オンライン（Ev…]]></summary>
+    </entry>
     <entry>
         <title type="html"><![CDATA[《Repost》【Online】Dec 9 (Fri) 10:00-12:00 World-science Leaders’ Seminar]]></title>
         <id>b8c64fa113b9989b958d5d9de8103686</id>
@@ -213,17 +227,5 @@ This is a face-to-face program where you can talk in Japa…]]></summary>
         <summary type="html"><![CDATA[In order to support teaching and learning in the COVID-19 pandemic, the library provides an eBook trial service again!
 
 You can try any part of the eBooks from the following eBook platforms for free f…]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【附属図書館】電子ブック 全文無料試し読みサービスのご案内（12月31日まで！）]]></title>
-        <id>23ba1ea05ba40c3e9a93e63cc4f61b87</id>
-        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3516"/>
-        <updated>2022-12-01T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[附属図書館では、コロナ禍における教育・学習を支援するため、6月～8月に実施し、ご好評をいただいた電子ブックの全文無料試し読みサービスの第２弾を実施しています。
-
-対象プラットフォームの電子ブックからお好きな部分を1タイトルにつき5分間、試し読みすることができます。また、リクエストを送信することもできます。この機会にぜひお試しください。
-
-【実施期間と対象プラットフォーム】
-・Maruzen eBo…]]></summary>
     </entry>
 </feed>
