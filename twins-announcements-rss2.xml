@@ -4,10 +4,25 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Wed, 07 Dec 2022 21:09:01 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 08 Dec 2022 02:12:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
+        <item>
+            <title><![CDATA[【開催中！】令和4年度筑波大学就職ミライ博 オンライン業界研究会]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3541</link>
+            <guid>be1bf0dfe2d289a859a6a9ad4b771911</guid>
+            <pubDate>Thu, 08 Dec 2022 03:00:00 GMT</pubDate>
+            <description><![CDATA[筑波大学就職ミライ博第2弾「オンライン業界研究会」を開催中！
+業界研究に特化した１０日間、様々な業界・業種のお話を聞くことができる大変貴重な機会です。
+出展企業は特設サイトから確認できます。
+途中入退出可能、低学年の方も大歓迎です。ぜひご参加ください！
+※URLは会場直通です
+
+【日程】2022年12月6日（火）～8日（木）
+【時間】［1部］9：30-13：00　［2部］13：30～17：00
+【…]]></description>
+        </item>
         <item>
             <title><![CDATA[【追加募集！】新型コロナワクチン大学拠点接種（オミクロン株対応ワクチン）の接種希望者について]]></title>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3540</link>
@@ -229,19 +244,6 @@ This is a face-to-face program where you can talk in Japa…]]></description>
             <guid>8c500e4a20f34cb16c3157340961e7e7</guid>
             <pubDate>Fri, 02 Dec 2022 03:00:00 GMT</pubDate>
             <description><![CDATA[The Japanese Language Education Division at CEGLOC organizes Japanese for Professional Purposes in the Fall C module under the motto of "Enhance your Japanese skills for job-hunting. Don't wait, do it…]]></description>
-        </item>
-        <item>
-            <title><![CDATA[キャリア支援日本語コースの実施（秋Cモジュール）]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3519</link>
-            <guid>ceb459028e4bffbc9ee06e846e775b2d</guid>
-            <pubDate>Fri, 02 Dec 2022 03:00:00 GMT</pubDate>
-            <description><![CDATA[グローバルコミュニケーション教育センター（CEGLOC）日本語教育部門では、
-秋Cモジュールにキャリア支援日本語コースを開講いたします。
-題して「就職活動に向けて、日本語能力を伸ばそう。待たずに、今すぐ！」
-
-留学生（学群生・大学院生・研究生・特別聴講学生・特別研究学生）が受講可能です。
-詳しくはURLを確認してください。
-]]></description>
         </item>
     </channel>
 </rss>
