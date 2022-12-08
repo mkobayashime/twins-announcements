@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "108eda7407c49a32b417380b8759ab46",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3542",
+            "title": "【参加者募集】「東南アジア国際研修」オンライン（科目コードBA20033・3単位）",
+            "summary": "2022年度東南アジア国際研修（オンライン実施）の参加者を募集します。\n\n研修期間：2022年2月20日（月）～3月24日（金）\n\n研修内容：オンライン英語研修（Ateneo Language Learning Center）\n　　　　　　1日3時間の英語研修を週4日間×5週間\n          協定校でのオンライン授業（Ateneo de Manila University）\n　　　　　　90…",
+            "date_modified": "2022-12-08T03:00:00.000Z"
+        },
+        {
             "id": "be1bf0dfe2d289a859a6a9ad4b771911",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3541",
             "title": "【開催中！】令和4年度筑波大学就職ミライ博 オンライン業界研究会",
@@ -135,13 +142,6 @@
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3521",
             "title": "Remind [12/15 15:10-] 第15回 DDPIセミナー「投票権保障と日本の電子投票の未来」",
             "summary": "DDPIプロジェクトでは、格差・不平等の政策的解決、そのためのデジタル技術の可能性（デジタル民主主義）などをテーマとしつつ、セミナー・シリーズを開催しております。\n\n第15回となる今回は『投票権保障と日本の電子投票の未来』と題し、東北大学情報科学研究科 准教授である河村和徳先生をお招きします。\n\n河村先生は政治・行政分野におけるICTの活用をテーマに、電子投票の可能性の考察、地方議会のデジタル化の…",
-            "date_modified": "2022-12-02T03:00:00.000Z"
-        },
-        {
-            "id": "8c500e4a20f34cb16c3157340961e7e7",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3520",
-            "title": "Japanese for Professional Purposes in the Fall C module",
-            "summary": "The Japanese Language Education Division at CEGLOC organizes Japanese for Professional Purposes in the Fall C module under the motto of \"Enhance your Japanese skills for job-hunting. Don't wait, do it…",
             "date_modified": "2022-12-02T03:00:00.000Z"
         }
     ]
