@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/mkobayashime/twins-announcements</id>
     <title>在学生へのお知らせ | 筑波大学</title>
-    <updated>2022-12-09T09:09:18.071Z</updated>
+    <updated>2022-12-09T15:09:15.158Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://github.com/mkobayashime/twins-announcements"/>
     <subtitle>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</subtitle>
@@ -97,14 +97,6 @@ If you are looking for an opportunity to practice Japanese, this program is for 
 This is a face-to-face program where you can talk in Japa…]]></summary>
     </entry>
     <entry>
-        <title type="html"><![CDATA[《Repost》【Online】Dec 9 (Fri) 10:00-12:00 World-science Leaders’ Seminar]]></title>
-        <id>b8c64fa113b9989b958d5d9de8103686</id>
-        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3536"/>
-        <updated>2022-12-06T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[World-science Leaders’ Seminar is a part of classes in Doctoral Program in Human Biology.
-Students attending this seminar will learn basic knowledge and recent research trends related to the specializ…]]></summary>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[2022年度「海外英語研修II」（3単位、オンライン）参加者募集]]></title>
         <id>6a72f9e5fbc0e8d2b17b7adb1b83d2e4</id>
         <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3534"/>
@@ -172,12 +164,10 @@ Students attending this seminar will learn basic knowledge and recent research t
         <id>ff689592328cefe6ee14d85f1d941991</id>
         <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3528"/>
         <updated>2022-12-05T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[SDGsについて、協定校学生と英語で議論してみませんか？
-12月9日、第7回目のテーマは「GOALS#11 住み続けられるまちづくりを / Sustainable cities and communities」です！
-これまで参加したことがない方、単発参加も大歓迎です！
+        <summary type="html"><![CDATA[　2022年度第2期分授業料について、11月28日(月)に口座振替により引落しを行いましたが、残高不足等のため引落しができなかった者については、12月27日(火)に再度預金口座から引落しを行います。
+　つきましては、12月26日(月)までに登録した預金口座へ入金をお願いします。
 
-テーマに関するビデオを見た後、４～５人のグループに分かれてディスカッションをします。
-その後、各グループでの討論をまとめて発表…]]></summary>
+　なお、引落しがされている場合は、通帳に“ツクバダイ”と記帳されますので、引落しがされているか登録した引落口座のご確認…]]></summary>
     </entry>
     <entry>
         <title type="html"><![CDATA[Face-to-face Japanese chat! (G-Chat Japanese)]]></title>
@@ -251,5 +241,18 @@ This is a face-to-face program where you can talk in Japa…]]></summary>
         <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3520"/>
         <updated>2022-12-02T03:00:00.000Z</updated>
         <summary type="html"><![CDATA[The Japanese Language Education Division at CEGLOC organizes Japanese for Professional Purposes in the Fall C module under the motto of "Enhance your Japanese skills for job-hunting. Don't wait, do it…]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[キャリア支援日本語コースの実施（秋Cモジュール）]]></title>
+        <id>ceb459028e4bffbc9ee06e846e775b2d</id>
+        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3519"/>
+        <updated>2022-12-02T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[グローバルコミュニケーション教育センター（CEGLOC）日本語教育部門では、
+秋Cモジュールにキャリア支援日本語コースを開講いたします。
+題して「就職活動に向けて、日本語能力を伸ばそう。待たずに、今すぐ！」
+
+留学生（学群生・大学院生・研究生・特別聴講学生・特別研究学生）が受講可能です。
+詳しくはURLを確認してください。
+]]></summary>
     </entry>
 </feed>

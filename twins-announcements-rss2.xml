@@ -4,7 +4,7 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Fri, 09 Dec 2022 09:09:18 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 09 Dec 2022 15:09:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
@@ -99,14 +99,6 @@ If you are looking for an opportunity to practice Japanese, this program is for 
 This is a face-to-face program where you can talk in Japa…]]></description>
         </item>
         <item>
-            <title><![CDATA[《Repost》【Online】Dec 9 (Fri) 10:00-12:00 World-science Leaders’ Seminar]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3536</link>
-            <guid>b8c64fa113b9989b958d5d9de8103686</guid>
-            <pubDate>Tue, 06 Dec 2022 03:00:00 GMT</pubDate>
-            <description><![CDATA[World-science Leaders’ Seminar is a part of classes in Doctoral Program in Human Biology.
-Students attending this seminar will learn basic knowledge and recent research trends related to the specializ…]]></description>
-        </item>
-        <item>
             <title><![CDATA[2022年度「海外英語研修II」（3単位、オンライン）参加者募集]]></title>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3534</link>
             <guid>6a72f9e5fbc0e8d2b17b7adb1b83d2e4</guid>
@@ -174,12 +166,10 @@ Students attending this seminar will learn basic knowledge and recent research t
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3528</link>
             <guid>ff689592328cefe6ee14d85f1d941991</guid>
             <pubDate>Mon, 05 Dec 2022 03:00:00 GMT</pubDate>
-            <description><![CDATA[SDGsについて、協定校学生と英語で議論してみませんか？
-12月9日、第7回目のテーマは「GOALS#11 住み続けられるまちづくりを / Sustainable cities and communities」です！
-これまで参加したことがない方、単発参加も大歓迎です！
+            <description><![CDATA[　2022年度第2期分授業料について、11月28日(月)に口座振替により引落しを行いましたが、残高不足等のため引落しができなかった者については、12月27日(火)に再度預金口座から引落しを行います。
+　つきましては、12月26日(月)までに登録した預金口座へ入金をお願いします。
 
-テーマに関するビデオを見た後、４～５人のグループに分かれてディスカッションをします。
-その後、各グループでの討論をまとめて発表…]]></description>
+　なお、引落しがされている場合は、通帳に“ツクバダイ”と記帳されますので、引落しがされているか登録した引落口座のご確認…]]></description>
         </item>
         <item>
             <title><![CDATA[Face-to-face Japanese chat! (G-Chat Japanese)]]></title>
@@ -253,6 +243,19 @@ This is a face-to-face program where you can talk in Japa…]]></description>
             <guid>8c500e4a20f34cb16c3157340961e7e7</guid>
             <pubDate>Fri, 02 Dec 2022 03:00:00 GMT</pubDate>
             <description><![CDATA[The Japanese Language Education Division at CEGLOC organizes Japanese for Professional Purposes in the Fall C module under the motto of "Enhance your Japanese skills for job-hunting. Don't wait, do it…]]></description>
+        </item>
+        <item>
+            <title><![CDATA[キャリア支援日本語コースの実施（秋Cモジュール）]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3519</link>
+            <guid>ceb459028e4bffbc9ee06e846e775b2d</guid>
+            <pubDate>Fri, 02 Dec 2022 03:00:00 GMT</pubDate>
+            <description><![CDATA[グローバルコミュニケーション教育センター（CEGLOC）日本語教育部門では、
+秋Cモジュールにキャリア支援日本語コースを開講いたします。
+題して「就職活動に向けて、日本語能力を伸ばそう。待たずに、今すぐ！」
+
+留学生（学群生・大学院生・研究生・特別聴講学生・特別研究学生）が受講可能です。
+詳しくはURLを確認してください。
+]]></description>
         </item>
     </channel>
 </rss>
