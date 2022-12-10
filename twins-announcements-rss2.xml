@@ -4,7 +4,7 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Sat, 10 Dec 2022 09:08:19 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 10 Dec 2022 15:08:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
@@ -162,18 +162,6 @@ This is a face-to-face program where you can talk in Japa…]]></description>
 　なお、引落しがされている場合は、通帳に“ツクバダイ”と記帳されますので、引落しがされているか登録した引落口座のご確認…]]></description>
         </item>
         <item>
-            <title><![CDATA[【12/9 開催】SDGs×TSUKUBA 2022 ～SDGsをチャットする～(オンライン）]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3528</link>
-            <guid>ff689592328cefe6ee14d85f1d941991</guid>
-            <pubDate>Mon, 05 Dec 2022 03:00:00 GMT</pubDate>
-            <description><![CDATA[SDGsについて、協定校学生と英語で議論してみませんか？
-12月9日、第7回目のテーマは「GOALS#11 住み続けられるまちづくりを / Sustainable cities and communities」です！
-これまで参加したことがない方、単発参加も大歓迎です！
-
-テーマに関するビデオを見た後、４～５人のグループに分かれてディスカッションをします。
-その後、各グループでの討論をまとめて発表…]]></description>
-        </item>
-        <item>
             <title><![CDATA[Face-to-face Japanese chat! (G-Chat Japanese)]]></title>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3527</link>
             <guid>3c5aeeb9ab63e895161457b83c4e2b23</guid>
@@ -258,6 +246,17 @@ This is a face-to-face program where you can talk in Japa…]]></description>
 留学生（学群生・大学院生・研究生・特別聴講学生・特別研究学生）が受講可能です。
 詳しくはURLを確認してください。
 ]]></description>
+        </item>
+        <item>
+            <title><![CDATA[「東南アジア国際研修」オンライン（BA20033・3単位）]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3518</link>
+            <guid>fd4a78ac081e66fcc5361535efd37245</guid>
+            <pubDate>Fri, 02 Dec 2022 03:00:00 GMT</pubDate>
+            <description><![CDATA[充実した英語研修のほかに、大学講義の聴講や学生交流会を通じて、オンラインながら現地の経験を積むことができる国際研修になります。時差が1時間のため受講しやすくなっています。
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+【日時】2023年2月20日（月）～2023年3月2…]]></description>
         </item>
     </channel>
 </rss>
