@@ -4,10 +4,22 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Mon, 12 Dec 2022 21:08:48 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 13 Dec 2022 03:15:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
+        <item>
+            <title><![CDATA[【Event Info】Exchange program with Japanese elementary school students in Japanese]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3546</link>
+            <guid>a8fc047516f52c30f0418f2f6175b7eb</guid>
+            <pubDate>Tue, 13 Dec 2022 03:00:00 GMT</pubDate>
+            <description><![CDATA[<<対象：留学生>>
+筑西きぬロータリークラブでは日本の小学生に日本語で自分の国のことを紹介する交流会を開催します。
+興味のある方は、学生交流課（isc-shien@un.tsukuba.ac.jp）に必要事項を添付のExcelファイルに記載の上、パスワードを設定して、12月23日(金)までにメールにて申し込んでください。
+
+＊ 実際に参加できる方には、後日学生交流課より連絡します。
+＊ 詳細は添…]]></description>
+        </item>
         <item>
             <title><![CDATA[《Repost》【Online】Dec 16 (Fri) 10:00-12:00 Business Leaders’ Seminar]]></title>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3545</link>
@@ -241,19 +253,6 @@ This is a face-to-face program where you can talk in Japa…]]></description>
             <guid>8c500e4a20f34cb16c3157340961e7e7</guid>
             <pubDate>Fri, 02 Dec 2022 03:00:00 GMT</pubDate>
             <description><![CDATA[The Japanese Language Education Division at CEGLOC organizes Japanese for Professional Purposes in the Fall C module under the motto of "Enhance your Japanese skills for job-hunting. Don't wait, do it…]]></description>
-        </item>
-        <item>
-            <title><![CDATA[キャリア支援日本語コースの実施（秋Cモジュール）]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3519</link>
-            <guid>ceb459028e4bffbc9ee06e846e775b2d</guid>
-            <pubDate>Fri, 02 Dec 2022 03:00:00 GMT</pubDate>
-            <description><![CDATA[グローバルコミュニケーション教育センター（CEGLOC）日本語教育部門では、
-秋Cモジュールにキャリア支援日本語コースを開講いたします。
-題して「就職活動に向けて、日本語能力を伸ばそう。待たずに、今すぐ！」
-
-留学生（学群生・大学院生・研究生・特別聴講学生・特別研究学生）が受講可能です。
-詳しくはURLを確認してください。
-]]></description>
         </item>
     </channel>
 </rss>

@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "a8fc047516f52c30f0418f2f6175b7eb",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3546",
+            "title": "【Event Info】Exchange program with Japanese elementary school students in Japanese",
+            "summary": "<<対象：留学生>>\n筑西きぬロータリークラブでは日本の小学生に日本語で自分の国のことを紹介する交流会を開催します。\n興味のある方は、学生交流課（isc-shien@un.tsukuba.ac.jp）に必要事項を添付のExcelファイルに記載の上、パスワードを設定して、12月23日(金)までにメールにて申し込んでください。\n\n＊ 実際に参加できる方には、後日学生交流課より連絡します。\n＊ 詳細は添…",
+            "date_modified": "2022-12-13T03:00:00.000Z"
+        },
+        {
             "id": "1d17fcb57f2410777a989db094881ae4",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3545",
             "title": "《Repost》【Online】Dec 16 (Fri) 10:00-12:00 Business Leaders’ Seminar",
@@ -135,13 +142,6 @@
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3520",
             "title": "Japanese for Professional Purposes in the Fall C module",
             "summary": "The Japanese Language Education Division at CEGLOC organizes Japanese for Professional Purposes in the Fall C module under the motto of \"Enhance your Japanese skills for job-hunting. Don't wait, do it…",
-            "date_modified": "2022-12-02T03:00:00.000Z"
-        },
-        {
-            "id": "ceb459028e4bffbc9ee06e846e775b2d",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3519",
-            "title": "キャリア支援日本語コースの実施（秋Cモジュール）",
-            "summary": "グローバルコミュニケーション教育センター（CEGLOC）日本語教育部門では、\n秋Cモジュールにキャリア支援日本語コースを開講いたします。\n題して「就職活動に向けて、日本語能力を伸ばそう。待たずに、今すぐ！」\n\n留学生（学群生・大学院生・研究生・特別聴講学生・特別研究学生）が受講可能です。\n詳しくはURLを確認してください。\n",
             "date_modified": "2022-12-02T03:00:00.000Z"
         }
     ]
