@@ -4,10 +4,24 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Tue, 13 Dec 2022 03:15:59 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 13 Dec 2022 06:09:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
+        <item>
+            <title><![CDATA[【参加者募集】「中央ユーラシア諸国を対象としたマルチリンガル人材育成プログラム」（カザフ国立大学） 2023年3月～]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3547</link>
+            <guid>7cb3daf6b27b2319b5596404f1273256</guid>
+            <pubDate>Tue, 13 Dec 2022 03:00:00 GMT</pubDate>
+            <description><![CDATA[CiC協定大学 アルファラビ・カザフ国立大学への短期留学（交換留学：派遣）の参加学生を募集します。
+
+研修内容：
+▶︎派遣期間：2023年3月〜8月（半年間）もしくは2023年3月～2024年2月（1年間）
+▶︎受入機関：カザフ国立大学（カザフスタン共和国アルマトイ市）
+▶︎対象：学群生、大学院生
+▶︎定員：10名程度　※審査の上、派遣学生を決定します。
+▶︎留学中の授業料：留学期間中も筑波大学へ…]]></description>
+        </item>
         <item>
             <title><![CDATA[【Event Info】Exchange program with Japanese elementary school students in Japanese]]></title>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3546</link>
@@ -246,13 +260,6 @@ This is a face-to-face program where you can talk in Japa…]]></description>
 第15回となる今回は『投票権保障と日本の電子投票の未来』と題し、東北大学情報科学研究科 准教授である河村和徳先生をお招きします。
 
 河村先生は政治・行政分野におけるICTの活用をテーマに、電子投票の可能性の考察、地方議会のデジタル化の…]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Japanese for Professional Purposes in the Fall C module]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3520</link>
-            <guid>8c500e4a20f34cb16c3157340961e7e7</guid>
-            <pubDate>Fri, 02 Dec 2022 03:00:00 GMT</pubDate>
-            <description><![CDATA[The Japanese Language Education Division at CEGLOC organizes Japanese for Professional Purposes in the Fall C module under the motto of "Enhance your Japanese skills for job-hunting. Don't wait, do it…]]></description>
         </item>
     </channel>
 </rss>

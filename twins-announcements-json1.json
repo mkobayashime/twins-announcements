@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "7cb3daf6b27b2319b5596404f1273256",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3547",
+            "title": "【参加者募集】「中央ユーラシア諸国を対象としたマルチリンガル人材育成プログラム」（カザフ国立大学） 2023年3月～",
+            "summary": "CiC協定大学 アルファラビ・カザフ国立大学への短期留学（交換留学：派遣）の参加学生を募集します。\n\n研修内容：\n▶︎派遣期間：2023年3月〜8月（半年間）もしくは2023年3月～2024年2月（1年間）\n▶︎受入機関：カザフ国立大学（カザフスタン共和国アルマトイ市）\n▶︎対象：学群生、大学院生\n▶︎定員：10名程度　※審査の上、派遣学生を決定します。\n▶︎留学中の授業料：留学期間中も筑波大学へ…",
+            "date_modified": "2022-12-13T03:00:00.000Z"
+        },
+        {
             "id": "a8fc047516f52c30f0418f2f6175b7eb",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3546",
             "title": "【Event Info】Exchange program with Japanese elementary school students in Japanese",
@@ -135,13 +142,6 @@
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3521",
             "title": "Remind [12/15 15:10-] 第15回 DDPIセミナー「投票権保障と日本の電子投票の未来」",
             "summary": "DDPIプロジェクトでは、格差・不平等の政策的解決、そのためのデジタル技術の可能性（デジタル民主主義）などをテーマとしつつ、セミナー・シリーズを開催しております。\n\n第15回となる今回は『投票権保障と日本の電子投票の未来』と題し、東北大学情報科学研究科 准教授である河村和徳先生をお招きします。\n\n河村先生は政治・行政分野におけるICTの活用をテーマに、電子投票の可能性の考察、地方議会のデジタル化の…",
-            "date_modified": "2022-12-02T03:00:00.000Z"
-        },
-        {
-            "id": "8c500e4a20f34cb16c3157340961e7e7",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3520",
-            "title": "Japanese for Professional Purposes in the Fall C module",
-            "summary": "The Japanese Language Education Division at CEGLOC organizes Japanese for Professional Purposes in the Fall C module under the motto of \"Enhance your Japanese skills for job-hunting. Don't wait, do it…",
             "date_modified": "2022-12-02T03:00:00.000Z"
         }
     ]
