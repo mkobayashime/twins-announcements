@@ -4,10 +4,22 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Wed, 14 Dec 2022 00:29:29 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 14 Dec 2022 02:16:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
+        <item>
+            <title><![CDATA[【1月、2月開催】SDGs×TSUKUBA 2022 ～SDGsをチャットする～(オンライン）]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3550</link>
+            <guid>fbe38c28662ccfd92ea565762b8175f4</guid>
+            <pubDate>Wed, 14 Dec 2022 03:00:00 GMT</pubDate>
+            <description><![CDATA[SDGsについて、協定校学生と英語で議論してみませんか？
+テーマに関する解説後、４～５人のグループに分かれてディスカッションをします。
+その後、各グループでの討論をまとめて発表します。
+これまで参加したことがない方、単発参加も大歓迎です！
+
+第8回　2023年1月20日（金）19：00-20：45 GOALS#12: つくる責任、つかう責任 / Responsible Consumption an…]]></description>
+        </item>
         <item>
             <title><![CDATA[【本日だけオープン！】えがおカフェ＠体バチ]]></title>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3549</link>
@@ -246,18 +258,6 @@ This is a face-to-face program where you can talk in Japa…]]></description>
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 …]]></description>
-        </item>
-        <item>
-            <title><![CDATA[【学群2、4年生（医学類は6年生）対象】全国学生調査（第3回試行実施）の実施について]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3523</link>
-            <guid>611cb7916f8362fe15d007250da6218e</guid>
-            <pubDate>Mon, 05 Dec 2022 03:00:00 GMT</pubDate>
-            <description><![CDATA[文部科学省より、全国学生調査への協力依頼がありました。以下を確認の上、調査回答への協力をお願いします。
-＜以下文科省より＞
-文部科学省から対象学生の皆さんへ、令和４年度「全国学生調査（第３回試行実施）」への回答のお願いです。
-（今回の対象者は、大学２年生と最終学年生です。）
-文部科学省では、学生の皆さん一人一人の学びの実態を把握し、大学教育を改善していくための「全国学生調査」を実施します。
-皆さん…]]></description>
         </item>
     </channel>
 </rss>

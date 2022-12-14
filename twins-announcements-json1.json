@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "fbe38c28662ccfd92ea565762b8175f4",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3550",
+            "title": "【1月、2月開催】SDGs×TSUKUBA 2022 ～SDGsをチャットする～(オンライン）",
+            "summary": "SDGsについて、協定校学生と英語で議論してみませんか？\nテーマに関する解説後、４～５人のグループに分かれてディスカッションをします。\nその後、各グループでの討論をまとめて発表します。\nこれまで参加したことがない方、単発参加も大歓迎です！\n\n第8回　2023年1月20日（金）19：00-20：45 GOALS#12: つくる責任、つかう責任 / Responsible Consumption an…",
+            "date_modified": "2022-12-14T03:00:00.000Z"
+        },
+        {
             "id": "b35b4be7ea790c36006fe0843c1966f4",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3549",
             "title": "【本日だけオープン！】えがおカフェ＠体バチ",
@@ -135,13 +142,6 @@
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3525",
             "title": "「東南アジア国際研修」オンライン（科目コードBA20033・3単位）",
             "summary": "奨学金「はばたけ！」を利用できるようになりました。\n\n充実した英語研修のほかに、大学講義の聴講や学生交流会を通じて、オンラインながら現地の経験を積むことができる国際研修になります。時差が1時間のため受講しやすくなっています。\n\n~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~\n…",
-            "date_modified": "2022-12-05T03:00:00.000Z"
-        },
-        {
-            "id": "611cb7916f8362fe15d007250da6218e",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3523",
-            "title": "【学群2、4年生（医学類は6年生）対象】全国学生調査（第3回試行実施）の実施について",
-            "summary": "文部科学省より、全国学生調査への協力依頼がありました。以下を確認の上、調査回答への協力をお願いします。\n＜以下文科省より＞\n文部科学省から対象学生の皆さんへ、令和４年度「全国学生調査（第３回試行実施）」への回答のお願いです。\n（今回の対象者は、大学２年生と最終学年生です。）\n文部科学省では、学生の皆さん一人一人の学びの実態を把握し、大学教育を改善していくための「全国学生調査」を実施します。\n皆さん…",
             "date_modified": "2022-12-05T03:00:00.000Z"
         }
     ]
