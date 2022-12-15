@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "e475da020edcd32cafe6a3cc3678ab5c",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3554",
+            "title": "【新型コロナ関連】年末年始における注意喚起について",
+            "summary": "年末年始における注意喚起についてお知らせします。\n年末年始は、忘年会や新年会等による会食や、帰省等に伴い普段会わない人との接触機会が増える時期です。\n引き続き、感染防止に十分配慮し、会食は少人数、かつ短時間とするなど、責任ある行動に努めてくださるようお願いします。\n\n詳細は以下のリンク（筑波大学公式HP）をご確認ください。",
+            "date_modified": "2022-12-15T03:00:00.000Z"
+        },
+        {
             "id": "607fd090a72f70abe958b1664efb8767",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3553",
             "title": "【再掲】【2023年3月出発！参加者募集】「中央ユーラシア諸国を対象としたマルチリンガル人材育成プログラム」（カザフ国立大学）",
@@ -50,7 +57,7 @@
             "id": "ebd17df1d9d3dff707e799e5d63c935e",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3544",
             "title": "【12/16 留学を考えているあなたへ】「留学LIVE体験談」on-line or対面 12/16（金）18:30",
-            "summary": "Business Leaders’ Seminar is a part of classes in Doctoral Program in Human Biology.\nIn this class, world's top business leaders invited to share their experiences in career development and business s…",
+            "summary": "「留学LIVE体験談」\n様々疑問が出てくる留学。\n初めての体験はドキドキが止まらない。\n\n今、まさに現地で留学を、海外を、体験中の先輩に直接LIVEで聞いちゃおう！\nスペイン、イギリス、モロッコ、イタリア、リトアニアの各国より今を語ってもらいます！\nこれはもう、参加するしかない！！\n\n会場：Zoom　または　対面（スチューデント・コモンズ/1A203）\n日時：2022年12月16日金曜日　18：3…",
             "date_modified": "2022-12-09T03:00:00.000Z"
         },
         {
@@ -59,13 +66,6 @@
             "title": "【12/16 留学を考えているあなたへ】「留学LIVE体験談」on-line or対面 12/16（金）18:30",
             "summary": "「留学LIVE体験談」\n様々疑問が出てくる留学。\n初めての体験はドキドキが止まらない。\n\n今、まさに現地で留学を、海外を、体験中の先輩に直接LIVEで聞いちゃおう！\nスペイン、イギリス、モロッコ、イタリア、リトアニアの各国より今を語ってもらいます！\nこれはもう、参加するしかない！！\n\n会場：Zoom　または　対面（スチューデント・コモンズ/1A203）\n日時：2022年12月16日金曜日　18：3…",
             "date_modified": "2022-12-09T03:00:00.000Z"
-        },
-        {
-            "id": "108eda7407c49a32b417380b8759ab46",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3542",
-            "title": "【参加者募集】「東南アジア国際研修」オンライン（科目コードBA20033・3単位）",
-            "summary": "2022年度東南アジア国際研修（オンライン実施）の参加者を募集します。\n\n研修期間：2022年2月20日（月）～3月24日（金）\n\n研修内容：オンライン英語研修（Ateneo Language Learning Center）\n　　　　　　1日3時間の英語研修を週4日間×5週間\n          協定校でのオンライン授業（Ateneo de Manila University）\n　　　　　　90…",
-            "date_modified": "2022-12-08T03:00:00.000Z"
         },
         {
             "id": "fc9296bda6fc3c95c61469c95e3e86d2",
