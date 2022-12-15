@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "84057098be37bc2c837a29954eb9048b",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3555",
+            "title": "【芸術】年末年始の実習室等使用に関する諸注意",
+            "summary": "芸術の実習室等の使用について、年末年始の使用に関する諸注意を掲示いたします。\n詳細は添付をご確認ください。",
+            "date_modified": "2022-12-16T03:00:00.000Z"
+        },
+        {
             "id": "e475da020edcd32cafe6a3cc3678ab5c",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3554",
             "title": "【新型コロナ関連】年末年始における注意喚起について",
@@ -135,13 +142,6 @@
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3526",
             "title": "【追加募集！枠数残り僅か】海外教育インターンシップSEA-Teacherプログラム",
             "summary": "東南アジアの提携大学での教育インターンシップへの参加者を募集しています。現地教師の業務を実習し、授業を行うことを通して、グローバルな視野、異文化理解力、授業力、国際感覚を養うことが目標のプログラムです。2023年２月から３月の約一か月間、インドネシア、フィリピン、タイのいずれかの提携大学で実際に授業実習を行います。詳細は添付のチラシをご覧ください。\n\n対象: ２年次以上の全学群生(内容・教科等は実…",
-            "date_modified": "2022-12-05T03:00:00.000Z"
-        },
-        {
-            "id": "b79fbb4210cee7b737cc44ba48b8bbf5",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3525",
-            "title": "「東南アジア国際研修」オンライン（科目コードBA20033・3単位）",
-            "summary": "奨学金「はばたけ！」を利用できるようになりました。\n\n充実した英語研修のほかに、大学講義の聴講や学生交流会を通じて、オンラインながら現地の経験を積むことができる国際研修になります。時差が1時間のため受講しやすくなっています。\n\n~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~\n…",
             "date_modified": "2022-12-05T03:00:00.000Z"
         }
     ]

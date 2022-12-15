@@ -2,10 +2,18 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/mkobayashime/twins-announcements</id>
     <title>在学生へのお知らせ | 筑波大学</title>
-    <updated>2022-12-15T09:09:28.579Z</updated>
+    <updated>2022-12-15T15:05:11.242Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://github.com/mkobayashime/twins-announcements"/>
     <subtitle>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</subtitle>
+    <entry>
+        <title type="html"><![CDATA[【芸術】年末年始の実習室等使用に関する諸注意]]></title>
+        <id>84057098be37bc2c837a29954eb9048b</id>
+        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3555"/>
+        <updated>2022-12-16T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[芸術の実習室等の使用について、年末年始の使用に関する諸注意を掲示いたします。
+詳細は添付をご確認ください。]]></summary>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【新型コロナ関連】年末年始における注意喚起について]]></title>
         <id>e475da020edcd32cafe6a3cc3678ab5c</id>
@@ -242,17 +250,5 @@ This is a face-to-face program where you can talk in Japa…]]></summary>
         <summary type="html"><![CDATA[東南アジアの提携大学での教育インターンシップへの参加者を募集しています。現地教師の業務を実習し、授業を行うことを通して、グローバルな視野、異文化理解力、授業力、国際感覚を養うことが目標のプログラムです。2023年２月から３月の約一か月間、インドネシア、フィリピン、タイのいずれかの提携大学で実際に授業実習を行います。詳細は添付のチラシをご覧ください。
 
 対象: ２年次以上の全学群生(内容・教科等は実…]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[「東南アジア国際研修」オンライン（科目コードBA20033・3単位）]]></title>
-        <id>b79fbb4210cee7b737cc44ba48b8bbf5</id>
-        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3525"/>
-        <updated>2022-12-05T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[奨学金「はばたけ！」を利用できるようになりました。
-
-充実した英語研修のほかに、大学講義の聴講や学生交流会を通じて、オンラインながら現地の経験を積むことができる国際研修になります。時差が1時間のため受講しやすくなっています。
-
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-…]]></summary>
     </entry>
 </feed>
