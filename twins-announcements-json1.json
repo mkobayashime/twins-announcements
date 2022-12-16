@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "3cc64c22994f549bb8fadf0ac29d63e2",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3559",
+            "title": "【本日！12/16　18：30～】留学へ行きたい方必見！「留学LIVE体験談」",
+            "summary": "「留学LIVE体験談」本日開催します！\n参加方法はオンライン＆対面（スチューデント・コモンズ）を選べます。\n\n\n様々疑問が出てくる留学。\n初めての体験はドキドキが止まらない。\n\n今、まさに現地で留学を、海外を、体験中の先輩に直接LIVEで聞いちゃおう！\nスペイン、イギリス、モロッコ、イタリア、リトアニアの各国より今を語ってもらいます！\nこれはもう、参加するしかない！！\n\n会場：Zoom　または　対…",
+            "date_modified": "2022-12-16T03:00:00.000Z"
+        },
+        {
             "id": "9c200acafdb1dc3ed0999aafcbfca917",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3558",
             "title": "令和5年度 春学期の共通科目「情報リテラシー(講義・演習)」のTA募集",
@@ -135,13 +142,6 @@
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3530",
             "title": "【開催中！】令和4年度筑波大学就職ミライ博 オンライン業界研究会",
             "summary": "\n筑波大学就職ミライ博第2弾「オンライン業界研究会」を開催中！\n\n業界研究に特化した１０日間、様々な業界・業種のお話を聞くことができる大変貴重な機会です。出展企業は特設サイトから確認できます。\n低学年の方も大歓迎です。ぜひご参加ください！\n\n【日程】2022年12月6日（火）～8日（木）2023年1月17日（火）～25日（水）\n※土日は除く\n【時間】［1部］9：30-13：00　［2部］13：30…",
-            "date_modified": "2022-12-06T03:00:00.000Z"
-        },
-        {
-            "id": "9c68644d725470e001bf437a938fcec0",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3529",
-            "title": "【重要】2022年度第2期分授業料の納入督促について",
-            "summary": "　2022年度第2期分授業料について、11月28日(月)に口座振替により引落しを行いましたが、残高不足等のため引落しができなかった者については、12月27日(火)に再度預金口座から引落しを行います。\n　つきましては、12月26日(月)までに登録した預金口座へ入金をお願いします。\n\n　なお、引落しがされている場合は、通帳に“ツクバダイ”と記帳されますので、引落しがされているか登録した引落口座のご確認…",
             "date_modified": "2022-12-06T03:00:00.000Z"
         }
     ]
