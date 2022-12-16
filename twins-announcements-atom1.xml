@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/mkobayashime/twins-announcements</id>
     <title>在学生へのお知らせ | 筑波大学</title>
-    <updated>2022-12-16T09:08:33.958Z</updated>
+    <updated>2022-12-16T12:09:30.074Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://github.com/mkobayashime/twins-announcements"/>
     <subtitle>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</subtitle>
+    <entry>
+        <title type="html"><![CDATA[Bike rental service! 自転車貸出します！]]></title>
+        <id>769e0ea542b8ace3562011f53f796c05</id>
+        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3565"/>
+        <updated>2022-12-16T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[We will start a bike subscription (monthly rental) project!
+・Target: International students (research/exchange students are also welcome! Any student with foreign nationality)
+・We only allow renting o…]]></summary>
+    </entry>
     <entry>
         <title type="html"><![CDATA[1/25（15時～）講演会“Pro Poor Growth: The Lessons Learnt from Bangladesh”（学生・教員対象）]]></title>
         <id>cf285eb6020624aca5e18e729ceeae9b</id>
@@ -260,14 +269,5 @@ cov…]]></summary>
 ・プログラム概要
 派遣先：ロスアンデス大学（コロンビア）
 派遣期間：2023年3月5日～3月18…]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[TODAY Face-to-face Japanese chat! 15:00-17:00]]></title>
-        <id>dfb222c56f8d62be39bc59bd68ceed2c</id>
-        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3538"/>
-        <updated>2022-12-07T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Japanese Practice Program for all levels: G-Chat Japanese
-If you are looking for an opportunity to practice Japanese, this program is for you!
-This is a face-to-face program where you can talk in Japa…]]></summary>
     </entry>
 </feed>
