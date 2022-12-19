@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "07f8a634330cca5c40662cc59e269c67",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3569",
+            "title": "【開催案内】第5回 オンラインによるロシア・中央アジア映画上映会_2/3(金)",
+            "summary": "筑波大学「日本財団 中央アジア・日本人材育成プロジェクト (NipCA)」では、中央アジアの文化とSDGsへの理解促進のため、オンラインによるロシア・中央アジア映画上映会を開催いたします。\n\n上映作品：ヨルキン・トゥイチエフ『ファリダの二千の歌』（2020年、110分） ウズベク語/日本語字幕付き\n\n日時：令和5年2月3日（金）19:15〜21:50\n\n19:00　Zoom開場 　※お早めにお入り…",
+            "date_modified": "2022-12-19T03:00:00.000Z"
+        },
+        {
             "id": "e489fe69ff0af3b8b0c51c20925d23b1",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3568",
             "title": "[12/26 14:00-] 第16回 DDPIセミナー「保育政策に関する実証分析ー経済学による近年の研究結果からー」",
@@ -136,13 +143,6 @@
             "title": "TODAY Face-to-face Japanese chat! 15:00-17:00",
             "summary": "Japanese Practice Program for all levels: G-Chat Japanese\nIf you are looking for an opportunity to practice Japanese, this program is for you!\nThis is a face-to-face program where you can talk in Japa…",
             "date_modified": "2022-12-07T03:00:00.000Z"
-        },
-        {
-            "id": "6a72f9e5fbc0e8d2b17b7adb1b83d2e4",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3534",
-            "title": "2022年度「海外英語研修II」（3単位、オンライン）参加者募集",
-            "summary": "2023年2～3月に実施される、「海外英語研修II-a・II-b」（3単位、オンライン）の参加者を募集します。プログラムの詳細や申込方法については、manabaコース「xx20371　海外英語研修オンライン募集説明会」に登録のうえ、コースニュースより募集説明動画と申込に関する情報を確認してください。\n\n●8030606「海外英語研修II-a」（3単位）\n・プログラム：ブリティッシュ・コロンビア大学…",
-            "date_modified": "2022-12-06T03:00:00.000Z"
         }
     ]
 }

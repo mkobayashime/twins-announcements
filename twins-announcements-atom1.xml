@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/mkobayashime/twins-announcements</id>
     <title>在学生へのお知らせ | 筑波大学</title>
-    <updated>2022-12-19T09:09:14.423Z</updated>
+    <updated>2022-12-19T12:10:01.268Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://github.com/mkobayashime/twins-announcements"/>
     <subtitle>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</subtitle>
+    <entry>
+        <title type="html"><![CDATA[【開催案内】第5回 オンラインによるロシア・中央アジア映画上映会_2/3(金)]]></title>
+        <id>07f8a634330cca5c40662cc59e269c67</id>
+        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3569"/>
+        <updated>2022-12-19T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[筑波大学「日本財団 中央アジア・日本人材育成プロジェクト (NipCA)」では、中央アジアの文化とSDGsへの理解促進のため、オンラインによるロシア・中央アジア映画上映会を開催いたします。
+
+上映作品：ヨルキン・トゥイチエフ『ファリダの二千の歌』（2020年、110分） ウズベク語/日本語字幕付き
+
+日時：令和5年2月3日（金）19:15〜21:50
+
+19:00　Zoom開場 　※お早めにお入り…]]></summary>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[12/26 14:00-] 第16回 DDPIセミナー「保育政策に関する実証分析ー経済学による近年の研究結果からー」]]></title>
         <id>e489fe69ff0af3b8b0c51c20925d23b1</id>
@@ -231,15 +244,5 @@
         <summary type="html"><![CDATA[Japanese Practice Program for all levels: G-Chat Japanese
 If you are looking for an opportunity to practice Japanese, this program is for you!
 This is a face-to-face program where you can talk in Japa…]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2022年度「海外英語研修II」（3単位、オンライン）参加者募集]]></title>
-        <id>6a72f9e5fbc0e8d2b17b7adb1b83d2e4</id>
-        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3534"/>
-        <updated>2022-12-06T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[2023年2～3月に実施される、「海外英語研修II-a・II-b」（3単位、オンライン）の参加者を募集します。プログラムの詳細や申込方法については、manabaコース「xx20371　海外英語研修オンライン募集説明会」に登録のうえ、コースニュースより募集説明動画と申込に関する情報を確認してください。
-
-●8030606「海外英語研修II-a」（3単位）
-・プログラム：ブリティッシュ・コロンビア大学…]]></summary>
     </entry>
 </feed>
