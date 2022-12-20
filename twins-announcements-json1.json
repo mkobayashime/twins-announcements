@@ -5,6 +5,20 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "d3d70e8fda4b3d99b26d86d818996182",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3571",
+            "title": "12月24日締切「東南アジア国際研修」オンライン",
+            "summary": "フィリピンのAteneo De Manila 大学の語学研修センターによる英語研修プログラム、大学講師による講義の聴講・学生交流会になります。語学力・コミュニケーション力を高め、フィリピンの歴史・文化の造詣を深めることができます。\n\n~・~・~・~・~・~・~・~・~・~・~・~・~・~・~・~・~・~・~・~・~・~・~・~・~・~・~・~・~\n\n【日時】2023年2月20日（月）～2023年3…",
+            "date_modified": "2022-12-20T03:00:00.000Z"
+        },
+        {
+            "id": "60be3ce1eda6367538f10c3d7053e4d4",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3570",
+            "title": "2022年度「海外英語研修II」（3単位、オンライン）参加者募集(再掲載)",
+            "summary": "2023年2～3月に実施される、「海外英語研修II-a・II-b」（3単位、オンライン）の参加者を募集します。プログラムの詳細や申込方法については、manabaコース「xx20371　海外英語研修オンライン募集説明会」に登録のうえ、コースニュースより募集説明動画と申込に関する情報を確認してください。\n\n●8030606「海外英語研修II-a」（3単位）※開講されません。\n・プログラム：ブリティッシ…",
+            "date_modified": "2022-12-20T03:00:00.000Z"
+        },
+        {
             "id": "07f8a634330cca5c40662cc59e269c67",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3569",
             "title": "【開催案内】第5回 オンラインによるロシア・中央アジア映画上映会_2/3(金)",
@@ -129,20 +143,6 @@
             "title": "【Event Info】Exchange program with Japanese elementary school students in Japanese",
             "summary": "<<対象：留学生>>\n筑西きぬロータリークラブでは日本の小学生に日本語で自分の国のことを紹介する交流会を開催します。\n興味のある方は、学生交流課（isc-shien@un.tsukuba.ac.jp）に必要事項を添付のExcelファイルに記載の上、パスワードを設定して、12月23日(金)までにメールにて申し込んでください。\n\n＊ 実際に参加できる方には、後日学生交流課より連絡します。\n＊ 詳細は添…",
             "date_modified": "2022-12-13T03:00:00.000Z"
-        },
-        {
-            "id": "42dbd4609ddb59e8ae95d37dd7f4ff51",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3539",
-            "title": "【追加募集】2022年度短期研修プログラム（コロンビア：ロスアンデス大学）",
-            "summary": "筑波トランスパシフィックプログラム（TTPP）では、地球規模課題の解決に向けて広く社会の安定に貢献できる中核的な実務人材育成を目的に、コロンビア・ロスアンデス大学での短期研修プログラムを実施します。\nプログラムへの参加を希望する学生は下記ウェブサイトより、募集要項等をよく確認の上、応募してください。\n\n・プログラム概要\n派遣先：ロスアンデス大学（コロンビア）\n派遣期間：2023年3月5日～3月18…",
-            "date_modified": "2022-12-07T03:00:00.000Z"
-        },
-        {
-            "id": "dfb222c56f8d62be39bc59bd68ceed2c",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3538",
-            "title": "TODAY Face-to-face Japanese chat! 15:00-17:00",
-            "summary": "Japanese Practice Program for all levels: G-Chat Japanese\nIf you are looking for an opportunity to practice Japanese, this program is for you!\nThis is a face-to-face program where you can talk in Japa…",
-            "date_modified": "2022-12-07T03:00:00.000Z"
         }
     ]
 }
