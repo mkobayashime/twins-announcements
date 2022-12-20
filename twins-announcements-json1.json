@@ -5,6 +5,27 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "c11d532ba32a836129e81ebada215318",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3574",
+            "title": "【スチューデント・コモンズ対面イベント】GET RICE！1/18-19　We give out rice！/お米配付します！",
+            "summary": "つくば機能植物イノベーション研究センター（T-PIRC）で採れたコシヒカリをスチューデント・コモンズで配付します!\n無料、先着順（予約不要）になります！\n\n日　時：2023年1月18日（水）＆19日（木）10：00～16：00\n場　所：スチューデント・コモンズ（１A203）\n対　象：全在学生（学生証の提示必須）\n配付条件：\n・無料、予約不要、先着順（各実施日に200袋ずつ配付します。なくなり次第、…",
+            "date_modified": "2022-12-20T03:00:00.000Z"
+        },
+        {
+            "id": "67d57f412d4e59a9e299b1d539579b97",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3573",
+            "title": "【2022秋学期 ちゃんぷーる（Campur）】AIMSプログラム主催の学内国際交流イベント（対面）　1/16,18,23,30&2/1",
+            "summary": "Campur is BACK!!\nAIMSプログラム主催の学内国際交流イベント 「Campur」（ちゃんぷーる）」が帰ってきます！！\n\nこのイベントは、AIMSプログラムで来ている短期留学生と本学学生の文化交流を目的としたイベントです。今学期AIMSプログラムで受け入れている36名の学生達（インドネシア、タイ、マレーシア、ベトナム、ブルネイ、フィリピン）が、それぞれの国の文化を紹介します！留学生と…",
+            "date_modified": "2022-12-20T03:00:00.000Z"
+        },
+        {
+            "id": "3f95a7aefa445bf395c039ae502824d1",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3572",
+            "title": "TOMORROW Face-to-face Japanese chat! (G-Chat Japanese)",
+            "summary": "Japanese Practice Program for all levels: G-Chat Japanese\nIf you are looking for an opportunity to practice Japanese, this program is for you!\nThis is a face-to-face program where you can talk in Japa…",
+            "date_modified": "2022-12-20T03:00:00.000Z"
+        },
+        {
             "id": "d3d70e8fda4b3d99b26d86d818996182",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3571",
             "title": "12月24日締切「東南アジア国際研修」オンライン",
@@ -122,27 +143,6 @@
             "title": "Bike rental service! 自転車貸し出します！Deadline 12/22",
             "summary": "We will start a bike subscription (monthly rental) project!\n・Target: International students (research/exchange students are also welcome! Any student with foreign nationality)\n・We only allow renting o…",
             "date_modified": "2022-12-14T03:00:00.000Z"
-        },
-        {
-            "id": "fbe38c28662ccfd92ea565762b8175f4",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3550",
-            "title": "【1月、2月開催】SDGs×TSUKUBA 2022 ～SDGsをチャットする～(オンライン）",
-            "summary": "SDGsについて、協定校学生と英語で議論してみませんか？\nテーマに関する解説後、４～５人のグループに分かれてディスカッションをします。\nその後、各グループでの討論をまとめて発表します。\nこれまで参加したことがない方、単発参加も大歓迎です！\n\n第8回　2023年1月20日（金）19：00-20：45 GOALS#12: つくる責任、つかう責任 / Responsible Consumption an…",
-            "date_modified": "2022-12-14T03:00:00.000Z"
-        },
-        {
-            "id": "7cb3daf6b27b2319b5596404f1273256",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3547",
-            "title": "【参加者募集】「中央ユーラシア諸国を対象としたマルチリンガル人材育成プログラム」（カザフ国立大学） 2023年3月～",
-            "summary": "CiC協定大学 アルファラビ・カザフ国立大学への短期留学（交換留学：派遣）の参加学生を募集します。\n\n研修内容：\n▶︎派遣期間：2023年3月〜8月（半年間）もしくは2023年3月～2024年2月（1年間）\n▶︎受入機関：カザフ国立大学（カザフスタン共和国アルマトイ市）\n▶︎対象：学群生、大学院生\n▶︎定員：10名程度　※審査の上、派遣学生を決定します。\n▶︎留学中の授業料：留学期間中も筑波大学へ…",
-            "date_modified": "2022-12-13T03:00:00.000Z"
-        },
-        {
-            "id": "a8fc047516f52c30f0418f2f6175b7eb",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3546",
-            "title": "【Event Info】Exchange program with Japanese elementary school students in Japanese",
-            "summary": "<<対象：留学生>>\n筑西きぬロータリークラブでは日本の小学生に日本語で自分の国のことを紹介する交流会を開催します。\n興味のある方は、学生交流課（isc-shien@un.tsukuba.ac.jp）に必要事項を添付のExcelファイルに記載の上、パスワードを設定して、12月23日(金)までにメールにて申し込んでください。\n\n＊ 実際に参加できる方には、後日学生交流課より連絡します。\n＊ 詳細は添…",
-            "date_modified": "2022-12-13T03:00:00.000Z"
         }
     ]
 }
