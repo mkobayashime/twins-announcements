@@ -5,6 +5,20 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "937ab91a499465e31f894172df399cfc",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3582",
+            "title": "Application for the Spring Semester of 2023 to Suzuki Scholarship",
+            "summary": "“Make a Difference in the World Fund (MDW Fund)” at the University of Tsukuba was established in December 2015 by Visiting Professor Hideaki Suzuki. The Fund has provided financial assistance to stude…",
+            "date_modified": "2022-12-21T03:00:00.000Z"
+        },
+        {
+            "id": "f04b9c36f53a3ad0bae73e658583b724",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3581",
+            "title": "筑波大学「世界を変えよう基金」鈴木奨学金2023年春学期奨学生募集のお知らせ",
+            "summary": "筑波大学「世界を変えよう基金」は、2015年12月本学客員教授を務めていた鈴木英明氏により創設され、大学内外の社会的・文化的ニーズに貢献する活動を行う筑波大学生を対象に資金支援を行っています。\n\n新型肺炎感染拡大により経済的に困窮する学生が急増した状況に鑑み、経済的困難に直面しながらも将来海外で活躍する意欲を有する学生に対し、奨学金（月２万円）を2020年秋学期以降支給しています。返済は不要ですが…",
+            "date_modified": "2022-12-21T03:00:00.000Z"
+        },
+        {
             "id": "1b8269f86905644af21239f0b96a5421",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3580",
             "title": "【実渡航あり】インドネシア教育大学（インドネシア）での短期プログラム（EAT LOVE & PRAY – Living Diversity in Indonesia）",
@@ -128,20 +142,6 @@
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3562",
             "title": "【参加者募集】「東南アジア国際研修」オンライン（科目コードBA20033・3",
             "summary": "2022年度東南アジア国際研修（オンライン実施）の参加者を募集します。\n\n研修期間：2022年2月20日（月）～3月24日（金）\n\n研修内容：オンライン英語研修（Ateneo Language Learning Center）\n　　　　　　1日3時間の英語研修を週4日間×5週間\n          協定校でのオンライン授業（Ateneo de Manila University）\n　　　　　　90…",
-            "date_modified": "2022-12-16T03:00:00.000Z"
-        },
-        {
-            "id": "17dc487bb0e63da5cbbc226d0ebfcb9d",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3561",
-            "title": "Dec 18th: オンライン英語会 City Chat Cafe",
-            "summary": "オンラインCity Chat Cafeで気軽に英語を練習しよう！\n様々な文化背景を持つ人々が出合い、おしゃべりを楽しむ国際交流イベントです。\n筑波大学の留学生と自己紹介や母国の紹介など自由な話題で気軽に英語や日本で会話を楽しめます。\n学外の参加者と交流できるチャンスです。是非参加お待ちします!\n\n日時：\n12月18日（日）\n前半13:30-14:30\n後半14:45-15:45\n(入退出自由)\nト…",
-            "date_modified": "2022-12-16T03:00:00.000Z"
-        },
-        {
-            "id": "9c200acafdb1dc3ed0999aafcbfca917",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3558",
-            "title": "令和5年度 春学期の共通科目「情報リテラシー(講義・演習)」のTA募集",
-            "summary": "令和5年度 春学期の共通科目「情報リテラシー・講義」「同・演習」のTAを募集します．\n\n【対象】\n令和5年度にシステム情報工学研究群に在籍予定の人。学位Pは不問。\n\n【授業内容】\n講義は、情報技術 (ネットワークのしくみ、セキュリティなど) に関する座学、\n演習は、レポート作成、SNS利用、プレゼンテーションに関する実習です(MS-Word,PowerPointを使用)。\n\n【主な業務内容】\n授業…",
             "date_modified": "2022-12-16T03:00:00.000Z"
         }
     ]
