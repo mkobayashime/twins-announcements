@@ -4,10 +4,24 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Wed, 21 Dec 2022 02:03:06 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 21 Dec 2022 03:04:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
+        <item>
+            <title><![CDATA[【中央図書館】2023年度ラーニング・アドバイザー募集]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3584</link>
+            <guid>f4b8e7e5c356e7de31eb9f928d8bcdaa</guid>
+            <pubDate>Wed, 21 Dec 2022 03:00:00 GMT</pubDate>
+            <description><![CDATA[来年度の学生サポートデスク（中央図書館2階ラーニング・スクエア内）のスタッフを募集します。
+学生の学習支援に興味のある【大学院生】の皆様、ぜひご応募ください！
+
+ご希望の方は、以下のURLから指定の履歴書書式をダウンロードしてご記入のうえ、
+中央図書館レファレンスデスクへご提出ください。（受付時間：平日9時-17時）
+なお、書類審査がありますので「志望の動機」はしっかりご記入ください。
+
+※来年度…]]></description>
+        </item>
         <item>
             <title><![CDATA[【再掲：1/23〆切】令和５年度『筑波大学社会貢献プロジェクト』の募集について]]></title>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3583</link>
@@ -216,13 +230,6 @@ This is a face-to-face program where you can talk in Japa…]]></description>
 
 「国際学Ⅱチュートリアル」主催講演会
 日時：1月25日（水）15時か…]]></description>
-        </item>
-        <item>
-            <title><![CDATA[1/25(3:00pm)Lecture “Pro Poor Growth: The Lessons Learnt from Bangladesh”(For Students & professors)]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3563</link>
-            <guid>3e85b619175a252bb89398e77d928adb</guid>
-            <pubDate>Fri, 16 Dec 2022 03:00:00 GMT</pubDate>
-            <description><![CDATA[We will hold a lecture on January 25 (Wednesday) from 15:00. Mr. Sheikh Farid from the Embassy of Bangladesh in Tokyo will give a lecture on economic growth accompanied by poverty reduction effects. A…]]></description>
         </item>
     </channel>
 </rss>

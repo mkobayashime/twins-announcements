@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "f4b8e7e5c356e7de31eb9f928d8bcdaa",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3584",
+            "title": "【中央図書館】2023年度ラーニング・アドバイザー募集",
+            "summary": "来年度の学生サポートデスク（中央図書館2階ラーニング・スクエア内）のスタッフを募集します。\n学生の学習支援に興味のある【大学院生】の皆様、ぜひご応募ください！\n\nご希望の方は、以下のURLから指定の履歴書書式をダウンロードしてご記入のうえ、\n中央図書館レファレンスデスクへご提出ください。（受付時間：平日9時-17時）\nなお、書類審査がありますので「志望の動機」はしっかりご記入ください。\n\n※来年度…",
+            "date_modified": "2022-12-21T03:00:00.000Z"
+        },
+        {
             "id": "848c2e06d7053c76d7ac2b234873835d",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3583",
             "title": "【再掲：1/23〆切】令和５年度『筑波大学社会貢献プロジェクト』の募集について",
@@ -135,13 +142,6 @@
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3564",
             "title": "1/25（15時～）講演会“Pro Poor Growth: The Lessons Learnt from Bangladesh”（学生・教員対象）",
             "summary": "TSUKUBA社会国際学初年次チュートリアルプログラムでは、1月25日（水）15時から公開講演会を開催いたします。講師は駐日バングデシュ大使館のSheikh Farid氏で、貧困削減効果を伴う経済成長に関してバングラデシュを例に講演していただきます。筑波大学の学生・教員でしたらどなたでもご参加いただけます。奮ってご参加下さい。\n\n「国際学Ⅱチュートリアル」主催講演会\n日時：1月25日（水）15時か…",
-            "date_modified": "2022-12-16T03:00:00.000Z"
-        },
-        {
-            "id": "3e85b619175a252bb89398e77d928adb",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3563",
-            "title": "1/25(3:00pm)Lecture “Pro Poor Growth: The Lessons Learnt from Bangladesh”(For Students & professors)",
-            "summary": "We will hold a lecture on January 25 (Wednesday) from 15:00. Mr. Sheikh Farid from the Embassy of Bangladesh in Tokyo will give a lecture on economic growth accompanied by poverty reduction effects. A…",
             "date_modified": "2022-12-16T03:00:00.000Z"
         }
     ]
