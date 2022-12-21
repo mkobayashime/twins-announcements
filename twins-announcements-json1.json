@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "848c2e06d7053c76d7ac2b234873835d",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3583",
+            "title": "【再掲：1/23〆切】令和５年度『筑波大学社会貢献プロジェクト』の募集について",
+            "summary": "つくば・地域連携推進室では、教職員や学生による多様な形での地域への貢献活動等を『筑波大学社会貢献プロジェクト』として採択し、活動経費の支援を行っております。\n\nつきましては、下記添付のとおり募集しますので、募集要項をよく確認の上、申請書類を提出願います。\nなお、申請にあたっては、申請書への教員の署名（自署）が必要です。\n\n※申請締切期限：令和５年１月23日（月）16時30分まで",
+            "date_modified": "2022-12-21T03:00:00.000Z"
+        },
+        {
             "id": "937ab91a499465e31f894172df399cfc",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3582",
             "title": "Application for the Spring Semester of 2023 to Suzuki Scholarship",
@@ -135,13 +142,6 @@
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3563",
             "title": "1/25(3:00pm)Lecture “Pro Poor Growth: The Lessons Learnt from Bangladesh”(For Students & professors)",
             "summary": "We will hold a lecture on January 25 (Wednesday) from 15:00. Mr. Sheikh Farid from the Embassy of Bangladesh in Tokyo will give a lecture on economic growth accompanied by poverty reduction effects. A…",
-            "date_modified": "2022-12-16T03:00:00.000Z"
-        },
-        {
-            "id": "d0e478e5b60a78648e8be22607c78b4f",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3562",
-            "title": "【参加者募集】「東南アジア国際研修」オンライン（科目コードBA20033・3",
-            "summary": "2022年度東南アジア国際研修（オンライン実施）の参加者を募集します。\n\n研修期間：2022年2月20日（月）～3月24日（金）\n\n研修内容：オンライン英語研修（Ateneo Language Learning Center）\n　　　　　　1日3時間の英語研修を週4日間×5週間\n          協定校でのオンライン授業（Ateneo de Manila University）\n　　　　　　90…",
             "date_modified": "2022-12-16T03:00:00.000Z"
         }
     ]
