@@ -4,10 +4,22 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Thu, 22 Dec 2022 02:05:43 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 22 Dec 2022 04:07:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
+        <item>
+            <title><![CDATA[「第15回つくば３Ｅフォーラム会議」の開催について]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3586</link>
+            <guid>2bf493fde1b62f521b534c1e93eebd37</guid>
+            <pubDate>Thu, 22 Dec 2022 03:00:00 GMT</pubDate>
+            <description><![CDATA[つくば３Ｅフォーラムでは、1月21日（土）13:30～筑波大学総合研究棟Ａにおいて「第15回つくば３Ｅフォーラム会議」を開催いたします。
+環境省の「脱炭素先行地域」に選定された自治体の事例発表を行い、2050年カーボンニュートラルの実現にむけて何ができるのか、皆さんと考えていきたいと思います。
+ご参加をお待ちしております。
+
+日　時：令和5年1月21日（土）13:30～16:30
+会　場：筑波大学…]]></description>
+        </item>
         <item>
             <title><![CDATA[【再掲】12月24日締切「東南アジア国際研修」オンライン（BA20033・3単位）]]></title>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3585</link>
@@ -222,15 +234,6 @@ This is a face-to-face program where you can talk in Japa…]]></description>
             <description><![CDATA[　学生の皆さんにおいては日頃からSNS（Twitter、Facebookなどのソーシャル・ネットワーキング・サービス等）を利用している方も多いかと思いますが、他者への誹謗中傷など、ソーシャルメディアのルールやマナーに反するケースが見受けられます。
 
 　SNS等のソーシャルメディアを利用する際には、誹謗中傷、差別的な内容、猥褻な内容その他公序良俗に反する内容を発信しないよう、常に本学の構成員であると…]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Bike rental service! 自転車貸出します！]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3565</link>
-            <guid>769e0ea542b8ace3562011f53f796c05</guid>
-            <pubDate>Fri, 16 Dec 2022 03:00:00 GMT</pubDate>
-            <description><![CDATA[We will start a bike subscription (monthly rental) project!
-・Target: International students (research/exchange students are also welcome! Any student with foreign nationality)
-・We only allow renting o…]]></description>
         </item>
     </channel>
 </rss>

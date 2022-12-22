@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "2bf493fde1b62f521b534c1e93eebd37",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3586",
+            "title": "「第15回つくば３Ｅフォーラム会議」の開催について",
+            "summary": "つくば３Ｅフォーラムでは、1月21日（土）13:30～筑波大学総合研究棟Ａにおいて「第15回つくば３Ｅフォーラム会議」を開催いたします。\n環境省の「脱炭素先行地域」に選定された自治体の事例発表を行い、2050年カーボンニュートラルの実現にむけて何ができるのか、皆さんと考えていきたいと思います。\nご参加をお待ちしております。\n\n日　時：令和5年1月21日（土）13:30～16:30\n会　場：筑波大学…",
+            "date_modified": "2022-12-22T03:00:00.000Z"
+        },
+        {
             "id": "3b36aa88c40287b85e934195fabcd083",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3585",
             "title": "【再掲】12月24日締切「東南アジア国際研修」オンライン（BA20033・3単位）",
@@ -136,13 +143,6 @@
             "title": "【注意喚起】SNS等の利用について",
             "summary": "　学生の皆さんにおいては日頃からSNS（Twitter、Facebookなどのソーシャル・ネットワーキング・サービス等）を利用している方も多いかと思いますが、他者への誹謗中傷など、ソーシャルメディアのルールやマナーに反するケースが見受けられます。\n\n　SNS等のソーシャルメディアを利用する際には、誹謗中傷、差別的な内容、猥褻な内容その他公序良俗に反する内容を発信しないよう、常に本学の構成員であると…",
             "date_modified": "2022-12-19T03:00:00.000Z"
-        },
-        {
-            "id": "769e0ea542b8ace3562011f53f796c05",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3565",
-            "title": "Bike rental service! 自転車貸出します！",
-            "summary": "We will start a bike subscription (monthly rental) project!\n・Target: International students (research/exchange students are also welcome! Any student with foreign nationality)\n・We only allow renting o…",
-            "date_modified": "2022-12-16T03:00:00.000Z"
         }
     ]
 }

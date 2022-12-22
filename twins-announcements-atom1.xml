@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/mkobayashime/twins-announcements</id>
     <title>在学生へのお知らせ | 筑波大学</title>
-    <updated>2022-12-22T02:05:43.803Z</updated>
+    <updated>2022-12-22T04:07:11.122Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://github.com/mkobayashime/twins-announcements"/>
     <subtitle>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</subtitle>
+    <entry>
+        <title type="html"><![CDATA[「第15回つくば３Ｅフォーラム会議」の開催について]]></title>
+        <id>2bf493fde1b62f521b534c1e93eebd37</id>
+        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3586"/>
+        <updated>2022-12-22T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[つくば３Ｅフォーラムでは、1月21日（土）13:30～筑波大学総合研究棟Ａにおいて「第15回つくば３Ｅフォーラム会議」を開催いたします。
+環境省の「脱炭素先行地域」に選定された自治体の事例発表を行い、2050年カーボンニュートラルの実現にむけて何ができるのか、皆さんと考えていきたいと思います。
+ご参加をお待ちしております。
+
+日　時：令和5年1月21日（土）13:30～16:30
+会　場：筑波大学…]]></summary>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【再掲】12月24日締切「東南アジア国際研修」オンライン（BA20033・3単位）]]></title>
         <id>3b36aa88c40287b85e934195fabcd083</id>
@@ -220,14 +232,5 @@ This is a face-to-face program where you can talk in Japa…]]></summary>
         <summary type="html"><![CDATA[　学生の皆さんにおいては日頃からSNS（Twitter、Facebookなどのソーシャル・ネットワーキング・サービス等）を利用している方も多いかと思いますが、他者への誹謗中傷など、ソーシャルメディアのルールやマナーに反するケースが見受けられます。
 
 　SNS等のソーシャルメディアを利用する際には、誹謗中傷、差別的な内容、猥褻な内容その他公序良俗に反する内容を発信しないよう、常に本学の構成員であると…]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bike rental service! 自転車貸出します！]]></title>
-        <id>769e0ea542b8ace3562011f53f796c05</id>
-        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3565"/>
-        <updated>2022-12-16T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[We will start a bike subscription (monthly rental) project!
-・Target: International students (research/exchange students are also welcome! Any student with foreign nationality)
-・We only allow renting o…]]></summary>
     </entry>
 </feed>
