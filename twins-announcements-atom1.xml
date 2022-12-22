@@ -2,10 +2,25 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/mkobayashime/twins-announcements</id>
     <title>在学生へのお知らせ | 筑波大学</title>
-    <updated>2022-12-22T04:07:11.122Z</updated>
+    <updated>2022-12-22T08:07:57.913Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://github.com/mkobayashime/twins-announcements"/>
     <subtitle>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</subtitle>
+    <entry>
+        <title type="html"><![CDATA[【12/21-1/20】図書館講習会に関するアンケートご協力のお願い]]></title>
+        <id>5c0a92ec163b52ada3fa4524b7727306</id>
+        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3587"/>
+        <updated>2022-12-22T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[筑波大学附属図書館では皆様にとってよりよい図書館講習会をご提供させていただくために、
+アンケート調査を実施します。ぜひ皆様の声をお聞かせください。
+多くの方のご協力をお願いいたします。
+
+実施期間：2022年12月21日(水)～2023年1月20日(金)
+
+対象者：本学構成員(学群生、大学院生、科目等履修生、研究生、教員、職員、研究員など)
+
+回答方法：(以下のどちらかで回答／所要時間5～6分程度…]]></summary>
+    </entry>
     <entry>
         <title type="html"><![CDATA[「第15回つくば３Ｅフォーラム会議」の開催について]]></title>
         <id>2bf493fde1b62f521b534c1e93eebd37</id>
@@ -223,14 +238,5 @@ This is a face-to-face program where you can talk in Japa…]]></summary>
 ▶︎対象：学群生、大学院生
 ▶︎定員：10名程度　※審査の上、派遣学生を決定します。
 ▶︎留学中の授業料：留学期間中も筑波大学へ…]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【注意喚起】SNS等の利用について]]></title>
-        <id>e500820eb6eafaa727bdfc239c7b7e63</id>
-        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3566"/>
-        <updated>2022-12-19T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[　学生の皆さんにおいては日頃からSNS（Twitter、Facebookなどのソーシャル・ネットワーキング・サービス等）を利用している方も多いかと思いますが、他者への誹謗中傷など、ソーシャルメディアのルールやマナーに反するケースが見受けられます。
-
-　SNS等のソーシャルメディアを利用する際には、誹謗中傷、差別的な内容、猥褻な内容その他公序良俗に反する内容を発信しないよう、常に本学の構成員であると…]]></summary>
     </entry>
 </feed>

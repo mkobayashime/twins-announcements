@@ -4,10 +4,25 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Thu, 22 Dec 2022 04:07:11 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 22 Dec 2022 08:07:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
+        <item>
+            <title><![CDATA[【12/21-1/20】図書館講習会に関するアンケートご協力のお願い]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3587</link>
+            <guid>5c0a92ec163b52ada3fa4524b7727306</guid>
+            <pubDate>Thu, 22 Dec 2022 03:00:00 GMT</pubDate>
+            <description><![CDATA[筑波大学附属図書館では皆様にとってよりよい図書館講習会をご提供させていただくために、
+アンケート調査を実施します。ぜひ皆様の声をお聞かせください。
+多くの方のご協力をお願いいたします。
+
+実施期間：2022年12月21日(水)～2023年1月20日(金)
+
+対象者：本学構成員(学群生、大学院生、科目等履修生、研究生、教員、職員、研究員など)
+
+回答方法：(以下のどちらかで回答／所要時間5～6分程度…]]></description>
+        </item>
         <item>
             <title><![CDATA[「第15回つくば３Ｅフォーラム会議」の開催について]]></title>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3586</link>
@@ -225,15 +240,6 @@ This is a face-to-face program where you can talk in Japa…]]></description>
 ▶︎対象：学群生、大学院生
 ▶︎定員：10名程度　※審査の上、派遣学生を決定します。
 ▶︎留学中の授業料：留学期間中も筑波大学へ…]]></description>
-        </item>
-        <item>
-            <title><![CDATA[【注意喚起】SNS等の利用について]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3566</link>
-            <guid>e500820eb6eafaa727bdfc239c7b7e63</guid>
-            <pubDate>Mon, 19 Dec 2022 03:00:00 GMT</pubDate>
-            <description><![CDATA[　学生の皆さんにおいては日頃からSNS（Twitter、Facebookなどのソーシャル・ネットワーキング・サービス等）を利用している方も多いかと思いますが、他者への誹謗中傷など、ソーシャルメディアのルールやマナーに反するケースが見受けられます。
-
-　SNS等のソーシャルメディアを利用する際には、誹謗中傷、差別的な内容、猥褻な内容その他公序良俗に反する内容を発信しないよう、常に本学の構成員であると…]]></description>
         </item>
     </channel>
 </rss>
