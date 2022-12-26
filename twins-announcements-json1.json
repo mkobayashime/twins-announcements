@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "e22b9d5eb1d77fb68162f0b64716cd80",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3591",
+            "title": "トビタテ！留学JAPAN新・日本代表プログラム【大学生等対象】2023年度（第15期） 事前準備シートの添削希望者募集について（2023年1月20日締切）",
+            "summary": "所属する教育組織に対応した支援室等へ、「応募書類事前準備シート」を提出する前に添削を希望する方を募り、希望のコースや地域に応じて、先輩トビタテ生を紹介します。\n添削を希望する方は、下記申込フォームからお申し込みください。順次、先輩トビタテ生をご紹介します。\n\n申込フォーム：必要事項を入力し、送信してください。\nhttps://forms.office.com/Pages/ResponsePage.…",
+            "date_modified": "2022-12-26T03:00:00.000Z"
+        },
+        {
             "id": "472a520664b312d67ae30288c038ed9d",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3590",
             "title": "2023年度第15期トビタテ！留学JAPAN新・日本代表プログラム【大学生等対象】の募集について（学内応募締切：2023年1月31日（火）17時厳守）",
@@ -135,13 +142,6 @@
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3569",
             "title": "【開催案内】第5回 オンラインによるロシア・中央アジア映画上映会_2/3(金)",
             "summary": "筑波大学「日本財団 中央アジア・日本人材育成プロジェクト (NipCA)」では、中央アジアの文化とSDGsへの理解促進のため、オンラインによるロシア・中央アジア映画上映会を開催いたします。\n\n上映作品：ヨルキン・トゥイチエフ『ファリダの二千の歌』（2020年、110分） ウズベク語/日本語字幕付き\n\n日時：令和5年2月3日（金）19:15〜21:50\n\n19:00　Zoom開場 　※お早めにお入り…",
-            "date_modified": "2022-12-19T03:00:00.000Z"
-        },
-        {
-            "id": "e489fe69ff0af3b8b0c51c20925d23b1",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3568",
-            "title": "[12/26 14:00-] 第16回 DDPIセミナー「保育政策に関する実証分析ー経済学による近年の研究結果からー」",
-            "summary": "DDPIプロジェクトでは、格差・不平等の政策的解決、そのためのデジタル技術の可能性（デジタル民主主義）などをテーマとしつつ、セミナー・シリーズを開催しております。\n\n第16回となる今回は『保育政策に関する実証分析ー経済学による近年の研究結果からー』と題し、人文社会系 助教である深井太洋先生にお話をおうかがいします。\n\n女性の就業率の上昇により、少子高齢化が進む中でも保育所の利用児童は増加基調にあり…",
             "date_modified": "2022-12-19T03:00:00.000Z"
         }
     ]
