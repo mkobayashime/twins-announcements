@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/mkobayashime/twins-announcements</id>
     <title>在学生へのお知らせ | 筑波大学</title>
-    <updated>2022-12-26T21:07:49.460Z</updated>
+    <updated>2022-12-27T05:03:44.157Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://github.com/mkobayashime/twins-announcements"/>
     <subtitle>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</subtitle>
+    <entry>
+        <title type="html"><![CDATA[【Event Info】国際文化交流バスツアー “Cultural Exchange Bus Tour!!”]]></title>
+        <id>54cab52f471408e7fa9eedc1957454e8</id>
+        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3593"/>
+        <updated>2022-12-27T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[<留学生対象>
+利根町国際交流会が国際文化交流バスツアーを開催します！
+日時：2023年2月5日(日) 8:30～16:00頃まで (8：30大学会館前出発)
+場所：関宿城博物館、道の駅さかい、首都圏外郭放水路「防災地下神殿」見学
+申込方法：学生交流課（isc-shien@un.tsukuba.ac.jp）宛に添付のExcelファイルに記載の上、
+パスワードを設定して、1月10日(火)までにメール…]]></summary>
+    </entry>
     <entry>
         <title type="html"><![CDATA[トビタテ！留学JAPAN新・日本代表プログラム【大学生等対象】2023年度（第15期） 事前準備シートの添削希望者募集について（2023年1月20日締切）]]></title>
         <id>e22b9d5eb1d77fb68162f0b64716cd80</id>
@@ -220,18 +232,5 @@ This is a face-to-face program where you can talk in Japa…]]></summary>
 
 ●8030606「海外英語研修II-a」（3単位）※開講されません。
 ・プログラム：ブリティッシ…]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【開催案内】第5回 オンラインによるロシア・中央アジア映画上映会_2/3(金)]]></title>
-        <id>07f8a634330cca5c40662cc59e269c67</id>
-        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3569"/>
-        <updated>2022-12-19T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[筑波大学「日本財団 中央アジア・日本人材育成プロジェクト (NipCA)」では、中央アジアの文化とSDGsへの理解促進のため、オンラインによるロシア・中央アジア映画上映会を開催いたします。
-
-上映作品：ヨルキン・トゥイチエフ『ファリダの二千の歌』（2020年、110分） ウズベク語/日本語字幕付き
-
-日時：令和5年2月3日（金）19:15〜21:50
-
-19:00　Zoom開場 　※お早めにお入り…]]></summary>
     </entry>
 </feed>

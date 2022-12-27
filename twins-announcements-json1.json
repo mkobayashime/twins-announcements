@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "54cab52f471408e7fa9eedc1957454e8",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3593",
+            "title": "【Event Info】国際文化交流バスツアー “Cultural Exchange Bus Tour!!”",
+            "summary": "<留学生対象>\n利根町国際交流会が国際文化交流バスツアーを開催します！\n日時：2023年2月5日(日) 8:30～16:00頃まで (8：30大学会館前出発)\n場所：関宿城博物館、道の駅さかい、首都圏外郭放水路「防災地下神殿」見学\n申込方法：学生交流課（isc-shien@un.tsukuba.ac.jp）宛に添付のExcelファイルに記載の上、\nパスワードを設定して、1月10日(火)までにメール…",
+            "date_modified": "2022-12-27T03:00:00.000Z"
+        },
+        {
             "id": "e22b9d5eb1d77fb68162f0b64716cd80",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3591",
             "title": "トビタテ！留学JAPAN新・日本代表プログラム【大学生等対象】2023年度（第15期） 事前準備シートの添削希望者募集について（2023年1月20日締切）",
@@ -136,13 +143,6 @@
             "title": "2022年度「海外英語研修II」（3単位、オンライン）参加者募集(再掲載)",
             "summary": "2023年2～3月に実施される、「海外英語研修II-a・II-b」（3単位、オンライン）の参加者を募集します。プログラムの詳細や申込方法については、manabaコース「xx20371　海外英語研修オンライン募集説明会」に登録のうえ、コースニュースより募集説明動画と申込に関する情報を確認してください。\n\n●8030606「海外英語研修II-a」（3単位）※開講されません。\n・プログラム：ブリティッシ…",
             "date_modified": "2022-12-20T03:00:00.000Z"
-        },
-        {
-            "id": "07f8a634330cca5c40662cc59e269c67",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3569",
-            "title": "【開催案内】第5回 オンラインによるロシア・中央アジア映画上映会_2/3(金)",
-            "summary": "筑波大学「日本財団 中央アジア・日本人材育成プロジェクト (NipCA)」では、中央アジアの文化とSDGsへの理解促進のため、オンラインによるロシア・中央アジア映画上映会を開催いたします。\n\n上映作品：ヨルキン・トゥイチエフ『ファリダの二千の歌』（2020年、110分） ウズベク語/日本語字幕付き\n\n日時：令和5年2月3日（金）19:15〜21:50\n\n19:00　Zoom開場 　※お早めにお入り…",
-            "date_modified": "2022-12-19T03:00:00.000Z"
         }
     ]
 }
