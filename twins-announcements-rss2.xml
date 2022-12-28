@@ -4,10 +4,19 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Wed, 28 Dec 2022 00:28:23 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 28 Dec 2022 02:03:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
+        <item>
+            <title><![CDATA[【注意喚起】SMS（ショートメッセージサービス）、メールからの フィッシングサイトへのアクセスについて]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3596</link>
+            <guid>d6b68ed841dbebee133d7b4fe126857a</guid>
+            <pubDate>Wed, 28 Dec 2022 03:00:00 GMT</pubDate>
+            <description><![CDATA[SMS（ショートメッセージサービス）で届いたメッセージに記載されている『短縮URL』は、フィッシングサイトへの誘導の可能性があります。
+送信元に心当たりがあるかどうか注意してください。短縮URLをタップした場合は、ブラウザで開いたWebサイトの内容をよく読み、正式なWebサイトであることが確認できなければ、ID、パスワード等の入力はしないでください。
+提供元不明のアプリはインストールしないでくださ…]]></description>
+        </item>
         <item>
             <title><![CDATA[【お知らせ】孤独・孤立相談ダイヤル年末年始の試行について]]></title>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3595</link>
@@ -227,15 +236,6 @@ Place: St…]]></description>
 AIMSプログラム主催の学内国際交流イベント 「Campur」（ちゃんぷーる）」が帰ってきます！！
 
 このイベントは、AIMSプログラムで来ている短期留学生と本学学生の文化交流を目的としたイベントです。今学期AIMSプログラムで受け入れている36名の学生達（インドネシア、タイ、マレーシア、ベトナム、ブルネイ、フィリピン）が、それぞれの国の文化を紹介します！留学生と…]]></description>
-        </item>
-        <item>
-            <title><![CDATA[TOMORROW Face-to-face Japanese chat! (G-Chat Japanese)]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3572</link>
-            <guid>3f95a7aefa445bf395c039ae502824d1</guid>
-            <pubDate>Tue, 20 Dec 2022 03:00:00 GMT</pubDate>
-            <description><![CDATA[Japanese Practice Program for all levels: G-Chat Japanese
-If you are looking for an opportunity to practice Japanese, this program is for you!
-This is a face-to-face program where you can talk in Japa…]]></description>
         </item>
     </channel>
 </rss>

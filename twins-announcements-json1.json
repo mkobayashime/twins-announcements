@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "d6b68ed841dbebee133d7b4fe126857a",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3596",
+            "title": "【注意喚起】SMS（ショートメッセージサービス）、メールからの フィッシングサイトへのアクセスについて",
+            "summary": "SMS（ショートメッセージサービス）で届いたメッセージに記載されている『短縮URL』は、フィッシングサイトへの誘導の可能性があります。\n送信元に心当たりがあるかどうか注意してください。短縮URLをタップした場合は、ブラウザで開いたWebサイトの内容をよく読み、正式なWebサイトであることが確認できなければ、ID、パスワード等の入力はしないでください。\n提供元不明のアプリはインストールしないでくださ…",
+            "date_modified": "2022-12-28T03:00:00.000Z"
+        },
+        {
             "id": "ac0b5980619e7e0a6d7af850cf4e1edd",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3595",
             "title": "【お知らせ】孤独・孤立相談ダイヤル年末年始の試行について",
@@ -135,13 +142,6 @@
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3573",
             "title": "【2022秋学期 ちゃんぷーる（Campur）】AIMSプログラム主催の学内国際交流イベント（対面）　1/16,18,23,30&2/1",
             "summary": "Campur is BACK!!\nAIMSプログラム主催の学内国際交流イベント 「Campur」（ちゃんぷーる）」が帰ってきます！！\n\nこのイベントは、AIMSプログラムで来ている短期留学生と本学学生の文化交流を目的としたイベントです。今学期AIMSプログラムで受け入れている36名の学生達（インドネシア、タイ、マレーシア、ベトナム、ブルネイ、フィリピン）が、それぞれの国の文化を紹介します！留学生と…",
-            "date_modified": "2022-12-20T03:00:00.000Z"
-        },
-        {
-            "id": "3f95a7aefa445bf395c039ae502824d1",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3572",
-            "title": "TOMORROW Face-to-face Japanese chat! (G-Chat Japanese)",
-            "summary": "Japanese Practice Program for all levels: G-Chat Japanese\nIf you are looking for an opportunity to practice Japanese, this program is for you!\nThis is a face-to-face program where you can talk in Japa…",
             "date_modified": "2022-12-20T03:00:00.000Z"
         }
     ]
