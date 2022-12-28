@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "ff5ded9b2eb81b6ec0896689791b4de6",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3597",
+            "title": "【協力のお願い】文部科学省：起業やスタートアップに対する意識やスキルに関するアンケート",
+            "summary": "文部科学省より、標記のアンケートについて下記のとおり協力依頼がありました。\n内容をよくご確認のうえ、ご協力いただきますようお願いいたします。\n\n--------以下、協力依頼----------\n文部科学省では、アントレプレナーシップを醸成する取り組みの一環で「大学生の起業やスタートアップに対する意識やスキルに関する調査」を実施し、今後の教育や実施プログラムの改善に役立てて参りたいと考えています。…",
+            "date_modified": "2022-12-28T03:00:00.000Z"
+        },
+        {
             "id": "d6b68ed841dbebee133d7b4fe126857a",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3596",
             "title": "【注意喚起】SMS（ショートメッセージサービス）、メールからの フィッシングサイトへのアクセスについて",
@@ -135,13 +142,6 @@
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3574",
             "title": "【スチューデント・コモンズ対面イベント】GET RICE！1/18-19　We give out rice！/お米配付します！",
             "summary": "つくば機能植物イノベーション研究センター（T-PIRC）で採れたコシヒカリをスチューデント・コモンズで配付します!\n無料、先着順（予約不要）になります！\n\n日　時：2023年1月18日（水）＆19日（木）10：00～16：00\n場　所：スチューデント・コモンズ（１A203）\n対　象：全在学生（学生証の提示必須）\n配付条件：\n・無料、予約不要、先着順（各実施日に200袋ずつ配付します。なくなり次第、…",
-            "date_modified": "2022-12-20T03:00:00.000Z"
-        },
-        {
-            "id": "67d57f412d4e59a9e299b1d539579b97",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3573",
-            "title": "【2022秋学期 ちゃんぷーる（Campur）】AIMSプログラム主催の学内国際交流イベント（対面）　1/16,18,23,30&2/1",
-            "summary": "Campur is BACK!!\nAIMSプログラム主催の学内国際交流イベント 「Campur」（ちゃんぷーる）」が帰ってきます！！\n\nこのイベントは、AIMSプログラムで来ている短期留学生と本学学生の文化交流を目的としたイベントです。今学期AIMSプログラムで受け入れている36名の学生達（インドネシア、タイ、マレーシア、ベトナム、ブルネイ、フィリピン）が、それぞれの国の文化を紹介します！留学生と…",
             "date_modified": "2022-12-20T03:00:00.000Z"
         }
     ]
