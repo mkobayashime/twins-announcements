@@ -4,10 +4,22 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Tue, 27 Dec 2022 21:07:50 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 28 Dec 2022 00:28:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
+        <item>
+            <title><![CDATA[【お知らせ】孤独・孤立相談ダイヤル年末年始の試行について]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3595</link>
+            <guid>ac0b5980619e7e0a6d7af850cf4e1edd</guid>
+            <pubDate>Wed, 28 Dec 2022 03:00:00 GMT</pubDate>
+            <description><![CDATA[内閣官房　孤独・孤立対策担当室から、「孤独・孤立相談ダイヤル＃９９９９」年末年始の試行について、令和４年１２月２８日（水）朝９時から翌年１月４日（水）朝９時まで実施する旨連絡がありましたのでお知らせいたします。
+
+詳細は下記URLをご覧ください。
+
+
+]]></description>
+        </item>
         <item>
             <title><![CDATA[【Event Info】国際文化交流バスツアー “Cultural Exchange Bus Tour!!”]]></title>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3593</link>
@@ -224,16 +236,6 @@ AIMSプログラム主催の学内国際交流イベント 「Campur」（ちゃ
             <description><![CDATA[Japanese Practice Program for all levels: G-Chat Japanese
 If you are looking for an opportunity to practice Japanese, this program is for you!
 This is a face-to-face program where you can talk in Japa…]]></description>
-        </item>
-        <item>
-            <title><![CDATA[2022年度「海外英語研修II」（3単位、オンライン）参加者募集(再掲載)]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3570</link>
-            <guid>60be3ce1eda6367538f10c3d7053e4d4</guid>
-            <pubDate>Tue, 20 Dec 2022 03:00:00 GMT</pubDate>
-            <description><![CDATA[2023年2～3月に実施される、「海外英語研修II-a・II-b」（3単位、オンライン）の参加者を募集します。プログラムの詳細や申込方法については、manabaコース「xx20371　海外英語研修オンライン募集説明会」に登録のうえ、コースニュースより募集説明動画と申込に関する情報を確認してください。
-
-●8030606「海外英語研修II-a」（3単位）※開講されません。
-・プログラム：ブリティッシ…]]></description>
         </item>
     </channel>
 </rss>
