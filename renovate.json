@@ -1,9 +1,3 @@
 {
-  "extends": ["config:base"],
-  "packageRules": [
-    {
-      "matchUpdateTypes": ["patch"],
-      "groupName": "patch releases"
-    }
-  ]
+  "extends": ["github>mkobayashime/renovate-config"]
 }
