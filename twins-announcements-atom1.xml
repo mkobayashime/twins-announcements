@@ -2,24 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/mkobayashime/twins-announcements</id>
     <title>在学生へのお知らせ | 筑波大学</title>
-    <updated>2023-01-05T00:30:34.010Z</updated>
+    <updated>2023-01-05T02:09:38.230Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://github.com/mkobayashime/twins-announcements"/>
     <subtitle>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</subtitle>
     <entry>
-        <title type="html"><![CDATA[【1/17～25】令和4年度筑波大学就職ミライ博「オンライン業界研究会」]]></title>
-        <id>473679ffd6d23b4b90439677c775e4d4</id>
-        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3598"/>
+        <title type="html"><![CDATA[【1/17～25】令和4年度筑波大学就職ミライ博 オンライン業界研究会]]></title>
+        <id>fb807386d6fd0b3673d77b5b3b42805f</id>
+        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3601"/>
         <updated>2023-01-05T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[筑波大学就職ミライ博第2弾「オンライン業界研究会」1月開催のお知らせ
+        <summary type="html"><![CDATA[筑波大学就職ミライ博第2弾「オンライン業界研究会」を１月も開催いたします！
 
-業界研究に特化した7日間、様々な業界・業種のお話を聞くことができる大変貴重な機会です。出展企業は特設サイトから確認できます。
-低学年の方も大歓迎です。ぜひご参加ください！
+業界理解・企業理解を深めるためのイベントとなっており、
+業界や企業を多く知ることができるのはもちろん、HPだけでは得られない情報を得ることができます。
+短時間で同業種や同職種の2社比較なども可能です。低学年の方も大歓迎です。ぜひご参加ください！
 
-【日程】2023年1月17日（火）～25日（水）
-※土日は除く
-【時間】［1部］9：30-13：00　［2部］13：30～17：00
-【場所】オンライン（…]]></summary>
+【日程】2023年1月17日（火）～25日（水）※土日は除く
+【時間】［1…]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Invitation to ”Let’s Talk about Japan“ Chat Session]]></title>
+        <id>53716ba6f2905b84fe288b8c0274981f</id>
+        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3600"/>
+        <updated>2023-01-05T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The University’s “Make a Difference in the World” Fund will host a weekly one-hour face-to-face chat “Let’s Talk about Japan” session between classes on weekdays in the Central Library. International …]]></summary>
     </entry>
     <entry>
         <title type="html"><![CDATA[【お知らせ】筑波大学公式オリジナルグッズECサイト割引クーポンコード（1月）]]></title>
@@ -230,16 +236,5 @@ In this class, world's top business leaders invited to share their experiences i
 日　　時：2023年1月16日（月）18：30-19：30
 場　　所：Microsoft Team　★オンライン開催です★
 参加方法：事前登録の上、チー…]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【Face to face Event】GET RICE！1/18-19　We give out rice at Student Commons！]]></title>
-        <id>e870276bbbc244ce8ac5873459fef2a2</id>
-        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3575"/>
-        <updated>2022-12-20T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Koshihikari from T-PIRC will be distributed at the Student Commons!
-Free, first-come first-served (no reservations needed)!
-
-Date & Time: Wednesday 18 & Thursday19, January 2023, 10:00-16:00
-Place: St…]]></summary>
     </entry>
 </feed>
