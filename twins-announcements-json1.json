@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "895eee625ce01df2cca891fa60c4984d",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3607",
+            "title": "公開中：『筑波大学生のための就職活動情報誌 CAREER SUPPORT GUIDE BOOK 2024』",
+            "summary": "これから2024卒就職活動が本格化していきますね。\n実は、キャリア支援チームで発行しているガイドブックがあるんです(^o^)\n知ってましたか？\n\n＜筑波大学生のための就職活動情報誌 CAREER SUPPORT GUIDE BOOK 2024＞\nhttps://js88.meclib.jp/202459/book/\n\nB3・M1を対象として、就職活動に関する各種情報を掲載。\n\n就活ってなに？\nどん…",
+            "date_modified": "2023-01-05T03:00:00.000Z"
+        },
+        {
             "id": "fb807386d6fd0b3673d77b5b3b42805f",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3606",
             "title": "【1/17～25】令和4年度筑波大学就職ミライ博 オンライン業界研究会",
@@ -136,13 +143,6 @@
             "title": "筑波大学「世界を変えよう基金」鈴木奨学金2023年春学期奨学生募集のお知らせ",
             "summary": "筑波大学「世界を変えよう基金」は、2015年12月本学客員教授を務めていた鈴木英明氏により創設され、大学内外の社会的・文化的ニーズに貢献する活動を行う筑波大学生を対象に資金支援を行っています。\n\n新型肺炎感染拡大により経済的に困窮する学生が急増した状況に鑑み、経済的困難に直面しながらも将来海外で活躍する意欲を有する学生に対し、奨学金（月２万円）を2020年秋学期以降支給しています。返済は不要ですが…",
             "date_modified": "2022-12-21T03:00:00.000Z"
-        },
-        {
-            "id": "a84cfce90ee562cdda78a81e491b23aa",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3579",
-            "title": "1/13（17時～）講演会『ダイバーシティと障害法：合理的配慮の現在地』（教員・学生対象）",
-            "summary": "1月13日（金）17時より、TSUKUBA社会国際学初年次チュートリアルプログラムでは、公開講演会を開催いたします。\n\n○チュートリアル科目　講演会\n・日時：令和5年１月１３日（水）17時00分～18時00分\n\n・開催場所： オンライン（Zoom）\n    URL: https://us02web.zoom.us/j/85263037504?pwd=RDBtdGdpV2dvNlpCNGFFYVJu…",
-            "date_modified": "2022-12-20T03:00:00.000Z"
         }
     ]
 }
