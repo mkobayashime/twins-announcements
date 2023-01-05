@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "78e8de1165c6a338b4688dfb9d346877",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3604",
+            "title": "「参加者募集」ASIP/TG+主催第49回公開セミナー開催のお知らせ",
+            "summary": "「自分の興味に正直に」　ー国際開発・ビジネスの最前線から会計士の世界へー\n\n日時： 202３年２月17日（金）15:00～16:30\n講師： 鳥居 健次郎　氏（E & Y新日本有限責任監査法人）\n会場： ハイブリッド（総合研究棟A 107　&　Zoomを使用したライブ配信）\n申し込み：グーグルフォームでの申し込み　　　　\n対象：筑波大学生、教職員、その他希望者\n",
+            "date_modified": "2023-01-05T03:00:00.000Z"
+        },
+        {
             "id": "fd4a78ac081e66fcc5361535efd37245",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3603",
             "title": "「東南アジア国際研修」オンライン（BA20033・3単位）",
@@ -135,13 +142,6 @@
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3579",
             "title": "1/13（17時～）講演会『ダイバーシティと障害法：合理的配慮の現在地』（教員・学生対象）",
             "summary": "1月13日（金）17時より、TSUKUBA社会国際学初年次チュートリアルプログラムでは、公開講演会を開催いたします。\n\n○チュートリアル科目　講演会\n・日時：令和5年１月１３日（水）17時00分～18時00分\n\n・開催場所： オンライン（Zoom）\n    URL: https://us02web.zoom.us/j/85263037504?pwd=RDBtdGdpV2dvNlpCNGFFYVJu…",
-            "date_modified": "2022-12-20T03:00:00.000Z"
-        },
-        {
-            "id": "65d08d19b6c065d510a4287d7a84ed60",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3578",
-            "title": "1/11（17時～）講演会『自白の証拠能力――刑事訴訟において証拠として使用できる自白とは？――』（教員・学生対象）",
-            "summary": "1月11日（水）17時より、TSUKUBA社会国際学初年次チュートリアルプログラムでは、公開講演会を開催いたします。\n\n○チュートリアル科目　講演会\n・日時：令和5年１月１1日（水）17時00分～18時00分\n\n・開催場所： オンライン（Zoom）\n    URL: https://us02web.zoom.us/j/85263037504?pwd=RDBtdGdpV2dvNlpCNGFFYVJu…",
             "date_modified": "2022-12-20T03:00:00.000Z"
         }
     ]
