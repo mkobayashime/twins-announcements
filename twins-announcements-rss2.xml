@@ -4,7 +4,7 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Thu, 05 Jan 2023 09:09:13 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 05 Jan 2023 15:10:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
@@ -107,18 +107,6 @@ ECサイトは以下のリンクから
             <description><![CDATA[SMS（ショートメッセージサービス）で届いたメッセージに記載されている『短縮URL』は、フィッシングサイトへの誘導の可能性があります。
 送信元に心当たりがあるかどうか注意してください。短縮URLをタップした場合は、ブラウザで開いたWebサイトの内容をよく読み、正式なWebサイトであることが確認できなければ、ID、パスワード等の入力はしないでください。
 提供元不明のアプリはインストールしないでくださ…]]></description>
-        </item>
-        <item>
-            <title><![CDATA[【お知らせ】孤独・孤立相談ダイヤル年末年始の試行について]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3595</link>
-            <guid>ac0b5980619e7e0a6d7af850cf4e1edd</guid>
-            <pubDate>Wed, 28 Dec 2022 03:00:00 GMT</pubDate>
-            <description><![CDATA[内閣官房　孤独・孤立対策担当室から、「孤独・孤立相談ダイヤル＃９９９９」年末年始の試行について、令和４年１２月２８日（水）朝９時から翌年１月４日（水）朝９時まで実施する旨連絡がありましたのでお知らせいたします。
-
-詳細は下記URLをご覧ください。
-
-
-]]></description>
         </item>
         <item>
             <title><![CDATA[【Event Info】国際文化交流バスツアー “Cultural Exchange Bus Tour!!”]]></title>
@@ -242,6 +230,19 @@ In this class, world's top business leaders invited to share their experiences i
             <description><![CDATA[筑波大学「世界を変えよう基金」は、2015年12月本学客員教授を務めていた鈴木英明氏により創設され、大学内外の社会的・文化的ニーズに貢献する活動を行う筑波大学生を対象に資金支援を行っています。
 
 新型肺炎感染拡大により経済的に困窮する学生が急増した状況に鑑み、経済的困難に直面しながらも将来海外で活躍する意欲を有する学生に対し、奨学金（月２万円）を2020年秋学期以降支給しています。返済は不要ですが…]]></description>
+        </item>
+        <item>
+            <title><![CDATA[1/13（17時～）講演会『ダイバーシティと障害法：合理的配慮の現在地』（教員・学生対象）]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3579</link>
+            <guid>a84cfce90ee562cdda78a81e491b23aa</guid>
+            <pubDate>Tue, 20 Dec 2022 03:00:00 GMT</pubDate>
+            <description><![CDATA[1月13日（金）17時より、TSUKUBA社会国際学初年次チュートリアルプログラムでは、公開講演会を開催いたします。
+
+○チュートリアル科目　講演会
+・日時：令和5年１月１３日（水）17時00分～18時00分
+
+・開催場所： オンライン（Zoom）
+    URL: https://us02web.zoom.us/j/85263037504?pwd=RDBtdGdpV2dvNlpCNGFFYVJu…]]></description>
         </item>
     </channel>
 </rss>
