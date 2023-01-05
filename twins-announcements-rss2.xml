@@ -4,10 +4,25 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Wed, 04 Jan 2023 21:08:28 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 05 Jan 2023 00:30:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
+        <item>
+            <title><![CDATA[【1/17～25】令和4年度筑波大学就職ミライ博「オンライン業界研究会」]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3598</link>
+            <guid>473679ffd6d23b4b90439677c775e4d4</guid>
+            <pubDate>Thu, 05 Jan 2023 03:00:00 GMT</pubDate>
+            <description><![CDATA[筑波大学就職ミライ博第2弾「オンライン業界研究会」1月開催のお知らせ
+
+業界研究に特化した7日間、様々な業界・業種のお話を聞くことができる大変貴重な機会です。出展企業は特設サイトから確認できます。
+低学年の方も大歓迎です。ぜひご参加ください！
+
+【日程】2023年1月17日（火）～25日（水）
+※土日は除く
+【時間】［1部］9：30-13：00　［2部］13：30～17：00
+【場所】オンライン（…]]></description>
+        </item>
         <item>
             <title><![CDATA[【お知らせ】筑波大学公式オリジナルグッズECサイト割引クーポンコード（1月）]]></title>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3594</link>
@@ -228,20 +243,6 @@ Free, first-come first-served (no reservations needed)!
 
 Date & Time: Wednesday 18 & Thursday19, January 2023, 10:00-16:00
 Place: St…]]></description>
-        </item>
-        <item>
-            <title><![CDATA[【スチューデント・コモンズ対面イベント】GET RICE！1/18-19　We give out rice！/お米配付します！]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3574</link>
-            <guid>c11d532ba32a836129e81ebada215318</guid>
-            <pubDate>Tue, 20 Dec 2022 03:00:00 GMT</pubDate>
-            <description><![CDATA[つくば機能植物イノベーション研究センター（T-PIRC）で採れたコシヒカリをスチューデント・コモンズで配付します!
-無料、先着順（予約不要）になります！
-
-日　時：2023年1月18日（水）＆19日（木）10：00～16：00
-場　所：スチューデント・コモンズ（１A203）
-対　象：全在学生（学生証の提示必須）
-配付条件：
-・無料、予約不要、先着順（各実施日に200袋ずつ配付します。なくなり次第、…]]></description>
         </item>
     </channel>
 </rss>
