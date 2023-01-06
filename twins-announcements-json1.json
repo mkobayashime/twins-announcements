@@ -5,6 +5,20 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "509908c833eb8ce113f03bb1119256a5",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3618",
+            "title": "令和4年度春季休業前の海外危機管理セミナーについて",
+            "summary": "海外危機管理セミナーを開催しますので、お知らせいたします（主催：筑波大学 国際局グローバル・コモンズ、スチューデントサポートセンター）。\n海外危機管理に関するスペシャリストをお招きし、海外渡航前の準備事項と、現地での安全対策について学びます。\nご参加に当たっては、前日までに事前登録してください。\n\n１．日　　時：　令和5年1月31日（火）18：15～19：15\n\n２．内容・講師：\n\n①「海外渡航に…",
+            "date_modified": "2023-01-06T03:00:00.000Z"
+        },
+        {
+            "id": "9c68644d725470e001bf437a938fcec0",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3616",
+            "title": "【重要】2022年度第2期分授業料の納入督促について",
+            "summary": "2022年度第2期分授業料未納者は、「払込取扱票」が送付されているので、再度確認の上、速やかに金融機関窓口にて納付されるようお願いします。\n納付されないときは、本学学則による除籍処分該当者となります。\n\n・口座振替対象の未納者は、1月に発行された払込取扱票により納入をお願いします。\n・以前に払込取扱票を発行されている未納者は、既にお持ちの払込取扱票により納入をお願いします。\n\n※本掲示は全ての学生…",
+            "date_modified": "2023-01-06T03:00:00.000Z"
+        },
+        {
             "id": "f014594ba1df0a408c540a1c887afa81",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3614",
             "title": "Kimono & Yukata Dressing! Jan 20 Fri (Japanese Culture WEEK)",
@@ -128,20 +142,6 @@
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3590",
             "title": "2023年度第15期トビタテ！留学JAPAN新・日本代表プログラム【大学生等対象】の募集について（学内応募締切：2023年1月31日（火）17時厳守）",
             "summary": "「応募書類事前準備ｼｰﾄ」が公開されました。申請者は募集要項等を熟読の上「応募書類事前準備ｼｰﾄ」を作成し、2023年1月31日（火）17時迄に支援室等（紙媒体）及び学生交流課（電子ﾃﾞｰﾀ）に提出して下さい。\n■応募書類事前準備ｼｰﾄ: 一段目URL\n■公式ｻｲﾄ: 二段目URL\n■募集要項: 三段目URL\n■主な応募要件　\n・正規課程在籍の日本人学生又は永住が許可されている学生で、本学で学位取…",
-            "date_modified": "2022-12-26T03:00:00.000Z"
-        },
-        {
-            "id": "6a0d8c661b7c302f4b486ff212151c83",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3589",
-            "title": "申し込み期限延長「東南アジア国際研修」（BA20033・3単位）",
-            "summary": "フィリピンのAteneo De Manila 大学の語学研修センターによる英語研修プログラム、大学講師による講義の聴講・学生交流会になります。語学力・コミュニケーション力を高め、フィリピンの歴史・文化の造詣を深めることができます。\n\n~・~・~・~・~・~・~・~・~・~・~・~・~・~・~・~・~・~・~・~・~・~・~・~・~・~・~・~・~\n\n【日時】2023年2月20日（月）～2023年3…",
-            "date_modified": "2022-12-26T03:00:00.000Z"
-        },
-        {
-            "id": "5f50a2808ca61d06c50574f3ec8c8f67",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3588",
-            "title": "【Online】Jan 12 (Fri) 10:00-12:00 Business Leaders’ Seminar",
-            "summary": "Business Leaders’ Seminar is a part of classes in Doctoral Program in Human Biology.\nIn this class, world's top business leaders invited to share their experiences in career development and business s…",
             "date_modified": "2022-12-26T03:00:00.000Z"
         }
     ]
