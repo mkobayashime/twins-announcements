@@ -2,10 +2,27 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/mkobayashime/twins-announcements</id>
     <title>在学生へのお知らせ | 筑波大学</title>
-    <updated>2023-01-10T09:09:13.010Z</updated>
+    <updated>2023-01-10T11:03:21.472Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://github.com/mkobayashime/twins-announcements"/>
     <subtitle>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</subtitle>
+    <entry>
+        <title type="html"><![CDATA[【募集】筑波大学ホームゲーム「TSUKUBA LIVE!」の企画運営をする学生を募集中！]]></title>
+        <id>0c185ad97809f985c0745540f1b82db0</id>
+        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3622"/>
+        <updated>2023-01-10T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[筑波大学ホームゲーム「TSUKUBA LIVE!」の企画運営をする学生「TLクリエイターズ」を新たに募集しています。
+
+
+
+「スポーツを通じて、筑波大学を更に面白くしたい！」
+という思いをもつ学生のみなさんのエントリーをお待ちしています！
+
+
+
+【エントリーフォーム】
+https://docs.google.com/forms/d/e/1FAIpQLSeM5eaiXbVYc5GZ_vXaAcrbc…]]></summary>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【Japanese Culture Week】GET RICE！We give out rice！1/18-19]]></title>
         <id>08b4e170a436fdf4f8a38c5d667f7bf9</id>
@@ -230,17 +247,5 @@ ECサイトは以下のリンクから
         <summary type="html"><![CDATA[SMS（ショートメッセージサービス）で届いたメッセージに記載されている『短縮URL』は、フィッシングサイトへの誘導の可能性があります。
 送信元に心当たりがあるかどうか注意してください。短縮URLをタップした場合は、ブラウザで開いたWebサイトの内容をよく読み、正式なWebサイトであることが確認できなければ、ID、パスワード等の入力はしないでください。
 提供元不明のアプリはインストールしないでくださ…]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【Event Info】国際文化交流バスツアー “Cultural Exchange Bus Tour!!”]]></title>
-        <id>54cab52f471408e7fa9eedc1957454e8</id>
-        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3593"/>
-        <updated>2022-12-27T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[<留学生対象>
-利根町国際交流会が国際文化交流バスツアーを開催します！
-日時：2023年2月5日(日) 8:30～16:00頃まで (8：30大学会館前出発)
-場所：関宿城博物館、道の駅さかい、首都圏外郭放水路「防災地下神殿」見学
-申込方法：学生交流課（isc-shien@un.tsukuba.ac.jp）宛に添付のExcelファイルに記載の上、
-パスワードを設定して、1月10日(火)までにメール…]]></summary>
     </entry>
 </feed>

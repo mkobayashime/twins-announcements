@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "0c185ad97809f985c0745540f1b82db0",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3622",
+            "title": "【募集】筑波大学ホームゲーム「TSUKUBA LIVE!」の企画運営をする学生を募集中！",
+            "summary": "筑波大学ホームゲーム「TSUKUBA LIVE!」の企画運営をする学生「TLクリエイターズ」を新たに募集しています。\n\n\n\n「スポーツを通じて、筑波大学を更に面白くしたい！」\nという思いをもつ学生のみなさんのエントリーをお待ちしています！\n\n\n\n【エントリーフォーム】\nhttps://docs.google.com/forms/d/e/1FAIpQLSeM5eaiXbVYc5GZ_vXaAcrbc…",
+            "date_modified": "2023-01-10T03:00:00.000Z"
+        },
+        {
             "id": "08b4e170a436fdf4f8a38c5d667f7bf9",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3621",
             "title": "【Japanese Culture Week】GET RICE！We give out rice！1/18-19",
@@ -136,13 +143,6 @@
             "title": "【注意喚起】SMS（ショートメッセージサービス）、メールからの フィッシングサイトへのアクセスについて",
             "summary": "SMS（ショートメッセージサービス）で届いたメッセージに記載されている『短縮URL』は、フィッシングサイトへの誘導の可能性があります。\n送信元に心当たりがあるかどうか注意してください。短縮URLをタップした場合は、ブラウザで開いたWebサイトの内容をよく読み、正式なWebサイトであることが確認できなければ、ID、パスワード等の入力はしないでください。\n提供元不明のアプリはインストールしないでくださ…",
             "date_modified": "2022-12-28T03:00:00.000Z"
-        },
-        {
-            "id": "54cab52f471408e7fa9eedc1957454e8",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3593",
-            "title": "【Event Info】国際文化交流バスツアー “Cultural Exchange Bus Tour!!”",
-            "summary": "<留学生対象>\n利根町国際交流会が国際文化交流バスツアーを開催します！\n日時：2023年2月5日(日) 8:30～16:00頃まで (8：30大学会館前出発)\n場所：関宿城博物館、道の駅さかい、首都圏外郭放水路「防災地下神殿」見学\n申込方法：学生交流課（isc-shien@un.tsukuba.ac.jp）宛に添付のExcelファイルに記載の上、\nパスワードを設定して、1月10日(火)までにメール…",
-            "date_modified": "2022-12-27T03:00:00.000Z"
         }
     ]
 }
