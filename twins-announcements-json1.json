@@ -5,6 +5,20 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "08b4e170a436fdf4f8a38c5d667f7bf9",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3621",
+            "title": "【Japanese Culture Week】GET RICE！We give out rice！1/18-19",
+            "summary": "Koshihikari from T-PIRC will be distributed at the Student Commons!\nFree, first-come first-served (no reservations needed)!\n\nDate & Time: Wednesday 18 & Thursday19, January 2023, 10:00-16:00\nPlace: St…",
+            "date_modified": "2023-01-10T03:00:00.000Z"
+        },
+        {
+            "id": "42e8a7235b6b376d48b4d3905e306e83",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3620",
+            "title": "【日本文化ウィーク】GET RICE！お米配付します！1/18＆19",
+            "summary": "つくば機能植物イノベーション研究センター（T-PIRC）で採れたコシヒカリをスチューデント・コモンズで配付します!\n無料、先着順（予約不要）になります！\n\n日　時：2023年1月18日（水）＆19日（木）10：00～16：00\n場　所：スチューデント・コモンズ（１A203）\n対　象：全在学生（学生証の提示必須）\n配付条件：\n・無料、予約不要、先着順（各実施日に200袋ずつ配付します。なくなり次第、…",
+            "date_modified": "2023-01-10T03:00:00.000Z"
+        },
+        {
             "id": "cfbe426121ed49ad44d58b27ecd6b64a",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3619",
             "title": "【再掲】2/17セミナー「自分の興味に正直に－国際開発・ビジネスの最前線から会計士の世界へ－」",
@@ -129,20 +143,6 @@
             "title": "【Event Info】国際文化交流バスツアー “Cultural Exchange Bus Tour!!”",
             "summary": "<留学生対象>\n利根町国際交流会が国際文化交流バスツアーを開催します！\n日時：2023年2月5日(日) 8:30～16:00頃まで (8：30大学会館前出発)\n場所：関宿城博物館、道の駅さかい、首都圏外郭放水路「防災地下神殿」見学\n申込方法：学生交流課（isc-shien@un.tsukuba.ac.jp）宛に添付のExcelファイルに記載の上、\nパスワードを設定して、1月10日(火)までにメール…",
             "date_modified": "2022-12-27T03:00:00.000Z"
-        },
-        {
-            "id": "e22b9d5eb1d77fb68162f0b64716cd80",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3591",
-            "title": "トビタテ！留学JAPAN新・日本代表プログラム【大学生等対象】2023年度（第15期） 事前準備シートの添削希望者募集について（2023年1月20日締切）",
-            "summary": "所属する教育組織に対応した支援室等へ、「応募書類事前準備シート」を提出する前に添削を希望する方を募り、希望のコースや地域に応じて、先輩トビタテ生を紹介します。\n添削を希望する方は、下記申込フォームからお申し込みください。順次、先輩トビタテ生をご紹介します。\n\n申込フォーム：必要事項を入力し、送信してください。\nhttps://forms.office.com/Pages/ResponsePage.…",
-            "date_modified": "2022-12-26T03:00:00.000Z"
-        },
-        {
-            "id": "472a520664b312d67ae30288c038ed9d",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3590",
-            "title": "2023年度第15期トビタテ！留学JAPAN新・日本代表プログラム【大学生等対象】の募集について（学内応募締切：2023年1月31日（火）17時厳守）",
-            "summary": "「応募書類事前準備ｼｰﾄ」が公開されました。申請者は募集要項等を熟読の上「応募書類事前準備ｼｰﾄ」を作成し、2023年1月31日（火）17時迄に支援室等（紙媒体）及び学生交流課（電子ﾃﾞｰﾀ）に提出して下さい。\n■応募書類事前準備ｼｰﾄ: 一段目URL\n■公式ｻｲﾄ: 二段目URL\n■募集要項: 三段目URL\n■主な応募要件　\n・正規課程在籍の日本人学生又は永住が許可されている学生で、本学で学位取…",
-            "date_modified": "2022-12-26T03:00:00.000Z"
         }
     ]
 }
