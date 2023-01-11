@@ -4,10 +4,18 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Wed, 11 Jan 2023 07:03:43 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 11 Jan 2023 08:08:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
+        <item>
+            <title><![CDATA[【筑波会議2023】セッション企画募集および説明会開催のご案内]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3631</link>
+            <guid>6725d590771a4cab5cad7c24d91c10ce</guid>
+            <pubDate>Wed, 11 Jan 2023 03:00:00 GMT</pubDate>
+            <description><![CDATA[筑波会議は、筑波会議委員会の主催により、世界の若手の研究者、技術者、起業家、投資家、社会起業家、ジャーナリスト、官公庁・国際機関職員、その他各界で活躍する者が筑波学園都市に参集し、科学と社会に関する知見を分かち合い、地球規模問題の解決策を模索することをコンセプトとして開催される国際会議です。
+3回目の開催となる「筑波会議2023」は、2023年9月26日（火）～28日（木）の日程で、つくば国際会議…]]></description>
+        </item>
         <item>
             <title><![CDATA[令和５年度２月期学生定期健康診断について]]></title>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3629</link>
@@ -234,20 +242,6 @@ B3・M1を対象として、就職活動に関する各種情報を掲載。
 
 就活ってなに？
 どん…]]></description>
-        </item>
-        <item>
-            <title><![CDATA[【1/17～25】令和4年度筑波大学就職ミライ博 オンライン業界研究会]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3606</link>
-            <guid>fb807386d6fd0b3673d77b5b3b42805f</guid>
-            <pubDate>Thu, 05 Jan 2023 03:00:00 GMT</pubDate>
-            <description><![CDATA[筑波大学就職ミライ博第2弾「オンライン業界研究会」を１月も開催いたします！
-
-業界理解・企業理解を深めるためのイベントとなっており、
-業界や企業を多く知ることができるのはもちろん、Webサイトだけでは得られない情報を得ることができます。
-短時間で同業種や同職種を比較することも可能です。低学年の方も大歓迎です。ぜひご参加ください！
-
-【日程】2023年1月17日（火）～25日（水）※土日は除く
-【時…]]></description>
         </item>
     </channel>
 </rss>
