@@ -4,10 +4,21 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Wed, 11 Jan 2023 02:10:58 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 11 Jan 2023 06:08:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
+        <item>
+            <title><![CDATA[【再掲】「第15回つくば３Ｅフォーラム会議」の開催について]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3627</link>
+            <guid>bb0b82ce9be0a3fb24bbd6c2adeccfde</guid>
+            <pubDate>Wed, 11 Jan 2023 03:00:00 GMT</pubDate>
+            <description><![CDATA[つくば３Ｅフォーラムでは、1月21日（土）13:30～筑波大学総合研究棟Ａにおいて「第15回つくば３Ｅフォーラム会議」を開催いたします（オンライン同時開催）。
+環境省の「脱炭素先行地域」に選定された自治体の事例発表を行い、2050年カーボンニュートラルの実現にむけて何ができるのか、皆さんと考えていきたいと思います。
+ご参加をお待ちしております。
+
+日　時：令和5年1月21日（土）13:30～16:…]]></description>
+        </item>
         <item>
             <title><![CDATA[1/19（10時10分～）講演会「新型コロナウイルス後のグローバルヘルスガバナンスの展開　」（学生・教員対象）]]></title>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3626</link>
@@ -242,13 +253,6 @@ B3・M1を対象として、就職活動に関する各種情報を掲載。
 申し込み：グーグルフォームでの申し込み　　　　
 対象：筑波大学生、教職員、その他希望者
 ]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Invitation to ”Let’s Talk about Japan“ Chat Session]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3600</link>
-            <guid>53716ba6f2905b84fe288b8c0274981f</guid>
-            <pubDate>Thu, 05 Jan 2023 03:00:00 GMT</pubDate>
-            <description><![CDATA[The University’s “Make a Difference in the World” Fund will host a weekly one-hour face-to-face chat “Let’s Talk about Japan” session between classes on weekdays in the Central Library. International …]]></description>
         </item>
     </channel>
 </rss>

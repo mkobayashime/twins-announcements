@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "bb0b82ce9be0a3fb24bbd6c2adeccfde",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3627",
+            "title": "【再掲】「第15回つくば３Ｅフォーラム会議」の開催について",
+            "summary": "つくば３Ｅフォーラムでは、1月21日（土）13:30～筑波大学総合研究棟Ａにおいて「第15回つくば３Ｅフォーラム会議」を開催いたします（オンライン同時開催）。\n環境省の「脱炭素先行地域」に選定された自治体の事例発表を行い、2050年カーボンニュートラルの実現にむけて何ができるのか、皆さんと考えていきたいと思います。\nご参加をお待ちしております。\n\n日　時：令和5年1月21日（土）13:30～16:…",
+            "date_modified": "2023-01-11T03:00:00.000Z"
+        },
+        {
             "id": "ec9df9500c4f0570f767b4802ee03b80",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3626",
             "title": "1/19（10時10分～）講演会「新型コロナウイルス後のグローバルヘルスガバナンスの展開　」（学生・教員対象）",
@@ -135,13 +142,6 @@
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3604",
             "title": "「参加者募集」ASIP/TG+主催第49回公開セミナー開催のお知らせ",
             "summary": "「自分の興味に正直に」　ー国際開発・ビジネスの最前線から会計士の世界へー\n\n日時： 202３年２月17日（金）15:00～16:30\n講師： 鳥居 健次郎　氏（E & Y新日本有限責任監査法人）\n会場： ハイブリッド（総合研究棟A 107　&　Zoomを使用したライブ配信）\n申し込み：グーグルフォームでの申し込み　　　　\n対象：筑波大学生、教職員、その他希望者\n",
-            "date_modified": "2023-01-05T03:00:00.000Z"
-        },
-        {
-            "id": "53716ba6f2905b84fe288b8c0274981f",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3600",
-            "title": "Invitation to ”Let’s Talk about Japan“ Chat Session",
-            "summary": "The University’s “Make a Difference in the World” Fund will host a weekly one-hour face-to-face chat “Let’s Talk about Japan” session between classes on weekdays in the Central Library. International …",
             "date_modified": "2023-01-05T03:00:00.000Z"
         }
     ]
