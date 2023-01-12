@@ -1,13 +1,13 @@
 import { parse } from "date-fns";
 import * as O from "fp-ts/lib/Option";
 import md5 from "md5";
-import puppeteer from "puppeteer";
+import { Page } from "puppeteer";
 
 import { getLatestAnnouncementTitle } from "./getLatestAnnouncementTitle";
 import type { Announcement } from "./types";
 
 const getAnnouncementBody = async (
-  page: puppeteer.Page,
+  page: Page,
 ): Promise<Pick<Announcement, "text" | "url">> => {
   const targetIFrame = await page.$("iframe#main-frame-if");
   if (!targetIFrame) {
@@ -51,18 +51,14 @@ export const getAnnouncements = async ({
   FEED_ITEMS_NUMBER,
   TWINS_ROOT_URL,
 }: {
-  page: puppeteer.Page;
+  page: Page;
   FORCE_FULL_FETCH: boolean;
   FEED_ITEMS_NUMBER: number;
   TWINS_ROOT_URL: string;
 }): Promise<O.Option<Announcement[]>> => {
   const announcements: Announcement[] = [];
 
-  const waitForAnnouncementToBeLoaded = async ({
-    page,
-  }: {
-    page: puppeteer.Page;
-  }) => {
+  const waitForAnnouncementToBeLoaded = async ({ page }: { page: Page }) => {
     const spinner = await page.$("#main-frame-if-loading");
     if (!spinner) throw Error("Spinner element not found.");
 
