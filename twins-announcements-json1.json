@@ -5,6 +5,20 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "39cc606b8fbaa3d95f0a9c12809be572",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3634",
+            "title": "【アンケート（茨城県交通政策課）】都市間高速バス「TMライナー」について",
+            "summary": "茨城県から、都市間高速バス「TMライナー」に関するアンケートの案内がありました。\n本学に通学している方に回答いただきたいとのことですので、下記のURLからアンケート\nフォームにアクセスし、ご回答の程お願いいたします。\n\n１回答方法　下記URLへ各自アクセスし、回答を送信してください。\n\n２回答期限　令和５年１月31日（火）\n\n３問合せ先　株式会社ドーコン東京支店小美野宛\n　e-mailアドレス＜t…",
+            "date_modified": "2023-01-12T03:00:00.000Z"
+        },
+        {
+            "id": "15ae5022629e82c3bffa5e11f1afa906",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3633",
+            "title": "【本日締切】東南アジア国際研修（オンライン実施）（BA20033・3単位）",
+            "summary": "フィリピンのAteneo de Manila 大学の語学研修センターが例年開催する英語研修プログラムは4技能の向上を目指します。大学講師による講義の聴講・学生交流会は、オンラインながらも英語で現地の経験を積む機会になります。\n\n【日時】2023年2月20日（月）～2023年3月24日（金）午後2時～午後5時\n【対象】在学生（プログラム生）\n【内容】１）オンライン英語研修プログラム（60時間)\n  …",
+            "date_modified": "2023-01-12T03:00:00.000Z"
+        },
+        {
             "id": "40e644941223e3bd302c2476b5d954ac",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3632",
             "title": "Jan 15th: オンライン英語会",
@@ -129,20 +143,6 @@
             "title": "【2022秋学期 ちゃんぷーる（Campur）】AIMSプログラム主催の学内国際交流イベント（対面）　1/16,18,23,30&2/1",
             "summary": "Campur is BACK!!\nAIMSプログラム主催の学内国際交流イベント 「Campur」（ちゃんぷーる）」（対面開催）が帰ってきます！！\n\nこのイベントは、AIMSプログラムの短期留学生と本学学生の文化交流を目的としたイベントです。今学期AIMSプログラムで受け入れている36名の学生達（インドネシア、タイ、マレーシア、ベトナム、ブルネイ、フィリピン）が、それぞれの国の文化を紹介します！\n留…",
             "date_modified": "2023-01-06T03:00:00.000Z"
-        },
-        {
-            "id": "545a98de431a7ee923775b399ce96cda",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3608",
-            "title": "2022年度「海外英語研修II」（3単位、オンライン）参加者募集（再掲載）",
-            "summary": "2023年2～3月に実施される、「海外英語研修II-a・II-b」（3単位、オンライン）の参加者を募集します。プログラムの詳細や申込方法については、manabaコース「xx20371　海外英語研修オンライン募集説明会」に登録のうえ、コースニュースより募集説明動画と申込に関する情報を確認してください。\n\n●8030606「海外英語研修II-a」（3単位）※開講されません。\n・プログラム：ブリティッシ…",
-            "date_modified": "2023-01-06T03:00:00.000Z"
-        },
-        {
-            "id": "895eee625ce01df2cca891fa60c4984d",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3607",
-            "title": "公開中：『筑波大学生のための就職活動情報誌 CAREER SUPPORT GUIDE BOOK 2024』",
-            "summary": "これから2024卒就職活動が本格化していきますね。\n実は、キャリア支援チームで発行しているガイドブックがあるんです(^o^)\n知ってましたか？\n\n＜筑波大学生のための就職活動情報誌 CAREER SUPPORT GUIDE BOOK 2024＞\nhttps://js88.meclib.jp/202459/book/\n\nB3・M1を対象として、就職活動に関する各種情報を掲載。\n\n就活ってなに？\nどん…",
-            "date_modified": "2023-01-05T03:00:00.000Z"
         }
     ]
 }
