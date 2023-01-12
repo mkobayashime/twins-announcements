@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "e647beeab75fe063bb2def6fa9d4f215",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3636",
+            "title": "【再掲】1/13（17時～）講演会『ダイバーシティと障害法：合理的配慮の現在地』（教員・学生対象）",
+            "summary": "1月13日（金）17時より、TSUKUBA社会国際学初年次チュートリアルプログラムでは、公開講演会を開催いたします。\n\n○チュートリアル科目　講演会\n・日時：令和5年１月１３日（水）17時00分～18時00分\n\n・開催場所： オンライン（Zoom）\nURL: https://us02web.zoom.us/j/85263037504?pwd=RDBtdGdpV2dvNlpCNGFFYVJudmdL…",
+            "date_modified": "2023-01-12T03:00:00.000Z"
+        },
+        {
             "id": "cfbe426121ed49ad44d58b27ecd6b64a",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3635",
             "title": "【再掲】2/17セミナー「自分の興味に正直に－国際開発・ビジネスの最前線から会計士の世界へ－」",
@@ -135,13 +142,6 @@
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3611",
             "title": "Japanese Culture Week! Jan 17th~20th",
             "summary": "To celebrate the New Year 2023, we will hold the “Japanese Culture Week” at the Student Commons!\nAt this opportunity, you will enjoy and experience the Japanese New Year's culture! Please come and vis…",
-            "date_modified": "2023-01-06T03:00:00.000Z"
-        },
-        {
-            "id": "ecc8c4d60dfcf2694472c900d89e94d9",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3610",
-            "title": "2/3（15時15分～）講演会「国際学とグローバル人材：体験論的異文化理解の視点から」（学生・教員対象）",
-            "summary": "学生の皆様、教職員の皆様\n\n  このたび社会・国際学群チュートリアルプログラムでは、公開講演会を開催いたします。\n講師は、（一財）日本エネルギー経済研究所戦略研究ユニット国際情報分析第２グループマネージャー・研究主幹の伊藤庄一氏で、『国際学とグローバル人材：体験論的異文化理解の視点から』というタイトルで講演を行っていただきます。\n皆様に是非ご参加いただきたく、以下のとおり、ご案内申し上げます。\n\n…",
             "date_modified": "2023-01-06T03:00:00.000Z"
         }
     ]
