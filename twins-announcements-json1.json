@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "cfbe426121ed49ad44d58b27ecd6b64a",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3635",
+            "title": "【再掲】2/17セミナー「自分の興味に正直に－国際開発・ビジネスの最前線から会計士の世界へ－」",
+            "summary": "第4９回ASIP/TG+ 公開セミナー「自分の興味に正直に－国際開発・ビジネスの最前線から会計士の世界へ－」のご案内です。\n\n日時：令和5年2月17日（金）15:00～16:30\n\n講師：鳥居 健次郎　氏（EY新日本有限責任監査法人　シニア・米国公認会計士）\n\n\n会場：総合研究棟107　&　Zoom等を使用したライブ配信\n\n内容：筑波大学第三学群国際総合学類（国際関係学主専攻）を卒業後、東京大学公…",
+            "date_modified": "2023-01-12T03:00:00.000Z"
+        },
+        {
             "id": "39cc606b8fbaa3d95f0a9c12809be572",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3634",
             "title": "【アンケート（茨城県交通政策課）】都市間高速バス「TMライナー」について",
@@ -135,13 +142,6 @@
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3610",
             "title": "2/3（15時15分～）講演会「国際学とグローバル人材：体験論的異文化理解の視点から」（学生・教員対象）",
             "summary": "学生の皆様、教職員の皆様\n\n  このたび社会・国際学群チュートリアルプログラムでは、公開講演会を開催いたします。\n講師は、（一財）日本エネルギー経済研究所戦略研究ユニット国際情報分析第２グループマネージャー・研究主幹の伊藤庄一氏で、『国際学とグローバル人材：体験論的異文化理解の視点から』というタイトルで講演を行っていただきます。\n皆様に是非ご参加いただきたく、以下のとおり、ご案内申し上げます。\n\n…",
-            "date_modified": "2023-01-06T03:00:00.000Z"
-        },
-        {
-            "id": "67d57f412d4e59a9e299b1d539579b97",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3609",
-            "title": "【2022秋学期 ちゃんぷーる（Campur）】AIMSプログラム主催の学内国際交流イベント（対面）　1/16,18,23,30&2/1",
-            "summary": "Campur is BACK!!\nAIMSプログラム主催の学内国際交流イベント 「Campur」（ちゃんぷーる）」（対面開催）が帰ってきます！！\n\nこのイベントは、AIMSプログラムの短期留学生と本学学生の文化交流を目的としたイベントです。今学期AIMSプログラムで受け入れている36名の学生達（インドネシア、タイ、マレーシア、ベトナム、ブルネイ、フィリピン）が、それぞれの国の文化を紹介します！\n留…",
             "date_modified": "2023-01-06T03:00:00.000Z"
         }
     ]
