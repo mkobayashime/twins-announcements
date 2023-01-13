@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "14a886d1f285fe594edffad9566f42a3",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3637",
+            "title": "筑波大学・世界を変えよう基金アカデミー「お金の超基本勉強会」開催のお知らせ",
+            "summary": "「筑波大学・世界を変えよう基金アカデミー」では、お金に関する基礎知識（所得税計算、結婚・教育・マイホーム・老後・病気への備え、投資運用等）を学ぶ「お金の超基本勉強会」を開催します。\n開催方式：初回は対面。第２回以降はリモートの可能性。\n開催曜日：〇水曜グループ(2/8, 15, 22, 3/1) 18:15~19:45\n〇木曜グループ(2/9, 16, 23, 3/2) 18:15~19:45\n講…",
+            "date_modified": "2023-01-13T03:00:00.000Z"
+        },
+        {
             "id": "e647beeab75fe063bb2def6fa9d4f215",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3636",
             "title": "【再掲】1/13（17時～）講演会『ダイバーシティと障害法：合理的配慮の現在地』（教員・学生対象）",
@@ -135,13 +142,6 @@
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3612",
             "title": " Flower Arrangement (Ikebana) Performance! Jan 17th",
             "summary": "On the first day of the Japanese Culture WEEK (1/17-1/20), the Ikenobo Flower Arrangement Club will perform at the Student Commons. They will also explain the art of Japanese Flower Arrangement at thi…",
-            "date_modified": "2023-01-06T03:00:00.000Z"
-        },
-        {
-            "id": "5d00a2c3804d48308176358c02156d35",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3611",
-            "title": "Japanese Culture Week! Jan 17th~20th",
-            "summary": "To celebrate the New Year 2023, we will hold the “Japanese Culture Week” at the Student Commons!\nAt this opportunity, you will enjoy and experience the Japanese New Year's culture! Please come and vis…",
             "date_modified": "2023-01-06T03:00:00.000Z"
         }
     ]

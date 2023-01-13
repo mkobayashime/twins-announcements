@@ -4,10 +4,21 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Thu, 12 Jan 2023 21:08:56 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 13 Jan 2023 03:09:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
+        <item>
+            <title><![CDATA[筑波大学・世界を変えよう基金アカデミー「お金の超基本勉強会」開催のお知らせ]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3637</link>
+            <guid>14a886d1f285fe594edffad9566f42a3</guid>
+            <pubDate>Fri, 13 Jan 2023 03:00:00 GMT</pubDate>
+            <description><![CDATA[「筑波大学・世界を変えよう基金アカデミー」では、お金に関する基礎知識（所得税計算、結婚・教育・マイホーム・老後・病気への備え、投資運用等）を学ぶ「お金の超基本勉強会」を開催します。
+開催方式：初回は対面。第２回以降はリモートの可能性。
+開催曜日：〇水曜グループ(2/8, 15, 22, 3/1) 18:15~19:45
+〇木曜グループ(2/9, 16, 23, 3/2) 18:15~19:45
+講…]]></description>
+        </item>
         <item>
             <title><![CDATA[【再掲】1/13（17時～）講演会『ダイバーシティと障害法：合理的配慮の現在地』（教員・学生対象）]]></title>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3636</link>
@@ -243,14 +254,6 @@ Place: St…]]></description>
             <guid>e311ff1c889982ae2998f6c53d7c595d</guid>
             <pubDate>Fri, 06 Jan 2023 03:00:00 GMT</pubDate>
             <description><![CDATA[On the first day of the Japanese Culture WEEK (1/17-1/20), the Ikenobo Flower Arrangement Club will perform at the Student Commons. They will also explain the art of Japanese Flower Arrangement at thi…]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Japanese Culture Week! Jan 17th~20th]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3611</link>
-            <guid>5d00a2c3804d48308176358c02156d35</guid>
-            <pubDate>Fri, 06 Jan 2023 03:00:00 GMT</pubDate>
-            <description><![CDATA[To celebrate the New Year 2023, we will hold the “Japanese Culture Week” at the Student Commons!
-At this opportunity, you will enjoy and experience the Japanese New Year's culture! Please come and vis…]]></description>
         </item>
     </channel>
 </rss>
