@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "3dba68d2f8a305fe66592866f8800236",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3638",
+            "title": "【オンライン】ボーフム大学留学説明会　1/16（月）18：30～",
+            "summary": "Campus in Campus協定校であるボーフム大学の留学説明会を開催します。\nボーフム大学職員が大学の様子や交換留学生の生活について教えてくれます！\nボーフム大学への交換留学を考えている方、ドイツ留学を検討している方、是非ご参加ください！\n\n日　　時：2023年1月16日（月）18：30-19：30\n場　　所：Microsoft Team　★オンライン開催です★\n参加方法：事前登録の上、チー…",
+            "date_modified": "2023-01-13T03:00:00.000Z"
+        },
+        {
             "id": "14a886d1f285fe594edffad9566f42a3",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3637",
             "title": "筑波大学・世界を変えよう基金アカデミー「お金の超基本勉強会」開催のお知らせ",
@@ -135,13 +142,6 @@
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3613",
             "title": "Rakugo performance – Jan 20th Fri (Japanese Culture WEEK)",
             "summary": "Rakugo is a traditional Japanese performing art with a history dating back to the Edo period. The rakugo storyteller sits down, uses folding fans and towels as props, and plays several characters to t…",
-            "date_modified": "2023-01-06T03:00:00.000Z"
-        },
-        {
-            "id": "e311ff1c889982ae2998f6c53d7c595d",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3612",
-            "title": " Flower Arrangement (Ikebana) Performance! Jan 17th",
-            "summary": "On the first day of the Japanese Culture WEEK (1/17-1/20), the Ikenobo Flower Arrangement Club will perform at the Student Commons. They will also explain the art of Japanese Flower Arrangement at thi…",
             "date_modified": "2023-01-06T03:00:00.000Z"
         }
     ]

@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/mkobayashime/twins-announcements</id>
     <title>在学生へのお知らせ | 筑波大学</title>
-    <updated>2023-01-13T03:09:12.716Z</updated>
+    <updated>2023-01-13T06:08:40.453Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://github.com/mkobayashime/twins-announcements"/>
     <subtitle>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</subtitle>
+    <entry>
+        <title type="html"><![CDATA[【オンライン】ボーフム大学留学説明会　1/16（月）18：30～]]></title>
+        <id>3dba68d2f8a305fe66592866f8800236</id>
+        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3638"/>
+        <updated>2023-01-13T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Campus in Campus協定校であるボーフム大学の留学説明会を開催します。
+ボーフム大学職員が大学の様子や交換留学生の生活について教えてくれます！
+ボーフム大学への交換留学を考えている方、ドイツ留学を検討している方、是非ご参加ください！
+
+日　　時：2023年1月16日（月）18：30-19：30
+場　　所：Microsoft Team　★オンライン開催です★
+参加方法：事前登録の上、チー…]]></summary>
+    </entry>
     <entry>
         <title type="html"><![CDATA[筑波大学・世界を変えよう基金アカデミー「お金の超基本勉強会」開催のお知らせ]]></title>
         <id>14a886d1f285fe594edffad9566f42a3</id>
@@ -245,12 +258,5 @@ Place: St…]]></summary>
         <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3613"/>
         <updated>2023-01-06T03:00:00.000Z</updated>
         <summary type="html"><![CDATA[Rakugo is a traditional Japanese performing art with a history dating back to the Edo period. The rakugo storyteller sits down, uses folding fans and towels as props, and plays several characters to t…]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ Flower Arrangement (Ikebana) Performance! Jan 17th]]></title>
-        <id>e311ff1c889982ae2998f6c53d7c595d</id>
-        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3612"/>
-        <updated>2023-01-06T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[On the first day of the Japanese Culture WEEK (1/17-1/20), the Ikenobo Flower Arrangement Club will perform at the Student Commons. They will also explain the art of Japanese Flower Arrangement at thi…]]></summary>
     </entry>
 </feed>
