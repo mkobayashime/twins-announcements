@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "90f357ff26778a4018c7ed4710314cf5",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3642",
+            "title": "浮体式洋上風力設計・製作セミナー等のイベントのお知らせ〔日本財団オーシャンイノベーションコンソーシアム〕",
+            "summary": "日本財団オーシャンイノベーションコンソーシアムは、今後、以下のイベントを開催予定です。\n\n１．浮体式洋上風力発電設備の設計・製作セミナー\n　　～日本の未来を担う若者たちよ！浮体式洋上風力発電設備を設計・製作せよ～\n（１）日時・場所\n　　　オンライン講義： 2/16（木）又は2/17（金）の17:00～18:30（どちらか1日を選択して受講）\n　　　コンペティション： 3/8（水）から3/10（金）…",
+            "date_modified": "2023-01-14T03:00:00.000Z"
+        },
+        {
             "id": "31b8c173441ea9118a59083b47124a83",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3641",
             "title": "【KdB】Revision of Course Catalogue Classification in the List of Courses Offered (Notice)",
@@ -135,13 +142,6 @@
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3618",
             "title": "令和4年度春季休業前の海外危機管理セミナーについて",
             "summary": "海外危機管理セミナーを開催しますので、お知らせいたします（主催：筑波大学 国際局グローバル・コモンズ、スチューデントサポートセンター）。\n海外危機管理に関するスペシャリストをお招きし、海外渡航前の準備事項と、現地での安全対策について学びます。\nご参加に当たっては、前日までに事前登録してください。\n\n１．日　　時：　令和5年1月31日（火）18：15～19：15\n\n２．内容・講師：\n\n①「海外渡航に…",
-            "date_modified": "2023-01-06T03:00:00.000Z"
-        },
-        {
-            "id": "9c68644d725470e001bf437a938fcec0",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3616",
-            "title": "【重要】2022年度第2期分授業料の納入督促について",
-            "summary": "2022年度第2期分授業料未納者は、「払込取扱票」が送付されているので、再度確認の上、速やかに金融機関窓口にて納付されるようお願いします。\n納付されないときは、本学学則による除籍処分該当者となります。\n\n・口座振替対象の未納者は、1月に発行された払込取扱票により納入をお願いします。\n・以前に払込取扱票を発行されている未納者は、既にお持ちの払込取扱票により納入をお願いします。\n\n※本掲示は全ての学生…",
             "date_modified": "2023-01-06T03:00:00.000Z"
         }
     ]
