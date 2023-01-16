@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/mkobayashime/twins-announcements</id>
     <title>在学生へのお知らせ | 筑波大学</title>
-    <updated>2023-01-15T21:08:00.253Z</updated>
+    <updated>2023-01-16T04:07:53.236Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://github.com/mkobayashime/twins-announcements"/>
     <subtitle>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</subtitle>
+    <entry>
+        <title type="html"><![CDATA[「さあ就活を始めようー先輩の経験を聞く会」開催のお知らせ]]></title>
+        <id>fb6b46bd0a9f7570ec01a43565d9df92</id>
+        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3644"/>
+        <updated>2023-01-16T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[筑波大学「世界を変えよう基金アカデミー」では、これから就活準備を始める学生を対象に、就活を終え卒業間近の4年生が自らの経験を伝える「さあ就活を始めようー先輩の経験を聞く会」をZoomで開催します。お二人の就活ストラテジー、経験に基づく就活ツールの活用方法、OＢ／OＧへのアプローチ方法、就活対象先を絞り込んで最終内定先を選んだ過程等、就活を始める皆さんにとって興味深いお話を聞くことができます。
+
+日…]]></summary>
+    </entry>
     <entry>
         <title type="html"><![CDATA[再掲【学群2、4年生（医学類は6年生）対象】全国学生調査（第3回試行実施）の実施について]]></title>
         <id>7154407c07f1560d33ca6fe2f6600560</id>
@@ -239,21 +248,5 @@ Place: St…]]></summary>
 対　象：全在学生（学生証の提示必須）
 配付条件：
 ・無料、予約不要、先着順（各実施日に200袋ずつ配付します。なくなり次第、…]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【再掲】2/17セミナー「自分の興味に正直に－国際開発・ビジネスの最前線から会計士の世界へ－」]]></title>
-        <id>cfbe426121ed49ad44d58b27ecd6b64a</id>
-        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3619"/>
-        <updated>2023-01-10T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[第4９回ASIP/TG+ 公開セミナー「自分の興味に正直に－国際開発・ビジネスの最前線から会計士の世界へ－」のご案内です。
-
-日時：令和5年2月17日（金）15:00～16:30
-
-講師：鳥居 健次郎　氏（EY新日本有限責任監査法人　シニア・米国公認会計士）
-
-
-会場：総合研究棟107　&　Zoom等を使用したライブ配信
-
-内容：筑波大学第三学群国際総合学類（国際関係学主専攻）を卒業後、東京大学公…]]></summary>
     </entry>
 </feed>
