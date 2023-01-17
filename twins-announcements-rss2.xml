@@ -4,10 +4,34 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Tue, 17 Jan 2023 05:04:14 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 17 Jan 2023 08:08:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
+        <item>
+            <title><![CDATA[【お知らせ】福利厚生施設案内のホームページについて]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3648</link>
+            <guid>d12245977cae64889179c2dda3e10c1d</guid>
+            <pubDate>Tue, 17 Jan 2023 03:00:00 GMT</pubDate>
+            <description><![CDATA[福利厚生施設案内のページは、1/17（火）～27（金）の間、停止いたします。
+ご利用の皆様には大変ご迷惑をおかけしますが、何卒ご了承くださるようお願いいたします。]]></description>
+        </item>
+        <item>
+            <title><![CDATA[【日本文化ウィーク】振舞餅 / GET RICE！/公式グッズ対面販売！＠スチューデント・コモンズ]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3646</link>
+            <guid>200bed49d13fbdfe8776216dd62ea62b</guid>
+            <pubDate>Tue, 17 Jan 2023 03:00:00 GMT</pubDate>
+            <description><![CDATA[今週は、スチューデント・コモンズで日本文化ウィークを開催しています。
+餅つきパフォーマンスやお米の配付をはじめ、たくさんの企画を予定しています！
+18日・19日は筑波大学公式グッズポップアップショップも開店！是非、遊びに来てください！
+
+＜イベント詳細＞
+・振舞餅（1月19日）
+・GET RICE！（1月18日・19日）
+・活け花展示（開催期間中）
+・落語パフォーマンス（1月20日）
+・剣道パフォ…]]></description>
+        </item>
         <item>
             <title><![CDATA[Bike rental service! UP Cycle Project for International Students]]></title>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3645</link>
@@ -217,34 +241,6 @@
 　 https://ssc.sec.tsukuba.ac.jp/archives/26651
 
 　↓　以下のリンクをクリックいただくと表題のページに遷移します。]]></description>
-        </item>
-        <item>
-            <title><![CDATA[【募集】筑波大学ホームゲーム「TSUKUBA LIVE!」の企画運営をする学生を募集中！]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3622</link>
-            <guid>0c185ad97809f985c0745540f1b82db0</guid>
-            <pubDate>Tue, 10 Jan 2023 03:00:00 GMT</pubDate>
-            <description><![CDATA[筑波大学ホームゲーム「TSUKUBA LIVE!」の企画運営をする学生「TLクリエイターズ」を新たに募集しています。
-
-
-
-「スポーツを通じて、筑波大学を更に面白くしたい！」
-という思いをもつ学生のみなさんのエントリーをお待ちしています！
-
-
-
-【エントリーフォーム】
-https://docs.google.com/forms/d/e/1FAIpQLSeM5eaiXbVYc5GZ_vXaAcrbc…]]></description>
-        </item>
-        <item>
-            <title><![CDATA[【Japanese Culture Week】GET RICE！We give out rice！1/18-19]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3621</link>
-            <guid>08b4e170a436fdf4f8a38c5d667f7bf9</guid>
-            <pubDate>Tue, 10 Jan 2023 03:00:00 GMT</pubDate>
-            <description><![CDATA[Koshihikari from T-PIRC will be distributed at the Student Commons!
-Free, first-come first-served (no reservations needed)!
-
-Date & Time: Wednesday 18 & Thursday19, January 2023, 10:00-16:00
-Place: St…]]></description>
         </item>
     </channel>
 </rss>
