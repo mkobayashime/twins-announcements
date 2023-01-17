@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/mkobayashime/twins-announcements</id>
     <title>在学生へのお知らせ | 筑波大学</title>
-    <updated>2023-01-16T21:08:19.849Z</updated>
+    <updated>2023-01-17T05:04:14.168Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://github.com/mkobayashime/twins-announcements"/>
     <subtitle>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</subtitle>
+    <entry>
+        <title type="html"><![CDATA[Bike rental service! UP Cycle Project for International Students]]></title>
+        <id>63b6174127128f1b98e31c2316c8dfc3</id>
+        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3645"/>
+        <updated>2023-01-17T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[We will start a bike subscription (monthly rental) project!
+・Target: International students (research/exchange students are also welcome! Any student with foreign nationality)
+・We only allow renting o…]]></summary>
+    </entry>
     <entry>
         <title type="html"><![CDATA[「さあ就活を始めようー先輩の経験を聞く会」開催のお知らせ]]></title>
         <id>fb6b46bd0a9f7570ec01a43565d9df92</id>
@@ -234,19 +243,5 @@ Free, first-come first-served (no reservations needed)!
 
 Date & Time: Wednesday 18 & Thursday19, January 2023, 10:00-16:00
 Place: St…]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【日本文化ウィーク】GET RICE！お米配付します！1/18＆19]]></title>
-        <id>42e8a7235b6b376d48b4d3905e306e83</id>
-        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3620"/>
-        <updated>2023-01-10T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[つくば機能植物イノベーション研究センター（T-PIRC）で採れたコシヒカリをスチューデント・コモンズで配付します!
-無料、先着順（予約不要）になります！
-
-日　時：2023年1月18日（水）＆19日（木）10：00～16：00
-場　所：スチューデント・コモンズ（１A203）
-対　象：全在学生（学生証の提示必須）
-配付条件：
-・無料、予約不要、先着順（各実施日に200袋ずつ配付します。なくなり次第、…]]></summary>
     </entry>
 </feed>
