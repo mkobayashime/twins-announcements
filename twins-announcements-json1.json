@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "1b826266c4cacebf98d7636d50fe4857",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3654",
+            "title": "【日本財団・大学生向けイベント】参加者募集中　海洋開発を深く学べる２つのイベント！",
+            "summary": "日本財団オーシャンイノベーションコンソーシアムでは、海洋開発人材の育成のため、\n海洋開発に関連する講義と現場視察を組み合わせたセミナー等を実施しています。\n\n本年２月～３月にかけて、以下をテーマとする少人数制の2つのセミナーを実施します。\n①海洋開発を手掛ける企業によるプレ就活セミナー\n②浮体式洋上風車の設計・製作\n\n①【海洋開発業界セミナー：プレ就活イベント】\n\n洋上風力、海洋石油・ガス開発に興…",
+            "date_modified": "2023-01-18T03:00:00.000Z"
+        },
+        {
             "id": "8848de31452ecab9b14d498ab3c4d9a8",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3653",
             "title": "「お金の超基本勉強会―卒業してからでは遅すぎる」開催のお知らせ",
@@ -135,13 +142,6 @@
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3631",
             "title": "【筑波会議2023】セッション企画募集および説明会開催のご案内",
             "summary": "筑波会議は、筑波会議委員会の主催により、世界の若手の研究者、技術者、起業家、投資家、社会起業家、ジャーナリスト、官公庁・国際機関職員、その他各界で活躍する者が筑波学園都市に参集し、科学と社会に関する知見を分かち合い、地球規模問題の解決策を模索することをコンセプトとして開催される国際会議です。\n3回目の開催となる「筑波会議2023」は、2023年9月26日（火）～28日（木）の日程で、つくば国際会議…",
-            "date_modified": "2023-01-11T03:00:00.000Z"
-        },
-        {
-            "id": "dfabf082259a473238ce163c0d1d7320",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3629",
-            "title": "令和５年度２月期学生定期健康診断について",
-            "summary": "令和５年度に実施する教育実習（特別支援教育実習を除く）を予定している学生、介護等体験に参加希望の学生（対象者は掲示参照）、医学類及び看護学類の臨床実習等を行う学生に対し、定期健康診断を次のとおり実施します。なお、今回の健康診断を受診できる介護等体験を履修する学生は、事前に申し込みをした者に限ります。\nまた、今回も予約優先となります。詳細は以下のPDFまたはホームページをご確認ください。",
             "date_modified": "2023-01-11T03:00:00.000Z"
         }
     ]
