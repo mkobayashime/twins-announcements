@@ -5,6 +5,20 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "fd0302aa759295d4d4a416f62446654f",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3651",
+            "title": "公式グッズショップ（対面販売）/ Official merchandise shop 1/18&19",
+            "summary": "本日と明日！１A棟203前にて、公式グッズのポップアップショップが開店します！\nいつもはオンラインでしか購入できない公式グッズが対面で買えるチャンスです。\n学生は10％割引あり！\n是非お越しください！\n\n場所：スチューデント・コモンズ前（1A棟203）\n時間：10：00～16：00\n\nToday and tomorrow! A pop-up store for official merchandi…",
+            "date_modified": "2023-01-18T03:00:00.000Z"
+        },
+        {
+            "id": "cfbe426121ed49ad44d58b27ecd6b64a",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3650",
+            "title": "【再掲】2/17セミナー「自分の興味に正直に－国際開発・ビジネスの最前線から会計士の世界へ－」",
+            "summary": "第4９回ASIP/TG+ 公開セミナー「自分の興味に正直に－国際開発・ビジネスの最前線から会計士の世界へ－」のご案内です。\n\n日時：令和5年2月17日（金）15:00～16:30\n\n講師：鳥居 健次郎　氏（EY新日本有限責任監査法人　シニア・米国公認会計士）\n\n\n会場：総合研究棟107　&　Zoom等を使用したライブ配信\n\n内容：筑波大学第三学群国際総合学類（国際関係学主専攻）を卒業後、東京大学公…",
+            "date_modified": "2023-01-18T03:00:00.000Z"
+        },
+        {
             "id": "e299036f1a6702a809f29616b73559f4",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3649",
             "title": "【Event】URA:BOM-Borderless Online Meeting-Global food security and SDGs (Fri, Jan 20, 12:20 - 1:10pm)",
@@ -128,20 +142,6 @@
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3627",
             "title": "【再掲】「第15回つくば３Ｅフォーラム会議」の開催について",
             "summary": "つくば３Ｅフォーラムでは、1月21日（土）13:30～筑波大学総合研究棟Ａにおいて「第15回つくば３Ｅフォーラム会議」を開催いたします（オンライン同時開催）。\n環境省の「脱炭素先行地域」に選定された自治体の事例発表を行い、2050年カーボンニュートラルの実現にむけて何ができるのか、皆さんと考えていきたいと思います。\nご参加をお待ちしております。\n\n日　時：令和5年1月21日（土）13:30～16:…",
-            "date_modified": "2023-01-11T03:00:00.000Z"
-        },
-        {
-            "id": "ec9df9500c4f0570f767b4802ee03b80",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3626",
-            "title": "1/19（10時10分～）講演会「新型コロナウイルス後のグローバルヘルスガバナンスの展開　」（学生・教員対象）",
-            "summary": "学生の皆様、教職員の皆様\n  このたび社会・国際学群チュートリアルプログラムでは、公開講演会を開催いたします。講師は、東京大学 未来ビジョン研究センター 特任研究員の武見綾子氏で、『新型コロナウイルス後のグローバルヘルスガバナンスの展開』というタイトルで講演を行っていただきます。皆様に是非ご参加いただきたく、以下のとおり、ご案内申し上げます。\n\n〇日時：令和５年1月19日（木）１０時１０分～１１時…",
-            "date_modified": "2023-01-11T03:00:00.000Z"
-        },
-        {
-            "id": "c61c92ecebf6e7455d81df8ed0b7ee77",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3623",
-            "title": "【お知らせ】令和4年12月17日及び12月22日からの大雪並びに12月31日山形県鶴岡市の土砂崩れにかかる被災状況について",
-            "summary": "　表題のことにつきまして、スチューデントサポートセンターホームページにてご案内しております。詳細は以下のURL\nから確認してください。\n\n    スチューデントサポートセンターホームページ\n　 https://ssc.sec.tsukuba.ac.jp/archives/26651\n\n　↓　以下のリンクをクリックいただくと表題のページに遷移します。",
             "date_modified": "2023-01-11T03:00:00.000Z"
         }
     ]
