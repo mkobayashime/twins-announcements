@@ -4,10 +4,23 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Thu, 19 Jan 2023 00:31:30 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 19 Jan 2023 02:14:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
+        <item>
+            <title><![CDATA[【BHE】キャリア支援チームHP及び就職情報提供システム停止のお知らせ［1/30(月)9:00-12:15］]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3657</link>
+            <guid>0227edae643970b30eaff2022b8b0585</guid>
+            <pubDate>Thu, 19 Jan 2023 03:00:00 GMT</pubDate>
+            <description><![CDATA[サーバー更新作業に伴い、下記の時間、キャリア支援チームホームページ等へ繋がりにくくなります。
+【サーバー更新作業日時】1/30（月）9：00　～　1/30（月）12：15（予定）
+
+なお、サーバー更新作業中は、「学内専用ページ」、「ガイダンス等及び模試試験登録・申請」、「進路進捗状況届」へのアクセスはできません。
+皆様にはご迷惑をおかけいたしますが、ご理解、ご協力の程よろしくお願いいたします。
+
+…]]></description>
+        </item>
         <item>
             <title><![CDATA[1/27（15時15分～）講演会「経済学の最前線～多数決での政策決定プロセス下における混雑税の実行可能性/～報酬評価の不確実性を伴うレント・シーキング競争」（学生・教員対象）]]></title>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3656</link>
@@ -227,22 +240,6 @@ The purpo…]]></description>
 会場：総合研究棟107　&　Zoom等を使用したライブ配信
 
 内容：筑波大学第三学群国際総合学類（国際関係学主専攻）を卒業後、東京大学公…]]></description>
-        </item>
-        <item>
-            <title><![CDATA[【アンケート（茨城県交通政策課）】都市間高速バス「TMライナー」について]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3634</link>
-            <guid>39cc606b8fbaa3d95f0a9c12809be572</guid>
-            <pubDate>Thu, 12 Jan 2023 03:00:00 GMT</pubDate>
-            <description><![CDATA[茨城県から、都市間高速バス「TMライナー」に関するアンケートの案内がありました。
-本学に通学している方に回答いただきたいとのことですので、下記のURLからアンケート
-フォームにアクセスし、ご回答の程お願いいたします。
-
-１回答方法　下記URLへ各自アクセスし、回答を送信してください。
-
-２回答期限　令和５年１月31日（火）
-
-３問合せ先　株式会社ドーコン東京支店小美野宛
-　e-mailアドレス＜t…]]></description>
         </item>
     </channel>
 </rss>
