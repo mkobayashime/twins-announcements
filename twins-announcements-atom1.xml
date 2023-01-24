@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/mkobayashime/twins-announcements</id>
     <title>在学生へのお知らせ | 筑波大学</title>
-    <updated>2023-01-24T05:03:30.891Z</updated>
+    <updated>2023-01-24T08:08:27.952Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://github.com/mkobayashime/twins-announcements"/>
     <subtitle>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</subtitle>
+    <entry>
+        <title type="html"><![CDATA[【再掲】1/27（15時15分～）講演会「経済学の最前線～多数決での政策決定プロセス下における混雑税の実行可能性/～報酬評価の不確実性を伴うレント・シーキング競争」（学生・教員対象）]]></title>
+        <id>d2c35895cb0783098e09791a7f3088ac</id>
+        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3667"/>
+        <updated>2023-01-24T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[学生の皆様、教職員の皆様
+
+  このたび社会・国際学群チュートリアルプログラムでは、公開講演会を開催いたします。
+講師は城西大学経済学部 助教の髙橋達氏、および宮下春樹氏で、『経済学の最前線～多数決での政策決定プロセス下における混雑税の実行可能性』、『経済学の最前線～報酬評価の不確実性を伴うレント・シーキング競争』というタイトルでそれぞれ講演を行っていただきます。
+経済理論の基本解説から始まり、政…]]></summary>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【再掲】1/25（15時～）講演会“Pro Poor Growth: The Lessons Learnt from Bangladesh”（学生・教員対象）]]></title>
         <id>4385ef2c5d3414bb41446ba58ad32b20</id>
@@ -215,12 +226,5 @@ The purpo…]]></summary>
 （１）日時・場所
 　　　オンライン講義： 2/16（木）又は2/17（金）の17:00～18:30（どちらか1日を選択して受講）
 　　　コンペティション： 3/8（水）から3/10（金）…]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【KdB】Revision of Course Catalogue Classification in the List of Courses Offered (Notice)]]></title>
-        <id>31b8c173441ea9118a59083b47124a83</id>
-        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3641"/>
-        <updated>2023-01-13T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[The following classifications are revised for the Interdisciplinary Engineering (Bachelor's Program in Interdisciplinary Engineering) and Bachelor's Program in Global Issues in the English Program Cou…]]></summary>
     </entry>
 </feed>
