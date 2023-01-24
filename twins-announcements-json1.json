@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "d6a06eff7c5b77747b6be3b1bb52c087",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3668",
+            "title": "スポーツ国際開発学共同専攻　入試説明会のお知らせ",
+            "summary": "人間総合科学学術院スポーツ国際開発学共同専攻では、本専攻に関心のある方、スポーツ分野と開発分野に関心のある方向けに、入試説明会を以下のとおり開催することになりましたので、お知らせいたします。\n\nスポーツ国際開発学共同専攻　入試説明会\n～スポーツ分野と開発分野の新たなキャリアパスに向けた歩み～\n・日　時　：　１月３０日（月）１８：００～１９：００\n・場　所　：　オンライン（ZOOM）\n詳細は添付のポ…",
+            "date_modified": "2023-01-24T03:00:00.000Z"
+        },
+        {
             "id": "d2c35895cb0783098e09791a7f3088ac",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3667",
             "title": "【再掲】1/27（15時15分～）講演会「経済学の最前線～多数決での政策決定プロセス下における混雑税の実行可能性/～報酬評価の不確実性を伴うレント・シーキング競争」（学生・教員対象）",
@@ -136,13 +143,6 @@
             "title": "「さあ就活を始めようー先輩の経験を聞く会」開催のお知らせ",
             "summary": "筑波大学「世界を変えよう基金アカデミー」では、これから就活準備を始める学生を対象に、就活を終え卒業間近の4年生が自らの経験を伝える「さあ就活を始めようー先輩の経験を聞く会」をZoomで開催します。お二人の就活ストラテジー、経験に基づく就活ツールの活用方法、OＢ／OＧへのアプローチ方法、就活対象先を絞り込んで最終内定先を選んだ過程等、就活を始める皆さんにとって興味深いお話を聞くことができます。\n\n日…",
             "date_modified": "2023-01-16T03:00:00.000Z"
-        },
-        {
-            "id": "90f357ff26778a4018c7ed4710314cf5",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3642",
-            "title": "浮体式洋上風力設計・製作セミナー等のイベントのお知らせ〔日本財団オーシャンイノベーションコンソーシアム〕",
-            "summary": "日本財団オーシャンイノベーションコンソーシアムは、今後、以下のイベントを開催予定です。\n\n１．浮体式洋上風力発電設備の設計・製作セミナー\n　　～日本の未来を担う若者たちよ！浮体式洋上風力発電設備を設計・製作せよ～\n（１）日時・場所\n　　　オンライン講義： 2/16（木）又は2/17（金）の17:00～18:30（どちらか1日を選択して受講）\n　　　コンペティション： 3/8（水）から3/10（金）…",
-            "date_modified": "2023-01-14T03:00:00.000Z"
         }
     ]
 }
