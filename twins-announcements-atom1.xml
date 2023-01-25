@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/mkobayashime/twins-announcements</id>
     <title>在学生へのお知らせ | 筑波大学</title>
-    <updated>2023-01-25T02:08:47.406Z</updated>
+    <updated>2023-01-25T04:07:35.931Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://github.com/mkobayashime/twins-announcements"/>
     <subtitle>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</subtitle>
+    <entry>
+        <title type="html"><![CDATA[2/6（月）15:30～　ワークショップ「第六感の共有世界　パート２」─コミュニケーションにおける第六感─]]></title>
+        <id>3c36c372d6c2b3e1c0c873df1b64db62</id>
+        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3673"/>
+        <updated>2023-01-25T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[昨年7月に「第六感の共有世界」という新しい研究戦略領域の構想を基に筑波大学研究戦略室が主催したワークショップの第2弾を実施いたします。
+この度は「─コミュニケーションにおける第六感─」と副題を設け、3名の研究者に話題提供をしていただきます。
+参加研究者間の相互認識を深め、新しい研究アイデア発掘のきっかけの場になれば幸いです。
+周知文やポスターをご参照のうえ、ぜひご参加ください。
+
+＜概要＞
+日時　…]]></summary>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【再掲】障害学生のための就活セミナー「キャリアについて考えてみよう～ハローワーク土浦と茨城障害者職業センターをお招きして～」のご案内]]></title>
         <id>28337b15c6e8170c175c5b0bda5418af</id>
@@ -224,13 +237,5 @@ In this class, world's top business leaders invited to share their experiences i
         <summary type="html"><![CDATA[The Research Administration/Management Office has an online meeting.
 You can communicate with researchers from different departments here. Also, URA will share research activity information.
 The purpo…]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【お知らせ】福利厚生施設案内のホームページについて]]></title>
-        <id>d12245977cae64889179c2dda3e10c1d</id>
-        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3648"/>
-        <updated>2023-01-17T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[福利厚生施設案内のページは、1/17（火）～27（金）の間、停止いたします。
-ご利用の皆様には大変ご迷惑をおかけしますが、何卒ご了承くださるようお願いいたします。]]></summary>
     </entry>
 </feed>
