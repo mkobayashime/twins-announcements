@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "ca7113500f8750a8bd3a3c306ee29688",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3675",
+            "title": "パリ第8大学留学報告会（オンライン）2/7（火）18：30～",
+            "summary": "2022年秋学期間に留学をしていた2名の学生がパリ第八大学への留学を終え、無事に帰国しました。後に続く学生のためにオンラインにて留学報告会を開催します。また、2023年秋学期渡航分について追加公募実施についての情報提供もあります。\nフランス留学に興味のある方は、ぜひご参加ください！\n\n日時：2023年2月7日（火）18：30～19：30\n会場：Ｚoom （オンライン）\n対象：本学の学群生\n参加：事…",
+            "date_modified": "2023-01-25T03:00:00.000Z"
+        },
+        {
             "id": "28337b15c6e8170c175c5b0bda5418af",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3674",
             "title": "【再掲】障害学生のための就活セミナー「キャリアについて考えてみよう～ハローワーク土浦と茨城障害者職業センターをお招きして～」のご案内",
@@ -136,13 +143,6 @@
             "title": "【再掲】2/17セミナー「自分の興味に正直に－国際開発・ビジネスの最前線から会計士の世界へ－」",
             "summary": "第4９回ASIP/TG+ 公開セミナー「自分の興味に正直に－国際開発・ビジネスの最前線から会計士の世界へ－」のご案内です。\n\n日時：令和5年2月17日（金）15:00～16:30\n\n講師：鳥居 健次郎　氏（EY新日本有限責任監査法人　シニア・米国公認会計士）\n\n\n会場：総合研究棟107　&　Zoom等を使用したライブ配信\n\n内容：筑波大学第三学群国際総合学類（国際関係学主専攻）を卒業後、東京大学公…",
             "date_modified": "2023-01-18T03:00:00.000Z"
-        },
-        {
-            "id": "e299036f1a6702a809f29616b73559f4",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3649",
-            "title": "【Event】URA:BOM-Borderless Online Meeting-Global food security and SDGs (Fri, Jan 20, 12:20 - 1:10pm)",
-            "summary": "The Research Administration/Management Office has an online meeting.\nYou can communicate with researchers from different departments here. Also, URA will share research activity information.\nThe purpo…",
-            "date_modified": "2023-01-17T03:00:00.000Z"
         }
     ]
 }
