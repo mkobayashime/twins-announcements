@@ -4,10 +4,21 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Thu, 26 Jan 2023 06:08:30 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 26 Jan 2023 08:08:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
+        <item>
+            <title><![CDATA[イベント案内：【GGG+フォーラム　誰一人取り残さない持続可能社会構築のために】 ～私たちは国境を越えて連帯できるのか？～]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3680</link>
+            <guid>f2cdfca747067368803655c5798aa684</guid>
+            <pubDate>Thu, 26 Jan 2023 03:00:00 GMT</pubDate>
+            <description><![CDATA[国際NGO団体日本リザルツより、イベントの開催について案内がありましたのでお知らせいたします。参加を希望される学生は、以下の参加登録フォームより直接お申し込みください。詳細は、添付の資料をご覧ください。
+*******イベント概要*******
+【GGG+フォーラム　誰一人取り残さない持続可能社会構築のために】
+～私たちは国境を越えて連帯できるのか？～
+日時：　2023年3月5日（日）9:00 -…]]></description>
+        </item>
         <item>
             <title><![CDATA[インクルーシブな大学と職場に関するワークショップのお知らせ]]></title>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3679</link>
@@ -239,16 +250,6 @@ In this class, world's top business leaders invited to share their experiences i
 ①【海洋開発業界セミナー：プレ就活イベント】
 
 洋上風力、海洋石油・ガス開発に興…]]></description>
-        </item>
-        <item>
-            <title><![CDATA[「お金の超基本勉強会―卒業してからでは遅すぎる」開催のお知らせ]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3653</link>
-            <guid>8848de31452ecab9b14d498ab3c4d9a8</guid>
-            <pubDate>Wed, 18 Jan 2023 03:00:00 GMT</pubDate>
-            <description><![CDATA[「筑波大学・世界を変えよう基金アカデミー」では、お金に関する基礎知識（所得税計算、結婚・教育・マイホーム・老後・病気への備え、投資運用等）を学ぶ「お金の超基本勉強会―卒業してからでは遅すぎる」を開催します。
-開催方式：初回は対面。第２回以降はリモートの可能性。
-開催曜日：〇水曜グループ(2/8, 15, 22, 3/1) 18:15~19:45
-〇木曜グループ(2/9, 16, 23, 3/2) …]]></description>
         </item>
     </channel>
 </rss>
