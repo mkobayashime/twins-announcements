@@ -4,10 +4,41 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Wed, 25 Jan 2023 21:07:10 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 26 Jan 2023 02:09:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
+        <item>
+            <title><![CDATA[【重要/Important】1C棟への立入禁止について（1/27-30）Prohibition of entry to the 1C Building]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3677</link>
+            <guid>e51efa28a21c19441f48b2a4e5134fbe</guid>
+            <pubDate>Thu, 26 Jan 2023 03:00:00 GMT</pubDate>
+            <description><![CDATA[大学院入試実施のため、下記期間中、学生の人文社会学系棟各階への立ち入りを
+禁止させていただきます。
+ご理解とご協力のほどどうぞよろしくお願いいたします。
+
+＜期間および対象階＞
+令和５年１月27日（金）5限～30日（月）終日：
+1C棟3階以上
+
+
+]]></description>
+        </item>
+        <item>
+            <title><![CDATA[インクルーシブな大学と職場に関するワークショップのお知らせ]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3676</link>
+            <guid>1f2ea08a2d3576555d62655f8e03414b</guid>
+            <pubDate>Thu, 26 Jan 2023 03:00:00 GMT</pubDate>
+            <description><![CDATA[各位
+
+標題の件、【2月20日（金）～21（火)】の２日間、筑波大学春日キャンパスで
+開催します。
+
+詳細は添付ファイルをご確認ください。
+
+問い合わせ先：河野禎之（人間系障害科学域）kyoshiyuki@human.tsukuba.ac.jp
+]]></description>
+        </item>
         <item>
             <title><![CDATA[パリ第8大学留学報告会（オンライン）2/7（火）18：30～]]></title>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3675</link>
@@ -224,23 +255,6 @@ In this class, world's top business leaders invited to share their experiences i
 会場：総合研究棟107　&　Zoom等を使用したライブ配信
 
 内容：筑波大学第三学群国際総合学類（国際関係学主専攻）を卒業後、東京大学公…]]></description>
-        </item>
-        <item>
-            <title><![CDATA[【Event】URA:BOM-Borderless Online Meeting-Global food security and SDGs (Fri, Jan 20, 12:20 - 1:10pm)]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3649</link>
-            <guid>e299036f1a6702a809f29616b73559f4</guid>
-            <pubDate>Tue, 17 Jan 2023 03:00:00 GMT</pubDate>
-            <description><![CDATA[The Research Administration/Management Office has an online meeting.
-You can communicate with researchers from different departments here. Also, URA will share research activity information.
-The purpo…]]></description>
-        </item>
-        <item>
-            <title><![CDATA[【お知らせ】福利厚生施設案内のホームページについて]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3648</link>
-            <guid>d12245977cae64889179c2dda3e10c1d</guid>
-            <pubDate>Tue, 17 Jan 2023 03:00:00 GMT</pubDate>
-            <description><![CDATA[福利厚生施設案内のページは、1/17（火）～27（金）の間、停止いたします。
-ご利用の皆様には大変ご迷惑をおかけしますが、何卒ご了承くださるようお願いいたします。]]></description>
         </item>
     </channel>
 </rss>
