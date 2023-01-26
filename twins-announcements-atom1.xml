@@ -2,10 +2,25 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/mkobayashime/twins-announcements</id>
     <title>在学生へのお知らせ | 筑波大学</title>
-    <updated>2023-01-26T02:09:04.370Z</updated>
+    <updated>2023-01-26T03:07:30.378Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://github.com/mkobayashime/twins-announcements"/>
     <subtitle>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</subtitle>
+    <entry>
+        <title type="html"><![CDATA[【再掲】令和4年度春季休業前の海外危機管理セミナーについて]]></title>
+        <id>1fc18aeb54f6f40a748bfcb7b8ecbe24</id>
+        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3678"/>
+        <updated>2023-01-26T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[海外危機管理セミナーを開催しますので、お知らせいたします（主催：筑波大学 国際局グローバル・コモンズ、スチューデントサポートセンター）。
+海外危機管理に関するスペシャリストをお招きし、海外渡航前の準備事項と、現地での安全対策について学びます。
+ご参加に当たっては、前日までに事前登録してください。
+
+１．日　　時：　令和5年1月31日（火）18：15～19：15
+
+２．内容・講師：
+
+①「海外渡航に…]]></summary>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【重要/Important】1C棟への立入禁止について（1/27-30）Prohibition of entry to the 1C Building]]></title>
         <id>e51efa28a21c19441f48b2a4e5134fbe</id>
@@ -237,21 +252,5 @@ In this class, world's top business leaders invited to share their experiences i
 開催方式：初回は対面。第２回以降はリモートの可能性。
 開催曜日：〇水曜グループ(2/8, 15, 22, 3/1) 18:15~19:45
 〇木曜グループ(2/9, 16, 23, 3/2) …]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【再掲】2/17セミナー「自分の興味に正直に－国際開発・ビジネスの最前線から会計士の世界へ－」]]></title>
-        <id>cfbe426121ed49ad44d58b27ecd6b64a</id>
-        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3650"/>
-        <updated>2023-01-18T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[第4９回ASIP/TG+ 公開セミナー「自分の興味に正直に－国際開発・ビジネスの最前線から会計士の世界へ－」のご案内です。
-
-日時：令和5年2月17日（金）15:00～16:30
-
-講師：鳥居 健次郎　氏（EY新日本有限責任監査法人　シニア・米国公認会計士）
-
-
-会場：総合研究棟107　&　Zoom等を使用したライブ配信
-
-内容：筑波大学第三学群国際総合学類（国際関係学主専攻）を卒業後、東京大学公…]]></summary>
     </entry>
 </feed>
