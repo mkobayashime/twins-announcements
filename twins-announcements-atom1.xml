@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/mkobayashime/twins-announcements</id>
     <title>在学生へのお知らせ | 筑波大学</title>
-    <updated>2023-01-26T09:09:07.593Z</updated>
+    <updated>2023-01-26T15:09:25.755Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://github.com/mkobayashime/twins-announcements"/>
     <subtitle>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</subtitle>
@@ -41,22 +41,6 @@
 ２．内容・講師：
 
 ①「海外渡航に…]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【重要/Important】1C棟への立入禁止について（1/27-30）Prohibition of entry to the 1C Building]]></title>
-        <id>e51efa28a21c19441f48b2a4e5134fbe</id>
-        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3677"/>
-        <updated>2023-01-26T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[大学院入試実施のため、下記期間中、学生の人文社会学系棟各階への立ち入りを
-禁止させていただきます。
-ご理解とご協力のほどどうぞよろしくお願いいたします。
-
-＜期間および対象階＞
-令和５年１月27日（金）5限～30日（月）終日：
-1C棟3階以上
-
-
-]]></summary>
     </entry>
     <entry>
         <title type="html"><![CDATA[パリ第8大学留学報告会（オンライン）2/7（火）18：30～]]></title>
@@ -230,8 +214,10 @@
         <id>f9b2705d542dce2b6f93dcfaa292abfc</id>
         <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3655"/>
         <updated>2023-01-18T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Business Leaders’ Seminar is a part of classes in Doctoral Program in Human Biology.
-In this class, world's top business leaders invited to share their experiences in career development and business s…]]></summary>
+        <summary type="html"><![CDATA[学生の皆様、教職員の皆様
+  このたび社会・国際学群チュートリアルプログラムでは、公開講演会を開催いたします。
+講師は城西大学経済学部 助教の髙橋達氏、および宮下春樹氏で、『経済学の最前線～多数決での政策決定プロセス下における混雑税の実行可能性』、『経済学の最前線～報酬評価の不確実性を伴うレント・シーキング競争』というタイトルでそれぞれ講演を行っていただきます。
+経済理論の基本解説から始まり、政治…]]></summary>
     </entry>
     <entry>
         <title type="html"><![CDATA[【日本財団・大学生向けイベント】参加者募集中　海洋開発を深く学べる２つのイベント！]]></title>
@@ -248,5 +234,15 @@ In this class, world's top business leaders invited to share their experiences i
 ①【海洋開発業界セミナー：プレ就活イベント】
 
 洋上風力、海洋石油・ガス開発に興…]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「お金の超基本勉強会―卒業してからでは遅すぎる」開催のお知らせ]]></title>
+        <id>8848de31452ecab9b14d498ab3c4d9a8</id>
+        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3653"/>
+        <updated>2023-01-18T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[「筑波大学・世界を変えよう基金アカデミー」では、お金に関する基礎知識（所得税計算、結婚・教育・マイホーム・老後・病気への備え、投資運用等）を学ぶ「お金の超基本勉強会―卒業してからでは遅すぎる」を開催します。
+開催方式：初回は対面。第２回以降はリモートの可能性。
+開催曜日：〇水曜グループ(2/8, 15, 22, 3/1) 18:15~19:45
+〇木曜グループ(2/9, 16, 23, 3/2) …]]></summary>
     </entry>
 </feed>
