@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "c293e42599d3a159511c3a9400143e15",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3683",
+            "title": "TSUKUBA LIVE! Recruiting staff members for the day of the event",
+            "summary": "We are looking for volunteers to help us assist the operation of the University of Tsukuba's home game \"TSUKUBA LIVE!\" which is scheduled to be held on March 22, 2023 (Wednesday).\n\nOur goal is to prov…",
+            "date_modified": "2023-01-27T03:00:00.000Z"
+        },
+        {
             "id": "146a81d2d826bc123f240a2cc8681862",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3682",
             "title": "【単位認定】日本語サポーター募集！（TWINS 締切 3/17）",
@@ -136,13 +143,6 @@
             "title": "1/27（15時15分～）講演会「経済学の最前線～多数決での政策決定プロセス下における混雑税の実行可能性/～報酬評価の不確実性を伴うレント・シーキング競争」（学生・教員対象）",
             "summary": "学生の皆様、教職員の皆様\n  このたび社会・国際学群チュートリアルプログラムでは、公開講演会を開催いたします。\n講師は城西大学経済学部 助教の髙橋達氏、および宮下春樹氏で、『経済学の最前線～多数決での政策決定プロセス下における混雑税の実行可能性』、『経済学の最前線～報酬評価の不確実性を伴うレント・シーキング競争』というタイトルでそれぞれ講演を行っていただきます。\n経済理論の基本解説から始まり、政治…",
             "date_modified": "2023-01-19T03:00:00.000Z"
-        },
-        {
-            "id": "f9b2705d542dce2b6f93dcfaa292abfc",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3655",
-            "title": "【Online】Jan 30 (Mon) 11:00-13:00 Business Leaders’ Seminar",
-            "summary": "Business Leaders’ Seminar is a part of classes in Doctoral Program in Human Biology.\nIn this class, world's top business leaders invited to share their experiences in career development and business s…",
-            "date_modified": "2023-01-18T03:00:00.000Z"
         }
     ]
 }
