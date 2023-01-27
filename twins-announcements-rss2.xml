@@ -4,10 +4,22 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Fri, 27 Jan 2023 02:11:55 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 27 Jan 2023 06:08:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
+        <item>
+            <title><![CDATA[【単位認定】日本語サポーター募集！（TWINS 締切 3/17）]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3682</link>
+            <guid>146a81d2d826bc123f240a2cc8681862</guid>
+            <pubDate>Fri, 27 Jan 2023 03:00:00 GMT</pubDate>
+            <description><![CDATA[茨城県の小中学校と連携して、外国にルーツのある子どもたちの日本語学習や教科学習をサポートする「日本語サポーター」を募集します。 授業の空き時間を利用して、好きな時に好きな頻度で活動することができ、各自の活動時間に応じて単位認定されます。
+
+日本語サポーターになるためには、下記の授業を履修してください。
+学類や専門は問いません。基礎的な知識やスキルを身につけるところからスタートします。
+
+■ 集中講…]]></description>
+        </item>
         <item>
             <title><![CDATA[【再掲】2/17セミナー「自分の興味に正直に－国際開発・ビジネスの最前線から会計士の世界へ－」]]></title>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3681</link>
@@ -234,22 +246,6 @@
             <pubDate>Wed, 18 Jan 2023 03:00:00 GMT</pubDate>
             <description><![CDATA[Business Leaders’ Seminar is a part of classes in Doctoral Program in Human Biology.
 In this class, world's top business leaders invited to share their experiences in career development and business s…]]></description>
-        </item>
-        <item>
-            <title><![CDATA[【日本財団・大学生向けイベント】参加者募集中　海洋開発を深く学べる２つのイベント！]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3654</link>
-            <guid>1b826266c4cacebf98d7636d50fe4857</guid>
-            <pubDate>Wed, 18 Jan 2023 03:00:00 GMT</pubDate>
-            <description><![CDATA[日本財団オーシャンイノベーションコンソーシアムでは、海洋開発人材の育成のため、
-海洋開発に関連する講義と現場視察を組み合わせたセミナー等を実施しています。
-
-本年２月～３月にかけて、以下をテーマとする少人数制の2つのセミナーを実施します。
-①海洋開発を手掛ける企業によるプレ就活セミナー
-②浮体式洋上風車の設計・製作
-
-①【海洋開発業界セミナー：プレ就活イベント】
-
-洋上風力、海洋石油・ガス開発に興…]]></description>
         </item>
     </channel>
 </rss>

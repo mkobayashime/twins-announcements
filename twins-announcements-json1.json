@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "146a81d2d826bc123f240a2cc8681862",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3682",
+            "title": "【単位認定】日本語サポーター募集！（TWINS 締切 3/17）",
+            "summary": "茨城県の小中学校と連携して、外国にルーツのある子どもたちの日本語学習や教科学習をサポートする「日本語サポーター」を募集します。 授業の空き時間を利用して、好きな時に好きな頻度で活動することができ、各自の活動時間に応じて単位認定されます。\n\n日本語サポーターになるためには、下記の授業を履修してください。\n学類や専門は問いません。基礎的な知識やスキルを身につけるところからスタートします。\n\n■ 集中講…",
+            "date_modified": "2023-01-27T03:00:00.000Z"
+        },
+        {
             "id": "cfbe426121ed49ad44d58b27ecd6b64a",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3681",
             "title": "【再掲】2/17セミナー「自分の興味に正直に－国際開発・ビジネスの最前線から会計士の世界へ－」",
@@ -135,13 +142,6 @@
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3655",
             "title": "【Online】Jan 30 (Mon) 11:00-13:00 Business Leaders’ Seminar",
             "summary": "Business Leaders’ Seminar is a part of classes in Doctoral Program in Human Biology.\nIn this class, world's top business leaders invited to share their experiences in career development and business s…",
-            "date_modified": "2023-01-18T03:00:00.000Z"
-        },
-        {
-            "id": "1b826266c4cacebf98d7636d50fe4857",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3654",
-            "title": "【日本財団・大学生向けイベント】参加者募集中　海洋開発を深く学べる２つのイベント！",
-            "summary": "日本財団オーシャンイノベーションコンソーシアムでは、海洋開発人材の育成のため、\n海洋開発に関連する講義と現場視察を組み合わせたセミナー等を実施しています。\n\n本年２月～３月にかけて、以下をテーマとする少人数制の2つのセミナーを実施します。\n①海洋開発を手掛ける企業によるプレ就活セミナー\n②浮体式洋上風車の設計・製作\n\n①【海洋開発業界セミナー：プレ就活イベント】\n\n洋上風力、海洋石油・ガス開発に興…",
             "date_modified": "2023-01-18T03:00:00.000Z"
         }
     ]
