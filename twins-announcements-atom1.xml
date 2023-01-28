@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/mkobayashime/twins-announcements</id>
     <title>在学生へのお知らせ | 筑波大学</title>
-    <updated>2023-01-28T09:08:50.294Z</updated>
+    <updated>2023-01-28T15:08:23.179Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://github.com/mkobayashime/twins-announcements"/>
     <subtitle>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</subtitle>
@@ -97,12 +97,13 @@ Our goal is to prov…]]></summary>
         <id>28337b15c6e8170c175c5b0bda5418af</id>
         <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3674"/>
         <updated>2023-01-25T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[筑波大学ヒューマンエンパワーメント推進局（BHE）は、
-障害学生のための就活セミナー「キャリアについて考えてみよう～ハローワーク土浦と茨城障害者職業センターをお招きして～」を開催いたします。
+        <summary type="html"><![CDATA[2022年秋学期間に留学をしていた2名の学生がパリ第八大学への留学を終え、無事に帰国しました。後に続く学生のためにオンラインにて留学報告会を開催します。また、2023年秋学期渡航分について追加公募実施についての情報提供もあります。
+フランス留学に興味のある方は、ぜひご参加ください！
 
-年が明け、皆さんの中には「そろそろ就活を始めようかな」と考えている方も多いのではないでしょうか。
-就職のために、いつまでに、誰と、何を準備する？
-就職準備のために利用できる支援機関は、キャリアセンター以外に…]]></summary>
+日時：2023年2月7日（火）18：30～19：30
+会場：Ｚoom （オンライン）
+対象：本学の学群生
+参加：事…]]></summary>
     </entry>
     <entry>
         <title type="html"><![CDATA[2/6（月）15:30～　ワークショップ「第六感の共有世界　パート２」─コミュニケーションにおける第六感─]]></title>
@@ -193,19 +194,6 @@ Our goal is to prov…]]></summary>
 19:00　Zoom開場 　※お早…]]></summary>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【お知らせ】福利厚生施設案内のホームページについて(続報)]]></title>
-        <id>8f86fdd6c45984bd22afe7e6bcffc2cc</id>
-        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3659"/>
-        <updated>2023-01-19T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[先にお知らせしましたように、
-福利厚生施設案内のページは、1/17（火）～27（金）の予定で停止しており、
-大変ご迷惑をおかけしております。
-
-　停止期間中、福利厚生施設案内ページでご案内しておりました店舗メニューやお知らせを、
-　以下のサイトに準備しました。
-　https://ssc.sec.tsukuba.ac.jp/office-of-student-welfare/temprary-men…]]></summary>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Application to Study Group on “Economic Interventions on Psychological Well-Being and Mental Health”]]></title>
         <id>8c59602a4e886f73aa36ab3c836e6821</id>
         <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3658"/>
@@ -248,5 +236,15 @@ In this class, world's top business leaders invited to share their experiences i
 ①【海洋開発業界セミナー：プレ就活イベント】
 
 洋上風力、海洋石油・ガス開発に興…]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「お金の超基本勉強会―卒業してからでは遅すぎる」開催のお知らせ]]></title>
+        <id>8848de31452ecab9b14d498ab3c4d9a8</id>
+        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3653"/>
+        <updated>2023-01-18T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[「筑波大学・世界を変えよう基金アカデミー」では、お金に関する基礎知識（所得税計算、結婚・教育・マイホーム・老後・病気への備え、投資運用等）を学ぶ「お金の超基本勉強会―卒業してからでは遅すぎる」を開催します。
+開催方式：初回は対面。第２回以降はリモートの可能性。
+開催曜日：〇水曜グループ(2/8, 15, 22, 3/1) 18:15~19:45
+〇木曜グループ(2/9, 16, 23, 3/2) …]]></summary>
     </entry>
 </feed>
