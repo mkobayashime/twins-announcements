@@ -4,10 +4,23 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Sun, 29 Jan 2023 21:07:53 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 30 Jan 2023 00:26:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
+        <item>
+            <title><![CDATA[【New Event Info】Invitation Ticket to Performance by NHK Symphony Orchestra]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3684</link>
+            <guid>e27875457c314bbf207ca4c24196e691</guid>
+            <pubDate>Mon, 30 Jan 2023 03:00:00 GMT</pubDate>
+            <description><![CDATA[<<対象：留学生>>
+学内の留学生の方を対象に、NHK交響楽団の公演への招待チケット（無料）が用意されています。
+興味のある方は、下記URLの申込フォーム（Forms）より、必要事項に回答し各公演の申し込み締切日までに
+申し込んでください。
+※先着順のため、申込締切日より前に、受付を締め切ることがあります。
+※実際に招待チケットで講演に行ける方には、後日学生交流課より連絡します。
+※詳細については…]]></description>
+        </item>
         <item>
             <title><![CDATA[TSUKUBA LIVE! Recruiting staff members for the day of the event]]></title>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3683</link>
@@ -237,16 +250,6 @@ In this class, world's top business leaders invited to share their experiences i
 ①【海洋開発業界セミナー：プレ就活イベント】
 
 洋上風力、海洋石油・ガス開発に興…]]></description>
-        </item>
-        <item>
-            <title><![CDATA[「お金の超基本勉強会―卒業してからでは遅すぎる」開催のお知らせ]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3653</link>
-            <guid>8848de31452ecab9b14d498ab3c4d9a8</guid>
-            <pubDate>Wed, 18 Jan 2023 03:00:00 GMT</pubDate>
-            <description><![CDATA[「筑波大学・世界を変えよう基金アカデミー」では、お金に関する基礎知識（所得税計算、結婚・教育・マイホーム・老後・病気への備え、投資運用等）を学ぶ「お金の超基本勉強会―卒業してからでは遅すぎる」を開催します。
-開催方式：初回は対面。第２回以降はリモートの可能性。
-開催曜日：〇水曜グループ(2/8, 15, 22, 3/1) 18:15~19:45
-〇木曜グループ(2/9, 16, 23, 3/2) …]]></description>
         </item>
     </channel>
 </rss>
