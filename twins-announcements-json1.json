@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "39279c458d42e89e8598bd5ea85c3400",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3689",
+            "title": "【お知らせ】筑波大学公式オリジナルグッズECサイト割引クーポンコード（2月）",
+            "summary": "筑波大学公式オリジナルグッズ販売サイト「TSUKUBA-SHOP」の2月の割引クーポンコードをお知らせいたします！\n\n毎月商品数も少しずつ増えております。\n\n\nどうぞご覧いただき、皆様の「日常生活」、「思い出」、「プレゼント」などにご活用いただけますと幸いです。\n\n\nECサイトは以下のリンクから\n\n有効期間：2023年2月1日～2023年2月28日\n※学内専用割引コードをTWINS掲示「大学から学…",
+            "date_modified": "2023-01-31T03:00:00.000Z"
+        },
+        {
             "id": "89629f334364a3e37707122c005e6bb7",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3688",
             "title": "TOMORROW【LAST】 Face-to-face Japanese chat! (G-Chat Japanese)",
@@ -136,13 +143,6 @@
             "title": "【再掲】【開催案内】第5回 オンラインによるロシア・中央アジア映画上映会_2/3(金)",
             "summary": "筑波大学「日本財団 中央アジア・日本人材育成プロジェクト (NipCA)」では、中央アジアの文化とSDGsへの理解促進のため、オンラインによるロシア・中央アジア映画上映会を開催いたします。\n\n上映作品：ヨルキン・トゥイチエフ『ファリダの二千の歌』（2020年、110分） ウズベク語・ロシア語/日本語字幕付き\n\n日時：令和5年2月3日（金）19:15〜21:50\n\n19:00　Zoom開場 　※お早…",
             "date_modified": "2023-01-20T03:00:00.000Z"
-        },
-        {
-            "id": "8c59602a4e886f73aa36ab3c836e6821",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3658",
-            "title": "Application to Study Group on “Economic Interventions on Psychological Well-Being and Mental Health”",
-            "summary": "The University’s “Make a Difference in the World Fund” (MDW Fund) is seeking participants for a study group on “Economic Interventions on Psychological Well-Being and Mental Health”. The group will ex…",
-            "date_modified": "2023-01-19T03:00:00.000Z"
         }
     ]
 }
