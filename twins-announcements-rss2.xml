@@ -4,10 +4,19 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Tue, 31 Jan 2023 02:14:02 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 31 Jan 2023 08:08:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
+        <item>
+            <title><![CDATA[TOMORROW【LAST】 Face-to-face Japanese chat! (G-Chat Japanese)]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3688</link>
+            <guid>89629f334364a3e37707122c005e6bb7</guid>
+            <pubDate>Tue, 31 Jan 2023 03:00:00 GMT</pubDate>
+            <description><![CDATA[Japanese Practice Program for all levels: G-Chat Japanese
+If you are looking for an opportunity to practice Japanese, this program is for you!
+This is a face-to-face program where you can talk in Japa…]]></description>
+        </item>
         <item>
             <title><![CDATA[【重要】令和５年度以降の開設授業科目情報の提供方法について]]></title>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3687</link>
@@ -234,22 +243,6 @@ Our goal is to prov…]]></description>
             <guid>8c59602a4e886f73aa36ab3c836e6821</guid>
             <pubDate>Thu, 19 Jan 2023 03:00:00 GMT</pubDate>
             <description><![CDATA[The University’s “Make a Difference in the World Fund” (MDW Fund) is seeking participants for a study group on “Economic Interventions on Psychological Well-Being and Mental Health”. The group will ex…]]></description>
-        </item>
-        <item>
-            <title><![CDATA[【日本財団・大学生向けイベント】参加者募集中　海洋開発を深く学べる２つのイベント！]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3654</link>
-            <guid>1b826266c4cacebf98d7636d50fe4857</guid>
-            <pubDate>Wed, 18 Jan 2023 03:00:00 GMT</pubDate>
-            <description><![CDATA[日本財団オーシャンイノベーションコンソーシアムでは、海洋開発人材の育成のため、
-海洋開発に関連する講義と現場視察を組み合わせたセミナー等を実施しています。
-
-本年２月～３月にかけて、以下をテーマとする少人数制の2つのセミナーを実施します。
-①海洋開発を手掛ける企業によるプレ就活セミナー
-②浮体式洋上風車の設計・製作
-
-①【海洋開発業界セミナー：プレ就活イベント】
-
-洋上風力、海洋石油・ガス開発に興…]]></description>
         </item>
     </channel>
 </rss>
