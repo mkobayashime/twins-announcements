@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "c101177f453e69e1b34c9ad817d6d155",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3687",
+            "title": "【重要】令和５年度以降の開設授業科目情報の提供方法について",
+            "summary": "　昨今のオンライン化の浸透といった社会情勢の変化及びペーパーレス化への対応のため、これまで紙媒体（冊子）で配布していました『学群開設授業科目一覧』を廃止し、令和５年度以降は添付の方法により開設授業科目の情報を提供することとします。\n　令和５年度以降、開設授業科目一覧（冊子）の配布はありませんので注意してください。",
+            "date_modified": "2023-01-31T03:00:00.000Z"
+        },
+        {
             "id": "3bc941fdeefe0a98b699cb5b3d87aaa0",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3686",
             "title": "【お知らせ】令和５年１月24日からの大雪による災害にかかる被災状況について",
@@ -135,13 +142,6 @@
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3654",
             "title": "【日本財団・大学生向けイベント】参加者募集中　海洋開発を深く学べる２つのイベント！",
             "summary": "日本財団オーシャンイノベーションコンソーシアムでは、海洋開発人材の育成のため、\n海洋開発に関連する講義と現場視察を組み合わせたセミナー等を実施しています。\n\n本年２月～３月にかけて、以下をテーマとする少人数制の2つのセミナーを実施します。\n①海洋開発を手掛ける企業によるプレ就活セミナー\n②浮体式洋上風車の設計・製作\n\n①【海洋開発業界セミナー：プレ就活イベント】\n\n洋上風力、海洋石油・ガス開発に興…",
-            "date_modified": "2023-01-18T03:00:00.000Z"
-        },
-        {
-            "id": "8848de31452ecab9b14d498ab3c4d9a8",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3653",
-            "title": "「お金の超基本勉強会―卒業してからでは遅すぎる」開催のお知らせ",
-            "summary": "「筑波大学・世界を変えよう基金アカデミー」では、お金に関する基礎知識（所得税計算、結婚・教育・マイホーム・老後・病気への備え、投資運用等）を学ぶ「お金の超基本勉強会―卒業してからでは遅すぎる」を開催します。\n開催方式：初回は対面。第２回以降はリモートの可能性。\n開催曜日：〇水曜グループ(2/8, 15, 22, 3/1) 18:15~19:45\n〇木曜グループ(2/9, 16, 23, 3/2) …",
             "date_modified": "2023-01-18T03:00:00.000Z"
         }
     ]
