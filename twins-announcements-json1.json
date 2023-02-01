@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "d92cbfe34864a050e23efef46e6f5163",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3694",
+            "title": "[対面 2/20 15:00-] DDPIセミナー第17回「安全保障と地方自治：沖縄の選挙研究からのアプローチ」（人文社会学系棟A101）",
+            "summary": "DDPIプロジェクトでは、格差・不平等の政策的解決、そのためのデジタル技術の可能性（デジタル民主主義）などをテーマとしつつセミナー・シリーズを断続的に開催しております。\n\n今回は『安全保障と地方自治：沖縄の選挙研究からのアプローチ』と題し、関西学院大学教授の久保慶明先生をお招きして、沖縄の選挙研究をもとに安全保障と地方自治についてお話いただきます。\n\nなお、本セミナーは、感染症対策を行ったうえで対…",
+            "date_modified": "2023-02-01T03:00:00.000Z"
+        },
+        {
             "id": "8d5967ac6a713ff283244c62ef7966a9",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3693",
             "title": "【お知らせ】3A棟の常陽銀行ATMの営業終了について",
@@ -136,13 +143,6 @@
             "title": "【募集】筑波大学ホームゲーム「TSUKUBA LIVE!」の当日スタッフを募集します！",
             "summary": "2023年3月22日(水)に開催予定の筑波大学ホームゲーム「TSUKUBA LIVE!」において、会場設営や当日運営を通じて、共にホームゲームを作り上げるボランティアスタッフを募集します。\n\n大学最高峰のスポーツの試合運営に携われる機会はTSUKUBALIVE！にしかありません！\nまた、学類・学年・国籍関係なく新たな交流を得るチャンスです。\n\n試合運営ボランティアがはじめての方でもクリエイターズス…",
             "date_modified": "2023-01-25T03:00:00.000Z"
-        },
-        {
-            "id": "63f26ae8c739e99faf4d6c2b5fb0dcf8",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3664",
-            "title": "【無料トライアル実施中！】大学生活の困りごとに対するアイディアや便利ツールを自動提案するLINEチャットボット「ダボット：ダックスさんの相談室」",
-            "summary": "筑波大学人間系とヒューマンエンパワーメント推進局（BHE）では、大学生をはじめとした日常生活における様々な困りごとやお悩みに対して解決のためのアイディアや便利なツールを自動提案するLINEチャットボット「ダボット：ダックスさんの相談室」（以下、ダボット）の開発・展開に関する研究プロジェクトを推進しています。\n\nこのたび、研究プロジェクトの一環として、筑波大学の学生/教職員に限定してダボットの無償試…",
-            "date_modified": "2023-01-23T03:00:00.000Z"
         }
     ]
 }

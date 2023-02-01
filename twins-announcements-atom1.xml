@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/mkobayashime/twins-announcements</id>
     <title>在学生へのお知らせ | 筑波大学</title>
-    <updated>2023-02-01T09:10:29.802Z</updated>
+    <updated>2023-02-01T11:03:23.332Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://github.com/mkobayashime/twins-announcements"/>
     <subtitle>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</subtitle>
+    <entry>
+        <title type="html"><![CDATA[[対面 2/20 15:00-] DDPIセミナー第17回「安全保障と地方自治：沖縄の選挙研究からのアプローチ」（人文社会学系棟A101）]]></title>
+        <id>d92cbfe34864a050e23efef46e6f5163</id>
+        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3694"/>
+        <updated>2023-02-01T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[DDPIプロジェクトでは、格差・不平等の政策的解決、そのためのデジタル技術の可能性（デジタル民主主義）などをテーマとしつつセミナー・シリーズを断続的に開催しております。
+
+今回は『安全保障と地方自治：沖縄の選挙研究からのアプローチ』と題し、関西学院大学教授の久保慶明先生をお招きして、沖縄の選挙研究をもとに安全保障と地方自治についてお話いただきます。
+
+なお、本セミナーは、感染症対策を行ったうえで対…]]></summary>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【お知らせ】3A棟の常陽銀行ATMの営業終了について]]></title>
         <id>8d5967ac6a713ff283244c62ef7966a9</id>
@@ -237,14 +248,5 @@ Our goal is to prov…]]></summary>
 また、学類・学年・国籍関係なく新たな交流を得るチャンスです。
 
 試合運営ボランティアがはじめての方でもクリエイターズス…]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【無料トライアル実施中！】大学生活の困りごとに対するアイディアや便利ツールを自動提案するLINEチャットボット「ダボット：ダックスさんの相談室」]]></title>
-        <id>63f26ae8c739e99faf4d6c2b5fb0dcf8</id>
-        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3664"/>
-        <updated>2023-01-23T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[筑波大学人間系とヒューマンエンパワーメント推進局（BHE）では、大学生をはじめとした日常生活における様々な困りごとやお悩みに対して解決のためのアイディアや便利なツールを自動提案するLINEチャットボット「ダボット：ダックスさんの相談室」（以下、ダボット）の開発・展開に関する研究プロジェクトを推進しています。
-
-このたび、研究プロジェクトの一環として、筑波大学の学生/教職員に限定してダボットの無償試…]]></summary>
     </entry>
 </feed>
