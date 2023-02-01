@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "8d5967ac6a713ff283244c62ef7966a9",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3692",
+            "title": "【お知らせ】3A棟の常陽銀行ATMの営業終了について",
+            "summary": "3A棟１F（MARUZEN campus shop内）の常陽銀行ATMは、２月末をもって営業終了となり、\n３月から撤去作業を行います。\nご利用の皆様にはご迷惑をおかけしますが、\n３月以降は大学会館エリアのATMをご利用くださるようお願いいたします。",
+            "date_modified": "2023-02-01T03:00:00.000Z"
+        },
+        {
             "id": "584c0a60d0118a9ed3291cfa97b662fc",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3691",
             "title": "【開催通知】第10回「つくば市長と筑波大学学生との懇談会（市長懇）」の参加者募集について",
@@ -135,13 +142,6 @@
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3664",
             "title": "【無料トライアル実施中！】大学生活の困りごとに対するアイディアや便利ツールを自動提案するLINEチャットボット「ダボット：ダックスさんの相談室」",
             "summary": "筑波大学人間系とヒューマンエンパワーメント推進局（BHE）では、大学生をはじめとした日常生活における様々な困りごとやお悩みに対して解決のためのアイディアや便利なツールを自動提案するLINEチャットボット「ダボット：ダックスさんの相談室」（以下、ダボット）の開発・展開に関する研究プロジェクトを推進しています。\n\nこのたび、研究プロジェクトの一環として、筑波大学の学生/教職員に限定してダボットの無償試…",
-            "date_modified": "2023-01-23T03:00:00.000Z"
-        },
-        {
-            "id": "cfbe426121ed49ad44d58b27ecd6b64a",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3663",
-            "title": "【再掲】2/17セミナー「自分の興味に正直に－国際開発・ビジネスの最前線から会計士の世界へ－」",
-            "summary": "第4９回ASIP/TG+ 公開セミナー「自分の興味に正直に－国際開発・ビジネスの最前線から会計士の世界へ－」のご案内です。\n\n日時：令和5年2月17日（金）15:00～16:30\n\n講師：鳥居 健次郎　氏（EY新日本有限責任監査法人　シニア・米国公認会計士）\n\n\n会場：総合研究棟A107　&　Zoom等を使用したライブ配信\n\n内容：筑波大学第三学群国際総合学類（国際関係学主専攻）を卒業後、東京大学…",
             "date_modified": "2023-01-23T03:00:00.000Z"
         }
     ]
