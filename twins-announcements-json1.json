@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "665a279370bba9cb8beea0e9c12270bd",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3695",
+            "title": "【再掲】【開催案内】第5回 オンラインによるロシア・中央アジア映画上映会_2/3(金)",
+            "summary": "筑波大学「日本財団 中央アジア・日本人材育成プロジェクト (NipCA)」では、中央アジアの文化とSDGsへの理解促進のため、オンラインによるロシア・中央アジア映画上映会を開催いたします。\n\n上映作品：ヨルキン・トゥイチエフ『ファリダの二千の歌』（2020年、110分） ウズベク語・ロシア語/日本語字幕付き\n\n日時：令和5年2月3日（金）19:15〜21:50\n\n19:00　Zoom開場 　※お早…",
+            "date_modified": "2023-02-01T03:00:00.000Z"
+        },
+        {
             "id": "d92cbfe34864a050e23efef46e6f5163",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3694",
             "title": "[対面 2/20 15:00-] DDPIセミナー第17回「安全保障と地方自治：沖縄の選挙研究からのアプローチ」（人文社会学系棟A101）",
@@ -133,13 +140,6 @@
         {
             "id": "a6df7a160e2c9334f43aef98c36b5d10",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3671",
-            "title": "【募集】筑波大学ホームゲーム「TSUKUBA LIVE!」の当日スタッフを募集します！",
-            "summary": "2023年3月22日(水)に開催予定の筑波大学ホームゲーム「TSUKUBA LIVE!」において、会場設営や当日運営を通じて、共にホームゲームを作り上げるボランティアスタッフを募集します。\n\n大学最高峰のスポーツの試合運営に携われる機会はTSUKUBALIVE！にしかありません！\nまた、学類・学年・国籍関係なく新たな交流を得るチャンスです。\n\n試合運営ボランティアがはじめての方でもクリエイターズス…",
-            "date_modified": "2023-01-25T03:00:00.000Z"
-        },
-        {
-            "id": "a6df7a160e2c9334f43aef98c36b5d10",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3670",
             "title": "【募集】筑波大学ホームゲーム「TSUKUBA LIVE!」の当日スタッフを募集します！",
             "summary": "2023年3月22日(水)に開催予定の筑波大学ホームゲーム「TSUKUBA LIVE!」において、会場設営や当日運営を通じて、共にホームゲームを作り上げるボランティアスタッフを募集します。\n\n大学最高峰のスポーツの試合運営に携われる機会はTSUKUBALIVE！にしかありません！\nまた、学類・学年・国籍関係なく新たな交流を得るチャンスです。\n\n試合運営ボランティアがはじめての方でもクリエイターズス…",
             "date_modified": "2023-01-25T03:00:00.000Z"
