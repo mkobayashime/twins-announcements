@@ -4,7 +4,7 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Wed, 01 Feb 2023 12:10:47 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 01 Feb 2023 15:09:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
@@ -140,15 +140,6 @@ https://ssc.sec.tsukuba.ac.jp/archives/28247
 ※詳細については…]]></description>
         </item>
         <item>
-            <title><![CDATA[TSUKUBA LIVE! Recruiting staff members for the day of the event]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3683</link>
-            <guid>c293e42599d3a159511c3a9400143e15</guid>
-            <pubDate>Fri, 27 Jan 2023 03:00:00 GMT</pubDate>
-            <description><![CDATA[We are looking for volunteers to help us assist the operation of the University of Tsukuba's home game "TSUKUBA LIVE!" which is scheduled to be held on March 22, 2023 (Wednesday).
-
-Our goal is to prov…]]></description>
-        </item>
-        <item>
             <title><![CDATA[【単位認定】日本語サポーター募集！（TWINS 締切 3/17）]]></title>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3682</link>
             <guid>146a81d2d826bc123f240a2cc8681862</guid>
@@ -241,16 +232,29 @@ Our goal is to prov…]]></description>
 日時　…]]></description>
         </item>
         <item>
-            <title><![CDATA[【募集】筑波大学ホームゲーム「TSUKUBA LIVE!」の当日スタッフを募集します！]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3671</link>
-            <guid>a6df7a160e2c9334f43aef98c36b5d10</guid>
-            <pubDate>Wed, 25 Jan 2023 03:00:00 GMT</pubDate>
-            <description><![CDATA[2023年3月22日(水)に開催予定の筑波大学ホームゲーム「TSUKUBA LIVE!」において、会場設営や当日運営を通じて、共にホームゲームを作り上げるボランティアスタッフを募集します。
+            <title><![CDATA[【無料トライアル実施中！】大学生活の困りごとに対するアイディアや便利ツールを自動提案するLINEチャットボット「ダボット：ダックスさんの相談室」]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3664</link>
+            <guid>63f26ae8c739e99faf4d6c2b5fb0dcf8</guid>
+            <pubDate>Mon, 23 Jan 2023 03:00:00 GMT</pubDate>
+            <description><![CDATA[筑波大学人間系とヒューマンエンパワーメント推進局（BHE）では、大学生をはじめとした日常生活における様々な困りごとやお悩みに対して解決のためのアイディアや便利なツールを自動提案するLINEチャットボット「ダボット：ダックスさんの相談室」（以下、ダボット）の開発・展開に関する研究プロジェクトを推進しています。
 
-大学最高峰のスポーツの試合運営に携われる機会はTSUKUBALIVE！にしかありません！
-また、学類・学年・国籍関係なく新たな交流を得るチャンスです。
+このたび、研究プロジェクトの一環として、筑波大学の学生/教職員に限定してダボットの無償試…]]></description>
+        </item>
+        <item>
+            <title><![CDATA[【再掲】2/17セミナー「自分の興味に正直に－国際開発・ビジネスの最前線から会計士の世界へ－」]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3663</link>
+            <guid>cfbe426121ed49ad44d58b27ecd6b64a</guid>
+            <pubDate>Mon, 23 Jan 2023 03:00:00 GMT</pubDate>
+            <description><![CDATA[第4９回ASIP/TG+ 公開セミナー「自分の興味に正直に－国際開発・ビジネスの最前線から会計士の世界へ－」のご案内です。
 
-試合運営ボランティアがはじめての方でもクリエイターズス…]]></description>
+日時：令和5年2月17日（金）15:00～16:30
+
+講師：鳥居 健次郎　氏（EY新日本有限責任監査法人　シニア・米国公認会計士）
+
+
+会場：総合研究棟A107　&　Zoom等を使用したライブ配信
+
+内容：筑波大学第三学群国際総合学類（国際関係学主専攻）を卒業後、東京大学…]]></description>
         </item>
     </channel>
 </rss>
