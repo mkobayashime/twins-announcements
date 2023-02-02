@@ -5,6 +5,20 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "2881f42cc96acaae7045a91b6ae50993",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3697",
+            "title": "【本日LAST】対面G-Chat English (英語おしゃべりイベント)",
+            "summary": "対面G-Chat Englishです！\n少人数グループに分かれて、英語で会話をします！英語初心者も歓迎です！\n単発での参加も大歓迎です！\n対応スタッフ：本学の留学生（出身国はアメリカ、パラグアイ、台湾、インドなど）\n\n開催日：木曜日\n2023年2月2日(LAST!!)\n時　間：15:00～17:00\n会　場：スチューデント・コモンズ（第一エリア 1A棟203）\n対　象：筑波大学生\n予約不要＆出入り…",
+            "date_modified": "2023-02-02T03:00:00.000Z"
+        },
+        {
+            "id": "7f6e775433bbd52891d2bd8735582aa1",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3696",
+            "title": "【開催案内】山岳科学学位プログラム修士論文発表会（2/10　10：15～）",
+            "summary": "山岳科学学位プログラムの修士論文発表会が下記の日程で開催されます。\n\n筑波大生・教員どなたでも参加できますので興味のある方は是非ご参加ください。\n（１）日時：2023年2月10日（金）　10:15～16:50\n詳細なタイムスケジュールについては（３）のプログラムをご覧ください。\n\n（２）開催方式：ハイブリット方式（予定）\n〇オンサイト会場：筑波キャンパス　理科系C棟103号室\n　　・発表者の学生は…",
+            "date_modified": "2023-02-02T03:00:00.000Z"
+        },
+        {
             "id": "665a279370bba9cb8beea0e9c12270bd",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3695",
             "title": "【再掲】【開催案内】第5回 オンラインによるロシア・中央アジア映画上映会_2/3(金)",
@@ -129,20 +143,6 @@
             "title": "2/6（月）15:30～　ワークショップ「第六感の共有世界　パート２」─コミュニケーションにおける第六感─",
             "summary": "昨年7月に「第六感の共有世界」という新しい研究戦略領域の構想を基に筑波大学研究戦略室が主催したワークショップの第2弾を実施いたします。\nこの度は「─コミュニケーションにおける第六感─」と副題を設け、3名の研究者に話題提供をしていただきます。\n参加研究者間の相互認識を深め、新しい研究アイデア発掘のきっかけの場になれば幸いです。\n周知文やポスターをご参照のうえ、ぜひご参加ください。\n\n＜概要＞\n日時　…",
             "date_modified": "2023-01-25T03:00:00.000Z"
-        },
-        {
-            "id": "63f26ae8c739e99faf4d6c2b5fb0dcf8",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3664",
-            "title": "【無料トライアル実施中！】大学生活の困りごとに対するアイディアや便利ツールを自動提案するLINEチャットボット「ダボット：ダックスさんの相談室」",
-            "summary": "筑波大学人間系とヒューマンエンパワーメント推進局（BHE）では、大学生をはじめとした日常生活における様々な困りごとやお悩みに対して解決のためのアイディアや便利なツールを自動提案するLINEチャットボット「ダボット：ダックスさんの相談室」（以下、ダボット）の開発・展開に関する研究プロジェクトを推進しています。\n\nこのたび、研究プロジェクトの一環として、筑波大学の学生/教職員に限定してダボットの無償試…",
-            "date_modified": "2023-01-23T03:00:00.000Z"
-        },
-        {
-            "id": "cfbe426121ed49ad44d58b27ecd6b64a",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3663",
-            "title": "【再掲】2/17セミナー「自分の興味に正直に－国際開発・ビジネスの最前線から会計士の世界へ－」",
-            "summary": "第4９回ASIP/TG+ 公開セミナー「自分の興味に正直に－国際開発・ビジネスの最前線から会計士の世界へ－」のご案内です。\n\n日時：令和5年2月17日（金）15:00～16:30\n\n講師：鳥居 健次郎　氏（EY新日本有限責任監査法人　シニア・米国公認会計士）\n\n\n会場：総合研究棟A107　&　Zoom等を使用したライブ配信\n\n内容：筑波大学第三学群国際総合学類（国際関係学主専攻）を卒業後、東京大学…",
-            "date_modified": "2023-01-23T03:00:00.000Z"
         }
     ]
 }
