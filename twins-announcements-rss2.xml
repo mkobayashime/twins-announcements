@@ -4,10 +4,22 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Thu, 02 Feb 2023 03:08:28 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 02 Feb 2023 05:03:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
+        <item>
+            <title><![CDATA[【2/18】つくば多文化お茶会]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3698</link>
+            <guid>1d8c18e0f59ea7e7cfc2a4c079f80efa</guid>
+            <pubDate>Thu, 02 Feb 2023 03:00:00 GMT</pubDate>
+            <description><![CDATA[つくばに住む子育て家族のための多文化交流会です。第1回目の今回は、アフガニスタンのお茶を囲んで息抜きしながら、子育ての情報や悩みなどを交換しましょう。子どもが遊べるワークショップなども用意しています。ぜひお気軽にご参加ください。
+
+■ 日時：2023年2月18日（土）
+■ 場所：つくば市吾妻交流センター調理室（つくばセンタービル4階）
+■ 問い合わせ：
+　井出里咲子（筑波大学人文社会系・准教授）i…]]></description>
+        </item>
         <item>
             <title><![CDATA[【本日LAST】対面G-Chat English (英語おしゃべりイベント)]]></title>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3697</link>
@@ -249,19 +261,6 @@ https://ssc.sec.tsukuba.ac.jp/archives/28247
 年が明け、皆さんの中には「そろそろ就活を始めようかな」と考えている方も多いのではないでしょうか。
 就職のために、いつまでに、誰と、何を準備する？
 就職準備のために利用できる支援機関は、キャリアセンター以外に…]]></description>
-        </item>
-        <item>
-            <title><![CDATA[2/6（月）15:30～　ワークショップ「第六感の共有世界　パート２」─コミュニケーションにおける第六感─]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3673</link>
-            <guid>3c36c372d6c2b3e1c0c873df1b64db62</guid>
-            <pubDate>Wed, 25 Jan 2023 03:00:00 GMT</pubDate>
-            <description><![CDATA[昨年7月に「第六感の共有世界」という新しい研究戦略領域の構想を基に筑波大学研究戦略室が主催したワークショップの第2弾を実施いたします。
-この度は「─コミュニケーションにおける第六感─」と副題を設け、3名の研究者に話題提供をしていただきます。
-参加研究者間の相互認識を深め、新しい研究アイデア発掘のきっかけの場になれば幸いです。
-周知文やポスターをご参照のうえ、ぜひご参加ください。
-
-＜概要＞
-日時　…]]></description>
         </item>
     </channel>
 </rss>
