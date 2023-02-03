@@ -5,6 +5,20 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "b3d6a93431fb7f7bd7ad3c108029f531",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3702",
+            "title": "RECYCLING PROJECT! Collection of reusable items",
+            "summary": "The Student Support Center will organize the \"Student Common’s SDGs RECYCLING PROJECT\"!\nThis project aims to collect “unnecessary items that can still be used” and transfer them for free to new (and n…",
+            "date_modified": "2023-02-03T03:00:00.000Z"
+        },
+        {
+            "id": "ba7f5084932546da5a40957aade7592d",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3701",
+            "title": "不用品を捨てずにリユース！RECYCLING PROJECTに参加しませんか？",
+            "summary": "スチューデントサポートセンターでは、”Student Commons’s SDGs RECYCLING PROJECT”\nとして、年度が切り替わる2月から4月に、「まだ使用できる不用品」を回収し、新入生をはじめとした学生へ、無料譲渡するプロジェクトを実施します。\n捨てるにはもったいないけど、もう使わないものを、学生間でリユースしましょう！\n\n期間：2023年2月1日（水）～3月31日（金）　10：…",
+            "date_modified": "2023-02-03T03:00:00.000Z"
+        },
+        {
             "id": "9df887035c8c5ba9eb339c8d5320f8b8",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3700",
             "title": "パリ第8大学留学報告会　2/7（火）18：30～　オンライン",
@@ -129,20 +143,6 @@
             "title": "【再掲】2/17セミナー「自分の興味に正直に－国際開発・ビジネスの最前線から会計士の世界へ－」",
             "summary": "第4９回ASIP/TG+ 公開セミナー「自分の興味に正直に－国際開発・ビジネスの最前線から会計士の世界へ－」のご案内です。\n\n日時：令和5年2月17日（金）15:00～16:30\n\n講師：鳥居 健次郎　氏（EY新日本有限責任監査法人　シニア・米国公認会計士）\n\n\n会場：総合研究棟A107　&　Zoom等を使用したライブ配信\n\n内容：筑波大学第三学群国際総合学類（国際関係学主専攻）を卒業後、東京大学…",
             "date_modified": "2023-01-27T03:00:00.000Z"
-        },
-        {
-            "id": "f2cdfca747067368803655c5798aa684",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3680",
-            "title": "イベント案内：【GGG+フォーラム　誰一人取り残さない持続可能社会構築のために】 ～私たちは国境を越えて連帯できるのか？～",
-            "summary": "国際NGO団体日本リザルツより、イベントの開催について案内がありましたのでお知らせいたします。参加を希望される学生は、以下の参加登録フォームより直接お申し込みください。詳細は、添付の資料をご覧ください。\n*******イベント概要*******\n【GGG+フォーラム　誰一人取り残さない持続可能社会構築のために】\n～私たちは国境を越えて連帯できるのか？～\n日時：　2023年3月5日（日）9:00 -…",
-            "date_modified": "2023-01-26T03:00:00.000Z"
-        },
-        {
-            "id": "1fc18aeb54f6f40a748bfcb7b8ecbe24",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3678",
-            "title": "【再掲】令和4年度春季休業前の海外危機管理セミナーについて",
-            "summary": "海外危機管理セミナーを開催しますので、お知らせいたします（主催：筑波大学 国際局グローバル・コモンズ、スチューデントサポートセンター）。\n海外危機管理に関するスペシャリストをお招きし、海外渡航前の準備事項と、現地での安全対策について学びます。\nご参加に当たっては、前日までに事前登録してください。\n\n１．日　　時：　令和5年1月31日（火）18：15～19：15\n\n２．内容・講師：\n\n①「海外渡航に…",
-            "date_modified": "2023-01-26T03:00:00.000Z"
         }
     ]
 }
