@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "729fe5b675d1c3ea27e3a4e8c7f9f302",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3704",
+            "title": "【大学院生募集】2023年度 総合学域群ラーニングサポーター（数学、物理、生物）",
+            "summary": "総合学域群では、総合学域群生に対して個別の学修相談を行う大学院生（数学、物理、生物）を募集します。\n詳細は添付のポスターをご確認ください。\n\n＊給与：本学給与規則により決定(1,290円/時間(修士号を有する方は1,470円/時間))\n＊来年度、本学の大学院に進学される学群4年生の方も応募可能です。\n＊数学、物理は複数人採用予定です。\n\n募集締切は2/28（火）です。\nぜひ気軽にお問合せ・応募して…",
+            "date_modified": "2023-02-06T03:00:00.000Z"
+        },
+        {
             "id": "5ae16c8bf39a1c1d4ab95d3267cbd104",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3703",
             "title": "【注意喚起】個人情報保護の重要性について",
@@ -135,13 +142,6 @@
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3680",
             "title": "イベント案内：【GGG+フォーラム　誰一人取り残さない持続可能社会構築のために】 ～私たちは国境を越えて連帯できるのか？～",
             "summary": "国際NGO団体日本リザルツより、イベントの開催について案内がありましたのでお知らせいたします。参加を希望される学生は、以下の参加登録フォームより直接お申し込みください。詳細は、添付の資料をご覧ください。\n*******イベント概要*******\n【GGG+フォーラム　誰一人取り残さない持続可能社会構築のために】\n～私たちは国境を越えて連帯できるのか？～\n日時：　2023年3月5日（日）9:00 -…",
-            "date_modified": "2023-01-26T03:00:00.000Z"
-        },
-        {
-            "id": "1fc18aeb54f6f40a748bfcb7b8ecbe24",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3678",
-            "title": "【再掲】令和4年度春季休業前の海外危機管理セミナーについて",
-            "summary": "海外危機管理セミナーを開催しますので、お知らせいたします（主催：筑波大学 国際局グローバル・コモンズ、スチューデントサポートセンター）。\n海外危機管理に関するスペシャリストをお招きし、海外渡航前の準備事項と、現地での安全対策について学びます。\nご参加に当たっては、前日までに事前登録してください。\n\n１．日　　時：　令和5年1月31日（火）18：15～19：15\n\n２．内容・講師：\n\n①「海外渡航に…",
             "date_modified": "2023-01-26T03:00:00.000Z"
         }
     ]

@@ -4,10 +4,25 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Mon, 06 Feb 2023 02:07:40 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 06 Feb 2023 07:04:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
+        <item>
+            <title><![CDATA[【大学院生募集】2023年度 総合学域群ラーニングサポーター（数学、物理、生物）]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3704</link>
+            <guid>729fe5b675d1c3ea27e3a4e8c7f9f302</guid>
+            <pubDate>Mon, 06 Feb 2023 03:00:00 GMT</pubDate>
+            <description><![CDATA[総合学域群では、総合学域群生に対して個別の学修相談を行う大学院生（数学、物理、生物）を募集します。
+詳細は添付のポスターをご確認ください。
+
+＊給与：本学給与規則により決定(1,290円/時間(修士号を有する方は1,470円/時間))
+＊来年度、本学の大学院に進学される学群4年生の方も応募可能です。
+＊数学、物理は複数人採用予定です。
+
+募集締切は2/28（火）です。
+ぜひ気軽にお問合せ・応募して…]]></description>
+        </item>
         <item>
             <title><![CDATA[【注意喚起】個人情報保護の重要性について]]></title>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3703</link>
@@ -249,21 +264,6 @@ https://ssc.sec.tsukuba.ac.jp/archives/28247
 【GGG+フォーラム　誰一人取り残さない持続可能社会構築のために】
 ～私たちは国境を越えて連帯できるのか？～
 日時：　2023年3月5日（日）9:00 -…]]></description>
-        </item>
-        <item>
-            <title><![CDATA[【再掲】令和4年度春季休業前の海外危機管理セミナーについて]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3678</link>
-            <guid>1fc18aeb54f6f40a748bfcb7b8ecbe24</guid>
-            <pubDate>Thu, 26 Jan 2023 03:00:00 GMT</pubDate>
-            <description><![CDATA[海外危機管理セミナーを開催しますので、お知らせいたします（主催：筑波大学 国際局グローバル・コモンズ、スチューデントサポートセンター）。
-海外危機管理に関するスペシャリストをお招きし、海外渡航前の準備事項と、現地での安全対策について学びます。
-ご参加に当たっては、前日までに事前登録してください。
-
-１．日　　時：　令和5年1月31日（火）18：15～19：15
-
-２．内容・講師：
-
-①「海外渡航に…]]></description>
         </item>
     </channel>
 </rss>
