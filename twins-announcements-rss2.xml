@@ -4,10 +4,22 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Sun, 05 Feb 2023 21:08:05 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 06 Feb 2023 02:07:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
+        <item>
+            <title><![CDATA[【注意喚起】個人情報保護の重要性について]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3703</link>
+            <guid>5ae16c8bf39a1c1d4ab95d3267cbd104</guid>
+            <pubDate>Mon, 06 Feb 2023 03:00:00 GMT</pubDate>
+            <description><![CDATA[学生の皆さんへ
+
+　　　　　　　　　　　　【注意喚起】個人情報保護の重要性について
+
+　近年、個人情報の紛失・漏洩事件が多発し、社会問題化しています。学生の皆さんも、日々、学内外で個人情報に接する機会が多いと思います。しかし、個人情報の不適切な扱いによる漏洩は、多くの関係者に多大な迷惑をかけるだけでなく、本学のみならず皆さんに対する社会的信頼の失墜につながりかねません。
+　個人情報を取扱う場合は、…]]></description>
+        </item>
         <item>
             <title><![CDATA[不用品を捨てずにリユース！RECYCLING PROJECTに参加しませんか？]]></title>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3701</link>
@@ -252,19 +264,6 @@ https://ssc.sec.tsukuba.ac.jp/archives/28247
 ２．内容・講師：
 
 ①「海外渡航に…]]></description>
-        </item>
-        <item>
-            <title><![CDATA[パリ第8大学留学報告会（オンライン）2/7（火）18：30～]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3675</link>
-            <guid>ca7113500f8750a8bd3a3c306ee29688</guid>
-            <pubDate>Wed, 25 Jan 2023 03:00:00 GMT</pubDate>
-            <description><![CDATA[2022年秋学期間に留学をしていた2名の学生がパリ第八大学への留学を終え、無事に帰国しました。後に続く学生のためにオンラインにて留学報告会を開催します。また、2023年秋学期渡航分について追加公募実施についての情報提供もあります。
-フランス留学に興味のある方は、ぜひご参加ください！
-
-日時：2023年2月7日（火）18：30～19：30
-会場：Ｚoom （オンライン）
-対象：本学の学群生
-参加：事…]]></description>
         </item>
     </channel>
 </rss>

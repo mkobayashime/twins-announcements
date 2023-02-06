@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "5ae16c8bf39a1c1d4ab95d3267cbd104",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3703",
+            "title": "【注意喚起】個人情報保護の重要性について",
+            "summary": "学生の皆さんへ\n\n　　　　　　　　　　　　【注意喚起】個人情報保護の重要性について\n\n　近年、個人情報の紛失・漏洩事件が多発し、社会問題化しています。学生の皆さんも、日々、学内外で個人情報に接する機会が多いと思います。しかし、個人情報の不適切な扱いによる漏洩は、多くの関係者に多大な迷惑をかけるだけでなく、本学のみならず皆さんに対する社会的信頼の失墜につながりかねません。\n　個人情報を取扱う場合は、…",
+            "date_modified": "2023-02-06T03:00:00.000Z"
+        },
+        {
             "id": "ba7f5084932546da5a40957aade7592d",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3701",
             "title": "不用品を捨てずにリユース！RECYCLING PROJECTに参加しませんか？",
@@ -136,13 +143,6 @@
             "title": "【再掲】令和4年度春季休業前の海外危機管理セミナーについて",
             "summary": "海外危機管理セミナーを開催しますので、お知らせいたします（主催：筑波大学 国際局グローバル・コモンズ、スチューデントサポートセンター）。\n海外危機管理に関するスペシャリストをお招きし、海外渡航前の準備事項と、現地での安全対策について学びます。\nご参加に当たっては、前日までに事前登録してください。\n\n１．日　　時：　令和5年1月31日（火）18：15～19：15\n\n２．内容・講師：\n\n①「海外渡航に…",
             "date_modified": "2023-01-26T03:00:00.000Z"
-        },
-        {
-            "id": "ca7113500f8750a8bd3a3c306ee29688",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3675",
-            "title": "パリ第8大学留学報告会（オンライン）2/7（火）18：30～",
-            "summary": "2022年秋学期間に留学をしていた2名の学生がパリ第八大学への留学を終え、無事に帰国しました。後に続く学生のためにオンラインにて留学報告会を開催します。また、2023年秋学期渡航分について追加公募実施についての情報提供もあります。\nフランス留学に興味のある方は、ぜひご参加ください！\n\n日時：2023年2月7日（火）18：30～19：30\n会場：Ｚoom （オンライン）\n対象：本学の学群生\n参加：事…",
-            "date_modified": "2023-01-25T03:00:00.000Z"
         }
     ]
 }
