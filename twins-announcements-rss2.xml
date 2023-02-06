@@ -4,10 +4,25 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Mon, 06 Feb 2023 09:10:12 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 06 Feb 2023 11:03:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
+        <item>
+            <title><![CDATA[【2/19開催】オンライン・シンポジウム　日本の歴史・文化における「混血」 「ブラック・ミックス」再考]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3705</link>
+            <guid>d23709b9089608d253c652f07ff79629</guid>
+            <pubDate>Mon, 06 Feb 2023 03:00:00 GMT</pubDate>
+            <description><![CDATA[オンライン・シンポジウム　「日本の歴史・文化における「混血」「ブラック・ミックス」再考」を開催します。
+
+日時：2023年2月19日（日）10:00～12:00
+
+司会　竹谷悦子　(筑波大学　人文社会系　教授)
+
+パネリスト
+エンヒバイヤル・ノミンエルデネ/ Nomin-Erdene Enkhbayar (筑波大学　学生)
+齊藤 花ジェニファー/ Hana Jennifer Saito  (東京大…]]></description>
+        </item>
         <item>
             <title><![CDATA[【大学院生募集】2023年度 総合学域群ラーニングサポーター（数学、物理、生物）]]></title>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3704</link>
@@ -253,17 +268,6 @@ https://ssc.sec.tsukuba.ac.jp/archives/28247
 会場：総合研究棟A107　&　Zoom等を使用したライブ配信
 
 内容：筑波大学第三学群国際総合学類（国際関係学主専攻）を卒業後、東京大学…]]></description>
-        </item>
-        <item>
-            <title><![CDATA[イベント案内：【GGG+フォーラム　誰一人取り残さない持続可能社会構築のために】 ～私たちは国境を越えて連帯できるのか？～]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3680</link>
-            <guid>f2cdfca747067368803655c5798aa684</guid>
-            <pubDate>Thu, 26 Jan 2023 03:00:00 GMT</pubDate>
-            <description><![CDATA[国際NGO団体日本リザルツより、イベントの開催について案内がありましたのでお知らせいたします。参加を希望される学生は、以下の参加登録フォームより直接お申し込みください。詳細は、添付の資料をご覧ください。
-*******イベント概要*******
-【GGG+フォーラム　誰一人取り残さない持続可能社会構築のために】
-～私たちは国境を越えて連帯できるのか？～
-日時：　2023年3月5日（日）9:00 -…]]></description>
         </item>
     </channel>
 </rss>

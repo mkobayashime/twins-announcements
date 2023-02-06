@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "d23709b9089608d253c652f07ff79629",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3705",
+            "title": "【2/19開催】オンライン・シンポジウム　日本の歴史・文化における「混血」 「ブラック・ミックス」再考",
+            "summary": "オンライン・シンポジウム　「日本の歴史・文化における「混血」「ブラック・ミックス」再考」を開催します。\n\n日時：2023年2月19日（日）10:00～12:00\n\n司会　竹谷悦子　(筑波大学　人文社会系　教授)\n\nパネリスト\nエンヒバイヤル・ノミンエルデネ/ Nomin-Erdene Enkhbayar (筑波大学　学生)\n齊藤 花ジェニファー/ Hana Jennifer Saito  (東京大…",
+            "date_modified": "2023-02-06T03:00:00.000Z"
+        },
+        {
             "id": "729fe5b675d1c3ea27e3a4e8c7f9f302",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3704",
             "title": "【大学院生募集】2023年度 総合学域群ラーニングサポーター（数学、物理、生物）",
@@ -136,13 +143,6 @@
             "title": "【再掲】2/17セミナー「自分の興味に正直に－国際開発・ビジネスの最前線から会計士の世界へ－」",
             "summary": "第4９回ASIP/TG+ 公開セミナー「自分の興味に正直に－国際開発・ビジネスの最前線から会計士の世界へ－」のご案内です。\n\n日時：令和5年2月17日（金）15:00～16:30\n\n講師：鳥居 健次郎　氏（EY新日本有限責任監査法人　シニア・米国公認会計士）\n\n\n会場：総合研究棟A107　&　Zoom等を使用したライブ配信\n\n内容：筑波大学第三学群国際総合学類（国際関係学主専攻）を卒業後、東京大学…",
             "date_modified": "2023-01-27T03:00:00.000Z"
-        },
-        {
-            "id": "f2cdfca747067368803655c5798aa684",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3680",
-            "title": "イベント案内：【GGG+フォーラム　誰一人取り残さない持続可能社会構築のために】 ～私たちは国境を越えて連帯できるのか？～",
-            "summary": "国際NGO団体日本リザルツより、イベントの開催について案内がありましたのでお知らせいたします。参加を希望される学生は、以下の参加登録フォームより直接お申し込みください。詳細は、添付の資料をご覧ください。\n*******イベント概要*******\n【GGG+フォーラム　誰一人取り残さない持続可能社会構築のために】\n～私たちは国境を越えて連帯できるのか？～\n日時：　2023年3月5日（日）9:00 -…",
-            "date_modified": "2023-01-26T03:00:00.000Z"
         }
     ]
 }
