@@ -4,10 +4,23 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Wed, 08 Feb 2023 00:29:58 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 08 Feb 2023 02:15:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
+        <item>
+            <title><![CDATA[【manaba掲載のお知らせ】令和4年度春季休業前の海外危機管理セミナーについて]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3709</link>
+            <guid>f881c2499f349eab1d6aec87f9658456</guid>
+            <pubDate>Wed, 08 Feb 2023 03:00:00 GMT</pubDate>
+            <description><![CDATA[1/31(火)に開催した標記セミナーについて、セミナーの動画と関係資料をmanabaに掲載しましたので、お知らせいたします。
+コース登録方法、動画視聴方法等につきましては、添付ファイルをご確認ください。
+
+
+＜以下、参考：セミナーの概要情報＞
+海外危機管理セミナーを開催しますので、お知らせいたします（主催：筑波大学 国際局グローバル・コモンズ、スチューデントサポートセンター）。
+海外危機管理に関す…]]></description>
+        </item>
         <item>
             <title><![CDATA[TSUKUBA Lecture on Constitutional Law on Okinawa and Japanese Constitution (14 Feb.)]]></title>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3708</link>
@@ -247,19 +260,6 @@ https://ssc.sec.tsukuba.ac.jp/archives/28247
 
 今回は特に障害とジェンダーをテーマとしたワークショップを【2月20日（月）〜21日（火）】の2日間、筑波大学春日キャンパスで開催します。
 このワークショップに一緒に参加してくれる学生（学…]]></description>
-        </item>
-        <item>
-            <title><![CDATA[【New Event Info】Invitation Ticket to Performance by NHK Symphony Orchestra]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3684</link>
-            <guid>e27875457c314bbf207ca4c24196e691</guid>
-            <pubDate>Mon, 30 Jan 2023 03:00:00 GMT</pubDate>
-            <description><![CDATA[<<対象：留学生>>
-学内の留学生の方を対象に、NHK交響楽団の公演への招待チケット（無料）が用意されています。
-興味のある方は、下記URLの申込フォーム（Forms）より、必要事項に回答し各公演の申し込み締切日までに
-申し込んでください。
-※先着順のため、申込締切日より前に、受付を締め切ることがあります。
-※実際に招待チケットで講演に行ける方には、後日学生交流課より連絡します。
-※詳細については…]]></description>
         </item>
     </channel>
 </rss>
