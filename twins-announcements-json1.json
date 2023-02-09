@@ -5,6 +5,20 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "40a5290b51cf4a7d8d24e088c7a115fd",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3711",
+            "title": "Synchronization of User Information for the Renewal of the Zengaku Computer System",
+            "summary": "Synchronization of User Information for the Renewal of the Zengaku Computer System\n\n　　　　　　 　　　Academic Computing and Communications Center\n\nWith the renewal of the Zengaku Computer System, we will syn…",
+            "date_modified": "2023-02-09T03:00:00.000Z"
+        },
+        {
+            "id": "6d3e825c10925953c0c76d1423faff9b",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3710",
+            "title": "全学計算機システムの更新に伴うユーザ情報の同期作業について",
+            "summary": "　　全学計算機システムの更新に伴うユーザ情報の同期作業について\n\n　　　　　　　　　　　　　　　　　　　　　学術情報メディアセンター\n\n　全学計算機システムの更新に伴い、ユーザ情報をマイクロソフトの環境\nと同期する作業を行います。\n\n【日時】 2023/02/10(金) 21:00 〜 翌日 06:00\n【影響】 基本的にはユーザには影響はありませんが一時的に Teams など\n　　　　 で通信が…",
+            "date_modified": "2023-02-09T03:00:00.000Z"
+        },
+        {
             "id": "f881c2499f349eab1d6aec87f9658456",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3709",
             "title": "【manaba掲載のお知らせ】令和4年度春季休業前の海外危機管理セミナーについて",
@@ -129,20 +143,6 @@
             "title": "【重要】令和５年度以降の開設授業科目情報の提供方法について",
             "summary": "　昨今のオンライン化の浸透といった社会情勢の変化及びペーパーレス化への対応のため、これまで紙媒体（冊子）で配布していました『学群開設授業科目一覧』を廃止し、令和５年度以降は添付の方法により開設授業科目の情報を提供することとします。\n　令和５年度以降、開設授業科目一覧（冊子）の配布はありませんので注意してください。",
             "date_modified": "2023-01-31T03:00:00.000Z"
-        },
-        {
-            "id": "3bc941fdeefe0a98b699cb5b3d87aaa0",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3686",
-            "title": "【お知らせ】令和５年１月24日からの大雪による災害にかかる被災状況について",
-            "summary": "　表題のことにつきまして、スチューデントサポートセンターホームページにてご案内しております。\n詳細は以下のURL から確認してください。     \n\nスチューデントサポートセンターホームページ 　\nhttps://ssc.sec.tsukuba.ac.jp/archives/28247\n　\n↓　以下のリンクをクリックいただくと表題のページに遷移します。",
-            "date_modified": "2023-01-30T03:00:00.000Z"
-        },
-        {
-            "id": "c798a6902c419960c4f9afc6c940bea2",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3685",
-            "title": "【再掲】インクルーシブな大学と職場に関するワークショップのお知らせ",
-            "summary": "リシュモンジャパン株式会社（カルティエ等のブランドを運営する会社）と共同して、大学と職場におけるダイバーシティ＆インクルージョン（Diversity & Inclusion）に関するワークショップを開催します。\n\n今回は特に障害とジェンダーをテーマとしたワークショップを【2月20日（月）〜21日（火）】の2日間、筑波大学春日キャンパスで開催します。\nこのワークショップに一緒に参加してくれる学生（学…",
-            "date_modified": "2023-01-30T03:00:00.000Z"
         }
     ]
 }
