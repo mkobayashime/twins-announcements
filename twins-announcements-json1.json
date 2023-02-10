@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "2146a27f57bb7b84c1839d0d5897d300",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3717",
+            "title": "【申込み期限延長】障害学生のための就活セミナー「キャリアについて考えてみよう～ハローワーク土浦と茨城障害者職業センターをお招きして～」の開催について",
+            "summary": "筑波大学ヒューマンエンパワーメント推進局（BHE）は、\n障害学生のための就活セミナー「キャリアについて考えてみよう～ハローワーク土浦と茨城障害者職業センターをお招きして～」を開催いたします。\nこの度申込み期限を延長したため、引き続き参加者の募集を行っております！\n\n年が明け、皆さんの中には「そろそろ就活を始めようかな」と考えている方も多いのではないでしょうか。\n就職のために、いつまでに、誰と、何を…",
+            "date_modified": "2023-02-10T03:00:00.000Z"
+        },
+        {
             "id": "c5d616f0e85e87e9fc167a3bdee400aa",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3716",
             "title": "【再掲】2/17セミナー「自分の興味に正直に～国際開発・ビジネスの最前線から会計士の世界へ～」",
@@ -135,13 +142,6 @@
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3694",
             "title": "[対面 2/20 15:00-] DDPIセミナー第17回「安全保障と地方自治：沖縄の選挙研究からのアプローチ」（人文社会学系棟A101）",
             "summary": "DDPIプロジェクトでは、格差・不平等の政策的解決、そのためのデジタル技術の可能性（デジタル民主主義）などをテーマとしつつセミナー・シリーズを断続的に開催しております。\n\n今回は『安全保障と地方自治：沖縄の選挙研究からのアプローチ』と題し、関西学院大学教授の久保慶明先生をお招きして、沖縄の選挙研究をもとに安全保障と地方自治についてお話いただきます。\n\nなお、本セミナーは、感染症対策を行ったうえで対…",
-            "date_modified": "2023-02-01T03:00:00.000Z"
-        },
-        {
-            "id": "8d5967ac6a713ff283244c62ef7966a9",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3693",
-            "title": "【お知らせ】3A棟の常陽銀行ATMの営業終了について",
-            "summary": "3A棟１F（MARUZEN campus shop内）の常陽銀行ATMは、２月末をもって営業終了となり、\n３月から撤去作業を行います。\nご利用の皆様にはご迷惑をおかけしますが、\n３月以降は大学会館エリアのATMをご利用くださるようお願いいたします。",
             "date_modified": "2023-02-01T03:00:00.000Z"
         }
     ]
