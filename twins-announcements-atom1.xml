@@ -2,10 +2,26 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/mkobayashime/twins-announcements</id>
     <title>在学生へのお知らせ | 筑波大学</title>
-    <updated>2023-02-13T07:04:18.548Z</updated>
+    <updated>2023-02-13T08:09:20.356Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://github.com/mkobayashime/twins-announcements"/>
     <subtitle>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</subtitle>
+    <entry>
+        <title type="html"><![CDATA[【開催案内】2022年度 筑波大学1年生に贈るオンライン講演会_カリフォルニア大学サンディエゴ校教授 當作靖彦先生 2/21(火)]]></title>
+        <id>b76c407bb39c2da289ac678bca77af32</id>
+        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3719"/>
+        <updated>2023-02-13T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[筑波大学「日本財団 中央アジア・日本人材育成プロジェクト(NipCA)」主催  
+2022年度 筑波大学1年生に贈るオンライン講演会を、次のとおりオンライン（Zoom meeting）により開催いたします。
+
+
+講演題目：混迷と変革の社会で成功するために
+　　　　　－今、大学時代に何をするべきか－
+
+日　　時：令和5年2月21日（火）13:45〜15:00
+
+講　　師：カリフォルニア大学サンディエ…]]></summary>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2/24(金)13:30~15:00 JICA市民参加協力事業紹介セミナー 「助かる命を救いたい！～日本の大学・企業・NPOのラオスでの保健医療改善への思いと取組～」]]></title>
         <id>4ca6c86dcb54a1190e5bf660c90d911d</id>
@@ -250,16 +266,5 @@ With the renewal of the Zengaku Computer System, we will syn…]]></summary>
 会　場：スチューデント・コモンズ（第一エリア 1A棟203）
 対　象：筑波大学生
 予約不要＆出入り…]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[対面 2/20 15:00-] DDPIセミナー第17回「安全保障と地方自治：沖縄の選挙研究からのアプローチ」（人文社会学系棟A101）]]></title>
-        <id>d92cbfe34864a050e23efef46e6f5163</id>
-        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3694"/>
-        <updated>2023-02-01T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[DDPIプロジェクトでは、格差・不平等の政策的解決、そのためのデジタル技術の可能性（デジタル民主主義）などをテーマとしつつセミナー・シリーズを断続的に開催しております。
-
-今回は『安全保障と地方自治：沖縄の選挙研究からのアプローチ』と題し、関西学院大学教授の久保慶明先生をお招きして、沖縄の選挙研究をもとに安全保障と地方自治についてお話いただきます。
-
-なお、本セミナーは、感染症対策を行ったうえで対…]]></summary>
     </entry>
 </feed>

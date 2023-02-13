@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "b76c407bb39c2da289ac678bca77af32",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3719",
+            "title": "【開催案内】2022年度 筑波大学1年生に贈るオンライン講演会_カリフォルニア大学サンディエゴ校教授 當作靖彦先生 2/21(火)",
+            "summary": "筑波大学「日本財団 中央アジア・日本人材育成プロジェクト(NipCA)」主催  \n2022年度 筑波大学1年生に贈るオンライン講演会を、次のとおりオンライン（Zoom meeting）により開催いたします。\n\n\n講演題目：混迷と変革の社会で成功するために\n　　　　　－今、大学時代に何をするべきか－\n\n日　　時：令和5年2月21日（火）13:45〜15:00\n\n講　　師：カリフォルニア大学サンディエ…",
+            "date_modified": "2023-02-13T03:00:00.000Z"
+        },
+        {
             "id": "4ca6c86dcb54a1190e5bf660c90d911d",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3718",
             "title": "2/24(金)13:30~15:00 JICA市民参加協力事業紹介セミナー 「助かる命を救いたい！～日本の大学・企業・NPOのラオスでの保健医療改善への思いと取組～」",
@@ -136,13 +143,6 @@
             "title": "【本日LAST】対面G-Chat English (英語おしゃべりイベント)",
             "summary": "対面G-Chat Englishです！\n少人数グループに分かれて、英語で会話をします！英語初心者も歓迎です！\n単発での参加も大歓迎です！\n対応スタッフ：本学の留学生（出身国はアメリカ、パラグアイ、台湾、インドなど）\n\n開催日：木曜日\n2023年2月2日(LAST!!)\n時　間：15:00～17:00\n会　場：スチューデント・コモンズ（第一エリア 1A棟203）\n対　象：筑波大学生\n予約不要＆出入り…",
             "date_modified": "2023-02-02T03:00:00.000Z"
-        },
-        {
-            "id": "d92cbfe34864a050e23efef46e6f5163",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3694",
-            "title": "[対面 2/20 15:00-] DDPIセミナー第17回「安全保障と地方自治：沖縄の選挙研究からのアプローチ」（人文社会学系棟A101）",
-            "summary": "DDPIプロジェクトでは、格差・不平等の政策的解決、そのためのデジタル技術の可能性（デジタル民主主義）などをテーマとしつつセミナー・シリーズを断続的に開催しております。\n\n今回は『安全保障と地方自治：沖縄の選挙研究からのアプローチ』と題し、関西学院大学教授の久保慶明先生をお招きして、沖縄の選挙研究をもとに安全保障と地方自治についてお話いただきます。\n\nなお、本セミナーは、感染症対策を行ったうえで対…",
-            "date_modified": "2023-02-01T03:00:00.000Z"
         }
     ]
 }
