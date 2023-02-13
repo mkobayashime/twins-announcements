@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "fac5fc2b24a465f1934ec8d855b761e7",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3720",
+            "title": "チューター募集について",
+            "summary": "2023年4月に多くの留学生が入学する予定です。\nこれに伴い、チューター支援（主に生活の立ち上げ支援、必要に応じてオンライン支援も可）を必要とするケースも増加する見込みです。\n本学においては、チューターバンク制度を2020年度より運用開始しており、チューターに興味があるが、周りに留学生がおらず、チューターの依頼が見込まれない学生を対象に、チューターバンクへの登録を募集しております。\n関心のある学生…",
+            "date_modified": "2023-02-13T03:00:00.000Z"
+        },
+        {
             "id": "b76c407bb39c2da289ac678bca77af32",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3719",
             "title": "【開催案内】2022年度 筑波大学1年生に贈るオンライン講演会_カリフォルニア大学サンディエゴ校教授 當作靖彦先生 2/21(火)",
@@ -135,13 +142,6 @@
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3698",
             "title": "【2/18】つくば多文化お茶会",
             "summary": "つくばに住む子育て家族のための多文化交流会です。第1回目の今回は、アフガニスタンのお茶を囲んで息抜きしながら、子育ての情報や悩みなどを交換しましょう。子どもが遊べるワークショップなども用意しています。ぜひお気軽にご参加ください。\n\n■ 日時：2023年2月18日（土）\n■ 場所：つくば市吾妻交流センター調理室（つくばセンタービル4階）\n■ 問い合わせ：\n　井出里咲子（筑波大学人文社会系・准教授）i…",
-            "date_modified": "2023-02-02T03:00:00.000Z"
-        },
-        {
-            "id": "2881f42cc96acaae7045a91b6ae50993",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3697",
-            "title": "【本日LAST】対面G-Chat English (英語おしゃべりイベント)",
-            "summary": "対面G-Chat Englishです！\n少人数グループに分かれて、英語で会話をします！英語初心者も歓迎です！\n単発での参加も大歓迎です！\n対応スタッフ：本学の留学生（出身国はアメリカ、パラグアイ、台湾、インドなど）\n\n開催日：木曜日\n2023年2月2日(LAST!!)\n時　間：15:00～17:00\n会　場：スチューデント・コモンズ（第一エリア 1A棟203）\n対　象：筑波大学生\n予約不要＆出入り…",
             "date_modified": "2023-02-02T03:00:00.000Z"
         }
     ]

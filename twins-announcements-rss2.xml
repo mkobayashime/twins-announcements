@@ -4,10 +4,20 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Mon, 13 Feb 2023 08:09:20 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 13 Feb 2023 09:07:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
+        <item>
+            <title><![CDATA[チューター募集について]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3720</link>
+            <guid>fac5fc2b24a465f1934ec8d855b761e7</guid>
+            <pubDate>Mon, 13 Feb 2023 03:00:00 GMT</pubDate>
+            <description><![CDATA[2023年4月に多くの留学生が入学する予定です。
+これに伴い、チューター支援（主に生活の立ち上げ支援、必要に応じてオンライン支援も可）を必要とするケースも増加する見込みです。
+本学においては、チューターバンク制度を2020年度より運用開始しており、チューターに興味があるが、周りに留学生がおらず、チューターの依頼が見込まれない学生を対象に、チューターバンクへの登録を募集しております。
+関心のある学生…]]></description>
+        </item>
         <item>
             <title><![CDATA[【開催案内】2022年度 筑波大学1年生に贈るオンライン講演会_カリフォルニア大学サンディエゴ校教授 當作靖彦先生 2/21(火)]]></title>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3719</link>
@@ -251,23 +261,6 @@ With the renewal of the Zengaku Computer System, we will syn…]]></description>
 ■ 場所：つくば市吾妻交流センター調理室（つくばセンタービル4階）
 ■ 問い合わせ：
 　井出里咲子（筑波大学人文社会系・准教授）i…]]></description>
-        </item>
-        <item>
-            <title><![CDATA[【本日LAST】対面G-Chat English (英語おしゃべりイベント)]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3697</link>
-            <guid>2881f42cc96acaae7045a91b6ae50993</guid>
-            <pubDate>Thu, 02 Feb 2023 03:00:00 GMT</pubDate>
-            <description><![CDATA[対面G-Chat Englishです！
-少人数グループに分かれて、英語で会話をします！英語初心者も歓迎です！
-単発での参加も大歓迎です！
-対応スタッフ：本学の留学生（出身国はアメリカ、パラグアイ、台湾、インドなど）
-
-開催日：木曜日
-2023年2月2日(LAST!!)
-時　間：15:00～17:00
-会　場：スチューデント・コモンズ（第一エリア 1A棟203）
-対　象：筑波大学生
-予約不要＆出入り…]]></description>
         </item>
     </channel>
 </rss>

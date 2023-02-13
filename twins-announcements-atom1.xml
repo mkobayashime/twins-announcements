@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/mkobayashime/twins-announcements</id>
     <title>在学生へのお知らせ | 筑波大学</title>
-    <updated>2023-02-13T08:09:20.356Z</updated>
+    <updated>2023-02-13T09:07:32.872Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://github.com/mkobayashime/twins-announcements"/>
     <subtitle>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</subtitle>
+    <entry>
+        <title type="html"><![CDATA[チューター募集について]]></title>
+        <id>fac5fc2b24a465f1934ec8d855b761e7</id>
+        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3720"/>
+        <updated>2023-02-13T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[2023年4月に多くの留学生が入学する予定です。
+これに伴い、チューター支援（主に生活の立ち上げ支援、必要に応じてオンライン支援も可）を必要とするケースも増加する見込みです。
+本学においては、チューターバンク制度を2020年度より運用開始しており、チューターに興味があるが、周りに留学生がおらず、チューターの依頼が見込まれない学生を対象に、チューターバンクへの登録を募集しております。
+関心のある学生…]]></summary>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【開催案内】2022年度 筑波大学1年生に贈るオンライン講演会_カリフォルニア大学サンディエゴ校教授 當作靖彦先生 2/21(火)]]></title>
         <id>b76c407bb39c2da289ac678bca77af32</id>
@@ -249,22 +259,5 @@ With the renewal of the Zengaku Computer System, we will syn…]]></summary>
 ■ 場所：つくば市吾妻交流センター調理室（つくばセンタービル4階）
 ■ 問い合わせ：
 　井出里咲子（筑波大学人文社会系・准教授）i…]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【本日LAST】対面G-Chat English (英語おしゃべりイベント)]]></title>
-        <id>2881f42cc96acaae7045a91b6ae50993</id>
-        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3697"/>
-        <updated>2023-02-02T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[対面G-Chat Englishです！
-少人数グループに分かれて、英語で会話をします！英語初心者も歓迎です！
-単発での参加も大歓迎です！
-対応スタッフ：本学の留学生（出身国はアメリカ、パラグアイ、台湾、インドなど）
-
-開催日：木曜日
-2023年2月2日(LAST!!)
-時　間：15:00～17:00
-会　場：スチューデント・コモンズ（第一エリア 1A棟203）
-対　象：筑波大学生
-予約不要＆出入り…]]></summary>
     </entry>
 </feed>
