@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "2c3c66c4f117b473023cda2cabc508ee",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3722",
+            "title": "【2/28～3/10】筑波大学就職ミライ博第3弾「オンライン合同企業説明会」＆「合説 事前セミナー」",
+            "summary": "筑波大学就職ミライ博\n「オンライン合同企業説明会」開催！\n\n筑波大生のために全国の優良企業、官公庁等が集結します。\n例年多数のOBOGが参加し、企業ブースでみなさんの参加をお待ちしています。\nこの機会をお見逃しなく！\n\n【日程】　 2023年3月1日（水）～10日（金）※土日は除く\n【時間】　［1部］9：30～13：00　［2部］13：30～17：00\n【場所】　オンライン（EventIn）\n【対…",
+            "date_modified": "2023-02-14T03:00:00.000Z"
+        },
+        {
             "id": "fac5fc2b24a465f1934ec8d855b761e7",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3720",
             "title": "チューター募集について",
@@ -136,13 +143,6 @@
             "title": "【本日LAST】対面G-Chat English (英語おしゃべりイベント)",
             "summary": "対面G-Chat Englishです！\n少人数グループに分かれて、英語で会話をします！英語初心者も歓迎です！\n単発での参加も大歓迎です！\n対応スタッフ：本学の留学生（出身国はアメリカ、パラグアイ、台湾、インドなど）\n\n開催日：木曜日\n2023年2月2日(LAST!!)\n時　間：15:00～17:00\n会　場：スチューデント・コモンズ（第一エリア 1A棟203）\n対　象：筑波大学生\n予約不要＆出入り…",
             "date_modified": "2023-02-02T03:00:00.000Z"
-        },
-        {
-            "id": "d92cbfe34864a050e23efef46e6f5163",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3694",
-            "title": "[対面 2/20 15:00-] DDPIセミナー第17回「安全保障と地方自治：沖縄の選挙研究からのアプローチ」（人文社会学系棟A101）",
-            "summary": "DDPIプロジェクトでは、格差・不平等の政策的解決、そのためのデジタル技術の可能性（デジタル民主主義）などをテーマとしつつセミナー・シリーズを断続的に開催しております。\n\n今回は『安全保障と地方自治：沖縄の選挙研究からのアプローチ』と題し、関西学院大学教授の久保慶明先生をお招きして、沖縄の選挙研究をもとに安全保障と地方自治についてお話いただきます。\n\nなお、本セミナーは、感染症対策を行ったうえで対…",
-            "date_modified": "2023-02-01T03:00:00.000Z"
         }
     ]
 }
