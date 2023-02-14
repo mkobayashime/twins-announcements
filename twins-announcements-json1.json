@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "fbf0ae6d8e381cbd09df6412b6c2ed9b",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3723",
+            "title": "【お知らせ】住民票の異動及び投票方法に関する周知啓発等について",
+            "summary": "　標記のことについて、文部科学省から周知依頼がありました。\n\n　進学、就職等及び宿舎から民間アパートへの住み替えに伴う引っ越しにより、住所を移転した場合には、自治体に正確な住民票異動の届出を行う必要があります。また、現実に居住される住所地で選挙等投票するためにも必要な手続きとなります。\n\n　なお、住民票を移して３か月未満の国政選挙においては、不在者投票制度を利用して、旧住所地での投票が可能です。\n…",
+            "date_modified": "2023-02-14T03:00:00.000Z"
+        },
+        {
             "id": "2c3c66c4f117b473023cda2cabc508ee",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3722",
             "title": "【2/28～3/10】筑波大学就職ミライ博第3弾「オンライン合同企業説明会」＆「合説 事前セミナー」",
@@ -135,13 +142,6 @@
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3698",
             "title": "【2/18】つくば多文化お茶会",
             "summary": "つくばに住む子育て家族のための多文化交流会です。第1回目の今回は、アフガニスタンのお茶を囲んで息抜きしながら、子育ての情報や悩みなどを交換しましょう。子どもが遊べるワークショップなども用意しています。ぜひお気軽にご参加ください。\n\n■ 日時：2023年2月18日（土）\n■ 場所：つくば市吾妻交流センター調理室（つくばセンタービル4階）\n■ 問い合わせ：\n　井出里咲子（筑波大学人文社会系・准教授）i…",
-            "date_modified": "2023-02-02T03:00:00.000Z"
-        },
-        {
-            "id": "2881f42cc96acaae7045a91b6ae50993",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3697",
-            "title": "【本日LAST】対面G-Chat English (英語おしゃべりイベント)",
-            "summary": "対面G-Chat Englishです！\n少人数グループに分かれて、英語で会話をします！英語初心者も歓迎です！\n単発での参加も大歓迎です！\n対応スタッフ：本学の留学生（出身国はアメリカ、パラグアイ、台湾、インドなど）\n\n開催日：木曜日\n2023年2月2日(LAST!!)\n時　間：15:00～17:00\n会　場：スチューデント・コモンズ（第一エリア 1A棟203）\n対　象：筑波大学生\n予約不要＆出入り…",
             "date_modified": "2023-02-02T03:00:00.000Z"
         }
     ]

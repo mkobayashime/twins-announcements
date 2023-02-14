@@ -4,10 +4,22 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Tue, 14 Feb 2023 02:16:21 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 14 Feb 2023 07:04:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
+        <item>
+            <title><![CDATA[【お知らせ】住民票の異動及び投票方法に関する周知啓発等について]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3723</link>
+            <guid>fbf0ae6d8e381cbd09df6412b6c2ed9b</guid>
+            <pubDate>Tue, 14 Feb 2023 03:00:00 GMT</pubDate>
+            <description><![CDATA[　標記のことについて、文部科学省から周知依頼がありました。
+
+　進学、就職等及び宿舎から民間アパートへの住み替えに伴う引っ越しにより、住所を移転した場合には、自治体に正確な住民票異動の届出を行う必要があります。また、現実に居住される住所地で選挙等投票するためにも必要な手続きとなります。
+
+　なお、住民票を移して３か月未満の国政選挙においては、不在者投票制度を利用して、旧住所地での投票が可能です。
+…]]></description>
+        </item>
         <item>
             <title><![CDATA[【2/28～3/10】筑波大学就職ミライ博第3弾「オンライン合同企業説明会」＆「合説 事前セミナー」]]></title>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3722</link>
@@ -251,23 +263,6 @@
 ■ 場所：つくば市吾妻交流センター調理室（つくばセンタービル4階）
 ■ 問い合わせ：
 　井出里咲子（筑波大学人文社会系・准教授）i…]]></description>
-        </item>
-        <item>
-            <title><![CDATA[【本日LAST】対面G-Chat English (英語おしゃべりイベント)]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3697</link>
-            <guid>2881f42cc96acaae7045a91b6ae50993</guid>
-            <pubDate>Thu, 02 Feb 2023 03:00:00 GMT</pubDate>
-            <description><![CDATA[対面G-Chat Englishです！
-少人数グループに分かれて、英語で会話をします！英語初心者も歓迎です！
-単発での参加も大歓迎です！
-対応スタッフ：本学の留学生（出身国はアメリカ、パラグアイ、台湾、インドなど）
-
-開催日：木曜日
-2023年2月2日(LAST!!)
-時　間：15:00～17:00
-会　場：スチューデント・コモンズ（第一エリア 1A棟203）
-対　象：筑波大学生
-予約不要＆出入り…]]></description>
         </item>
     </channel>
 </rss>
