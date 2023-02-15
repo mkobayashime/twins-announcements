@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "6e038831f037a85206702ce9e2dfcfcd",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3727",
+            "title": "*ハイブリッド開催*[2/20 15:00-] DDPIセミナー第17回「安全保障と地方自治：沖縄の選挙研究からのアプローチ」（人社棟A101）",
+            "summary": "＜リマインド ハイブリッド方式へ変更＞\n先日お知らせいたしました第17回 DDPIセミナーは、ハイブリッド配信させていただくことになりました。\n対面・オンラインでの参加が可能となります。参加登録の際に、参加方法をご選択ください。\n\n今回は『安全保障と地方自治：沖縄の選挙研究からのアプローチ』と題し、関西学院大学教授の久保慶明先生をお招きして、沖縄の選挙研究をもとに安全保障と地方自治についてお話いた…",
+            "date_modified": "2023-02-15T03:00:00.000Z"
+        },
+        {
             "id": "fbf0ae6d8e381cbd09df6412b6c2ed9b",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3723",
             "title": "【お知らせ】住民票の異動及び投票方法に関する周知啓発等について",
@@ -136,13 +143,6 @@
             "title": "【再掲】2/17セミナー「自分の興味に正直に－国際開発・ビジネスの最前線から会計士の世界へ－」",
             "summary": "第4９回ASIP/TG+ 公開セミナー「自分の興味に正直に－国際開発・ビジネスの最前線から会計士の世界へ－」のご案内です。\n\n日時：令和5年2月17日（金）15:00～16:30\n\n講師：鳥居 健次郎　氏（EY新日本有限責任監査法人　シニア・米国公認会計士）\n\n\n会場：総合研究棟A107　&　Zoom等を使用したライブ配信\n\n内容：筑波大学第三学群国際総合学類（国際関係学主専攻）を卒業後、東京大学…",
             "date_modified": "2023-02-03T03:00:00.000Z"
-        },
-        {
-            "id": "1d8c18e0f59ea7e7cfc2a4c079f80efa",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3698",
-            "title": "【2/18】つくば多文化お茶会",
-            "summary": "つくばに住む子育て家族のための多文化交流会です。第1回目の今回は、アフガニスタンのお茶を囲んで息抜きしながら、子育ての情報や悩みなどを交換しましょう。子どもが遊べるワークショップなども用意しています。ぜひお気軽にご参加ください。\n\n■ 日時：2023年2月18日（土）\n■ 場所：つくば市吾妻交流センター調理室（つくばセンタービル4階）\n■ 問い合わせ：\n　井出里咲子（筑波大学人文社会系・准教授）i…",
-            "date_modified": "2023-02-02T03:00:00.000Z"
         }
     ]
 }

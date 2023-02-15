@@ -4,10 +4,21 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Tue, 14 Feb 2023 21:08:52 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 Feb 2023 05:04:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
+        <item>
+            <title><![CDATA[*ハイブリッド開催*[2/20 15:00-] DDPIセミナー第17回「安全保障と地方自治：沖縄の選挙研究からのアプローチ」（人社棟A101）]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3727</link>
+            <guid>6e038831f037a85206702ce9e2dfcfcd</guid>
+            <pubDate>Wed, 15 Feb 2023 03:00:00 GMT</pubDate>
+            <description><![CDATA[＜リマインド ハイブリッド方式へ変更＞
+先日お知らせいたしました第17回 DDPIセミナーは、ハイブリッド配信させていただくことになりました。
+対面・オンラインでの参加が可能となります。参加登録の際に、参加方法をご選択ください。
+
+今回は『安全保障と地方自治：沖縄の選挙研究からのアプローチ』と題し、関西学院大学教授の久保慶明先生をお招きして、沖縄の選挙研究をもとに安全保障と地方自治についてお話いた…]]></description>
+        </item>
         <item>
             <title><![CDATA[【お知らせ】住民票の異動及び投票方法に関する周知啓発等について]]></title>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3723</link>
@@ -251,18 +262,6 @@
 会場：総合研究棟A107　&　Zoom等を使用したライブ配信
 
 内容：筑波大学第三学群国際総合学類（国際関係学主専攻）を卒業後、東京大学…]]></description>
-        </item>
-        <item>
-            <title><![CDATA[【2/18】つくば多文化お茶会]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3698</link>
-            <guid>1d8c18e0f59ea7e7cfc2a4c079f80efa</guid>
-            <pubDate>Thu, 02 Feb 2023 03:00:00 GMT</pubDate>
-            <description><![CDATA[つくばに住む子育て家族のための多文化交流会です。第1回目の今回は、アフガニスタンのお茶を囲んで息抜きしながら、子育ての情報や悩みなどを交換しましょう。子どもが遊べるワークショップなども用意しています。ぜひお気軽にご参加ください。
-
-■ 日時：2023年2月18日（土）
-■ 場所：つくば市吾妻交流センター調理室（つくばセンタービル4階）
-■ 問い合わせ：
-　井出里咲子（筑波大学人文社会系・准教授）i…]]></description>
         </item>
     </channel>
 </rss>
