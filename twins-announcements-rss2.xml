@@ -4,10 +4,19 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Thu, 16 Feb 2023 09:09:59 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 16 Feb 2023 10:06:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
+        <item>
+            <title><![CDATA[[募集] 研究・実験補助業務スタッフ （対象：博士課程への進学希望・興味がある学群生）]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3732</link>
+            <guid>d84df776c5060fcc74efbb5725322609</guid>
+            <pubDate>Thu, 16 Feb 2023 03:00:00 GMT</pubDate>
+            <description><![CDATA[ヒューマニクス学位プログラムでは、博士課程への進学を希望・興味がある学群生を対象に、研究・実験補助業務スタッフを募集しております。（4月開始予定）
+
+応募希望の学生は、当プログラム ホームページの「学類生支援制度募集／Early Exposer Program (EEP)」をご確認の上、Humanics Early Exposure Program 申請書を2月28日（火）17:00までにグローバ…]]></description>
+        </item>
         <item>
             <title><![CDATA[【3/8開催】博士の生存戦略　～研究＋αを活かしたキャリア構築～のご案内]]></title>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3731</link>
@@ -260,18 +269,6 @@ https://www.tulips.tsukuba.ac.jp/lib/ja/support/guidance…]]></description>
 
 募集締切は2/28（火）です。
 ぜひ気軽にお問合せ・応募して…]]></description>
-        </item>
-        <item>
-            <title><![CDATA[【注意喚起】個人情報保護の重要性について]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3703</link>
-            <guid>5ae16c8bf39a1c1d4ab95d3267cbd104</guid>
-            <pubDate>Mon, 06 Feb 2023 03:00:00 GMT</pubDate>
-            <description><![CDATA[学生の皆さんへ
-
-　　　　　　　　　　　　【注意喚起】個人情報保護の重要性について
-
-　近年、個人情報の紛失・漏洩事件が多発し、社会問題化しています。学生の皆さんも、日々、学内外で個人情報に接する機会が多いと思います。しかし、個人情報の不適切な扱いによる漏洩は、多くの関係者に多大な迷惑をかけるだけでなく、本学のみならず皆さんに対する社会的信頼の失墜につながりかねません。
-　個人情報を取扱う場合は、…]]></description>
         </item>
     </channel>
 </rss>

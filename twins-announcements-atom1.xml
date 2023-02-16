@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/mkobayashime/twins-announcements</id>
     <title>在学生へのお知らせ | 筑波大学</title>
-    <updated>2023-02-16T09:09:59.402Z</updated>
+    <updated>2023-02-16T10:06:09.397Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://github.com/mkobayashime/twins-announcements"/>
     <subtitle>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</subtitle>
+    <entry>
+        <title type="html"><![CDATA[[募集] 研究・実験補助業務スタッフ （対象：博士課程への進学希望・興味がある学群生）]]></title>
+        <id>d84df776c5060fcc74efbb5725322609</id>
+        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3732"/>
+        <updated>2023-02-16T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[ヒューマニクス学位プログラムでは、博士課程への進学を希望・興味がある学群生を対象に、研究・実験補助業務スタッフを募集しております。（4月開始予定）
+
+応募希望の学生は、当プログラム ホームページの「学類生支援制度募集／Early Exposer Program (EEP)」をご確認の上、Humanics Early Exposure Program 申請書を2月28日（火）17:00までにグローバ…]]></summary>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【3/8開催】博士の生存戦略　～研究＋αを活かしたキャリア構築～のご案内]]></title>
         <id>93c926f746c67ef21328482deaf00939</id>
@@ -258,17 +267,5 @@ https://www.tulips.tsukuba.ac.jp/lib/ja/support/guidance…]]></summary>
 
 募集締切は2/28（火）です。
 ぜひ気軽にお問合せ・応募して…]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【注意喚起】個人情報保護の重要性について]]></title>
-        <id>5ae16c8bf39a1c1d4ab95d3267cbd104</id>
-        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3703"/>
-        <updated>2023-02-06T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[学生の皆さんへ
-
-　　　　　　　　　　　　【注意喚起】個人情報保護の重要性について
-
-　近年、個人情報の紛失・漏洩事件が多発し、社会問題化しています。学生の皆さんも、日々、学内外で個人情報に接する機会が多いと思います。しかし、個人情報の不適切な扱いによる漏洩は、多くの関係者に多大な迷惑をかけるだけでなく、本学のみならず皆さんに対する社会的信頼の失墜につながりかねません。
-　個人情報を取扱う場合は、…]]></summary>
     </entry>
 </feed>
