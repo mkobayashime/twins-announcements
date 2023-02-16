@@ -4,10 +4,23 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Thu, 16 Feb 2023 02:15:11 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 16 Feb 2023 09:05:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
+        <item>
+            <title><![CDATA[【3/8開催】博士の生存戦略　～研究＋αを活かしたキャリア構築～のご案内]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3731</link>
+            <guid>93c926f746c67ef21328482deaf00939</guid>
+            <pubDate>Thu, 16 Feb 2023 03:00:00 GMT</pubDate>
+            <description><![CDATA[キャリア支援チーム主催、株式会社アカリクが共催の博士後期学生向けイベントをご案内します！
+本イベントは、博士人材として登っていた梯子が急に外された場合でも挫折せず、強かに生きていく
+ことができる術をその実体験者からレクチャーいただきます。
+慶応義塾大学大学院で博士号を取得してワーキングプアを体験された「流しのEM」こと
+久松　剛氏をお招きして
+・ワーキングプアに至った経緯
+・研究力を活かして次のキ…]]></description>
+        </item>
         <item>
             <title><![CDATA[【周知】平塚線ガス工事のお知らせ]]></title>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3730</link>
@@ -259,17 +272,6 @@ https://www.tulips.tsukuba.ac.jp/lib/ja/support/guidance…]]></description>
 
 　近年、個人情報の紛失・漏洩事件が多発し、社会問題化しています。学生の皆さんも、日々、学内外で個人情報に接する機会が多いと思います。しかし、個人情報の不適切な扱いによる漏洩は、多くの関係者に多大な迷惑をかけるだけでなく、本学のみならず皆さんに対する社会的信頼の失墜につながりかねません。
 　個人情報を取扱う場合は、…]]></description>
-        </item>
-        <item>
-            <title><![CDATA[不用品を捨てずにリユース！RECYCLING PROJECTに参加しませんか？]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3701</link>
-            <guid>ba7f5084932546da5a40957aade7592d</guid>
-            <pubDate>Fri, 03 Feb 2023 03:00:00 GMT</pubDate>
-            <description><![CDATA[スチューデントサポートセンターでは、”Student Commons’s SDGs RECYCLING PROJECT”
-として、年度が切り替わる2月から4月に、「まだ使用できる不用品」を回収し、新入生をはじめとした学生へ、無料譲渡するプロジェクトを実施します。
-捨てるにはもったいないけど、もう使わないものを、学生間でリユースしましょう！
-
-期間：2023年2月1日（水）～3月31日（金）　10：…]]></description>
         </item>
     </channel>
 </rss>
