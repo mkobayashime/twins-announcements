@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "17507fbc6215e4ddff138413c1dd9934",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3733",
+            "title": "【Warning】Importance of Personal Information Protection",
+            "summary": "Students have frequent contact with personal information on and off campus on a daily basis. However, leakage due to improper handling of personal information will not only cause great inconvenience t…",
+            "date_modified": "2023-02-17T03:00:00.000Z"
+        },
+        {
             "id": "d84df776c5060fcc74efbb5725322609",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3732",
             "title": "[募集] 研究・実験補助業務スタッフ （対象：博士課程への進学希望・興味がある学群生）",
@@ -135,13 +142,6 @@
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3705",
             "title": "【2/19開催】オンライン・シンポジウム　日本の歴史・文化における「混血」 「ブラック・ミックス」再考",
             "summary": "オンライン・シンポジウム　「日本の歴史・文化における「混血」「ブラック・ミックス」再考」を開催します。\n\n日時：2023年2月19日（日）10:00～12:00\n\n司会　竹谷悦子　(筑波大学　人文社会系　教授)\n\nパネリスト\nエンヒバイヤル・ノミンエルデネ/ Nomin-Erdene Enkhbayar (筑波大学　学生)\n齊藤 花ジェニファー/ Hana Jennifer Saito  (東京大…",
-            "date_modified": "2023-02-06T03:00:00.000Z"
-        },
-        {
-            "id": "729fe5b675d1c3ea27e3a4e8c7f9f302",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3704",
-            "title": "【大学院生募集】2023年度 総合学域群ラーニングサポーター（数学、物理、生物）",
-            "summary": "総合学域群では、総合学域群生に対して個別の学修相談を行う大学院生（数学、物理、生物）を募集します。\n詳細は添付のポスターをご確認ください。\n\n＊給与：本学給与規則により決定(1,290円/時間(修士号を有する方は1,470円/時間))\n＊来年度、本学の大学院に進学される学群4年生の方も応募可能です。\n＊数学、物理は複数人採用予定です。\n\n募集締切は2/28（火）です。\nぜひ気軽にお問合せ・応募して…",
             "date_modified": "2023-02-06T03:00:00.000Z"
         }
     ]
