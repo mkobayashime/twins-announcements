@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "c81f65c1319984655d09093d2cae704c",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3734",
+            "title": "City Chat Cafe (オンライン英会話イベント)2/19",
+            "summary": "オンラインCity Chat Cafeで気軽に英語を練習しよう！\n様々な文化背景を持つ人々が出合い、おしゃべりを楽しむ国際交流イベントです。\n筑波大学の留学生と自己紹介や母国の紹介など自由な話題で気軽に英語や日本で会話を楽しめます。\n学外の参加者と交流できるチャンスです。是非参加お待ちします!\n\n日時：\n2月19日（日）\n前半13:30-14:30\n後半14:45-15:45\nトピック：Valen…",
+            "date_modified": "2023-02-17T03:00:00.000Z"
+        },
+        {
             "id": "17507fbc6215e4ddff138413c1dd9934",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3733",
             "title": "【Warning】Importance of Personal Information Protection",
@@ -136,13 +143,6 @@
             "title": "【manaba掲載のお知らせ】令和4年度春季休業前の海外危機管理セミナーについて",
             "summary": "1/31(火)に開催した標記セミナーについて、セミナーの動画と関係資料をmanabaに掲載しましたので、お知らせいたします。\nコース登録方法、動画視聴方法等につきましては、添付ファイルをご確認ください。\n\n\n＜以下、参考：セミナーの概要情報＞\n海外危機管理セミナーを開催しますので、お知らせいたします（主催：筑波大学 国際局グローバル・コモンズ、スチューデントサポートセンター）。\n海外危機管理に関す…",
             "date_modified": "2023-02-08T03:00:00.000Z"
-        },
-        {
-            "id": "d23709b9089608d253c652f07ff79629",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3705",
-            "title": "【2/19開催】オンライン・シンポジウム　日本の歴史・文化における「混血」 「ブラック・ミックス」再考",
-            "summary": "オンライン・シンポジウム　「日本の歴史・文化における「混血」「ブラック・ミックス」再考」を開催します。\n\n日時：2023年2月19日（日）10:00～12:00\n\n司会　竹谷悦子　(筑波大学　人文社会系　教授)\n\nパネリスト\nエンヒバイヤル・ノミンエルデネ/ Nomin-Erdene Enkhbayar (筑波大学　学生)\n齊藤 花ジェニファー/ Hana Jennifer Saito  (東京大…",
-            "date_modified": "2023-02-06T03:00:00.000Z"
         }
     ]
 }
