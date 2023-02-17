@@ -5,6 +5,20 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "84cbda8c79ae34489eebd9041cb54c2a",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3736",
+            "title": "[Notice] Request for Submission of Pledge (Graduation, etc.) for Security Export Control",
+            "summary": "To students scheduled to complete graduate school in AY2022 (including withdrawals, etc.)\n\nTo prevent the leakage of sensitive technology related to security, graduate students are required to submit …",
+            "date_modified": "2023-02-17T03:00:00.000Z"
+        },
+        {
+            "id": "067350a1e1b98393c87ff190afbe3d3e",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3735",
+            "title": "【お知らせ】安全保障輸出管理のための誓約書(修了時等)提出のお願い",
+            "summary": "2022年度大学院修了予定者（退学等を含む）の皆様へ\n\n安全保障に関連する機微技術流出の防止のために、大学院生は大学院修了時に「外国為替及び外国貿易法」を遵守する誓約書をmanabaから提出していただくことになっています。ご協力をよろしくお願いいたします\n\n【manabaコース名／コースコード】誓約書（修了時）／22170\n【参考】manabaの登録について（チラシ）\n\n【担当】利益相反・輸出管理…",
+            "date_modified": "2023-02-17T03:00:00.000Z"
+        },
+        {
             "id": "c81f65c1319984655d09093d2cae704c",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3734",
             "title": "City Chat Cafe (オンライン英会話イベント)2/19",
@@ -129,20 +143,6 @@
             "title": "【見逃し配信】令和4年度全学防災訓練「障害学生等支援防災ワーク」（全学リスクマネジメントセミナー）",
             "summary": "　令和4年11月18日（金）に開催しました、令和4年度全学防災訓練「障害学生等支援防災ワーク」（全学リスクマネジメントセミナー）の見逃し配信を行いますので、ご案内申し上げます。\n\n見逃し配信は、安定したインターネットに接続できる端末をご用意いただければ、下記の視聴期間中いつでもどこでも自由に視聴することができます。申込後に見逃し配信への接続方法がメールで自動的に通知されます。\n\n　つきましては、見…",
             "date_modified": "2023-02-09T03:00:00.000Z"
-        },
-        {
-            "id": "d9bc9874c89b7be9eefbfe49d621cc87",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3712",
-            "title": "2/27（16時45分～）講演会「近現代日本における職業とジェンダー」（学生・教員対象）",
-            "summary": "学生の皆様、教職員の皆様\n\n  このたび社会・国際学群チュートリアルプログラムでは、公開講演会を開催いたします。講師は、名古屋大学ジェンダー・リサーチ・ライブラリ・研究員　目黒茜氏で、『近現代日本における職業とジェンダー』というタイトルで講演を行っていただきます。皆様に是非ご参加いただきたく、以下のとおり、ご案内申し上げます。\n\n〇日時：令和５年２月２７日（月）１６時４５分～１８時００分\n\n〇開催…",
-            "date_modified": "2023-02-09T03:00:00.000Z"
-        },
-        {
-            "id": "f881c2499f349eab1d6aec87f9658456",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3709",
-            "title": "【manaba掲載のお知らせ】令和4年度春季休業前の海外危機管理セミナーについて",
-            "summary": "1/31(火)に開催した標記セミナーについて、セミナーの動画と関係資料をmanabaに掲載しましたので、お知らせいたします。\nコース登録方法、動画視聴方法等につきましては、添付ファイルをご確認ください。\n\n\n＜以下、参考：セミナーの概要情報＞\n海外危機管理セミナーを開催しますので、お知らせいたします（主催：筑波大学 国際局グローバル・コモンズ、スチューデントサポートセンター）。\n海外危機管理に関す…",
-            "date_modified": "2023-02-08T03:00:00.000Z"
         }
     ]
 }
