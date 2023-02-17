@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "68f863aa4662b0e8a21eb89bcfcd3685",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3737",
+            "title": "【2/27開催】企業が見ていることとは？『最終面接準備講座』",
+            "summary": "学群3年生、修士1年生(博士後期学生も参加歓迎)の皆さんへ\n第一志望企業の企業への準備は進んでいますか？\n(株)リクルート　リクナビ副編集長を講師による『最終面接準備講座』を開催します。\n60分でギュッと最終面接の大事なポイントをお伝えします。\n最終面接と他の面接の違いや最終面接の質問例、逆質問で何を聞くか？などの具体的な\n準備についてリクナビ副編集長だからこそお伝えできる内容も盛り込んでいます。…",
+            "date_modified": "2023-02-17T03:00:00.000Z"
+        },
+        {
             "id": "84cbda8c79ae34489eebd9041cb54c2a",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3736",
             "title": "[Notice] Request for Submission of Pledge (Graduation, etc.) for Security Export Control",
@@ -135,13 +142,6 @@
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3714",
             "title": "【Undergraduate Students】Method of Providing Information on Courses Offered in or after AY2023",
             "summary": "To react to the recent change in the social situation such as the penetration of digitalization, and to promote paper reduction, we will abolish the paper medium Course Catalogue booklet, and we will …",
-            "date_modified": "2023-02-09T03:00:00.000Z"
-        },
-        {
-            "id": "1e2119c9a79707d1b310e09cda05127c",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3713",
-            "title": "【見逃し配信】令和4年度全学防災訓練「障害学生等支援防災ワーク」（全学リスクマネジメントセミナー）",
-            "summary": "　令和4年11月18日（金）に開催しました、令和4年度全学防災訓練「障害学生等支援防災ワーク」（全学リスクマネジメントセミナー）の見逃し配信を行いますので、ご案内申し上げます。\n\n見逃し配信は、安定したインターネットに接続できる端末をご用意いただければ、下記の視聴期間中いつでもどこでも自由に視聴することができます。申込後に見逃し配信への接続方法がメールで自動的に通知されます。\n\n　つきましては、見…",
             "date_modified": "2023-02-09T03:00:00.000Z"
         }
     ]
