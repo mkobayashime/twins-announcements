@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/mkobayashime/twins-announcements</id>
     <title>在学生へのお知らせ | 筑波大学</title>
-    <updated>2023-02-20T03:14:07.861Z</updated>
+    <updated>2023-02-20T05:04:43.553Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://github.com/mkobayashime/twins-announcements"/>
     <subtitle>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</subtitle>
+    <entry>
+        <title type="html"><![CDATA[【BHE】キャリア支援チームHP及び就職情報提供システム停止のお知らせ［2/24(金)9:00-12:15］]]></title>
+        <id>6e1be877cb9bb9ee1e3ba5b8d664235c</id>
+        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3740"/>
+        <updated>2023-02-20T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[サーバー更新作業に伴い、下記の時間、キャリア支援チームホームページ等へ繋がりにくくなります。
+【サーバー更新作業日時】2/24（金）9：00　～　2/24（金）12：15（予定）
+
+なお、サーバー更新作業中は、「学内専用ページ」、「ガイダンス等及び模試試験登録・申請」、「進路進捗状況届」へのアクセスはできません。
+皆様にはご迷惑をおかけいたしますが、ご理解、ご協力の程よろしくお願いいたします。]]></summary>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【開催案内3/13】カーボンニュートラル社会の実現に向けた筑波大学の挑戦─DESIGN THE FUTURE機構設立記念シンポジウム]]></title>
         <id>7ae3044eeee900d562dce3d38408e65b</id>
@@ -243,21 +254,5 @@ https://www.tulips.tsukuba.ac.jp/lib/ja/support/guidance…]]></summary>
 
 年が明け、皆さんの中には「そろそろ就活を始めようかな」と考えている方も多いのではないでしょうか。
 就職のために、いつまでに、誰と、何を…]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【開催案内（3/8）】「ICTを活用した授業デザイン～アクティブラーニング・反転授業を事例として～」（全学FD研修会）]]></title>
-        <id>afbc0594180e5fda50a4f643256d4454</id>
-        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3715"/>
-        <updated>2023-02-09T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[この度、筑波大学では掲題の全学FD研修会（セミナー）を開催することになりました。
-
-今回は、ICTを活用した授業デザインをテーマに、
-京都大学大学院 教育学研究科 准教授の田口真奈先生をお招きして開催します。
-
-主対象は教職員ですが、学生の参加も可能としていますので、ICT活用や教育にご関心のある方は是非ご参加ください。
-
-【開催概要】
-・日時：3月8日（水）15:30-17:30
-・場所：オンラ…]]></summary>
     </entry>
 </feed>
