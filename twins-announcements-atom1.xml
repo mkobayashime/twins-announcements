@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/mkobayashime/twins-announcements</id>
     <title>在学生へのお知らせ | 筑波大学</title>
-    <updated>2023-02-20T09:10:39.122Z</updated>
+    <updated>2023-02-20T15:10:07.390Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://github.com/mkobayashime/twins-announcements"/>
     <subtitle>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</subtitle>
@@ -166,17 +166,6 @@ To prevent the leakage of sensitive technology related to security, graduate stu
 https://www.tulips.tsukuba.ac.jp/lib/ja/support/guidance…]]></summary>
     </entry>
     <entry>
-        <title type="html"><![CDATA[*ハイブリッド開催*[2/20 15:00-] DDPIセミナー第17回「安全保障と地方自治：沖縄の選挙研究からのアプローチ」（人社棟A101）]]></title>
-        <id>6e038831f037a85206702ce9e2dfcfcd</id>
-        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3727"/>
-        <updated>2023-02-15T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[＜リマインド ハイブリッド方式へ変更＞
-先日お知らせいたしました第17回 DDPIセミナーは、ハイブリッド配信させていただくことになりました。
-対面・オンラインでの参加が可能となります。参加登録の際に、参加方法をご選択ください。
-
-今回は『安全保障と地方自治：沖縄の選挙研究からのアプローチ』と題し、関西学院大学教授の久保慶明先生をお招きして、沖縄の選挙研究をもとに安全保障と地方自治についてお話いた…]]></summary>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[【お知らせ】住民票の異動及び投票方法に関する周知啓発等について]]></title>
         <id>fbf0ae6d8e381cbd09df6412b6c2ed9b</id>
         <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3723"/>
@@ -254,5 +243,21 @@ https://www.tulips.tsukuba.ac.jp/lib/ja/support/guidance…]]></summary>
 
 年が明け、皆さんの中には「そろそろ就活を始めようかな」と考えている方も多いのではないでしょうか。
 就職のために、いつまでに、誰と、何を…]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【開催案内（3/8）】「ICTを活用した授業デザイン～アクティブラーニング・反転授業を事例として～」（全学FD研修会）]]></title>
+        <id>afbc0594180e5fda50a4f643256d4454</id>
+        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3715"/>
+        <updated>2023-02-09T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[この度、筑波大学では掲題の全学FD研修会（セミナー）を開催することになりました。
+
+今回は、ICTを活用した授業デザインをテーマに、
+京都大学大学院 教育学研究科 准教授の田口真奈先生をお招きして開催します。
+
+主対象は教職員ですが、学生の参加も可能としていますので、ICT活用や教育にご関心のある方は是非ご参加ください。
+
+【開催概要】
+・日時：3月8日（水）15:30-17:30
+・場所：オンラ…]]></summary>
     </entry>
 </feed>
