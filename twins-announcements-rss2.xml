@@ -4,10 +4,18 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Sun, 19 Feb 2023 21:08:20 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 20 Feb 2023 03:14:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
+        <item>
+            <title><![CDATA[【開催案内3/13】カーボンニュートラル社会の実現に向けた筑波大学の挑戦─DESIGN THE FUTURE機構設立記念シンポジウム]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3739</link>
+            <guid>7ae3044eeee900d562dce3d38408e65b</guid>
+            <pubDate>Mon, 20 Feb 2023 03:00:00 GMT</pubDate>
+            <description><![CDATA[筑波大学は、2022年4月1日に「DESIGN THE FUTURE機構」（DTF機構）を新たに設立しました。
+DTF機構は、現在および未来社会がかかえる地球規模課題解決のために、国連が設定した持続可能な開発目標（Sustainable Development Goals: SDGs）や、それに継ぐBeyond SDGsに対し、本学がどのように貢献できるかを探索し、人と地球の健全な未来の構築を目指…]]></description>
+        </item>
         <item>
             <title><![CDATA[【再掲】【開催案内】2022年度 筑波大学1年生に贈るオンライン講演会_カリフォルニア大学サンディエゴ校教授 當作靖彦先生 2/21(火)]]></title>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3738</link>
@@ -253,13 +261,6 @@ https://www.tulips.tsukuba.ac.jp/lib/ja/support/guidance…]]></description>
 【開催概要】
 ・日時：3月8日（水）15:30-17:30
 ・場所：オンラ…]]></description>
-        </item>
-        <item>
-            <title><![CDATA[【Undergraduate Students】Method of Providing Information on Courses Offered in or after AY2023]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3714</link>
-            <guid>f6c41c3e718c513a7b68d32b22afae56</guid>
-            <pubDate>Thu, 09 Feb 2023 03:00:00 GMT</pubDate>
-            <description><![CDATA[To react to the recent change in the social situation such as the penetration of digitalization, and to promote paper reduction, we will abolish the paper medium Course Catalogue booklet, and we will …]]></description>
         </item>
     </channel>
 </rss>

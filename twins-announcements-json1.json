@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "7ae3044eeee900d562dce3d38408e65b",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3739",
+            "title": "【開催案内3/13】カーボンニュートラル社会の実現に向けた筑波大学の挑戦─DESIGN THE FUTURE機構設立記念シンポジウム",
+            "summary": "筑波大学は、2022年4月1日に「DESIGN THE FUTURE機構」（DTF機構）を新たに設立しました。\nDTF機構は、現在および未来社会がかかえる地球規模課題解決のために、国連が設定した持続可能な開発目標（Sustainable Development Goals: SDGs）や、それに継ぐBeyond SDGsに対し、本学がどのように貢献できるかを探索し、人と地球の健全な未来の構築を目指…",
+            "date_modified": "2023-02-20T03:00:00.000Z"
+        },
+        {
             "id": "c2420464cf2d5b07c13067f44d2c9ece",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3738",
             "title": "【再掲】【開催案内】2022年度 筑波大学1年生に贈るオンライン講演会_カリフォルニア大学サンディエゴ校教授 當作靖彦先生 2/21(火)",
@@ -135,13 +142,6 @@
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3715",
             "title": "【開催案内（3/8）】「ICTを活用した授業デザイン～アクティブラーニング・反転授業を事例として～」（全学FD研修会）",
             "summary": "この度、筑波大学では掲題の全学FD研修会（セミナー）を開催することになりました。\n\n今回は、ICTを活用した授業デザインをテーマに、\n京都大学大学院 教育学研究科 准教授の田口真奈先生をお招きして開催します。\n\n主対象は教職員ですが、学生の参加も可能としていますので、ICT活用や教育にご関心のある方は是非ご参加ください。\n\n【開催概要】\n・日時：3月8日（水）15:30-17:30\n・場所：オンラ…",
-            "date_modified": "2023-02-09T03:00:00.000Z"
-        },
-        {
-            "id": "f6c41c3e718c513a7b68d32b22afae56",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3714",
-            "title": "【Undergraduate Students】Method of Providing Information on Courses Offered in or after AY2023",
-            "summary": "To react to the recent change in the social situation such as the penetration of digitalization, and to promote paper reduction, we will abolish the paper medium Course Catalogue booklet, and we will …",
             "date_modified": "2023-02-09T03:00:00.000Z"
         }
     ]

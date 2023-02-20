@@ -2,10 +2,18 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/mkobayashime/twins-announcements</id>
     <title>在学生へのお知らせ | 筑波大学</title>
-    <updated>2023-02-19T21:08:20.478Z</updated>
+    <updated>2023-02-20T03:14:07.861Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://github.com/mkobayashime/twins-announcements"/>
     <subtitle>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</subtitle>
+    <entry>
+        <title type="html"><![CDATA[【開催案内3/13】カーボンニュートラル社会の実現に向けた筑波大学の挑戦─DESIGN THE FUTURE機構設立記念シンポジウム]]></title>
+        <id>7ae3044eeee900d562dce3d38408e65b</id>
+        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3739"/>
+        <updated>2023-02-20T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[筑波大学は、2022年4月1日に「DESIGN THE FUTURE機構」（DTF機構）を新たに設立しました。
+DTF機構は、現在および未来社会がかかえる地球規模課題解決のために、国連が設定した持続可能な開発目標（Sustainable Development Goals: SDGs）や、それに継ぐBeyond SDGsに対し、本学がどのように貢献できるかを探索し、人と地球の健全な未来の構築を目指…]]></summary>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【再掲】【開催案内】2022年度 筑波大学1年生に贈るオンライン講演会_カリフォルニア大学サンディエゴ校教授 當作靖彦先生 2/21(火)]]></title>
         <id>c2420464cf2d5b07c13067f44d2c9ece</id>
@@ -251,12 +259,5 @@ https://www.tulips.tsukuba.ac.jp/lib/ja/support/guidance…]]></summary>
 【開催概要】
 ・日時：3月8日（水）15:30-17:30
 ・場所：オンラ…]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【Undergraduate Students】Method of Providing Information on Courses Offered in or after AY2023]]></title>
-        <id>f6c41c3e718c513a7b68d32b22afae56</id>
-        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3714"/>
-        <updated>2023-02-09T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[To react to the recent change in the social situation such as the penetration of digitalization, and to promote paper reduction, we will abolish the paper medium Course Catalogue booklet, and we will …]]></summary>
     </entry>
 </feed>
