@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "1e74a202e3bb978e573d34d51ed00a02",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3745",
+            "title": "つくば環境安全管理レター　第２２号（２０２３年２月１４日）の発行について",
+            "summary": "つくば環境安全管理レター　第２２号（２０２３年２月１４日）を発行いたしましたのでお知らせします。\n\n筑波大学環境安全管理室から、つくばキャンパスにおける安全管理に関する情報をレターとして発行しています。\n不定期ですが、各組織の実験をおこなう教職員、学生の皆様にお知らせしています。\n\n第２２号（２０２３年２月１４日）内容\n〇廃液処理申込票及び廃液タンク用荷札の変更について\n　１．廃液処理申込票の変更…",
+            "date_modified": "2023-02-21T03:00:00.000Z"
+        },
+        {
             "id": "1d0389155d801405e64169598d7805d2",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3744",
             "title": "【IMPORTANT】　Change the @s Email System",
@@ -136,13 +143,6 @@
             "title": "【2/28～3/10】筑波大学就職ミライ博第3弾「オンライン合同企業説明会」＆「合説 事前セミナー」",
             "summary": "筑波大学就職ミライ博\n「オンライン合同企業説明会」開催！\n\n筑波大生のために全国の優良企業、官公庁等が集結します。\n例年多数のOBOGが参加し、企業ブースでみなさんの参加をお待ちしています。\nこの機会をお見逃しなく！\n\n【日程】　 2023年3月1日（水）～10日（金）※土日は除く\n【時間】　［1部］9：30～13：00　［2部］13：30～17：00\n【場所】　オンライン（EventIn）\n【対…",
             "date_modified": "2023-02-14T03:00:00.000Z"
-        },
-        {
-            "id": "fac5fc2b24a465f1934ec8d855b761e7",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3720",
-            "title": "チューター募集について",
-            "summary": "2023年4月に多くの留学生が入学する予定です。\nこれに伴い、チューター支援（主に生活の立ち上げ支援、必要に応じてオンライン支援も可）を必要とするケースも増加する見込みです。\n本学においては、チューターバンク制度を2020年度より運用開始しており、チューターに興味があるが、周りに留学生がおらず、チューターの依頼が見込まれない学生を対象に、チューターバンクへの登録を募集しております。\n関心のある学生…",
-            "date_modified": "2023-02-13T03:00:00.000Z"
         }
     ]
 }

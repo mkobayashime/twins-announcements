@@ -2,10 +2,24 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/mkobayashime/twins-announcements</id>
     <title>在学生へのお知らせ | 筑波大学</title>
-    <updated>2023-02-21T05:03:57.417Z</updated>
+    <updated>2023-02-21T08:09:00.409Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://github.com/mkobayashime/twins-announcements"/>
     <subtitle>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</subtitle>
+    <entry>
+        <title type="html"><![CDATA[つくば環境安全管理レター　第２２号（２０２３年２月１４日）の発行について]]></title>
+        <id>1e74a202e3bb978e573d34d51ed00a02</id>
+        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3745"/>
+        <updated>2023-02-21T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[つくば環境安全管理レター　第２２号（２０２３年２月１４日）を発行いたしましたのでお知らせします。
+
+筑波大学環境安全管理室から、つくばキャンパスにおける安全管理に関する情報をレターとして発行しています。
+不定期ですが、各組織の実験をおこなう教職員、学生の皆様にお知らせしています。
+
+第２２号（２０２３年２月１４日）内容
+〇廃液処理申込票及び廃液タンク用荷札の変更について
+　１．廃液処理申込票の変更…]]></summary>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【IMPORTANT】　Change the @s Email System]]></title>
         <id>1d0389155d801405e64169598d7805d2</id>
@@ -252,15 +266,5 @@ https://www.tulips.tsukuba.ac.jp/lib/ja/support/guidance…]]></summary>
 【時間】　［1部］9：30～13：00　［2部］13：30～17：00
 【場所】　オンライン（EventIn）
 【対…]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[チューター募集について]]></title>
-        <id>fac5fc2b24a465f1934ec8d855b761e7</id>
-        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3720"/>
-        <updated>2023-02-13T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[2023年4月に多くの留学生が入学する予定です。
-これに伴い、チューター支援（主に生活の立ち上げ支援、必要に応じてオンライン支援も可）を必要とするケースも増加する見込みです。
-本学においては、チューターバンク制度を2020年度より運用開始しており、チューターに興味があるが、周りに留学生がおらず、チューターの依頼が見込まれない学生を対象に、チューターバンクへの登録を募集しております。
-関心のある学生…]]></summary>
     </entry>
 </feed>
