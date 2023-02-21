@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "770c98dc29412b512364c47e8bf462f0",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3742",
+            "title": "【開催案内】第39回「中央ユーラシアと日本の未来」公開講演会「多言語国家台湾の今日までの歩み」",
+            "summary": "筑波大学「日本財団 中央アジア・日本人材育成プロジェクト(NipCA)」主催  \n第39回「中央ユーラシアと日本の未来」公開講演会を、次のとおりオンライン（Zoom meeting）により開催いたします。\n\n講師：宮崎大学多言語多文化教育研究センター 教授    藤井 久美子 氏\n\n題目：多言語国家台湾の今日までの歩み\n\n日時：令和5年3月6日（月）16:00〜17:15\n\n会場：オンライン (Z…",
+            "date_modified": "2023-02-21T03:00:00.000Z"
+        },
+        {
             "id": "fc93c12742eeb2e495e06a6255167445",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3741",
             "title": "【再掲】2/28～3/10　筑波大学就職ミライ博第3弾「オンライン合同企業説明会」＆「合説 事前セミナー」",
@@ -136,13 +143,6 @@
             "title": "2/24(金)13:30~15:00 JICA市民参加協力事業紹介セミナー 「助かる命を救いたい！～日本の大学・企業・NPOのラオスでの保健医療改善への思いと取組～」",
             "summary": "本学が代表団体を務めラオスで実施している、JICA草の根技術協力事業「交通事故から住民の命を守る救命救急活動支援プロジェクト」を紹介するセミナーが2月24日金曜（13:30～15:00）に行われます。\nセミナーでは、ラオスの救急医療の現状紹介やプロジェクト立ち上げに至った思いや経緯などを中心にご紹介いたします。\nオンライン参加の場合、事前申込は不要です。奮ってご参加ください！\n\n\nラオスという国を…",
             "date_modified": "2023-02-13T03:00:00.000Z"
-        },
-        {
-            "id": "2146a27f57bb7b84c1839d0d5897d300",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3717",
-            "title": "【申込み期限延長】障害学生のための就活セミナー「キャリアについて考えてみよう～ハローワーク土浦と茨城障害者職業センターをお招きして～」の開催について",
-            "summary": "筑波大学ヒューマンエンパワーメント推進局（BHE）は、\n障害学生のための就活セミナー「キャリアについて考えてみよう～ハローワーク土浦と茨城障害者職業センターをお招きして～」を開催いたします。\nこの度申込み期限を延長したため、引き続き参加者の募集を行っております！\n\n年が明け、皆さんの中には「そろそろ就活を始めようかな」と考えている方も多いのではないでしょうか。\n就職のために、いつまでに、誰と、何を…",
-            "date_modified": "2023-02-10T03:00:00.000Z"
         }
     ]
 }
