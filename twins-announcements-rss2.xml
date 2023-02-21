@@ -4,10 +4,27 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Mon, 20 Feb 2023 21:08:46 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 21 Feb 2023 00:34:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
+        <item>
+            <title><![CDATA[【再掲】2/28～3/10　筑波大学就職ミライ博第3弾「オンライン合同企業説明会」＆「合説 事前セミナー」]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3741</link>
+            <guid>fc93c12742eeb2e495e06a6255167445</guid>
+            <pubDate>Tue, 21 Feb 2023 03:00:00 GMT</pubDate>
+            <description><![CDATA[筑波大学就職ミライ博
+「オンライン合同企業説明会」開催！
+
+筑波大生のために全国の優良企業、官公庁等が集結します。
+例年多数のOBOGが参加し、企業ブースでみなさんの参加をお待ちしています。
+この機会をお見逃しなく！
+
+【日程】　 2023年3月1日（水）～10日（金）※土日は除く
+【時間】　［1部］9：30～13：00　［2部］13：30～17：00
+【場所】　オンライン（EventIn）
+【対…]]></description>
+        </item>
         <item>
             <title><![CDATA[【BHE】キャリア支援チームHP及び就職情報提供システム停止のお知らせ［2/24(金)9:00-12:15］]]></title>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3740</link>
@@ -245,22 +262,6 @@ https://www.tulips.tsukuba.ac.jp/lib/ja/support/guidance…]]></description>
 
 年が明け、皆さんの中には「そろそろ就活を始めようかな」と考えている方も多いのではないでしょうか。
 就職のために、いつまでに、誰と、何を…]]></description>
-        </item>
-        <item>
-            <title><![CDATA[【開催案内（3/8）】「ICTを活用した授業デザイン～アクティブラーニング・反転授業を事例として～」（全学FD研修会）]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3715</link>
-            <guid>afbc0594180e5fda50a4f643256d4454</guid>
-            <pubDate>Thu, 09 Feb 2023 03:00:00 GMT</pubDate>
-            <description><![CDATA[この度、筑波大学では掲題の全学FD研修会（セミナー）を開催することになりました。
-
-今回は、ICTを活用した授業デザインをテーマに、
-京都大学大学院 教育学研究科 准教授の田口真奈先生をお招きして開催します。
-
-主対象は教職員ですが、学生の参加も可能としていますので、ICT活用や教育にご関心のある方は是非ご参加ください。
-
-【開催概要】
-・日時：3月8日（水）15:30-17:30
-・場所：オンラ…]]></description>
         </item>
     </channel>
 </rss>

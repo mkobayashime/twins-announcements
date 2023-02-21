@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "fc93c12742eeb2e495e06a6255167445",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3741",
+            "title": "【再掲】2/28～3/10　筑波大学就職ミライ博第3弾「オンライン合同企業説明会」＆「合説 事前セミナー」",
+            "summary": "筑波大学就職ミライ博\n「オンライン合同企業説明会」開催！\n\n筑波大生のために全国の優良企業、官公庁等が集結します。\n例年多数のOBOGが参加し、企業ブースでみなさんの参加をお待ちしています。\nこの機会をお見逃しなく！\n\n【日程】　 2023年3月1日（水）～10日（金）※土日は除く\n【時間】　［1部］9：30～13：00　［2部］13：30～17：00\n【場所】　オンライン（EventIn）\n【対…",
+            "date_modified": "2023-02-21T03:00:00.000Z"
+        },
+        {
             "id": "6e1be877cb9bb9ee1e3ba5b8d664235c",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3740",
             "title": "【BHE】キャリア支援チームHP及び就職情報提供システム停止のお知らせ［2/24(金)9:00-12:15］",
@@ -136,13 +143,6 @@
             "title": "【申込み期限延長】障害学生のための就活セミナー「キャリアについて考えてみよう～ハローワーク土浦と茨城障害者職業センターをお招きして～」の開催について",
             "summary": "筑波大学ヒューマンエンパワーメント推進局（BHE）は、\n障害学生のための就活セミナー「キャリアについて考えてみよう～ハローワーク土浦と茨城障害者職業センターをお招きして～」を開催いたします。\nこの度申込み期限を延長したため、引き続き参加者の募集を行っております！\n\n年が明け、皆さんの中には「そろそろ就活を始めようかな」と考えている方も多いのではないでしょうか。\n就職のために、いつまでに、誰と、何を…",
             "date_modified": "2023-02-10T03:00:00.000Z"
-        },
-        {
-            "id": "afbc0594180e5fda50a4f643256d4454",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3715",
-            "title": "【開催案内（3/8）】「ICTを活用した授業デザイン～アクティブラーニング・反転授業を事例として～」（全学FD研修会）",
-            "summary": "この度、筑波大学では掲題の全学FD研修会（セミナー）を開催することになりました。\n\n今回は、ICTを活用した授業デザインをテーマに、\n京都大学大学院 教育学研究科 准教授の田口真奈先生をお招きして開催します。\n\n主対象は教職員ですが、学生の参加も可能としていますので、ICT活用や教育にご関心のある方は是非ご参加ください。\n\n【開催概要】\n・日時：3月8日（水）15:30-17:30\n・場所：オンラ…",
-            "date_modified": "2023-02-09T03:00:00.000Z"
         }
     ]
 }
