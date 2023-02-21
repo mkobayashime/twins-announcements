@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/mkobayashime/twins-announcements</id>
     <title>在学生へのお知らせ | 筑波大学</title>
-    <updated>2023-02-21T09:09:50.902Z</updated>
+    <updated>2023-02-21T15:10:23.100Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://github.com/mkobayashime/twins-announcements"/>
     <subtitle>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</subtitle>
@@ -36,15 +36,11 @@ After 03:00 Feb…]]></summary>
         <id>4aba0fb4ae9bbb09caa8480f00e3fb77</id>
         <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3743"/>
         <updated>2023-02-21T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[　学生のみなさんがお使いの @s.tsukuba.ac.jp (以降、@s のみ記します)
-のメールについてのお知らせです。重要事項のため、よく読んでください。
+        <summary type="html"><![CDATA[Notice regarding e-mail @s.tsukuba.ac.jp address used by students.
 
-(1) パスワードの変更
-
-　　2023年 2 月 27 日 01:00 以降、パスワードが統一認証システムのもの
-　　から、@s のメールシステム独自のものへと変更になります。
-
-　　この日の 03:00 以降、次の URL のページ…]]></summary>
+*Change Password
+After 01:00 on Feb.27, password will be changed from UT-ID's to the one to @s mail system password.
+After 03:00 Feb…]]></summary>
     </entry>
     <entry>
         <title type="html"><![CDATA[【開催案内】第39回「中央ユーラシアと日本の未来」公開講演会「多言語国家台湾の今日までの歩み」]]></title>
@@ -97,22 +93,6 @@ After 03:00 Feb…]]></summary>
         <updated>2023-02-20T03:00:00.000Z</updated>
         <summary type="html"><![CDATA[筑波大学は、2022年4月1日に「DESIGN THE FUTURE機構」（DTF機構）を新たに設立しました。
 DTF機構は、現在および未来社会がかかえる地球規模課題解決のために、国連が設定した持続可能な開発目標（Sustainable Development Goals: SDGs）や、それに継ぐBeyond SDGsに対し、本学がどのように貢献できるかを探索し、人と地球の健全な未来の構築を目指…]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【再掲】【開催案内】2022年度 筑波大学1年生に贈るオンライン講演会_カリフォルニア大学サンディエゴ校教授 當作靖彦先生 2/21(火)]]></title>
-        <id>c2420464cf2d5b07c13067f44d2c9ece</id>
-        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3738"/>
-        <updated>2023-02-19T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[筑波大学「日本財団 中央アジア・日本人材育成プロジェクト(NipCA)」主催  
-2022年度 筑波大学1年生に贈るオンライン講演会を、次のとおりオンライン（Zoom meeting）により開催いたします。
-
-
-講演題目：混迷と変革の社会で成功するために
-　　　　　－今、大学時代に何をするべきか－
-
-日　　時：令和5年2月21日（火）13:45〜15:00
-
-講　　師：カリフォルニア大学サンディエ…]]></summary>
     </entry>
     <entry>
         <title type="html"><![CDATA[【2/27開催】企業が見ていることとは？『最終面接準備講座』]]></title>
@@ -266,5 +246,15 @@ https://www.tulips.tsukuba.ac.jp/lib/ja/support/guidance…]]></summary>
 【時間】　［1部］9：30～13：00　［2部］13：30～17：00
 【場所】　オンライン（EventIn）
 【対…]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[チューター募集について]]></title>
+        <id>fac5fc2b24a465f1934ec8d855b761e7</id>
+        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3720"/>
+        <updated>2023-02-13T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[2023年4月に多くの留学生が入学する予定です。
+これに伴い、チューター支援（主に生活の立ち上げ支援、必要に応じてオンライン支援も可）を必要とするケースも増加する見込みです。
+本学においては、チューターバンク制度を2020年度より運用開始しており、チューターに興味があるが、周りに留学生がおらず、チューターの依頼が見込まれない学生を対象に、チューターバンクへの登録を募集しております。
+関心のある学生…]]></summary>
     </entry>
 </feed>
