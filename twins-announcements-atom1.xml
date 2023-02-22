@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/mkobayashime/twins-announcements</id>
     <title>在学生へのお知らせ | 筑波大学</title>
-    <updated>2023-02-22T02:15:02.671Z</updated>
+    <updated>2023-02-22T07:04:25.133Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://github.com/mkobayashime/twins-announcements"/>
     <subtitle>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</subtitle>
+    <entry>
+        <title type="html"><![CDATA[[お知らせ -3/20] ICR/DDPI 研究発表ポスターコンテスト Academic Posters Competition AY2022（人社棟2階展示中）]]></title>
+        <id>7fd1958b6365fe6e292d4f206c7ceb53</id>
+        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3747"/>
+        <updated>2023-02-22T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[人文社会関係の教員、大学院生、また学群生から23作品の参加を得、ICR研究発表ポスターコンテストを開催いたします。3月20日までの予定で現物を人文社会学系棟2階ロビーで展示しておりますほかオンライン展示も行いますので、ぜひお手すきの際にご覧ください。
+
+展示サイトに「人気投票」「参加者に対する質問＆コメント」投稿機能を設けております。励みになりますので、ぜひ幅広いご閲覧、投票、コメントをお寄せ下さ…]]></summary>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【再掲】2/27（16時45分～）講演会「近現代日本における職業とジェンダー」（学生・教員対象）]]></title>
         <id>bfb0507054bbc5811a78a68fd4d9a2a9</id>
@@ -246,22 +255,5 @@ https://www.tulips.tsukuba.ac.jp/lib/ja/support/guidance…]]></summary>
 
 　なお、住民票を移して３か月未満の国政選挙においては、不在者投票制度を利用して、旧住所地での投票が可能です。
 …]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【2/28～3/10】筑波大学就職ミライ博第3弾「オンライン合同企業説明会」＆「合説 事前セミナー」]]></title>
-        <id>2c3c66c4f117b473023cda2cabc508ee</id>
-        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3722"/>
-        <updated>2023-02-14T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[筑波大学就職ミライ博
-「オンライン合同企業説明会」開催！
-
-筑波大生のために全国の優良企業、官公庁等が集結します。
-例年多数のOBOGが参加し、企業ブースでみなさんの参加をお待ちしています。
-この機会をお見逃しなく！
-
-【日程】　 2023年3月1日（水）～10日（金）※土日は除く
-【時間】　［1部］9：30～13：00　［2部］13：30～17：00
-【場所】　オンライン（EventIn）
-【対…]]></summary>
     </entry>
 </feed>

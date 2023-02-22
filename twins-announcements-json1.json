@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "7fd1958b6365fe6e292d4f206c7ceb53",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3747",
+            "title": "[お知らせ -3/20] ICR/DDPI 研究発表ポスターコンテスト Academic Posters Competition AY2022（人社棟2階展示中）",
+            "summary": "人文社会関係の教員、大学院生、また学群生から23作品の参加を得、ICR研究発表ポスターコンテストを開催いたします。3月20日までの予定で現物を人文社会学系棟2階ロビーで展示しておりますほかオンライン展示も行いますので、ぜひお手すきの際にご覧ください。\n\n展示サイトに「人気投票」「参加者に対する質問＆コメント」投稿機能を設けております。励みになりますので、ぜひ幅広いご閲覧、投票、コメントをお寄せ下さ…",
+            "date_modified": "2023-02-22T03:00:00.000Z"
+        },
+        {
             "id": "bfb0507054bbc5811a78a68fd4d9a2a9",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3746",
             "title": "【再掲】2/27（16時45分～）講演会「近現代日本における職業とジェンダー」（学生・教員対象）",
@@ -135,13 +142,6 @@
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3723",
             "title": "【お知らせ】住民票の異動及び投票方法に関する周知啓発等について",
             "summary": "　標記のことについて、文部科学省から周知依頼がありました。\n\n　進学、就職等及び宿舎から民間アパートへの住み替えに伴う引っ越しにより、住所を移転した場合には、自治体に正確な住民票異動の届出を行う必要があります。また、現実に居住される住所地で選挙等投票するためにも必要な手続きとなります。\n\n　なお、住民票を移して３か月未満の国政選挙においては、不在者投票制度を利用して、旧住所地での投票が可能です。\n…",
-            "date_modified": "2023-02-14T03:00:00.000Z"
-        },
-        {
-            "id": "2c3c66c4f117b473023cda2cabc508ee",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3722",
-            "title": "【2/28～3/10】筑波大学就職ミライ博第3弾「オンライン合同企業説明会」＆「合説 事前セミナー」",
-            "summary": "筑波大学就職ミライ博\n「オンライン合同企業説明会」開催！\n\n筑波大生のために全国の優良企業、官公庁等が集結します。\n例年多数のOBOGが参加し、企業ブースでみなさんの参加をお待ちしています。\nこの機会をお見逃しなく！\n\n【日程】　 2023年3月1日（水）～10日（金）※土日は除く\n【時間】　［1部］9：30～13：00　［2部］13：30～17：00\n【場所】　オンライン（EventIn）\n【対…",
             "date_modified": "2023-02-14T03:00:00.000Z"
         }
     ]
