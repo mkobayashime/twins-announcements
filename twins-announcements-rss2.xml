@@ -4,10 +4,18 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Thu, 23 Feb 2023 21:09:13 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Feb 2023 02:13:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
+        <item>
+            <title><![CDATA[LINEチャットボット「ダボット：ダックスさんの相談室」の補助スタッフ募集]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3748</link>
+            <guid>7b5ac8518299bd453dd7f4570c1dd777</guid>
+            <pubDate>Fri, 24 Feb 2023 03:00:00 GMT</pubDate>
+            <description><![CDATA[ヒューマンエンパワーメント推進局（BHE）では、筑波大学の学生や教職員などに展開をしているLINEチャットボット「ダボット：ダックスさんの相談室」の応答内容を編集したり、改善するスタッフを募集しています。在学生でも非常勤職員（週1日〜。週あたり20時間未満）であれば応募できます。未経験の方も歓迎です。
+勤務場所も学内ですので、テクノロジーを利用した対人支援などにご関心のある方は、ぜひご応募ください…]]></description>
+        </item>
         <item>
             <title><![CDATA[[お知らせ -3/20] ICR/DDPI 研究発表ポスターコンテスト Academic Posters Competition AY2022（人社棟2階展示中）]]></title>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3747</link>
@@ -245,18 +253,6 @@ To prevent the leakage of sensitive technology related to security, graduate stu
 動画や資料を見るためには、manabaでコース登録をする必要があります。
 コース登録方法は下記webページをご覧ください。
 https://www.tulips.tsukuba.ac.jp/lib/ja/support/guidance…]]></description>
-        </item>
-        <item>
-            <title><![CDATA[【お知らせ】住民票の異動及び投票方法に関する周知啓発等について]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3723</link>
-            <guid>fbf0ae6d8e381cbd09df6412b6c2ed9b</guid>
-            <pubDate>Tue, 14 Feb 2023 03:00:00 GMT</pubDate>
-            <description><![CDATA[　標記のことについて、文部科学省から周知依頼がありました。
-
-　進学、就職等及び宿舎から民間アパートへの住み替えに伴う引っ越しにより、住所を移転した場合には、自治体に正確な住民票異動の届出を行う必要があります。また、現実に居住される住所地で選挙等投票するためにも必要な手続きとなります。
-
-　なお、住民票を移して３か月未満の国政選挙においては、不在者投票制度を利用して、旧住所地での投票が可能です。
-…]]></description>
         </item>
     </channel>
 </rss>

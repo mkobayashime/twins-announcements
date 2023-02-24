@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "7b5ac8518299bd453dd7f4570c1dd777",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3748",
+            "title": "LINEチャットボット「ダボット：ダックスさんの相談室」の補助スタッフ募集",
+            "summary": "ヒューマンエンパワーメント推進局（BHE）では、筑波大学の学生や教職員などに展開をしているLINEチャットボット「ダボット：ダックスさんの相談室」の応答内容を編集したり、改善するスタッフを募集しています。在学生でも非常勤職員（週1日〜。週あたり20時間未満）であれば応募できます。未経験の方も歓迎です。\n勤務場所も学内ですので、テクノロジーを利用した対人支援などにご関心のある方は、ぜひご応募ください…",
+            "date_modified": "2023-02-24T03:00:00.000Z"
+        },
+        {
             "id": "7fd1958b6365fe6e292d4f206c7ceb53",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3747",
             "title": "[お知らせ -3/20] ICR/DDPI 研究発表ポスターコンテスト Academic Posters Competition AY2022（人社棟2階展示中）",
@@ -136,13 +143,6 @@
             "title": "図書館講習会の動画と資料について / Library workshops videos and handouts",
             "summary": "附属図書館では、春と秋に図書館講習会を開催しています。\n今年度のリアルタイム配信はすべて終了しましたが、\n現在manabaで講習会の動画や資料を提供しています。\n\n動画や資料を見るためには、manabaでコース登録をする必要があります。\nコース登録方法は下記webページをご覧ください。\nhttps://www.tulips.tsukuba.ac.jp/lib/ja/support/guidance…",
             "date_modified": "2023-02-15T03:00:00.000Z"
-        },
-        {
-            "id": "fbf0ae6d8e381cbd09df6412b6c2ed9b",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3723",
-            "title": "【お知らせ】住民票の異動及び投票方法に関する周知啓発等について",
-            "summary": "　標記のことについて、文部科学省から周知依頼がありました。\n\n　進学、就職等及び宿舎から民間アパートへの住み替えに伴う引っ越しにより、住所を移転した場合には、自治体に正確な住民票異動の届出を行う必要があります。また、現実に居住される住所地で選挙等投票するためにも必要な手続きとなります。\n\n　なお、住民票を移して３か月未満の国政選挙においては、不在者投票制度を利用して、旧住所地での投票が可能です。\n…",
-            "date_modified": "2023-02-14T03:00:00.000Z"
         }
     ]
 }
