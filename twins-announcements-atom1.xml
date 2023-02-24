@@ -2,10 +2,26 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/mkobayashime/twins-announcements</id>
     <title>在学生へのお知らせ | 筑波大学</title>
-    <updated>2023-02-24T02:13:19.186Z</updated>
+    <updated>2023-02-24T09:05:07.566Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://github.com/mkobayashime/twins-announcements"/>
     <subtitle>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</subtitle>
+    <entry>
+        <title type="html"><![CDATA[[3/6 15:00] 第74回数理社会学会大会ワンステップアップ・セミナー（総合研究棟B110）]]></title>
+        <id>685cc90e1017e4b95fd72f69e3cd5816</id>
+        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3749"/>
+        <updated>2023-02-24T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[人文社会系DDPIプロジェクトよりご案内いたします。
+
+来る3月7日と8日に数理社会学会第74回大会を開催いたします。その前日であります3月6日(月)、
+学会サイドイベントとして第24回ワンステップアップ・セミナーが開催されます。
+
+嘉山陽一先生を講師としてお迎えして、
+「QGISを利用したデジタル空間データ利用入門」についてご講義いただきます。
+ご関心をお持ちの方はぜひご参加ください。
+
+1. …]]></summary>
+    </entry>
     <entry>
         <title type="html"><![CDATA[LINEチャットボット「ダボット：ダックスさんの相談室」の補助スタッフ募集]]></title>
         <id>7b5ac8518299bd453dd7f4570c1dd777</id>
@@ -238,18 +254,5 @@ To prevent the leakage of sensitive technology related to security, graduate stu
 前半13:30-14:30
 後半14:45-15:45
 トピック：Valen…]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[図書館講習会の動画と資料について / Library workshops videos and handouts]]></title>
-        <id>b9545cc23d2349e0453f23ee5b620a19</id>
-        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3728"/>
-        <updated>2023-02-15T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[附属図書館では、春と秋に図書館講習会を開催しています。
-今年度のリアルタイム配信はすべて終了しましたが、
-現在manabaで講習会の動画や資料を提供しています。
-
-動画や資料を見るためには、manabaでコース登録をする必要があります。
-コース登録方法は下記webページをご覧ください。
-https://www.tulips.tsukuba.ac.jp/lib/ja/support/guidance…]]></summary>
     </entry>
 </feed>

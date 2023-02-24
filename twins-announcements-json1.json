@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "685cc90e1017e4b95fd72f69e3cd5816",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3749",
+            "title": "[3/6 15:00] 第74回数理社会学会大会ワンステップアップ・セミナー（総合研究棟B110）",
+            "summary": "人文社会系DDPIプロジェクトよりご案内いたします。\n\n来る3月7日と8日に数理社会学会第74回大会を開催いたします。その前日であります3月6日(月)、\n学会サイドイベントとして第24回ワンステップアップ・セミナーが開催されます。\n\n嘉山陽一先生を講師としてお迎えして、\n「QGISを利用したデジタル空間データ利用入門」についてご講義いただきます。\nご関心をお持ちの方はぜひご参加ください。\n\n1. …",
+            "date_modified": "2023-02-24T03:00:00.000Z"
+        },
+        {
             "id": "7b5ac8518299bd453dd7f4570c1dd777",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3748",
             "title": "LINEチャットボット「ダボット：ダックスさんの相談室」の補助スタッフ募集",
@@ -136,13 +143,6 @@
             "title": "2月19日(日): オンライン英語会　",
             "summary": "オンラインCity Chat Cafeで気軽に英語を練習しよう！\n様々な文化背景を持つ人々が出合い、おしゃべりを楽しむ国際交流イベントです。\n筑波大学の留学生と自己紹介や母国の紹介など自由な話題で気軽に英語や日本で会話を楽しめます。\n学外の参加者と交流できるチャンスです。是非参加お待ちします!\n\n日時：\n2月19日（日）\n前半13:30-14:30\n後半14:45-15:45\nトピック：Valen…",
             "date_modified": "2023-02-16T03:00:00.000Z"
-        },
-        {
-            "id": "b9545cc23d2349e0453f23ee5b620a19",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3728",
-            "title": "図書館講習会の動画と資料について / Library workshops videos and handouts",
-            "summary": "附属図書館では、春と秋に図書館講習会を開催しています。\n今年度のリアルタイム配信はすべて終了しましたが、\n現在manabaで講習会の動画や資料を提供しています。\n\n動画や資料を見るためには、manabaでコース登録をする必要があります。\nコース登録方法は下記webページをご覧ください。\nhttps://www.tulips.tsukuba.ac.jp/lib/ja/support/guidance…",
-            "date_modified": "2023-02-15T03:00:00.000Z"
         }
     ]
 }
