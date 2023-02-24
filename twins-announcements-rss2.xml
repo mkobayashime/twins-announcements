@@ -4,7 +4,7 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Fri, 24 Feb 2023 09:09:54 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Feb 2023 15:09:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
@@ -128,17 +128,6 @@ After 03:00 Feb…]]></description>
 【対…]]></description>
         </item>
         <item>
-            <title><![CDATA[【BHE】キャリア支援チームHP及び就職情報提供システム停止のお知らせ［2/24(金)9:00-12:15］]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3740</link>
-            <guid>6e1be877cb9bb9ee1e3ba5b8d664235c</guid>
-            <pubDate>Mon, 20 Feb 2023 03:00:00 GMT</pubDate>
-            <description><![CDATA[サーバー更新作業に伴い、下記の時間、キャリア支援チームホームページ等へ繋がりにくくなります。
-【サーバー更新作業日時】2/24（金）9：00　～　2/24（金）12：15（予定）
-
-なお、サーバー更新作業中は、「学内専用ページ」、「ガイダンス等及び模試試験登録・申請」、「進路進捗状況届」へのアクセスはできません。
-皆様にはご迷惑をおかけいたしますが、ご理解、ご協力の程よろしくお願いいたします。]]></description>
-        </item>
-        <item>
             <title><![CDATA[【開催案内3/13】カーボンニュートラル社会の実現に向けた筑波大学の挑戦─DESIGN THE FUTURE機構設立記念シンポジウム]]></title>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3739</link>
             <guid>7ae3044eeee900d562dce3d38408e65b</guid>
@@ -209,9 +198,7 @@ To prevent the leakage of sensitive technology related to security, graduate stu
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3732</link>
             <guid>d84df776c5060fcc74efbb5725322609</guid>
             <pubDate>Thu, 16 Feb 2023 03:00:00 GMT</pubDate>
-            <description><![CDATA[ヒューマニクス学位プログラムでは、博士課程への進学を希望・興味がある学群生を対象に、研究・実験補助業務スタッフを募集しております。（4月開始予定）
-
-応募希望の学生は、当プログラム ホームページの「学類生支援制度募集／Early Exposer Program (EEP)」をご確認の上、Humanics Early Exposure Program 申請書を2月28日（火）17:00までにグローバ…]]></description>
+            <description><![CDATA[Students have frequent contact with personal information on and off campus on a daily basis. However, leakage due to improper handling of personal information will not only cause great inconvenience t…]]></description>
         </item>
         <item>
             <title><![CDATA[【3/8開催】博士の生存戦略　～研究＋αを活かしたキャリア構築～のご案内]]></title>
@@ -256,6 +243,19 @@ To prevent the leakage of sensitive technology related to security, graduate stu
 前半13:30-14:30
 後半14:45-15:45
 トピック：Valen…]]></description>
+        </item>
+        <item>
+            <title><![CDATA[図書館講習会の動画と資料について / Library workshops videos and handouts]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3728</link>
+            <guid>b9545cc23d2349e0453f23ee5b620a19</guid>
+            <pubDate>Wed, 15 Feb 2023 03:00:00 GMT</pubDate>
+            <description><![CDATA[附属図書館では、春と秋に図書館講習会を開催しています。
+今年度のリアルタイム配信はすべて終了しましたが、
+現在manabaで講習会の動画や資料を提供しています。
+
+動画や資料を見るためには、manabaでコース登録をする必要があります。
+コース登録方法は下記webページをご覧ください。
+https://www.tulips.tsukuba.ac.jp/lib/ja/support/guidance…]]></description>
         </item>
     </channel>
 </rss>
