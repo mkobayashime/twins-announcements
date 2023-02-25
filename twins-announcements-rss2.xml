@@ -4,7 +4,7 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Sat, 25 Feb 2023 09:09:08 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 25 Feb 2023 15:09:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
@@ -251,13 +251,16 @@ To prevent the leakage of sensitive technology related to security, graduate stu
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3728</link>
             <guid>b9545cc23d2349e0453f23ee5b620a19</guid>
             <pubDate>Wed, 15 Feb 2023 03:00:00 GMT</pubDate>
-            <description><![CDATA[附属図書館では、春と秋に図書館講習会を開催しています。
-今年度のリアルタイム配信はすべて終了しましたが、
-現在manabaで講習会の動画や資料を提供しています。
+            <description><![CDATA[オンラインCity Chat Cafeで気軽に英語を練習しよう！
+様々な文化背景を持つ人々が出合い、おしゃべりを楽しむ国際交流イベントです。
+筑波大学の留学生と自己紹介や母国の紹介など自由な話題で気軽に英語や日本で会話を楽しめます。
+学外の参加者と交流できるチャンスです。是非参加お待ちします!
 
-動画や資料を見るためには、manabaでコース登録をする必要があります。
-コース登録方法は下記webページをご覧ください。
-https://www.tulips.tsukuba.ac.jp/lib/ja/support/guidance…]]></description>
+日時：
+2月19日（日）
+前半13:30-14:30
+後半14:45-15:45
+トピック：Valen…]]></description>
         </item>
     </channel>
 </rss>
