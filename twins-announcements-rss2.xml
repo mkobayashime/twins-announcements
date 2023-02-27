@@ -4,7 +4,7 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Mon, 27 Feb 2023 09:10:40 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 27 Feb 2023 15:10:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
@@ -88,19 +88,6 @@ ECサイトは以下のリンクから
             <description><![CDATA[人文社会関係の教員、大学院生、また学群生から23作品の参加を得、ICR研究発表ポスターコンテストを開催いたします。3月20日までの予定で現物を人文社会学系棟2階ロビーで展示しておりますほかオンライン展示も行いますので、ぜひお手すきの際にご覧ください。
 
 展示サイトに「人気投票」「参加者に対する質問＆コメント」投稿機能を設けております。励みになりますので、ぜひ幅広いご閲覧、投票、コメントをお寄せ下さ…]]></description>
-        </item>
-        <item>
-            <title><![CDATA[【再掲】2/27（16時45分～）講演会「近現代日本における職業とジェンダー」（学生・教員対象）]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3746</link>
-            <guid>bfb0507054bbc5811a78a68fd4d9a2a9</guid>
-            <pubDate>Wed, 22 Feb 2023 03:00:00 GMT</pubDate>
-            <description><![CDATA[学生の皆様、教職員の皆様
-
-  このたび社会・国際学群チュートリアルプログラムでは、公開講演会を開催いたします。講師は、名古屋大学ジェンダー・リサーチ・ライブラリ・研究員　目黒茜氏で、『近現代日本における職業とジェンダー』というタイトルで講演を行っていただきます。皆様に是非ご参加いただきたく、以下のとおり、ご案内申し上げます。
-
-〇日時：令和５年２月２７日（月）１６時４５分～１８時００分
-
-〇開催…]]></description>
         </item>
         <item>
             <title><![CDATA[つくば環境安全管理レター　第２２号（２０２３年２月１４日）の発行について]]></title>
@@ -262,6 +249,21 @@ To prevent the leakage of sensitive technology related to security, graduate stu
 久松　剛氏をお招きして
 ・ワーキングプアに至った経緯
 ・研究力を活かして次のキ…]]></description>
+        </item>
+        <item>
+            <title><![CDATA[【周知】平塚線ガス工事のお知らせ]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3730</link>
+            <guid>c17305c1fb0610f320d2f0811731417c</guid>
+            <pubDate>Thu, 16 Feb 2023 03:00:00 GMT</pubDate>
+            <description><![CDATA[東京ガスから、平塚線中央付近において別添のとおりガス工事を行う旨連絡がありましたのでお知らせいたします。
+
+詳細は別添ファイルをご覧ください。
+
+工事内容：ガス管取替工事
+工事場所：　自：つくば市天王台１丁目１番地
+　　　　　　至：つくば市天久保３丁目４番地
+予定工期：令和５年２月２０日から令和５年３月３１日の内　約２８日
+予定時間：９時から１７時までの間（予定）]]></description>
         </item>
     </channel>
 </rss>
