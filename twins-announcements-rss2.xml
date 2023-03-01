@@ -4,7 +4,7 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Wed, 01 Mar 2023 09:10:37 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 01 Mar 2023 15:10:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
@@ -260,16 +260,15 @@ To prevent the leakage of sensitive technology related to security, graduate stu
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3729</link>
             <guid>1b4cb8a47ef657aa270631a6f7622d65</guid>
             <pubDate>Thu, 16 Feb 2023 03:00:00 GMT</pubDate>
-            <description><![CDATA[オンラインCity Chat Cafeで気軽に英語を練習しよう！
-様々な文化背景を持つ人々が出合い、おしゃべりを楽しむ国際交流イベントです。
-筑波大学の留学生と自己紹介や母国の紹介など自由な話題で気軽に英語や日本で会話を楽しめます。
-学外の参加者と交流できるチャンスです。是非参加お待ちします!
+            <description><![CDATA[東京ガスから、平塚線中央付近において別添のとおりガス工事を行う旨連絡がありましたのでお知らせいたします。
 
-日時：
-2月19日（日）
-前半13:30-14:30
-後半14:45-15:45
-トピック：Valen…]]></description>
+詳細は別添ファイルをご覧ください。
+
+工事内容：ガス管取替工事
+工事場所：　自：つくば市天王台１丁目１番地
+　　　　　　至：つくば市天久保３丁目４番地
+予定工期：令和５年２月２０日から令和５年３月３１日の内　約２８日
+予定時間：９時から１７時までの間（予定）]]></description>
         </item>
     </channel>
 </rss>
