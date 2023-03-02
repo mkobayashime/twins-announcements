@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "0b75bb38b3dd43ab654c9fb5bdaa7fa1",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3757",
+            "title": "【CiC】第１回CiC留学報告会（第１回CiC留学マイスター認定式）3/17（金）（オンライン）",
+            "summary": "CiC協定校への留学を終えた学生による、第１回CiC留学報告会（第１回CiC留学マイスター認定式）を開催します。さまざまな試練を乗り越えて夢を実現し、留学をやり遂げた学生から、留学中にチャレンジした活動と成果について報告します。\nまた、報告を終えた学生には、池田潤副学長より、CiC留学マイスター認定証を授与します。\n留学を検討中の皆様、現在留学中の皆様、学生の留学を支援してくださった教職員の皆様も…",
+            "date_modified": "2023-03-02T03:00:00.000Z"
+        },
+        {
             "id": "3f57f94a77f3608bd548045f56e80a52",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3756",
             "title": "【開催中！】筑波大学就職ミライ博「オンライン合同企業説明会」",
@@ -135,13 +142,6 @@
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3731",
             "title": "【3/8開催】博士の生存戦略　～研究＋αを活かしたキャリア構築～のご案内",
             "summary": "キャリア支援チーム主催、株式会社アカリクが共催の博士後期学生向けイベントをご案内します！\n本イベントは、博士人材として登っていた梯子が急に外された場合でも挫折せず、強かに生きていく\nことができる術をその実体験者からレクチャーいただきます。\n慶応義塾大学大学院で博士号を取得してワーキングプアを体験された「流しのEM」こと\n久松　剛氏をお招きして\n・ワーキングプアに至った経緯\n・研究力を活かして次のキ…",
-            "date_modified": "2023-02-16T03:00:00.000Z"
-        },
-        {
-            "id": "c17305c1fb0610f320d2f0811731417c",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3730",
-            "title": "【周知】平塚線ガス工事のお知らせ",
-            "summary": "東京ガスから、平塚線中央付近において別添のとおりガス工事を行う旨連絡がありましたのでお知らせいたします。\n\n詳細は別添ファイルをご覧ください。\n\n工事内容：ガス管取替工事\n工事場所：　自：つくば市天王台１丁目１番地\n　　　　　　至：つくば市天久保３丁目４番地\n予定工期：令和５年２月２０日から令和５年３月３１日の内　約２８日\n予定時間：９時から１７時までの間（予定）",
             "date_modified": "2023-02-16T03:00:00.000Z"
         }
     ]

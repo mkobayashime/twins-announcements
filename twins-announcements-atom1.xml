@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/mkobayashime/twins-announcements</id>
     <title>在学生へのお知らせ | 筑波大学</title>
-    <updated>2023-03-02T02:21:38.464Z</updated>
+    <updated>2023-03-02T03:17:10.316Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://github.com/mkobayashime/twins-announcements"/>
     <subtitle>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</subtitle>
+    <entry>
+        <title type="html"><![CDATA[【CiC】第１回CiC留学報告会（第１回CiC留学マイスター認定式）3/17（金）（オンライン）]]></title>
+        <id>0b75bb38b3dd43ab654c9fb5bdaa7fa1</id>
+        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3757"/>
+        <updated>2023-03-02T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[CiC協定校への留学を終えた学生による、第１回CiC留学報告会（第１回CiC留学マイスター認定式）を開催します。さまざまな試練を乗り越えて夢を実現し、留学をやり遂げた学生から、留学中にチャレンジした活動と成果について報告します。
+また、報告を終えた学生には、池田潤副学長より、CiC留学マイスター認定証を授与します。
+留学を検討中の皆様、現在留学中の皆様、学生の留学を支援してくださった教職員の皆様も…]]></summary>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【開催中！】筑波大学就職ミライ博「オンライン合同企業説明会」]]></title>
         <id>3f57f94a77f3608bd548045f56e80a52</id>
@@ -253,20 +262,5 @@ To prevent the leakage of sensitive technology related to security, graduate stu
 久松　剛氏をお招きして
 ・ワーキングプアに至った経緯
 ・研究力を活かして次のキ…]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【周知】平塚線ガス工事のお知らせ]]></title>
-        <id>c17305c1fb0610f320d2f0811731417c</id>
-        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3730"/>
-        <updated>2023-02-16T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[東京ガスから、平塚線中央付近において別添のとおりガス工事を行う旨連絡がありましたのでお知らせいたします。
-
-詳細は別添ファイルをご覧ください。
-
-工事内容：ガス管取替工事
-工事場所：　自：つくば市天王台１丁目１番地
-　　　　　　至：つくば市天久保３丁目４番地
-予定工期：令和５年２月２０日から令和５年３月３１日の内　約２８日
-予定時間：９時から１７時までの間（予定）]]></summary>
     </entry>
 </feed>
