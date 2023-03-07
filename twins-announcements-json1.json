@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "1672bd7d398638c53c930ff446685bc9",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3767",
+            "title": "【Hybrid】April 6th (Thu) 15:00-17:00 World-science Leaders’ Seminar（For all students）",
+            "summary": "The World-science Leaders’ Seminar is a part of classes in the Human Biology PhD program.\nStudents attending this seminar will learn the basics and latest research trends in the specialities of the wo…",
+            "date_modified": "2023-03-07T03:00:00.000Z"
+        },
+        {
             "id": "4b3790a1f71ecc80682cec9a980cf536",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3766",
             "title": "【Notice】Japanese Language Courses for the 2023 Academic year",
@@ -135,13 +142,6 @@
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3743",
             "title": "【重要】　@s メールの今後の運用について",
             "summary": "　学生のみなさんがお使いの @s.tsukuba.ac.jp (以降、@s のみ記します)\nのメールについてのお知らせです。重要事項のため、よく読んでください。\n\n(1) パスワードの変更\n\n　　2023年 2 月 27 日 01:00 以降、パスワードが統一認証システムのもの\n　　から、@s のメールシステム独自のものへと変更になります。\n\n　　この日の 03:00 以降、次の URL のページ…",
-            "date_modified": "2023-02-21T03:00:00.000Z"
-        },
-        {
-            "id": "fc93c12742eeb2e495e06a6255167445",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3741",
-            "title": "【再掲】2/28～3/10　筑波大学就職ミライ博第3弾「オンライン合同企業説明会」＆「合説 事前セミナー」",
-            "summary": "筑波大学就職ミライ博\n「オンライン合同企業説明会」開催！\n\n筑波大生のために全国の優良企業、官公庁等が集結します。\n例年多数のOBOGが参加し、企業ブースでみなさんの参加をお待ちしています。\nこの機会をお見逃しなく！\n\n【日程】　 2023年3月1日（水）～10日（金）※土日は除く\n【時間】　［1部］9：30～13：00　［2部］13：30～17：00\n【場所】　オンライン（EventIn）\n【対…",
             "date_modified": "2023-02-21T03:00:00.000Z"
         }
     ]
