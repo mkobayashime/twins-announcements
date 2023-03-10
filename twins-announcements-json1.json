@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "0b75bb38b3dd43ab654c9fb5bdaa7fa1",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3779",
+            "title": "【CiC】第１回CiC留学報告会（第１回CiC留学マイスター認定式）3/17（金）（オンライン）",
+            "summary": "CiC協定校への留学を終えた学生による、第１回CiC留学報告会（第１回CiC留学マイスター認定式）を開催します。さまざまな試練を乗り越えて夢を実現し、留学をやり遂げた学生から、留学中にチャレンジした活動と成果について報告します。\nまた、報告を終えた学生には、池田潤副学長より、CiC留学マイスター認定証を授与します。\n留学を検討中の皆様、現在留学中の皆様、学生の留学を支援してくださった教職員の皆様も…",
+            "date_modified": "2023-03-10T03:00:00.000Z"
+        },
+        {
             "id": "3c8d4920d6189cfe041b42987ad7e791",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3778",
             "title": "Request for cooperation to questionnaire, University of Tsukuba Newspaper",
@@ -136,13 +143,6 @@
             "title": "【開催中！】筑波大学就職ミライ博「オンライン合同企業説明会」",
             "summary": "筑波大学就職ミライ博\n「オンライン合同企業説明会」開催中です！\n\n筑波大生のために全国の優良企業、官公庁等が集結します。\n例年多数のOBOGが参加し、企業ブースでみなさんの参加をお待ちしています。\nこの機会をお見逃しなく！\n\n【日程】　 2023年3月1日（水）～10日（金）※土日は除く\n【時間】　［1部］9：30～13：00　［2部］13：30～17：00\n【場所】　オンライン（EventIn）…",
             "date_modified": "2023-03-02T03:00:00.000Z"
-        },
-        {
-            "id": "78e8dc2fdd8228c23804efaa0af7a401",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3755",
-            "title": "（配信開始）令和6年度採用を目指す日本学術振興会特別研究員説明会の講演について",
-            "summary": "令和6年度採用を目指す日本学術振興会特別研究員説明会をmanabaにて配信開始いたしました。採用内定者からのアドバイス、特別研究員審査会専門委員から見た申請にあたってのポイント等について、それぞれの講師から説明いただいております。ぜひご視聴の上、積極的に申請してください。\n\n配信場所　学習管理システム　manaba（https://manaba.tsukuba.ac.jp/ct/home）\nコース…",
-            "date_modified": "2023-03-01T03:00:00.000Z"
         }
     ]
 }

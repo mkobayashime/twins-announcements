@@ -4,10 +4,19 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Thu, 09 Mar 2023 21:09:13 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 10 Mar 2023 06:09:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
+        <item>
+            <title><![CDATA[【CiC】第１回CiC留学報告会（第１回CiC留学マイスター認定式）3/17（金）（オンライン）]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3779</link>
+            <guid>0b75bb38b3dd43ab654c9fb5bdaa7fa1</guid>
+            <pubDate>Fri, 10 Mar 2023 03:00:00 GMT</pubDate>
+            <description><![CDATA[CiC協定校への留学を終えた学生による、第１回CiC留学報告会（第１回CiC留学マイスター認定式）を開催します。さまざまな試練を乗り越えて夢を実現し、留学をやり遂げた学生から、留学中にチャレンジした活動と成果について報告します。
+また、報告を終えた学生には、池田潤副学長より、CiC留学マイスター認定証を授与します。
+留学を検討中の皆様、現在留学中の皆様、学生の留学を支援してくださった教職員の皆様も…]]></description>
+        </item>
         <item>
             <title><![CDATA[Request for cooperation to questionnaire, University of Tsukuba Newspaper]]></title>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3778</link>
@@ -218,16 +227,6 @@ Activities:
 【日程】　 2023年3月1日（水）～10日（金）※土日は除く
 【時間】　［1部］9：30～13：00　［2部］13：30～17：00
 【場所】　オンライン（EventIn）…]]></description>
-        </item>
-        <item>
-            <title><![CDATA[（配信開始）令和6年度採用を目指す日本学術振興会特別研究員説明会の講演について]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3755</link>
-            <guid>78e8dc2fdd8228c23804efaa0af7a401</guid>
-            <pubDate>Wed, 01 Mar 2023 03:00:00 GMT</pubDate>
-            <description><![CDATA[令和6年度採用を目指す日本学術振興会特別研究員説明会をmanabaにて配信開始いたしました。採用内定者からのアドバイス、特別研究員審査会専門委員から見た申請にあたってのポイント等について、それぞれの講師から説明いただいております。ぜひご視聴の上、積極的に申請してください。
-
-配信場所　学習管理システム　manaba（https://manaba.tsukuba.ac.jp/ct/home）
-コース…]]></description>
         </item>
     </channel>
 </rss>
