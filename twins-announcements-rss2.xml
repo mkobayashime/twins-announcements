@@ -4,10 +4,23 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Sun, 12 Mar 2023 21:08:05 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 13 Mar 2023 03:06:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
+        <item>
+            <title><![CDATA[【学生無料】葵トリオ―３人で奏でるシンフォニー　第13回つくばリサイタルシリーズ]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3781</link>
+            <guid>1b7a507d1667178cf63ce71cc2abf429</guid>
+            <pubDate>Mon, 13 Mar 2023 03:00:00 GMT</pubDate>
+            <description><![CDATA[　筑波大学有志学生が企画・運営する「つくばリサイタルシリーズ」。第13回は、
+音楽のオリンピックともいうべき世界最難関のミュンヘン国際音楽コンクールで
+2018年にピアノ三重奏部門日本人初優勝を果たし、世界を舞台に活躍する葵トリ
+オをお招きします。
+　葵トリオの三人は、ともに藝大に学び、その後サントリーホール室内楽アカデ
+ミーで研鑽を積みました。このアカデミーは、世界的に活躍する教授陣の指導で
+室…]]></description>
+        </item>
         <item>
             <title><![CDATA[【お知らせ】当面のマスク着用の考え方について]]></title>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3780</link>
@@ -201,16 +214,6 @@ Activities:
             <description><![CDATA[CiC協定校への留学を終えた学生による、第１回CiC留学報告会（第１回CiC留学マイスター認定式）を開催します。さまざまな試練を乗り越えて夢を実現し、留学をやり遂げた学生から、留学中にチャレンジした活動と成果について報告します。
 また、報告を終えた学生には、池田潤副学長より、CiC留学マイスター認定証を授与します。
 留学を検討中の皆様、現在留学中の皆様、学生の留学を支援してくださった教職員の皆様も…]]></description>
-        </item>
-        <item>
-            <title><![CDATA[（配信開始）令和6年度採用を目指す日本学術振興会特別研究員説明会の講演について]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3755</link>
-            <guid>78e8dc2fdd8228c23804efaa0af7a401</guid>
-            <pubDate>Wed, 01 Mar 2023 03:00:00 GMT</pubDate>
-            <description><![CDATA[令和6年度採用を目指す日本学術振興会特別研究員説明会をmanabaにて配信開始いたしました。採用内定者からのアドバイス、特別研究員審査会専門委員から見た申請にあたってのポイント等について、それぞれの講師から説明いただいております。ぜひご視聴の上、積極的に申請してください。
-
-配信場所　学習管理システム　manaba（https://manaba.tsukuba.ac.jp/ct/home）
-コース…]]></description>
         </item>
     </channel>
 </rss>

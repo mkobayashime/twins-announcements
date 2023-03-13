@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "1b7a507d1667178cf63ce71cc2abf429",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3781",
+            "title": "【学生無料】葵トリオ―３人で奏でるシンフォニー　第13回つくばリサイタルシリーズ",
+            "summary": "　筑波大学有志学生が企画・運営する「つくばリサイタルシリーズ」。第13回は、\n音楽のオリンピックともいうべき世界最難関のミュンヘン国際音楽コンクールで\n2018年にピアノ三重奏部門日本人初優勝を果たし、世界を舞台に活躍する葵トリ\nオをお招きします。\n　葵トリオの三人は、ともに藝大に学び、その後サントリーホール室内楽アカデ\nミーで研鑽を積みました。このアカデミーは、世界的に活躍する教授陣の指導で\n室…",
+            "date_modified": "2023-03-13T03:00:00.000Z"
+        },
+        {
             "id": "66f1d4bea923db3880f5d55dbbfaa47b",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3780",
             "title": "【お知らせ】当面のマスク着用の考え方について",
@@ -136,13 +143,6 @@
             "title": "【CiC】第１回CiC留学報告会（第１回CiC留学マイスター認定式）3/17（金）（オンライン）",
             "summary": "CiC協定校への留学を終えた学生による、第１回CiC留学報告会（第１回CiC留学マイスター認定式）を開催します。さまざまな試練を乗り越えて夢を実現し、留学をやり遂げた学生から、留学中にチャレンジした活動と成果について報告します。\nまた、報告を終えた学生には、池田潤副学長より、CiC留学マイスター認定証を授与します。\n留学を検討中の皆様、現在留学中の皆様、学生の留学を支援してくださった教職員の皆様も…",
             "date_modified": "2023-03-02T03:00:00.000Z"
-        },
-        {
-            "id": "78e8dc2fdd8228c23804efaa0af7a401",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3755",
-            "title": "（配信開始）令和6年度採用を目指す日本学術振興会特別研究員説明会の講演について",
-            "summary": "令和6年度採用を目指す日本学術振興会特別研究員説明会をmanabaにて配信開始いたしました。採用内定者からのアドバイス、特別研究員審査会専門委員から見た申請にあたってのポイント等について、それぞれの講師から説明いただいております。ぜひご視聴の上、積極的に申請してください。\n\n配信場所　学習管理システム　manaba（https://manaba.tsukuba.ac.jp/ct/home）\nコース…",
-            "date_modified": "2023-03-01T03:00:00.000Z"
         }
     ]
 }
