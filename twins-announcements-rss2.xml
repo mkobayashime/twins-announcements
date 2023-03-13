@@ -4,10 +4,31 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Mon, 13 Mar 2023 09:10:34 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 13 Mar 2023 10:06:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
+        <item>
+            <title><![CDATA[【大学内で購入可能に】KASUMI筑波大学店で筑波大学グッズ販売開始]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3782</link>
+            <guid>abf3d8546c00c72eeea841489f63779e</guid>
+            <pubDate>Mon, 13 Mar 2023 03:00:00 GMT</pubDate>
+            <description><![CDATA[筑波大学公式オリジナルグッズの学内での販売が3月11日より開始されました！
+
+
+
+以前より、ご要望の多かった学内での販売、是非手に取ってご覧ください！！
+
+皆様の「日常生活」、「思い出」、「プレゼント🎁」などにご活用いただけますと幸いです。
+
+
+
+場所：KASUMI筑波大学店
+
+（一部取り扱いのない商品あり）
+
+※KASUMIでのご購入はクーポンコードによる割引対象外となります。予めご了承くださ…]]></description>
+        </item>
         <item>
             <title><![CDATA[【学生無料】葵トリオ―３人で奏でるシンフォニー　第13回つくばリサイタルシリーズ]]></title>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3781</link>
@@ -205,15 +226,6 @@ Place: Student Commons (1A203)
 Activities:
 ・Explanation about how to register for the TSUKUBA LIVE!
 ・Get chances to play with the gacha (capsule-toy…]]></description>
-        </item>
-        <item>
-            <title><![CDATA[【CiC】第１回CiC留学報告会（第１回CiC留学マイスター認定式）3/17（金）（オンライン）]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3757</link>
-            <guid>0b75bb38b3dd43ab654c9fb5bdaa7fa1</guid>
-            <pubDate>Thu, 02 Mar 2023 03:00:00 GMT</pubDate>
-            <description><![CDATA[CiC協定校への留学を終えた学生による、第１回CiC留学報告会（第１回CiC留学マイスター認定式）を開催します。さまざまな試練を乗り越えて夢を実現し、留学をやり遂げた学生から、留学中にチャレンジした活動と成果について報告します。
-また、報告を終えた学生には、池田潤副学長より、CiC留学マイスター認定証を授与します。
-留学を検討中の皆様、現在留学中の皆様、学生の留学を支援してくださった教職員の皆様も…]]></description>
         </item>
     </channel>
 </rss>
