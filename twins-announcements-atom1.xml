@@ -2,10 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/mkobayashime/twins-announcements</id>
     <title>在学生へのお知らせ | 筑波大学</title>
-    <updated>2023-03-14T07:06:44.754Z</updated>
+    <updated>2023-03-14T08:09:53.459Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://github.com/mkobayashime/twins-announcements"/>
     <subtitle>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</subtitle>
+    <entry>
+        <title type="html"><![CDATA[（はばたけ！筑大生）海外武者修行帰国報告会の開催について]]></title>
+        <id>ac088d41543df3cf6b4081ae41bc15b0</id>
+        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3785"/>
+        <updated>2023-03-14T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[令和４年度筑波大学海外留学支援事業（はばたけ！筑大生）
+海外武者修行支援プログラム帰国報告会
+
+１．日時：令和５年３月２０日（月）１４時３０分～１５時３０分
+
+２．会場：総合研究棟Ａ　１１０公開講義室
+
+３．報告内容
+　①豊かな農業大国を創る（栄養×六次産業化）（ルワンダ）
+　　　　企画代表者（所属）：生命環境学群生物資源学類
+　②スマートインフラ技術のアフリカ移転（ルワンダ）
+　　　　企画代表者…]]></summary>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2023年度（第15期）官民協働海外留学支援制度～トビタテ！留学JAPAN新・日本代表プログラム～【大学１年生枠】の募集について（学内締切：2023年4月18日（火）17時）]]></title>
         <id>f5db8ae224b67c6945728eb13ef5e50f</id>
@@ -202,16 +220,5 @@ Students attending this seminar will learn the basics and latest research trends
         <summary type="html"><![CDATA[CiC協定校への留学を終えた学生による、第１回CiC留学報告会（第１回CiC留学マイスター認定式）を開催します。さまざまな試練を乗り越えて夢を実現し、留学をやり遂げた学生から、留学中にチャレンジした活動と成果について報告します。
 また、報告を終えた学生には、池田潤副学長より、CiC留学マイスター認定証を授与します。
 留学を検討中の皆様、現在留学中の皆様、学生の留学を支援してくださった教職員の皆様も…]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[FREE gacha chance! "Let's meet Cosmi-cun" (TSUKUBA LIVE related event)]]></title>
-        <id>b96efae4468bb0a1695f7278e11ed2dd</id>
-        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3761"/>
-        <updated>2023-03-03T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Date: March 8th (Wed), March 16th (Thu) 12:00-16:00
-Place: Student Commons (1A203)
-Activities:
-・Explanation about how to register for the TSUKUBA LIVE!
-・Get chances to play with the gacha (capsule-toy…]]></summary>
     </entry>
 </feed>

@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "ac088d41543df3cf6b4081ae41bc15b0",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3785",
+            "title": "（はばたけ！筑大生）海外武者修行帰国報告会の開催について",
+            "summary": "令和４年度筑波大学海外留学支援事業（はばたけ！筑大生）\n海外武者修行支援プログラム帰国報告会\n\n１．日時：令和５年３月２０日（月）１４時３０分～１５時３０分\n\n２．会場：総合研究棟Ａ　１１０公開講義室\n\n３．報告内容\n　①豊かな農業大国を創る（栄養×六次産業化）（ルワンダ）\n　　　　企画代表者（所属）：生命環境学群生物資源学類\n　②スマートインフラ技術のアフリカ移転（ルワンダ）\n　　　　企画代表者…",
+            "date_modified": "2023-03-14T03:00:00.000Z"
+        },
+        {
             "id": "f5db8ae224b67c6945728eb13ef5e50f",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3784",
             "title": "2023年度（第15期）官民協働海外留学支援制度～トビタテ！留学JAPAN新・日本代表プログラム～【大学１年生枠】の募集について（学内締切：2023年4月18日（火）17時）",
@@ -136,13 +143,6 @@
             "title": "【CiC】第１回CiC留学報告会（第１回CiC留学マイスター認定式）3/17（金）（オンライン",
             "summary": "CiC協定校への留学を終えた学生による、第１回CiC留学報告会（第１回CiC留学マイスター認定式）を開催します。さまざまな試練を乗り越えて夢を実現し、留学をやり遂げた学生から、留学中にチャレンジした活動と成果について報告します。\nまた、報告を終えた学生には、池田潤副学長より、CiC留学マイスター認定証を授与します。\n留学を検討中の皆様、現在留学中の皆様、学生の留学を支援してくださった教職員の皆様も…",
             "date_modified": "2023-03-06T03:00:00.000Z"
-        },
-        {
-            "id": "b96efae4468bb0a1695f7278e11ed2dd",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3761",
-            "title": "FREE gacha chance! \"Let's meet Cosmi-cun\" (TSUKUBA LIVE related event)",
-            "summary": "Date: March 8th (Wed), March 16th (Thu) 12:00-16:00\nPlace: Student Commons (1A203)\nActivities:\n・Explanation about how to register for the TSUKUBA LIVE!\n・Get chances to play with the gacha (capsule-toy…",
-            "date_modified": "2023-03-03T03:00:00.000Z"
         }
     ]
 }
