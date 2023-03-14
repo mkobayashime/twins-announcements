@@ -2,10 +2,18 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/mkobayashime/twins-announcements</id>
     <title>在学生へのお知らせ | 筑波大学</title>
-    <updated>2023-03-14T01:56:08.062Z</updated>
+    <updated>2023-03-14T07:06:44.754Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://github.com/mkobayashime/twins-announcements"/>
     <subtitle>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</subtitle>
+    <entry>
+        <title type="html"><![CDATA[2023年度（第15期）官民協働海外留学支援制度～トビタテ！留学JAPAN新・日本代表プログラム～【大学１年生枠】の募集について（学内締切：2023年4月18日（火）17時）]]></title>
+        <id>f5db8ae224b67c6945728eb13ef5e50f</id>
+        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3784"/>
+        <updated>2023-03-14T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[2023年度（第15期）～トビタテ！留学JAPAN新・日本代表プログラム～【大学1年生枠】の募集につき、ご案内致します。申請希望者は募集要項にて要件を確認の上、2023年4月18日（火）17時迄に応募申請システム（ガクシーAgent）にて大学への応募申請を完了して下さい。また所属する教育組織に対応した支援室等に所得証明関連書類を同日17時迄に提出して下さい。
+応募申請は本学を通して行う必要があり、…]]></summary>
+    </entry>
     <entry>
         <title type="html"><![CDATA[「時事問題を英語で読み書き話す勉強会」開催のお知らせ]]></title>
         <id>c89f978491825365b95420a6adbab55c</id>
@@ -205,22 +213,5 @@ Place: Student Commons (1A203)
 Activities:
 ・Explanation about how to register for the TSUKUBA LIVE!
 ・Get chances to play with the gacha (capsule-toy…]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【3/6～3/17開催】『国際女性デーフェア』]]></title>
-        <id>00d094ec588351551d159d6a4448f105</id>
-        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3760"/>
-        <updated>2023-03-02T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[2023年3月6日（月）～17日（金）に筑波大学附属中央図書館２Fチャットフレームにて 
-
-『国際女性デーフェア』
-
-を開催します！ 
-3/8 「国際女性デー」にちなんで、女性・ジェンダーに関する推薦書籍を展示いたします。
-推薦者の推薦理由も添えて書籍を展示いたしますので、
-
-ぜひお手に取ってご覧ください。
---------------------
-【日程】2023年3月6日（月）～17日（金） …]]></summary>
     </entry>
 </feed>
