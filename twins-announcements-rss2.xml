@@ -4,10 +4,19 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Mon, 13 Mar 2023 21:08:47 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 14 Mar 2023 01:56:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
+        <item>
+            <title><![CDATA[「時事問題を英語で読み書き話す勉強会」開催のお知らせ]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3783</link>
+            <guid>c89f978491825365b95420a6adbab55c</guid>
+            <pubDate>Tue, 14 Mar 2023 03:00:00 GMT</pubDate>
+            <description><![CDATA[筑波大学「世界を変えよう基金アカデミー」では、時事問題に関する英語メディア報道記事を題材にacademic essayを作成し、英語で議論する勉強会を４月下旬からZoomで隔週開催します（10回、各2時間）。勉強会は主として英語で行いますが、academic essay の書き方に関する説明は日本語で行います。
+
+参加は無料ですが、TOEIC 700点相当以上の英語力を有し、今後の海外留学のために…]]></description>
+        </item>
         <item>
             <title><![CDATA[【大学内で購入可能に】KASUMI筑波大学店で筑波大学グッズ販売開始]]></title>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3782</link>
@@ -215,17 +224,6 @@ Activities:
 ぜひお手に取ってご覧ください。
 --------------------
 【日程】2023年3月6日（月）～17日（金） …]]></description>
-        </item>
-        <item>
-            <title><![CDATA["Let's meet Cosmi-cun" (TSUKUBA LIVE related event)]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3759</link>
-            <guid>478b935fcf0d18adad43a385ed4457dc</guid>
-            <pubDate>Thu, 02 Mar 2023 03:00:00 GMT</pubDate>
-            <description><![CDATA[Date: March 8th (Wed), March 16th (Thu) 12:00-16:00
-Place: Student Commons (1A203)
-Activities:
-・Explanation about how to register for the TSUKUBA LIVE!
-・Get chances to play with the gacha (capsule-toy…]]></description>
         </item>
     </channel>
 </rss>

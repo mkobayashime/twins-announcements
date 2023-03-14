@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "c89f978491825365b95420a6adbab55c",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3783",
+            "title": "「時事問題を英語で読み書き話す勉強会」開催のお知らせ",
+            "summary": "筑波大学「世界を変えよう基金アカデミー」では、時事問題に関する英語メディア報道記事を題材にacademic essayを作成し、英語で議論する勉強会を４月下旬からZoomで隔週開催します（10回、各2時間）。勉強会は主として英語で行いますが、academic essay の書き方に関する説明は日本語で行います。\n\n参加は無料ですが、TOEIC 700点相当以上の英語力を有し、今後の海外留学のために…",
+            "date_modified": "2023-03-14T03:00:00.000Z"
+        },
+        {
             "id": "abf3d8546c00c72eeea841489f63779e",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3782",
             "title": "【大学内で購入可能に】KASUMI筑波大学店で筑波大学グッズ販売開始",
@@ -135,13 +142,6 @@
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3760",
             "title": "【3/6～3/17開催】『国際女性デーフェア』",
             "summary": "2023年3月6日（月）～17日（金）に筑波大学附属中央図書館２Fチャットフレームにて \n\n『国際女性デーフェア』\n\nを開催します！ \n3/8 「国際女性デー」にちなんで、女性・ジェンダーに関する推薦書籍を展示いたします。\n推薦者の推薦理由も添えて書籍を展示いたしますので、\n\nぜひお手に取ってご覧ください。\n--------------------\n【日程】2023年3月6日（月）～17日（金） …",
-            "date_modified": "2023-03-02T03:00:00.000Z"
-        },
-        {
-            "id": "478b935fcf0d18adad43a385ed4457dc",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3759",
-            "title": "\"Let's meet Cosmi-cun\" (TSUKUBA LIVE related event)",
-            "summary": "Date: March 8th (Wed), March 16th (Thu) 12:00-16:00\nPlace: Student Commons (1A203)\nActivities:\n・Explanation about how to register for the TSUKUBA LIVE!\n・Get chances to play with the gacha (capsule-toy…",
             "date_modified": "2023-03-02T03:00:00.000Z"
         }
     ]
