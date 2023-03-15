@@ -4,10 +4,20 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Wed, 15 Mar 2023 09:09:57 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 Mar 2023 12:11:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
+        <item>
+            <title><![CDATA[Re-post：[Notice] Undergraduate / Graduate School Commencement Ceremonies for AY2022]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3796</link>
+            <guid>625a79507139f6148fb44b1fd67ed6bc</guid>
+            <pubDate>Wed, 15 Mar 2023 03:00:00 GMT</pubDate>
+            <description><![CDATA[※We would like to remind you again that some of the information  posted on March 9 was incorrect.
+　The correct time for Graduate School Commencement Ceremony is 1:20 PM to 2:25 PM.
+
+------------------…]]></description>
+        </item>
         <item>
             <title><![CDATA[【BHE】参加者募集中　3月20日チャレンジ実践会　]]></title>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3795</link>
@@ -189,15 +199,6 @@ The concert will be performed by the Aoi Trio, who won the Mun…]]></descriptio
             <guid>6d4180696061975e3ff174d25d77261f</guid>
             <pubDate>Thu, 09 Mar 2023 03:00:00 GMT</pubDate>
             <description><![CDATA[筑波大学新聞からハラスメントに関するアンケートのお知らせがありましたのでご協力をお願いいたします。詳細については下記の添付ファイルをご覧ください。]]></description>
-        </item>
-        <item>
-            <title><![CDATA[[Notice of Event being Held] Undergraduate / Graduate School Commencement Ceremonies for AY2022]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3774</link>
-            <guid>2c0dcf1e58c8f863bd79aaec72723548</guid>
-            <pubDate>Thu, 09 Mar 2023 03:00:00 GMT</pubDate>
-            <description><![CDATA[To Graduating Students
-
-Undergraduate and Graduate School Commencement Ceremonies for AY2022 will be held as below.]]></description>
         </item>
         <item>
             <title><![CDATA[【開催案内】令和4年度筑波大学卒業式・大学院学位記授与式]]></title>

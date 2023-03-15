@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "625a79507139f6148fb44b1fd67ed6bc",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3796",
+            "title": "Re-post：[Notice] Undergraduate / Graduate School Commencement Ceremonies for AY2022",
+            "summary": "※We would like to remind you again that some of the information  posted on March 9 was incorrect.\n　The correct time for Graduate School Commencement Ceremony is 1:20 PM to 2:25 PM.\n\n------------------…",
+            "date_modified": "2023-03-15T03:00:00.000Z"
+        },
+        {
             "id": "fbe03f3062f0dc1c89cd07c97a9cd930",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3795",
             "title": "【BHE】参加者募集中　3月20日チャレンジ実践会　",
@@ -121,13 +128,6 @@
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3777",
             "title": "筑波大学新聞・アンケート協力のお願い",
             "summary": "筑波大学新聞からハラスメントに関するアンケートのお知らせがありましたのでご協力をお願いいたします。詳細については下記の添付ファイルをご覧ください。",
-            "date_modified": "2023-03-09T03:00:00.000Z"
-        },
-        {
-            "id": "2c0dcf1e58c8f863bd79aaec72723548",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3774",
-            "title": "[Notice of Event being Held] Undergraduate / Graduate School Commencement Ceremonies for AY2022",
-            "summary": "To Graduating Students\n\nUndergraduate and Graduate School Commencement Ceremonies for AY2022 will be held as below.",
             "date_modified": "2023-03-09T03:00:00.000Z"
         },
         {
