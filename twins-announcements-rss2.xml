@@ -4,10 +4,19 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Wed, 15 Mar 2023 07:03:42 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 Mar 2023 08:08:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
+        <item>
+            <title><![CDATA[【BHE】参加者募集中　3月20日チャレンジ実践会　]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3795</link>
+            <guid>fbe03f3062f0dc1c89cd07c97a9cd930</guid>
+            <pubDate>Wed, 15 Mar 2023 03:00:00 GMT</pubDate>
+            <description><![CDATA[ES編・面接編・ＧＤ編それぞれ少人数の講座です。
+各回キャリア担当ファシリテーターからフィードバックがあります。
+就活中の方やこれからインターンシップを始める方はぜひ参加してください。]]></description>
+        </item>
         <item>
             <title><![CDATA[【周知】文部科学大臣メッセージ「～不安や悩みがあったら話してみよう～」]]></title>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3794</link>
@@ -207,18 +216,6 @@ Undergraduate and Graduate School Commencement Ceremonies for AY2022 will be hel
             <pubDate>Wed, 08 Mar 2023 03:00:00 GMT</pubDate>
             <description><![CDATA[To students scheduled to complete graduate school in AY2022 (including withdrawals, etc.)
 To prevent the leakage of sensitive technology related to security, graduate students are required to submit a…]]></description>
-        </item>
-        <item>
-            <title><![CDATA[【提出依頼】manabaによる安全保障輸出管理にかかる「誓約書」の提出について]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3771</link>
-            <guid>7c6bcdffdc66381a0306a420e46e8e6d</guid>
-            <pubDate>Wed, 08 Mar 2023 03:00:00 GMT</pubDate>
-            <description><![CDATA[利益相反・輸出管理マネジメント室では、大学の機微技術の流出を防止するための管理として、経済産業省の推奨に従い入学、修了時等の各段階で「外国為替及び外国貿易法」を遵守する誓約書の取得を行っています。
-入学時および修了（見込み）時等にそれぞれ提出してください。
-
-【提出対象者】大学院学生（退学者等含む）、大学院レベルの（研究生、特別聴講学生、特別研究学生）
-【manabaコース名／コースコード】
-誓約…]]></description>
         </item>
     </channel>
 </rss>
