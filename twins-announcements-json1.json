@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "bc76651af2c1c75042a25e1a41f3f551",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3789",
+            "title": "Free Invitation to an acclaimed classic concert sponsored by “Make a Difference in the World Fund”",
+            "summary": "The University’s MDW Fund is sponsoring the concert organized by volunteer students of the \"Tsukuba Recital Series\" Executive Committee.\n\nThe concert will be performed by the Aoi Trio, who won the Mun…",
+            "date_modified": "2023-03-15T03:00:00.000Z"
+        },
+        {
             "id": "5eef137122fdb6d3227d0eac55243f3c",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3788",
             "title": "【注意喚起】いわゆる「闇バイト」の周知について",
@@ -135,13 +142,6 @@
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3766",
             "title": "【Notice】Japanese Language Courses for the 2023 Academic year",
             "summary": "If you are interested in the Japanese Language Courses offered by the Center for Education of Global Communication (CEGLOC), please check the procedure from the link shown below.\n・AY 2023 New classes：…",
-            "date_modified": "2023-03-07T03:00:00.000Z"
-        },
-        {
-            "id": "b16edb068d583297a9a621b93febcbc2",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3765",
-            "title": "【通知】2023年度 日本語コースの実施",
-            "summary": "グローバルコミュニケーション教育センター（CEGLOC）が開講する日本語コースの受講を希望する留学生等は、下記のリンクから受講手続を確認してください。\n・2023年度　新規開講科目：大学院生のための日本語科目（春C／秋C）\n",
             "date_modified": "2023-03-07T03:00:00.000Z"
         }
     ]

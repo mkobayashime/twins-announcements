@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/mkobayashime/twins-announcements</id>
     <title>在学生へのお知らせ | 筑波大学</title>
-    <updated>2023-03-15T03:05:59.897Z</updated>
+    <updated>2023-03-15T05:03:59.822Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://github.com/mkobayashime/twins-announcements"/>
     <subtitle>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</subtitle>
+    <entry>
+        <title type="html"><![CDATA[Free Invitation to an acclaimed classic concert sponsored by “Make a Difference in the World Fund”]]></title>
+        <id>bc76651af2c1c75042a25e1a41f3f551</id>
+        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3789"/>
+        <updated>2023-03-15T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The University’s MDW Fund is sponsoring the concert organized by volunteer students of the "Tsukuba Recital Series" Executive Committee.
+
+The concert will be performed by the Aoi Trio, who won the Mun…]]></summary>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【注意喚起】いわゆる「闇バイト」の周知について]]></title>
         <id>5eef137122fdb6d3227d0eac55243f3c</id>
@@ -203,14 +212,5 @@ Students attending this seminar will learn the basics and latest research trends
         <updated>2023-03-07T03:00:00.000Z</updated>
         <summary type="html"><![CDATA[If you are interested in the Japanese Language Courses offered by the Center for Education of Global Communication (CEGLOC), please check the procedure from the link shown below.
 ・AY 2023 New classes：…]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【通知】2023年度 日本語コースの実施]]></title>
-        <id>b16edb068d583297a9a621b93febcbc2</id>
-        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3765"/>
-        <updated>2023-03-07T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[グローバルコミュニケーション教育センター（CEGLOC）が開講する日本語コースの受講を希望する留学生等は、下記のリンクから受講手続を確認してください。
-・2023年度　新規開講科目：大学院生のための日本語科目（春C／秋C）
-]]></summary>
     </entry>
 </feed>
