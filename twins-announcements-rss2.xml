@@ -4,10 +4,35 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Wed, 15 Mar 2023 05:03:59 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 Mar 2023 06:08:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
+        <item>
+            <title><![CDATA[年度末・年度始のTWINSサービス休止のお知らせ／Notice of suspension of TWINS service]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3793</link>
+            <guid>e954bb2a3ce2e79e800c16e7ec742393</guid>
+            <pubDate>Wed, 15 Mar 2023 03:00:00 GMT</pubDate>
+            <description><![CDATA[TWINSの年度更新作業のため、下記の期間TWINSによる各種サービスを休止します。
+この間、成績照会や証明書の発行もできません。
+ご不便をおかけしますが、ご協力をお願いします。
+令和5年3月30日(木)15時 ～ 4月3日(月)まで
+
+Due to annual updates, various services on TWINS will be temporarily suspended du…]]></description>
+        </item>
+        <item>
+            <title><![CDATA[【緊急募集｜学生・教職員ボランティア】東京レインボープライド]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3792</link>
+            <guid>c6b69eb134859f5f16627f5c23a12ef0</guid>
+            <pubDate>Wed, 15 Mar 2023 03:00:00 GMT</pubDate>
+            <description><![CDATA[筑波大学ヒューマンエンパワーメント推進局（BHE）は
+2023年4月22日(土)・23日(日)に開催される「東京レインボープライド（Tokyo Rainbow Pride：TRP）」にブース出展を行います。
+
+そこで、当日、ブース出展の手伝いをお願いできる学生・教職員ボランティアを募集します。
+具体的な内容は以下の通りです。みなさんの応募をお待ちしています！
+
+【日時】2023年4月22日（土）、…]]></description>
+        </item>
         <item>
             <title><![CDATA[Free Invitation to an acclaimed classic concert sponsored by “Make a Difference in the World Fund”]]></title>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3789</link>
@@ -198,22 +223,6 @@ To prevent the leakage of sensitive technology related to security, graduate stu
 
 TSUKUBA LIVE!参加のための登録方法の説明あり！
 筑波…]]></description>
-        </item>
-        <item>
-            <title><![CDATA[【Hybrid】April 6th (Thu) 15:00-17:00 World-science Leaders’ Seminar（For all students）]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3767</link>
-            <guid>1672bd7d398638c53c930ff446685bc9</guid>
-            <pubDate>Tue, 07 Mar 2023 03:00:00 GMT</pubDate>
-            <description><![CDATA[The World-science Leaders’ Seminar is a part of classes in the Human Biology PhD program.
-Students attending this seminar will learn the basics and latest research trends in the specialities of the wo…]]></description>
-        </item>
-        <item>
-            <title><![CDATA[【Notice】Japanese Language Courses for the 2023 Academic year]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3766</link>
-            <guid>4b3790a1f71ecc80682cec9a980cf536</guid>
-            <pubDate>Tue, 07 Mar 2023 03:00:00 GMT</pubDate>
-            <description><![CDATA[If you are interested in the Japanese Language Courses offered by the Center for Education of Global Communication (CEGLOC), please check the procedure from the link shown below.
-・AY 2023 New classes：…]]></description>
         </item>
     </channel>
 </rss>
