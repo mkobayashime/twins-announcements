@@ -4,10 +4,22 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Tue, 14 Mar 2023 21:08:51 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 Mar 2023 02:06:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
+        <item>
+            <title><![CDATA[サーバー更新作業に伴うキャリア支援チームHP及び就職情報提供システム停止のお知らせ]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3786</link>
+            <guid>f7e5c4dc1ece4147cbde4ed3df16263e</guid>
+            <pubDate>Wed, 15 Mar 2023 03:00:00 GMT</pubDate>
+            <description><![CDATA[サーバー更新作業に伴い、下記の時間、キャリア支援チームホームページ等へ繋がりにくくなります。
+【サーバー更新作業日時】3/22（水）9：00　～　3/22（水）12：15（予定）
+
+なお、サーバー更新作業中は、「学内専用ページ」、「ガイダンス等及び模試試験登録・申請」、「進路進捗状況届」へのアクセスはできません。
+皆様にはご迷惑をおかけいたしますが、ご理解、ご協力の程よろしくお願いいたします。
+]]></description>
+        </item>
         <item>
             <title><![CDATA[（はばたけ！筑大生）海外武者修行帰国報告会の開催について]]></title>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3785</link>
@@ -213,15 +225,6 @@ Students attending this seminar will learn the basics and latest research trends
 回収日程：月～金10：00～16：00（土・日・祝日を除く）
 場　　所：大学会館駐車場内（桐葉橋下）
 必要な物：処分を依頼する自転車、「自転車防犯登録票（甲）…]]></description>
-        </item>
-        <item>
-            <title><![CDATA[【CiC】第１回CiC留学報告会（第１回CiC留学マイスター認定式）3/17（金）（オンライン]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3762</link>
-            <guid>ca87552f79c17e97c3acbeb7d2ee662d</guid>
-            <pubDate>Mon, 06 Mar 2023 03:00:00 GMT</pubDate>
-            <description><![CDATA[CiC協定校への留学を終えた学生による、第１回CiC留学報告会（第１回CiC留学マイスター認定式）を開催します。さまざまな試練を乗り越えて夢を実現し、留学をやり遂げた学生から、留学中にチャレンジした活動と成果について報告します。
-また、報告を終えた学生には、池田潤副学長より、CiC留学マイスター認定証を授与します。
-留学を検討中の皆様、現在留学中の皆様、学生の留学を支援してくださった教職員の皆様も…]]></description>
         </item>
     </channel>
 </rss>
