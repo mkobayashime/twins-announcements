@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/mkobayashime/twins-announcements</id>
     <title>在学生へのお知らせ | 筑波大学</title>
-    <updated>2023-03-16T15:05:37.560Z</updated>
+    <updated>2023-03-16T15:10:23.342Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://github.com/mkobayashime/twins-announcements"/>
     <subtitle>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</subtitle>
@@ -90,11 +90,13 @@ Activities:
         <id>1048c9cc3cb14afb6c127504deb43c50</id>
         <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3797"/>
         <updated>2023-03-16T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Date: March 16th (Thu) 12:00-16:00
-Place: Student Commons (1A203)
-Activities:
-・Explanation about how to register for the TSUKUBA LIVE!
-・Get chances to play with the gacha (capsule-toy machine) by shak…]]></summary>
+        <summary type="html"><![CDATA[来る3/22（木）にTSUKUBA LIVE！が、つくばカピオにて開催されます。スチューデントサポートセンターでは、TSUKUBA LIVE!応援企画として、スチューデント・コモンズ（1A203）にてイベントを開催します！
+
+日時：3月16日（木）12：00～16：00
+場所：スチューデント・コモンズ（1A203）
+
+TSUKUBA LIVE!参加のための登録方法の説明あり！
+筑波大学アスレチック…]]></summary>
     </entry>
     <entry>
         <title type="html"><![CDATA[Re-post：[Notice] Undergraduate / Graduate School Commencement Ceremonies for AY2022]]></title>
