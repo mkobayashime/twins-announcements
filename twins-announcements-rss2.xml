@@ -4,10 +4,19 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Thu, 16 Mar 2023 02:07:09 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 16 Mar 2023 03:07:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
+        <item>
+            <title><![CDATA[【Campus France-フランス政府留学局・日本支局主催】Campus Franceの短期語学留学2023夏季セッションについて（締切：4/19（水））]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3799</link>
+            <guid>29454954e66c54cb69dfe9cd0a5f33ff</guid>
+            <pubDate>Thu, 16 Mar 2023 03:00:00 GMT</pubDate>
+            <description><![CDATA[フランス政府留学局・日本支局では、年に2度、日本の大学の春休みと夏休みの時期に合わせ、短期語学留学プログラムを実施しています。フランス語の習得レベルや、大学での専攻分野を問わず、すべての学生が参加できます。今回の募集は9月の実施日程のセッションになります。申請希望者は以下ガイドライン等を熟読の上、申込みフォームを英字で記入し、期日までに所属する教育組織対応の支援室等へ提出してください。
+
+【夏季セ…]]></description>
+        </item>
         <item>
             <title><![CDATA[FREE gacha chance! "Let's meet Cosmi-cun" (TSUKUBA LIVE related event)]]></title>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3798</link>
@@ -216,13 +225,6 @@ The concert will be performed by the Aoi Trio, who won the Mun…]]></descriptio
             <guid>3c8d4920d6189cfe041b42987ad7e791</guid>
             <pubDate>Thu, 09 Mar 2023 03:00:00 GMT</pubDate>
             <description><![CDATA[University of Tsukuba Newspaper has informed us of a questionnaire regarding harassment, and we would appreciate your cooperation. Please see the attached file below for details.]]></description>
-        </item>
-        <item>
-            <title><![CDATA[筑波大学新聞・アンケート協力のお願い]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3777</link>
-            <guid>6d4180696061975e3ff174d25d77261f</guid>
-            <pubDate>Thu, 09 Mar 2023 03:00:00 GMT</pubDate>
-            <description><![CDATA[筑波大学新聞からハラスメントに関するアンケートのお知らせがありましたのでご協力をお願いいたします。詳細については下記の添付ファイルをご覧ください。]]></description>
         </item>
     </channel>
 </rss>
