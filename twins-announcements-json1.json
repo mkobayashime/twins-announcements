@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "03ec03608c305b9d1a3a66499e512eea",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3803",
+            "title": "令和５年度全学ＴＡ研修会のお知らせ/Training Seminar for Teaching Assistants AY 2023",
+            "summary": "多くの授業に TA が関わっている現在では、TA の役割と力量がより質の高い授業を作るうえでの鍵になります。今回、教育者としての TA の役割や基本的な心構えについて理解を深めること、レポート採点支援等を目的として、TA 研修プログラムを実施します。\n本研修会は、TAに対する必要な研修として位置付けられていますので、TA を予定している大学院生は、TAとして勤務する前に必ず受講してください。\nTA…",
+            "date_modified": "2023-03-17T03:00:00.000Z"
+        },
+        {
             "id": "b4f0b56637b3253c60ff1895d6ecb96e",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3807",
             "title": "【Event】The last BOM hosted by URA - Borderless Online Meeting -Fri, Mar 17, 12:20 - 1:10 pm JST.",
@@ -57,7 +64,7 @@
             "id": "1048c9cc3cb14afb6c127504deb43c50",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3797",
             "title": "本日開催！【TSUKUBA LIVE!応援企画】FREE GACHA CHANCE ”スチューデント・コモンズでコズミくんと握手”",
-            "summary": "来る3/22（木）にTSUKUBA LIVE！が、つくばカピオにて開催されます。スチューデントサポートセンターでは、TSUKUBA LIVE!応援企画として、スチューデント・コモンズ（1A203）にてイベントを開催します！\n\n日時：3月16日（木）12：00～16：00\n場所：スチューデント・コモンズ（1A203）\n\nTSUKUBA LIVE!参加のための登録方法の説明あり！\n筑波大学アスレチック…",
+            "summary": "Date: March 16th (Thu) 12:00-16:00\nPlace: Student Commons (1A203)\nActivities:\n・Explanation about how to register for the TSUKUBA LIVE!\n・Get chances to play with the gacha (capsule-toy machine) by shak…",
             "date_modified": "2023-03-16T03:00:00.000Z"
         },
         {
@@ -135,13 +142,6 @@
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3784",
             "title": "2023年度（第15期）官民協働海外留学支援制度～トビタテ！留学JAPAN新・日本代表プログラム～【大学１年生枠】の募集について（学内締切：2023年4月18日（火）17時）",
             "summary": "2023年度（第15期）～トビタテ！留学JAPAN新・日本代表プログラム～【大学1年生枠】の募集につき、ご案内致します。申請希望者は募集要項にて要件を確認の上、2023年4月18日（火）17時迄に応募申請システム（ガクシーAgent）にて大学への応募申請を完了して下さい。また所属する教育組織に対応した支援室等に所得証明関連書類を同日17時迄に提出して下さい。\n応募申請は本学を通して行う必要があり、…",
-            "date_modified": "2023-03-14T03:00:00.000Z"
-        },
-        {
-            "id": "c89f978491825365b95420a6adbab55c",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3783",
-            "title": "「時事問題を英語で読み書き話す勉強会」開催のお知らせ",
-            "summary": "筑波大学「世界を変えよう基金アカデミー」では、時事問題に関する英語メディア報道記事を題材にacademic essayを作成し、英語で議論する勉強会を４月下旬からZoomで隔週開催します（10回、各2時間）。勉強会は主として英語で行いますが、academic essay の書き方に関する説明は日本語で行います。\n\n参加は無料ですが、TOEIC 700点相当以上の英語力を有し、今後の海外留学のために…",
             "date_modified": "2023-03-14T03:00:00.000Z"
         }
     ]
