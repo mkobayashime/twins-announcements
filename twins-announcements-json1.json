@@ -5,6 +5,20 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "8a15875bfb77a6ec6492de8a1b245989",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3805",
+            "title": "【BHE】就活支援企画　参加者募集中！　3月20日チャレンジ実践会　",
+            "summary": "ES編・面接編・ＧＤ編それぞれ少人数の講座です。\n各回キャリア担当ファシリテーターからフィードバックがあります。\n就活中の方やこれからインターンシップなどを始める方はぜひ参加してください。",
+            "date_modified": "2023-03-16T03:00:00.000Z"
+        },
+        {
+            "id": "a62be6540416b7ab38c713fb9a8e656c",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3804",
+            "title": "JICE 子どもサポートコース　補助員募集",
+            "summary": "内容：\n一般財団法人日本国際協力センター(JICE)が行っている日本語研修・就学支援の一環で、週末に「JICA筑波」で、外国籍の小中学生の宿題や教科学習（算数）のサポートコースを実施しています。その補助員を募集します。詳細は下記の添付でご確認ください。\n\n場所：JICA筑波　けやき棟3階\n時間：2023年4〜7月\n　　　毎週土曜日　9:00-12:00/13:00-16:00（どちらかだけでも可）…",
+            "date_modified": "2023-03-16T03:00:00.000Z"
+        },
+        {
             "id": "6ef20ebc37ee4fdcde4d4d67ed8a4102",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3802",
             "title": "メンテナンス作業に伴うキャリア支援チームHP及び就職情報提供システム停止のお知らせ",
@@ -129,20 +143,6 @@
             "title": "【大学内で購入可能に】KASUMI筑波大学店で筑波大学グッズ販売開始",
             "summary": "筑波大学公式オリジナルグッズの学内での販売が3月11日より開始されました！\n\n\n\n以前より、ご要望の多かった学内での販売、是非手に取ってご覧ください！！\n\n皆様の「日常生活」、「思い出」、「プレゼント🎁」などにご活用いただけますと幸いです。\n\n\n\n場所：KASUMI筑波大学店\n\n（一部取り扱いのない商品あり）\n\n※KASUMIでのご購入はクーポンコードによる割引対象外となります。予めご了承くださ…",
             "date_modified": "2023-03-13T03:00:00.000Z"
-        },
-        {
-            "id": "1b7a507d1667178cf63ce71cc2abf429",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3781",
-            "title": "【学生無料】葵トリオ―３人で奏でるシンフォニー　第13回つくばリサイタルシリーズ",
-            "summary": "　筑波大学有志学生が企画・運営する「つくばリサイタルシリーズ」。第13回は、\n音楽のオリンピックともいうべき世界最難関のミュンヘン国際音楽コンクールで\n2018年にピアノ三重奏部門日本人初優勝を果たし、世界を舞台に活躍する葵トリ\nオをお招きします。\n　葵トリオの三人は、ともに藝大に学び、その後サントリーホール室内楽アカデ\nミーで研鑽を積みました。このアカデミーは、世界的に活躍する教授陣の指導で\n室…",
-            "date_modified": "2023-03-13T03:00:00.000Z"
-        },
-        {
-            "id": "66f1d4bea923db3880f5d55dbbfaa47b",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3780",
-            "title": "【お知らせ】当面のマスク着用の考え方について",
-            "summary": "３月１３日以降の、構内でのマスク着用の考え方についてお知らせいたします。\n詳細は、以下のURL（本学公式HP）をご確認ください。",
-            "date_modified": "2023-03-10T03:00:00.000Z"
         }
     ]
 }
