@@ -2,10 +2,18 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/mkobayashime/twins-announcements</id>
     <title>在学生へのお知らせ | 筑波大学</title>
-    <updated>2023-03-16T21:08:30.617Z</updated>
+    <updated>2023-03-17T02:04:34.209Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://github.com/mkobayashime/twins-announcements"/>
     <subtitle>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</subtitle>
+    <entry>
+        <title type="html"><![CDATA[放置自転車を活用したサブスク事業および大学公認自転車のご案内]]></title>
+        <id>b916f2c6a67b1295af49c0ad9154a87c</id>
+        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3809"/>
+        <updated>2023-03-17T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[「校章」や「University of Tsukuba」、「IMAGINE THE FUTURE.」が入ったかっこよく、おしゃれで乗り心地の良い自転車が販売されました。通学にもおすすめです！！3月中のお申込みでライトが無料でついてくるキャンペーンを実施中！
+新生活が始まる今！乗り換えや新車の購入にぜひお買い求めください。(4月より価格が変更になる可能性があります。ご検討いただいていた方はどうぞこの…]]></summary>
+    </entry>
     <entry>
         <title type="html"><![CDATA[令和５年度全学ＴＡ研修会のお知らせ/Training Seminar for Teaching Assistants AY 2023]]></title>
         <id>03ec03608c305b9d1a3a66499e512eea</id>
@@ -207,13 +215,5 @@ The concert will be performed by the Aoi Trio, who won the Mun…]]></summary>
 　　　　企画代表者（所属）：生命環境学群生物資源学類
 　②スマートインフラ技術のアフリカ移転（ルワンダ）
 　　　　企画代表者…]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2023年度（第15期）官民協働海外留学支援制度～トビタテ！留学JAPAN新・日本代表プログラム～【大学１年生枠】の募集について（学内締切：2023年4月18日（火）17時）]]></title>
-        <id>f5db8ae224b67c6945728eb13ef5e50f</id>
-        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3784"/>
-        <updated>2023-03-14T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[2023年度（第15期）～トビタテ！留学JAPAN新・日本代表プログラム～【大学1年生枠】の募集につき、ご案内致します。申請希望者は募集要項にて要件を確認の上、2023年4月18日（火）17時迄に応募申請システム（ガクシーAgent）にて大学への応募申請を完了して下さい。また所属する教育組織に対応した支援室等に所得証明関連書類を同日17時迄に提出して下さい。
-応募申請は本学を通して行う必要があり、…]]></summary>
     </entry>
 </feed>
