@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "3703c92926da13c0fd51fea0a34371bd",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3812",
+            "title": "【通知】更新作業に伴うe-ラーニング「INFOSS情報倫理」の停止について ／[Notice] About suspension of \"INFOSS information ethics\"",
+            "summary": "年度更新作業のため下記期間にe-ラーニング(manaba)「INFOSS情報倫理」を停止いたします。\n\n\n　記\n\n\n期間：2023年3月29日(水)～4月3日(月)\n\n********************************\n\nDue to the annual renewal work, we will stop the \"INFOSS Information Ethics\"\ndurin…",
+            "date_modified": "2023-03-17T03:00:00.000Z"
+        },
+        {
             "id": "7d21900420a361f260c76baf4659ba12",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3811",
             "title": "[RE-POST/Notice] Request for Submission of Pledge (Graduation, etc.) for Security Export Control",
@@ -135,13 +142,6 @@
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3788",
             "title": "【注意喚起】いわゆる「闇バイト」の周知について",
             "summary": "　文部科学省から、いわゆる「闇バイト」についての注意喚起がありましたのでお知らせいたします。\n　ついては、添付ファイル等の資料を確認し、いわゆる「闇バイト」等に応募しアルバイト感覚で犯罪に加担してしまわぬよう、自覚をもって行動してください。\n",
-            "date_modified": "2023-03-15T03:00:00.000Z"
-        },
-        {
-            "id": "b998e01b04514dd6c680d946bc35a78d",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3787",
-            "title": "【注意喚起】消費者問題等に関する周知について",
-            "summary": "　文部科学省から、本学の新入生及び成年となる学生に対して消費者問題等に関する注意喚起がありましたのでお知らせいたします。\n　新年度は新しい環境で生活を始める学生が多くなる時期であり、様々なトラブルに巻き込まれる可能性があります。また民法が改正され、2022年4月から成年年齢が20歳から18歳に引き下げられました。\n　ついては、添付ファイル等の資料を確認し、消費者問題等のトラブルに巻き込まれないよう…",
             "date_modified": "2023-03-15T03:00:00.000Z"
         }
     ]
