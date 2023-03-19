@@ -4,7 +4,7 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Sun, 19 Mar 2023 09:09:02 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 19 Mar 2023 15:08:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
@@ -138,15 +138,6 @@ TSUKUBA LIVE!参加のための登録方法の説明あり！
 ------------------…]]></description>
         </item>
         <item>
-            <title><![CDATA[【BHE】参加者募集中　3月20日チャレンジ実践会　]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3795</link>
-            <guid>fbe03f3062f0dc1c89cd07c97a9cd930</guid>
-            <pubDate>Wed, 15 Mar 2023 03:00:00 GMT</pubDate>
-            <description><![CDATA[ES編・面接編・ＧＤ編それぞれ少人数の講座です。
-各回キャリア担当ファシリテーターからフィードバックがあります。
-就活中の方やこれからインターンシップを始める方はぜひ参加してください。]]></description>
-        </item>
-        <item>
             <title><![CDATA[【周知】文部科学大臣メッセージ「～不安や悩みがあったら話してみよう～」]]></title>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3794</link>
             <guid>573b51cf307abb04985af157fc044f3e</guid>
@@ -218,6 +209,24 @@ The concert will be performed by the Aoi Trio, who won the Mun…]]></descriptio
 なお、サーバー更新作業中は、「学内専用ページ」、「ガイダンス等及び模試試験登録・申請」、「進路進捗状況届」へのアクセスはできません。
 皆様にはご迷惑をおかけいたしますが、ご理解、ご協力の程よろしくお願いいたします。
 ]]></description>
+        </item>
+        <item>
+            <title><![CDATA[（はばたけ！筑大生）海外武者修行帰国報告会の開催について]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3785</link>
+            <guid>ac088d41543df3cf6b4081ae41bc15b0</guid>
+            <pubDate>Tue, 14 Mar 2023 03:00:00 GMT</pubDate>
+            <description><![CDATA[令和４年度筑波大学海外留学支援事業（はばたけ！筑大生）
+海外武者修行支援プログラム帰国報告会
+
+１．日時：令和５年３月２０日（月）１４時３０分～１５時３０分
+
+２．会場：総合研究棟Ａ　１１０公開講義室
+
+３．報告内容
+　①豊かな農業大国を創る（栄養×六次産業化）（ルワンダ）
+　　　　企画代表者（所属）：生命環境学群生物資源学類
+　②スマートインフラ技術のアフリカ移転（ルワンダ）
+　　　　企画代表者…]]></description>
         </item>
     </channel>
 </rss>
