@@ -4,7 +4,7 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Mon, 20 Mar 2023 15:09:45 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 20 Mar 2023 21:08:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
@@ -81,8 +81,12 @@ To prevent the leakage of sensitive technology related to security, graduate stu
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3810</link>
             <guid>77fac2f05576bef30fdf1ab90f4f3c11</guid>
             <pubDate>Fri, 17 Mar 2023 03:00:00 GMT</pubDate>
-            <description><![CDATA[To students scheduled to complete graduate school in AY2022 (including withdrawals, etc.)
-To prevent the leakage of sensitive technology related to security, graduate students are required to submit a…]]></description>
+            <description><![CDATA[2022年度大学院修了予定者（退学等を含む）の皆様へ
+安全保障に関連する機微技術流出の防止のために、大学院生は大学院修了時に「外国為替及び外国貿易法」を遵守する誓約書をmanabaから提出していただくことになっています。ご協力をよろしくお願いいたします
+【manabaコース名／コースコード】誓約書（修了時）／22170
+【参考】manabaの登録について（チラシ）
+
+【担当】利益相反・輸出管理マネ…]]></description>
         </item>
         <item>
             <title><![CDATA[放置自転車を活用したサブスク事業および大学公認自転車のご案内]]></title>
@@ -97,8 +101,9 @@ To prevent the leakage of sensitive technology related to security, graduate stu
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3803</link>
             <guid>03ec03608c305b9d1a3a66499e512eea</guid>
             <pubDate>Fri, 17 Mar 2023 03:00:00 GMT</pubDate>
-            <description><![CDATA[「校章」や「University of Tsukuba」、「IMAGINE THE FUTURE.」が入ったかっこよく、おしゃれで乗り心地の良い自転車が販売されました。通学にもおすすめです！！3月中のお申込みでライトが無料でついてくるキャンペーンを実施中！
-新生活が始まる今！乗り換えや新車の購入にぜひお買い求めください。(4月より価格が変更になる可能性があります。ご検討いただいていた方はどうぞこの…]]></description>
+            <description><![CDATA[多くの授業に TA が関わっている現在では、TA の役割と力量がより質の高い授業を作るうえでの鍵になります。今回、教育者としての TA の役割や基本的な心構えについて理解を深めること、レポート採点支援等を目的として、TA 研修プログラムを実施します。
+本研修会は、TAに対する必要な研修として位置付けられていますので、TA を予定している大学院生は、TAとして勤務する前に必ず受講してください。
+TA…]]></description>
         </item>
         <item>
             <title><![CDATA[【Event】The last BOM hosted by URA - Borderless Online Meeting -Fri, Mar 17, 12:20 - 1:10 pm JST.]]></title>
