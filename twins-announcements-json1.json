@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "77d7882721997db921c8afdbd92a4a74",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3813",
+            "title": "【BHE】公務員　LECガイダンス",
+            "summary": "ＬＥＣ東京リーガルマインド専任講師による公務員試験対策講座です。\n公務員試験の受験を考えている方、将来、公務員を目指している方はぜひ受講してください。\n【23年受験者対象】\n〇日時：3月23日（木）13:00-15:30\n〇対象：2023年実施公務員試験受験予定者\n【24年以降受験対象者】\n〇日時：2023年3月29日（水）13:00-14:45\n〇対象：2024年実施公務員試験受験予定者\n〇内容…",
+            "date_modified": "2023-03-20T03:00:00.000Z"
+        },
+        {
             "id": "3703c92926da13c0fd51fea0a34371bd",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3812",
             "title": "【通知】更新作業に伴うe-ラーニング「INFOSS情報倫理」の停止について ／[Notice] About suspension of \"INFOSS information ethics\"",
@@ -136,13 +143,6 @@
             "title": "サーバー更新作業に伴うキャリア支援チームHP及び就職情報提供システム停止のお知らせ",
             "summary": "サーバー更新作業に伴い、下記の時間、キャリア支援チームホームページ等へ繋がりにくくなります。\n【サーバー更新作業日時】3/22（水）9：00　～　3/22（水）12：15（予定）\n\nなお、サーバー更新作業中は、「学内専用ページ」、「ガイダンス等及び模試試験登録・申請」、「進路進捗状況届」へのアクセスはできません。\n皆様にはご迷惑をおかけいたしますが、ご理解、ご協力の程よろしくお願いいたします。\n",
             "date_modified": "2023-03-15T03:00:00.000Z"
-        },
-        {
-            "id": "ac088d41543df3cf6b4081ae41bc15b0",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3785",
-            "title": "（はばたけ！筑大生）海外武者修行帰国報告会の開催について",
-            "summary": "令和４年度筑波大学海外留学支援事業（はばたけ！筑大生）\n海外武者修行支援プログラム帰国報告会\n\n１．日時：令和５年３月２０日（月）１４時３０分～１５時３０分\n\n２．会場：総合研究棟Ａ　１１０公開講義室\n\n３．報告内容\n　①豊かな農業大国を創る（栄養×六次産業化）（ルワンダ）\n　　　　企画代表者（所属）：生命環境学群生物資源学類\n　②スマートインフラ技術のアフリカ移転（ルワンダ）\n　　　　企画代表者…",
-            "date_modified": "2023-03-14T03:00:00.000Z"
         }
     ]
 }
