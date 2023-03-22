@@ -5,6 +5,20 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "fc2ca1bb9b1a6950601a56bbe5edbb6b",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3818",
+            "title": "Seeking members for the Study Group on “Designing and Running Randomized Evaluations”",
+            "summary": "The University’s “Make a Difference in the World Fund” (MDW Fund) seeks participants for a study group on “Designing and Running Randomized Evaluations”, which will discuss how to design a randomized …",
+            "date_modified": "2023-03-22T03:00:00.000Z"
+        },
+        {
+            "id": "fbaee996dde98982c637137936853e93",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3817",
+            "title": "【BHE】明日開催！23年度公務員試験受験予定者向け講座",
+            "summary": "東京リーガルマインドの先生を招いて、23年度試験対策講座を\n実施します。\n23年度公務員試験受験予定の方はぜひご参加ください。",
+            "date_modified": "2023-03-22T03:00:00.000Z"
+        },
+        {
             "id": "dcc990f133462205c7ad8314a16de5a7",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3816",
             "title": "From TODAY! Distribution of reusable items (FREE)",
@@ -128,20 +142,6 @@
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3792",
             "title": "【緊急募集｜学生・教職員ボランティア】東京レインボープライド",
             "summary": "筑波大学ヒューマンエンパワーメント推進局（BHE）は\n2023年4月22日(土)・23日(日)に開催される「東京レインボープライド（Tokyo Rainbow Pride：TRP）」にブース出展を行います。\n\nそこで、当日、ブース出展の手伝いをお願いできる学生・教職員ボランティアを募集します。\n具体的な内容は以下の通りです。みなさんの応募をお待ちしています！\n\n【日時】2023年4月22日（土）、…",
-            "date_modified": "2023-03-15T03:00:00.000Z"
-        },
-        {
-            "id": "bc76651af2c1c75042a25e1a41f3f551",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3789",
-            "title": "Free Invitation to an acclaimed classic concert sponsored by “Make a Difference in the World Fund”",
-            "summary": "The University’s MDW Fund is sponsoring the concert organized by volunteer students of the \"Tsukuba Recital Series\" Executive Committee.\n\nThe concert will be performed by the Aoi Trio, who won the Mun…",
-            "date_modified": "2023-03-15T03:00:00.000Z"
-        },
-        {
-            "id": "5eef137122fdb6d3227d0eac55243f3c",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3788",
-            "title": "【注意喚起】いわゆる「闇バイト」の周知について",
-            "summary": "　文部科学省から、いわゆる「闇バイト」についての注意喚起がありましたのでお知らせいたします。\n　ついては、添付ファイル等の資料を確認し、いわゆる「闇バイト」等に応募しアルバイト感覚で犯罪に加担してしまわぬよう、自覚をもって行動してください。\n",
             "date_modified": "2023-03-15T03:00:00.000Z"
         }
     ]

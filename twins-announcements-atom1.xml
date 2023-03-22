@@ -2,10 +2,26 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/mkobayashime/twins-announcements</id>
     <title>在学生へのお知らせ | 筑波大学</title>
-    <updated>2023-03-21T21:08:30.418Z</updated>
+    <updated>2023-03-22T02:00:30.213Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://github.com/mkobayashime/twins-announcements"/>
     <subtitle>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</subtitle>
+    <entry>
+        <title type="html"><![CDATA[Seeking members for the Study Group on “Designing and Running Randomized Evaluations”]]></title>
+        <id>fc2ca1bb9b1a6950601a56bbe5edbb6b</id>
+        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3818"/>
+        <updated>2023-03-22T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The University’s “Make a Difference in the World Fund” (MDW Fund) seeks participants for a study group on “Designing and Running Randomized Evaluations”, which will discuss how to design a randomized …]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【BHE】明日開催！23年度公務員試験受験予定者向け講座]]></title>
+        <id>fbaee996dde98982c637137936853e93</id>
+        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3817"/>
+        <updated>2023-03-22T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[東京リーガルマインドの先生を招いて、23年度試験対策講座を
+実施します。
+23年度公務員試験受験予定の方はぜひご参加ください。]]></summary>
+    </entry>
     <entry>
         <title type="html"><![CDATA[From TODAY! Distribution of reusable items (FREE)]]></title>
         <id>dcc990f133462205c7ad8314a16de5a7</id>
@@ -201,23 +217,5 @@ Due to annual updates, various services on TWINS will be temporarily suspended d
 具体的な内容は以下の通りです。みなさんの応募をお待ちしています！
 
 【日時】2023年4月22日（土）、…]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Free Invitation to an acclaimed classic concert sponsored by “Make a Difference in the World Fund”]]></title>
-        <id>bc76651af2c1c75042a25e1a41f3f551</id>
-        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3789"/>
-        <updated>2023-03-15T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[The University’s MDW Fund is sponsoring the concert organized by volunteer students of the "Tsukuba Recital Series" Executive Committee.
-
-The concert will be performed by the Aoi Trio, who won the Mun…]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【注意喚起】いわゆる「闇バイト」の周知について]]></title>
-        <id>5eef137122fdb6d3227d0eac55243f3c</id>
-        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3788"/>
-        <updated>2023-03-15T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[　文部科学省から、いわゆる「闇バイト」についての注意喚起がありましたのでお知らせいたします。
-　ついては、添付ファイル等の資料を確認し、いわゆる「闇バイト」等に応募しアルバイト感覚で犯罪に加担してしまわぬよう、自覚をもって行動してください。
-]]></summary>
     </entry>
 </feed>
