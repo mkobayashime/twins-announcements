@@ -4,7 +4,7 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Thu, 23 Mar 2023 09:09:26 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Mar 2023 15:10:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
@@ -181,10 +181,9 @@ Topic: An Introduction…]]></description>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3796</link>
             <guid>625a79507139f6148fb44b1fd67ed6bc</guid>
             <pubDate>Wed, 15 Mar 2023 03:00:00 GMT</pubDate>
-            <description><![CDATA[※We would like to remind you again that some of the information  posted on March 9 was incorrect.
-　The correct time for Graduate School Commencement Ceremony is 1:20 PM to 2:25 PM.
+            <description><![CDATA[フランス政府留学局・日本支局では、年に2度、日本の大学の春休みと夏休みの時期に合わせ、短期語学留学プログラムを実施しています。フランス語の習得レベルや、大学での専攻分野を問わず、すべての学生が参加できます。今回の募集は9月の実施日程のセッションになります。申請希望者は以下ガイドライン等を熟読の上、申込みフォームを英字で記入し、期日までに所属する教育組織対応の支援室等へ提出してください。
 
-------------------…]]></description>
+【夏季セ…]]></description>
         </item>
         <item>
             <title><![CDATA[【周知】文部科学大臣メッセージ「～不安や悩みがあったら話してみよう～」]]></title>
@@ -208,17 +207,13 @@ Topic: An Introduction…]]></description>
 Due to annual updates, various services on TWINS will be temporarily suspended du…]]></description>
         </item>
         <item>
-            <title><![CDATA[【緊急募集｜学生・教職員ボランティア】東京レインボープライド]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3792</link>
-            <guid>c6b69eb134859f5f16627f5c23a12ef0</guid>
+            <title><![CDATA[Free Invitation to an acclaimed classic concert sponsored by “Make a Difference in the World Fund”]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3789</link>
+            <guid>bc76651af2c1c75042a25e1a41f3f551</guid>
             <pubDate>Wed, 15 Mar 2023 03:00:00 GMT</pubDate>
-            <description><![CDATA[筑波大学ヒューマンエンパワーメント推進局（BHE）は
-2023年4月22日(土)・23日(日)に開催される「東京レインボープライド（Tokyo Rainbow Pride：TRP）」にブース出展を行います。
+            <description><![CDATA[The University’s MDW Fund is sponsoring the concert organized by volunteer students of the "Tsukuba Recital Series" Executive Committee.
 
-そこで、当日、ブース出展の手伝いをお願いできる学生・教職員ボランティアを募集します。
-具体的な内容は以下の通りです。みなさんの応募をお待ちしています！
-
-【日時】2023年4月22日（土）、…]]></description>
+The concert will be performed by the Aoi Trio, who won the Mun…]]></description>
         </item>
     </channel>
 </rss>
