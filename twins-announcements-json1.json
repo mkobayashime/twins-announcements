@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "13e5e9cec5ee244b48be1ec5b2b5c925",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3820",
+            "title": "【BHE】29日（水）開催！申込み受付中！24年度公務員試験受験予定者向け講座",
+            "summary": "ＬＥＣ東京リーガルマインド専任講師による公務員試験対策講座です。\n公務員試験の受験を考えている方、将来、公務員を目指している方はぜひ受講してください。\n\n〇日時：2023年3月29日（水）13:00-14:45\n〇対象：2024年実施公務員試験受験予定者\n〇内容：進路を考える\n「公務員になるという選択」",
+            "date_modified": "2023-03-23T03:00:00.000Z"
+        },
+        {
             "id": "c03ff75ee4e54e4a3d858fbc92103ddb",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3819",
             "title": "【BHE】本日開催！当日申込み可！23年度公務員試験受験予定者向け講座",
@@ -135,13 +142,6 @@
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3792",
             "title": "【緊急募集｜学生・教職員ボランティア】東京レインボープライド",
             "summary": "筑波大学ヒューマンエンパワーメント推進局（BHE）は\n2023年4月22日(土)・23日(日)に開催される「東京レインボープライド（Tokyo Rainbow Pride：TRP）」にブース出展を行います。\n\nそこで、当日、ブース出展の手伝いをお願いできる学生・教職員ボランティアを募集します。\n具体的な内容は以下の通りです。みなさんの応募をお待ちしています！\n\n【日時】2023年4月22日（土）、…",
-            "date_modified": "2023-03-15T03:00:00.000Z"
-        },
-        {
-            "id": "bc76651af2c1c75042a25e1a41f3f551",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3789",
-            "title": "Free Invitation to an acclaimed classic concert sponsored by “Make a Difference in the World Fund”",
-            "summary": "The University’s MDW Fund is sponsoring the concert organized by volunteer students of the \"Tsukuba Recital Series\" Executive Committee.\n\nThe concert will be performed by the Aoi Trio, who won the Mun…",
             "date_modified": "2023-03-15T03:00:00.000Z"
         }
     ]

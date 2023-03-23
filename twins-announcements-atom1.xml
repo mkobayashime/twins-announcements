@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/mkobayashime/twins-announcements</id>
     <title>在学生へのお知らせ | 筑波大学</title>
-    <updated>2023-03-23T01:59:56.681Z</updated>
+    <updated>2023-03-23T08:08:22.309Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://github.com/mkobayashime/twins-announcements"/>
     <subtitle>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</subtitle>
+    <entry>
+        <title type="html"><![CDATA[【BHE】29日（水）開催！申込み受付中！24年度公務員試験受験予定者向け講座]]></title>
+        <id>13e5e9cec5ee244b48be1ec5b2b5c925</id>
+        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3820"/>
+        <updated>2023-03-23T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[ＬＥＣ東京リーガルマインド専任講師による公務員試験対策講座です。
+公務員試験の受験を考えている方、将来、公務員を目指している方はぜひ受講してください。
+
+〇日時：2023年3月29日（水）13:00-14:45
+〇対象：2024年実施公務員試験受験予定者
+〇内容：進路を考える
+「公務員になるという選択」]]></summary>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【BHE】本日開催！当日申込み可！23年度公務員試験受験予定者向け講座]]></title>
         <id>c03ff75ee4e54e4a3d858fbc92103ddb</id>
@@ -204,14 +217,5 @@ Due to annual updates, various services on TWINS will be temporarily suspended d
 具体的な内容は以下の通りです。みなさんの応募をお待ちしています！
 
 【日時】2023年4月22日（土）、…]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Free Invitation to an acclaimed classic concert sponsored by “Make a Difference in the World Fund”]]></title>
-        <id>bc76651af2c1c75042a25e1a41f3f551</id>
-        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3789"/>
-        <updated>2023-03-15T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[The University’s MDW Fund is sponsoring the concert organized by volunteer students of the "Tsukuba Recital Series" Executive Committee.
-
-The concert will be performed by the Aoi Trio, who won the Mun…]]></summary>
     </entry>
 </feed>
