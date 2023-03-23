@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "c03ff75ee4e54e4a3d858fbc92103ddb",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3819",
+            "title": "【BHE】本日開催！当日申込み可！23年度公務員試験受験予定者向け講座",
+            "summary": "東京リーガルマインドの先生を招いて、23年度試験対策講座を\n実施します。\n〇面接試験攻略法\n〇官庁訪問攻略法\n23年度公務員試験受験予定の方はぜひご参加ください。",
+            "date_modified": "2023-03-23T03:00:00.000Z"
+        },
+        {
             "id": "fc2ca1bb9b1a6950601a56bbe5edbb6b",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3818",
             "title": "Seeking members for the Study Group on “Designing and Running Randomized Evaluations”",
@@ -134,13 +141,6 @@
             "id": "bc76651af2c1c75042a25e1a41f3f551",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3789",
             "title": "Free Invitation to an acclaimed classic concert sponsored by “Make a Difference in the World Fund”",
-            "summary": "The University’s MDW Fund is sponsoring the concert organized by volunteer students of the \"Tsukuba Recital Series\" Executive Committee.\n\nThe concert will be performed by the Aoi Trio, who won the Mun…",
-            "date_modified": "2023-03-15T03:00:00.000Z"
-        },
-        {
-            "id": "5eef137122fdb6d3227d0eac55243f3c",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3788",
-            "title": "【注意喚起】いわゆる「闇バイト」の周知について",
             "summary": "The University’s MDW Fund is sponsoring the concert organized by volunteer students of the \"Tsukuba Recital Series\" Executive Committee.\n\nThe concert will be performed by the Aoi Trio, who won the Mun…",
             "date_modified": "2023-03-15T03:00:00.000Z"
         }
