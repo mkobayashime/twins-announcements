@@ -4,7 +4,7 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Fri, 24 Mar 2023 10:04:21 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Mar 2023 15:09:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
@@ -222,14 +222,13 @@ Topic: An Introduction…]]></description>
 【夏季セ…]]></description>
         </item>
         <item>
-            <title><![CDATA[Re-post：[Notice] Undergraduate / Graduate School Commencement Ceremonies for AY2022]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3796</link>
-            <guid>625a79507139f6148fb44b1fd67ed6bc</guid>
+            <title><![CDATA[【周知】文部科学大臣メッセージ「～不安や悩みがあったら話してみよう～」]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3794</link>
+            <guid>573b51cf307abb04985af157fc044f3e</guid>
             <pubDate>Wed, 15 Mar 2023 03:00:00 GMT</pubDate>
-            <description><![CDATA[※We would like to remind you again that some of the information  posted on March 9 was incorrect.
-　The correct time for Graduate School Commencement Ceremony is 1:20 PM to 2:25 PM.
-
-------------------…]]></description>
+            <description><![CDATA[文部科学大臣よりみなさまへメッセージがありますのでお知らせいたします。
+詳細は添付ファイルをご確認ください。
+]]></description>
         </item>
     </channel>
 </rss>
