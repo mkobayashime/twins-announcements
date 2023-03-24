@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "9beba87f27df95701c60bab6020f1fdb",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3823",
+            "title": "【Event Info】Invitation Ticket to Performance by NHK Symphony Orchestra",
+            "summary": "<<対象：留学生>>\n学内の留学生の方を対象に、NHK交響楽団の公演への招待チケット（無料）が用意されています。\n興味のある方は、下記URLの申込フォーム（Forms）より、必要事項に回答し各公演の申し込み締切日までに\n申し込んでください。\n※先着順のため、申込締切日より前に、受付を締め切ることがあります。\n※実際に招待チケットで講演に行ける方には、後日学生交流課より連絡します。\n※詳細については…",
+            "date_modified": "2023-03-24T03:00:00.000Z"
+        },
+        {
             "id": "862fdce9866981df6e0bcf0c50a33a4e",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3822",
             "title": "「募集」Johnson &amp; Johnson Data Science Internshipの募集",
@@ -135,13 +142,6 @@
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3796",
             "title": "Re-post：[Notice] Undergraduate / Graduate School Commencement Ceremonies for AY2022",
             "summary": "※We would like to remind you again that some of the information  posted on March 9 was incorrect.\n　The correct time for Graduate School Commencement Ceremony is 1:20 PM to 2:25 PM.\n\n------------------…",
-            "date_modified": "2023-03-15T03:00:00.000Z"
-        },
-        {
-            "id": "573b51cf307abb04985af157fc044f3e",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3794",
-            "title": "【周知】文部科学大臣メッセージ「～不安や悩みがあったら話してみよう～」",
-            "summary": "文部科学大臣よりみなさまへメッセージがありますのでお知らせいたします。\n詳細は添付ファイルをご確認ください。\n",
             "date_modified": "2023-03-15T03:00:00.000Z"
         }
     ]
