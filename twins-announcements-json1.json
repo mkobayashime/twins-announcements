@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "ea45e7fabbcb6fc6362737abc2c3c0a5",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3824",
+            "title": "「ヨーロッパ絵画を楽しむ会」参加者募集",
+            "summary": "筑波大学「世界を変えよう基金アカデミー」では、「ヨーロッパ絵画を楽しむ会」を４月下旬から隔週(対面またはZoom)開催します（約90分、9回開催予定）。\n\n初期ルネサンスから１9世紀初頭までのヨーロッパ絵画主要作品を、キリスト教絵画、ギリシア・ローマ神話画、歴史画、肖像画、風景画、風俗画、静物画のジャンル別に鑑賞します。\n作品について基本的な情報は提供しますが、参加メンバーがこれらの作品から感じる…",
+            "date_modified": "2023-03-27T03:00:00.000Z"
+        },
+        {
             "id": "9beba87f27df95701c60bab6020f1fdb",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3823",
             "title": "【Event Info】Invitation Ticket to Performance by NHK Symphony Orchestra",
@@ -136,13 +143,6 @@
             "title": "【Campus France-フランス政府留学局・日本支局主催】Campus Franceの短期語学留学2023夏季セッションについて（締切：4/19（水））",
             "summary": "フランス政府留学局・日本支局では、年に2度、日本の大学の春休みと夏休みの時期に合わせ、短期語学留学プログラムを実施しています。フランス語の習得レベルや、大学での専攻分野を問わず、すべての学生が参加できます。今回の募集は9月の実施日程のセッションになります。申請希望者は以下ガイドライン等を熟読の上、申込みフォームを英字で記入し、期日までに所属する教育組織対応の支援室等へ提出してください。\n\n【夏季セ…",
             "date_modified": "2023-03-16T03:00:00.000Z"
-        },
-        {
-            "id": "573b51cf307abb04985af157fc044f3e",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3794",
-            "title": "【周知】文部科学大臣メッセージ「～不安や悩みがあったら話してみよう～」",
-            "summary": "文部科学大臣よりみなさまへメッセージがありますのでお知らせいたします。\n詳細は添付ファイルをご確認ください。\n",
-            "date_modified": "2023-03-15T03:00:00.000Z"
         }
     ]
 }

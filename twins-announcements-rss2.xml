@@ -4,10 +4,20 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Sun, 26 Mar 2023 21:07:39 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 27 Mar 2023 00:29:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
+        <item>
+            <title><![CDATA[「ヨーロッパ絵画を楽しむ会」参加者募集]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3824</link>
+            <guid>ea45e7fabbcb6fc6362737abc2c3c0a5</guid>
+            <pubDate>Mon, 27 Mar 2023 03:00:00 GMT</pubDate>
+            <description><![CDATA[筑波大学「世界を変えよう基金アカデミー」では、「ヨーロッパ絵画を楽しむ会」を４月下旬から隔週(対面またはZoom)開催します（約90分、9回開催予定）。
+
+初期ルネサンスから１9世紀初頭までのヨーロッパ絵画主要作品を、キリスト教絵画、ギリシア・ローマ神話画、歴史画、肖像画、風景画、風俗画、静物画のジャンル別に鑑賞します。
+作品について基本的な情報は提供しますが、参加メンバーがこれらの作品から感じる…]]></description>
+        </item>
         <item>
             <title><![CDATA[【Event Info】Invitation Ticket to Performance by NHK Symphony Orchestra]]></title>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3823</link>
@@ -220,15 +230,6 @@ Topic: An Introduction…]]></description>
             <description><![CDATA[フランス政府留学局・日本支局では、年に2度、日本の大学の春休みと夏休みの時期に合わせ、短期語学留学プログラムを実施しています。フランス語の習得レベルや、大学での専攻分野を問わず、すべての学生が参加できます。今回の募集は9月の実施日程のセッションになります。申請希望者は以下ガイドライン等を熟読の上、申込みフォームを英字で記入し、期日までに所属する教育組織対応の支援室等へ提出してください。
 
 【夏季セ…]]></description>
-        </item>
-        <item>
-            <title><![CDATA[【周知】文部科学大臣メッセージ「～不安や悩みがあったら話してみよう～」]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3794</link>
-            <guid>573b51cf307abb04985af157fc044f3e</guid>
-            <pubDate>Wed, 15 Mar 2023 03:00:00 GMT</pubDate>
-            <description><![CDATA[文部科学大臣よりみなさまへメッセージがありますのでお知らせいたします。
-詳細は添付ファイルをご確認ください。
-]]></description>
         </item>
     </channel>
 </rss>
