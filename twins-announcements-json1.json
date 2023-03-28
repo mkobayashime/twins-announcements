@@ -5,6 +5,20 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "d930d8492a64e8bb74d0fb2705c7d766",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3826",
+            "title": "令和５年度会計年度任用職員（部活動指導員）の募集について（土浦市）",
+            "summary": "土浦市教育委員会より令和５年度の部活動指導員の募集がありました。\n応募を希望する方は、添付ファイルを確認し、申請してください。",
+            "date_modified": "2023-03-28T03:00:00.000Z"
+        },
+        {
+            "id": "b3776bb09873c49d3f2c1f4a01c46a9f",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3825",
+            "title": "留学生のチューター募集について（2023年度春学期）",
+            "summary": "留学生と交流したい、または留学生をサポートしたいと思っている正規課程の在学生の皆さん、ぜひチューターになってみませんか？\n\n2023年4月に多くの留学生が入学する予定です。\nこれに伴い、チューター支援（主に生活の立ち上げ支援（原則対面））を\n行ってくださるチューターを大募集しています！！！！\n\nチューター希望の学生は、下記URL上の「チューターバンク」に記載の登録方法に従い、チューターバンクに登録…",
+            "date_modified": "2023-03-28T03:00:00.000Z"
+        },
+        {
             "id": "ea45e7fabbcb6fc6362737abc2c3c0a5",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3824",
             "title": "「ヨーロッパ絵画を楽しむ会」参加者募集",
@@ -128,20 +142,6 @@
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3807",
             "title": "【Event】The last BOM hosted by URA - Borderless Online Meeting -Fri, Mar 17, 12:20 - 1:10 pm JST.",
             "summary": "We invite you to the Borderless Online Meeting.  \nThe purpose of the BOM is to socialise with each other through casual chat.  \nPlease feel free to join us with your friends.   \nTopic: An Introduction…",
-            "date_modified": "2023-03-16T03:00:00.000Z"
-        },
-        {
-            "id": "a62be6540416b7ab38c713fb9a8e656c",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3804",
-            "title": "JICE 子どもサポートコース　補助員募集",
-            "summary": "内容：\n一般財団法人日本国際協力センター(JICE)が行っている日本語研修・就学支援の一環で、週末に「JICA筑波」で、外国籍の小中学生の宿題や教科学習（算数）のサポートコースを実施しています。その補助員を募集します。詳細は下記の添付でご確認ください。\n\n場所：JICA筑波　けやき棟3階\n時間：2023年4〜7月\n　　　毎週土曜日　9:00-12:00/13:00-16:00（どちらかだけでも可）…",
-            "date_modified": "2023-03-16T03:00:00.000Z"
-        },
-        {
-            "id": "29454954e66c54cb69dfe9cd0a5f33ff",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3799",
-            "title": "【Campus France-フランス政府留学局・日本支局主催】Campus Franceの短期語学留学2023夏季セッションについて（締切：4/19（水））",
-            "summary": "フランス政府留学局・日本支局では、年に2度、日本の大学の春休みと夏休みの時期に合わせ、短期語学留学プログラムを実施しています。フランス語の習得レベルや、大学での専攻分野を問わず、すべての学生が参加できます。今回の募集は9月の実施日程のセッションになります。申請希望者は以下ガイドライン等を熟読の上、申込みフォームを英字で記入し、期日までに所属する教育組織対応の支援室等へ提出してください。\n\n【夏季セ…",
             "date_modified": "2023-03-16T03:00:00.000Z"
         }
     ]
