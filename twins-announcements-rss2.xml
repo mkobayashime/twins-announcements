@@ -4,10 +4,22 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Tue, 28 Mar 2023 00:30:29 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 Mar 2023 03:05:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
+        <item>
+            <title><![CDATA[GTIE研究者・大学院生向けアントレプレナーシップ・セミナーのお知らせ]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3827</link>
+            <guid>7195257289ee836d6974fcb2538c7c62</guid>
+            <pubDate>Tue, 28 Mar 2023 03:00:00 GMT</pubDate>
+            <description><![CDATA[Greater Tokyo Innovation Ecosystem（GTIE：ジータイ）は、首都圏を中心とした大学からなる『世界を変える大学発スタートアップを育てる』プラットフォームです。筑波大学は共同機関としてGTIEに参画しています。
+
+このたびGTIE研究者・大学院生向けアントレプレナーシップ・セミナーが開催されます。ご関心のある方はご参加ください。
+
+〇セミナー名
+GTIE研究者・大学院…]]></description>
+        </item>
         <item>
             <title><![CDATA[令和５年度会計年度任用職員（部活動指導員）の募集について（土浦市）]]></title>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3826</link>
@@ -220,16 +232,6 @@ To prevent the leakage of sensitive technology related to security, graduate stu
             <description><![CDATA[多くの授業に TA が関わっている現在では、TA の役割と力量がより質の高い授業を作るうえでの鍵になります。今回、教育者としての TA の役割や基本的な心構えについて理解を深めること、レポート採点支援等を目的として、TA 研修プログラムを実施します。
 本研修会は、TAに対する必要な研修として位置付けられていますので、TA を予定している大学院生は、TAとして勤務する前に必ず受講してください。
 TA…]]></description>
-        </item>
-        <item>
-            <title><![CDATA[【Event】The last BOM hosted by URA - Borderless Online Meeting -Fri, Mar 17, 12:20 - 1:10 pm JST.]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3807</link>
-            <guid>b4f0b56637b3253c60ff1895d6ecb96e</guid>
-            <pubDate>Thu, 16 Mar 2023 03:00:00 GMT</pubDate>
-            <description><![CDATA[We invite you to the Borderless Online Meeting.  
-The purpose of the BOM is to socialise with each other through casual chat.  
-Please feel free to join us with your friends.   
-Topic: An Introduction…]]></description>
         </item>
     </channel>
 </rss>
