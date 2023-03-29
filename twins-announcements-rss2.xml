@@ -4,10 +4,21 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Tue, 28 Mar 2023 21:08:10 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 29 Mar 2023 00:33:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
+        <item>
+            <title><![CDATA[【BHE】当日申込み可！本日13時開催！24年度公務員試験受験予定者向け講座]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3829</link>
+            <guid>be9e09cdc64196bc2f6d9dc7fa3c7f63</guid>
+            <pubDate>Wed, 29 Mar 2023 03:00:00 GMT</pubDate>
+            <description><![CDATA[【24年以降受験対象者】←本日開催　当日申込み可！
+〇日時：2023年3月29日（水）13:00-14:45
+〇対象：2024年実施公務員試験受験予定者
+〇内容：進路を考える
+「公務員になるという選択」]]></description>
+        </item>
         <item>
             <title><![CDATA[【BHE】明日13時開催！24年度公務員試験受験予定者向け講座]]></title>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3828</link>
@@ -222,15 +233,6 @@ To prevent the leakage of sensitive technology related to security, graduate stu
             <pubDate>Fri, 17 Mar 2023 03:00:00 GMT</pubDate>
             <description><![CDATA[「校章」や「University of Tsukuba」、「IMAGINE THE FUTURE.」が入ったかっこよく、おしゃれで乗り心地の良い自転車が販売されました。通学にもおすすめです！！3月中のお申込みでライトが無料でついてくるキャンペーンを実施中！
 新生活が始まる今！乗り換えや新車の購入にぜひお買い求めください。(4月より価格が変更になる可能性があります。ご検討いただいていた方はどうぞこの…]]></description>
-        </item>
-        <item>
-            <title><![CDATA[令和５年度全学ＴＡ研修会のお知らせ/Training Seminar for Teaching Assistants AY 2023]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3803</link>
-            <guid>03ec03608c305b9d1a3a66499e512eea</guid>
-            <pubDate>Fri, 17 Mar 2023 03:00:00 GMT</pubDate>
-            <description><![CDATA[多くの授業に TA が関わっている現在では、TA の役割と力量がより質の高い授業を作るうえでの鍵になります。今回、教育者としての TA の役割や基本的な心構えについて理解を深めること、レポート採点支援等を目的として、TA 研修プログラムを実施します。
-本研修会は、TAに対する必要な研修として位置付けられていますので、TA を予定している大学院生は、TAとして勤務する前に必ず受講してください。
-TA…]]></description>
         </item>
     </channel>
 </rss>
