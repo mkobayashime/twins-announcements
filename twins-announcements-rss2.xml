@@ -4,10 +4,24 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Wed, 29 Mar 2023 21:08:33 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 30 Mar 2023 03:05:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
+        <item>
+            <title><![CDATA[【TISS】Course Information]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3830</link>
+            <guid>9ff70a458624fde60ae32b13c0076802</guid>
+            <pubDate>Thu, 30 Mar 2023 03:00:00 GMT</pubDate>
+            <description><![CDATA[We would like to inform you about the TISS courses.
+
+➀ComparativeComparative Law I: Legal Traditions and Cultures (BE22161)
+Semester：Fall AB
+Schedule：Wed 1-2
+Credits：2
+Instructor：Ortolani, Andrea
+Clas…]]></description>
+        </item>
         <item>
             <title><![CDATA[【BHE】当日申込み可！本日13時開催！24年度公務員試験受験予定者向け講座]]></title>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3829</link>
@@ -214,15 +228,6 @@ Topic: An Introduction…]]></description>
             <description><![CDATA[フランス政府留学局・日本支局では、年に2度、日本の大学の春休みと夏休みの時期に合わせ、短期語学留学プログラムを実施しています。フランス語の習得レベルや、大学での専攻分野を問わず、すべての学生が参加できます。今回の募集は9月の実施日程のセッションになります。申請希望者は以下ガイドライン等を熟読の上、申込みフォームを英字で記入し、期日までに所属する教育組織対応の支援室等へ提出してください。
 
 【夏季セ…]]></description>
-        </item>
-        <item>
-            <title><![CDATA[【周知】文部科学大臣メッセージ「～不安や悩みがあったら話してみよう～」]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3794</link>
-            <guid>573b51cf307abb04985af157fc044f3e</guid>
-            <pubDate>Wed, 15 Mar 2023 03:00:00 GMT</pubDate>
-            <description><![CDATA[文部科学大臣よりみなさまへメッセージがありますのでお知らせいたします。
-詳細は添付ファイルをご確認ください。
-]]></description>
         </item>
     </channel>
 </rss>

@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "9ff70a458624fde60ae32b13c0076802",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3830",
+            "title": "【TISS】Course Information",
+            "summary": "We would like to inform you about the TISS courses.\n\n➀ComparativeComparative Law I: Legal Traditions and Cultures (BE22161)\nSemester：Fall AB\nSchedule：Wed 1-2\nCredits：2\nInstructor：Ortolani, Andrea\nClas…",
+            "date_modified": "2023-03-30T03:00:00.000Z"
+        },
+        {
             "id": "be9e09cdc64196bc2f6d9dc7fa3c7f63",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3829",
             "title": "【BHE】当日申込み可！本日13時開催！24年度公務員試験受験予定者向け講座",
@@ -136,13 +143,6 @@
             "title": "【Campus France-フランス政府留学局・日本支局主催】Campus Franceの短期語学留学2023夏季セッションについて（締切：4/19（水））",
             "summary": "フランス政府留学局・日本支局では、年に2度、日本の大学の春休みと夏休みの時期に合わせ、短期語学留学プログラムを実施しています。フランス語の習得レベルや、大学での専攻分野を問わず、すべての学生が参加できます。今回の募集は9月の実施日程のセッションになります。申請希望者は以下ガイドライン等を熟読の上、申込みフォームを英字で記入し、期日までに所属する教育組織対応の支援室等へ提出してください。\n\n【夏季セ…",
             "date_modified": "2023-03-16T03:00:00.000Z"
-        },
-        {
-            "id": "573b51cf307abb04985af157fc044f3e",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3794",
-            "title": "【周知】文部科学大臣メッセージ「～不安や悩みがあったら話してみよう～」",
-            "summary": "文部科学大臣よりみなさまへメッセージがありますのでお知らせいたします。\n詳細は添付ファイルをご確認ください。\n",
-            "date_modified": "2023-03-15T03:00:00.000Z"
         }
     ]
 }
