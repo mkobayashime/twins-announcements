@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/mkobayashime/twins-announcements</id>
     <title>在学生へのお知らせ | 筑波大学</title>
-    <updated>2023-03-30T03:05:33.482Z</updated>
+    <updated>2023-03-30T15:09:46.340Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://github.com/mkobayashime/twins-announcements"/>
     <subtitle>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</subtitle>
@@ -19,17 +19,6 @@ Schedule：Wed 1-2
 Credits：2
 Instructor：Ortolani, Andrea
 Clas…]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【BHE】当日申込み可！本日13時開催！24年度公務員試験受験予定者向け講座]]></title>
-        <id>be9e09cdc64196bc2f6d9dc7fa3c7f63</id>
-        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3829"/>
-        <updated>2023-03-29T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[【24年以降受験対象者】←本日開催　当日申込み可！
-〇日時：2023年3月29日（水）13:00-14:45
-〇対象：2024年実施公務員試験受験予定者
-〇内容：進路を考える
-「公務員になるという選択」]]></summary>
     </entry>
     <entry>
         <title type="html"><![CDATA[令和５年度会計年度任用職員（部活動指導員）の募集について（土浦市）]]></title>
@@ -226,5 +215,14 @@ Topic: An Introduction…]]></summary>
         <summary type="html"><![CDATA[フランス政府留学局・日本支局では、年に2度、日本の大学の春休みと夏休みの時期に合わせ、短期語学留学プログラムを実施しています。フランス語の習得レベルや、大学での専攻分野を問わず、すべての学生が参加できます。今回の募集は9月の実施日程のセッションになります。申請希望者は以下ガイドライン等を熟読の上、申込みフォームを英字で記入し、期日までに所属する教育組織対応の支援室等へ提出してください。
 
 【夏季セ…]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【周知】文部科学大臣メッセージ「～不安や悩みがあったら話してみよう～」]]></title>
+        <id>573b51cf307abb04985af157fc044f3e</id>
+        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3794"/>
+        <updated>2023-03-15T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[文部科学大臣よりみなさまへメッセージがありますのでお知らせいたします。
+詳細は添付ファイルをご確認ください。
+]]></summary>
     </entry>
 </feed>
