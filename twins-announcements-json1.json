@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "8e1ac48e85ba50522b178762fac8d50a",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3832",
+            "title": "【４月３，４，５日学内出店】筑波大学公式オリジナルグッズECサイト割引クーポンのお知らせ（4月）",
+            "summary": "筑波大学公式オリジナルグッズ販売サイト「TSUKUBA-SHOP」の4月の割引クーポンコードをお知らせいたします！\n\n\n卒業/入学シーズンになってきました。\n\n昨年も大好評でした名入れグッズの展開も始まっております。\n\nどうぞご覧いただき、皆様の「日常生活」、「思い出」、「プレゼント🎁」などにご活用いただけますと幸いです。\n\n\nECサイトは以下のリンクから\n\n有効期間　：　2023年4月1日～2…",
+            "date_modified": "2023-04-03T03:00:00.000Z"
+        },
+        {
             "id": "9ff70a458624fde60ae32b13c0076802",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3830",
             "title": "【TISS】Course Information",
@@ -135,13 +142,6 @@
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3793",
             "title": "年度末・年度始のTWINSサービス休止のお知らせ／Notice of suspension of TWINS service",
             "summary": "TWINSの年度更新作業のため、下記の期間TWINSによる各種サービスを休止します。\nこの間、成績照会や証明書の発行もできません。\nご不便をおかけしますが、ご協力をお願いします。\n令和5年3月30日(木)15時 ～ 4月3日(月)まで\n\nDue to annual updates, various services on TWINS will be temporarily suspended du…",
-            "date_modified": "2023-03-15T03:00:00.000Z"
-        },
-        {
-            "id": "5eef137122fdb6d3227d0eac55243f3c",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3788",
-            "title": "【注意喚起】いわゆる「闇バイト」の周知について",
-            "summary": "　文部科学省から、いわゆる「闇バイト」についての注意喚起がありましたのでお知らせいたします。\n　ついては、添付ファイル等の資料を確認し、いわゆる「闇バイト」等に応募しアルバイト感覚で犯罪に加担してしまわぬよう、自覚をもって行動してください。\n",
             "date_modified": "2023-03-15T03:00:00.000Z"
         }
     ]
