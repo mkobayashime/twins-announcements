@@ -4,10 +4,20 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Tue, 04 Apr 2023 01:59:53 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 04 Apr 2023 05:03:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
+        <item>
+            <title><![CDATA[【参加者募集！】新入生・学生、集まれ！ランチタイムちょこっとダイバーシティ講座：LGBTQ＋編 （4月17日、19日、21日開催）]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3837</link>
+            <guid>40b3dd4cab88197c6443793aa81c024d</guid>
+            <pubDate>Tue, 04 Apr 2023 03:00:00 GMT</pubDate>
+            <description><![CDATA[4月に筑波大学に入学された皆さん、おめでとうございます！
+ヒューマンエンパワーメント推進局は、新入生（新入生でない学生も大歓迎です！）に向けて、昼休みに30分で気軽にダイバーシティやインクルージョンについて学べるオンライン講座企画を実施しちゃいます！
+
+新しい出会い・体験に胸躍らせる、そんな4月ですが、4月の22日と23日に「東京レインボープライド」というLGBTQ＋をはじめとした性の多様性を祝う…]]></description>
+        </item>
         <item>
             <title><![CDATA[2023年度第1期分授業料の納付について]]></title>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3836</link>
@@ -226,16 +236,6 @@ This project aims to collect “unnecessary items that can still be used” and 
             <description><![CDATA[多くの授業に TA が関わっている現在では、TA の役割と力量がより質の高い授業を作るうえでの鍵になります。今回、教育者としての TA の役割や基本的な心構えについて理解を深めること、レポート採点支援等を目的として、TA 研修プログラムを実施します。
 本研修会は、TAに対する必要な研修として位置付けられていますので、TA を予定している大学院生は、TAとして勤務する前に必ず受講してください。
 TA…]]></description>
-        </item>
-        <item>
-            <title><![CDATA[【Event】The last BOM hosted by URA - Borderless Online Meeting -Fri, Mar 17, 12:20 - 1:10 pm JST.]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3807</link>
-            <guid>b4f0b56637b3253c60ff1895d6ecb96e</guid>
-            <pubDate>Thu, 16 Mar 2023 03:00:00 GMT</pubDate>
-            <description><![CDATA[We invite you to the Borderless Online Meeting.  
-The purpose of the BOM is to socialise with each other through casual chat.  
-Please feel free to join us with your friends.   
-Topic: An Introduction…]]></description>
         </item>
     </channel>
 </rss>
