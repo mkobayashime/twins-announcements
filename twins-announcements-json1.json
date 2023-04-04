@@ -5,6 +5,20 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "32ea4c8fa249b50774f1c329f1d5cb00",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3836",
+            "title": "2023年度第1期分授業料の納付について",
+            "summary": "2023年度第1期授業料の納付について、添付の通りお知らせいたします。",
+            "date_modified": "2023-04-04T03:00:00.000Z"
+        },
+        {
+            "id": "0f46c5e45b01eb4765f13ae9928c97ab",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3835",
+            "title": "【再掲】令和５年度学生定期健康診断について　Announcement on the AY2023 Student Health Examination",
+            "summary": "令和５年度の学生定期健康診断を、身体検査とこころの健康調査に分けて実施します。必ず受診してください。\n\n身体検査\n４月１３日（木）から４月２６日（水）で実施されます。\n指定日時内の希望の時間を保健管理センターのホームページにて予約してください。\n\nこころの健康調査\n４月１３日(木) から５月３１日(水)で実施されます。\n学習管理システム（manaba）での回答となります。\n\n詳細は以下のPDFまた…",
+            "date_modified": "2023-04-04T03:00:00.000Z"
+        },
+        {
             "id": "c89f978491825365b95420a6adbab55c",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3834",
             "title": "「時事問題を英語で読み書き話す勉強会」開催のお知らせ",
@@ -128,20 +142,6 @@
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3807",
             "title": "【Event】The last BOM hosted by URA - Borderless Online Meeting -Fri, Mar 17, 12:20 - 1:10 pm JST.",
             "summary": "We invite you to the Borderless Online Meeting.  \nThe purpose of the BOM is to socialise with each other through casual chat.  \nPlease feel free to join us with your friends.   \nTopic: An Introduction…",
-            "date_modified": "2023-03-16T03:00:00.000Z"
-        },
-        {
-            "id": "a62be6540416b7ab38c713fb9a8e656c",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3804",
-            "title": "JICE 子どもサポートコース　補助員募集",
-            "summary": "内容：\n一般財団法人日本国際協力センター(JICE)が行っている日本語研修・就学支援の一環で、週末に「JICA筑波」で、外国籍の小中学生の宿題や教科学習（算数）のサポートコースを実施しています。その補助員を募集します。詳細は下記の添付でご確認ください。\n\n場所：JICA筑波　けやき棟3階\n時間：2023年4〜7月\n　　　毎週土曜日　9:00-12:00/13:00-16:00（どちらかだけでも可）…",
-            "date_modified": "2023-03-16T03:00:00.000Z"
-        },
-        {
-            "id": "29454954e66c54cb69dfe9cd0a5f33ff",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3799",
-            "title": "【Campus France-フランス政府留学局・日本支局主催】Campus Franceの短期語学留学2023夏季セッションについて（締切：4/19（水））",
-            "summary": "フランス政府留学局・日本支局では、年に2度、日本の大学の春休みと夏休みの時期に合わせ、短期語学留学プログラムを実施しています。フランス語の習得レベルや、大学での専攻分野を問わず、すべての学生が参加できます。今回の募集は9月の実施日程のセッションになります。申請希望者は以下ガイドライン等を熟読の上、申込みフォームを英字で記入し、期日までに所属する教育組織対応の支援室等へ提出してください。\n\n【夏季セ…",
             "date_modified": "2023-03-16T03:00:00.000Z"
         }
     ]
