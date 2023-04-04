@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/mkobayashime/twins-announcements</id>
     <title>在学生へのお知らせ | 筑波大学</title>
-    <updated>2023-04-03T21:07:51.496Z</updated>
+    <updated>2023-04-04T00:28:51.087Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://github.com/mkobayashime/twins-announcements"/>
     <subtitle>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</subtitle>
+    <entry>
+        <title type="html"><![CDATA[「時事問題を英語で読み書き話す勉強会」開催のお知らせ]]></title>
+        <id>c89f978491825365b95420a6adbab55c</id>
+        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3834"/>
+        <updated>2023-04-04T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[筑波大学「世界を変えよう基金アカデミー」では、時事問題に関する英語メディア報道記事を題材にacademic essayを作成し、英語で議論する勉強会を４月下旬からZoomで隔週開催します（10回、各2時間）。勉強会は主として英語で行いますが、academic essay の書き方に関する説明は日本語で行います。
+
+参加は無料ですが、TOEIC 700点相当以上の英語力を有し、今後の海外留学のために…]]></summary>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【通知】2023年度版INFOSS情報倫理」の受講について／【Notification】 Regarding participation of "INFOSS Information Ethics]]></title>
         <id>a1e334146b631dc08ecfafc199fffa7c</id>
@@ -222,14 +231,5 @@ Topic: An Introduction…]]></summary>
         <summary type="html"><![CDATA[フランス政府留学局・日本支局では、年に2度、日本の大学の春休みと夏休みの時期に合わせ、短期語学留学プログラムを実施しています。フランス語の習得レベルや、大学での専攻分野を問わず、すべての学生が参加できます。今回の募集は9月の実施日程のセッションになります。申請希望者は以下ガイドライン等を熟読の上、申込みフォームを英字で記入し、期日までに所属する教育組織対応の支援室等へ提出してください。
 
 【夏季セ…]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【周知】文部科学大臣メッセージ「～不安や悩みがあったら話してみよう～」]]></title>
-        <id>573b51cf307abb04985af157fc044f3e</id>
-        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3794"/>
-        <updated>2023-03-15T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[文部科学大臣よりみなさまへメッセージがありますのでお知らせいたします。
-詳細は添付ファイルをご確認ください。
-]]></summary>
     </entry>
 </feed>
