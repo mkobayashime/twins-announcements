@@ -4,10 +4,24 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Wed, 05 Apr 2023 00:25:13 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 05 Apr 2023 01:41:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
+        <item>
+            <title><![CDATA[公務員試験ガイダンス開催【24年度受験者向け】]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3839</link>
+            <guid>984b0f680e3754de3cb123422bc8504f</guid>
+            <pubDate>Wed, 05 Apr 2023 03:00:00 GMT</pubDate>
+            <description><![CDATA[4月12日(水)・21日(金)の二日にわたって開催！
+両日同内容で、2024年度に受験予定者向けの公務員ガイダンスのご案内です。
+
+LEC東京リーガルマインド専任講師をお呼びし、公務員の魅力や仕事内容・試験制度、そして合格・内定を取る効率の良い方法を伝授します。
+また、「学内公務員講座」についても併せて説明しますので、受講を検討している方は積極的に参加してください。
+
+申込みはこちらから↓
+htt…]]></description>
+        </item>
         <item>
             <title><![CDATA[【大学生向けイベントのご案内】　2023年日本財団　海洋開発サマースクールの募集開始について]]></title>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3838</link>
@@ -228,14 +242,6 @@ This project aims to collect “unnecessary items that can still be used” and 
 捨てるにはもったいないけど、もう使わないものを、学生間でリユースしましょう！
 
 期間：2023年3月20日～4月28日（品物がなくなり次第…]]></description>
-        </item>
-        <item>
-            <title><![CDATA[放置自転車を活用したサブスク事業および大学公認自転車のご案内]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3809</link>
-            <guid>b916f2c6a67b1295af49c0ad9154a87c</guid>
-            <pubDate>Fri, 17 Mar 2023 03:00:00 GMT</pubDate>
-            <description><![CDATA[「校章」や「University of Tsukuba」、「IMAGINE THE FUTURE.」が入ったかっこよく、おしゃれで乗り心地の良い自転車が販売されました。通学にもおすすめです！！3月中のお申込みでライトが無料でついてくるキャンペーンを実施中！
-新生活が始まる今！乗り換えや新車の購入にぜひお買い求めください。(4月より価格が変更になる可能性があります。ご検討いただいていた方はどうぞこの…]]></description>
         </item>
     </channel>
 </rss>
