@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "558859da8584fed126a2b56b9d1f487d",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3844",
+            "title": "課外活動の制限緩和について",
+            "summary": "４月１日以降の課外活動について、文部科学省からの通知を踏まえ、添付のとおりとしますので、適切な対応をお願いします。",
+            "date_modified": "2023-04-05T03:00:00.000Z"
+        },
+        {
             "id": "fed4e251aa65b229d3ae916bb454e766",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3843",
             "title": "2023年度夏季セブ島短期英語研修の実施（中止）について",
@@ -136,13 +143,6 @@
             "title": "●大学院説明会● [生命医科学] × [理・工・情報学] 一貫制博士課程「ヒューマニクス学位プログラム」4/23, 5/27, 6/17",
             "summary": "学類生の皆さまへ\n\n「生命医科学」×「理・工・情報学」\n5年一貫制博士課程 ヒューマニクス学位プログラムより、入試説明会のご案内です。\n\n大学院への進学を予定されている4年生はもちろん、１〜３年生の参加も歓迎いたします。\n「ヒューマニクスって何？」という方も、お気軽にご参加ください。\n\n■システム情報工学研究群のオープンキャンパスに参加します！（オンライン via Zoom）\n4/23（日）12:…",
             "date_modified": "2023-03-24T03:00:00.000Z"
-        },
-        {
-            "id": "fc2ca1bb9b1a6950601a56bbe5edbb6b",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3818",
-            "title": "Seeking members for the Study Group on “Designing and Running Randomized Evaluations”",
-            "summary": "The University’s “Make a Difference in the World Fund” (MDW Fund) seeks participants for a study group on “Designing and Running Randomized Evaluations”, which will discuss how to design a randomized …",
-            "date_modified": "2023-03-22T03:00:00.000Z"
         }
     ]
 }
