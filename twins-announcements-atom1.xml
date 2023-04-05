@@ -2,10 +2,26 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/mkobayashime/twins-announcements</id>
     <title>在学生へのお知らせ | 筑波大学</title>
-    <updated>2023-04-05T02:14:35.092Z</updated>
+    <updated>2023-04-05T03:04:13.284Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://github.com/mkobayashime/twins-announcements"/>
     <subtitle>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</subtitle>
+    <entry>
+        <title type="html"><![CDATA[2023年度夏季セブ島短期英語研修の実施（中止）について]]></title>
+        <id>fed4e251aa65b229d3ae916bb454e766</id>
+        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3843"/>
+        <updated>2023-04-05T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[2023年度夏季セブ島短期英語研修は、募集中止です。
+
+
+中止科目：8030106　フィリピン英語研修Ⅰ（夏季集中）
+
+
+【問い合わせ先】
+学生部学生交流課（海外留学）
+Tel：029-853-6792
+Email：isc-kaigai@un.tsukuba.ac.jp]]></summary>
+    </entry>
     <entry>
         <title type="html"><![CDATA[GTIEアントレプレナーシップ・プログラム「GTIE Startup School（β版）」のお知らせ]]></title>
         <id>7856f79d88c14b8507bc3446dd1a52d8</id>
@@ -233,13 +249,5 @@ Clas…]]></summary>
         <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3818"/>
         <updated>2023-03-22T03:00:00.000Z</updated>
         <summary type="html"><![CDATA[The University’s “Make a Difference in the World Fund” (MDW Fund) seeks participants for a study group on “Designing and Running Randomized Evaluations”, which will discuss how to design a randomized …]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[From TODAY! Distribution of reusable items (FREE)]]></title>
-        <id>dcc990f133462205c7ad8314a16de5a7</id>
-        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3816"/>
-        <updated>2023-03-20T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[The Student Support Center will organize the "Student Common’s SDGs RECYCLING PROJECT"!
-This project aims to collect “unnecessary items that can still be used” and transfer them for free to new (and n…]]></summary>
     </entry>
 </feed>
