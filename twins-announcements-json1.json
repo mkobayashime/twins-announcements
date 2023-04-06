@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "0744412ec984e32491852e7e8fa51d41",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3861",
+            "title": "【学生無料】葵トリオ―３人で奏でるシンフォニー　第13回つくばリサイタルシ リーズ",
+            "summary": "　筑波大学有志学生が企画・運営する「つくばリサイタルシリーズ」。第13回は、\n音楽のオリンピックともいうべき世界最難関のミュンヘン国際音楽コンクールで\n2018年にピアノ三重奏部門日本人初優勝を果たし、世界を舞台に活躍する葵トリ\nオをお招きします。\n　\n　葵トリオの三人は、ともに藝大に学び、その後サントリーホール室内楽アカデ\nミーで研鑽を積みました。このアカデミーは、世界的に活躍する教授陣の指導で…",
+            "date_modified": "2023-04-06T03:00:00.000Z"
+        },
+        {
             "id": "374bceec3b51a7b709adec60443da0e0",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3860",
             "title": "留学生のための図書館オリエンテーション / Library Orientation for International Students",
@@ -136,13 +143,6 @@
             "title": "【TISS】Course Information",
             "summary": "We would like to inform you about the TISS courses.\n\n➀ComparativeComparative Law I: Legal Traditions and Cultures (BE22161)\nSemester：Fall AB\nSchedule：Wed 1-2\nCredits：2\nInstructor：Ortolani, Andrea\nClas…",
             "date_modified": "2023-03-30T03:00:00.000Z"
-        },
-        {
-            "id": "d930d8492a64e8bb74d0fb2705c7d766",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3826",
-            "title": "令和５年度会計年度任用職員（部活動指導員）の募集について（土浦市）",
-            "summary": "土浦市教育委員会より令和５年度の部活動指導員の募集がありました。\n応募を希望する方は、添付ファイルを確認し、申請してください。",
-            "date_modified": "2023-03-28T03:00:00.000Z"
         }
     ]
 }
