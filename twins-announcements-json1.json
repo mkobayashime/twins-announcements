@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "6e4ff843e5c0a051c732c8c86fdfd060",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3866",
+            "title": "公務員資格試験(土木・機械)対策コースのご案内",
+            "summary": "各位\n\n現在、公務員を目指す筑波大生のみなさんに、公務員資格試験(土木・機械)対策の問題集を配布しております。\n来年以降、公務員資格試験の受験を考えている方はぜひ、manabaの授業登録キー：『7751698』、\nまたは、MS Teamsのチームコード：『bo60dnh』を用いて、ご参加下さい。\n（主な対象者として、工学システム学類・社会工学類・応用理工学類を想定しています。\n配布資料は、基礎数理…",
+            "date_modified": "2023-04-07T03:00:00.000Z"
+        },
+        {
             "id": "2984f513134d6d76bc4357cd4ec6d64b",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3865",
             "title": "〈参加者募集！〉比較文化学類開設　カナダのプリンスエドワード島大学「夏季英語研修」説明会開催",
@@ -135,13 +142,6 @@
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3835",
             "title": "【再掲】令和５年度学生定期健康診断について　Announcement on the AY2023 Student Health Examination",
             "summary": "令和５年度の学生定期健康診断を、身体検査とこころの健康調査に分けて実施します。必ず受診してください。\n\n身体検査\n４月１３日（木）から４月２６日（水）で実施されます。\n指定日時内の希望の時間を保健管理センターのホームページにて予約してください。\n\nこころの健康調査\n４月１３日(木) から５月３１日(水)で実施されます。\n学習管理システム（manaba）での回答となります。\n\n詳細は以下のPDFまた…",
-            "date_modified": "2023-04-04T03:00:00.000Z"
-        },
-        {
-            "id": "c89f978491825365b95420a6adbab55c",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3834",
-            "title": "「時事問題を英語で読み書き話す勉強会」開催のお知らせ",
-            "summary": "筑波大学「世界を変えよう基金アカデミー」では、時事問題に関する英語メディア報道記事を題材にacademic essayを作成し、英語で議論する勉強会を４月下旬からZoomで隔週開催します（10回、各2時間）。勉強会は主として英語で行いますが、academic essay の書き方に関する説明は日本語で行います。\n\n参加は無料ですが、TOEIC 700点相当以上の英語力を有し、今後の海外留学のために…",
             "date_modified": "2023-04-04T03:00:00.000Z"
         }
     ]
