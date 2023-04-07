@@ -5,6 +5,20 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "3144aa3fac642c3dea791ae80b74541e",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3864",
+            "title": "【申込み受付中！】筑波大学キャリアフェア　",
+            "summary": "2024年3月卒業・修了予定の方を対象とした、筑波大学キャリアフェアを\n開催いたします。\n「就職先の選定に戸惑っている」\n「就職活動を続けている」\n「新たに企業との接点を求めている」\nそんな就活継続中の方、これから就職を考えている方は、ぜひご参加ください！\n\n【 ➀ オンライン開催 】\n日時：4月18日（火），4月19日（水）\n会場：Zoom\n申込方法：「ガイダンス等及び模擬試験　登録・申請」より…",
+            "date_modified": "2023-04-07T03:00:00.000Z"
+        },
+        {
+            "id": "3f249fa59e4a46e9388d8e06600c7aec",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3863",
+            "title": "「株式投資コンテスト勉強会」参加者募集のお知らせ",
+            "summary": "筑波大学「世界を変えよう基金アカデミー」では、金融・投資教育の一環として「株式投資コンテスト勉強会」を４月22日（土）から5か月間、隔週土曜日に開催します（20時開始、Zoom を基本とします）。\n\n勉強会では、村上世彰著「高校生に投資を教える」（1650円）を教科書に、模擬株式投資アプリを利用して仮想現金10万ドル(約1300万円)を日米の企業に投資し、日本・米国・世界の政治経済動向、各企業の事…",
+            "date_modified": "2023-04-07T03:00:00.000Z"
+        },
+        {
             "id": "02a4ccc495c35086b7b3d47787d5b852",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3862",
             "title": "【開催案内】4/26（水）筑波大学発ベンチャー・フラー株式会社 渋谷修太氏講演",
@@ -129,20 +143,6 @@
             "title": "【通知】2023年度版INFOSS情報倫理」の受講について／【Notification】 Regarding participation of \"INFOSS Information Ethics",
             "summary": "【通知】2023年度版INFOSS情報倫理」の受講について\n／【Notification】 Regarding participation of \"INFOSS Information Ethics\"\n\n2023年度版のINFOSS情報倫理が受講可能となりました。\nINFOSS情報倫理は、１～５まである修了テストを順に合格した後、「情報の盗難等を防ぐチェック」の提出をもって受講済みとなります。\n受…",
             "date_modified": "2023-04-04T03:00:00.000Z"
-        },
-        {
-            "id": "49516599d7bf968049a50dce304a338a",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3833",
-            "title": "2023年度　華道教室参加者募集",
-            "summary": "学内の留学生を対象に、毎月第二、第四火曜日に華道教室が開かれる予定です。\n華道に興味のある外国人留学生の方は、添付ファイルを必ず確認し、下記のURLからお申込みください。\n\n申し込み期限：2023年4月7日（金）\n募集人数の10名に達した場合は、期限前でも募集を終了します。\n参加希望者は、https://forms.office.com/r/uQx0nc1tvDから申込してください。\n\n※一回限り…",
-            "date_modified": "2023-04-03T03:00:00.000Z"
-        },
-        {
-            "id": "8e1ac48e85ba50522b178762fac8d50a",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3832",
-            "title": "【４月３，４，５日学内出店】筑波大学公式オリジナルグッズECサイト割引クーポンのお知らせ（4月）",
-            "summary": "筑波大学公式オリジナルグッズ販売サイト「TSUKUBA-SHOP」の4月の割引クーポンコードをお知らせいたします！\n\n\n卒業/入学シーズンになってきました。\n\n昨年も大好評でした名入れグッズの展開も始まっております。\n\nどうぞご覧いただき、皆様の「日常生活」、「思い出」、「プレゼント🎁」などにご活用いただけますと幸いです。\n\n\nECサイトは以下のリンクから\n\n有効期間　：　2023年4月1日～2…",
-            "date_modified": "2023-04-03T03:00:00.000Z"
         }
     ]
 }
