@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "2984f513134d6d76bc4357cd4ec6d64b",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3865",
+            "title": "〈参加者募集！〉比較文化学類開設　カナダのプリンスエドワード島大学「夏季英語研修」説明会開催",
+            "summary": "学生のみなさま\n\n比較文化学類開設　カナダのプリンスエドワード島大学「夏季英語研修」（比較文化国際研修I AC66003 ）の説明会を４月２６日（１１時３０分から１２時）にオンラインで開催します。「はばたけ！筑大生」10万円支給予定。\n\n説明会参加希望者は担当教員までメールしてください。\n",
+            "date_modified": "2023-04-07T03:00:00.000Z"
+        },
+        {
             "id": "3144aa3fac642c3dea791ae80b74541e",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3864",
             "title": "【申込み受付中！】筑波大学キャリアフェア　",
@@ -135,13 +142,6 @@
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3834",
             "title": "「時事問題を英語で読み書き話す勉強会」開催のお知らせ",
             "summary": "筑波大学「世界を変えよう基金アカデミー」では、時事問題に関する英語メディア報道記事を題材にacademic essayを作成し、英語で議論する勉強会を４月下旬からZoomで隔週開催します（10回、各2時間）。勉強会は主として英語で行いますが、academic essay の書き方に関する説明は日本語で行います。\n\n参加は無料ですが、TOEIC 700点相当以上の英語力を有し、今後の海外留学のために…",
-            "date_modified": "2023-04-04T03:00:00.000Z"
-        },
-        {
-            "id": "a1e334146b631dc08ecfafc199fffa7c",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3831",
-            "title": "【通知】2023年度版INFOSS情報倫理」の受講について／【Notification】 Regarding participation of \"INFOSS Information Ethics",
-            "summary": "【通知】2023年度版INFOSS情報倫理」の受講について\n／【Notification】 Regarding participation of \"INFOSS Information Ethics\"\n\n2023年度版のINFOSS情報倫理が受講可能となりました。\nINFOSS情報倫理は、１～５まである修了テストを順に合格した後、「情報の盗難等を防ぐチェック」の提出をもって受講済みとなります。\n受…",
             "date_modified": "2023-04-04T03:00:00.000Z"
         }
     ]
