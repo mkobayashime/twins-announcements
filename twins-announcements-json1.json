@@ -5,6 +5,27 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "04c6500d4098d4c6eb5ffca310f810ec",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3870",
+            "title": "令和5年度学群期末試験について",
+            "summary": "学群学生各位\n\n標記の試験については、下記の期間に実施する。\n　なお、実施に当たっては、教室等を変更する場合があるので、掲示等に十分留意し誤りのないように受験されたい。\n　また、受験に当たっては、次の諸点に注意すること。\n１　学生証を机上に提示すること。\n２　書き終わった答案用紙は、裏返して机上に置くこと。\n３　携帯電話、スマートフォン等は、試験室に入る前に電源を切り、かばん等（ただし、衣服を除く…",
+            "date_modified": "2023-04-10T03:00:00.000Z"
+        },
+        {
+            "id": "7e744fc012b0bdfd0d593b639ed8c176",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3869",
+            "title": "To All the students(NOTICE):Changes in Class Dates in 2023",
+            "summary": "To All the students\n\nIn order to ensure certain number of class days, classes on listed dates are scheduled to be held as follows (excluding Tokyo Campus):\n\n                                         St…",
+            "date_modified": "2023-04-10T03:00:00.000Z"
+        },
+        {
+            "id": "b430f93755194a74ea55c0316f4ae3b4",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3868",
+            "title": "令和5年度授業の曜日振替について",
+            "summary": "学生各位\n\nこのことについて、授業日数確保のため、下記のとおり曜日が振替になっていますので、ご注意願います。\n（但し、東京キャンパスは除く。）\n\n　　　　　　　　　記\n\n【春学期授業】\n令和５年  ５月　１日（月）は、水曜日の授業を実施（終日）\n令和５年  ７月１９日（水）は、月曜日の授業を実施（終日）\n\n【秋学期授業】\n令和５年１１月　１日（水）は、金曜日の授業を実施（終日）\n令和５年１１月　７…",
+            "date_modified": "2023-04-10T03:00:00.000Z"
+        },
+        {
             "id": "a7917699d7b1c33b19625b3483cd5d40",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3867",
             "title": "【再掲】令和6年度採用を目指す日本学術振興会特別研究員説明会の講演について",
@@ -122,27 +143,6 @@
             "title": "公務員試験ガイダンス開催【24年度受験者向け】",
             "summary": "4月12日(水)・21日(金)の二日にわたって開催！\n両日同内容で、2024年度に受験予定者向けの公務員ガイダンスのご案内です。\n\nLEC東京リーガルマインド専任講師をお呼びし、公務員の魅力や仕事内容・試験制度、そして合格・内定を取る効率の良い方法を伝授します。\nまた、「学内公務員講座」についても併せて説明しますので、受講を検討している方は積極的に参加してください。\n\n申込みはこちらから↓\nhtt…",
             "date_modified": "2023-04-05T03:00:00.000Z"
-        },
-        {
-            "id": "af05ba6bf6d5bb2949bc679cecea9f14",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3838",
-            "title": "【大学生向けイベントのご案内】　2023年日本財団　海洋開発サマースクールの募集開始について",
-            "summary": "日本財団オーシャンイノベーションコンソーシアムでは、将来、海洋開発産業での活躍を希望する学生を対象に、学生が将来必要とする海洋開発にかかわる知識や国際性をより実践的なレベルで経験してもらうことを目的として、海外の大学にて海洋開発サマープログラムを開催いたします。\n\n2023年のサマースクールは、スコットランド、ノルウェー、アメリカ、オランダの4カ国にて実施予定としており、海洋開発の将来を担う仲間た…",
-            "date_modified": "2023-04-05T03:00:00.000Z"
-        },
-        {
-            "id": "40b3dd4cab88197c6443793aa81c024d",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3837",
-            "title": "【参加者募集！】新入生・学生、集まれ！ランチタイムちょこっとダイバーシティ講座：LGBTQ＋編 （4月17日、19日、21日開催）",
-            "summary": "4月に筑波大学に入学された皆さん、おめでとうございます！\nヒューマンエンパワーメント推進局は、新入生（新入生でない学生も大歓迎です！）に向けて、昼休みに30分で気軽にダイバーシティやインクルージョンについて学べるオンライン講座企画を実施しちゃいます！\n\n新しい出会い・体験に胸躍らせる、そんな4月ですが、4月の22日と23日に「東京レインボープライド」というLGBTQ＋をはじめとした性の多様性を祝う…",
-            "date_modified": "2023-04-04T03:00:00.000Z"
-        },
-        {
-            "id": "32ea4c8fa249b50774f1c329f1d5cb00",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3836",
-            "title": "2023年度第1期分授業料の納付について",
-            "summary": "2023年度第1期授業料の納付について、添付の通りお知らせいたします。",
-            "date_modified": "2023-04-04T03:00:00.000Z"
         }
     ]
 }
