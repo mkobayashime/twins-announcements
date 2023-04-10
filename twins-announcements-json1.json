@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "c482fb484deef5ded14eaee509491feb",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3871",
+            "title": "Notice about The Undergraduate Final Examinations in 2023（To All the Undergraduate Students）",
+            "summary": "To All the Undergraduate Students\n\nUniversity of Tsukuba conducts the undergraduate final examinations in 2023 as stated below.\nClassrooms assigned the examinations might be changed, thus, please pay …",
+            "date_modified": "2023-04-10T03:00:00.000Z"
+        },
+        {
             "id": "04c6500d4098d4c6eb5ffca310f810ec",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3870",
             "title": "令和5年度学群期末試験について",
@@ -135,13 +142,6 @@
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3841",
             "title": "院生、教員等向け東大GTIEプログラムのお知らせ",
             "summary": "Greater Tokyo Innovation Ecosystem（GTIE：ジータイ）は、首都圏を中心とした大学からなる『世界を変える大学発スタートアップを育てる』プラットフォームです。筑波大学は共同機関としてGTIEに参画しています。\n\nこのたびGTIEの主幹機関である東京大学から以下のとおり院生、教員等向け東大GTIEプログラムの案内がございましたのでお知らせします。\n\n〇東大GTIEプロ…",
-            "date_modified": "2023-04-05T03:00:00.000Z"
-        },
-        {
-            "id": "984b0f680e3754de3cb123422bc8504f",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3839",
-            "title": "公務員試験ガイダンス開催【24年度受験者向け】",
-            "summary": "4月12日(水)・21日(金)の二日にわたって開催！\n両日同内容で、2024年度に受験予定者向けの公務員ガイダンスのご案内です。\n\nLEC東京リーガルマインド専任講師をお呼びし、公務員の魅力や仕事内容・試験制度、そして合格・内定を取る効率の良い方法を伝授します。\nまた、「学内公務員講座」についても併せて説明しますので、受講を検討している方は積極的に参加してください。\n\n申込みはこちらから↓\nhtt…",
             "date_modified": "2023-04-05T03:00:00.000Z"
         }
     ]

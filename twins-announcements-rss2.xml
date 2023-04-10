@@ -4,10 +4,20 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Mon, 10 Apr 2023 09:03:29 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 10 Apr 2023 09:09:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
+        <item>
+            <title><![CDATA[Notice about The Undergraduate Final Examinations in 2023（To All the Undergraduate Students）]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3871</link>
+            <guid>c482fb484deef5ded14eaee509491feb</guid>
+            <pubDate>Mon, 10 Apr 2023 03:00:00 GMT</pubDate>
+            <description><![CDATA[To All the Undergraduate Students
+
+University of Tsukuba conducts the undergraduate final examinations in 2023 as stated below.
+Classrooms assigned the examinations might be changed, thus, please pay …]]></description>
+        </item>
         <item>
             <title><![CDATA[令和5年度学群期末試験について]]></title>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3870</link>
@@ -243,20 +253,6 @@ Email：isc-kaigai@un.tsukuba.ac.jp]]></description>
 このたびGTIEの主幹機関である東京大学から以下のとおり院生、教員等向け東大GTIEプログラムの案内がございましたのでお知らせします。
 
 〇東大GTIEプロ…]]></description>
-        </item>
-        <item>
-            <title><![CDATA[公務員試験ガイダンス開催【24年度受験者向け】]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3839</link>
-            <guid>984b0f680e3754de3cb123422bc8504f</guid>
-            <pubDate>Wed, 05 Apr 2023 03:00:00 GMT</pubDate>
-            <description><![CDATA[4月12日(水)・21日(金)の二日にわたって開催！
-両日同内容で、2024年度に受験予定者向けの公務員ガイダンスのご案内です。
-
-LEC東京リーガルマインド専任講師をお呼びし、公務員の魅力や仕事内容・試験制度、そして合格・内定を取る効率の良い方法を伝授します。
-また、「学内公務員講座」についても併せて説明しますので、受講を検討している方は積極的に参加してください。
-
-申込みはこちらから↓
-htt…]]></description>
         </item>
     </channel>
 </rss>

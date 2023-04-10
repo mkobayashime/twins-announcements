@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/mkobayashime/twins-announcements</id>
     <title>在学生へのお知らせ | 筑波大学</title>
-    <updated>2023-04-10T09:03:29.491Z</updated>
+    <updated>2023-04-10T09:09:17.518Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://github.com/mkobayashime/twins-announcements"/>
     <subtitle>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</subtitle>
+    <entry>
+        <title type="html"><![CDATA[Notice about The Undergraduate Final Examinations in 2023（To All the Undergraduate Students）]]></title>
+        <id>c482fb484deef5ded14eaee509491feb</id>
+        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3871"/>
+        <updated>2023-04-10T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[To All the Undergraduate Students
+
+University of Tsukuba conducts the undergraduate final examinations in 2023 as stated below.
+Classrooms assigned the examinations might be changed, thus, please pay …]]></summary>
+    </entry>
     <entry>
         <title type="html"><![CDATA[令和5年度学群期末試験について]]></title>
         <id>04c6500d4098d4c6eb5ffca310f810ec</id>
@@ -241,19 +251,5 @@ Email：isc-kaigai@un.tsukuba.ac.jp]]></summary>
 このたびGTIEの主幹機関である東京大学から以下のとおり院生、教員等向け東大GTIEプログラムの案内がございましたのでお知らせします。
 
 〇東大GTIEプロ…]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[公務員試験ガイダンス開催【24年度受験者向け】]]></title>
-        <id>984b0f680e3754de3cb123422bc8504f</id>
-        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3839"/>
-        <updated>2023-04-05T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[4月12日(水)・21日(金)の二日にわたって開催！
-両日同内容で、2024年度に受験予定者向けの公務員ガイダンスのご案内です。
-
-LEC東京リーガルマインド専任講師をお呼びし、公務員の魅力や仕事内容・試験制度、そして合格・内定を取る効率の良い方法を伝授します。
-また、「学内公務員講座」についても併せて説明しますので、受講を検討している方は積極的に参加してください。
-
-申込みはこちらから↓
-htt…]]></summary>
     </entry>
 </feed>
