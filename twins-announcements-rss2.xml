@@ -4,10 +4,19 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Sun, 09 Apr 2023 21:07:21 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 10 Apr 2023 02:23:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
+        <item>
+            <title><![CDATA[【再掲】令和6年度採用を目指す日本学術振興会特別研究員説明会の講演について]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3867</link>
+            <guid>a7917699d7b1c33b19625b3483cd5d40</guid>
+            <pubDate>Mon, 10 Apr 2023 03:00:00 GMT</pubDate>
+            <description><![CDATA[令和6年度採用を目指す日本学術振興会特別研究員説明会をmanabaにて配信しています。採用内定者からのアドバイス、特別研究員審査会専門委員から見た申請にあたってのポイント等について、それぞれの講師から説明いただいております。ぜひご視聴の上、積極的に申請してください。なお、申請〆切は受付部局により異なります。
+
+配信場所　学習管理システム　manaba（https://manaba.tsukuba.…]]></description>
+        </item>
         <item>
             <title><![CDATA[公務員資格試験(土木・機械)対策コースのご案内]]></title>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3866</link>
@@ -229,23 +238,6 @@ htt…]]></description>
             <guid>32ea4c8fa249b50774f1c329f1d5cb00</guid>
             <pubDate>Tue, 04 Apr 2023 03:00:00 GMT</pubDate>
             <description><![CDATA[2023年度第1期授業料の納付について、添付の通りお知らせいたします。]]></description>
-        </item>
-        <item>
-            <title><![CDATA[【再掲】令和５年度学生定期健康診断について　Announcement on the AY2023 Student Health Examination]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3835</link>
-            <guid>0f46c5e45b01eb4765f13ae9928c97ab</guid>
-            <pubDate>Tue, 04 Apr 2023 03:00:00 GMT</pubDate>
-            <description><![CDATA[令和５年度の学生定期健康診断を、身体検査とこころの健康調査に分けて実施します。必ず受診してください。
-
-身体検査
-４月１３日（木）から４月２６日（水）で実施されます。
-指定日時内の希望の時間を保健管理センターのホームページにて予約してください。
-
-こころの健康調査
-４月１３日(木) から５月３１日(水)で実施されます。
-学習管理システム（manaba）での回答となります。
-
-詳細は以下のPDFまた…]]></description>
         </item>
     </channel>
 </rss>

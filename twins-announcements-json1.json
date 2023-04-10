@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "a7917699d7b1c33b19625b3483cd5d40",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3867",
+            "title": "【再掲】令和6年度採用を目指す日本学術振興会特別研究員説明会の講演について",
+            "summary": "令和6年度採用を目指す日本学術振興会特別研究員説明会をmanabaにて配信しています。採用内定者からのアドバイス、特別研究員審査会専門委員から見た申請にあたってのポイント等について、それぞれの講師から説明いただいております。ぜひご視聴の上、積極的に申請してください。なお、申請〆切は受付部局により異なります。\n\n配信場所　学習管理システム　manaba（https://manaba.tsukuba.…",
+            "date_modified": "2023-04-10T03:00:00.000Z"
+        },
+        {
             "id": "6e4ff843e5c0a051c732c8c86fdfd060",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3866",
             "title": "公務員資格試験(土木・機械)対策コースのご案内",
@@ -135,13 +142,6 @@
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3836",
             "title": "2023年度第1期分授業料の納付について",
             "summary": "2023年度第1期授業料の納付について、添付の通りお知らせいたします。",
-            "date_modified": "2023-04-04T03:00:00.000Z"
-        },
-        {
-            "id": "0f46c5e45b01eb4765f13ae9928c97ab",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3835",
-            "title": "【再掲】令和５年度学生定期健康診断について　Announcement on the AY2023 Student Health Examination",
-            "summary": "令和５年度の学生定期健康診断を、身体検査とこころの健康調査に分けて実施します。必ず受診してください。\n\n身体検査\n４月１３日（木）から４月２６日（水）で実施されます。\n指定日時内の希望の時間を保健管理センターのホームページにて予約してください。\n\nこころの健康調査\n４月１３日(木) から５月３１日(水)で実施されます。\n学習管理システム（manaba）での回答となります。\n\n詳細は以下のPDFまた…",
             "date_modified": "2023-04-04T03:00:00.000Z"
         }
     ]
