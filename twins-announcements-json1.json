@@ -5,6 +5,20 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "c98a14e8c0d34c88785ab6aea15ebb9b",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3878",
+            "title": "【提出依頼】安全保障輸出管理のための誓約書(入学時)提出のお願い",
+            "summary": "2023年度大学院入学者の皆様へ\n安全保障に関連する機微技術流出の防止のために、大学院生は大学院入学時に「外国為替及び外国貿易法」を遵守する誓約書をmanabaから提出していただいております。ご協力をよろしくお願いいたします。\n【manabaコース名／コースコード】誓約書（入学時）／22169\n【参考】manabaの登録について（チラシ）\n\n【担当】利益相反・輸出管理マネジメント室\n　　　anze…",
+            "date_modified": "2023-04-11T03:00:00.000Z"
+        },
+        {
+            "id": "fd1b7fac6e5cad0c31e825ed9ca05845",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3877",
+            "title": "【大学院説明会】ヒューマニクス学位プログラム説明会@4/23システム情報工学研究群オープンキャンパス",
+            "summary": "学類生の皆さまへ\n\n「生命医科学」×「理・工・情報学」\n5年一貫制博士課程 ヒューマニクス学位プログラムより、大学院説明会のご案内です。\n第1回目は、4/23（日）にシステム情報工学研究群オープンキャンパスにて開催いたします。\n\nヒューマニクスの説明会には、大学院への進学を予定されている4年生はもちろん、１〜３年生も毎回多くご参加いただいています。「ヒューマニクスって何？」という方も、お気軽にご参…",
+            "date_modified": "2023-04-11T03:00:00.000Z"
+        },
+        {
             "id": "98467bf523e827bb20ca1c8b3c586ae4",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3876",
             "title": "つくばリサイタルシリーズ実行委員会説明会",
@@ -128,20 +142,6 @@
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3847",
             "title": "自然保護寄附講座第10期生春募集！[Apply Now for the CPNC (Spring Semester)!]",
             "summary": "筑波大学大学院新入生の皆さん、ご入学おめでとうございます！\n自然保護寄附講座では、第10期生（2023年度春履修開始）を募集します。\nApply now for the Certificate Programme on Nature Conservation of 2023 (Spring Semester) !\n\n\nまずは説明会にご参加ください! / Before your applicatio…",
-            "date_modified": "2023-04-06T03:00:00.000Z"
-        },
-        {
-            "id": "f5db8ae224b67c6945728eb13ef5e50f",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3846",
-            "title": "2023年度（第15期）官民協働海外留学支援制度～トビタテ！留学JAPAN新・日本代表プログラム～【大学１年生枠】の募集について（学内締切：2023年4月18日（火）17時）",
-            "summary": "標記につき、ご案内致します。応募希望者は募集要項にて要件を確認の上、2023年4月18日（火）17時までに、申請システム（ガクシーAgent）にて大学への応募申請を完了して下さい。\nまた所属教育組織対応の支援室等に所得証明関連書類を同日17時迄に提出して下さい。\n応募申請は本学を通して行う必要があり、この締切日時を超えた応募は対象外となります。ご注意下さい。\n※大学1年生：2023年4月に大学へ第…",
-            "date_modified": "2023-04-06T03:00:00.000Z"
-        },
-        {
-            "id": "f5db8ae224b67c6945728eb13ef5e50f",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3845",
-            "title": "2023年度（第15期）官民協働海外留学支援制度～トビタテ！留学JAPAN新・日本代表プログラム～【大学１年生枠】の募集について（学内締切：2023年4月18日（火）17時）",
-            "summary": "標記につき、ご案内致します。応募希望者は募集要項にて要件を確認の上、2023年4月18日（火）17時までに、申請システム（ガクシーAgent）にて大学への応募申請を完了して下さい。\nまた所属教育組織対応の支援室等に所得証明関連書類を同日17時迄に提出して下さい。\n応募申請は本学を通して行う必要があり、この締切日時を超えた応募は対象外となります。ご注意下さい。\n※大学1年生：2023年4月に大学へ第…",
             "date_modified": "2023-04-06T03:00:00.000Z"
         }
     ]
