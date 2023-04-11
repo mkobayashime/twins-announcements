@@ -4,10 +4,20 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Tue, 11 Apr 2023 01:56:39 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 11 Apr 2023 03:04:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
+        <item>
+            <title><![CDATA[スーツ等の割引サービスについて（4月10日更新）]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3874</link>
+            <guid>d93ef799f162fd5f5ca07ff14a1f4cd5</guid>
+            <pubDate>Tue, 11 Apr 2023 03:00:00 GMT</pubDate>
+            <description><![CDATA[本学は紳士服の大手4社と契約しています。
+そのため、在学生とそのご家族の皆様には、全国のAOKI、コナカ、はるやま、洋服の青山で、通常の割引価格から更に割引いた価格でスーツ等をご購入いただけます。
+大変お得ですので、是非ご利用ください。
+※ご購入いただいた金額の一部が大学に寄附されます。]]></description>
+        </item>
         <item>
             <title><![CDATA[4月22日（土）「令和5年度筑波大学科学技術週間 キッズ・ユニバーシティ」の開催について]]></title>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3872</link>
@@ -249,15 +259,6 @@ Apply now for the Certificate Programme on Nature Conservation of 2023 (Spring S
 学生部学生交流課（海外留学）
 Tel：029-853-6792
 Email：isc-kaigai@un.tsukuba.ac.jp]]></description>
-        </item>
-        <item>
-            <title><![CDATA[GTIEアントレプレナーシップ・プログラム「GTIE Startup School（β版）」のお知らせ]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3842</link>
-            <guid>7856f79d88c14b8507bc3446dd1a52d8</guid>
-            <pubDate>Wed, 05 Apr 2023 03:00:00 GMT</pubDate>
-            <description><![CDATA[Greater Tokyo Innovation Ecosystem（GTIE：ジータイ）は、首都圏を中心とした大学からなる『世界を変える大学発スタートアップを育てる』プラットフォームです。筑波大学は共同機関としてGTIEに参画しています。
-
-このたびGTIE参画大学の学生・教員の方を対象としたオンラインスクール形式のアントレプレナーシップ・プログラム「GTIE Startup School（β版…]]></description>
         </item>
     </channel>
 </rss>

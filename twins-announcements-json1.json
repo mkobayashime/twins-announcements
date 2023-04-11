@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "d93ef799f162fd5f5ca07ff14a1f4cd5",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3874",
+            "title": "スーツ等の割引サービスについて（4月10日更新）",
+            "summary": "本学は紳士服の大手4社と契約しています。\nそのため、在学生とそのご家族の皆様には、全国のAOKI、コナカ、はるやま、洋服の青山で、通常の割引価格から更に割引いた価格でスーツ等をご購入いただけます。\n大変お得ですので、是非ご利用ください。\n※ご購入いただいた金額の一部が大学に寄附されます。",
+            "date_modified": "2023-04-11T03:00:00.000Z"
+        },
+        {
             "id": "15128dd400a44a48816052d3611c42e8",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3872",
             "title": "4月22日（土）「令和5年度筑波大学科学技術週間 キッズ・ユニバーシティ」の開催について",
@@ -135,13 +142,6 @@
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3843",
             "title": "2023年度夏季セブ島短期英語研修の実施（中止）について",
             "summary": "2023年度夏季セブ島短期英語研修は、募集中止です。\n\n\n中止科目：8030106　フィリピン英語研修Ⅰ（夏季集中）\n\n\n【問い合わせ先】\n学生部学生交流課（海外留学）\nTel：029-853-6792\nEmail：isc-kaigai@un.tsukuba.ac.jp",
-            "date_modified": "2023-04-05T03:00:00.000Z"
-        },
-        {
-            "id": "7856f79d88c14b8507bc3446dd1a52d8",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3842",
-            "title": "GTIEアントレプレナーシップ・プログラム「GTIE Startup School（β版）」のお知らせ",
-            "summary": "Greater Tokyo Innovation Ecosystem（GTIE：ジータイ）は、首都圏を中心とした大学からなる『世界を変える大学発スタートアップを育てる』プラットフォームです。筑波大学は共同機関としてGTIEに参画しています。\n\nこのたびGTIE参画大学の学生・教員の方を対象としたオンラインスクール形式のアントレプレナーシップ・プログラム「GTIE Startup School（β版…",
             "date_modified": "2023-04-05T03:00:00.000Z"
         }
     ]
