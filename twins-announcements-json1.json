@@ -5,6 +5,20 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "98467bf523e827bb20ca1c8b3c586ae4",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3876",
+            "title": "つくばリサイタルシリーズ実行委員会説明会",
+            "summary": "つくばリサイタルシリーズ実行委員会は、つくば市にて学生無料・一般の方も低価格で入場いただけるクラシックコンサートをプロデュースしています。\n多くの方々が気軽に一流の演奏に触れることができるよう、クラシック好きはもちろん、あまり詳しくないという方でも訪れやすいコンサートを目指しています。\n\n実行委員会では新委員を募集しており、筑波大学の学生であればどなたでも参加できます。\n一流のアーティストと聴衆を…",
+            "date_modified": "2023-04-11T03:00:00.000Z"
+        },
+        {
+            "id": "77f99f89d0b197b3e3d99eb07cbf0e03",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3875",
+            "title": "【募集】～地球規模課題解決に資する教育政策マネジメント専門人材育成プログラム（Campus Asia6）～第２期生募集開始！！",
+            "summary": "2023年度【Campus Asia６】第２期生の募集を開始します！！\n\n日本、中国、韓国およびASEAN（インドネシア、タイ、マレーシア）で行う交換留学プログラムです。\n国境を越えたつながりをとおして、地球規模課題の解決について一緒に考えてみませんか？\n\n募集にあたり、下記日程で学内説明会を開催しますので、\nプログラムに興味のある方は、ぜひご参加ください。\n\n日時：2023年4月19日（水）10…",
+            "date_modified": "2023-04-11T03:00:00.000Z"
+        },
+        {
             "id": "d93ef799f162fd5f5ca07ff14a1f4cd5",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3874",
             "title": "スーツ等の割引サービスについて（4月10日更新）",
@@ -129,20 +143,6 @@
             "title": "2023年度（第15期）官民協働海外留学支援制度～トビタテ！留学JAPAN新・日本代表プログラム～【大学１年生枠】の募集について（学内締切：2023年4月18日（火）17時）",
             "summary": "標記につき、ご案内致します。応募希望者は募集要項にて要件を確認の上、2023年4月18日（火）17時までに、申請システム（ガクシーAgent）にて大学への応募申請を完了して下さい。\nまた所属教育組織対応の支援室等に所得証明関連書類を同日17時迄に提出して下さい。\n応募申請は本学を通して行う必要があり、この締切日時を超えた応募は対象外となります。ご注意下さい。\n※大学1年生：2023年4月に大学へ第…",
             "date_modified": "2023-04-06T03:00:00.000Z"
-        },
-        {
-            "id": "558859da8584fed126a2b56b9d1f487d",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3844",
-            "title": "課外活動の制限緩和について",
-            "summary": "４月１日以降の課外活動について、文部科学省からの通知を踏まえ、添付のとおりとしますので、適切な対応をお願いします。",
-            "date_modified": "2023-04-05T03:00:00.000Z"
-        },
-        {
-            "id": "fed4e251aa65b229d3ae916bb454e766",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3843",
-            "title": "2023年度夏季セブ島短期英語研修の実施（中止）について",
-            "summary": "2023年度夏季セブ島短期英語研修は、募集中止です。\n\n\n中止科目：8030106　フィリピン英語研修Ⅰ（夏季集中）\n\n\n【問い合わせ先】\n学生部学生交流課（海外留学）\nTel：029-853-6792\nEmail：isc-kaigai@un.tsukuba.ac.jp",
-            "date_modified": "2023-04-05T03:00:00.000Z"
         }
     ]
 }
