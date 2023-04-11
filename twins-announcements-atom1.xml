@@ -2,10 +2,18 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/mkobayashime/twins-announcements</id>
     <title>在学生へのお知らせ | 筑波大学</title>
-    <updated>2023-04-11T08:08:45.376Z</updated>
+    <updated>2023-04-11T09:04:09.310Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://github.com/mkobayashime/twins-announcements"/>
     <subtitle>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</subtitle>
+    <entry>
+        <title type="html"><![CDATA[[Notice] Request for Submission of Pledge (enrollment) for Security Export Control]]></title>
+        <id>745ca83cc603141a675b1a1b8e7d00a5</id>
+        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3879"/>
+        <updated>2023-04-11T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[To graduate students enrolled in 2023
+To prevent the leakage of sensitive technology related to security, admission students are required to submit a pledge via manaba to comply with the "Foreign Exch…]]></summary>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【提出依頼】安全保障輸出管理のための誓約書(入学時)提出のお願い]]></title>
         <id>c98a14e8c0d34c88785ab6aea15ebb9b</id>
@@ -254,17 +262,5 @@ Don’t you have any pro…]]></summary>
 https://mountain-studies.tsukuba.ac.jp/2023/03/24/1049/
 
 ○山岳科学学位プログラム…]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[自然保護寄附講座第10期生春募集！[Apply Now for the CPNC (Spring Semester)!]]]></title>
-        <id>c0722fb8323c4b39f3171eeb50730f2e</id>
-        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3847"/>
-        <updated>2023-04-06T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[筑波大学大学院新入生の皆さん、ご入学おめでとうございます！
-自然保護寄附講座では、第10期生（2023年度春履修開始）を募集します。
-Apply now for the Certificate Programme on Nature Conservation of 2023 (Spring Semester) !
-
-
-まずは説明会にご参加ください! / Before your applicatio…]]></summary>
     </entry>
 </feed>

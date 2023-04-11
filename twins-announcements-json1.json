@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "745ca83cc603141a675b1a1b8e7d00a5",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3879",
+            "title": "[Notice] Request for Submission of Pledge (enrollment) for Security Export Control",
+            "summary": "To graduate students enrolled in 2023\nTo prevent the leakage of sensitive technology related to security, admission students are required to submit a pledge via manaba to comply with the \"Foreign Exch…",
+            "date_modified": "2023-04-11T03:00:00.000Z"
+        },
+        {
             "id": "c98a14e8c0d34c88785ab6aea15ebb9b",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3878",
             "title": "【提出依頼】安全保障輸出管理のための誓約書(入学時)提出のお願い",
@@ -135,13 +142,6 @@
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3859",
             "title": "山岳科学学位プログラム（修士） 大学院説明会（対面・オンライン）",
             "summary": "日本初、「山岳科学」の修士号を出すなどユニークな教育を行っている\n筑波大学大学院修士課程、山岳科学学位プログラムの大学院説明会をご案内します。\n\n山岳域などのフィールド科学に興味ある学生さんがいらっしゃいましたら、\nご案内いただければ幸いです。\n\n詳細はこちら\nhttps://mountain-studies.tsukuba.ac.jp/2023/03/24/1049/\n\n○山岳科学学位プログラム…",
-            "date_modified": "2023-04-06T03:00:00.000Z"
-        },
-        {
-            "id": "c0722fb8323c4b39f3171eeb50730f2e",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3847",
-            "title": "自然保護寄附講座第10期生春募集！[Apply Now for the CPNC (Spring Semester)!]",
-            "summary": "筑波大学大学院新入生の皆さん、ご入学おめでとうございます！\n自然保護寄附講座では、第10期生（2023年度春履修開始）を募集します。\nApply now for the Certificate Programme on Nature Conservation of 2023 (Spring Semester) !\n\n\nまずは説明会にご参加ください! / Before your applicatio…",
             "date_modified": "2023-04-06T03:00:00.000Z"
         }
     ]
