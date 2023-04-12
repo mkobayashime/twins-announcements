@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "5b6cc32a19714c52ee633f7ffd71bca4",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3880",
+            "title": "課外活動の制限緩和について（再掲載）",
+            "summary": "４月１日以降の課外活動について、文部科学省からの通知を踏まえ、添付のとおりとしますので、適切な対応をお願いします。\n\n※4月5日に掲載した内容に誤りがあったので、再掲載しています",
+            "date_modified": "2023-04-12T03:00:00.000Z"
+        },
+        {
             "id": "745ca83cc603141a675b1a1b8e7d00a5",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3879",
             "title": "[Notice] Request for Submission of Pledge (enrollment) for Security Export Control",
@@ -135,13 +142,6 @@
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3860",
             "title": "留学生のための図書館オリエンテーション / Library Orientation for International Students",
             "summary": "図書館の利用方法や、資料の探し方について、分からないことや、困ったことはありませんか？\n留学生の方に図書館を利用するうえで役立つことを紹介します。\n日本語・英語とそれぞれの言語で実施します。ぜひご参加ください。\n\n日時：4月7日(金）14:00-15:00 【日本語】\n　　　4月12日(水）14:00-15:00 【英語】\n場所：中央図書館2階集会室\n\nDon’t you have any pro…",
-            "date_modified": "2023-04-06T03:00:00.000Z"
-        },
-        {
-            "id": "c39ee152bbf8290e311c40b46cfb2906",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3859",
-            "title": "山岳科学学位プログラム（修士） 大学院説明会（対面・オンライン）",
-            "summary": "日本初、「山岳科学」の修士号を出すなどユニークな教育を行っている\n筑波大学大学院修士課程、山岳科学学位プログラムの大学院説明会をご案内します。\n\n山岳域などのフィールド科学に興味ある学生さんがいらっしゃいましたら、\nご案内いただければ幸いです。\n\n詳細はこちら\nhttps://mountain-studies.tsukuba.ac.jp/2023/03/24/1049/\n\n○山岳科学学位プログラム…",
             "date_modified": "2023-04-06T03:00:00.000Z"
         }
     ]
