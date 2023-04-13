@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/mkobayashime/twins-announcements</id>
     <title>在学生へのお知らせ | 筑波大学</title>
-    <updated>2023-04-13T09:09:11.134Z</updated>
+    <updated>2023-04-13T15:03:39.554Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://github.com/mkobayashime/twins-announcements"/>
     <subtitle>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</subtitle>
+    <entry>
+        <title type="html"><![CDATA[「筑波大学キャンパスマップ」に関するアンケートを実施しています]]></title>
+        <id>4d8c00cb50e18b4029edec9818d94bf5</id>
+        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3873"/>
+        <updated>2023-04-14T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[「筑波大学キャンパスマップ」に関するアンケートを実施しています。
+今後より良いものにしていくため、アンケートにご協力願います。
+TWINSのメニューから「アンケート」⇒「アンケート回答」⇒「筑波大学キャンパスマップに関するアンケート」をクリックして、行ってください。
+回答期限は6月30日です。]]></summary>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【再掲・参加者募集】新入生・学生、集まれ！ランチタイムちょこっとダイバーシティ講座：LGBTQ＋編 （4月17日、19日、21日開催）]]></title>
         <id>1725e37c2d6b428db0868dac73aae4a3</id>
@@ -242,22 +252,5 @@ In order to ensure certain number of class days, classes on listed dates are sch
 
 説明会参加希望者は担当教員までメールしてください。
 ]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【申込み受付中！】筑波大学キャリアフェア　]]></title>
-        <id>3144aa3fac642c3dea791ae80b74541e</id>
-        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3864"/>
-        <updated>2023-04-07T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[2024年3月卒業・修了予定の方を対象とした、筑波大学キャリアフェアを
-開催いたします。
-「就職先の選定に戸惑っている」
-「就職活動を続けている」
-「新たに企業との接点を求めている」
-そんな就活継続中の方、これから就職を考えている方は、ぜひご参加ください！
-
-【 ➀ オンライン開催 】
-日時：4月18日（火），4月19日（水）
-会場：Zoom
-申込方法：「ガイダンス等及び模擬試験　登録・申請」より…]]></summary>
     </entry>
 </feed>
