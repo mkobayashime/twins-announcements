@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/mkobayashime/twins-announcements</id>
     <title>在学生へのお知らせ | 筑波大学</title>
-    <updated>2023-04-14T09:09:09.050Z</updated>
+    <updated>2023-04-14T15:09:08.455Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://github.com/mkobayashime/twins-announcements"/>
     <subtitle>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</subtitle>
@@ -232,10 +232,16 @@ To prevent the leakage of sensitive technology related to security, admission st
         <id>c482fb484deef5ded14eaee509491feb</id>
         <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3871"/>
         <updated>2023-04-10T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[To All the Undergraduate Students
+        <summary type="html"><![CDATA[科学技術週間期間中の4月22日（土）、
+本学では「筑波大学科学技術週間キッズ・ユニバーシティ」と題し
+「一日筑波大生」になって、科学の面白さと大学の魅力を体感いただける
+特別授業や科学実験など、さまざまなイベントを開催いたします。
+（詳細はチラシ・パンフレット・大学HPをご覧ください。）
 
-University of Tsukuba conducts the undergraduate final examinations in 2023 as stated below.
-Classrooms assigned the examinations might be changed, thus, please pay …]]></summary>
+多くの企画が当日参加可能となっておりますので、
+学生の皆様もぜひふるってご参加ください。
+
+日　時：　令和5…]]></summary>
     </entry>
     <entry>
         <title type="html"><![CDATA[令和5年度学群期末試験について]]></title>
