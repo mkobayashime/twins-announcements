@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "479ef88b586f3df000cb68fb56b5d988",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3886",
+            "title": "Apply now for the Certificate Programme on Nature Conservation of 2023 (Spring Semester) !",
+            "summary": "Before your application, please participate in CPNC Orientation Meeting Series!\n\n【CPNC Orientation Meeting Series in Spring 2023】\n\n1st         12 Wed April, 16:45-17:45  [ Japanese] (Closed)\n2nd      …",
+            "date_modified": "2023-04-14T03:00:00.000Z"
+        },
+        {
             "id": "c0c32392c9c4a32991ef36600fb68da9",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3885",
             "title": "大学対抗交渉コンペティション筑波大学チーム参加者募集！",
@@ -136,13 +143,6 @@
             "title": "【再掲】令和6年度採用を目指す日本学術振興会特別研究員説明会の講演について",
             "summary": "令和6年度採用を目指す日本学術振興会特別研究員説明会をmanabaにて配信しています。採用内定者からのアドバイス、特別研究員審査会専門委員から見た申請にあたってのポイント等について、それぞれの講師から説明いただいております。ぜひご視聴の上、積極的に申請してください。なお、申請〆切は受付部局により異なります。\n\n配信場所　学習管理システム　manaba（https://manaba.tsukuba.…",
             "date_modified": "2023-04-10T03:00:00.000Z"
-        },
-        {
-            "id": "6e4ff843e5c0a051c732c8c86fdfd060",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3866",
-            "title": "公務員資格試験(土木・機械)対策コースのご案内",
-            "summary": "各位\n\n現在、公務員を目指す筑波大生のみなさんに、公務員資格試験(土木・機械)対策の問題集を配布しております。\n来年以降、公務員資格試験の受験を考えている方はぜひ、manabaの授業登録キー：『7751698』、\nまたは、MS Teamsのチームコード：『bo60dnh』を用いて、ご参加下さい。\n（主な対象者として、工学システム学類・社会工学類・応用理工学類を想定しています。\n配布資料は、基礎数理…",
-            "date_modified": "2023-04-07T03:00:00.000Z"
         }
     ]
 }

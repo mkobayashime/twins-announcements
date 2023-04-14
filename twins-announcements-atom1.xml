@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/mkobayashime/twins-announcements</id>
     <title>在学生へのお知らせ | 筑波大学</title>
-    <updated>2023-04-14T01:55:43.366Z</updated>
+    <updated>2023-04-14T02:24:00.026Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://github.com/mkobayashime/twins-announcements"/>
     <subtitle>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</subtitle>
+    <entry>
+        <title type="html"><![CDATA[Apply now for the Certificate Programme on Nature Conservation of 2023 (Spring Semester) !]]></title>
+        <id>479ef88b586f3df000cb68fb56b5d988</id>
+        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3886"/>
+        <updated>2023-04-14T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Before your application, please participate in CPNC Orientation Meeting Series!
+
+【CPNC Orientation Meeting Series in Spring 2023】
+
+1st         12 Wed April, 16:45-17:45  [ Japanese] (Closed)
+2nd      …]]></summary>
+    </entry>
     <entry>
         <title type="html"><![CDATA[大学対抗交渉コンペティション筑波大学チーム参加者募集！]]></title>
         <id>c0c32392c9c4a32991ef36600fb68da9</id>
@@ -238,18 +250,5 @@ In order to ensure certain number of class days, classes on listed dates are sch
         <summary type="html"><![CDATA[令和6年度採用を目指す日本学術振興会特別研究員説明会をmanabaにて配信しています。採用内定者からのアドバイス、特別研究員審査会専門委員から見た申請にあたってのポイント等について、それぞれの講師から説明いただいております。ぜひご視聴の上、積極的に申請してください。なお、申請〆切は受付部局により異なります。
 
 配信場所　学習管理システム　manaba（https://manaba.tsukuba.…]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[公務員資格試験(土木・機械)対策コースのご案内]]></title>
-        <id>6e4ff843e5c0a051c732c8c86fdfd060</id>
-        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3866"/>
-        <updated>2023-04-07T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[各位
-
-現在、公務員を目指す筑波大生のみなさんに、公務員資格試験(土木・機械)対策の問題集を配布しております。
-来年以降、公務員資格試験の受験を考えている方はぜひ、manabaの授業登録キー：『7751698』、
-または、MS Teamsのチームコード：『bo60dnh』を用いて、ご参加下さい。
-（主な対象者として、工学システム学類・社会工学類・応用理工学類を想定しています。
-配布資料は、基礎数理…]]></summary>
     </entry>
 </feed>
