@@ -4,10 +4,23 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Mon, 17 Apr 2023 06:08:45 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 17 Apr 2023 07:03:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
+        <item>
+            <title><![CDATA[【BHE公務員】24年受験対象　公務員ガイダンス]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3893</link>
+            <guid>d8ac520cf631303cf0af421f5313c453</guid>
+            <pubDate>Mon, 17 Apr 2023 03:00:00 GMT</pubDate>
+            <description><![CDATA[【BHE】４月２１日（金）（12日同内容）
+２４卒向け公務員ガイダンス
+ＬＥＣ東京リーガルマインド専任講師による公務員試験対策講座です。公務員の魅力や仕事内容・試験制度、そして合格・内定を取る効率の良い方法を伝授します。
+また、「学内公務員講座」についても説明しますので、受講を検討している方は、積極的に参加してください。
+
+申込みはこちらから
+https://syushoku.sec.tsukub…]]></description>
+        </item>
         <item>
             <title><![CDATA[【BHE就活支援】参加者募集中　4月20日チャレンジ実践会　]]></title>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3892</link>
@@ -254,16 +267,6 @@ To prevent the leakage of sensitive technology related to security, admission st
 プログラムに興味のある方は、ぜひご参加ください。
 
 日時：2023年4月19日（水）10…]]></description>
-        </item>
-        <item>
-            <title><![CDATA[スーツ等の割引サービスについて（4月10日更新）]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3874</link>
-            <guid>d93ef799f162fd5f5ca07ff14a1f4cd5</guid>
-            <pubDate>Tue, 11 Apr 2023 03:00:00 GMT</pubDate>
-            <description><![CDATA[本学は紳士服の大手4社と契約しています。
-そのため、在学生とそのご家族の皆様には、全国のAOKI、コナカ、はるやま、洋服の青山で、通常の割引価格から更に割引いた価格でスーツ等をご購入いただけます。
-大変お得ですので、是非ご利用ください。
-※ご購入いただいた金額の一部が大学に寄附されます。]]></description>
         </item>
     </channel>
 </rss>
