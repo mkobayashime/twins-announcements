@@ -4,7 +4,7 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Mon, 17 Apr 2023 10:05:24 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 17 Apr 2023 15:09:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
@@ -189,21 +189,6 @@ Apply now for the Certificate Programme on Nature Conservation of 2023 (Spring S
 まずは説明会にご参加ください! / Before your applicatio…]]></description>
         </item>
         <item>
-            <title><![CDATA[【留学相談強化週間４月・５月】スチューデントコモンズ（１A203）で開催]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3882</link>
-            <guid>77606baf542120d355fc9f28e374a239</guid>
-            <pubDate>Thu, 13 Apr 2023 03:00:00 GMT</pubDate>
-            <description><![CDATA[【留学相談強化週間４月・５月】開催！！！
-　　留学に行きたいけど、手続きとか資金とか、大変なのかな？
-　　留学は興味あるけど、どの協定校に行ったらいいだろう？？
-
-特に1年生で、在籍中の留学を考えている方！ぜひ参加してください！
-（３，４年生になるにつれ忙しさが増し、留学が困難になる場合もありますので、早めの留学をおススメしています！）
-
-☆イベント追加予定！随時チェック☆
-☆4/17（月）～スチ…]]></description>
-        </item>
-        <item>
             <title><![CDATA[【再掲・申込受付中！】筑波大学キャリアフェア　〆切4/14（金）]]></title>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3881</link>
             <guid>71794ab8a423516b1db284ad2ffa6f23</guid>
@@ -261,6 +246,17 @@ To prevent the leakage of sensitive technology related to security, admission st
 第1回目は、4/23（日）にシステム情報工学研究群オープンキャンパスにて開催いたします。
 
 ヒューマニクスの説明会には、大学院への進学を予定されている4年生はもちろん、１〜３年生も毎回多くご参加いただいています。「ヒューマニクスって何？」という方も、お気軽にご参…]]></description>
+        </item>
+        <item>
+            <title><![CDATA[つくばリサイタルシリーズ実行委員会説明会]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3876</link>
+            <guid>98467bf523e827bb20ca1c8b3c586ae4</guid>
+            <pubDate>Tue, 11 Apr 2023 03:00:00 GMT</pubDate>
+            <description><![CDATA[つくばリサイタルシリーズ実行委員会は、つくば市にて学生無料・一般の方も低価格で入場いただけるクラシックコンサートをプロデュースしています。
+多くの方々が気軽に一流の演奏に触れることができるよう、クラシック好きはもちろん、あまり詳しくないという方でも訪れやすいコンサートを目指しています。
+
+実行委員会では新委員を募集しており、筑波大学の学生であればどなたでも参加できます。
+一流のアーティストと聴衆を…]]></description>
         </item>
     </channel>
 </rss>
