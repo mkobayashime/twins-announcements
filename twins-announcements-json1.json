@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "090a3d9d1d338fc94ad6c2350bb5f36a",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3898",
+            "title": "【留学相談強化週間】スチューデント・コモンズ（1A203）で開催",
+            "summary": "スチューデントサポートセンター国際交流支援室では、留学のアシストをしています！\nこの春は、2回に分けて留学相談を強化していきますよ！\n　　留学に行きたいけど、手続きとか資金とか、大変なのかな？\n　　留学は興味あるけど、どの協定校に行ったらいいだろう？？\n\n特に1年生で、在籍中の留学を考えている方！ぜひ参加してください！\n（３，４年生になるにつれ忙しさが増し、留学が困難になる場合もありますので、早め…",
+            "date_modified": "2023-04-20T03:00:00.000Z"
+        },
+        {
             "id": "219e958ccd78a19302d55d64bbc43257",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3897",
             "title": "【周知】令和5年度の「アルバイトの労働条件を確かめよう！」キャンペーンについて",
@@ -135,13 +142,6 @@
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3871",
             "title": "Notice about The Undergraduate Final Examinations in 2023（To All the Undergraduate Students）",
             "summary": "To All the Undergraduate Students\n\nUniversity of Tsukuba conducts the undergraduate final examinations in 2023 as stated below.\nClassrooms assigned the examinations might be changed, thus, please pay …",
-            "date_modified": "2023-04-10T03:00:00.000Z"
-        },
-        {
-            "id": "04c6500d4098d4c6eb5ffca310f810ec",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3870",
-            "title": "令和5年度学群期末試験について",
-            "summary": "学群学生各位\n\n標記の試験については、下記の期間に実施する。\n　なお、実施に当たっては、教室等を変更する場合があるので、掲示等に十分留意し誤りのないように受験されたい。\n　また、受験に当たっては、次の諸点に注意すること。\n１　学生証を机上に提示すること。\n２　書き終わった答案用紙は、裏返して机上に置くこと。\n３　携帯電話、スマートフォン等は、試験室に入る前に電源を切り、かばん等（ただし、衣服を除く…",
             "date_modified": "2023-04-10T03:00:00.000Z"
         }
     ]
