@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/mkobayashime/twins-announcements</id>
     <title>在学生へのお知らせ | 筑波大学</title>
-    <updated>2023-04-20T09:08:48.873Z</updated>
+    <updated>2023-04-20T11:02:28.968Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://github.com/mkobayashime/twins-announcements"/>
     <subtitle>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</subtitle>
+    <entry>
+        <title type="html"><![CDATA[【留学情報】2024年春学期渡航分（SSC公募型）の募集を開始]]></title>
+        <id>e876633ec2a3310b742fca7677d25db5</id>
+        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3904"/>
+        <updated>2023-04-20T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[スチューデントサポートセンター国際交流支援室では、筑波大学のCampus in Campusパートナー校及び全学対象協定校への海外留学について、【SSC公募型】として一括して公募を行っています。
+公募は年に2回、次年度の春学期渡航分と秋学期渡航分に分けて実施しています。
+
+このたび、2024年春学期に渡航分の募集を開始しました！
+来年春からの留学を考えている人は、ぜひチェックしてください！
+
+・募…]]></summary>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【周知】学生の安心・安全に関しての各種資料について]]></title>
         <id>845b8f6da56e598f18db688af13a5b99</id>
@@ -216,18 +229,5 @@ Apply now for the Certificate Programme on Nature Conservation of 2023 (Spring S
         <updated>2023-04-11T03:00:00.000Z</updated>
         <summary type="html"><![CDATA[To graduate students enrolled in 2023
 To prevent the leakage of sensitive technology related to security, admission students are required to submit a pledge via manaba to comply with the "Foreign Exch…]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【提出依頼】安全保障輸出管理のための誓約書(入学時)提出のお願い]]></title>
-        <id>c98a14e8c0d34c88785ab6aea15ebb9b</id>
-        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3878"/>
-        <updated>2023-04-11T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[2023年度大学院入学者の皆様へ
-安全保障に関連する機微技術流出の防止のために、大学院生は大学院入学時に「外国為替及び外国貿易法」を遵守する誓約書をmanabaから提出していただいております。ご協力をよろしくお願いいたします。
-【manabaコース名／コースコード】誓約書（入学時）／22169
-【参考】manabaの登録について（チラシ）
-
-【担当】利益相反・輸出管理マネジメント室
-　　　anze…]]></summary>
     </entry>
 </feed>
