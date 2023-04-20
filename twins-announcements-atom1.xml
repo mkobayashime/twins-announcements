@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/mkobayashime/twins-announcements</id>
     <title>在学生へのお知らせ | 筑波大学</title>
-    <updated>2023-04-20T02:25:31.513Z</updated>
+    <updated>2023-04-20T05:03:28.726Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://github.com/mkobayashime/twins-announcements"/>
     <subtitle>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</subtitle>
+    <entry>
+        <title type="html"><![CDATA[Reminder： Prevention of Fraudulent Use of On-Campus Transportation System (The bus pass)]]></title>
+        <id>db58ed5b91bc8563ccfda478a1e56045</id>
+        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3900"/>
+        <updated>2023-04-20T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[To User of On-Campus Transportation System
+
+* On-Campus Transportation System (The bus pass) expires on March 31 of each year. Please remove the 　expired bus pass sticker from your student/staff ID ca…]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【注意喚起】キャンパス交通システム利用証（大学循環バス特殊定期券)の不正使用防止について]]></title>
+        <id>462b6dcda183200637e2eadeb7383107</id>
+        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3899"/>
+        <updated>2023-04-20T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[キャンパス交通システム利用者　各位
+
+・キャンパス交通システム利用証は、毎年度３月31日で有効期限が切れますので、有効期限切れの利用証シールは速やかに学生証/職員証等から剥がしてください。
+
+・期限切れの利用証の使用は不正使用となり、故意・過失に関わらず、利用者本人が運行会社に違約金を支払う必要があります。例年、不正使用が発覚し違約金を支払う事例が発生しておりますので、トラブルを避けるためにも、期…]]></summary>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【留学相談強化週間】スチューデント・コモンズ（1A203）で開催]]></title>
         <id>090a3d9d1d338fc94ad6c2350bb5f36a</id>
@@ -212,31 +232,5 @@ To prevent the leakage of sensitive technology related to security, admission st
 そのため、在学生とそのご家族の皆様には、全国のAOKI、コナカ、はるやま、洋服の青山で、通常の割引価格から更に割引いた価格でスーツ等をご購入いただけます。
 大変お得ですので、是非ご利用ください。
 ※ご購入いただいた金額の一部が大学に寄附されます。]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[4月22日（土）「令和5年度筑波大学科学技術週間 キッズ・ユニバーシティ」の開催について]]></title>
-        <id>15128dd400a44a48816052d3611c42e8</id>
-        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3872"/>
-        <updated>2023-04-11T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[科学技術週間期間中の4月22日（土）、
-本学では「筑波大学科学技術週間キッズ・ユニバーシティ」と題し
-「一日筑波大生」になって、科学の面白さと大学の魅力を体感いただける
-特別授業や科学実験など、さまざまなイベントを開催いたします。
-（詳細はチラシ・パンフレット・大学HPをご覧ください。）
-
-多くの企画が当日参加可能となっておりますので、
-学生の皆様もぜひふるってご参加ください。
-
-日　時：　令和5…]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Notice about The Undergraduate Final Examinations in 2023（To All the Undergraduate Students）]]></title>
-        <id>c482fb484deef5ded14eaee509491feb</id>
-        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3871"/>
-        <updated>2023-04-10T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[To All the Undergraduate Students
-
-University of Tsukuba conducts the undergraduate final examinations in 2023 as stated below.
-Classrooms assigned the examinations might be changed, thus, please pay …]]></summary>
     </entry>
 </feed>
