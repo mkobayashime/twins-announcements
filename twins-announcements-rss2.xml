@@ -4,10 +4,22 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Thu, 20 Apr 2023 21:08:05 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 21 Apr 2023 00:28:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
+        <item>
+            <title><![CDATA[サーバー更新作業に伴うキャリア支援チームHP及び就職情報提供システム停止のお知らせ]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3905</link>
+            <guid>f7e5c4dc1ece4147cbde4ed3df16263e</guid>
+            <pubDate>Fri, 21 Apr 2023 03:00:00 GMT</pubDate>
+            <description><![CDATA[サーバー更新作業に伴い、下記の時間、キャリア支援チームホームページ等へ繋がりにくくなります。
+【サーバー更新作業日時】4/27（木）9：00　～　 4/27（木）12：15（予定）
+
+なお、サーバー更新作業中は、「学内専用ページ」、「ガイダンス等及び模試試験登録・申請」、「進路進捗状況届」へのアクセスはできません。
+皆様にはご迷惑をおかけいたしますが、ご理解、ご協力の程よろしくお願いいたします。
+…]]></description>
+        </item>
         <item>
             <title><![CDATA[【留学情報】2024年春学期渡航分（SSC公募型）の募集を開始]]></title>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3904</link>
@@ -216,19 +228,6 @@ To prevent the leakage of sensitive technology related to security, admission st
 
 【担当】利益相反・輸出管理マネジメント室
 　　　anze…]]></description>
-        </item>
-        <item>
-            <title><![CDATA[【大学院説明会】ヒューマニクス学位プログラム説明会@4/23システム情報工学研究群オープンキャンパス]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3877</link>
-            <guid>fd1b7fac6e5cad0c31e825ed9ca05845</guid>
-            <pubDate>Tue, 11 Apr 2023 03:00:00 GMT</pubDate>
-            <description><![CDATA[学類生の皆さまへ
-
-「生命医科学」×「理・工・情報学」
-5年一貫制博士課程 ヒューマニクス学位プログラムより、大学院説明会のご案内です。
-第1回目は、4/23（日）にシステム情報工学研究群オープンキャンパスにて開催いたします。
-
-ヒューマニクスの説明会には、大学院への進学を予定されている4年生はもちろん、１〜３年生も毎回多くご参加いただいています。「ヒューマニクスって何？」という方も、お気軽にご参…]]></description>
         </item>
     </channel>
 </rss>

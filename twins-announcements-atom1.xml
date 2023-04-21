@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/mkobayashime/twins-announcements</id>
     <title>在学生へのお知らせ | 筑波大学</title>
-    <updated>2023-04-20T21:08:05.521Z</updated>
+    <updated>2023-04-21T00:28:31.272Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://github.com/mkobayashime/twins-announcements"/>
     <subtitle>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</subtitle>
+    <entry>
+        <title type="html"><![CDATA[サーバー更新作業に伴うキャリア支援チームHP及び就職情報提供システム停止のお知らせ]]></title>
+        <id>f7e5c4dc1ece4147cbde4ed3df16263e</id>
+        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3905"/>
+        <updated>2023-04-21T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[サーバー更新作業に伴い、下記の時間、キャリア支援チームホームページ等へ繋がりにくくなります。
+【サーバー更新作業日時】4/27（木）9：00　～　 4/27（木）12：15（予定）
+
+なお、サーバー更新作業中は、「学内専用ページ」、「ガイダンス等及び模試試験登録・申請」、「進路進捗状況届」へのアクセスはできません。
+皆様にはご迷惑をおかけいたしますが、ご理解、ご協力の程よろしくお願いいたします。
+…]]></summary>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【留学情報】2024年春学期渡航分（SSC公募型）の募集を開始]]></title>
         <id>e876633ec2a3310b742fca7677d25db5</id>
@@ -214,18 +226,5 @@ To prevent the leakage of sensitive technology related to security, admission st
 
 【担当】利益相反・輸出管理マネジメント室
 　　　anze…]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【大学院説明会】ヒューマニクス学位プログラム説明会@4/23システム情報工学研究群オープンキャンパス]]></title>
-        <id>fd1b7fac6e5cad0c31e825ed9ca05845</id>
-        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3877"/>
-        <updated>2023-04-11T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[学類生の皆さまへ
-
-「生命医科学」×「理・工・情報学」
-5年一貫制博士課程 ヒューマニクス学位プログラムより、大学院説明会のご案内です。
-第1回目は、4/23（日）にシステム情報工学研究群オープンキャンパスにて開催いたします。
-
-ヒューマニクスの説明会には、大学院への進学を予定されている4年生はもちろん、１〜３年生も毎回多くご参加いただいています。「ヒューマニクスって何？」という方も、お気軽にご参…]]></summary>
     </entry>
 </feed>
