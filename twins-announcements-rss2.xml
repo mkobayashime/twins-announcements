@@ -4,10 +4,26 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Fri, 21 Apr 2023 00:28:31 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 21 Apr 2023 05:03:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
+        <item>
+            <title><![CDATA[春の図書館講習会 / Library Workshops]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3906</link>
+            <guid>1c46ed53443a15bad88e286f0cf3c4f0</guid>
+            <pubDate>Fri, 21 Apr 2023 03:00:00 GMT</pubDate>
+            <description><![CDATA[附属図書館では、4月から春の講習会を開催します。
+図書館の使い方や各種データベースの使い方など、学習や研究に役立つ内容です。
+manabaでコース登録をしてご参加ください。
+皆様のご参加をお待ちしております。
+
+詳しくは下記Webページをご覧ください。
+
+---
+
+In the library, we will hold Library Workshops (Spring Semester) fr…]]></description>
+        </item>
         <item>
             <title><![CDATA[サーバー更新作業に伴うキャリア支援チームHP及び就職情報提供システム停止のお知らせ]]></title>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3905</link>
@@ -215,19 +231,6 @@ Apply now for the Certificate Programme on Nature Conservation of 2023 (Spring S
             <pubDate>Tue, 11 Apr 2023 03:00:00 GMT</pubDate>
             <description><![CDATA[To graduate students enrolled in 2023
 To prevent the leakage of sensitive technology related to security, admission students are required to submit a pledge via manaba to comply with the "Foreign Exch…]]></description>
-        </item>
-        <item>
-            <title><![CDATA[【提出依頼】安全保障輸出管理のための誓約書(入学時)提出のお願い]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3878</link>
-            <guid>c98a14e8c0d34c88785ab6aea15ebb9b</guid>
-            <pubDate>Tue, 11 Apr 2023 03:00:00 GMT</pubDate>
-            <description><![CDATA[2023年度大学院入学者の皆様へ
-安全保障に関連する機微技術流出の防止のために、大学院生は大学院入学時に「外国為替及び外国貿易法」を遵守する誓約書をmanabaから提出していただいております。ご協力をよろしくお願いいたします。
-【manabaコース名／コースコード】誓約書（入学時）／22169
-【参考】manabaの登録について（チラシ）
-
-【担当】利益相反・輸出管理マネジメント室
-　　　anze…]]></description>
         </item>
     </channel>
 </rss>
