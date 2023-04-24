@@ -4,7 +4,7 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Mon, 24 Apr 2023 15:09:31 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 24 Apr 2023 21:07:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
@@ -24,11 +24,15 @@ Please download Application Form and Permission Form from the links below and su
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3908</link>
             <guid>592362d98dff761da54ce0cfc648a4d6</guid>
             <pubDate>Mon, 24 Apr 2023 03:00:00 GMT</pubDate>
-            <description><![CDATA[【 履修申請手続き/Application procedures 】
-下記URLより自然保護寄附講座HPへアクセスし、履修申請書と応募確認書を提出してください。
-Please download Application Form and Permission Form from the links below and submit them by the deadline.
+            <description><![CDATA[<<留学生対象>>
+公益財団法人　茨城県国際交流協会より、留学生親善大使募集のお知らせがありました。
+そこで、留学生親善大使を募集します。
+興味のある方は、「留学生親善大使申込書」を下記からダウンロードして、学生交流課留学生支援宛に2023年5月7日(日)までにメールで応募してください。
+(メール：isc-shien@un.tsukuba.ac.jp)
 
-■応募期間　2023年…]]></description>
+詳細は添付のPDFをご参照ください。
+
+<…]]></description>
         </item>
         <item>
             <title><![CDATA[中南米へ留学しよう！中南米LIVE留学体験談]]></title>
@@ -52,17 +56,16 @@ Please download Application Form and Permission Form from the links below and su
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3906</link>
             <guid>1c46ed53443a15bad88e286f0cf3c4f0</guid>
             <pubDate>Fri, 21 Apr 2023 03:00:00 GMT</pubDate>
-            <description><![CDATA[中南米への留学を検討している方は、是非参加してください！
-様々疑問が出てくる留学。初めての体験はドキドキが止まらない。
-今、まさに現地で留学を、海外を、体験中の先輩に直接LIVEで聞いちゃおう！
+            <description><![CDATA[附属図書館では、4月から春の講習会を開催します。
+図書館の使い方や各種データベースの使い方など、学習や研究に役立つ内容です。
+manabaでコース登録をしてご参加ください。
+皆様のご参加をお待ちしております。
 
-開催日：2023年4月27日（木）18:15～19:30
-対象：筑波大学在学生で交換留学を希望する者
-場所：スチューデント・コモンズ（第一エリア 1A棟203）
-使用言語：日本語
+詳しくは下記Webページをご覧ください。
 
-内容：
-・中南米プロ…]]></description>
+---
+
+In the library, we will hold Library Workshops (Spring Semester) fr…]]></description>
         </item>
         <item>
             <title><![CDATA[サーバー更新作業に伴うキャリア支援チームHP及び就職情報提供システム停止のお知らせ]]></title>
