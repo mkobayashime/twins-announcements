@@ -5,6 +5,20 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "c0722fb8323c4b39f3171eeb50730f2e",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3909",
+            "title": "自然保護寄附講座第10期生春募集！[Apply Now for the CPNC (Spring Semester)!]",
+            "summary": "【 履修申請手続き/Application procedures 】\n下記URLより自然保護寄附講座HPへアクセスし、履修申請書と応募確認書を提出してください。\nPlease download Application Form and Permission Form from the links below and submit them by the deadline.\n\n■応募期間　2023年…",
+            "date_modified": "2023-04-24T03:00:00.000Z"
+        },
+        {
+            "id": "592362d98dff761da54ce0cfc648a4d6",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3908",
+            "title": "茨城県留学生親善大使募集(Application for Ibaraki Foreign Student Goodwill Ambassador.)",
+            "summary": "<<留学生対象>>\n公益財団法人　茨城県国際交流協会より、留学生親善大使募集のお知らせがありました。\nそこで、留学生親善大使を募集します。\n興味のある方は、「留学生親善大使申込書」を下記からダウンロードして、学生交流課留学生支援宛に2023年5月7日(日)までにメールで応募してください。\n(メール：isc-shien@un.tsukuba.ac.jp)\n\n詳細は添付のPDFをご参照ください。\n\n<…",
+            "date_modified": "2023-04-24T03:00:00.000Z"
+        },
+        {
             "id": "1dc741e7ba9ee74bcceeaf3c5b6d3b0e",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3907",
             "title": "中南米へ留学しよう！中南米LIVE留学体験談",
@@ -129,20 +143,6 @@
             "title": "課外活動の制限緩和について（再掲載）",
             "summary": "４月１日以降の課外活動について、文部科学省からの通知を踏まえ、添付のとおりとしますので、適切な対応をお願いします。\n\n※4月5日に掲載した内容に誤りがあったので、再掲載しています",
             "date_modified": "2023-04-12T03:00:00.000Z"
-        },
-        {
-            "id": "745ca83cc603141a675b1a1b8e7d00a5",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3879",
-            "title": "[Notice] Request for Submission of Pledge (enrollment) for Security Export Control",
-            "summary": "To graduate students enrolled in 2023\nTo prevent the leakage of sensitive technology related to security, admission students are required to submit a pledge via manaba to comply with the \"Foreign Exch…",
-            "date_modified": "2023-04-11T03:00:00.000Z"
-        },
-        {
-            "id": "c98a14e8c0d34c88785ab6aea15ebb9b",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3878",
-            "title": "【提出依頼】安全保障輸出管理のための誓約書(入学時)提出のお願い",
-            "summary": "2023年度大学院入学者の皆様へ\n安全保障に関連する機微技術流出の防止のために、大学院生は大学院入学時に「外国為替及び外国貿易法」を遵守する誓約書をmanabaから提出していただいております。ご協力をよろしくお願いいたします。\n【manabaコース名／コースコード】誓約書（入学時）／22169\n【参考】manabaの登録について（チラシ）\n\n【担当】利益相反・輸出管理マネジメント室\n　　　anze…",
-            "date_modified": "2023-04-11T03:00:00.000Z"
         }
     ]
 }
