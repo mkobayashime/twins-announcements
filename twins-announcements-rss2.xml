@@ -4,10 +4,41 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Mon, 24 Apr 2023 21:07:48 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 25 Apr 2023 06:08:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
+        <item>
+            <title><![CDATA[【5/23-24開催】筑波大学キャリアフェア　申込受付開始！]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3911</link>
+            <guid>ec49268c86e0b8e2e495dd27373887a6</guid>
+            <pubDate>Tue, 25 Apr 2023 03:00:00 GMT</pubDate>
+            <description><![CDATA[2024年3月卒業・修了予定の方を対象とした、筑波大学キャリアフェアを
+開催いたします。
+「就職先の選定に戸惑っている」
+「就職活動を続けている」
+「新たに企業との接点を求めている」
+そんな就活継続中の方、これから就職を考えている方は、ぜひご参加ください！
+
+・・・・・・・・・・・・・・・・・・・・・・・・・・
+
+【 ➁ 対面開催 】
+日時：5月23（火），24日（水）
+会場：大学会館
+申込：筑波…]]></description>
+        </item>
+        <item>
+            <title><![CDATA[【周知】駐車場ゲートシステム変更のお知らせ]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3910</link>
+            <guid>768109a45130072f001cfbff1327d822</guid>
+            <pubDate>Tue, 25 Apr 2023 03:00:00 GMT</pubDate>
+            <description><![CDATA[駐車場利用者　各位
+
+令和５年５月９日（火）より、構内駐車場に設置してあるゲート機器が新しくなります。
+出口ゲートでは、出庫時に、ICカード（職員証・学生証）並びにパスカードの操作が不要となります。
+出口ゲート手前では、必ず一旦停止し、ゲートバーが開放したことを確認の上、出庫願います。
+]]></description>
+        </item>
         <item>
             <title><![CDATA[自然保護寄附講座第10期生春募集！[Apply Now for the CPNC (Spring Semester)!]]]></title>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3909</link>
@@ -222,27 +253,6 @@ manaba でもお知らせを⾏いますので、…]]></description>
 今後より良いものにしていくため、アンケートにご協力願います。
 TWINSのメニューから「アンケート」⇒「アンケート回答」⇒「筑波大学キャンパスマップに関するアンケート」をクリックして、行ってください。
 回答期限は6月30日です。]]></description>
-        </item>
-        <item>
-            <title><![CDATA[自然保護寄附講座第10期生募集！[Apply Now for the CPNC (Spring Semester)!]]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3883</link>
-            <guid>7bd206d350aee8d53b3cf00610650834</guid>
-            <pubDate>Thu, 13 Apr 2023 03:00:00 GMT</pubDate>
-            <description><![CDATA[筑波大学大学院新入生の皆さん、ご入学おめでとうございます！
-自然保護寄附講座では、第10期生（2023年度春履修開始）を募集します。
-Apply now for the Certificate Programme on Nature Conservation of 2023 (Spring Semester) !
-
-
-まずは説明会にご参加ください! / Before your applicatio…]]></description>
-        </item>
-        <item>
-            <title><![CDATA[課外活動の制限緩和について（再掲載）]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3880</link>
-            <guid>5b6cc32a19714c52ee633f7ffd71bca4</guid>
-            <pubDate>Wed, 12 Apr 2023 03:00:00 GMT</pubDate>
-            <description><![CDATA[４月１日以降の課外活動について、文部科学省からの通知を踏まえ、添付のとおりとしますので、適切な対応をお願いします。
-
-※4月5日に掲載した内容に誤りがあったので、再掲載しています]]></description>
         </item>
     </channel>
 </rss>
