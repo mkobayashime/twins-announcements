@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/mkobayashime/twins-announcements</id>
     <title>在学生へのお知らせ | 筑波大学</title>
-    <updated>2023-04-25T06:08:08.160Z</updated>
+    <updated>2023-04-25T07:03:28.719Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://github.com/mkobayashime/twins-announcements"/>
     <subtitle>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</subtitle>
+    <entry>
+        <title type="html"><![CDATA[明日4/26から！【留学相談強化週間】留学に興味があるなら、参加歓迎]]></title>
+        <id>aabb7b8a5c643f91b7f4ce991661dd3a</id>
+        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3913"/>
+        <updated>2023-04-25T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[スチューデントサポートセンター国際交流支援室では、留学のアシストをしています！
+この春は、2回に分けて留学相談を強化していきますよ！
+　　留学に行きたいけど、手続きとか資金とか、大変なのかな？
+　　留学は興味あるけど、どの協定校に行ったらいいだろう？？
+
+特に1年生で、在籍中の留学を考えている方！ぜひ参加してください！
+（３，４年生になるにつれ忙しさが増し、留学が困難になる場合もありますので、早め…]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[中南米留学ってどんな感じ？聞いてみよう！中南米LIVE留学体験談]]></title>
+        <id>a237f884b115a7889c8b6ac4fa16c3a7</id>
+        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3912"/>
+        <updated>2023-04-25T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[中南米への留学を検討している方は、是非参加してください！
+様々疑問が出てくる留学。初めての体験はドキドキが止まらない。
+今、まさに現地で留学を、海外を、体験中の先輩に直接LIVEで聞いちゃおう！
+
+開催日：2023年4月27日（木）18:15～19:30
+対象：筑波大学在学生で交換留学を希望する者
+場所：スチューデント・コモンズ（第一エリア 1A棟203）
+使用言語：日本語
+
+内容：
+・中南米プロ…]]></summary>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【5/23-24開催】筑波大学キャリアフェア　申込受付開始！]]></title>
         <id>ec49268c86e0b8e2e495dd27373887a6</id>
@@ -229,27 +259,5 @@ In the library, we will hold Library Workshops (Spring Semester) fr…]]></summa
 【応募⽅法】
 u-Rad の「2023 年度先導的研究者体験プログラム」から応募してください。
 manaba でもお知らせを⾏いますので、…]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Apply now for the Certificate Programme on Nature Conservation of 2023 (Spring Semester) !]]></title>
-        <id>479ef88b586f3df000cb68fb56b5d988</id>
-        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3886"/>
-        <updated>2023-04-14T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Before your application, please participate in CPNC Orientation Meeting Series!
-
-【CPNC Orientation Meeting Series in Spring 2023】
-
-1st         12 Wed April, 16:45-17:45  [ Japanese] (Closed)
-2nd      …]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[「筑波大学キャンパスマップ」に関するアンケートを実施しています]]></title>
-        <id>4d8c00cb50e18b4029edec9818d94bf5</id>
-        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3873"/>
-        <updated>2023-04-14T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[「筑波大学キャンパスマップ」に関するアンケートを実施しています。
-今後より良いものにしていくため、アンケートにご協力願います。
-TWINSのメニューから「アンケート」⇒「アンケート回答」⇒「筑波大学キャンパスマップに関するアンケート」をクリックして、行ってください。
-回答期限は6月30日です。]]></summary>
     </entry>
 </feed>
