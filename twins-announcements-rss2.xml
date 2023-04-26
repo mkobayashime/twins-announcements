@@ -4,7 +4,7 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Wed, 26 Apr 2023 05:03:34 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 26 Apr 2023 15:09:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
@@ -127,17 +127,6 @@ To prevent the leakage of sensitive technology related to security, admission st
 ]]></description>
         </item>
         <item>
-            <title><![CDATA[自然保護寄附講座第10期生春募集！[Apply Now for the CPNC (Spring Semester)!]]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3909</link>
-            <guid>c0722fb8323c4b39f3171eeb50730f2e</guid>
-            <pubDate>Mon, 24 Apr 2023 03:00:00 GMT</pubDate>
-            <description><![CDATA[【 履修申請手続き/Application procedures 】
-下記URLより自然保護寄附講座HPへアクセスし、履修申請書と応募確認書を提出してください。
-Please download Application Form and Permission Form from the links below and submit them by the deadline.
-
-■応募期間　2023年…]]></description>
-        </item>
-        <item>
             <title><![CDATA[茨城県留学生親善大使募集(Application for Ibaraki Foreign Student Goodwill Ambassador.)]]></title>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3908</link>
             <guid>592362d98dff761da54ce0cfc648a4d6</guid>
@@ -233,9 +222,9 @@ In the library, we will hold Library Workshops (Spring Semester) fr…]]></descr
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3900</link>
             <guid>db58ed5b91bc8563ccfda478a1e56045</guid>
             <pubDate>Thu, 20 Apr 2023 03:00:00 GMT</pubDate>
-            <description><![CDATA[To User of On-Campus Transportation System
+            <description><![CDATA[　文部科学省から、友人やSNS を通じて知り合った者からの勧誘に応じて、トラブルに巻き込まれたという相談が多く寄せられている状況を踏まえ、若者に対してのメッセージを発信したとのことで情報提供がありましたので、お知らせします。
 
-* On-Campus Transportation System (The bus pass) expires on March 31 of each year. Please remove the 　expired bus pass sticker from your student/staff ID ca…]]></description>
+　本学においても、SNS を通じて知り合った者に日本円と外貨の交換を持ち掛けられ、詐欺被害に遭った事例が寄せられておりますので、以下のURLから詳細をご確認いただき、被害に…]]></description>
         </item>
         <item>
             <title><![CDATA[【注意喚起】キャンパス交通システム利用証（大学循環バス特殊定期券)の不正使用防止について]]></title>
@@ -257,6 +246,16 @@ In the library, we will hold Library Workshops (Spring Semester) fr…]]></descr
 
 　これからアルバイトを始める学生のみなさんはもちろん、既にアルバイトをされている方も、この機会にぜひ、ご自身の労働条件を確かめてみてください。
 　詳細は以下のURLからご確認いただ…]]></description>
+        </item>
+        <item>
+            <title><![CDATA[スーツ等の割引サービスについて（4月18日更新）]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3896</link>
+            <guid>e70de441a838a7f0f239b2544288bd29</guid>
+            <pubDate>Tue, 18 Apr 2023 03:00:00 GMT</pubDate>
+            <description><![CDATA[本学は紳士服の大手4社と契約しています。
+そのため、在学生とそのご家族の皆様には、全国のAOKI、コナカ、はるやま、洋服の青山で、通常の割引価格から更に割引いた価格でスーツ等をご購入いただけます。
+大変お得ですので、是非ご利用ください。
+※ご購入いただいた金額の一部が大学に寄附されます。]]></description>
         </item>
     </channel>
 </rss>
