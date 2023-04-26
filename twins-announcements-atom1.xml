@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/mkobayashime/twins-announcements</id>
     <title>在学生へのお知らせ | 筑波大学</title>
-    <updated>2023-04-26T01:59:18.828Z</updated>
+    <updated>2023-04-26T03:04:17.481Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://github.com/mkobayashime/twins-announcements"/>
     <subtitle>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</subtitle>
+    <entry>
+        <title type="html"><![CDATA[【学生宿舎/Student Residence Hall】学生宿舎追加入居募集について / Information of Residence Hall Application]]></title>
+        <id>16cd36bc59b094a83adcf7d3120dbb5e</id>
+        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3918"/>
+        <updated>2023-04-26T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[令和５年度学生宿舎追加入居募集についてお知らせいたします。
+（【一般単身改修棟】、【一の矢継続入居棟（一般単身改修棟）】）
+学生宿舎への入居を希望される方は、添付ファイルをご参照ください。
+
+We will inform you of AY2023 Residence Hall Application.
+(【Standard Single (Renovated)】,【Ichinoya for Lo…]]></summary>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【提出依頼】安全保障輸出管理のための誓約書(入学時)提出のお願い]]></title>
         <id>c98a14e8c0d34c88785ab6aea15ebb9b</id>
@@ -243,15 +255,5 @@ In the library, we will hold Library Workshops (Spring Semester) fr…]]></summa
 そのため、在学生とそのご家族の皆様には、全国のAOKI、コナカ、はるやま、洋服の青山で、通常の割引価格から更に割引いた価格でスーツ等をご購入いただけます。
 大変お得ですので、是非ご利用ください。
 ※ご購入いただいた金額の一部が大学に寄附されます。]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[German Research Fairードイツ研究フェア]]></title>
-        <id>e0a2f2cbc1f35422ee1f1b44d699f3cf</id>
-        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3895"/>
-        <updated>2023-04-17T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Flyer_German Research FairFlyer_German Research Fairドイツの大学や研究機関で研究したい、ドイツの大学の博士課程、ポスドク、奨学金について知りたい方必見！
-
-4月27日（木）にオンラインで開催される「German Research Fair―ドイツ研究フェア」に参加して、多数のドイツの著名な大学や研究機関、助成機関の担当者と直接話してみませんか？
-…]]></summary>
     </entry>
 </feed>
