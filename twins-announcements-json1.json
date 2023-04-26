@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "e92f7aa395ddba2a0f382cb2830f57de",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3919",
+            "title": "【注意喚起】不審者について",
+            "summary": "　最近、学内におきまして、不審者に関する情報が学生から寄せられています。\n　４月上旬には文化系サークル会館のトイレにおける盗撮被害、4月下旬には追越学生宿舎において不審者に声をかけられる案件が発生しています。\n　学生の皆さんにおいては、不審者を学内で見かけましたら、最寄りの警備室や学生生活課、最寄りのエリア支援室にご報告ください。\n",
+            "date_modified": "2023-04-26T03:00:00.000Z"
+        },
+        {
             "id": "16cd36bc59b094a83adcf7d3120dbb5e",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3918",
             "title": "【学生宿舎/Student Residence Hall】学生宿舎追加入居募集について / Information of Residence Hall Application",
@@ -135,13 +142,6 @@
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3897",
             "title": "【周知】令和5年度の「アルバイトの労働条件を確かめよう！」キャンペーンについて",
             "summary": "　文部科学省から、全国の大学生等を対象として、多くの新入学生がアルバイトを始める4月から7月までの間、労働条件の確認を促すことなどを目的としたキャンペーンを実施するとのことで情報提供がありましたので、お知らせします。\n\n　これからアルバイトを始める学生のみなさんはもちろん、既にアルバイトをされている方も、この機会にぜひ、ご自身の労働条件を確かめてみてください。\n　詳細は以下のURLからご確認いただ…",
-            "date_modified": "2023-04-18T03:00:00.000Z"
-        },
-        {
-            "id": "e70de441a838a7f0f239b2544288bd29",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3896",
-            "title": "スーツ等の割引サービスについて（4月18日更新）",
-            "summary": "本学は紳士服の大手4社と契約しています。\nそのため、在学生とそのご家族の皆様には、全国のAOKI、コナカ、はるやま、洋服の青山で、通常の割引価格から更に割引いた価格でスーツ等をご購入いただけます。\n大変お得ですので、是非ご利用ください。\n※ご購入いただいた金額の一部が大学に寄附されます。",
             "date_modified": "2023-04-18T03:00:00.000Z"
         }
     ]
