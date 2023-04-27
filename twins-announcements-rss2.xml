@@ -4,10 +4,21 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Wed, 26 Apr 2023 21:07:48 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 27 Apr 2023 05:03:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
+        <item>
+            <title><![CDATA[【重要】節電にご協力ください！！！ / [Important] Please cooperate in saving electricity!]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3920</link>
+            <guid>b26e180445835007fef290d5d78023ad</guid>
+            <pubDate>Thu, 27 Apr 2023 03:00:00 GMT</pubDate>
+            <description><![CDATA[○ 教室や自習室の使用後に誰もいなくなる時は、電灯の消灯、エアコンの停止の徹底をお願いします。
+○ 教室で自習などを行うときは、必要な場所だけ電灯を点灯し、不要な場所まで明るくしないようにしましょう。教室使用後の消灯，エアコン停止もお願いします。
+○ 誰もいない教室で電灯が点灯しているのを見かけた時は、消灯してください。
+
+昨今の社会情勢を受けた電気料金の値上がりにより、本学における電気料金の使用…]]></description>
+        </item>
         <item>
             <title><![CDATA[【注意喚起】不審者について]]></title>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3919</link>
@@ -246,16 +257,6 @@ In the library, we will hold Library Workshops (Spring Semester) fr…]]></descr
 
 　これからアルバイトを始める学生のみなさんはもちろん、既にアルバイトをされている方も、この機会にぜひ、ご自身の労働条件を確かめてみてください。
 　詳細は以下のURLからご確認いただ…]]></description>
-        </item>
-        <item>
-            <title><![CDATA[スーツ等の割引サービスについて（4月18日更新）]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3896</link>
-            <guid>e70de441a838a7f0f239b2544288bd29</guid>
-            <pubDate>Tue, 18 Apr 2023 03:00:00 GMT</pubDate>
-            <description><![CDATA[本学は紳士服の大手4社と契約しています。
-そのため、在学生とそのご家族の皆様には、全国のAOKI、コナカ、はるやま、洋服の青山で、通常の割引価格から更に割引いた価格でスーツ等をご購入いただけます。
-大変お得ですので、是非ご利用ください。
-※ご購入いただいた金額の一部が大学に寄附されます。]]></description>
         </item>
     </channel>
 </rss>
