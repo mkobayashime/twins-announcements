@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "5d9254dddcc8cab90dfd112c4a9e300d",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3924",
+            "title": "【BHE】公務員志望者向け　LEC筑波大生向け講座の申込みご案内",
+            "summary": "２４年度試験対策\n筑波大学生向けの公務員講座を開講します。\n\n講師：LEC東京リーガルマインド\n申込み：５月１日（月）締め切り\n５月２６日（金）より開講\n",
+            "date_modified": "2023-04-28T03:00:00.000Z"
+        },
+        {
             "id": "4f54f9e088312488bc4250ddedb6053f",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3923",
             "title": "【自由科目（特設） 障害学生支援技術】履修登録期間について（5月5日まで）",
@@ -135,13 +142,6 @@
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3902",
             "title": "【注意喚起】友人やSNSを通じて知り合った者からの勧誘について",
             "summary": "　文部科学省から、友人やSNS を通じて知り合った者からの勧誘に応じて、トラブルに巻き込まれたという相談が多く寄せられている状況を踏まえ、若者に対してのメッセージを発信したとのことで情報提供がありましたので、お知らせします。\n\n　本学においても、SNS を通じて知り合った者に日本円と外貨の交換を持ち掛けられ、詐欺被害に遭った事例が寄せられておりますので、以下のURLから詳細をご確認いただき、被害に…",
-            "date_modified": "2023-04-20T03:00:00.000Z"
-        },
-        {
-            "id": "db58ed5b91bc8563ccfda478a1e56045",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3900",
-            "title": "Reminder： Prevention of Fraudulent Use of On-Campus Transportation System (The bus pass)",
-            "summary": "To User of On-Campus Transportation System\n\n* On-Campus Transportation System (The bus pass) expires on March 31 of each year. Please remove the 　expired bus pass sticker from your student/staff ID ca…",
             "date_modified": "2023-04-20T03:00:00.000Z"
         }
     ]

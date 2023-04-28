@@ -4,10 +4,23 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Fri, 28 Apr 2023 01:59:26 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 28 Apr 2023 03:04:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
+        <item>
+            <title><![CDATA[【BHE】公務員志望者向け　LEC筑波大生向け講座の申込みご案内]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3924</link>
+            <guid>5d9254dddcc8cab90dfd112c4a9e300d</guid>
+            <pubDate>Fri, 28 Apr 2023 03:00:00 GMT</pubDate>
+            <description><![CDATA[２４年度試験対策
+筑波大学生向けの公務員講座を開講します。
+
+講師：LEC東京リーガルマインド
+申込み：５月１日（月）締め切り
+５月２６日（金）より開講
+]]></description>
+        </item>
         <item>
             <title><![CDATA[【自由科目（特設） 障害学生支援技術】履修登録期間について（5月5日まで）]]></title>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3923</link>
@@ -252,15 +265,6 @@ In the library, we will hold Library Workshops (Spring Semester) fr…]]></descr
             <description><![CDATA[　文部科学省から、友人やSNS を通じて知り合った者からの勧誘に応じて、トラブルに巻き込まれたという相談が多く寄せられている状況を踏まえ、若者に対してのメッセージを発信したとのことで情報提供がありましたので、お知らせします。
 
 　本学においても、SNS を通じて知り合った者に日本円と外貨の交換を持ち掛けられ、詐欺被害に遭った事例が寄せられておりますので、以下のURLから詳細をご確認いただき、被害に…]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Reminder： Prevention of Fraudulent Use of On-Campus Transportation System (The bus pass)]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3900</link>
-            <guid>db58ed5b91bc8563ccfda478a1e56045</guid>
-            <pubDate>Thu, 20 Apr 2023 03:00:00 GMT</pubDate>
-            <description><![CDATA[To User of On-Campus Transportation System
-
-* On-Campus Transportation System (The bus pass) expires on March 31 of each year. Please remove the 　expired bus pass sticker from your student/staff ID ca…]]></description>
         </item>
     </channel>
 </rss>

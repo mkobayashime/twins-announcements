@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/mkobayashime/twins-announcements</id>
     <title>在学生へのお知らせ | 筑波大学</title>
-    <updated>2023-04-28T01:59:26.184Z</updated>
+    <updated>2023-04-28T03:04:00.381Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://github.com/mkobayashime/twins-announcements"/>
     <subtitle>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</subtitle>
+    <entry>
+        <title type="html"><![CDATA[【BHE】公務員志望者向け　LEC筑波大生向け講座の申込みご案内]]></title>
+        <id>5d9254dddcc8cab90dfd112c4a9e300d</id>
+        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3924"/>
+        <updated>2023-04-28T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[２４年度試験対策
+筑波大学生向けの公務員講座を開講します。
+
+講師：LEC東京リーガルマインド
+申込み：５月１日（月）締め切り
+５月２６日（金）より開講
+]]></summary>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【自由科目（特設） 障害学生支援技術】履修登録期間について（5月5日まで）]]></title>
         <id>4f54f9e088312488bc4250ddedb6053f</id>
@@ -250,14 +263,5 @@ In the library, we will hold Library Workshops (Spring Semester) fr…]]></summa
         <summary type="html"><![CDATA[　文部科学省から、友人やSNS を通じて知り合った者からの勧誘に応じて、トラブルに巻き込まれたという相談が多く寄せられている状況を踏まえ、若者に対してのメッセージを発信したとのことで情報提供がありましたので、お知らせします。
 
 　本学においても、SNS を通じて知り合った者に日本円と外貨の交換を持ち掛けられ、詐欺被害に遭った事例が寄せられておりますので、以下のURLから詳細をご確認いただき、被害に…]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Reminder： Prevention of Fraudulent Use of On-Campus Transportation System (The bus pass)]]></title>
-        <id>db58ed5b91bc8563ccfda478a1e56045</id>
-        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3900"/>
-        <updated>2023-04-20T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[To User of On-Campus Transportation System
-
-* On-Campus Transportation System (The bus pass) expires on March 31 of each year. Please remove the 　expired bus pass sticker from your student/staff ID ca…]]></summary>
     </entry>
 </feed>
