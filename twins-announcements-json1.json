@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "10d9b18d105c15ad7f6ddad2130eebe5",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3932",
+            "title": "【参加者募集 ！ 】 博士のポートフォリオ大公開 + ロールモデル懇談会",
+            "summary": "博士号をお持ちの研究者の方に、博士のあれこれをお伺いします！\n博士課程に進学したきっかけは？博士時代に出くわした悩みとその解決方法は？\nこの機会に「博士」について気になることを色々聞いてみてください。\nまた、ゲストの方に作成いただいたポートフォリオも学内限定で公開しています。こちらも併せてご覧いただきながら、奮ってご参加ください！\n\n＜イベント概要＞\n日時：2023年5月18日（木）　16：00～…",
+            "date_modified": "2023-05-01T03:00:00.000Z"
+        },
+        {
             "id": "5d9254dddcc8cab90dfd112c4a9e300d",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3931",
             "title": "【BHE】公務員志望者向け　LEC筑波大生向け講座の申込みご案内",
@@ -136,13 +143,6 @@
             "title": "【周知】駐車場ゲートシステム変更のお知らせ",
             "summary": "駐車場利用者　各位\n\n令和５年５月９日（火）より、構内駐車場に設置してあるゲート機器が新しくなります。\n出口ゲートでは、出庫時に、ICカード（職員証・学生証）並びにパスカードの操作が不要となります。\n出口ゲート手前では、必ず一旦停止し、ゲートバーが開放したことを確認の上、出庫願います。\n",
             "date_modified": "2023-04-25T03:00:00.000Z"
-        },
-        {
-            "id": "592362d98dff761da54ce0cfc648a4d6",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3908",
-            "title": "茨城県留学生親善大使募集(Application for Ibaraki Foreign Student Goodwill Ambassador.)",
-            "summary": "<<留学生対象>>\n公益財団法人　茨城県国際交流協会より、留学生親善大使募集のお知らせがありました。\nそこで、留学生親善大使を募集します。\n興味のある方は、「留学生親善大使申込書」を下記からダウンロードして、学生交流課留学生支援宛に2023年5月7日(日)までにメールで応募してください。\n(メール：isc-shien@un.tsukuba.ac.jp)\n\n詳細は添付のPDFをご参照ください。\n\n<…",
-            "date_modified": "2023-04-24T03:00:00.000Z"
         }
     ]
 }
