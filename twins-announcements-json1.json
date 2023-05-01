@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "5d9254dddcc8cab90dfd112c4a9e300d",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3931",
+            "title": "【BHE】公務員志望者向け　LEC筑波大生向け講座の申込みご案内",
+            "summary": "２４年度試験対策\n筑波大学生向けの公務員講座を開講します。\n\n講師：LEC東京リーガルマインド\n申込み：５月１日（月）締め切り→5月7日(日)まで延長して受付中\n５月２６日（金）より開講\n",
+            "date_modified": "2023-05-01T03:00:00.000Z"
+        },
+        {
             "id": "edc09f2090f3554777f034b66d0f64c2",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3930",
             "title": "Free Ebook Trial Service (May 1-July 31)",
@@ -135,13 +142,6 @@
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3908",
             "title": "茨城県留学生親善大使募集(Application for Ibaraki Foreign Student Goodwill Ambassador.)",
             "summary": "<<留学生対象>>\n公益財団法人　茨城県国際交流協会より、留学生親善大使募集のお知らせがありました。\nそこで、留学生親善大使を募集します。\n興味のある方は、「留学生親善大使申込書」を下記からダウンロードして、学生交流課留学生支援宛に2023年5月7日(日)までにメールで応募してください。\n(メール：isc-shien@un.tsukuba.ac.jp)\n\n詳細は添付のPDFをご参照ください。\n\n<…",
-            "date_modified": "2023-04-24T03:00:00.000Z"
-        },
-        {
-            "id": "1dc741e7ba9ee74bcceeaf3c5b6d3b0e",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3907",
-            "title": "中南米へ留学しよう！中南米LIVE留学体験談",
-            "summary": "中南米への留学を検討している方は、是非参加してください！\n様々疑問が出てくる留学。初めての体験はドキドキが止まらない。\n今、まさに現地で留学を、海外を、体験中の先輩に直接LIVEで聞いちゃおう！\n\n開催日：2023年4月27日（木）18:15～19:30\n対象：筑波大学在学生で交換留学を希望する者\n場所：スチューデント・コモンズ（第一エリア 1A棟203）\n使用言語：日本語\n\n内容：\n・中南米プロ…",
             "date_modified": "2023-04-24T03:00:00.000Z"
         }
     ]

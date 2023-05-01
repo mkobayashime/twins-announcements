@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/mkobayashime/twins-announcements</id>
     <title>在学生へのお知らせ | 筑波大学</title>
-    <updated>2023-05-01T06:08:23.500Z</updated>
+    <updated>2023-05-01T08:09:06.048Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://github.com/mkobayashime/twins-announcements"/>
     <subtitle>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</subtitle>
+    <entry>
+        <title type="html"><![CDATA[【BHE】公務員志望者向け　LEC筑波大生向け講座の申込みご案内]]></title>
+        <id>5d9254dddcc8cab90dfd112c4a9e300d</id>
+        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3931"/>
+        <updated>2023-05-01T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[２４年度試験対策
+筑波大学生向けの公務員講座を開講します。
+
+講師：LEC東京リーガルマインド
+申込み：５月１日（月）締め切り→5月7日(日)まで延長して受付中
+５月２６日（金）より開講
+]]></summary>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Free Ebook Trial Service (May 1-July 31)]]></title>
         <id>edc09f2090f3554777f034b66d0f64c2</id>
@@ -240,22 +253,5 @@ To prevent the leakage of sensitive technology related to security, admission st
 詳細は添付のPDFをご参照ください。
 
 <…]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[中南米へ留学しよう！中南米LIVE留学体験談]]></title>
-        <id>1dc741e7ba9ee74bcceeaf3c5b6d3b0e</id>
-        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3907"/>
-        <updated>2023-04-24T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[中南米への留学を検討している方は、是非参加してください！
-様々疑問が出てくる留学。初めての体験はドキドキが止まらない。
-今、まさに現地で留学を、海外を、体験中の先輩に直接LIVEで聞いちゃおう！
-
-開催日：2023年4月27日（木）18:15～19:30
-対象：筑波大学在学生で交換留学を希望する者
-場所：スチューデント・コモンズ（第一エリア 1A棟203）
-使用言語：日本語
-
-内容：
-・中南米プロ…]]></summary>
     </entry>
 </feed>
