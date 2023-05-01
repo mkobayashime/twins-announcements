@@ -4,10 +4,23 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Sun, 30 Apr 2023 21:07:16 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 01 May 2023 03:04:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
+        <item>
+            <title><![CDATA[【BHE】公務員志望者向け　LEC筑波大生向け講座の申込みご案内]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3927</link>
+            <guid>5d9254dddcc8cab90dfd112c4a9e300d</guid>
+            <pubDate>Mon, 01 May 2023 03:00:00 GMT</pubDate>
+            <description><![CDATA[２４年度試験対策
+筑波大学生向けの公務員講座を開講します。
+
+講師：LEC東京リーガルマインド
+申込み：５月１日（月）締め切り
+５月２６日（金）より開講
+]]></description>
+        </item>
         <item>
             <title><![CDATA[【募集】ジョンソンエンドジョンソンでのインターンシップについて/Call for internship at Johnson and Johnson]]></title>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3926</link>
@@ -257,15 +270,6 @@ In the library, we will hold Library Workshops (Spring Semester) fr…]]></descr
 来年春からの留学を考えている人は、ぜひチェックしてください！
 
 ・募…]]></description>
-        </item>
-        <item>
-            <title><![CDATA[【周知】学生の安心・安全に関しての各種資料について]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3903</link>
-            <guid>845b8f6da56e598f18db688af13a5b99</guid>
-            <pubDate>Thu, 20 Apr 2023 03:00:00 GMT</pubDate>
-            <description><![CDATA[　文部科学省から、学生が安心・安全に大学生活を過ごすために、トラブルや悩みに関して参考となる資料の提供がありましたので、お知らせします。
-
-　実際に学外の事例では、SNS等を通じていわゆる「闇バイト」に応募し犯罪に加担する事例や、消費者被害に巻き込まれる事例、大学の友人・先輩やSNSで知り合った「投資家」などから暗号資産（仮想通貨）等への投資を誘われ多額の金銭を支払うなどの事例が報告されております…]]></description>
         </item>
     </channel>
 </rss>
