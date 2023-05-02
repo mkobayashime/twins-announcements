@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "ec01fd37be7095b94a74aba588b06e07",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3934",
+            "title": "人物コスチュームモデル募集について Looking for an Art Model in costume.",
+            "summary": "令和5年度筑波大学公開講座　芸術教室「油絵」講座では、人物モデル（外国人女性・男性モデル）を募集しています。\n興味のある方は、添付ファイルのポスターを確認し、「お問い合わせ」先まで連絡してください。\n\nThe 2023 University of Tsukuba Open Lecture, Art Class \"Oil Painting\" is looking for an art model i…",
+            "date_modified": "2023-05-02T03:00:00.000Z"
+        },
+        {
             "id": "6292b1ffa41c20558f299bd01e874142",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3933",
             "title": "【開催案内】第40回「中央ユーラシアと日本の未来」公開講演会_キルギス共和国日本人材開発センター共同所長 岩井淳武氏_5/12(金)",
@@ -135,13 +142,6 @@
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3911",
             "title": "【5/23-24開催】筑波大学キャリアフェア　申込受付開始！",
             "summary": "2024年3月卒業・修了予定の方を対象とした、筑波大学キャリアフェアを\n開催いたします。\n「就職先の選定に戸惑っている」\n「就職活動を続けている」\n「新たに企業との接点を求めている」\nそんな就活継続中の方、これから就職を考えている方は、ぜひご参加ください！\n\n・・・・・・・・・・・・・・・・・・・・・・・・・・\n\n【 ➁ 対面開催 】\n日時：5月23（火），24日（水）\n会場：大学会館\n申込：筑波…",
-            "date_modified": "2023-04-25T03:00:00.000Z"
-        },
-        {
-            "id": "768109a45130072f001cfbff1327d822",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3910",
-            "title": "【周知】駐車場ゲートシステム変更のお知らせ",
-            "summary": "駐車場利用者　各位\n\n令和５年５月９日（火）より、構内駐車場に設置してあるゲート機器が新しくなります。\n出口ゲートでは、出庫時に、ICカード（職員証・学生証）並びにパスカードの操作が不要となります。\n出口ゲート手前では、必ず一旦停止し、ゲートバーが開放したことを確認の上、出庫願います。\n",
             "date_modified": "2023-04-25T03:00:00.000Z"
         }
     ]
