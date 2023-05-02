@@ -2,10 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/mkobayashime/twins-announcements</id>
     <title>在学生へのお知らせ | 筑波大学</title>
-    <updated>2023-05-02T08:08:05.183Z</updated>
+    <updated>2023-05-02T09:03:41.162Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://github.com/mkobayashime/twins-announcements"/>
     <subtitle>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</subtitle>
+    <entry>
+        <title type="html"><![CDATA[【再掲】【5/23-24開催】筑波大学キャリアフェア　申込受付中！]]></title>
+        <id>d295eba82dea2ccb7e521cb1fa6a8edf</id>
+        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3938"/>
+        <updated>2023-05-02T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[2024年3月卒業・修了予定の方を対象とした、筑波大学キャリアフェアを
+対面で開催いたします。　
+「就職先の選定に戸惑っている」
+「就職活動を続けている」
+「新たに企業との接点を求めている」
+そんな就活継続中の方、これから就職を考えている方は、ぜひご参加ください！
+
+・・・・・・・・・・・・・・・・・・・・・・・・・・
+
+【 ➁ 対面開催 】
+日時：5月23（火），24日（水）
+会場：大学会館
+申…]]></summary>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【BHE】申込み受付延長　公務員志望者向け　LEC筑波大生向け講座の申込みご案内]]></title>
         <id>304de377a721228c145ed2a370d48d8c</id>
@@ -232,21 +251,5 @@ We will inform you of AY2023 Residence Hall Application.
 【manabaコース名／コースコード】誓約書（入学時）／22169
 
 【…]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【BHE就活支援】参加者募集中　5月10日チャレンジ実践会　]]></title>
-        <id>2e9a6a8eec18ad1ce66acb53013085fd</id>
-        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3916"/>
-        <updated>2023-04-26T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[５月10日（水）
-午前の部　10:00-11:30
-午後の部　13:00-14:30
-
-就職活動でこれから対面面接を受ける方のための練習会です。
-集団面接形式で行います。ビジネスマナーについても学ぶことができます。
-当日はなるべく面接時に実際、着用するスーツ等で参加することを推奨します。
-BHEキャリア支援チームのファシリテーターからフィードバックがあります。
-
-BHE　HPの「ガイダンス等及び模…]]></summary>
     </entry>
 </feed>
