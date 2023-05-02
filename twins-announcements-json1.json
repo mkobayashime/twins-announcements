@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "48fcceefa572bff0ae502bd999ba22d6",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3935",
+            "title": "【手話コミュニケーションⅠ】5/31募集締め切り後に抽選を行います",
+            "summary": "手話コミュニケーションⅠの受け入れに際して、\n5/31の募集締め切り後に抽選を行います。\n\n抽選に際しては優遇条件を設定しないので、\n受講生の皆様からランダムで選びます(現状での倍率：4.7)。\n\nまた、手話コミュニケーションⅡは手話コミュニケーションⅠの履修が前提となります。\nこのため抽選で外れると、手話コミュニケーションⅠもⅡも履修できません。\n\n今年度中に確実に単位を取得したい場合は、他の授…",
+            "date_modified": "2023-05-02T03:00:00.000Z"
+        },
+        {
             "id": "ec01fd37be7095b94a74aba588b06e07",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3934",
             "title": "人物コスチュームモデル募集について Looking for an Art Model in costume.",
@@ -135,13 +142,6 @@
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3912",
             "title": "中南米留学ってどんな感じ？聞いてみよう！中南米LIVE留学体験談",
             "summary": "中南米への留学を検討している方は、是非参加してください！\n様々疑問が出てくる留学。初めての体験はドキドキが止まらない。\n今、まさに現地で留学を、海外を、体験中の先輩に直接LIVEで聞いちゃおう！\n\n開催日：2023年4月27日（木）18:15～19:30\n対象：筑波大学在学生で交換留学を希望する者\n場所：スチューデント・コモンズ（第一エリア 1A棟203）\n使用言語：日本語\n\n内容：\n・中南米プロ…",
-            "date_modified": "2023-04-25T03:00:00.000Z"
-        },
-        {
-            "id": "ec49268c86e0b8e2e495dd27373887a6",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3911",
-            "title": "【5/23-24開催】筑波大学キャリアフェア　申込受付開始！",
-            "summary": "2024年3月卒業・修了予定の方を対象とした、筑波大学キャリアフェアを\n開催いたします。\n「就職先の選定に戸惑っている」\n「就職活動を続けている」\n「新たに企業との接点を求めている」\nそんな就活継続中の方、これから就職を考えている方は、ぜひご参加ください！\n\n・・・・・・・・・・・・・・・・・・・・・・・・・・\n\n【 ➁ 対面開催 】\n日時：5月23（火），24日（水）\n会場：大学会館\n申込：筑波…",
             "date_modified": "2023-04-25T03:00:00.000Z"
         }
     ]
