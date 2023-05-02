@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/mkobayashime/twins-announcements</id>
     <title>在学生へのお知らせ | 筑波大学</title>
-    <updated>2023-05-02T02:27:59.247Z</updated>
+    <updated>2023-05-02T06:08:28.756Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://github.com/mkobayashime/twins-announcements"/>
     <subtitle>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</subtitle>
+    <entry>
+        <title type="html"><![CDATA[令和5年度 茗渓会学生活動支援事業について]]></title>
+        <id>b2efbd91075d94e9b3718d664726dc6a</id>
+        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3936"/>
+        <updated>2023-05-02T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[茗渓会による学生活動支援事業の実施について、お知らせします。
+くわしくは添付の事業要項をご確認ください。
+申請を希望する団体は、申請書と構成員名簿をご提出ください。
+
+申請期限：5月31日（水）まで
+申請窓口：学生生活課 課外活動支援係（1D棟3階）]]></summary>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【手話コミュニケーションⅠ】5/31募集締め切り後に抽選を行います]]></title>
         <id>48fcceefa572bff0ae502bd999ba22d6</id>
@@ -231,22 +243,5 @@ BHE　HPの「ガイダンス等及び模…]]></summary>
         <updated>2023-04-26T03:00:00.000Z</updated>
         <summary type="html"><![CDATA[To students admission school in AY2023
 To prevent the leakage of sensitive technology related to security, admission students are required to submit a pledge via manaba to comply with the "Foreign Exc…]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[中南米留学ってどんな感じ？聞いてみよう！中南米LIVE留学体験談]]></title>
-        <id>a237f884b115a7889c8b6ac4fa16c3a7</id>
-        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3912"/>
-        <updated>2023-04-25T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[中南米への留学を検討している方は、是非参加してください！
-様々疑問が出てくる留学。初めての体験はドキドキが止まらない。
-今、まさに現地で留学を、海外を、体験中の先輩に直接LIVEで聞いちゃおう！
-
-開催日：2023年4月27日（木）18:15～19:30
-対象：筑波大学在学生で交換留学を希望する者
-場所：スチューデント・コモンズ（第一エリア 1A棟203）
-使用言語：日本語
-
-内容：
-・中南米プロ…]]></summary>
     </entry>
 </feed>
