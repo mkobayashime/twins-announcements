@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/mkobayashime/twins-announcements</id>
     <title>在学生へのお知らせ | 筑波大学</title>
-    <updated>2023-05-08T01:59:33.095Z</updated>
+    <updated>2023-05-08T04:05:49.558Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://github.com/mkobayashime/twins-announcements"/>
     <subtitle>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</subtitle>
+    <entry>
+        <title type="html"><![CDATA[Hanyang International Summer School]]></title>
+        <id>5f31e7a473054f3176c0845d52fb49d4</id>
+        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3940"/>
+        <updated>2023-05-08T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[漢陽大学校よりHanyang International Summer School（HISS）のお知らせです。関心のある方はウェブサイトより詳細をよく確認し、各自でお申し込みください。質問や疑問点は直接、主催者へお願いします。
+
+Program Summary 
+・Program Period: July 3 – July 28, 2023 
+・Application period: Janua…]]></summary>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【5/10開催 図書館講習会】外国語論文の探し方(Web of Science)]]></title>
         <id>d26ca89b74c4e469087d4c19333e6a56</id>
@@ -240,21 +251,5 @@ We will inform you of AY2023 Residence Hall Application.
 【manabaコース名／コースコード】誓約書（入学時）／22169
 
 【…]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【BHE就活支援】参加者募集中　5月10日チャレンジ実践会　]]></title>
-        <id>2e9a6a8eec18ad1ce66acb53013085fd</id>
-        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3916"/>
-        <updated>2023-04-26T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[５月10日（水）
-午前の部　10:00-11:30
-午後の部　13:00-14:30
-
-就職活動でこれから対面面接を受ける方のための練習会です。
-集団面接形式で行います。ビジネスマナーについても学ぶことができます。
-当日はなるべく面接時に実際、着用するスーツ等で参加することを推奨します。
-BHEキャリア支援チームのファシリテーターからフィードバックがあります。
-
-BHE　HPの「ガイダンス等及び模…]]></summary>
     </entry>
 </feed>
