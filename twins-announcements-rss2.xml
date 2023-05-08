@@ -4,10 +4,25 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Mon, 08 May 2023 06:08:22 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 08 May 2023 07:03:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
+        <item>
+            <title><![CDATA[【BHE就活支援】5月19日 就活実践練習　チャレンジ実践会　]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3944</link>
+            <guid>c6b2f7710fd5997f65bf32dbb090d6cd</guid>
+            <pubDate>Mon, 08 May 2023 03:00:00 GMT</pubDate>
+            <description><![CDATA[5月19日（金）
+ES編・面接編・ＧＤ編それぞれ少人数の実践講座です。
+各回BHEキャリア支援チームのファシリテーターからフィードバックがあります。
+就活中の方、これからISに参加する方にお勧めの講座です。
+
+BHE　HPの「イベントコンテンツ（動画・資料）」→「就職情報」
+から申し込んでください。（内容毎に異なります）
+※ログイン方法
+ユーザー名：学籍番号　PW:統一認証PW（TWINSと同じ）…]]></description>
+        </item>
         <item>
             <title><![CDATA[明日よりスタート【English-Chat】英語チャットイベント]]></title>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3943</link>
@@ -246,17 +261,6 @@ You can try …]]></description>
 主旨：添付を御覧ください
 
 具体的な内容は、前…]]></description>
-        </item>
-        <item>
-            <title><![CDATA[【重要】節電にご協力ください！！！ / [Important] Please cooperate in saving electricity!]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3920</link>
-            <guid>b26e180445835007fef290d5d78023ad</guid>
-            <pubDate>Thu, 27 Apr 2023 03:00:00 GMT</pubDate>
-            <description><![CDATA[○ 教室や自習室の使用後に誰もいなくなる時は、電灯の消灯、エアコンの停止の徹底をお願いします。
-○ 教室で自習などを行うときは、必要な場所だけ電灯を点灯し、不要な場所まで明るくしないようにしましょう。教室使用後の消灯，エアコン停止もお願いします。
-○ 誰もいない教室で電灯が点灯しているのを見かけた時は、消灯してください。
-
-昨今の社会情勢を受けた電気料金の値上がりにより、本学における電気料金の使用…]]></description>
         </item>
     </channel>
 </rss>
