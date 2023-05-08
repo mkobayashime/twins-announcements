@@ -4,10 +4,26 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Sun, 07 May 2023 21:08:22 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 08 May 2023 01:59:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
+        <item>
+            <title><![CDATA[【5/10開催 図書館講習会】外国語論文の探し方(Web of Science)]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3939</link>
+            <guid>d26ca89b74c4e469087d4c19333e6a56</guid>
+            <pubDate>Mon, 08 May 2023 03:00:00 GMT</pubDate>
+            <description><![CDATA[外国語論文の探し方(Web of Science) の講習会を開催します。
+
+日時：5/10(水)15:15-16:30
+開催方法：オンライン(Cisco Webex)
+
+「良い論文を読みなさいと言われたけど、どうやって探せば良いの？」
+「検索したら沢山の論文がヒットしたけど、どれを読んだら良いの？」
+そんなお悩みはありませんか？
+
+Web of Science は、厳選された論文の情報が収録され…]]></description>
+        </item>
         <item>
             <title><![CDATA[【再掲】【5/23-24開催】筑波大学キャリアフェア　申込受付中！]]></title>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3938</link>
@@ -242,14 +258,6 @@ We will inform you of AY2023 Residence Hall Application.
 BHEキャリア支援チームのファシリテーターからフィードバックがあります。
 
 BHE　HPの「ガイダンス等及び模…]]></description>
-        </item>
-        <item>
-            <title><![CDATA[[Notice] Request for Submission of Pledge (enrollment) for Security Export Control]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3915</link>
-            <guid>745ca83cc603141a675b1a1b8e7d00a5</guid>
-            <pubDate>Wed, 26 Apr 2023 03:00:00 GMT</pubDate>
-            <description><![CDATA[To students admission school in AY2023
-To prevent the leakage of sensitive technology related to security, admission students are required to submit a pledge via manaba to comply with the "Foreign Exc…]]></description>
         </item>
     </channel>
 </rss>

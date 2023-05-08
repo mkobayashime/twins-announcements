@@ -2,10 +2,26 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/mkobayashime/twins-announcements</id>
     <title>在学生へのお知らせ | 筑波大学</title>
-    <updated>2023-05-07T21:08:22.149Z</updated>
+    <updated>2023-05-08T01:59:33.095Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://github.com/mkobayashime/twins-announcements"/>
     <subtitle>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</subtitle>
+    <entry>
+        <title type="html"><![CDATA[【5/10開催 図書館講習会】外国語論文の探し方(Web of Science)]]></title>
+        <id>d26ca89b74c4e469087d4c19333e6a56</id>
+        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3939"/>
+        <updated>2023-05-08T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[外国語論文の探し方(Web of Science) の講習会を開催します。
+
+日時：5/10(水)15:15-16:30
+開催方法：オンライン(Cisco Webex)
+
+「良い論文を読みなさいと言われたけど、どうやって探せば良いの？」
+「検索したら沢山の論文がヒットしたけど、どれを読んだら良いの？」
+そんなお悩みはありませんか？
+
+Web of Science は、厳選された論文の情報が収録され…]]></summary>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【再掲】【5/23-24開催】筑波大学キャリアフェア　申込受付中！]]></title>
         <id>d295eba82dea2ccb7e521cb1fa6a8edf</id>
@@ -240,13 +256,5 @@ We will inform you of AY2023 Residence Hall Application.
 BHEキャリア支援チームのファシリテーターからフィードバックがあります。
 
 BHE　HPの「ガイダンス等及び模…]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[Notice] Request for Submission of Pledge (enrollment) for Security Export Control]]></title>
-        <id>745ca83cc603141a675b1a1b8e7d00a5</id>
-        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3915"/>
-        <updated>2023-04-26T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[To students admission school in AY2023
-To prevent the leakage of sensitive technology related to security, admission students are required to submit a pledge via manaba to comply with the "Foreign Exc…]]></summary>
     </entry>
 </feed>
