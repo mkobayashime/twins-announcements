@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "3431dba25c95c50f4532437a1f7d4612",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3950",
+            "title": "2023/6/11 鹿島神宮ツアー",
+            "summary": "スポーツ・オリンピック学学位プログラム(TIAS2.0)\nでは6月11日（日）に鹿島神宮の「武道の日」を見学するスタディツアーを開催します。\n\n留学生との交流に関心のある学生、スポーツ・オリンピック学学位プログラム進学に\n関心のある学生を募集します。\n\n開催日：6/11（日）\n鹿島神宮：古武道奉納演武大会「武道の日」見学\n　　　　＋\n香取神宮：香取神宮にゆかりのある剣豪の墓所見学など\n\n日程（変更…",
+            "date_modified": "2023-05-10T03:00:00.000Z"
+        },
+        {
             "id": "fb1a4286c44975d70f0558026f82a394",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3949",
             "title": "【明日開催】国際交流イベント 「Campur（ちゃんぷーる）」",
@@ -58,13 +65,6 @@
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3942",
             "title": "【エジプト日本科学技術大学主催】Summer Program 2023のお知らせ",
             "summary": "エジプト日本科学技術大学（E-JUST）よりSummer Program 2023お知らせです。\n\nSummer Program at E-JUST:\n・The summer program at E-JUST is an opportunity to welcome international students at E-JUST to experience the Middle Eastern…",
-            "date_modified": "2023-05-08T03:00:00.000Z"
-        },
-        {
-            "id": "1c840b2bbe8220b24023e8dd13de97df",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3941",
-            "title": "【香港中文大学主催】International Summer Schoolのお知らせ",
-            "summary": "香港中文大学よりInternational Summer Schoolのお知らせです。関心のある方はウェブサイトより詳細をよく確認し、各自でお申し込みください。\n\n香港中文大学インターナショナルサマースクール（ISS）は今申請を受け付けております。当地で最も評価されているサマープログラムの１つです。充実した学術的経験と多文化的かつインスパイア的な学習環境に身を置きたがる学生皆さんを大歓迎です。\n今…",
             "date_modified": "2023-05-08T03:00:00.000Z"
         },
         {
