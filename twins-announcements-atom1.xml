@@ -2,10 +2,17 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/mkobayashime/twins-announcements</id>
     <title>在学生へのお知らせ | 筑波大学</title>
-    <updated>2023-05-11T08:08:03.438Z</updated>
+    <updated>2023-05-11T09:03:46.820Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://github.com/mkobayashime/twins-announcements"/>
     <subtitle>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</subtitle>
+    <entry>
+        <title type="html"><![CDATA[筑波大学における生成系AIの使用に関する基本方針について]]></title>
+        <id>5975a8477a138f45aa2591b674eab75a</id>
+        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3953"/>
+        <updated>2023-05-11T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[筑波大学における生成系AIの使用に関する基本方針について、別添のとおり決定したので、お知らせいたします。]]></summary>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【お知らせ】令和5年石川県能登地方を震源とする地震に係る被災状況について]]></title>
         <id>b3edaadb16a5494a3f3dc4e914a685b2</id>
@@ -250,14 +257,5 @@ Program Summary 
         <summary type="html"><![CDATA[In order to support teaching and learning, we provide an eBook trial service.For the first time in 2023, KinoDen, provided by Kinokuniya Bookstore, will be available for a limited time..
 
 You can try …]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[電子ブック 全文無料試し読みサービスのご案内]]></title>
-        <id>59114dd711e55ccd1cf21878969cc796</id>
-        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3929"/>
-        <updated>2023-05-01T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[附属図書館では、教育・学習を支援するため、電子ブックの全文無料試し読みサービスを実施します。2023年度第1弾として、紀伊國屋書店が提供するKinoDenを期間限定でご利用いただけます。
-
-サービス実施期間中は、対象の電子ブックからお好きな部分を1タイトルにつき5分間、試し読みすることができます。また、リクエストを送信することもできます。閲覧回数やリクエストの多かったタイトルは、図書館で購入を検討…]]></summary>
     </entry>
 </feed>
