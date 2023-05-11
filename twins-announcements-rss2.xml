@@ -4,10 +4,22 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Wed, 10 May 2023 21:09:11 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 11 May 2023 08:08:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
+        <item>
+            <title><![CDATA[【お知らせ】令和5年石川県能登地方を震源とする地震に係る被災状況について]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3952</link>
+            <guid>b3edaadb16a5494a3f3dc4e914a685b2</guid>
+            <pubDate>Thu, 11 May 2023 03:00:00 GMT</pubDate>
+            <description><![CDATA[　ニュース等でも報道されておりますが、令和５年石川県能登地方を震源とする地震において、被災された方々には心からお見舞い申し上げます。
+　
+　災害救助法適用地域：【石川県】輪島市、珠洲市、鳳珠郡能登町
+　災害救助法適用日：令和５年５月５日
+
+　学生の皆さんで帰省先等において家屋の倒壊等、被害に遭われた方、又は友人学生が被害にあった情報がありましたら、状況把握のため被害状況等について、所属するエリア支…]]></description>
+        </item>
         <item>
             <title><![CDATA[2023/6/11 鹿島神宮ツアー]]></title>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3950</link>
@@ -249,19 +261,6 @@ You can try …]]></description>
             <description><![CDATA[附属図書館では、教育・学習を支援するため、電子ブックの全文無料試し読みサービスを実施します。2023年度第1弾として、紀伊國屋書店が提供するKinoDenを期間限定でご利用いただけます。
 
 サービス実施期間中は、対象の電子ブックからお好きな部分を1タイトルにつき5分間、試し読みすることができます。また、リクエストを送信することもできます。閲覧回数やリクエストの多かったタイトルは、図書館で購入を検討…]]></description>
-        </item>
-        <item>
-            <title><![CDATA[【BHE】公務員志望者向け　LEC筑波大生向け講座の申込みご案内]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3927</link>
-            <guid>5d9254dddcc8cab90dfd112c4a9e300d</guid>
-            <pubDate>Mon, 01 May 2023 03:00:00 GMT</pubDate>
-            <description><![CDATA[２４年度試験対策
-筑波大学生向けの公務員講座を開講します。
-
-講師：LEC東京リーガルマインド
-申込み：５月１日（月）締め切り
-５月２６日（金）より開講
-]]></description>
         </item>
     </channel>
 </rss>
