@@ -4,10 +4,26 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Thu, 11 May 2023 21:07:37 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 12 May 2023 03:04:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
+        <item>
+            <title><![CDATA[【お知らせ】無人航空機（ドローン）の飛行について]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3954</link>
+            <guid>ebf80c6b54b30f56ba2bb2e2eb4a5cd5</guid>
+            <pubDate>Fri, 12 May 2023 03:00:00 GMT</pubDate>
+            <description><![CDATA[広報局における動画制作のため、以下のとおりドローンの飛行を実施します。
+国交省が定めたマニュアルに則り、十分に安全を確保したうえで、
+専門業者により撮影しますので、ご了承願います。
+
+【日　　時】令和５年５月１５日（月）早朝～１５時
+　　　　　　※天候不良の場合、５月１７日（水）
+
+【飛行区域】筑波キャンパス内ループ道路（一部、ペデストリアンデッキ）周辺の上空
+　　　　　　（春日エリアを除く）
+　…]]></description>
+        </item>
         <item>
             <title><![CDATA[筑波大学における生成系AIの使用に関する基本方針について]]></title>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3953</link>
@@ -250,15 +266,6 @@ Program Summary 
 申込み：５月１日（月）締め切り→5月7日(日)まで延長して受付中
 ５月２６日（金）より開講
 ]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Free Ebook Trial Service (May 1-July 31)]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3930</link>
-            <guid>edc09f2090f3554777f034b66d0f64c2</guid>
-            <pubDate>Mon, 01 May 2023 03:00:00 GMT</pubDate>
-            <description><![CDATA[In order to support teaching and learning, we provide an eBook trial service.For the first time in 2023, KinoDen, provided by Kinokuniya Bookstore, will be available for a limited time..
-
-You can try …]]></description>
         </item>
     </channel>
 </rss>

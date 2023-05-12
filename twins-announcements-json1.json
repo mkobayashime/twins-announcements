@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "ebf80c6b54b30f56ba2bb2e2eb4a5cd5",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3954",
+            "title": "【お知らせ】無人航空機（ドローン）の飛行について",
+            "summary": "広報局における動画制作のため、以下のとおりドローンの飛行を実施します。\n国交省が定めたマニュアルに則り、十分に安全を確保したうえで、\n専門業者により撮影しますので、ご了承願います。\n\n【日　　時】令和５年５月１５日（月）早朝～１５時\n　　　　　　※天候不良の場合、５月１７日（水）\n\n【飛行区域】筑波キャンパス内ループ道路（一部、ペデストリアンデッキ）周辺の上空\n　　　　　　（春日エリアを除く）\n　…",
+            "date_modified": "2023-05-12T03:00:00.000Z"
+        },
+        {
             "id": "5975a8477a138f45aa2591b674eab75a",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3953",
             "title": "筑波大学における生成系AIの使用に関する基本方針について",
@@ -135,13 +142,6 @@
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3931",
             "title": "【BHE】公務員志望者向け　LEC筑波大生向け講座の申込みご案内",
             "summary": "２４年度試験対策\n筑波大学生向けの公務員講座を開講します。\n\n講師：LEC東京リーガルマインド\n申込み：５月１日（月）締め切り→5月7日(日)まで延長して受付中\n５月２６日（金）より開講\n",
-            "date_modified": "2023-05-01T03:00:00.000Z"
-        },
-        {
-            "id": "edc09f2090f3554777f034b66d0f64c2",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3930",
-            "title": "Free Ebook Trial Service (May 1-July 31)",
-            "summary": "In order to support teaching and learning, we provide an eBook trial service.For the first time in 2023, KinoDen, provided by Kinokuniya Bookstore, will be available for a limited time..\n\nYou can try …",
             "date_modified": "2023-05-01T03:00:00.000Z"
         }
     ]

@@ -2,10 +2,26 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/mkobayashime/twins-announcements</id>
     <title>在学生へのお知らせ | 筑波大学</title>
-    <updated>2023-05-11T21:07:37.432Z</updated>
+    <updated>2023-05-12T03:04:01.199Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://github.com/mkobayashime/twins-announcements"/>
     <subtitle>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</subtitle>
+    <entry>
+        <title type="html"><![CDATA[【お知らせ】無人航空機（ドローン）の飛行について]]></title>
+        <id>ebf80c6b54b30f56ba2bb2e2eb4a5cd5</id>
+        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3954"/>
+        <updated>2023-05-12T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[広報局における動画制作のため、以下のとおりドローンの飛行を実施します。
+国交省が定めたマニュアルに則り、十分に安全を確保したうえで、
+専門業者により撮影しますので、ご了承願います。
+
+【日　　時】令和５年５月１５日（月）早朝～１５時
+　　　　　　※天候不良の場合、５月１７日（水）
+
+【飛行区域】筑波キャンパス内ループ道路（一部、ペデストリアンデッキ）周辺の上空
+　　　　　　（春日エリアを除く）
+　…]]></summary>
+    </entry>
     <entry>
         <title type="html"><![CDATA[筑波大学における生成系AIの使用に関する基本方針について]]></title>
         <id>5975a8477a138f45aa2591b674eab75a</id>
@@ -248,14 +264,5 @@ Program Summary 
 申込み：５月１日（月）締め切り→5月7日(日)まで延長して受付中
 ５月２６日（金）より開講
 ]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Free Ebook Trial Service (May 1-July 31)]]></title>
-        <id>edc09f2090f3554777f034b66d0f64c2</id>
-        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3930"/>
-        <updated>2023-05-01T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[In order to support teaching and learning, we provide an eBook trial service.For the first time in 2023, KinoDen, provided by Kinokuniya Bookstore, will be available for a limited time..
-
-You can try …]]></summary>
     </entry>
 </feed>
