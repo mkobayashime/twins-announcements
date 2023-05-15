@@ -4,10 +4,33 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Mon, 15 May 2023 02:34:20 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 15 May 2023 03:04:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
+        <item>
+            <title><![CDATA[【BHE就活支援】空き枠あり‼　5月19日 就活実践練習　チャレンジ実践会　]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3965</link>
+            <guid>219871308de821a1c661904a0f3ac9fe</guid>
+            <pubDate>Mon, 15 May 2023 03:00:00 GMT</pubDate>
+            <description><![CDATA[5月19日（金）
+ES編・面接編・ＧＤ編それぞれ少人数の実践講座です。
+各回BHEキャリア支援チームのファシリテーターからフィードバックがあります。
+就活中の方、これからISに参加する方にお勧めの講座です。
+
+BHE　HPの「イベントコンテンツ（動画・資料）」→「就職情報」
+から申し込んでください。（内容毎に異なります）
+※ログイン方法
+ユーザー名：学籍番号　PW:統一認証PW（TWINSと同じ）…]]></description>
+        </item>
+        <item>
+            <title><![CDATA[開催のお知らせ：T-ACT Welcome Fest 2023 ―つくばアクションプロジェクト新入生歓迎会・活動報告会― 【6/14(水) 18:00～20:00】]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3964</link>
+            <guid>75158af4dd0441712b951dc45e9af9d0</guid>
+            <pubDate>Mon, 15 May 2023 03:00:00 GMT</pubDate>
+            <description><![CDATA[　つくばアクションプロジェクト（T-ACT） で実際に企画して活動した大学生や教職員の話を聞いて、話して、あなたの「やってみたい」をみつけてみませんか。
+　2023年度のT-ACT活動報告会は3年ぶりの対面開催となります！新入生歓迎の意味合いも込め 「T-ACT Welcome Fest 2023」 と題し、本学の新入生、教職員はもちろん、全国の筑波大学に興味のある中学生、高校生、大学生、地域のみ…]]></description>
+        </item>
         <item>
             <title><![CDATA[【5/17 Library Workshop】Library Database vs. Google Scholar]]></title>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3963</link>
@@ -239,27 +262,6 @@ BHE　HPの「イベントコンテンツ（動画・資料）」→「就職情
 開催日：火曜日 & 木曜日 (5月~7月)
 時　間：15:15～16:30（この時間内でしたら、出入り自由です！）
 日程は下記ウェブサイトよりご確認ください。]]></description>
-        </item>
-        <item>
-            <title><![CDATA[【エジプト日本科学技術大学主催】Summer Program 2023のお知らせ]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3942</link>
-            <guid>3082cbd13a1928019c8823e671b44eb0</guid>
-            <pubDate>Mon, 08 May 2023 03:00:00 GMT</pubDate>
-            <description><![CDATA[エジプト日本科学技術大学（E-JUST）よりSummer Program 2023お知らせです。
-
-Summer Program at E-JUST:
-・The summer program at E-JUST is an opportunity to welcome international students at E-JUST to experience the Middle Eastern…]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Hanyang International Summer School]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3940</link>
-            <guid>5f31e7a473054f3176c0845d52fb49d4</guid>
-            <pubDate>Mon, 08 May 2023 03:00:00 GMT</pubDate>
-            <description><![CDATA[漢陽大学校よりHanyang International Summer School（HISS）のお知らせです。関心のある方はウェブサイトより詳細をよく確認し、各自でお申し込みください。質問や疑問点は直接、主催者へお願いします。
-
-Program Summary 
-・Program Period: July 3 – July 28, 2023 
-・Application period: Janua…]]></description>
         </item>
     </channel>
 </rss>

@@ -5,6 +5,20 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "219871308de821a1c661904a0f3ac9fe",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3965",
+            "title": "【BHE就活支援】空き枠あり‼　5月19日 就活実践練習　チャレンジ実践会　",
+            "summary": "5月19日（金）\nES編・面接編・ＧＤ編それぞれ少人数の実践講座です。\n各回BHEキャリア支援チームのファシリテーターからフィードバックがあります。\n就活中の方、これからISに参加する方にお勧めの講座です。\n\nBHE　HPの「イベントコンテンツ（動画・資料）」→「就職情報」\nから申し込んでください。（内容毎に異なります）\n※ログイン方法\nユーザー名：学籍番号　PW:統一認証PW（TWINSと同じ）…",
+            "date_modified": "2023-05-15T03:00:00.000Z"
+        },
+        {
+            "id": "75158af4dd0441712b951dc45e9af9d0",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3964",
+            "title": "開催のお知らせ：T-ACT Welcome Fest 2023 ―つくばアクションプロジェクト新入生歓迎会・活動報告会― 【6/14(水) 18:00～20:00】",
+            "summary": "　つくばアクションプロジェクト（T-ACT） で実際に企画して活動した大学生や教職員の話を聞いて、話して、あなたの「やってみたい」をみつけてみませんか。\n　2023年度のT-ACT活動報告会は3年ぶりの対面開催となります！新入生歓迎の意味合いも込め 「T-ACT Welcome Fest 2023」 と題し、本学の新入生、教職員はもちろん、全国の筑波大学に興味のある中学生、高校生、大学生、地域のみ…",
+            "date_modified": "2023-05-15T03:00:00.000Z"
+        },
+        {
             "id": "6b124b017e587c9ec94bd098b13d7b66",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3963",
             "title": "【5/17 Library Workshop】Library Database vs. Google Scholar",
@@ -128,20 +142,6 @@
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3943",
             "title": "明日よりスタート【English-Chat】英語チャットイベント",
             "summary": "国際交流をしたい！\n留学生の友達を作りたい！\n英語を練習したい！\n→などに当てはまるあなた、大変おススメです☆\n\n少人数グループに分かれて、英語で会話をします！英語初心者も歓迎です！\n単発での参加、途中参加も大歓迎です！\n\n開催日：火曜日 & 木曜日 (5月~7月)\n時　間：15:15～16:30（この時間内でしたら、出入り自由です！）\n日程は下記ウェブサイトよりご確認ください。",
-            "date_modified": "2023-05-08T03:00:00.000Z"
-        },
-        {
-            "id": "3082cbd13a1928019c8823e671b44eb0",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3942",
-            "title": "【エジプト日本科学技術大学主催】Summer Program 2023のお知らせ",
-            "summary": "エジプト日本科学技術大学（E-JUST）よりSummer Program 2023お知らせです。\n\nSummer Program at E-JUST:\n・The summer program at E-JUST is an opportunity to welcome international students at E-JUST to experience the Middle Eastern…",
-            "date_modified": "2023-05-08T03:00:00.000Z"
-        },
-        {
-            "id": "5f31e7a473054f3176c0845d52fb49d4",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3940",
-            "title": "Hanyang International Summer School",
-            "summary": "漢陽大学校よりHanyang International Summer School（HISS）のお知らせです。関心のある方はウェブサイトより詳細をよく確認し、各自でお申し込みください。質問や疑問点は直接、主催者へお願いします。\n\nProgram Summary \n・Program Period: July 3 – July 28, 2023 \n・Application period: Janua…",
             "date_modified": "2023-05-08T03:00:00.000Z"
         }
     ]
