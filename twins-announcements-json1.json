@@ -5,6 +5,27 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "6b124b017e587c9ec94bd098b13d7b66",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3963",
+            "title": "【5/17 Library Workshop】Library Database vs. Google Scholar",
+            "summary": "In the library, we will hold Library Workshop\n\"Library Database vs. Google Scholar\".\n\nDate：May 17th (Wed.)\n　　　15:15  -  16:30 【in Japanese】\n　　　16:45  -  18:00 【in English】\n\nHolding Method ： Online(Cis…",
+            "date_modified": "2023-05-15T03:00:00.000Z"
+        },
+        {
+            "id": "449945152f4c7fa25d918fc5ffacdca8",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3962",
+            "title": "就活における注意喚起",
+            "summary": "株式会社電通　新卒採用担当者様より以下注意喚起がありました。株式会社電通では下記のような形での連絡や採用方法はおこなっていないとご連絡を頂いておりますので、学生の皆様は十分ご注意ください。\n\n【特徴】\n・ここ数週間において弊社採用担当者を名乗り、学生（特に女性）への虚偽の内容の悪質なアプローチが数件続いている\n・非通知電話\n・電通の採用担当を名乗る　＊「カトウ」を名乗る案件が続いている\n・ゼミの先…",
+            "date_modified": "2023-05-15T03:00:00.000Z"
+        },
+        {
+            "id": "7bf5fa75a7502fa266c5822494842659",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3961",
+            "title": "【5/17開催 図書館講習会】図書館データベース vs. Google Scholar",
+            "summary": "図書館講習会「図書館データベース vs. Google Scholar」を開催します。\n\n日時：5月17日(水)\n　　　15:15-16:30【日本語】\n　　　16:45-18:00【英語】\n\n開催方法：オンライン(Cisco Webex)\n\n論文を探すとき、どのようなツールを使っていますか？\nGoogle Scholar でしょうか？\n他にも様々な論文データベースがあることをご存じですか？\n\nこ…",
+            "date_modified": "2023-05-15T03:00:00.000Z"
+        },
+        {
             "id": "d2a458184ae85abc9973d786aeb5b5f2",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3960",
             "title": "（再掲）【参加者募集 ！ 】 博士のポートフォリオ大公開 + ロールモデル懇談会 2023/5/01",
@@ -122,27 +143,6 @@
             "title": "Hanyang International Summer School",
             "summary": "漢陽大学校よりHanyang International Summer School（HISS）のお知らせです。関心のある方はウェブサイトより詳細をよく確認し、各自でお申し込みください。質問や疑問点は直接、主催者へお願いします。\n\nProgram Summary \n・Program Period: July 3 – July 28, 2023 \n・Application period: Janua…",
             "date_modified": "2023-05-08T03:00:00.000Z"
-        },
-        {
-            "id": "d295eba82dea2ccb7e521cb1fa6a8edf",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3938",
-            "title": "【再掲】【5/23-24開催】筑波大学キャリアフェア　申込受付中！",
-            "summary": "2024年3月卒業・修了予定の方を対象とした、筑波大学キャリアフェアを\n対面で開催いたします。　\n「就職先の選定に戸惑っている」\n「就職活動を続けている」\n「新たに企業との接点を求めている」\nそんな就活継続中の方、これから就職を考えている方は、ぜひご参加ください！\n\n・・・・・・・・・・・・・・・・・・・・・・・・・・\n\n【 ➁ 対面開催 】\n日時：5月23（火），24日（水）\n会場：大学会館\n申…",
-            "date_modified": "2023-05-02T03:00:00.000Z"
-        },
-        {
-            "id": "304de377a721228c145ed2a370d48d8c",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3937",
-            "title": "【BHE】申込み受付延長　公務員志望者向け　LEC筑波大生向け講座の申込みご案内",
-            "summary": "２４年度試験対策\n筑波大学生向けの公務員講座を開講します。\n\n講師：LEC東京リーガルマインド\n申込み：５月7日(日)まで延長して受付中\n５月２６日（金）より開講\n",
-            "date_modified": "2023-05-02T03:00:00.000Z"
-        },
-        {
-            "id": "b2efbd91075d94e9b3718d664726dc6a",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3936",
-            "title": "令和5年度 茗渓会学生活動支援事業について",
-            "summary": "茗渓会による学生活動支援事業の実施について、お知らせします。\nくわしくは添付の事業要項をご確認ください。\n申請を希望する団体は、申請書と構成員名簿をご提出ください。\n\n申請期限：5月31日（水）まで\n申請窓口：学生生活課 課外活動支援係（1D棟3階）",
-            "date_modified": "2023-05-02T03:00:00.000Z"
         }
     ]
 }
