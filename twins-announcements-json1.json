@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "56aecc78a1ee83477002439d503e8191",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3969",
+            "title": "【公開中】 就活&インターンシップガイダンスQ&A",
+            "summary": "4月19日開催した就活＆インターンシップガイダンスにて学生の皆様の質問に対する回答集を準備いたしました。インターンシップ参加の仕方、院進や公務員との併願、自己分析・業界研究についてやビジネスマナーにいたるまで、今後の活動にむけて参考になると思いますのでご確認ください。またガイダンスの動画もBHEWebにて配信していますので、見逃した方はご視聴ください。\n\n＊業界研究に活用できる冊子「業界地図」を無…",
+            "date_modified": "2023-05-15T03:00:00.000Z"
+        },
+        {
             "id": "dac546d1b37b15808a10bb1535ac3f8a",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3968",
             "title": "就活における注意喚起　",
@@ -133,13 +140,6 @@
         {
             "id": "ca3440e6e638549bb30090c77657ab8e",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3948",
-            "title": "TOMORROW Face-to-face Japanese chat!",
-            "summary": "Japanese Practice Program for all levels: Japanese-Chat\nIf you are looking for an opportunity to practice Japanese, this program is for you!\nThis is a face-to-face program where you can talk in Japane…",
-            "date_modified": "2023-05-09T03:00:00.000Z"
-        },
-        {
-            "id": "ca3440e6e638549bb30090c77657ab8e",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3947",
             "title": "TOMORROW Face-to-face Japanese chat!",
             "summary": "Japanese Practice Program for all levels: Japanese-Chat\nIf you are looking for an opportunity to practice Japanese, this program is for you!\nThis is a face-to-face program where you can talk in Japane…",
             "date_modified": "2023-05-09T03:00:00.000Z"
