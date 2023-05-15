@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/mkobayashime/twins-announcements</id>
     <title>在学生へのお知らせ | 筑波大学</title>
-    <updated>2023-05-15T05:03:39.123Z</updated>
+    <updated>2023-05-15T06:08:55.781Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://github.com/mkobayashime/twins-announcements"/>
     <subtitle>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</subtitle>
+    <entry>
+        <title type="html"><![CDATA[English Conversation Partners Wanted]]></title>
+        <id>c55376c59be39122f05b2a674c1cfbe8</id>
+        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3967"/>
+        <updated>2023-05-15T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Global Commons is now hiring international students for our English Conversation Partners Program
+(1000 yen per hour/maximum 10 hours)
+
+Job Discription:
+● Understand the needs and provide English spea…]]></summary>
+    </entry>
     <entry>
         <title type="html"><![CDATA[第9回OB・OGキャリアカフェ]]></title>
         <id>54be602676a832cc847e4afa80a1c2c2</id>
@@ -247,20 +258,5 @@ This is a face-to-face program where you can talk in Japane…]]></summary>
         <summary type="html"><![CDATA[Japanese Practice Program for all levels: Japanese-Chat
 If you are looking for an opportunity to practice Japanese, this program is for you!
 This is a face-to-face program where you can talk in Japane…]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【BHE就活支援】5月19日 就活実践練習　チャレンジ実践会　]]></title>
-        <id>c6b2f7710fd5997f65bf32dbb090d6cd</id>
-        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3944"/>
-        <updated>2023-05-08T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[5月19日（金）
-ES編・面接編・ＧＤ編それぞれ少人数の実践講座です。
-各回BHEキャリア支援チームのファシリテーターからフィードバックがあります。
-就活中の方、これからISに参加する方にお勧めの講座です。
-
-BHE　HPの「イベントコンテンツ（動画・資料）」→「就職情報」
-から申し込んでください。（内容毎に異なります）
-※ログイン方法
-ユーザー名：学籍番号　PW:統一認証PW（TWINSと同じ）…]]></summary>
     </entry>
 </feed>
