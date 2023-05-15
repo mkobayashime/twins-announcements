@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "dac546d1b37b15808a10bb1535ac3f8a",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3968",
+            "title": "就活における注意喚起　",
+            "summary": "株式会社電通　新卒採用担当者様より以下注意喚起がありました。株式会社電通では下記のような形での連絡や採用方法はおこなっていないとご連絡を頂いておりますので、学生の皆様は十分ご注意ください。\n\n【特徴】\n・ここ数週間において弊社採用担当者を名乗り、学生（特に女性）への虚偽の内容の悪質なアプローチが数件続いている\n・非通知電話\n・電通の採用担当を名乗る　＊「カトウ」を名乗る案件が続いている\n・ゼミの先…",
+            "date_modified": "2023-05-15T03:00:00.000Z"
+        },
+        {
             "id": "c55376c59be39122f05b2a674c1cfbe8",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3967",
             "title": "English Conversation Partners Wanted",
@@ -37,13 +44,6 @@
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3963",
             "title": "【5/17 Library Workshop】Library Database vs. Google Scholar",
             "summary": "In the library, we will hold Library Workshop\n\"Library Database vs. Google Scholar\".\n\nDate：May 17th (Wed.)\n　　　15:15  -  16:30 【in Japanese】\n　　　16:45  -  18:00 【in English】\n\nHolding Method ： Online(Cis…",
-            "date_modified": "2023-05-15T03:00:00.000Z"
-        },
-        {
-            "id": "449945152f4c7fa25d918fc5ffacdca8",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3962",
-            "title": "就活における注意喚起",
-            "summary": "株式会社電通　新卒採用担当者様より以下注意喚起がありました。株式会社電通では下記のような形での連絡や採用方法はおこなっていないとご連絡を頂いておりますので、学生の皆様は十分ご注意ください。\n\n【特徴】\n・ここ数週間において弊社採用担当者を名乗り、学生（特に女性）への虚偽の内容の悪質なアプローチが数件続いている\n・非通知電話\n・電通の採用担当を名乗る　＊「カトウ」を名乗る案件が続いている\n・ゼミの先…",
             "date_modified": "2023-05-15T03:00:00.000Z"
         },
         {
