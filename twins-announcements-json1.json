@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "d2a458184ae85abc9973d786aeb5b5f2",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3960",
+            "title": "（再掲）【参加者募集 ！ 】 博士のポートフォリオ大公開 + ロールモデル懇談会 2023/5/01",
+            "summary": "博士号をお持ちの研究者の方に、博士のあれこれをお伺いします！\n博士課程に進学したきっかけは？博士時代に出くわした悩みとその解決方法は？\nこの機会に「博士」について気になることを色々聞いてみてください。\nまた、ゲストの方に作成いただいたポートフォリオも学内限定で公開しています。こちらも併せてご覧いただきながら、奮ってご参加ください！\n\n＜イベント概要＞\n日時：2023年5月18日（木）　16：00～…",
+            "date_modified": "2023-05-15T03:00:00.000Z"
+        },
+        {
             "id": "0a323eb9b0a6f2cf073f4117eaaadf13",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3959",
             "title": "【開催案内】第11回筑波大学ｵｰﾌﾟﾝﾌｧｼﾘﾃｨｰ研究機器共同利用説明会(6/8@ｵﾝﾗｲﾝ)",
@@ -135,13 +142,6 @@
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3936",
             "title": "令和5年度 茗渓会学生活動支援事業について",
             "summary": "茗渓会による学生活動支援事業の実施について、お知らせします。\nくわしくは添付の事業要項をご確認ください。\n申請を希望する団体は、申請書と構成員名簿をご提出ください。\n\n申請期限：5月31日（水）まで\n申請窓口：学生生活課 課外活動支援係（1D棟3階）",
-            "date_modified": "2023-05-02T03:00:00.000Z"
-        },
-        {
-            "id": "48fcceefa572bff0ae502bd999ba22d6",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3935",
-            "title": "【手話コミュニケーションⅠ】5/31募集締め切り後に抽選を行います",
-            "summary": "手話コミュニケーションⅠの受け入れに際して、\n5/31の募集締め切り後に抽選を行います。\n\n抽選に際しては優遇条件を設定しないので、\n受講生の皆様からランダムで選びます(現状での倍率：4.7)。\n\nまた、手話コミュニケーションⅡは手話コミュニケーションⅠの履修が前提となります。\nこのため抽選で外れると、手話コミュニケーションⅠもⅡも履修できません。\n\n今年度中に確実に単位を取得したい場合は、他の授…",
             "date_modified": "2023-05-02T03:00:00.000Z"
         }
     ]
