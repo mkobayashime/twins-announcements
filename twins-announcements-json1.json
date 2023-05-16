@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "432adda502e4faca4245a8907586a6d8",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3971",
+            "title": "【今週日曜日開催】City Chat Cafe (英会話イベント)",
+            "summary": "City Chat Cafeで気軽に英語を練習しよう！\n様々な文化背景を持つ人々が出合い、おしゃべりを楽しむ国際交流イベントです。\n筑波大学の留学生と自己紹介や母国の紹介など自由な話題で気軽に英語や日本で会話を楽しめます。\n学外の参加者と交流できるチャンスです。是非参加お待ちします!\n\n日時：\n5月21日（日）\n前半13:30-14:30\n後半14:45-15:45\n\n場所：Global Vill…",
+            "date_modified": "2023-05-16T03:00:00.000Z"
+        },
+        {
             "id": "a5505320bdf448444496f37fe96ca231",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3970",
             "title": "【本日15:15~】English-Chat (英語おしゃべりイベント)",
@@ -136,13 +143,6 @@
             "title": "2023/6/11 鹿島神宮ツアー",
             "summary": "スポーツ・オリンピック学学位プログラム(TIAS2.0)\nでは6月11日（日）に鹿島神宮の「武道の日」を見学するスタディツアーを開催します。\n\n留学生との交流に関心のある学生、スポーツ・オリンピック学学位プログラム進学に\n関心のある学生を募集します。\n\n開催日：6/11（日）\n鹿島神宮：古武道奉納演武大会「武道の日」見学\n　　　　＋\n香取神宮：香取神宮にゆかりのある剣豪の墓所見学など\n\n日程（変更…",
             "date_modified": "2023-05-10T03:00:00.000Z"
-        },
-        {
-            "id": "fb1a4286c44975d70f0558026f82a394",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3949",
-            "title": "【明日開催】国際交流イベント 「Campur（ちゃんぷーる）」",
-            "summary": "タイ、マレーシア、フィリピン、インドネシア、ラテンアメリカ、ウクライナなどの出身の留学生が、それぞれの国の文化を紹介します！\n留学生と友達になりたい方、海外に興味のある方、留学を考えてる方、沢山の学生と交流ができるイベントです。\n皆様、ぜひお気軽にご参加ください！\n\n◆イベントスケジュール（変更になる場合があります）\n令和5年\n初回： 　5月10日（水）（日本）\n第2回：　5月17日（水）（インド…",
-            "date_modified": "2023-05-09T03:00:00.000Z"
         }
     ]
 }
