@@ -4,10 +4,20 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Tue, 16 May 2023 07:03:11 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 16 May 2023 08:08:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
+        <item>
+            <title><![CDATA[6/1開催！“未来は僕らの手の中に～社会課題を「事業」で突破する～”講演]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3974</link>
+            <guid>bc14789892b02488b920f38ee7d03584</guid>
+            <pubDate>Tue, 16 May 2023 03:00:00 GMT</pubDate>
+            <description><![CDATA[株式会社 JEPLAN　取締役　執行役員会長 岩元美智彦氏をお招きし、次世代の起業家にとって必要なマインドを教授いただきます。
+本講演は、学士基盤科目「次世代起業家養成講座」第2回授業内で実施します。本学の学生及び教職員の方であれば授業の履修有無に限らず参加が可能ですので、起業や事業立ち上げにご興味のある方はぜひお申込みください！
+
+■講演者　：株式会社 JEPLAN　取締役　執行役員会長　岩元美…]]></description>
+        </item>
         <item>
             <title><![CDATA[2023年度「海外英語研修I-a」（3単位、オンライン）参加者募集]]></title>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3973</link>
@@ -256,13 +266,6 @@ https://forms.gle/dBwZKL5WaoifPqcLA
 【飛行区域】筑波キャンパス内ループ道路（一部、ペデストリアンデッキ）周辺の上空
 　　　　　　（春日エリアを除く）
 　…]]></description>
-        </item>
-        <item>
-            <title><![CDATA[筑波大学における生成系AIの使用に関する基本方針について]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3953</link>
-            <guid>5975a8477a138f45aa2591b674eab75a</guid>
-            <pubDate>Thu, 11 May 2023 03:00:00 GMT</pubDate>
-            <description><![CDATA[筑波大学における生成系AIの使用に関する基本方針について、別添のとおり決定したので、お知らせいたします。]]></description>
         </item>
     </channel>
 </rss>

@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/mkobayashime/twins-announcements</id>
     <title>在学生へのお知らせ | 筑波大学</title>
-    <updated>2023-05-16T07:03:11.544Z</updated>
+    <updated>2023-05-16T08:08:31.109Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://github.com/mkobayashime/twins-announcements"/>
     <subtitle>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</subtitle>
+    <entry>
+        <title type="html"><![CDATA[6/1開催！“未来は僕らの手の中に～社会課題を「事業」で突破する～”講演]]></title>
+        <id>bc14789892b02488b920f38ee7d03584</id>
+        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3974"/>
+        <updated>2023-05-16T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[株式会社 JEPLAN　取締役　執行役員会長 岩元美智彦氏をお招きし、次世代の起業家にとって必要なマインドを教授いただきます。
+本講演は、学士基盤科目「次世代起業家養成講座」第2回授業内で実施します。本学の学生及び教職員の方であれば授業の履修有無に限らず参加が可能ですので、起業や事業立ち上げにご興味のある方はぜひお申込みください！
+
+■講演者　：株式会社 JEPLAN　取締役　執行役員会長　岩元美…]]></summary>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2023年度「海外英語研修I-a」（3単位、オンライン）参加者募集]]></title>
         <id>c12dca2d7d00f316bba14b021203a137</id>
@@ -254,12 +264,5 @@ https://forms.gle/dBwZKL5WaoifPqcLA
 【飛行区域】筑波キャンパス内ループ道路（一部、ペデストリアンデッキ）周辺の上空
 　　　　　　（春日エリアを除く）
 　…]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[筑波大学における生成系AIの使用に関する基本方針について]]></title>
-        <id>5975a8477a138f45aa2591b674eab75a</id>
-        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3953"/>
-        <updated>2023-05-11T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[筑波大学における生成系AIの使用に関する基本方針について、別添のとおり決定したので、お知らせいたします。]]></summary>
     </entry>
 </feed>

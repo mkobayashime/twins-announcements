@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "bc14789892b02488b920f38ee7d03584",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3974",
+            "title": "6/1開催！“未来は僕らの手の中に～社会課題を「事業」で突破する～”講演",
+            "summary": "株式会社 JEPLAN　取締役　執行役員会長 岩元美智彦氏をお招きし、次世代の起業家にとって必要なマインドを教授いただきます。\n本講演は、学士基盤科目「次世代起業家養成講座」第2回授業内で実施します。本学の学生及び教職員の方であれば授業の履修有無に限らず参加が可能ですので、起業や事業立ち上げにご興味のある方はぜひお申込みください！\n\n■講演者　：株式会社 JEPLAN　取締役　執行役員会長　岩元美…",
+            "date_modified": "2023-05-16T03:00:00.000Z"
+        },
+        {
             "id": "c12dca2d7d00f316bba14b021203a137",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3973",
             "title": "2023年度「海外英語研修I-a」（3単位、オンライン）参加者募集",
@@ -136,13 +143,6 @@
             "title": "【お知らせ】無人航空機（ドローン）の飛行について",
             "summary": "広報局における動画制作のため、以下のとおりドローンの飛行を実施します。\n国交省が定めたマニュアルに則り、十分に安全を確保したうえで、\n専門業者により撮影しますので、ご了承願います。\n\n【日　　時】令和５年５月１５日（月）早朝～１５時\n　　　　　　※天候不良の場合、５月１７日（水）\n\n【飛行区域】筑波キャンパス内ループ道路（一部、ペデストリアンデッキ）周辺の上空\n　　　　　　（春日エリアを除く）\n　…",
             "date_modified": "2023-05-12T03:00:00.000Z"
-        },
-        {
-            "id": "5975a8477a138f45aa2591b674eab75a",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3953",
-            "title": "筑波大学における生成系AIの使用に関する基本方針について",
-            "summary": "筑波大学における生成系AIの使用に関する基本方針について、別添のとおり決定したので、お知らせいたします。",
-            "date_modified": "2023-05-11T03:00:00.000Z"
         }
     ]
 }
