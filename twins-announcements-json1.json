@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "1c73dff16fa54bb87d34886578601a35",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3979",
+            "title": "【再再掲】【5/23-24開催】筑波大学キャリアフェア　5/19申込〆切！",
+            "summary": "2024年3月卒業・修了予定の方を対象とした、筑波大学キャリアフェアを\n対面で開催いたします。　\n「就職先の選定に戸惑っている」\n「就職活動を続けている」\n「新たに企業との接点を求めている」\nそんな就活継続中の方、これから就職を考えている方は、ぜひご参加ください！\n\n・・・・・・・・・・・・・・・・・・・・・・・・・・\n\n【 ➁ 対面開催 】\n日時：5月23（火），24日（水）\n会場：大学会館\n申…",
+            "date_modified": "2023-05-17T03:00:00.000Z"
+        },
+        {
             "id": "4e66d35d282ddd6c6137475a800cd77e",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3978",
             "title": "【再掲】2023/6/11 鹿島神宮ツアー",
@@ -135,13 +142,6 @@
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3956",
             "title": "【BHE就活支援】空き枠あり‼　5月19日 就活実践練習　チャレンジ実践会　",
             "summary": "5月19日（金）\nES編・面接編・ＧＤ編それぞれ少人数の実践講座です。\n各回BHEキャリア支援チームのファシリテーターからフィードバックがあります。\n就活中の方、これからISに参加する方にお勧めの講座です。\n\nBHE　HPの「イベントコンテンツ（動画・資料）」→「就職情報」\nから申し込んでください。（内容毎に異なります）\n※ログイン方法\nユーザー名：学籍番号　PW:統一認証PW（TWINSと同じ）…",
-            "date_modified": "2023-05-12T03:00:00.000Z"
-        },
-        {
-            "id": "717d3ec67118cf5454577df716685cd0",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3955",
-            "title": "【学生券追加】葵トリオ―３人で奏でるシンフォニー　第13回つくばリサイタルシリーズ",
-            "summary": "おかげ様で第13回つくばリサイタルは満席をいただきましたが、招待券やクラウドファンディングなどで余った分を回して、10席程度、学生席を増席することになりした。ご希望される方は以下のフォームよりお申込みください。申し込みは一人一枚とします。後ほど、入力されたメール宛てに電子チケットを送付します。\n\nhttps://forms.gle/dBwZKL5WaoifPqcLA\n\n\n【開催概要】\n　筑波大学有…",
             "date_modified": "2023-05-12T03:00:00.000Z"
         }
     ]
