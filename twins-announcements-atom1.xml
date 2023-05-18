@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/mkobayashime/twins-announcements</id>
     <title>在学生へのお知らせ | 筑波大学</title>
-    <updated>2023-05-17T21:07:32.812Z</updated>
+    <updated>2023-05-18T03:04:26.359Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://github.com/mkobayashime/twins-announcements"/>
     <subtitle>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</subtitle>
+    <entry>
+        <title type="html"><![CDATA[【開催案内】学生の皆さんが安心して化学実験を行うための研修会]]></title>
+        <id>954bb9c59a539b57e7c84eb700321790</id>
+        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3980"/>
+        <updated>2023-05-18T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[実験に携わる学群・大学院生向けに、化学物質の危険性や有害性を伝え、事件事故や健康障害を引き起こすリスクを減らすことを目的に、研修会を開催いたします。是非ご参加ください。
+（例年実施している「学生のための実験廃棄物管理研修会」から名称を変更しました。）
+なお、昨年度に引き続きオンデマンドでも開催いたします。
+事前申し込みは不要です。
+
+<開催日時および場所>
+日時：令和５年６月１２日（月）１５時１５…]]></summary>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【再再掲】【5/23-24開催】筑波大学キャリアフェア　5/19申込〆切！]]></title>
         <id>1c73dff16fa54bb87d34886578601a35</id>
@@ -247,12 +260,5 @@ https://forms.gle/dBwZKL5WaoifPqcLA
 
 【開催概要】
 　筑波大学有…]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[筑波大学における生成系AIの使用に関する基本方針について]]></title>
-        <id>5975a8477a138f45aa2591b674eab75a</id>
-        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3953"/>
-        <updated>2023-05-11T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[筑波大学における生成系AIの使用に関する基本方針について、別添のとおり決定したので、お知らせいたします。]]></summary>
     </entry>
 </feed>
