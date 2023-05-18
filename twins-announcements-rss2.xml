@@ -4,10 +4,25 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Thu, 18 May 2023 09:08:34 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 18 May 2023 10:03:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
+        <item>
+            <title><![CDATA[明日スタート【French-Chat】フランス語チャットイベント]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3983</link>
+            <guid>a61a9edc25a47a3a5b41198c98c9e080</guid>
+            <pubDate>Thu, 18 May 2023 03:00:00 GMT</pubDate>
+            <description><![CDATA[少人数グループに分かれて、フランス語で会話をします！初心者も歓迎です！
+単発での参加、途中参加も大歓迎です！
+
+開催日：金曜日 (5月~7月)
+時　間：15:15～16:30（この時間内でしたら、出入り自由です！）
+*5月26日以降は、【Spanish-Chat】と同時開催となります
+日　程： 5月19日、26日
+6月2日、9日、16日、23日（6月30日はお休みです）
+7月7日、14日、21日、…]]></description>
+        </item>
         <item>
             <title><![CDATA[2023年度「学研災付帯 海外留学保険（付帯海学）」の申し込みに際して]]></title>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3982</link>
@@ -243,21 +258,6 @@ BHE　HPの「イベントコンテンツ（動画・資料）」→「就職情
 令和２年11月１日から、本学の安否確認システムは、「筑波大学安否確認システム（ANPIC)」（以下、ANPICという。）による運用を開始いたしました。
 
 ANPICでは、大地震などの大規模災害発生時や、防災訓練において、ANPICから学生・教職員のメールアドレス等に安否確認メールを配信します。安否確認メールを受信したら、身の安全を確保…]]></description>
-        </item>
-        <item>
-            <title><![CDATA[【BHE就活支援】空き枠あり‼　5月19日 就活実践練習　チャレンジ実践会　]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3956</link>
-            <guid>219871308de821a1c661904a0f3ac9fe</guid>
-            <pubDate>Fri, 12 May 2023 03:00:00 GMT</pubDate>
-            <description><![CDATA[5月19日（金）
-ES編・面接編・ＧＤ編それぞれ少人数の実践講座です。
-各回BHEキャリア支援チームのファシリテーターからフィードバックがあります。
-就活中の方、これからISに参加する方にお勧めの講座です。
-
-BHE　HPの「イベントコンテンツ（動画・資料）」→「就職情報」
-から申し込んでください。（内容毎に異なります）
-※ログイン方法
-ユーザー名：学籍番号　PW:統一認証PW（TWINSと同じ）…]]></description>
         </item>
     </channel>
 </rss>
