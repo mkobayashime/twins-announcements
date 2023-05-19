@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "057e25f4b6846a341e9b4da984257d94",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3984",
+            "title": "Notice:Basic Policy on the Use of Generative AI at the University of Tsukuba",
+            "summary": "We would like to inform you that the \"Basic Policy on the Use of Generative AI at the University of Tsukuba\" has been decided as shown in the attachment.",
+            "date_modified": "2023-05-19T03:00:00.000Z"
+        },
+        {
             "id": "a61a9edc25a47a3a5b41198c98c9e080",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3983",
             "title": "明日スタート【French-Chat】フランス語チャットイベント",
@@ -136,13 +143,6 @@
             "title": "【学生券追加】葵トリオ―３人で奏でるシンフォニー　第13回つくばリサイタルシリーズ",
             "summary": "おかげ様で第13回つくばリサイタルは満席をいただきましたが、招待券やクラウドファンディングなどで余った分を回して、10席程度、学生席を増席することになりした。ご希望される方は以下のフォームよりお申込みください。申し込みは一人一枚とします。後ほど、入力されたメール宛てに電子チケットを送付します。\n\nhttps://forms.gle/dBwZKL5WaoifPqcLA\n\n\n【開催概要】\n　筑波大学有…",
             "date_modified": "2023-05-12T03:00:00.000Z"
-        },
-        {
-            "id": "5975a8477a138f45aa2591b674eab75a",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3953",
-            "title": "筑波大学における生成系AIの使用に関する基本方針について",
-            "summary": "筑波大学における生成系AIの使用に関する基本方針について、別添のとおり決定したので、お知らせいたします。",
-            "date_modified": "2023-05-11T03:00:00.000Z"
         }
     ]
 }
