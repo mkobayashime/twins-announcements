@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "954bb9c59a539b57e7c84eb700321790",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3985",
+            "title": "【開催案内】学生の皆さんが安心して化学実験を行うための研修会",
+            "summary": "実験に携わる学群・大学院生向けに、化学物質の危険性や有害性を伝え、事件事故や健康障害を引き起こすリスクを減らすことを目的に、研修会を開催いたします。是非ご参加ください。\n（例年実施している「学生のための実験廃棄物管理研修会」から名称を変更しました。）\nなお、昨年度に引き続きオンデマンドでも開催いたします。\n当日は日本語のみですが、後日のオンデマンドで英語字幕をつけます。\n事前申し込みは不要です。\n…",
+            "date_modified": "2023-05-19T03:00:00.000Z"
+        },
+        {
             "id": "057e25f4b6846a341e9b4da984257d94",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3984",
             "title": "Notice:Basic Policy on the Use of Generative AI at the University of Tsukuba",
@@ -23,13 +30,6 @@
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3982",
             "title": "2023年度「学研災付帯 海外留学保険（付帯海学）」の申し込みに際して",
             "summary": "海外留学等に際して付帯海学に申し込むためには、渡航の全期間、学研災に加入している必要がありますが、学研災の加入状況が分からないまま保険代理店（エキスパート株式会社）へ行くケースが増えています。\n\n保険代理店は皆さんの加入状況を把握していませんので、もし加入の有無等がはっきりしない場合には、保険代理店に申し込みへ行く前に、本学ウェブサイトのキャンパスライフ「学生教育研究災害傷害保険（学研災）」の『学…",
-            "date_modified": "2023-05-18T03:00:00.000Z"
-        },
-        {
-            "id": "954bb9c59a539b57e7c84eb700321790",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3980",
-            "title": "【開催案内】学生の皆さんが安心して化学実験を行うための研修会",
-            "summary": "実験に携わる学群・大学院生向けに、化学物質の危険性や有害性を伝え、事件事故や健康障害を引き起こすリスクを減らすことを目的に、研修会を開催いたします。是非ご参加ください。\n（例年実施している「学生のための実験廃棄物管理研修会」から名称を変更しました。）\nなお、昨年度に引き続きオンデマンドでも開催いたします。\n事前申し込みは不要です。\n\n<開催日時および場所>\n日時：令和５年６月１２日（月）１５時１５…",
             "date_modified": "2023-05-18T03:00:00.000Z"
         },
         {
