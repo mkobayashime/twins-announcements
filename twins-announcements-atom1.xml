@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/mkobayashime/twins-announcements</id>
     <title>在学生へのお知らせ | 筑波大学</title>
-    <updated>2023-05-20T09:07:47.201Z</updated>
+    <updated>2023-05-20T15:07:56.252Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://github.com/mkobayashime/twins-announcements"/>
     <subtitle>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</subtitle>
@@ -23,7 +23,12 @@
         <id>057e25f4b6846a341e9b4da984257d94</id>
         <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3984"/>
         <updated>2023-05-19T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[We would like to inform you that the "Basic Policy on the Use of Generative AI at the University of Tsukuba" has been decided as shown in the attachment.]]></summary>
+        <summary type="html"><![CDATA[実験に携わる学群・大学院生向けに、化学物質の危険性や有害性を伝え、事件事故や健康障害を引き起こすリスクを減らすことを目的に、研修会を開催いたします。是非ご参加ください。
+（例年実施している「学生のための実験廃棄物管理研修会」から名称を変更しました。）
+なお、昨年度に引き続きオンデマンドでも開催いたします。
+当日は日本語のみですが、後日のオンデマンドで英語字幕をつけます。
+事前申し込みは不要です。
+…]]></summary>
     </entry>
     <entry>
         <title type="html"><![CDATA[明日スタート【French-Chat】フランス語チャットイベント]]></title>
