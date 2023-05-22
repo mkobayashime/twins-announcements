@@ -2,10 +2,38 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/mkobayashime/twins-announcements</id>
     <title>在学生へのお知らせ | 筑波大学</title>
-    <updated>2023-05-21T21:07:58.273Z</updated>
+    <updated>2023-05-22T03:04:32.580Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://github.com/mkobayashime/twins-announcements"/>
     <subtitle>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</subtitle>
+    <entry>
+        <title type="html"><![CDATA[【5/24 Library Workshop】ProQuest Central Workshop]]></title>
+        <id>c9235069ce932c3c1b512e08f3adcca2</id>
+        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3987"/>
+        <updated>2023-05-22T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[In the library, we will hold "ProQuest Central" Workshop.
+This workshop will be held both in Japanese and in English.
+
+Date：May 24th (Wed.)
+　　　15:15  -  16:30 【in Japanese】
+　　　16:45  -  18:00 【in Engl…]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【5/24開催 図書館講習会】外国語論文の探し方 (ProQuest Central)]]></title>
+        <id>f946c0a318021850470e30bb4476a278</id>
+        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3986"/>
+        <updated>2023-05-22T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[図書館講習会「外国語論文の探し方 (ProQuest Central)」を開催します。
+※この講習会は、同内容を日本語と英語で開催します。
+
+日時：5月24日(水)
+　　　15:15-16:30【日本語】
+　　　16:45-18:00【英語】
+
+開催方法：オンライン(Cisco Webex)
+
+ProQuest Central は、人文社会科学から自然科学など幅広い学術分野の論文を検索できる論文デ…]]></summary>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【開催案内】学生の皆さんが安心して化学実験を行うための研修会]]></title>
         <id>954bb9c59a539b57e7c84eb700321790</id>
@@ -223,25 +251,5 @@
 令和２年11月１日から、本学の安否確認システムは、「筑波大学安否確認システム（ANPIC)」（以下、ANPICという。）による運用を開始いたしました。
 
 ANPICでは、大地震などの大規模災害発生時や、防災訓練において、ANPICから学生・教職員のメールアドレス等に安否確認メールを配信します。安否確認メールを受信したら、身の安全を確保…]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【学生券追加】葵トリオ―３人で奏でるシンフォニー　第13回つくばリサイタルシリーズ]]></title>
-        <id>717d3ec67118cf5454577df716685cd0</id>
-        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3955"/>
-        <updated>2023-05-12T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[おかげ様で第13回つくばリサイタルは満席をいただきましたが、招待券やクラウドファンディングなどで余った分を回して、10席程度、学生席を増席することになりした。ご希望される方は以下のフォームよりお申込みください。申し込みは一人一枚とします。後ほど、入力されたメール宛てに電子チケットを送付します。
-
-https://forms.gle/dBwZKL5WaoifPqcLA
-
-
-【開催概要】
-　筑波大学有…]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[筑波大学における生成系AIの使用に関する基本方針について]]></title>
-        <id>5975a8477a138f45aa2591b674eab75a</id>
-        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3953"/>
-        <updated>2023-05-11T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[筑波大学における生成系AIの使用に関する基本方針について、別添のとおり決定したので、お知らせいたします。]]></summary>
     </entry>
 </feed>
