@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/mkobayashime/twins-announcements</id>
     <title>在学生へのお知らせ | 筑波大学</title>
-    <updated>2023-05-22T03:04:32.580Z</updated>
+    <updated>2023-05-22T06:08:28.143Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://github.com/mkobayashime/twins-announcements"/>
     <subtitle>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</subtitle>
+    <entry>
+        <title type="html"><![CDATA[明日5/23から！【留学相談強化週間】留学に興味がある人参加歓迎]]></title>
+        <id>7de3e9681291cdfac746f4f5f9c14a1a</id>
+        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3988"/>
+        <updated>2023-05-22T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[スチューデントサポートセンター国際交流支援室では、留学のアシストをしています！
+この春の、留学相談強化週間、第二弾！
+　　留学に行きたいけど、手続きとか資金とか、大変なのかな？
+　　留学は興味あるけど、どの協定校に行ったらいいだろう？？
+
+特に1年生で、在籍中の留学を考えている方！ぜひ参加してください！
+（３，４年生になるにつれ忙しさが増し、留学が困難になる場合もありますので、早めの留学をおススメ…]]></summary>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【5/24 Library Workshop】ProQuest Central Workshop]]></title>
         <id>c9235069ce932c3c1b512e08f3adcca2</id>
@@ -241,15 +254,5 @@ ProQuest Central は、人文社会科学から自然科学など幅広い学術
         <summary type="html"><![CDATA[筑波大学 オープンファシリティー推進機構では、教育研究を効率的に推進するため、設備の有効活用に伴う利用サポートを実施いたしております。
 第11回目の開催となる、本年度の説明会では、筑波大学の研究機器だけでなく、物質・材料研究機構及び高エネルギー加速器研究機構の研究機器も含め、つくば地区の共用機器を幅広くご紹介いたします。 研究促進に役立つ情報を提供しますので、是非ご参加ください。
 なお、ZOOMに…]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[筑波大学安否確認システム（ANPIC）安否報告メールのスマートフォン等での受信設定について【お願い】]]></title>
-        <id>e46d5f7f719056028c6431aa4962dd77</id>
-        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3957"/>
-        <updated>2023-05-12T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[日頃より、本学の災害対策にご協力いただきありがとうございます。
-令和２年11月１日から、本学の安否確認システムは、「筑波大学安否確認システム（ANPIC)」（以下、ANPICという。）による運用を開始いたしました。
-
-ANPICでは、大地震などの大規模災害発生時や、防災訓練において、ANPICから学生・教職員のメールアドレス等に安否確認メールを配信します。安否確認メールを受信したら、身の安全を確保…]]></summary>
     </entry>
 </feed>
