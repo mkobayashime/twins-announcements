@@ -2,10 +2,24 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/mkobayashime/twins-announcements</id>
     <title>在学生へのお知らせ | 筑波大学</title>
-    <updated>2023-05-23T02:00:13.914Z</updated>
+    <updated>2023-05-23T02:31:30.495Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://github.com/mkobayashime/twins-announcements"/>
     <subtitle>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</subtitle>
+    <entry>
+        <title type="html"><![CDATA[【明日開催】国際交流イベント 「Campur（ちゃんぷーる）」]]></title>
+        <id>fb1a4286c44975d70f0558026f82a394</id>
+        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3991"/>
+        <updated>2023-05-23T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[タイ、マレーシア、フィリピン、インドネシア、ラテンアメリカ、ウクライナなどの出身の留学生が、それぞれの国の文化を紹介します！
+留学生と友達になりたい方、海外に興味のある方、留学を考えてる方、沢山の学生と交流ができるイベントです。
+皆様、ぜひお気軽にご参加ください！
+
+◆イベントスケジュール（変更になる場合があります）
+令和5年
+第3回：　5月24日（水）（マレーシア/ブルネイ）
+第4回：　5月31…]]></summary>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【周知】令和5年度 構内における放置自転車・放置自動車等の一斉撤去について / Removal of All Abandoned Bicycles and Vehicles in Campus]]></title>
         <id>56b9878f1de91b95250defc3849d7dec</id>
@@ -251,13 +265,5 @@ ProQuest Central は、人文社会科学から自然科学など幅広い学術
 
 【開催日】
 6月9日（…]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[開催のお知らせ：T-ACT Welcome Fest 2023 ―つくばアクションプロジェクト新入生歓迎会・活動報告会― 【6/14(水) 18:00～20:00】]]></title>
-        <id>75158af4dd0441712b951dc45e9af9d0</id>
-        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3964"/>
-        <updated>2023-05-15T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[　つくばアクションプロジェクト（T-ACT） で実際に企画して活動した大学生や教職員の話を聞いて、話して、あなたの「やってみたい」をみつけてみませんか。
-　2023年度のT-ACT活動報告会は3年ぶりの対面開催となります！新入生歓迎の意味合いも込め 「T-ACT Welcome Fest 2023」 と題し、本学の新入生、教職員はもちろん、全国の筑波大学に興味のある中学生、高校生、大学生、地域のみ…]]></summary>
     </entry>
 </feed>
