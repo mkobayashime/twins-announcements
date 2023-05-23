@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "d6a06eff7c5b77747b6be3b1bb52c087",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3989",
+            "title": "スポーツ国際開発学共同専攻　入試説明会のお知らせ",
+            "summary": "人間総合科学学術院スポーツ国際開発学共同専攻では、本専攻に関心のある方、スポーツ分野と開発分野に関心のある方向けに、入試説明会を以下のとおり開催することになりましたので、お知らせいたします。\n\n＜スポーツ国際開発学共同専攻　入試説明会＞\n～スポーツ分野と開発分野の新たなキャリアパスに向けた歩み～\n・日　時　：　６月１日（木）１８：００～１９：００\n・場　所　：　オンライン（ZOOM）\n詳細は添付の…",
+            "date_modified": "2023-05-23T03:00:00.000Z"
+        },
+        {
             "id": "7de3e9681291cdfac746f4f5f9c14a1a",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3988",
             "title": "明日5/23から！【留学相談強化週間】留学に興味がある人参加歓迎",
@@ -133,13 +140,6 @@
         {
             "id": "0a323eb9b0a6f2cf073f4117eaaadf13",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3959",
-            "title": "【開催案内】第11回筑波大学ｵｰﾌﾟﾝﾌｧｼﾘﾃｨｰ研究機器共同利用説明会(6/8@ｵﾝﾗｲﾝ)",
-            "summary": "筑波大学 オープンファシリティー推進機構では、教育研究を効率的に推進するため、設備の有効活用に伴う利用サポートを実施いたしております。\n第11回目の開催となる、本年度の説明会では、筑波大学の研究機器だけでなく、物質・材料研究機構及び高エネルギー加速器研究機構の研究機器も含め、つくば地区の共用機器を幅広くご紹介いたします。 研究促進に役立つ情報を提供しますので、是非ご参加ください。\nなお、ZOOMに…",
-            "date_modified": "2023-05-12T03:00:00.000Z"
-        },
-        {
-            "id": "0a323eb9b0a6f2cf073f4117eaaadf13",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3958",
             "title": "【開催案内】第11回筑波大学ｵｰﾌﾟﾝﾌｧｼﾘﾃｨｰ研究機器共同利用説明会(6/8@ｵﾝﾗｲﾝ)",
             "summary": "筑波大学 オープンファシリティー推進機構では、教育研究を効率的に推進するため、設備の有効活用に伴う利用サポートを実施いたしております。\n第11回目の開催となる、本年度の説明会では、筑波大学の研究機器だけでなく、物質・材料研究機構及び高エネルギー加速器研究機構の研究機器も含め、つくば地区の共用機器を幅広くご紹介いたします。 研究促進に役立つ情報を提供しますので、是非ご参加ください。\nなお、ZOOMに…",
             "date_modified": "2023-05-12T03:00:00.000Z"
