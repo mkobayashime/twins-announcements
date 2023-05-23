@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/mkobayashime/twins-announcements</id>
     <title>在学生へのお知らせ | 筑波大学</title>
-    <updated>2023-05-23T00:29:59.467Z</updated>
+    <updated>2023-05-23T02:00:13.914Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://github.com/mkobayashime/twins-announcements"/>
     <subtitle>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</subtitle>
+    <entry>
+        <title type="html"><![CDATA[【周知】令和5年度 構内における放置自転車・放置自動車等の一斉撤去について / Removal of All Abandoned Bicycles and Vehicles in Campus]]></title>
+        <id>56b9878f1de91b95250defc3849d7dec</id>
+        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3990"/>
+        <updated>2023-05-23T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[　本学では、良好な構内環境を保持するため、本学の要項に基づき、放置車両と思われる車両については、撤去通告書を車両に貼付後、一定の期間を置いてから一斉撤去を実施します。
+　つきましては、別添に日程等詳細を記載しておりますので、所有されている車両について現状確認をしていただくようお願いします。また、駐車場、駐輪場、駐輪スペース以外に停めている場合は、必ず移動してください。
+
+　In order to …]]></summary>
+    </entry>
     <entry>
         <title type="html"><![CDATA[スポーツ国際開発学共同専攻　入試説明会のお知らせ]]></title>
         <id>d6a06eff7c5b77747b6be3b1bb52c087</id>
@@ -249,14 +259,5 @@ ProQuest Central は、人文社会科学から自然科学など幅広い学術
         <updated>2023-05-15T03:00:00.000Z</updated>
         <summary type="html"><![CDATA[　つくばアクションプロジェクト（T-ACT） で実際に企画して活動した大学生や教職員の話を聞いて、話して、あなたの「やってみたい」をみつけてみませんか。
 　2023年度のT-ACT活動報告会は3年ぶりの対面開催となります！新入生歓迎の意味合いも込め 「T-ACT Welcome Fest 2023」 と題し、本学の新入生、教職員はもちろん、全国の筑波大学に興味のある中学生、高校生、大学生、地域のみ…]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【開催案内】第11回筑波大学ｵｰﾌﾟﾝﾌｧｼﾘﾃｨｰ研究機器共同利用説明会(6/8@ｵﾝﾗｲﾝ)]]></title>
-        <id>0a323eb9b0a6f2cf073f4117eaaadf13</id>
-        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3959"/>
-        <updated>2023-05-12T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[筑波大学 オープンファシリティー推進機構では、教育研究を効率的に推進するため、設備の有効活用に伴う利用サポートを実施いたしております。
-第11回目の開催となる、本年度の説明会では、筑波大学の研究機器だけでなく、物質・材料研究機構及び高エネルギー加速器研究機構の研究機器も含め、つくば地区の共用機器を幅広くご紹介いたします。 研究促進に役立つ情報を提供しますので、是非ご参加ください。
-なお、ZOOMに…]]></summary>
     </entry>
 </feed>
