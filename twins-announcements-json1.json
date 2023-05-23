@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "292f99d57ec3d5de3f4020f8e46adbc4",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3992",
+            "title": "【5/24(水)開催！！】筑波大学キャリアフェア",
+            "summary": "2024年3月卒業・修了予定の方を対象とした、筑波大学キャリアフェアを\n対面で開催いたします。　\n「就職先の選定に戸惑っている」\n「就職活動を続けている」\n「新たに企業との接点を求めている」\nそんな就活継続中の方、これから就職を考えている方は、ぜひご参加ください！\n\n・・・・・・・・・・・・・・・・・・・・・・・・・・\n\n【 ➁ 対面開催 】\n日時：5月23（火）～24日（水）\n会場：大学会館\n申…",
+            "date_modified": "2023-05-23T03:00:00.000Z"
+        },
+        {
             "id": "fb1a4286c44975d70f0558026f82a394",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3991",
             "title": "【明日開催】国際交流イベント 「Campur（ちゃんぷーる）」",
@@ -135,13 +142,6 @@
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3968",
             "title": "就活における注意喚起　",
             "summary": "株式会社電通　新卒採用担当者様より以下注意喚起がありました。株式会社電通では下記のような形での連絡や採用方法はおこなっていないとご連絡を頂いておりますので、学生の皆様は十分ご注意ください。\n\n【特徴】\n・ここ数週間において弊社採用担当者を名乗り、学生（特に女性）への虚偽の内容の悪質なアプローチが数件続いている\n・非通知電話\n・電通の採用担当を名乗る　＊「カトウ」を名乗る案件が続いている\n・ゼミの先…",
-            "date_modified": "2023-05-15T03:00:00.000Z"
-        },
-        {
-            "id": "54be602676a832cc847e4afa80a1c2c2",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3966",
-            "title": "第9回OB・OGキャリアカフェ",
-            "summary": "筑波大生が、筑波大の卒業生（OB・OG）に\n質問できるイベントを開催します！\n今回、大学の先輩から就職活動やキャリア、\n学生生活などのアドバイスについて本音で聞ける貴重な機会です。\n\n学年問わず、１年生から大学院生までどなたでも参加可能です。\nこの機会をぜひご活用ください！！\n\n★社会人のリアルや業界・企業について知る機会★\n★筑波大のOB・OGだから気軽に質問しやすい★\n\n【開催日】\n6月9日（…",
             "date_modified": "2023-05-15T03:00:00.000Z"
         }
     ]
