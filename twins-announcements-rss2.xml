@@ -4,10 +4,20 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Wed, 24 May 2023 02:04:06 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 24 May 2023 04:05:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
+        <item>
+            <title><![CDATA[「お金の超基本勉強会―卒業してからでは遅すぎる」第７回開催のお知らせ]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3994</link>
+            <guid>443c7814141322cc930db55581fc1021</guid>
+            <pubDate>Wed, 24 May 2023 03:00:00 GMT</pubDate>
+            <description><![CDATA[「筑波大学・世界を変えよう基金アカデミー」では、お金に関する基礎知識（所得税計算、結婚・教育・マイホーム・老後・病気への備え、投資運用,　NISA活用方法等）を学ぶ「お金の超基本勉強会―卒業してからでは遅すぎる」第7回を７月に開催します。
+開催方式：対面またはリモート　（初回７月６日は対面）。
+開催曜日：毎週木曜　(7/6, 13, 20, 27, 8/3, 8/10) 18:10~19:40
+講…]]></description>
+        </item>
         <item>
             <title><![CDATA[【日本財団・参加者募集中】大学生向けプレ就活イベント：海洋開発業界セミナー（6/17開催）]]></title>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3993</link>
@@ -262,15 +272,6 @@ ProQuest Central は、人文社会科学から自然科学など幅広い学術
 後半14:45-15:45
 
 場所：Global Vill…]]></description>
-        </item>
-        <item>
-            <title><![CDATA[【公開中】 就活&インターンシップガイダンスQ&A]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3969</link>
-            <guid>56aecc78a1ee83477002439d503e8191</guid>
-            <pubDate>Mon, 15 May 2023 03:00:00 GMT</pubDate>
-            <description><![CDATA[4月19日開催した就活＆インターンシップガイダンスにて学生の皆様の質問に対する回答集を準備いたしました。インターンシップ参加の仕方、院進や公務員との併願、自己分析・業界研究についてやビジネスマナーにいたるまで、今後の活動にむけて参考になると思いますのでご確認ください。またガイダンスの動画もBHEWebにて配信していますので、見逃した方はご視聴ください。
-
-＊業界研究に活用できる冊子「業界地図」を無…]]></description>
         </item>
     </channel>
 </rss>
