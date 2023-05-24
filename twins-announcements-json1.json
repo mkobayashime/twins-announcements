@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "1a8b8365ba7effbd6927caebbb42b36e",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3993",
+            "title": "【日本財団・参加者募集中】大学生向けプレ就活イベント：海洋開発業界セミナー（6/17開催）",
+            "summary": "日本財団オーシャンイノベーションコンソーシアムの６月のイベントをご案内いたします。\n\n【海洋開発業界セミナー：プレ就活イベント】\n\n洋上風力、海洋石油・ガス開発に興味ある？\n海洋開発に特化したセミナーはこれだけ！\n気になる人気企業情報を「収集・理解・比較」して就活準備に役立てよう！\n\n日時：2023年6月17日（土）10時00分～15時30分（予定）\n\n場所： 日本財団ビル（東京都港区赤坂1-2-…",
+            "date_modified": "2023-05-24T03:00:00.000Z"
+        },
+        {
             "id": "292f99d57ec3d5de3f4020f8e46adbc4",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3992",
             "title": "【5/24(水)開催！！】筑波大学キャリアフェア",
@@ -135,13 +142,6 @@
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3969",
             "title": "【公開中】 就活&インターンシップガイダンスQ&A",
             "summary": "4月19日開催した就活＆インターンシップガイダンスにて学生の皆様の質問に対する回答集を準備いたしました。インターンシップ参加の仕方、院進や公務員との併願、自己分析・業界研究についてやビジネスマナーにいたるまで、今後の活動にむけて参考になると思いますのでご確認ください。またガイダンスの動画もBHEWebにて配信していますので、見逃した方はご視聴ください。\n\n＊業界研究に活用できる冊子「業界地図」を無…",
-            "date_modified": "2023-05-15T03:00:00.000Z"
-        },
-        {
-            "id": "dac546d1b37b15808a10bb1535ac3f8a",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3968",
-            "title": "就活における注意喚起　",
-            "summary": "株式会社電通　新卒採用担当者様より以下注意喚起がありました。株式会社電通では下記のような形での連絡や採用方法はおこなっていないとご連絡を頂いておりますので、学生の皆様は十分ご注意ください。\n\n【特徴】\n・ここ数週間において弊社採用担当者を名乗り、学生（特に女性）への虚偽の内容の悪質なアプローチが数件続いている\n・非通知電話\n・電通の採用担当を名乗る　＊「カトウ」を名乗る案件が続いている\n・ゼミの先…",
             "date_modified": "2023-05-15T03:00:00.000Z"
         }
     ]
