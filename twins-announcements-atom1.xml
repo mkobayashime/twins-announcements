@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/mkobayashime/twins-announcements</id>
     <title>在学生へのお知らせ | 筑波大学</title>
-    <updated>2023-05-25T07:03:25.816Z</updated>
+    <updated>2023-05-25T08:08:15.892Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://github.com/mkobayashime/twins-announcements"/>
     <subtitle>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</subtitle>
+    <entry>
+        <title type="html"><![CDATA[【参加者募集】プライドマンス講演会「LGBTQ＋と法律-選択肢が広がる社会へ向けて-」（6/16開催）]]></title>
+        <id>706ca586bb7be9e3f947ed7c65697884</id>
+        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3998"/>
+        <updated>2023-05-25T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[6月はプライドマンスとされ、世界各地でLGBTQ＋の権利を啓発するためのイベントが行われます。
+そこで、ヒューマンエンパワーメント推進局では、6月16日（金）にLGBTQ＋と法律をテーマとした講演会を開催します。
+LGBTQ+を取り巻く法制度や裁判例からその現状と背景を知り、あらゆる人にとって生きやすい社会とはどのようなものか考えるきっかけになりますので、ぜひ皆さまご参加ください。
+
+日時：202…]]></summary>
+    </entry>
     <entry>
         <title type="html"><![CDATA[今夜！【説明会】留学のいろは（留学の概要/奨学金）]]></title>
         <id>da4d77673aa3f5eb48cf95a87319f38b</id>
@@ -267,15 +278,5 @@
 なお、サーバー更新作業中は、「学内専用ページ」、「ガイダンス等及び模試試験登録・申請」、「進路進捗状況届」へのアクセスはできません。
 皆様にはご迷惑をおかけいたしますが、ご理解、ご協力の程よろしくお願いいたします。
 …]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2023年度「海外英語研修I-a」（3単位、オンライン）参加者募集]]></title>
-        <id>c12dca2d7d00f316bba14b021203a137</id>
-        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3973"/>
-        <updated>2023-05-16T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[2023年7月に実施される、「海外英語研修I-a」（3単位、オンライン）の参加者を募集します。プログラムの詳細や申込方法については、manabaコース「xx20371　海外英語研修オンライン募集説明会」に自己登録のうえ、コースニュースより募集説明動画と申込に関する情報を確認してください。
-
-●8030306「海外英語研修I-a」（3単位、オンライン）
-・プログラム：ブリティッシュ・コロンビア大学（…]]></summary>
     </entry>
 </feed>
