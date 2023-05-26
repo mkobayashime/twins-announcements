@@ -5,6 +5,20 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "8a7330dc462df7673a17233e83a974d1",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4000",
+            "title": "PhD×FUTURE.主催【企業説明会】サイバーエージェント編",
+            "summary": "ついにPhD×FUTURE.主催の企業説明会が始まります。\n第１回はあのサイバーエージェントが登壇します。\n主に研究インターンシップについて、担当者よりご説明頂く会です。\n興味のある方はぜひお申込みください。\n\n開催日時：２０２３年６月７日（水）　16：00-17：00\n\n開催形式：Zoom開催　定員３０名\nPhD×FUTURE.に登録されている方を優先に致しますが、\nその他の方もお申込みいただけ…",
+            "date_modified": "2023-05-26T03:00:00.000Z"
+        },
+        {
+            "id": "84fc8c746662a53024abe339b8372551",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3999",
+            "title": "【就活支援】面接練習会参加者募集中　6/8（木）チャレンジ実践会　",
+            "summary": "BHE主催「就職活動実践講座　チャレンジ実践会　対面面接編」\n\n就活実践講座　対面面接編　６月開催のご案内\n\n就活中でも大事な面接を対面で練習することができます。\n\n対面での選考も増えてきました。\nこれから対面面接を受ける方はぜひ練習しにきてください。\nビジネスマナーについても学ぶことができます。\n当日はなるべく面接時に実際、着用するスーツ等で参加することを推奨します。\nBHEキャリア支援チームの…",
+            "date_modified": "2023-05-26T03:00:00.000Z"
+        },
+        {
             "id": "706ca586bb7be9e3f947ed7c65697884",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3998",
             "title": "【参加者募集】プライドマンス講演会「LGBTQ＋と法律-選択肢が広がる社会へ向けて-」（6/16開催）",
@@ -129,20 +143,6 @@
             "title": "2023年度「海外英語研修I-a」（3単位、オンライン）参加者募集",
             "summary": "2023年7月に実施される、「海外英語研修I-a」（3単位、オンライン）の参加者を募集します。プログラムの詳細や申込方法については、manabaコース「xx20371　海外英語研修オンライン募集説明会」に自己登録のうえ、コースニュースより募集説明動画と申込に関する情報を確認してください。\n\n●8030306「海外英語研修I-a」（3単位、オンライン）\n・プログラム：ブリティッシュ・コロンビア大学（…",
             "date_modified": "2023-05-16T03:00:00.000Z"
-        },
-        {
-            "id": "432adda502e4faca4245a8907586a6d8",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3971",
-            "title": "【今週日曜日開催】City Chat Cafe (英会話イベント)",
-            "summary": "City Chat Cafeで気軽に英語を練習しよう！\n様々な文化背景を持つ人々が出合い、おしゃべりを楽しむ国際交流イベントです。\n筑波大学の留学生と自己紹介や母国の紹介など自由な話題で気軽に英語や日本で会話を楽しめます。\n学外の参加者と交流できるチャンスです。是非参加お待ちします!\n\n日時：\n5月21日（日）\n前半13:30-14:30\n後半14:45-15:45\n\n場所：Global Vill…",
-            "date_modified": "2023-05-16T03:00:00.000Z"
-        },
-        {
-            "id": "56aecc78a1ee83477002439d503e8191",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3969",
-            "title": "【公開中】 就活&インターンシップガイダンスQ&A",
-            "summary": "4月19日開催した就活＆インターンシップガイダンスにて学生の皆様の質問に対する回答集を準備いたしました。インターンシップ参加の仕方、院進や公務員との併願、自己分析・業界研究についてやビジネスマナーにいたるまで、今後の活動にむけて参考になると思いますのでご確認ください。またガイダンスの動画もBHEWebにて配信していますので、見逃した方はご視聴ください。\n\n＊業界研究に活用できる冊子「業界地図」を無…",
-            "date_modified": "2023-05-15T03:00:00.000Z"
         }
     ]
 }
