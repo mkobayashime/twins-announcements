@@ -4,10 +4,19 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Sun, 28 May 2023 21:07:44 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 29 May 2023 00:31:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
+        <item>
+            <title><![CDATA[AY 2024-25 University Recommendation Scholarships for Privately Financed International Students]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4001</link>
+            <guid>517861373b4dc58b4cb5684d9ccfd8d1</guid>
+            <pubDate>Mon, 29 May 2023 03:00:00 GMT</pubDate>
+            <description><![CDATA[The University calls for application for privately financed international students who wish to receive scholarships through university recommendation for AY2024-25.
+
+2024年度に大学推薦各種奨学金奨学生の受給を希望する私費外国人留学…]]></description>
+        </item>
         <item>
             <title><![CDATA[PhD×FUTURE.主催【企業説明会】サイバーエージェント編]]></title>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4000</link>
@@ -269,15 +278,6 @@ LGBTQ+を取り巻く法制度や裁判例からその現状と背景を知り�
 後半14:45-15:45
 
 場所：Global Vill…]]></description>
-        </item>
-        <item>
-            <title><![CDATA[【公開中】 就活&インターンシップガイダンスQ&A]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3969</link>
-            <guid>56aecc78a1ee83477002439d503e8191</guid>
-            <pubDate>Mon, 15 May 2023 03:00:00 GMT</pubDate>
-            <description><![CDATA[4月19日開催した就活＆インターンシップガイダンスにて学生の皆様の質問に対する回答集を準備いたしました。インターンシップ参加の仕方、院進や公務員との併願、自己分析・業界研究についてやビジネスマナーにいたるまで、今後の活動にむけて参考になると思いますのでご確認ください。またガイダンスの動画もBHEWebにて配信していますので、見逃した方はご視聴ください。
-
-＊業界研究に活用できる冊子「業界地図」を無…]]></description>
         </item>
     </channel>
 </rss>
