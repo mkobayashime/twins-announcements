@@ -4,10 +4,29 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Tue, 30 May 2023 02:05:47 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 30 May 2023 06:07:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
+        <item>
+            <title><![CDATA[【募集中】TG+プログラム第4期生募集開始]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4007</link>
+            <guid>1793ebe4a3f53734bc8d95f85eaab1e4</guid>
+            <pubDate>Tue, 30 May 2023 03:00:00 GMT</pubDate>
+            <description><![CDATA[TG⁺プログラム第4期生の募集を開始します。
+
+【募集期間】
+5月25日～8月31日
+【締め切り】
+一次募集　6月30日（金）
+【申し込み方法】
+参加登録案内（https://tgplus.hass.tsukuba.ac.jp/entry/）をご覧ください。
+
+募集にあたりプログラムの説明会を開催します。
+プログラムにご興味・相談のある方は、ぜひご参加ください。
+
+１回目：6月15日（木） 11:…]]></description>
+        </item>
         <item>
             <title><![CDATA[【リマインド】第9回OB・OGキャリアカフェ]]></title>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4006</link>
@@ -279,15 +298,6 @@ LGBTQ+を取り巻く法制度や裁判例からその現状と背景を知り�
 日　程： 5月19日、26日
 6月2日、9日、16日、23日（6月30日はお休みです）
 7月7日、14日、21日、…]]></description>
-        </item>
-        <item>
-            <title><![CDATA[2023年度「学研災付帯 海外留学保険（付帯海学）」の申し込みに際して]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3982</link>
-            <guid>ffcd7648ba67b80a4d33008babe53b0d</guid>
-            <pubDate>Thu, 18 May 2023 03:00:00 GMT</pubDate>
-            <description><![CDATA[海外留学等に際して付帯海学に申し込むためには、渡航の全期間、学研災に加入している必要がありますが、学研災の加入状況が分からないまま保険代理店（エキスパート株式会社）へ行くケースが増えています。
-
-保険代理店は皆さんの加入状況を把握していませんので、もし加入の有無等がはっきりしない場合には、保険代理店に申し込みへ行く前に、本学ウェブサイトのキャンパスライフ「学生教育研究災害傷害保険（学研災）」の『学…]]></description>
         </item>
     </channel>
 </rss>
