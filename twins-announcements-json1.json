@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "5aa5e6fc043adfd7ce42976a8f70e105",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4010",
+            "title": "（6/23開催）「最近のタバコ事情」講習会",
+            "summary": "下記のとおり令和5年度衛生管理者講習会を開催いたします。\nこの講習は衛生管理者向けですが，本学関係者であればどなたでも聴講できます。\n是非ご参加ください。\n　　　　　　　　　　　　　\n　　　　　　　　　　　　　記\n\n１．日　　時：令和５年６月２３日（金）　１０：１５～１１：１５\n２．実施方法：Microsoft Teamsを用いたオンライン配信\n３．テーマ：最近のタバコ事情\n４．対象者：本学教職員…",
+            "date_modified": "2023-05-31T03:00:00.000Z"
+        },
+        {
             "id": "1b2e4ae4bc840be3da4a680da19225b0",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4009",
             "title": "TODAY! Japanese chat!",
@@ -136,13 +143,6 @@
             "title": "スポーツ国際開発学共同専攻　入試説明会のお知らせ",
             "summary": "人間総合科学学術院スポーツ国際開発学共同専攻では、本専攻に関心のある方、スポーツ分野と開発分野に関心のある方向けに、入試説明会を以下のとおり開催することになりましたので、お知らせいたします。\n\n＜スポーツ国際開発学共同専攻　入試説明会＞\n～スポーツ分野と開発分野の新たなキャリアパスに向けた歩み～\n・日　時　：　６月１日（木）１８：００～１９：００\n・場　所　：　オンライン（ZOOM）\n詳細は添付の…",
             "date_modified": "2023-05-23T03:00:00.000Z"
-        },
-        {
-            "id": "954bb9c59a539b57e7c84eb700321790",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3985",
-            "title": "【開催案内】学生の皆さんが安心して化学実験を行うための研修会",
-            "summary": "実験に携わる学群・大学院生向けに、化学物質の危険性や有害性を伝え、事件事故や健康障害を引き起こすリスクを減らすことを目的に、研修会を開催いたします。是非ご参加ください。\n（例年実施している「学生のための実験廃棄物管理研修会」から名称を変更しました。）\nなお、昨年度に引き続きオンデマンドでも開催いたします。\n当日は日本語のみですが、後日のオンデマンドで英語字幕をつけます。\n事前申し込みは不要です。\n…",
-            "date_modified": "2023-05-19T03:00:00.000Z"
         }
     ]
 }

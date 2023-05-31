@@ -4,10 +4,26 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Wed, 31 May 2023 03:12:00 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 31 May 2023 09:03:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
+        <item>
+            <title><![CDATA[（6/23開催）「最近のタバコ事情」講習会]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4010</link>
+            <guid>5aa5e6fc043adfd7ce42976a8f70e105</guid>
+            <pubDate>Wed, 31 May 2023 03:00:00 GMT</pubDate>
+            <description><![CDATA[下記のとおり令和5年度衛生管理者講習会を開催いたします。
+この講習は衛生管理者向けですが，本学関係者であればどなたでも聴講できます。
+是非ご参加ください。
+　　　　　　　　　　　　　
+　　　　　　　　　　　　　記
+
+１．日　　時：令和５年６月２３日（金）　１０：１５～１１：１５
+２．実施方法：Microsoft Teamsを用いたオンライン配信
+３．テーマ：最近のタバコ事情
+４．対象者：本学教職員…]]></description>
+        </item>
         <item>
             <title><![CDATA[TODAY! Japanese chat!]]></title>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4009</link>
@@ -287,18 +303,6 @@ LGBTQ+を取り巻く法制度や裁判例からその現状と背景を知り�
 ・日　時　：　６月１日（木）１８：００～１９：００
 ・場　所　：　オンライン（ZOOM）
 詳細は添付の…]]></description>
-        </item>
-        <item>
-            <title><![CDATA[【開催案内】学生の皆さんが安心して化学実験を行うための研修会]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3985</link>
-            <guid>954bb9c59a539b57e7c84eb700321790</guid>
-            <pubDate>Fri, 19 May 2023 03:00:00 GMT</pubDate>
-            <description><![CDATA[実験に携わる学群・大学院生向けに、化学物質の危険性や有害性を伝え、事件事故や健康障害を引き起こすリスクを減らすことを目的に、研修会を開催いたします。是非ご参加ください。
-（例年実施している「学生のための実験廃棄物管理研修会」から名称を変更しました。）
-なお、昨年度に引き続きオンデマンドでも開催いたします。
-当日は日本語のみですが、後日のオンデマンドで英語字幕をつけます。
-事前申し込みは不要です。
-…]]></description>
         </item>
     </channel>
 </rss>
