@@ -4,10 +4,33 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Tue, 30 May 2023 21:07:26 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 31 May 2023 03:12:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
+        <item>
+            <title><![CDATA[TODAY! Japanese chat!]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4009</link>
+            <guid>1b2e4ae4bc840be3da4a680da19225b0</guid>
+            <pubDate>Wed, 31 May 2023 03:00:00 GMT</pubDate>
+            <description><![CDATA[Japanese Practice Program for all levels: Japanese-Chat
+If you are looking for an opportunity to practice Japanese, this program is for you!
+This is a face-to-face program where you can talk in Japane…]]></description>
+        </item>
+        <item>
+            <title><![CDATA[【TODAY】異文化紹介イベント 「Campur（ちゃんぷーる）」]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4008</link>
+            <guid>d79e0f068fa4a0a05d4b68a9bc3fc0d9</guid>
+            <pubDate>Wed, 31 May 2023 03:00:00 GMT</pubDate>
+            <description><![CDATA[タイ、マレーシア、フィリピン、インドネシア、ラテンアメリカ、ウクライナなどの出身の留学生が、それぞれの国の文化を紹介します！
+留学生と友達になりたい方、海外に興味のある方、留学を考えてる方、沢山の学生と交流ができるイベントです。
+皆様、ぜひお気軽にご参加ください！
+
+◆イベントスケジュール（変更になる場合があります）
+令和5年
+第4回：　5月31日（水）（フィリピン）
+第5回：　6月7日（水）（タ…]]></description>
+        </item>
         <item>
             <title><![CDATA[【募集中】TG+プログラム第4期生募集開始]]></title>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4007</link>
@@ -276,28 +299,6 @@ LGBTQ+を取り巻く法制度や裁判例からその現状と背景を知り�
 当日は日本語のみですが、後日のオンデマンドで英語字幕をつけます。
 事前申し込みは不要です。
 …]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Notice:Basic Policy on the Use of Generative AI at the University of Tsukuba]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3984</link>
-            <guid>057e25f4b6846a341e9b4da984257d94</guid>
-            <pubDate>Fri, 19 May 2023 03:00:00 GMT</pubDate>
-            <description><![CDATA[We would like to inform you that the "Basic Policy on the Use of Generative AI at the University of Tsukuba" has been decided as shown in the attachment.]]></description>
-        </item>
-        <item>
-            <title><![CDATA[明日スタート【French-Chat】フランス語チャットイベント]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3983</link>
-            <guid>a61a9edc25a47a3a5b41198c98c9e080</guid>
-            <pubDate>Thu, 18 May 2023 03:00:00 GMT</pubDate>
-            <description><![CDATA[少人数グループに分かれて、フランス語で会話をします！初心者も歓迎です！
-単発での参加、途中参加も大歓迎です！
-
-開催日：金曜日 (5月~7月)
-時　間：15:15～16:30（この時間内でしたら、出入り自由です！）
-*5月26日以降は、【Spanish-Chat】と同時開催となります
-日　程： 5月19日、26日
-6月2日、9日、16日、23日（6月30日はお休みです）
-7月7日、14日、21日、…]]></description>
         </item>
     </channel>
 </rss>

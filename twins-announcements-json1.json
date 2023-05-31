@@ -5,6 +5,20 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "1b2e4ae4bc840be3da4a680da19225b0",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4009",
+            "title": "TODAY! Japanese chat!",
+            "summary": "Japanese Practice Program for all levels: Japanese-Chat\nIf you are looking for an opportunity to practice Japanese, this program is for you!\nThis is a face-to-face program where you can talk in Japane…",
+            "date_modified": "2023-05-31T03:00:00.000Z"
+        },
+        {
+            "id": "d79e0f068fa4a0a05d4b68a9bc3fc0d9",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4008",
+            "title": "【TODAY】異文化紹介イベント 「Campur（ちゃんぷーる）」",
+            "summary": "タイ、マレーシア、フィリピン、インドネシア、ラテンアメリカ、ウクライナなどの出身の留学生が、それぞれの国の文化を紹介します！\n留学生と友達になりたい方、海外に興味のある方、留学を考えてる方、沢山の学生と交流ができるイベントです。\n皆様、ぜひお気軽にご参加ください！\n\n◆イベントスケジュール（変更になる場合があります）\n令和5年\n第4回：　5月31日（水）（フィリピン）\n第5回：　6月7日（水）（タ…",
+            "date_modified": "2023-05-31T03:00:00.000Z"
+        },
+        {
             "id": "1793ebe4a3f53734bc8d95f85eaab1e4",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4007",
             "title": "【募集中】TG+プログラム第4期生募集開始",
@@ -129,20 +143,6 @@
             "title": "【開催案内】学生の皆さんが安心して化学実験を行うための研修会",
             "summary": "実験に携わる学群・大学院生向けに、化学物質の危険性や有害性を伝え、事件事故や健康障害を引き起こすリスクを減らすことを目的に、研修会を開催いたします。是非ご参加ください。\n（例年実施している「学生のための実験廃棄物管理研修会」から名称を変更しました。）\nなお、昨年度に引き続きオンデマンドでも開催いたします。\n当日は日本語のみですが、後日のオンデマンドで英語字幕をつけます。\n事前申し込みは不要です。\n…",
             "date_modified": "2023-05-19T03:00:00.000Z"
-        },
-        {
-            "id": "057e25f4b6846a341e9b4da984257d94",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3984",
-            "title": "Notice:Basic Policy on the Use of Generative AI at the University of Tsukuba",
-            "summary": "We would like to inform you that the \"Basic Policy on the Use of Generative AI at the University of Tsukuba\" has been decided as shown in the attachment.",
-            "date_modified": "2023-05-19T03:00:00.000Z"
-        },
-        {
-            "id": "a61a9edc25a47a3a5b41198c98c9e080",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3983",
-            "title": "明日スタート【French-Chat】フランス語チャットイベント",
-            "summary": "少人数グループに分かれて、フランス語で会話をします！初心者も歓迎です！\n単発での参加、途中参加も大歓迎です！\n\n開催日：金曜日 (5月~7月)\n時　間：15:15～16:30（この時間内でしたら、出入り自由です！）\n*5月26日以降は、【Spanish-Chat】と同時開催となります\n日　程： 5月19日、26日\n6月2日、9日、16日、23日（6月30日はお休みです）\n7月7日、14日、21日、…",
-            "date_modified": "2023-05-18T03:00:00.000Z"
         }
     ]
 }
