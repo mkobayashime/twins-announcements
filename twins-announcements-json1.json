@@ -5,6 +5,34 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "fb14d9d2f0ccb1470bf27fce2d7c7cfd",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4014",
+            "title": "国際連携食料健康科学専攻（修士課程） オンライン入学相談会",
+            "summary": "国際連携食料健康科学専攻（修士課程） オンライン入学相談会が開催されます。\n\n日時：2023年6月24日（土）10:00～11:30\n場所：オンライン\n詳細：6月22日（木）まで事前登録が必要です。ポスターをご覧ください。\n\n皆様のご参加を心よりお待ちしております！",
+            "date_modified": "2023-06-01T03:00:00.000Z"
+        },
+        {
+            "id": "fa694384bd7ad0d5f793c9ed015a3112",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4013",
+            "title": "TODAY 15:15~【English-Chat】英語チャットイベント",
+            "summary": "国際交流をしたい！\n留学生の友達を作りたい！\n英語を練習したい！\n→などに当てはまるあなた、大変おススメです☆\nInternational students are also welcome!\n\n少人数グループに分かれて、英語で会話をします！英語初心者も歓迎です！\n単発での参加、途中参加も大歓迎です！\n\n開催日：火曜日 & 木曜日 (5月~7月)\n時　間：15:15～16:30（この時間内でしたら…",
+            "date_modified": "2023-06-01T03:00:00.000Z"
+        },
+        {
+            "id": "ecf3ff2a5f77b0842d8cb2fd310138f3",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4012",
+            "title": "（Spring C）Information for Japanese Courses",
+            "summary": "During the Spring module C, the following Japanese courses will be offered.\n\n　　・Japanese for Professional Purposes\n\n　　・Japanese Classes for Graduate Students（New!）\n\n\n\nIf you want to enroll, please con…",
+            "date_modified": "2023-06-01T03:00:00.000Z"
+        },
+        {
+            "id": "bd258f1a7fcd18e42809a7347294af2e",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4011",
+            "title": "（春C）日本語コースのお知らせ",
+            "summary": "春Cモジュールに下記の日本語コースを開講します。\n\n　　・キャリア支援日本語コース\n\n　　・大学院生のための日本語コース（New!）\n\n\n\n受講を希望する学生は、URLで詳細を確認し、履修申請をして下さい。",
+            "date_modified": "2023-06-01T03:00:00.000Z"
+        },
+        {
             "id": "5aa5e6fc043adfd7ce42976a8f70e105",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4010",
             "title": "（6/23開催）「最近のタバコ事情」講習会",
@@ -115,34 +143,6 @@
             "title": "「お金の超基本勉強会―卒業してからでは遅すぎる」第７回開催のお知らせ",
             "summary": "「筑波大学・世界を変えよう基金アカデミー」では、お金に関する基礎知識（所得税計算、結婚・教育・マイホーム・老後・病気への備え、投資運用,　NISA活用方法等）を学ぶ「お金の超基本勉強会―卒業してからでは遅すぎる」第7回を７月に開催します。\n開催方式：対面またはリモート　（初回７月６日は対面）。\n開催曜日：毎週木曜　(7/6, 13, 20, 27, 8/3, 8/10) 18:10~19:40\n講…",
             "date_modified": "2023-05-24T03:00:00.000Z"
-        },
-        {
-            "id": "1a8b8365ba7effbd6927caebbb42b36e",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3993",
-            "title": "【日本財団・参加者募集中】大学生向けプレ就活イベント：海洋開発業界セミナー（6/17開催）",
-            "summary": "日本財団オーシャンイノベーションコンソーシアムの６月のイベントをご案内いたします。\n\n【海洋開発業界セミナー：プレ就活イベント】\n\n洋上風力、海洋石油・ガス開発に興味ある？\n海洋開発に特化したセミナーはこれだけ！\n気になる人気企業情報を「収集・理解・比較」して就活準備に役立てよう！\n\n日時：2023年6月17日（土）10時00分～15時30分（予定）\n\n場所： 日本財団ビル（東京都港区赤坂1-2-…",
-            "date_modified": "2023-05-24T03:00:00.000Z"
-        },
-        {
-            "id": "fb1a4286c44975d70f0558026f82a394",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3991",
-            "title": "【明日開催】国際交流イベント 「Campur（ちゃんぷーる）」",
-            "summary": "タイ、マレーシア、フィリピン、インドネシア、ラテンアメリカ、ウクライナなどの出身の留学生が、それぞれの国の文化を紹介します！\n留学生と友達になりたい方、海外に興味のある方、留学を考えてる方、沢山の学生と交流ができるイベントです。\n皆様、ぜひお気軽にご参加ください！\n\n◆イベントスケジュール（変更になる場合があります）\n令和5年\n第3回：　5月24日（水）（マレーシア/ブルネイ）\n第4回：　5月31…",
-            "date_modified": "2023-05-23T03:00:00.000Z"
-        },
-        {
-            "id": "56b9878f1de91b95250defc3849d7dec",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3990",
-            "title": "【周知】令和5年度 構内における放置自転車・放置自動車等の一斉撤去について / Removal of All Abandoned Bicycles and Vehicles in Campus",
-            "summary": "　本学では、良好な構内環境を保持するため、本学の要項に基づき、放置車両と思われる車両については、撤去通告書を車両に貼付後、一定の期間を置いてから一斉撤去を実施します。\n　つきましては、別添に日程等詳細を記載しておりますので、所有されている車両について現状確認をしていただくようお願いします。また、駐車場、駐輪場、駐輪スペース以外に停めている場合は、必ず移動してください。\n\n　In order to …",
-            "date_modified": "2023-05-23T03:00:00.000Z"
-        },
-        {
-            "id": "d6a06eff7c5b77747b6be3b1bb52c087",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3989",
-            "title": "スポーツ国際開発学共同専攻　入試説明会のお知らせ",
-            "summary": "人間総合科学学術院スポーツ国際開発学共同専攻では、本専攻に関心のある方、スポーツ分野と開発分野に関心のある方向けに、入試説明会を以下のとおり開催することになりましたので、お知らせいたします。\n\n＜スポーツ国際開発学共同専攻　入試説明会＞\n～スポーツ分野と開発分野の新たなキャリアパスに向けた歩み～\n・日　時　：　６月１日（木）１８：００～１９：００\n・場　所　：　オンライン（ZOOM）\n詳細は添付の…",
-            "date_modified": "2023-05-23T03:00:00.000Z"
         }
     ]
 }
