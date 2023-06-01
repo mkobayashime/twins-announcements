@@ -4,10 +4,24 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Thu, 01 Jun 2023 02:44:16 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 01 Jun 2023 06:08:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
+        <item>
+            <title><![CDATA[Call FOR STUDENT AMBASSADOR/学生アンバサダー募集します]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4015</link>
+            <guid>635d6caa51c7e251e8f9954bb3a4d04e</guid>
+            <pubDate>Thu, 01 Jun 2023 03:00:00 GMT</pubDate>
+            <description><![CDATA[海外から筑波大学に来たお客様の案内業務等に関わっていただく学生アンバサダーを募集することになりました。説明会を開催しますので、是非ご参加ください。（国籍不問）
+
+＜説明会＞※予約不要
+開催日時：2023年6月6日（火）13:30～14:30
+場所：スチューデント・コモンズ（１Ａ棟2階）
+
+申請はこちらから↓
+https://forms.office.com/Pages/ResponsePage.a…]]></description>
+        </item>
         <item>
             <title><![CDATA[国際連携食料健康科学専攻（修士課程） オンライン入学相談会]]></title>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4014</link>
@@ -299,16 +313,6 @@ LGBTQ+を取り巻く法制度や裁判例からその現状と背景を知り�
 
 受講日についても再度ご確認いただき、
 受講できない場合には抽選前に履修を取りやめるようにお願いいたします。]]></description>
-        </item>
-        <item>
-            <title><![CDATA[「お金の超基本勉強会―卒業してからでは遅すぎる」第７回開催のお知らせ]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3994</link>
-            <guid>443c7814141322cc930db55581fc1021</guid>
-            <pubDate>Wed, 24 May 2023 03:00:00 GMT</pubDate>
-            <description><![CDATA[「筑波大学・世界を変えよう基金アカデミー」では、お金に関する基礎知識（所得税計算、結婚・教育・マイホーム・老後・病気への備え、投資運用,　NISA活用方法等）を学ぶ「お金の超基本勉強会―卒業してからでは遅すぎる」第7回を７月に開催します。
-開催方式：対面またはリモート　（初回７月６日は対面）。
-開催曜日：毎週木曜　(7/6, 13, 20, 27, 8/3, 8/10) 18:10~19:40
-講…]]></description>
         </item>
     </channel>
 </rss>
