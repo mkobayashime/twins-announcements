@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "e96a4cbfe5d7b71164209d6268bdffb4",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4016",
+            "title": "【手話コミュニケーションⅠ】抽選結果について",
+            "summary": "手話コミュニケーションⅠについて、数多くの学生から\n履修登録をいただきました。ありがとうございました。\n6/1に抽選ソフトを用いて、208名の登録者から40名の受講生を選びました。\n\n抽選から外れた学生から、再登録をしたら登録できたという連絡を\nいただいていますが、受講は認められませんのでご注意ください\n(現在では再登録できないようになっています)。\n\nまた、手話コミュニケーションⅡにつきましては…",
+            "date_modified": "2023-06-02T03:00:00.000Z"
+        },
+        {
             "id": "635d6caa51c7e251e8f9954bb3a4d04e",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4015",
             "title": "Call FOR STUDENT AMBASSADOR/学生アンバサダー募集します",
@@ -135,13 +142,6 @@
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3995",
             "title": "【手話コミュニケーションⅠ】5/31募集締め切り後に抽選を行います(再)",
             "summary": "手話コミュニケーションⅠの受け入れについての再連絡です。\n\n5/31の募集締め切り後に抽選を行います。\n抽選に際しては優遇条件を設定しないので、\n受講を希望する皆様からランダムで選びます(現状での倍率：5.1)。\n\n受講日についても再度ご確認いただき、\n受講できない場合には抽選前に履修を取りやめるようにお願いいたします。",
-            "date_modified": "2023-05-24T03:00:00.000Z"
-        },
-        {
-            "id": "443c7814141322cc930db55581fc1021",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3994",
-            "title": "「お金の超基本勉強会―卒業してからでは遅すぎる」第７回開催のお知らせ",
-            "summary": "「筑波大学・世界を変えよう基金アカデミー」では、お金に関する基礎知識（所得税計算、結婚・教育・マイホーム・老後・病気への備え、投資運用,　NISA活用方法等）を学ぶ「お金の超基本勉強会―卒業してからでは遅すぎる」第7回を７月に開催します。\n開催方式：対面またはリモート　（初回７月６日は対面）。\n開催曜日：毎週木曜　(7/6, 13, 20, 27, 8/3, 8/10) 18:10~19:40\n講…",
             "date_modified": "2023-05-24T03:00:00.000Z"
         }
     ]
