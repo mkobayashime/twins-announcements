@@ -4,10 +4,41 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Mon, 05 Jun 2023 02:19:15 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 05 Jun 2023 05:03:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
+        <item>
+            <title><![CDATA[再掲【6/12開催】学生の皆さんが安心して化学実験を行うための研修会]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4026</link>
+            <guid>ee4d2dec17ebf5f94f5f34c0e4bd6c39</guid>
+            <pubDate>Mon, 05 Jun 2023 03:00:00 GMT</pubDate>
+            <description><![CDATA[実験に携わる学群・大学院生向けに、化学物質の危険性や有害性を伝え、事件事故や健康障害を引き起こすリスクを減らすことを目的に、研修会を開催いたします。是非ご参加ください。
+（例年実施している「学生のための実験廃棄物管理研修会」から名称を変更しました。）
+なお、昨年度に引き続きオンデマンドでも開催いたします。
+当日は日本語のみですが、後日のオンデマンドで英語字幕をつけます。
+事前申し込みは不要です。
+…]]></description>
+        </item>
+        <item>
+            <title><![CDATA[【再掲】TG+プログラム第４期生募集開始]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4025</link>
+            <guid>da85d51be966aa99fbf4da21e53a190c</guid>
+            <pubDate>Mon, 05 Jun 2023 03:00:00 GMT</pubDate>
+            <description><![CDATA[TG⁺プログラム第4期生の募集を開始します。
+
+【募集期間】
+5月25日～8月31日
+【締め切り】
+一次募集　6月30日（金）
+【申し込み方法】
+参加登録案内（https://tgplus.hass.tsukuba.ac.jp/entry/）をご覧ください。
+
+募集にあたりプログラムの説明会を開催します。
+プログラムにご興味・相談のある方は、ぜひご参加ください。
+
+１回目：6月15日（木） 11:…]]></description>
+        </item>
         <item>
             <title><![CDATA[（BHE)Teams内　キャリア支援情報発信チーム立ち上げのご案内]]></title>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4024</link>
@@ -282,31 +313,6 @@ This is a face-to-face program where you can talk in Japane…]]></description>
 実施形態：オンライン
 
 参加を希望される方は、下記のWebページからお申込いただくようお…]]></description>
-        </item>
-        <item>
-            <title><![CDATA[AY 2024-25 University Recommendation Scholarships for Privately Financed International Students]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4001</link>
-            <guid>517861373b4dc58b4cb5684d9ccfd8d1</guid>
-            <pubDate>Mon, 29 May 2023 03:00:00 GMT</pubDate>
-            <description><![CDATA[The University calls for application for privately financed international students who wish to receive scholarships through university recommendation for AY2024-25.
-
-2024年度に大学推薦各種奨学金奨学生の受給を希望する私費外国人留学…]]></description>
-        </item>
-        <item>
-            <title><![CDATA[PhD×FUTURE.主催【企業説明会】サイバーエージェント編]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4000</link>
-            <guid>8a7330dc462df7673a17233e83a974d1</guid>
-            <pubDate>Fri, 26 May 2023 03:00:00 GMT</pubDate>
-            <description><![CDATA[ついにPhD×FUTURE.主催の企業説明会が始まります。
-第１回はあのサイバーエージェントが登壇します。
-主に研究インターンシップについて、担当者よりご説明頂く会です。
-興味のある方はぜひお申込みください。
-
-開催日時：２０２３年６月７日（水）　16：00-17：00
-
-開催形式：Zoom開催　定員３０名
-PhD×FUTURE.に登録されている方を優先に致しますが、
-その他の方もお申込みいただけ…]]></description>
         </item>
     </channel>
 </rss>
