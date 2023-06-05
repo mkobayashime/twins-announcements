@@ -4,10 +4,23 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Sun, 04 Jun 2023 21:07:55 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 05 Jun 2023 00:33:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
+        <item>
+            <title><![CDATA[（BHE)International students Career support]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4022</link>
+            <guid>cca9fa3a682ef47692a61217dd37674c</guid>
+            <pubDate>Mon, 05 Jun 2023 03:00:00 GMT</pubDate>
+            <description><![CDATA[Held today！　University of Tsukuba Career Café (face-to-face)!!
+
+You can ask for advice on finding a job in Japan.
+Drinks and snacks are available.
+Feel free to come along♪
+６月５日（月）、６日（火）
+11:30-13:00]]></description>
+        </item>
         <item>
             <title><![CDATA[【15％OFF】Zoff👓筑波大学学生・教職員特別キャンペーンについて]]></title>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4019</link>
@@ -295,17 +308,6 @@ PhD×FUTURE.に登録されている方を優先に致しますが、
 ビジネスマナーについても学ぶことができます。
 当日はなるべく面接時に実際、着用するスーツ等で参加することを推奨します。
 BHEキャリア支援チームの…]]></description>
-        </item>
-        <item>
-            <title><![CDATA[【参加者募集】プライドマンス講演会「LGBTQ＋と法律-選択肢が広がる社会へ向けて-」（6/16開催）]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3998</link>
-            <guid>706ca586bb7be9e3f947ed7c65697884</guid>
-            <pubDate>Thu, 25 May 2023 03:00:00 GMT</pubDate>
-            <description><![CDATA[6月はプライドマンスとされ、世界各地でLGBTQ＋の権利を啓発するためのイベントが行われます。
-そこで、ヒューマンエンパワーメント推進局では、6月16日（金）にLGBTQ＋と法律をテーマとした講演会を開催します。
-LGBTQ+を取り巻く法制度や裁判例からその現状と背景を知り、あらゆる人にとって生きやすい社会とはどのようなものか考えるきっかけになりますので、ぜひ皆さまご参加ください。
-
-日時：202…]]></description>
         </item>
     </channel>
 </rss>

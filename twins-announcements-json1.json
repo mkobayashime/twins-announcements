@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "cca9fa3a682ef47692a61217dd37674c",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4022",
+            "title": "（BHE)International students Career support",
+            "summary": "Held today！　University of Tsukuba Career Café (face-to-face)!!\n\nYou can ask for advice on finding a job in Japan.\nDrinks and snacks are available.\nFeel free to come along♪\n６月５日（月）、６日（火）\n11:30-13:00",
+            "date_modified": "2023-06-05T03:00:00.000Z"
+        },
+        {
             "id": "af689ba7698be451592221eecc9230d5",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4019",
             "title": "【15％OFF】Zoff👓筑波大学学生・教職員特別キャンペーンについて",
@@ -136,13 +143,6 @@
             "title": "【就活支援】面接練習会参加者募集中　6/8（木）チャレンジ実践会　",
             "summary": "BHE主催「就職活動実践講座　チャレンジ実践会　対面面接編」\n\n就活実践講座　対面面接編　６月開催のご案内\n\n就活中でも大事な面接を対面で練習することができます。\n\n対面での選考も増えてきました。\nこれから対面面接を受ける方はぜひ練習しにきてください。\nビジネスマナーについても学ぶことができます。\n当日はなるべく面接時に実際、着用するスーツ等で参加することを推奨します。\nBHEキャリア支援チームの…",
             "date_modified": "2023-05-26T03:00:00.000Z"
-        },
-        {
-            "id": "706ca586bb7be9e3f947ed7c65697884",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3998",
-            "title": "【参加者募集】プライドマンス講演会「LGBTQ＋と法律-選択肢が広がる社会へ向けて-」（6/16開催）",
-            "summary": "6月はプライドマンスとされ、世界各地でLGBTQ＋の権利を啓発するためのイベントが行われます。\nそこで、ヒューマンエンパワーメント推進局では、6月16日（金）にLGBTQ＋と法律をテーマとした講演会を開催します。\nLGBTQ+を取り巻く法制度や裁判例からその現状と背景を知り、あらゆる人にとって生きやすい社会とはどのようなものか考えるきっかけになりますので、ぜひ皆さまご参加ください。\n\n日時：202…",
-            "date_modified": "2023-05-25T03:00:00.000Z"
         }
     ]
 }
