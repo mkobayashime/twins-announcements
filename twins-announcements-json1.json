@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "478e4f334b805b8d41d5da981bb4f7a9",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4029",
+            "title": "【見逃し配信】IELTS説明会～視聴期限6/24（土）23:59",
+            "summary": "見逃し配信のお知らせです。\n5/25（木）に開催された、JSAF-IELTS公式テストセンターの一般社団法人日本スタディ・アブロード・ファンデーション（JSAF）による筑波大学生向けIELTSオンライン説明会動画\n\nIELTSのテストを受験予定の方。\nまた受験を検討している方。\n留学を検討している方。\nは、大変参考になりますので、視聴可能期間中にご覧ください。\n\n内容（40分程度）\nIELTSとは…",
+            "date_modified": "2023-06-05T03:00:00.000Z"
+        },
+        {
             "id": "a60f49288fc1fa089df04e8b832cad21",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4028",
             "title": "令和5年度夏季休業前の海外危機管理セミナーについて",
@@ -133,13 +140,6 @@
         {
             "id": "6e2bc2b9bd88adf6966434dc61051f77",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4006",
-            "title": "【リマインド】第9回OB・OGキャリアカフェ",
-            "summary": "筑波大生が、筑波大の卒業生（OB・OG）に\n質問できるイベントを開催します！\n今回、大学の先輩から就職活動やキャリア、\n学生生活などのアドバイスについて本音で聞ける貴重な機会です。\n\n学年問わず、１年生から大学院生までどなたでも参加可能です。\nこの機会をぜひご活用ください！！\n\n★社会人のリアルや業界・企業について知る機会★\n★筑波大のOB・OGだから気軽に質問しやすい★\n\n【開催日】\n6月9日（…",
-            "date_modified": "2023-05-30T03:00:00.000Z"
-        },
-        {
-            "id": "6e2bc2b9bd88adf6966434dc61051f77",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4005",
             "title": "【リマインド】第9回OB・OGキャリアカフェ",
             "summary": "筑波大生が、筑波大の卒業生（OB・OG）に\n質問できるイベントを開催します！\n今回、大学の先輩から就職活動やキャリア、\n学生生活などのアドバイスについて本音で聞ける貴重な機会です。\n\n学年問わず、１年生から大学院生までどなたでも参加可能です。\nこの機会をぜひご活用ください！！\n\n★社会人のリアルや業界・企業について知る機会★\n★筑波大のOB・OGだから気軽に質問しやすい★\n\n【開催日】\n6月9日（…",
             "date_modified": "2023-05-30T03:00:00.000Z"
