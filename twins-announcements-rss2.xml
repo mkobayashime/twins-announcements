@@ -4,10 +4,26 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Mon, 05 Jun 2023 00:33:36 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 05 Jun 2023 02:19:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
+        <item>
+            <title><![CDATA[（BHE)Teams内　キャリア支援情報発信チーム立ち上げのご案内]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4024</link>
+            <guid>140a6eb7c3a6e8533adb0d8fe573225c</guid>
+            <pubDate>Mon, 05 Jun 2023 03:00:00 GMT</pubDate>
+            <description><![CDATA[この度BHEでは新しい情報発信の場として、新チームを立ち上げました。
+
+BHEには、日々求人・インターンシップ、各種イベントなどの案内が届きます。
+HPや学内掲示板では発信しきれない情報をタイムリーに発信していきます。
+卒業年度別や志望別のチャネルを設けていますので、ぜひ活用してください。
+
+【参加方法】
+チーム名「BHEキャリア支援チーム　情報発信」
+以下のリンクから参加してください。
+http…]]></description>
+        </item>
         <item>
             <title><![CDATA[（BHE)International students Career support]]></title>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4022</link>
@@ -291,23 +307,6 @@ This is a face-to-face program where you can talk in Japane…]]></description>
 開催形式：Zoom開催　定員３０名
 PhD×FUTURE.に登録されている方を優先に致しますが、
 その他の方もお申込みいただけ…]]></description>
-        </item>
-        <item>
-            <title><![CDATA[【就活支援】面接練習会参加者募集中　6/8（木）チャレンジ実践会　]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=3999</link>
-            <guid>84fc8c746662a53024abe339b8372551</guid>
-            <pubDate>Fri, 26 May 2023 03:00:00 GMT</pubDate>
-            <description><![CDATA[BHE主催「就職活動実践講座　チャレンジ実践会　対面面接編」
-
-就活実践講座　対面面接編　６月開催のご案内
-
-就活中でも大事な面接を対面で練習することができます。
-
-対面での選考も増えてきました。
-これから対面面接を受ける方はぜひ練習しにきてください。
-ビジネスマナーについても学ぶことができます。
-当日はなるべく面接時に実際、着用するスーツ等で参加することを推奨します。
-BHEキャリア支援チームの…]]></description>
         </item>
     </channel>
 </rss>

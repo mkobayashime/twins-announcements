@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "140a6eb7c3a6e8533adb0d8fe573225c",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4024",
+            "title": "（BHE)Teams内　キャリア支援情報発信チーム立ち上げのご案内",
+            "summary": "この度BHEでは新しい情報発信の場として、新チームを立ち上げました。\n\nBHEには、日々求人・インターンシップ、各種イベントなどの案内が届きます。\nHPや学内掲示板では発信しきれない情報をタイムリーに発信していきます。\n卒業年度別や志望別のチャネルを設けていますので、ぜひ活用してください。\n\n【参加方法】\nチーム名「BHEキャリア支援チーム　情報発信」\n以下のリンクから参加してください。\nhttp…",
+            "date_modified": "2023-06-05T03:00:00.000Z"
+        },
+        {
             "id": "cca9fa3a682ef47692a61217dd37674c",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4022",
             "title": "（BHE)International students Career support",
@@ -135,13 +142,6 @@
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4000",
             "title": "PhD×FUTURE.主催【企業説明会】サイバーエージェント編",
             "summary": "ついにPhD×FUTURE.主催の企業説明会が始まります。\n第１回はあのサイバーエージェントが登壇します。\n主に研究インターンシップについて、担当者よりご説明頂く会です。\n興味のある方はぜひお申込みください。\n\n開催日時：２０２３年６月７日（水）　16：00-17：00\n\n開催形式：Zoom開催　定員３０名\nPhD×FUTURE.に登録されている方を優先に致しますが、\nその他の方もお申込みいただけ…",
-            "date_modified": "2023-05-26T03:00:00.000Z"
-        },
-        {
-            "id": "84fc8c746662a53024abe339b8372551",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=3999",
-            "title": "【就活支援】面接練習会参加者募集中　6/8（木）チャレンジ実践会　",
-            "summary": "BHE主催「就職活動実践講座　チャレンジ実践会　対面面接編」\n\n就活実践講座　対面面接編　６月開催のご案内\n\n就活中でも大事な面接を対面で練習することができます。\n\n対面での選考も増えてきました。\nこれから対面面接を受ける方はぜひ練習しにきてください。\nビジネスマナーについても学ぶことができます。\n当日はなるべく面接時に実際、着用するスーツ等で参加することを推奨します。\nBHEキャリア支援チームの…",
             "date_modified": "2023-05-26T03:00:00.000Z"
         }
     ]
