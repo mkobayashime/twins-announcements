@@ -2,10 +2,24 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/mkobayashime/twins-announcements</id>
     <title>在学生へのお知らせ | 筑波大学</title>
-    <updated>2023-06-05T06:08:33.984Z</updated>
+    <updated>2023-06-05T08:09:03.033Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://github.com/mkobayashime/twins-announcements"/>
     <subtitle>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</subtitle>
+    <entry>
+        <title type="html"><![CDATA[令和5年度夏季休業前の海外危機管理セミナーについて]]></title>
+        <id>a60f49288fc1fa089df04e8b832cad21</id>
+        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4028"/>
+        <updated>2023-06-05T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[海外危機管理セミナー（オンライン）を開催しますので、お知らせいたします。
+海外危機管理に関するスペシャリストをお招きし、海外渡航※前の準備事項と、現地での安全対策について学びます。ご参加に当たっては、期日までに事前登録してください。
+
+１．日時：　令和5年6月22日（木）18：15～19：30
+
+２．内容・講師：
+　　①「海外に行く際の、気軽にできる感染症予防」
+　　　講師：医学医療系　鈴木 広道…]]></summary>
+    </entry>
     <entry>
         <title type="html"><![CDATA[STOP！研究費不正使用！／STOP！Wrongful use of research funding！]]></title>
         <id>d07de3a2549e9d1109e19fd73f9711de</id>
@@ -294,20 +308,5 @@ This is a face-to-face program where you can talk in Japane…]]></summary>
 
 【開催日】
 6月9日（…]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【開催案内】第41回「中央ユーラシアと日本の未来」公開講演会_早稲田大学高等研究所講師 アンダソヴァ マラル氏_6/8(木)]]></title>
-        <id>6525051078cd83355e7488858e94e1b9</id>
-        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4003"/>
-        <updated>2023-05-29T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[筑波大学「日本財団 中央アジア・日本人材育成プロジェクト (NipCA)」では、第41回「中央ユーラシアと日本の未来」公開講演会を、下記の通り開催いたします。
-
-講師： 早稲田大学 高等研究所 講師　アンダソヴァ マラル 氏
-           
-題目：日本古代神話と中央アジアの伝承世界 －シャーマニズムの視点から見えてくるもの－
-
-日時：令和5年6月8日（木）17:00～18:15
-
-会場：オ…]]></summary>
     </entry>
 </feed>
