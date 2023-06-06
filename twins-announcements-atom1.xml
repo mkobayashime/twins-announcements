@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/mkobayashime/twins-announcements</id>
     <title>在学生へのお知らせ | 筑波大学</title>
-    <updated>2023-06-06T02:20:58.748Z</updated>
+    <updated>2023-06-06T03:13:50.603Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://github.com/mkobayashime/twins-announcements"/>
     <subtitle>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</subtitle>
+    <entry>
+        <title type="html"><![CDATA[「お金の超基本勉強会―卒業してからでは遅すぎる」第７回開催のお知らせ]]></title>
+        <id>443c7814141322cc930db55581fc1021</id>
+        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4033"/>
+        <updated>2023-06-06T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[「筑波大学・世界を変えよう基金アカデミー」では、お金に関する基礎知識（所得税計算、結婚・教育・マイホーム・老後・病気への備え、投資運用,　NISA活用方法等）を学ぶ「お金の超基本勉強会―卒業してからでは遅すぎる」第7回を７月に開催します。
+開催方式：対面またはリモート　（初回７月６日は対面）。
+開催曜日：毎週木曜　(7/6, 13, 20, 27, 8/3, 8/10) 18:10~19:40
+講…]]></summary>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【周知】経済産業省デジタル人材育成プログラム「マナビDX Quest」令和5年度受講生募集開始のお知らせ]]></title>
         <id>9c1f2be838491fd858c52d64da8887bb</id>
@@ -271,24 +281,5 @@ This is a face-to-face program where you can talk in Japane…]]></summary>
 令和5年
 第4回：　5月31日（水）（フィリピン）
 第5回：　6月7日（水）（タ…]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【募集中】TG+プログラム第4期生募集開始]]></title>
-        <id>1793ebe4a3f53734bc8d95f85eaab1e4</id>
-        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4007"/>
-        <updated>2023-05-30T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[TG⁺プログラム第4期生の募集を開始します。
-
-【募集期間】
-5月25日～8月31日
-【締め切り】
-一次募集　6月30日（金）
-【申し込み方法】
-参加登録案内（https://tgplus.hass.tsukuba.ac.jp/entry/）をご覧ください。
-
-募集にあたりプログラムの説明会を開催します。
-プログラムにご興味・相談のある方は、ぜひご参加ください。
-
-１回目：6月15日（木） 11:…]]></summary>
     </entry>
 </feed>
