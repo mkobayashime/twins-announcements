@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/mkobayashime/twins-announcements</id>
     <title>在学生へのお知らせ | 筑波大学</title>
-    <updated>2023-06-07T05:03:59.844Z</updated>
+    <updated>2023-06-07T06:08:26.110Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://github.com/mkobayashime/twins-announcements"/>
     <subtitle>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</subtitle>
+    <entry>
+        <title type="html"><![CDATA[Student Ambassador Information Session Video Streaming/学生アンバサダー説明会動画配信]]></title>
+        <id>ae3ada2dfdc549f869647b2291babf92</id>
+        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4040"/>
+        <updated>2023-06-07T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[6月6日に開催した「学生アンバサダー説明会」の動画配信をしています。
+説明会に参加できなかった方は、是非下記からご覧ください。
+
+学生アンバサダー申請期限：2023年6月16日（金）
+
+We are now streaming the video of ”the Student Ambassador Information Session” held on June 6.
+If you were …]]></summary>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【再掲】TG⁺プログラム第４期生の募集を開始します]]></title>
         <id>80b6225c0be04d16e8919a828deecdb8</id>
@@ -264,18 +277,5 @@ ECサイトは以下のリンクから
 
 申請はこちらから↓
 https://forms.office.com/Pages/ResponsePage.a…]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[国際連携食料健康科学専攻（修士課程） オンライン入学相談会]]></title>
-        <id>fb14d9d2f0ccb1470bf27fce2d7c7cfd</id>
-        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4014"/>
-        <updated>2023-06-01T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[国際連携食料健康科学専攻（修士課程） オンライン入学相談会が開催されます。
-
-日時：2023年6月24日（土）10:00～11:30
-場所：オンライン
-詳細：6月22日（木）まで事前登録が必要です。ポスターをご覧ください。
-
-皆様のご参加を心よりお待ちしております！]]></summary>
     </entry>
 </feed>
