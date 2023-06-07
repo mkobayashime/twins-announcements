@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "8658df9f981f1b772418612eb11b5b33",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4038",
+            "title": "〔学生企画〕Pride Month「LGBTQ+ 映画鑑賞会」開催決定！",
+            "summary": "みなさんこんにちは。BHEジェンダー支援チームのピア（学生）スタッフです。\n6月のPride Month（LGBTQ＋の権利啓発月間）に合わせ、LGBTQ＋関連作品の映画鑑賞会を開催いたします。\n当日は学生・教職員問わず、本学構成員を対象に、作品鑑賞と来場者交流を行います。\n【参加費無料・お菓子ドリンクあり・飲食持込み可・入退出自由】で、お気軽にご参加できます。\nイベント詳細については、以下をご確…",
+            "date_modified": "2023-06-07T03:00:00.000Z"
+        },
+        {
             "id": "7a890fd8d16fc849d285a6a6e9f47aa2",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4037",
             "title": "大学基準協会調査「大学生の学習成果と満足度に関する国際的調査」(9/29締切）",
@@ -135,13 +142,6 @@
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4012",
             "title": "（Spring C）Information for Japanese Courses",
             "summary": "During the Spring module C, the following Japanese courses will be offered.\n\n　　・Japanese for Professional Purposes\n\n　　・Japanese Classes for Graduate Students（New!）\n\n\n\nIf you want to enroll, please con…",
-            "date_modified": "2023-06-01T03:00:00.000Z"
-        },
-        {
-            "id": "bd258f1a7fcd18e42809a7347294af2e",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4011",
-            "title": "（春C）日本語コースのお知らせ",
-            "summary": "春Cモジュールに下記の日本語コースを開講します。\n\n　　・キャリア支援日本語コース\n\n　　・大学院生のための日本語コース（New!）\n\n\n\n受講を希望する学生は、URLで詳細を確認し、履修申請をして下さい。",
             "date_modified": "2023-06-01T03:00:00.000Z"
         }
     ]
