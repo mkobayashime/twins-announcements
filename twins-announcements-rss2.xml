@@ -4,10 +4,18 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Tue, 06 Jun 2023 21:09:05 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 07 Jun 2023 00:34:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
+        <item>
+            <title><![CDATA[大学基準協会調査「大学生の学習成果と満足度に関する国際的調査」(9/29締切）]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4037</link>
+            <guid>7a890fd8d16fc849d285a6a6e9f47aa2</guid>
+            <pubDate>Wed, 07 Jun 2023 03:00:00 GMT</pubDate>
+            <description><![CDATA[＜調査協力のお願い＞　※所用時間：5～10分程度
+　大学基準協会では、本協会が協力協定を締結しているアジアの質保証機関（台湾評鑑協会（TWAEA）、タイの全国教育基準・質評価局（ONESQA）、ベトナム国家大学ホーチミン校教育評価センター（CEA VNU-HCM））及びモンゴル教育評価協議会（MNCEA））と共同で、アジアの大学における学生の学習成果と学習満足度について、学部学生を対象にアンケート…]]></description>
+        </item>
         <item>
             <title><![CDATA[（再掲） 【参加者募集】プライドマンス講演会「LGBTQ＋と法律-選択肢が広がる社会へ向けて-」（6/16開催）]]></title>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4036</link>
@@ -271,22 +279,6 @@ If you want to enroll, please con…]]></description>
 
 
 受講を希望する学生は、URLで詳細を確認し、履修申請をして下さい。]]></description>
-        </item>
-        <item>
-            <title><![CDATA[（6/23開催）「最近のタバコ事情」講習会]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4010</link>
-            <guid>5aa5e6fc043adfd7ce42976a8f70e105</guid>
-            <pubDate>Wed, 31 May 2023 03:00:00 GMT</pubDate>
-            <description><![CDATA[下記のとおり令和5年度衛生管理者講習会を開催いたします。
-この講習は衛生管理者向けですが，本学関係者であればどなたでも聴講できます。
-是非ご参加ください。
-　　　　　　　　　　　　　
-　　　　　　　　　　　　　記
-
-１．日　　時：令和５年６月２３日（金）　１０：１５～１１：１５
-２．実施方法：Microsoft Teamsを用いたオンライン配信
-３．テーマ：最近のタバコ事情
-４．対象者：本学教職員…]]></description>
         </item>
     </channel>
 </rss>
