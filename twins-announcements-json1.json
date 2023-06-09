@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "57d8ccfe723dff3bae45dc2792614ee4",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4048",
+            "title": "【お知らせ】令和５年梅雨前線による大雨及び台風第２号による災害にかかる被災状況について",
+            "summary": "  ニュース等でも報道されておりますが、令和５年梅雨前線による大雨及び台風第２号による災害において、被災された方々には心からお見舞い申し上げます。\n　災害救助法適用地域：【埼玉県】草加市、越谷市、北葛飾郡松伏町  【静岡県】磐田市\n　災害救助法適用日：令和５年６月２日\n\n  学生の皆さんで帰省先等において家屋の倒壊等、被害に遭われた方、又は友人学生が被害にあった情報がありましたら、状況把握のため被…",
+            "date_modified": "2023-06-09T03:00:00.000Z"
+        },
+        {
             "id": "76259f395df3f33feac32e4593e7349e",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4047",
             "title": "本日開催!【French&Spanish Chat】フランス語&スペイン語チャットイベント",
@@ -135,13 +142,6 @@
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4026",
             "title": "再掲【6/12開催】学生の皆さんが安心して化学実験を行うための研修会",
             "summary": "実験に携わる学群・大学院生向けに、化学物質の危険性や有害性を伝え、事件事故や健康障害を引き起こすリスクを減らすことを目的に、研修会を開催いたします。是非ご参加ください。\n（例年実施している「学生のための実験廃棄物管理研修会」から名称を変更しました。）\nなお、昨年度に引き続きオンデマンドでも開催いたします。\n当日は日本語のみですが、後日のオンデマンドで英語字幕をつけます。\n事前申し込みは不要です。\n…",
-            "date_modified": "2023-06-05T03:00:00.000Z"
-        },
-        {
-            "id": "140a6eb7c3a6e8533adb0d8fe573225c",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4024",
-            "title": "（BHE)Teams内　キャリア支援情報発信チーム立ち上げのご案内",
-            "summary": "この度BHEでは新しい情報発信の場として、新チームを立ち上げました。\n\nBHEには、日々求人・インターンシップ、各種イベントなどの案内が届きます。\nHPや学内掲示板では発信しきれない情報をタイムリーに発信していきます。\n卒業年度別や志望別のチャネルを設けていますので、ぜひ活用してください。\n\n【参加方法】\nチーム名「BHEキャリア支援チーム　情報発信」\n以下のリンクから参加してください。\nhttp…",
             "date_modified": "2023-06-05T03:00:00.000Z"
         }
     ]

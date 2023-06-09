@@ -4,10 +4,21 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Fri, 09 Jun 2023 05:03:35 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 09 Jun 2023 09:03:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
+        <item>
+            <title><![CDATA[【お知らせ】令和５年梅雨前線による大雨及び台風第２号による災害にかかる被災状況について]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4048</link>
+            <guid>57d8ccfe723dff3bae45dc2792614ee4</guid>
+            <pubDate>Fri, 09 Jun 2023 03:00:00 GMT</pubDate>
+            <description><![CDATA[  ニュース等でも報道されておりますが、令和５年梅雨前線による大雨及び台風第２号による災害において、被災された方々には心からお見舞い申し上げます。
+　災害救助法適用地域：【埼玉県】草加市、越谷市、北葛飾郡松伏町  【静岡県】磐田市
+　災害救助法適用日：令和５年６月２日
+
+  学生の皆さんで帰省先等において家屋の倒壊等、被害に遭われた方、又は友人学生が被害にあった情報がありましたら、状況把握のため被…]]></description>
+        </item>
         <item>
             <title><![CDATA[本日開催!【French&Spanish Chat】フランス語&スペイン語チャットイベント]]></title>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4047</link>
@@ -265,22 +276,6 @@ TEL:029-896-3530  FAX:029-896-3531
 当日は日本語のみですが、後日のオンデマンドで英語字幕をつけます。
 事前申し込みは不要です。
 …]]></description>
-        </item>
-        <item>
-            <title><![CDATA[（BHE)Teams内　キャリア支援情報発信チーム立ち上げのご案内]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4024</link>
-            <guid>140a6eb7c3a6e8533adb0d8fe573225c</guid>
-            <pubDate>Mon, 05 Jun 2023 03:00:00 GMT</pubDate>
-            <description><![CDATA[この度BHEでは新しい情報発信の場として、新チームを立ち上げました。
-
-BHEには、日々求人・インターンシップ、各種イベントなどの案内が届きます。
-HPや学内掲示板では発信しきれない情報をタイムリーに発信していきます。
-卒業年度別や志望別のチャネルを設けていますので、ぜひ活用してください。
-
-【参加方法】
-チーム名「BHEキャリア支援チーム　情報発信」
-以下のリンクから参加してください。
-http…]]></description>
         </item>
     </channel>
 </rss>
