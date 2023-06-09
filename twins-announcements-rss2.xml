@@ -4,10 +4,27 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Thu, 08 Jun 2023 21:09:47 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 09 Jun 2023 00:35:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
+        <item>
+            <title><![CDATA[（BHE)Teams内　キャリア支援情報発信チーム立ち上げのご案内]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4045</link>
+            <guid>140a6eb7c3a6e8533adb0d8fe573225c</guid>
+            <pubDate>Fri, 09 Jun 2023 03:00:00 GMT</pubDate>
+            <description><![CDATA[この度BHEでは新しい情報発信の場として、新チームを立ち上げました。
+
+BHEには、日々求人・インターンシップ、各種イベントなどの案内が届きます。
+HPや学内掲示板では発信しきれない情報をタイムリーに発信していきます。
+卒業年度別や志望別のチャネルを設けていますので、ぜひ活用してください。
+
+【参加方法】
+チーム名「BHEキャリア支援チーム　情報発信」
+以下のリンクから参加してください。
+
+【掲載…]]></description>
+        </item>
         <item>
             <title><![CDATA[明日 15:15~【English-Chat】英語チャットイベント]]></title>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4044</link>
@@ -267,19 +284,6 @@ http…]]></description>
 7月7日、14日、21日、28日
 会　場：スチューデント・コモンズ（第一エリア 1A棟203）
 対　象：筑波…]]></description>
-        </item>
-        <item>
-            <title><![CDATA[【BHEキャリア支援】teamsに情報発信チームを立ち上げました！]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4017</link>
-            <guid>17de84f9cb77d9b780ad328a33317884</guid>
-            <pubDate>Fri, 02 Jun 2023 03:00:00 GMT</pubDate>
-            <description><![CDATA[この度BHEでは新しい情報発信の場として、新チームを立ち上げました。
-BHEには、日々求人・インターンシップ、各種イベントなどの案内が届きます。
-HPや学内掲示板では発信しきれない情報をタイムリーに発信していきます。
-
-卒業年度別や志望別のチャネルを設けていますので、ぜひ活用してください。
-
-チーム コード「zkgvikm」]]></description>
         </item>
     </channel>
 </rss>
