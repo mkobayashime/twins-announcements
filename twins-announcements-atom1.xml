@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/mkobayashime/twins-announcements</id>
     <title>在学生へのお知らせ | 筑波大学</title>
-    <updated>2023-06-12T09:09:59.055Z</updated>
+    <updated>2023-06-12T15:09:17.618Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://github.com/mkobayashime/twins-announcements"/>
     <subtitle>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</subtitle>
@@ -21,22 +21,6 @@
 
 ■ヒューマニクス学位プログラム入試説明会（ハイブリッド形式）
 6/17（土）9:30-11:00　総合研究棟 …]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【本日開催！】学生の皆さんが安心して化学実験を行うための研修会]]></title>
-        <id>ce057eb8b4b5a9bc054c5d5cfd5566db</id>
-        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4049"/>
-        <updated>2023-06-12T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[実験に携わる学群・大学院生向けに、化学物質の危険性や有害性を伝え、事件事故や健康障害を引き起こすリスクを減らすことを目的に、研修会を開催いたします。是非ご参加ください。
-（例年実施している「学生のための実験廃棄物管理研修会」から名称を変更しました。）
-事前申し込みは不要です。
-
-<開催日時および場所>
-日時：令和５年６月１２日（月）１５時１５分～１６時３０分
-場所：大学会館国際会議室
-
-<内容>
-…]]></summary>
     </entry>
     <entry>
         <title type="html"><![CDATA[【お知らせ】令和５年梅雨前線による大雨及び台風第２号による災害にかかる被災状況について]]></title>
@@ -152,13 +136,16 @@ We are now streaming the video…]]></summary>
         <id>ae3ada2dfdc549f869647b2291babf92</id>
         <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4040"/>
         <updated>2023-06-07T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[6月6日に開催した「学生アンバサダー説明会」の動画配信をしています。
+        <summary type="html"><![CDATA[URLに誤りがあったので、再掲します。
+
+6月6日に開催した「学生アンバサダー説明会」の動画配信をしています。
 説明会に参加できなかった方は、是非下記からご覧ください。
 
 学生アンバサダー申請期限：2023年6月16日（金）
 
-We are now streaming the video of ”the Student Ambassador Information Session” held on June 6.
-If you were …]]></summary>
+There was an error in the URL, so we are reposting it.
+
+We are now streaming the video…]]></summary>
     </entry>
     <entry>
         <title type="html"><![CDATA[【再掲】TG⁺プログラム第４期生の募集を開始します]]></title>
@@ -281,5 +268,18 @@ IELTSのテストを受験予定の方。
 
 内容（40分程度）
 IELTSとは…]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[STOP！研究費不正使用！／STOP！Wrongful use of research funding！]]></title>
+        <id>d07de3a2549e9d1109e19fd73f9711de</id>
+        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4027"/>
+        <updated>2023-06-05T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[学生の皆さんが不正使用に巻き込まれるケースが多発しています。
+不正を見かけた、持ちかけられたら、通報窓口へ。
+コンプライアンス・ハラスメント対策室（学内窓口）
+Mail:compliance@un.tsukuba.ac.jp TEL:029-853-2033
+つくば中央法律事務所（学外窓口）
+TEL:029-896-3530  FAX:029-896-3531
+]]></summary>
     </entry>
 </feed>
