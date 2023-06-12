@@ -4,10 +4,26 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Mon, 12 Jun 2023 02:19:34 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 12 Jun 2023 07:04:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
+        <item>
+            <title><![CDATA[[再掲] ●大学院説明会● [生命医科学] × [理・工・情報学] 一貫制博士課程「ヒューマニクス学位プログラム」6/17（土）]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4050</link>
+            <guid>4cf4d362d86d7b468ae7db48eaa2953c</guid>
+            <pubDate>Mon, 12 Jun 2023 03:00:00 GMT</pubDate>
+            <description><![CDATA[学類生の皆さまへ
+
+「生命医科学」×「理・工・情報学」
+5年一貫制博士課程 ヒューマニクス学位プログラムより、大学院説明会のご案内です。
+
+大学院への進学を予定されている4年生はもちろん、１〜３年生の参加も歓迎いたします。
+「ヒューマニクスって何？」という方も、お気軽にご参加ください。
+
+■ヒューマニクス学位プログラム入試説明会（ハイブリッド形式）
+6/17（土）9:30-11:00　総合研究棟 …]]></description>
+        </item>
         <item>
             <title><![CDATA[【本日開催！】学生の皆さんが安心して化学実験を行うための研修会]]></title>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4049</link>
@@ -267,19 +283,6 @@ IELTSのテストを受験予定の方。
 
 内容（40分程度）
 IELTSとは…]]></description>
-        </item>
-        <item>
-            <title><![CDATA[STOP！研究費不正使用！／STOP！Wrongful use of research funding！]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4027</link>
-            <guid>d07de3a2549e9d1109e19fd73f9711de</guid>
-            <pubDate>Mon, 05 Jun 2023 03:00:00 GMT</pubDate>
-            <description><![CDATA[学生の皆さんが不正使用に巻き込まれるケースが多発しています。
-不正を見かけた、持ちかけられたら、通報窓口へ。
-コンプライアンス・ハラスメント対策室（学内窓口）
-Mail:compliance@un.tsukuba.ac.jp TEL:029-853-2033
-つくば中央法律事務所（学外窓口）
-TEL:029-896-3530  FAX:029-896-3531
-]]></description>
         </item>
     </channel>
 </rss>
