@@ -4,10 +4,26 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Sun, 11 Jun 2023 21:08:18 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 12 Jun 2023 02:19:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
+        <item>
+            <title><![CDATA[【本日開催！】学生の皆さんが安心して化学実験を行うための研修会]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4049</link>
+            <guid>ce057eb8b4b5a9bc054c5d5cfd5566db</guid>
+            <pubDate>Mon, 12 Jun 2023 03:00:00 GMT</pubDate>
+            <description><![CDATA[実験に携わる学群・大学院生向けに、化学物質の危険性や有害性を伝え、事件事故や健康障害を引き起こすリスクを減らすことを目的に、研修会を開催いたします。是非ご参加ください。
+（例年実施している「学生のための実験廃棄物管理研修会」から名称を変更しました。）
+事前申し込みは不要です。
+
+<開催日時および場所>
+日時：令和５年６月１２日（月）１５時１５分～１６時３０分
+場所：大学会館国際会議室
+
+<内容>
+…]]></description>
+        </item>
         <item>
             <title><![CDATA[【お知らせ】令和５年梅雨前線による大雨及び台風第２号による災害にかかる被災状況について]]></title>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4048</link>
@@ -264,18 +280,6 @@ Mail:compliance@un.tsukuba.ac.jp TEL:029-853-2033
 つくば中央法律事務所（学外窓口）
 TEL:029-896-3530  FAX:029-896-3531
 ]]></description>
-        </item>
-        <item>
-            <title><![CDATA[再掲【6/12開催】学生の皆さんが安心して化学実験を行うための研修会]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4026</link>
-            <guid>ee4d2dec17ebf5f94f5f34c0e4bd6c39</guid>
-            <pubDate>Mon, 05 Jun 2023 03:00:00 GMT</pubDate>
-            <description><![CDATA[実験に携わる学群・大学院生向けに、化学物質の危険性や有害性を伝え、事件事故や健康障害を引き起こすリスクを減らすことを目的に、研修会を開催いたします。是非ご参加ください。
-（例年実施している「学生のための実験廃棄物管理研修会」から名称を変更しました。）
-なお、昨年度に引き続きオンデマンドでも開催いたします。
-当日は日本語のみですが、後日のオンデマンドで英語字幕をつけます。
-事前申し込みは不要です。
-…]]></description>
         </item>
     </channel>
 </rss>

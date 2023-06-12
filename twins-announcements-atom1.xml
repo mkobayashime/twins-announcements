@@ -2,10 +2,26 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/mkobayashime/twins-announcements</id>
     <title>在学生へのお知らせ | 筑波大学</title>
-    <updated>2023-06-11T21:08:18.089Z</updated>
+    <updated>2023-06-12T02:19:34.300Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://github.com/mkobayashime/twins-announcements"/>
     <subtitle>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</subtitle>
+    <entry>
+        <title type="html"><![CDATA[【本日開催！】学生の皆さんが安心して化学実験を行うための研修会]]></title>
+        <id>ce057eb8b4b5a9bc054c5d5cfd5566db</id>
+        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4049"/>
+        <updated>2023-06-12T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[実験に携わる学群・大学院生向けに、化学物質の危険性や有害性を伝え、事件事故や健康障害を引き起こすリスクを減らすことを目的に、研修会を開催いたします。是非ご参加ください。
+（例年実施している「学生のための実験廃棄物管理研修会」から名称を変更しました。）
+事前申し込みは不要です。
+
+<開催日時および場所>
+日時：令和５年６月１２日（月）１５時１５分～１６時３０分
+場所：大学会館国際会議室
+
+<内容>
+…]]></summary>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【お知らせ】令和５年梅雨前線による大雨及び台風第２号による災害にかかる被災状況について]]></title>
         <id>57d8ccfe723dff3bae45dc2792614ee4</id>
@@ -262,17 +278,5 @@ Mail:compliance@un.tsukuba.ac.jp TEL:029-853-2033
 つくば中央法律事務所（学外窓口）
 TEL:029-896-3530  FAX:029-896-3531
 ]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[再掲【6/12開催】学生の皆さんが安心して化学実験を行うための研修会]]></title>
-        <id>ee4d2dec17ebf5f94f5f34c0e4bd6c39</id>
-        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4026"/>
-        <updated>2023-06-05T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[実験に携わる学群・大学院生向けに、化学物質の危険性や有害性を伝え、事件事故や健康障害を引き起こすリスクを減らすことを目的に、研修会を開催いたします。是非ご参加ください。
-（例年実施している「学生のための実験廃棄物管理研修会」から名称を変更しました。）
-なお、昨年度に引き続きオンデマンドでも開催いたします。
-当日は日本語のみですが、後日のオンデマンドで英語字幕をつけます。
-事前申し込みは不要です。
-…]]></summary>
     </entry>
 </feed>
