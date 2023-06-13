@@ -4,10 +4,28 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Tue, 13 Jun 2023 02:09:00 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 13 Jun 2023 08:38:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
+        <item>
+            <title><![CDATA[Scholarship for Students Participating in Online International Education and Exchange Programs]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4054</link>
+            <guid>a1fab53c7b1e8a5f4a62db5a5e3b5f1b</guid>
+            <pubDate>Tue, 13 Jun 2023 03:00:00 GMT</pubDate>
+            <description><![CDATA[In order to further promote ONLINE international education and exchange opportunities for students, we will provide support for course fees and other expenses, even if students do not earn credits, on…]]></description>
+        </item>
+        <item>
+            <title><![CDATA[オンラインを活用した国際的な教育・交流プログラムへ参加する学生への奨学金支援]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4053</link>
+            <guid>2221c237497e8fe51a17cbe13687a840</guid>
+            <pubDate>Tue, 13 Jun 2023 03:00:00 GMT</pubDate>
+            <description><![CDATA[学生がオンラインで国境を超えた多様な学びができるよう、国際的な教育・交流プログラムへ参加する学生への経費を支援します。
+単位を取得しない場合であっても、受講修了証等の提出を条件に、支援対象となります。申請を希望する学生は募集要項をよく確認の上、必要書類をエリア支援室等へ提出してください。
+
+・【対象期間（プログラム参加期間）】令和5年7月～令和5年12月
+・【支援経費】１登録あたり１律３万円（経費…]]></description>
+        </item>
         <item>
             <title><![CDATA[【お知らせ】法人等による寄附の不当な勧誘の防止等について]]></title>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4052</link>
@@ -249,34 +267,6 @@ LGBTQ+を取り巻く法制度や裁判例からその現状と背景を知り�
             <description><![CDATA[　経済産業省より、地域企業・産業のDXの実現に向けた、デジタル人材の育成を推進するための事業である、「マナビDX Quest」について、以下のとおり案内がありましたのでお知らせいたします。※ 詳細は添付ファイルをご確認ください。
 （以下、募集内容）
 ---------------------------------------------------------------------------…]]></description>
-        </item>
-        <item>
-            <title><![CDATA[【お知らせ】6月のStudent Commons（1A203）Event Info]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4031</link>
-            <guid>b9015ea2ed3200e5fbc886a05ef01f75</guid>
-            <pubDate>Tue, 06 Jun 2023 03:00:00 GMT</pubDate>
-            <description><![CDATA[6/6(火) 学生アンバサダー募集説明会/Call for Student Ambassador! Info session
-　　13:30～14:30
-　　https://ssc.sec.tsukuba.ac.jp/archives/36188　
-
-6/7(水)　海外インターンシップ説明会in ロサンゼルス
-　　①11：35～②18:15～
-　　夏休み中渡米のプログラム説明会は、今回で最後！
-　…]]></description>
-        </item>
-        <item>
-            <title><![CDATA[令和5年度夏季休業前の海外危機管理セミナーについて]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4030</link>
-            <guid>a60f49288fc1fa089df04e8b832cad21</guid>
-            <pubDate>Mon, 05 Jun 2023 03:00:00 GMT</pubDate>
-            <description><![CDATA[海外危機管理セミナー（オンライン）を開催しますので、お知らせいたします。
-海外危機管理に関するスペシャリストをお招きし、海外渡航※前の準備事項と、現地での安全対策について学びます。ご参加に当たっては、期日までに事前登録してください。
-
-１．日時：　令和5年6月22日（木）18：15～19：30
-
-２．内容・講師：
-　　①「海外に行く際の、気軽にできる感染症予防」
-　　　講師：医学医療系　鈴木 広道…]]></description>
         </item>
     </channel>
 </rss>

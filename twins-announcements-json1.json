@@ -5,6 +5,20 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "a1fab53c7b1e8a5f4a62db5a5e3b5f1b",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4054",
+            "title": "Scholarship for Students Participating in Online International Education and Exchange Programs",
+            "summary": "In order to further promote ONLINE international education and exchange opportunities for students, we will provide support for course fees and other expenses, even if students do not earn credits, on…",
+            "date_modified": "2023-06-13T03:00:00.000Z"
+        },
+        {
+            "id": "2221c237497e8fe51a17cbe13687a840",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4053",
+            "title": "オンラインを活用した国際的な教育・交流プログラムへ参加する学生への奨学金支援",
+            "summary": "学生がオンラインで国境を超えた多様な学びができるよう、国際的な教育・交流プログラムへ参加する学生への経費を支援します。\n単位を取得しない場合であっても、受講修了証等の提出を条件に、支援対象となります。申請を希望する学生は募集要項をよく確認の上、必要書類をエリア支援室等へ提出してください。\n\n・【対象期間（プログラム参加期間）】令和5年7月～令和5年12月\n・【支援経費】１登録あたり１律３万円（経費…",
+            "date_modified": "2023-06-13T03:00:00.000Z"
+        },
+        {
             "id": "a6c8ef51b07a263e7e355cb1b480fc35",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4052",
             "title": "【お知らせ】法人等による寄附の不当な勧誘の防止等について",
@@ -129,20 +143,6 @@
             "title": "【周知】経済産業省デジタル人材育成プログラム「マナビDX Quest」令和5年度受講生募集開始のお知らせ",
             "summary": "　経済産業省より、地域企業・産業のDXの実現に向けた、デジタル人材の育成を推進するための事業である、「マナビDX Quest」について、以下のとおり案内がありましたのでお知らせいたします。※ 詳細は添付ファイルをご確認ください。\n（以下、募集内容）\n---------------------------------------------------------------------------…",
             "date_modified": "2023-06-06T03:00:00.000Z"
-        },
-        {
-            "id": "b9015ea2ed3200e5fbc886a05ef01f75",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4031",
-            "title": "【お知らせ】6月のStudent Commons（1A203）Event Info",
-            "summary": "6/6(火) 学生アンバサダー募集説明会/Call for Student Ambassador! Info session\n　　13:30～14:30\n　　https://ssc.sec.tsukuba.ac.jp/archives/36188　\n\n6/7(水)　海外インターンシップ説明会in ロサンゼルス\n　　①11：35～②18:15～\n　　夏休み中渡米のプログラム説明会は、今回で最後！\n　…",
-            "date_modified": "2023-06-06T03:00:00.000Z"
-        },
-        {
-            "id": "a60f49288fc1fa089df04e8b832cad21",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4030",
-            "title": "令和5年度夏季休業前の海外危機管理セミナーについて",
-            "summary": "海外危機管理セミナー（オンライン）を開催しますので、お知らせいたします。\n海外危機管理に関するスペシャリストをお招きし、海外渡航※前の準備事項と、現地での安全対策について学びます。ご参加に当たっては、期日までに事前登録してください。\n\n１．日時：　令和5年6月22日（木）18：15～19：30\n\n２．内容・講師：\n　　①「海外に行く際の、気軽にできる感染症予防」\n　　　講師：医学医療系　鈴木 広道…",
-            "date_modified": "2023-06-05T03:00:00.000Z"
         }
     ]
 }
