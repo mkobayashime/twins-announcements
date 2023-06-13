@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "a6c8ef51b07a263e7e355cb1b480fc35",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4052",
+            "title": "【お知らせ】法人等による寄附の不当な勧誘の防止等について",
+            "summary": "　6月1日から、「法人等による寄附の不当な勧誘の防止等に関する法律」（令和４年法律第105号。以下「不当寄附勧誘防止法」という。）の全ての規定が施行されたことに伴い、消費者庁から、「不当寄附勧誘防止法」に係る広報資料ページや情報提供を受け付けるウェブフォームについての案内がありましたので、お知らせします。\n\n　詳細については、筑波大学スチューデントサポートセンターに掲載していますので、以下のURL…",
+            "date_modified": "2023-06-13T03:00:00.000Z"
+        },
+        {
             "id": "140a6eb7c3a6e8533adb0d8fe573225c",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4051",
             "title": "（BHE)Teams内　キャリア支援情報発信チーム立ち上げのご案内",
@@ -135,13 +142,6 @@
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4030",
             "title": "令和5年度夏季休業前の海外危機管理セミナーについて",
             "summary": "海外危機管理セミナー（オンライン）を開催しますので、お知らせいたします。\n海外危機管理に関するスペシャリストをお招きし、海外渡航※前の準備事項と、現地での安全対策について学びます。ご参加に当たっては、期日までに事前登録してください。\n\n１．日時：　令和5年6月22日（木）18：15～19：30\n\n２．内容・講師：\n　　①「海外に行く際の、気軽にできる感染症予防」\n　　　講師：医学医療系　鈴木 広道…",
-            "date_modified": "2023-06-05T03:00:00.000Z"
-        },
-        {
-            "id": "478e4f334b805b8d41d5da981bb4f7a9",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4029",
-            "title": "【見逃し配信】IELTS説明会～視聴期限6/24（土）23:59",
-            "summary": "見逃し配信のお知らせです。\n5/25（木）に開催された、JSAF-IELTS公式テストセンターの一般社団法人日本スタディ・アブロード・ファンデーション（JSAF）による筑波大学生向けIELTSオンライン説明会動画\n\nIELTSのテストを受験予定の方。\nまた受験を検討している方。\n留学を検討している方。\nは、大変参考になりますので、視聴可能期間中にご覧ください。\n\n内容（40分程度）\nIELTSとは…",
             "date_modified": "2023-06-05T03:00:00.000Z"
         }
     ]

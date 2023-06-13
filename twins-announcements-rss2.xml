@@ -4,10 +4,19 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Tue, 13 Jun 2023 00:33:38 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 13 Jun 2023 02:09:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
+        <item>
+            <title><![CDATA[【お知らせ】法人等による寄附の不当な勧誘の防止等について]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4052</link>
+            <guid>a6c8ef51b07a263e7e355cb1b480fc35</guid>
+            <pubDate>Tue, 13 Jun 2023 03:00:00 GMT</pubDate>
+            <description><![CDATA[　6月1日から、「法人等による寄附の不当な勧誘の防止等に関する法律」（令和４年法律第105号。以下「不当寄附勧誘防止法」という。）の全ての規定が施行されたことに伴い、消費者庁から、「不当寄附勧誘防止法」に係る広報資料ページや情報提供を受け付けるウェブフォームについての案内がありましたので、お知らせします。
+
+　詳細については、筑波大学スチューデントサポートセンターに掲載していますので、以下のURL…]]></description>
+        </item>
         <item>
             <title><![CDATA[（BHE)Teams内　キャリア支援情報発信チーム立ち上げのご案内]]></title>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4051</link>
@@ -268,22 +277,6 @@ LGBTQ+を取り巻く法制度や裁判例からその現状と背景を知り�
 ２．内容・講師：
 　　①「海外に行く際の、気軽にできる感染症予防」
 　　　講師：医学医療系　鈴木 広道…]]></description>
-        </item>
-        <item>
-            <title><![CDATA[【見逃し配信】IELTS説明会～視聴期限6/24（土）23:59]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4029</link>
-            <guid>478e4f334b805b8d41d5da981bb4f7a9</guid>
-            <pubDate>Mon, 05 Jun 2023 03:00:00 GMT</pubDate>
-            <description><![CDATA[見逃し配信のお知らせです。
-5/25（木）に開催された、JSAF-IELTS公式テストセンターの一般社団法人日本スタディ・アブロード・ファンデーション（JSAF）による筑波大学生向けIELTSオンライン説明会動画
-
-IELTSのテストを受験予定の方。
-また受験を検討している方。
-留学を検討している方。
-は、大変参考になりますので、視聴可能期間中にご覧ください。
-
-内容（40分程度）
-IELTSとは…]]></description>
         </item>
     </channel>
 </rss>
