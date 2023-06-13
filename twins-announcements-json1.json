@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "67454f874ac3730df485448b4ce48df2",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4055",
+            "title": "【公募中～6/30まで】令和5年度つくばスマートシティ社会実装トライアル支援事業",
+            "summary": "つくば市から以下の案内がありましたので、お知らせいたします。\n-----------------------\n\n今年もつくば市をフィールドとした社会実装トライアルの公募が始まりました。\n\nこれまでのSociety5.0社会の実現に加え、スマートシティやスーパーシティの実現、\nつくば市の地域課題の解決に資する革新的な技術やアイディアを募集しています。\nトライアルの費用負担は上限100万円（10/10…",
+            "date_modified": "2023-06-13T03:00:00.000Z"
+        },
+        {
             "id": "a1fab53c7b1e8a5f4a62db5a5e3b5f1b",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4054",
             "title": "Scholarship for Students Participating in Online International Education and Exchange Programs",
@@ -135,13 +142,6 @@
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4033",
             "title": "「お金の超基本勉強会―卒業してからでは遅すぎる」第７回開催のお知らせ",
             "summary": "「筑波大学・世界を変えよう基金アカデミー」では、お金に関する基礎知識（所得税計算、結婚・教育・マイホーム・老後・病気への備え、投資運用,　NISA活用方法等）を学ぶ「お金の超基本勉強会―卒業してからでは遅すぎる」第7回を７月に開催します。\n開催方式：対面またはリモート　（初回７月６日は対面）。\n開催曜日：毎週木曜　(7/6, 13, 20, 27, 8/3, 8/10) 18:10~19:40\n講…",
-            "date_modified": "2023-06-06T03:00:00.000Z"
-        },
-        {
-            "id": "9c1f2be838491fd858c52d64da8887bb",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4032",
-            "title": "【周知】経済産業省デジタル人材育成プログラム「マナビDX Quest」令和5年度受講生募集開始のお知らせ",
-            "summary": "　経済産業省より、地域企業・産業のDXの実現に向けた、デジタル人材の育成を推進するための事業である、「マナビDX Quest」について、以下のとおり案内がありましたのでお知らせいたします。※ 詳細は添付ファイルをご確認ください。\n（以下、募集内容）\n---------------------------------------------------------------------------…",
             "date_modified": "2023-06-06T03:00:00.000Z"
         }
     ]

@@ -2,10 +2,24 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/mkobayashime/twins-announcements</id>
     <title>在学生へのお知らせ | 筑波大学</title>
-    <updated>2023-06-13T09:09:02.008Z</updated>
+    <updated>2023-06-13T10:04:07.316Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://github.com/mkobayashime/twins-announcements"/>
     <subtitle>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</subtitle>
+    <entry>
+        <title type="html"><![CDATA[【公募中～6/30まで】令和5年度つくばスマートシティ社会実装トライアル支援事業]]></title>
+        <id>67454f874ac3730df485448b4ce48df2</id>
+        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4055"/>
+        <updated>2023-06-13T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[つくば市から以下の案内がありましたので、お知らせいたします。
+-----------------------
+
+今年もつくば市をフィールドとした社会実装トライアルの公募が始まりました。
+
+これまでのSociety5.0社会の実現に加え、スマートシティやスーパーシティの実現、
+つくば市の地域課題の解決に資する革新的な技術やアイディアを募集しています。
+トライアルの費用負担は上限100万円（10/10…]]></summary>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Scholarship for Students Participating in Online International Education and Exchange Programs]]></title>
         <id>a1fab53c7b1e8a5f4a62db5a5e3b5f1b</id>
@@ -256,14 +270,5 @@ LGBTQ+を取り巻く法制度や裁判例からその現状と背景を知り�
 開催方式：対面またはリモート　（初回７月６日は対面）。
 開催曜日：毎週木曜　(7/6, 13, 20, 27, 8/3, 8/10) 18:10~19:40
 講…]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【周知】経済産業省デジタル人材育成プログラム「マナビDX Quest」令和5年度受講生募集開始のお知らせ]]></title>
-        <id>9c1f2be838491fd858c52d64da8887bb</id>
-        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4032"/>
-        <updated>2023-06-06T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[　経済産業省より、地域企業・産業のDXの実現に向けた、デジタル人材の育成を推進するための事業である、「マナビDX Quest」について、以下のとおり案内がありましたのでお知らせいたします。※ 詳細は添付ファイルをご確認ください。
-（以下、募集内容）
----------------------------------------------------------------------------…]]></summary>
     </entry>
 </feed>
