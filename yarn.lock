@@ -1384,6 +1384,11 @@ graceful-fs@^4.2.4:
   resolved "https://registry.yarnpkg.com/graceful-fs/-/graceful-fs-4.2.10.tgz#147d3a006da4ca3ce14728c7aefc287c367d7a6c"
   integrity sha512-9ByhssR2fPVsNZj478qUUbKfmL0+t5BDVyjShtyZZLiK7ZDAArFFfopyOTj0M05wE2tJPisA4iTnnXl2YoPvOA==
 
+grapheme-splitter@^1.0.4:
+  version "1.0.4"
+  resolved "https://registry.yarnpkg.com/grapheme-splitter/-/grapheme-splitter-1.0.4.tgz#9cf3a665c6247479896834af35cf1dbb4400767e"
+  integrity sha512-bzh50DW9kTPM00T8y4o8vQg89Di9oLJVLW/KaOGIXJWP/iqCN6WKYkbNOF04vFLJhwcpYUh9ydh/+5vpOqV4YQ==
+
 graphemer@^1.4.0:
   version "1.4.0"
   resolved "https://registry.yarnpkg.com/graphemer/-/graphemer-1.4.0.tgz#fb2f1d55e0e3a1849aeffc90c4fa0dd53a0e66c6"
@@ -2101,10 +2106,10 @@ punycode@^2.1.0:
   resolved "https://registry.yarnpkg.com/punycode/-/punycode-2.1.1.tgz#b58b010ac40c22c5657616c8d2c2c02c7bf479ec"
   integrity sha512-XRsRjdf+j5ml+y/6GKHPZbrF/8p2Yga0JPtdqTIY2Xe5ohJPD9saDJJLPvp9+NSBprVvevdXZybnj2cv8OEd0A==
 
-puppeteer-core@20.6.0:
-  version "20.6.0"
-  resolved "https://registry.yarnpkg.com/puppeteer-core/-/puppeteer-core-20.6.0.tgz#ab47cbad9362d81dd082e8460647f14dd5a8c54a"
-  integrity sha512-vUE6VnqvOHX1ABssTxtzTJUzEJrTL49DmXflSvlRIcolzOISVni1niI5/oWsDxzyRVE9sfwe8QqFbsWozs5RPA==
+puppeteer-core@20.7.1:
+  version "20.7.1"
+  resolved "https://registry.yarnpkg.com/puppeteer-core/-/puppeteer-core-20.7.1.tgz#fdbb6d4fa6fda4a97e299d2f191fdcfab5832758"
+  integrity sha512-f45j9JxImFaYndQYsFA39CEDKwpn1nAF/Iw7urznatjhaslSB/RfHG7sC7iPpDbmP+CLpPEkHhqNxqpaUDdTLw==
   dependencies:
     "@puppeteer/browsers" "1.4.1"
     chromium-bidi "0.4.11"
@@ -2113,14 +2118,14 @@ puppeteer-core@20.6.0:
     devtools-protocol "0.0.1135028"
     ws "8.13.0"
 
-puppeteer@20.6.0:
-  version "20.6.0"
-  resolved "https://registry.yarnpkg.com/puppeteer/-/puppeteer-20.6.0.tgz#b96974cd98232adb26a58734fd12033dd5fe7b94"
-  integrity sha512-D/kkEIpDFRqpLOcCoNNdXI+IUcoD1FmdlWteT4FFPOhNLC46urmItMfQDKSwk2NJoO38ncgCQe5XEQ3QHD+piA==
+puppeteer@20.7.1:
+  version "20.7.1"
+  resolved "https://registry.yarnpkg.com/puppeteer/-/puppeteer-20.7.1.tgz#82819bf88bb1ae7b5ca665684b33b7656dbb3613"
+  integrity sha512-yIkba2PT6rkPw85gCAmbW6KO6VVFTdONnvQp8taeMZaOTUJ193nVajykD1jT3vFbjvwKz8te9nbBVb9ITQqbPA==
   dependencies:
     "@puppeteer/browsers" "1.4.1"
     cosmiconfig "8.2.0"
-    puppeteer-core "20.6.0"
+    puppeteer-core "20.7.1"
 
 queue-microtask@^1.2.2:
   version "1.2.3"
