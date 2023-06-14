@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "81df61db64483e2293aa97f5a57f3e2a",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4056",
+            "title": "（BHE)7月12日　23年度教採受験予定者　採用試験対策対面面接練習会",
+            "summary": "教員採用試験を目指す方向けの集団面接練習会を開催します。\n当日は元教員OBの方にもご協力いただく予定です。\nビジネスマナーについても学ぶことができます。\n当日はなるべく面接時に実際、着用するスーツ等で参加することを推奨します。\nBHEキャリア支援チームのファシリテーターからフィードバックがあります。\n＜日時＞\n7月12日（水）\n午前の部　10：00-11：30\n午後の部　13：00-14：30\n＜…",
+            "date_modified": "2023-06-14T03:00:00.000Z"
+        },
+        {
             "id": "67454f874ac3730df485448b4ce48df2",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4055",
             "title": "【公募中～6/30まで】令和5年度つくばスマートシティ社会実装トライアル支援事業",
@@ -135,13 +142,6 @@
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4035",
             "title": "【重要】2023年度第1期分授業料の納入督促について",
             "summary": "　2023年度第1期分授業料について、5月29日(月)に口座振替により引落しを行いましたが、残高不足等のため引落しができなかった者については、6月27日(火)に再度預金口座から引落しを行います。\n　つきましては、金融機関の前営業日である6月26日(月)までに登録した預金口座へ入金をお願いします。\n\n　なお、引落しがされている場合は、通帳に“ツクバダイ”と記帳されますので、引落しがされているか登録し…",
-            "date_modified": "2023-06-06T03:00:00.000Z"
-        },
-        {
-            "id": "443c7814141322cc930db55581fc1021",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4033",
-            "title": "「お金の超基本勉強会―卒業してからでは遅すぎる」第７回開催のお知らせ",
-            "summary": "「筑波大学・世界を変えよう基金アカデミー」では、お金に関する基礎知識（所得税計算、結婚・教育・マイホーム・老後・病気への備え、投資運用,　NISA活用方法等）を学ぶ「お金の超基本勉強会―卒業してからでは遅すぎる」第7回を７月に開催します。\n開催方式：対面またはリモート　（初回７月６日は対面）。\n開催曜日：毎週木曜　(7/6, 13, 20, 27, 8/3, 8/10) 18:10~19:40\n講…",
             "date_modified": "2023-06-06T03:00:00.000Z"
         }
     ]
