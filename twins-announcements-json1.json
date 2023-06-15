@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "c951af04876ae6a33962b27005d2eec2",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4060",
+            "title": "【注意喚起】食肉の生食にご注意ください（つくば保健所から）",
+            "summary": "　つくば保健所から、牛レバー等加熱食品の生食による健康被害予防のため、食肉の生食に関する注意喚起がありましたので、お知らせいたします。\n　6月は一般的に食中毒が多い時期と言われています。特に生・半生・加熱不足の鶏肉料理による「カンピロバクター食中毒」が増加傾向にあります。\n　鶏肉を調理する際には、中心部までしっかりと加熱する、食肉を焼くときの箸と、食べるときの箸を使い分けるなど、取り扱いには十分注…",
+            "date_modified": "2023-06-15T03:00:00.000Z"
+        },
+        {
             "id": "47c0bc18507f7252a86cd32be4fd15a4",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4059",
             "title": "【通知】中地区構内通路における舗装工事のお知らせ",
@@ -135,13 +142,6 @@
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4039",
             "title": "【再掲】TG⁺プログラム第４期生の募集を開始します",
             "summary": "TG⁺プログラム第4期生の募集を開始します。\n\n【募集期間】\n5月25日～8月31日\n【締め切り】\n一次募集　6月30日（金）\n【申し込み方法】\n参加登録案内（https://tgplus.hass.tsukuba.ac.jp/entry/）をご覧ください。\n\n募集にあたりプログラムの説明会を開催します。\nプログラムにご興味・相談のある方は、ぜひご参加ください。\n\n１回目：6月15日（木） 11:…",
-            "date_modified": "2023-06-07T03:00:00.000Z"
-        },
-        {
-            "id": "8658df9f981f1b772418612eb11b5b33",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4038",
-            "title": "〔学生企画〕Pride Month「LGBTQ+ 映画鑑賞会」開催決定！",
-            "summary": "みなさんこんにちは。BHEジェンダー支援チームのピア（学生）スタッフです。\n6月のPride Month（LGBTQ＋の権利啓発月間）に合わせ、LGBTQ＋関連作品の映画鑑賞会を開催いたします。\n当日は学生・教職員問わず、本学構成員を対象に、作品鑑賞と来場者交流を行います。\n【参加費無料・お菓子ドリンクあり・飲食持込み可・入退出自由】で、お気軽にご参加できます。\nイベント詳細については、以下をご確…",
             "date_modified": "2023-06-07T03:00:00.000Z"
         }
     ]

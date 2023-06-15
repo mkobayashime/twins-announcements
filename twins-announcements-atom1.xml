@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/mkobayashime/twins-announcements</id>
     <title>在学生へのお知らせ | 筑波大学</title>
-    <updated>2023-06-14T21:08:00.371Z</updated>
+    <updated>2023-06-15T00:32:57.801Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://github.com/mkobayashime/twins-announcements"/>
     <subtitle>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</subtitle>
+    <entry>
+        <title type="html"><![CDATA[【注意喚起】食肉の生食にご注意ください（つくば保健所から）]]></title>
+        <id>c951af04876ae6a33962b27005d2eec2</id>
+        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4060"/>
+        <updated>2023-06-15T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[　つくば保健所から、牛レバー等加熱食品の生食による健康被害予防のため、食肉の生食に関する注意喚起がありましたので、お知らせいたします。
+　6月は一般的に食中毒が多い時期と言われています。特に生・半生・加熱不足の鶏肉料理による「カンピロバクター食中毒」が増加傾向にあります。
+　鶏肉を調理する際には、中心部までしっかりと加熱する、食肉を焼くときの箸と、食べるときの箸を使い分けるなど、取り扱いには十分注…]]></summary>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【通知】中地区構内通路における舗装工事のお知らせ]]></title>
         <id>47c0bc18507f7252a86cd32be4fd15a4</id>
@@ -282,16 +291,5 @@ If you were …]]></summary>
 プログラムにご興味・相談のある方は、ぜひご参加ください。
 
 １回目：6月15日（木） 11:…]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[〔学生企画〕Pride Month「LGBTQ+ 映画鑑賞会」開催決定！]]></title>
-        <id>8658df9f981f1b772418612eb11b5b33</id>
-        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4038"/>
-        <updated>2023-06-07T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[みなさんこんにちは。BHEジェンダー支援チームのピア（学生）スタッフです。
-6月のPride Month（LGBTQ＋の権利啓発月間）に合わせ、LGBTQ＋関連作品の映画鑑賞会を開催いたします。
-当日は学生・教職員問わず、本学構成員を対象に、作品鑑賞と来場者交流を行います。
-【参加費無料・お菓子ドリンクあり・飲食持込み可・入退出自由】で、お気軽にご参加できます。
-イベント詳細については、以下をご確…]]></summary>
     </entry>
 </feed>
