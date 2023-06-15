@@ -4,10 +4,23 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Thu, 15 Jun 2023 05:03:39 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 15 Jun 2023 06:08:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
+        <item>
+            <title><![CDATA[【周知】「優れた外国語活動」認定制度について]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4062</link>
+            <guid>32555d9d66b09f7d5b2ad156990f602c</guid>
+            <pubDate>Thu, 15 Jun 2023 03:00:00 GMT</pubDate>
+            <description><![CDATA[　グローバルコミュニケーション教育センター（通称CEGLOC）では、学生の皆さんの意欲的で、自主的な外国語活動を独自評価する「優れた外国語活動」認定制度を設置しています。
+学群、大学院は問いませんので、以下に該当するかなと思われる方は、是非申請してみてください。
+留学生の日本語活動も対象です。
+詳細はCEGLOCのホームページをご覧ください。
+皆さんからの積極的な応募をお待ちしています。
+
+●外国…]]></description>
+        </item>
         <item>
             <title><![CDATA[【7/23開催】一般公開WEBイベント「発達障害の"障害"は、社会のどこにあるのか？」]]></title>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4061</link>
@@ -270,19 +283,6 @@ International students are also welcome!
 There was an error in the URL, so we are reposting it.
 
 We are now streaming the video…]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Student Ambassador Information Session Video Streaming/学生アンバサダー説明会動画配信]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4040</link>
-            <guid>ae3ada2dfdc549f869647b2291babf92</guid>
-            <pubDate>Wed, 07 Jun 2023 03:00:00 GMT</pubDate>
-            <description><![CDATA[6月6日に開催した「学生アンバサダー説明会」の動画配信をしています。
-説明会に参加できなかった方は、是非下記からご覧ください。
-
-学生アンバサダー申請期限：2023年6月16日（金）
-
-We are now streaming the video of ”the Student Ambassador Information Session” held on June 6.
-If you were …]]></description>
         </item>
     </channel>
 </rss>

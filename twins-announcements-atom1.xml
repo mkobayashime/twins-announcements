@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/mkobayashime/twins-announcements</id>
     <title>在学生へのお知らせ | 筑波大学</title>
-    <updated>2023-06-15T05:03:39.191Z</updated>
+    <updated>2023-06-15T06:08:31.703Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://github.com/mkobayashime/twins-announcements"/>
     <subtitle>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</subtitle>
+    <entry>
+        <title type="html"><![CDATA[【周知】「優れた外国語活動」認定制度について]]></title>
+        <id>32555d9d66b09f7d5b2ad156990f602c</id>
+        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4062"/>
+        <updated>2023-06-15T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[　グローバルコミュニケーション教育センター（通称CEGLOC）では、学生の皆さんの意欲的で、自主的な外国語活動を独自評価する「優れた外国語活動」認定制度を設置しています。
+学群、大学院は問いませんので、以下に該当するかなと思われる方は、是非申請してみてください。
+留学生の日本語活動も対象です。
+詳細はCEGLOCのホームページをご覧ください。
+皆さんからの積極的な応募をお待ちしています。
+
+●外国…]]></summary>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【7/23開催】一般公開WEBイベント「発達障害の"障害"は、社会のどこにあるのか？」]]></title>
         <id>0268e81e3aed0fc3d5c50caf9d461809</id>
@@ -268,18 +281,5 @@ International students are also welcome!
 There was an error in the URL, so we are reposting it.
 
 We are now streaming the video…]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Student Ambassador Information Session Video Streaming/学生アンバサダー説明会動画配信]]></title>
-        <id>ae3ada2dfdc549f869647b2291babf92</id>
-        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4040"/>
-        <updated>2023-06-07T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[6月6日に開催した「学生アンバサダー説明会」の動画配信をしています。
-説明会に参加できなかった方は、是非下記からご覧ください。
-
-学生アンバサダー申請期限：2023年6月16日（金）
-
-We are now streaming the video of ”the Student Ambassador Information Session” held on June 6.
-If you were …]]></summary>
     </entry>
 </feed>
