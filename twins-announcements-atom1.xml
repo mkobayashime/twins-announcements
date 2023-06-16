@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/mkobayashime/twins-announcements</id>
     <title>在学生へのお知らせ | 筑波大学</title>
-    <updated>2023-06-15T21:08:21.596Z</updated>
+    <updated>2023-06-16T00:34:17.775Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://github.com/mkobayashime/twins-announcements"/>
     <subtitle>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</subtitle>
+    <entry>
+        <title type="html"><![CDATA[【お知らせ】法テラス「霊感商法等対応ダイヤル」について]]></title>
+        <id>29fc4a4d8d85752ac6aee039061d9589</id>
+        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4064"/>
+        <updated>2023-06-16T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[　文部科学省から、霊感商法を始めとする金銭トラブルや心の悩み、家族の悩み等お持ちの方を対象に相談窓口情報の案内がありましたので、お知らせいたします。
+　法テラスでは利用者のお困りごとに応じて、問題を解決するための法制度や手続き、適切な相談窓口を無料でご案内しております。もし皆さんに困りごとがありましたら、気軽にご相談ください。
+　
+（法テラスホームページは以下のURLからご確認いただけます。）
+h…]]></summary>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【周知】「優れた外国語活動」認定制度について]]></title>
         <id>32555d9d66b09f7d5b2ad156990f602c</id>
@@ -265,21 +276,5 @@ International students are also welcome!
 高等学校情報科の必履修科目である「情報Ⅰ」の
 プログラミング領域、データ分析領域、情報デザイン領域等において、
 県立高校等の校長の指示に基づき…]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【Repeat】Student Ambassador Information Session Video Streaming/【再掲】学生アンバサダー説明会動画配信]]></title>
-        <id>9916ca8018c3370a154bff11893b9c3b</id>
-        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4042"/>
-        <updated>2023-06-07T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[URLに誤りがあったので、再掲します。
-
-6月6日に開催した「学生アンバサダー説明会」の動画配信をしています。
-説明会に参加できなかった方は、是非下記からご覧ください。
-
-学生アンバサダー申請期限：2023年6月16日（金）
-
-There was an error in the URL, so we are reposting it.
-
-We are now streaming the video…]]></summary>
     </entry>
 </feed>
