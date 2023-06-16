@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "fb298c354e448d3caee3ca9dcc09360a",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4065",
+            "title": "第50回ASIP/TG⁺公開セミナーのお知らせ",
+            "summary": "第50回ASIP/TG公開セミナーのご案内です。\n\n「2023　グローバルキャリアを目指す」\n\n日時：令和５年７月１１日（水）　11：30～12：30\n講師：鷲崎　信広 氏（株式会社マイナビ　グローバルキャリアサポーター）\n会場：文科系修士棟8A107＆Zoom（リモート講演）\n\n内容：海外・国内でのHuman Resource(HR)業界でのご経験を活かした最新就職事情・就活アドバイスをお話いた…",
+            "date_modified": "2023-06-16T03:00:00.000Z"
+        },
+        {
             "id": "29fc4a4d8d85752ac6aee039061d9589",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4064",
             "title": "【お知らせ】法テラス「霊感商法等対応ダイヤル」について",
@@ -135,13 +142,6 @@
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4044",
             "title": "明日 15:15~【English-Chat】英語チャットイベント",
             "summary": "国際交流をしたい！\n留学生の友達を作りたい！\n英語を練習したい！\n→などに当てはまるあなた、大変おススメです☆\nInternational students are also welcome!\n\n少人数グループに分かれて、英語で会話をします！英語初心者も歓迎です！\n単発での参加、途中参加も大歓迎です！\n\n開催日：火曜日 & 木曜日 (5月~7月)\n時　間：15:15～16:30（この時間内でしたら…",
-            "date_modified": "2023-06-07T03:00:00.000Z"
-        },
-        {
-            "id": "8a0beaf9534778c3440fa13cd4762b46",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4043",
-            "title": "【募集】茨城県教育委員会「情報I」の授業支援講師の募集",
-            "summary": "高校で授業支援をしてみませんか？\n-----------------------------------------------\n茨城県教育委員会\n「情報科社会人講師活用プログラム」の講師募集\n※「社会人講師」には大学等の学生が含まれます。\n\n【業務内容】\n高等学校情報科の必履修科目である「情報Ⅰ」の\nプログラミング領域、データ分析領域、情報デザイン領域等において、\n県立高校等の校長の指示に基づき…",
             "date_modified": "2023-06-07T03:00:00.000Z"
         }
     ]
