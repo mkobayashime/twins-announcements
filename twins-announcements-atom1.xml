@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/mkobayashime/twins-announcements</id>
     <title>在学生へのお知らせ | 筑波大学</title>
-    <updated>2023-06-17T09:08:03.207Z</updated>
+    <updated>2023-06-17T15:08:18.773Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://github.com/mkobayashime/twins-announcements"/>
     <subtitle>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</subtitle>
@@ -208,22 +208,6 @@ HPや学内掲示板では発信しきれない情報をタイムリーに発信
 【掲載…]]></summary>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[再掲] ●大学院説明会● [生命医科学] × [理・工・情報学] 一貫制博士課程「ヒューマニクス学位プログラム」6/17（土）]]></title>
-        <id>4cf4d362d86d7b468ae7db48eaa2953c</id>
-        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4050"/>
-        <updated>2023-06-12T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[学類生の皆さまへ
-
-「生命医科学」×「理・工・情報学」
-5年一貫制博士課程 ヒューマニクス学位プログラムより、大学院説明会のご案内です。
-
-大学院への進学を予定されている4年生はもちろん、１〜３年生の参加も歓迎いたします。
-「ヒューマニクスって何？」という方も、お気軽にご参加ください。
-
-■ヒューマニクス学位プログラム入試説明会（ハイブリッド形式）
-6/17（土）9:30-11:00　総合研究棟 …]]></summary>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[【お知らせ】令和５年梅雨前線による大雨及び台風第２号による災害にかかる被災状況について]]></title>
         <id>57d8ccfe723dff3bae45dc2792614ee4</id>
         <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4048"/>
@@ -265,5 +249,22 @@ HPや学内掲示板では発信しきれない情報をタイムリーに発信
 
 実施方法
 　筑波大学及び国立台湾大学から…]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[（BHE)Teams内　キャリア支援情報発信チーム立ち上げのご案内]]></title>
+        <id>140a6eb7c3a6e8533adb0d8fe573225c</id>
+        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4045"/>
+        <updated>2023-06-09T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[この度BHEでは新しい情報発信の場として、新チームを立ち上げました。
+
+BHEには、日々求人・インターンシップ、各種イベントなどの案内が届きます。
+HPや学内掲示板では発信しきれない情報をタイムリーに発信していきます。
+卒業年度別や志望別のチャネルを設けていますので、ぜひ活用してください。
+
+【参加方法】
+チーム名「BHEキャリア支援チーム　情報発信」
+以下のリンクから参加してください。
+
+【掲載…]]></summary>
     </entry>
 </feed>
