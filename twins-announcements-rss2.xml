@@ -4,10 +4,21 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Mon, 19 Jun 2023 03:04:37 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 19 Jun 2023 05:04:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
+        <item>
+            <title><![CDATA[【日本財団・大学生向け海外研修のご案内】フランスで石油・ガス開発研修に参加しよう！]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4072</link>
+            <guid>62431960f9fd4e9b05039c81eee6b430</guid>
+            <pubDate>Mon, 19 Jun 2023 03:00:00 GMT</pubDate>
+            <description><![CDATA[2023年度海洋開発サマースクール（短期・フランス）の募集について
+
+本サマースクールでは2週間にわたり、石油・ガス開発サービス最大手のSLB（シュルンベルジェ）が保有する
+フランスの研修施設 (ELC: Europe Learning Centre) にて、普段はなかなか体験できない掘削・生産の操業現場で
+使用されるさまざまな技術に関する講義や、現場を模した設備を使用した実践的なワークショップを…]]></description>
+        </item>
         <item>
             <title><![CDATA[再掲（本日6/19登録〆）「最近のタバコ事情」講習会_6/23開催]]></title>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4071</link>
@@ -248,17 +259,6 @@ HPや学内掲示板では発信しきれない情報をタイムリーに発信
 以下のリンクから参加してください。
 
 【掲載…]]></description>
-        </item>
-        <item>
-            <title><![CDATA[【お知らせ】令和５年梅雨前線による大雨及び台風第２号による災害にかかる被災状況について]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4048</link>
-            <guid>57d8ccfe723dff3bae45dc2792614ee4</guid>
-            <pubDate>Fri, 09 Jun 2023 03:00:00 GMT</pubDate>
-            <description><![CDATA[  ニュース等でも報道されておりますが、令和５年梅雨前線による大雨及び台風第２号による災害において、被災された方々には心からお見舞い申し上げます。
-　災害救助法適用地域：【埼玉県】草加市、越谷市、北葛飾郡松伏町  【静岡県】磐田市
-　災害救助法適用日：令和５年６月２日
-
-  学生の皆さんで帰省先等において家屋の倒壊等、被害に遭われた方、又は友人学生が被害にあった情報がありましたら、状況把握のため被…]]></description>
         </item>
     </channel>
 </rss>
