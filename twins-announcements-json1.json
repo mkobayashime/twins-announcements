@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "bcfb587100fe0660d69b94076f41c1f3",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4071",
+            "title": "再掲（本日6/19登録〆）「最近のタバコ事情」講習会_6/23開催",
+            "summary": "下記のとおり令和5年度衛生管理者講習会を開催いたします。\nこの講習は衛生管理者向けですが，本学関係者であればどなたでも聴講できます。\n是非ご参加ください。\n　　　　　　　　　　　　　\n　　　　　　　　　　　　　記\n\n１．日　　時：令和５年６月２３日（金）　１０：１５～１１：１５\n２．実施方法：Microsoft Teamsを用いたオンライン配信\n３．テーマ：最近のタバコ事情\n４．対象者：本学教職員…",
+            "date_modified": "2023-06-19T03:00:00.000Z"
+        },
+        {
             "id": "7824a80e3d3586c385cf7090950ce718",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4070",
             "title": "(BHE)23年度教員採用試験受験者支援　対面面接練習",
@@ -135,13 +142,6 @@
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4048",
             "title": "【お知らせ】令和５年梅雨前線による大雨及び台風第２号による災害にかかる被災状況について",
             "summary": "  ニュース等でも報道されておりますが、令和５年梅雨前線による大雨及び台風第２号による災害において、被災された方々には心からお見舞い申し上げます。\n　災害救助法適用地域：【埼玉県】草加市、越谷市、北葛飾郡松伏町  【静岡県】磐田市\n　災害救助法適用日：令和５年６月２日\n\n  学生の皆さんで帰省先等において家屋の倒壊等、被害に遭われた方、又は友人学生が被害にあった情報がありましたら、状況把握のため被…",
-            "date_modified": "2023-06-09T03:00:00.000Z"
-        },
-        {
-            "id": "76259f395df3f33feac32e4593e7349e",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4047",
-            "title": "本日開催!【French&Spanish Chat】フランス語&スペイン語チャットイベント",
-            "summary": "少人数グループに分かれて、フランス語あるいはスペイン語で会話をします！初心者も歓迎です！\n単発での参加、途中参加も大歓迎です！\n\n開催日：金曜日 (5月~7月)\n時　間：15:15～16:30（この時間内でしたら、出入り自由です！）\n9日、16日、23日（6月30日はお休みです）\n7月7日、14日、21日、28日\n会　場：スチューデント・コモンズ（第一エリア 1A棟203）\n対　象：筑波大学生\n予…",
             "date_modified": "2023-06-09T03:00:00.000Z"
         }
     ]
