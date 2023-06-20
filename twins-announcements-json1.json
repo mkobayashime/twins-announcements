@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "140a6eb7c3a6e8533adb0d8fe573225c",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4078",
+            "title": "（BHE)Teams内　キャリア支援情報発信チーム立ち上げのご案内",
+            "summary": "この度BHEでは新しい情報発信の場として、新チームを立ち上げました。\n\nBHEには、日々求人・インターンシップ、各種イベントなどの案内が届きます。\nHPや学内掲示板では発信しきれない情報をタイムリーに発信していきます。\n卒業年度別や志望別のチャネルを設けていますので、ぜひ活用してください。\n\n【参加方法】\nチーム名「BHEキャリア支援チーム　情報発信」\n以下のリンクから参加してください。\n\n【掲載…",
+            "date_modified": "2023-06-20T03:00:00.000Z"
+        },
+        {
             "id": "7709030f7a14e536e14607f2e163d123",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4077",
             "title": "【参加者募集・実渡航あり】第25次ベトナム友好訪問団参加者募集のお知らせ",
@@ -136,13 +143,6 @@
             "title": "（BHE)7月12日　23年度教採受験予定者　採用試験対策対面面接練習会",
             "summary": "教員採用試験を目指す方向けの集団面接練習会を開催します。\n当日は元教員OBの方にもご協力いただく予定です。\nビジネスマナーについても学ぶことができます。\n当日はなるべく面接時に実際、着用するスーツ等で参加することを推奨します。\nBHEキャリア支援チームのファシリテーターからフィードバックがあります。\n＜日時＞\n7月12日（水）\n午前の部　10：00-11：30\n午後の部　13：00-14：30\n＜…",
             "date_modified": "2023-06-14T03:00:00.000Z"
-        },
-        {
-            "id": "67454f874ac3730df485448b4ce48df2",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4055",
-            "title": "【公募中～6/30まで】令和5年度つくばスマートシティ社会実装トライアル支援事業",
-            "summary": "つくば市から以下の案内がありましたので、お知らせいたします。\n-----------------------\n\n今年もつくば市をフィールドとした社会実装トライアルの公募が始まりました。\n\nこれまでのSociety5.0社会の実現に加え、スマートシティやスーパーシティの実現、\nつくば市の地域課題の解決に資する革新的な技術やアイディアを募集しています。\nトライアルの費用負担は上限100万円（10/10…",
-            "date_modified": "2023-06-13T03:00:00.000Z"
         }
     ]
 }
