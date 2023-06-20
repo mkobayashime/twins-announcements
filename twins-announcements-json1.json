@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "a61b67e4c30c93963e2a715e79e55050",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4080",
+            "title": "7/13（13:45～）花木氏講演会「実験を通じて学ぶ経済学（仮）」（学生・教員対象）",
+            "summary": "TSUKUBA社会国際学初年次チュートリアルプログラムでは、7月13日（木）13時45分から公開講演会を開催いたします。講師は大阪大学・社会経済研究所の花木伸行氏で、「実験を通じて学ぶ経済学（仮）」という題目で講演していただきます。筑波大学の学生・教員でしたらどなたでもご参加いただけます。奮ってご参加下さい。\n\n＊なお、講演中に参加型の教室実験を行いますが、準備の関係上、実験への参加は事前登録制と…",
+            "date_modified": "2023-06-20T03:00:00.000Z"
+        },
+        {
             "id": "56f0902894f87e34d8e0d40b4c154bb7",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4079",
             "title": "【注意喚起】大学構内でのアライグマの目撃情報について",
@@ -135,13 +142,6 @@
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4058",
             "title": "令和４年度語学研修（於：カザフスタン）帰国報告会のご案内",
             "summary": "令和４年度語学研修（於：カザフスタン）帰国報告会を下記のとおり開催いたします。\n今回は、令和５年２月17日から3月24日（36日間）実施されたカザフスタン（アルファラビ・カザフ国立大学）での語学・異文化研修についての報告です。ご興味のある方はぜひご参加ください。\n\n令和４年度　語学研修（於：カザフスタン）帰国報告会\n日時：令和5年6月23日（金）18:30〜19:45\n会場：人文社会学系棟　A10…",
-            "date_modified": "2023-06-14T03:00:00.000Z"
-        },
-        {
-            "id": "fe1d14b29871ebb8f44536a9edfda9cc",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4057",
-            "title": "第42回「中央ユーラシアと日本の未来」公開講演会のお知らせ",
-            "summary": "第42回「中央ユーラシアと日本の未来」公開講演会を下記のとおり開催いたします。\nご興味のある方はぜひご参加ください。\n\n日時：令和5年6月23日（金）13:45～15:00\n講師：福田 慧 氏（NHK国際放送局 多言語メディア部ディレクター）\n題目：NHK WORLD-JAPANの舞台裏 －ウクライナ侵攻後のロシア語・ウクライナ語発信強化の取り組み－\n実施形態：オンライン（Zoom）\n\n参加を希望…",
             "date_modified": "2023-06-14T03:00:00.000Z"
         }
     ]
