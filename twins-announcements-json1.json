@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "56f0902894f87e34d8e0d40b4c154bb7",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4079",
+            "title": "【注意喚起】大学構内でのアライグマの目撃情報について",
+            "summary": "令和5年6月18日～19日ごろ、第２エリア及び第３エリア付近で特定外来生物 「アライグマ」の目撃情報がありました。\nアライグマは可愛らしい外見とは異なり、非常に獰猛です。\n噛む力も強く、鋭い牙を持っていますので、不用意に触れると大怪我をする可能性があるほか、狂犬病など人獣共通感染症への感染のリスクも生じます。\n事故やケガに遭わないために、アライグマを目撃した場合は次のことに注意してください。\n\n○…",
+            "date_modified": "2023-06-20T03:00:00.000Z"
+        },
+        {
             "id": "140a6eb7c3a6e8533adb0d8fe573225c",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4078",
             "title": "（BHE)Teams内　キャリア支援情報発信チーム立ち上げのご案内",
@@ -135,13 +142,6 @@
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4057",
             "title": "第42回「中央ユーラシアと日本の未来」公開講演会のお知らせ",
             "summary": "第42回「中央ユーラシアと日本の未来」公開講演会を下記のとおり開催いたします。\nご興味のある方はぜひご参加ください。\n\n日時：令和5年6月23日（金）13:45～15:00\n講師：福田 慧 氏（NHK国際放送局 多言語メディア部ディレクター）\n題目：NHK WORLD-JAPANの舞台裏 －ウクライナ侵攻後のロシア語・ウクライナ語発信強化の取り組み－\n実施形態：オンライン（Zoom）\n\n参加を希望…",
-            "date_modified": "2023-06-14T03:00:00.000Z"
-        },
-        {
-            "id": "81df61db64483e2293aa97f5a57f3e2a",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4056",
-            "title": "（BHE)7月12日　23年度教採受験予定者　採用試験対策対面面接練習会",
-            "summary": "教員採用試験を目指す方向けの集団面接練習会を開催します。\n当日は元教員OBの方にもご協力いただく予定です。\nビジネスマナーについても学ぶことができます。\n当日はなるべく面接時に実際、着用するスーツ等で参加することを推奨します。\nBHEキャリア支援チームのファシリテーターからフィードバックがあります。\n＜日時＞\n7月12日（水）\n午前の部　10：00-11：30\n午後の部　13：00-14：30\n＜…",
             "date_modified": "2023-06-14T03:00:00.000Z"
         }
     ]

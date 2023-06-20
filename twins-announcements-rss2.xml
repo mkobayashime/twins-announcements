@@ -4,10 +4,22 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Tue, 20 Jun 2023 04:06:40 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 20 Jun 2023 05:03:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
+        <item>
+            <title><![CDATA[【注意喚起】大学構内でのアライグマの目撃情報について]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4079</link>
+            <guid>56f0902894f87e34d8e0d40b4c154bb7</guid>
+            <pubDate>Tue, 20 Jun 2023 03:00:00 GMT</pubDate>
+            <description><![CDATA[令和5年6月18日～19日ごろ、第２エリア及び第３エリア付近で特定外来生物 「アライグマ」の目撃情報がありました。
+アライグマは可愛らしい外見とは異なり、非常に獰猛です。
+噛む力も強く、鋭い牙を持っていますので、不用意に触れると大怪我をする可能性があるほか、狂犬病など人獣共通感染症への感染のリスクも生じます。
+事故やケガに遭わないために、アライグマを目撃した場合は次のことに注意してください。
+
+○…]]></description>
+        </item>
         <item>
             <title><![CDATA[（BHE)Teams内　キャリア支援情報発信チーム立ち上げのご案内]]></title>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4078</link>
@@ -274,22 +286,6 @@ h…]]></description>
 実施形態：オンライン（Zoom）
 
 参加を希望…]]></description>
-        </item>
-        <item>
-            <title><![CDATA[（BHE)7月12日　23年度教採受験予定者　採用試験対策対面面接練習会]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4056</link>
-            <guid>81df61db64483e2293aa97f5a57f3e2a</guid>
-            <pubDate>Wed, 14 Jun 2023 03:00:00 GMT</pubDate>
-            <description><![CDATA[教員採用試験を目指す方向けの集団面接練習会を開催します。
-当日は元教員OBの方にもご協力いただく予定です。
-ビジネスマナーについても学ぶことができます。
-当日はなるべく面接時に実際、着用するスーツ等で参加することを推奨します。
-BHEキャリア支援チームのファシリテーターからフィードバックがあります。
-＜日時＞
-7月12日（水）
-午前の部　10：00-11：30
-午後の部　13：00-14：30
-＜…]]></description>
         </item>
     </channel>
 </rss>
