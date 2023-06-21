@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "109b48dd5cc90725c5139884acf00460",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4084",
+            "title": "【参加者募集・実渡航あり】インドネシア海外参加者募集のお知らせ",
+            "summary": "概要\nインドネシア　スマトラ島、ジャワ島の協定校において 、 講義 ・ 生物資源に係るフィールド実習、現地調査を通じて 当該国における 生物資源の特色や 地域性を学び、国際的な視野に立ったキャリア意識を醸成する 。\n本プログラムは附属坂戸高校と連携して実施され、附属高校からも数名の高校生が参加する予定です。\n\n時期 Program Duration\n8月1日～8月11日\n\n主な訪問先\nAPP本社、…",
+            "date_modified": "2023-06-21T03:00:00.000Z"
+        },
+        {
             "id": "8bc5b95b72a20165a9f073e7d5e2a684",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4083",
             "title": "【大学連携シンポジウム】「外国にルーツのある子どもたちと共に生きよう」の開催について",
@@ -135,13 +142,6 @@
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4058",
             "title": "令和４年度語学研修（於：カザフスタン）帰国報告会のご案内",
             "summary": "令和４年度語学研修（於：カザフスタン）帰国報告会を下記のとおり開催いたします。\n今回は、令和５年２月17日から3月24日（36日間）実施されたカザフスタン（アルファラビ・カザフ国立大学）での語学・異文化研修についての報告です。ご興味のある方はぜひご参加ください。\n\n令和４年度　語学研修（於：カザフスタン）帰国報告会\n日時：令和5年6月23日（金）18:30〜19:45\n会場：人文社会学系棟　A10…",
-            "date_modified": "2023-06-14T03:00:00.000Z"
-        },
-        {
-            "id": "fe1d14b29871ebb8f44536a9edfda9cc",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4057",
-            "title": "第42回「中央ユーラシアと日本の未来」公開講演会のお知らせ",
-            "summary": "第42回「中央ユーラシアと日本の未来」公開講演会を下記のとおり開催いたします。\nご興味のある方はぜひご参加ください。\n\n日時：令和5年6月23日（金）13:45～15:00\n講師：福田 慧 氏（NHK国際放送局 多言語メディア部ディレクター）\n題目：NHK WORLD-JAPANの舞台裏 －ウクライナ侵攻後のロシア語・ウクライナ語発信強化の取り組み－\n実施形態：オンライン（Zoom）\n\n参加を希望…",
             "date_modified": "2023-06-14T03:00:00.000Z"
         }
     ]
