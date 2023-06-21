@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "140a6eb7c3a6e8533adb0d8fe573225c",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4081",
+            "title": "（BHE)Teams内　キャリア支援情報発信チーム立ち上げのご案内",
+            "summary": "この度BHEでは新しい情報発信の場として、新チームを立ち上げました。\n\nBHEには、日々求人・インターンシップ、各種イベントなどの案内が届きます。\nHPや学内掲示板では発信しきれない情報をタイムリーに発信していきます。\n卒業年度別や志望別のチャネルを設けていますので、ぜひ活用してください。\n\n【参加方法】\nチーム名「BHEキャリア支援チーム　情報発信」\n以下のリンクから参加してください。\n\n【掲載…",
+            "date_modified": "2023-06-21T03:00:00.000Z"
+        },
+        {
             "id": "a61b67e4c30c93963e2a715e79e55050",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4080",
             "title": "7/13（13:45～）花木氏講演会「実験を通じて学ぶ経済学（仮）」（学生・教員対象）",
@@ -135,13 +142,6 @@
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4055",
             "title": "【公募中～6/30まで】令和5年度つくばスマートシティ社会実装トライアル支援事業",
             "summary": "つくば市から以下の案内がありましたので、お知らせいたします。\n-----------------------\n\n今年もつくば市をフィールドとした社会実装トライアルの公募が始まりました。\n\nこれまでのSociety5.0社会の実現に加え、スマートシティやスーパーシティの実現、\nつくば市の地域課題の解決に資する革新的な技術やアイディアを募集しています。\nトライアルの費用負担は上限100万円（10/10…",
-            "date_modified": "2023-06-13T03:00:00.000Z"
-        },
-        {
-            "id": "a1fab53c7b1e8a5f4a62db5a5e3b5f1b",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4054",
-            "title": "Scholarship for Students Participating in Online International Education and Exchange Programs",
-            "summary": "In order to further promote ONLINE international education and exchange opportunities for students, we will provide support for course fees and other expenses, even if students do not earn credits, on…",
             "date_modified": "2023-06-13T03:00:00.000Z"
         }
     ]

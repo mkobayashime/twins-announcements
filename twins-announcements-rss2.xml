@@ -4,10 +4,27 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Tue, 20 Jun 2023 21:07:40 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 21 Jun 2023 00:32:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
+        <item>
+            <title><![CDATA[（BHE)Teams内　キャリア支援情報発信チーム立ち上げのご案内]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4081</link>
+            <guid>140a6eb7c3a6e8533adb0d8fe573225c</guid>
+            <pubDate>Wed, 21 Jun 2023 03:00:00 GMT</pubDate>
+            <description><![CDATA[この度BHEでは新しい情報発信の場として、新チームを立ち上げました。
+
+BHEには、日々求人・インターンシップ、各種イベントなどの案内が届きます。
+HPや学内掲示板では発信しきれない情報をタイムリーに発信していきます。
+卒業年度別や志望別のチャネルを設けていますので、ぜひ活用してください。
+
+【参加方法】
+チーム名「BHEキャリア支援チーム　情報発信」
+以下のリンクから参加してください。
+
+【掲載…]]></description>
+        </item>
         <item>
             <title><![CDATA[7/13（13:45～）花木氏講演会「実験を通じて学ぶ経済学（仮）」（学生・教員対象）]]></title>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4080</link>
@@ -268,13 +285,6 @@ BHEキャリア支援チームのファシリテーターからフィードバ�
 これまでのSociety5.0社会の実現に加え、スマートシティやスーパーシティの実現、
 つくば市の地域課題の解決に資する革新的な技術やアイディアを募集しています。
 トライアルの費用負担は上限100万円（10/10…]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Scholarship for Students Participating in Online International Education and Exchange Programs]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4054</link>
-            <guid>a1fab53c7b1e8a5f4a62db5a5e3b5f1b</guid>
-            <pubDate>Tue, 13 Jun 2023 03:00:00 GMT</pubDate>
-            <description><![CDATA[In order to further promote ONLINE international education and exchange opportunities for students, we will provide support for course fees and other expenses, even if students do not earn credits, on…]]></description>
         </item>
     </channel>
 </rss>
