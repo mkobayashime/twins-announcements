@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/mkobayashime/twins-announcements</id>
     <title>在学生へのお知らせ | 筑波大学</title>
-    <updated>2023-06-21T06:08:06.289Z</updated>
+    <updated>2023-06-21T07:02:58.999Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://github.com/mkobayashime/twins-announcements"/>
     <subtitle>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</subtitle>
+    <entry>
+        <title type="html"><![CDATA[サーバー更新作業に伴うキャリア支援チームHP及び就職情報提供システム停止のお知らせ]]></title>
+        <id>f7e5c4dc1ece4147cbde4ed3df16263e</id>
+        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4085"/>
+        <updated>2023-06-21T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[サーバー更新作業に伴い、下記の時間、キャリア支援チームホームページ等へ繋がりにくくなります。
+【サーバー更新作業日時】6/28（水）9：00　～　 6/28（水）12：15（予定）
+
+なお、サーバー更新作業中は、「学内専用ページ」、「ガイダンス等及び模試試験登録・申請」、「進路進捗状況届」へのアクセスはできません。
+皆様にはご迷惑をおかけいたしますが、ご理解、ご協力の程よろしくお願いいたします。
+…]]></summary>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【参加者募集・実渡航あり】インドネシア海外参加者募集のお知らせ]]></title>
         <id>109b48dd5cc90725c5139884acf00460</id>
@@ -274,17 +286,5 @@ h…]]></summary>
 
 ４．通行規制　　　　　歩行者・自転車ともに通行可能
 　　　　…]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[令和４年度語学研修（於：カザフスタン）帰国報告会のご案内]]></title>
-        <id>9f735652361d3473a2e82ced41540785</id>
-        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4058"/>
-        <updated>2023-06-14T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[令和４年度語学研修（於：カザフスタン）帰国報告会を下記のとおり開催いたします。
-今回は、令和５年２月17日から3月24日（36日間）実施されたカザフスタン（アルファラビ・カザフ国立大学）での語学・異文化研修についての報告です。ご興味のある方はぜひご参加ください。
-
-令和４年度　語学研修（於：カザフスタン）帰国報告会
-日時：令和5年6月23日（金）18:30〜19:45
-会場：人文社会学系棟　A10…]]></summary>
     </entry>
 </feed>

@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "f7e5c4dc1ece4147cbde4ed3df16263e",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4085",
+            "title": "サーバー更新作業に伴うキャリア支援チームHP及び就職情報提供システム停止のお知らせ",
+            "summary": "サーバー更新作業に伴い、下記の時間、キャリア支援チームホームページ等へ繋がりにくくなります。\n【サーバー更新作業日時】6/28（水）9：00　～　 6/28（水）12：15（予定）\n\nなお、サーバー更新作業中は、「学内専用ページ」、「ガイダンス等及び模試試験登録・申請」、「進路進捗状況届」へのアクセスはできません。\n皆様にはご迷惑をおかけいたしますが、ご理解、ご協力の程よろしくお願いいたします。\n…",
+            "date_modified": "2023-06-21T03:00:00.000Z"
+        },
+        {
             "id": "109b48dd5cc90725c5139884acf00460",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4084",
             "title": "【参加者募集・実渡航あり】インドネシア海外参加者募集のお知らせ",
@@ -135,13 +142,6 @@
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4059",
             "title": "【通知】中地区構内通路における舗装工事のお知らせ",
             "summary": "中地区構内通路(自転車歩行者道)における舗装工事を下記のとおり行いますので、お知らせいたします。\n\n\n　　　　　　　　　　　　　　　　　　　　　記\n\n１．工事内容　　　　　ガス工事に伴う舗装工事\n\n２．舗装工事場所　　　別図参照（中地区南西部(大学敷地境界付近)）\n\n３．舗装工事期間　　　令和５年６月17日（土）　９：００～１７：００\n\n４．通行規制　　　　　歩行者・自転車ともに通行可能\n　　　　…",
-            "date_modified": "2023-06-14T03:00:00.000Z"
-        },
-        {
-            "id": "9f735652361d3473a2e82ced41540785",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4058",
-            "title": "令和４年度語学研修（於：カザフスタン）帰国報告会のご案内",
-            "summary": "令和４年度語学研修（於：カザフスタン）帰国報告会を下記のとおり開催いたします。\n今回は、令和５年２月17日から3月24日（36日間）実施されたカザフスタン（アルファラビ・カザフ国立大学）での語学・異文化研修についての報告です。ご興味のある方はぜひご参加ください。\n\n令和４年度　語学研修（於：カザフスタン）帰国報告会\n日時：令和5年6月23日（金）18:30〜19:45\n会場：人文社会学系棟　A10…",
             "date_modified": "2023-06-14T03:00:00.000Z"
         }
     ]
