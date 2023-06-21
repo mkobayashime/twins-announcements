@@ -5,6 +5,20 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "8bc5b95b72a20165a9f073e7d5e2a684",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4083",
+            "title": "【大学連携シンポジウム】「外国にルーツのある子どもたちと共に生きよう」の開催について",
+            "summary": "茨城キリスト教大学より、【大学連携シンポジウム】「外国にルーツのある子どもたちと共に生きよう」の開催案内がありましたのでお知らせします。\n\n【開催日】　2023年7月1日（土）13：30～16：30（予定）\n【会　場】　茨城キリスト教大学8号館8101教室\n【対　象】　大学生、幼小中高で働く現役の先生方、行政の方、日本語支援活動者等\n\n【プログラム】\n13：30　開会の挨拶（5分）\n13：35　趣…",
+            "date_modified": "2023-06-21T03:00:00.000Z"
+        },
+        {
+            "id": "7709030f7a14e536e14607f2e163d123",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4082",
+            "title": "【参加者募集・実渡航あり】第25次ベトナム友好訪問団参加者募集のお知らせ",
+            "summary": "概要\n日本とベトナムの青少年たちの交流及びボランティア活動を通じ、友好親善を進めるとともに、自ら考え行動し、次世代を担う人材育成を目指す。茨城県内の各大学から学生が参加する予定です。\n\n時期 Program Duration\n9月11日～9月16日\n\n主な訪問先\nベトナム外務省、越日友好協会、国立歴史博物館、フエ外国語大学、こどもの家、フエ王宮、ホーチミン市街\n\n—–—–—–*\n参加資格\n〇本学学…",
+            "date_modified": "2023-06-21T03:00:00.000Z"
+        },
+        {
             "id": "140a6eb7c3a6e8533adb0d8fe573225c",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4081",
             "title": "（BHE)Teams内　キャリア支援情報発信チーム立ち上げのご案内",
@@ -129,20 +143,6 @@
             "title": "第42回「中央ユーラシアと日本の未来」公開講演会のお知らせ",
             "summary": "第42回「中央ユーラシアと日本の未来」公開講演会を下記のとおり開催いたします。\nご興味のある方はぜひご参加ください。\n\n日時：令和5年6月23日（金）13:45～15:00\n講師：福田 慧 氏（NHK国際放送局 多言語メディア部ディレクター）\n題目：NHK WORLD-JAPANの舞台裏 －ウクライナ侵攻後のロシア語・ウクライナ語発信強化の取り組み－\n実施形態：オンライン（Zoom）\n\n参加を希望…",
             "date_modified": "2023-06-14T03:00:00.000Z"
-        },
-        {
-            "id": "81df61db64483e2293aa97f5a57f3e2a",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4056",
-            "title": "（BHE)7月12日　23年度教採受験予定者　採用試験対策対面面接練習会",
-            "summary": "教員採用試験を目指す方向けの集団面接練習会を開催します。\n当日は元教員OBの方にもご協力いただく予定です。\nビジネスマナーについても学ぶことができます。\n当日はなるべく面接時に実際、着用するスーツ等で参加することを推奨します。\nBHEキャリア支援チームのファシリテーターからフィードバックがあります。\n＜日時＞\n7月12日（水）\n午前の部　10：00-11：30\n午後の部　13：00-14：30\n＜…",
-            "date_modified": "2023-06-14T03:00:00.000Z"
-        },
-        {
-            "id": "67454f874ac3730df485448b4ce48df2",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4055",
-            "title": "【公募中～6/30まで】令和5年度つくばスマートシティ社会実装トライアル支援事業",
-            "summary": "つくば市から以下の案内がありましたので、お知らせいたします。\n-----------------------\n\n今年もつくば市をフィールドとした社会実装トライアルの公募が始まりました。\n\nこれまでのSociety5.0社会の実現に加え、スマートシティやスーパーシティの実現、\nつくば市の地域課題の解決に資する革新的な技術やアイディアを募集しています。\nトライアルの費用負担は上限100万円（10/10…",
-            "date_modified": "2023-06-13T03:00:00.000Z"
         }
     ]
 }
