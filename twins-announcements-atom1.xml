@@ -2,10 +2,25 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/mkobayashime/twins-announcements</id>
     <title>在学生へのお知らせ | 筑波大学</title>
-    <updated>2023-06-22T02:10:14.684Z</updated>
+    <updated>2023-06-22T03:04:12.287Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://github.com/mkobayashime/twins-announcements"/>
     <subtitle>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</subtitle>
+    <entry>
+        <title type="html"><![CDATA[【再掲】就活セミナー「2023　グローバルキャリアを目指す」]]></title>
+        <id>5a42bb495d9927ed14159a2390f5a19b</id>
+        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4088"/>
+        <updated>2023-06-22T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[第50回ASIP/TG公開セミナーのご案内です。
+
+「2023　グローバルキャリアを目指す」
+
+日時：令和５年７月１１日（火）　11：30～12：30
+講師：鷲崎　信広 氏（株式会社マイナビ　グローバルキャリアサポーター）
+会場：文科系修士棟8A107＆Zoom（リモート講演）
+
+内容：海外・国内でのHuman Resource(HR)業界でのご経験を活かした最新就職事情・就活アドバイスをお話いた…]]></summary>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【急募】台湾での短期プログラム（6/23 12:00締切）]]></title>
         <id>01a2ddf77c165f550a567c8a84128c29</id>
@@ -270,14 +285,5 @@ h…]]></summary>
 皆さんからの積極的な応募をお待ちしています。
 
 ●外国…]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【7/23開催】一般公開WEBイベント「発達障害の"障害"は、社会のどこにあるのか？」]]></title>
-        <id>0268e81e3aed0fc3d5c50caf9d461809</id>
-        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4061"/>
-        <updated>2023-06-15T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[この度、筑波大学ヒューマンエンパワーメント推進局（ダボットプロジェクト）では、一般公開WEBイベント「発達障害の"障害"は、社会のどこにあるのか？」を開催いたします。
-
-このイベントでは、SDGsの理念である「誰一人取り残さない」社会に向けて、本当の意味での「障害の社会モデル」に立ち返って、発達障害の"障害"を社会構造上、生じる社会的障壁と捉え、その障壁は社会のどこにあるのか、青年期・成人期を中心…]]></summary>
     </entry>
 </feed>

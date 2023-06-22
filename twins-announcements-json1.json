@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "5a42bb495d9927ed14159a2390f5a19b",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4088",
+            "title": "【再掲】就活セミナー「2023　グローバルキャリアを目指す」",
+            "summary": "第50回ASIP/TG公開セミナーのご案内です。\n\n「2023　グローバルキャリアを目指す」\n\n日時：令和５年７月１１日（火）　11：30～12：30\n講師：鷲崎　信広 氏（株式会社マイナビ　グローバルキャリアサポーター）\n会場：文科系修士棟8A107＆Zoom（リモート講演）\n\n内容：海外・国内でのHuman Resource(HR)業界でのご経験を活かした最新就職事情・就活アドバイスをお話いた…",
+            "date_modified": "2023-06-22T03:00:00.000Z"
+        },
+        {
             "id": "01a2ddf77c165f550a567c8a84128c29",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4087",
             "title": "【急募】台湾での短期プログラム（6/23 12:00締切）",
@@ -135,13 +142,6 @@
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4062",
             "title": "【周知】「優れた外国語活動」認定制度について",
             "summary": "　グローバルコミュニケーション教育センター（通称CEGLOC）では、学生の皆さんの意欲的で、自主的な外国語活動を独自評価する「優れた外国語活動」認定制度を設置しています。\n学群、大学院は問いませんので、以下に該当するかなと思われる方は、是非申請してみてください。\n留学生の日本語活動も対象です。\n詳細はCEGLOCのホームページをご覧ください。\n皆さんからの積極的な応募をお待ちしています。\n\n●外国…",
-            "date_modified": "2023-06-15T03:00:00.000Z"
-        },
-        {
-            "id": "0268e81e3aed0fc3d5c50caf9d461809",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4061",
-            "title": "【7/23開催】一般公開WEBイベント「発達障害の\"障害\"は、社会のどこにあるのか？」",
-            "summary": "この度、筑波大学ヒューマンエンパワーメント推進局（ダボットプロジェクト）では、一般公開WEBイベント「発達障害の\"障害\"は、社会のどこにあるのか？」を開催いたします。\n\nこのイベントでは、SDGsの理念である「誰一人取り残さない」社会に向けて、本当の意味での「障害の社会モデル」に立ち返って、発達障害の\"障害\"を社会構造上、生じる社会的障壁と捉え、その障壁は社会のどこにあるのか、青年期・成人期を中心…",
             "date_modified": "2023-06-15T03:00:00.000Z"
         }
     ]
