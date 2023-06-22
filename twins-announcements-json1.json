@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "5574f4fe5db48809257fd35b25558d1b",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4086",
+            "title": "フランス語・文化講座開催のお知らせ",
+            "summary": "(公財)茨城県国際交流協会ではフランス語・文化講座(初心者向け)を開催します。\n興味のある方は、添付ファイルをご参照の上、記載のQRコードよりお申込み下さい。",
+            "date_modified": "2023-06-22T03:00:00.000Z"
+        },
+        {
             "id": "f7e5c4dc1ece4147cbde4ed3df16263e",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4085",
             "title": "サーバー更新作業に伴うキャリア支援チームHP及び就職情報提供システム停止のお知らせ",
@@ -136,13 +143,6 @@
             "title": "【注意喚起】食肉の生食にご注意ください（つくば保健所から）",
             "summary": "　つくば保健所から、牛レバー等加熱食品の生食による健康被害予防のため、食肉の生食に関する注意喚起がありましたので、お知らせいたします。\n　6月は一般的に食中毒が多い時期と言われています。特に生・半生・加熱不足の鶏肉料理による「カンピロバクター食中毒」が増加傾向にあります。\n　鶏肉を調理する際には、中心部までしっかりと加熱する、食肉を焼くときの箸と、食べるときの箸を使い分けるなど、取り扱いには十分注…",
             "date_modified": "2023-06-15T03:00:00.000Z"
-        },
-        {
-            "id": "47c0bc18507f7252a86cd32be4fd15a4",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4059",
-            "title": "【通知】中地区構内通路における舗装工事のお知らせ",
-            "summary": "中地区構内通路(自転車歩行者道)における舗装工事を下記のとおり行いますので、お知らせいたします。\n\n\n　　　　　　　　　　　　　　　　　　　　　記\n\n１．工事内容　　　　　ガス工事に伴う舗装工事\n\n２．舗装工事場所　　　別図参照（中地区南西部(大学敷地境界付近)）\n\n３．舗装工事期間　　　令和５年６月17日（土）　９：００～１７：００\n\n４．通行規制　　　　　歩行者・自転車ともに通行可能\n　　　　…",
-            "date_modified": "2023-06-14T03:00:00.000Z"
         }
     ]
 }

@@ -4,10 +4,18 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Wed, 21 Jun 2023 21:09:09 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 22 Jun 2023 00:33:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
+        <item>
+            <title><![CDATA[フランス語・文化講座開催のお知らせ]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4086</link>
+            <guid>5574f4fe5db48809257fd35b25558d1b</guid>
+            <pubDate>Thu, 22 Jun 2023 03:00:00 GMT</pubDate>
+            <description><![CDATA[(公財)茨城県国際交流協会ではフランス語・文化講座(初心者向け)を開催します。
+興味のある方は、添付ファイルをご参照の上、記載のQRコードよりお申込み下さい。]]></description>
+        </item>
         <item>
             <title><![CDATA[サーバー更新作業に伴うキャリア支援チームHP及び就職情報提供システム停止のお知らせ]]></title>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4085</link>
@@ -269,25 +277,6 @@ h…]]></description>
             <description><![CDATA[　つくば保健所から、牛レバー等加熱食品の生食による健康被害予防のため、食肉の生食に関する注意喚起がありましたので、お知らせいたします。
 　6月は一般的に食中毒が多い時期と言われています。特に生・半生・加熱不足の鶏肉料理による「カンピロバクター食中毒」が増加傾向にあります。
 　鶏肉を調理する際には、中心部までしっかりと加熱する、食肉を焼くときの箸と、食べるときの箸を使い分けるなど、取り扱いには十分注…]]></description>
-        </item>
-        <item>
-            <title><![CDATA[【通知】中地区構内通路における舗装工事のお知らせ]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4059</link>
-            <guid>47c0bc18507f7252a86cd32be4fd15a4</guid>
-            <pubDate>Wed, 14 Jun 2023 03:00:00 GMT</pubDate>
-            <description><![CDATA[中地区構内通路(自転車歩行者道)における舗装工事を下記のとおり行いますので、お知らせいたします。
-
-
-　　　　　　　　　　　　　　　　　　　　　記
-
-１．工事内容　　　　　ガス工事に伴う舗装工事
-
-２．舗装工事場所　　　別図参照（中地区南西部(大学敷地境界付近)）
-
-３．舗装工事期間　　　令和５年６月17日（土）　９：００～１７：００
-
-４．通行規制　　　　　歩行者・自転車ともに通行可能
-　　　　…]]></description>
         </item>
     </channel>
 </rss>
