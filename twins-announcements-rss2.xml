@@ -4,10 +4,23 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Thu, 22 Jun 2023 00:33:45 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 22 Jun 2023 02:10:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
+        <item>
+            <title><![CDATA[【急募】台湾での短期プログラム（6/23 12:00締切）]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4087</link>
+            <guid>01a2ddf77c165f550a567c8a84128c29</guid>
+            <pubDate>Thu, 22 Jun 2023 03:00:00 GMT</pubDate>
+            <description><![CDATA[2023 年度 国立台湾大学との学生交流プロジェクトに参加する学生を募集します！添付の募集要項をよく読み、応募してください。
+
+募集対象
+本学の正規課程に在籍する学群生及び大学院生（博士課程前期に限る）で、英語でのコミュニケーションが可能な者。なお、プロジェクトの全日程に参加できることが応募条件となります。
+
+実施方法
+筑波大学及び国立台湾大学から参加する各20名（合計40名）の学生により、1グル…]]></description>
+        </item>
         <item>
             <title><![CDATA[フランス語・文化講座開催のお知らせ]]></title>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4086</link>
@@ -268,15 +281,6 @@ h…]]></description>
             <description><![CDATA[この度、筑波大学ヒューマンエンパワーメント推進局（ダボットプロジェクト）では、一般公開WEBイベント「発達障害の"障害"は、社会のどこにあるのか？」を開催いたします。
 
 このイベントでは、SDGsの理念である「誰一人取り残さない」社会に向けて、本当の意味での「障害の社会モデル」に立ち返って、発達障害の"障害"を社会構造上、生じる社会的障壁と捉え、その障壁は社会のどこにあるのか、青年期・成人期を中心…]]></description>
-        </item>
-        <item>
-            <title><![CDATA[【注意喚起】食肉の生食にご注意ください（つくば保健所から）]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4060</link>
-            <guid>c951af04876ae6a33962b27005d2eec2</guid>
-            <pubDate>Thu, 15 Jun 2023 03:00:00 GMT</pubDate>
-            <description><![CDATA[　つくば保健所から、牛レバー等加熱食品の生食による健康被害予防のため、食肉の生食に関する注意喚起がありましたので、お知らせいたします。
-　6月は一般的に食中毒が多い時期と言われています。特に生・半生・加熱不足の鶏肉料理による「カンピロバクター食中毒」が増加傾向にあります。
-　鶏肉を調理する際には、中心部までしっかりと加熱する、食肉を焼くときの箸と、食べるときの箸を使い分けるなど、取り扱いには十分注…]]></description>
         </item>
     </channel>
 </rss>
