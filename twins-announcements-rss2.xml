@@ -4,10 +4,35 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Fri, 23 Jun 2023 02:22:52 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 23 Jun 2023 03:23:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
+        <item>
+            <title><![CDATA[【附属図書館】[7/10] Webサービスの認証システム切替および停止について]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4092</link>
+            <guid>6e740ee34f6df23613c48aa4f914091e</guid>
+            <pubDate>Fri, 23 Jun 2023 03:00:00 GMT</pubDate>
+            <description><![CDATA[学生の皆様
+
+セキュリティ向上のため、図書館Webサービスへのログイン方法を変更します。また、切り替えのタイミングで認証システムを一時停止します。
+
+■変更後の認証
+図書館Webサイトトップの「ログイン」をクリックしたときや、認証が必要なサービスへ遷移しようとしたときに、添付画像のような選択肢が表示されるようになります。
+ご自身のIDに合わせて適切な方を選択してください。
+一度ログインすると、ログ…]]></description>
+        </item>
+        <item>
+            <title><![CDATA[【Library】[7/10] Authentication System Switchover and Suspension of Web Services]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4090</link>
+            <guid>600fa0eb0a3d164a6bf4aa8b63a98d09</guid>
+            <pubDate>Fri, 23 Jun 2023 03:00:00 GMT</pubDate>
+            <description><![CDATA[To all students
+
+　To improve security, the login method to the Library Web Services will be changed. The authentication system will also be suspended at the time of the switchover.
+
+- Authentication a…]]></description>
+        </item>
         <item>
             <title><![CDATA[（BHE)Teams内　キャリア支援情報発信チームのご案内]]></title>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4089</link>
@@ -272,24 +297,6 @@ HPや学内掲示板では発信しきれない情報をタイムリーに発信
 以下のリンクから参加してください。
 
 【掲載…]]></description>
-        </item>
-        <item>
-            <title><![CDATA[【学内参加者募集】2023年度つくばアントレプレナー育成プログラム BizDev講座]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4066</link>
-            <guid>a279c8058845a9d7faf301919712a77e</guid>
-            <pubDate>Fri, 16 Jun 2023 03:00:00 GMT</pubDate>
-            <description><![CDATA[つくばアントレプレナー育成プログラム BizDev講座は、筑波大学の次世代アントレプレナー育成事業（EDGE-NEXT︔平成29年度～令和3年度文科省補助事業）により開発されたハンズオン支援型の実践的教育プログラムを用いて、事業化に成功するアントレプレナーの輩出と研究・技術シーズに基づくスタートアップ創出を促進することを目的とします。事業化の必須スキルを実践的に学び、事業化シーズを投資対象となるビ…]]></description>
-        </item>
-        <item>
-            <title><![CDATA[【お知らせ】法テラス「霊感商法等対応ダイヤル」について]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4064</link>
-            <guid>29fc4a4d8d85752ac6aee039061d9589</guid>
-            <pubDate>Fri, 16 Jun 2023 03:00:00 GMT</pubDate>
-            <description><![CDATA[　文部科学省から、霊感商法を始めとする金銭トラブルや心の悩み、家族の悩み等お持ちの方を対象に相談窓口情報の案内がありましたので、お知らせいたします。
-　法テラスでは利用者のお困りごとに応じて、問題を解決するための法制度や手続き、適切な相談窓口を無料でご案内しております。もし皆さんに困りごとがありましたら、気軽にご相談ください。
-　
-（法テラスホームページは以下のURLからご確認いただけます。）
-h…]]></description>
         </item>
     </channel>
 </rss>
