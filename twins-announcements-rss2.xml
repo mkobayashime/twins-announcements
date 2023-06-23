@@ -4,10 +4,26 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Fri, 23 Jun 2023 04:08:38 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 23 Jun 2023 07:04:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
+        <item>
+            <title><![CDATA[【募集延長】国立台湾大学との学生交流プロジェクトへの参加者募集！（6/30 12:00締切）]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4094</link>
+            <guid>c19189c7d80710545cfef0f739cb1d0c</guid>
+            <pubDate>Fri, 23 Jun 2023 03:00:00 GMT</pubDate>
+            <description><![CDATA[台湾への実地研修も含めた標記プロジェクトに参加する学生の募集を延長します！添付の募集要項をよく読み、応募してください。
+
+募集対象
+　本学の正規課程に在籍する学群生及び大学院生（博士課程前期に限る）で、英語でのコミュニケーションが可能な者。なお、プロジェクトの全日程に参加できることが応募条件となります。
+
+募集人数
+　20名
+
+実施方法
+　筑波大学及び国立台湾大学から参加する各20名（合計40名）…]]></description>
+        </item>
         <item>
             <title><![CDATA[【開催案内】オンラインによる新入生に贈る特別講演会_カリフォルニア大学サンディエゴ校教授 當作靖彦先生 7/6(木)]]></title>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4093</link>
@@ -280,21 +296,6 @@ BHEキャリア支援チームのファシリテーターからフィードバ�
 7月12日（水）
 午前の部　10：00-11：30
 午後の部　13：00-14：3…]]></description>
-        </item>
-        <item>
-            <title><![CDATA[【7/11】第50回ASIP/TG公開セミナー]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4068</link>
-            <guid>113c58662d6a2a52f93f65ff7bb38301</guid>
-            <pubDate>Fri, 16 Jun 2023 03:00:00 GMT</pubDate>
-            <description><![CDATA[第50回ASIP/TG公開セミナーのご案内です。
-
-「2023　グローバルキャリアを目指す」
-
-日時：令和５年７月１１日（火）　11：30～12：30
-講師：鷲崎　信広 氏（株式会社マイナビ　グローバルキャリアサポーター）
-会場：文科系修士棟8A107＆Zoom（リモート講演）
-
-内容：海外・国内でのHuman Resource(HR)業界でのご経験を活かした最新就職事情・就活アドバイスをお話いた…]]></description>
         </item>
     </channel>
 </rss>

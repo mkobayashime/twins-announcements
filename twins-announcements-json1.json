@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "c19189c7d80710545cfef0f739cb1d0c",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4094",
+            "title": "【募集延長】国立台湾大学との学生交流プロジェクトへの参加者募集！（6/30 12:00締切）",
+            "summary": "台湾への実地研修も含めた標記プロジェクトに参加する学生の募集を延長します！添付の募集要項をよく読み、応募してください。\n\n募集対象\n　本学の正規課程に在籍する学群生及び大学院生（博士課程前期に限る）で、英語でのコミュニケーションが可能な者。なお、プロジェクトの全日程に参加できることが応募条件となります。\n\n募集人数\n　20名\n\n実施方法\n　筑波大学及び国立台湾大学から参加する各20名（合計40名）…",
+            "date_modified": "2023-06-23T03:00:00.000Z"
+        },
+        {
             "id": "f2ad49b744d65b5a327fd6938ac51248",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4093",
             "title": "【開催案内】オンラインによる新入生に贈る特別講演会_カリフォルニア大学サンディエゴ校教授 當作靖彦先生 7/6(木)",
@@ -136,13 +143,6 @@
             "title": "(BHE)23年度教員採用試験受験者支援　対面面接練習",
             "summary": "今夏、教員採用試験を受験予定の方向けの集団面接練習会です。\n当日は元教員OBの方にもご協力いただく予定です。\n\nビジネスマナーについても学ぶことができます。\n当日はなるべく面接時に実際、着用するスーツ等で参加することを推奨します。\nBHEキャリア支援チームのファシリテーターからフィードバックがあります。\n\n＜日時＞\n7月12日（水）\n午前の部　10：00-11：30\n午後の部　13：00-14：3…",
             "date_modified": "2023-06-19T03:00:00.000Z"
-        },
-        {
-            "id": "113c58662d6a2a52f93f65ff7bb38301",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4068",
-            "title": "【7/11】第50回ASIP/TG公開セミナー",
-            "summary": "第50回ASIP/TG公開セミナーのご案内です。\n\n「2023　グローバルキャリアを目指す」\n\n日時：令和５年７月１１日（火）　11：30～12：30\n講師：鷲崎　信広 氏（株式会社マイナビ　グローバルキャリアサポーター）\n会場：文科系修士棟8A107＆Zoom（リモート講演）\n\n内容：海外・国内でのHuman Resource(HR)業界でのご経験を活かした最新就職事情・就活アドバイスをお話いた…",
-            "date_modified": "2023-06-16T03:00:00.000Z"
         }
     ]
 }
