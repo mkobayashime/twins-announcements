@@ -4,10 +4,25 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Fri, 23 Jun 2023 03:23:35 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 23 Jun 2023 04:08:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
+        <item>
+            <title><![CDATA[【開催案内】オンラインによる新入生に贈る特別講演会_カリフォルニア大学サンディエゴ校教授 當作靖彦先生 7/6(木)]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4093</link>
+            <guid>f2ad49b744d65b5a327fd6938ac51248</guid>
+            <pubDate>Fri, 23 Jun 2023 03:00:00 GMT</pubDate>
+            <description><![CDATA[筑波大学「日本財団 中央アジア・日本人材育成プロジェクト(NipCA)」主催  オンラインによる新入生に贈る特別講演会を、Zoom meetingにより次のとおり開催いたします。
+
+【オンラインによる新入生に贈る特別講演会】
+
+講演題目：生成AI革命の時代を生き抜くために －大学時代 何を学び、何をすべきか－
+
+日　　時：令和5年7月6日（木）13:45～15:00
+
+講　　師：カリフォルニア大学…]]></description>
+        </item>
         <item>
             <title><![CDATA[【附属図書館】[7/10] Webサービスの認証システム切替および停止について]]></title>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4092</link>
@@ -280,23 +295,6 @@ BHEキャリア支援チームのファシリテーターからフィードバ�
 会場：文科系修士棟8A107＆Zoom（リモート講演）
 
 内容：海外・国内でのHuman Resource(HR)業界でのご経験を活かした最新就職事情・就活アドバイスをお話いた…]]></description>
-        </item>
-        <item>
-            <title><![CDATA[（BHE)Teams内　キャリア支援情報発信チーム立ち上げのご案内]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4067</link>
-            <guid>140a6eb7c3a6e8533adb0d8fe573225c</guid>
-            <pubDate>Fri, 16 Jun 2023 03:00:00 GMT</pubDate>
-            <description><![CDATA[この度BHEでは新しい情報発信の場として、新チームを立ち上げました。
-
-BHEには、日々求人・インターンシップ、各種イベントなどの案内が届きます。
-HPや学内掲示板では発信しきれない情報をタイムリーに発信していきます。
-卒業年度別や志望別のチャネルを設けていますので、ぜひ活用してください。
-
-【参加方法】
-チーム名「BHEキャリア支援チーム　情報発信」
-以下のリンクから参加してください。
-
-【掲載…]]></description>
         </item>
     </channel>
 </rss>
