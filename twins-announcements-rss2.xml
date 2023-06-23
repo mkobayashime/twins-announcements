@@ -4,10 +4,26 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Thu, 22 Jun 2023 21:09:12 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 23 Jun 2023 02:22:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
+        <item>
+            <title><![CDATA[（BHE)Teams内　キャリア支援情報発信チームのご案内]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4089</link>
+            <guid>4e19317c3ead78a7bd42d890642660ff</guid>
+            <pubDate>Fri, 23 Jun 2023 03:00:00 GMT</pubDate>
+            <description><![CDATA[もう参加しましたか？
+
+この度BHEでは新しい情報発信の場として、新チームを立ち上げました。
+BHEには、日々求人・インターンシップ、各種イベントなどの案内が届きます。
+HPや学内掲示板では発信しきれない情報をタイムリーに発信していきます。
+卒業年度別や志望別のチャネルを設けていますので、ぜひ活用してください。
+
+【参加方法】
+チーム名「BHEキャリア支援チーム　情報発信」
+以下のリンクから参加し…]]></description>
+        </item>
         <item>
             <title><![CDATA[【再掲】就活セミナー「2023　グローバルキャリアを目指す」]]></title>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4088</link>
@@ -274,19 +290,6 @@ HPや学内掲示板では発信しきれない情報をタイムリーに発信
 　
 （法テラスホームページは以下のURLからご確認いただけます。）
 h…]]></description>
-        </item>
-        <item>
-            <title><![CDATA[【周知】「優れた外国語活動」認定制度について]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4062</link>
-            <guid>32555d9d66b09f7d5b2ad156990f602c</guid>
-            <pubDate>Thu, 15 Jun 2023 03:00:00 GMT</pubDate>
-            <description><![CDATA[　グローバルコミュニケーション教育センター（通称CEGLOC）では、学生の皆さんの意欲的で、自主的な外国語活動を独自評価する「優れた外国語活動」認定制度を設置しています。
-学群、大学院は問いませんので、以下に該当するかなと思われる方は、是非申請してみてください。
-留学生の日本語活動も対象です。
-詳細はCEGLOCのホームページをご覧ください。
-皆さんからの積極的な応募をお待ちしています。
-
-●外国…]]></description>
         </item>
     </channel>
 </rss>
