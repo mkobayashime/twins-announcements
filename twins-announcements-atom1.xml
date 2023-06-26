@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/mkobayashime/twins-announcements</id>
     <title>在学生へのお知らせ | 筑波大学</title>
-    <updated>2023-06-26T15:10:28.054Z</updated>
+    <updated>2023-06-26T21:09:17.278Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://github.com/mkobayashime/twins-announcements"/>
     <subtitle>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</subtitle>
@@ -115,14 +115,11 @@ HPや学内掲示板では発信しきれない情報をタイムリーに発信
         <id>600fa0eb0a3d164a6bf4aa8b63a98d09</id>
         <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4090"/>
         <updated>2023-06-23T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[学生の皆様
+        <summary type="html"><![CDATA[To all students
 
-セキュリティ向上のため、図書館Webサービスへのログイン方法を変更します。また、切り替えのタイミングで認証システムを一時停止します。
+　To improve security, the login method to the Library Web Services will be changed. The authentication system will also be suspended at the time of the switchover.
 
-■変更後の認証
-図書館Webサイトトップの「ログイン」をクリックしたときや、認証が必要なサービスへ遷移しようとしたときに、添付画像のような選択肢が表示されるようになります。
-ご自身のIDに合わせて適切な方を選択してください。
-一度ログインすると、ログ…]]></summary>
+- Authentication a…]]></summary>
     </entry>
     <entry>
         <title type="html"><![CDATA[（BHE)Teams内　キャリア支援情報発信チームのご案内]]></title>
