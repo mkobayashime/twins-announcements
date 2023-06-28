@@ -4,7 +4,7 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Wed, 28 Jun 2023 09:10:10 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 28 Jun 2023 15:10:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
@@ -207,18 +207,6 @@ HPや学内掲示板では発信しきれない情報をタイムリーに発信
 興味のある方は、添付ファイルをご参照の上、記載のQRコードよりお申込み下さい。]]></description>
         </item>
         <item>
-            <title><![CDATA[サーバー更新作業に伴うキャリア支援チームHP及び就職情報提供システム停止のお知らせ]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4085</link>
-            <guid>f7e5c4dc1ece4147cbde4ed3df16263e</guid>
-            <pubDate>Wed, 21 Jun 2023 03:00:00 GMT</pubDate>
-            <description><![CDATA[サーバー更新作業に伴い、下記の時間、キャリア支援チームホームページ等へ繋がりにくくなります。
-【サーバー更新作業日時】6/28（水）9：00　～　 6/28（水）12：15（予定）
-
-なお、サーバー更新作業中は、「学内専用ページ」、「ガイダンス等及び模試試験登録・申請」、「進路進捗状況届」へのアクセスはできません。
-皆様にはご迷惑をおかけいたしますが、ご理解、ご協力の程よろしくお願いいたします。
-…]]></description>
-        </item>
-        <item>
             <title><![CDATA[【参加者募集・実渡航あり】インドネシア海外参加者募集のお知らせ]]></title>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4084</link>
             <guid>109b48dd5cc90725c5139884acf00460</guid>
@@ -282,6 +270,15 @@ HPや学内掲示板では発信しきれない情報をタイムリーに発信
 以下のリンクから参加してください。
 
 【掲載…]]></description>
+        </item>
+        <item>
+            <title><![CDATA[7/13（13:45～）花木氏講演会「実験を通じて学ぶ経済学（仮）」（学生・教員対象）]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4080</link>
+            <guid>a61b67e4c30c93963e2a715e79e55050</guid>
+            <pubDate>Tue, 20 Jun 2023 03:00:00 GMT</pubDate>
+            <description><![CDATA[TSUKUBA社会国際学初年次チュートリアルプログラムでは、7月13日（木）13時45分から公開講演会を開催いたします。講師は大阪大学・社会経済研究所の花木伸行氏で、「実験を通じて学ぶ経済学（仮）」という題目で講演していただきます。筑波大学の学生・教員でしたらどなたでもご参加いただけます。奮ってご参加下さい。
+
+＊なお、講演中に参加型の教室実験を行いますが、準備の関係上、実験への参加は事前登録制と…]]></description>
         </item>
     </channel>
 </rss>
