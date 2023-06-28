@@ -2,10 +2,26 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/mkobayashime/twins-announcements</id>
     <title>在学生へのお知らせ | 筑波大学</title>
-    <updated>2023-06-27T21:09:04.778Z</updated>
+    <updated>2023-06-28T00:36:59.966Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://github.com/mkobayashime/twins-announcements"/>
     <subtitle>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</subtitle>
+    <entry>
+        <title type="html"><![CDATA[【BHE】7月21日チャレンジ実践会　対面面接・GD編]]></title>
+        <id>835fc7b684fa013bc313e451197a8dab</id>
+        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4102"/>
+        <updated>2023-06-28T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[これまでオンラインで実施してきた就活実践講座を、面接編とGD編について対面で開催します。
+各回BHEキャリア支援チームのファシリテーターからフィードバックがあります。
+就活真っ最中の方、これからインターンシップに参加する方、ぜひ練習にお越しください。
+
+＜日にち＞
+7月21日（金）
+
+＜実施詳細＞
+午前　面接編　10：00-11：30　　定員12名
+午後　GD編　   13：00-14：30　　定…]]></summary>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[Recruitment] Volunteer Opportunities for University of TSUKUBA Home Game "TSUKUBA LIVE!"]]></title>
         <id>1b4d9a37400f0f50e11a03a96b770b23</id>
@@ -258,17 +274,5 @@ HPや学内掲示板では発信しきれない情報をタイムリーに発信
         <summary type="html"><![CDATA[TSUKUBA社会国際学初年次チュートリアルプログラムでは、7月13日（木）13時45分から公開講演会を開催いたします。講師は大阪大学・社会経済研究所の花木伸行氏で、「実験を通じて学ぶ経済学（仮）」という題目で講演していただきます。筑波大学の学生・教員でしたらどなたでもご参加いただけます。奮ってご参加下さい。
 
 ＊なお、講演中に参加型の教室実験を行いますが、準備の関係上、実験への参加は事前登録制と…]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【注意喚起】大学構内でのアライグマの目撃情報について]]></title>
-        <id>56f0902894f87e34d8e0d40b4c154bb7</id>
-        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4079"/>
-        <updated>2023-06-20T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[令和5年6月18日～19日ごろ、第２エリア及び第３エリア付近で特定外来生物 「アライグマ」の目撃情報がありました。
-アライグマは可愛らしい外見とは異なり、非常に獰猛です。
-噛む力も強く、鋭い牙を持っていますので、不用意に触れると大怪我をする可能性があるほか、狂犬病など人獣共通感染症への感染のリスクも生じます。
-事故やケガに遭わないために、アライグマを目撃した場合は次のことに注意してください。
-
-○…]]></summary>
     </entry>
 </feed>
