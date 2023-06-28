@@ -4,10 +4,25 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Wed, 28 Jun 2023 00:36:59 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 28 Jun 2023 02:22:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
+        <item>
+            <title><![CDATA[【再掲】就活セミナー「2023　グローバルキャリアを]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4103</link>
+            <guid>dba208be78e1b63ed2be4b69fb139222</guid>
+            <pubDate>Wed, 28 Jun 2023 03:00:00 GMT</pubDate>
+            <description><![CDATA[第50回ASIP/TG公開セミナーのご案内です。
+
+「2023　グローバルキャリアを目指す」
+
+日時：令和５年７月１１日（火）　11：30～12：30
+講師：鷲崎　信広 氏（株式会社マイナビ　グローバルキャリアサポーター）
+会場：文科系修士棟8A107＆Zoom（リモート講演）
+
+内容：海外・国内でのHuman Resource(HR)業界でのご経験を活かした最新就職事情・就活アドバイスをお話いた…]]></description>
+        </item>
         <item>
             <title><![CDATA[【BHE】7月21日チャレンジ実践会　対面面接・GD編]]></title>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4102</link>
@@ -267,15 +282,6 @@ HPや学内掲示板では発信しきれない情報をタイムリーに発信
 以下のリンクから参加してください。
 
 【掲載…]]></description>
-        </item>
-        <item>
-            <title><![CDATA[7/13（13:45～）花木氏講演会「実験を通じて学ぶ経済学（仮）」（学生・教員対象）]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4080</link>
-            <guid>a61b67e4c30c93963e2a715e79e55050</guid>
-            <pubDate>Tue, 20 Jun 2023 03:00:00 GMT</pubDate>
-            <description><![CDATA[TSUKUBA社会国際学初年次チュートリアルプログラムでは、7月13日（木）13時45分から公開講演会を開催いたします。講師は大阪大学・社会経済研究所の花木伸行氏で、「実験を通じて学ぶ経済学（仮）」という題目で講演していただきます。筑波大学の学生・教員でしたらどなたでもご参加いただけます。奮ってご参加下さい。
-
-＊なお、講演中に参加型の教室実験を行いますが、準備の関係上、実験への参加は事前登録制と…]]></description>
         </item>
     </channel>
 </rss>
