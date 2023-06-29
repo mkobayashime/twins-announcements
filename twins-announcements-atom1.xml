@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/mkobayashime/twins-announcements</id>
     <title>在学生へのお知らせ | 筑波大学</title>
-    <updated>2023-06-29T00:36:10.374Z</updated>
+    <updated>2023-06-29T02:19:26.021Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://github.com/mkobayashime/twins-announcements"/>
     <subtitle>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</subtitle>
+    <entry>
+        <title type="html"><![CDATA[【manaba掲載のお知らせ】令和5年度夏季休業前の海外危機管理セミナーについて]]></title>
+        <id>4760530785124e3df9773a3ab9d32227</id>
+        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4106"/>
+        <updated>2023-06-29T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[6/22(木)に開催した標記セミナーについて、セミナーの動画と関係資料をmanabaに掲載しましたので、お知らせいたします。
+コース登録方法、動画視聴方法等につきましては、添付ファイルをご確認ください。
+
+
+＜以下、参考：セミナーの概要情報＞
+海外危機管理セミナー（オンライン）を開催しますので、お知らせいたします。
+海外危機管理に関するスペシャリストをお招きし、海外渡航※前の準備事項と、現地での安…]]></summary>
+    </entry>
     <entry>
         <title type="html"><![CDATA[オンラインによる新入生に贈る特別講演会開催のお知らせ（NipCAプロジェクト）]]></title>
         <id>b12d390d25c8a2f4e302fdf872b99a77</id>
@@ -266,22 +279,5 @@ APP本社、…]]></summary>
 —–—–—–*
 参加資格
 〇本学学…]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[（BHE)Teams内　キャリア支援情報発信チーム立ち上げのご案内]]></title>
-        <id>140a6eb7c3a6e8533adb0d8fe573225c</id>
-        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4081"/>
-        <updated>2023-06-21T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[この度BHEでは新しい情報発信の場として、新チームを立ち上げました。
-
-BHEには、日々求人・インターンシップ、各種イベントなどの案内が届きます。
-HPや学内掲示板では発信しきれない情報をタイムリーに発信していきます。
-卒業年度別や志望別のチャネルを設けていますので、ぜひ活用してください。
-
-【参加方法】
-チーム名「BHEキャリア支援チーム　情報発信」
-以下のリンクから参加してください。
-
-【掲載…]]></summary>
     </entry>
 </feed>
