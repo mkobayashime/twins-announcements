@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "b12d390d25c8a2f4e302fdf872b99a77",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4104",
+            "title": "オンラインによる新入生に贈る特別講演会開催のお知らせ（NipCAプロジェクト）",
+            "summary": "このたび「日本財団 中央アジア・日本人材育成プロジェクト」の主催にて、\n新入生向けの特別講演会を開催することになりました。\n\n毎年開催している本講演会も今年で4年目となりますが、今年度も\nカリフォルニア大学サンディエゴ校教授の當作靖彦氏を講師にお招きし、\n7月6日（木）13:45～15:00、オンラインにて開催いたします。\n\n詳細は、以下のURLをご覧ください。\n多くの方のご参加をお待ちしておりま…",
+            "date_modified": "2023-06-29T03:00:00.000Z"
+        },
+        {
             "id": "dba208be78e1b63ed2be4b69fb139222",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4103",
             "title": "【再掲】就活セミナー「2023　グローバルキャリアを",
@@ -136,13 +143,6 @@
             "title": "（BHE)Teams内　キャリア支援情報発信チーム立ち上げのご案内",
             "summary": "この度BHEでは新しい情報発信の場として、新チームを立ち上げました。\n\nBHEには、日々求人・インターンシップ、各種イベントなどの案内が届きます。\nHPや学内掲示板では発信しきれない情報をタイムリーに発信していきます。\n卒業年度別や志望別のチャネルを設けていますので、ぜひ活用してください。\n\n【参加方法】\nチーム名「BHEキャリア支援チーム　情報発信」\n以下のリンクから参加してください。\n\n【掲載…",
             "date_modified": "2023-06-21T03:00:00.000Z"
-        },
-        {
-            "id": "a61b67e4c30c93963e2a715e79e55050",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4080",
-            "title": "7/13（13:45～）花木氏講演会「実験を通じて学ぶ経済学（仮）」（学生・教員対象）",
-            "summary": "TSUKUBA社会国際学初年次チュートリアルプログラムでは、7月13日（木）13時45分から公開講演会を開催いたします。講師は大阪大学・社会経済研究所の花木伸行氏で、「実験を通じて学ぶ経済学（仮）」という題目で講演していただきます。筑波大学の学生・教員でしたらどなたでもご参加いただけます。奮ってご参加下さい。\n\n＊なお、講演中に参加型の教室実験を行いますが、準備の関係上、実験への参加は事前登録制と…",
-            "date_modified": "2023-06-20T03:00:00.000Z"
         }
     ]
 }

@@ -4,10 +4,25 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Wed, 28 Jun 2023 21:08:55 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 29 Jun 2023 00:36:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
+        <item>
+            <title><![CDATA[オンラインによる新入生に贈る特別講演会開催のお知らせ（NipCAプロジェクト）]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4104</link>
+            <guid>b12d390d25c8a2f4e302fdf872b99a77</guid>
+            <pubDate>Thu, 29 Jun 2023 03:00:00 GMT</pubDate>
+            <description><![CDATA[このたび「日本財団 中央アジア・日本人材育成プロジェクト」の主催にて、
+新入生向けの特別講演会を開催することになりました。
+
+毎年開催している本講演会も今年で4年目となりますが、今年度も
+カリフォルニア大学サンディエゴ校教授の當作靖彦氏を講師にお招きし、
+7月6日（木）13:45～15:00、オンラインにて開催いたします。
+
+詳細は、以下のURLをご覧ください。
+多くの方のご参加をお待ちしておりま…]]></description>
+        </item>
         <item>
             <title><![CDATA[【再掲】就活セミナー「2023　グローバルキャリアを]]></title>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4103</link>
@@ -270,15 +285,6 @@ HPや学内掲示板では発信しきれない情報をタイムリーに発信
 以下のリンクから参加してください。
 
 【掲載…]]></description>
-        </item>
-        <item>
-            <title><![CDATA[7/13（13:45～）花木氏講演会「実験を通じて学ぶ経済学（仮）」（学生・教員対象）]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4080</link>
-            <guid>a61b67e4c30c93963e2a715e79e55050</guid>
-            <pubDate>Tue, 20 Jun 2023 03:00:00 GMT</pubDate>
-            <description><![CDATA[TSUKUBA社会国際学初年次チュートリアルプログラムでは、7月13日（木）13時45分から公開講演会を開催いたします。講師は大阪大学・社会経済研究所の花木伸行氏で、「実験を通じて学ぶ経済学（仮）」という題目で講演していただきます。筑波大学の学生・教員でしたらどなたでもご参加いただけます。奮ってご参加下さい。
-
-＊なお、講演中に参加型の教室実験を行いますが、準備の関係上、実験への参加は事前登録制と…]]></description>
         </item>
     </channel>
 </rss>
