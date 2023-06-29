@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "823557549169c364f29c218081952a00",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4107",
+            "title": "【比文】ウクライナ学生との交流会 ～文化・歴史・社会～",
+            "summary": "Meetup with Ukrainian Students – From the perspective of Culture, History, and Society –\n\n筑波大学は国立大学最多のウクライナ学生を受け入れていますが、学生間の交流の機会は少ないのが現状です。\nこの交流会はウクライナの学生を招待し、お互いの相互理解を深め、交流の場をうみだすことが目的です。\n当日は２名のウクライ…",
+            "date_modified": "2023-06-29T03:00:00.000Z"
+        },
+        {
             "id": "4760530785124e3df9773a3ab9d32227",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4106",
             "title": "【manaba掲載のお知らせ】令和5年度夏季休業前の海外危機管理セミナーについて",
@@ -135,13 +142,6 @@
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4083",
             "title": "【大学連携シンポジウム】「外国にルーツのある子どもたちと共に生きよう」の開催について",
             "summary": "茨城キリスト教大学より、【大学連携シンポジウム】「外国にルーツのある子どもたちと共に生きよう」の開催案内がありましたのでお知らせします。\n\n【開催日】　2023年7月1日（土）13：30～16：30（予定）\n【会　場】　茨城キリスト教大学8号館8101教室\n【対　象】　大学生、幼小中高で働く現役の先生方、行政の方、日本語支援活動者等\n\n【プログラム】\n13：30　開会の挨拶（5分）\n13：35　趣…",
-            "date_modified": "2023-06-21T03:00:00.000Z"
-        },
-        {
-            "id": "7709030f7a14e536e14607f2e163d123",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4082",
-            "title": "【参加者募集・実渡航あり】第25次ベトナム友好訪問団参加者募集のお知らせ",
-            "summary": "概要\n日本とベトナムの青少年たちの交流及びボランティア活動を通じ、友好親善を進めるとともに、自ら考え行動し、次世代を担う人材育成を目指す。茨城県内の各大学から学生が参加する予定です。\n\n時期 Program Duration\n9月11日～9月16日\n\n主な訪問先\nベトナム外務省、越日友好協会、国立歴史博物館、フエ外国語大学、こどもの家、フエ王宮、ホーチミン市街\n\n—–—–—–*\n参加資格\n〇本学学…",
             "date_modified": "2023-06-21T03:00:00.000Z"
         }
     ]
