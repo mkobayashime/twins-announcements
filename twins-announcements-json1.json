@@ -5,6 +5,20 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "140a6eb7c3a6e8533adb0d8fe573225c",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4110",
+            "title": "（BHE)Teams内　キャリア支援情報発信チーム立ち上げのご案内",
+            "summary": "この度BHEでは新しい情報発信の場として、新チームを立ち上げました。\n\nBHEには、日々求人・インターンシップ、各種イベントなどの案内が届きます。\nHPや学内掲示板では発信しきれない情報をタイムリーに発信していきます。\n卒業年度別や志望別のチャネルを設けていますので、ぜひ活用してください。\n\n【参加方法】\nチーム名「BHEキャリア支援チーム　情報発信」\n以下のリンクから参加してください。\n\n【掲載…",
+            "date_modified": "2023-07-03T03:00:00.000Z"
+        },
+        {
+            "id": "b6350c05de99dfbe4af60382274b9026",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4109",
+            "title": "TSUKUBA憲法レクチャー「常に問い続ける～アナウンサーが考える人権」（7/20）のお知らせ",
+            "summary": "社会・国際学群では、山田賢治さん（NHKアナウンス室チーフアナウンサー　Eテレ「ハートネットTV」元キャスター）をお招きし、第7回TSUKUBA憲法レクチャー「常に問い続ける～アナウンサーが考える人権」を開催いたします。\n学生、教職員の皆さまであればどなたでもご参加いただけますので、ふるってご参加下さい。\n\n---\n第7回TSUKUBA憲法レクチャー「常に問い続ける～アナウンサーが考える人権」\n\n…",
+            "date_modified": "2023-07-03T03:00:00.000Z"
+        },
+        {
             "id": "f8dfc38cf9f23a8a0d725b659e2683c7",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4108",
             "title": "筑波大学公式オリジナルグッズECサイト割引クーポンのお知らせ（7月）",
@@ -129,20 +143,6 @@
             "title": "フランス語・文化講座開催のお知らせ",
             "summary": "(公財)茨城県国際交流協会ではフランス語・文化講座(初心者向け)を開催します。\n興味のある方は、添付ファイルをご参照の上、記載のQRコードよりお申込み下さい。",
             "date_modified": "2023-06-22T03:00:00.000Z"
-        },
-        {
-            "id": "109b48dd5cc90725c5139884acf00460",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4084",
-            "title": "【参加者募集・実渡航あり】インドネシア海外参加者募集のお知らせ",
-            "summary": "概要\nインドネシア　スマトラ島、ジャワ島の協定校において 、 講義 ・ 生物資源に係るフィールド実習、現地調査を通じて 当該国における 生物資源の特色や 地域性を学び、国際的な視野に立ったキャリア意識を醸成する 。\n本プログラムは附属坂戸高校と連携して実施され、附属高校からも数名の高校生が参加する予定です。\n\n時期 Program Duration\n8月1日～8月11日\n\n主な訪問先\nAPP本社、…",
-            "date_modified": "2023-06-21T03:00:00.000Z"
-        },
-        {
-            "id": "8bc5b95b72a20165a9f073e7d5e2a684",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4083",
-            "title": "【大学連携シンポジウム】「外国にルーツのある子どもたちと共に生きよう」の開催について",
-            "summary": "茨城キリスト教大学より、【大学連携シンポジウム】「外国にルーツのある子どもたちと共に生きよう」の開催案内がありましたのでお知らせします。\n\n【開催日】　2023年7月1日（土）13：30～16：30（予定）\n【会　場】　茨城キリスト教大学8号館8101教室\n【対　象】　大学生、幼小中高で働く現役の先生方、行政の方、日本語支援活動者等\n\n【プログラム】\n13：30　開会の挨拶（5分）\n13：35　趣…",
-            "date_modified": "2023-06-21T03:00:00.000Z"
         }
     ]
 }
