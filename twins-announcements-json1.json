@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "80b6225c0be04d16e8919a828deecdb8",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4111",
+            "title": "【再掲】TG⁺プログラム第４期生の募集を開始します",
+            "summary": "TG⁺プログラム第4期生の募集を開始します。\n\n【募集期間】\n5月25日～8月31日\n【締め切り】\n二次募集　8月31日（木）\n【申し込み方法】\n参加登録案内（https://tgplus.hass.tsukuba.ac.jp/entry/）をご覧ください。\n\n募集にあたりプログラムの説明会を開催します。\nプログラムにご興味・相談のある筑波大生・院生の方は、ぜひご参加ください。\n\n\n第2回目説明会…",
+            "date_modified": "2023-07-03T03:00:00.000Z"
+        },
+        {
             "id": "140a6eb7c3a6e8533adb0d8fe573225c",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4110",
             "title": "（BHE)Teams内　キャリア支援情報発信チーム立ち上げのご案内",
@@ -64,7 +71,7 @@
             "id": "1b4d9a37400f0f50e11a03a96b770b23",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4101",
             "title": "[Recruitment] Volunteer Opportunities for University of TSUKUBA Home Game \"TSUKUBA LIVE!\"",
-            "summary": "We are looking for volunteers to help us assist the operation of the University of Tsukuba's home game \"TSUKUBA LIVE!\" which is scheduled to be held on August 5th and 6th 2023.\n\nWould you like to have…",
+            "summary": "これまでオンラインで実施してきた就活実践講座を、面接編とGD編について対面で開催します。\n各回BHEキャリア支援チームのファシリテーターからフィードバックがあります。\n就活真っ最中の方、これからインターンシップに参加する方、ぜひ練習にお越しください。\n\n＜日にち＞\n7月21日（金）\n\n＜実施詳細＞\n午前　面接編　10：00-11：30　　定員12名\n午後　GD編　   13：00-14：30　　定…",
             "date_modified": "2023-06-26T03:00:00.000Z"
         },
         {
@@ -135,13 +142,6 @@
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4087",
             "title": "【急募】台湾での短期プログラム（6/23 12:00締切）",
             "summary": "2023 年度 国立台湾大学との学生交流プロジェクトに参加する学生を募集します！添付の募集要項をよく読み、応募してください。\n\n募集対象\n本学の正規課程に在籍する学群生及び大学院生（博士課程前期に限る）で、英語でのコミュニケーションが可能な者。なお、プロジェクトの全日程に参加できることが応募条件となります。\n\n実施方法\n筑波大学及び国立台湾大学から参加する各20名（合計40名）の学生により、1グル…",
-            "date_modified": "2023-06-22T03:00:00.000Z"
-        },
-        {
-            "id": "5574f4fe5db48809257fd35b25558d1b",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4086",
-            "title": "フランス語・文化講座開催のお知らせ",
-            "summary": "(公財)茨城県国際交流協会ではフランス語・文化講座(初心者向け)を開催します。\n興味のある方は、添付ファイルをご参照の上、記載のQRコードよりお申込み下さい。",
             "date_modified": "2023-06-22T03:00:00.000Z"
         }
     ]

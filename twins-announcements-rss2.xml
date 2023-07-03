@@ -4,10 +4,30 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Mon, 03 Jul 2023 02:23:04 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 03 Jul 2023 03:18:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
+        <item>
+            <title><![CDATA[【再掲】TG⁺プログラム第４期生の募集を開始します]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4111</link>
+            <guid>80b6225c0be04d16e8919a828deecdb8</guid>
+            <pubDate>Mon, 03 Jul 2023 03:00:00 GMT</pubDate>
+            <description><![CDATA[TG⁺プログラム第4期生の募集を開始します。
+
+【募集期間】
+5月25日～8月31日
+【締め切り】
+二次募集　8月31日（木）
+【申し込み方法】
+参加登録案内（https://tgplus.hass.tsukuba.ac.jp/entry/）をご覧ください。
+
+募集にあたりプログラムの説明会を開催します。
+プログラムにご興味・相談のある筑波大生・院生の方は、ぜひご参加ください。
+
+
+第2回目説明会…]]></description>
+        </item>
         <item>
             <title><![CDATA[（BHE)Teams内　キャリア支援情報発信チーム立ち上げのご案内]]></title>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4110</link>
@@ -132,9 +152,16 @@ ECサイトは以下のリンクから
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4101</link>
             <guid>1b4d9a37400f0f50e11a03a96b770b23</guid>
             <pubDate>Mon, 26 Jun 2023 03:00:00 GMT</pubDate>
-            <description><![CDATA[We are looking for volunteers to help us assist the operation of the University of Tsukuba's home game "TSUKUBA LIVE!" which is scheduled to be held on August 5th and 6th 2023.
+            <description><![CDATA[これまでオンラインで実施してきた就活実践講座を、面接編とGD編について対面で開催します。
+各回BHEキャリア支援チームのファシリテーターからフィードバックがあります。
+就活真っ最中の方、これからインターンシップに参加する方、ぜひ練習にお越しください。
 
-Would you like to have…]]></description>
+＜日にち＞
+7月21日（金）
+
+＜実施詳細＞
+午前　面接編　10：00-11：30　　定員12名
+午後　GD編　   13：00-14：30　　定…]]></description>
         </item>
         <item>
             <title><![CDATA[【募集】筑波大学ホームゲーム「TSUKUBA LIVE!」の当日スタッフを募集します！]]></title>
@@ -269,14 +296,6 @@ HPや学内掲示板では発信しきれない情報をタイムリーに発信
 
 実施方法
 筑波大学及び国立台湾大学から参加する各20名（合計40名）の学生により、1グル…]]></description>
-        </item>
-        <item>
-            <title><![CDATA[フランス語・文化講座開催のお知らせ]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4086</link>
-            <guid>5574f4fe5db48809257fd35b25558d1b</guid>
-            <pubDate>Thu, 22 Jun 2023 03:00:00 GMT</pubDate>
-            <description><![CDATA[(公財)茨城県国際交流協会ではフランス語・文化講座(初心者向け)を開催します。
-興味のある方は、添付ファイルをご参照の上、記載のQRコードよりお申込み下さい。]]></description>
         </item>
     </channel>
 </rss>
