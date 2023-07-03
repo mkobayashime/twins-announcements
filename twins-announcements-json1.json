@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "0351a8319265f8c362e2222ffcbf1196",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4112",
+            "title": "July 6th (Thu) 16:00-17:30 World-science Leaders’ Seminar（For all students）",
+            "summary": "World - Science Leaders' Seminar will be held  on 6 July (Thu) 16:00-17:30, on-site TARA Center Building A, Seminar Room, Dr Allison Bardin  will give a lecture entitled \"Genomic regulation of stem ce…",
+            "date_modified": "2023-07-03T03:00:00.000Z"
+        },
+        {
             "id": "80b6225c0be04d16e8919a828deecdb8",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4111",
             "title": "【再掲】TG⁺プログラム第４期生の募集を開始します",
@@ -135,13 +142,6 @@
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4088",
             "title": "【再掲】就活セミナー「2023　グローバルキャリアを目指す」",
             "summary": "第50回ASIP/TG公開セミナーのご案内です。\n\n「2023　グローバルキャリアを目指す」\n\n日時：令和５年７月１１日（火）　11：30～12：30\n講師：鷲崎　信広 氏（株式会社マイナビ　グローバルキャリアサポーター）\n会場：文科系修士棟8A107＆Zoom（リモート講演）\n\n内容：海外・国内でのHuman Resource(HR)業界でのご経験を活かした最新就職事情・就活アドバイスをお話いた…",
-            "date_modified": "2023-06-22T03:00:00.000Z"
-        },
-        {
-            "id": "01a2ddf77c165f550a567c8a84128c29",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4087",
-            "title": "【急募】台湾での短期プログラム（6/23 12:00締切）",
-            "summary": "2023 年度 国立台湾大学との学生交流プロジェクトに参加する学生を募集します！添付の募集要項をよく読み、応募してください。\n\n募集対象\n本学の正規課程に在籍する学群生及び大学院生（博士課程前期に限る）で、英語でのコミュニケーションが可能な者。なお、プロジェクトの全日程に参加できることが応募条件となります。\n\n実施方法\n筑波大学及び国立台湾大学から参加する各20名（合計40名）の学生により、1グル…",
             "date_modified": "2023-06-22T03:00:00.000Z"
         }
     ]
