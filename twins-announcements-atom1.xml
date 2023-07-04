@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/mkobayashime/twins-announcements</id>
     <title>在学生へのお知らせ | 筑波大学</title>
-    <updated>2023-07-04T06:09:31.009Z</updated>
+    <updated>2023-07-04T08:09:33.729Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://github.com/mkobayashime/twins-announcements"/>
     <subtitle>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</subtitle>
+    <entry>
+        <title type="html"><![CDATA[STOP！研究費不正使用！／STOP！Wrongful use of research funding！]]></title>
+        <id>d07de3a2549e9d1109e19fd73f9711de</id>
+        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4115"/>
+        <updated>2023-07-04T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[学生の皆さんが不正使用に巻き込まれるケースが多発しています。
+不正を見かけた、持ちかけられたら、通報窓口へ。
+コンプライアンス・ハラスメント対策室（学内窓口）
+Mail:compliance@un.tsukuba.ac.jp TEL:029-853-2033
+つくば中央法律事務所（学外窓口）
+TEL:029-896-3530  FAX:029-896-3531]]></summary>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【日本財団】浮体式洋上風車の設計・製作セミナー参加者募集のお知らせ（7・8月）【7/14締切】]]></title>
         <id>2a2eac3db53c785395b6aba881d60f99</id>
@@ -267,16 +279,5 @@ HPや学内掲示板では発信しきれない情報をタイムリーに発信
 図書館Webサイトトップの「ログイン」をクリックしたときや、認証が必要なサービスへ遷移しようとしたときに、添付画像のような選択肢が表示されるようになります。
 ご自身のIDに合わせて適切な方を選択してください。
 一度ログインすると、ログ…]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【Library】[7/10] Authentication System Switchover and Suspension of Web Services]]></title>
-        <id>600fa0eb0a3d164a6bf4aa8b63a98d09</id>
-        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4090"/>
-        <updated>2023-06-23T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[To all students
-
-　To improve security, the login method to the Library Web Services will be changed. The authentication system will also be suspended at the time of the switchover.
-
-- Authentication a…]]></summary>
     </entry>
 </feed>
