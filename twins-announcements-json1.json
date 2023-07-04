@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "62de9f38a850d09132a77fc6679643fd",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4118",
+            "title": "Notice:Requesting your Participation in the 151st + 50th Anniversary Ceremony and Anniversary Events",
+            "summary": "Dear Students\n\nThe University of Tsukuba will hold its anniversary ceremony on September 30 with several events scheduled, on October 1, as part of celebrating our 151st Foundation as modern Japan’s f…",
+            "date_modified": "2023-07-04T03:00:00.000Z"
+        },
+        {
             "id": "44ecdd4af4490b4b6cfbd0e5b0237af0",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4117",
             "title": "【お知らせ】創基151年筑波大学開学50周年記念式典・イベントへの参加のお願い",
@@ -136,13 +143,6 @@
             "title": "（BHE)Teams内　キャリア支援情報発信チームのご案内",
             "summary": "この度BHEでは新しい情報発信の場として、新チームを立ち上げました。\n\nBHEには、日々求人・インターンシップ、各種イベントなどの案内が届きます。\nHPや学内掲示板では発信しきれない情報をタイムリーに発信していきます。\n卒業年度別や志望別のチャネルを設けていますので、ぜひ活用してください。\n\n【参加方法】\nチーム名「BHEキャリア支援チーム　情報発信」\n以下のリンクから参加してください。\n\n【掲載…",
             "date_modified": "2023-06-26T03:00:00.000Z"
-        },
-        {
-            "id": "6767d7d15450edef2c0aa7404cbb5281",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4095",
-            "title": "【開催案内】海外先進大学スポーツマネジメント研修事前説明会",
-            "summary": "体育スポーツ局で開講する『海外先進大学スポーツマネジメント研修事前説明会』開催のお知らせです。\n\n2024年3月、アメリカの大学スポーツを体感できる海外研修（授業）を実施予定です。\nこの度、研修に関して事前説明会を開催致します。\n研修では約一週間の滞在の中で大学スポーツが大学や地域にもたらす意義や筑波大学が目指す大学スポーツの世界観について訪問先ハワイ大学のスタッフ・教員から講義して頂きます。ハワ…",
-            "date_modified": "2023-06-23T03:00:00.000Z"
         }
     ]
 }
