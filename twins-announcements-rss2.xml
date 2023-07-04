@@ -4,10 +4,23 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Tue, 04 Jul 2023 09:05:27 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 04 Jul 2023 09:10:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
+        <item>
+            <title><![CDATA[【お知らせ】創基151年筑波大学開学50周年記念式典・イベントへの参加のお願い]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4117</link>
+            <guid>44ecdd4af4490b4b6cfbd0e5b0237af0</guid>
+            <pubDate>Tue, 04 Jul 2023 03:00:00 GMT</pubDate>
+            <description><![CDATA[学生の皆様
+
+筑波大学は、創基151年筑波大学開学50周年記念事業として、9月30日（土）に記念式典、10月1日（日）に記念イベントを開催いたします。
+
+記念式典は、本学の特色や魅力を存分に感じていただくことをコンセプトとしたプログラムを企画しています。 つくば国際会議場において、本学の学生、教職員、卒業生や修了生、元教職員、本学に関心をお持ちの皆様の参加をお待ちしております（要事前登録）。
+
+記…]]></description>
+        </item>
         <item>
             <title><![CDATA[【単位認定】日本語サポーター募集！（TWINS締切 7/14）]]></title>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4116</link>
@@ -263,21 +276,6 @@ HPや学内掲示板では発信しきれない情報をタイムリーに発信
 2024年3月、アメリカの大学スポーツを体感できる海外研修（授業）を実施予定です。
 この度、研修に関して事前説明会を開催致します。
 研修では約一週間の滞在の中で大学スポーツが大学や地域にもたらす意義や筑波大学が目指す大学スポーツの世界観について訪問先ハワイ大学のスタッフ・教員から講義して頂きます。ハワ…]]></description>
-        </item>
-        <item>
-            <title><![CDATA[【開催案内】オンラインによる新入生に贈る特別講演会_カリフォルニア大学サンディエゴ校教授 當作靖彦先生 7/6(木)]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4093</link>
-            <guid>f2ad49b744d65b5a327fd6938ac51248</guid>
-            <pubDate>Fri, 23 Jun 2023 03:00:00 GMT</pubDate>
-            <description><![CDATA[筑波大学「日本財団 中央アジア・日本人材育成プロジェクト(NipCA)」主催  オンラインによる新入生に贈る特別講演会を、Zoom meetingにより次のとおり開催いたします。
-
-【オンラインによる新入生に贈る特別講演会】
-
-講演題目：生成AI革命の時代を生き抜くために －大学時代 何を学び、何をすべきか－
-
-日　　時：令和5年7月6日（木）13:45～15:00
-
-講　　師：カリフォルニア大学…]]></description>
         </item>
     </channel>
 </rss>

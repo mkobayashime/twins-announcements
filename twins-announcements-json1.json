@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "44ecdd4af4490b4b6cfbd0e5b0237af0",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4117",
+            "title": "【お知らせ】創基151年筑波大学開学50周年記念式典・イベントへの参加のお願い",
+            "summary": "学生の皆様\n\n筑波大学は、創基151年筑波大学開学50周年記念事業として、9月30日（土）に記念式典、10月1日（日）に記念イベントを開催いたします。\n\n記念式典は、本学の特色や魅力を存分に感じていただくことをコンセプトとしたプログラムを企画しています。 つくば国際会議場において、本学の学生、教職員、卒業生や修了生、元教職員、本学に関心をお持ちの皆様の参加をお待ちしております（要事前登録）。\n\n記…",
+            "date_modified": "2023-07-04T03:00:00.000Z"
+        },
+        {
             "id": "e8494dc68fb499732c7356d87f37e53f",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4116",
             "title": "【単位認定】日本語サポーター募集！（TWINS締切 7/14）",
@@ -135,13 +142,6 @@
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4095",
             "title": "【開催案内】海外先進大学スポーツマネジメント研修事前説明会",
             "summary": "体育スポーツ局で開講する『海外先進大学スポーツマネジメント研修事前説明会』開催のお知らせです。\n\n2024年3月、アメリカの大学スポーツを体感できる海外研修（授業）を実施予定です。\nこの度、研修に関して事前説明会を開催致します。\n研修では約一週間の滞在の中で大学スポーツが大学や地域にもたらす意義や筑波大学が目指す大学スポーツの世界観について訪問先ハワイ大学のスタッフ・教員から講義して頂きます。ハワ…",
-            "date_modified": "2023-06-23T03:00:00.000Z"
-        },
-        {
-            "id": "f2ad49b744d65b5a327fd6938ac51248",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4093",
-            "title": "【開催案内】オンラインによる新入生に贈る特別講演会_カリフォルニア大学サンディエゴ校教授 當作靖彦先生 7/6(木)",
-            "summary": "筑波大学「日本財団 中央アジア・日本人材育成プロジェクト(NipCA)」主催  オンラインによる新入生に贈る特別講演会を、Zoom meetingにより次のとおり開催いたします。\n\n【オンラインによる新入生に贈る特別講演会】\n\n講演題目：生成AI革命の時代を生き抜くために －大学時代 何を学び、何をすべきか－\n\n日　　時：令和5年7月6日（木）13:45～15:00\n\n講　　師：カリフォルニア大学…",
             "date_modified": "2023-06-23T03:00:00.000Z"
         }
     ]
