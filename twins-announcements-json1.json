@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "e8494dc68fb499732c7356d87f37e53f",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4116",
+            "title": "【単位認定】日本語サポーター募集！（TWINS締切 7/14）",
+            "summary": "茨城県の小中学校と連携して、外国にルーツのある子どもたちの日本語学習や教科学習のサポートをする「日本語サポーター」を募集します。秋学期、授業の空き時間を利用して、好きな時に好きな頻度で活動することができ、各自の活動時間に応じて単位認定されます。学類や専門は問いません。自分の得意分野を活かして一緒に活動してみませんか。\n\n日本語サポーターになるためには、下記の授業を履修してください。\n\n科目番号：A…",
+            "date_modified": "2023-07-04T03:00:00.000Z"
+        },
+        {
             "id": "d07de3a2549e9d1109e19fd73f9711de",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4115",
             "title": "STOP！研究費不正使用！／STOP！Wrongful use of research funding！",
@@ -135,13 +142,6 @@
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4093",
             "title": "【開催案内】オンラインによる新入生に贈る特別講演会_カリフォルニア大学サンディエゴ校教授 當作靖彦先生 7/6(木)",
             "summary": "筑波大学「日本財団 中央アジア・日本人材育成プロジェクト(NipCA)」主催  オンラインによる新入生に贈る特別講演会を、Zoom meetingにより次のとおり開催いたします。\n\n【オンラインによる新入生に贈る特別講演会】\n\n講演題目：生成AI革命の時代を生き抜くために －大学時代 何を学び、何をすべきか－\n\n日　　時：令和5年7月6日（木）13:45～15:00\n\n講　　師：カリフォルニア大学…",
-            "date_modified": "2023-06-23T03:00:00.000Z"
-        },
-        {
-            "id": "6e740ee34f6df23613c48aa4f914091e",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4092",
-            "title": "【附属図書館】[7/10] Webサービスの認証システム切替および停止について",
-            "summary": "学生の皆様\n\nセキュリティ向上のため、図書館Webサービスへのログイン方法を変更します。また、切り替えのタイミングで認証システムを一時停止します。\n\n■変更後の認証\n図書館Webサイトトップの「ログイン」をクリックしたときや、認証が必要なサービスへ遷移しようとしたときに、添付画像のような選択肢が表示されるようになります。\nご自身のIDに合わせて適切な方を選択してください。\n一度ログインすると、ログ…",
             "date_modified": "2023-06-23T03:00:00.000Z"
         }
     ]

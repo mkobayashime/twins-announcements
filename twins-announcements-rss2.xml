@@ -4,10 +4,21 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Tue, 04 Jul 2023 08:09:33 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 04 Jul 2023 09:05:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
+        <item>
+            <title><![CDATA[【単位認定】日本語サポーター募集！（TWINS締切 7/14）]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4116</link>
+            <guid>e8494dc68fb499732c7356d87f37e53f</guid>
+            <pubDate>Tue, 04 Jul 2023 03:00:00 GMT</pubDate>
+            <description><![CDATA[茨城県の小中学校と連携して、外国にルーツのある子どもたちの日本語学習や教科学習のサポートをする「日本語サポーター」を募集します。秋学期、授業の空き時間を利用して、好きな時に好きな頻度で活動することができ、各自の活動時間に応じて単位認定されます。学類や専門は問いません。自分の得意分野を活かして一緒に活動してみませんか。
+
+日本語サポーターになるためには、下記の授業を履修してください。
+
+科目番号：A…]]></description>
+        </item>
         <item>
             <title><![CDATA[STOP！研究費不正使用！／STOP！Wrongful use of research funding！]]></title>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4115</link>
@@ -267,20 +278,6 @@ HPや学内掲示板では発信しきれない情報をタイムリーに発信
 日　　時：令和5年7月6日（木）13:45～15:00
 
 講　　師：カリフォルニア大学…]]></description>
-        </item>
-        <item>
-            <title><![CDATA[【附属図書館】[7/10] Webサービスの認証システム切替および停止について]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4092</link>
-            <guid>6e740ee34f6df23613c48aa4f914091e</guid>
-            <pubDate>Fri, 23 Jun 2023 03:00:00 GMT</pubDate>
-            <description><![CDATA[学生の皆様
-
-セキュリティ向上のため、図書館Webサービスへのログイン方法を変更します。また、切り替えのタイミングで認証システムを一時停止します。
-
-■変更後の認証
-図書館Webサイトトップの「ログイン」をクリックしたときや、認証が必要なサービスへ遷移しようとしたときに、添付画像のような選択肢が表示されるようになります。
-ご自身のIDに合わせて適切な方を選択してください。
-一度ログインすると、ログ…]]></description>
         </item>
     </channel>
 </rss>
