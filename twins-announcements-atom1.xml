@@ -2,10 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/mkobayashime/twins-announcements</id>
     <title>在学生へのお知らせ | 筑波大学</title>
-    <updated>2023-07-05T00:37:44.435Z</updated>
+    <updated>2023-07-05T02:22:45.480Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://github.com/mkobayashime/twins-announcements"/>
     <subtitle>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</subtitle>
+    <entry>
+        <title type="html"><![CDATA[【Library】Free Ebook Trial Service(-July 31)]]></title>
+        <id>b6b2e28a141969aace088d1725278489</id>
+        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4122"/>
+        <updated>2023-07-05T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[In order to support teaching and learning, we provide an eBook trial service. Ebooks on KinoDen platform, provided by Kinokuniya Bookstore, is available until July 31.
+
+You can try any part of the eBo…]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【附属図書館】電子ブック 全文無料試し読みサービスのご案内（7月31日まで！）]]></title>
+        <id>caaeff8d8b6f611430d42852e8a3a2a2</id>
+        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4121"/>
+        <updated>2023-07-05T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[附属図書館では、教育・学習を支援するため、電子ブックの全文無料試し読みサービスを実施ししています。日本語の電子ブック7万冊を提供している[KinoDen]の無料サービス期間は7月31日までです。
+
+サービス実施期間中は、対象の電子ブックからお好きな部分を1タイトルにつき5分間、試し読みすることができます。また、購入を希望される場合にはリクエストを送信することもできます。閲覧回数やリクエストの多かっ…]]></summary>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【7/25開催案内】第2回博士のポートフォリオ大公開+ロールモデル懇談会の開催について]]></title>
         <id>5be5f827c2cd3909206ade4ce15d88d7</id>
@@ -252,32 +270,5 @@ ECサイトは以下のリンクから
 ＜実施詳細＞
 午前　面接編　10：00-11：30　　定員12名
 午後　GD編　   13：00-14：30　　定…]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AI専門家と現役VCによる「ゼロから始める,生成AI×起業」]]></title>
-        <id>46f3ed34e56d950bffc22b816035accc</id>
-        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4099"/>
-        <updated>2023-06-26T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[三井住友信託銀行から以下の案内がありましたのでお知らせします。
-------------------------------------------------------------------
-
-昨年度ご案内いたしました、NESの起業家育成プログラムにつきまして、ご好評の声をいただいたことから、昨年度に引き続き、今年度も全国の起業家/起業家候補を対象とした起業家育成プログラムを開催することとな…]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[（BHE)Teams内　キャリア支援情報発信チームのご案内]]></title>
-        <id>4e19317c3ead78a7bd42d890642660ff</id>
-        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4096"/>
-        <updated>2023-06-26T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[この度BHEでは新しい情報発信の場として、新チームを立ち上げました。
-
-BHEには、日々求人・インターンシップ、各種イベントなどの案内が届きます。
-HPや学内掲示板では発信しきれない情報をタイムリーに発信していきます。
-卒業年度別や志望別のチャネルを設けていますので、ぜひ活用してください。
-
-【参加方法】
-チーム名「BHEキャリア支援チーム　情報発信」
-以下のリンクから参加してください。
-
-【掲載…]]></summary>
     </entry>
 </feed>

@@ -5,6 +5,20 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "b6b2e28a141969aace088d1725278489",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4122",
+            "title": "【Library】Free Ebook Trial Service(-July 31)",
+            "summary": "In order to support teaching and learning, we provide an eBook trial service. Ebooks on KinoDen platform, provided by Kinokuniya Bookstore, is available until July 31.\n\nYou can try any part of the eBo…",
+            "date_modified": "2023-07-05T03:00:00.000Z"
+        },
+        {
+            "id": "caaeff8d8b6f611430d42852e8a3a2a2",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4121",
+            "title": "【附属図書館】電子ブック 全文無料試し読みサービスのご案内（7月31日まで！）",
+            "summary": "附属図書館では、教育・学習を支援するため、電子ブックの全文無料試し読みサービスを実施ししています。日本語の電子ブック7万冊を提供している[KinoDen]の無料サービス期間は7月31日までです。\n\nサービス実施期間中は、対象の電子ブックからお好きな部分を1タイトルにつき5分間、試し読みすることができます。また、購入を希望される場合にはリクエストを送信することもできます。閲覧回数やリクエストの多かっ…",
+            "date_modified": "2023-07-05T03:00:00.000Z"
+        },
+        {
             "id": "5be5f827c2cd3909206ade4ce15d88d7",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4120",
             "title": "【7/25開催案内】第2回博士のポートフォリオ大公開+ロールモデル懇談会の開催について",
@@ -129,20 +143,6 @@
             "title": "【BHE】7月21日チャレンジ実践会　対面面接・GD編",
             "summary": "これまでオンラインで実施してきた就活実践講座を、面接編とGD編について対面で開催します。\n各回BHEキャリア支援チームのファシリテーターからフィードバックがあります。\n就活真っ最中の方、これからインターンシップに参加する方、ぜひ練習にお越しください。\n\n＜日にち＞\n7月21日（金）\n\n＜実施詳細＞\n午前　面接編　10：00-11：30　　定員12名\n午後　GD編　   13：00-14：30　　定…",
             "date_modified": "2023-06-28T03:00:00.000Z"
-        },
-        {
-            "id": "46f3ed34e56d950bffc22b816035accc",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4099",
-            "title": "AI専門家と現役VCによる「ゼロから始める,生成AI×起業」",
-            "summary": "三井住友信託銀行から以下の案内がありましたのでお知らせします。\n------------------------------------------------------------------\n\n昨年度ご案内いたしました、NESの起業家育成プログラムにつきまして、ご好評の声をいただいたことから、昨年度に引き続き、今年度も全国の起業家/起業家候補を対象とした起業家育成プログラムを開催することとな…",
-            "date_modified": "2023-06-26T03:00:00.000Z"
-        },
-        {
-            "id": "4e19317c3ead78a7bd42d890642660ff",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4096",
-            "title": "（BHE)Teams内　キャリア支援情報発信チームのご案内",
-            "summary": "この度BHEでは新しい情報発信の場として、新チームを立ち上げました。\n\nBHEには、日々求人・インターンシップ、各種イベントなどの案内が届きます。\nHPや学内掲示板では発信しきれない情報をタイムリーに発信していきます。\n卒業年度別や志望別のチャネルを設けていますので、ぜひ活用してください。\n\n【参加方法】\nチーム名「BHEキャリア支援チーム　情報発信」\n以下のリンクから参加してください。\n\n【掲載…",
-            "date_modified": "2023-06-26T03:00:00.000Z"
         }
     ]
 }
