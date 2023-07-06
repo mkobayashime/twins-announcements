@@ -14,9 +14,12 @@ const FEED_ITEMS_NUMBER = isNaN(NANABLE_FEED_ITEMS_NUMBER)
 const TWINS_ROOT_URL = "https://twins.tsukuba.ac.jp/campusweb/campusportal.do";
 
 (async () => {
-  const timeout = global.setTimeout(() => {
-    throw new Error("Root timeout");
-  }, 10 * 60 * 1000);
+  const timeout = global.setTimeout(
+    () => {
+      throw new Error("Root timeout");
+    },
+    10 * 60 * 1000,
+  );
 
   const browser = await puppeteer.launch({
     headless: HEADLESS,
