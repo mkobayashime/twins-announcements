@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "98e673f56c725eddf90025131c9a165e",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4130",
+            "title": "サーバーメンテナンス作業に伴うキャリア支援チームHP及び就職情報提供システム停止のお知らせ",
+            "summary": "メンテナンス作業に伴い、下記の時間キャリア支援チームHPへ繋がりにくくなります。\n【作業日時】7/10（月）12：00　～　13：15（予定）\n\n「学内専用ページ」、「ガイダンス等及び模試試験登録・申請」、「進路進捗状況届」へのアクセスはできません。\n皆様にはご迷惑をおかけいたしますが、ご理解、ご協力の程よろしくお願いいたします。",
+            "date_modified": "2023-07-06T03:00:00.000Z"
+        },
+        {
             "id": "e40330a67a619538c2a66321c08e4f7d",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4128",
             "title": "【再掲】7/13（13:45～）花木氏講演会「実験を通じて学ぶ経済学（仮）」（学生・教員対象）",
@@ -136,13 +143,6 @@
             "title": "TSUKUBA憲法レクチャー「常に問い続ける～アナウンサーが考える人権」（7/20）のお知らせ",
             "summary": "社会・国際学群では、山田賢治さん（NHKアナウンス室チーフアナウンサー　Eテレ「ハートネットTV」元キャスター）をお招きし、第7回TSUKUBA憲法レクチャー「常に問い続ける～アナウンサーが考える人権」を開催いたします。\n学生、教職員の皆さまであればどなたでもご参加いただけますので、ふるってご参加下さい。\n\n---\n第7回TSUKUBA憲法レクチャー「常に問い続ける～アナウンサーが考える人権」\n\n…",
             "date_modified": "2023-07-03T03:00:00.000Z"
-        },
-        {
-            "id": "f8dfc38cf9f23a8a0d725b659e2683c7",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4108",
-            "title": "筑波大学公式オリジナルグッズECサイト割引クーポンのお知らせ（7月）",
-            "summary": "筑波大学公式オリジナルグッズ販売サイト「TSUKUBA-SHOP」の7月の割引クーポンコードをお知らせいたします！\n\n\n卒業/入学シーズンになってきました。\n\n昨年も大好評でした名入れグッズの展開も始まっております。\n\nどうぞご覧いただき、皆様の「日常生活」、「思い出」、「プレゼント🎁」などにご活用いただけますと幸いです。\n\n\nECサイトは以下のリンクから\n\n有効期間　：　2023年7月1日～2…",
-            "date_modified": "2023-07-01T03:00:00.000Z"
         }
     ]
 }

@@ -4,10 +4,21 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Thu, 06 Jul 2023 00:38:19 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 06 Jul 2023 05:05:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
+        <item>
+            <title><![CDATA[サーバーメンテナンス作業に伴うキャリア支援チームHP及び就職情報提供システム停止のお知らせ]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4130</link>
+            <guid>98e673f56c725eddf90025131c9a165e</guid>
+            <pubDate>Thu, 06 Jul 2023 03:00:00 GMT</pubDate>
+            <description><![CDATA[メンテナンス作業に伴い、下記の時間キャリア支援チームHPへ繋がりにくくなります。
+【作業日時】7/10（月）12：00　～　13：15（予定）
+
+「学内専用ページ」、「ガイダンス等及び模試試験登録・申請」、「進路進捗状況届」へのアクセスはできません。
+皆様にはご迷惑をおかけいたしますが、ご理解、ご協力の程よろしくお願いいたします。]]></description>
+        </item>
         <item>
             <title><![CDATA[【再掲】7/13（13:45～）花木氏講演会「実験を通じて学ぶ経済学（仮）」（学生・教員対象）]]></title>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4128</link>
@@ -242,25 +253,6 @@ HPや学内掲示板では発信しきれない情報をタイムリーに発信
 第7回TSUKUBA憲法レクチャー「常に問い続ける～アナウンサーが考える人権」
 
 …]]></description>
-        </item>
-        <item>
-            <title><![CDATA[筑波大学公式オリジナルグッズECサイト割引クーポンのお知らせ（7月）]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4108</link>
-            <guid>f8dfc38cf9f23a8a0d725b659e2683c7</guid>
-            <pubDate>Sat, 01 Jul 2023 03:00:00 GMT</pubDate>
-            <description><![CDATA[筑波大学公式オリジナルグッズ販売サイト「TSUKUBA-SHOP」の7月の割引クーポンコードをお知らせいたします！
-
-
-卒業/入学シーズンになってきました。
-
-昨年も大好評でした名入れグッズの展開も始まっております。
-
-どうぞご覧いただき、皆様の「日常生活」、「思い出」、「プレゼント🎁」などにご活用いただけますと幸いです。
-
-
-ECサイトは以下のリンクから
-
-有効期間　：　2023年7月1日～2…]]></description>
         </item>
     </channel>
 </rss>
