@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "6bded05f3a19a213eafd5b02dbcf8664",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4134",
+            "title": "【Ticket Sales】Tsukuba University Home Game \"TSUKUBA LIVE!\" (Aug 5-6)",
+            "summary": "University of Tsukuba home game “TSUKUBA LIVE! Splash!”\nThis summer, we will deliver a wild day of excitement to you!\n\nTSUKUBA LIVE! is a series of home games hosted by the university.\nCentered around…",
+            "date_modified": "2023-07-07T03:00:00.000Z"
+        },
+        {
             "id": "1ef71d2a6f47100ecf78dd6fbee77d12",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4133",
             "title": "【チケット販売中】筑波大学ホームゲーム「TSUKUBA LIVE!」（8月5,6日）",
@@ -136,13 +143,6 @@
             "title": "【再掲】就活セミナー「2023　グローバルキャリアを目指す」",
             "summary": "第50回ASIP/TG公開セミナーのご案内です。\n\n「2023　グローバルキャリアを目指す」\n\n日時：令和５年７月１１日（火）　11：30～12：30\n講師：鷲崎　信広 氏（株式会社マイナビ　グローバルキャリアサポーター）\n会場：文科系修士棟8A107＆Zoom（リモート講演）\n\n内容：海外・国内でのHuman Resource(HR)業界でのご経験を活かした最新就職事情・就活アドバイスをお話いた…",
             "date_modified": "2023-07-04T03:00:00.000Z"
-        },
-        {
-            "id": "0351a8319265f8c362e2222ffcbf1196",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4112",
-            "title": "July 6th (Thu) 16:00-17:30 World-science Leaders’ Seminar（For all students）",
-            "summary": "World - Science Leaders' Seminar will be held  on 6 July (Thu) 16:00-17:30, on-site TARA Center Building A, Seminar Room, Dr Allison Bardin  will give a lecture entitled \"Genomic regulation of stem ce…",
-            "date_modified": "2023-07-03T03:00:00.000Z"
         }
     ]
 }
