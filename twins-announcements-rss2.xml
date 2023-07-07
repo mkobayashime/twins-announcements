@@ -4,10 +4,25 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Thu, 06 Jul 2023 21:09:23 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 07 Jul 2023 06:09:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
+        <item>
+            <title><![CDATA[【再掲】就活セミナー「2023　グローバルキャリアを目指す」]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4131</link>
+            <guid>5a42bb495d9927ed14159a2390f5a19b</guid>
+            <pubDate>Fri, 07 Jul 2023 03:00:00 GMT</pubDate>
+            <description><![CDATA[第50回ASIP/TG公開セミナーのご案内です。
+
+「2023　グローバルキャリアを目指す」
+
+日時：令和５年７月１１日（火）　11：30～12：30
+講師：鷲崎　信広 氏（株式会社マイナビ　グローバルキャリアサポーター）
+会場：文科系修士棟8A107＆Zoom（リモート講演）
+
+内容：海外・国内でのHuman Resource(HR)業界でのご経験を活かした最新就職事情・就活アドバイスをお話いた…]]></description>
+        </item>
         <item>
             <title><![CDATA[サーバーメンテナンス作業に伴うキャリア支援チームHP及び就職情報提供システム停止のお知らせ]]></title>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4130</link>
@@ -240,19 +255,6 @@ HPや学内掲示板では発信しきれない情報をタイムリーに発信
 以下のリンクから参加してください。
 
 【掲載…]]></description>
-        </item>
-        <item>
-            <title><![CDATA[TSUKUBA憲法レクチャー「常に問い続ける～アナウンサーが考える人権」（7/20）のお知らせ]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4109</link>
-            <guid>b6350c05de99dfbe4af60382274b9026</guid>
-            <pubDate>Mon, 03 Jul 2023 03:00:00 GMT</pubDate>
-            <description><![CDATA[社会・国際学群では、山田賢治さん（NHKアナウンス室チーフアナウンサー　Eテレ「ハートネットTV」元キャスター）をお招きし、第7回TSUKUBA憲法レクチャー「常に問い続ける～アナウンサーが考える人権」を開催いたします。
-学生、教職員の皆さまであればどなたでもご参加いただけますので、ふるってご参加下さい。
-
----
-第7回TSUKUBA憲法レクチャー「常に問い続ける～アナウンサーが考える人権」
-
-…]]></description>
         </item>
     </channel>
 </rss>
