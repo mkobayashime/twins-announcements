@@ -4,10 +4,31 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Sun, 09 Jul 2023 21:08:05 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 10 Jul 2023 08:09:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
+        <item>
+            <title><![CDATA[2nd Borderless Onsite Meeting “Uzbekistan: History, people and cuture”]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4136</link>
+            <guid>89db40a1f957d35290d14b69da8c87aa</guid>
+            <pubDate>Mon, 10 Jul 2023 03:00:00 GMT</pubDate>
+            <description><![CDATA[【開催案内】2nd Borderless Onsite Meeting
+
+
+
+プレゼンター：スヴァノヴァ・ユルドゥズホン（NipCAフェロー2021）
+
+題目：Uzbekistan: History, people and culture
+
+日時：令和5年7月21日（金）12:20～13 :10
+
+会場：筑波大学　スチューデントコモンズ（1A棟203）
+
+対象：全学教職員、留学生ほか
+
+使用言語：…]]></description>
+        </item>
         <item>
             <title><![CDATA[【Ticket Sales】University of Tsukuba Home Game TSUKUBA LIVE! (Aug 5-6)]]></title>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4135</link>
@@ -233,13 +254,6 @@ TEL:029-896-3530  FAX:029-896-3531]]></description>
 会場：文科系修士棟8A107＆Zoom（リモート講演）
 
 内容：海外・国内でのHuman Resource(HR)業界でのご経験を活かした最新就職事情・就活アドバイスをお話いた…]]></description>
-        </item>
-        <item>
-            <title><![CDATA[July 6th (Thu) 16:00-17:30 World-science Leaders’ Seminar（For all students）]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4112</link>
-            <guid>0351a8319265f8c362e2222ffcbf1196</guid>
-            <pubDate>Mon, 03 Jul 2023 03:00:00 GMT</pubDate>
-            <description><![CDATA[World - Science Leaders' Seminar will be held  on 6 July (Thu) 16:00-17:30, on-site TARA Center Building A, Seminar Room, Dr Allison Bardin  will give a lecture entitled "Genomic regulation of stem ce…]]></description>
         </item>
     </channel>
 </rss>
