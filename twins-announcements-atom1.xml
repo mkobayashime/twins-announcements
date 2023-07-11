@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/mkobayashime/twins-announcements</id>
     <title>在学生へのお知らせ | 筑波大学</title>
-    <updated>2023-07-10T21:09:03.515Z</updated>
+    <updated>2023-07-11T04:08:23.596Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://github.com/mkobayashime/twins-announcements"/>
     <subtitle>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</subtitle>
+    <entry>
+        <title type="html"><![CDATA[急募！BHEオススメ　参加費無料　JETRO主催「起業を考える理系学生向」ﾃｯｸ系理系学生人材シリコンバレー派遣プログラム]]></title>
+        <id>f6717b5cd0433dd837706b0eb73648cc</id>
+        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4137"/>
+        <updated>2023-07-11T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[JETRO主催
+起業を考える理系学生向けの起業家育成プログラム
+
+ジェトロでは、起業を目指すテック系理系学生を対象に開催するアメリカ・シリコンバレーへの派遣プログラムの参加者を募集しています。
+このプログラムでは、起業を目指す学生の皆様に国内研修・シリコンバレー派遣を通じ、起業に必要なスキルやマインドセットを学んでいただきます。
+このプログラムでの学習を活かし、自身の事業アイデアの発展につなげてい…]]></summary>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2nd Borderless Onsite Meeting “Uzbekistan: History, people and cuture”]]></title>
         <id>89db40a1f957d35290d14b69da8c87aa</id>
@@ -246,22 +258,5 @@ TEL:029-896-3530  FAX:029-896-3531]]></summary>
 
 
 第2回目説明会…]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[（BHE)Teams内　キャリア支援情報発信チーム立ち上げのご案内]]></title>
-        <id>140a6eb7c3a6e8533adb0d8fe573225c</id>
-        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4110"/>
-        <updated>2023-07-03T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[この度BHEでは新しい情報発信の場として、新チームを立ち上げました。
-
-BHEには、日々求人・インターンシップ、各種イベントなどの案内が届きます。
-HPや学内掲示板では発信しきれない情報をタイムリーに発信していきます。
-卒業年度別や志望別のチャネルを設けていますので、ぜひ活用してください。
-
-【参加方法】
-チーム名「BHEキャリア支援チーム　情報発信」
-以下のリンクから参加してください。
-
-【掲載…]]></summary>
     </entry>
 </feed>
