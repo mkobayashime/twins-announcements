@@ -2,10 +2,24 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/mkobayashime/twins-announcements</id>
     <title>在学生へのお知らせ | 筑波大学</title>
-    <updated>2023-07-13T06:09:28.191Z</updated>
+    <updated>2023-07-13T09:05:33.403Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://github.com/mkobayashime/twins-announcements"/>
     <subtitle>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</subtitle>
+    <entry>
+        <title type="html"><![CDATA[【開催案内】　全学FDセミナー：高校での「情報I」「地理総合」～必修化の意図と授業内容～]]></title>
+        <id>0d8f15c2809b341ab9c737989474efd1</id>
+        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4148"/>
+        <updated>2023-07-13T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[表題のセミナーを開催します。
+学生も参加可能です。
+詳細は添付のポスターをご確認ください。
+
+【問い合わせ先】                                           
+担当教員：システム情報系　浦田淳司　准教授
+担当UEA：MDA教育推進室　森本直子　　　  
+mda-team@ml.cc.tsukuba.ac.jp  ]]></summary>
+    </entry>
     <entry>
         <title type="html"><![CDATA[JICA 筑波で稲作について学ぶ研修員の実験と農民学校を 見学してみませんか？]]></title>
         <id>7053b7d2499b8409fb61cadd6afc3f63</id>
@@ -235,14 +249,5 @@ International students are also welcome!
         <summary type="html"><![CDATA[In order to support teaching and learning, we provide an eBook trial service. Ebooks on KinoDen platform, provided by Kinokuniya Bookstore, is available until July 31.
 
 You can try any part of the eBo…]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【附属図書館】電子ブック 全文無料試し読みサービスのご案内（7月31日まで！）]]></title>
-        <id>caaeff8d8b6f611430d42852e8a3a2a2</id>
-        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4121"/>
-        <updated>2023-07-05T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[附属図書館では、教育・学習を支援するため、電子ブックの全文無料試し読みサービスを実施ししています。日本語の電子ブック7万冊を提供している[KinoDen]の無料サービス期間は7月31日までです。
-
-サービス実施期間中は、対象の電子ブックからお好きな部分を1タイトルにつき5分間、試し読みすることができます。また、購入を希望される場合にはリクエストを送信することもできます。閲覧回数やリクエストの多かっ…]]></summary>
     </entry>
 </feed>
