@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "8b33ee3437665fe1289213449cebd22c",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4145",
+            "title": "【交通費支給】ダイバーシティとキャリアに関するワークショップ参加者の募集",
+            "summary": "現在、私たちの研究グループでは、リシュモンジャパン株式会社※（カルティエ等のブランドを運営する会社）と共同して、多様な属性や特性をもつ学生一人ひとりが安心して働きたいと思える職場とはどのような職場なのか、職場におけるダイバーシティ＆インクルージョン（Diversity & Inclusion）について研究を進めています。\n\n今回、リシュモンジャパン株式会社が主催するワークショップを【8月22日（火…",
+            "date_modified": "2023-07-13T03:00:00.000Z"
+        },
+        {
             "id": "2112c1f0010d2b1430a8815fa89dc0b5",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4144",
             "title": "【注意喚起】つくば市内での強盗事件について",
@@ -136,13 +143,6 @@
             "title": "（BHEキャリア支援）Teams内　キャリア支援情報発信チームのご案内",
             "summary": "Teams内　キャリア支援情報発信チームのご案内\n\nBHEには、日々、各所から求人・インターンシップ、各種イベントなど、\n筑波大生に向けた案内が届きます。\nHPや学内掲示板では発信しきれない情報をタイムリーに発信していきます。\n6月に立ち上げ、現在５００名の方が参加中です。\n卒業年度別や志望別のチャネルを設けていますので、ぜひ活用してください。\n\n【参加方法】\nチーム名「BHEキャリア支援チーム　…",
             "date_modified": "2023-07-05T03:00:00.000Z"
-        },
-        {
-            "id": "62de9f38a850d09132a77fc6679643fd",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4118",
-            "title": "Notice:Requesting your Participation in the 151st + 50th Anniversary Ceremony and Anniversary Events",
-            "summary": "Dear Students\n\nThe University of Tsukuba will hold its anniversary ceremony on September 30 with several events scheduled, on October 1, as part of celebrating our 151st Foundation as modern Japan’s f…",
-            "date_modified": "2023-07-04T03:00:00.000Z"
         }
     ]
 }
