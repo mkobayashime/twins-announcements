@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "2112c1f0010d2b1430a8815fa89dc0b5",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4144",
+            "title": "【注意喚起】つくば市内での強盗事件について",
+            "summary": "先ほど、茨城県つくば警察署より、下記のとおり情報提供がありました。不審な人物を見かけましたら、すぐに１１０番通報をお願いいたします。本件については、各エリアの警備員室にも情報共有しております。\n\n—————————————————————————————\n\n【その他の犯罪情報】\n\n《強盗事件発生（第一報）》\n\n〇本日（７月１３日）午前９時３０分ころ、つくば市栄２６３番地３桜郵便局において、強盗事件…",
+            "date_modified": "2023-07-13T03:00:00.000Z"
+        },
+        {
             "id": "f7a604ed9b52d09cb51ace1c247922c9",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4143",
             "title": "IBARAKIドリーム・パス　高校生サポートインターン募集のお知らせ",
@@ -135,13 +142,6 @@
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4118",
             "title": "Notice:Requesting your Participation in the 151st + 50th Anniversary Ceremony and Anniversary Events",
             "summary": "Dear Students\n\nThe University of Tsukuba will hold its anniversary ceremony on September 30 with several events scheduled, on October 1, as part of celebrating our 151st Foundation as modern Japan’s f…",
-            "date_modified": "2023-07-04T03:00:00.000Z"
-        },
-        {
-            "id": "44ecdd4af4490b4b6cfbd0e5b0237af0",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4117",
-            "title": "【お知らせ】創基151年筑波大学開学50周年記念式典・イベントへの参加のお願い",
-            "summary": "学生の皆様\n\n筑波大学は、創基151年筑波大学開学50周年記念事業として、9月30日（土）に記念式典、10月1日（日）に記念イベントを開催いたします。\n\n記念式典は、本学の特色や魅力を存分に感じていただくことをコンセプトとしたプログラムを企画しています。 つくば国際会議場において、本学の学生、教職員、卒業生や修了生、元教職員、本学に関心をお持ちの皆様の参加をお待ちしております（要事前登録）。\n\n記…",
             "date_modified": "2023-07-04T03:00:00.000Z"
         }
     ]
