@@ -4,10 +4,26 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Thu, 13 Jul 2023 21:09:02 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 14 Jul 2023 00:37:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
+        <item>
+            <title><![CDATA[【チケット販売中】筑波大学ホームゲーム「TSUKUBA LIVE!」（8月5,6日）]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4149</link>
+            <guid>1ef71d2a6f47100ecf78dd6fbee77d12</guid>
+            <pubDate>Fri, 14 Jul 2023 03:00:00 GMT</pubDate>
+            <description><![CDATA[筑波大学ホームゲーム「 TSUKUBA LIVE! Splash!」
+今年の夏も大熱狂の1日をお届けします！
+
+TSUKUBA LIVE! は筑波大学が主催するホームゲームです。
+筑波スポーツの試合をメインに、学内のサークルによるパフォーマンスや当日のブース、イベントなどを通して、誰もが楽しめるホームゲームを創出しています。
+
+＼この夏のホームゲームはこちら！／
+
+8月5日(土) 16:00~
+　…]]></description>
+        </item>
         <item>
             <title><![CDATA[【開催案内】　全学FDセミナー：高校での「情報I」「地理総合」～必修化の意図と授業内容～]]></title>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4148</link>
@@ -239,18 +255,6 @@ You can try any part of the eBo…]]></description>
             <description><![CDATA[附属図書館では、教育・学習を支援するため、電子ブックの全文無料試し読みサービスを実施ししています。日本語の電子ブック7万冊を提供している[KinoDen]の無料サービス期間は7月31日までです。
 
 サービス実施期間中は、対象の電子ブックからお好きな部分を1タイトルにつき5分間、試し読みすることができます。また、購入を希望される場合にはリクエストを送信することもできます。閲覧回数やリクエストの多かっ…]]></description>
-        </item>
-        <item>
-            <title><![CDATA[【7/25開催案内】第2回博士のポートフォリオ大公開+ロールモデル懇談会の開催について]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4120</link>
-            <guid>5be5f827c2cd3909206ade4ce15d88d7</guid>
-            <pubDate>Wed, 05 Jul 2023 03:00:00 GMT</pubDate>
-            <description><![CDATA[筑波大学ヒューマンエンパワーメント推進局（BHE）は、第2回博士のポートフォリオ大公開+ロールモデル懇談会を開催いたします。
-
-博士号をお持ちの研究者の方をお招きし、博士のあれこれをお伺いします！
-博士課程に進学したきっかけは？　博士時代に出くわした悩みとその解決方法は？
-この機会に「博士」について気になることを色々聞いてみてください。
-また、ゲストの方に作成いただいたポートフォリオも学内限定で公…]]></description>
         </item>
     </channel>
 </rss>
