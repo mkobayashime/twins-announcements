@@ -2,10 +2,27 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/mkobayashime/twins-announcements</id>
     <title>在学生へのお知らせ | 筑波大学</title>
-    <updated>2023-07-18T00:56:20.480Z</updated>
+    <updated>2023-07-18T02:28:22.201Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://github.com/mkobayashime/twins-announcements"/>
     <subtitle>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</subtitle>
+    <entry>
+        <title type="html"><![CDATA[【大学院説明会】教育学学位プログラム　進学･入試説明会（8/26）]]></title>
+        <id>a50252e86271944c52368d1d77be6116</id>
+        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4159"/>
+        <updated>2023-07-18T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[皆様
+筑波大学大学院教育学学位プログラム次世代学校教育創成サブプログラムの
+説明会を次の通り開催いたします。
+教育学について大学院でも学びたいと思っている方や、進学を少しでもお考えの方は
+奮ってご参加ください。
+
+8月26日（土）13時～
+詳細はポスター及び下記URLをご確認ください。
+https://www.education.tsukuba.ac.jp/news/4151/
+
+～お問い合わせ～…]]></summary>
+    </entry>
     <entry>
         <title type="html"><![CDATA[締切延長！参加費無料　JETRO主催「起業を考える理系学生向」ﾃｯｸ系理系学生人材シリコンバレー派遣プログラム]]></title>
         <id>39feb366d5a5cfab8fd4b72c15afaed5</id>
@@ -248,14 +265,5 @@ Centered around T…]]></summary>
 ・払込取扱票が既に発行されている未納者は、お持ちの払込取扱票により納入をお願いします。
 
 ※本掲示は全ての学生・教員に通…]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【Looking for participants】"Matsuri Tsukuba" Nebuta Parade]]></title>
-        <id>f506bf92239ec177a055d8f35a876e3f</id>
-        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4125"/>
-        <updated>2023-07-05T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Let's have "Tsukuba Summer" unique experience with your friends!
-
-We are recruiting UT students to participate in the "Matsuri Tsukuba" Nebuta Parade, which will be held around Tsukuba Station on Augu…]]></summary>
     </entry>
 </feed>
