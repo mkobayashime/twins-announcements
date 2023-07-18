@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "39feb366d5a5cfab8fd4b72c15afaed5",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4158",
+            "title": "締切延長！参加費無料　JETRO主催「起業を考える理系学生向」ﾃｯｸ系理系学生人材シリコンバレー派遣プログラム",
+            "summary": "JETRO主催\n起業を考える理系学生向けの起業家育成プログラム\n\nジェトロでは、起業を目指すテック系理系学生を対象に開催するアメリカ・シリコンバレーへの派遣プログラムの参加者を募集しています。\nこのプログラムでは、起業を目指す学生の皆様に国内研修・シリコンバレー派遣を通じ、起業に必要なスキルやマインドセットを学んでいただきます。\nこのプログラムでの学習を活かし、自身の事業アイデアの発展につなげてい…",
+            "date_modified": "2023-07-18T03:00:00.000Z"
+        },
+        {
             "id": "8afb8db912ffc62cec100f9d369d80f7",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4157",
             "title": "【お知らせ】令和５年７月７日からの大雨による災害にかかる被災状況について",
@@ -135,13 +142,6 @@
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4125",
             "title": "【Looking for participants】\"Matsuri Tsukuba\" Nebuta Parade",
             "summary": "Let's have \"Tsukuba Summer\" unique experience with your friends!\n\nWe are recruiting UT students to participate in the \"Matsuri Tsukuba\" Nebuta Parade, which will be held around Tsukuba Station on Augu…",
-            "date_modified": "2023-07-05T03:00:00.000Z"
-        },
-        {
-            "id": "d47750b5b83f5946a00b76c53f4c668d",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4124",
-            "title": "【募集」まつりつくばのねぶたパレード参加者募集！",
-            "summary": "この夏、仲間と共にここでしかできない体験をしよう！！\n\n2023年8月26・27日、つくば駅周辺で開催される「まつりつくば」にて、ねぶたパレードに参加する筑波大生を募集します。\n参加希望者は、以下より、必要事項をご回答ください。\nhttps://docs.google.com/forms/d/e/1FAIpQLSeHHHPmDi8gDUVw_SqQZ0ZstKwcNORU9OVugezm2nqOv…",
             "date_modified": "2023-07-05T03:00:00.000Z"
         }
     ]
