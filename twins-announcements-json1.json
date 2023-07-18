@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "f471fa0a63e897548790cb7a0feac781",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4163",
+            "title": "日本語会話ボランティア募集！（オンライン）",
+            "summary": "グアダラハラ大学（メキシコ）日本研究センターで開講する日本語の授業では、学生と一緒に学習活動に参加してくださるボランティアを募集しています。\nオンラインで海外の学生と交流できる場にもなりますので、参加を希望する学生は、募集情報を参照のうえ、登録をしてください。\n\n登録フォーム：\nhttps://forms.gle/hPZpMccwdGJo6yw99\n\n注意事項：\n*日程は下記ポスターおよび登録フォ…",
+            "date_modified": "2023-07-18T03:00:00.000Z"
+        },
+        {
             "id": "939d050ac1ac25b923e68ae47679fdf0",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4162",
             "title": "【案内】７月より筑波大学BHEセーファースペース「KiteKite（きてきて）」を実施します！",
@@ -136,13 +143,6 @@
             "title": "【短期留学・海外インターンシップ】漢陽大学校 (韓国) International Winter School",
             "summary": "Hanyang International Winter School（HIWS）のお知らせです。関心のある方はウェブサイトより詳細をよく確認し、各自でお申し込みください。質問や疑問点は直接、主催者へお願いします。\n\nProgram Period\n– Session A: December 27, 2023 – January 12, 2024\n– Session B: January 18 – …",
             "date_modified": "2023-07-11T03:00:00.000Z"
-        },
-        {
-            "id": "89db40a1f957d35290d14b69da8c87aa",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4136",
-            "title": "2nd Borderless Onsite Meeting “Uzbekistan: History, people and cuture”",
-            "summary": "【開催案内】2nd Borderless Onsite Meeting\n\n\n\nプレゼンター：スヴァノヴァ・ユルドゥズホン（NipCAフェロー2021）\n\n題目：Uzbekistan: History, people and culture\n\n日時：令和5年7月21日（金）12:20～13 :10\n\n会場：筑波大学　スチューデントコモンズ（1A棟203）\n\n対象：全学教職員、留学生ほか\n\n使用言語：…",
-            "date_modified": "2023-07-10T03:00:00.000Z"
         }
     ]
 }

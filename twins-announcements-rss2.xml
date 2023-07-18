@@ -4,10 +4,24 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Tue, 18 Jul 2023 06:09:12 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 18 Jul 2023 09:04:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
+        <item>
+            <title><![CDATA[日本語会話ボランティア募集！（オンライン）]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4163</link>
+            <guid>f471fa0a63e897548790cb7a0feac781</guid>
+            <pubDate>Tue, 18 Jul 2023 03:00:00 GMT</pubDate>
+            <description><![CDATA[グアダラハラ大学（メキシコ）日本研究センターで開講する日本語の授業では、学生と一緒に学習活動に参加してくださるボランティアを募集しています。
+オンラインで海外の学生と交流できる場にもなりますので、参加を希望する学生は、募集情報を参照のうえ、登録をしてください。
+
+登録フォーム：
+https://forms.gle/hPZpMccwdGJo6yw99
+
+注意事項：
+*日程は下記ポスターおよび登録フォ…]]></description>
+        </item>
         <item>
             <title><![CDATA[【案内】７月より筑波大学BHEセーファースペース「KiteKite（きてきて）」を実施します！]]></title>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4162</link>
@@ -247,27 +261,6 @@ https://www.cc.tsukuba.ac.jp/wp/service/sl/mathematica/seminar20230925/]]></desc
 Program Period
 – Session A: December 27, 2023 – January 12, 2024
 – Session B: January 18 – …]]></description>
-        </item>
-        <item>
-            <title><![CDATA[2nd Borderless Onsite Meeting “Uzbekistan: History, people and cuture”]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4136</link>
-            <guid>89db40a1f957d35290d14b69da8c87aa</guid>
-            <pubDate>Mon, 10 Jul 2023 03:00:00 GMT</pubDate>
-            <description><![CDATA[【開催案内】2nd Borderless Onsite Meeting
-
-
-
-プレゼンター：スヴァノヴァ・ユルドゥズホン（NipCAフェロー2021）
-
-題目：Uzbekistan: History, people and culture
-
-日時：令和5年7月21日（金）12:20～13 :10
-
-会場：筑波大学　スチューデントコモンズ（1A棟203）
-
-対象：全学教職員、留学生ほか
-
-使用言語：…]]></description>
         </item>
     </channel>
 </rss>
