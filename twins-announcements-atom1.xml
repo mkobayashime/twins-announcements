@@ -2,10 +2,35 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/mkobayashime/twins-announcements</id>
     <title>在学生へのお知らせ | 筑波大学</title>
-    <updated>2023-07-18T03:17:36.590Z</updated>
+    <updated>2023-07-18T06:09:12.664Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://github.com/mkobayashime/twins-announcements"/>
     <subtitle>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</subtitle>
+    <entry>
+        <title type="html"><![CDATA[【案内】７月より筑波大学BHEセーファースペース「KiteKite（きてきて）」を実施します！]]></title>
+        <id>939d050ac1ac25b923e68ae47679fdf0</id>
+        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4162"/>
+        <updated>2023-07-18T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[ヒューマンエンパワーメント推進局（BHE）ジェンダー支援チームでは、初の試みとして、学生スタッフと共同で”セーファースペースKiteKite（きてきて）”を実施します！
+※セーファースペースとは…LGBTQ＋や女性をはじめ、全ての人が自らのジェンダー・セクシュアリティについてより安全に話すことができる居場所のこと
+
+KiteKiteは、年齢・属性・所属・国籍・性別等を問わず、全ての筑波大学内者がグ…]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[学生支援員の募集について]]></title>
+        <id>d494fd0e9a39f5973f1b127ba7235cc9</id>
+        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4161"/>
+        <updated>2023-07-18T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[土浦市教育委員会から、特別な教育的支援を必要とする児童・生徒に対する支援の充実を図るため、学生支援員の募集がありました。
+
+学生支援員の対象は下記のとおりです。
+〇大学等の教職課程のある学科に在籍する学生
+〇大学等の障害者医療・福祉に関する学科に在籍する学生
+
+希望する方は、添付ファイルにて詳細をご確認ください。
+
+#ts]]></summary>
+    </entry>
     <entry>
         <title type="html"><![CDATA[「お金の超基本勉強会―卒業してからでは遅すぎる」第8回開催のお知らせ]]></title>
         <id>b216bd5054d2248470f829265065a53d</id>
@@ -241,27 +266,5 @@ Program Period
 対象：全学教職員、留学生ほか
 
 使用言語：…]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【Ticket Sales】University of Tsukuba Home Game TSUKUBA LIVE! (Aug 5-6)]]></title>
-        <id>6060d9b2ec111c6e433aa4b8786a370a</id>
-        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4135"/>
-        <updated>2023-07-07T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[University of Tsukuba home game TSUKUBA LIVE! Splash!
-This summer, we will deliver a wild day of excitement to you!
-
-TSUKUBA LIVE! is a series of home games hosted by the university.
-Centered around T…]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【お知らせ】令和５年６月29日からの大雨による災害にかかる被災状況について]]></title>
-        <id>dbe39749056a21f442464fd51a579eb9</id>
-        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4132"/>
-        <updated>2023-07-07T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[　ニュース等でも報道されておりますが、令和５年６月29日からの大雨による災害、被災された方々には心からお見舞い申し上げます。
-　災害救助法適用地域：【山口県】山口市、美祢市　
-　災害救助法適用日：令和５年６月30日
-
-　学生の皆さんで帰省先等において家屋の倒壊等、被害に遭われた方、又は友人学生が被害にあった情報がありましたら、状況把握のため被害状況等について、所属するエリア支援室学生支援担当までご…]]></summary>
     </entry>
 </feed>

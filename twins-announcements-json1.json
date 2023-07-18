@@ -5,6 +5,20 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "939d050ac1ac25b923e68ae47679fdf0",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4162",
+            "title": "【案内】７月より筑波大学BHEセーファースペース「KiteKite（きてきて）」を実施します！",
+            "summary": "ヒューマンエンパワーメント推進局（BHE）ジェンダー支援チームでは、初の試みとして、学生スタッフと共同で”セーファースペースKiteKite（きてきて）”を実施します！\n※セーファースペースとは…LGBTQ＋や女性をはじめ、全ての人が自らのジェンダー・セクシュアリティについてより安全に話すことができる居場所のこと\n\nKiteKiteは、年齢・属性・所属・国籍・性別等を問わず、全ての筑波大学内者がグ…",
+            "date_modified": "2023-07-18T03:00:00.000Z"
+        },
+        {
+            "id": "d494fd0e9a39f5973f1b127ba7235cc9",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4161",
+            "title": "学生支援員の募集について",
+            "summary": "土浦市教育委員会から、特別な教育的支援を必要とする児童・生徒に対する支援の充実を図るため、学生支援員の募集がありました。\n\n学生支援員の対象は下記のとおりです。\n〇大学等の教職課程のある学科に在籍する学生\n〇大学等の障害者医療・福祉に関する学科に在籍する学生\n\n希望する方は、添付ファイルにて詳細をご確認ください。\n\n#ts",
+            "date_modified": "2023-07-18T03:00:00.000Z"
+        },
+        {
             "id": "b216bd5054d2248470f829265065a53d",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4160",
             "title": "「お金の超基本勉強会―卒業してからでは遅すぎる」第8回開催のお知らせ",
@@ -129,20 +143,6 @@
             "title": "2nd Borderless Onsite Meeting “Uzbekistan: History, people and cuture”",
             "summary": "【開催案内】2nd Borderless Onsite Meeting\n\n\n\nプレゼンター：スヴァノヴァ・ユルドゥズホン（NipCAフェロー2021）\n\n題目：Uzbekistan: History, people and culture\n\n日時：令和5年7月21日（金）12:20～13 :10\n\n会場：筑波大学　スチューデントコモンズ（1A棟203）\n\n対象：全学教職員、留学生ほか\n\n使用言語：…",
             "date_modified": "2023-07-10T03:00:00.000Z"
-        },
-        {
-            "id": "6060d9b2ec111c6e433aa4b8786a370a",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4135",
-            "title": "【Ticket Sales】University of Tsukuba Home Game TSUKUBA LIVE! (Aug 5-6)",
-            "summary": "University of Tsukuba home game TSUKUBA LIVE! Splash!\nThis summer, we will deliver a wild day of excitement to you!\n\nTSUKUBA LIVE! is a series of home games hosted by the university.\nCentered around T…",
-            "date_modified": "2023-07-07T03:00:00.000Z"
-        },
-        {
-            "id": "dbe39749056a21f442464fd51a579eb9",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4132",
-            "title": "【お知らせ】令和５年６月29日からの大雨による災害にかかる被災状況について",
-            "summary": "　ニュース等でも報道されておりますが、令和５年６月29日からの大雨による災害、被災された方々には心からお見舞い申し上げます。\n　災害救助法適用地域：【山口県】山口市、美祢市　\n　災害救助法適用日：令和５年６月30日\n\n　学生の皆さんで帰省先等において家屋の倒壊等、被害に遭われた方、又は友人学生が被害にあった情報がありましたら、状況把握のため被害状況等について、所属するエリア支援室学生支援担当までご…",
-            "date_modified": "2023-07-07T03:00:00.000Z"
         }
     ]
 }
