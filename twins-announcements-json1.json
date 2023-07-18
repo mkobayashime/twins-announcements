@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "b216bd5054d2248470f829265065a53d",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4160",
+            "title": "「お金の超基本勉強会―卒業してからでは遅すぎる」第8回開催のお知らせ",
+            "summary": "「お金の超基本勉強会―卒業してからでは遅すぎる」第8回開催のお知らせ\n\n「筑波大学・世界を変えよう基金アカデミー」では、お金に関する基礎知識（所得税計算、結婚・教育・マイホーム・老後・病気への備え、投資運用,　NISA活用方法等）を学ぶ「お金の超基本勉強会―卒業してからでは遅すぎる」を8月に開催します。\n開催方式：リモート　\n開催曜日：月曜グループ(8/7, 14, 21, 28) 、または木曜グ…",
+            "date_modified": "2023-07-18T03:00:00.000Z"
+        },
+        {
             "id": "a50252e86271944c52368d1d77be6116",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4159",
             "title": "【大学院説明会】教育学学位プログラム　進学･入試説明会（8/26）",
@@ -136,13 +143,6 @@
             "title": "【お知らせ】令和５年６月29日からの大雨による災害にかかる被災状況について",
             "summary": "　ニュース等でも報道されておりますが、令和５年６月29日からの大雨による災害、被災された方々には心からお見舞い申し上げます。\n　災害救助法適用地域：【山口県】山口市、美祢市　\n　災害救助法適用日：令和５年６月30日\n\n　学生の皆さんで帰省先等において家屋の倒壊等、被害に遭われた方、又は友人学生が被害にあった情報がありましたら、状況把握のため被害状況等について、所属するエリア支援室学生支援担当までご…",
             "date_modified": "2023-07-07T03:00:00.000Z"
-        },
-        {
-            "id": "a5c3286b4dd6d7ee91ceee0d234a2316",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4127",
-            "title": "【重要】2023年度第1期分授業料の納入督促について",
-            "summary": "2023年度第1期分授業料未納者は、「払込取扱票」が送付されているので、確認の上、速やかに金融機関窓口にて納付されるようお願いします。\n納付されないときは、本学学則による除籍処分該当者となります。\n\n・口座振替対象の未納者は、7月に発行される払込取扱票により納入をお願いします。\n・払込取扱票が既に発行されている未納者は、お持ちの払込取扱票により納入をお願いします。\n\n※本掲示は全ての学生・教員に通…",
-            "date_modified": "2023-07-06T03:00:00.000Z"
         }
     ]
 }
