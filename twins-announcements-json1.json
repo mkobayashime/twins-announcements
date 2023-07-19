@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "85b18896b7d57697a7fef29aeef8979a",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4171",
+            "title": "【今週日曜】City Chat Cafe (英会話対面イベント)@グロビ",
+            "summary": "City Chat Cafeで気軽に英語を練習しよう！\n様々な文化背景を持つ人々が出合い、おしゃべりを楽しむ国際交流イベントです。\n筑波大学の留学生と自己紹介や母国の紹介など自由な話題で気軽に英語や日本で会話を楽しめます。\n学外の参加者と交流できるチャンスです。是非参加お待ちします!\n\n日時：\n7月23日（日）\n前半13:30-14:30\n後半14:45-15:45\nトピック：“Tradition…",
+            "date_modified": "2023-07-19T03:00:00.000Z"
+        },
+        {
             "id": "38373a8d0b0d1c82e75a81af1f107513",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4170",
             "title": "締切延長！BHEオススメ　参加費無料　JETRO主催「起業を考える理系学生向」ﾃｯｸ系理系学生人材シリコンバレー派遣プログラム",
@@ -135,13 +142,6 @@
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4148",
             "title": "【開催案内】　全学FDセミナー：高校での「情報I」「地理総合」～必修化の意図と授業内容～",
             "summary": "表題のセミナーを開催します。\n学生も参加可能です。\n詳細は添付のポスターをご確認ください。\n\n【問い合わせ先】                                           \n担当教員：システム情報系　浦田淳司　准教授\n担当UEA：MDA教育推進室　森本直子　　　  \nmda-team@ml.cc.tsukuba.ac.jp  ",
-            "date_modified": "2023-07-13T03:00:00.000Z"
-        },
-        {
-            "id": "7053b7d2499b8409fb61cadd6afc3f63",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4147",
-            "title": "JICA 筑波で稲作について学ぶ研修員の実験と農民学校を 見学してみませんか？",
-            "summary": "JICA 筑波稲作研修コースフィールドデー開催のご案内\n\n大学院生・学類生 各位\nJICA 筑波で行われている研修「稲作技術向上コース(普及員)」には12 ヵ国から17 名の研修員が来日し\nて研修に励んでいます。研修では1～2 名のグループで実験や、帰国後の業務を見据えた農民学校という\n普及ツールを学んでいます。農民学校は、筑波大学つくば機能植物イノベーション研究センター（T-PIRC）\n農場水田…",
             "date_modified": "2023-07-13T03:00:00.000Z"
         }
     ]
