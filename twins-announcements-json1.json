@@ -5,6 +5,27 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "dd07672556fbb73a1b4a229d2a36f9e1",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4166",
+            "title": "【募集】いけばな体験/Ikebana Experience",
+            "summary": "夏休みに、日本文化である「いけばな」を体験してみませんか？\n詳細は添付ファイルをご参照ください。\n実施場所：グローバルヴィレッジコミュニティステーション2階\n実施日時：2023年8月14日、17日　15:00～\n\nWould you like experience the Japanese culture of ikebana during your summer vacation?\nSee th…",
+            "date_modified": "2023-07-19T03:00:00.000Z"
+        },
+        {
+            "id": "267d8b05556bc0d4bfe9ec9ef412578e",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4165",
+            "title": "お昼休みC-ENGINE説明会（オンライン）のお知らせ",
+            "summary": "いつも大変お世話になっております。\nヒューマンエンパワーメント推進局　キャリア支援チーム　高野です。\n\n大学が参加しています「研究型インターンシップ　C-ENGINE」のオンライン（Teams）説明会を開催致します。\n１８大学３０社の企業が参加しています。\n修士課・博士課程を対象とした研究のインターンシップです。お昼休みに、気軽にご質問ください。\n\n\n7/21（金）11：30-12：00\n会議 I…",
+            "date_modified": "2023-07-19T03:00:00.000Z"
+        },
+        {
+            "id": "45e381b9059d9a9f4171545e2c815156",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4164",
+            "title": "【注意喚起】盗撮事件について",
+            "summary": "7月16日（日）16時30分ごろ、文科系修士棟トイレで盗撮事件が発生しました。\nトイレを使用する際には、不審者がいないか、不審な点がないか十分気をつけてください。\nキャンパス内で不審者・不審物の情報があれば、最寄りの警備室または本部防災センターへ連絡してください。（緊急の場合はまず110番通報してください。）\n\nOn Sunday, July 16, at approximately 4:30 p…",
+            "date_modified": "2023-07-19T03:00:00.000Z"
+        },
+        {
             "id": "f471fa0a63e897548790cb7a0feac781",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4163",
             "title": "日本語会話ボランティア募集！（オンライン）",
@@ -122,27 +143,6 @@
             "title": "IBARAKIドリーム・パス　高校生サポートインターン募集のお知らせ",
             "summary": "茨城県が、地域課題の解決や自分の夢実現に向けた企画立案・実践活動を目指す高校生等のチームをサポートする茨城県内大学在学・出身の大学生・大学院生を募集しています。\n\n詳細は以下のURLとチラシをご覧ください。",
             "date_modified": "2023-07-13T03:00:00.000Z"
-        },
-        {
-            "id": "b0a91e2229e0a5da27770a568757c046",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4141",
-            "title": "【再掲】TG⁺プログラム第４期生の募集について",
-            "summary": "TG⁺プログラム第4期生の募集をしています。\n\n【募集期間】\n5月25日～8月31日\n\n【締め切り】\n一次募集　6月30日（金）…申請ありがとうございました\n二次募集　8月31日（木）…受付中です\n\n募集締め切り後、応募者面談を順次実施します。\n書類・面談による選考結果は、9月中旬に通知予定です。\n\n【申し込み】\n参加登録案内（https://tgplus.hass.tsukuba.ac.jp/e…",
-            "date_modified": "2023-07-12T03:00:00.000Z"
-        },
-        {
-            "id": "d8ebe5774c4092e420a4684464db354a",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4140",
-            "title": "【注意喚起】海外の公的機関をかたる不審な電話に要注意！（詐欺に遭わないために）",
-            "summary": "　最近、本学留学生に対して、中国公安局や中国大使館などの海外の公的機関をかたる者から「あなたは犯罪に関与しているので逮捕される。」、「逮捕を免れるには保証金が必要だ。」等の不審な電話が寄せられ、保証金として多額の金銭を振り込ませる詐欺被害が複数発生しています。\n\n　案件のなかには、本人の個人情報（パスポートの情報等）を提示し、公的機関からの連絡であるように信じ込ませるだけでなく、公的機関から発行さ…",
-            "date_modified": "2023-07-12T03:00:00.000Z"
-        },
-        {
-            "id": "562203ddf2741bf3f5cd9831f8ba2fb0",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4138",
-            "title": "【短期留学・海外インターンシップ】漢陽大学校 (韓国) International Winter School",
-            "summary": "Hanyang International Winter School（HIWS）のお知らせです。関心のある方はウェブサイトより詳細をよく確認し、各自でお申し込みください。質問や疑問点は直接、主催者へお願いします。\n\nProgram Period\n– Session A: December 27, 2023 – January 12, 2024\n– Session B: January 18 – …",
-            "date_modified": "2023-07-11T03:00:00.000Z"
         }
     ]
 }
