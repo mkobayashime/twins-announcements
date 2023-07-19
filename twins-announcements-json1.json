@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "0297d14b17c2e9476e82f4629bde4602",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4173",
+            "title": "【7/20 8:00-9:00】電子ジャーナル・データベースリモートアクセス (EZproxy) の停止 / Suspension of EJ/DB Remote Access",
+            "summary": "認証の不具合の修正のため、以下の日程でEJ/DBリモートアクセスサービス（Tulips Warp）を一時停止します。作業中は電子ジャーナルや電子ブック、データベース等を学外から利用できません。\n\n- 7月20日（木） 午前 8時～9時\n\nご不便をおかけしますが以下のようにご利用ください。\n\n- 大学のネットワーク（無線LAN含む）に接続されたPC、スマートフォン等からアクセスする\n    ※ 学術…",
+            "date_modified": "2023-07-19T03:00:00.000Z"
+        },
+        {
             "id": "f1ca11210719fe279a18533b2580a26c",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4172",
             "title": "【受験者募集】（大学院生対象）令和５年度TOEIC IPテストの実施について",
@@ -136,13 +143,6 @@
             "title": "【チケット販売中】筑波大学ホームゲーム「TSUKUBA LIVE!」（8月5,6日）",
             "summary": "筑波大学ホームゲーム「 TSUKUBA LIVE! Splash!」\n今年の夏も大熱狂の1日をお届けします！\n\nTSUKUBA LIVE! は筑波大学が主催するホームゲームです。\n筑波スポーツの試合をメインに、学内のサークルによるパフォーマンスや当日のブース、イベントなどを通して、誰もが楽しめるホームゲームを創出しています。\n\n＼この夏のホームゲームはこちら！／\n\n8月5日(土) 16:00~\n　…",
             "date_modified": "2023-07-14T03:00:00.000Z"
-        },
-        {
-            "id": "0d8f15c2809b341ab9c737989474efd1",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4148",
-            "title": "【開催案内】　全学FDセミナー：高校での「情報I」「地理総合」～必修化の意図と授業内容～",
-            "summary": "表題のセミナーを開催します。\n学生も参加可能です。\n詳細は添付のポスターをご確認ください。\n\n【問い合わせ先】                                           \n担当教員：システム情報系　浦田淳司　准教授\n担当UEA：MDA教育推進室　森本直子　　　  \nmda-team@ml.cc.tsukuba.ac.jp  ",
-            "date_modified": "2023-07-13T03:00:00.000Z"
         }
     ]
 }

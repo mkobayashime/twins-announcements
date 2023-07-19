@@ -4,10 +4,24 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Wed, 19 Jul 2023 08:08:24 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 19 Jul 2023 09:03:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
+        <item>
+            <title><![CDATA[【7/20 8:00-9:00】電子ジャーナル・データベースリモートアクセス (EZproxy) の停止 / Suspension of EJ/DB Remote Access]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4173</link>
+            <guid>0297d14b17c2e9476e82f4629bde4602</guid>
+            <pubDate>Wed, 19 Jul 2023 03:00:00 GMT</pubDate>
+            <description><![CDATA[認証の不具合の修正のため、以下の日程でEJ/DBリモートアクセスサービス（Tulips Warp）を一時停止します。作業中は電子ジャーナルや電子ブック、データベース等を学外から利用できません。
+
+- 7月20日（木） 午前 8時～9時
+
+ご不便をおかけしますが以下のようにご利用ください。
+
+- 大学のネットワーク（無線LAN含む）に接続されたPC、スマートフォン等からアクセスする
+    ※ 学術…]]></description>
+        </item>
         <item>
             <title><![CDATA[【受験者募集】（大学院生対象）令和５年度TOEIC IPテストの実施について]]></title>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4172</link>
@@ -263,20 +277,6 @@ TSUKUBA LIVE! は筑波大学が主催するホームゲームです。
 
 8月5日(土) 16:00~
 　…]]></description>
-        </item>
-        <item>
-            <title><![CDATA[【開催案内】　全学FDセミナー：高校での「情報I」「地理総合」～必修化の意図と授業内容～]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4148</link>
-            <guid>0d8f15c2809b341ab9c737989474efd1</guid>
-            <pubDate>Thu, 13 Jul 2023 03:00:00 GMT</pubDate>
-            <description><![CDATA[表題のセミナーを開催します。
-学生も参加可能です。
-詳細は添付のポスターをご確認ください。
-
-【問い合わせ先】                                           
-担当教員：システム情報系　浦田淳司　准教授
-担当UEA：MDA教育推進室　森本直子　　　  
-mda-team@ml.cc.tsukuba.ac.jp  ]]></description>
         </item>
     </channel>
 </rss>
