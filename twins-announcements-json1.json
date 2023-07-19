@@ -5,6 +5,20 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "38373a8d0b0d1c82e75a81af1f107513",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4170",
+            "title": "締切延長！BHEオススメ　参加費無料　JETRO主催「起業を考える理系学生向」ﾃｯｸ系理系学生人材シリコンバレー派遣プログラム",
+            "summary": "JETRO主催\n起業を考える理系学生向けの起業家育成プログラム\n\nジェトロでは、起業を目指すテック系理系学生を対象に開催するアメリカ・シリコンバレーへの派遣プログラムの参加者を募集しています。\nこのプログラムでは、起業を目指す学生の皆様に国内研修・シリコンバレー派遣を通じ、起業に必要なスキルやマインドセットを学んでいただきます。\nこのプログラムでの学習を活かし、自身の事業アイデアの発展につなげてい…",
+            "date_modified": "2023-07-19T03:00:00.000Z"
+        },
+        {
+            "id": "835fc7b684fa013bc313e451197a8dab",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4169",
+            "title": "【BHE】7月21日チャレンジ実践会　対面面接・GD編",
+            "summary": "これまでオンラインで実施してきた就活実践講座を、面接編とGD編について対面で開催します。\n各回BHEキャリア支援チームのファシリテーターからフィードバックがあります。\n就活真っ最中の方、これからインターンシップに参加する方、ぜひ練習にお越しください。\n\n＜日にち＞\n7月21日（金）\n\n＜実施詳細＞\n午前　面接編　10：00-11：30　　定員12名\n午後　GD編　   13：00-14：30　　定…",
+            "date_modified": "2023-07-19T03:00:00.000Z"
+        },
+        {
             "id": "f1ca11210719fe279a18533b2580a26c",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4168",
             "title": "【受験者募集】（大学院生対象）令和５年度TOEIC IPテストの実施について",
@@ -128,20 +142,6 @@
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4147",
             "title": "JICA 筑波で稲作について学ぶ研修員の実験と農民学校を 見学してみませんか？",
             "summary": "JICA 筑波稲作研修コースフィールドデー開催のご案内\n\n大学院生・学類生 各位\nJICA 筑波で行われている研修「稲作技術向上コース(普及員)」には12 ヵ国から17 名の研修員が来日し\nて研修に励んでいます。研修では1～2 名のグループで実験や、帰国後の業務を見据えた農民学校という\n普及ツールを学んでいます。農民学校は、筑波大学つくば機能植物イノベーション研究センター（T-PIRC）\n農場水田…",
-            "date_modified": "2023-07-13T03:00:00.000Z"
-        },
-        {
-            "id": "df61d8951daf90d9c1a43df7bfb20f9c",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4146",
-            "title": "Mathematica講習会（9/25）のお知らせ",
-            "summary": "興味のある方は次の学術情報メディアセンターのページをご覧ください。\n\nhttps://www.cc.tsukuba.ac.jp/wp/service/sl/mathematica/seminar20230925/",
-            "date_modified": "2023-07-13T03:00:00.000Z"
-        },
-        {
-            "id": "8b33ee3437665fe1289213449cebd22c",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4145",
-            "title": "【交通費支給】ダイバーシティとキャリアに関するワークショップ参加者の募集",
-            "summary": "現在、私たちの研究グループでは、リシュモンジャパン株式会社※（カルティエ等のブランドを運営する会社）と共同して、多様な属性や特性をもつ学生一人ひとりが安心して働きたいと思える職場とはどのような職場なのか、職場におけるダイバーシティ＆インクルージョン（Diversity & Inclusion）について研究を進めています。\n\n今回、リシュモンジャパン株式会社が主催するワークショップを【8月22日（火…",
             "date_modified": "2023-07-13T03:00:00.000Z"
         }
     ]
