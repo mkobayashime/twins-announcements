@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "55e1df9270fe8da37cb68ea3292d7e8b",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4175",
+            "title": "第15回JCKフォーラム参加者募集/Call for participation to JCK Forum 2023",
+            "summary": "昨年、筑波大学主催で行われた日中韓アカデミックフォーラムが今年は韓国の主催で\n下記日程で開催されます。\n\n日時：2023年11月27日（月）～12月1日（金）\n会場：高麗大学（韓国ソウル）\n対象：農学、環境科学、生命科学を専攻する大学院生\n定員：若干名\n発表形式：口頭発表（英語）\n参加費：350ドル（USD）\n\n詳細は添付ポスターをご覧ください。\n\nThe Japan-China-Korea In…",
+            "date_modified": "2023-07-20T03:00:00.000Z"
+        },
+        {
             "id": "f7e5c4dc1ece4147cbde4ed3df16263e",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4174",
             "title": "サーバー更新作業に伴うキャリア支援チームHP及び就職情報提供システム停止のお知らせ",
@@ -135,13 +142,6 @@
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4157",
             "title": "【お知らせ】令和５年７月７日からの大雨による災害にかかる被災状況について",
             "summary": "　ニュース等でも報道されておりますが、令和５年７月７日からの大雨による災害、被災された方々には心からお見舞い申し上げます。\n　災害救助法適用地域：\n【島根県】出雲市（法適用日：令和５年７月８日）\n【佐賀県】佐賀市、唐津市、伊万里市（法適用日：令和５年７月８日）\n【大分県】中津市、日田市（法適用日：令和５年７月８日）\n【福岡県】久留米市、八女市、筑後市、うきは市、朝倉市、那珂川市、朝倉郡東峰村、八女…",
-            "date_modified": "2023-07-14T03:00:00.000Z"
-        },
-        {
-            "id": "0da2e20293e0a67a311f473dbd909cf1",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4153",
-            "title": "【英語プログラム】国際スポーツイベントマネジメント論（7/27）のお知らせ",
-            "summary": "国際スポーツイベントマネジメント論\nInternational Sport Event Management\n\nこのコースは英語で行われます。スポーツイベントにおけるマネジメントおよびマーケティングを理解するためのフレームワークを学習します。今回は海外の各地域より、オンラインにてレクチャーをしていただきます。大学院進学を考えている方、英語の授業に興味のある方、イベントマネジメントの授業を体験してみ…",
             "date_modified": "2023-07-14T03:00:00.000Z"
         }
     ]
