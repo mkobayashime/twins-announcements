@@ -4,10 +4,22 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Wed, 19 Jul 2023 21:08:11 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 20 Jul 2023 00:33:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
+        <item>
+            <title><![CDATA[サーバー更新作業に伴うキャリア支援チームHP及び就職情報提供システム停止のお知らせ]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4174</link>
+            <guid>f7e5c4dc1ece4147cbde4ed3df16263e</guid>
+            <pubDate>Thu, 20 Jul 2023 03:00:00 GMT</pubDate>
+            <description><![CDATA[サーバー更新作業に伴い、下記の時間、キャリア支援チームホームページ等へ繋がりにくくなります。
+【サーバー更新作業日時】7/26（水）9：00　～　7/26（水）12：15（予定）
+
+なお、サーバー更新作業中は、「学内専用ページ」、「ガイダンス等及び模試試験登録・申請」、「進路進捗状況届」へのアクセスはできません。
+皆様にはご迷惑をおかけいたしますが、ご理解、ご協力の程よろしくお願いいたします。
+]]></description>
+        </item>
         <item>
             <title><![CDATA[【チケット販売中】筑波大学ホームゲーム「TSUKUBA LIVE!」（8月5,6日）]]></title>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4150</link>
@@ -270,22 +282,6 @@ https://www.education.tsukuba.ac.jp/news/4151/
 International Sport Event Management
 
 このコースは英語で行われます。スポーツイベントにおけるマネジメントおよびマーケティングを理解するためのフレームワークを学習します。今回は海外の各地域より、オンラインにてレクチャーをしていただきます。大学院進学を考えている方、英語の授業に興味のある方、イベントマネジメントの授業を体験してみ…]]></description>
-        </item>
-        <item>
-            <title><![CDATA[（BHEキャリア支援）Teams内　キャリア支援情報発信チームのご案内]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4152</link>
-            <guid>6b5418cc9a064d8077cdc252d929f19b</guid>
-            <pubDate>Fri, 14 Jul 2023 03:00:00 GMT</pubDate>
-            <description><![CDATA[Teams内　キャリア支援情報発信チームのご案内
-
-BHEには、日々、各所から求人・インターンシップ、各種イベントなど、
-筑波大生に向けた案内が届きます。
-HPや学内掲示板では発信しきれない情報をタイムリーに発信していきます。
-6月に立ち上げ、現在５００名以上の方が参加中です。
-卒業年度別や志望別のチャネルを設けていますので、ぜひ活用してください。
-
-【参加方法】
-チーム名「BHEキャリア支援チー…]]></description>
         </item>
     </channel>
 </rss>
