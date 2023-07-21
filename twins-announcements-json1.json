@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "afdb8a57aacd715d77eb0bad6354af6d",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4177",
+            "title": "再掲【7/23開催】一般公開WEBイベント「発達障害の\"障害\"は、社会のどこにあるのか？」",
+            "summary": "この度、筑波大学ヒューマンエンパワーメント推進局（ダボットプロジェクト）では、一般公開WEBイベント「発達障害の\"障害\"は、社会のどこにあるのか？」を開催いたします。\n\nこのイベントでは、SDGsの理念である「誰一人取り残さない」社会に向けて、本当の意味での「障害の社会モデル」に立ち返って、発達障害の\"障害\"を社会構造上、生じる社会的障壁と捉え、その障壁は社会のどこにあるのか、青年期・成人期を中心…",
+            "date_modified": "2023-07-21T03:00:00.000Z"
+        },
+        {
             "id": "55e1df9270fe8da37cb68ea3292d7e8b",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4175",
             "title": "第15回JCKフォーラム参加者募集/Call for participation to JCK Forum 2023",
@@ -135,13 +142,6 @@
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4153",
             "title": "【英語プログラム】国際スポーツイベントマネジメント論（7/27）のお知らせ",
             "summary": "国際スポーツイベントマネジメント論\nInternational Sport Event Management\n\nこのコースは英語で行われます。スポーツイベントにおけるマネジメントおよびマーケティングを理解するためのフレームワークを学習します。今回は海外の各地域より、オンラインにてレクチャーをしていただきます。大学院進学を考えている方、英語の授業に興味のある方、イベントマネジメントの授業を体験してみ…",
-            "date_modified": "2023-07-14T03:00:00.000Z"
-        },
-        {
-            "id": "6b5418cc9a064d8077cdc252d929f19b",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4152",
-            "title": "（BHEキャリア支援）Teams内　キャリア支援情報発信チームのご案内",
-            "summary": "Teams内　キャリア支援情報発信チームのご案内\n\nBHEには、日々、各所から求人・インターンシップ、各種イベントなど、\n筑波大生に向けた案内が届きます。\nHPや学内掲示板では発信しきれない情報をタイムリーに発信していきます。\n6月に立ち上げ、現在５００名以上の方が参加中です。\n卒業年度別や志望別のチャネルを設けていますので、ぜひ活用してください。\n\n【参加方法】\nチーム名「BHEキャリア支援チー…",
             "date_modified": "2023-07-14T03:00:00.000Z"
         }
     ]
