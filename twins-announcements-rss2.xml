@@ -4,10 +4,25 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Sun, 23 Jul 2023 09:07:50 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 23 Jul 2023 15:02:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
+        <item>
+            <title><![CDATA[【応募受付中】学群生のアイデアを芽吹かせる研究助成（令和5年度 エンブリオ・プログラム）]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4178</link>
+            <guid>6eaa1a62b481b74c3eda1d2380ebf124</guid>
+            <pubDate>Mon, 24 Jul 2023 03:00:00 GMT</pubDate>
+            <description><![CDATA[筑波大学学群生3年次以下のチームが実施する自主的で独創的な研究活動に対し、活動経費の一部を支援します。
+
+１．支援対象の研究
+① 現在および未来社会が抱える(地球規模)課題解決を目指す研究
+② 人、社会、地球の健全な未来の構築に資する研究
+
+２．支援の内容
+① 1件あたり最大50万円。採択数５チーム程度　　※選考結果により金額・チーム数は増減があります。
+② 研究資金の使用例：実験試料等の物品購入…]]></description>
+        </item>
         <item>
             <title><![CDATA[再掲【7/23開催】一般公開WEBイベント「発達障害の"障害"は、社会のどこにあるのか？」]]></title>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4177</link>
@@ -265,16 +280,6 @@ https://www.education.tsukuba.ac.jp/news/4151/
 【佐賀県】佐賀市、唐津市、伊万里市（法適用日：令和５年７月８日）
 【大分県】中津市、日田市（法適用日：令和５年７月８日）
 【福岡県】久留米市、八女市、筑後市、うきは市、朝倉市、那珂川市、朝倉郡東峰村、八女…]]></description>
-        </item>
-        <item>
-            <title><![CDATA[【英語プログラム】国際スポーツイベントマネジメント論（7/27）のお知らせ]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4153</link>
-            <guid>0da2e20293e0a67a311f473dbd909cf1</guid>
-            <pubDate>Fri, 14 Jul 2023 03:00:00 GMT</pubDate>
-            <description><![CDATA[国際スポーツイベントマネジメント論
-International Sport Event Management
-
-このコースは英語で行われます。スポーツイベントにおけるマネジメントおよびマーケティングを理解するためのフレームワークを学習します。今回は海外の各地域より、オンラインにてレクチャーをしていただきます。大学院進学を考えている方、英語の授業に興味のある方、イベントマネジメントの授業を体験してみ…]]></description>
         </item>
     </channel>
 </rss>
