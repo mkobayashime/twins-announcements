@@ -4,13 +4,13 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Sun, 23 Jul 2023 21:08:01 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 24 Jul 2023 09:09:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
         <item>
             <title><![CDATA[【応募受付中】学群生のアイデアを芽吹かせる研究助成（令和5年度 エンブリオ・プログラム）]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4178</link>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4181</link>
             <guid>6eaa1a62b481b74c3eda1d2380ebf124</guid>
             <pubDate>Mon, 24 Jul 2023 03:00:00 GMT</pubDate>
             <description><![CDATA[筑波大学学群生3年次以下のチームが実施する自主的で独創的な研究活動に対し、活動経費の一部を支援します。
@@ -22,6 +22,26 @@
 ２．支援の内容
 ① 1件あたり最大50万円。採択数５チーム程度　　※選考結果により金額・チーム数は増減があります。
 ② 研究資金の使用例：実験試料等の物品購入…]]></description>
+        </item>
+        <item>
+            <title><![CDATA[【再掲】TG⁺プログラム第４期生の募集を開始します]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4179</link>
+            <guid>80b6225c0be04d16e8919a828deecdb8</guid>
+            <pubDate>Mon, 24 Jul 2023 03:00:00 GMT</pubDate>
+            <description><![CDATA[TG⁺プログラム第4期生の募集を受け付けております。
+【募集期間】
+5月25日～8月31日
+
+【締め切り】
+一次募集　6月30日（金）→締め切りました
+二次募集　8月31日（木）
+
+募集締め切り後、応募者面談等を順次実施します。
+
+書類・面談による選考結果は、9月中旬に通知予定です。
+
+【申し込み】
+参加登録案内（https://tgplus.hass.tsukuba.ac.jp/entry/）を…]]></description>
         </item>
         <item>
             <title><![CDATA[再掲【7/23開催】一般公開WEBイベント「発達障害の"障害"は、社会のどこにあるのか？」]]></title>
@@ -268,18 +288,6 @@ https://www.education.tsukuba.ac.jp/news/4151/
 ジェトロでは、起業を目指すテック系理系学生を対象に開催するアメリカ・シリコンバレーへの派遣プログラムの参加者を募集しています。
 このプログラムでは、起業を目指す学生の皆様に国内研修・シリコンバレー派遣を通じ、起業に必要なスキルやマインドセットを学んでいただきます。
 このプログラムでの学習を活かし、自身の事業アイデアの発展につなげてい…]]></description>
-        </item>
-        <item>
-            <title><![CDATA[【お知らせ】令和５年７月７日からの大雨による災害にかかる被災状況について]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4157</link>
-            <guid>8afb8db912ffc62cec100f9d369d80f7</guid>
-            <pubDate>Fri, 14 Jul 2023 03:00:00 GMT</pubDate>
-            <description><![CDATA[　ニュース等でも報道されておりますが、令和５年７月７日からの大雨による災害、被災された方々には心からお見舞い申し上げます。
-　災害救助法適用地域：
-【島根県】出雲市（法適用日：令和５年７月８日）
-【佐賀県】佐賀市、唐津市、伊万里市（法適用日：令和５年７月８日）
-【大分県】中津市、日田市（法適用日：令和５年７月８日）
-【福岡県】久留米市、八女市、筑後市、うきは市、朝倉市、那珂川市、朝倉郡東峰村、八女…]]></description>
         </item>
     </channel>
 </rss>
