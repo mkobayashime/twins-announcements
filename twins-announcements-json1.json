@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "6e835f311b92f58bde9a22c49ac8cd1b",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4182",
+            "title": "経済産業省主催の起業家育成・海外派遣プログラム「J-StarX」",
+            "summary": "経済産業省主催の学生向け海外派遣プログラムについて以下のとおり案内がありましたのでお知らせします。\n------------------------------------------------------------------\n\n本プログラムは経産省の起業家育成・海外派遣プログラムのひとつで、フィンランドに渡航し、起業家精神の醸成を後押しするプログラム「J-StarX」となります。\n\nJ-S…",
+            "date_modified": "2023-07-24T03:00:00.000Z"
+        },
+        {
             "id": "6eaa1a62b481b74c3eda1d2380ebf124",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4181",
             "title": "【応募受付中】学群生のアイデアを芽吹かせる研究助成（令和5年度 エンブリオ・プログラム）",
@@ -135,13 +142,6 @@
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4159",
             "title": "【大学院説明会】教育学学位プログラム　進学･入試説明会（8/26）",
             "summary": "皆様\n筑波大学大学院教育学学位プログラム次世代学校教育創成サブプログラムの\n説明会を次の通り開催いたします。\n教育学について大学院でも学びたいと思っている方や、進学を少しでもお考えの方は\n奮ってご参加ください。\n\n8月26日（土）13時～\n詳細はポスター及び下記URLをご確認ください。\nhttps://www.education.tsukuba.ac.jp/news/4151/\n\n～お問い合わせ～…",
-            "date_modified": "2023-07-18T03:00:00.000Z"
-        },
-        {
-            "id": "39feb366d5a5cfab8fd4b72c15afaed5",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4158",
-            "title": "締切延長！参加費無料　JETRO主催「起業を考える理系学生向」ﾃｯｸ系理系学生人材シリコンバレー派遣プログラム",
-            "summary": "JETRO主催\n起業を考える理系学生向けの起業家育成プログラム\n\nジェトロでは、起業を目指すテック系理系学生を対象に開催するアメリカ・シリコンバレーへの派遣プログラムの参加者を募集しています。\nこのプログラムでは、起業を目指す学生の皆様に国内研修・シリコンバレー派遣を通じ、起業に必要なスキルやマインドセットを学んでいただきます。\nこのプログラムでの学習を活かし、自身の事業アイデアの発展につなげてい…",
             "date_modified": "2023-07-18T03:00:00.000Z"
         }
     ]
