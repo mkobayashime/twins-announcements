@@ -4,10 +4,22 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Mon, 24 Jul 2023 21:09:11 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 25 Jul 2023 00:34:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
+        <item>
+            <title><![CDATA[ASHINAGA 2023 Fall/Winter Internship Program]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4183</link>
+            <guid>b582a2cfdd0793e535959e7cd884d575</guid>
+            <pubDate>Tue, 25 Jul 2023 03:00:00 GMT</pubDate>
+            <description><![CDATA[あしなが育英会がインターンシップを募集します。
+興味のある方は、下のURLから募集フォームを開き、募集要項を熟読のうえ応募してください。
+締切：2023年8月13日（日）（日本時間23:59まで）
+※ 尚、参加条件、必要事項などの詳細は添付のPDFやURLをご参照ください。
+
+Ashinaga Foundation is looking for people who are interested …]]></description>
+        </item>
         <item>
             <title><![CDATA[経済産業省主催の起業家育成・海外派遣プログラム「J-StarX」]]></title>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4182</link>
@@ -271,23 +283,6 @@ KiteKiteは、年齢・属性・所属・国籍・性別等を問わず、全て
 「筑波大学・世界を変えよう基金アカデミー」では、お金に関する基礎知識（所得税計算、結婚・教育・マイホーム・老後・病気への備え、投資運用,　NISA活用方法等）を学ぶ「お金の超基本勉強会―卒業してからでは遅すぎる」を8月に開催します。
 開催方式：リモート　
 開催曜日：月曜グループ(8/7, 14, 21, 28) 、または木曜グ…]]></description>
-        </item>
-        <item>
-            <title><![CDATA[【大学院説明会】教育学学位プログラム　進学･入試説明会（8/26）]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4159</link>
-            <guid>a50252e86271944c52368d1d77be6116</guid>
-            <pubDate>Tue, 18 Jul 2023 03:00:00 GMT</pubDate>
-            <description><![CDATA[皆様
-筑波大学大学院教育学学位プログラム次世代学校教育創成サブプログラムの
-説明会を次の通り開催いたします。
-教育学について大学院でも学びたいと思っている方や、進学を少しでもお考えの方は
-奮ってご参加ください。
-
-8月26日（土）13時～
-詳細はポスター及び下記URLをご確認ください。
-https://www.education.tsukuba.ac.jp/news/4151/
-
-～お問い合わせ～…]]></description>
         </item>
     </channel>
 </rss>

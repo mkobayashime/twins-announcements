@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "b582a2cfdd0793e535959e7cd884d575",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4183",
+            "title": "ASHINAGA 2023 Fall/Winter Internship Program",
+            "summary": "あしなが育英会がインターンシップを募集します。\n興味のある方は、下のURLから募集フォームを開き、募集要項を熟読のうえ応募してください。\n締切：2023年8月13日（日）（日本時間23:59まで）\n※ 尚、参加条件、必要事項などの詳細は添付のPDFやURLをご参照ください。\n\nAshinaga Foundation is looking for people who are interested …",
+            "date_modified": "2023-07-25T03:00:00.000Z"
+        },
+        {
             "id": "6e835f311b92f58bde9a22c49ac8cd1b",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4182",
             "title": "経済産業省主催の起業家育成・海外派遣プログラム「J-StarX」",
@@ -135,13 +142,6 @@
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4160",
             "title": "「お金の超基本勉強会―卒業してからでは遅すぎる」第8回開催のお知らせ",
             "summary": "「お金の超基本勉強会―卒業してからでは遅すぎる」第8回開催のお知らせ\n\n「筑波大学・世界を変えよう基金アカデミー」では、お金に関する基礎知識（所得税計算、結婚・教育・マイホーム・老後・病気への備え、投資運用,　NISA活用方法等）を学ぶ「お金の超基本勉強会―卒業してからでは遅すぎる」を8月に開催します。\n開催方式：リモート　\n開催曜日：月曜グループ(8/7, 14, 21, 28) 、または木曜グ…",
-            "date_modified": "2023-07-18T03:00:00.000Z"
-        },
-        {
-            "id": "a50252e86271944c52368d1d77be6116",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4159",
-            "title": "【大学院説明会】教育学学位プログラム　進学･入試説明会（8/26）",
-            "summary": "皆様\n筑波大学大学院教育学学位プログラム次世代学校教育創成サブプログラムの\n説明会を次の通り開催いたします。\n教育学について大学院でも学びたいと思っている方や、進学を少しでもお考えの方は\n奮ってご参加ください。\n\n8月26日（土）13時～\n詳細はポスター及び下記URLをご確認ください。\nhttps://www.education.tsukuba.ac.jp/news/4151/\n\n～お問い合わせ～…",
             "date_modified": "2023-07-18T03:00:00.000Z"
         }
     ]
