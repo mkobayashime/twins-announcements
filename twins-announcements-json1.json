@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "98b93a5bf97bfce245cf421f754a6783",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4184",
+            "title": "シルクロードの音楽　つくば夏祭り（JICE主催）",
+            "summary": "一般財団法人日本国際協力センターが「シルクロードの音楽　つくば夏祭り」の開催に伴い、イベントへの参加及び運営ボランティアを募集しています。\n興味のある方は、添付のPDFをご参照の上、応募してください。\n\nJapan International Cooperation Center (JICE) is organizing \"Music along the Silk Road Tsukuba Sum…",
+            "date_modified": "2023-07-25T03:00:00.000Z"
+        },
+        {
             "id": "b582a2cfdd0793e535959e7cd884d575",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4183",
             "title": "ASHINAGA 2023 Fall/Winter Internship Program",
@@ -135,13 +142,6 @@
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4161",
             "title": "学生支援員の募集について",
             "summary": "土浦市教育委員会から、特別な教育的支援を必要とする児童・生徒に対する支援の充実を図るため、学生支援員の募集がありました。\n\n学生支援員の対象は下記のとおりです。\n〇大学等の教職課程のある学科に在籍する学生\n〇大学等の障害者医療・福祉に関する学科に在籍する学生\n\n希望する方は、添付ファイルにて詳細をご確認ください。\n\n#ts",
-            "date_modified": "2023-07-18T03:00:00.000Z"
-        },
-        {
-            "id": "b216bd5054d2248470f829265065a53d",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4160",
-            "title": "「お金の超基本勉強会―卒業してからでは遅すぎる」第8回開催のお知らせ",
-            "summary": "「お金の超基本勉強会―卒業してからでは遅すぎる」第8回開催のお知らせ\n\n「筑波大学・世界を変えよう基金アカデミー」では、お金に関する基礎知識（所得税計算、結婚・教育・マイホーム・老後・病気への備え、投資運用,　NISA活用方法等）を学ぶ「お金の超基本勉強会―卒業してからでは遅すぎる」を8月に開催します。\n開催方式：リモート　\n開催曜日：月曜グループ(8/7, 14, 21, 28) 、または木曜グ…",
             "date_modified": "2023-07-18T03:00:00.000Z"
         }
     ]
