@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/mkobayashime/twins-announcements</id>
     <title>在学生へのお知らせ | 筑波大学</title>
-    <updated>2023-07-26T05:03:33.869Z</updated>
+    <updated>2023-07-26T07:03:10.342Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://github.com/mkobayashime/twins-announcements"/>
     <subtitle>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</subtitle>
+    <entry>
+        <title type="html"><![CDATA[▼学術情報メディアセンターのお知らせ/ Notice from ACCC]]></title>
+        <id>e4090f1d970c73d145360cc04901ed85</id>
+        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4190"/>
+        <updated>2023-07-26T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[　2023/8/15 から Stream(クラシック)に動画アップロードができなくなります/ Not available to upload video to Stream (Classic) from Aug. 15, 2023
+
+　Stream(クラシック) は段階的に廃止され、代わりにStream (on SharePoint) が提供されます。
+　この移行による影響と各自におけるデータの移…]]></summary>
+    </entry>
     <entry>
         <title type="html"><![CDATA[達成度評価支援機能の休止のお知らせ／Notice of suspension of achievement assessment in TWINS]]></title>
         <id>4742edb433df3a3d0b3959eb051b732f</id>
@@ -261,21 +271,5 @@ Engli…]]></summary>
 
 Would you like experience the Japanese culture of ikebana during your summer vacation?
 See th…]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[お昼休みC-ENGINE説明会（オンライン）のお知らせ]]></title>
-        <id>267d8b05556bc0d4bfe9ec9ef412578e</id>
-        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4165"/>
-        <updated>2023-07-19T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[いつも大変お世話になっております。
-ヒューマンエンパワーメント推進局　キャリア支援チーム　高野です。
-
-大学が参加しています「研究型インターンシップ　C-ENGINE」のオンライン（Teams）説明会を開催致します。
-１８大学３０社の企業が参加しています。
-修士課・博士課程を対象とした研究のインターンシップです。お昼休みに、気軽にご質問ください。
-
-
-7/21（金）11：30-12：00
-会議 I…]]></summary>
     </entry>
 </feed>

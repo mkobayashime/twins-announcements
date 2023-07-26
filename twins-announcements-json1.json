@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "e4090f1d970c73d145360cc04901ed85",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4190",
+            "title": "▼学術情報メディアセンターのお知らせ/ Notice from ACCC",
+            "summary": "　2023/8/15 から Stream(クラシック)に動画アップロードができなくなります/ Not available to upload video to Stream (Classic) from Aug. 15, 2023\n\n　Stream(クラシック) は段階的に廃止され、代わりにStream (on SharePoint) が提供されます。\n　この移行による影響と各自におけるデータの移…",
+            "date_modified": "2023-07-26T03:00:00.000Z"
+        },
+        {
             "id": "4742edb433df3a3d0b3959eb051b732f",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4189",
             "title": "達成度評価支援機能の休止のお知らせ／Notice of suspension of achievement assessment in TWINS",
@@ -135,13 +142,6 @@
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4166",
             "title": "【募集】いけばな体験/Ikebana Experience",
             "summary": "夏休みに、日本文化である「いけばな」を体験してみませんか？\n詳細は添付ファイルをご参照ください。\n実施場所：グローバルヴィレッジコミュニティステーション2階\n実施日時：2023年8月14日、17日　15:00～\n\nWould you like experience the Japanese culture of ikebana during your summer vacation?\nSee th…",
-            "date_modified": "2023-07-19T03:00:00.000Z"
-        },
-        {
-            "id": "267d8b05556bc0d4bfe9ec9ef412578e",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4165",
-            "title": "お昼休みC-ENGINE説明会（オンライン）のお知らせ",
-            "summary": "いつも大変お世話になっております。\nヒューマンエンパワーメント推進局　キャリア支援チーム　高野です。\n\n大学が参加しています「研究型インターンシップ　C-ENGINE」のオンライン（Teams）説明会を開催致します。\n１８大学３０社の企業が参加しています。\n修士課・博士課程を対象とした研究のインターンシップです。お昼休みに、気軽にご質問ください。\n\n\n7/21（金）11：30-12：00\n会議 I…",
             "date_modified": "2023-07-19T03:00:00.000Z"
         }
     ]
