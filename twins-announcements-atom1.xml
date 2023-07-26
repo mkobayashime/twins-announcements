@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/mkobayashime/twins-announcements</id>
     <title>在学生へのお知らせ | 筑波大学</title>
-    <updated>2023-07-26T15:08:51.566Z</updated>
+    <updated>2023-07-26T21:08:13.982Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://github.com/mkobayashime/twins-announcements"/>
     <subtitle>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</subtitle>
@@ -21,10 +21,10 @@
         <id>4742edb433df3a3d0b3959eb051b732f</id>
         <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4189"/>
         <updated>2023-07-26T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[　2023/8/15 から Stream(クラシック)に動画アップロードができなくなります/ Not available to upload video to Stream (Classic) from Aug. 15, 2023
-
-　Stream(クラシック) は段階的に廃止され、代わりにStream (on SharePoint) が提供されます。
-　この移行による影響と各自におけるデータの移…]]></summary>
+        <summary type="html"><![CDATA[TWINSの一機能である達成度評価支援機能を、保守作業に因り以下の期間休止します。
+ご迷惑をおかけしますが、ご協力宜しくお願いします。
+The function of achievement assessment support in TWINS will be suspended for the following time for maintenance work.
+We deeply app…]]></summary>
     </entry>
     <entry>
         <title type="html"><![CDATA[【Ticket Sales】University of Tsukuba Home Game TSUKUBA LIVE! (Aug 5)]]></title>
@@ -252,13 +252,15 @@ Engli…]]></summary>
         <id>dd07672556fbb73a1b4a229d2a36f9e1</id>
         <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4166"/>
         <updated>2023-07-19T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[夏休みに、日本文化である「いけばな」を体験してみませんか？
-詳細は添付ファイルをご参照ください。
-実施場所：グローバルヴィレッジコミュニティステーション2階
-実施日時：2023年8月14日、17日　15:00～
+        <summary type="html"><![CDATA[お世話になっております。ヒューマンエンパワーメント推進局キャリア支援チーム高野です。
+大学BHE主催イベントのお知らせです。
 
-Would you like experience the Japanese culture of ikebana during your summer vacation?
-See th…]]></summary>
+文系・理系博士のキャリアパス
+Career path for PhD in Natural Science,Humanities, and Social Science
+
+【開催日時：Date＆Time】
+日本語：2023年８月１日（火）15：00～16：30
+Engli…]]></summary>
     </entry>
     <entry>
         <title type="html"><![CDATA[お昼休みC-ENGINE説明会（オンライン）のお知らせ]]></title>
