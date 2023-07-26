@@ -5,6 +5,20 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "6b5418cc9a064d8077cdc252d929f19b",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4187",
+            "title": "（BHEキャリア支援）Teams内　キャリア支援情報発信チームのご案内",
+            "summary": "Teams内　キャリア支援情報発信チームのご案内\n\nTeams内にチームを立ち上げ、BHEに日々届く、筑波大生向けの求人・インターンシップ、\n各種イベントなどを漏れなくタイムリーに発信しています。\nHPや学内掲示板では発信しきれない情報も掲載しています。\n現在600名以上の方が参加して活用しています。\n卒業年度別や志望別のチャネルを設けていますので、ぜひ参加してください。\n\n【参加方法】\nチーム名…",
+            "date_modified": "2023-07-26T03:00:00.000Z"
+        },
+        {
+            "id": "d49bdfcca0ca4c4de363390648a6e4a9",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4186",
+            "title": "達成度評価支援機能の休止のお知らせ",
+            "summary": "TWINSの一機能である達成度評価支援機能を、保守作業の為以下の時間休止します。\nご迷惑を、おかけしますが、ご協力宜しくお願いします。\n\n令和5(2023)年7月31日(月) 9:00-13:30",
+            "date_modified": "2023-07-26T03:00:00.000Z"
+        },
+        {
             "id": "c78992d8b6800218c46ede6223db0b9d",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4185",
             "title": "【見逃し配信2023.08.23まで】一般公開WEBイベント「発達障害の”障害”は、社会のどこにあるのか？」",
@@ -129,20 +143,6 @@
             "title": "【注意喚起】盗撮事件について",
             "summary": "7月16日（日）16時30分ごろ、文科系修士棟トイレで盗撮事件が発生しました。\nトイレを使用する際には、不審者がいないか、不審な点がないか十分気をつけてください。\nキャンパス内で不審者・不審物の情報があれば、最寄りの警備室または本部防災センターへ連絡してください。（緊急の場合はまず110番通報してください。）\n\nOn Sunday, July 16, at approximately 4:30 p…",
             "date_modified": "2023-07-19T03:00:00.000Z"
-        },
-        {
-            "id": "f471fa0a63e897548790cb7a0feac781",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4163",
-            "title": "日本語会話ボランティア募集！（オンライン）",
-            "summary": "グアダラハラ大学（メキシコ）日本研究センターで開講する日本語の授業では、学生と一緒に学習活動に参加してくださるボランティアを募集しています。\nオンラインで海外の学生と交流できる場にもなりますので、参加を希望する学生は、募集情報を参照のうえ、登録をしてください。\n\n登録フォーム：\nhttps://forms.gle/hPZpMccwdGJo6yw99\n\n注意事項：\n*日程は下記ポスターおよび登録フォ…",
-            "date_modified": "2023-07-18T03:00:00.000Z"
-        },
-        {
-            "id": "939d050ac1ac25b923e68ae47679fdf0",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4162",
-            "title": "【案内】７月より筑波大学BHEセーファースペース「KiteKite（きてきて）」を実施します！",
-            "summary": "ヒューマンエンパワーメント推進局（BHE）ジェンダー支援チームでは、初の試みとして、学生スタッフと共同で”セーファースペースKiteKite（きてきて）”を実施します！\n※セーファースペースとは…LGBTQ＋や女性をはじめ、全ての人が自らのジェンダー・セクシュアリティについてより安全に話すことができる居場所のこと\n\nKiteKiteは、年齢・属性・所属・国籍・性別等を問わず、全ての筑波大学内者がグ…",
-            "date_modified": "2023-07-18T03:00:00.000Z"
         }
     ]
 }

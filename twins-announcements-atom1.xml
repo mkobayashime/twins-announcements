@@ -2,10 +2,36 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/mkobayashime/twins-announcements</id>
     <title>在学生へのお知らせ | 筑波大学</title>
-    <updated>2023-07-25T21:07:32.589Z</updated>
+    <updated>2023-07-26T00:31:45.013Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://github.com/mkobayashime/twins-announcements"/>
     <subtitle>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</subtitle>
+    <entry>
+        <title type="html"><![CDATA[（BHEキャリア支援）Teams内　キャリア支援情報発信チームのご案内]]></title>
+        <id>6b5418cc9a064d8077cdc252d929f19b</id>
+        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4187"/>
+        <updated>2023-07-26T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Teams内　キャリア支援情報発信チームのご案内
+
+Teams内にチームを立ち上げ、BHEに日々届く、筑波大生向けの求人・インターンシップ、
+各種イベントなどを漏れなくタイムリーに発信しています。
+HPや学内掲示板では発信しきれない情報も掲載しています。
+現在600名以上の方が参加して活用しています。
+卒業年度別や志望別のチャネルを設けていますので、ぜひ参加してください。
+
+【参加方法】
+チーム名…]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[達成度評価支援機能の休止のお知らせ]]></title>
+        <id>d49bdfcca0ca4c4de363390648a6e4a9</id>
+        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4186"/>
+        <updated>2023-07-26T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[TWINSの一機能である達成度評価支援機能を、保守作業の為以下の時間休止します。
+ご迷惑を、おかけしますが、ご協力宜しくお願いします。
+
+令和5(2023)年7月31日(月) 9:00-13:30]]></summary>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【見逃し配信2023.08.23まで】一般公開WEBイベント「発達障害の”障害”は、社会のどこにあるのか？」]]></title>
         <id>c78992d8b6800218c46ede6223db0b9d</id>
@@ -251,29 +277,5 @@ See th…]]></summary>
 キャンパス内で不審者・不審物の情報があれば、最寄りの警備室または本部防災センターへ連絡してください。（緊急の場合はまず110番通報してください。）
 
 On Sunday, July 16, at approximately 4:30 p…]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[日本語会話ボランティア募集！（オンライン）]]></title>
-        <id>f471fa0a63e897548790cb7a0feac781</id>
-        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4163"/>
-        <updated>2023-07-18T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[グアダラハラ大学（メキシコ）日本研究センターで開講する日本語の授業では、学生と一緒に学習活動に参加してくださるボランティアを募集しています。
-オンラインで海外の学生と交流できる場にもなりますので、参加を希望する学生は、募集情報を参照のうえ、登録をしてください。
-
-登録フォーム：
-https://forms.gle/hPZpMccwdGJo6yw99
-
-注意事項：
-*日程は下記ポスターおよび登録フォ…]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【案内】７月より筑波大学BHEセーファースペース「KiteKite（きてきて）」を実施します！]]></title>
-        <id>939d050ac1ac25b923e68ae47679fdf0</id>
-        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4162"/>
-        <updated>2023-07-18T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[ヒューマンエンパワーメント推進局（BHE）ジェンダー支援チームでは、初の試みとして、学生スタッフと共同で”セーファースペースKiteKite（きてきて）”を実施します！
-※セーファースペースとは…LGBTQ＋や女性をはじめ、全ての人が自らのジェンダー・セクシュアリティについてより安全に話すことができる居場所のこと
-
-KiteKiteは、年齢・属性・所属・国籍・性別等を問わず、全ての筑波大学内者がグ…]]></summary>
     </entry>
 </feed>
