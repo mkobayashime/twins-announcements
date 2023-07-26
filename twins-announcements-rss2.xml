@@ -4,7 +4,7 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Wed, 26 Jul 2023 09:08:49 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 26 Jul 2023 15:08:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
@@ -23,10 +23,10 @@
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4189</link>
             <guid>4742edb433df3a3d0b3959eb051b732f</guid>
             <pubDate>Wed, 26 Jul 2023 03:00:00 GMT</pubDate>
-            <description><![CDATA[TWINSの一機能である達成度評価支援機能を、保守作業に因り以下の期間休止します。
-ご迷惑をおかけしますが、ご協力宜しくお願いします。
-The function of achievement assessment support in TWINS will be suspended for the following time for maintenance work.
-We deeply app…]]></description>
+            <description><![CDATA[　2023/8/15 から Stream(クラシック)に動画アップロードができなくなります/ Not available to upload video to Stream (Classic) from Aug. 15, 2023
+
+　Stream(クラシック) は段階的に廃止され、代わりにStream (on SharePoint) が提供されます。
+　この移行による影響と各自におけるデータの移…]]></description>
         </item>
         <item>
             <title><![CDATA[【Ticket Sales】University of Tsukuba Home Game TSUKUBA LIVE! (Aug 5)]]></title>
@@ -163,18 +163,6 @@ J-S…]]></description>
 The Japan-China-Korea In…]]></description>
         </item>
         <item>
-            <title><![CDATA[サーバー更新作業に伴うキャリア支援チームHP及び就職情報提供システム停止のお知らせ]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4174</link>
-            <guid>f7e5c4dc1ece4147cbde4ed3df16263e</guid>
-            <pubDate>Thu, 20 Jul 2023 03:00:00 GMT</pubDate>
-            <description><![CDATA[サーバー更新作業に伴い、下記の時間、キャリア支援チームホームページ等へ繋がりにくくなります。
-【サーバー更新作業日時】7/26（水）9：00　～　7/26（水）12：15（予定）
-
-なお、サーバー更新作業中は、「学内専用ページ」、「ガイダンス等及び模試試験登録・申請」、「進路進捗状況届」へのアクセスはできません。
-皆様にはご迷惑をおかけいたしますが、ご理解、ご協力の程よろしくお願いいたします。
-]]></description>
-        </item>
-        <item>
             <title><![CDATA[【チケット販売中】筑波大学ホームゲーム「TSUKUBA LIVE!」（8月5,6日）]]></title>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4150</link>
             <guid>1ef71d2a6f47100ecf78dd6fbee77d12</guid>
@@ -273,6 +261,22 @@ Engli…]]></description>
 
 Would you like experience the Japanese culture of ikebana during your summer vacation?
 See th…]]></description>
+        </item>
+        <item>
+            <title><![CDATA[お昼休みC-ENGINE説明会（オンライン）のお知らせ]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4165</link>
+            <guid>267d8b05556bc0d4bfe9ec9ef412578e</guid>
+            <pubDate>Wed, 19 Jul 2023 03:00:00 GMT</pubDate>
+            <description><![CDATA[いつも大変お世話になっております。
+ヒューマンエンパワーメント推進局　キャリア支援チーム　高野です。
+
+大学が参加しています「研究型インターンシップ　C-ENGINE」のオンライン（Teams）説明会を開催致します。
+１８大学３０社の企業が参加しています。
+修士課・博士課程を対象とした研究のインターンシップです。お昼休みに、気軽にご質問ください。
+
+
+7/21（金）11：30-12：00
+会議 I…]]></description>
         </item>
     </channel>
 </rss>
