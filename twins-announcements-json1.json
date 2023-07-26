@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "9ff1de565444606b212e4ab0f8ddb965",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4188",
+            "title": "【Ticket Sales】University of Tsukuba Home Game TSUKUBA LIVE! (Aug 5)",
+            "summary": "University of Tsukuba home game TSUKUBA LIVE! Splash!\nThis summer, we will deliver a wild day of excitement to you!\n\nTSUKUBA LIVE! is a series of home games hosted by the university.\nCentered around T…",
+            "date_modified": "2023-07-26T03:00:00.000Z"
+        },
+        {
             "id": "6b5418cc9a064d8077cdc252d929f19b",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4187",
             "title": "（BHEキャリア支援）Teams内　キャリア支援情報発信チームのご案内",
@@ -135,13 +142,6 @@
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4165",
             "title": "お昼休みC-ENGINE説明会（オンライン）のお知らせ",
             "summary": "いつも大変お世話になっております。\nヒューマンエンパワーメント推進局　キャリア支援チーム　高野です。\n\n大学が参加しています「研究型インターンシップ　C-ENGINE」のオンライン（Teams）説明会を開催致します。\n１８大学３０社の企業が参加しています。\n修士課・博士課程を対象とした研究のインターンシップです。お昼休みに、気軽にご質問ください。\n\n\n7/21（金）11：30-12：00\n会議 I…",
-            "date_modified": "2023-07-19T03:00:00.000Z"
-        },
-        {
-            "id": "45e381b9059d9a9f4171545e2c815156",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4164",
-            "title": "【注意喚起】盗撮事件について",
-            "summary": "7月16日（日）16時30分ごろ、文科系修士棟トイレで盗撮事件が発生しました。\nトイレを使用する際には、不審者がいないか、不審な点がないか十分気をつけてください。\nキャンパス内で不審者・不審物の情報があれば、最寄りの警備室または本部防災センターへ連絡してください。（緊急の場合はまず110番通報してください。）\n\nOn Sunday, July 16, at approximately 4:30 p…",
             "date_modified": "2023-07-19T03:00:00.000Z"
         }
     ]

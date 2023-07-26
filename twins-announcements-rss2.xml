@@ -4,10 +4,21 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Wed, 26 Jul 2023 00:31:45 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 26 Jul 2023 02:04:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
+        <item>
+            <title><![CDATA[【Ticket Sales】University of Tsukuba Home Game TSUKUBA LIVE! (Aug 5)]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4188</link>
+            <guid>9ff1de565444606b212e4ab0f8ddb965</guid>
+            <pubDate>Wed, 26 Jul 2023 03:00:00 GMT</pubDate>
+            <description><![CDATA[University of Tsukuba home game TSUKUBA LIVE! Splash!
+This summer, we will deliver a wild day of excitement to you!
+
+TSUKUBA LIVE! is a series of home games hosted by the university.
+Centered around T…]]></description>
+        </item>
         <item>
             <title><![CDATA[（BHEキャリア支援）Teams内　キャリア支援情報発信チームのご案内]]></title>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4187</link>
@@ -268,17 +279,6 @@ See th…]]></description>
 
 7/21（金）11：30-12：00
 会議 I…]]></description>
-        </item>
-        <item>
-            <title><![CDATA[【注意喚起】盗撮事件について]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4164</link>
-            <guid>45e381b9059d9a9f4171545e2c815156</guid>
-            <pubDate>Wed, 19 Jul 2023 03:00:00 GMT</pubDate>
-            <description><![CDATA[7月16日（日）16時30分ごろ、文科系修士棟トイレで盗撮事件が発生しました。
-トイレを使用する際には、不審者がいないか、不審な点がないか十分気をつけてください。
-キャンパス内で不審者・不審物の情報があれば、最寄りの警備室または本部防災センターへ連絡してください。（緊急の場合はまず110番通報してください。）
-
-On Sunday, July 16, at approximately 4:30 p…]]></description>
         </item>
     </channel>
 </rss>

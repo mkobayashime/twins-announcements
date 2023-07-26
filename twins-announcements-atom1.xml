@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/mkobayashime/twins-announcements</id>
     <title>在学生へのお知らせ | 筑波大学</title>
-    <updated>2023-07-26T00:31:45.013Z</updated>
+    <updated>2023-07-26T02:04:08.515Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://github.com/mkobayashime/twins-announcements"/>
     <subtitle>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</subtitle>
+    <entry>
+        <title type="html"><![CDATA[【Ticket Sales】University of Tsukuba Home Game TSUKUBA LIVE! (Aug 5)]]></title>
+        <id>9ff1de565444606b212e4ab0f8ddb965</id>
+        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4188"/>
+        <updated>2023-07-26T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[University of Tsukuba home game TSUKUBA LIVE! Splash!
+This summer, we will deliver a wild day of excitement to you!
+
+TSUKUBA LIVE! is a series of home games hosted by the university.
+Centered around T…]]></summary>
+    </entry>
     <entry>
         <title type="html"><![CDATA[（BHEキャリア支援）Teams内　キャリア支援情報発信チームのご案内]]></title>
         <id>6b5418cc9a064d8077cdc252d929f19b</id>
@@ -266,16 +277,5 @@ See th…]]></summary>
 
 7/21（金）11：30-12：00
 会議 I…]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【注意喚起】盗撮事件について]]></title>
-        <id>45e381b9059d9a9f4171545e2c815156</id>
-        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4164"/>
-        <updated>2023-07-19T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[7月16日（日）16時30分ごろ、文科系修士棟トイレで盗撮事件が発生しました。
-トイレを使用する際には、不審者がいないか、不審な点がないか十分気をつけてください。
-キャンパス内で不審者・不審物の情報があれば、最寄りの警備室または本部防災センターへ連絡してください。（緊急の場合はまず110番通報してください。）
-
-On Sunday, July 16, at approximately 4:30 p…]]></summary>
     </entry>
 </feed>
