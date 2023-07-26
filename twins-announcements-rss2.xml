@@ -4,10 +4,20 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Wed, 26 Jul 2023 02:04:08 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 26 Jul 2023 05:03:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
+        <item>
+            <title><![CDATA[達成度評価支援機能の休止のお知らせ／Notice of suspension of achievement assessment in TWINS]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4189</link>
+            <guid>4742edb433df3a3d0b3959eb051b732f</guid>
+            <pubDate>Wed, 26 Jul 2023 03:00:00 GMT</pubDate>
+            <description><![CDATA[TWINSの一機能である達成度評価支援機能を、保守作業に因り以下の期間休止します。
+ご迷惑をおかけしますが、ご協力宜しくお願いします。
+The function of achievement assessment support in TWINS will be suspended for the following time for maintenance work.
+We deeply app…]]></description>
+        </item>
         <item>
             <title><![CDATA[【Ticket Sales】University of Tsukuba Home Game TSUKUBA LIVE! (Aug 5)]]></title>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4188</link>
@@ -34,16 +44,6 @@ HPや学内掲示板では発信しきれない情報も掲載しています。
 
 【参加方法】
 チーム名…]]></description>
-        </item>
-        <item>
-            <title><![CDATA[達成度評価支援機能の休止のお知らせ]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4186</link>
-            <guid>d49bdfcca0ca4c4de363390648a6e4a9</guid>
-            <pubDate>Wed, 26 Jul 2023 03:00:00 GMT</pubDate>
-            <description><![CDATA[TWINSの一機能である達成度評価支援機能を、保守作業の為以下の時間休止します。
-ご迷惑を、おかけしますが、ご協力宜しくお願いします。
-
-令和5(2023)年7月31日(月) 9:00-13:30]]></description>
         </item>
         <item>
             <title><![CDATA[【見逃し配信2023.08.23まで】一般公開WEBイベント「発達障害の”障害”は、社会のどこにあるのか？」]]></title>

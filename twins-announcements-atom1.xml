@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/mkobayashime/twins-announcements</id>
     <title>在学生へのお知らせ | 筑波大学</title>
-    <updated>2023-07-26T02:04:08.515Z</updated>
+    <updated>2023-07-26T05:03:33.869Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://github.com/mkobayashime/twins-announcements"/>
     <subtitle>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</subtitle>
+    <entry>
+        <title type="html"><![CDATA[達成度評価支援機能の休止のお知らせ／Notice of suspension of achievement assessment in TWINS]]></title>
+        <id>4742edb433df3a3d0b3959eb051b732f</id>
+        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4189"/>
+        <updated>2023-07-26T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[TWINSの一機能である達成度評価支援機能を、保守作業に因り以下の期間休止します。
+ご迷惑をおかけしますが、ご協力宜しくお願いします。
+The function of achievement assessment support in TWINS will be suspended for the following time for maintenance work.
+We deeply app…]]></summary>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【Ticket Sales】University of Tsukuba Home Game TSUKUBA LIVE! (Aug 5)]]></title>
         <id>9ff1de565444606b212e4ab0f8ddb965</id>
@@ -32,16 +42,6 @@ HPや学内掲示板では発信しきれない情報も掲載しています。
 
 【参加方法】
 チーム名…]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[達成度評価支援機能の休止のお知らせ]]></title>
-        <id>d49bdfcca0ca4c4de363390648a6e4a9</id>
-        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4186"/>
-        <updated>2023-07-26T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[TWINSの一機能である達成度評価支援機能を、保守作業の為以下の時間休止します。
-ご迷惑を、おかけしますが、ご協力宜しくお願いします。
-
-令和5(2023)年7月31日(月) 9:00-13:30]]></summary>
     </entry>
     <entry>
         <title type="html"><![CDATA[【見逃し配信2023.08.23まで】一般公開WEBイベント「発達障害の”障害”は、社会のどこにあるのか？」]]></title>
