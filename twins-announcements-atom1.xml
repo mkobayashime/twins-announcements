@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/mkobayashime/twins-announcements</id>
     <title>在学生へのお知らせ | 筑波大学</title>
-    <updated>2023-07-27T09:08:56.241Z</updated>
+    <updated>2023-07-27T15:03:15.810Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://github.com/mkobayashime/twins-announcements"/>
     <subtitle>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</subtitle>
+    <entry>
+        <title type="html"><![CDATA[【開催案内】令和５年度高圧ガスボンベ利用者安全講習会（オンライン開催）]]></title>
+        <id>06b354eb0eb387da6803f46e137d51fe</id>
+        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4180"/>
+        <updated>2023-07-28T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[日頃より，安全衛生・健康管理の取組にご協力いただきありがとうございます。
+この度，下記のとおり高圧ガスボンベ利用者安全講習会をオンラインで開催することになりました。
+この講習会では，高圧ガスに関する基礎知識から安全な取扱方法，事故事例等について，専門家より最新の情報を交えながらお話しいただきます。皆様のご参加お待ちしております。
+
+　　　　　　　　　　　　　　　　　　　　記
+
+１．日　　時　　令和…]]></summary>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[Call for Applicants]TOEIC IP Test for Graduate Students]]></title>
         <id>624265219830db29c97a4555be9c8666</id>
@@ -251,20 +264,5 @@ TOEICは今やビジネスでの英語力を測る指標として多くの場で
 ＜実施詳細＞
 午前　面接編　10：00-11：30　　定員12名
 午後　GD編　   13：00-14：30　　定…]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[On-line Group Career Session 2023　Vol.2]]></title>
-        <id>8f2e33d0e86916502aee1ebce7303980</id>
-        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4167"/>
-        <updated>2023-07-19T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[お世話になっております。ヒューマンエンパワーメント推進局キャリア支援チーム高野です。
-大学BHE主催イベントのお知らせです。
-
-文系・理系博士のキャリアパス
-Career path for PhD in Natural Science,Humanities, and Social Science
-
-【開催日時：Date＆Time】
-日本語：2023年８月１日（火）15：00～16：30
-Engli…]]></summary>
     </entry>
 </feed>

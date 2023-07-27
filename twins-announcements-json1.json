@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "06b354eb0eb387da6803f46e137d51fe",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4180",
+            "title": "【開催案内】令和５年度高圧ガスボンベ利用者安全講習会（オンライン開催）",
+            "summary": "日頃より，安全衛生・健康管理の取組にご協力いただきありがとうございます。\nこの度，下記のとおり高圧ガスボンベ利用者安全講習会をオンラインで開催することになりました。\nこの講習会では，高圧ガスに関する基礎知識から安全な取扱方法，事故事例等について，専門家より最新の情報を交えながらお話しいただきます。皆様のご参加お待ちしております。\n\n　　　　　　　　　　　　　　　　　　　　記\n\n１．日　　時　　令和…",
+            "date_modified": "2023-07-28T03:00:00.000Z"
+        },
+        {
             "id": "624265219830db29c97a4555be9c8666",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4192",
             "title": "[Call for Applicants]TOEIC IP Test for Graduate Students",
@@ -135,13 +142,6 @@
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4169",
             "title": "【BHE】7月21日チャレンジ実践会　対面面接・GD編",
             "summary": "これまでオンラインで実施してきた就活実践講座を、面接編とGD編について対面で開催します。\n各回BHEキャリア支援チームのファシリテーターからフィードバックがあります。\n就活真っ最中の方、これからインターンシップに参加する方、ぜひ練習にお越しください。\n\n＜日にち＞\n7月21日（金）\n\n＜実施詳細＞\n午前　面接編　10：00-11：30　　定員12名\n午後　GD編　   13：00-14：30　　定…",
-            "date_modified": "2023-07-19T03:00:00.000Z"
-        },
-        {
-            "id": "8f2e33d0e86916502aee1ebce7303980",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4167",
-            "title": "On-line Group Career Session 2023　Vol.2",
-            "summary": "お世話になっております。ヒューマンエンパワーメント推進局キャリア支援チーム高野です。\n大学BHE主催イベントのお知らせです。\n\n文系・理系博士のキャリアパス\nCareer path for PhD in Natural Science,Humanities, and Social Science\n\n【開催日時：Date＆Time】\n日本語：2023年８月１日（火）15：00～16：30\nEngli…",
             "date_modified": "2023-07-19T03:00:00.000Z"
         }
     ]
