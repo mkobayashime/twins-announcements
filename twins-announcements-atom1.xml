@@ -2,10 +2,18 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/mkobayashime/twins-announcements</id>
     <title>在学生へのお知らせ | 筑波大学</title>
-    <updated>2023-07-27T02:20:10.963Z</updated>
+    <updated>2023-07-27T07:02:57.467Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://github.com/mkobayashime/twins-announcements"/>
     <subtitle>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</subtitle>
+    <entry>
+        <title type="html"><![CDATA[[Call for Applicants]TOEIC IP Test for Graduate Students]]></title>
+        <id>624265219830db29c97a4555be9c8666</id>
+        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4192"/>
+        <updated>2023-07-27T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[※This is an English version of the announcement on July 19.
+The university will conduct the TOEIC IP Test for regular graduate students at no charge. TOEIC is now used in many places as an indicator t…]]></summary>
+    </entry>
     <entry>
         <title type="html"><![CDATA[7/28（12時30分～）講演会「開発コンサルタントの業務について」（学生・教員対象）]]></title>
         <id>d9fadbb426ac8aa9d1d70bc136333c2a</id>
@@ -258,18 +266,5 @@ Career path for PhD in Natural Science,Humanities, and Social Science
 【開催日時：Date＆Time】
 日本語：2023年８月１日（火）15：00～16：30
 Engli…]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【募集】いけばな体験/Ikebana Experience]]></title>
-        <id>dd07672556fbb73a1b4a229d2a36f9e1</id>
-        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4166"/>
-        <updated>2023-07-19T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[夏休みに、日本文化である「いけばな」を体験してみませんか？
-詳細は添付ファイルをご参照ください。
-実施場所：グローバルヴィレッジコミュニティステーション2階
-実施日時：2023年8月14日、17日　15:00～
-
-Would you like experience the Japanese culture of ikebana during your summer vacation?
-See th…]]></summary>
     </entry>
 </feed>

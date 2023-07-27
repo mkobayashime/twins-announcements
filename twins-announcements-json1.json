@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "624265219830db29c97a4555be9c8666",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4192",
+            "title": "[Call for Applicants]TOEIC IP Test for Graduate Students",
+            "summary": "※This is an English version of the announcement on July 19.\nThe university will conduct the TOEIC IP Test for regular graduate students at no charge. TOEIC is now used in many places as an indicator t…",
+            "date_modified": "2023-07-27T03:00:00.000Z"
+        },
+        {
             "id": "d9fadbb426ac8aa9d1d70bc136333c2a",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4191",
             "title": "7/28（12時30分～）講演会「開発コンサルタントの業務について」（学生・教員対象）",
@@ -135,13 +142,6 @@
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4167",
             "title": "On-line Group Career Session 2023　Vol.2",
             "summary": "お世話になっております。ヒューマンエンパワーメント推進局キャリア支援チーム高野です。\n大学BHE主催イベントのお知らせです。\n\n文系・理系博士のキャリアパス\nCareer path for PhD in Natural Science,Humanities, and Social Science\n\n【開催日時：Date＆Time】\n日本語：2023年８月１日（火）15：00～16：30\nEngli…",
-            "date_modified": "2023-07-19T03:00:00.000Z"
-        },
-        {
-            "id": "dd07672556fbb73a1b4a229d2a36f9e1",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4166",
-            "title": "【募集】いけばな体験/Ikebana Experience",
-            "summary": "夏休みに、日本文化である「いけばな」を体験してみませんか？\n詳細は添付ファイルをご参照ください。\n実施場所：グローバルヴィレッジコミュニティステーション2階\n実施日時：2023年8月14日、17日　15:00～\n\nWould you like experience the Japanese culture of ikebana during your summer vacation?\nSee th…",
             "date_modified": "2023-07-19T03:00:00.000Z"
         }
     ]
