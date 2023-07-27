@@ -4,10 +4,22 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Wed, 26 Jul 2023 21:08:13 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 27 Jul 2023 02:20:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
+        <item>
+            <title><![CDATA[7/28（12時30分～）講演会「開発コンサルタントの業務について」（学生・教員対象）]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4191</link>
+            <guid>d9fadbb426ac8aa9d1d70bc136333c2a</guid>
+            <pubDate>Thu, 27 Jul 2023 03:00:00 GMT</pubDate>
+            <description><![CDATA[学生の皆様、教職員の皆様
+  このたび社会・国際学群チュートリアルプログラムでは、公開講演会を開催いたします。講師は、株式会社建設技研インターナショナル・水資源部・副参事の進藤　宙氏で、『開発コンサルタントの業務について』というタイトルで講演を行っていただきます。皆様に是非ご参加いただきたく、以下のとおり、ご案内申し上げます。
+
+〇日時：令和５年７月２８日（金）１２時３０分～１３時３０分
+
+〇開催…]]></description>
+        </item>
         <item>
             <title><![CDATA[▼学術情報メディアセンターのお知らせ/ Notice from ACCC]]></title>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4190</link>
@@ -254,31 +266,13 @@ Engli…]]></description>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4166</link>
             <guid>dd07672556fbb73a1b4a229d2a36f9e1</guid>
             <pubDate>Wed, 19 Jul 2023 03:00:00 GMT</pubDate>
-            <description><![CDATA[お世話になっております。ヒューマンエンパワーメント推進局キャリア支援チーム高野です。
-大学BHE主催イベントのお知らせです。
+            <description><![CDATA[夏休みに、日本文化である「いけばな」を体験してみませんか？
+詳細は添付ファイルをご参照ください。
+実施場所：グローバルヴィレッジコミュニティステーション2階
+実施日時：2023年8月14日、17日　15:00～
 
-文系・理系博士のキャリアパス
-Career path for PhD in Natural Science,Humanities, and Social Science
-
-【開催日時：Date＆Time】
-日本語：2023年８月１日（火）15：00～16：30
-Engli…]]></description>
-        </item>
-        <item>
-            <title><![CDATA[お昼休みC-ENGINE説明会（オンライン）のお知らせ]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4165</link>
-            <guid>267d8b05556bc0d4bfe9ec9ef412578e</guid>
-            <pubDate>Wed, 19 Jul 2023 03:00:00 GMT</pubDate>
-            <description><![CDATA[いつも大変お世話になっております。
-ヒューマンエンパワーメント推進局　キャリア支援チーム　高野です。
-
-大学が参加しています「研究型インターンシップ　C-ENGINE」のオンライン（Teams）説明会を開催致します。
-１８大学３０社の企業が参加しています。
-修士課・博士課程を対象とした研究のインターンシップです。お昼休みに、気軽にご質問ください。
-
-
-7/21（金）11：30-12：00
-会議 I…]]></description>
+Would you like experience the Japanese culture of ikebana during your summer vacation?
+See th…]]></description>
         </item>
     </channel>
 </rss>
