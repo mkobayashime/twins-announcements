@@ -4,10 +4,23 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Thu, 27 Jul 2023 21:06:36 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 28 Jul 2023 00:31:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
+        <item>
+            <title><![CDATA[【再掲　本日開催】7/28（12時30分～）講演会「開発コンサルタントの業務について」（学生・教員対象）]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4193</link>
+            <guid>43ec7d30a920c92fc64850db5232a5ca</guid>
+            <pubDate>Fri, 28 Jul 2023 03:00:00 GMT</pubDate>
+            <description><![CDATA[学生の皆様、教職員の皆様
+  
+　このたび社会・国際学群チュートリアルプログラムでは、公開講演会を開催いたします。講師は、株式会社建設技研インターナショナル・水資源部・副参事の進藤　宙氏で、『開発コンサルタントの業務について』というタイトルで講演を行っていただきます。皆様に是非ご参加いただきたく、以下のとおり、ご案内申し上げます。
+
+〇日時：令和５年７月２８日（金）１２時３０分～１３時３０分
+
+〇…]]></description>
+        </item>
         <item>
             <title><![CDATA[【開催案内】令和５年度高圧ガスボンベ利用者安全講習会（オンライン開催）]]></title>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4180</link>
@@ -250,22 +263,6 @@ TOEICは今やビジネスでの英語力を測る指標として多くの場で
 ジェトロでは、起業を目指すテック系理系学生を対象に開催するアメリカ・シリコンバレーへの派遣プログラムの参加者を募集しています。
 このプログラムでは、起業を目指す学生の皆様に国内研修・シリコンバレー派遣を通じ、起業に必要なスキルやマインドセットを学んでいただきます。
 このプログラムでの学習を活かし、自身の事業アイデアの発展につなげてい…]]></description>
-        </item>
-        <item>
-            <title><![CDATA[【BHE】7月21日チャレンジ実践会　対面面接・GD編]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4169</link>
-            <guid>835fc7b684fa013bc313e451197a8dab</guid>
-            <pubDate>Wed, 19 Jul 2023 03:00:00 GMT</pubDate>
-            <description><![CDATA[これまでオンラインで実施してきた就活実践講座を、面接編とGD編について対面で開催します。
-各回BHEキャリア支援チームのファシリテーターからフィードバックがあります。
-就活真っ最中の方、これからインターンシップに参加する方、ぜひ練習にお越しください。
-
-＜日にち＞
-7月21日（金）
-
-＜実施詳細＞
-午前　面接編　10：00-11：30　　定員12名
-午後　GD編　   13：00-14：30　　定…]]></description>
         </item>
     </channel>
 </rss>
