@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "372ffad634b6d5a585946175599e8d0e",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4195",
+            "title": "【開催案内】8/3研究マネジメントセミナー「研究機器・装置と研究室運営」ならびに研究者交流会",
+            "summary": "　研究機器・装置とそれらをマネジメントする研究室運営は、研究者の日々の活動と切っても切り離せない存在であり、研究機器・装置の効率的な活用は研究パフォーマンスにも影響します。研究機器・装置のマネジメントで悩みを抱えている若手研究者も少なくないと思われます。また、分野を越えた研究機器・装置に触れることで、思わぬ新しい共同研究に繋がる可能性もあります。\n\n　この度、研究機器・装置を題材としたセミナーを実…",
+            "date_modified": "2023-07-28T03:00:00.000Z"
+        },
+        {
             "id": "43ec7d30a920c92fc64850db5232a5ca",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4193",
             "title": "【再掲　本日開催】7/28（12時30分～）講演会「開発コンサルタントの業務について」（学生・教員対象）",
@@ -135,13 +142,6 @@
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4171",
             "title": "【今週日曜】City Chat Cafe (英会話対面イベント)@グロビ",
             "summary": "City Chat Cafeで気軽に英語を練習しよう！\n様々な文化背景を持つ人々が出合い、おしゃべりを楽しむ国際交流イベントです。\n筑波大学の留学生と自己紹介や母国の紹介など自由な話題で気軽に英語や日本で会話を楽しめます。\n学外の参加者と交流できるチャンスです。是非参加お待ちします!\n\n日時：\n7月23日（日）\n前半13:30-14:30\n後半14:45-15:45\nトピック：“Tradition…",
-            "date_modified": "2023-07-19T03:00:00.000Z"
-        },
-        {
-            "id": "38373a8d0b0d1c82e75a81af1f107513",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4170",
-            "title": "締切延長！BHEオススメ　参加費無料　JETRO主催「起業を考える理系学生向」ﾃｯｸ系理系学生人材シリコンバレー派遣プログラム",
-            "summary": "JETRO主催\n起業を考える理系学生向けの起業家育成プログラム\n\nジェトロでは、起業を目指すテック系理系学生を対象に開催するアメリカ・シリコンバレーへの派遣プログラムの参加者を募集しています。\nこのプログラムでは、起業を目指す学生の皆様に国内研修・シリコンバレー派遣を通じ、起業に必要なスキルやマインドセットを学んでいただきます。\nこのプログラムでの学習を活かし、自身の事業アイデアの発展につなげてい…",
             "date_modified": "2023-07-19T03:00:00.000Z"
         }
     ]
