@@ -4,7 +4,7 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Sat, 29 Jul 2023 09:07:37 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 29 Jul 2023 15:07:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
@@ -88,16 +88,6 @@ HPや学内掲示板では発信しきれない情報も掲載しています。
 
 【詳細】下記URLでご確認ください。
 https://successability-la…]]></description>
-        </item>
-        <item>
-            <title><![CDATA[シルクロードの音楽　つくば夏祭り（JICE主催）]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4184</link>
-            <guid>98b93a5bf97bfce245cf421f754a6783</guid>
-            <pubDate>Tue, 25 Jul 2023 03:00:00 GMT</pubDate>
-            <description><![CDATA[一般財団法人日本国際協力センターが「シルクロードの音楽　つくば夏祭り」の開催に伴い、イベントへの参加及び運営ボランティアを募集しています。
-興味のある方は、添付のPDFをご参照の上、応募してください。
-
-Japan International Cooperation Center (JICE) is organizing "Music along the Silk Road Tsukuba Sum…]]></description>
         </item>
         <item>
             <title><![CDATA[ASHINAGA 2023 Fall/Winter Internship Program]]></title>
@@ -256,6 +246,19 @@ Career path for PhD in Natural Science,Humanities, and Social Science
 【開催日時：Date＆Time】
 日本語：2023年８月１日（火）15：00～16：30
 Engli…]]></description>
+        </item>
+        <item>
+            <title><![CDATA[【募集】いけばな体験/Ikebana Experience]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4166</link>
+            <guid>dd07672556fbb73a1b4a229d2a36f9e1</guid>
+            <pubDate>Wed, 19 Jul 2023 03:00:00 GMT</pubDate>
+            <description><![CDATA[夏休みに、日本文化である「いけばな」を体験してみませんか？
+詳細は添付ファイルをご参照ください。
+実施場所：グローバルヴィレッジコミュニティステーション2階
+実施日時：2023年8月14日、17日　15:00～
+
+Would you like experience the Japanese culture of ikebana during your summer vacation?
+See th…]]></description>
         </item>
     </channel>
 </rss>
