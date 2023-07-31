@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "6ef20ebc37ee4fdcde4d4d67ed8a4102",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4199",
+            "title": "メンテナンス作業に伴うキャリア支援チームHP及び就職情報提供システム停止のお知らせ",
+            "summary": "メンテナンス作業に伴い、下記の時間キャリア支援チームホームページへ繋がりにくくなります。\n【メンテナンス作業日時】8/9（水）13：15　～　17：15（予定）\n\nなお、作業中は「学内専用ページ」、「ガイダンス等及び模試試験登録・申請」、「進路進捗状況届」へのアクセスはできません。\n皆様にはご迷惑をおかけいたしますが、ご理解、ご協力の程よろしくお願いいたします。",
+            "date_modified": "2023-07-31T03:00:00.000Z"
+        },
+        {
             "id": "f8aaecf6ecf20e896fff82b641a2d9a0",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4198",
             "title": "【英語プログラム】0ATQ003 国際スポーツイベントマネジメント論（8/7, 8）のお知らせ",
@@ -135,13 +142,6 @@
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4170",
             "title": "締切延長！BHEオススメ　参加費無料　JETRO主催「起業を考える理系学生向」ﾃｯｸ系理系学生人材シリコンバレー派遣プログラム",
             "summary": "JETRO主催\n起業を考える理系学生向けの起業家育成プログラム\n\nジェトロでは、起業を目指すテック系理系学生を対象に開催するアメリカ・シリコンバレーへの派遣プログラムの参加者を募集しています。\nこのプログラムでは、起業を目指す学生の皆様に国内研修・シリコンバレー派遣を通じ、起業に必要なスキルやマインドセットを学んでいただきます。\nこのプログラムでの学習を活かし、自身の事業アイデアの発展につなげてい…",
-            "date_modified": "2023-07-19T03:00:00.000Z"
-        },
-        {
-            "id": "835fc7b684fa013bc313e451197a8dab",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4169",
-            "title": "【BHE】7月21日チャレンジ実践会　対面面接・GD編",
-            "summary": "これまでオンラインで実施してきた就活実践講座を、面接編とGD編について対面で開催します。\n各回BHEキャリア支援チームのファシリテーターからフィードバックがあります。\n就活真っ最中の方、これからインターンシップに参加する方、ぜひ練習にお越しください。\n\n＜日にち＞\n7月21日（金）\n\n＜実施詳細＞\n午前　面接編　10：00-11：30　　定員12名\n午後　GD編　   13：00-14：30　　定…",
             "date_modified": "2023-07-19T03:00:00.000Z"
         }
     ]

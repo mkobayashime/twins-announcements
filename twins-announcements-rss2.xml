@@ -4,10 +4,21 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Mon, 31 Jul 2023 00:32:06 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 31 Jul 2023 01:58:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
+        <item>
+            <title><![CDATA[メンテナンス作業に伴うキャリア支援チームHP及び就職情報提供システム停止のお知らせ]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4199</link>
+            <guid>6ef20ebc37ee4fdcde4d4d67ed8a4102</guid>
+            <pubDate>Mon, 31 Jul 2023 03:00:00 GMT</pubDate>
+            <description><![CDATA[メンテナンス作業に伴い、下記の時間キャリア支援チームホームページへ繋がりにくくなります。
+【メンテナンス作業日時】8/9（水）13：15　～　17：15（予定）
+
+なお、作業中は「学内専用ページ」、「ガイダンス等及び模試試験登録・申請」、「進路進捗状況届」へのアクセスはできません。
+皆様にはご迷惑をおかけいたしますが、ご理解、ご協力の程よろしくお願いいたします。]]></description>
+        </item>
         <item>
             <title><![CDATA[【英語プログラム】0ATQ003 国際スポーツイベントマネジメント論（8/7, 8）のお知らせ]]></title>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4198</link>
@@ -241,22 +252,6 @@ TOEICは今やビジネスでの英語力を測る指標として多くの場で
 ジェトロでは、起業を目指すテック系理系学生を対象に開催するアメリカ・シリコンバレーへの派遣プログラムの参加者を募集しています。
 このプログラムでは、起業を目指す学生の皆様に国内研修・シリコンバレー派遣を通じ、起業に必要なスキルやマインドセットを学んでいただきます。
 このプログラムでの学習を活かし、自身の事業アイデアの発展につなげてい…]]></description>
-        </item>
-        <item>
-            <title><![CDATA[【BHE】7月21日チャレンジ実践会　対面面接・GD編]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4169</link>
-            <guid>835fc7b684fa013bc313e451197a8dab</guid>
-            <pubDate>Wed, 19 Jul 2023 03:00:00 GMT</pubDate>
-            <description><![CDATA[これまでオンラインで実施してきた就活実践講座を、面接編とGD編について対面で開催します。
-各回BHEキャリア支援チームのファシリテーターからフィードバックがあります。
-就活真っ最中の方、これからインターンシップに参加する方、ぜひ練習にお越しください。
-
-＜日にち＞
-7月21日（金）
-
-＜実施詳細＞
-午前　面接編　10：00-11：30　　定員12名
-午後　GD編　   13：00-14：30　　定…]]></description>
         </item>
     </channel>
 </rss>
