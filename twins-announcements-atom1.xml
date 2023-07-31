@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/mkobayashime/twins-announcements</id>
     <title>在学生へのお知らせ | 筑波大学</title>
-    <updated>2023-07-31T05:03:37.665Z</updated>
+    <updated>2023-07-31T08:09:11.484Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://github.com/mkobayashime/twins-announcements"/>
     <subtitle>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</subtitle>
+    <entry>
+        <title type="html"><![CDATA[10月入学留学生のチューター募集！]]></title>
+        <id>5ec93349da003fd1720ca3d71e83b49f</id>
+        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4203"/>
+        <updated>2023-07-31T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[今年10月の入学に向けて、9月下旬から来日する留学生たちが、つくばで安心して生活をスタートできるよう支援して頂ける方を募集しています！
+今年度は学生16名が入学予定です。グローバル化がどんどん進む現代で、こういった経験はとても重要視されます。あなたのキャリアにとっても強みになるでしょう。
+
+※詳細は添付をご参照ください]]></summary>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【8月5日、6日、11日学内出店】筑波大学公式オリジナルグッズECサイト割引クーポンのお知らせ（8月）]]></title>
         <id>0eadc3c12b7da03f138815ec8628b0c2</id>
@@ -240,24 +250,5 @@ J-S…]]></summary>
         <summary type="html"><![CDATA[この度、筑波大学ヒューマンエンパワーメント推進局（ダボットプロジェクト）では、一般公開WEBイベント「発達障害の"障害"は、社会のどこにあるのか？」を開催いたします。
 
 このイベントでは、SDGsの理念である「誰一人取り残さない」社会に向けて、本当の意味での「障害の社会モデル」に立ち返って、発達障害の"障害"を社会構造上、生じる社会的障壁と捉え、その障壁は社会のどこにあるのか、青年期・成人期を中心…]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[第15回JCKフォーラム参加者募集/Call for participation to JCK Forum 2023]]></title>
-        <id>55e1df9270fe8da37cb68ea3292d7e8b</id>
-        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4175"/>
-        <updated>2023-07-20T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[昨年、筑波大学主催で行われた日中韓アカデミックフォーラムが今年は韓国の主催で
-下記日程で開催されます。
-
-日時：2023年11月27日（月）～12月1日（金）
-会場：高麗大学（韓国ソウル）
-対象：農学、環境科学、生命科学を専攻する大学院生
-定員：若干名
-発表形式：口頭発表（英語）
-参加費：350ドル（USD）
-
-詳細は添付ポスターをご覧ください。
-
-The Japan-China-Korea In…]]></summary>
     </entry>
 </feed>
