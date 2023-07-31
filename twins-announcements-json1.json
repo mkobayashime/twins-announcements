@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "0eadc3c12b7da03f138815ec8628b0c2",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4202",
+            "title": "【8月5日、6日、11日学内出店】筑波大学公式オリジナルグッズECサイト割引クーポンのお知らせ（8月）",
+            "summary": "筑波大学公式オリジナルグッズ販売サイト「TSUKUBA-SHOP」の8月の割引クーポンコードをお知らせいたします！\n\n\nどうぞご覧いただき、皆様の「日常生活」、「思い出」、「プレゼント🎁」などにご活用いただけますと幸いです。\n\n\nECサイトは以下のリンクから\n\n有効期間　：　2023年8月1日～2023年8月31日\n※学内専用割引コードをTWINS掲示「大学から学生へのお知らせ（学内専用）」に掲…",
+            "date_modified": "2023-07-31T03:00:00.000Z"
+        },
+        {
             "id": "6b35ff16158f8e7e2c05427482b39be1",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4201",
             "title": "8/2(水)11:30~【中南米プログラム】交換留学成果報告会",
@@ -136,13 +143,6 @@
             "title": "第15回JCKフォーラム参加者募集/Call for participation to JCK Forum 2023",
             "summary": "昨年、筑波大学主催で行われた日中韓アカデミックフォーラムが今年は韓国の主催で\n下記日程で開催されます。\n\n日時：2023年11月27日（月）～12月1日（金）\n会場：高麗大学（韓国ソウル）\n対象：農学、環境科学、生命科学を専攻する大学院生\n定員：若干名\n発表形式：口頭発表（英語）\n参加費：350ドル（USD）\n\n詳細は添付ポスターをご覧ください。\n\nThe Japan-China-Korea In…",
             "date_modified": "2023-07-20T03:00:00.000Z"
-        },
-        {
-            "id": "f1ca11210719fe279a18533b2580a26c",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4172",
-            "title": "【受験者募集】（大学院生対象）令和５年度TOEIC IPテストの実施について",
-            "summary": "※一部内容に修正があったため、再掲しました。\n　修正箇所：対象者に「ただし、受験期間に日本から受験できる方に限ります。」を追加\n\n筑波大学に在籍する正規の大学院生を対象として、TOEIC IPテストを無料で実施します。\nTOEICは今やビジネスでの英語力を測る指標として多くの場で活用されています。\n特に730点以上を持っていると、国・地方自治体の採用試験や企業の昇給・昇任、海外赴任等これからのキャ…",
-            "date_modified": "2023-07-19T03:00:00.000Z"
         }
     ]
 }
