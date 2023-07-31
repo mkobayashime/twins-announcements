@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/mkobayashime/twins-announcements</id>
     <title>在学生へのお知らせ | 筑波大学</title>
-    <updated>2023-07-31T21:07:54.832Z</updated>
+    <updated>2023-07-31T23:03:34.294Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://github.com/mkobayashime/twins-announcements"/>
     <subtitle>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</subtitle>
+    <entry>
+        <title type="html"><![CDATA[STOP！研究費不正使用！／STOP！Wrongful use of research funding！]]></title>
+        <id>d07de3a2549e9d1109e19fd73f9711de</id>
+        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4204"/>
+        <updated>2023-08-01T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[学生の皆さんが不正使用に巻き込まれるケースが多発しています。
+不正を見かけた、持ちかけられたら、通報窓口へ。
+コンプライアンス・ハラスメント対策室（学内窓口）
+Mail:compliance@un.tsukuba.ac.jp TEL:029-853-2033
+つくば中央法律事務所（学外窓口）
+TEL:029-896-3530  FAX:029-896-3531]]></summary>
+    </entry>
     <entry>
         <title type="html"><![CDATA[10月入学留学生のチューター募集！]]></title>
         <id>5ec93349da003fd1720ca3d71e83b49f</id>
@@ -241,14 +253,5 @@ J-S…]]></summary>
 
 【申し込み】
 参加登録案内（https://tgplus.hass.tsukuba.ac.jp/entry/）を…]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[再掲【7/23開催】一般公開WEBイベント「発達障害の"障害"は、社会のどこにあるのか？」]]></title>
-        <id>afdb8a57aacd715d77eb0bad6354af6d</id>
-        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4177"/>
-        <updated>2023-07-21T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[この度、筑波大学ヒューマンエンパワーメント推進局（ダボットプロジェクト）では、一般公開WEBイベント「発達障害の"障害"は、社会のどこにあるのか？」を開催いたします。
-
-このイベントでは、SDGsの理念である「誰一人取り残さない」社会に向けて、本当の意味での「障害の社会モデル」に立ち返って、発達障害の"障害"を社会構造上、生じる社会的障壁と捉え、その障壁は社会のどこにあるのか、青年期・成人期を中心…]]></summary>
     </entry>
 </feed>

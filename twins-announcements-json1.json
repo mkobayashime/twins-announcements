@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "d07de3a2549e9d1109e19fd73f9711de",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4204",
+            "title": "STOP！研究費不正使用！／STOP！Wrongful use of research funding！",
+            "summary": "学生の皆さんが不正使用に巻き込まれるケースが多発しています。\n不正を見かけた、持ちかけられたら、通報窓口へ。\nコンプライアンス・ハラスメント対策室（学内窓口）\nMail:compliance@un.tsukuba.ac.jp TEL:029-853-2033\nつくば中央法律事務所（学外窓口）\nTEL:029-896-3530  FAX:029-896-3531",
+            "date_modified": "2023-08-01T03:00:00.000Z"
+        },
+        {
             "id": "5ec93349da003fd1720ca3d71e83b49f",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4203",
             "title": "10月入学留学生のチューター募集！",
@@ -136,13 +143,6 @@
             "title": "【再掲】TG⁺プログラム第４期生の募集を開始します",
             "summary": "TG⁺プログラム第4期生の募集を受け付けております。\n【募集期間】\n5月25日～8月31日\n\n【締め切り】\n一次募集　6月30日（金）→締め切りました\n二次募集　8月31日（木）\n\n募集締め切り後、応募者面談等を順次実施します。\n\n書類・面談による選考結果は、9月中旬に通知予定です。\n\n【申し込み】\n参加登録案内（https://tgplus.hass.tsukuba.ac.jp/entry/）を…",
             "date_modified": "2023-07-24T03:00:00.000Z"
-        },
-        {
-            "id": "afdb8a57aacd715d77eb0bad6354af6d",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4177",
-            "title": "再掲【7/23開催】一般公開WEBイベント「発達障害の\"障害\"は、社会のどこにあるのか？」",
-            "summary": "この度、筑波大学ヒューマンエンパワーメント推進局（ダボットプロジェクト）では、一般公開WEBイベント「発達障害の\"障害\"は、社会のどこにあるのか？」を開催いたします。\n\nこのイベントでは、SDGsの理念である「誰一人取り残さない」社会に向けて、本当の意味での「障害の社会モデル」に立ち返って、発達障害の\"障害\"を社会構造上、生じる社会的障壁と捉え、その障壁は社会のどこにあるのか、青年期・成人期を中心…",
-            "date_modified": "2023-07-21T03:00:00.000Z"
         }
     ]
 }
