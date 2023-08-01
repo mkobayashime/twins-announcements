@@ -4,10 +4,21 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Tue, 01 Aug 2023 03:06:05 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 01 Aug 2023 06:08:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
+        <item>
+            <title><![CDATA[令和４年度社会貢献プロジェクト報告書の掲載等について]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4209</link>
+            <guid>89d0b7b3def53d04c5a5b10207d18000</guid>
+            <pubDate>Tue, 01 Aug 2023 03:00:00 GMT</pubDate>
+            <description><![CDATA[つくば・地域連携推進室では、本学と社会・地域との多様な形での連携活動やその取組等を「社会貢献プロジェクト」として採択し、経費支援等を行っています。
+※「社会貢献プロジェクト」は、学生も申請できるものとなっています。
+
+このたび、『令和４年度社会貢献プロジェクト報告書』を下記ホームページに掲載しましたのでお知らせします。
+筑波大学社会貢献・地域連携HP：　https://scpj.tsukuba.a…]]></description>
+        </item>
         <item>
             <title><![CDATA[Tsukuba Universal Alumni Network (TUAN)]]></title>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4208</link>
@@ -221,18 +232,6 @@ HPや学内掲示板では発信しきれない情報も掲載しています。
 
 【詳細】下記URLでご確認ください。
 https://successability-la…]]></description>
-        </item>
-        <item>
-            <title><![CDATA[ASHINAGA 2023 Fall/Winter Internship Program]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4183</link>
-            <guid>b582a2cfdd0793e535959e7cd884d575</guid>
-            <pubDate>Tue, 25 Jul 2023 03:00:00 GMT</pubDate>
-            <description><![CDATA[あしなが育英会がインターンシップを募集します。
-興味のある方は、下のURLから募集フォームを開き、募集要項を熟読のうえ応募してください。
-締切：2023年8月13日（日）（日本時間23:59まで）
-※ 尚、参加条件、必要事項などの詳細は添付のPDFやURLをご参照ください。
-
-Ashinaga Foundation is looking for people who are interested …]]></description>
         </item>
     </channel>
 </rss>
