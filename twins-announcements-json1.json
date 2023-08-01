@@ -5,6 +5,27 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "d78174b8d88e85cff87f751255499f15",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4208",
+            "title": "Tsukuba Universal Alumni Network (TUAN)",
+            "summary": "The University of Tsukuba (UT) will commemorate its 50th anniversary on October 1, 2023, and the 151st anniversary of the establishment of its predecessor, Japan’s first higher education institution, …",
+            "date_modified": "2023-08-01T03:00:00.000Z"
+        },
+        {
+            "id": "1db8e39353bcd8bde70550faa5e616ce",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4207",
+            "title": "＜締切迫る＞【交通費支給】ダイバーシティとキャリアに関するワークショップ参加者の募集",
+            "summary": "現在、私たちの研究グループでは、リシュモンジャパン株式会社※（カルティエ等のブランドを運営する会社）と共同して、多様な属性や特性をもつ学生一人ひとりが安心して働きたいと思える職場とはどのような職場なのか、職場におけるダイバーシティ＆インクルージョン（Diversity & Inclusion）について研究を進めています。\n\n今回、リシュモンジャパン株式会社が主催するワークショップを【8月22日（火…",
+            "date_modified": "2023-08-01T03:00:00.000Z"
+        },
+        {
+            "id": "4a42122ea9c6d3b6625735a10b3ed0f2",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4206",
+            "title": "【急募！】8/23（水）台湾からの大学生との交流イベントについて（場所：筑波大学内）",
+            "summary": "　外務省推進プログラム「JENESYS2023」（※１）の一環として、8月23日（水）に台湾の大学（※２）に通う大学生14名が筑波大学を訪問します。そこで、筑波大学の日本人学生と台湾の学生の交流をはかるため、当日の午後に昼食会と交流会を開催します！\n　なお、台湾の学生は英語を話せる人ばかりではないため、当日は通訳が入ります。そのため台湾からの学生と話す際は日本語を使っても大丈夫です！\n　海外の学生…",
+            "date_modified": "2023-08-01T03:00:00.000Z"
+        },
+        {
             "id": "d07de3a2549e9d1109e19fd73f9711de",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4204",
             "title": "STOP！研究費不正使用！／STOP！Wrongful use of research funding！",
@@ -122,27 +143,6 @@
             "title": "ASHINAGA 2023 Fall/Winter Internship Program",
             "summary": "あしなが育英会がインターンシップを募集します。\n興味のある方は、下のURLから募集フォームを開き、募集要項を熟読のうえ応募してください。\n締切：2023年8月13日（日）（日本時間23:59まで）\n※ 尚、参加条件、必要事項などの詳細は添付のPDFやURLをご参照ください。\n\nAshinaga Foundation is looking for people who are interested …",
             "date_modified": "2023-07-25T03:00:00.000Z"
-        },
-        {
-            "id": "6e835f311b92f58bde9a22c49ac8cd1b",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4182",
-            "title": "経済産業省主催の起業家育成・海外派遣プログラム「J-StarX」",
-            "summary": "経済産業省主催の学生向け海外派遣プログラムについて以下のとおり案内がありましたのでお知らせします。\n------------------------------------------------------------------\n\n本プログラムは経産省の起業家育成・海外派遣プログラムのひとつで、フィンランドに渡航し、起業家精神の醸成を後押しするプログラム「J-StarX」となります。\n\nJ-S…",
-            "date_modified": "2023-07-24T03:00:00.000Z"
-        },
-        {
-            "id": "6eaa1a62b481b74c3eda1d2380ebf124",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4181",
-            "title": "【応募受付中】学群生のアイデアを芽吹かせる研究助成（令和5年度 エンブリオ・プログラム）",
-            "summary": "筑波大学学群生3年次以下のチームが実施する自主的で独創的な研究活動に対し、活動経費の一部を支援します。\n\n１．支援対象の研究\n① 現在および未来社会が抱える(地球規模)課題解決を目指す研究\n② 人、社会、地球の健全な未来の構築に資する研究\n\n２．支援の内容\n① 1件あたり最大50万円。採択数５チーム程度　　※選考結果により金額・チーム数は増減があります。\n② 研究資金の使用例：実験試料等の物品購入…",
-            "date_modified": "2023-07-24T03:00:00.000Z"
-        },
-        {
-            "id": "80b6225c0be04d16e8919a828deecdb8",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4179",
-            "title": "【再掲】TG⁺プログラム第４期生の募集を開始します",
-            "summary": "TG⁺プログラム第4期生の募集を受け付けております。\n【募集期間】\n5月25日～8月31日\n\n【締め切り】\n一次募集　6月30日（金）→締め切りました\n二次募集　8月31日（木）\n\n募集締め切り後、応募者面談等を順次実施します。\n\n書類・面談による選考結果は、9月中旬に通知予定です。\n\n【申し込み】\n参加登録案内（https://tgplus.hass.tsukuba.ac.jp/entry/）を…",
-            "date_modified": "2023-07-24T03:00:00.000Z"
         }
     ]
 }
