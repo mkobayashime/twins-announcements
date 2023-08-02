@@ -5,6 +5,20 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "b4bf30a773998a1532433ec7b1d62a4e",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4212",
+            "title": "【ご案内】国立美術館「ミュージアムで謎解きを　ミュージアムラリー2023」開催のご案内",
+            "summary": "独立行政法人国立美術館から現在開催中のイベントのご案内がありましたのでお知らせします。\nーーーーーーーーーーーーーーーーーーーーーー\n国立美術館キャンパスメンバーズ会員校の皆様\n\n平素よりお世話になっております。\n日頃より国立美術館キャンパスメンバーズ制度をご利用くださいまして、誠にありがとうございます。\n\n国立美術館キャンパスメンバーズをご利用の皆様に、現在開催中の\n「ミュージアムで謎解きを　ミ…",
+            "date_modified": "2023-08-02T03:00:00.000Z"
+        },
+        {
+            "id": "fe96c8539e13ac324abd880369fa4718",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4211",
+            "title": "【9/6開催】教育関係共同利用拠点令和5年度第3回FD/SD研修会「『ゆるスポーツ』から学ぶダイバーシティ＆インクルージョン」",
+            "summary": "多くの方にとって身近な「スポーツ」を入り口に、ダイバーシティ＆インクルージョン（D＆I）に対する理解啓発に貢献することを目的とし、以下の２部構成で研修会を実施いたします。\n\n【開催日時】\n2023年9月6日（水）13時30分～15時30分\n【開催方法】\nオンライン（zoom）にて実施\n【内容】\n・開会挨拶＜5分＞\n太田　圭　（ヒューマンエンパワーメント推進局長）\n\n第一部\n・講演＜80分＞\n澤田　…",
+            "date_modified": "2023-08-02T03:00:00.000Z"
+        },
+        {
             "id": "8080ecbfc682557b92434b8006e7046e",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4210",
             "title": "【募集】INNOVATION WORLD FESTA 2023 ショートムービーコンテスト開催について",
@@ -128,20 +142,6 @@
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4189",
             "title": "達成度評価支援機能の休止のお知らせ／Notice of suspension of achievement assessment in TWINS",
             "summary": "TWINSの一機能である達成度評価支援機能を、保守作業に因り以下の期間休止します。\nご迷惑をおかけしますが、ご協力宜しくお願いします。\nThe function of achievement assessment support in TWINS will be suspended for the following time for maintenance work.\nWe deeply app…",
-            "date_modified": "2023-07-26T03:00:00.000Z"
-        },
-        {
-            "id": "9ff1de565444606b212e4ab0f8ddb965",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4188",
-            "title": "【Ticket Sales】University of Tsukuba Home Game TSUKUBA LIVE! (Aug 5)",
-            "summary": "University of Tsukuba home game TSUKUBA LIVE! Splash!\nThis summer, we will deliver a wild day of excitement to you!\n\nTSUKUBA LIVE! is a series of home games hosted by the university.\nCentered around T…",
-            "date_modified": "2023-07-26T03:00:00.000Z"
-        },
-        {
-            "id": "6b5418cc9a064d8077cdc252d929f19b",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4187",
-            "title": "（BHEキャリア支援）Teams内　キャリア支援情報発信チームのご案内",
-            "summary": "Teams内　キャリア支援情報発信チームのご案内\n\nTeams内にチームを立ち上げ、BHEに日々届く、筑波大生向けの求人・インターンシップ、\n各種イベントなどを漏れなくタイムリーに発信しています。\nHPや学内掲示板では発信しきれない情報も掲載しています。\n現在600名以上の方が参加して活用しています。\n卒業年度別や志望別のチャネルを設けていますので、ぜひ参加してください。\n\n【参加方法】\nチーム名…",
             "date_modified": "2023-07-26T03:00:00.000Z"
         }
     ]
