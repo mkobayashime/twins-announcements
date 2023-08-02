@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "8080ecbfc682557b92434b8006e7046e",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4210",
+            "title": "【募集】INNOVATION WORLD FESTA 2023 ショートムービーコンテスト開催について",
+            "summary": "J-WAVE・筑波大学主催 INNOVATION WORLD FESTA 2023（通称：イノフェス）が今年も開催されます。\n【開催日】10月13日（金）～15日（日）\n今年は「The Future is Now」をテーマに、多数の豪華なアーティストによるライブステージや、イノベーターによるトークセッションをお届けします。\n今回は新たな試みとしてショートムービーコンテストを開催致します。\n20秒以…",
+            "date_modified": "2023-08-02T03:00:00.000Z"
+        },
+        {
             "id": "89d0b7b3def53d04c5a5b10207d18000",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4209",
             "title": "令和４年度社会貢献プロジェクト報告書の掲載等について",
@@ -136,13 +143,6 @@
             "title": "（BHEキャリア支援）Teams内　キャリア支援情報発信チームのご案内",
             "summary": "Teams内　キャリア支援情報発信チームのご案内\n\nTeams内にチームを立ち上げ、BHEに日々届く、筑波大生向けの求人・インターンシップ、\n各種イベントなどを漏れなくタイムリーに発信しています。\nHPや学内掲示板では発信しきれない情報も掲載しています。\n現在600名以上の方が参加して活用しています。\n卒業年度別や志望別のチャネルを設けていますので、ぜひ参加してください。\n\n【参加方法】\nチーム名…",
             "date_modified": "2023-07-26T03:00:00.000Z"
-        },
-        {
-            "id": "c78992d8b6800218c46ede6223db0b9d",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4185",
-            "title": "【見逃し配信2023.08.23まで】一般公開WEBイベント「発達障害の”障害”は、社会のどこにあるのか？」",
-            "summary": "国立研究開発法人科学技術振興機構（JST）社会技術研究開発センター（RISTEX）「SDGsの達成に向けた共創的研究開発プログラム（SOLVE for SDGs）」の研究プロジェクトでは、下記の一般公開WEBイベントを開催しました。この度、見逃し配信を8月23日まで無料で実施いたします。ぜひご視聴ください。\n\n【詳細】下記URLでご確認ください。\nhttps://successability-la…",
-            "date_modified": "2023-07-25T03:00:00.000Z"
         }
     ]
 }
