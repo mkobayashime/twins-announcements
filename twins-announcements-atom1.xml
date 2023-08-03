@@ -2,10 +2,47 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/mkobayashime/twins-announcements</id>
     <title>在学生へのお知らせ | 筑波大学</title>
-    <updated>2023-08-02T21:07:49.312Z</updated>
+    <updated>2023-08-03T01:54:07.545Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://github.com/mkobayashime/twins-announcements"/>
     <subtitle>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</subtitle>
+    <entry>
+        <title type="html"><![CDATA[Planned Interruption to “TWINS”]]></title>
+        <id>4e2e168f7f9fec1d28567a07c089a225</id>
+        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4218"/>
+        <updated>2023-08-03T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[（１）Planned Interruption to “TWINS” and KdB due to TWINS relocation
+TWINS will be relocated due to renovation work at the Academic Computing & Communications Center.
+Due to the above reason, “TWINS”, T…]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TWINS休止についてのお知らせ（２点）]]></title>
+        <id>c8fb4fbab6a72e7f8b1678fb38e5aac0</id>
+        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4217"/>
+        <updated>2023-08-03T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[（１）TWINS移設に伴うTWINSおよびKdB休止のお知らせ
+学術情報メディアセンター改修工事に伴い、TWINSの設置場所を移設します。
+そのため、下記の期間TWINSおよびKdBを休止いたします。
+　TWINS・KdB運転休止期間：
+　　令和5年8月16日(水)　から　8月21日(月)　まで
+　　※21日は動作確認が完了次第復旧いたします。
+
+（２）夏季における休業および、TWINS移設に伴う…]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[学生宿舎管理運営事業者の変更について/ Change of Student Residence Administration Company]]></title>
+        <id>8ab33a9bc8e27956d229e9c52cc30a91</id>
+        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4216"/>
+        <updated>2023-08-03T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[学生宿舎入居者　各位
+
+学生宿舎（グローバルヴィレッジ、一の矢短期ショートステイハウスを除く）の管理運営事業者が、令和5年9月1日より下記のとおり変更となりますのでお知らせいたします。
+
+（変更前）一般財団法人筑波学都資金財団
+（変更後）東京美化株式会社
+
+事業者の変更に伴い、宿舎費等の支払先口座が変更となります。支払先口座の情報につきましては、9月以降東京美化株式会社より通知されますので、ご連絡…]]></summary>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【ご案内】ワークショップ「UTokyo FD Open: Class Design & Micro-Teaching」のご案内]]></title>
         <id>c5e728a3271278c4ab29a4c0ff40fa26</id>
@@ -202,37 +239,5 @@ ECサイトは以下のリンクから
 International Sport Event Management
 
 このコースは英語で行われます。スポーツイベントにおけるマネジメントおよびマーケティングを理解するためのフレームワークを学習します。今回は海外の各地域より、オンラインにてレクチャーをしていただきます。大学院進学を考えている方、英語の授業に興味のある方、イベントマネジメントの授業を体験してみ…]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[（BHEキャリア支援）Teams内　キャリア支援情報発信チームのご案内]]></title>
-        <id>6b5418cc9a064d8077cdc252d929f19b</id>
-        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4197"/>
-        <updated>2023-07-31T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Teams内　キャリア支援情報発信チームのご案内
-
-BHEには、日々、各所から求人・インターンシップ、各種イベントなど、
-筑波大生に向けた案内が届きます。
-HPや学内掲示板では発信しきれない情報をタイムリーに発信していきます。
-6月に立ち上げ、現在650名の方が参加中です。
-卒業年度別や志望別のチャネルを設けていますので、ぜひ活用してください。
-
-【参加方法】
-チーム名「BHEキャリア支援チーム　…]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[⑤8/1【Japanese Chat and Culture Workshop】J-Chat～SCであそぼ～]]></title>
-        <id>f3b6126a38d52f2877a423e8bc796619</id>
-        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4196"/>
-        <updated>2023-07-28T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA["J-Chat～SCであそぼ～" is a face-to-face Japanese chat event that connects international students with Japanese students. You can chill and chat in Japanese while enjoying cultural workshops, at the SC (Stu…]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【開催案内】8/3研究マネジメントセミナー「研究機器・装置と研究室運営」ならびに研究者交流会]]></title>
-        <id>372ffad634b6d5a585946175599e8d0e</id>
-        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4195"/>
-        <updated>2023-07-28T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[　研究機器・装置とそれらをマネジメントする研究室運営は、研究者の日々の活動と切っても切り離せない存在であり、研究機器・装置の効率的な活用は研究パフォーマンスにも影響します。研究機器・装置のマネジメントで悩みを抱えている若手研究者も少なくないと思われます。また、分野を越えた研究機器・装置に触れることで、思わぬ新しい共同研究に繋がる可能性もあります。
-
-　この度、研究機器・装置を題材としたセミナーを実…]]></summary>
     </entry>
 </feed>
