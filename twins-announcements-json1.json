@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "562203ddf2741bf3f5cd9831f8ba2fb0",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4230",
+            "title": "【短期留学・海外インターンシップ】漢陽大学校 (韓国) International Winter School",
+            "summary": "Hanyang International Winter School のお知らせです。関心のある方はウェブサイトより詳細をよく確認し、各自でお申し込みください。質問や疑問点は直接、主催者へお願いします。\n\nProgram Period\n– Session A: December 27, 2023 – January 12, 2024\n– Session B: January 18 – Febru…",
+            "date_modified": "2023-08-07T03:00:00.000Z"
+        },
+        {
             "id": "414aaef2bd99e2fef7beaee81431fe4f",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4229",
             "title": "⑥8/22（Tue）10:00～12：00 　コスプレしちゃおう！/Let’s cosplay!",
@@ -135,13 +142,6 @@
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4211",
             "title": "【9/6開催】教育関係共同利用拠点令和5年度第3回FD/SD研修会「『ゆるスポーツ』から学ぶダイバーシティ＆インクルージョン」",
             "summary": "多くの方にとって身近な「スポーツ」を入り口に、ダイバーシティ＆インクルージョン（D＆I）に対する理解啓発に貢献することを目的とし、以下の２部構成で研修会を実施いたします。\n\n【開催日時】\n2023年9月6日（水）13時30分～15時30分\n【開催方法】\nオンライン（zoom）にて実施\n【内容】\n・開会挨拶＜5分＞\n太田　圭　（ヒューマンエンパワーメント推進局長）\n\n第一部\n・講演＜80分＞\n澤田　…",
-            "date_modified": "2023-08-02T03:00:00.000Z"
-        },
-        {
-            "id": "8080ecbfc682557b92434b8006e7046e",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4210",
-            "title": "【募集】INNOVATION WORLD FESTA 2023 ショートムービーコンテスト開催について",
-            "summary": "J-WAVE・筑波大学主催 INNOVATION WORLD FESTA 2023（通称：イノフェス）が今年も開催されます。\n【開催日】10月13日（金）～15日（日）\n今年は「The Future is Now」をテーマに、多数の豪華なアーティストによるライブステージや、イノベーターによるトークセッションをお届けします。\n今回は新たな試みとしてショートムービーコンテストを開催致します。\n20秒以…",
             "date_modified": "2023-08-02T03:00:00.000Z"
         }
     ]

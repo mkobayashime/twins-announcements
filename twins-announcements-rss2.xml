@@ -4,10 +4,21 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Mon, 07 Aug 2023 06:08:21 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 07 Aug 2023 08:08:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
+        <item>
+            <title><![CDATA[【短期留学・海外インターンシップ】漢陽大学校 (韓国) International Winter School]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4230</link>
+            <guid>562203ddf2741bf3f5cd9831f8ba2fb0</guid>
+            <pubDate>Mon, 07 Aug 2023 03:00:00 GMT</pubDate>
+            <description><![CDATA[Hanyang International Winter School のお知らせです。関心のある方はウェブサイトより詳細をよく確認し、各自でお申し込みください。質問や疑問点は直接、主催者へお願いします。
+
+Program Period
+– Session A: December 27, 2023 – January 12, 2024
+– Session B: January 18 – Febru…]]></description>
+        </item>
         <item>
             <title><![CDATA[⑥8/22（Tue）10:00～12：00 　コスプレしちゃおう！/Let’s cosplay!]]></title>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4229</link>
@@ -245,17 +256,6 @@ UTokyo FD Openは、教員、研究者、大学院生など、所属機関を問
 第一部
 ・講演＜80分＞
 澤田　…]]></description>
-        </item>
-        <item>
-            <title><![CDATA[【募集】INNOVATION WORLD FESTA 2023 ショートムービーコンテスト開催について]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4210</link>
-            <guid>8080ecbfc682557b92434b8006e7046e</guid>
-            <pubDate>Wed, 02 Aug 2023 03:00:00 GMT</pubDate>
-            <description><![CDATA[J-WAVE・筑波大学主催 INNOVATION WORLD FESTA 2023（通称：イノフェス）が今年も開催されます。
-【開催日】10月13日（金）～15日（日）
-今年は「The Future is Now」をテーマに、多数の豪華なアーティストによるライブステージや、イノベーターによるトークセッションをお届けします。
-今回は新たな試みとしてショートムービーコンテストを開催致します。
-20秒以…]]></description>
         </item>
     </channel>
 </rss>
