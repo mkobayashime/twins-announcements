@@ -5,6 +5,27 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "4de25c310941f378a4993ebef8fa0d3a",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4227",
+            "title": "起業家教育プログラム「筑波クリエイティブ・キャンプ・アドバンスト」のご案内",
+            "summary": "2023年度の学群自由科目・大学院共通科目「筑波クリエイティブ・キャンプ・アドバンスト」が10月4日（水）から始まります！\n\n各自の持つビジネスプランをCustomer-Problem Fit/Solution-Problem Fitのプロセスにより検証・ブラッシュアップする最新事業化メソッドカリキュラムを実施します。\n\nLINEを世界的SNSに成長させ、さらに現在はC CHANNELを世界的動画…",
+            "date_modified": "2023-08-07T03:00:00.000Z"
+        },
+        {
+            "id": "7f57faf46ca50ed53238073162e29a4c",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4226",
+            "title": "Microsoft Stream(クラシック)の廃止に関連した注意事項",
+            "summary": "これまでにお知らせしました通り、Microsoft Stream(クラシック)は\n段階的に廃止され、代わりにStream (on SharePoint) が提供されます。\n\n必要に応じて、Stream(クラシック)の動画を Stream(on SharePoint)\nへ移動させてください。\n\nこの際、次のような問題が起こる可能性があります。\n\n　　Stream(クラシック) 上の動画は、その所有者…",
+            "date_modified": "2023-08-07T03:00:00.000Z"
+        },
+        {
+            "id": "3e0810b5c3e1a25bfcfa629402234e4c",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4225",
+            "title": "Notice on Termination of Microsoft Stream(Classic)",
+            "summary": "As announced before, Microsoft Stream (classic) is replaced by Stream (on SharePoint) in a certain term so please move your videos accordingly.\n\nIn this case, the following problems may occur.\n\n・Video…",
+            "date_modified": "2023-08-07T03:00:00.000Z"
+        },
+        {
             "id": "b0a91e2229e0a5da27770a568757c046",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4224",
             "title": "【再掲】TG⁺プログラム第４期生の募集について",
@@ -122,27 +143,6 @@
             "title": "＜締切迫る＞【交通費支給】ダイバーシティとキャリアに関するワークショップ参加者の募集",
             "summary": "現在、私たちの研究グループでは、リシュモンジャパン株式会社※（カルティエ等のブランドを運営する会社）と共同して、多様な属性や特性をもつ学生一人ひとりが安心して働きたいと思える職場とはどのような職場なのか、職場におけるダイバーシティ＆インクルージョン（Diversity & Inclusion）について研究を進めています。\n\n今回、リシュモンジャパン株式会社が主催するワークショップを【8月22日（火…",
             "date_modified": "2023-08-01T03:00:00.000Z"
-        },
-        {
-            "id": "4a42122ea9c6d3b6625735a10b3ed0f2",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4206",
-            "title": "【急募！】8/23（水）台湾からの大学生との交流イベントについて（場所：筑波大学内）",
-            "summary": "　外務省推進プログラム「JENESYS2023」（※１）の一環として、8月23日（水）に台湾の大学（※２）に通う大学生14名が筑波大学を訪問します。そこで、筑波大学の日本人学生と台湾の学生の交流をはかるため、当日の午後に昼食会と交流会を開催します！\n　なお、台湾の学生は英語を話せる人ばかりではないため、当日は通訳が入ります。そのため台湾からの学生と話す際は日本語を使っても大丈夫です！\n　海外の学生…",
-            "date_modified": "2023-08-01T03:00:00.000Z"
-        },
-        {
-            "id": "d07de3a2549e9d1109e19fd73f9711de",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4204",
-            "title": "STOP！研究費不正使用！／STOP！Wrongful use of research funding！",
-            "summary": "学生の皆さんが不正使用に巻き込まれるケースが多発しています。\n不正を見かけた、持ちかけられたら、通報窓口へ。\nコンプライアンス・ハラスメント対策室（学内窓口）\nMail:compliance@un.tsukuba.ac.jp TEL:029-853-2033\nつくば中央法律事務所（学外窓口）\nTEL:029-896-3530  FAX:029-896-3531",
-            "date_modified": "2023-08-01T03:00:00.000Z"
-        },
-        {
-            "id": "5ec93349da003fd1720ca3d71e83b49f",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4203",
-            "title": "10月入学留学生のチューター募集！",
-            "summary": "今年10月の入学に向けて、9月下旬から来日する留学生たちが、つくばで安心して生活をスタートできるよう支援して頂ける方を募集しています！\n今年度は学生16名が入学予定です。グローバル化がどんどん進む現代で、こういった経験はとても重要視されます。あなたのキャリアにとっても強みになるでしょう。\n\n※詳細は添付をご参照ください",
-            "date_modified": "2023-07-31T03:00:00.000Z"
         }
     ]
 }
