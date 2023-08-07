@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "414aaef2bd99e2fef7beaee81431fe4f",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4229",
+            "title": "⑥8/22（Tue）10:00～12：00 　コスプレしちゃおう！/Let’s cosplay!",
+            "summary": "\"J-Chat～SCであそぼ～\" is a face-to-face Japanese chat event that connects international students with Japanese students. You can chill and chat in Japanese while enjoying cultural workshops, at the SC (Stu…",
+            "date_modified": "2023-08-07T03:00:00.000Z"
+        },
+        {
             "id": "6b5418cc9a064d8077cdc252d929f19b",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4228",
             "title": "（BHEキャリア支援）Teams内　キャリア支援情報発信チームのご案内",
@@ -136,13 +143,6 @@
             "title": "【募集】INNOVATION WORLD FESTA 2023 ショートムービーコンテスト開催について",
             "summary": "J-WAVE・筑波大学主催 INNOVATION WORLD FESTA 2023（通称：イノフェス）が今年も開催されます。\n【開催日】10月13日（金）～15日（日）\n今年は「The Future is Now」をテーマに、多数の豪華なアーティストによるライブステージや、イノベーターによるトークセッションをお届けします。\n今回は新たな試みとしてショートムービーコンテストを開催致します。\n20秒以…",
             "date_modified": "2023-08-02T03:00:00.000Z"
-        },
-        {
-            "id": "89d0b7b3def53d04c5a5b10207d18000",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4209",
-            "title": "令和４年度社会貢献プロジェクト報告書の掲載等について",
-            "summary": "つくば・地域連携推進室では、本学と社会・地域との多様な形での連携活動やその取組等を「社会貢献プロジェクト」として採択し、経費支援等を行っています。\n※「社会貢献プロジェクト」は、学生も申請できるものとなっています。\n\nこのたび、『令和４年度社会貢献プロジェクト報告書』を下記ホームページに掲載しましたのでお知らせします。\n筑波大学社会貢献・地域連携HP：　https://scpj.tsukuba.a…",
-            "date_modified": "2023-08-01T03:00:00.000Z"
         }
     ]
 }
