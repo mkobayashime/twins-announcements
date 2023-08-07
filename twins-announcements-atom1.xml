@@ -2,10 +2,26 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/mkobayashime/twins-announcements</id>
     <title>在学生へのお知らせ | 筑波大学</title>
-    <updated>2023-08-07T01:56:02.063Z</updated>
+    <updated>2023-08-07T03:04:19.917Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://github.com/mkobayashime/twins-announcements"/>
     <subtitle>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</subtitle>
+    <entry>
+        <title type="html"><![CDATA[（BHEキャリア支援）Teams内　キャリア支援情報発信チームのご案内]]></title>
+        <id>6b5418cc9a064d8077cdc252d929f19b</id>
+        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4228"/>
+        <updated>2023-08-07T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Teams内　キャリア支援情報発信チームのご案内
+
+BHEには、日々、各所から求人・インターンシップ、各種イベントなど、
+筑波大生に向けた案内が届きます。
+HPや学内掲示板では発信しきれない情報をタイムリーに発信していきます。
+6月に立ち上げ、現在600名以上の方が参加中です。
+卒業年度別や志望別のチャネルを設けていますので、ぜひ活用してください。
+
+【参加方法】
+チーム名「BHEキャリア支援チー…]]></summary>
+    </entry>
     <entry>
         <title type="html"><![CDATA[起業家教育プログラム「筑波クリエイティブ・キャンプ・アドバンスト」のご案内]]></title>
         <id>4de25c310941f378a4993ebef8fa0d3a</id>
@@ -242,14 +258,5 @@ UTokyo FD Openは、教員、研究者、大学院生など、所属機関を問
 
 このたび、『令和４年度社会貢献プロジェクト報告書』を下記ホームページに掲載しましたのでお知らせします。
 筑波大学社会貢献・地域連携HP：　https://scpj.tsukuba.a…]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[＜締切迫る＞【交通費支給】ダイバーシティとキャリアに関するワークショップ参加者の募集]]></title>
-        <id>1db8e39353bcd8bde70550faa5e616ce</id>
-        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4207"/>
-        <updated>2023-08-01T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[現在、私たちの研究グループでは、リシュモンジャパン株式会社※（カルティエ等のブランドを運営する会社）と共同して、多様な属性や特性をもつ学生一人ひとりが安心して働きたいと思える職場とはどのような職場なのか、職場におけるダイバーシティ＆インクルージョン（Diversity & Inclusion）について研究を進めています。
-
-今回、リシュモンジャパン株式会社が主催するワークショップを【8月22日（火…]]></summary>
     </entry>
 </feed>
