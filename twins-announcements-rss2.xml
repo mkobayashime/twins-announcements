@@ -4,7 +4,7 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Mon, 07 Aug 2023 15:09:20 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 07 Aug 2023 21:07:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
@@ -176,9 +176,14 @@ Due to the above reason, “TWINS”, T…]]></description>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4217</link>
             <guid>c8fb4fbab6a72e7f8b1678fb38e5aac0</guid>
             <pubDate>Thu, 03 Aug 2023 03:00:00 GMT</pubDate>
-            <description><![CDATA[（１）Planned Interruption to “TWINS” and KdB due to TWINS relocation
-TWINS will be relocated due to renovation work at the Academic Computing & Communications Center.
-Due to the above reason, “TWINS”, T…]]></description>
+            <description><![CDATA[（１）TWINS移設に伴うTWINSおよびKdB休止のお知らせ
+学術情報メディアセンター改修工事に伴い、TWINSの設置場所を移設します。
+そのため、下記の期間TWINSおよびKdBを休止いたします。
+　TWINS・KdB運転休止期間：
+　　令和5年8月16日(水)　から　8月21日(月)　まで
+　　※21日は動作確認が完了次第復旧いたします。
+
+（２）夏季における休業および、TWINS移設に伴う…]]></description>
         </item>
         <item>
             <title><![CDATA[学生宿舎管理運営事業者の変更について/ Change of Student Residence Administration Company]]></title>
