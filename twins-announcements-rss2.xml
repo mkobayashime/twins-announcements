@@ -4,10 +4,19 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Mon, 07 Aug 2023 21:07:35 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 08 Aug 2023 08:08:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
+        <item>
+            <title><![CDATA[[Notice] 安全保障輸出管理のための誓約書提出のお願いRequest for Submission of Pledge for Security Export Control]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4232</link>
+            <guid>7a9b01b19be73cc89a24e7501dfc664d</guid>
+            <pubDate>Tue, 08 Aug 2023 03:00:00 GMT</pubDate>
+            <description><![CDATA[2023年度大学院修了予定者（退学等を含む）の皆様へ
+To students scheduled to complete graduate school in AY2023 (including withdrawals, etc.)
+安全保障に関連する機微技術流出の防止のために、大学院生は大学院修了時に「外国為替及び外国貿易法」を遵守する誓約書をmanabaから提出していただくことになっています。…]]></description>
+        </item>
         <item>
             <title><![CDATA[【短期留学・海外インターンシップ】漢陽大学校 (韓国) International Winter School]]></title>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4230</link>
@@ -237,25 +246,6 @@ UTokyo FD Openは、教員、研究者、大学院生など、所属機関を問
 
 国立美術館キャンパスメンバーズをご利用の皆様に、現在開催中の
 「ミュージアムで謎解きを　ミ…]]></description>
-        </item>
-        <item>
-            <title><![CDATA[【9/6開催】教育関係共同利用拠点令和5年度第3回FD/SD研修会「『ゆるスポーツ』から学ぶダイバーシティ＆インクルージョン」]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4211</link>
-            <guid>fe96c8539e13ac324abd880369fa4718</guid>
-            <pubDate>Wed, 02 Aug 2023 03:00:00 GMT</pubDate>
-            <description><![CDATA[多くの方にとって身近な「スポーツ」を入り口に、ダイバーシティ＆インクルージョン（D＆I）に対する理解啓発に貢献することを目的とし、以下の２部構成で研修会を実施いたします。
-
-【開催日時】
-2023年9月6日（水）13時30分～15時30分
-【開催方法】
-オンライン（zoom）にて実施
-【内容】
-・開会挨拶＜5分＞
-太田　圭　（ヒューマンエンパワーメント推進局長）
-
-第一部
-・講演＜80分＞
-澤田　…]]></description>
         </item>
     </channel>
 </rss>
