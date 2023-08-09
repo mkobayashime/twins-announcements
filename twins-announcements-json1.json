@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "37107dbbc6dbe920f44138478a48338f",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4233",
+            "title": "【オンライン英語イベント】Tsukuba-Latin America Online Exchange Event",
+            "summary": "＜目的＞\n・グローバルイシューについて、英語でディスカッションを行う\n・言語や文化交流を行う\n・中南米の協定大学の学生と交流を深める\n \n＜概要＞\n・各大学の紹介、文化・言語交流\n・現在のグローバル社会問題への解決策についてのディスカッション\n・グループ発表、質疑応答\n \n＜開催日時 ＞\n2023年9月26日(火)~29日(金)\n8：00～9：30 AM (4日間）\n※4日間すべて参加できる学生を…",
+            "date_modified": "2023-08-09T03:00:00.000Z"
+        },
+        {
             "id": "7a9b01b19be73cc89a24e7501dfc664d",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4232",
             "title": "[Notice] 安全保障輸出管理のための誓約書提出のお願いRequest for Submission of Pledge for Security Export Control",
@@ -135,13 +142,6 @@
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4213",
             "title": "【附属図書館】[期間延長！8月31日まで]電子ブック 全文無料試し読みサービスのご案内",
             "summary": "附属図書館では、教育・学習を支援するため、電子ブックの全文無料試し読みサービスを実施ししています。日本語の電子ブック7万冊を提供している[KinoDen]の無料サービス期間が1ヶ月延長になりました。8月31日までご利用いただけます。\n\nサービス実施期間中は、対象の電子ブックからお好きな部分を1タイトルにつき5分間、試し読みすることができます。また、購入を希望される場合にはリクエストを送信することも…",
-            "date_modified": "2023-08-02T03:00:00.000Z"
-        },
-        {
-            "id": "b4bf30a773998a1532433ec7b1d62a4e",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4212",
-            "title": "【ご案内】国立美術館「ミュージアムで謎解きを　ミュージアムラリー2023」開催のご案内",
-            "summary": "独立行政法人国立美術館から現在開催中のイベントのご案内がありましたのでお知らせします。\nーーーーーーーーーーーーーーーーーーーーーー\n国立美術館キャンパスメンバーズ会員校の皆様\n\n平素よりお世話になっております。\n日頃より国立美術館キャンパスメンバーズ制度をご利用くださいまして、誠にありがとうございます。\n\n国立美術館キャンパスメンバーズをご利用の皆様に、現在開催中の\n「ミュージアムで謎解きを　ミ…",
             "date_modified": "2023-08-02T03:00:00.000Z"
         }
     ]

@@ -4,10 +4,30 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Tue, 08 Aug 2023 21:08:05 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 09 Aug 2023 02:23:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
+        <item>
+            <title><![CDATA[【オンライン英語イベント】Tsukuba-Latin America Online Exchange Event]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4233</link>
+            <guid>37107dbbc6dbe920f44138478a48338f</guid>
+            <pubDate>Wed, 09 Aug 2023 03:00:00 GMT</pubDate>
+            <description><![CDATA[＜目的＞
+・グローバルイシューについて、英語でディスカッションを行う
+・言語や文化交流を行う
+・中南米の協定大学の学生と交流を深める
+ 
+＜概要＞
+・各大学の紹介、文化・言語交流
+・現在のグローバル社会問題への解決策についてのディスカッション
+・グループ発表、質疑応答
+ 
+＜開催日時 ＞
+2023年9月26日(火)~29日(金)
+8：00～9：30 AM (4日間）
+※4日間すべて参加できる学生を…]]></description>
+        </item>
         <item>
             <title><![CDATA[[Notice] 安全保障輸出管理のための誓約書提出のお願いRequest for Submission of Pledge for Security Export Control]]></title>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4232</link>
@@ -231,21 +251,6 @@ UTokyo FD Openは、教員、研究者、大学院生など、所属機関を問
             <description><![CDATA[附属図書館では、教育・学習を支援するため、電子ブックの全文無料試し読みサービスを実施ししています。日本語の電子ブック7万冊を提供している[KinoDen]の無料サービス期間が1ヶ月延長になりました。8月31日までご利用いただけます。
 
 サービス実施期間中は、対象の電子ブックからお好きな部分を1タイトルにつき5分間、試し読みすることができます。また、購入を希望される場合にはリクエストを送信することも…]]></description>
-        </item>
-        <item>
-            <title><![CDATA[【ご案内】国立美術館「ミュージアムで謎解きを　ミュージアムラリー2023」開催のご案内]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4212</link>
-            <guid>b4bf30a773998a1532433ec7b1d62a4e</guid>
-            <pubDate>Wed, 02 Aug 2023 03:00:00 GMT</pubDate>
-            <description><![CDATA[独立行政法人国立美術館から現在開催中のイベントのご案内がありましたのでお知らせします。
-ーーーーーーーーーーーーーーーーーーーーーー
-国立美術館キャンパスメンバーズ会員校の皆様
-
-平素よりお世話になっております。
-日頃より国立美術館キャンパスメンバーズ制度をご利用くださいまして、誠にありがとうございます。
-
-国立美術館キャンパスメンバーズをご利用の皆様に、現在開催中の
-「ミュージアムで謎解きを　ミ…]]></description>
         </item>
     </channel>
 </rss>
