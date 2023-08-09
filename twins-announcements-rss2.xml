@@ -4,10 +4,22 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Wed, 09 Aug 2023 07:03:39 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 09 Aug 2023 08:08:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
+        <item>
+            <title><![CDATA[〔学生企画〕ジェンダー・セクシュアリティ 映画鑑賞交流会を開催します！]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4236</link>
+            <guid>df54f2937718e16df01309b23aeec4a4</guid>
+            <pubDate>Wed, 09 Aug 2023 03:00:00 GMT</pubDate>
+            <description><![CDATA[みなさんこんにちは。BHEジェンダー支援チームのピア（学生）スタッフです。
+6月のPride Month映画鑑賞交流会の大好評を受けて、8月も筑波大学の学生・教職員を対象に映画鑑賞交流会を開催します！​
+映画をぼーっと見るもよし、友達作りに来るもよし！
+【参加費無料・飲食持込み可・入退出自由】で、お気軽にご参加できます。
+イベント詳細については、以下をご確認ください。
+スタッフ一同、皆様のご来場を…]]></description>
+        </item>
         <item>
             <title><![CDATA[【開催通知】令和５年度動物実験系廃棄物取扱い研修会]]></title>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4235</link>
@@ -254,14 +266,6 @@ Due to the above reason, “TWINS”, T…]]></description>
 （変更後）東京美化株式会社
 
 事業者の変更に伴い、宿舎費等の支払先口座が変更となります。支払先口座の情報につきましては、9月以降東京美化株式会社より通知されますので、ご連絡…]]></description>
-        </item>
-        <item>
-            <title><![CDATA[【ご案内】ワークショップ「UTokyo FD Open: Class Design & Micro-Teaching」のご案内]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4215</link>
-            <guid>c5e728a3271278c4ab29a4c0ff40fa26</guid>
-            <pubDate>Wed, 02 Aug 2023 03:00:00 GMT</pubDate>
-            <description><![CDATA[2023年9月4日に東京大学大学総合教育研究センターは、教育力向上にご関心のある方々を対象とした新しいイベント群「UTokyo FD Open」を開催いたします。
-UTokyo FD Openは、教員、研究者、大学院生など、所属機関を問わずどなたでも参加できる、全て英語で行われる独立したワークショップやセッションのシリーズです。UTokyo FD Openのトピックは、主要な教育トピック（授業設計…]]></description>
         </item>
     </channel>
 </rss>

@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/mkobayashime/twins-announcements</id>
     <title>在学生へのお知らせ | 筑波大学</title>
-    <updated>2023-08-09T07:03:39.402Z</updated>
+    <updated>2023-08-09T08:08:30.379Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://github.com/mkobayashime/twins-announcements"/>
     <subtitle>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</subtitle>
+    <entry>
+        <title type="html"><![CDATA[〔学生企画〕ジェンダー・セクシュアリティ 映画鑑賞交流会を開催します！]]></title>
+        <id>df54f2937718e16df01309b23aeec4a4</id>
+        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4236"/>
+        <updated>2023-08-09T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[みなさんこんにちは。BHEジェンダー支援チームのピア（学生）スタッフです。
+6月のPride Month映画鑑賞交流会の大好評を受けて、8月も筑波大学の学生・教職員を対象に映画鑑賞交流会を開催します！​
+映画をぼーっと見るもよし、友達作りに来るもよし！
+【参加費無料・飲食持込み可・入退出自由】で、お気軽にご参加できます。
+イベント詳細については、以下をご確認ください。
+スタッフ一同、皆様のご来場を…]]></summary>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【開催通知】令和５年度動物実験系廃棄物取扱い研修会]]></title>
         <id>50ab6473fdcab8aa538cc77143d49e4f</id>
@@ -252,13 +264,5 @@ Due to the above reason, “TWINS”, T…]]></summary>
 （変更後）東京美化株式会社
 
 事業者の変更に伴い、宿舎費等の支払先口座が変更となります。支払先口座の情報につきましては、9月以降東京美化株式会社より通知されますので、ご連絡…]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【ご案内】ワークショップ「UTokyo FD Open: Class Design & Micro-Teaching」のご案内]]></title>
-        <id>c5e728a3271278c4ab29a4c0ff40fa26</id>
-        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4215"/>
-        <updated>2023-08-02T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[2023年9月4日に東京大学大学総合教育研究センターは、教育力向上にご関心のある方々を対象とした新しいイベント群「UTokyo FD Open」を開催いたします。
-UTokyo FD Openは、教員、研究者、大学院生など、所属機関を問わずどなたでも参加できる、全て英語で行われる独立したワークショップやセッションのシリーズです。UTokyo FD Openのトピックは、主要な教育トピック（授業設計…]]></summary>
     </entry>
 </feed>
