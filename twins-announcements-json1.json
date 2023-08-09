@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "64f7a72300206d7686df9043b225c99b",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4239",
+            "title": "夏季休業を向かえるあたっての注意喚起／【Note】Reminder for the summer vacation",
+            "summary": "　学生の皆さんにあっては、夏季休業期間中にさまざまな活動を予定しているかと思いますが、開放的な気分になる時期にこそ、油断が生じ様々なトラブルに巻き込まれる可能性があります。\n　スチューデントサポートセンターホームページに詳細を掲載していますので、ご確認いただき、安全で有意義な夏季休業を過ごしてください。\n\n　スチューデントサポートセンターホームページURL\n　https://ssc.sec.tsu…",
+            "date_modified": "2023-08-09T03:00:00.000Z"
+        },
+        {
             "id": "7b9c4ed1da155da9abd599d8998313d1",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4238",
             "title": "【Library Workshops】Videos now available",
@@ -135,13 +142,6 @@
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4219",
             "title": "学生・教職員を対象とした海外渡航後の発熱・下痢・発疹・感冒症状の診療のご案内について",
             "summary": "学生・教職員を対象とした海外渡航後の発熱・下痢・発疹・感冒症状の診療のご案内について／Notice of Medical Treatment for Fever, Diarrhea, Rash and Cold Symptoms after Traveling Abroad\n\n海外渡航後に発熱・下痢・発疹などが認められる教職員・学生は、筑波大学附属病院（感染症診療専門棟）で診断・治療が受けられるよ…",
-            "date_modified": "2023-08-03T03:00:00.000Z"
-        },
-        {
-            "id": "4e2e168f7f9fec1d28567a07c089a225",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4218",
-            "title": "Planned Interruption to “TWINS”",
-            "summary": "（１）Planned Interruption to “TWINS” and KdB due to TWINS relocation\nTWINS will be relocated due to renovation work at the Academic Computing & Communications Center.\nDue to the above reason, “TWINS”, T…",
             "date_modified": "2023-08-03T03:00:00.000Z"
         }
     ]
