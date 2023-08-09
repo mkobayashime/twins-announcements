@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "50ab6473fdcab8aa538cc77143d49e4f",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4235",
+            "title": "【開催通知】令和５年度動物実験系廃棄物取扱い研修会",
+            "summary": "下記のとおり、動物実験系廃棄物の排出者向けに、具体的な解説を交えて処理依頼上の注意事項を伝え、\n適切な排出法の周知を目的に、研修会を開催いたします。\n\n　　　　　　　　　　　　　　　　　　記\n\n１．日 時  令和５年９月２９日（金）１３時５０分～１４時１０分\n\n２．場 所  動物実験系廃棄物収集場所　※西地区（医学）実験廃水処理施設内\n\n３．内 容　（１）動物実験系廃棄物の処理申込について\n　　　…",
+            "date_modified": "2023-08-09T03:00:00.000Z"
+        },
+        {
             "id": "01634076dda4553c2d161acc73941cbb",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4234",
             "title": "10月入学留学生のチューター募集！！",
@@ -135,13 +142,6 @@
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4215",
             "title": "【ご案内】ワークショップ「UTokyo FD Open: Class Design & Micro-Teaching」のご案内",
             "summary": "2023年9月4日に東京大学大学総合教育研究センターは、教育力向上にご関心のある方々を対象とした新しいイベント群「UTokyo FD Open」を開催いたします。\nUTokyo FD Openは、教員、研究者、大学院生など、所属機関を問わずどなたでも参加できる、全て英語で行われる独立したワークショップやセッションのシリーズです。UTokyo FD Openのトピックは、主要な教育トピック（授業設計…",
-            "date_modified": "2023-08-02T03:00:00.000Z"
-        },
-        {
-            "id": "031d0959cd68cdb46eb4b8887b55ad21",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4214",
-            "title": "【Library】[Period extended]Free Ebook Trial Service(-Aug.31)",
-            "summary": "In order to support teaching and learning, we provide an eBook trial service. Ebooks on KinoDen platform, provided by Kinokuniya Bookstore, has extended its free service period by one month and will b…",
             "date_modified": "2023-08-02T03:00:00.000Z"
         }
     ]
