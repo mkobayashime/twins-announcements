@@ -2,10 +2,32 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/mkobayashime/twins-announcements</id>
     <title>在学生へのお知らせ | 筑波大学</title>
-    <updated>2023-08-10T00:31:59.783Z</updated>
+    <updated>2023-08-10T02:32:05.029Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://github.com/mkobayashime/twins-announcements"/>
     <subtitle>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</subtitle>
+    <entry>
+        <title type="html"><![CDATA[【再掲】TG⁺プログラム第４期生の募集について]]></title>
+        <id>b0a91e2229e0a5da27770a568757c046</id>
+        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4241"/>
+        <updated>2023-08-10T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[TG⁺プログラム第4期生を募集しています！
+
+【募集期間】
+5月25日～8月31日
+
+【締め切り】
+一次募集　6月30日（金）→終了しました
+二次募集　8月31日（木）
+
+募集締め切り後、応募者面談等を実施します。
+
+二次募集は、一次募集の応募者数に関わらず必ず実施されます。
+書類・面談による選考結果は、9月中旬に通知予定です。
+
+【申し込み】
+参加登録案内（https://tgplus.hass…]]></summary>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【期間限定8/15まで】名入れグッズご注文受付中！]]></title>
         <id>aa5c7da53819f34db580b8e9c1fbcd9c</id>
@@ -263,15 +285,5 @@ Target Group: Stu…]]></summary>
 ２．廃棄物及び実験排水の取扱いについて
 
 …]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【お知らせ】オンラインタウンミーティングについて（つくば市役所から）]]></title>
-        <id>99f0d819441fc5268588d195759f4965</id>
-        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4220"/>
-        <updated>2023-08-03T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[　つくば市役所から、以下のとおりオンラインタウンミーティングの案内がありましたので、お知らせいたします。
-
-　市長と市民の皆さんが、これからのつくばのまちづくりについて意見交換を行うタウンミーティングをオンラインで開催します。場所を問わずご参加いただけますので、「市長に質問したい」「市長の話を聞いてみたい」など、興味のある方は、ぜひお申し込みいただけますと幸いです。
-事前申込制となっておりますので…]]></summary>
     </entry>
 </feed>

@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "b0a91e2229e0a5da27770a568757c046",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4241",
+            "title": "【再掲】TG⁺プログラム第４期生の募集について",
+            "summary": "TG⁺プログラム第4期生を募集しています！\n\n【募集期間】\n5月25日～8月31日\n\n【締め切り】\n一次募集　6月30日（金）→終了しました\n二次募集　8月31日（木）\n\n募集締め切り後、応募者面談等を実施します。\n\n二次募集は、一次募集の応募者数に関わらず必ず実施されます。\n書類・面談による選考結果は、9月中旬に通知予定です。\n\n【申し込み】\n参加登録案内（https://tgplus.hass…",
+            "date_modified": "2023-08-10T03:00:00.000Z"
+        },
+        {
             "id": "aa5c7da53819f34db580b8e9c1fbcd9c",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4240",
             "title": "【期間限定8/15まで】名入れグッズご注文受付中！",
@@ -136,13 +143,6 @@
             "title": "【見逃し配信2023.10.31まで】学生の皆さんが安心して化学実験を行うための研修会（英語字幕付き）",
             "summary": "令和5年6月12日に開催した「学生の皆さんが安心して化学実験を行うための研修会」の英語字幕付き見逃し配信を行います。当日参加できなかった方、もう一度ご覧になりたい方はぜひご利用ください。\n\n対象者：実験に携わる学生（学群・大学院生）及び化学物質を排出する者\n(教員・研究員・技術職員の方もご視聴いただけます。)\n\n内容：\n１．化学物質の安全な取扱いについて\n２．廃棄物及び実験排水の取扱いについて\n\n…",
             "date_modified": "2023-08-04T03:00:00.000Z"
-        },
-        {
-            "id": "99f0d819441fc5268588d195759f4965",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4220",
-            "title": "【お知らせ】オンラインタウンミーティングについて（つくば市役所から）",
-            "summary": "　つくば市役所から、以下のとおりオンラインタウンミーティングの案内がありましたので、お知らせいたします。\n\n　市長と市民の皆さんが、これからのつくばのまちづくりについて意見交換を行うタウンミーティングをオンラインで開催します。場所を問わずご参加いただけますので、「市長に質問したい」「市長の話を聞いてみたい」など、興味のある方は、ぜひお申し込みいただけますと幸いです。\n事前申込制となっておりますので…",
-            "date_modified": "2023-08-03T03:00:00.000Z"
         }
     ]
 }
