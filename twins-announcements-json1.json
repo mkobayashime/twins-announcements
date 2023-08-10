@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "5c4f94aeeab11b14d6b067a099837065",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4242",
+            "title": "Election Results Announced!　TUAN Primary Voting",
+            "summary": "Thank you for primary voting for Tsukuba Universal Alumni Network (TUAN) representatives!\n\nTotal 922 votes were cast (688 votes from overseas alumni and 234 votes from current international students).…",
+            "date_modified": "2023-08-10T03:00:00.000Z"
+        },
+        {
             "id": "b0a91e2229e0a5da27770a568757c046",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4241",
             "title": "【再掲】TG⁺プログラム第４期生の募集について",
@@ -135,13 +142,6 @@
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4222",
             "title": "[Rerun till Oct. 31,2023]Seminar for students to use chemicals in experiments safely",
             "summary": "Above seminar with English subtitles is now available for rerun.\nIf you were unable to attend the seminar or would like to watch it again, please take advantage of this opportunity.\n\nTarget Group: Stu…",
-            "date_modified": "2023-08-04T03:00:00.000Z"
-        },
-        {
-            "id": "1e35ce201bc9186375ce4b7f2513f96f",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4221",
-            "title": "【見逃し配信2023.10.31まで】学生の皆さんが安心して化学実験を行うための研修会（英語字幕付き）",
-            "summary": "令和5年6月12日に開催した「学生の皆さんが安心して化学実験を行うための研修会」の英語字幕付き見逃し配信を行います。当日参加できなかった方、もう一度ご覧になりたい方はぜひご利用ください。\n\n対象者：実験に携わる学生（学群・大学院生）及び化学物質を排出する者\n(教員・研究員・技術職員の方もご視聴いただけます。)\n\n内容：\n１．化学物質の安全な取扱いについて\n２．廃棄物及び実験排水の取扱いについて\n\n…",
             "date_modified": "2023-08-04T03:00:00.000Z"
         }
     ]

@@ -4,10 +4,19 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Thu, 10 Aug 2023 02:32:05 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 10 Aug 2023 09:04:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
+        <item>
+            <title><![CDATA[Election Results Announced!　TUAN Primary Voting]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4242</link>
+            <guid>5c4f94aeeab11b14d6b067a099837065</guid>
+            <pubDate>Thu, 10 Aug 2023 03:00:00 GMT</pubDate>
+            <description><![CDATA[Thank you for primary voting for Tsukuba Universal Alumni Network (TUAN) representatives!
+
+Total 922 votes were cast (688 votes from overseas alumni and 234 votes from current international students).…]]></description>
+        </item>
         <item>
             <title><![CDATA[【再掲】TG⁺プログラム第４期生の募集について]]></title>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4241</link>
@@ -271,22 +280,6 @@ HPや学内掲示板では発信しきれない情報をタイムリーに発信
 If you were unable to attend the seminar or would like to watch it again, please take advantage of this opportunity.
 
 Target Group: Stu…]]></description>
-        </item>
-        <item>
-            <title><![CDATA[【見逃し配信2023.10.31まで】学生の皆さんが安心して化学実験を行うための研修会（英語字幕付き）]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4221</link>
-            <guid>1e35ce201bc9186375ce4b7f2513f96f</guid>
-            <pubDate>Fri, 04 Aug 2023 03:00:00 GMT</pubDate>
-            <description><![CDATA[令和5年6月12日に開催した「学生の皆さんが安心して化学実験を行うための研修会」の英語字幕付き見逃し配信を行います。当日参加できなかった方、もう一度ご覧になりたい方はぜひご利用ください。
-
-対象者：実験に携わる学生（学群・大学院生）及び化学物質を排出する者
-(教員・研究員・技術職員の方もご視聴いただけます。)
-
-内容：
-１．化学物質の安全な取扱いについて
-２．廃棄物及び実験排水の取扱いについて
-
-…]]></description>
         </item>
     </channel>
 </rss>
