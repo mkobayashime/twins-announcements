@@ -4,10 +4,28 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Wed, 09 Aug 2023 21:07:51 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 10 Aug 2023 00:31:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
+        <item>
+            <title><![CDATA[【期間限定8/15まで】名入れグッズご注文受付中！]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4240</link>
+            <guid>aa5c7da53819f34db580b8e9c1fbcd9c</guid>
+            <pubDate>Thu, 10 Aug 2023 03:00:00 GMT</pubDate>
+            <description><![CDATA[昨年大好評だった名入れ記念グッズが、この度、9月卒業・入学のタイミングに合わせて、期間限定で受注販売いたします！
+
+どうぞご覧いただき、皆様の「日常生活」、「思い出」、「プレゼント🎁」などにご活用いただけますと幸いです。
+
+
+
+ECサイトは以下のリンクから。
+
+ご注文受付期間：8月15日（火）まで
+
+※受付期間が大変短くなっていますのでご注意ください。
+※こちらのサイトの商品は10％割引クーポン…]]></description>
+        </item>
         <item>
             <title><![CDATA[夏季休業を向かえるあたっての注意喚起／【Note】Reminder for the summer vacation]]></title>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4239</link>
@@ -257,15 +275,6 @@ Target Group: Stu…]]></description>
 
 　市長と市民の皆さんが、これからのつくばのまちづくりについて意見交換を行うタウンミーティングをオンラインで開催します。場所を問わずご参加いただけますので、「市長に質問したい」「市長の話を聞いてみたい」など、興味のある方は、ぜひお申し込みいただけますと幸いです。
 事前申込制となっておりますので…]]></description>
-        </item>
-        <item>
-            <title><![CDATA[学生・教職員を対象とした海外渡航後の発熱・下痢・発疹・感冒症状の診療のご案内について]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4219</link>
-            <guid>3e967dbf01ead4ac621d08f380a3aeb6</guid>
-            <pubDate>Thu, 03 Aug 2023 03:00:00 GMT</pubDate>
-            <description><![CDATA[学生・教職員を対象とした海外渡航後の発熱・下痢・発疹・感冒症状の診療のご案内について／Notice of Medical Treatment for Fever, Diarrhea, Rash and Cold Symptoms after Traveling Abroad
-
-海外渡航後に発熱・下痢・発疹などが認められる教職員・学生は、筑波大学附属病院（感染症診療専門棟）で診断・治療が受けられるよ…]]></description>
         </item>
     </channel>
 </rss>

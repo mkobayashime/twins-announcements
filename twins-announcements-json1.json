@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "aa5c7da53819f34db580b8e9c1fbcd9c",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4240",
+            "title": "【期間限定8/15まで】名入れグッズご注文受付中！",
+            "summary": "昨年大好評だった名入れ記念グッズが、この度、9月卒業・入学のタイミングに合わせて、期間限定で受注販売いたします！\n\nどうぞご覧いただき、皆様の「日常生活」、「思い出」、「プレゼント🎁」などにご活用いただけますと幸いです。\n\n\n\nECサイトは以下のリンクから。\n\nご注文受付期間：8月15日（火）まで\n\n※受付期間が大変短くなっていますのでご注意ください。\n※こちらのサイトの商品は10％割引クーポン…",
+            "date_modified": "2023-08-10T03:00:00.000Z"
+        },
+        {
             "id": "64f7a72300206d7686df9043b225c99b",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4239",
             "title": "夏季休業を向かえるあたっての注意喚起／【Note】Reminder for the summer vacation",
@@ -135,13 +142,6 @@
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4220",
             "title": "【お知らせ】オンラインタウンミーティングについて（つくば市役所から）",
             "summary": "　つくば市役所から、以下のとおりオンラインタウンミーティングの案内がありましたので、お知らせいたします。\n\n　市長と市民の皆さんが、これからのつくばのまちづくりについて意見交換を行うタウンミーティングをオンラインで開催します。場所を問わずご参加いただけますので、「市長に質問したい」「市長の話を聞いてみたい」など、興味のある方は、ぜひお申し込みいただけますと幸いです。\n事前申込制となっておりますので…",
-            "date_modified": "2023-08-03T03:00:00.000Z"
-        },
-        {
-            "id": "3e967dbf01ead4ac621d08f380a3aeb6",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4219",
-            "title": "学生・教職員を対象とした海外渡航後の発熱・下痢・発疹・感冒症状の診療のご案内について",
-            "summary": "学生・教職員を対象とした海外渡航後の発熱・下痢・発疹・感冒症状の診療のご案内について／Notice of Medical Treatment for Fever, Diarrhea, Rash and Cold Symptoms after Traveling Abroad\n\n海外渡航後に発熱・下痢・発疹などが認められる教職員・学生は、筑波大学附属病院（感染症診療専門棟）で診断・治療が受けられるよ…",
             "date_modified": "2023-08-03T03:00:00.000Z"
         }
     ]
