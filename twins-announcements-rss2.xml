@@ -4,7 +4,7 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Tue, 15 Aug 2023 09:08:31 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 15 Aug 2023 15:08:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
@@ -73,9 +73,11 @@ ECサイトは以下のリンクから。
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4238</link>
             <guid>7b9c4ed1da155da9abd599d8998313d1</guid>
             <pubDate>Wed, 09 Aug 2023 03:00:00 GMT</pubDate>
-            <description><![CDATA[At the library, we hold workshops and orientations on how to use the database and how to use the library, which are useful for obtaining literature information necessary for paper writing.
+            <description><![CDATA[　学生の皆さんにあっては、夏季休業期間中にさまざまな活動を予定しているかと思いますが、開放的な気分になる時期にこそ、油断が生じ様々なトラブルに巻き込まれる可能性があります。
+　スチューデントサポートセンターホームページに詳細を掲載していますので、ご確認いただき、安全で有意義な夏季休業を過ごしてください。
 
-Videos and…]]></description>
+　スチューデントサポートセンターホームページURL
+　https://ssc.sec.tsu…]]></description>
         </item>
         <item>
             <title><![CDATA[【図書館講習会】講習会の動画を視聴できます]]></title>
@@ -99,12 +101,17 @@ manabaでコース登録をして、ぜひご視聴ください。
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4236</link>
             <guid>df54f2937718e16df01309b23aeec4a4</guid>
             <pubDate>Wed, 09 Aug 2023 03:00:00 GMT</pubDate>
-            <description><![CDATA[みなさんこんにちは。BHEジェンダー支援チームのピア（学生）スタッフです。
-6月のPride Month映画鑑賞交流会の大好評を受けて、8月も筑波大学の学生・教職員を対象に映画鑑賞交流会を開催します！​
-映画をぼーっと見るもよし、友達作りに来るもよし！
-【参加費無料・飲食持込み可・入退出自由】で、お気軽にご参加できます。
-イベント詳細については、以下をご確認ください。
-スタッフ一同、皆様のご来場を…]]></description>
+            <description><![CDATA[附属図書館では、論文作成や研究に必要な文献情報を入手するのに役立つ、
+データベースの使い方・図書館の使い方などの講習会・オリエンテーションを開催しています。
+
+講習会の動画や資料をmanabaで公開中です。
+自宅や旅行先でも視聴可能なので、夏休みにおすすめ！
+manabaでコース登録をして、ぜひご視聴ください。
+
+コースコード : xx20310
+コース名　　 : 附属図書館講習会
+
+詳細は、下記…]]></description>
         </item>
         <item>
             <title><![CDATA[【開催通知】令和５年度動物実験系廃棄物取扱い研修会]]></title>
