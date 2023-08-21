@@ -2,10 +2,27 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/mkobayashime/twins-announcements</id>
     <title>在学生へのお知らせ | 筑波大学</title>
-    <updated>2023-08-21T01:39:17.242Z</updated>
+    <updated>2023-08-21T07:07:30.114Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://github.com/mkobayashime/twins-announcements"/>
     <subtitle>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</subtitle>
+    <entry>
+        <title type="html"><![CDATA[（BHEキャリア支援）Teams内　キャリア支援情報発信チームのご案内]]></title>
+        <id>6b5418cc9a064d8077cdc252d929f19b</id>
+        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4245"/>
+        <updated>2023-08-21T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Teams内　キャリア支援情報発信チームのご案内
+
+BHEには、日々、各所から求人・インターンシップ、各種イベントなど、
+筑波大生に向けた案内が届きます。
+HPや学内掲示板では発信しきれない情報をタイムリーに発信していきます。
+現在６８０名の方が参加中です。
+卒業年度別や志望別のチャネルを設けていますので、ぜひ活用してください。
+
+【参加方法】
+チーム名「BHEキャリア支援チーム　情報発信」
+以下…]]></summary>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【参加者募集 締切9/1】海洋開発課題解決型プロジェクト演習（Project based Learning：PBL）]]></title>
         <id>90b2634e7f0b153f1d4abed19e8050cf</id>
@@ -250,27 +267,5 @@ LINEを世界的SNSに成長させ、さらに現在はC CHANNELを世界的動�
 In this case, the following problems may occur.
 
 ・Video…]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【再掲】TG⁺プログラム第４期生の募集について]]></title>
-        <id>b0a91e2229e0a5da27770a568757c046</id>
-        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4224"/>
-        <updated>2023-08-04T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[G⁺プログラム第4期生を募集しています！
-
-【募集期間】
-5月25日～8月31日
-
-【締め切り】
-一次募集　6月30日（金）→終了しました
-二次募集　8月31日（木）
-
-募集締め切り後、応募者面談等を実施します。
-
-二次募集は、一次募集の応募者数に関わらず必ず実施されます。
-書類・面談による選考結果は、9月中旬に通知予定です。
-
-【申し込み】
-参加登録案内（https://tgplus.hass.…]]></summary>
     </entry>
 </feed>

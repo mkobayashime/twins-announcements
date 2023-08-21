@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "6b5418cc9a064d8077cdc252d929f19b",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4245",
+            "title": "（BHEキャリア支援）Teams内　キャリア支援情報発信チームのご案内",
+            "summary": "Teams内　キャリア支援情報発信チームのご案内\n\nBHEには、日々、各所から求人・インターンシップ、各種イベントなど、\n筑波大生に向けた案内が届きます。\nHPや学内掲示板では発信しきれない情報をタイムリーに発信していきます。\n現在６８０名の方が参加中です。\n卒業年度別や志望別のチャネルを設けていますので、ぜひ活用してください。\n\n【参加方法】\nチーム名「BHEキャリア支援チーム　情報発信」\n以下…",
+            "date_modified": "2023-08-21T03:00:00.000Z"
+        },
+        {
             "id": "90b2634e7f0b153f1d4abed19e8050cf",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4244",
             "title": "【参加者募集 締切9/1】海洋開発課題解決型プロジェクト演習（Project based Learning：PBL）",
@@ -136,13 +143,6 @@
             "title": "Notice on Termination of Microsoft Stream(Classic)",
             "summary": "As announced before, Microsoft Stream (classic) is replaced by Stream (on SharePoint) in a certain term so please move your videos accordingly.\n\nIn this case, the following problems may occur.\n\n・Video…",
             "date_modified": "2023-08-07T03:00:00.000Z"
-        },
-        {
-            "id": "b0a91e2229e0a5da27770a568757c046",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4224",
-            "title": "【再掲】TG⁺プログラム第４期生の募集について",
-            "summary": "G⁺プログラム第4期生を募集しています！\n\n【募集期間】\n5月25日～8月31日\n\n【締め切り】\n一次募集　6月30日（金）→終了しました\n二次募集　8月31日（木）\n\n募集締め切り後、応募者面談等を実施します。\n\n二次募集は、一次募集の応募者数に関わらず必ず実施されます。\n書類・面談による選考結果は、9月中旬に通知予定です。\n\n【申し込み】\n参加登録案内（https://tgplus.hass.…",
-            "date_modified": "2023-08-04T03:00:00.000Z"
         }
     ]
 }
