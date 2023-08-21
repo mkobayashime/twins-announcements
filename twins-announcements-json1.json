@@ -5,6 +5,20 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "90b2634e7f0b153f1d4abed19e8050cf",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4244",
+            "title": "【参加者募集 締切9/1】海洋開発課題解決型プロジェクト演習（Project based Learning：PBL）",
+            "summary": "日本財団オーシャンイノベーションコンソーシアムでは、海洋開発人材の育成のため、課題解決型プロジェクト演習（Project based Learning：PBL）を実施します。\nPBLとは、解決方法が複数ある課題について、自ら仮説を立て、調査し、検証するということを繰り返すプロセスで、今回の演習は、本コンソーシアムの会員企業である以下の8社が参画。各企業のテーマに対し3、4名のチームで約3ヶ月かけ、…",
+            "date_modified": "2023-08-21T03:00:00.000Z"
+        },
+        {
+            "id": "62373b1339f386c32ecd81d800f440a8",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4243",
+            "title": "【再掲】〔学生企画〕ジェンダー・セクシュアリティ 映画鑑賞交流会を開催します！",
+            "summary": "みなさんこんにちは。BHEジェンダー支援チームのピア（学生）スタッフです。\n6月のPride Month映画鑑賞交流会の大好評を受けて、8月も筑波大学の学生・教職員を対象に映画鑑賞交流会を開催します！\n映画をぼーっと見るもよし、友達作りに来るもよし！\n【参加費無料・飲食持込み可・入退出自由】で、お気軽にご参加できます。\nイベント詳細については、以下をご確認ください。\nスタッフ一同、皆様のご来場を心…",
+            "date_modified": "2023-08-21T03:00:00.000Z"
+        },
+        {
             "id": "5c4f94aeeab11b14d6b067a099837065",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4242",
             "title": "Election Results Announced!　TUAN Primary Voting",
@@ -128,20 +142,6 @@
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4224",
             "title": "【再掲】TG⁺プログラム第４期生の募集について",
             "summary": "G⁺プログラム第4期生を募集しています！\n\n【募集期間】\n5月25日～8月31日\n\n【締め切り】\n一次募集　6月30日（金）→終了しました\n二次募集　8月31日（木）\n\n募集締め切り後、応募者面談等を実施します。\n\n二次募集は、一次募集の応募者数に関わらず必ず実施されます。\n書類・面談による選考結果は、9月中旬に通知予定です。\n\n【申し込み】\n参加登録案内（https://tgplus.hass.…",
-            "date_modified": "2023-08-04T03:00:00.000Z"
-        },
-        {
-            "id": "6b5418cc9a064d8077cdc252d929f19b",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4223",
-            "title": "（BHEキャリア支援）Teams内　キャリア支援情報発信チームのご案内",
-            "summary": "Teams内　キャリア支援情報発信チームのご案内\n\nBHEには、日々、各所から求人・インターンシップ、各種イベントなど、\n筑波大生に向けた案内が届きます。\nHPや学内掲示板では発信しきれない情報をタイムリーに発信していきます。\n6月に立ち上げ、現在600名以上の方が参加中です。\n卒業年度別や志望別のチャネルを設けていますので、ぜひ活用してください。\n\n【参加方法】\nチーム名「BHEキャリア支援チー…",
-            "date_modified": "2023-08-04T03:00:00.000Z"
-        },
-        {
-            "id": "84009c15c5e99a4980b3a81d9d2c80f2",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4222",
-            "title": "[Rerun till Oct. 31,2023]Seminar for students to use chemicals in experiments safely",
-            "summary": "Above seminar with English subtitles is now available for rerun.\nIf you were unable to attend the seminar or would like to watch it again, please take advantage of this opportunity.\n\nTarget Group: Stu…",
             "date_modified": "2023-08-04T03:00:00.000Z"
         }
     ]

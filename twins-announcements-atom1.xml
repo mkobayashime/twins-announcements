@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/mkobayashime/twins-announcements</id>
     <title>在学生へのお知らせ | 筑波大学</title>
-    <updated>2023-08-15T21:07:50.654Z</updated>
+    <updated>2023-08-21T01:39:17.242Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://github.com/mkobayashime/twins-announcements"/>
     <subtitle>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</subtitle>
+    <entry>
+        <title type="html"><![CDATA[【参加者募集 締切9/1】海洋開発課題解決型プロジェクト演習（Project based Learning：PBL）]]></title>
+        <id>90b2634e7f0b153f1d4abed19e8050cf</id>
+        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4244"/>
+        <updated>2023-08-21T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[日本財団オーシャンイノベーションコンソーシアムでは、海洋開発人材の育成のため、課題解決型プロジェクト演習（Project based Learning：PBL）を実施します。
+PBLとは、解決方法が複数ある課題について、自ら仮説を立て、調査し、検証するということを繰り返すプロセスで、今回の演習は、本コンソーシアムの会員企業である以下の8社が参画。各企業のテーマに対し3、4名のチームで約3ヶ月かけ、…]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【再掲】〔学生企画〕ジェンダー・セクシュアリティ 映画鑑賞交流会を開催します！]]></title>
+        <id>62373b1339f386c32ecd81d800f440a8</id>
+        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4243"/>
+        <updated>2023-08-21T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[みなさんこんにちは。BHEジェンダー支援チームのピア（学生）スタッフです。
+6月のPride Month映画鑑賞交流会の大好評を受けて、8月も筑波大学の学生・教職員を対象に映画鑑賞交流会を開催します！
+映画をぼーっと見るもよし、友達作りに来るもよし！
+【参加費無料・飲食持込み可・入退出自由】で、お気軽にご参加できます。
+イベント詳細については、以下をご確認ください。
+スタッフ一同、皆様のご来場を心…]]></summary>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Election Results Announced!　TUAN Primary Voting]]></title>
         <id>5c4f94aeeab11b14d6b067a099837065</id>
@@ -252,31 +272,5 @@ In this case, the following problems may occur.
 
 【申し込み】
 参加登録案内（https://tgplus.hass.…]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[（BHEキャリア支援）Teams内　キャリア支援情報発信チームのご案内]]></title>
-        <id>6b5418cc9a064d8077cdc252d929f19b</id>
-        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4223"/>
-        <updated>2023-08-04T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Teams内　キャリア支援情報発信チームのご案内
-
-BHEには、日々、各所から求人・インターンシップ、各種イベントなど、
-筑波大生に向けた案内が届きます。
-HPや学内掲示板では発信しきれない情報をタイムリーに発信していきます。
-6月に立ち上げ、現在600名以上の方が参加中です。
-卒業年度別や志望別のチャネルを設けていますので、ぜひ活用してください。
-
-【参加方法】
-チーム名「BHEキャリア支援チー…]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[Rerun till Oct. 31,2023]Seminar for students to use chemicals in experiments safely]]></title>
-        <id>84009c15c5e99a4980b3a81d9d2c80f2</id>
-        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4222"/>
-        <updated>2023-08-04T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Above seminar with English subtitles is now available for rerun.
-If you were unable to attend the seminar or would like to watch it again, please take advantage of this opportunity.
-
-Target Group: Stu…]]></summary>
     </entry>
 </feed>
