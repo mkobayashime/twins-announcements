@@ -4,7 +4,7 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Mon, 21 Aug 2023 09:12:25 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 21 Aug 2023 15:12:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
@@ -211,13 +211,6 @@ Program Period
 – Session B: January 18 – Febru…]]></description>
         </item>
         <item>
-            <title><![CDATA[⑥8/22（Tue）10:00～12：00 　コスプレしちゃおう！/Let’s cosplay!]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4229</link>
-            <guid>414aaef2bd99e2fef7beaee81431fe4f</guid>
-            <pubDate>Mon, 07 Aug 2023 03:00:00 GMT</pubDate>
-            <description><![CDATA["J-Chat～SCであそぼ～" is a face-to-face Japanese chat event that connects international students with Japanese students. You can chill and chat in Japanese while enjoying cultural workshops, at the SC (Stu…]]></description>
-        </item>
-        <item>
             <title><![CDATA[（BHEキャリア支援）Teams内　キャリア支援情報発信チームのご案内]]></title>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4228</link>
             <guid>6b5418cc9a064d8077cdc252d929f19b</guid>
@@ -269,6 +262,28 @@ LINEを世界的SNSに成長させ、さらに現在はC CHANNELを世界的動�
 In this case, the following problems may occur.
 
 ・Video…]]></description>
+        </item>
+        <item>
+            <title><![CDATA[【再掲】TG⁺プログラム第４期生の募集について]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4224</link>
+            <guid>b0a91e2229e0a5da27770a568757c046</guid>
+            <pubDate>Fri, 04 Aug 2023 03:00:00 GMT</pubDate>
+            <description><![CDATA[G⁺プログラム第4期生を募集しています！
+
+【募集期間】
+5月25日～8月31日
+
+【締め切り】
+一次募集　6月30日（金）→終了しました
+二次募集　8月31日（木）
+
+募集締め切り後、応募者面談等を実施します。
+
+二次募集は、一次募集の応募者数に関わらず必ず実施されます。
+書類・面談による選考結果は、9月中旬に通知予定です。
+
+【申し込み】
+参加登録案内（https://tgplus.hass.…]]></description>
         </item>
     </channel>
 </rss>
