@@ -5,6 +5,27 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "1576bc6feeff24882de8e80f2337127d",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4248",
+            "title": "TODAY! Let’s cosplay! J-Chat (Japanese culture workshop)",
+            "summary": "Let's enjoy cosplay! Bring any cosplay you have!!\nEven if you don't have any costumes, you can come and enjoy! We have many anime costumes for you!\n\nDate: Aug 22nd（Tue）　10:00～12:00\nPlace: Student Comm…",
+            "date_modified": "2023-08-22T03:00:00.000Z"
+        },
+        {
+            "id": "1576bc6feeff24882de8e80f2337127d",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4247",
+            "title": "TODAY! Let’s cosplay! J-Chat (Japanese culture workshop)",
+            "summary": "Let's enjoy cosplay! Bring any cosplay you have!!\nEven if you don't have any costumes, you can come and enjoy! We have many anime costumes for you!\n\nDate: Aug 22nd（Tue）　10:00～12:00\nPlace: Student Comm…",
+            "date_modified": "2023-08-22T03:00:00.000Z"
+        },
+        {
+            "id": "9204cd5049e66e8efb63d1f93898120c",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4246",
+            "title": "【お知らせ】こども・若者の自殺防止に向けた啓発活動の推進について",
+            "summary": "\n　文部科学省より、こども・若者の自殺防止に向けた取り組みについて、相談窓口と、ポスター・動画の案内がありましたので、お知らせいたします。\n\n　悩みや不安を抱えて困っている時にサポートする様々な取り組みがありますので、下記のURLをご確認ください。\n\n●困った時の相談方法・窓口（厚生労働省案内）\nhttps://www.mhlw.go.jp/mamorouyokokoro/soudan/\n\n●文部…",
+            "date_modified": "2023-08-22T03:00:00.000Z"
+        },
+        {
             "id": "6b5418cc9a064d8077cdc252d929f19b",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4245",
             "title": "（BHEキャリア支援）Teams内　キャリア支援情報発信チームのご案内",
@@ -122,27 +143,6 @@
             "title": "起業家教育プログラム「筑波クリエイティブ・キャンプ・アドバンスト」のご案内",
             "summary": "2023年度の学群自由科目・大学院共通科目「筑波クリエイティブ・キャンプ・アドバンスト」が10月4日（水）から始まります！\n\n各自の持つビジネスプランをCustomer-Problem Fit/Solution-Problem Fitのプロセスにより検証・ブラッシュアップする最新事業化メソッドカリキュラムを実施します。\n\nLINEを世界的SNSに成長させ、さらに現在はC CHANNELを世界的動画…",
             "date_modified": "2023-08-07T03:00:00.000Z"
-        },
-        {
-            "id": "7f57faf46ca50ed53238073162e29a4c",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4226",
-            "title": "Microsoft Stream(クラシック)の廃止に関連した注意事項",
-            "summary": "これまでにお知らせしました通り、Microsoft Stream(クラシック)は\n段階的に廃止され、代わりにStream (on SharePoint) が提供されます。\n\n必要に応じて、Stream(クラシック)の動画を Stream(on SharePoint)\nへ移動させてください。\n\nこの際、次のような問題が起こる可能性があります。\n\n　　Stream(クラシック) 上の動画は、その所有者…",
-            "date_modified": "2023-08-07T03:00:00.000Z"
-        },
-        {
-            "id": "3e0810b5c3e1a25bfcfa629402234e4c",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4225",
-            "title": "Notice on Termination of Microsoft Stream(Classic)",
-            "summary": "As announced before, Microsoft Stream (classic) is replaced by Stream (on SharePoint) in a certain term so please move your videos accordingly.\n\nIn this case, the following problems may occur.\n\n・Video…",
-            "date_modified": "2023-08-07T03:00:00.000Z"
-        },
-        {
-            "id": "b0a91e2229e0a5da27770a568757c046",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4224",
-            "title": "【再掲】TG⁺プログラム第４期生の募集について",
-            "summary": "G⁺プログラム第4期生を募集しています！\n\n【募集期間】\n5月25日～8月31日\n\n【締め切り】\n一次募集　6月30日（金）→終了しました\n二次募集　8月31日（木）\n\n募集締め切り後、応募者面談等を実施します。\n\n二次募集は、一次募集の応募者数に関わらず必ず実施されます。\n書類・面談による選考結果は、9月中旬に通知予定です。\n\n【申し込み】\n参加登録案内（https://tgplus.hass.…",
-            "date_modified": "2023-08-04T03:00:00.000Z"
         }
     ]
 }
