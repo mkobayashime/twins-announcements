@@ -4,10 +4,29 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Tue, 22 Aug 2023 21:10:37 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 23 Aug 2023 04:08:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
+        <item>
+            <title><![CDATA[（再掲）【参加者募集】【9/6開催】教育関係共同利用拠点第3回FD/SD研修会「『ゆるスポーツ』から学ぶダイバーシティ＆インクルージョン」の開催について]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4254</link>
+            <guid>9c561157ef1134fa0c39b449983f70e0</guid>
+            <pubDate>Wed, 23 Aug 2023 03:00:00 GMT</pubDate>
+            <description><![CDATA[多くの方にとって身近な「スポーツ」を入り口に、ダイバーシティ＆インクルージョン（D＆I）に対する理解啓発に貢献することを目的とし、以下の２部構成で研修会を実施いたします。
+
+【開催日時】
+2023年9月6日（水）13時30分～15時30分
+【開催方法】
+オンライン（zoom）にて実施
+【内容】
+・開会挨拶＜5分＞
+太田　圭　（ヒューマンエンパワーメント推進局長）
+
+第一部
+・講演＜80分＞
+澤田　…]]></description>
+        </item>
         <item>
             <title><![CDATA[【再掲】TG⁺プログラム第４期生の募集について（8月末〆）]]></title>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4253</link>
@@ -300,15 +319,6 @@ manabaでコース登録をして、ぜひご視聴ください。
 2023年9月26日(火)~29日(金)
 8：00～9：30 AM (4日間）
 ※4日間すべて参加できる学生を…]]></description>
-        </item>
-        <item>
-            <title><![CDATA[[Notice] 安全保障輸出管理のための誓約書提出のお願いRequest for Submission of Pledge for Security Export Control]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4232</link>
-            <guid>7a9b01b19be73cc89a24e7501dfc664d</guid>
-            <pubDate>Tue, 08 Aug 2023 03:00:00 GMT</pubDate>
-            <description><![CDATA[2023年度大学院修了予定者（退学等を含む）の皆様へ
-To students scheduled to complete graduate school in AY2023 (including withdrawals, etc.)
-安全保障に関連する機微技術流出の防止のために、大学院生は大学院修了時に「外国為替及び外国貿易法」を遵守する誓約書をmanabaから提出していただくことになっています。…]]></description>
         </item>
     </channel>
 </rss>
