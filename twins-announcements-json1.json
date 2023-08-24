@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "88858dd3c3a2479d3406ab2bc58daeae",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4256",
+            "title": "【お知らせ】令和５年台風第７号に伴う災害にかかる被害状況について",
+            "summary": "ニュース等でも報道されておりますが、令和５年台風第７号により被災された方々には心からお見舞い申し上げます。\n\n　◆災害救助法適用地域：【京都府】福知山市、舞鶴市、綾部市\n◆法適用日：令和５年８月14日\n　\n学生の皆さんで帰省先等において家屋の倒壊等、被害に遭われた方、又は友人学生が被害にあった情報がありましたら、状況把握のため被害状況等について、所属するエリア支援室学生支援担当までご連絡ください。…",
+            "date_modified": "2023-08-24T03:00:00.000Z"
+        },
+        {
             "id": "100f8da39bb1a07838a1ca714cd573a9",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4255",
             "title": "【お知らせ】令和５年台風第６号の影響による停電に伴う被害状況について",
@@ -135,13 +142,6 @@
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4235",
             "title": "【開催通知】令和５年度動物実験系廃棄物取扱い研修会",
             "summary": "下記のとおり、動物実験系廃棄物の排出者向けに、具体的な解説を交えて処理依頼上の注意事項を伝え、\n適切な排出法の周知を目的に、研修会を開催いたします。\n\n　　　　　　　　　　　　　　　　　　記\n\n１．日 時  令和５年９月２９日（金）１３時５０分～１４時１０分\n\n２．場 所  動物実験系廃棄物収集場所　※西地区（医学）実験廃水処理施設内\n\n３．内 容　（１）動物実験系廃棄物の処理申込について\n　　　…",
-            "date_modified": "2023-08-09T03:00:00.000Z"
-        },
-        {
-            "id": "01634076dda4553c2d161acc73941cbb",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4234",
-            "title": "10月入学留学生のチューター募集！！",
-            "summary": "今年10月の入学に向けて、9月中旬から来日する留学生たちが、つくばで安心して生活をスタートできるよう支援して頂ける方を募集しています！\n今年度は学生16名が入学予定です。グローバル化がどんどん進む現代で、こういった経験はとても重要視されます。あなたのキャリアにとっても強みになるでしょう。\n\n※詳細は添付をご参照ください",
             "date_modified": "2023-08-09T03:00:00.000Z"
         }
     ]
