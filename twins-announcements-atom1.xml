@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/mkobayashime/twins-announcements</id>
     <title>在学生へのお知らせ | 筑波大学</title>
-    <updated>2023-08-23T21:10:34.159Z</updated>
+    <updated>2023-08-24T05:07:29.949Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://github.com/mkobayashime/twins-announcements"/>
     <subtitle>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</subtitle>
+    <entry>
+        <title type="html"><![CDATA[【お知らせ】令和５年台風第６号の影響による停電に伴う被害状況について]]></title>
+        <id>100f8da39bb1a07838a1ca714cd573a9</id>
+        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4255"/>
+        <updated>2023-08-24T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[
+　ニュース等でも報道されておりますが、令和５年台風第６号により被災された方々には心からお見舞い申し上げます。
+
+◆災害救助法適用地域：【沖縄県】34 市町村
+那覇市、宜野湾市、浦添市、名護市、糸満市、沖縄市、豊見城市、うるま市、宮古島市、南城市、国頭郡国頭村、国頭郡大宜味村、国頭郡東村、国頭郡今帰仁村、国頭郡本部町、国頭郡恩納村、国頭郡宜野座村、国頭郡金武町、国頭郡伊江村、中頭郡読谷村、中頭郡嘉…]]></summary>
+    </entry>
     <entry>
         <title type="html"><![CDATA[（再掲）【参加者募集】【9/6開催】教育関係共同利用拠点第3回FD/SD研修会「『ゆるスポーツ』から学ぶダイバーシティ＆インクルージョン」の開催について]]></title>
         <id>9c561157ef1134fa0c39b449983f70e0</id>
@@ -297,25 +308,5 @@ manabaでコース登録をして、ぜひご視聴ください。
 今年度は学生16名が入学予定です。グローバル化がどんどん進む現代で、こういった経験はとても重要視されます。あなたのキャリアにとっても強みになるでしょう。
 
 ※詳細は添付をご参照ください]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【オンライン英語イベント】Tsukuba-Latin America Online Exchange Event]]></title>
-        <id>37107dbbc6dbe920f44138478a48338f</id>
-        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4233"/>
-        <updated>2023-08-09T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[＜目的＞
-・グローバルイシューについて、英語でディスカッションを行う
-・言語や文化交流を行う
-・中南米の協定大学の学生と交流を深める
- 
-＜概要＞
-・各大学の紹介、文化・言語交流
-・現在のグローバル社会問題への解決策についてのディスカッション
-・グループ発表、質疑応答
- 
-＜開催日時 ＞
-2023年9月26日(火)~29日(金)
-8：00～9：30 AM (4日間）
-※4日間すべて参加できる学生を…]]></summary>
     </entry>
 </feed>
