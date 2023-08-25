@@ -2,10 +2,44 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/mkobayashime/twins-announcements</id>
     <title>在学生へのお知らせ | 筑波大学</title>
-    <updated>2023-08-24T21:10:29.351Z</updated>
+    <updated>2023-08-25T01:41:07.583Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://github.com/mkobayashime/twins-announcements"/>
     <subtitle>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</subtitle>
+    <entry>
+        <title type="html"><![CDATA[（BHEキャリア支援）Teams内　キャリア支援情報発信チームのご案内]]></title>
+        <id>6b5418cc9a064d8077cdc252d929f19b</id>
+        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4258"/>
+        <updated>2023-08-25T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Teams内　キャリア支援情報発信チームのご案内
+
+BHEには、日々、各所から求人・インターンシップ、各種イベントなど、
+筑波大生に向けた案内が届きます。
+HPや学内掲示板では発信しきれない情報をタイムリーに発信していきます。
+卒業年度別や志望別のチャネルを設けていますので、ぜひ活用してください。
+
+【参加方法】
+チーム名「BHEキャリア支援チーム　情報発信」
+以下のリンクから参加してください。
+…]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[令和６年度学年暦について/Academic Calendar for 2024-2025 determined]]></title>
+        <id>2e0bc8321b3502e1179a9423e50ef021</id>
+        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4257"/>
+        <updated>2023-08-25T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[学生各位
+
+令和6年度学年暦が決定しましたのでお知らせします。下記の大学HPからご覧ください。
+
+日本語版：http://www.tsukuba.ac.jp/campuslife/calendar/index.html
+英 語 版：https://www.tsukuba.ac.jp/en/academics/academic-calendar/
+
+
+Dear Students
+
+Academic …]]></summary>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【お知らせ】令和５年台風第７号に伴う災害にかかる被害状況について]]></title>
         <id>88858dd3c3a2479d3406ab2bc58daeae</id>
@@ -276,39 +310,5 @@ ECサイトは以下のリンクから。
         <summary type="html"><![CDATA[At the library, we hold workshops and orientations on how to use the database and how to use the library, which are useful for obtaining literature information necessary for paper writing.
 
 Videos and…]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【図書館講習会】講習会の動画を視聴できます]]></title>
-        <id>8762c6fa9fe3a4cb5e113431f039f3c2</id>
-        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4237"/>
-        <updated>2023-08-09T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[附属図書館では、論文作成や研究に必要な文献情報を入手するのに役立つ、
-データベースの使い方・図書館の使い方などの講習会・オリエンテーションを開催しています。
-
-講習会の動画や資料をmanabaで公開中です。
-自宅や旅行先でも視聴可能なので、夏休みにおすすめ！
-manabaでコース登録をして、ぜひご視聴ください。
-
-コースコード : xx20310
-コース名　　 : 附属図書館講習会
-
-詳細は、下記…]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【開催通知】令和５年度動物実験系廃棄物取扱い研修会]]></title>
-        <id>50ab6473fdcab8aa538cc77143d49e4f</id>
-        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4235"/>
-        <updated>2023-08-09T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[下記のとおり、動物実験系廃棄物の排出者向けに、具体的な解説を交えて処理依頼上の注意事項を伝え、
-適切な排出法の周知を目的に、研修会を開催いたします。
-
-　　　　　　　　　　　　　　　　　　記
-
-１．日 時  令和５年９月２９日（金）１３時５０分～１４時１０分
-
-２．場 所  動物実験系廃棄物収集場所　※西地区（医学）実験廃水処理施設内
-
-３．内 容　（１）動物実験系廃棄物の処理申込について
-　　　…]]></summary>
     </entry>
 </feed>

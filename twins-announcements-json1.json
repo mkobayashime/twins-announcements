@@ -5,6 +5,20 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "6b5418cc9a064d8077cdc252d929f19b",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4258",
+            "title": "（BHEキャリア支援）Teams内　キャリア支援情報発信チームのご案内",
+            "summary": "Teams内　キャリア支援情報発信チームのご案内\n\nBHEには、日々、各所から求人・インターンシップ、各種イベントなど、\n筑波大生に向けた案内が届きます。\nHPや学内掲示板では発信しきれない情報をタイムリーに発信していきます。\n卒業年度別や志望別のチャネルを設けていますので、ぜひ活用してください。\n\n【参加方法】\nチーム名「BHEキャリア支援チーム　情報発信」\n以下のリンクから参加してください。\n…",
+            "date_modified": "2023-08-25T03:00:00.000Z"
+        },
+        {
+            "id": "2e0bc8321b3502e1179a9423e50ef021",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4257",
+            "title": "令和６年度学年暦について/Academic Calendar for 2024-2025 determined",
+            "summary": "学生各位\n\n令和6年度学年暦が決定しましたのでお知らせします。下記の大学HPからご覧ください。\n\n日本語版：http://www.tsukuba.ac.jp/campuslife/calendar/index.html\n英 語 版：https://www.tsukuba.ac.jp/en/academics/academic-calendar/\n\n\nDear Students\n\nAcademic …",
+            "date_modified": "2023-08-25T03:00:00.000Z"
+        },
+        {
             "id": "88858dd3c3a2479d3406ab2bc58daeae",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4256",
             "title": "【お知らせ】令和５年台風第７号に伴う災害にかかる被害状況について",
@@ -128,20 +142,6 @@
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4238",
             "title": "【Library Workshops】Videos now available",
             "summary": "At the library, we hold workshops and orientations on how to use the database and how to use the library, which are useful for obtaining literature information necessary for paper writing.\n\nVideos and…",
-            "date_modified": "2023-08-09T03:00:00.000Z"
-        },
-        {
-            "id": "8762c6fa9fe3a4cb5e113431f039f3c2",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4237",
-            "title": "【図書館講習会】講習会の動画を視聴できます",
-            "summary": "附属図書館では、論文作成や研究に必要な文献情報を入手するのに役立つ、\nデータベースの使い方・図書館の使い方などの講習会・オリエンテーションを開催しています。\n\n講習会の動画や資料をmanabaで公開中です。\n自宅や旅行先でも視聴可能なので、夏休みにおすすめ！\nmanabaでコース登録をして、ぜひご視聴ください。\n\nコースコード : xx20310\nコース名　　 : 附属図書館講習会\n\n詳細は、下記…",
-            "date_modified": "2023-08-09T03:00:00.000Z"
-        },
-        {
-            "id": "50ab6473fdcab8aa538cc77143d49e4f",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4235",
-            "title": "【開催通知】令和５年度動物実験系廃棄物取扱い研修会",
-            "summary": "下記のとおり、動物実験系廃棄物の排出者向けに、具体的な解説を交えて処理依頼上の注意事項を伝え、\n適切な排出法の周知を目的に、研修会を開催いたします。\n\n　　　　　　　　　　　　　　　　　　記\n\n１．日 時  令和５年９月２９日（金）１３時５０分～１４時１０分\n\n２．場 所  動物実験系廃棄物収集場所　※西地区（医学）実験廃水処理施設内\n\n３．内 容　（１）動物実験系廃棄物の処理申込について\n　　　…",
             "date_modified": "2023-08-09T03:00:00.000Z"
         }
     ]
