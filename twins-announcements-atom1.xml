@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/mkobayashime/twins-announcements</id>
     <title>在学生へのお知らせ | 筑波大学</title>
-    <updated>2023-08-25T09:11:38.708Z</updated>
+    <updated>2023-08-25T15:11:59.858Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://github.com/mkobayashime/twins-announcements"/>
     <subtitle>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</subtitle>
@@ -40,17 +40,17 @@ HPや学内掲示板では発信しきれない情報をタイムリーに発信
         <id>2e0bc8321b3502e1179a9423e50ef021</id>
         <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4257"/>
         <updated>2023-08-25T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[学生各位
+        <summary type="html"><![CDATA[Teams内　キャリア支援情報発信チームのご案内
 
-令和6年度学年暦が決定しましたのでお知らせします。下記の大学HPからご覧ください。
+BHEには、日々、各所から求人・インターンシップ、各種イベントなど、
+筑波大生に向けた案内が届きます。
+HPや学内掲示板では発信しきれない情報をタイムリーに発信していきます。
+卒業年度別や志望別のチャネルを設けていますので、ぜひ活用してください。
 
-日本語版：http://www.tsukuba.ac.jp/campuslife/calendar/index.html
-英 語 版：https://www.tsukuba.ac.jp/en/academics/academic-calendar/
-
-
-Dear Students
-
-Academic …]]></summary>
+【参加方法】
+チーム名「BHEキャリア支援チーム　情報発信」
+以下のリンクから参加してください。
+…]]></summary>
     </entry>
     <entry>
         <title type="html"><![CDATA[【お知らせ】令和５年台風第７号に伴う災害にかかる被害状況について]]></title>
@@ -181,18 +181,6 @@ Academic …]]></summary>
 ※4日間すべて参加できる学生を…]]></summary>
     </entry>
     <entry>
-        <title type="html"><![CDATA[サーバー更新作業に伴うキャリア支援チームHP及び就職情報提供システム停止のお知らせ]]></title>
-        <id>f7e5c4dc1ece4147cbde4ed3df16263e</id>
-        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4249"/>
-        <updated>2023-08-22T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[サーバー更新作業に伴い、下記の時間、キャリア支援チームホームページ等へ繋がりにくくなります。
-【作業日時】8/25（金）9：00　～　 8/25（金）12：15（予定）
-
-なお、サーバー更新作業中は、「学内専用ページ」、「ガイダンス等及び模試試験登録・申請」、「進路進捗状況届」へのアクセスはできません。
-皆様にはご迷惑をおかけいたしますが、ご理解、ご協力の程よろしくお願いいたします。
-]]></summary>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[TODAY! Let’s cosplay! J-Chat (Japanese culture workshop)]]></title>
         <id>1576bc6feeff24882de8e80f2337127d</id>
         <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4248"/>
@@ -313,5 +301,14 @@ ECサイトは以下のリンクから。
 
 　スチューデントサポートセンターホームページURL
 　https://ssc.sec.tsu…]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【Library Workshops】Videos now available]]></title>
+        <id>7b9c4ed1da155da9abd599d8998313d1</id>
+        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4238"/>
+        <updated>2023-08-09T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[At the library, we hold workshops and orientations on how to use the database and how to use the library, which are useful for obtaining literature information necessary for paper writing.
+
+Videos and…]]></summary>
     </entry>
 </feed>
