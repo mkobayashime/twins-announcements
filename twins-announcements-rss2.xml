@@ -4,10 +4,22 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Fri, 25 Aug 2023 01:41:07 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 25 Aug 2023 02:14:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
+        <item>
+            <title><![CDATA[未来の博士フェス2023【文部科学省主催】]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4259</link>
+            <guid>0a35bce66193d947d12e1e5f5fc5c314</guid>
+            <pubDate>Fri, 25 Aug 2023 03:00:00 GMT</pubDate>
+            <description><![CDATA[ヒューマンエンパワーメント推進局キャリア支援チーム高野です。
+文部科学省主催イベントのお知らせです。
+
+革新的な技術や発想によって新たな価値を生み出す科学技術イノベーション。この担い手として期待されるのが、博士人材です。
+この度、文部科学省初の試みとして、企業と協力して博士課程学生を応援するイベントを開催することになりました。
+イベントでは博士課程学生によるショートプレゼンテーション・ポスター発表…]]></description>
+        </item>
         <item>
             <title><![CDATA[（BHEキャリア支援）Teams内　キャリア支援情報発信チームのご案内]]></title>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4258</link>
@@ -303,15 +315,6 @@ ECサイトは以下のリンクから。
 
 　スチューデントサポートセンターホームページURL
 　https://ssc.sec.tsu…]]></description>
-        </item>
-        <item>
-            <title><![CDATA[【Library Workshops】Videos now available]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4238</link>
-            <guid>7b9c4ed1da155da9abd599d8998313d1</guid>
-            <pubDate>Wed, 09 Aug 2023 03:00:00 GMT</pubDate>
-            <description><![CDATA[At the library, we hold workshops and orientations on how to use the database and how to use the library, which are useful for obtaining literature information necessary for paper writing.
-
-Videos and…]]></description>
         </item>
     </channel>
 </rss>

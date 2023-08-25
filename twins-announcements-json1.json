@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "0a35bce66193d947d12e1e5f5fc5c314",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4259",
+            "title": "未来の博士フェス2023【文部科学省主催】",
+            "summary": "ヒューマンエンパワーメント推進局キャリア支援チーム高野です。\n文部科学省主催イベントのお知らせです。\n\n革新的な技術や発想によって新たな価値を生み出す科学技術イノベーション。この担い手として期待されるのが、博士人材です。\nこの度、文部科学省初の試みとして、企業と協力して博士課程学生を応援するイベントを開催することになりました。\nイベントでは博士課程学生によるショートプレゼンテーション・ポスター発表…",
+            "date_modified": "2023-08-25T03:00:00.000Z"
+        },
+        {
             "id": "6b5418cc9a064d8077cdc252d929f19b",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4258",
             "title": "（BHEキャリア支援）Teams内　キャリア支援情報発信チームのご案内",
@@ -135,13 +142,6 @@
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4239",
             "title": "夏季休業を向かえるあたっての注意喚起／【Note】Reminder for the summer vacation",
             "summary": "　学生の皆さんにあっては、夏季休業期間中にさまざまな活動を予定しているかと思いますが、開放的な気分になる時期にこそ、油断が生じ様々なトラブルに巻き込まれる可能性があります。\n　スチューデントサポートセンターホームページに詳細を掲載していますので、ご確認いただき、安全で有意義な夏季休業を過ごしてください。\n\n　スチューデントサポートセンターホームページURL\n　https://ssc.sec.tsu…",
-            "date_modified": "2023-08-09T03:00:00.000Z"
-        },
-        {
-            "id": "7b9c4ed1da155da9abd599d8998313d1",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4238",
-            "title": "【Library Workshops】Videos now available",
-            "summary": "At the library, we hold workshops and orientations on how to use the database and how to use the library, which are useful for obtaining literature information necessary for paper writing.\n\nVideos and…",
             "date_modified": "2023-08-09T03:00:00.000Z"
         }
     ]
