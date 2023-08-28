@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "2b99000be21188a48f4c6f197ecc9a2e",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4264",
+            "title": "【開催通知】令和５年度安全講習会（火災・爆発）",
+            "summary": "下記のとおり令和５年度安全講習会（火災・爆発）を開催します。この講習会では，「研究室における火災爆発事例とその防止について」をテーマに，専門家よりお話いただきます。近年、残念ながら本学学内でも火災が起きてしまっていますので，メンバーや研究室を守るために火災防止の知識の習得は必要です。どなたでも聴講できますので，奮ってご参加ください。\nなお，本安全講習会（火災・爆発）は全学リスクマネジメントセミナー…",
+            "date_modified": "2023-08-28T03:00:00.000Z"
+        },
+        {
             "id": "a38aa8e31fd0e7d0dd91bb0df90528f0",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4263",
             "title": "Announcement on the Student Health Examination for Fall Semester 2023",
@@ -135,13 +142,6 @@
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4241",
             "title": "【再掲】TG⁺プログラム第４期生の募集について",
             "summary": "TG⁺プログラム第4期生を募集しています！\n\n【募集期間】\n5月25日～8月31日\n\n【締め切り】\n一次募集　6月30日（金）→終了しました\n二次募集　8月31日（木）\n\n募集締め切り後、応募者面談等を実施します。\n\n二次募集は、一次募集の応募者数に関わらず必ず実施されます。\n書類・面談による選考結果は、9月中旬に通知予定です。\n\n【申し込み】\n参加登録案内（https://tgplus.hass…",
-            "date_modified": "2023-08-10T03:00:00.000Z"
-        },
-        {
-            "id": "aa5c7da53819f34db580b8e9c1fbcd9c",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4240",
-            "title": "【期間限定8/15まで】名入れグッズご注文受付中！",
-            "summary": "昨年大好評だった名入れ記念グッズが、この度、9月卒業・入学のタイミングに合わせて、期間限定で受注販売いたします！\n\nどうぞご覧いただき、皆様の「日常生活」、「思い出」、「プレゼント🎁」などにご活用いただけますと幸いです。\n\n\n\nECサイトは以下のリンクから。\n\nご注文受付期間：8月15日（火）まで\n\n※受付期間が大変短くなっていますのでご注意ください。\n※こちらのサイトの商品は10％割引クーポン…",
             "date_modified": "2023-08-10T03:00:00.000Z"
         }
     ]
