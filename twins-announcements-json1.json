@@ -5,6 +5,20 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "8b271b2753990a58693c48ecbfb88cba",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4261",
+            "title": "【BHE】就活支援企画　9月26日チャレンジ実践会　対面GD編・対面面接編",
+            "summary": "９月も面接編とGD編について対面で開催します。\n各回BHEキャリア支援チームのファシリテーターからフィードバックがあります。\n就活真っ最中の方、これからインターンシップに参加する方、ぜひ練習にお越しください。\n\n＜日にち＞\n9月2６日（火）\n\n＜実施詳細＞\n午前　GD編　10：00-11：30　　定員12名\n午後　面接編  13：30-15：30　　定員12名\n※各内容の詳細は、チラシを確認してく…",
+            "date_modified": "2023-08-28T03:00:00.000Z"
+        },
+        {
+            "id": "e02d0d69d7212fb60dca8a1ffcf664e5",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4260",
+            "title": "就活セミナー「筑波＿卒業後を考える会」開催のお知らせ",
+            "summary": "筑波大学「世界を変えよう基金アカデミー」では、就活を終えた4年生が自らの経験を下級生に伝える「筑波＿卒業後を考える会」をZoomで開催します。\nガクチカ、インターン体験、就活対象先を絞り込んで最終内定先を選んだ過程等、\n就活中あるいはこれから就活を始める皆さんにとって興味深いテーマを取り上げていただきます。\n\n日程は下記のとおりです。\n9/17(日) 20:00~ 国際4年、リクルート内定\n9/2…",
+            "date_modified": "2023-08-28T03:00:00.000Z"
+        },
+        {
             "id": "0a35bce66193d947d12e1e5f5fc5c314",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4259",
             "title": "未来の博士フェス2023【文部科学省主催】",
@@ -49,13 +63,6 @@
         {
             "id": "400e681a9344ee6af9ef99fe117ae2dc",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4253",
-            "title": "【再掲】TG⁺プログラム第４期生の募集について（8月末〆）",
-            "summary": "TG⁺プログラム第4期生を募集しています！\n\n【募集期間】\n5月25日～8月31日\n\n【締め切り】\n一次募集　6月30日（金）→終了しました\n二次募集　8月31日（木）\n\n募集締め切り後、応募者面談等を実施します。\n\n二次募集は、一次募集の応募者数に関わらず必ず実施されます。\n書類・面談による選考結果は、9月中旬に通知予定です。\n\n【申し込み】\n参加登録案内（https://tgplus.hass…",
-            "date_modified": "2023-08-22T03:00:00.000Z"
-        },
-        {
-            "id": "400e681a9344ee6af9ef99fe117ae2dc",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4252",
             "title": "【再掲】TG⁺プログラム第４期生の募集について（8月末〆）",
             "summary": "TG⁺プログラム第4期生を募集しています！\n\n【募集期間】\n5月25日～8月31日\n\n【締め切り】\n一次募集　6月30日（金）→終了しました\n二次募集　8月31日（木）\n\n募集締め切り後、応募者面談等を実施します。\n\n二次募集は、一次募集の応募者数に関わらず必ず実施されます。\n書類・面談による選考結果は、9月中旬に通知予定です。\n\n【申し込み】\n参加登録案内（https://tgplus.hass…",
             "date_modified": "2023-08-22T03:00:00.000Z"
@@ -135,13 +142,6 @@
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4239",
             "title": "夏季休業を向かえるあたっての注意喚起／【Note】Reminder for the summer vacation",
             "summary": "　学生の皆さんにあっては、夏季休業期間中にさまざまな活動を予定しているかと思いますが、開放的な気分になる時期にこそ、油断が生じ様々なトラブルに巻き込まれる可能性があります。\n　スチューデントサポートセンターホームページに詳細を掲載していますので、ご確認いただき、安全で有意義な夏季休業を過ごしてください。\n\n　スチューデントサポートセンターホームページURL\n　https://ssc.sec.tsu…",
-            "date_modified": "2023-08-09T03:00:00.000Z"
-        },
-        {
-            "id": "7b9c4ed1da155da9abd599d8998313d1",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4238",
-            "title": "【Library Workshops】Videos now available",
-            "summary": "At the library, we hold workshops and orientations on how to use the database and how to use the library, which are useful for obtaining literature information necessary for paper writing.\n\nVideos and…",
             "date_modified": "2023-08-09T03:00:00.000Z"
         }
     ]
