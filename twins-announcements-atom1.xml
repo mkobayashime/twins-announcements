@@ -2,10 +2,18 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/mkobayashime/twins-announcements</id>
     <title>在学生へのお知らせ | 筑波大学</title>
-    <updated>2023-08-28T21:10:21.067Z</updated>
+    <updated>2023-08-29T06:10:03.812Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://github.com/mkobayashime/twins-announcements"/>
     <subtitle>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</subtitle>
+    <entry>
+        <title type="html"><![CDATA[[開催通知] 9/27(水)第６回ヒューマニクス学位プログラムシンポジウム(筑波会議セッションC-15）開催のお知らせ]]></title>
+        <id>1c2893fd675069380f74d3459e0280a6</id>
+        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4265"/>
+        <updated>2023-08-29T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[第6回ヒューマニクス学位プログラムシンポジウム「Biomedical sciences X Physical sciences/　Engineering/　Informatics: A Society Fostered by Humanics（生命医科学×理・工・情報学：ヒューマニクスが切り拓く社会）(セッション番号：C-15)」を開催いたします。
+本年度のシンポジウムは、筑波会議2023 (ht…]]></summary>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【開催通知】令和５年度安全講習会（火災・爆発）]]></title>
         <id>2b99000be21188a48f4c6f197ecc9a2e</id>
@@ -271,27 +279,5 @@ PBLとは、解決方法が複数ある課題について、自ら仮説を立�
         <summary type="html"><![CDATA[Thank you for primary voting for Tsukuba Universal Alumni Network (TUAN) representatives!
 
 Total 922 votes were cast (688 votes from overseas alumni and 234 votes from current international students).…]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【再掲】TG⁺プログラム第４期生の募集について]]></title>
-        <id>b0a91e2229e0a5da27770a568757c046</id>
-        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4241"/>
-        <updated>2023-08-10T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[TG⁺プログラム第4期生を募集しています！
-
-【募集期間】
-5月25日～8月31日
-
-【締め切り】
-一次募集　6月30日（金）→終了しました
-二次募集　8月31日（木）
-
-募集締め切り後、応募者面談等を実施します。
-
-二次募集は、一次募集の応募者数に関わらず必ず実施されます。
-書類・面談による選考結果は、9月中旬に通知予定です。
-
-【申し込み】
-参加登録案内（https://tgplus.hass…]]></summary>
     </entry>
 </feed>
