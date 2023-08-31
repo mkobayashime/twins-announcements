@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "bca0cd068db8e3b2d6a45ffcd1d1d691",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4267",
+            "title": "【開催通知】「基礎研究の異分野融合は食の未来を切り拓けるか？」筑波会議2023セッションC-09開催のお知らせ",
+            "summary": "T-PIRCでは筑波会議2023においてセッション「基礎研究の異分野融合は食の未来を切り拓けるか？」を開催いたします。\n\nそれぞれの研究分野に新しい風をもたらしつつある若手研究者らが集い、自身の研究内容を紹介するとともに、「お互いの研究は異分野融合することが可能か？そして、その融合により30年後の食の未来を切り拓けるか？」というトピックについて討論を行う予定としています。\nご参加おまちしております…",
+            "date_modified": "2023-08-31T03:00:00.000Z"
+        },
+        {
             "id": "1c2893fd675069380f74d3459e0280a6",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4265",
             "title": "[開催通知] 9/27(水)第６回ヒューマニクス学位プログラムシンポジウム(筑波会議セッションC-15）開催のお知らせ",
@@ -136,13 +143,6 @@
             "title": "【参加者募集 締切9/1】海洋開発課題解決型プロジェクト演習（Project based Learning：PBL）",
             "summary": "日本財団オーシャンイノベーションコンソーシアムでは、海洋開発人材の育成のため、課題解決型プロジェクト演習（Project based Learning：PBL）を実施します。\nPBLとは、解決方法が複数ある課題について、自ら仮説を立て、調査し、検証するということを繰り返すプロセスで、今回の演習は、本コンソーシアムの会員企業である以下の8社が参画。各企業のテーマに対し3、4名のチームで約3ヶ月かけ、…",
             "date_modified": "2023-08-21T03:00:00.000Z"
-        },
-        {
-            "id": "5c4f94aeeab11b14d6b067a099837065",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4242",
-            "title": "Election Results Announced!　TUAN Primary Voting",
-            "summary": "Thank you for primary voting for Tsukuba Universal Alumni Network (TUAN) representatives!\n\nTotal 922 votes were cast (688 votes from overseas alumni and 234 votes from current international students).…",
-            "date_modified": "2023-08-10T03:00:00.000Z"
         }
     ]
 }
