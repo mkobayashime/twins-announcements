@@ -4,10 +4,22 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Thu, 31 Aug 2023 21:10:50 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 01 Sep 2023 00:34:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
+        <item>
+            <title><![CDATA[STOP！研究費不正使用！／STOP！Wrongful use of research funding！]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4268</link>
+            <guid>d07de3a2549e9d1109e19fd73f9711de</guid>
+            <pubDate>Fri, 01 Sep 2023 03:00:00 GMT</pubDate>
+            <description><![CDATA[学生の皆さんが不正使用に巻き込まれるケースが多発しています。
+不正を見かけた、持ちかけられたら、通報窓口へ。
+コンプライアンス・ハラスメント対策室（学内窓口）
+Mail:compliance@un.tsukuba.ac.jp TEL:029-853-2033
+つくば中央法律事務所（学外窓口）
+TEL:029-896-3530  FAX:029-896-3531]]></description>
+        </item>
         <item>
             <title><![CDATA[筑波大学公式オリジナルグッズECサイト割引クーポンのお知らせ（9月）]]></title>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4266</link>
@@ -269,14 +281,6 @@ HPや学内掲示板では発信しきれない情報をタイムリーに発信
 【参加方法】
 チーム名「BHEキャリア支援チーム　情報発信」
 以下…]]></description>
-        </item>
-        <item>
-            <title><![CDATA[【参加者募集 締切9/1】海洋開発課題解決型プロジェクト演習（Project based Learning：PBL）]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4244</link>
-            <guid>90b2634e7f0b153f1d4abed19e8050cf</guid>
-            <pubDate>Mon, 21 Aug 2023 03:00:00 GMT</pubDate>
-            <description><![CDATA[日本財団オーシャンイノベーションコンソーシアムでは、海洋開発人材の育成のため、課題解決型プロジェクト演習（Project based Learning：PBL）を実施します。
-PBLとは、解決方法が複数ある課題について、自ら仮説を立て、調査し、検証するということを繰り返すプロセスで、今回の演習は、本コンソーシアムの会員企業である以下の8社が参画。各企業のテーマに対し3、4名のチームで約3ヶ月かけ、…]]></description>
         </item>
     </channel>
 </rss>
