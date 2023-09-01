@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/mkobayashime/twins-announcements</id>
     <title>在学生へのお知らせ | 筑波大学</title>
-    <updated>2023-09-01T00:34:37.074Z</updated>
+    <updated>2023-09-01T01:45:52.293Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://github.com/mkobayashime/twins-announcements"/>
     <subtitle>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</subtitle>
+    <entry>
+        <title type="html"><![CDATA[【Event Info】国際文化交流バスツアー “Cultural Exchange Bus Tour!!”]]></title>
+        <id>54cab52f471408e7fa9eedc1957454e8</id>
+        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4269"/>
+        <updated>2023-09-01T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[<留学生対象>
+利根町国際交流会が国際文化交流バスツアーを開催します！
+日時：2023年10月22日(日) 8:50～16:00頃まで
+場所：千葉県成田市「成田山新勝寺」、千葉県印旛郡栄町「房総のむら」
+　　　(※希望者は「房総のむら」でコスプレ衣装をレンタルできます（費用は自己負担）。)
+申込方法：参加希望者は、https://forms.office.com/r/16D6Qx4wup（Form…]]></summary>
+    </entry>
     <entry>
         <title type="html"><![CDATA[STOP！研究費不正使用！／STOP！Wrongful use of research funding！]]></title>
         <id>d07de3a2549e9d1109e19fd73f9711de</id>
@@ -262,22 +274,5 @@ Place: Student Comm…]]></summary>
 https://www.mhlw.go.jp/mamorouyokokoro/soudan/
 
 ●文部…]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[（BHEキャリア支援）Teams内　キャリア支援情報発信チームのご案内]]></title>
-        <id>6b5418cc9a064d8077cdc252d929f19b</id>
-        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4245"/>
-        <updated>2023-08-21T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Teams内　キャリア支援情報発信チームのご案内
-
-BHEには、日々、各所から求人・インターンシップ、各種イベントなど、
-筑波大生に向けた案内が届きます。
-HPや学内掲示板では発信しきれない情報をタイムリーに発信していきます。
-現在６８０名の方が参加中です。
-卒業年度別や志望別のチャネルを設けていますので、ぜひ活用してください。
-
-【参加方法】
-チーム名「BHEキャリア支援チーム　情報発信」
-以下…]]></summary>
     </entry>
 </feed>
