@@ -4,10 +4,36 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Fri, 01 Sep 2023 03:08:55 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 01 Sep 2023 05:07:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
+        <item>
+            <title><![CDATA[【短期留学・海外インターンシップ】漢陽大学校 (韓国) International Winter School]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4272</link>
+            <guid>562203ddf2741bf3f5cd9831f8ba2fb0</guid>
+            <pubDate>Fri, 01 Sep 2023 03:00:00 GMT</pubDate>
+            <description><![CDATA[Hanyang International Winter School（HIWS）のお知らせです。関心のある方はウェブサイトより詳細をよく確認し、各自でお申し込みください。質問や疑問点は直接、主催者へお願いします。
+
+Program Period
+– Session A: December 27, 2023 – January 12, 2024
+– Session B: January 18 – …]]></description>
+        </item>
+        <item>
+            <title><![CDATA[【事前参加登録〆切：9/15（金）】人文社会科学研究群オンライン説明会〔（9/23（土）〕開催のお知らせ]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4271</link>
+            <guid>a8815dcd207c2e57a9e68e8bced964e3</guid>
+            <pubDate>Fri, 01 Sep 2023 03:00:00 GMT</pubDate>
+            <description><![CDATA[人文社会科学研究群各学位プログラムへ進学を検討されている方や興味をお持ちの方は是非ご参加ください。
+
+日　　時：2023年9月23日（土）10:00～12:00
+開催方法：Web会議システムZoomウェビナー及びZoomミーティング（事前参加登録制）
+参加登録期間：9月1日（金）～9月15日（金）
+参加登録方法：以下のURLよりご確認ください。
+
+内　　容：人文社会科学研究群についての説明
+　　　…]]></description>
+        </item>
         <item>
             <title><![CDATA[【9月】筑波大学BHEセーファースペース「KiteKite（きてきて）」の実施について]]></title>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4270</link>
@@ -250,28 +276,6 @@ Academic …]]></description>
 2023年9月26日(火)~29日(金)
 8：00～9：30 AM (4日間）
 ※4日間すべて参加できる学生を…]]></description>
-        </item>
-        <item>
-            <title><![CDATA[TODAY! Let’s cosplay! J-Chat (Japanese culture workshop)]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4248</link>
-            <guid>1576bc6feeff24882de8e80f2337127d</guid>
-            <pubDate>Tue, 22 Aug 2023 03:00:00 GMT</pubDate>
-            <description><![CDATA[Let's enjoy cosplay! Bring any cosplay you have!!
-Even if you don't have any costumes, you can come and enjoy! We have many anime costumes for you!
-
-Date: Aug 22nd（Tue）　10:00～12:00
-Place: Student Comm…]]></description>
-        </item>
-        <item>
-            <title><![CDATA[TODAY! Let’s cosplay! J-Chat (Japanese culture workshop)]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4247</link>
-            <guid>1576bc6feeff24882de8e80f2337127d</guid>
-            <pubDate>Tue, 22 Aug 2023 03:00:00 GMT</pubDate>
-            <description><![CDATA[Let's enjoy cosplay! Bring any cosplay you have!!
-Even if you don't have any costumes, you can come and enjoy! We have many anime costumes for you!
-
-Date: Aug 22nd（Tue）　10:00～12:00
-Place: Student Comm…]]></description>
         </item>
     </channel>
 </rss>
