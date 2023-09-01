@@ -4,10 +4,21 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Fri, 01 Sep 2023 01:45:52 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 01 Sep 2023 03:08:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
+        <item>
+            <title><![CDATA[【9月】筑波大学BHEセーファースペース「KiteKite（きてきて）」の実施について]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4270</link>
+            <guid>accf82565886e077351745a535150baf</guid>
+            <pubDate>Fri, 01 Sep 2023 03:00:00 GMT</pubDate>
+            <description><![CDATA[ヒューマンエンパワーメント推進局（BHE）ジェンダー支援チームでは、学生スタッフと共同で”セーファースペースKiteKite（きてきて）”を実施しています。9月の実施日についてお知らせしますので、ぜひお気軽にご参加ください。
+
+※セーファースペースとは…LGBTQ＋や女性をはじめ、全ての人が自らのジェンダー・セクシュアリティについてより安全に話すことができる居場所のこと
+
+KiteKiteは、年齢…]]></description>
+        </item>
         <item>
             <title><![CDATA[【Event Info】国際文化交流バスツアー “Cultural Exchange Bus Tour!!”]]></title>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4269</link>
@@ -261,21 +272,6 @@ Even if you don't have any costumes, you can come and enjoy! We have many anime 
 
 Date: Aug 22nd（Tue）　10:00～12:00
 Place: Student Comm…]]></description>
-        </item>
-        <item>
-            <title><![CDATA[【お知らせ】こども・若者の自殺防止に向けた啓発活動の推進について]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4246</link>
-            <guid>9204cd5049e66e8efb63d1f93898120c</guid>
-            <pubDate>Tue, 22 Aug 2023 03:00:00 GMT</pubDate>
-            <description><![CDATA[
-　文部科学省より、こども・若者の自殺防止に向けた取り組みについて、相談窓口と、ポスター・動画の案内がありましたので、お知らせいたします。
-
-　悩みや不安を抱えて困っている時にサポートする様々な取り組みがありますので、下記のURLをご確認ください。
-
-●困った時の相談方法・窓口（厚生労働省案内）
-https://www.mhlw.go.jp/mamorouyokokoro/soudan/
-
-●文部…]]></description>
         </item>
     </channel>
 </rss>
