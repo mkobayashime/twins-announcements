@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "3a1fb759bd8931d8775b7507701e2579",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4277",
+            "title": "【再掲】就活セミナー「筑波＿卒業後を考える会」開催のお知らせ",
+            "summary": "筑波大学「世界を変えよう基金アカデミー」では、就活を終えた4年生が自らの経験を下級生に伝える「筑波＿卒業後を考える会」をZoomで開催します。\nガクチカ、インターン体験、就活対象先を絞り込んで最終内定先を選んだ過程等、\n就活中あるいはこれから就活を始める皆さんにとって興味深いテーマを取り上げていただきます。\n\n日程は下記のとおりです。\n9/17(日) 20:00~ 国際4年、リクルート内定\n9/2…",
+            "date_modified": "2023-09-05T03:00:00.000Z"
+        },
+        {
             "id": "2fa8a1a2daa4836230cc410ed95d4afd",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4276",
             "title": "【学内ボランティア参加者募集！】学内の放置自転車を一緒に減らそう！プロジェクト",
@@ -135,13 +142,6 @@
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4258",
             "title": "（BHEキャリア支援）Teams内　キャリア支援情報発信チームのご案内",
             "summary": "Teams内　キャリア支援情報発信チームのご案内\n\nBHEには、日々、各所から求人・インターンシップ、各種イベントなど、\n筑波大生に向けた案内が届きます。\nHPや学内掲示板では発信しきれない情報をタイムリーに発信していきます。\n卒業年度別や志望別のチャネルを設けていますので、ぜひ活用してください。\n\n【参加方法】\nチーム名「BHEキャリア支援チーム　情報発信」\n以下のリンクから参加してください。\n…",
-            "date_modified": "2023-08-25T03:00:00.000Z"
-        },
-        {
-            "id": "2e0bc8321b3502e1179a9423e50ef021",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4257",
-            "title": "令和６年度学年暦について/Academic Calendar for 2024-2025 determined",
-            "summary": "学生各位\n\n令和6年度学年暦が決定しましたのでお知らせします。下記の大学HPからご覧ください。\n\n日本語版：http://www.tsukuba.ac.jp/campuslife/calendar/index.html\n英 語 版：https://www.tsukuba.ac.jp/en/academics/academic-calendar/\n\n\nDear Students\n\nAcademic …",
             "date_modified": "2023-08-25T03:00:00.000Z"
         }
     ]

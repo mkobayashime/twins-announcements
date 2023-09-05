@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/mkobayashime/twins-announcements</id>
     <title>在学生へのお知らせ | 筑波大学</title>
-    <updated>2023-09-04T21:10:31.361Z</updated>
+    <updated>2023-09-05T03:08:12.001Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://github.com/mkobayashime/twins-announcements"/>
     <subtitle>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</subtitle>
+    <entry>
+        <title type="html"><![CDATA[【再掲】就活セミナー「筑波＿卒業後を考える会」開催のお知らせ]]></title>
+        <id>3a1fb759bd8931d8775b7507701e2579</id>
+        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4277"/>
+        <updated>2023-09-05T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[筑波大学「世界を変えよう基金アカデミー」では、就活を終えた4年生が自らの経験を下級生に伝える「筑波＿卒業後を考える会」をZoomで開催します。
+ガクチカ、インターン体験、就活対象先を絞り込んで最終内定先を選んだ過程等、
+就活中あるいはこれから就活を始める皆さんにとって興味深いテーマを取り上げていただきます。
+
+日程は下記のとおりです。
+9/17(日) 20:00~ 国際4年、リクルート内定
+9/2…]]></summary>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【学内ボランティア参加者募集！】学内の放置自転車を一緒に減らそう！プロジェクト]]></title>
         <id>2fa8a1a2daa4836230cc410ed95d4afd</id>
@@ -260,22 +273,5 @@ HPや学内掲示板では発信しきれない情報をタイムリーに発信
 チーム名「BHEキャリア支援チーム　情報発信」
 以下のリンクから参加してください。
 …]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[令和６年度学年暦について/Academic Calendar for 2024-2025 determined]]></title>
-        <id>2e0bc8321b3502e1179a9423e50ef021</id>
-        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4257"/>
-        <updated>2023-08-25T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[学生各位
-
-令和6年度学年暦が決定しましたのでお知らせします。下記の大学HPからご覧ください。
-
-日本語版：http://www.tsukuba.ac.jp/campuslife/calendar/index.html
-英 語 版：https://www.tsukuba.ac.jp/en/academics/academic-calendar/
-
-
-Dear Students
-
-Academic …]]></summary>
     </entry>
 </feed>
