@@ -4,10 +4,31 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Tue, 05 Sep 2023 03:08:11 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 05 Sep 2023 05:07:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
+        <item>
+            <title><![CDATA[【開催案内】3rd Borderless Onsite Meeting “Kyrgyzstan: mirror of nomadic culture”]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4278</link>
+            <guid>5c7cc7c67e38c54698a48bc43f0286ff</guid>
+            <pubDate>Tue, 05 Sep 2023 03:00:00 GMT</pubDate>
+            <description><![CDATA[【開催案内】3rd Borderless Onsite Meeting
+
+プレゼンター：アイティムベドヴァ・アイダイ（NipCAフェロー2022）
+
+題目：Kyrgyzstan: mirror of nomadic culture
+
+日時：令和5年9月15日（金）12:20～13 :10
+
+会場：筑波大学　スチューデントコモンズ（1A棟203）
+
+対象：全学教職員、留学生ほか
+
+使用言語：英語
+
+…]]></description>
+        </item>
         <item>
             <title><![CDATA[【再掲】就活セミナー「筑波＿卒業後を考える会」開催のお知らせ]]></title>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4277</link>
@@ -258,23 +279,6 @@ Ph…]]></description>
 革新的な技術や発想によって新たな価値を生み出す科学技術イノベーション。この担い手として期待されるのが、博士人材です。
 この度、文部科学省初の試みとして、企業と協力して博士課程学生を応援するイベントを開催することになりました。
 イベントでは博士課程学生によるショートプレゼンテーション・ポスター発表…]]></description>
-        </item>
-        <item>
-            <title><![CDATA[（BHEキャリア支援）Teams内　キャリア支援情報発信チームのご案内]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4258</link>
-            <guid>6b5418cc9a064d8077cdc252d929f19b</guid>
-            <pubDate>Fri, 25 Aug 2023 03:00:00 GMT</pubDate>
-            <description><![CDATA[Teams内　キャリア支援情報発信チームのご案内
-
-BHEには、日々、各所から求人・インターンシップ、各種イベントなど、
-筑波大生に向けた案内が届きます。
-HPや学内掲示板では発信しきれない情報をタイムリーに発信していきます。
-卒業年度別や志望別のチャネルを設けていますので、ぜひ活用してください。
-
-【参加方法】
-チーム名「BHEキャリア支援チーム　情報発信」
-以下のリンクから参加してください。
-…]]></description>
         </item>
     </channel>
 </rss>

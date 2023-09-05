@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "5c7cc7c67e38c54698a48bc43f0286ff",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4278",
+            "title": "【開催案内】3rd Borderless Onsite Meeting “Kyrgyzstan: mirror of nomadic culture”",
+            "summary": "【開催案内】3rd Borderless Onsite Meeting\n\nプレゼンター：アイティムベドヴァ・アイダイ（NipCAフェロー2022）\n\n題目：Kyrgyzstan: mirror of nomadic culture\n\n日時：令和5年9月15日（金）12:20～13 :10\n\n会場：筑波大学　スチューデントコモンズ（1A棟203）\n\n対象：全学教職員、留学生ほか\n\n使用言語：英語\n\n…",
+            "date_modified": "2023-09-05T03:00:00.000Z"
+        },
+        {
             "id": "3a1fb759bd8931d8775b7507701e2579",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4277",
             "title": "【再掲】就活セミナー「筑波＿卒業後を考える会」開催のお知らせ",
@@ -135,13 +142,6 @@
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4259",
             "title": "未来の博士フェス2023【文部科学省主催】",
             "summary": "ヒューマンエンパワーメント推進局キャリア支援チーム高野です。\n文部科学省主催イベントのお知らせです。\n\n革新的な技術や発想によって新たな価値を生み出す科学技術イノベーション。この担い手として期待されるのが、博士人材です。\nこの度、文部科学省初の試みとして、企業と協力して博士課程学生を応援するイベントを開催することになりました。\nイベントでは博士課程学生によるショートプレゼンテーション・ポスター発表…",
-            "date_modified": "2023-08-25T03:00:00.000Z"
-        },
-        {
-            "id": "6b5418cc9a064d8077cdc252d929f19b",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4258",
-            "title": "（BHEキャリア支援）Teams内　キャリア支援情報発信チームのご案内",
-            "summary": "Teams内　キャリア支援情報発信チームのご案内\n\nBHEには、日々、各所から求人・インターンシップ、各種イベントなど、\n筑波大生に向けた案内が届きます。\nHPや学内掲示板では発信しきれない情報をタイムリーに発信していきます。\n卒業年度別や志望別のチャネルを設けていますので、ぜひ活用してください。\n\n【参加方法】\nチーム名「BHEキャリア支援チーム　情報発信」\n以下のリンクから参加してください。\n…",
             "date_modified": "2023-08-25T03:00:00.000Z"
         }
     ]
