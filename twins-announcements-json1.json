@@ -5,10 +5,17 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
-            "id": "5d26784ebaa00dd21425dde8467c6c0d",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4282",
-            "title": "筑波大学「世界を変えよう基金」鈴木奨学金2023年秋学期奨学生募集のお知らせ",
-            "summary": "筑波大学「世界を変えよう基金」は、2015年12月本学客員教授を務めていた鈴木英明氏により創設され、大学内外の社会的・文化的ニーズに貢献する活動を行う筑波大学生を対象に資金支援を行っています。\n\n新型肺炎感染拡大により経済的に困窮する学生が急増した状況に鑑み、経済的困難に直面しながらも将来海外で活躍する意欲を有する学生に対し、奨学金（月２万円）を2020年秋学期以降支給しています。返済は不要ですが…",
+            "id": "c89f978491825365b95420a6adbab55c",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4284",
+            "title": "「時事問題を英語で読み書き話す勉強会」開催のお知らせ",
+            "summary": "筑波大学「世界を変えよう基金アカデミー」では、時事問題に関する英語メディア報道記事を題材に英語でacademic essay及び　PowerPoint slidesを作成し、英語で議論する勉強会を10月下旬からZoomで隔週開催します（8~10回、各90分）。勉強会は主として英語で行いますが、academic essay の書き方に関する説明は日本語で行います。\n\n参加は無料ですが、TOEIC 7…",
+            "date_modified": "2023-09-05T03:00:00.000Z"
+        },
+        {
+            "id": "5435d5b4f2c98d19b2cf498885f2e73a",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4283",
+            "title": "Application for Fall 2023 to Suzuki Scholarship sponsored by “Make a Difference in the World Fund”",
+            "summary": "“Make a Difference in the World Fund (MDW Fund)” at the University of Tsukuba was established in December 2015 by Visiting Professor Hideaki Suzuki. In view of the increasing economic hardship faced b…",
             "date_modified": "2023-09-05T03:00:00.000Z"
         },
         {
@@ -135,13 +142,6 @@
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4264",
             "title": "【開催通知】令和５年度安全講習会（火災・爆発）",
             "summary": "下記のとおり令和５年度安全講習会（火災・爆発）を開催します。この講習会では，「研究室における火災爆発事例とその防止について」をテーマに，専門家よりお話いただきます。近年、残念ながら本学学内でも火災が起きてしまっていますので，メンバーや研究室を守るために火災防止の知識の習得は必要です。どなたでも聴講できますので，奮ってご参加ください。\nなお，本安全講習会（火災・爆発）は全学リスクマネジメントセミナー…",
-            "date_modified": "2023-08-28T03:00:00.000Z"
-        },
-        {
-            "id": "a38aa8e31fd0e7d0dd91bb0df90528f0",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4263",
-            "title": "Announcement on the Student Health Examination for Fall Semester 2023",
-            "summary": "The Student Health Examination for Fall Semester 2023 will be divided into a physical examination and a mental health survey as follows.\nPlease be sure to take the examination if you are eligible.\n\nPh…",
             "date_modified": "2023-08-28T03:00:00.000Z"
         }
     ]
