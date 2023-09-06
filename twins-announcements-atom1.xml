@@ -2,10 +2,26 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/mkobayashime/twins-announcements</id>
     <title>在学生へのお知らせ | 筑波大学</title>
-    <updated>2023-09-05T21:10:34.990Z</updated>
+    <updated>2023-09-06T01:41:08.165Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://github.com/mkobayashime/twins-announcements"/>
     <subtitle>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</subtitle>
+    <entry>
+        <title type="html"><![CDATA[【10/4】セミナー「コンサルタントとJICA~国際協力に貢献する~」]]></title>
+        <id>e71aa6d889d456377a5ccac86dbe831b</id>
+        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4285"/>
+        <updated>2023-09-06T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[第51回ASIP/TG⁺公開セミナーのご案内です。
+
+「コンサルタントとJICA~国際協力に貢献する~」
+
+日時：2023年10月4日（水）18：10～19：40
+講師：波多野　誠氏（JICAつくばセンター　連携推進課）　　
+　　　小林　三重氏（株式会社かいはつマネジメント・コンサルティング）
+場所：文科系修士棟A107＆オンライン（Zoom）
+
+申込みはこちらから☞ https://forms.…]]></summary>
+    </entry>
     <entry>
         <title type="html"><![CDATA[「時事問題を英語で読み書き話す勉強会」開催のお知らせ]]></title>
         <id>c89f978491825365b95420a6adbab55c</id>
@@ -254,13 +270,5 @@ ECサイトは以下リンクから！
         <updated>2023-08-29T03:00:00.000Z</updated>
         <summary type="html"><![CDATA[第6回ヒューマニクス学位プログラムシンポジウム「Biomedical sciences X Physical sciences/　Engineering/　Informatics: A Society Fostered by Humanics（生命医科学×理・工・情報学：ヒューマニクスが切り拓く社会）(セッション番号：C-15)」を開催いたします。
 本年度のシンポジウムは、筑波会議2023 (ht…]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【開催通知】令和５年度安全講習会（火災・爆発）]]></title>
-        <id>2b99000be21188a48f4c6f197ecc9a2e</id>
-        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4264"/>
-        <updated>2023-08-28T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[下記のとおり令和５年度安全講習会（火災・爆発）を開催します。この講習会では，「研究室における火災爆発事例とその防止について」をテーマに，専門家よりお話いただきます。近年、残念ながら本学学内でも火災が起きてしまっていますので，メンバーや研究室を守るために火災防止の知識の習得は必要です。どなたでも聴講できますので，奮ってご参加ください。
-なお，本安全講習会（火災・爆発）は全学リスクマネジメントセミナー…]]></summary>
     </entry>
 </feed>
