@@ -4,10 +4,20 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Thu, 07 Sep 2023 01:41:08 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Sep 2023 03:08:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
+        <item>
+            <title><![CDATA[【資料掲載＆9/13登録〆】令和５年度安全講習会（火災・爆発）]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4287</link>
+            <guid>df96c4181202dfcdeea89e3cc510144e</guid>
+            <pubDate>Thu, 07 Sep 2023 03:00:00 GMT</pubDate>
+            <description><![CDATA[標記講習会の資料を掲載しました。
+この講習会では，「研究室における火災爆発事例とその防止について」をテーマに，専門家よりお話いただきます。近年、残念ながら本学学内でも火災が起きてしまっていますので，メンバーや研究室を守るために火災防止の知識の習得は必要です。どなたでも聴講できますので，奮ってご参加ください。
+また、本講演では、新聞記事、動画、事故の現場写真等を多用されます。
+見逃し配信では、著作権…]]></description>
+        </item>
         <item>
             <title><![CDATA[第51回ASIP/TG+公開セミナー「海外コンサルタントとJICA~海外協力に貢献する~」]]></title>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4286</link>
@@ -262,14 +272,6 @@ ECサイトは以下リンクから！
 
 それぞれの研究分野に新しい風をもたらしつつある若手研究者らが集い、自身の研究内容を紹介するとともに、「お互いの研究は異分野融合することが可能か？そして、その融合により30年後の食の未来を切り拓けるか？」というトピックについて討論を行う予定としています。
 ご参加おまちしております…]]></description>
-        </item>
-        <item>
-            <title><![CDATA[[開催通知] 9/27(水)第６回ヒューマニクス学位プログラムシンポジウム(筑波会議セッションC-15）開催のお知らせ]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4265</link>
-            <guid>1c2893fd675069380f74d3459e0280a6</guid>
-            <pubDate>Tue, 29 Aug 2023 03:00:00 GMT</pubDate>
-            <description><![CDATA[第6回ヒューマニクス学位プログラムシンポジウム「Biomedical sciences X Physical sciences/　Engineering/　Informatics: A Society Fostered by Humanics（生命医科学×理・工・情報学：ヒューマニクスが切り拓く社会）(セッション番号：C-15)」を開催いたします。
-本年度のシンポジウムは、筑波会議2023 (ht…]]></description>
         </item>
     </channel>
 </rss>
