@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/mkobayashime/twins-announcements</id>
     <title>在学生へのお知らせ | 筑波大学</title>
-    <updated>2023-09-08T03:08:09.117Z</updated>
+    <updated>2023-09-08T07:07:17.608Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://github.com/mkobayashime/twins-announcements"/>
     <subtitle>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</subtitle>
+    <entry>
+        <title type="html"><![CDATA[早稲田大学提供：2023年度イスラエル海外武者修行プログラムのお知らせ]]></title>
+        <id>3de5f1061b7d2463e31d8fd05b01a0e3</id>
+        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4291"/>
+        <updated>2023-09-08T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[早稲田大学より、イスラエル海外武者修行プログラムの案内がありました。
+
+グローバルなビジネス展開を目指す若手起業家やその予備軍となる学生起業家を対象に、国際水準の起業スキルを身に付け、海外のスタートアップ企業、若手起業家、VC、エンジェル、先端技術を持つ大学等とのネットワークを構築する機会を、国内でのブートキャンプ等インテンシブなプログラムと、スタートアップ・エコシステムの中核拠点の一つであるイス…]]></summary>
+    </entry>
     <entry>
         <title type="html"><![CDATA[留学生のチューター募集について（2023年度秋学期）]]></title>
         <id>386ad0a04b6022f296320d638d89fea0</id>
@@ -254,17 +263,5 @@ Program Period
 ※セーファースペースとは…LGBTQ＋や女性をはじめ、全ての人が自らのジェンダー・セクシュアリティについてより安全に話すことができる居場所のこと
 
 KiteKiteは、年齢…]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【Event Info】国際文化交流バスツアー “Cultural Exchange Bus Tour!!”]]></title>
-        <id>54cab52f471408e7fa9eedc1957454e8</id>
-        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4269"/>
-        <updated>2023-09-01T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[<留学生対象>
-利根町国際交流会が国際文化交流バスツアーを開催します！
-日時：2023年10月22日(日) 8:50～16:00頃まで
-場所：千葉県成田市「成田山新勝寺」、千葉県印旛郡栄町「房総のむら」
-　　　(※希望者は「房総のむら」でコスプレ衣装をレンタルできます（費用は自己負担）。)
-申込方法：参加希望者は、https://forms.office.com/r/16D6Qx4wup（Form…]]></summary>
     </entry>
 </feed>
