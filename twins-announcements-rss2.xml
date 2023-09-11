@@ -4,7 +4,7 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Mon, 11 Sep 2023 09:12:41 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 Sep 2023 15:12:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
@@ -36,16 +36,6 @@
 https://docs.google.com/forms/d/e/1FAIpQLSdo4InN3zo96l5hdlr5eeUcn0Bl2hi6niaMi1vh27v2edU3yQ/viewform?usp=sf_link
 
 MATLABは、エンジニア及び…]]></description>
-        </item>
-        <item>
-            <title><![CDATA[【開催案内】データサイエンス・エキスパート・プログラム　キックオフシンポジウム　-分野融合型データサイエンス・AIトップ人材への期待-]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4293</link>
-            <guid>20c8cb76c10002d823c6bbee47a81352</guid>
-            <pubDate>Mon, 11 Sep 2023 03:00:00 GMT</pubDate>
-            <description><![CDATA[概要：
-　筑波大学のデータサイエンスエキスパートプログラム（DSEP）・データサイエンスエキスパートプログラムプラス（DSEP+）は2023年4月から学生募集を始めました。
-
-　当プログラムは、特に博士後期課程学生向けに、トリプル・メンター制、産業界・学界トップとの特別演習などを通じて、「最先端のデータサイエンス・AIを駆使して学際的見地から分野横断・融合による新たな知見を創造でき、SDGsの達成…]]></description>
         </item>
         <item>
             <title><![CDATA[大学院教育改革フォーラム 2023のお知らせ/Announcement of Graduate School Education Reform Forum 2023]]></title>
@@ -239,6 +229,26 @@ To students scheduled to complete graduate school in AY2023 (including withdrawa
 午前　GD編　10：00-11：30　　定員12名
 午後　面接編  13：30-15：30　　定員12名
 ※各内容の詳細は、チラシを確認してく…]]></description>
+        </item>
+        <item>
+            <title><![CDATA[【オンライン英語イベント】Tsukuba-Latin America Online Exchange Event]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4274</link>
+            <guid>37107dbbc6dbe920f44138478a48338f</guid>
+            <pubDate>Fri, 01 Sep 2023 03:00:00 GMT</pubDate>
+            <description><![CDATA[＜目的＞
+・グローバルイシューについて、英語でディスカッションを行う
+・言語や文化交流を行う
+・中南米の協定大学の学生と交流を深める
+ 
+＜概要＞
+・各大学の紹介、文化・言語交流
+・現在のグローバル社会問題への解決策についてのディスカッション
+・グループ発表、質疑応答
+ 
+＜開催日時 ＞
+2023年9月26日(火)~29日(金)
+8：00～9：30 AM (4日間）
+※4日間すべて参加できる学生を…]]></description>
         </item>
     </channel>
 </rss>
