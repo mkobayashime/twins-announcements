@@ -2,10 +2,18 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/mkobayashime/twins-announcements</id>
     <title>在学生へのお知らせ | 筑波大学</title>
-    <updated>2023-09-11T08:10:51.541Z</updated>
+    <updated>2023-09-11T09:08:57.877Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://github.com/mkobayashime/twins-announcements"/>
     <subtitle>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</subtitle>
+    <entry>
+        <title type="html"><![CDATA[【Campus France-フランス政府留学局・日本支局主催】Campus Franceの短期語学留学2024春季セッションについて（締切：10/11（水））]]></title>
+        <id>72d96eaf513cfc63f2147f79c5748bc3</id>
+        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4296"/>
+        <updated>2023-09-11T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[フランス政府留学局・日本支局では、年に2度、日本の大学の春休みと夏休みの時期に合わせ、2月末～3月と8月中旬～9月中旬に短期語学留学プログラムを実施しています。フランス語の習得レベルや、大学での専攻分野を問わず、すべての学生が参加できます。今回の募集は2月末～3月の実施日程のセッションになります。
+申請希望者は以下ガイドライン等を熟読の上、申込みフォームを英字で記入し、期日までに所属する教育組織対…]]></summary>
+    </entry>
     <entry>
         <title type="html"><![CDATA[BHEオススメ　参加費無料　JETRO主催「J-StarX インド起業家育成支援プログラム 」]]></title>
         <id>587b3546d112bee8bb5ecfe41174cd92</id>
@@ -229,25 +237,5 @@ To students scheduled to complete graduate school in AY2023 (including withdrawa
 午前　GD編　10：00-11：30　　定員12名
 午後　面接編  13：30-15：30　　定員12名
 ※各内容の詳細は、チラシを確認してく…]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【オンライン英語イベント】Tsukuba-Latin America Online Exchange Event]]></title>
-        <id>37107dbbc6dbe920f44138478a48338f</id>
-        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4274"/>
-        <updated>2023-09-01T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[＜目的＞
-・グローバルイシューについて、英語でディスカッションを行う
-・言語や文化交流を行う
-・中南米の協定大学の学生と交流を深める
- 
-＜概要＞
-・各大学の紹介、文化・言語交流
-・現在のグローバル社会問題への解決策についてのディスカッション
-・グループ発表、質疑応答
- 
-＜開催日時 ＞
-2023年9月26日(火)~29日(金)
-8：00～9：30 AM (4日間）
-※4日間すべて参加できる学生を…]]></summary>
     </entry>
 </feed>
