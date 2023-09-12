@@ -4,10 +4,27 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Tue, 12 Sep 2023 01:39:40 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 12 Sep 2023 05:07:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
+        <item>
+            <title><![CDATA[空きあり！【BHE】就活支援企画　9月26日チャレンジ実践会　対面GD編・対面面接編]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4298</link>
+            <guid>ee4c7ffe9901b8045e70f2c152e1c4ad</guid>
+            <pubDate>Tue, 12 Sep 2023 03:00:00 GMT</pubDate>
+            <description><![CDATA[９月も面接編とGD編について対面で開催します。
+各回BHEキャリア支援チームのファシリテーターからフィードバックがあります。
+就活真っ最中の方、これからインターンシップに参加する方、ぜひ練習にお越しください。
+
+＜日にち＞
+9月2６日（火）
+
+＜実施詳細＞
+午前　GD編　10：00-11：30　　定員12名
+午後　面接編  13：30-15：30　　定員12名
+※各内容の詳細は、チラシを確認してく…]]></description>
+        </item>
         <item>
             <title><![CDATA[スタディーツアー「禅の思想と日本文化」参加者募集]]></title>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4297</link>
@@ -224,23 +241,6 @@ To students scheduled to complete graduate school in AY2023 (including withdrawa
 
 活動名：学内の放置自転車を一緒に減らそう！プロジェクト（承認番号：23010V）
 申込みフォーム：https://docs.google.com/forms/d/e/1FAIpQLSdSEk…]]></description>
-        </item>
-        <item>
-            <title><![CDATA[【BHE】就活支援企画　9月26日チャレンジ実践会　対面GD編・対面面接編]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4275</link>
-            <guid>8b271b2753990a58693c48ecbfb88cba</guid>
-            <pubDate>Mon, 04 Sep 2023 03:00:00 GMT</pubDate>
-            <description><![CDATA[９月も面接編とGD編について対面で開催します。
-各回BHEキャリア支援チームのファシリテーターからフィードバックがあります。
-就活真っ最中の方、これからインターンシップに参加する方、ぜひ練習にお越しください。
-
-＜日にち＞
-9月2６日（火）
-
-＜実施詳細＞
-午前　GD編　10：00-11：30　　定員12名
-午後　面接編  13：30-15：30　　定員12名
-※各内容の詳細は、チラシを確認してく…]]></description>
         </item>
     </channel>
 </rss>
