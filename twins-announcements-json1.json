@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "dc7ceb34da49f05b53ed04402c784d25",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4301",
+            "title": "【イベント開催案内】9/29（金）13：30～　筑波大学データサイエンス・エキスパート・プログラムキックオフシンポジウム「分野融合型データサイエンス・AIトップ人材への期待」",
+            "summary": "＊学生も参加可能です＊\n\n■開催概要■\n　日時：2023年9月29日(金) 13:30～17:15\n　場所：第3エリア 3A204\n\n■申込方法■\nwebフォームから9月28日(木)までにお申し込みください(当日受付あり)\nhttps://forms.office.com/r/whg4SSvSPe\n\n■プログラム■\n13:30-\n開会挨拶　永田 恭介　筑波大学長\n来賓挨拶　梅原 弘史　氏（文部科学…",
+            "date_modified": "2023-09-13T03:00:00.000Z"
+        },
+        {
             "id": "4b3790a1f71ecc80682cec9a980cf536",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4300",
             "title": "【Notice】Japanese Language Courses for the 2023 Academic year",
@@ -135,13 +142,6 @@
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4279",
             "title": "【重要】2023年度第1期分授業料の納入督促について",
             "summary": "2023年度第1期分授業料未納者は、「払込取扱票」が送付されているので、確認の上、速やかに金融機関窓口にて納付されるようお願いします。\n納付されないときは、本学学則による除籍処分該当者となります。\n\n・8月口座振替対象の未納者は、9月に発行される払込取扱票により納入をお願いします。\n・払込取扱票が既に発行されている未納者は、お持ちの払込取扱票により納入をお願いします。\n\n※本掲示は全ての学生・教員…",
-            "date_modified": "2023-09-05T03:00:00.000Z"
-        },
-        {
-            "id": "5c7cc7c67e38c54698a48bc43f0286ff",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4278",
-            "title": "【開催案内】3rd Borderless Onsite Meeting “Kyrgyzstan: mirror of nomadic culture”",
-            "summary": "【開催案内】3rd Borderless Onsite Meeting\n\nプレゼンター：アイティムベドヴァ・アイダイ（NipCAフェロー2022）\n\n題目：Kyrgyzstan: mirror of nomadic culture\n\n日時：令和5年9月15日（金）12:20～13 :10\n\n会場：筑波大学　スチューデントコモンズ（1A棟203）\n\n対象：全学教職員、留学生ほか\n\n使用言語：英語\n\n…",
             "date_modified": "2023-09-05T03:00:00.000Z"
         }
     ]

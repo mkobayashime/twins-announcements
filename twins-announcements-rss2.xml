@@ -4,10 +4,30 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Wed, 13 Sep 2023 01:42:12 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 Sep 2023 02:15:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
+        <item>
+            <title><![CDATA[【イベント開催案内】9/29（金）13：30～　筑波大学データサイエンス・エキスパート・プログラムキックオフシンポジウム「分野融合型データサイエンス・AIトップ人材への期待」]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4301</link>
+            <guid>dc7ceb34da49f05b53ed04402c784d25</guid>
+            <pubDate>Wed, 13 Sep 2023 03:00:00 GMT</pubDate>
+            <description><![CDATA[＊学生も参加可能です＊
+
+■開催概要■
+　日時：2023年9月29日(金) 13:30～17:15
+　場所：第3エリア 3A204
+
+■申込方法■
+webフォームから9月28日(木)までにお申し込みください(当日受付あり)
+https://forms.office.com/r/whg4SSvSPe
+
+■プログラム■
+13:30-
+開会挨拶　永田 恭介　筑波大学長
+来賓挨拶　梅原 弘史　氏（文部科学…]]></description>
+        </item>
         <item>
             <title><![CDATA[【Notice】Japanese Language Courses for the 2023 Academic year]]></title>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4300</link>
@@ -210,27 +230,6 @@ To students scheduled to complete graduate school in AY2023 (including withdrawa
 ・払込取扱票が既に発行されている未納者は、お持ちの払込取扱票により納入をお願いします。
 
 ※本掲示は全ての学生・教員…]]></description>
-        </item>
-        <item>
-            <title><![CDATA[【開催案内】3rd Borderless Onsite Meeting “Kyrgyzstan: mirror of nomadic culture”]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4278</link>
-            <guid>5c7cc7c67e38c54698a48bc43f0286ff</guid>
-            <pubDate>Tue, 05 Sep 2023 03:00:00 GMT</pubDate>
-            <description><![CDATA[【開催案内】3rd Borderless Onsite Meeting
-
-プレゼンター：アイティムベドヴァ・アイダイ（NipCAフェロー2022）
-
-題目：Kyrgyzstan: mirror of nomadic culture
-
-日時：令和5年9月15日（金）12:20～13 :10
-
-会場：筑波大学　スチューデントコモンズ（1A棟203）
-
-対象：全学教職員、留学生ほか
-
-使用言語：英語
-
-…]]></description>
         </item>
     </channel>
 </rss>
