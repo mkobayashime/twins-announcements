@@ -2,10 +2,24 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/mkobayashime/twins-announcements</id>
     <title>在学生へのお知らせ | 筑波大学</title>
-    <updated>2023-09-12T21:10:49.158Z</updated>
+    <updated>2023-09-13T01:42:12.710Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://github.com/mkobayashime/twins-announcements"/>
     <subtitle>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</subtitle>
+    <entry>
+        <title type="html"><![CDATA[【Notice】Japanese Language Courses for the 2023 Academic year]]></title>
+        <id>4b3790a1f71ecc80682cec9a980cf536</id>
+        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4300"/>
+        <updated>2023-09-13T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[If you are interested in the Japanese Language Courses offered by the Center for Education of Global Communication (CEGLOC), please check the procedure from the link shown below.]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【通知】2023年度 日本語コースの実施]]></title>
+        <id>b16edb068d583297a9a621b93febcbc2</id>
+        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4299"/>
+        <updated>2023-09-13T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[グローバルコミュニケーション教育センター（CEGLOC）が開講する日本語コースの受講を希望する留学生等は、下記のリンクから受講手続を確認してください。]]></summary>
+    </entry>
     <entry>
         <title type="html"><![CDATA[空きあり！【BHE】就活支援企画　9月26日チャレンジ実践会　対面GD編・対面面接編]]></title>
         <id>ee4c7ffe9901b8045e70f2c152e1c4ad</id>
@@ -215,29 +229,5 @@ To students scheduled to complete graduate school in AY2023 (including withdrawa
 使用言語：英語
 
 …]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【再掲】就活セミナー「筑波＿卒業後を考える会」開催のお知らせ]]></title>
-        <id>3a1fb759bd8931d8775b7507701e2579</id>
-        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4277"/>
-        <updated>2023-09-05T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[筑波大学「世界を変えよう基金アカデミー」では、就活を終えた4年生が自らの経験を下級生に伝える「筑波＿卒業後を考える会」をZoomで開催します。
-ガクチカ、インターン体験、就活対象先を絞り込んで最終内定先を選んだ過程等、
-就活中あるいはこれから就活を始める皆さんにとって興味深いテーマを取り上げていただきます。
-
-日程は下記のとおりです。
-9/17(日) 20:00~ 国際4年、リクルート内定
-9/2…]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【学内ボランティア参加者募集！】学内の放置自転車を一緒に減らそう！プロジェクト]]></title>
-        <id>2fa8a1a2daa4836230cc410ed95d4afd</id>
-        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4276"/>
-        <updated>2023-09-04T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[つくばアクションプロジェクト（T-ACT）からボランティア参加者募集の連絡です。
-ご興味のある方はぜひ申込みフォームより事前参加登録をお願い致します。申込みいただいた方に、メールにて詳細連絡をお送りします。
-
-活動名：学内の放置自転車を一緒に減らそう！プロジェクト（承認番号：23010V）
-申込みフォーム：https://docs.google.com/forms/d/e/1FAIpQLSdSEk…]]></summary>
     </entry>
 </feed>
