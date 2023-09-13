@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "8c83c529aff79589513fcf274c155fb2",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4302",
+            "title": "（再掲）【9月】筑波大学BHEセーファースペース「KiteKite（きてきて）」の実施について",
+            "summary": "ヒューマンエンパワーメント推進局（BHE）ジェンダー支援チームでは、学生スタッフと共同で”セーファースペースKiteKite（きてきて）”を実施しています。9月の実施日についてお知らせしますので、ぜひお気軽にご参加ください。\n\n※セーファースペースとは…LGBTQ＋や女性をはじめ、全ての人が自らのジェンダー・セクシュアリティについてより安全に話すことができる居場所のこと\n\nKiteKiteは、年齢…",
+            "date_modified": "2023-09-13T03:00:00.000Z"
+        },
+        {
             "id": "dc7ceb34da49f05b53ed04402c784d25",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4301",
             "title": "【イベント開催案内】9/29（金）13：30～　筑波大学データサイエンス・エキスパート・プログラムキックオフシンポジウム「分野融合型データサイエンス・AIトップ人材への期待」",
@@ -135,13 +142,6 @@
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4280",
             "title": "第10回「OB・OGキャリアカフェ」～特別版～　創基151年・筑波大学開学50周年記念開催",
             "summary": "これまで開催された「OB・OGキャリアカフェ」の中で特に好評だった企業・人物などを中心に厳選した卒業生にお声がけしました。\n\nこの機会にぜひご参加ください！\n\n社会人のリアルや業界・企業について知る機会\n筑波大のOB・OGだから気軽に質問しやすい\n就活のこと、キャリアのこと、本音で回答がもらえる\n★学年不問！筑波大生なら誰でも参加可能です。\n\n【主　催】一般社団法人　茗渓会　(筑波大学の同窓会組織…",
-            "date_modified": "2023-09-05T03:00:00.000Z"
-        },
-        {
-            "id": "a5c3286b4dd6d7ee91ceee0d234a2316",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4279",
-            "title": "【重要】2023年度第1期分授業料の納入督促について",
-            "summary": "2023年度第1期分授業料未納者は、「払込取扱票」が送付されているので、確認の上、速やかに金融機関窓口にて納付されるようお願いします。\n納付されないときは、本学学則による除籍処分該当者となります。\n\n・8月口座振替対象の未納者は、9月に発行される払込取扱票により納入をお願いします。\n・払込取扱票が既に発行されている未納者は、お持ちの払込取扱票により納入をお願いします。\n\n※本掲示は全ての学生・教員…",
             "date_modified": "2023-09-05T03:00:00.000Z"
         }
     ]

@@ -4,10 +4,21 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Wed, 13 Sep 2023 02:15:19 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 Sep 2023 08:10:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
+        <item>
+            <title><![CDATA[（再掲）【9月】筑波大学BHEセーファースペース「KiteKite（きてきて）」の実施について]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4302</link>
+            <guid>8c83c529aff79589513fcf274c155fb2</guid>
+            <pubDate>Wed, 13 Sep 2023 03:00:00 GMT</pubDate>
+            <description><![CDATA[ヒューマンエンパワーメント推進局（BHE）ジェンダー支援チームでは、学生スタッフと共同で”セーファースペースKiteKite（きてきて）”を実施しています。9月の実施日についてお知らせしますので、ぜひお気軽にご参加ください。
+
+※セーファースペースとは…LGBTQ＋や女性をはじめ、全ての人が自らのジェンダー・セクシュアリティについてより安全に話すことができる居場所のこと
+
+KiteKiteは、年齢…]]></description>
+        </item>
         <item>
             <title><![CDATA[【イベント開催案内】9/29（金）13：30～　筑波大学データサイエンス・エキスパート・プログラムキックオフシンポジウム「分野融合型データサイエンス・AIトップ人材への期待」]]></title>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4301</link>
@@ -217,19 +228,6 @@ To students scheduled to complete graduate school in AY2023 (including withdrawa
 ★学年不問！筑波大生なら誰でも参加可能です。
 
 【主　催】一般社団法人　茗渓会　(筑波大学の同窓会組織…]]></description>
-        </item>
-        <item>
-            <title><![CDATA[【重要】2023年度第1期分授業料の納入督促について]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4279</link>
-            <guid>a5c3286b4dd6d7ee91ceee0d234a2316</guid>
-            <pubDate>Tue, 05 Sep 2023 03:00:00 GMT</pubDate>
-            <description><![CDATA[2023年度第1期分授業料未納者は、「払込取扱票」が送付されているので、確認の上、速やかに金融機関窓口にて納付されるようお願いします。
-納付されないときは、本学学則による除籍処分該当者となります。
-
-・8月口座振替対象の未納者は、9月に発行される払込取扱票により納入をお願いします。
-・払込取扱票が既に発行されている未納者は、お持ちの払込取扱票により納入をお願いします。
-
-※本掲示は全ての学生・教員…]]></description>
         </item>
     </channel>
 </rss>
