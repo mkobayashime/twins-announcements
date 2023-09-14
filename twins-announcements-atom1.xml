@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/mkobayashime/twins-announcements</id>
     <title>在学生へのお知らせ | 筑波大学</title>
-    <updated>2023-09-14T09:12:23.256Z</updated>
+    <updated>2023-09-14T11:06:03.664Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://github.com/mkobayashime/twins-announcements"/>
     <subtitle>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</subtitle>
+    <entry>
+        <title type="html"><![CDATA[【9/29 Fri.】2023秋新歓“Tsuku・Koi”　＠大学会館/University Hall]]></title>
+        <id>c904d4e00449148491bdc982a6a356af</id>
+        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4307"/>
+        <updated>2023-09-14T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[秋学期の入学式開催に合わせて、秋新歓「Tsuku・Koi」を開催します！
+たくさんのクラブ・サークルが参加する予定です。
+筑波大学に在籍する全ての学生にご参加いただけますので、是非お越しください！
+
+Come and take a look at clubs, aimed at recruiting new and international students.
+Look for the acti…]]></summary>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【再掲：学内ボランティア参加者募集！】学内の放置自転車を一緒に減らそう！プロジェクト]]></title>
         <id>463ea6b9462ae9f9177a93c584a4cfa6</id>
@@ -222,14 +234,5 @@ To students scheduled to complete graduate school in AY2023 (including withdrawa
 
 参加申し込み：https://docs.google.com/forms/d/1pSESIfzNuD8URIjgvC5KEvOR3oQcA1HGnCeGccwBpss
 ]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[「時事問題を英語で読み書き話す勉強会」開催のお知らせ]]></title>
-        <id>c89f978491825365b95420a6adbab55c</id>
-        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4284"/>
-        <updated>2023-09-05T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[筑波大学「世界を変えよう基金アカデミー」では、時事問題に関する英語メディア報道記事を題材に英語でacademic essay及び　PowerPoint slidesを作成し、英語で議論する勉強会を10月下旬からZoomで隔週開催します（8~10回、各90分）。勉強会は主として英語で行いますが、academic essay の書き方に関する説明は日本語で行います。
-
-参加は無料ですが、TOEIC 7…]]></summary>
     </entry>
 </feed>
