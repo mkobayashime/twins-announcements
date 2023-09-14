@@ -5,6 +5,20 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "9279e3a03d34082f39eff1b202177483",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4304",
+            "title": "（再掲）【募集】システム情報エリア支援室DXチャレンジ2023",
+            "summary": "システム情報エリア支援室では、業務のDXの一環として事務作業支援ツールを募集いたします。\n本プログラムでは、支援室職員、技術職員、URAと一緒にこれまでにない新しいツールを作成していただきます。\n\n[募集内容]\nシステム・ツールの開発(開発期間:2023年8月～2023年12月)\n(1)教室表システム\n(2)単位取得状況自動判定ツール\n\nツール開発研究支援費: 10万円以上 (1件当たり)\n※系長…",
+            "date_modified": "2023-09-14T03:00:00.000Z"
+        },
+        {
+            "id": "7a9b01b19be73cc89a24e7501dfc664d",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4303",
+            "title": "[Notice] 安全保障輸出管理のための誓約書提出のお願いRequest for Submission of Pledge for Security Export Control",
+            "summary": "2023年度大学院入学者（研究生等含む）の皆様へ\nTo all students (including research students, etc.) enrolled in graduate school for the academic year 2023\n\n安全保障に関連する機微技術流出の防止のために、大学院生（研究生等含む）は大学院入学時に「外国為替及び外国貿易法」を遵守する誓約書をma…",
+            "date_modified": "2023-09-14T03:00:00.000Z"
+        },
+        {
             "id": "8c83c529aff79589513fcf274c155fb2",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4302",
             "title": "（再掲）【9月】筑波大学BHEセーファースペース「KiteKite（きてきて）」の実施について",
@@ -128,20 +142,6 @@
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4283",
             "title": "Application for Fall 2023 to Suzuki Scholarship sponsored by “Make a Difference in the World Fund”",
             "summary": "“Make a Difference in the World Fund (MDW Fund)” at the University of Tsukuba was established in December 2015 by Visiting Professor Hideaki Suzuki. In view of the increasing economic hardship faced b…",
-            "date_modified": "2023-09-05T03:00:00.000Z"
-        },
-        {
-            "id": "5d26784ebaa00dd21425dde8467c6c0d",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4281",
-            "title": "筑波大学「世界を変えよう基金」鈴木奨学金2023年秋学期奨学生募集のお知らせ",
-            "summary": "筑波大学「世界を変えよう基金」は、2015年12月本学客員教授を務めていた鈴木英明氏により創設され、大学内外の社会的・文化的ニーズに貢献する活動を行う筑波大学生を対象に資金支援を行っています。\n\n新型肺炎感染拡大により経済的に困窮する学生が急増した状況に鑑み、経済的困難に直面しながらも将来海外で活躍する意欲を有する学生に対し、奨学金（月２万円）を2020年秋学期以降支給しています。返済は不要ですが…",
-            "date_modified": "2023-09-05T03:00:00.000Z"
-        },
-        {
-            "id": "f7ca37bbdcc7b34bafb9f70a6d20b6dd",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4280",
-            "title": "第10回「OB・OGキャリアカフェ」～特別版～　創基151年・筑波大学開学50周年記念開催",
-            "summary": "これまで開催された「OB・OGキャリアカフェ」の中で特に好評だった企業・人物などを中心に厳選した卒業生にお声がけしました。\n\nこの機会にぜひご参加ください！\n\n社会人のリアルや業界・企業について知る機会\n筑波大のOB・OGだから気軽に質問しやすい\n就活のこと、キャリアのこと、本音で回答がもらえる\n★学年不問！筑波大生なら誰でも参加可能です。\n\n【主　催】一般社団法人　茗渓会　(筑波大学の同窓会組織…",
             "date_modified": "2023-09-05T03:00:00.000Z"
         }
     ]
