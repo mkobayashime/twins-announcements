@@ -4,10 +4,21 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Thu, 14 Sep 2023 01:40:40 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 Sep 2023 05:07:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
+        <item>
+            <title><![CDATA[【再掲：学内ボランティア参加者募集！】学内の放置自転車を一緒に減らそう！プロジェクト]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4306</link>
+            <guid>463ea6b9462ae9f9177a93c584a4cfa6</guid>
+            <pubDate>Thu, 14 Sep 2023 03:00:00 GMT</pubDate>
+            <description><![CDATA[つくばアクションプロジェクト（T-ACT）からボランティア参加者募集の連絡です。
+ご興味のある方はぜひ申込みフォームより事前参加登録をお願い致します。申込みいただいた方に、メールにて詳細連絡をお送りします。
+
+活動名：学内の放置自転車を一緒に減らそう！プロジェクト（承認番号：23010V）
+申込みフォーム：https://docs.google.com/forms/d/e/1FAIpQLSdSEk…]]></description>
+        </item>
         <item>
             <title><![CDATA[（再掲）【募集】システム情報エリア支援室DXチャレンジ2023]]></title>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4304</link>
@@ -222,13 +233,6 @@ To students scheduled to complete graduate school in AY2023 (including withdrawa
             <description><![CDATA[筑波大学「世界を変えよう基金アカデミー」では、時事問題に関する英語メディア報道記事を題材に英語でacademic essay及び　PowerPoint slidesを作成し、英語で議論する勉強会を10月下旬からZoomで隔週開催します（8~10回、各90分）。勉強会は主として英語で行いますが、academic essay の書き方に関する説明は日本語で行います。
 
 参加は無料ですが、TOEIC 7…]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Application for Fall 2023 to Suzuki Scholarship sponsored by “Make a Difference in the World Fund”]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4283</link>
-            <guid>5435d5b4f2c98d19b2cf498885f2e73a</guid>
-            <pubDate>Tue, 05 Sep 2023 03:00:00 GMT</pubDate>
-            <description><![CDATA[“Make a Difference in the World Fund (MDW Fund)” at the University of Tsukuba was established in December 2015 by Visiting Professor Hideaki Suzuki. In view of the increasing economic hardship faced b…]]></description>
         </item>
     </channel>
 </rss>

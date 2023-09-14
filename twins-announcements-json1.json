@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "463ea6b9462ae9f9177a93c584a4cfa6",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4306",
+            "title": "【再掲：学内ボランティア参加者募集！】学内の放置自転車を一緒に減らそう！プロジェクト",
+            "summary": "つくばアクションプロジェクト（T-ACT）からボランティア参加者募集の連絡です。\nご興味のある方はぜひ申込みフォームより事前参加登録をお願い致します。申込みいただいた方に、メールにて詳細連絡をお送りします。\n\n活動名：学内の放置自転車を一緒に減らそう！プロジェクト（承認番号：23010V）\n申込みフォーム：https://docs.google.com/forms/d/e/1FAIpQLSdSEk…",
+            "date_modified": "2023-09-14T03:00:00.000Z"
+        },
+        {
             "id": "9279e3a03d34082f39eff1b202177483",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4304",
             "title": "（再掲）【募集】システム情報エリア支援室DXチャレンジ2023",
@@ -135,13 +142,6 @@
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4284",
             "title": "「時事問題を英語で読み書き話す勉強会」開催のお知らせ",
             "summary": "筑波大学「世界を変えよう基金アカデミー」では、時事問題に関する英語メディア報道記事を題材に英語でacademic essay及び　PowerPoint slidesを作成し、英語で議論する勉強会を10月下旬からZoomで隔週開催します（8~10回、各90分）。勉強会は主として英語で行いますが、academic essay の書き方に関する説明は日本語で行います。\n\n参加は無料ですが、TOEIC 7…",
-            "date_modified": "2023-09-05T03:00:00.000Z"
-        },
-        {
-            "id": "5435d5b4f2c98d19b2cf498885f2e73a",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4283",
-            "title": "Application for Fall 2023 to Suzuki Scholarship sponsored by “Make a Difference in the World Fund”",
-            "summary": "“Make a Difference in the World Fund (MDW Fund)” at the University of Tsukuba was established in December 2015 by Visiting Professor Hideaki Suzuki. In view of the increasing economic hardship faced b…",
             "date_modified": "2023-09-05T03:00:00.000Z"
         }
     ]
