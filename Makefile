@@ -1,7 +1,7 @@
 eslint = yarn run eslint --ignore-path .gitignore
 prettier = yarn run prettier --ignore-path .gitignore
 typecheck = yarn run tsc --noEmit
-ts-node = node --loader ts-node/esm --experimental-specifier-resolution=node
+ts-node = node --loader ts-node/esm
 
 node_modules: package.json yarn.lock
 ifeq ($(MAKE_YARN_FROZEN_LOCKFILE), 1)

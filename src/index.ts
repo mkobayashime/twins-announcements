@@ -1,9 +1,9 @@
-import * as O from "fp-ts/lib/Option";
+import * as O from "fp-ts/lib/Option.js";
 import puppeteer from "puppeteer";
 
-import { generateFeed, saveFeedToFiles } from "./feeds";
-import { getAnnouncements } from "./getAnnouncements";
-import { saveLatestAnnouncementTitle } from "./saveLatestAnnouncementTitle";
+import { generateFeed, saveFeedToFiles } from "./feeds.js";
+import { getAnnouncements } from "./getAnnouncements.js";
+import { saveLatestAnnouncementTitle } from "./saveLatestAnnouncementTitle.js";
 
 const HEADLESS = process.env.HEADLESS === "true";
 const FORCE_FULL_FETCH = process.env.FORCE_FULL_FETCH === "true";
