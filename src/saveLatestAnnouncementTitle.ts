@@ -1,7 +1,7 @@
 import { mkdir, writeFile } from "fs/promises";
 import path from "path";
 
-import type { Announcement } from "./types";
+import type { Announcement } from "./types/index.js";
 
 export const saveLatestAnnouncementTitle = async (
   announcements: Announcement[],

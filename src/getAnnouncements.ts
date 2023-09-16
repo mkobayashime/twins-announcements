@@ -1,10 +1,10 @@
 import { parse } from "date-fns";
-import * as O from "fp-ts/lib/Option";
+import * as O from "fp-ts/lib/Option.js";
 import md5 from "md5";
 import { Page } from "puppeteer";
 
-import { getLatestAnnouncementTitle } from "./getLatestAnnouncementTitle";
-import type { Announcement } from "./types";
+import { getLatestAnnouncementTitle } from "./getLatestAnnouncementTitle.js";
+import type { Announcement } from "./types/index.js";
 
 const getAnnouncementBody = async (
   page: Page,

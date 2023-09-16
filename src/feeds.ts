@@ -2,7 +2,7 @@ import { Feed } from "feed";
 import { writeFile, mkdir } from "fs/promises";
 import path from "path";
 
-import { Announcement, Feeds } from "./types";
+import { Announcement, Feeds } from "./types/index.js";
 
 export const generateFeed = (announcements: Announcement[]): Feeds => {
   const feedClient = new Feed({
