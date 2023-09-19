@@ -5,6 +5,27 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "8c4bf8864942534fd70f84a28b071579",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4318",
+            "title": "第51回ASIP/TG+公開セミナー「海外コンサルタントとJICA～海外協力に貢献する～」",
+            "summary": "第51回ASIP/TG+公開セミナー「海外コンサルタントとJICA～海外協力に貢献する～」\n\n今回の公開セミナーでは、新興国・途上国支援の現場を支える開発コンサルタントの実務とキャリア形成について紹介します。メインスピーカーとして（株）かいはつマネジメント・コンサルティングの小林三恵氏より、大手アパレル企業勤務、JOCVボランティア参加を経て開発コンサルタントとしての活躍に至るまでのキャリアパス、…",
+            "date_modified": "2023-09-19T03:00:00.000Z"
+        },
+        {
+            "id": "9bc7dfdcb3752f26c2ea75aef885755b",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4317",
+            "title": "【学生ボランティア募集】雙峰祭への出展（11月3日、4日、5日）",
+            "summary": "筑波大学ヒューマンエンパワーメント推進局（BHE）は、2023年11月4日（土）・5日（日）に開催される雙峰祭にて、学生と共同でジェンダー・セクシュアリティに関する企画の出展を行います。\nそこで、出展の手伝いをお願いできる学生ボランティアを募集します。\n募集要項等の詳細は、以下のジェンダー支援チームHPをご覧ください。\nhttps://diversity.tsukuba.ac.jp/team/so…",
+            "date_modified": "2023-09-19T03:00:00.000Z"
+        },
+        {
+            "id": "f7e5c4dc1ece4147cbde4ed3df16263e",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4316",
+            "title": "サーバー更新作業に伴うキャリア支援チームHP及び就職情報提供システム停止のお知らせ",
+            "summary": "サーバー更新作業に伴い、下記の時間、キャリア支援チームホームページ等へ繋がりにくくなります。\n【作業日時】9/27（水）9：00　～　 9/27（水）12：15（予定）\n\nなお、サーバー更新作業中は、「学内専用ページ」、「ガイダンス等及び模試試験登録・申請」、「進路進捗状況届」へのアクセスはできません。\n皆様にはご迷惑をおかけいたしますが、ご理解、ご協力の程よろしくお願いいたします。\n",
+            "date_modified": "2023-09-19T03:00:00.000Z"
+        },
+        {
             "id": "46989d9578cc074bfbc30fa41f87bb3a",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4314",
             "title": "【10/1開催】永田学長特別講演！！第58回「筑波大学学長を囲む会」（参加自由）",
@@ -122,27 +143,6 @@
             "title": "BHEオススメ　参加費無料　JETRO主催「J-StarX インド起業家育成支援プログラム 」",
             "summary": "日本貿易振興機構（ジェトロ）では、起業やイノベーション創出を目指す方を対象とする起業家育成プログラムを実施します。\n本プログラムでは、初となるインド（ベンガルール、ハイデラバード）への現地派遣を実施し、世界第3位のスタートアップエコシステムとして世界から注目を集めるインドにおいて、エコシステム関係プレイヤーとの交流や講座受講、ピッチ練習等を行います。\n起業およびインドでの事業展開を目指す皆さまのご…",
             "date_modified": "2023-09-11T03:00:00.000Z"
-        },
-        {
-            "id": "d07c2efe7aebfa3f21c2d5b47aa2168e",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4294",
-            "title": "MATLABユーザ会のお知らせ",
-            "summary": "2023年9月29日(金) 16:00-17:30、MATLABユーザ会を開催します。\n以下のリンクよりご予約の上、積極的にご参加ください。\n\nhttps://docs.google.com/forms/d/e/1FAIpQLSdo4InN3zo96l5hdlr5eeUcn0Bl2hi6niaMi1vh27v2edU3yQ/viewform?usp=sf_link\n\nMATLABは、エンジニア及び…",
-            "date_modified": "2023-09-11T03:00:00.000Z"
-        },
-        {
-            "id": "2a37671e41eb1382ef37149aa992c053",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4292",
-            "title": "大学院教育改革フォーラム 2023のお知らせ/Announcement of Graduate School Education Reform Forum 2023",
-            "summary": "この度、本学が幹事校として「大学院教育改革フォーラム 2023」開催することになりましたので、お知らせいたします。\n積極的にご参加ください。\nWe would like to inform you that our university will be hosting the \"Graduate School Education Reform Forum 2023\" as the host uni…",
-            "date_modified": "2023-09-11T03:00:00.000Z"
-        },
-        {
-            "id": "3de5f1061b7d2463e31d8fd05b01a0e3",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4291",
-            "title": "早稲田大学提供：2023年度イスラエル海外武者修行プログラムのお知らせ",
-            "summary": "早稲田大学より、イスラエル海外武者修行プログラムの案内がありました。\n\nグローバルなビジネス展開を目指す若手起業家やその予備軍となる学生起業家を対象に、国際水準の起業スキルを身に付け、海外のスタートアップ企業、若手起業家、VC、エンジェル、先端技術を持つ大学等とのネットワークを構築する機会を、国内でのブートキャンプ等インテンシブなプログラムと、スタートアップ・エコシステムの中核拠点の一つであるイス…",
-            "date_modified": "2023-09-08T03:00:00.000Z"
         }
     ]
 }
