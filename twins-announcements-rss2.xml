@@ -4,7 +4,7 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Wed, 20 Sep 2023 09:12:42 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 20 Sep 2023 15:12:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
@@ -179,12 +179,14 @@ https://diversity.tsukuba.ac.jp/team/so…]]></description>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4307</link>
             <guid>c904d4e00449148491bdc982a6a356af</guid>
             <pubDate>Thu, 14 Sep 2023 03:00:00 GMT</pubDate>
-            <description><![CDATA[秋学期の入学式開催に合わせて、秋新歓「Tsuku・Koi」を開催します！
-たくさんのクラブ・サークルが参加する予定です。
-筑波大学に在籍する全ての学生にご参加いただけますので、是非お越しください！
+            <description><![CDATA[文部科学省が大学生・大学院生を対象に「全国アントレプレナーシップ人材育成プログラム」の受講生を募集しています。
+詳細は以下の内容をご覧ください。
 
-Come and take a look at clubs, aimed at recruiting new and international students.
-Look for the acti…]]></description>
+-------------------
+文部科学省主催：全国アントレプレナーシップ人材育成プログラムのご案内
+
+文部科学省では、全国の学生を対象に、アントレプレナーシップを身に付ける 2 日間のプログラムを開催します。
+アントレプレナーシップは、起業意…]]></description>
         </item>
         <item>
             <title><![CDATA[（再掲）【募集】システム情報エリア支援室DXチャレンジ2023]]></title>
@@ -213,17 +215,6 @@ To all students (including research students, etc.) enrolled in graduate school 
 安全保障に関連する機微技術流出の防止のために、大学院生（研究生等含む）は大学院入学時に「外国為替及び外国貿易法」を遵守する誓約書をma…]]></description>
         </item>
         <item>
-            <title><![CDATA[（再掲）【9月】筑波大学BHEセーファースペース「KiteKite（きてきて）」の実施について]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4302</link>
-            <guid>8c83c529aff79589513fcf274c155fb2</guid>
-            <pubDate>Wed, 13 Sep 2023 03:00:00 GMT</pubDate>
-            <description><![CDATA[ヒューマンエンパワーメント推進局（BHE）ジェンダー支援チームでは、学生スタッフと共同で”セーファースペースKiteKite（きてきて）”を実施しています。9月の実施日についてお知らせしますので、ぜひお気軽にご参加ください。
-
-※セーファースペースとは…LGBTQ＋や女性をはじめ、全ての人が自らのジェンダー・セクシュアリティについてより安全に話すことができる居場所のこと
-
-KiteKiteは、年齢…]]></description>
-        </item>
-        <item>
             <title><![CDATA[【イベント開催案内】9/29（金）13：30～　筑波大学データサイエンス・エキスパート・プログラムキックオフシンポジウム「分野融合型データサイエンス・AIトップ人材への期待」]]></title>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4301</link>
             <guid>dc7ceb34da49f05b53ed04402c784d25</guid>
@@ -242,6 +233,13 @@ https://forms.office.com/r/whg4SSvSPe
 13:30-
 開会挨拶　永田 恭介　筑波大学長
 来賓挨拶　梅原 弘史　氏（文部科学…]]></description>
+        </item>
+        <item>
+            <title><![CDATA[【Notice】Japanese Language Courses for the 2023 Academic year]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4300</link>
+            <guid>4b3790a1f71ecc80682cec9a980cf536</guid>
+            <pubDate>Wed, 13 Sep 2023 03:00:00 GMT</pubDate>
+            <description><![CDATA[If you are interested in the Japanese Language Courses offered by the Center for Education of Global Communication (CEGLOC), please check the procedure from the link shown below.]]></description>
         </item>
     </channel>
 </rss>
