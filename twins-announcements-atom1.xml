@@ -2,10 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/mkobayashime/twins-announcements</id>
     <title>在学生へのお知らせ | 筑波大学</title>
-    <updated>2023-09-20T00:32:29.532Z</updated>
+    <updated>2023-09-20T03:08:22.873Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://github.com/mkobayashime/twins-announcements"/>
     <subtitle>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</subtitle>
+    <entry>
+        <title type="html"><![CDATA[土浦第一高等学校「探究学習中間発表会」におけるアドバイザー募集について]]></title>
+        <id>0ed9858820a7ae2c5298c5a9d9a22c7f</id>
+        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4324"/>
+        <updated>2023-09-20T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[高校で授業支援をしてみませんか？
+--------------------------------------------------------
+茨城県立土浦第一高等学校
+「探求学習中間発表会」のアドバイザー募集
+
+【業務内容】
+・探究学習の中間発表を聞き、助言を行う
+・ポスター発表に向けた助言を行う
+（専門的な知識は問いません）
+
+※助言の想定内容
+　・生徒の発表に対し、「具体的なデータや事実…]]></summary>
+    </entry>
     <entry>
         <title type="html"><![CDATA[本日より！リユース品の配付！RECYCLING PROJECTに参加しませんか？]]></title>
         <id>4d2a90013004d1d6ee8d1e73111e49b5</id>
@@ -222,12 +240,5 @@ https://forms.office.com/r/whg4SSvSPe
 13:30-
 開会挨拶　永田 恭介　筑波大学長
 来賓挨拶　梅原 弘史　氏（文部科学…]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【Notice】Japanese Language Courses for the 2023 Academic year]]></title>
-        <id>4b3790a1f71ecc80682cec9a980cf536</id>
-        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4300"/>
-        <updated>2023-09-13T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[If you are interested in the Japanese Language Courses offered by the Center for Education of Global Communication (CEGLOC), please check the procedure from the link shown below.]]></summary>
     </entry>
 </feed>

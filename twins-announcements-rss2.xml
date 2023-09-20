@@ -4,10 +4,28 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Wed, 20 Sep 2023 00:32:29 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 20 Sep 2023 03:08:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
+        <item>
+            <title><![CDATA[土浦第一高等学校「探究学習中間発表会」におけるアドバイザー募集について]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4324</link>
+            <guid>0ed9858820a7ae2c5298c5a9d9a22c7f</guid>
+            <pubDate>Wed, 20 Sep 2023 03:00:00 GMT</pubDate>
+            <description><![CDATA[高校で授業支援をしてみませんか？
+--------------------------------------------------------
+茨城県立土浦第一高等学校
+「探求学習中間発表会」のアドバイザー募集
+
+【業務内容】
+・探究学習の中間発表を聞き、助言を行う
+・ポスター発表に向けた助言を行う
+（専門的な知識は問いません）
+
+※助言の想定内容
+　・生徒の発表に対し、「具体的なデータや事実…]]></description>
+        </item>
         <item>
             <title><![CDATA[本日より！リユース品の配付！RECYCLING PROJECTに参加しませんか？]]></title>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4323</link>
@@ -224,13 +242,6 @@ https://forms.office.com/r/whg4SSvSPe
 13:30-
 開会挨拶　永田 恭介　筑波大学長
 来賓挨拶　梅原 弘史　氏（文部科学…]]></description>
-        </item>
-        <item>
-            <title><![CDATA[【Notice】Japanese Language Courses for the 2023 Academic year]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4300</link>
-            <guid>4b3790a1f71ecc80682cec9a980cf536</guid>
-            <pubDate>Wed, 13 Sep 2023 03:00:00 GMT</pubDate>
-            <description><![CDATA[If you are interested in the Japanese Language Courses offered by the Center for Education of Global Communication (CEGLOC), please check the procedure from the link shown below.]]></description>
         </item>
     </channel>
 </rss>
