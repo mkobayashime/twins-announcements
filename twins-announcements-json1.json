@@ -5,6 +5,20 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "4d2a90013004d1d6ee8d1e73111e49b5",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4323",
+            "title": "本日より！リユース品の配付！RECYCLING PROJECTに参加しませんか？",
+            "summary": "スチューデントサポートセンターでは、ECHO UT、CASAおよびIndonesian Student Association in Ibaraki の協力のもと、学生のための交流スペースであるStudent Commonsを活用し、かつSDGｓに資するため、”Student Commons’ SDGs RECYCLING PROJECT”\nとして、学期が切り替わる8月から9月に、「まだ使用できる…",
+            "date_modified": "2023-09-20T03:00:00.000Z"
+        },
+        {
+            "id": "dcc990f133462205c7ad8314a16de5a7",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4322",
+            "title": "From TODAY! Distribution of reusable items (FREE)",
+            "summary": "The Student Support Center, with the collaboration of ECHO UT, CASA, and the Indonesian Student Association in Ibaraki, will organize the\n“Student Commons’ SDGs RECYCLING PROJECT“!, in order to utiliz…",
+            "date_modified": "2023-09-20T03:00:00.000Z"
+        },
+        {
             "id": "055d5f5c62124b0a9be981455778e99a",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4321",
             "title": "【再掲】就活セミナー「筑波＿卒業後を考える会」開催のお知らせ 　　",
@@ -129,20 +143,6 @@
             "title": "【Notice】Japanese Language Courses for the 2023 Academic year",
             "summary": "If you are interested in the Japanese Language Courses offered by the Center for Education of Global Communication (CEGLOC), please check the procedure from the link shown below.",
             "date_modified": "2023-09-13T03:00:00.000Z"
-        },
-        {
-            "id": "b16edb068d583297a9a621b93febcbc2",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4299",
-            "title": "【通知】2023年度 日本語コースの実施",
-            "summary": "グローバルコミュニケーション教育センター（CEGLOC）が開講する日本語コースの受講を希望する留学生等は、下記のリンクから受講手続を確認してください。",
-            "date_modified": "2023-09-13T03:00:00.000Z"
-        },
-        {
-            "id": "ee4c7ffe9901b8045e70f2c152e1c4ad",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4298",
-            "title": "空きあり！【BHE】就活支援企画　9月26日チャレンジ実践会　対面GD編・対面面接編",
-            "summary": "９月も面接編とGD編について対面で開催します。\n各回BHEキャリア支援チームのファシリテーターからフィードバックがあります。\n就活真っ最中の方、これからインターンシップに参加する方、ぜひ練習にお越しください。\n\n＜日にち＞\n9月2６日（火）\n\n＜実施詳細＞\n午前　GD編　10：00-11：30　　定員12名\n午後　面接編  13：30-15：30　　定員12名\n※各内容の詳細は、チラシを確認してく…",
-            "date_modified": "2023-09-12T03:00:00.000Z"
         }
     ]
 }
