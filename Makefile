@@ -11,34 +11,28 @@ else
 endif
 	@touch node_modules
 
-.PHONY: run
-run: node_modules
+run: node_modules PHONY
 	$(ts-node) src/index.ts
 
-.PHONY: lint
-lint: node_modules
+lint: node_modules PHONY
 	$(eslint) .
 
-.PHONY: lint.fix
-lint.fix: node_modules
+lint.fix: node_modules PHONY
 	$(eslint) --fix .
 
-.PHONY: format
-format: node_modules
+format: node_modules PHONY
 	$(prettier) --write .
 
-.PHONY: format.check
-format.check: node_modules
+format.check: node_modules PHONY
 	$(prettier) --check .
 
-.PHONY: typecheck
-typecheck: node_modules
+typecheck: node_modules PHONY
 	$(typecheck)
 
-.PHONY: typecheck.watch
-typecheck.watch: node_modules
+typecheck.watch: node_modules PHONY
 	$(typecheck) --watch
 
-.PHONY: clear
-clear: node_modules
+clear: node_modules PHONY
 	yarn rimraf dist
+
+PHONY:
