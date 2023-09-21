@@ -1,7 +1,9 @@
 import * as O from "fp-ts/lib/Option.js";
 import { existsSync } from "fs";
-import { readFile } from "fs/promises";
+import { mkdir, writeFile, readFile } from "fs/promises";
 import path from "path";
+
+import type { Announcement } from "./types/index.js";
 
 const filePath = path.resolve("dist", "latestAnnouncementTitle");
 
@@ -20,4 +22,16 @@ export const getLatestAnnouncementTitle = async (): Promise<
       "Failed to read title of latest announcement from the file",
     );
   }
+};
+
+export const saveLatestAnnouncementTitle = async (
+  announcements: Announcement[],
+): Promise<void> => {
+  const latestAnnouncement = announcements[0];
+  if (!latestAnnouncement) {
+    throw new Error("No announcements passed to `saveLatestAnnouncementTitle`");
+  }
+
+  await mkdir(path.resolve("dist"), { recursive: true });
+  await writeFile(filePath, latestAnnouncement.title);
 };

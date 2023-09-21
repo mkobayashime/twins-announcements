@@ -3,7 +3,7 @@ import puppeteer from "puppeteer";
 
 import { generateFeed, saveFeedToFiles } from "./feeds.js";
 import { getAnnouncements } from "./getAnnouncements.js";
-import { saveLatestAnnouncementTitle } from "./saveLatestAnnouncementTitle.js";
+import { saveLatestAnnouncementTitle } from "./latestAnnouncementTitle.js";
 
 const HEADLESS = process.env.HEADLESS === "true";
 const FORCE_FULL_FETCH = process.env.FORCE_FULL_FETCH === "true";
