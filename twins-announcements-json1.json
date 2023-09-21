@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "4777ed48e6fcddae6681585b844cb1ba",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4326",
+            "title": "【開催案内】Honda-常総市AIまちづくりセミナー（10/4(水) 13:45～；SB棟1F）",
+            "summary": "HondaR&DとWing-AI labと共催で，10/4(水)に\n\n人と分かり合い協調・共存する自動運転・移動ロボット技術　\n＆　Honda-常総市AIまちづくりセミナー\n\nを開催します．詳細は添付をご覧ください．\n\n教職員，研究員，学生（学類生，大学院生）と幅広く参加可能で，\n参加申し込み等は不要です．\n\n多くの皆様方のご参加をお待ちしております．\n\n本件の問い合わせ先：\n情報工学域　河辺　徹…",
+            "date_modified": "2023-09-21T03:00:00.000Z"
+        },
+        {
             "id": "24df5c78d008fb54a300f2dacd2ea0a4",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4325",
             "title": "世界を変えよう基金「日本絵画を楽しむ会」学生アシスタント募集",
@@ -136,13 +143,6 @@
             "title": "[Notice] 安全保障輸出管理のための誓約書提出のお願いRequest for Submission of Pledge for Security Export Control",
             "summary": "2023年度大学院入学者（研究生等含む）の皆様へ\nTo all students (including research students, etc.) enrolled in graduate school for the academic year 2023\n\n安全保障に関連する機微技術流出の防止のために、大学院生（研究生等含む）は大学院入学時に「外国為替及び外国貿易法」を遵守する誓約書をma…",
             "date_modified": "2023-09-14T03:00:00.000Z"
-        },
-        {
-            "id": "dc7ceb34da49f05b53ed04402c784d25",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4301",
-            "title": "【イベント開催案内】9/29（金）13：30～　筑波大学データサイエンス・エキスパート・プログラムキックオフシンポジウム「分野融合型データサイエンス・AIトップ人材への期待」",
-            "summary": "＊学生も参加可能です＊\n\n■開催概要■\n　日時：2023年9月29日(金) 13:30～17:15\n　場所：第3エリア 3A204\n\n■申込方法■\nwebフォームから9月28日(木)までにお申し込みください(当日受付あり)\nhttps://forms.office.com/r/whg4SSvSPe\n\n■プログラム■\n13:30-\n開会挨拶　永田 恭介　筑波大学長\n来賓挨拶　梅原 弘史　氏（文部科学…",
-            "date_modified": "2023-09-13T03:00:00.000Z"
         }
     ]
 }
