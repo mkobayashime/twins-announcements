@@ -3,7 +3,7 @@ import * as O from "fp-ts/lib/Option.js";
 import md5 from "md5";
 import { Page } from "puppeteer";
 
-import { getLatestAnnouncementTitle } from "./getLatestAnnouncementTitle.js";
+import { getLatestAnnouncementTitle } from "./latestAnnouncementTitle.js";
 import type { Announcement } from "./types/index.js";
 
 const getAnnouncementBody = async (
