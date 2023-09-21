@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "24df5c78d008fb54a300f2dacd2ea0a4",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4325",
+            "title": "世界を変えよう基金「日本絵画を楽しむ会」学生アシスタント募集",
+            "summary": "「筑波大学・世界を変えよう基金」は、毎年秋学期に「日本絵画を楽しむ会」を開催しています。次回開催に先立ち、「楽しむ会」で鑑賞する日本絵画について資料を作成する学部生アシスタント2名を募集します。\n課題は下記のとおりです。\n１） 東京国立博物館で開催される下記特別展を鑑賞し、主な出展作品（\n約25点）についてパワポ（作品ごとに２枚）を作成する。\n\n特別展「やまと絵　受け継がれる王朝の美」\nhttps…",
+            "date_modified": "2023-09-21T03:00:00.000Z"
+        },
+        {
             "id": "0ed9858820a7ae2c5298c5a9d9a22c7f",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4324",
             "title": "土浦第一高等学校「探究学習中間発表会」におけるアドバイザー募集について",
@@ -135,13 +142,6 @@
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4301",
             "title": "【イベント開催案内】9/29（金）13：30～　筑波大学データサイエンス・エキスパート・プログラムキックオフシンポジウム「分野融合型データサイエンス・AIトップ人材への期待」",
             "summary": "＊学生も参加可能です＊\n\n■開催概要■\n　日時：2023年9月29日(金) 13:30～17:15\n　場所：第3エリア 3A204\n\n■申込方法■\nwebフォームから9月28日(木)までにお申し込みください(当日受付あり)\nhttps://forms.office.com/r/whg4SSvSPe\n\n■プログラム■\n13:30-\n開会挨拶　永田 恭介　筑波大学長\n来賓挨拶　梅原 弘史　氏（文部科学…",
-            "date_modified": "2023-09-13T03:00:00.000Z"
-        },
-        {
-            "id": "4b3790a1f71ecc80682cec9a980cf536",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4300",
-            "title": "【Notice】Japanese Language Courses for the 2023 Academic year",
-            "summary": "If you are interested in the Japanese Language Courses offered by the Center for Education of Global Communication (CEGLOC), please check the procedure from the link shown below.",
             "date_modified": "2023-09-13T03:00:00.000Z"
         }
     ]

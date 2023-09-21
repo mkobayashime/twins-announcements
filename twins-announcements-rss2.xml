@@ -4,10 +4,23 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Wed, 20 Sep 2023 21:10:36 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Sep 2023 00:32:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
+        <item>
+            <title><![CDATA[世界を変えよう基金「日本絵画を楽しむ会」学生アシスタント募集]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4325</link>
+            <guid>24df5c78d008fb54a300f2dacd2ea0a4</guid>
+            <pubDate>Thu, 21 Sep 2023 03:00:00 GMT</pubDate>
+            <description><![CDATA[「筑波大学・世界を変えよう基金」は、毎年秋学期に「日本絵画を楽しむ会」を開催しています。次回開催に先立ち、「楽しむ会」で鑑賞する日本絵画について資料を作成する学部生アシスタント2名を募集します。
+課題は下記のとおりです。
+１） 東京国立博物館で開催される下記特別展を鑑賞し、主な出展作品（
+約25点）についてパワポ（作品ごとに２枚）を作成する。
+
+特別展「やまと絵　受け継がれる王朝の美」
+https…]]></description>
+        </item>
         <item>
             <title><![CDATA[土浦第一高等学校「探究学習中間発表会」におけるアドバイザー募集について]]></title>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4324</link>
@@ -231,13 +244,6 @@ https://forms.office.com/r/whg4SSvSPe
 13:30-
 開会挨拶　永田 恭介　筑波大学長
 来賓挨拶　梅原 弘史　氏（文部科学…]]></description>
-        </item>
-        <item>
-            <title><![CDATA[【Notice】Japanese Language Courses for the 2023 Academic year]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4300</link>
-            <guid>4b3790a1f71ecc80682cec9a980cf536</guid>
-            <pubDate>Wed, 13 Sep 2023 03:00:00 GMT</pubDate>
-            <description><![CDATA[If you are interested in the Japanese Language Courses offered by the Center for Education of Global Communication (CEGLOC), please check the procedure from the link shown below.]]></description>
         </item>
     </channel>
 </rss>
