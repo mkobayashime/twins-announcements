@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "6b3b4dd002a7428146b82dfa6519bfad",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4327",
+            "title": "【10/4】公開セミナー「海外コンサルタントとJICA～海外協力に貢献する～」",
+            "summary": "第51回ASIP/TG+公開セミナー「海外コンサルタントとJICA～海外協力に貢献する～」 のご案内です。\n\n日時：2023年10月4日　18:10～19:40\n講師：（株）かいはつマネジメント・コンサルティング　小林三恵氏\n　　　（一社）海外コンサルタンツ協会・河野敬子氏　\n　　　（独）国際協力機構筑波センター（JICA筑波）・波多野誠氏\n会場：文科修士棟８A107室\n　\n参加申し込みはこちらか…",
+            "date_modified": "2023-09-22T03:00:00.000Z"
+        },
+        {
             "id": "4777ed48e6fcddae6681585b844cb1ba",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4326",
             "title": "【開催案内】Honda-常総市AIまちづくりセミナー（10/4(水) 13:45～；SB棟1F）",
@@ -135,13 +142,6 @@
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4304",
             "title": "（再掲）【募集】システム情報エリア支援室DXチャレンジ2023",
             "summary": "システム情報エリア支援室では、業務のDXの一環として事務作業支援ツールを募集いたします。\n本プログラムでは、支援室職員、技術職員、URAと一緒にこれまでにない新しいツールを作成していただきます。\n\n[募集内容]\nシステム・ツールの開発(開発期間:2023年8月～2023年12月)\n(1)教室表システム\n(2)単位取得状況自動判定ツール\n\nツール開発研究支援費: 10万円以上 (1件当たり)\n※系長…",
-            "date_modified": "2023-09-14T03:00:00.000Z"
-        },
-        {
-            "id": "7a9b01b19be73cc89a24e7501dfc664d",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4303",
-            "title": "[Notice] 安全保障輸出管理のための誓約書提出のお願いRequest for Submission of Pledge for Security Export Control",
-            "summary": "2023年度大学院入学者（研究生等含む）の皆様へ\nTo all students (including research students, etc.) enrolled in graduate school for the academic year 2023\n\n安全保障に関連する機微技術流出の防止のために、大学院生（研究生等含む）は大学院入学時に「外国為替及び外国貿易法」を遵守する誓約書をma…",
             "date_modified": "2023-09-14T03:00:00.000Z"
         }
     ]
