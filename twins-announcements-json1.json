@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "d26f8c073082e3ac46f8bbc7c41866be",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4328",
+            "title": "【開催案内】筑波大学 Open Facility Week 2023開催のお知らせ(10/16-20)※申込締切10/9",
+            "summary": "オープンファシリティー推進機構では、教育研究を効率的に推進するため、332台以上の共同利用機器を\nオープンファシリティーシステムに登録し、設備の有効活用に伴う利用サポートを実施いたしております。\nこの度、10月16日（月）から10月20日（金）までの期間を機器共用促進の重点実施期間として、\n「筑波大学オープンファシリティーウィーク2023」を下記のとおり、開催することとなりましたので、\nご案内申し…",
+            "date_modified": "2023-09-22T03:00:00.000Z"
+        },
+        {
             "id": "6b3b4dd002a7428146b82dfa6519bfad",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4327",
             "title": "【10/4】公開セミナー「海外コンサルタントとJICA～海外協力に貢献する～」",
@@ -135,13 +142,6 @@
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4307",
             "title": "【9/29 Fri.】2023秋新歓“Tsuku・Koi”　＠大学会館/University Hall",
             "summary": "秋学期の入学式開催に合わせて、秋新歓「Tsuku・Koi」を開催します！\nたくさんのクラブ・サークルが参加する予定です。\n筑波大学に在籍する全ての学生にご参加いただけますので、是非お越しください！\n\nCome and take a look at clubs, aimed at recruiting new and international students.\nLook for the acti…",
-            "date_modified": "2023-09-14T03:00:00.000Z"
-        },
-        {
-            "id": "9279e3a03d34082f39eff1b202177483",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4304",
-            "title": "（再掲）【募集】システム情報エリア支援室DXチャレンジ2023",
-            "summary": "システム情報エリア支援室では、業務のDXの一環として事務作業支援ツールを募集いたします。\n本プログラムでは、支援室職員、技術職員、URAと一緒にこれまでにない新しいツールを作成していただきます。\n\n[募集内容]\nシステム・ツールの開発(開発期間:2023年8月～2023年12月)\n(1)教室表システム\n(2)単位取得状況自動判定ツール\n\nツール開発研究支援費: 10万円以上 (1件当たり)\n※系長…",
             "date_modified": "2023-09-14T03:00:00.000Z"
         }
     ]
