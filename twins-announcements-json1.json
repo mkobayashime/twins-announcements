@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "b2cba32681893cedea3f543d7542a797",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4331",
+            "title": "国際連携食料健康科学専攻・生物資源科学専攻グローバルフードセキュリティ―コース・サマースクール（国際農業研修）の説明会について",
+            "summary": "国際連携食料健康科学専攻　生物資源科学専攻グローバルフードセキュリティーコースの\nサマースクール（国際農業研修）の説明会を実施します。\n参加申込不要・途中退出可です。\n興味のある方はぜひ参加してください。\n\n日時：9/28（木）10：30～11：30\n場所：2C403\n\n",
+            "date_modified": "2023-09-22T03:00:00.000Z"
+        },
+        {
             "id": "9cd8aa68ccce01f6d5046c4b21be7f85",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4330",
             "title": "【参加者募集】筑波大学ホームゲーム「TSUKUBA LIVE!」（サッカー）",
@@ -135,13 +142,6 @@
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4310",
             "title": "【BHE就活イベント開催】秋冬インターンシップ活用講座～就活準備は進んでいますか～",
             "summary": "秋冬インターンシップ活用講座のご案内です。\n今後の就職活動のスケジュールや秋冬インターンシップの活用のポイントをお伝えします。\n夏インターンシップに参加した方/参加していない方、それぞれの状況に合わせた動き方を\n解説します。不安なことを本講座で解決しましょう！\n\n○開催日時　　：9月26日(火)  16:00～17:00\n○方　法　　　：ZOOMより参加可能\n○お申込み締切：9月25日(月)12時…",
-            "date_modified": "2023-09-15T03:00:00.000Z"
-        },
-        {
-            "id": "db51725a19eac1eb233dd50a84e42160",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4309",
-            "title": "9月20日締切　参加費無料　JETRO主催「J-StarX インド起業家育成支援プログラム 」",
-            "summary": "日本貿易振興機構（ジェトロ）では、起業やイノベーション創出を目指す方を対象とする起業家育成プログラムを実施します。\n本プログラムでは、初となるインド（ベンガルール、ハイデラバード）への現地派遣を実施し、世界第3位のスタートアップエコシステムとして世界から注目を集めるインドにおいて、エコシステム関係プレイヤーとの交流や講座受講、ピッチ練習等を行います。\n起業およびインドでの事業展開を目指す皆さまのご…",
             "date_modified": "2023-09-15T03:00:00.000Z"
         }
     ]
