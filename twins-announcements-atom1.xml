@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/mkobayashime/twins-announcements</id>
     <title>在学生へのお知らせ | 筑波大学</title>
-    <updated>2023-09-25T00:33:10.267Z</updated>
+    <updated>2023-09-25T01:43:06.788Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://github.com/mkobayashime/twins-announcements"/>
     <subtitle>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</subtitle>
+    <entry>
+        <title type="html"><![CDATA[【参加者募集】介護セミナー「認知症サポーター養成講座」（10/27開催）]]></title>
+        <id>5f53ace437230aeeb2b9e7d088261173</id>
+        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4333"/>
+        <updated>2023-09-25T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[ヒューマンエンパワーメント推進局では、10月27日（金）に認知症をテーマとした介護セミナーを開催します。
+日本における65歳以上の認知症の人の数は、2025年には約650〜700万人（高齢者の約５人に１人）に増加すると予測されています。
+認知症サポーター養成講座に参加して、認知症について正しく理解し認知症の人やその家族を温かい目で見守る応援者（認知症サポーター）になってみませんか？
+認知症の基礎知…]]></summary>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【Event Notice】Briefing Sessions (Hybrid) for the Jan 2024 Entrance Examination]]></title>
         <id>415ea9dc7761ecf9ad2cc1eefe2b71e3</id>
@@ -225,20 +235,5 @@ https://diversity.tsukuba.ac.jp/team/so…]]></summary>
         <summary type="html"><![CDATA[第51回ASIP/TG+公開セミナー「海外コンサルタントとJICA～海外協力に貢献する～」
 
 今回の公開セミナーでは、新興国・途上国支援の現場を支える開発コンサルタントの実務とキャリア形成について紹介します。メインスピーカーとして（株）かいはつマネジメント・コンサルティングの小林三恵氏より、大手アパレル企業勤務、JOCVボランティア参加を経て開発コンサルタントとしての活躍に至るまでのキャリアパス、…]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【保健管理センター】インフルエンザワクチン接種、今年もやります。]]></title>
-        <id>11b6e6fdfe6b172668bfad580b33ec6b</id>
-        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4312"/>
-        <updated>2023-09-15T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[今年度もインフルエンザのワクチン接種を行います。
-接種を希望される方は、以下の予約ページより事前にご予約をお願いします。
-
-　予約開始　：　令和５年９月２１日（木）１９：００頃～
-　接種期間　：　令和５年１０月６日（金）～
-　対　　象　：　筑波大学 学生・職員（本学の学生証または、職員証がある方）
-　料　　金　：　３，０００円
-
-　※接種当日は「インフルエンザHAワクチン予防接種予診票」をご記入の…]]></summary>
     </entry>
 </feed>
