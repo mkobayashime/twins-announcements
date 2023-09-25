@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/mkobayashime/twins-announcements</id>
     <title>在学生へのお知らせ | 筑波大学</title>
-    <updated>2023-09-24T21:09:50.795Z</updated>
+    <updated>2023-09-25T00:33:10.267Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://github.com/mkobayashime/twins-announcements"/>
     <subtitle>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</subtitle>
+    <entry>
+        <title type="html"><![CDATA[【Event Notice】Briefing Sessions (Hybrid) for the Jan 2024 Entrance Examination]]></title>
+        <id>415ea9dc7761ecf9ad2cc1eefe2b71e3</id>
+        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4332"/>
+        <updated>2023-09-25T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The Ph.D. Program in Humanics (Five-year Doctoral Program, University of Tsukuba) will hold Briefing Sessions for the January 2024 Entrance Examination as follows.
+
+◆Date and Venue
+Sat., October 7,  9…]]></summary>
+    </entry>
     <entry>
         <title type="html"><![CDATA[国際連携食料健康科学専攻・生物資源科学専攻グローバルフードセキュリティ―コース・サマースクール（国際農業研修）の説明会について]]></title>
         <id>b2cba32681893cedea3f543d7542a797</id>
@@ -230,19 +240,5 @@ https://diversity.tsukuba.ac.jp/team/so…]]></summary>
 　料　　金　：　３，０００円
 
 　※接種当日は「インフルエンザHAワクチン予防接種予診票」をご記入の…]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【BHE就活イベント開催】秋冬インターンシップ活用講座～就活準備は進んでいますか～]]></title>
-        <id>1e00db93a0329184e20958ed8dfdb5ba</id>
-        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4310"/>
-        <updated>2023-09-15T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[秋冬インターンシップ活用講座のご案内です。
-今後の就職活動のスケジュールや秋冬インターンシップの活用のポイントをお伝えします。
-夏インターンシップに参加した方/参加していない方、それぞれの状況に合わせた動き方を
-解説します。不安なことを本講座で解決しましょう！
-
-○開催日時　　：9月26日(火)  16:00～17:00
-○方　法　　　：ZOOMより参加可能
-○お申込み締切：9月25日(月)12時…]]></summary>
     </entry>
 </feed>

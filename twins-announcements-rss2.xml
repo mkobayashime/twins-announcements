@@ -4,10 +4,20 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Sun, 24 Sep 2023 21:09:50 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Sep 2023 00:33:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
+        <item>
+            <title><![CDATA[【Event Notice】Briefing Sessions (Hybrid) for the Jan 2024 Entrance Examination]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4332</link>
+            <guid>415ea9dc7761ecf9ad2cc1eefe2b71e3</guid>
+            <pubDate>Mon, 25 Sep 2023 03:00:00 GMT</pubDate>
+            <description><![CDATA[The Ph.D. Program in Humanics (Five-year Doctoral Program, University of Tsukuba) will hold Briefing Sessions for the January 2024 Entrance Examination as follows.
+
+◆Date and Venue
+Sat., October 7,  9…]]></description>
+        </item>
         <item>
             <title><![CDATA[国際連携食料健康科学専攻・生物資源科学専攻グローバルフードセキュリティ―コース・サマースクール（国際農業研修）の説明会について]]></title>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4331</link>
@@ -232,20 +242,6 @@ https://diversity.tsukuba.ac.jp/team/so…]]></description>
 　料　　金　：　３，０００円
 
 　※接種当日は「インフルエンザHAワクチン予防接種予診票」をご記入の…]]></description>
-        </item>
-        <item>
-            <title><![CDATA[【BHE就活イベント開催】秋冬インターンシップ活用講座～就活準備は進んでいますか～]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4310</link>
-            <guid>1e00db93a0329184e20958ed8dfdb5ba</guid>
-            <pubDate>Fri, 15 Sep 2023 03:00:00 GMT</pubDate>
-            <description><![CDATA[秋冬インターンシップ活用講座のご案内です。
-今後の就職活動のスケジュールや秋冬インターンシップの活用のポイントをお伝えします。
-夏インターンシップに参加した方/参加していない方、それぞれの状況に合わせた動き方を
-解説します。不安なことを本講座で解決しましょう！
-
-○開催日時　　：9月26日(火)  16:00～17:00
-○方　法　　　：ZOOMより参加可能
-○お申込み締切：9月25日(月)12時…]]></description>
         </item>
     </channel>
 </rss>
