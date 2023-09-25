@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "9dabee27f911e412b8ad87871b1b22d7",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4335",
+            "title": "【BHE】空き枠あり！　就活支援企画　9月26日チャレンジ実践会　対面GD編・対面面接編",
+            "summary": "以下、空き枠あります。\n午前　対面GD編　1席\n午後　対面面接編　3席\n本日15時まで申し込み延長中です。\n\n９月も面接編とGD編について対面で開催します。\n各回BHEキャリア支援チームのファシリテーターからフィードバックがあります。\n就活真っ最中の方、これからインターンシップに参加する方、ぜひ練習にお越しください。\n\n＜日にち＞\n9月2６日（火）\n\n＜実施詳細＞\n午前　GD編　10：00-11：…",
+            "date_modified": "2023-09-25T03:00:00.000Z"
+        },
+        {
             "id": "b4567bde97345c1ab86255330a2b48f8",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4334",
             "title": "【見逃し配信2023.12.24まで】令和５年度安全講習会（火災・爆発）兼リスクマネジメントセミナー",
@@ -136,13 +143,6 @@
             "title": "サーバー更新作業に伴うキャリア支援チームHP及び就職情報提供システム停止のお知らせ",
             "summary": "サーバー更新作業に伴い、下記の時間、キャリア支援チームホームページ等へ繋がりにくくなります。\n【作業日時】9/27（水）9：00　～　 9/27（水）12：15（予定）\n\nなお、サーバー更新作業中は、「学内専用ページ」、「ガイダンス等及び模試試験登録・申請」、「進路進捗状況届」へのアクセスはできません。\n皆様にはご迷惑をおかけいたしますが、ご理解、ご協力の程よろしくお願いいたします。\n",
             "date_modified": "2023-09-19T03:00:00.000Z"
-        },
-        {
-            "id": "46989d9578cc074bfbc30fa41f87bb3a",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4314",
-            "title": "【10/1開催】永田学長特別講演！！第58回「筑波大学学長を囲む会」（参加自由）",
-            "summary": "10月1日（日）に開催される「創基151年筑波大学開学50周年記念イベント～DESIGN THE FUTURE Marché～」のイベントの一つとして、第５８回「筑波大学学長を囲む会」で永田学長による特別講演会を開催します。\n\n開学50周年を記念するとともに、次の100周年に向けて筑波大学が何を目指しどのように活動していくのか等、本学の思いを永田学長自らの言葉で皆様にお伝えします。\n\n通常の「学長…",
-            "date_modified": "2023-09-15T03:00:00.000Z"
         }
     ]
 }
