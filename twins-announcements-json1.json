@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "f404986bad51821e60c844cb701152dc",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4339",
+            "title": "【参加者募集】異業種交流会2023（10/13）",
+            "summary": "ヒューマンエンパワーメント推進局（BHE）ジェンダー支援チームでは、10月13日（金）に女性研究者・技術者の方を中心とした企業・研究機関・大学の交流会「異業種交流会2023」を開催いたします。\n参加者と併せて、【リーダーのワークライフバランス】をテーマに、話題提供のプレゼンをしてくださる方も募集しています！（詳しくは添付資料の〈TIDE2023_要項〉をご確認ください）\n研究者・技術者の方はもちろ…",
+            "date_modified": "2023-09-26T03:00:00.000Z"
+        },
+        {
             "id": "800262ceab69810d757ec1ef5fa746ab",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4338",
             "title": "【Repost】Scholarship for Students Participating in Online International Education & Exchange Programs",
@@ -135,13 +142,6 @@
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4319",
             "title": "【再掲】筑波大学「世界を変えよう基金」鈴木奨学金2023年秋学期奨学生募集のお知らせ",
             "summary": "筑波大学「世界を変えよう基金」は、2015年12月本学客員教授を務めていた鈴木英明氏により創設され、大学内外の社会的・文化的ニーズに貢献する活動を行う筑波大学生を対象に資金支援を行っています。\n\n新型肺炎感染拡大により経済的に困窮する学生が急増した状況に鑑み、経済的困難に直面しながらも将来海外で活躍する意欲を有する学生に対し、奨学金（月２万円）を2020年秋学期以降支給しています。返済は不要ですが…",
-            "date_modified": "2023-09-19T03:00:00.000Z"
-        },
-        {
-            "id": "8c4bf8864942534fd70f84a28b071579",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4318",
-            "title": "第51回ASIP/TG+公開セミナー「海外コンサルタントとJICA～海外協力に貢献する～」",
-            "summary": "第51回ASIP/TG+公開セミナー「海外コンサルタントとJICA～海外協力に貢献する～」\n\n今回の公開セミナーでは、新興国・途上国支援の現場を支える開発コンサルタントの実務とキャリア形成について紹介します。メインスピーカーとして（株）かいはつマネジメント・コンサルティングの小林三恵氏より、大手アパレル企業勤務、JOCVボランティア参加を経て開発コンサルタントとしての活躍に至るまでのキャリアパス、…",
             "date_modified": "2023-09-19T03:00:00.000Z"
         }
     ]
