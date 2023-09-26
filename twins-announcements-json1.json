@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "bc0e78975ae983663c20353a8d139b85",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4336",
+            "title": "（再掲）【学生ボランティア募集】雙峰祭への出展（11月3日、4日、5日）",
+            "summary": "筑波大学ヒューマンエンパワーメント推進局（BHE）は、2023年11月4日（土）・5日（日）に開催される雙峰祭にて、学生と共同でジェンダー・セクシュアリティに関する企画の出展を行います。\nそこで、出展の手伝いをお願いできる学生ボランティアを募集します。\n募集要項等の詳細は、以下のジェンダー支援チームHPをご覧ください。\nhttps://diversity.tsukuba.ac.jp/team/so…",
+            "date_modified": "2023-09-26T03:00:00.000Z"
+        },
+        {
             "id": "b4567bde97345c1ab86255330a2b48f8",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4334",
             "title": "【見逃し配信2023.12.24まで】令和５年度安全講習会（火災・爆発）兼リスクマネジメントセミナー",
@@ -136,13 +143,6 @@
             "title": "サーバー更新作業に伴うキャリア支援チームHP及び就職情報提供システム停止のお知らせ",
             "summary": "サーバー更新作業に伴い、下記の時間、キャリア支援チームホームページ等へ繋がりにくくなります。\n【作業日時】9/27（水）9：00　～　 9/27（水）12：15（予定）\n\nなお、サーバー更新作業中は、「学内専用ページ」、「ガイダンス等及び模試試験登録・申請」、「進路進捗状況届」へのアクセスはできません。\n皆様にはご迷惑をおかけいたしますが、ご理解、ご協力の程よろしくお願いいたします。\n",
             "date_modified": "2023-09-19T03:00:00.000Z"
-        },
-        {
-            "id": "46989d9578cc074bfbc30fa41f87bb3a",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4314",
-            "title": "【10/1開催】永田学長特別講演！！第58回「筑波大学学長を囲む会」（参加自由）",
-            "summary": "10月1日（日）に開催される「創基151年筑波大学開学50周年記念イベント～DESIGN THE FUTURE Marché～」のイベントの一つとして、第５８回「筑波大学学長を囲む会」で永田学長による特別講演会を開催します。\n\n開学50周年を記念するとともに、次の100周年に向けて筑波大学が何を目指しどのように活動していくのか等、本学の思いを永田学長自らの言葉で皆様にお伝えします。\n\n通常の「学長…",
-            "date_modified": "2023-09-15T03:00:00.000Z"
         }
     ]
 }

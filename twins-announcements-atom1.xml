@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/mkobayashime/twins-announcements</id>
     <title>在学生へのお知らせ | 筑波大学</title>
-    <updated>2023-09-25T21:10:52.025Z</updated>
+    <updated>2023-09-26T01:42:46.917Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://github.com/mkobayashime/twins-announcements"/>
     <subtitle>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</subtitle>
+    <entry>
+        <title type="html"><![CDATA[（再掲）【学生ボランティア募集】雙峰祭への出展（11月3日、4日、5日）]]></title>
+        <id>bc0e78975ae983663c20353a8d139b85</id>
+        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4336"/>
+        <updated>2023-09-26T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[筑波大学ヒューマンエンパワーメント推進局（BHE）は、2023年11月4日（土）・5日（日）に開催される雙峰祭にて、学生と共同でジェンダー・セクシュアリティに関する企画の出展を行います。
+そこで、出展の手伝いをお願いできる学生ボランティアを募集します。
+募集要項等の詳細は、以下のジェンダー支援チームHPをご覧ください。
+https://diversity.tsukuba.ac.jp/team/so…]]></summary>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【見逃し配信2023.12.24まで】令和５年度安全講習会（火災・爆発）兼リスクマネジメントセミナー]]></title>
         <id>b4567bde97345c1ab86255330a2b48f8</id>
@@ -225,16 +235,5 @@ https://diversity.tsukuba.ac.jp/team/so…]]></summary>
 なお、サーバー更新作業中は、「学内専用ページ」、「ガイダンス等及び模試試験登録・申請」、「進路進捗状況届」へのアクセスはできません。
 皆様にはご迷惑をおかけいたしますが、ご理解、ご協力の程よろしくお願いいたします。
 ]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【10/1開催】永田学長特別講演！！第58回「筑波大学学長を囲む会」（参加自由）]]></title>
-        <id>46989d9578cc074bfbc30fa41f87bb3a</id>
-        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4314"/>
-        <updated>2023-09-15T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[10月1日（日）に開催される「創基151年筑波大学開学50周年記念イベント～DESIGN THE FUTURE Marché～」のイベントの一つとして、第５８回「筑波大学学長を囲む会」で永田学長による特別講演会を開催します。
-
-開学50周年を記念するとともに、次の100周年に向けて筑波大学が何を目指しどのように活動していくのか等、本学の思いを永田学長自らの言葉で皆様にお伝えします。
-
-通常の「学長…]]></summary>
     </entry>
 </feed>
