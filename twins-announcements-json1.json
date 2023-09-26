@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "90d454be821ff6291a30f6c5bee37832",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4340",
+            "title": "【開催案内】秋の図書館講習会 / Library Workshops",
+            "summary": "附属図書館では、10月から秋の講習会を開催します。\n図書館の使い方や各種データベースの使い方など、学習や研究に役立つ内容です。\nmanabaでコース登録をしてご参加ください。\n皆様のご参加をお待ちしております。\n\n詳しくは下記Webページをご覧ください。\nhttps://www.tulips.tsukuba.ac.jp/lib/support/guidance\n\n---\n\nIn the libra…",
+            "date_modified": "2023-09-26T03:00:00.000Z"
+        },
+        {
             "id": "f404986bad51821e60c844cb701152dc",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4339",
             "title": "【参加者募集】異業種交流会2023（10/13）",
@@ -135,13 +142,6 @@
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4320",
             "title": "Application for Fall 2023 to Suzuki Scholarship sponsored by “Make a Difference in the World Fund”",
             "summary": "“Make a Difference in the World Fund (MDW Fund)” at the University of Tsukuba was established in December 2015 by Visiting Professor Hideaki Suzuki. In view of the increasing economic hardship faced b…",
-            "date_modified": "2023-09-19T03:00:00.000Z"
-        },
-        {
-            "id": "021e9952585407e307fd73b122f89964",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4319",
-            "title": "【再掲】筑波大学「世界を変えよう基金」鈴木奨学金2023年秋学期奨学生募集のお知らせ",
-            "summary": "筑波大学「世界を変えよう基金」は、2015年12月本学客員教授を務めていた鈴木英明氏により創設され、大学内外の社会的・文化的ニーズに貢献する活動を行う筑波大学生を対象に資金支援を行っています。\n\n新型肺炎感染拡大により経済的に困窮する学生が急増した状況に鑑み、経済的困難に直面しながらも将来海外で活躍する意欲を有する学生に対し、奨学金（月２万円）を2020年秋学期以降支給しています。返済は不要ですが…",
             "date_modified": "2023-09-19T03:00:00.000Z"
         }
     ]
