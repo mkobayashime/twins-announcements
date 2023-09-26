@@ -5,6 +5,20 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "800262ceab69810d757ec1ef5fa746ab",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4338",
+            "title": "【Repost】Scholarship for Students Participating in Online International Education & Exchange Programs",
+            "summary": "In order to further promote ONLINE international education and exchange opportunities for students, we will provide support for course fees and other expenses, even if students do not earn credits, on…",
+            "date_modified": "2023-09-26T03:00:00.000Z"
+        },
+        {
+            "id": "88aacc476cfa1b24ed82e020c7192727",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4337",
+            "title": "【再掲】オンラインを活用した国際的な教育・交流プログラムへ参加する学生への奨学金支援",
+            "summary": "学生がオンラインで国境を超えた多様な学びができるよう、国際的な教育・交流プログラムへ参加する学生への経費を支援します。単位を取得しない場合であっても、受講修了証等の提出を条件に、支援対象となります。申請を希望する学生は募集要項をよく確認の上、必要書類をエリア支援室等へ提出してください。\n\n・【対象期間（プログラム参加期間）】令和5年7月～令和5年12月\n・【支援経費】１登録あたり１律３万円（経費が…",
+            "date_modified": "2023-09-26T03:00:00.000Z"
+        },
+        {
             "id": "bc0e78975ae983663c20353a8d139b85",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4336",
             "title": "（再掲）【学生ボランティア募集】雙峰祭への出展（11月3日、4日、5日）",
@@ -128,20 +142,6 @@
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4318",
             "title": "第51回ASIP/TG+公開セミナー「海外コンサルタントとJICA～海外協力に貢献する～」",
             "summary": "第51回ASIP/TG+公開セミナー「海外コンサルタントとJICA～海外協力に貢献する～」\n\n今回の公開セミナーでは、新興国・途上国支援の現場を支える開発コンサルタントの実務とキャリア形成について紹介します。メインスピーカーとして（株）かいはつマネジメント・コンサルティングの小林三恵氏より、大手アパレル企業勤務、JOCVボランティア参加を経て開発コンサルタントとしての活躍に至るまでのキャリアパス、…",
-            "date_modified": "2023-09-19T03:00:00.000Z"
-        },
-        {
-            "id": "9bc7dfdcb3752f26c2ea75aef885755b",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4317",
-            "title": "【学生ボランティア募集】雙峰祭への出展（11月3日、4日、5日）",
-            "summary": "筑波大学ヒューマンエンパワーメント推進局（BHE）は、2023年11月4日（土）・5日（日）に開催される雙峰祭にて、学生と共同でジェンダー・セクシュアリティに関する企画の出展を行います。\nそこで、出展の手伝いをお願いできる学生ボランティアを募集します。\n募集要項等の詳細は、以下のジェンダー支援チームHPをご覧ください。\nhttps://diversity.tsukuba.ac.jp/team/so…",
-            "date_modified": "2023-09-19T03:00:00.000Z"
-        },
-        {
-            "id": "f7e5c4dc1ece4147cbde4ed3df16263e",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4316",
-            "title": "サーバー更新作業に伴うキャリア支援チームHP及び就職情報提供システム停止のお知らせ",
-            "summary": "サーバー更新作業に伴い、下記の時間、キャリア支援チームホームページ等へ繋がりにくくなります。\n【作業日時】9/27（水）9：00　～　 9/27（水）12：15（予定）\n\nなお、サーバー更新作業中は、「学内専用ページ」、「ガイダンス等及び模試試験登録・申請」、「進路進捗状況届」へのアクセスはできません。\n皆様にはご迷惑をおかけいたしますが、ご理解、ご協力の程よろしくお願いいたします。\n",
             "date_modified": "2023-09-19T03:00:00.000Z"
         }
     ]
