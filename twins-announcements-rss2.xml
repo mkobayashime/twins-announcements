@@ -4,10 +4,21 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Wed, 27 Sep 2023 00:33:14 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Sep 2023 03:08:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
+        <item>
+            <title><![CDATA[【Event 10/3,10/6】Library Orientation for International Students]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4342</link>
+            <guid>6cc81920814946740a1f4ed2aa52829b</guid>
+            <pubDate>Wed, 27 Sep 2023 03:00:00 GMT</pubDate>
+            <description><![CDATA["The library orientation for International Students" will be held next week.
+We're waiting for your coming!
+If you have friends of new International Student, please share this information!
+
+留学生のための図書館…]]></description>
+        </item>
         <item>
             <title><![CDATA[【お知らせ】データサイエンス・エキスパート・プログラム（DSEP）/ データサイエンス・エキスパート・プログラム・プラス（DSEP+）の履修証明プログラムの設置及び履修説明会の開催について]]></title>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4341</link>
@@ -231,19 +242,6 @@ https…]]></description>
             <pubDate>Wed, 20 Sep 2023 03:00:00 GMT</pubDate>
             <description><![CDATA[The Student Support Center, with the collaboration of ECHO UT, CASA, and the Indonesian Student Association in Ibaraki, will organize the
 “Student Commons’ SDGs RECYCLING PROJECT“!, in order to utiliz…]]></description>
-        </item>
-        <item>
-            <title><![CDATA[【再掲】就活セミナー「筑波＿卒業後を考える会」開催のお知らせ 　　]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4321</link>
-            <guid>055d5f5c62124b0a9be981455778e99a</guid>
-            <pubDate>Tue, 19 Sep 2023 03:00:00 GMT</pubDate>
-            <description><![CDATA[筑波大学「世界を変えよう基金アカデミー」では、就活を終えた4年生が自らの経験を下級生に伝える「筑波＿卒業後を考える会」をZoomで開催します。
-ガクチカ、インターン体験、就活対象先を絞り込んで最終内定先を選んだ過程等、
-就活中あるいはこれから就活を始める皆さんにとって興味深いテーマを取り上げていただきます。
-
-日程は下記のとおりです。
-　　　　　 　　　　　 スピーカー
-9/24(日) 20:00…]]></description>
         </item>
     </channel>
 </rss>

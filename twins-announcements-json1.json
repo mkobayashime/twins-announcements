@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "6cc81920814946740a1f4ed2aa52829b",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4342",
+            "title": "【Event 10/3,10/6】Library Orientation for International Students",
+            "summary": "\"The library orientation for International Students\" will be held next week.\nWe're waiting for your coming!\nIf you have friends of new International Student, please share this information!\n\n留学生のための図書館…",
+            "date_modified": "2023-09-27T03:00:00.000Z"
+        },
+        {
             "id": "cf93eb38a6deb8e810684e3a191ddb74",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4341",
             "title": "【お知らせ】データサイエンス・エキスパート・プログラム（DSEP）/ データサイエンス・エキスパート・プログラム・プラス（DSEP+）の履修証明プログラムの設置及び履修説明会の開催について",
@@ -136,13 +143,6 @@
             "title": "From TODAY! Distribution of reusable items (FREE)",
             "summary": "The Student Support Center, with the collaboration of ECHO UT, CASA, and the Indonesian Student Association in Ibaraki, will organize the\n“Student Commons’ SDGs RECYCLING PROJECT“!, in order to utiliz…",
             "date_modified": "2023-09-20T03:00:00.000Z"
-        },
-        {
-            "id": "055d5f5c62124b0a9be981455778e99a",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4321",
-            "title": "【再掲】就活セミナー「筑波＿卒業後を考える会」開催のお知らせ 　　",
-            "summary": "筑波大学「世界を変えよう基金アカデミー」では、就活を終えた4年生が自らの経験を下級生に伝える「筑波＿卒業後を考える会」をZoomで開催します。\nガクチカ、インターン体験、就活対象先を絞り込んで最終内定先を選んだ過程等、\n就活中あるいはこれから就活を始める皆さんにとって興味深いテーマを取り上げていただきます。\n\n日程は下記のとおりです。\n　　　　　 　　　　　 スピーカー\n9/24(日) 20:00…",
-            "date_modified": "2023-09-19T03:00:00.000Z"
         }
     ]
 }
