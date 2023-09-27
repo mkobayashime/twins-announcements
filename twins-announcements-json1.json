@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "cf93eb38a6deb8e810684e3a191ddb74",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4341",
+            "title": "【お知らせ】データサイエンス・エキスパート・プログラム（DSEP）/ データサイエンス・エキスパート・プログラム・プラス（DSEP+）の履修証明プログラムの設置及び履修説明会の開催について",
+            "summary": "本学大学院の学生　各位\n\n本学では開学以来、全ての学士課程の学生に対して必修科目として講義形式とコンピューターでの演習を含めた発展的な情報教育を実施しており、世界的にも先駆的な情報教育を行っております。\n\nまた、近年では、デジタル社会の「読み・書き・そろばん」として「数理・データサイエンス・AI（以下「MDA」という。）」の基礎などの必要な力を全ての国民が育み、あらゆる分野で人材が活躍することが謳…",
+            "date_modified": "2023-09-27T03:00:00.000Z"
+        },
+        {
             "id": "90d454be821ff6291a30f6c5bee37832",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4340",
             "title": "【開催案内】秋の図書館講習会 / Library Workshops",
@@ -135,13 +142,6 @@
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4321",
             "title": "【再掲】就活セミナー「筑波＿卒業後を考える会」開催のお知らせ 　　",
             "summary": "筑波大学「世界を変えよう基金アカデミー」では、就活を終えた4年生が自らの経験を下級生に伝える「筑波＿卒業後を考える会」をZoomで開催します。\nガクチカ、インターン体験、就活対象先を絞り込んで最終内定先を選んだ過程等、\n就活中あるいはこれから就活を始める皆さんにとって興味深いテーマを取り上げていただきます。\n\n日程は下記のとおりです。\n　　　　　 　　　　　 スピーカー\n9/24(日) 20:00…",
-            "date_modified": "2023-09-19T03:00:00.000Z"
-        },
-        {
-            "id": "5435d5b4f2c98d19b2cf498885f2e73a",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4320",
-            "title": "Application for Fall 2023 to Suzuki Scholarship sponsored by “Make a Difference in the World Fund”",
-            "summary": "“Make a Difference in the World Fund (MDW Fund)” at the University of Tsukuba was established in December 2015 by Visiting Professor Hideaki Suzuki. In view of the increasing economic hardship faced b…",
             "date_modified": "2023-09-19T03:00:00.000Z"
         }
     ]

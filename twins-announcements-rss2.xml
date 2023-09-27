@@ -4,10 +4,21 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Tue, 26 Sep 2023 21:11:04 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Sep 2023 00:33:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
+        <item>
+            <title><![CDATA[【お知らせ】データサイエンス・エキスパート・プログラム（DSEP）/ データサイエンス・エキスパート・プログラム・プラス（DSEP+）の履修証明プログラムの設置及び履修説明会の開催について]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4341</link>
+            <guid>cf93eb38a6deb8e810684e3a191ddb74</guid>
+            <pubDate>Wed, 27 Sep 2023 03:00:00 GMT</pubDate>
+            <description><![CDATA[本学大学院の学生　各位
+
+本学では開学以来、全ての学士課程の学生に対して必修科目として講義形式とコンピューターでの演習を含めた発展的な情報教育を実施しており、世界的にも先駆的な情報教育を行っております。
+
+また、近年では、デジタル社会の「読み・書き・そろばん」として「数理・データサイエンス・AI（以下「MDA」という。）」の基礎などの必要な力を全ての国民が育み、あらゆる分野で人材が活躍することが謳…]]></description>
+        </item>
         <item>
             <title><![CDATA[【開催案内】秋の図書館講習会 / Library Workshops]]></title>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4340</link>
@@ -233,13 +244,6 @@ https…]]></description>
 日程は下記のとおりです。
 　　　　　 　　　　　 スピーカー
 9/24(日) 20:00…]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Application for Fall 2023 to Suzuki Scholarship sponsored by “Make a Difference in the World Fund”]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4320</link>
-            <guid>5435d5b4f2c98d19b2cf498885f2e73a</guid>
-            <pubDate>Tue, 19 Sep 2023 03:00:00 GMT</pubDate>
-            <description><![CDATA[“Make a Difference in the World Fund (MDW Fund)” at the University of Tsukuba was established in December 2015 by Visiting Professor Hideaki Suzuki. In view of the increasing economic hardship faced b…]]></description>
         </item>
     </channel>
 </rss>
