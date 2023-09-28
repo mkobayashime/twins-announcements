@@ -2,10 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/mkobayashime/twins-announcements</id>
     <title>在学生へのお知らせ | 筑波大学</title>
-    <updated>2023-09-27T21:10:45.567Z</updated>
+    <updated>2023-09-28T00:32:55.877Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://github.com/mkobayashime/twins-announcements"/>
     <subtitle>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</subtitle>
+    <entry>
+        <title type="html"><![CDATA[（BHE)10月20日　就活支援企画　チャレンジ実践会のご案内]]></title>
+        <id>6eb7e21dcf1f8d0779118f6ce60c9036</id>
+        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4343"/>
+        <updated>2023-09-28T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[10月も面接編とGD編を対面で開催します。
+ビジネスマナーも学ぶことができます。
+就活中の方、ISの選考を受ける方、参加して役立ててください。
+BHEキャリア支援チームのファシリテーターからフィードバックがあります。
+
+〇開催日時
+10月20日（金）
+面接編　１０：００－１２：００
+GD編　  １３：３０－１５：００
+
+〇場所
+面接編　人間系学系棟A　１階　１１４
+GD編　BHE会議室（スチューデ…]]></summary>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【Event 10/3,10/6】Library Orientation for International Students]]></title>
         <id>6cc81920814946740a1f4ed2aa52829b</id>
@@ -232,13 +251,5 @@ https…]]></summary>
         <updated>2023-09-20T03:00:00.000Z</updated>
         <summary type="html"><![CDATA[スチューデントサポートセンターでは、ECHO UT、CASAおよびIndonesian Student Association in Ibaraki の協力のもと、学生のための交流スペースであるStudent Commonsを活用し、かつSDGｓに資するため、”Student Commons’ SDGs RECYCLING PROJECT”
 として、学期が切り替わる8月から9月に、「まだ使用できる…]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[From TODAY! Distribution of reusable items (FREE)]]></title>
-        <id>dcc990f133462205c7ad8314a16de5a7</id>
-        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4322"/>
-        <updated>2023-09-20T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[The Student Support Center, with the collaboration of ECHO UT, CASA, and the Indonesian Student Association in Ibaraki, will organize the
-“Student Commons’ SDGs RECYCLING PROJECT“!, in order to utiliz…]]></summary>
     </entry>
 </feed>
