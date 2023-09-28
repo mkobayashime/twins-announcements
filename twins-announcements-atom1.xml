@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/mkobayashime/twins-announcements</id>
     <title>在学生へのお知らせ | 筑波大学</title>
-    <updated>2023-09-28T09:12:22.821Z</updated>
+    <updated>2023-09-28T10:08:15.266Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://github.com/mkobayashime/twins-announcements"/>
     <subtitle>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</subtitle>
+    <entry>
+        <title type="html"><![CDATA[10/5（木）13:00-15:00「Business Leaders’ Seminar/ビジネスリーダーズセミナー」（対象：全学生）]]></title>
+        <id>3ef899bad5ff8a257aaf006867f6a91a</id>
+        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4348"/>
+        <updated>2023-09-28T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[ヒューマンバイオロジー学位プログラムでは授業の一環として「Business Leaders’ Seminar/ビジネスリーダーズセミナー」を開催しています。
+本セミナーは、世界のトップビジネスリーダーを招き、オムニバス形式でキャリア形成やビジネスに関する成功と失敗の話などの経験を紹介するものです。
+
+10月5日（木）13:00-15:00に開催するセミナーでは、1on1エンゲージメント研究所 代表…]]></summary>
+    </entry>
     <entry>
         <title type="html"><![CDATA[再掲【10/4】セミナー「コンサルタントとJICA~国際協力に貢献する~」]]></title>
         <id>d61d09e9673ea17aca81fe17a244ad46</id>
@@ -237,18 +247,5 @@ Sat., October 7,  9…]]></summary>
 
 本件の問い合わせ先：
 情報工学域　河辺　徹…]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[世界を変えよう基金「日本絵画を楽しむ会」学生アシスタント募集]]></title>
-        <id>24df5c78d008fb54a300f2dacd2ea0a4</id>
-        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4325"/>
-        <updated>2023-09-21T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[「筑波大学・世界を変えよう基金」は、毎年秋学期に「日本絵画を楽しむ会」を開催しています。次回開催に先立ち、「楽しむ会」で鑑賞する日本絵画について資料を作成する学部生アシスタント2名を募集します。
-課題は下記のとおりです。
-１） 東京国立博物館で開催される下記特別展を鑑賞し、主な出展作品（
-約25点）についてパワポ（作品ごとに２枚）を作成する。
-
-特別展「やまと絵　受け継がれる王朝の美」
-https…]]></summary>
     </entry>
 </feed>
