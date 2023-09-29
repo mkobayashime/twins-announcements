@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "57e2d3d44523aa831848199415be5f03",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4349",
+            "title": "【連絡】（大学院生対象）令和５年度TOEIC IPテストの実施について[Notice] TOEIC IP Test 2023 for graduate students",
+            "summary": "本件について、申込いただいた方へ、申込時に登録したメールアドレスもしくはTWINSに登録されているアドレス（登録時のアドレスが送信エラーとなっている場合）に受験に必要な情報等を送信しました（9/27-28）。\nもしメールが見当たらない場合は、迷惑メール等に振り分けられていないかご確認ください。それでも見つからない場合、登録したメールアドレス等が間違っている可能性がありますので、sp.global@…",
+            "date_modified": "2023-09-29T03:00:00.000Z"
+        },
+        {
             "id": "3ef899bad5ff8a257aaf006867f6a91a",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4348",
             "title": "10/5（木）13:00-15:00「Business Leaders’ Seminar/ビジネスリーダーズセミナー」（対象：全学生）",
@@ -136,13 +143,6 @@
             "title": "【10/4】公開セミナー「海外コンサルタントとJICA～海外協力に貢献する～」",
             "summary": "第51回ASIP/TG+公開セミナー「海外コンサルタントとJICA～海外協力に貢献する～」 のご案内です。\n\n日時：2023年10月4日　18:10～19:40\n講師：（株）かいはつマネジメント・コンサルティング　小林三恵氏\n　　　（一社）海外コンサルタンツ協会・河野敬子氏　\n　　　（独）国際協力機構筑波センター（JICA筑波）・波多野誠氏\n会場：文科修士棟８A107室\n　\n参加申し込みはこちらか…",
             "date_modified": "2023-09-22T03:00:00.000Z"
-        },
-        {
-            "id": "4777ed48e6fcddae6681585b844cb1ba",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4326",
-            "title": "【開催案内】Honda-常総市AIまちづくりセミナー（10/4(水) 13:45～；SB棟1F）",
-            "summary": "HondaR&DとWing-AI labと共催で，10/4(水)に\n\n人と分かり合い協調・共存する自動運転・移動ロボット技術　\n＆　Honda-常総市AIまちづくりセミナー\n\nを開催します．詳細は添付をご覧ください．\n\n教職員，研究員，学生（学類生，大学院生）と幅広く参加可能で，\n参加申し込み等は不要です．\n\n多くの皆様方のご参加をお待ちしております．\n\n本件の問い合わせ先：\n情報工学域　河辺　徹…",
-            "date_modified": "2023-09-21T03:00:00.000Z"
         }
     ]
 }

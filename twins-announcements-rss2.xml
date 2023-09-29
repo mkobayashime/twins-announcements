@@ -4,10 +4,18 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Thu, 28 Sep 2023 21:11:05 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 Sep 2023 02:15:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
+        <item>
+            <title><![CDATA[【連絡】（大学院生対象）令和５年度TOEIC IPテストの実施について[Notice] TOEIC IP Test 2023 for graduate students]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4349</link>
+            <guid>57e2d3d44523aa831848199415be5f03</guid>
+            <pubDate>Fri, 29 Sep 2023 03:00:00 GMT</pubDate>
+            <description><![CDATA[本件について、申込いただいた方へ、申込時に登録したメールアドレスもしくはTWINSに登録されているアドレス（登録時のアドレスが送信エラーとなっている場合）に受験に必要な情報等を送信しました（9/27-28）。
+もしメールが見当たらない場合は、迷惑メール等に振り分けられていないかご確認ください。それでも見つからない場合、登録したメールアドレス等が間違っている可能性がありますので、sp.global@…]]></description>
+        </item>
         <item>
             <title><![CDATA[10/5（木）13:00-15:00「Business Leaders’ Seminar/ビジネスリーダーズセミナー」（対象：全学生）]]></title>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4348</link>
@@ -229,26 +237,6 @@ Sat., October 7,  9…]]></description>
 会場：文科修士棟８A107室
 　
 参加申し込みはこちらか…]]></description>
-        </item>
-        <item>
-            <title><![CDATA[【開催案内】Honda-常総市AIまちづくりセミナー（10/4(水) 13:45～；SB棟1F）]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4326</link>
-            <guid>4777ed48e6fcddae6681585b844cb1ba</guid>
-            <pubDate>Thu, 21 Sep 2023 03:00:00 GMT</pubDate>
-            <description><![CDATA[HondaR&DとWing-AI labと共催で，10/4(水)に
-
-人と分かり合い協調・共存する自動運転・移動ロボット技術　
-＆　Honda-常総市AIまちづくりセミナー
-
-を開催します．詳細は添付をご覧ください．
-
-教職員，研究員，学生（学類生，大学院生）と幅広く参加可能で，
-参加申し込み等は不要です．
-
-多くの皆様方のご参加をお待ちしております．
-
-本件の問い合わせ先：
-情報工学域　河辺　徹…]]></description>
         </item>
     </channel>
 </rss>
