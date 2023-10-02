@@ -2,10 +2,18 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/mkobayashime/twins-announcements</id>
     <title>在学生へのお知らせ | 筑波大学</title>
-    <updated>2023-10-02T06:10:46.447Z</updated>
+    <updated>2023-10-02T08:10:53.980Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://github.com/mkobayashime/twins-announcements"/>
     <subtitle>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</subtitle>
+    <entry>
+        <title type="html"><![CDATA[2023年度第2期分授業料の納付について]]></title>
+        <id>ceb5bc5d37ef0aa0f9b930ad8e5d09df</id>
+        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4358"/>
+        <updated>2023-10-02T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[2023年度第2期分授業料の納付について、添付の通りお知らせいたします。
+口座振替日、納付期限についてご確認をお願いいたします。]]></summary>
+    </entry>
     <entry>
         <title type="html"><![CDATA[BHE主催「筑波大学就職ミライ博2023」開催のお知らせ]]></title>
         <id>1d895eacd298c7dae99c3d25701940c2</id>
@@ -229,15 +237,5 @@ In the libra…]]></summary>
         <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4338"/>
         <updated>2023-09-26T03:00:00.000Z</updated>
         <summary type="html"><![CDATA[In order to further promote ONLINE international education and exchange opportunities for students, we will provide support for course fees and other expenses, even if students do not earn credits, on…]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【再掲】オンラインを活用した国際的な教育・交流プログラムへ参加する学生への奨学金支援]]></title>
-        <id>88aacc476cfa1b24ed82e020c7192727</id>
-        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4337"/>
-        <updated>2023-09-26T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[学生がオンラインで国境を超えた多様な学びができるよう、国際的な教育・交流プログラムへ参加する学生への経費を支援します。単位を取得しない場合であっても、受講修了証等の提出を条件に、支援対象となります。申請を希望する学生は募集要項をよく確認の上、必要書類をエリア支援室等へ提出してください。
-
-・【対象期間（プログラム参加期間）】令和5年7月～令和5年12月
-・【支援経費】１登録あたり１律３万円（経費が…]]></summary>
     </entry>
 </feed>
