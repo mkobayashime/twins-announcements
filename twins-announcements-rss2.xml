@@ -4,10 +4,19 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Mon, 02 Oct 2023 00:33:37 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 02 Oct 2023 03:08:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
+        <item>
+            <title><![CDATA[【申込者募集】10/20開催「支援技術マッチングイベント」について]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4352</link>
+            <guid>155329bc7b2cb70bade18506f63b620b</guid>
+            <pubDate>Mon, 02 Oct 2023 03:00:00 GMT</pubDate>
+            <description><![CDATA[　日々大幅な進歩を遂げるアシスティブ・テクノロジー。その技術や開発に取り組む企業を招き、筑波大学学生・教職員及び筑波技術大学学生・教職員を対象に、最新の支援技術を体験いただけるイベントを開催いたします。
+　本イベントでは「きく」「みる」「うごく」をテーマにした支援技術を実際に体験いただけます。体験した感想や要望を学生の声として企業担当者にフィードバックすることもできる貴重な機会です。
+　障害の有無…]]></description>
+        </item>
         <item>
             <title><![CDATA[STOP！研究費不正使用！／STOP！Wrongful use of research funding！]]></title>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4351</link>
@@ -226,21 +235,6 @@ Sat., October 7,  9…]]></description>
 この度、10月16日（月）から10月20日（金）までの期間を機器共用促進の重点実施期間として、
 「筑波大学オープンファシリティーウィーク2023」を下記のとおり、開催することとなりましたので、
 ご案内申し…]]></description>
-        </item>
-        <item>
-            <title><![CDATA[【10/4】公開セミナー「海外コンサルタントとJICA～海外協力に貢献する～」]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4327</link>
-            <guid>6b3b4dd002a7428146b82dfa6519bfad</guid>
-            <pubDate>Fri, 22 Sep 2023 03:00:00 GMT</pubDate>
-            <description><![CDATA[第51回ASIP/TG+公開セミナー「海外コンサルタントとJICA～海外協力に貢献する～」 のご案内です。
-
-日時：2023年10月4日　18:10～19:40
-講師：（株）かいはつマネジメント・コンサルティング　小林三恵氏
-　　　（一社）海外コンサルタンツ協会・河野敬子氏　
-　　　（独）国際協力機構筑波センター（JICA筑波）・波多野誠氏
-会場：文科修士棟８A107室
-　
-参加申し込みはこちらか…]]></description>
         </item>
     </channel>
 </rss>
