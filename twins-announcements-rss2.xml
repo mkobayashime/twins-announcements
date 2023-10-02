@@ -4,10 +4,18 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Mon, 02 Oct 2023 03:08:53 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 02 Oct 2023 04:09:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
+        <item>
+            <title><![CDATA[Special Seminar: Hazardous Waste Management and Safety Standards on Campus]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4353</link>
+            <guid>32273ba00c90ffbde206a1fd4a8a07e2</guid>
+            <pubDate>Mon, 02 Oct 2023 03:00:00 GMT</pubDate>
+            <description><![CDATA[We are plesased to announce that the ”Special Seminar Environmental Health and Safety: Hazardous Waste Management and Safety Standards on Campus” will be held as follows.
+We look forward to your parti…]]></description>
+        </item>
         <item>
             <title><![CDATA[【申込者募集】10/20開催「支援技術マッチングイベント」について]]></title>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4352</link>
@@ -224,17 +232,6 @@ Sat., October 7,  9…]]></description>
 スポーツを通じて一緒に開学記念をお祝いしませんか？
 
 当日実施予定の3企画の参加者を募集しています！…]]></description>
-        </item>
-        <item>
-            <title><![CDATA[【開催案内】筑波大学 Open Facility Week 2023開催のお知らせ(10/16-20)※申込締切10/9]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4328</link>
-            <guid>d26f8c073082e3ac46f8bbc7c41866be</guid>
-            <pubDate>Fri, 22 Sep 2023 03:00:00 GMT</pubDate>
-            <description><![CDATA[オープンファシリティー推進機構では、教育研究を効率的に推進するため、332台以上の共同利用機器を
-オープンファシリティーシステムに登録し、設備の有効活用に伴う利用サポートを実施いたしております。
-この度、10月16日（月）から10月20日（金）までの期間を機器共用促進の重点実施期間として、
-「筑波大学オープンファシリティーウィーク2023」を下記のとおり、開催することとなりましたので、
-ご案内申し…]]></description>
         </item>
     </channel>
 </rss>
