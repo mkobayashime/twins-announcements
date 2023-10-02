@@ -4,10 +4,36 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Mon, 02 Oct 2023 05:07:53 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 02 Oct 2023 06:10:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
+        <item>
+            <title><![CDATA[BHE主催「筑波大学就職ミライ博2023」開催のお知らせ]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4357</link>
+            <guid>1d895eacd298c7dae99c3d25701940c2</guid>
+            <pubDate>Mon, 02 Oct 2023 03:00:00 GMT</pubDate>
+            <description><![CDATA[筑波大学就職ミライ博とは…？
+
+筑波大生だけが参加できる、筑波大生のための、学内最大の就活イベントです。
+12月の「業界研究会」
+2024年3月の「合同企業説明会」
+2024年5月の「合同企業説明会Part２」
+2024年6月の「インターンシップ研究会」と、４つのイベントを開催いたします。
+
+12月と3月のイベントの直前には、 イベントを最大活用するためのオンラインセミナーも開催予定！
+
+参加対象…]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Free Ebook Trial Service Part2]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4356</link>
+            <guid>3c31eda2472779f71da36b95e770c162</guid>
+            <pubDate>Mon, 02 Oct 2023 03:00:00 GMT</pubDate>
+            <description><![CDATA[In order to support teaching and learning, the library provides an eBook trial service again!
+
+You can try any part of the eBooks from the following eBook platforms for free for five minutes per title…]]></description>
+        </item>
         <item>
             <title><![CDATA[[再掲] ●大学院説明会● [生命医科学] × [理・工・情報学] 一貫制博士課程「ヒューマニクス学位プログラム」10/7(土)＆11/18(土)]]></title>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4355</link>
@@ -215,26 +241,6 @@ In the libra…]]></description>
 
 ・【対象期間（プログラム参加期間）】令和5年7月～令和5年12月
 ・【支援経費】１登録あたり１律３万円（経費が…]]></description>
-        </item>
-        <item>
-            <title><![CDATA[【参加者募集】介護セミナー「認知症サポーター養成講座」（10/27開催）]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4333</link>
-            <guid>5f53ace437230aeeb2b9e7d088261173</guid>
-            <pubDate>Mon, 25 Sep 2023 03:00:00 GMT</pubDate>
-            <description><![CDATA[ヒューマンエンパワーメント推進局では、10月27日（金）に認知症をテーマとした介護セミナーを開催します。
-日本における65歳以上の認知症の人の数は、2025年には約650〜700万人（高齢者の約５人に１人）に増加すると予測されています。
-認知症サポーター養成講座に参加して、認知症について正しく理解し認知症の人やその家族を温かい目で見守る応援者（認知症サポーター）になってみませんか？
-認知症の基礎知…]]></description>
-        </item>
-        <item>
-            <title><![CDATA[【Event Notice】Briefing Sessions (Hybrid) for the Jan 2024 Entrance Examination]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4332</link>
-            <guid>415ea9dc7761ecf9ad2cc1eefe2b71e3</guid>
-            <pubDate>Mon, 25 Sep 2023 03:00:00 GMT</pubDate>
-            <description><![CDATA[The Ph.D. Program in Humanics (Five-year Doctoral Program, University of Tsukuba) will hold Briefing Sessions for the January 2024 Entrance Examination as follows.
-
-◆Date and Venue
-Sat., October 7,  9…]]></description>
         </item>
     </channel>
 </rss>

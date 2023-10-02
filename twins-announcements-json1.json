@@ -5,6 +5,20 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "1d895eacd298c7dae99c3d25701940c2",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4357",
+            "title": "BHE主催「筑波大学就職ミライ博2023」開催のお知らせ",
+            "summary": "筑波大学就職ミライ博とは…？\n\n筑波大生だけが参加できる、筑波大生のための、学内最大の就活イベントです。\n12月の「業界研究会」\n2024年3月の「合同企業説明会」\n2024年5月の「合同企業説明会Part２」\n2024年6月の「インターンシップ研究会」と、４つのイベントを開催いたします。\n\n12月と3月のイベントの直前には、 イベントを最大活用するためのオンラインセミナーも開催予定！\n\n参加対象…",
+            "date_modified": "2023-10-02T03:00:00.000Z"
+        },
+        {
+            "id": "3c31eda2472779f71da36b95e770c162",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4356",
+            "title": "Free Ebook Trial Service Part2",
+            "summary": "In order to support teaching and learning, the library provides an eBook trial service again!\n\nYou can try any part of the eBooks from the following eBook platforms for free for five minutes per title…",
+            "date_modified": "2023-10-02T03:00:00.000Z"
+        },
+        {
             "id": "095646828a40ae4e1264a8c83c62fd59",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4355",
             "title": "[再掲] ●大学院説明会● [生命医科学] × [理・工・情報学] 一貫制博士課程「ヒューマニクス学位プログラム」10/7(土)＆11/18(土)",
@@ -129,20 +143,6 @@
             "title": "【再掲】オンラインを活用した国際的な教育・交流プログラムへ参加する学生への奨学金支援",
             "summary": "学生がオンラインで国境を超えた多様な学びができるよう、国際的な教育・交流プログラムへ参加する学生への経費を支援します。単位を取得しない場合であっても、受講修了証等の提出を条件に、支援対象となります。申請を希望する学生は募集要項をよく確認の上、必要書類をエリア支援室等へ提出してください。\n\n・【対象期間（プログラム参加期間）】令和5年7月～令和5年12月\n・【支援経費】１登録あたり１律３万円（経費が…",
             "date_modified": "2023-09-26T03:00:00.000Z"
-        },
-        {
-            "id": "5f53ace437230aeeb2b9e7d088261173",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4333",
-            "title": "【参加者募集】介護セミナー「認知症サポーター養成講座」（10/27開催）",
-            "summary": "ヒューマンエンパワーメント推進局では、10月27日（金）に認知症をテーマとした介護セミナーを開催します。\n日本における65歳以上の認知症の人の数は、2025年には約650〜700万人（高齢者の約５人に１人）に増加すると予測されています。\n認知症サポーター養成講座に参加して、認知症について正しく理解し認知症の人やその家族を温かい目で見守る応援者（認知症サポーター）になってみませんか？\n認知症の基礎知…",
-            "date_modified": "2023-09-25T03:00:00.000Z"
-        },
-        {
-            "id": "415ea9dc7761ecf9ad2cc1eefe2b71e3",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4332",
-            "title": "【Event Notice】Briefing Sessions (Hybrid) for the Jan 2024 Entrance Examination",
-            "summary": "The Ph.D. Program in Humanics (Five-year Doctoral Program, University of Tsukuba) will hold Briefing Sessions for the January 2024 Entrance Examination as follows.\n\n◆Date and Venue\nSat., October 7,  9…",
-            "date_modified": "2023-09-25T03:00:00.000Z"
         }
     ]
 }
