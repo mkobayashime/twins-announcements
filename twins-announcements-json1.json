@@ -5,6 +5,27 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "454b1b645b9c92bc10590e3008907fe3",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4363",
+            "title": "（再掲）【参加者募集】異業種交流会2023（10/13）",
+            "summary": "ヒューマンエンパワーメント推進局（BHE）ジェンダー支援チームでは、10月13日（金）に女性研究者・技術者の方を中心とした企業・研究機関・大学の交流会「異業種交流会2023」を開催いたします。\n研究者・技術者の方はもちろん、学生から職員の方までどなたでもご参加いただけますので、ぜひお気軽にご参加ください。\n\n■イベント詳細は、以下のジェンダー支援チームHPをご覧ください。\nhttps://dive…",
+            "date_modified": "2023-10-03T03:00:00.000Z"
+        },
+        {
+            "id": "a38aa8e31fd0e7d0dd91bb0df90528f0",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4362",
+            "title": "Announcement on the Student Health Examination for Fall Semester 2023",
+            "summary": "The Student Health Examination for Fall Semester 2023 will be divided into a physical examination and a mental health survey as follows.\nPlease be sure to take the examination if you are eligible.\n\nPh…",
+            "date_modified": "2023-10-03T03:00:00.000Z"
+        },
+        {
+            "id": "b7254b9fc77e8ce532171652c4a92626",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4361",
+            "title": "【再掲】令和５年度秋学期学生健康診断について",
+            "summary": "令和５年度秋学期学生健康診断について、身体検査とこころの健康調査に分けて以下の通り実施します。\n該当者は必ず受診してください。\n\n身体検査\n１０月２４日（火）から１０月２５日（水）で実施されます。\n【対象】・令和５年９月・10月に入学した学群生・大学院生\n　　　　・令和５年５月以降に来日した非正規留学生\n　　　　・令和５年４月の健康診断実施時に海外にいた学生←※9/27申込締切\n\nこころの健康調査…",
+            "date_modified": "2023-10-03T03:00:00.000Z"
+        },
+        {
             "id": "77a62a11cc5a462011d99fa4162c8b65",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4360",
             "title": "留学生対象【Event Info】１泊２日ホームステイ\"2 days and 1 night Homestay\"",
@@ -122,27 +143,6 @@
             "title": "（BHE)10月20日　就活支援企画　チャレンジ実践会のご案内",
             "summary": "10月も面接編とGD編を対面で開催します。\nビジネスマナーも学ぶことができます。\n就活中の方、ISの選考を受ける方、参加して役立ててください。\nBHEキャリア支援チームのファシリテーターからフィードバックがあります。\n\n〇開催日時\n10月20日（金）\n面接編　１０：００－１２：００\nGD編　  １３：３０－１５：００\n\n〇場所\n面接編　人間系学系棟A　１階　１１４\nGD編　BHE会議室（スチューデ…",
             "date_modified": "2023-09-28T03:00:00.000Z"
-        },
-        {
-            "id": "6cc81920814946740a1f4ed2aa52829b",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4342",
-            "title": "【Event 10/3,10/6】Library Orientation for International Students",
-            "summary": "\"The library orientation for International Students\" will be held next week.\nWe're waiting for your coming!\nIf you have friends of new International Student, please share this information!\n\n留学生のための図書館…",
-            "date_modified": "2023-09-27T03:00:00.000Z"
-        },
-        {
-            "id": "cf93eb38a6deb8e810684e3a191ddb74",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4341",
-            "title": "【お知らせ】データサイエンス・エキスパート・プログラム（DSEP）/ データサイエンス・エキスパート・プログラム・プラス（DSEP+）の履修証明プログラムの設置及び履修説明会の開催について",
-            "summary": "本学大学院の学生　各位\n\n本学では開学以来、全ての学士課程の学生に対して必修科目として講義形式とコンピューターでの演習を含めた発展的な情報教育を実施しており、世界的にも先駆的な情報教育を行っております。\n\nまた、近年では、デジタル社会の「読み・書き・そろばん」として「数理・データサイエンス・AI（以下「MDA」という。）」の基礎などの必要な力を全ての国民が育み、あらゆる分野で人材が活躍することが謳…",
-            "date_modified": "2023-09-27T03:00:00.000Z"
-        },
-        {
-            "id": "90d454be821ff6291a30f6c5bee37832",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4340",
-            "title": "【開催案内】秋の図書館講習会 / Library Workshops",
-            "summary": "附属図書館では、10月から秋の講習会を開催します。\n図書館の使い方や各種データベースの使い方など、学習や研究に役立つ内容です。\nmanabaでコース登録をしてご参加ください。\n皆様のご参加をお待ちしております。\n\n詳しくは下記Webページをご覧ください。\nhttps://www.tulips.tsukuba.ac.jp/lib/support/guidance\n\n---\n\nIn the libra…",
-            "date_modified": "2023-09-26T03:00:00.000Z"
         }
     ]
 }
