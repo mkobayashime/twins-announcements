@@ -5,6 +5,20 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "77a62a11cc5a462011d99fa4162c8b65",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4360",
+            "title": "留学生対象【Event Info】１泊２日ホームステイ\"2 days and 1 night Homestay\"",
+            "summary": "<留学生対象>\n利根町国際交流会が１泊２日のホームステイ参加者を募集します。\n日時：2023年11月3日(金)8:30～4日(土)16:00頃まで\n行先：利根町文化センター、房総のむら（希望者は「房総のむら」でコスプレ衣装をレンタル可能）\n参加費用：1,000円(コスプレ希望者はレンタル料別途)\n申込方法：10月10日(火)までに下記から申込。\n＊ 実際に参加できる方には、利根町国際交流会から連絡…",
+            "date_modified": "2023-10-03T03:00:00.000Z"
+        },
+        {
+            "id": "bb42b4aa10d6ddfd179b2e525a184be2",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4359",
+            "title": "世界を変えよう基金後援イベント「インド学生ボランティア報告ー学生の私たちだからできること」開催のお知らせ",
+            "summary": "筑波大学“世界を変えよう基金”は、インドのハンセン病患者コロニーでボランティア活動を行う学生グループ「インドワークキャンプ団体namaste!」を2017年から資金面で支援しています。\n\nこの夏、インドの現地で2週間ボランティア活動に従事したnamaste!のメンバーの活動報告会を、下記の日時に対面・Zoomのハイブリッドで開催します。\n10月22日（日）14:30\n教室：3A306\nZoom情報…",
+            "date_modified": "2023-10-03T03:00:00.000Z"
+        },
+        {
             "id": "ceb5bc5d37ef0aa0f9b930ad8e5d09df",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4358",
             "title": "2023年度第2期分授業料の納付について",
@@ -128,20 +142,6 @@
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4340",
             "title": "【開催案内】秋の図書館講習会 / Library Workshops",
             "summary": "附属図書館では、10月から秋の講習会を開催します。\n図書館の使い方や各種データベースの使い方など、学習や研究に役立つ内容です。\nmanabaでコース登録をしてご参加ください。\n皆様のご参加をお待ちしております。\n\n詳しくは下記Webページをご覧ください。\nhttps://www.tulips.tsukuba.ac.jp/lib/support/guidance\n\n---\n\nIn the libra…",
-            "date_modified": "2023-09-26T03:00:00.000Z"
-        },
-        {
-            "id": "f404986bad51821e60c844cb701152dc",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4339",
-            "title": "【参加者募集】異業種交流会2023（10/13）",
-            "summary": "ヒューマンエンパワーメント推進局（BHE）ジェンダー支援チームでは、10月13日（金）に女性研究者・技術者の方を中心とした企業・研究機関・大学の交流会「異業種交流会2023」を開催いたします。\n参加者と併せて、【リーダーのワークライフバランス】をテーマに、話題提供のプレゼンをしてくださる方も募集しています！（詳しくは添付資料の〈TIDE2023_要項〉をご確認ください）\n研究者・技術者の方はもちろ…",
-            "date_modified": "2023-09-26T03:00:00.000Z"
-        },
-        {
-            "id": "800262ceab69810d757ec1ef5fa746ab",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4338",
-            "title": "【Repost】Scholarship for Students Participating in Online International Education & Exchange Programs",
-            "summary": "In order to further promote ONLINE international education and exchange opportunities for students, we will provide support for course fees and other expenses, even if students do not earn credits, on…",
             "date_modified": "2023-09-26T03:00:00.000Z"
         }
     ]

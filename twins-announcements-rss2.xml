@@ -4,10 +4,35 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Mon, 02 Oct 2023 21:11:03 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 03 Oct 2023 00:33:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
+        <item>
+            <title><![CDATA[留学生対象【Event Info】１泊２日ホームステイ"2 days and 1 night Homestay"]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4360</link>
+            <guid>77a62a11cc5a462011d99fa4162c8b65</guid>
+            <pubDate>Tue, 03 Oct 2023 03:00:00 GMT</pubDate>
+            <description><![CDATA[<留学生対象>
+利根町国際交流会が１泊２日のホームステイ参加者を募集します。
+日時：2023年11月3日(金)8:30～4日(土)16:00頃まで
+行先：利根町文化センター、房総のむら（希望者は「房総のむら」でコスプレ衣装をレンタル可能）
+参加費用：1,000円(コスプレ希望者はレンタル料別途)
+申込方法：10月10日(火)までに下記から申込。
+＊ 実際に参加できる方には、利根町国際交流会から連絡…]]></description>
+        </item>
+        <item>
+            <title><![CDATA[世界を変えよう基金後援イベント「インド学生ボランティア報告ー学生の私たちだからできること」開催のお知らせ]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4359</link>
+            <guid>bb42b4aa10d6ddfd179b2e525a184be2</guid>
+            <pubDate>Tue, 03 Oct 2023 03:00:00 GMT</pubDate>
+            <description><![CDATA[筑波大学“世界を変えよう基金”は、インドのハンセン病患者コロニーでボランティア活動を行う学生グループ「インドワークキャンプ団体namaste!」を2017年から資金面で支援しています。
+
+この夏、インドの現地で2週間ボランティア活動に従事したnamaste!のメンバーの活動報告会を、下記の日時に対面・Zoomのハイブリッドで開催します。
+10月22日（日）14:30
+教室：3A306
+Zoom情報…]]></description>
+        </item>
         <item>
             <title><![CDATA[2023年度第2期分授業料の納付について]]></title>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4358</link>
@@ -223,22 +248,6 @@ https://www.tulips.tsukuba.ac.jp/lib/support/guidance
 ---
 
 In the libra…]]></description>
-        </item>
-        <item>
-            <title><![CDATA[【参加者募集】異業種交流会2023（10/13）]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4339</link>
-            <guid>f404986bad51821e60c844cb701152dc</guid>
-            <pubDate>Tue, 26 Sep 2023 03:00:00 GMT</pubDate>
-            <description><![CDATA[ヒューマンエンパワーメント推進局（BHE）ジェンダー支援チームでは、10月13日（金）に女性研究者・技術者の方を中心とした企業・研究機関・大学の交流会「異業種交流会2023」を開催いたします。
-参加者と併せて、【リーダーのワークライフバランス】をテーマに、話題提供のプレゼンをしてくださる方も募集しています！（詳しくは添付資料の〈TIDE2023_要項〉をご確認ください）
-研究者・技術者の方はもちろ…]]></description>
-        </item>
-        <item>
-            <title><![CDATA[【Repost】Scholarship for Students Participating in Online International Education & Exchange Programs]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4338</link>
-            <guid>800262ceab69810d757ec1ef5fa746ab</guid>
-            <pubDate>Tue, 26 Sep 2023 03:00:00 GMT</pubDate>
-            <description><![CDATA[In order to further promote ONLINE international education and exchange opportunities for students, we will provide support for course fees and other expenses, even if students do not earn credits, on…]]></description>
         </item>
     </channel>
 </rss>
