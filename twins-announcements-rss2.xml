@@ -4,10 +4,23 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Tue, 03 Oct 2023 03:08:30 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 03 Oct 2023 04:09:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
+        <item>
+            <title><![CDATA[【10/23-11/10開催】図書館企画展「古典籍のインターフェース」]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4364</link>
+            <guid>579a8f664626c3a9771fe0d51da8c63d</guid>
+            <pubDate>Tue, 03 Oct 2023 03:00:00 GMT</pubDate>
+            <description><![CDATA[令和5年度附属図書館企画展「古典籍のインターフェース」を下記のとおり開催します。
+
+本展では、文化遺産としての古典籍への最適のアクセス方法を提案することを目的とします。
+現在は古典といっても洋装本で読むのがふつうです。
+しかし書物としての古典籍には読まれるための仕掛けが種々施されています。
+第１部：本のかたち、第２部：本の構成、第３部：写した本・刷った本、第４部：本を分類する
+という四つの視点から…]]></description>
+        </item>
         <item>
             <title><![CDATA[（再掲）【参加者募集】異業種交流会2023（10/13）]]></title>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4363</link>
@@ -227,25 +240,6 @@ HPや学内掲示板では発信しきれない情報をタイムリーに発信
 テーマに「研究室における火災爆発事例・・・」とありますが、アニメ会社火災、大阪ビル火災なども取り上げられています。
 火災は研究室だけでなく、事務室、外出先、家庭でも起こりえます。
 火災を発生させないため、また火災が起きてしまった場合に、自分や大切な…]]></description>
-        </item>
-        <item>
-            <title><![CDATA[（BHE)10月20日　就活支援企画　チャレンジ実践会のご案内]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4343</link>
-            <guid>6eb7e21dcf1f8d0779118f6ce60c9036</guid>
-            <pubDate>Thu, 28 Sep 2023 03:00:00 GMT</pubDate>
-            <description><![CDATA[10月も面接編とGD編を対面で開催します。
-ビジネスマナーも学ぶことができます。
-就活中の方、ISの選考を受ける方、参加して役立ててください。
-BHEキャリア支援チームのファシリテーターからフィードバックがあります。
-
-〇開催日時
-10月20日（金）
-面接編　１０：００－１２：００
-GD編　  １３：３０－１５：００
-
-〇場所
-面接編　人間系学系棟A　１階　１１４
-GD編　BHE会議室（スチューデ…]]></description>
         </item>
     </channel>
 </rss>
