@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "2bcf91fe506335d0edf79015477bf41b",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4373",
+            "title": "★締切間近【開催案内】筑波大学 Open Facility Week 2023開催のお知らせ(10/16-20)※申込締切10/9",
+            "summary": "オープンファシリティー推進機構では、教育研究を効率的に推進するため、332台以上の共同利用機器を\nオープンファシリティーシステムに登録し、設備の有効活用に伴う利用サポートを実施いたしております。\nこの度、10月16日（月）から10月20日（金）までの期間を機器共用促進の重点実施期間として、\n「筑波大学オープンファシリティーウィーク2023」を下記のとおり、開催することとなりましたので、\nご案内申し…",
+            "date_modified": "2023-10-03T03:00:00.000Z"
+        },
+        {
             "id": "c2e61bb957d265f16d46b91aeeb70cc8",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4372",
             "title": "【開催案内】研究者交流サッカー大会「TSUKUBA SCIENTISTS CUP」",
@@ -135,13 +142,6 @@
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4352",
             "title": "【申込者募集】10/20開催「支援技術マッチングイベント」について",
             "summary": "　日々大幅な進歩を遂げるアシスティブ・テクノロジー。その技術や開発に取り組む企業を招き、筑波大学学生・教職員及び筑波技術大学学生・教職員を対象に、最新の支援技術を体験いただけるイベントを開催いたします。\n　本イベントでは「きく」「みる」「うごく」をテーマにした支援技術を実際に体験いただけます。体験した感想や要望を学生の声として企業担当者にフィードバックすることもできる貴重な機会です。\n　障害の有無…",
-            "date_modified": "2023-10-02T03:00:00.000Z"
-        },
-        {
-            "id": "d07de3a2549e9d1109e19fd73f9711de",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4351",
-            "title": "STOP！研究費不正使用！／STOP！Wrongful use of research funding！",
-            "summary": "学生の皆さんが不正使用に巻き込まれるケースが多発しています。\n不正を見かけた、持ちかけられたら、通報窓口へ。\nコンプライアンス・ハラスメント対策室（学内窓口）\nMail:compliance@un.tsukuba.ac.jp TEL:029-853-2033\nつくば中央法律事務所（学外窓口）\nTEL:029-896-3530  FAX:029-896-3531",
             "date_modified": "2023-10-02T03:00:00.000Z"
         }
     ]
