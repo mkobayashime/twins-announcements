@@ -4,10 +4,36 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Wed, 04 Oct 2023 04:09:16 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 04 Oct 2023 08:10:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
+        <item>
+            <title><![CDATA[【参加者募集】GTIE学生アントレプレナーシッププログラム（GTIE-SEP）2023 国内研修（実践）]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4378</link>
+            <guid>3d9ecf56c411cefd99ba4fd178eb2296</guid>
+            <pubDate>Wed, 04 Oct 2023 03:00:00 GMT</pubDate>
+            <description><![CDATA[Greater Tokyo Innovation Ecosystem（GTIE）はアントレプレナーシップ人材を育成し、世界を変える大学発スタートアップを育てることを目指している首都圏14大学によるプラットフォームです。
+
+筑波大学は共同機関としてGTIEに参画しています。
+
+GTIEでは、参画する大学のすべての学生を対象としたアントレプレナーシッププログラム「GTIE 学生アントレプレナーシッププ…]]></description>
+        </item>
+        <item>
+            <title><![CDATA[（BHE)対面でもキャリア相談を行っています]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4377</link>
+            <guid>462a0f06ce0010eb2b83efa155c29354</guid>
+            <pubDate>Wed, 04 Oct 2023 03:00:00 GMT</pubDate>
+            <description><![CDATA[新型コロナウイルス対応のため、2020年4月より個別キャリア相談はオンラインでのみ行ってきましたが、
+対面での相談も再開しています。
+１０月からは予約システムも改修し、以下の通り予約することができます。
+お気軽にご利用ください。
+
+午前：オンライン
+（1）9：20～10：05　（2）10：20～11：05　（3）11：20～12：05
+午後：対面（於　ヒューマンエンパワーメント推進局内　相談室）
+…]]></description>
+        </item>
         <item>
             <title><![CDATA[【今年度修了予定者の皆様へ】「進路進捗状況届」登録のお願い]]></title>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4376</link>
@@ -216,29 +242,6 @@ Zoom情報…]]></description>
 12月と3月のイベントの直前には、 イベントを最大活用するためのオンラインセミナーも開催予定！
 
 参加対象…]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Free Ebook Trial Service Part2]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4356</link>
-            <guid>3c31eda2472779f71da36b95e770c162</guid>
-            <pubDate>Mon, 02 Oct 2023 03:00:00 GMT</pubDate>
-            <description><![CDATA[In order to support teaching and learning, the library provides an eBook trial service again!
-
-You can try any part of the eBooks from the following eBook platforms for free for five minutes per title…]]></description>
-        </item>
-        <item>
-            <title><![CDATA[[再掲] ●大学院説明会● [生命医科学] × [理・工・情報学] 一貫制博士課程「ヒューマニクス学位プログラム」10/7(土)＆11/18(土)]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4355</link>
-            <guid>095646828a40ae4e1264a8c83c62fd59</guid>
-            <pubDate>Mon, 02 Oct 2023 03:00:00 GMT</pubDate>
-            <description><![CDATA[学生の皆様へ
-
-筑波大学5年一貫制大学院「ヒューマニクス学位プログラム」事務室より、2024年1月実施入試に関する説明会のご案内です。
-
-ヒューマニクス学位プログラムは、生命医科学と理・工・情報学、両分野の知識を博士レベルまで極める、国内でも類を見ない先進的なカリキュラムを提供しています。
-多様なバックグラウンドを持った学生が集う刺激的な環境の中で、独創的な融合研究に取り組みませんか？
-
-多くの皆…]]></description>
         </item>
     </channel>
 </rss>

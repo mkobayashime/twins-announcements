@@ -5,6 +5,20 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "3d9ecf56c411cefd99ba4fd178eb2296",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4378",
+            "title": "【参加者募集】GTIE学生アントレプレナーシッププログラム（GTIE-SEP）2023 国内研修（実践）",
+            "summary": "Greater Tokyo Innovation Ecosystem（GTIE）はアントレプレナーシップ人材を育成し、世界を変える大学発スタートアップを育てることを目指している首都圏14大学によるプラットフォームです。\n\n筑波大学は共同機関としてGTIEに参画しています。\n\nGTIEでは、参画する大学のすべての学生を対象としたアントレプレナーシッププログラム「GTIE 学生アントレプレナーシッププ…",
+            "date_modified": "2023-10-04T03:00:00.000Z"
+        },
+        {
+            "id": "462a0f06ce0010eb2b83efa155c29354",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4377",
+            "title": "（BHE)対面でもキャリア相談を行っています",
+            "summary": "新型コロナウイルス対応のため、2020年4月より個別キャリア相談はオンラインでのみ行ってきましたが、\n対面での相談も再開しています。\n１０月からは予約システムも改修し、以下の通り予約することができます。\nお気軽にご利用ください。\n\n午前：オンライン\n（1）9：20～10：05　（2）10：20～11：05　（3）11：20～12：05\n午後：対面（於　ヒューマンエンパワーメント推進局内　相談室）\n…",
+            "date_modified": "2023-10-04T03:00:00.000Z"
+        },
+        {
             "id": "53e26ecf24879379599e3e6cac54f72f",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4376",
             "title": "【今年度修了予定者の皆様へ】「進路進捗状況届」登録のお願い",
@@ -128,20 +142,6 @@
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4357",
             "title": "BHE主催「筑波大学就職ミライ博2023」開催のお知らせ",
             "summary": "筑波大学就職ミライ博とは…？\n\n筑波大生だけが参加できる、筑波大生のための、学内最大の就活イベントです。\n12月の「業界研究会」\n2024年3月の「合同企業説明会」\n2024年5月の「合同企業説明会Part２」\n2024年6月の「インターンシップ研究会」と、４つのイベントを開催いたします。\n\n12月と3月のイベントの直前には、 イベントを最大活用するためのオンラインセミナーも開催予定！\n\n参加対象…",
-            "date_modified": "2023-10-02T03:00:00.000Z"
-        },
-        {
-            "id": "3c31eda2472779f71da36b95e770c162",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4356",
-            "title": "Free Ebook Trial Service Part2",
-            "summary": "In order to support teaching and learning, the library provides an eBook trial service again!\n\nYou can try any part of the eBooks from the following eBook platforms for free for five minutes per title…",
-            "date_modified": "2023-10-02T03:00:00.000Z"
-        },
-        {
-            "id": "095646828a40ae4e1264a8c83c62fd59",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4355",
-            "title": "[再掲] ●大学院説明会● [生命医科学] × [理・工・情報学] 一貫制博士課程「ヒューマニクス学位プログラム」10/7(土)＆11/18(土)",
-            "summary": "学生の皆様へ\n\n筑波大学5年一貫制大学院「ヒューマニクス学位プログラム」事務室より、2024年1月実施入試に関する説明会のご案内です。\n\nヒューマニクス学位プログラムは、生命医科学と理・工・情報学、両分野の知識を博士レベルまで極める、国内でも類を見ない先進的なカリキュラムを提供しています。\n多様なバックグラウンドを持った学生が集う刺激的な環境の中で、独創的な融合研究に取り組みませんか？\n\n多くの皆…",
             "date_modified": "2023-10-02T03:00:00.000Z"
         }
     ]
