@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/mkobayashime/twins-announcements</id>
     <title>在学生へのお知らせ | 筑波大学</title>
-    <updated>2023-10-04T03:08:38.261Z</updated>
+    <updated>2023-10-04T04:09:16.799Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://github.com/mkobayashime/twins-announcements"/>
     <subtitle>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</subtitle>
+    <entry>
+        <title type="html"><![CDATA[【今年度修了予定者の皆様へ】「進路進捗状況届」登録のお願い]]></title>
+        <id>53e26ecf24879379599e3e6cac54f72f</id>
+        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4376"/>
+        <updated>2023-10-04T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[学群・大学院の最終年次に在籍している全学生を対象に、自身の進路を届け出る「進路進捗状況届」の登録をお願いしています。
+就職・進学に限らず、資格試験等準備、職務復帰、家事手伝い、留年、帰国などすべての進路先が対象です。
+卒業・修了後の進路が決まりましたら、キャリア支援チームWebサイト内「進路進捗状況届」から進路を入力のうえ、決定処理をしてください。
+なお、決定処理は複数の進路先を入力されている場合…]]></summary>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【今年度卒業予定者の皆様へ】「進路進捗状況届」登録のお願い]]></title>
         <id>c628eddf8da758fac72f856f12ef2c43</id>
@@ -227,16 +237,5 @@ You can try any part of the eBooks from the following eBook platforms for free f
 多様なバックグラウンドを持った学生が集う刺激的な環境の中で、独創的な融合研究に取り組みませんか？
 
 多くの皆…]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[電子ブック 全文無料試し読みサービス第２弾のご案内]]></title>
-        <id>c58cc184230b81ef4ce7ebeb070b380c</id>
-        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4354"/>
-        <updated>2023-10-02T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[附属図書館では、5月～8月に実施し、ご好評をいただいた電子ブックの全文無料試し読みサービスの第２弾を実施します。今回は、丸善雄松堂が提供するMaruzen eBook Libraryを期間限定でご利用いただけます。
-
-対象プラットフォームの電子ブックからお好きな部分を1タイトルにつき5分間、試し読みすることができます。また、リクエストを送信することもできます。この機会にぜひお試しください。
-
-【実…]]></summary>
     </entry>
 </feed>
