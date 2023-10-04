@@ -2,10 +2,24 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/mkobayashime/twins-announcements</id>
     <title>在学生へのお知らせ | 筑波大学</title>
-    <updated>2023-10-03T21:10:54.486Z</updated>
+    <updated>2023-10-04T00:33:20.424Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://github.com/mkobayashime/twins-announcements"/>
     <subtitle>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</subtitle>
+    <entry>
+        <title type="html"><![CDATA[筑波大学公式オリジナルグッズECサイト割引クーポンのお知らせ（10月）]]></title>
+        <id>f30e451b6da5c6e16a4b19b80fbda380</id>
+        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4374"/>
+        <updated>2023-10-04T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[筑波大学公式オリジナルグッズ販売サイト「TSUKUBA-SHOP」10月の割引クーポンコードをお知らせいたします！
+
+
+どうぞご覧いただき、皆様の「日常生活」、「思い出」、「プレゼント🎁」などにご活用いただけますと幸いです。
+
+ECサイトは以下のリンクから
+※学内専用割引コードをTWINS掲示「大学から学生へのお知らせ（学内専用）」に掲載しております。
+※学生・教職員はこのコードを入力することで…]]></summary>
+    </entry>
     <entry>
         <title type="html"><![CDATA[★締切間近【開催案内】筑波大学 Open Facility Week 2023開催のお知らせ(10/16-20)※申込締切10/9]]></title>
         <id>2bcf91fe506335d0edf79015477bf41b</id>
@@ -220,14 +234,5 @@ You can try any part of the eBooks from the following eBook platforms for free f
         <updated>2023-10-02T03:00:00.000Z</updated>
         <summary type="html"><![CDATA[We are plesased to announce that the ”Special Seminar Environmental Health and Safety: Hazardous Waste Management and Safety Standards on Campus” will be held as follows.
 We look forward to your parti…]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【申込者募集】10/20開催「支援技術マッチングイベント」について]]></title>
-        <id>155329bc7b2cb70bade18506f63b620b</id>
-        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4352"/>
-        <updated>2023-10-02T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[　日々大幅な進歩を遂げるアシスティブ・テクノロジー。その技術や開発に取り組む企業を招き、筑波大学学生・教職員及び筑波技術大学学生・教職員を対象に、最新の支援技術を体験いただけるイベントを開催いたします。
-　本イベントでは「きく」「みる」「うごく」をテーマにした支援技術を実際に体験いただけます。体験した感想や要望を学生の声として企業担当者にフィードバックすることもできる貴重な機会です。
-　障害の有無…]]></summary>
     </entry>
 </feed>
