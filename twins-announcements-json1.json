@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "6eb7e21dcf1f8d0779118f6ce60c9036",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4379",
+            "title": "（BHE)10月20日　就活支援企画　チャレンジ実践会のご案内",
+            "summary": "10月も面接編とGD編を対面で開催します。\nビジネスマナーも学ぶことができます。\n就活中の方、ISの選考を受ける方、参加して役立ててください。\nBHEキャリア支援チームのファシリテーターからフィードバックがあります。\n\n〇開催日時\n10月20日（金）\n面接編　１０：００－１２：００\nGD編　  １３：３０－１５：００\n\n〇場所\n面接編　人間系学系棟A　１階　１１４\nGD編　BHE会議室（スチューデ…",
+            "date_modified": "2023-10-05T03:00:00.000Z"
+        },
+        {
             "id": "3d9ecf56c411cefd99ba4fd178eb2296",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4378",
             "title": "【参加者募集】GTIE学生アントレプレナーシッププログラム（GTIE-SEP）2023 国内研修（実践）",
@@ -22,7 +29,7 @@
             "id": "53e26ecf24879379599e3e6cac54f72f",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4376",
             "title": "【今年度修了予定者の皆様へ】「進路進捗状況届」登録のお願い",
-            "summary": "新型コロナウイルス対応のため、2020年4月より個別キャリア相談はオンラインでのみ行ってきましたが、\n対面での相談も再開しています。\n１０月からは予約システムも改修し、以下の通り予約することができます。\nお気軽にご利用ください。\n\n午前：オンライン\n（1）9：20～10：05　（2）10：20～11：05　（3）11：20～12：05\n午後：対面（於　ヒューマンエンパワーメント推進局内　相談室）\n…",
+            "summary": "学群・大学院の最終年次に在籍している全学生を対象に、自身の進路を届け出る「進路進捗状況届」の登録をお願いしています。\n就職・進学に限らず、資格試験等準備、職務復帰、家事手伝い、留年、帰国などすべての進路先が対象です。\n卒業・修了後の進路が決まりましたら、キャリア支援チームWebサイト内「進路進捗状況届」から進路を入力のうえ、決定処理をしてください。\nなお、決定処理は複数の進路先を入力されている場合…",
             "date_modified": "2023-10-04T03:00:00.000Z"
         },
         {
@@ -135,13 +142,6 @@
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4358",
             "title": "2023年度第2期分授業料の納付について",
             "summary": "2023年度第2期分授業料の納付について、添付の通りお知らせいたします。\n口座振替日、納付期限についてご確認をお願いいたします。",
-            "date_modified": "2023-10-02T03:00:00.000Z"
-        },
-        {
-            "id": "1d895eacd298c7dae99c3d25701940c2",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4357",
-            "title": "BHE主催「筑波大学就職ミライ博2023」開催のお知らせ",
-            "summary": "筑波大学就職ミライ博とは…？\n\n筑波大生だけが参加できる、筑波大生のための、学内最大の就活イベントです。\n12月の「業界研究会」\n2024年3月の「合同企業説明会」\n2024年5月の「合同企業説明会Part２」\n2024年6月の「インターンシップ研究会」と、４つのイベントを開催いたします。\n\n12月と3月のイベントの直前には、 イベントを最大活用するためのオンラインセミナーも開催予定！\n\n参加対象…",
             "date_modified": "2023-10-02T03:00:00.000Z"
         }
     ]
