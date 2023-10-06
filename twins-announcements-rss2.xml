@@ -4,10 +4,19 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Thu, 05 Oct 2023 21:11:11 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 06 Oct 2023 03:08:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
+        <item>
+            <title><![CDATA[「株式投資コンテスト勉強会」参加者募集のお知らせ]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4385</link>
+            <guid>3f249fa59e4a46e9388d8e06600c7aec</guid>
+            <pubDate>Fri, 06 Oct 2023 03:00:00 GMT</pubDate>
+            <description><![CDATA[筑波大学「世界を変えよう基金アカデミー」では、来年1月以降、NISA(少額投資非課税制度)が大幅に拡充されることを踏まえ、金融・投資教育の一環として「株式投資コンテスト勉強会」を10月28日（土）から5か月間、隔週土曜日に開催します（20時開始、Zoom を基本とします）。
+
+勉強会では、模擬株式投資アプリを利用して仮想現金2000万円を日本企業に投資し、日本・米国・世界の政治経済動向、各企業の事…]]></description>
+        </item>
         <item>
             <title><![CDATA[【参加者募集 ！ 】 博士のポートフォリオ大公開 + ロールモデル懇談会（11/10）]]></title>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4384</link>
@@ -245,17 +254,6 @@ for @s e-mail address (100GB -> 50GB)
 しかし書物としての古典籍には読まれるための仕掛けが種々施されています。
 第１部：本のかたち、第２部：本の構成、第３部：写した本・刷った本、第４部：本を分類する
 という四つの視点から…]]></description>
-        </item>
-        <item>
-            <title><![CDATA[（再掲）【参加者募集】異業種交流会2023（10/13）]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4363</link>
-            <guid>454b1b645b9c92bc10590e3008907fe3</guid>
-            <pubDate>Tue, 03 Oct 2023 03:00:00 GMT</pubDate>
-            <description><![CDATA[ヒューマンエンパワーメント推進局（BHE）ジェンダー支援チームでは、10月13日（金）に女性研究者・技術者の方を中心とした企業・研究機関・大学の交流会「異業種交流会2023」を開催いたします。
-研究者・技術者の方はもちろん、学生から職員の方までどなたでもご参加いただけますので、ぜひお気軽にご参加ください。
-
-■イベント詳細は、以下のジェンダー支援チームHPをご覧ください。
-https://dive…]]></description>
         </item>
     </channel>
 </rss>
