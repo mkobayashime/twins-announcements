@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/mkobayashime/twins-announcements</id>
     <title>在学生へのお知らせ | 筑波大学</title>
-    <updated>2023-10-09T09:13:42.000Z</updated>
+    <updated>2023-10-09T15:13:16.693Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://github.com/mkobayashime/twins-announcements"/>
     <subtitle>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</subtitle>
@@ -82,20 +82,6 @@ RIZAPグループ株式会社　データマネジメント部 部長
 【スケジュール】
 18：30～19：00　木本結子さん
 （比較文化学類3年※、ブ…]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[10/6（金）開催：2024年秋学期渡航分　協定校留学説明会]]></title>
-        <id>638fdf8f92ba2d8d3473abafa77c818e</id>
-        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4380"/>
-        <updated>2023-10-05T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[2024年秋学期渡航分の協定校留学説明会を以下の日時にて開催します。
-協定校留学の制度や注意点、学内公募から帰国後までの手続き、以下の対象協定校の概要と応募条件について説明します。
-留学に関心のある方の参加をお待ちしています！
-
-日時：2023年10月6日（金）18：30～20：00
-場所：スチューデント・コモンズ（第一エリア１A棟２階）
-※本説明会は録画し、後日SSCウェブサイトで公開します。
-…]]></summary>
     </entry>
     <entry>
         <title type="html"><![CDATA[（BHE)10月20日　就活支援企画　チャレンジ実践会のご案内]]></title>
@@ -250,5 +236,18 @@ for @s e-mail address (100GB -> 50GB)
 
 　2023年 3月から全学生は @u.tsukuba.ac.jp のアドレスを使用可能とした
 ことにともない、@…]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【10/23-11/10開催】図書館企画展「古典籍のインターフェース」]]></title>
+        <id>579a8f664626c3a9771fe0d51da8c63d</id>
+        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4364"/>
+        <updated>2023-10-03T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[令和5年度附属図書館企画展「古典籍のインターフェース」を下記のとおり開催します。
+
+本展では、文化遺産としての古典籍への最適のアクセス方法を提案することを目的とします。
+現在は古典といっても洋装本で読むのがふつうです。
+しかし書物としての古典籍には読まれるための仕掛けが種々施されています。
+第１部：本のかたち、第２部：本の構成、第３部：写した本・刷った本、第４部：本を分類する
+という四つの視点から…]]></summary>
     </entry>
 </feed>
