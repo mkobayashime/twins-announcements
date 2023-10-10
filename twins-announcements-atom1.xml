@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/mkobayashime/twins-announcements</id>
     <title>在学生へのお知らせ | 筑波大学</title>
-    <updated>2023-10-10T00:32:46.568Z</updated>
+    <updated>2023-10-10T01:42:25.300Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://github.com/mkobayashime/twins-announcements"/>
     <subtitle>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</subtitle>
+    <entry>
+        <title type="html"><![CDATA[10月は【留学相談強化月間】スチューデント・コモンズ（1A203）にて！]]></title>
+        <id>90f819315c90c8aece1839a3f7a24641</id>
+        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4388"/>
+        <updated>2023-10-10T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[10月！秋学期が始まりました。スチューデントサポートセンター国際交流支援室では、留学のアシストをしています！
+各留学プログラム毎の説明会や、海外インターンシップの説明会、語学試験の説明会。などなど。。。。
+イベント盛りだくさんでお贈りする、2023秋の留学相談強化月間！ぜひ、ご参加ください！
+
+内容：留学に関するあれこれ説明会など
+日時：イベントにより異なる
+場所：Student Commons　…]]></summary>
+    </entry>
     <entry>
         <title type="html"><![CDATA[世界を変えよう基金「北斎・富嶽三十六景を楽しむ会」参加者募集のお知らせ]]></title>
         <id>0f0ed5fb84a1be428b143ec9f1c63189</id>
@@ -232,19 +245,5 @@ for @s e-mail address (100GB -> 50GB)
         <summary type="html"><![CDATA[実践的なアントレプレナーシップについて、「起業のライフサイクルとお金」、「起業家の考え方」「スタートアップマーケティング」というテーマで、第一線で活躍される方々の講演を開催いたします。起業に興味を持ち、必要な知識を身に付けたい方はぜひご参加ください！
 
 本講演は、令和5年度学群自由科目「起業家のための経営・知財必須知識」の第2回授業を兼ねています。履修生以外の学生はオンライン（Microsoft …]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[@s メールアドレスのメールボックス容量上限の変更 (100GB -> 50GB)]]></title>
-        <id>acce28b27c0462a2ffeea52e5f5692c4</id>
-        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4366"/>
-        <updated>2023-10-03T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[　@s メールアドレスのメールボックス容量上限の変更 (100GB -> 50GB)
-　　　　　　　　　　　　　　　　　　　　　学術情報メディアセンター
-
-　2022年度以前の入学者で @s.tsukuba.ac.jp(以降、@s)のメールアドレス
-を使用している人へのお知らせです。
-
-　2023年 3月から全学生は @u.tsukuba.ac.jp のアドレスを使用可能とした
-ことにともない、@…]]></summary>
     </entry>
 </feed>
