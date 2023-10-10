@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "0f0ed5fb84a1be428b143ec9f1c63189",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4387",
+            "title": "世界を変えよう基金「北斎・富嶽三十六景を楽しむ会」参加者募集のお知らせ",
+            "summary": "筑波大学「世界を変えよう基金アカデミー」では、総覧する機会が少ない北斎・富嶽三十六景について、MOA美術館で今夏開催された「北斎 The Great Wave × Digital」を基に全作品を鑑賞し、感じたこと、気づいたことを自由に語り合う勉強会を１１月上旬から３～４回（各回約90分）に亘って隔週開催します。\n開催日は、参加者のスケジュールを調整して決定します。\n\n初回の勉強会は、東京オリンピッ…",
+            "date_modified": "2023-10-10T03:00:00.000Z"
+        },
+        {
             "id": "908cc005206ef19919b2eafa59eb3547",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4386",
             "title": "【受講者募集】「オンデマンド研修」GTIE学生アントレプレナーシッププログラム（GTIE-SEP）2023",
@@ -135,13 +142,6 @@
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4366",
             "title": "@s メールアドレスのメールボックス容量上限の変更 (100GB -> 50GB)",
             "summary": "　@s メールアドレスのメールボックス容量上限の変更 (100GB -> 50GB)\n　　　　　　　　　　　　　　　　　　　　　学術情報メディアセンター\n\n　2022年度以前の入学者で @s.tsukuba.ac.jp(以降、@s)のメールアドレス\nを使用している人へのお知らせです。\n\n　2023年 3月から全学生は @u.tsukuba.ac.jp のアドレスを使用可能とした\nことにともない、@…",
-            "date_modified": "2023-10-03T03:00:00.000Z"
-        },
-        {
-            "id": "579a8f664626c3a9771fe0d51da8c63d",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4364",
-            "title": "【10/23-11/10開催】図書館企画展「古典籍のインターフェース」",
-            "summary": "令和5年度附属図書館企画展「古典籍のインターフェース」を下記のとおり開催します。\n\n本展では、文化遺産としての古典籍への最適のアクセス方法を提案することを目的とします。\n現在は古典といっても洋装本で読むのがふつうです。\nしかし書物としての古典籍には読まれるための仕掛けが種々施されています。\n第１部：本のかたち、第２部：本の構成、第３部：写した本・刷った本、第４部：本を分類する\nという四つの視点から…",
             "date_modified": "2023-10-03T03:00:00.000Z"
         }
     ]
