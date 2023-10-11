@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "bd5df43d3fce43c5ae5aa1c871e11260",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4395",
+            "title": "10/27開催【国大協】第22回大学改革シンポジウムの開催について",
+            "summary": "このたび、標記シンポジウムを別紙のとおりオンライン開催すること\nとなりましたので、ご案内いたします。\n\n本シンポジウムは高等教育関係者だけでなく、大学生、産業界、その他一般を\n対象としているため、広く周知していただけますと幸いです。\n\n参加をご希望の場合は、10月20日(金)までに下記URLからお申込みください。\n\n\n一般社団法人国立大学協会",
+            "date_modified": "2023-10-11T03:00:00.000Z"
+        },
+        {
             "id": "d21eb748c7ce9be54909af51bd780aaf",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4394",
             "title": "【学生宿舎/Student Residence Hall】学生宿舎入居募集情報について / Information of Residence Hall Application",
@@ -135,13 +142,6 @@
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4373",
             "title": "★締切間近【開催案内】筑波大学 Open Facility Week 2023開催のお知らせ(10/16-20)※申込締切10/9",
             "summary": "オープンファシリティー推進機構では、教育研究を効率的に推進するため、332台以上の共同利用機器を\nオープンファシリティーシステムに登録し、設備の有効活用に伴う利用サポートを実施いたしております。\nこの度、10月16日（月）から10月20日（金）までの期間を機器共用促進の重点実施期間として、\n「筑波大学オープンファシリティーウィーク2023」を下記のとおり、開催することとなりましたので、\nご案内申し…",
-            "date_modified": "2023-10-03T03:00:00.000Z"
-        },
-        {
-            "id": "c2e61bb957d265f16d46b91aeeb70cc8",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4372",
-            "title": "【開催案内】研究者交流サッカー大会「TSUKUBA SCIENTISTS CUP」",
-            "summary": "10月21日に研究者の方を対象とした「TSUKUBA SCIENTISTS CUP」（主催：体育スポーツ局、協力：World Fut TSUKUBA）が筑波大学セキショウフィールドで開催されます。\n筑波大生・院生等、現在何らかの研究に携わっている方なら誰でもご参加いただけます。研究者同士の交流が楽しくできる貴重なチャンスとなっていますので、研究室等のお仲間をお誘い合わせの上、是非ご参加ください。参…",
             "date_modified": "2023-10-03T03:00:00.000Z"
         }
     ]

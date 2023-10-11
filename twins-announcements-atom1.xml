@@ -2,10 +2,26 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/mkobayashime/twins-announcements</id>
     <title>在学生へのお知らせ | 筑波大学</title>
-    <updated>2023-10-11T01:42:24.942Z</updated>
+    <updated>2023-10-11T05:07:55.760Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://github.com/mkobayashime/twins-announcements"/>
     <subtitle>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</subtitle>
+    <entry>
+        <title type="html"><![CDATA[10/27開催【国大協】第22回大学改革シンポジウムの開催について]]></title>
+        <id>bd5df43d3fce43c5ae5aa1c871e11260</id>
+        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4395"/>
+        <updated>2023-10-11T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[このたび、標記シンポジウムを別紙のとおりオンライン開催すること
+となりましたので、ご案内いたします。
+
+本シンポジウムは高等教育関係者だけでなく、大学生、産業界、その他一般を
+対象としているため、広く周知していただけますと幸いです。
+
+参加をご希望の場合は、10月20日(金)までに下記URLからお申込みください。
+
+
+一般社団法人国立大学協会]]></summary>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【学生宿舎/Student Residence Hall】学生宿舎入居募集情報について / Information of Residence Hall Application]]></title>
         <id>d21eb748c7ce9be54909af51bd780aaf</id>
@@ -254,13 +270,5 @@ ECサイトは以下のリンクから
 この度、10月16日（月）から10月20日（金）までの期間を機器共用促進の重点実施期間として、
 「筑波大学オープンファシリティーウィーク2023」を下記のとおり、開催することとなりましたので、
 ご案内申し…]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【開催案内】研究者交流サッカー大会「TSUKUBA SCIENTISTS CUP」]]></title>
-        <id>c2e61bb957d265f16d46b91aeeb70cc8</id>
-        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4372"/>
-        <updated>2023-10-03T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[10月21日に研究者の方を対象とした「TSUKUBA SCIENTISTS CUP」（主催：体育スポーツ局、協力：World Fut TSUKUBA）が筑波大学セキショウフィールドで開催されます。
-筑波大生・院生等、現在何らかの研究に携わっている方なら誰でもご参加いただけます。研究者同士の交流が楽しくできる貴重なチャンスとなっていますので、研究室等のお仲間をお誘い合わせの上、是非ご参加ください。参…]]></summary>
     </entry>
 </feed>
