@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "d21eb748c7ce9be54909af51bd780aaf",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4394",
+            "title": "【学生宿舎/Student Residence Hall】学生宿舎入居募集情報について / Information of Residence Hall Application",
+            "summary": "令和6年度学生宿舎入居募集情報についてお知らせいたします。\n詳細は添付ファイルを参照してください。\n\n個別の募集の詳細はWEB掲示板の「大学から学生へのお知らせ（学内専用）」に掲載しています。\n\nThis is to inform you about AY2024 Residence Hall Application.\nPlease check attached PDF.\n\nMore detail…",
+            "date_modified": "2023-10-11T03:00:00.000Z"
+        },
+        {
             "id": "539f6cb849bec94e362b838f4bd9297e",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4393",
             "title": "Volunteers wanted for \"Tsukuba Music × Artist Festival 2023 / ボランティア募集！つくば音楽祭・つくばな匠",
@@ -135,13 +142,6 @@
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4372",
             "title": "【開催案内】研究者交流サッカー大会「TSUKUBA SCIENTISTS CUP」",
             "summary": "10月21日に研究者の方を対象とした「TSUKUBA SCIENTISTS CUP」（主催：体育スポーツ局、協力：World Fut TSUKUBA）が筑波大学セキショウフィールドで開催されます。\n筑波大生・院生等、現在何らかの研究に携わっている方なら誰でもご参加いただけます。研究者同士の交流が楽しくできる貴重なチャンスとなっていますので、研究室等のお仲間をお誘い合わせの上、是非ご参加ください。参…",
-            "date_modified": "2023-10-03T03:00:00.000Z"
-        },
-        {
-            "id": "cc5a1456d66a808177afe8081b9005d2",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4371",
-            "title": "【参加者募集！２年次以上の全学群生対象】東南アジアでの海外教育実習インターンシップSEA-Teacherプログラム",
-            "summary": "東南アジアの提携大学での教育インターンシップへの参加者を募集します。現地教師の業務を実習し、授業を行うことを通して、グローバルな視野、異文化理解力、授業力、国際感覚を養うことが目標のプログラムです。2024年２月から３月の約一か月間、インドネシア、フィリピン、タイのいずれかの提携大学で実際に授業実習を行います。詳細は添付のチラシをご覧ください。\n\n\n事前説明会(予約不要)を下記日程で実施します。興…",
             "date_modified": "2023-10-03T03:00:00.000Z"
         }
     ]
