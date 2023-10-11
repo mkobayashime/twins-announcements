@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/mkobayashime/twins-announcements</id>
     <title>在学生へのお知らせ | 筑波大学</title>
-    <updated>2023-10-11T08:10:23.257Z</updated>
+    <updated>2023-10-11T09:08:32.828Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://github.com/mkobayashime/twins-announcements"/>
     <subtitle>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</subtitle>
+    <entry>
+        <title type="html"><![CDATA[筑波大学校友会主催　開学50周年記念シンポジウムのご案内]]></title>
+        <id>1a61461108bb313db46abd87f811b42b</id>
+        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4400"/>
+        <updated>2023-10-11T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[　筑波大学校友会は、筑波大学開学50周年（創基151年）記念事業として、記念シンポジウムを開催いたします。筑波大学校友会の会員の皆様に是非ご来場いただきたく、ご案内をいたします。会員でない方（筑波大学の在学生、卒業生、教職員、その他）もご参加いただけます。また、Zoomによるオンライン視聴も可能です。
+
+◆日時：R5年10月29日（日）13:00開場, 13:30開式, 16:30終了予定
+◆場所…]]></summary>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【11/15開催】令和5年度全学防災訓練「障害学生等支援防災ワーク」（全学リスクマネジメントセミナー）の開催について]]></title>
         <id>cd0edaa92079d0a172323df08b4a4658</id>
@@ -252,20 +262,5 @@ GD編　  １３：３０－１５：００
 〇場所
 面接編　人間系学系棟A　１階　１１４
 GD編　BHE会議室（スチューデ…]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[（BHE)対面でもキャリア相談を行っています]]></title>
-        <id>462a0f06ce0010eb2b83efa155c29354</id>
-        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4377"/>
-        <updated>2023-10-04T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[新型コロナウイルス対応のため、2020年4月より個別キャリア相談はオンラインでのみ行ってきましたが、
-対面での相談も再開しています。
-１０月からは予約システムも改修し、以下の通り予約することができます。
-お気軽にご利用ください。
-
-午前：オンライン
-（1）9：20～10：05　（2）10：20～11：05　（3）11：20～12：05
-午後：対面（於　ヒューマンエンパワーメント推進局内　相談室）
-…]]></summary>
     </entry>
 </feed>

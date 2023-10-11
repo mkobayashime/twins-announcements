@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "1a61461108bb313db46abd87f811b42b",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4400",
+            "title": "筑波大学校友会主催　開学50周年記念シンポジウムのご案内",
+            "summary": "　筑波大学校友会は、筑波大学開学50周年（創基151年）記念事業として、記念シンポジウムを開催いたします。筑波大学校友会の会員の皆様に是非ご来場いただきたく、ご案内をいたします。会員でない方（筑波大学の在学生、卒業生、教職員、その他）もご参加いただけます。また、Zoomによるオンライン視聴も可能です。\n\n◆日時：R5年10月29日（日）13:00開場, 13:30開式, 16:30終了予定\n◆場所…",
+            "date_modified": "2023-10-11T03:00:00.000Z"
+        },
+        {
             "id": "cd0edaa92079d0a172323df08b4a4658",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4399",
             "title": "【11/15開催】令和5年度全学防災訓練「障害学生等支援防災ワーク」（全学リスクマネジメントセミナー）の開催について",
@@ -136,13 +143,6 @@
             "title": "（BHE)10月20日　就活支援企画　チャレンジ実践会のご案内",
             "summary": "10月も面接編とGD編を対面で開催します。\nビジネスマナーも学ぶことができます。\n就活中の方、ISの選考を受ける方、参加して役立ててください。\nBHEキャリア支援チームのファシリテーターからフィードバックがあります。\n\n〇開催日時\n10月20日（金）\n面接編　１０：００－１２：００\nGD編　  １３：３０－１５：００\n\n〇場所\n面接編　人間系学系棟A　１階　１１４\nGD編　BHE会議室（スチューデ…",
             "date_modified": "2023-10-05T03:00:00.000Z"
-        },
-        {
-            "id": "462a0f06ce0010eb2b83efa155c29354",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4377",
-            "title": "（BHE)対面でもキャリア相談を行っています",
-            "summary": "新型コロナウイルス対応のため、2020年4月より個別キャリア相談はオンラインでのみ行ってきましたが、\n対面での相談も再開しています。\n１０月からは予約システムも改修し、以下の通り予約することができます。\nお気軽にご利用ください。\n\n午前：オンライン\n（1）9：20～10：05　（2）10：20～11：05　（3）11：20～12：05\n午後：対面（於　ヒューマンエンパワーメント推進局内　相談室）\n…",
-            "date_modified": "2023-10-04T03:00:00.000Z"
         }
     ]
 }
