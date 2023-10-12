@@ -5,6 +5,20 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "c8a848d65ebcefeb78e2065f850f1e74",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4403",
+            "title": "臨床試験参加募集",
+            "summary": "　筑波大学病院より新型コロナウイルスに罹患された方を対象に市販後臨床試験への参加募集の案内がありました。詳しくは、添付の資料をご覧頂き、参加希望者は下記までご連絡ください。\n\n筑波大学附属病院\n電話番号：029-853-3682・3683\n平日・土曜：8:30～17:15",
+            "date_modified": "2023-10-12T03:00:00.000Z"
+        },
+        {
+            "id": "f5829ceac92547296aa5f48150c8be6f",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4402",
+            "title": "【再掲】世界を変えよう基金後援イベント「インド学生ボランティア報告ー学生の私たちだからできること」開催のお知らせ",
+            "summary": "筑波大学“世界を変えよう基金”は、インドのハンセン病患者コロニーでボランティア活動を行う学生グループ「インドワークキャンプ団体namaste!」を2017年から資金面で支援しています。\nこの夏、インドの現地で2週間ボランティア活動に従事したnamaste!のメンバーの活動報告会を、下記の日時に対面・Zoomのハイブリッドで開催します。\n10月22日（日）14:30\n教室：3A306\nZoom情報は…",
+            "date_modified": "2023-10-12T03:00:00.000Z"
+        },
+        {
             "id": "c436aa99c130266ba190584c4e30df3f",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4401",
             "title": "【開催案内】ライティング支援連続セミナー「実践！レポート・論文の文章術」[10/12-11/16]",
@@ -128,20 +142,6 @@
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4383",
             "title": "【10月】筑波大学BHEセーファースペース「KiteKite（きてきて）」の実施について",
             "summary": "ヒューマンエンパワーメント推進局（BHE）ジェンダー支援チームでは、学生スタッフと共同で”セーファースペースKiteKite（きてきて）”を実施しています。10月の実施日についてお知らせしますので、ぜひお気軽にご参加ください。\n\n※セーファースペースとは…LGBTQ＋や女性をはじめ、全ての人が自らのジェンダー・セクシュアリティについてより安全に話すことができる居場所のこと\n\nKiteKiteは、年…",
-            "date_modified": "2023-10-05T03:00:00.000Z"
-        },
-        {
-            "id": "2e21fdbcd5ae3bfd25b43f8171ed29cc",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4382",
-            "title": "【BHE】茗渓会　10月11日（水）ぶっちゃけ相談会",
-            "summary": "【今月の登壇者】\n\n１０月は、食品とヘルスケアというそれぞれの業界でご活躍をしているお二人が登場します。\nぜひご参加ください！\n\n【登壇者No1】\n生命環境学群 生物資源学類　２０１9年卒\nケンコーマヨネーズ株式会社　総務本部\n\n【登壇者No2】\n第一学群 自然学類 2001年卒　→　理学博士（他大）\nRIZAPグループ株式会社　データマネジメント部 部長\n\n【開催日程と手法】\n・１０月１１日（水…",
-            "date_modified": "2023-10-05T03:00:00.000Z"
-        },
-        {
-            "id": "b928e070861c0fe791f733d02a9c4b40",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4381",
-            "title": "10/16（月）開催：2022～2023年度協定校留学体験談",
-            "summary": "2022～2023年度に協定校での交換留学を経験した3名が、留学のきっかけ、準備、現地での生活の様子、今後留学を目指す方に伝えたいことなどについてお話します。留学を考えている方は、ぜひご参加ください！\n\n日時：2023年10月16日（月）18：30～20：00\n場所：スチューデント・コモンズ（第一エリア１A棟２階）\n\n【スケジュール】\n18：30～19：00　木本結子さん\n（比較文化学類3年※、ブ…",
             "date_modified": "2023-10-05T03:00:00.000Z"
         }
     ]
