@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "c436aa99c130266ba190584c4e30df3f",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4401",
+            "title": "【開催案内】ライティング支援連続セミナー「実践！レポート・論文の文章術」[10/12-11/16]",
+            "summary": "ライティング支援連続セミナー2023「実践！レポート・論文の文章術」を開催します。\n\n全６回、読むこと、考えること、伝えること。\n大学での学びに必要なスキルをテーマ毎にお届けします。\n\nレポート作成、論文執筆など大学で必要な学修や研究に\n取り組むためのスキルを伸ばしたい方におすすめです。\n\n日時：10月12日から11月16日までの毎週木曜日（全６回）\n　　　15時15分～16時15分\n場所：中央図…",
+            "date_modified": "2023-10-12T03:00:00.000Z"
+        },
+        {
             "id": "1a61461108bb313db46abd87f811b42b",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4400",
             "title": "筑波大学校友会主催　開学50周年記念シンポジウムのご案内",
@@ -135,13 +142,6 @@
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4381",
             "title": "10/16（月）開催：2022～2023年度協定校留学体験談",
             "summary": "2022～2023年度に協定校での交換留学を経験した3名が、留学のきっかけ、準備、現地での生活の様子、今後留学を目指す方に伝えたいことなどについてお話します。留学を考えている方は、ぜひご参加ください！\n\n日時：2023年10月16日（月）18：30～20：00\n場所：スチューデント・コモンズ（第一エリア１A棟２階）\n\n【スケジュール】\n18：30～19：00　木本結子さん\n（比較文化学類3年※、ブ…",
-            "date_modified": "2023-10-05T03:00:00.000Z"
-        },
-        {
-            "id": "6eb7e21dcf1f8d0779118f6ce60c9036",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4379",
-            "title": "（BHE)10月20日　就活支援企画　チャレンジ実践会のご案内",
-            "summary": "10月も面接編とGD編を対面で開催します。\nビジネスマナーも学ぶことができます。\n就活中の方、ISの選考を受ける方、参加して役立ててください。\nBHEキャリア支援チームのファシリテーターからフィードバックがあります。\n\n〇開催日時\n10月20日（金）\n面接編　１０：００－１２：００\nGD編　  １３：３０－１５：００\n\n〇場所\n面接編　人間系学系棟A　１階　１１４\nGD編　BHE会議室（スチューデ…",
             "date_modified": "2023-10-05T03:00:00.000Z"
         }
     ]

@@ -2,10 +2,27 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/mkobayashime/twins-announcements</id>
     <title>在学生へのお知らせ | 筑波大学</title>
-    <updated>2023-10-11T21:10:51.177Z</updated>
+    <updated>2023-10-12T03:08:35.271Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://github.com/mkobayashime/twins-announcements"/>
     <subtitle>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</subtitle>
+    <entry>
+        <title type="html"><![CDATA[【開催案内】ライティング支援連続セミナー「実践！レポート・論文の文章術」[10/12-11/16]]]></title>
+        <id>c436aa99c130266ba190584c4e30df3f</id>
+        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4401"/>
+        <updated>2023-10-12T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[ライティング支援連続セミナー2023「実践！レポート・論文の文章術」を開催します。
+
+全６回、読むこと、考えること、伝えること。
+大学での学びに必要なスキルをテーマ毎にお届けします。
+
+レポート作成、論文執筆など大学で必要な学修や研究に
+取り組むためのスキルを伸ばしたい方におすすめです。
+
+日時：10月12日から11月16日までの毎週木曜日（全６回）
+　　　15時15分～16時15分
+場所：中央図…]]></summary>
+    </entry>
     <entry>
         <title type="html"><![CDATA[筑波大学校友会主催　開学50周年記念シンポジウムのご案内]]></title>
         <id>1a61461108bb313db46abd87f811b42b</id>
@@ -243,24 +260,5 @@ RIZAPグループ株式会社　データマネジメント部 部長
 【スケジュール】
 18：30～19：00　木本結子さん
 （比較文化学類3年※、ブ…]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[（BHE)10月20日　就活支援企画　チャレンジ実践会のご案内]]></title>
-        <id>6eb7e21dcf1f8d0779118f6ce60c9036</id>
-        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4379"/>
-        <updated>2023-10-05T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[10月も面接編とGD編を対面で開催します。
-ビジネスマナーも学ぶことができます。
-就活中の方、ISの選考を受ける方、参加して役立ててください。
-BHEキャリア支援チームのファシリテーターからフィードバックがあります。
-
-〇開催日時
-10月20日（金）
-面接編　１０：００－１２：００
-GD編　  １３：３０－１５：００
-
-〇場所
-面接編　人間系学系棟A　１階　１１４
-GD編　BHE会議室（スチューデ…]]></summary>
     </entry>
 </feed>
