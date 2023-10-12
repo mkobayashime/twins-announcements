@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "520de717ec24fd745b1a7be14cd993a4",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4410",
+            "title": "【周知】市販後の臨床試験への参加ご協力のお願い～新型コロナウイルスに感染された方へ～",
+            "summary": "　筑波大学附属病院より新型コロナウイルスに罹患された方を対象に市販後臨床試験への参加募集の案内がありました。詳しくは、添付の資料をご覧頂き、参加希望者は下記までご連絡ください。\n\n筑波大学附属病院\n電話番号：029-853-3682・3683\n平日・土曜：8:30～17:15\n",
+            "date_modified": "2023-10-12T03:00:00.000Z"
+        },
+        {
             "id": "cd8b20989efe7e862aced8d6a2a93e78",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4409",
             "title": "トビタテ！留学JAPAN新・日本代表プログラム【大学生等対象】2024年度（第16期）募集要項・募集説明会について",
@@ -37,13 +44,6 @@
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4404",
             "title": "第４７回秋季スポーツ・デー申し込みについてのお知らせ",
             "summary": "筑波大学スポーツ・デー学生委員会からのお知らせです。\n\n１１月１８日（土）・１１月１９日（日）に第４７回秋季スポーツ・デーを開催いたします。\n\nスポーツ・デーとは、筑波大学の全学生・教職員の皆様にスポーツを提供する機会を与えることを目的とした筑波大学主催の行事です。\n\n今回は筑波大学開学50周年を記念した学類対抗ドッジボールを開催いたします。今回だけの特別企画ですので是非ご参加ください。\n\n現在、…",
-            "date_modified": "2023-10-12T03:00:00.000Z"
-        },
-        {
-            "id": "c8a848d65ebcefeb78e2065f850f1e74",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4403",
-            "title": "臨床試験参加募集",
-            "summary": "　筑波大学病院より新型コロナウイルスに罹患された方を対象に市販後臨床試験への参加募集の案内がありました。詳しくは、添付の資料をご覧頂き、参加希望者は下記までご連絡ください。\n\n筑波大学附属病院\n電話番号：029-853-3682・3683\n平日・土曜：8:30～17:15",
             "date_modified": "2023-10-12T03:00:00.000Z"
         },
         {
