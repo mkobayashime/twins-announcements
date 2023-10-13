@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "2057d7a9779546cda009ed5702192fa1",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4411",
+            "title": "【学内ボランティア参加者募集！】学内の放置自転車を一緒に減らそう！プロジェクトvol 2",
+            "summary": "つくばアクションプロジェクト（T-ACT）からボランティア募集の連絡です。\n本活動の詳細は下記のURLを参照ください。ご興味のある方はぜひ申込みフォームより事前参加登録をお願い致します。申込みいただいた方に、メールにて詳細連絡をお送りします。\n\n＜活動名＞学内の放置自転車を一緒に減らそう！プロジェクト vol 2（10～11月）（承認番号：23012V）\n\n＜参加方法＞\n下記、申込みフォームより参…",
+            "date_modified": "2023-10-13T03:00:00.000Z"
+        },
+        {
             "id": "520de717ec24fd745b1a7be14cd993a4",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4410",
             "title": "【周知】市販後の臨床試験への参加ご協力のお願い～新型コロナウイルスに感染された方へ～",
@@ -135,13 +142,6 @@
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4390",
             "title": "[Notice] 安全保障輸出管理にかかる「誓約書」提出のお願い Request to submit a pledge for security export control",
             "summary": "2023年度大学院入学者（研究生等含む）の皆様へ\nTo all students (including research students, etc.) enrolled in graduate school for the academic year 2023\n\n機微技術の流出を防止するため、経済産業省の推奨に従い入学、修了時等の各段階でmanaba にて\n「外国為替及び外国貿易法（外為法）」を…",
-            "date_modified": "2023-10-10T03:00:00.000Z"
-        },
-        {
-            "id": "90f819315c90c8aece1839a3f7a24641",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4388",
-            "title": "10月は【留学相談強化月間】スチューデント・コモンズ（1A203）にて！",
-            "summary": "10月！秋学期が始まりました。スチューデントサポートセンター国際交流支援室では、留学のアシストをしています！\n各留学プログラム毎の説明会や、海外インターンシップの説明会、語学試験の説明会。などなど。。。。\nイベント盛りだくさんでお贈りする、2023秋の留学相談強化月間！ぜひ、ご参加ください！\n\n内容：留学に関するあれこれ説明会など\n日時：イベントにより異なる\n場所：Student Commons　…",
             "date_modified": "2023-10-10T03:00:00.000Z"
         }
     ]
