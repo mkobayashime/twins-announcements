@@ -5,6 +5,20 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "489be462ddd66b74e8161eb0ff235991",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4416",
+            "title": "【募集】筑波大学ホームゲーム「TSUKUBA LIVE! NEXT 50」当日スタッフ",
+            "summary": "2023年11月15日(水)に開催予定の筑波大学ホームゲーム「TSUKUBA LIVE! NEXT 50」において、会場設営や当日運営を通じて、共にホームゲームを作り上げるボランティアスタッフを募集します。\n\n〈エントリーフォーム＞\nhttps://forms.gle/v4h8fJrmChYdSURR8\n\n【イベント名】\n筑波大学ホームゲーム 「TSUKUBA LIVE! NEXT 50」\nHaw…",
+            "date_modified": "2023-10-13T03:00:00.000Z"
+        },
+        {
+            "id": "489be462ddd66b74e8161eb0ff235991",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4415",
+            "title": "【募集】筑波大学ホームゲーム「TSUKUBA LIVE! NEXT 50」当日スタッフ",
+            "summary": "2023年11月15日(水)に開催予定の筑波大学ホームゲーム「TSUKUBA LIVE! NEXT 50」において、会場設営や当日運営を通じて、共にホームゲームを作り上げるボランティアスタッフを募集します。\n\n〈エントリーフォーム＞\nhttps://forms.gle/v4h8fJrmChYdSURR8\n\n【イベント名】\n筑波大学ホームゲーム 「TSUKUBA LIVE! NEXT 50」\nHaw…",
+            "date_modified": "2023-10-13T03:00:00.000Z"
+        },
+        {
             "id": "0822998f7d9047cdd4f7c28c04682892",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4414",
             "title": "World Science Leaders’ Seminar Wed. Nov. 1st 2023 13:45-16:30",
@@ -129,20 +143,6 @@
             "title": "10/27開催【国大協】第22回大学改革シンポジウムの開催について",
             "summary": "このたび、標記シンポジウムを別紙のとおりオンライン開催すること\nとなりましたので、ご案内いたします。\n\n本シンポジウムは高等教育関係者だけでなく、大学生、産業界、その他一般を\n対象としているため、広く周知していただけますと幸いです。\n\n参加をご希望の場合は、10月20日(金)までに下記URLからお申込みください。\n\n\n一般社団法人国立大学協会",
             "date_modified": "2023-10-11T03:00:00.000Z"
-        },
-        {
-            "id": "d21eb748c7ce9be54909af51bd780aaf",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4394",
-            "title": "【学生宿舎/Student Residence Hall】学生宿舎入居募集情報について / Information of Residence Hall Application",
-            "summary": "令和6年度学生宿舎入居募集情報についてお知らせいたします。\n詳細は添付ファイルを参照してください。\n\n個別の募集の詳細はWEB掲示板の「大学から学生へのお知らせ（学内専用）」に掲載しています。\n\nThis is to inform you about AY2024 Residence Hall Application.\nPlease check attached PDF.\n\nMore detail…",
-            "date_modified": "2023-10-11T03:00:00.000Z"
-        },
-        {
-            "id": "539f6cb849bec94e362b838f4bd9297e",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4393",
-            "title": "Volunteers wanted for \"Tsukuba Music × Artist Festival 2023 / ボランティア募集！つくば音楽祭・つくばな匠",
-            "summary": "Volunteers wanted for \"Tsukuba Music × Artist Festival 2023.\"\n(和文あり)\nWe are looking for the staff for a big festival in Tsukuba.\nWhen: Sat., Oct 14\nWhere:Tsukuba Center\nIf you can join for all of day …",
-            "date_modified": "2023-10-10T03:00:00.000Z"
         }
     ]
 }
