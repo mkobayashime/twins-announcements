@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "0822998f7d9047cdd4f7c28c04682892",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4414",
+            "title": "World Science Leaders’ Seminar Wed. Nov. 1st 2023 13:45-16:30",
+            "summary": "At the seminar on Wed. Nov. 1st 2023 13:45-16:30, on-site TARA Bldg. A, Seminar Room, The speaker will be Dr. Pierre Léopold of the Institut Curie, who is a world-leading researcher in the field of an…",
+            "date_modified": "2023-10-13T03:00:00.000Z"
+        },
+        {
             "id": "334cef81f18d6988ca6862ffd7fcbec3",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4413",
             "title": "（再掲）【参加者募集！２年次以上の全学群生対象】東南アジアでの海外教育実習インターンシップSEA-Teacherプログラム",
@@ -135,13 +142,6 @@
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4393",
             "title": "Volunteers wanted for \"Tsukuba Music × Artist Festival 2023 / ボランティア募集！つくば音楽祭・つくばな匠",
             "summary": "Volunteers wanted for \"Tsukuba Music × Artist Festival 2023.\"\n(和文あり)\nWe are looking for the staff for a big festival in Tsukuba.\nWhen: Sat., Oct 14\nWhere:Tsukuba Center\nIf you can join for all of day …",
-            "date_modified": "2023-10-10T03:00:00.000Z"
-        },
-        {
-            "id": "6eb7e21dcf1f8d0779118f6ce60c9036",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4392",
-            "title": "（BHE)10月20日　就活支援企画　チャレンジ実践会のご案内",
-            "summary": "10月も面接編とGD編を対面で開催します。\nビジネスマナーも学ぶことができます。\n就活中の方、ISの選考を受ける方、参加して役立ててください。\nBHEキャリア支援チームのファシリテーターからフィードバックがあります。\n\n〇開催日時\n10月20日（金）\n面接編　１０：００－１２：００\nGD編　  １３：３０－１５：００\n\n〇場所\n面接編　人間系学系棟A　１階　１１４\nGD編　BHE会議室（スチューデ…",
             "date_modified": "2023-10-10T03:00:00.000Z"
         }
     ]

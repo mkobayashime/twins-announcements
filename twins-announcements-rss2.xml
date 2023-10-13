@@ -4,10 +4,17 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Fri, 13 Oct 2023 06:10:42 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 13 Oct 2023 07:07:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
+        <item>
+            <title><![CDATA[World Science Leaders’ Seminar Wed. Nov. 1st 2023 13:45-16:30]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4414</link>
+            <guid>0822998f7d9047cdd4f7c28c04682892</guid>
+            <pubDate>Fri, 13 Oct 2023 03:00:00 GMT</pubDate>
+            <description><![CDATA[At the seminar on Wed. Nov. 1st 2023 13:45-16:30, on-site TARA Bldg. A, Seminar Room, The speaker will be Dr. Pierre Léopold of the Institut Curie, who is a world-leading researcher in the field of an…]]></description>
+        </item>
         <item>
             <title><![CDATA[（再掲）【参加者募集！２年次以上の全学群生対象】東南アジアでの海外教育実習インターンシップSEA-Teacherプログラム]]></title>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4413</link>
@@ -240,25 +247,6 @@ We are looking for the staff for a big festival in Tsukuba.
 When: Sat., Oct 14
 Where:Tsukuba Center
 If you can join for all of day …]]></description>
-        </item>
-        <item>
-            <title><![CDATA[（BHE)10月20日　就活支援企画　チャレンジ実践会のご案内]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4392</link>
-            <guid>6eb7e21dcf1f8d0779118f6ce60c9036</guid>
-            <pubDate>Tue, 10 Oct 2023 03:00:00 GMT</pubDate>
-            <description><![CDATA[10月も面接編とGD編を対面で開催します。
-ビジネスマナーも学ぶことができます。
-就活中の方、ISの選考を受ける方、参加して役立ててください。
-BHEキャリア支援チームのファシリテーターからフィードバックがあります。
-
-〇開催日時
-10月20日（金）
-面接編　１０：００－１２：００
-GD編　  １３：３０－１５：００
-
-〇場所
-面接編　人間系学系棟A　１階　１１４
-GD編　BHE会議室（スチューデ…]]></description>
         </item>
     </channel>
 </rss>
