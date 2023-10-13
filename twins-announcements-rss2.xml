@@ -4,10 +4,20 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Fri, 13 Oct 2023 02:19:19 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 13 Oct 2023 03:08:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
+        <item>
+            <title><![CDATA[（再掲）【参加者募集】介護セミナー「認知症サポーター養成講座」（10/27開催）]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4412</link>
+            <guid>be86ca92889a39884048dc139ac41553</guid>
+            <pubDate>Fri, 13 Oct 2023 03:00:00 GMT</pubDate>
+            <description><![CDATA[ヒューマンエンパワーメント推進局では、10月27日（金）に認知症をテーマとした介護セミナーを開催します。
+日本における65歳以上の認知症の人の数は、2025年には約650〜700万人（高齢者の約５人に１人）に増加すると予測されています。
+認知症サポーター養成講座に参加して、認知症について正しく理解し認知症の人やその家族を温かい目で見守る応援者（認知症サポーター）になってみませんか？
+認知症の基礎知…]]></description>
+        </item>
         <item>
             <title><![CDATA[【学内ボランティア参加者募集！】学内の放置自転車を一緒に減らそう！プロジェクトvol 2]]></title>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4411</link>
@@ -250,17 +260,6 @@ GD編　BHE会議室（スチューデ…]]></description>
 
 【日時】
 　2023年10月20日（金）…]]></description>
-        </item>
-        <item>
-            <title><![CDATA[[Notice] 安全保障輸出管理にかかる「誓約書」提出のお願い Request to submit a pledge for security export control]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4390</link>
-            <guid>08a4b10eb8b3b18484851b4f2fa925b0</guid>
-            <pubDate>Tue, 10 Oct 2023 03:00:00 GMT</pubDate>
-            <description><![CDATA[2023年度大学院入学者（研究生等含む）の皆様へ
-To all students (including research students, etc.) enrolled in graduate school for the academic year 2023
-
-機微技術の流出を防止するため、経済産業省の推奨に従い入学、修了時等の各段階でmanaba にて
-「外国為替及び外国貿易法（外為法）」を…]]></description>
         </item>
     </channel>
 </rss>

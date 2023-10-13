@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "be86ca92889a39884048dc139ac41553",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4412",
+            "title": "（再掲）【参加者募集】介護セミナー「認知症サポーター養成講座」（10/27開催）",
+            "summary": "ヒューマンエンパワーメント推進局では、10月27日（金）に認知症をテーマとした介護セミナーを開催します。\n日本における65歳以上の認知症の人の数は、2025年には約650〜700万人（高齢者の約５人に１人）に増加すると予測されています。\n認知症サポーター養成講座に参加して、認知症について正しく理解し認知症の人やその家族を温かい目で見守る応援者（認知症サポーター）になってみませんか？\n認知症の基礎知…",
+            "date_modified": "2023-10-13T03:00:00.000Z"
+        },
+        {
             "id": "2057d7a9779546cda009ed5702192fa1",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4411",
             "title": "【学内ボランティア参加者募集！】学内の放置自転車を一緒に減らそう！プロジェクトvol 2",
@@ -135,13 +142,6 @@
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4391",
             "title": "【入退場自由・誰でも参加可能】10/20開催「支援技術マッチングイベント」について",
             "summary": "　この度ヒューマンエンパワーメント推進局では、その技術や開発に取り組む企業を招き、筑波大学学生・教職員及び筑波技術大学学生・教職員を対象に、最新の支援技術を体験いただけるイベントを開催いたします。\n　本イベントでは支援技術を実際に体験し、感想や要望を企業担当者にフィードバックできる貴重な機会です。障害の有無を問わず、多くの方のご参加をお待ちしております。\n\n【日時】\n　2023年10月20日（金）…",
-            "date_modified": "2023-10-10T03:00:00.000Z"
-        },
-        {
-            "id": "08a4b10eb8b3b18484851b4f2fa925b0",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4390",
-            "title": "[Notice] 安全保障輸出管理にかかる「誓約書」提出のお願い Request to submit a pledge for security export control",
-            "summary": "2023年度大学院入学者（研究生等含む）の皆様へ\nTo all students (including research students, etc.) enrolled in graduate school for the academic year 2023\n\n機微技術の流出を防止するため、経済産業省の推奨に従い入学、修了時等の各段階でmanaba にて\n「外国為替及び外国貿易法（外為法）」を…",
             "date_modified": "2023-10-10T03:00:00.000Z"
         }
     ]
