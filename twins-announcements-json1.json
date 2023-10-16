@@ -5,6 +5,27 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "61fe481326671cf1facb75938319627f",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4424",
+            "title": "【Announcement】AY 2023 Class Recess Due to the Undergraduate Entrance Examinations",
+            "summary": "To All Students\n\nDue to the Undergraduate Entrance Examinations, such as the Entrance Examination by School Recommendation (Suisen Nyūshi); the Common Test for University Admissions (Daigaku Nyūgaku K…",
+            "date_modified": "2023-10-16T03:00:00.000Z"
+        },
+        {
+            "id": "4f8e3308e4278d699de7c4627e7e228b",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4423",
+            "title": "【10/18開催】図書館講習会「論文投稿講座～効果的な研究メソッドと文献の活用方法」",
+            "summary": "「論文投稿講座～効果的な研究メソッドと文献の活用方法」\nの講習会を開催します。\n\n日時：10/18(水) 15:15-16:30\n開催方法：オンライン(Cisco Webex)\n\n投稿には本文の書き進め方とともに、執筆の前後のフローにも\n重要なコツやノウハウがあることをご存知ですか？\n\nアクセプトされる論文を書くために重要な研究の進め方や、\n論文の書き進め方、査読者への対応など、研究から論文投稿\n…",
+            "date_modified": "2023-10-16T03:00:00.000Z"
+        },
+        {
+            "id": "e295b324c1f802c255b72b3890c03131",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4422",
+            "title": "【お知らせ】学群入学試験等の実施に伴う令和５年度授業の臨時休業について",
+            "summary": "全学学生\n\n推薦入試、大学入学共通テスト及び個別学力検査等の実施に伴い、添付ファイルのとおり、試験場設営期間及び試験実施日の全学の授業を臨時休業とし、実施施設、その周辺及び周辺区域への立ち入りを禁止します。試験日程の変更が生じた場合は、決定次第改めて通知します。\n\n",
+            "date_modified": "2023-10-16T03:00:00.000Z"
+        },
+        {
             "id": "c931891bd131a307b207add8b672abb6",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4421",
             "title": "【開催案内】 中央アジア（キルギス）帰国報告会/中央アジア・コーカサス等交換留学（語学研修を含む）説明会",
@@ -122,27 +143,6 @@
             "title": "【再掲】世界を変えよう基金後援イベント「インド学生ボランティア報告ー学生の私たちだからできること」開催のお知らせ",
             "summary": "筑波大学“世界を変えよう基金”は、インドのハンセン病患者コロニーでボランティア活動を行う学生グループ「インドワークキャンプ団体namaste!」を2017年から資金面で支援しています。\nこの夏、インドの現地で2週間ボランティア活動に従事したnamaste!のメンバーの活動報告会を、下記の日時に対面・Zoomのハイブリッドで開催します。\n10月22日（日）14:30\n教室：3A306\nZoom情報は…",
             "date_modified": "2023-10-12T03:00:00.000Z"
-        },
-        {
-            "id": "c436aa99c130266ba190584c4e30df3f",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4401",
-            "title": "【開催案内】ライティング支援連続セミナー「実践！レポート・論文の文章術」[10/12-11/16]",
-            "summary": "ライティング支援連続セミナー2023「実践！レポート・論文の文章術」を開催します。\n\n全６回、読むこと、考えること、伝えること。\n大学での学びに必要なスキルをテーマ毎にお届けします。\n\nレポート作成、論文執筆など大学で必要な学修や研究に\n取り組むためのスキルを伸ばしたい方におすすめです。\n\n日時：10月12日から11月16日までの毎週木曜日（全６回）\n　　　15時15分～16時15分\n場所：中央図…",
-            "date_modified": "2023-10-12T03:00:00.000Z"
-        },
-        {
-            "id": "1a61461108bb313db46abd87f811b42b",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4400",
-            "title": "筑波大学校友会主催　開学50周年記念シンポジウムのご案内",
-            "summary": "　筑波大学校友会は、筑波大学開学50周年（創基151年）記念事業として、記念シンポジウムを開催いたします。筑波大学校友会の会員の皆様に是非ご来場いただきたく、ご案内をいたします。会員でない方（筑波大学の在学生、卒業生、教職員、その他）もご参加いただけます。また、Zoomによるオンライン視聴も可能です。\n\n◆日時：R5年10月29日（日）13:00開場, 13:30開式, 16:30終了予定\n◆場所…",
-            "date_modified": "2023-10-11T03:00:00.000Z"
-        },
-        {
-            "id": "c4b2c246e0c7dadcba1dc466800f6938",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4398",
-            "title": "【SSC公募（一括公募）型】（2024年秋学期渡航分）CiCパートナー校及び全学対象協定校への海外留学の公募について",
-            "summary": "2024年秋学期渡航分のSSC公募（一括公募）型CiCパートナー校及び全学対象協定校への海外留学について、公募を開始しましたのでお知らせします。\n\n【募集内容】\n・募集対象：2024年秋学期渡航分\n・募集期間：2023年10月11日（水）～2023年12月4日（月）8時半\n　　※それ以降の提出はいかなる理由があろうとも受け付けできません。\n・募集要項：添付ファイル※必ず熟読の上、応募してください。…",
-            "date_modified": "2023-10-11T03:00:00.000Z"
         }
     ]
 }
