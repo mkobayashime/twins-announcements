@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/mkobayashime/twins-announcements</id>
     <title>在学生へのお知らせ | 筑波大学</title>
-    <updated>2023-10-16T01:44:51.405Z</updated>
+    <updated>2023-10-16T02:18:10.274Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://github.com/mkobayashime/twins-announcements"/>
     <subtitle>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</subtitle>
+    <entry>
+        <title type="html"><![CDATA[【開催案内】 中央アジア（キルギス）帰国報告会/中央アジア・コーカサス等交換留学（語学研修を含む）説明会]]></title>
+        <id>c931891bd131a307b207add8b672abb6</id>
+        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4421"/>
+        <updated>2023-10-16T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[筑波大学 日本財団「中央アジア・日本人材育成プロジェクト（NipCA）」では、中央アジア・コーカサス等からの留学生支援の他、筑波大学の学生が当該諸国へ留学する際のサポートも行っています。
+
+今回は、キルギスにおける海外語語学研修（ロシア語・キルギス語）を修了した３名による帰国報告に加え、CiCでアルファラビ・カザフ国立大学に現在留学中の学生２名とZoomで繋ぎ、現地から生の声を伝えてもらいます。中…]]></summary>
+    </entry>
     <entry>
         <title type="html"><![CDATA[今週も！10月は【留学相談強化月間】スチューデント・コモンズ（1A203）にて！]]></title>
         <id>95d0118b645094b06162f288cba9188a</id>
@@ -227,13 +236,5 @@ Zoom情報は…]]></summary>
 ・募集期間：2023年10月11日（水）～2023年12月4日（月）8時半
 　　※それ以降の提出はいかなる理由があろうとも受け付けできません。
 ・募集要項：添付ファイル※必ず熟読の上、応募してください。…]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[12/7, 8 開催 エリートスポーツコーチング論]]></title>
-        <id>37d8bd572ff90dd41eb0d002940c3b4d</id>
-        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4397"/>
-        <updated>2023-10-11T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[　このコースは一流競技者のパフォーマンス向上に関するコーチング、トレーニング理論及び方法を学び実践します。特に高強度トレーニング、ファンクショナルトレーニングの処方に焦点をあて、様々な最新トレーニング用具を活用する方法について学習し、特定の運動種目を対象としたトレーニングプログラムを作成します。
-　今回は、株式会社ワンダーイヤーズ代表の今井 亮介先生をお招きし、レクチャーしていただきます。大学院進…]]></summary>
     </entry>
 </feed>
