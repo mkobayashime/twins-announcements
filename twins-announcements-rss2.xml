@@ -4,10 +4,21 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Mon, 16 Oct 2023 00:33:54 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 16 Oct 2023 01:44:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
+        <item>
+            <title><![CDATA[今週も！10月は【留学相談強化月間】スチューデント・コモンズ（1A203）にて！]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4420</link>
+            <guid>95d0118b645094b06162f288cba9188a</guid>
+            <pubDate>Mon, 16 Oct 2023 03:00:00 GMT</pubDate>
+            <description><![CDATA[10月！秋学期が始まりました。スチューデントサポートセンター国際交流支援室では、留学のアシストをしています！
+ここにきて「留学、行けるかな？」って思ったそこの筑大生！「具体的に行きたい協定校が絞れてきた。」というあなた！
+そうです。そんなあなたの為に開催する【留学相談強化月間】
+各留学プログラム毎の説明会や、海外インターンシップの説明会、語学試験の説明会。などなど。。。。
+イベント盛りだくさんでお…]]></description>
+        </item>
         <item>
             <title><![CDATA[【再掲】世界を変えよう基金「北斎・富嶽三十六景を楽しむ会」参加者募集のお知らせ]]></title>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4419</link>
@@ -226,18 +237,6 @@ Zoom情報は…]]></description>
             <pubDate>Wed, 11 Oct 2023 03:00:00 GMT</pubDate>
             <description><![CDATA[　このコースは一流競技者のパフォーマンス向上に関するコーチング、トレーニング理論及び方法を学び実践します。特に高強度トレーニング、ファンクショナルトレーニングの処方に焦点をあて、様々な最新トレーニング用具を活用する方法について学習し、特定の運動種目を対象としたトレーニングプログラムを作成します。
 　今回は、株式会社ワンダーイヤーズ代表の今井 亮介先生をお招きし、レクチャーしていただきます。大学院進…]]></description>
-        </item>
-        <item>
-            <title><![CDATA[【学生無料】第14回TRS『読響ブラス―クリスマスに贈る金管のハーモニー』]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4396</link>
-            <guid>a677e5255593c9d4db9069e273e32209</guid>
-            <pubDate>Wed, 11 Oct 2023 03:00:00 GMT</pubDate>
-            <description><![CDATA[【学生無料】第14回TRS『読響ブラス―クリスマスに贈る金管のハーモニー』　
-つくばリサイタルシリーズは、筑波大学の有志学生による連続コンサート企画です。
-一流のクラシックをファンドレイジングにより一般1500円、学生無料でお届けしています。
-今回は、2019年に登場し大好評をいただいた読響ブラスを再びお招きします。
-読響ブラスは読売日本交響楽団のトップ奏者からなるアンサンブルです。
-大曲から新曲…]]></description>
         </item>
     </channel>
 </rss>
