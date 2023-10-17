@@ -5,6 +5,20 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "ecdcfc79870e07dcea38d2ad31b3742b",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4432",
+            "title": "2023年度　東北大学PFFP（大学教員準備プログラム）受講者募集について【12/11締切】",
+            "summary": "2023年度　東北大学PFFP（大学教員準備プログラム）受講者について\n東北大学高度教養教育・学生支援機構　大学教育支援センターより募集がございました。\n\n受講希望者は、募集要項・応募者資格をご確認の上、お申し込みください。\n詳細はURLよりご確認ください。\n\n--------------------------------------------------------------\nお問合せ・連…",
+            "date_modified": "2023-10-17T03:00:00.000Z"
+        },
+        {
+            "id": "166c975a8bd2c145f6cb6b9e35764261",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4431",
+            "title": "【見逃し配信】教育関係共同利用拠点第3回FD/SD研修会「『ゆるスポーツ』から学ぶダイバーシティ＆インクルージョン」",
+            "summary": "ヒューマンエンパワーメント推進局では、令和5（2023）年9月6日（水）に開催いたしました、令和5年度第3回FD/SD研修会「『ゆるスポーツ』から学ぶダイバーシティ＆インクルージョン」の見逃し配信を行いますのでお知らせいたします。\nダイバーシティ＆インクルージョンを初めて学ぶ方、これからのスポーツの在り方について新しい視点で考えたい方、「マイノリティデザイン」について知りたい・学びたい方など、様々…",
+            "date_modified": "2023-10-17T03:00:00.000Z"
+        },
+        {
             "id": "7ef949bb19a367d28e3ad64b0195a6fc",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4430",
             "title": "@s addresses are allowed only to send/receive e-mail on Microsoft 365",
@@ -129,20 +143,6 @@
             "title": "（再掲）【参加者募集】介護セミナー「認知症サポーター養成講座」（10/27開催）",
             "summary": "ヒューマンエンパワーメント推進局では、10月27日（金）に認知症をテーマとした介護セミナーを開催します。\n日本における65歳以上の認知症の人の数は、2025年には約650〜700万人（高齢者の約５人に１人）に増加すると予測されています。\n認知症サポーター養成講座に参加して、認知症について正しく理解し認知症の人やその家族を温かい目で見守る応援者（認知症サポーター）になってみませんか？\n認知症の基礎知…",
             "date_modified": "2023-10-13T03:00:00.000Z"
-        },
-        {
-            "id": "2057d7a9779546cda009ed5702192fa1",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4411",
-            "title": "【学内ボランティア参加者募集！】学内の放置自転車を一緒に減らそう！プロジェクトvol 2",
-            "summary": "つくばアクションプロジェクト（T-ACT）からボランティア募集の連絡です。\n本活動の詳細は下記のURLを参照ください。ご興味のある方はぜひ申込みフォームより事前参加登録をお願い致します。申込みいただいた方に、メールにて詳細連絡をお送りします。\n\n＜活動名＞学内の放置自転車を一緒に減らそう！プロジェクト vol 2（10～11月）（承認番号：23012V）\n\n＜参加方法＞\n下記、申込みフォームより参…",
-            "date_modified": "2023-10-13T03:00:00.000Z"
-        },
-        {
-            "id": "520de717ec24fd745b1a7be14cd993a4",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4410",
-            "title": "【周知】市販後の臨床試験への参加ご協力のお願い～新型コロナウイルスに感染された方へ～",
-            "summary": "　筑波大学附属病院より新型コロナウイルスに罹患された方を対象に市販後臨床試験への参加募集の案内がありました。詳しくは、添付の資料をご覧頂き、参加希望者は下記までご連絡ください。\n\n筑波大学附属病院\n電話番号：029-853-3682・3683\n平日・土曜：8:30～17:15\n",
-            "date_modified": "2023-10-12T03:00:00.000Z"
         }
     ]
 }
