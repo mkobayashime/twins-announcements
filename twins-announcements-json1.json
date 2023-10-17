@@ -5,6 +5,41 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "7ef949bb19a367d28e3ad64b0195a6fc",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4430",
+            "title": "@s addresses are allowed only to send/receive e-mail on Microsoft 365",
+            "summary": "　Though after signing in the Microsoft 365, some functions\nmay be open unexpectedly, you are not supposed to use functions\nother than sending/receiving e-mail.\n\nAny so created contents will be deleted…",
+            "date_modified": "2023-10-17T03:00:00.000Z"
+        },
+        {
+            "id": "208cf2690d248e73c50879615d7ccdf4",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4429",
+            "title": "@s アドレスでサインインした後の Microsoft 365 上での操作について",
+            "summary": "　@s のメールシステムでは、メールの送受信のみ可能としています。\n　マイクロソフトの環境上、なんらかの操作により、メール送受信以外の\n機能が、限定的に使えることがあります。これはユーザにとっても予想外\nのものと思われます。\n\n　このような使用が見つかった場合、そのような操作によって作成された\n副産物は、管理の都合上、当該ユーザへ通告することなく削除しますので、\nご了承ください。\n\n【問い合わせ先…",
+            "date_modified": "2023-10-17T03:00:00.000Z"
+        },
+        {
+            "id": "a5505320bdf448444496f37fe96ca231",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4428",
+            "title": "【本日15:15~】English-Chat (英語おしゃべりイベント)",
+            "summary": "国際交流をしたい！\n留学生の友達を作りたい！\n英語を練習したい！\n→などに当てはまるあなた、大変おススメです☆\nInternational students are also welcome!\n\n少人数グループに分かれて、英語で会話をします！英語初心者も歓迎です！\n単発での参加、途中参加も大歓迎です！\n\n開催日：火曜日 & 木曜日 (10月~1月)\n時　間：15:15～16:30（この時間内でした…",
+            "date_modified": "2023-10-17T03:00:00.000Z"
+        },
+        {
+            "id": "a5505320bdf448444496f37fe96ca231",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4427",
+            "title": "【本日15:15~】English-Chat (英語おしゃべりイベント)",
+            "summary": "国際交流をしたい！\n留学生の友達を作りたい！\n英語を練習したい！\n→などに当てはまるあなた、大変おススメです☆\nInternational students are also welcome!\n\n少人数グループに分かれて、英語で会話をします！英語初心者も歓迎です！\n単発での参加、途中参加も大歓迎です！\n\n開催日：火曜日 & 木曜日 (10月~1月)\n時　間：15:15～16:30（この時間内でした…",
+            "date_modified": "2023-10-17T03:00:00.000Z"
+        },
+        {
+            "id": "a5505320bdf448444496f37fe96ca231",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4426",
+            "title": "【本日15:15~】English-Chat (英語おしゃべりイベント)",
+            "summary": "国際交流をしたい！\n留学生の友達を作りたい！\n英語を練習したい！\n→などに当てはまるあなた、大変おススメです☆\nInternational students are also welcome!\n\n少人数グループに分かれて、英語で会話をします！英語初心者も歓迎です！\n単発での参加、途中参加も大歓迎です！\n\n開催日：火曜日 & 木曜日 (10月~1月)\n時　間：15:15～16:30（この時間内でした…",
+            "date_modified": "2023-10-17T03:00:00.000Z"
+        },
+        {
             "id": "4838c0fe832fa20cad9c9871beaca925",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4425",
             "title": "[Repost]Special Seminar: Hazardous Waste Management and Safety Standards on Campus",
@@ -107,41 +142,6 @@
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4410",
             "title": "【周知】市販後の臨床試験への参加ご協力のお願い～新型コロナウイルスに感染された方へ～",
             "summary": "　筑波大学附属病院より新型コロナウイルスに罹患された方を対象に市販後臨床試験への参加募集の案内がありました。詳しくは、添付の資料をご覧頂き、参加希望者は下記までご連絡ください。\n\n筑波大学附属病院\n電話番号：029-853-3682・3683\n平日・土曜：8:30～17:15\n",
-            "date_modified": "2023-10-12T03:00:00.000Z"
-        },
-        {
-            "id": "cd8b20989efe7e862aced8d6a2a93e78",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4409",
-            "title": "トビタテ！留学JAPAN新・日本代表プログラム【大学生等対象】2024年度（第16期）募集要項・募集説明会について",
-            "summary": "【募集要項について】\n　文部科学省主催の「トビタテ！留学JAPAN新・日本代表プログラム」第16期募集要項が公開されました。応募を希望する学生は、「募集要項」及び「応募申請の手引き」（2023年11月下旬公開予定）を熟読の上、応募申請を行ってください。\n【募集説明会について】\n募集説明会が、対面及びオンラインにて開催されます。申込フォームからの事前申込が必要です。人数に限りがありますので、希望する…",
-            "date_modified": "2023-10-12T03:00:00.000Z"
-        },
-        {
-            "id": "050e4f4e3d9b29345715f16bae154445",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4408",
-            "title": "英語・フランス語・スペイン語などのチャットイベント！来週よりスタート",
-            "summary": "いよいよ来週、秋学期のチャットイベントがスタートします！\n学生スタッフや留学生と、楽しく会話してみませんか？\nグループでの会話、ゲーム、文化紹介など、楽しいこといっぱい☆\n外国語に自身がないけど、国際交流をしたい、、、そういうあなたも！！\n学生スタッフの中に、日本語が堪能な留学生もいるのでご安心を！\n\nMulti-Lingual Chat: 火曜日 18:15~19:30\n英語チャット: 火・木 …",
-            "date_modified": "2023-10-12T03:00:00.000Z"
-        },
-        {
-            "id": "768015f557e281c9838544595ced462d",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4407",
-            "title": "【BHEキャリア支援チーム】「MONO2025（文系版・理系版）」配布中！",
-            "summary": "業界と職種を知ることができるデータ帳「MONO2025」が届きました。\n\n欲しい方はBHE（スチューデントプラザ2F）受付へお問い合わせください！\n\n（数に限りがありますので、欲しい方はお早めにお越しください！）",
-            "date_modified": "2023-10-12T03:00:00.000Z"
-        },
-        {
-            "id": "af43070c9f7024570b4c04aee8ef851a",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4404",
-            "title": "第４７回秋季スポーツ・デー申し込みについてのお知らせ",
-            "summary": "筑波大学スポーツ・デー学生委員会からのお知らせです。\n\n１１月１８日（土）・１１月１９日（日）に第４７回秋季スポーツ・デーを開催いたします。\n\nスポーツ・デーとは、筑波大学の全学生・教職員の皆様にスポーツを提供する機会を与えることを目的とした筑波大学主催の行事です。\n\n今回は筑波大学開学50周年を記念した学類対抗ドッジボールを開催いたします。今回だけの特別企画ですので是非ご参加ください。\n\n現在、…",
-            "date_modified": "2023-10-12T03:00:00.000Z"
-        },
-        {
-            "id": "f5829ceac92547296aa5f48150c8be6f",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4402",
-            "title": "【再掲】世界を変えよう基金後援イベント「インド学生ボランティア報告ー学生の私たちだからできること」開催のお知らせ",
-            "summary": "筑波大学“世界を変えよう基金”は、インドのハンセン病患者コロニーでボランティア活動を行う学生グループ「インドワークキャンプ団体namaste!」を2017年から資金面で支援しています。\nこの夏、インドの現地で2週間ボランティア活動に従事したnamaste!のメンバーの活動報告会を、下記の日時に対面・Zoomのハイブリッドで開催します。\n10月22日（日）14:30\n教室：3A306\nZoom情報は…",
             "date_modified": "2023-10-12T03:00:00.000Z"
         }
     ]
