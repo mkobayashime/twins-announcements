@@ -2,10 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/mkobayashime/twins-announcements</id>
     <title>在学生へのお知らせ | 筑波大学</title>
-    <updated>2023-10-18T03:08:37.868Z</updated>
+    <updated>2023-10-18T06:10:45.232Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://github.com/mkobayashime/twins-announcements"/>
     <subtitle>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</subtitle>
+    <entry>
+        <title type="html"><![CDATA[明日開催！空き枠あり（BHE)10月20日　就活支援企画　チャレンジ実践会のご案内]]></title>
+        <id>4559b891665d3a58046ae9392d55f67a</id>
+        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4437"/>
+        <updated>2023-10-18T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[明日開催です！
+午前午後共に、空き枠あります。
+申込期間延長中です。
+
+10月も面接編とGD編を対面で開催します。
+ビジネスマナーも学ぶことができます。
+就活中の方、ISの選考を受ける方、参加して役立ててください。
+BHEキャリア支援チームのファシリテーターからフィードバックがあります。
+
+〇開催日時
+10月20日（金）
+面接編　１０：００－１２：００
+GD編　  １３：３０－１５：００
+
+〇場所…]]></summary>
+    </entry>
     <entry>
         <title type="html"><![CDATA[10/25開催　中南米へ留学しよう！留学体験談]]></title>
         <id>27d6e983bd2f6140eccaf8c9defe3f62</id>
@@ -240,15 +261,5 @@ Due to the Undergraduate Entrance Examinations, such as the Entrance Examination
 　なお、本防災ワークは全学リスクマネジメントセミナーを兼ねて実施します。皆さまのご参加をお待ちしております。
 
 実施日時：2023年11月15日…]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【Recruiting】Volunteer staff members who can help us create #TSUKUBALIVE!]]></title>
-        <id>501af9e21daff20680ca7eb55888df3f</id>
-        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4417"/>
-        <updated>2023-10-13T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[We are looking for volunteers to help us assist the operation of the University of Tsukuba's home game "TSUKUBA LIVE! NEXT 50" which is scheduled to be held on November 15th, 2023.
-
-<entry form>
-https…]]></summary>
     </entry>
 </feed>

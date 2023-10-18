@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "4559b891665d3a58046ae9392d55f67a",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4437",
+            "title": "明日開催！空き枠あり（BHE)10月20日　就活支援企画　チャレンジ実践会のご案内",
+            "summary": "明日開催です！\n午前午後共に、空き枠あります。\n申込期間延長中です。\n\n10月も面接編とGD編を対面で開催します。\nビジネスマナーも学ぶことができます。\n就活中の方、ISの選考を受ける方、参加して役立ててください。\nBHEキャリア支援チームのファシリテーターからフィードバックがあります。\n\n〇開催日時\n10月20日（金）\n面接編　１０：００－１２：００\nGD編　  １３：３０－１５：００\n\n〇場所…",
+            "date_modified": "2023-10-18T03:00:00.000Z"
+        },
+        {
             "id": "27d6e983bd2f6140eccaf8c9defe3f62",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4436",
             "title": "10/25開催　中南米へ留学しよう！留学体験談",
@@ -136,13 +143,6 @@
             "title": "【11/15開催】令和5年度全学防災訓練「障害学生等支援防災ワーク」（全学リスクマネジメントセミナー）の開催について",
             "summary": "　令和5年度全学防災訓練「障害学生等支援防災ワーク」（全学リスクマネジメントセミナー）を開催いたします。\n　大規模災害発生時に障害学生等と避難誘導者双方が安全に避難するための方法について、講演を通じて学ぶことを目的とし、全学防災訓練の一環として行います。\n　なお、本防災ワークは全学リスクマネジメントセミナーを兼ねて実施します。皆さまのご参加をお待ちしております。\n\n実施日時：2023年11月15日…",
             "date_modified": "2023-10-16T03:00:00.000Z"
-        },
-        {
-            "id": "501af9e21daff20680ca7eb55888df3f",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4417",
-            "title": "【Recruiting】Volunteer staff members who can help us create #TSUKUBALIVE!",
-            "summary": "We are looking for volunteers to help us assist the operation of the University of Tsukuba's home game \"TSUKUBA LIVE! NEXT 50\" which is scheduled to be held on November 15th, 2023.\n\n<entry form>\nhttps…",
-            "date_modified": "2023-10-13T03:00:00.000Z"
         }
     ]
 }
