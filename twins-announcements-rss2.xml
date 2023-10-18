@@ -4,10 +4,35 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Tue, 17 Oct 2023 21:11:16 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 18 Oct 2023 03:08:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
+        <item>
+            <title><![CDATA[10/25開催　中南米へ留学しよう！留学体験談]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4436</link>
+            <guid>27d6e983bd2f6140eccaf8c9defe3f62</guid>
+            <pubDate>Wed, 18 Oct 2023 03:00:00 GMT</pubDate>
+            <description><![CDATA[中南米への留学ってどんな感じ？聞いてみよう！
+
+中南米への留学を検討している方は、是非参加してください！
+様々疑問が出てくる留学。初めての体験はドキドキが止まらない。
+留学から帰ってきた先輩たちに直接聞いちゃおう！
+
+開催日：2023年10月25日（水）18:15～19:30
+対象：筑波大学在学生で交換留学を希望する者
+場所：スチューデント・コモンズ（第一エリア 1A棟203 ）
+使用言語：日本語…]]></description>
+        </item>
+        <item>
+            <title><![CDATA[TODAY Face-to-face Japanese chat!]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4435</link>
+            <guid>1ffd757b586bdf5ee70a6c6fb2feca8f</guid>
+            <pubDate>Wed, 18 Oct 2023 03:00:00 GMT</pubDate>
+            <description><![CDATA[Japanese Practice Program for all levels: Japanese-Chat
+If you are looking for an opportunity to practice Japanese, this program is for you!
+This is a face-to-face program where you can talk in Japane…]]></description>
+        </item>
         <item>
             <title><![CDATA[全学停電に伴うTWINSおよびKdB休止のお知らせ（10/27-30）]]></title>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4434</link>
@@ -227,27 +252,6 @@ Due to the Undergraduate Entrance Examinations, such as the Entrance Examination
 
 <entry form>
 https…]]></description>
-        </item>
-        <item>
-            <title><![CDATA[【募集】筑波大学ホームゲーム「TSUKUBA LIVE! NEXT 50」当日スタッフ]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4415</link>
-            <guid>489be462ddd66b74e8161eb0ff235991</guid>
-            <pubDate>Fri, 13 Oct 2023 03:00:00 GMT</pubDate>
-            <description><![CDATA[2023年11月15日(水)に開催予定の筑波大学ホームゲーム「TSUKUBA LIVE! NEXT 50」において、会場設営や当日運営を通じて、共にホームゲームを作り上げるボランティアスタッフを募集します。
-
-〈エントリーフォーム＞
-https://forms.gle/v4h8fJrmChYdSURR8
-
-【イベント名】
-筑波大学ホームゲーム 「TSUKUBA LIVE! NEXT 50」
-Haw…]]></description>
-        </item>
-        <item>
-            <title><![CDATA[World Science Leaders’ Seminar Wed. Nov. 1st 2023 13:45-16:30]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4414</link>
-            <guid>0822998f7d9047cdd4f7c28c04682892</guid>
-            <pubDate>Fri, 13 Oct 2023 03:00:00 GMT</pubDate>
-            <description><![CDATA[At the seminar on Wed. Nov. 1st 2023 13:45-16:30, on-site TARA Bldg. A, Seminar Room, The speaker will be Dr. Pierre Léopold of the Institut Curie, who is a world-leading researcher in the field of an…]]></description>
         </item>
     </channel>
 </rss>
