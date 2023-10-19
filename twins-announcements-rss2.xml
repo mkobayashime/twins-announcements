@@ -4,10 +4,23 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Thu, 19 Oct 2023 00:32:58 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 19 Oct 2023 03:08:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
+        <item>
+            <title><![CDATA[全学停電及びサーバー更新作業に伴う就職情報提供システム停止のお知らせ]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4442</link>
+            <guid>3d559a7480e123a9a014e4caaec7cc4d</guid>
+            <pubDate>Thu, 19 Oct 2023 03:00:00 GMT</pubDate>
+            <description><![CDATA[全学停電及びサーバー更新作業に伴い、下記の時間、就職情報提供システムが停止いたします。
+
+【システム停止日時】10/27（金）12：15　～　10/30（月）10：00
+
+なお、「学内専用ページ」、「ガイダンス等及び模試試験登録・申請」、「進路進捗状況届」へのアクセスはできません。
+皆様にはご迷惑をおかけいたしますが、ご理解、ご協力の程よろしくお願いいたします。
+]]></description>
+        </item>
         <item>
             <title><![CDATA[スーツ等の割引サービスについて（10月1日更新）]]></title>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4441</link>
@@ -259,15 +272,6 @@ Due to the Undergraduate Entrance Examinations, such as the Entrance Examination
 推薦入試、大学入学共通テスト及び個別学力検査等の実施に伴い、添付ファイルのとおり、試験場設営期間及び試験実施日の全学の授業を臨時休業とし、実施施設、その周辺及び周辺区域への立ち入りを禁止します。試験日程の変更が生じた場合は、決定次第改めて通知します。
 
 ]]></description>
-        </item>
-        <item>
-            <title><![CDATA[【開催案内】 中央アジア（キルギス）帰国報告会/中央アジア・コーカサス等交換留学（語学研修を含む）説明会]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4421</link>
-            <guid>c931891bd131a307b207add8b672abb6</guid>
-            <pubDate>Mon, 16 Oct 2023 03:00:00 GMT</pubDate>
-            <description><![CDATA[筑波大学 日本財団「中央アジア・日本人材育成プロジェクト（NipCA）」では、中央アジア・コーカサス等からの留学生支援の他、筑波大学の学生が当該諸国へ留学する際のサポートも行っています。
-
-今回は、キルギスにおける海外語語学研修（ロシア語・キルギス語）を修了した３名による帰国報告に加え、CiCでアルファラビ・カザフ国立大学に現在留学中の学生２名とZoomで繋ぎ、現地から生の声を伝えてもらいます。中…]]></description>
         </item>
     </channel>
 </rss>
