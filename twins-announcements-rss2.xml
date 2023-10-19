@@ -4,10 +4,20 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Wed, 18 Oct 2023 21:11:10 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 19 Oct 2023 00:32:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
+        <item>
+            <title><![CDATA[スーツ等の割引サービスについて（10月1日更新）]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4441</link>
+            <guid>c9ecc5a53d4a750b4fd61af58cddf444</guid>
+            <pubDate>Thu, 19 Oct 2023 03:00:00 GMT</pubDate>
+            <description><![CDATA[本学は紳士服の大手4社と契約しています。
+そのため、在学生とそのご家族の皆様には、全国のAOKI、コナカ、はるやま、洋服の青山で、通常の割引価格から更に割引いた価格でスーツ等をご購入いただけます。
+大変お得ですので、是非ご利用ください。
+※ご購入いただいた金額の一部が大学に寄附されます。]]></description>
+        </item>
         <item>
             <title><![CDATA[【2023秋学期：国際文化交流イベント“ちゃんぷーる (CAMPUR）” 】]]></title>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4440</link>
@@ -258,17 +268,6 @@ Due to the Undergraduate Entrance Examinations, such as the Entrance Examination
             <description><![CDATA[筑波大学 日本財団「中央アジア・日本人材育成プロジェクト（NipCA）」では、中央アジア・コーカサス等からの留学生支援の他、筑波大学の学生が当該諸国へ留学する際のサポートも行っています。
 
 今回は、キルギスにおける海外語語学研修（ロシア語・キルギス語）を修了した３名による帰国報告に加え、CiCでアルファラビ・カザフ国立大学に現在留学中の学生２名とZoomで繋ぎ、現地から生の声を伝えてもらいます。中…]]></description>
-        </item>
-        <item>
-            <title><![CDATA[今週も！10月は【留学相談強化月間】スチューデント・コモンズ（1A203）にて！]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4420</link>
-            <guid>95d0118b645094b06162f288cba9188a</guid>
-            <pubDate>Mon, 16 Oct 2023 03:00:00 GMT</pubDate>
-            <description><![CDATA[10月！秋学期が始まりました。スチューデントサポートセンター国際交流支援室では、留学のアシストをしています！
-ここにきて「留学、行けるかな？」って思ったそこの筑大生！「具体的に行きたい協定校が絞れてきた。」というあなた！
-そうです。そんなあなたの為に開催する【留学相談強化月間】
-各留学プログラム毎の説明会や、海外インターンシップの説明会、語学試験の説明会。などなど。。。。
-イベント盛りだくさんでお…]]></description>
         </item>
     </channel>
 </rss>

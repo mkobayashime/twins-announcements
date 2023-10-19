@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "c9ecc5a53d4a750b4fd61af58cddf444",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4441",
+            "title": "スーツ等の割引サービスについて（10月1日更新）",
+            "summary": "本学は紳士服の大手4社と契約しています。\nそのため、在学生とそのご家族の皆様には、全国のAOKI、コナカ、はるやま、洋服の青山で、通常の割引価格から更に割引いた価格でスーツ等をご購入いただけます。\n大変お得ですので、是非ご利用ください。\n※ご購入いただいた金額の一部が大学に寄附されます。",
+            "date_modified": "2023-10-19T03:00:00.000Z"
+        },
+        {
             "id": "45af41c497c6a814d8d8f1c9d20b4b79",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4440",
             "title": "【2023秋学期：国際文化交流イベント“ちゃんぷーる (CAMPUR）” 】",
@@ -135,13 +142,6 @@
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4421",
             "title": "【開催案内】 中央アジア（キルギス）帰国報告会/中央アジア・コーカサス等交換留学（語学研修を含む）説明会",
             "summary": "筑波大学 日本財団「中央アジア・日本人材育成プロジェクト（NipCA）」では、中央アジア・コーカサス等からの留学生支援の他、筑波大学の学生が当該諸国へ留学する際のサポートも行っています。\n\n今回は、キルギスにおける海外語語学研修（ロシア語・キルギス語）を修了した３名による帰国報告に加え、CiCでアルファラビ・カザフ国立大学に現在留学中の学生２名とZoomで繋ぎ、現地から生の声を伝えてもらいます。中…",
-            "date_modified": "2023-10-16T03:00:00.000Z"
-        },
-        {
-            "id": "95d0118b645094b06162f288cba9188a",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4420",
-            "title": "今週も！10月は【留学相談強化月間】スチューデント・コモンズ（1A203）にて！",
-            "summary": "10月！秋学期が始まりました。スチューデントサポートセンター国際交流支援室では、留学のアシストをしています！\nここにきて「留学、行けるかな？」って思ったそこの筑大生！「具体的に行きたい協定校が絞れてきた。」というあなた！\nそうです。そんなあなたの為に開催する【留学相談強化月間】\n各留学プログラム毎の説明会や、海外インターンシップの説明会、語学試験の説明会。などなど。。。。\nイベント盛りだくさんでお…",
             "date_modified": "2023-10-16T03:00:00.000Z"
         }
     ]
