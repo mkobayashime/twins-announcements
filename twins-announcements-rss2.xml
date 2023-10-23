@@ -4,10 +4,25 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Mon, 23 Oct 2023 00:33:18 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 23 Oct 2023 06:11:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
+        <item>
+            <title><![CDATA[11月22日　BHE主催　就活支援企画　チャレンジ実践会]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4452</link>
+            <guid>934de1458e4c11f1bedbb8f8565b89d6</guid>
+            <pubDate>Mon, 23 Oct 2023 03:00:00 GMT</pubDate>
+            <description><![CDATA[11月も面接編とGD編を対面で開催します。
+就活初心者大歓迎！ビジネスマナーも学ぶことができます。
+就活中の方、ISの選考を受ける方、参加して役立ててください。
+BHEキャリア支援チームのファシリテーターからフィードバックがあります。（日本語での開催です）
+
+〇開催日時・場所
+１１月２２日（水）
+GD編　　１０：００－１１：３０　BHE会議室（スチューデントプラザ2階）　
+面接編　  １３：３０－…]]></description>
+        </item>
         <item>
             <title><![CDATA[就活セミナー「筑波＿卒業後を考える会」(デロイトトーマツ・コンサルティング編)　開催のお知らせ]]></title>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4451</link>
@@ -245,22 +260,6 @@ may be open unexpectedly, you are not supposed to use functions
 other than sending/receiving e-mail.
 
 Any so created contents will be deleted…]]></description>
-        </item>
-        <item>
-            <title><![CDATA[@s アドレスでサインインした後の Microsoft 365 上での操作について]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4429</link>
-            <guid>208cf2690d248e73c50879615d7ccdf4</guid>
-            <pubDate>Tue, 17 Oct 2023 03:00:00 GMT</pubDate>
-            <description><![CDATA[　@s のメールシステムでは、メールの送受信のみ可能としています。
-　マイクロソフトの環境上、なんらかの操作により、メール送受信以外の
-機能が、限定的に使えることがあります。これはユーザにとっても予想外
-のものと思われます。
-
-　このような使用が見つかった場合、そのような操作によって作成された
-副産物は、管理の都合上、当該ユーザへ通告することなく削除しますので、
-ご了承ください。
-
-【問い合わせ先…]]></description>
         </item>
     </channel>
 </rss>

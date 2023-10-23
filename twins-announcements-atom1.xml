@@ -2,10 +2,25 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/mkobayashime/twins-announcements</id>
     <title>在学生へのお知らせ | 筑波大学</title>
-    <updated>2023-10-23T00:33:18.884Z</updated>
+    <updated>2023-10-23T06:11:06.405Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://github.com/mkobayashime/twins-announcements"/>
     <subtitle>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</subtitle>
+    <entry>
+        <title type="html"><![CDATA[11月22日　BHE主催　就活支援企画　チャレンジ実践会]]></title>
+        <id>934de1458e4c11f1bedbb8f8565b89d6</id>
+        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4452"/>
+        <updated>2023-10-23T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[11月も面接編とGD編を対面で開催します。
+就活初心者大歓迎！ビジネスマナーも学ぶことができます。
+就活中の方、ISの選考を受ける方、参加して役立ててください。
+BHEキャリア支援チームのファシリテーターからフィードバックがあります。（日本語での開催です）
+
+〇開催日時・場所
+１１月２２日（水）
+GD編　　１０：００－１１：３０　BHE会議室（スチューデントプラザ2階）　
+面接編　  １３：３０－…]]></summary>
+    </entry>
     <entry>
         <title type="html"><![CDATA[就活セミナー「筑波＿卒業後を考える会」(デロイトトーマツ・コンサルティング編)　開催のお知らせ]]></title>
         <id>3fa4209b9ccda438664919cafd8d604d</id>
@@ -243,21 +258,5 @@ may be open unexpectedly, you are not supposed to use functions
 other than sending/receiving e-mail.
 
 Any so created contents will be deleted…]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[@s アドレスでサインインした後の Microsoft 365 上での操作について]]></title>
-        <id>208cf2690d248e73c50879615d7ccdf4</id>
-        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4429"/>
-        <updated>2023-10-17T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[　@s のメールシステムでは、メールの送受信のみ可能としています。
-　マイクロソフトの環境上、なんらかの操作により、メール送受信以外の
-機能が、限定的に使えることがあります。これはユーザにとっても予想外
-のものと思われます。
-
-　このような使用が見つかった場合、そのような操作によって作成された
-副産物は、管理の都合上、当該ユーザへ通告することなく削除しますので、
-ご了承ください。
-
-【問い合わせ先…]]></summary>
     </entry>
 </feed>
