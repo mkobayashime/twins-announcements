@@ -4,10 +4,20 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Mon, 23 Oct 2023 09:13:20 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 23 Oct 2023 10:08:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
+        <item>
+            <title><![CDATA[今週も！１０月は【留学相談強化月間】スチューデント・コモンズ（1A203）にて！]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4457</link>
+            <guid>b5182fa6f80d7cff880e48cb122ba05c</guid>
+            <pubDate>Mon, 23 Oct 2023 03:00:00 GMT</pubDate>
+            <description><![CDATA[10月！秋学期１スチューデントサポートセンター国際交流支援室では、留学のアシストをしています！
+「留学、行けるかな？」って思ったそこの筑大生！「具体的に行きたい協定校が絞れてきた。」というあなたも！あなたの疑問に応える【留学相談強化月間】
+留学プログラム毎の説明会や、海外インターンシップ説明会、語学試験の説明会。などなど。。。。
+イベント盛りだくさんでお贈りする、2023秋の留学相談強化月間！ぜひ…]]></description>
+        </item>
         <item>
             <title><![CDATA[【BHE】11/15,22(水)公開授業：キャリアデザイン入門～世界にはばたく未来の自分～]]></title>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4456</link>
@@ -264,21 +274,6 @@ GD編　  １３：３０－１５：００
             <description><![CDATA[Japanese Practice Program for all levels: Japanese-Chat
 If you are looking for an opportunity to practice Japanese, this program is for you!
 This is a face-to-face program where you can talk in Japane…]]></description>
-        </item>
-        <item>
-            <title><![CDATA[全学停電に伴うTWINSおよびKdB休止のお知らせ（10/27-30）]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4434</link>
-            <guid>fcb29a698117424cc758d830193261e9</guid>
-            <pubDate>Tue, 17 Oct 2023 03:00:00 GMT</pubDate>
-            <description><![CDATA[令和5年10月28日（土）と10月29日（日）の2日間、電気設備の定期点検により、筑波キャンパス全体で停電となります。
-このため、TWINSおよびKdBも以下の期間、運転を休止します。
-ご迷惑をおかけしますが、ご協力をお願いします。
-
-TWINS・KdB運転休止期間：
-令和5年10月27日(金)17時～10月30日(月)12時
-　※30日は動作確認が完了次第復旧いたします。
-
-Routine in…]]></description>
         </item>
     </channel>
 </rss>
