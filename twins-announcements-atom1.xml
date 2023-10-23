@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/mkobayashime/twins-announcements</id>
     <title>在学生へのお知らせ | 筑波大学</title>
-    <updated>2023-10-23T08:10:49.527Z</updated>
+    <updated>2023-10-23T09:08:46.446Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://github.com/mkobayashime/twins-announcements"/>
     <subtitle>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</subtitle>
+    <entry>
+        <title type="html"><![CDATA[【BHE】11/15,22(水)公開授業：キャリアデザイン入門～世界にはばたく未来の自分～]]></title>
+        <id>e4b3f02bd2424bc10896f3192ee1290d</id>
+        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4456"/>
+        <updated>2023-10-23T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[学士基盤科目「キャリアデザイン入門～世界にはばたく未来の自分～」の第６回、第７回の授業を全学年の皆さんに公開します。
+ゲストスピーカーとして筑波大学卒業生が、自分の歩んできた人生を語り、後輩の皆さんに、力強いメッセージを届けてくれます。
+この貴重な機会を逃さず、先輩の話をきっかけとして、自分のこれからのキャリアについて考えてみませんか？
+
+【日時とゲストスピーカー】
+①11月15日(水) 15:1…]]></summary>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【お知らせ】筑波大学開学50周年記念クラウドファンディング実施中]]></title>
         <id>1ae64163eaddeba19686c6b6d823ea91</id>
@@ -265,13 +277,5 @@ TWINS・KdB運転休止期間：
 　※30日は動作確認が完了次第復旧いたします。
 
 Routine in…]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【新規科目】「異分野融合/連携ゼミナール」全学対象]]></title>
-        <id>a5cab2314b25d1eb289601b330d8bc45</id>
-        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4433"/>
-        <updated>2023-10-17T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[全学を対象とした、データサイエンス・エキスパート・プログラム(DSEP)では、博士前期・後期課程を対象に、新規科目「異分野融合/連携ゼミナール」を開講します。いよいよ10/21(土)よりスタートします。
-数理・データサイエンス・AI(MDA)関連のフロンティアでご活躍の様々な先生方が講義されます。基本は対面ですが、オンラインも可能。登録せずに聴講のみも可能ですので、学部生や研究生の方も歓迎です。ぜ…]]></summary>
     </entry>
 </feed>

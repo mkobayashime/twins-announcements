@@ -4,10 +4,22 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Mon, 23 Oct 2023 08:10:49 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 23 Oct 2023 09:08:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
+        <item>
+            <title><![CDATA[【BHE】11/15,22(水)公開授業：キャリアデザイン入門～世界にはばたく未来の自分～]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4456</link>
+            <guid>e4b3f02bd2424bc10896f3192ee1290d</guid>
+            <pubDate>Mon, 23 Oct 2023 03:00:00 GMT</pubDate>
+            <description><![CDATA[学士基盤科目「キャリアデザイン入門～世界にはばたく未来の自分～」の第６回、第７回の授業を全学年の皆さんに公開します。
+ゲストスピーカーとして筑波大学卒業生が、自分の歩んできた人生を語り、後輩の皆さんに、力強いメッセージを届けてくれます。
+この貴重な機会を逃さず、先輩の話をきっかけとして、自分のこれからのキャリアについて考えてみませんか？
+
+【日時とゲストスピーカー】
+①11月15日(水) 15:1…]]></description>
+        </item>
         <item>
             <title><![CDATA[【お知らせ】筑波大学開学50周年記念クラウドファンディング実施中]]></title>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4455</link>
@@ -267,14 +279,6 @@ TWINS・KdB運転休止期間：
 　※30日は動作確認が完了次第復旧いたします。
 
 Routine in…]]></description>
-        </item>
-        <item>
-            <title><![CDATA[【新規科目】「異分野融合/連携ゼミナール」全学対象]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4433</link>
-            <guid>a5cab2314b25d1eb289601b330d8bc45</guid>
-            <pubDate>Tue, 17 Oct 2023 03:00:00 GMT</pubDate>
-            <description><![CDATA[全学を対象とした、データサイエンス・エキスパート・プログラム(DSEP)では、博士前期・後期課程を対象に、新規科目「異分野融合/連携ゼミナール」を開講します。いよいよ10/21(土)よりスタートします。
-数理・データサイエンス・AI(MDA)関連のフロンティアでご活躍の様々な先生方が講義されます。基本は対面ですが、オンラインも可能。登録せずに聴講のみも可能ですので、学部生や研究生の方も歓迎です。ぜ…]]></description>
         </item>
     </channel>
 </rss>
