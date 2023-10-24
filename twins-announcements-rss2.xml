@@ -4,10 +4,25 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Mon, 23 Oct 2023 21:11:06 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 24 Oct 2023 00:33:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
+        <item>
+            <title><![CDATA[【BHEキャリア支援チーム】学内就職イベント 運営スタッフ募集（アルバイト）]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4458</link>
+            <guid>89c431218cc61a8deb7f4ce223140302</guid>
+            <pubDate>Tue, 24 Oct 2023 03:00:00 GMT</pubDate>
+            <description><![CDATA[12月に大学会館で開催される筑波大学BHEキャリア支援チーム主催「筑波大学就職ミライ博」の
+イベント運営スタッフ（アルバイト）を募集いたします。申込お待ちしております！
+
+＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝
+「学内就職イベントの運営スタッフ」
+仕事内容:　大学内就職イベントに係る事前準備・受付・誘導等の業務
+（１日でも可）
+-----------------------------------
+…]]></description>
+        </item>
         <item>
             <title><![CDATA[今週も！１０月は【留学相談強化月間】スチューデント・コモンズ（1A203）にて！]]></title>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4457</link>
@@ -265,15 +280,6 @@ GD編　  １３：３０－１５：００
 対象：筑波大学在学生で交換留学を希望する者
 場所：スチューデント・コモンズ（第一エリア 1A棟203 ）
 使用言語：日本語…]]></description>
-        </item>
-        <item>
-            <title><![CDATA[TODAY Face-to-face Japanese chat!]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4435</link>
-            <guid>1ffd757b586bdf5ee70a6c6fb2feca8f</guid>
-            <pubDate>Wed, 18 Oct 2023 03:00:00 GMT</pubDate>
-            <description><![CDATA[Japanese Practice Program for all levels: Japanese-Chat
-If you are looking for an opportunity to practice Japanese, this program is for you!
-This is a face-to-face program where you can talk in Japane…]]></description>
         </item>
     </channel>
 </rss>
