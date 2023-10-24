@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/mkobayashime/twins-announcements</id>
     <title>在学生へのお知らせ | 筑波大学</title>
-    <updated>2023-10-24T00:33:07.188Z</updated>
+    <updated>2023-10-24T03:08:58.186Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://github.com/mkobayashime/twins-announcements"/>
     <subtitle>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</subtitle>
+    <entry>
+        <title type="html"><![CDATA[（学術情報メディアセンター）Mathematica 講習動画公開のお知らせ（11/30までの期間限定）]]></title>
+        <id>2d1d216bc93f25e1da8f720781558978</id>
+        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4459"/>
+        <updated>2023-10-24T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[（学術情報メディアセンター）Mathematica 講習動画公開のお知らせ
+（11/30までの期間限定）
+
+Wolfram社よりMathematica
+講習動画提供と本学の期間限定の公開許可をもらいました。興味のある方は11/30までに下記から視聴してください。
+
+https://o365tsukuba.sharepoint.com/:v:/s/Mathematica/Eej9gy7gip1Jkk…]]></summary>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【BHEキャリア支援チーム】学内就職イベント 運営スタッフ募集（アルバイト）]]></title>
         <id>89c431218cc61a8deb7f4ce223140302</id>
@@ -262,21 +275,5 @@ BHEキャリア支援チームのファシリテーターからフィードバ�
 GD編　  １３：３０－１５：００
 
 〇場所…]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[10/25開催　中南米へ留学しよう！留学体験談]]></title>
-        <id>27d6e983bd2f6140eccaf8c9defe3f62</id>
-        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4436"/>
-        <updated>2023-10-18T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[中南米への留学ってどんな感じ？聞いてみよう！
-
-中南米への留学を検討している方は、是非参加してください！
-様々疑問が出てくる留学。初めての体験はドキドキが止まらない。
-留学から帰ってきた先輩たちに直接聞いちゃおう！
-
-開催日：2023年10月25日（水）18:15～19:30
-対象：筑波大学在学生で交換留学を希望する者
-場所：スチューデント・コモンズ（第一エリア 1A棟203 ）
-使用言語：日本語…]]></summary>
     </entry>
 </feed>
