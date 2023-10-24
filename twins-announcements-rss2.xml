@@ -4,10 +4,20 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Tue, 24 Oct 2023 03:08:58 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 24 Oct 2023 08:10:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
+        <item>
+            <title><![CDATA[【芸術】芸術系留学説明会オンライン配信のお知らせ]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4460</link>
+            <guid>d724d3abdf32dffbf425a53ae238a872</guid>
+            <pubDate>Tue, 24 Oct 2023 03:00:00 GMT</pubDate>
+            <description><![CDATA[10月18日（水）に実施した芸術系留学説明会のオンライン配信をしています。
+留学を検討している方、国際協定校への留学を検討している方で、
+説明会に参加しなかった方は参考までにご覧ください。
+]]></description>
+        </item>
         <item>
             <title><![CDATA[（学術情報メディアセンター）Mathematica 講習動画公開のお知らせ（11/30までの期間限定）]]></title>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4459</link>
@@ -256,27 +266,6 @@ Students attending this seminar will learn the basics and latest research trends
 ◆開催場所：グローバル・ビレッジ 2階 (コミュニティーステーション）
 
 ☆☆第1回目の開催は、10月25日（水）「日本」の発表…]]></description>
-        </item>
-        <item>
-            <title><![CDATA[明日開催！空き枠あり（BHE)10月20日　就活支援企画　チャレンジ実践会のご案内]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4437</link>
-            <guid>4559b891665d3a58046ae9392d55f67a</guid>
-            <pubDate>Wed, 18 Oct 2023 03:00:00 GMT</pubDate>
-            <description><![CDATA[明日開催です！
-午前午後共に、空き枠あります。
-申込期間延長中です。
-
-10月も面接編とGD編を対面で開催します。
-ビジネスマナーも学ぶことができます。
-就活中の方、ISの選考を受ける方、参加して役立ててください。
-BHEキャリア支援チームのファシリテーターからフィードバックがあります。
-
-〇開催日時
-10月20日（金）
-面接編　１０：００－１２：００
-GD編　  １３：３０－１５：００
-
-〇場所…]]></description>
         </item>
     </channel>
 </rss>
