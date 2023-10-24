@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/mkobayashime/twins-announcements</id>
     <title>在学生へのお知らせ | 筑波大学</title>
-    <updated>2023-10-24T09:12:44.574Z</updated>
+    <updated>2023-10-24T15:14:04.570Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://github.com/mkobayashime/twins-announcements"/>
     <subtitle>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</subtitle>
@@ -141,18 +141,6 @@ GD編　　１０：００－１１：３０　BHE会議室（スチューデン
 誰でも無料…]]></summary>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【10/23開催】「化学分野データベース CAS SciFinder-n 活用法」図書館講習会]]></title>
-        <id>191b2ce14b7b2a94d2cdef4e16d6463a</id>
-        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4450"/>
-        <updated>2023-10-20T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[「化学分野データベース CAS SciFinder-n 活用法」の講習会を開催します。
-
-日時：10/23(月) 16:30-18:00
-開催方法：オンライン(Zoom)
-
-CAS SciFinder-nはCAS(America Chemical Society / Chemical Abstracts Service)が提供する、化学を中心とする科学の情報に簡単にアクセスできるデータベースです。…]]></summary>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[スロベニア短期研修　履修説明会]]></title>
         <id>5cea2de72512576c089380036447cf1f</id>
         <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4449"/>
@@ -264,5 +252,26 @@ Students attending this seminar will learn the basics and latest research trends
 ◆開催場所：グローバル・ビレッジ 2階 (コミュニティーステーション）
 
 ☆☆第1回目の開催は、10月25日（水）「日本」の発表…]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[明日開催！空き枠あり（BHE)10月20日　就活支援企画　チャレンジ実践会のご案内]]></title>
+        <id>4559b891665d3a58046ae9392d55f67a</id>
+        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4437"/>
+        <updated>2023-10-18T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[明日開催です！
+午前午後共に、空き枠あります。
+申込期間延長中です。
+
+10月も面接編とGD編を対面で開催します。
+ビジネスマナーも学ぶことができます。
+就活中の方、ISの選考を受ける方、参加して役立ててください。
+BHEキャリア支援チームのファシリテーターからフィードバックがあります。
+
+〇開催日時
+10月20日（金）
+面接編　１０：００－１２：００
+GD編　  １３：３０－１５：００
+
+〇場所…]]></summary>
     </entry>
 </feed>
