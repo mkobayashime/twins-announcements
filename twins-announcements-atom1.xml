@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/mkobayashime/twins-announcements</id>
     <title>在学生へのお知らせ | 筑波大学</title>
-    <updated>2023-10-25T09:12:43.839Z</updated>
+    <updated>2023-10-25T11:06:35.597Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://github.com/mkobayashime/twins-announcements"/>
     <subtitle>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</subtitle>
+    <entry>
+        <title type="html"><![CDATA[【お知らせ】令和５年度学園祭実施に伴う自転車の駐輪規制及び撤去について（11/3(金・祝) 9:00～）]]></title>
+        <id>122c7407b6648ab19e356b1de8199a9a</id>
+        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4471"/>
+        <updated>2023-10-25T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[
+　学園祭期間中、第二・三エリア～体育・芸術エリア間のペデストリアンデッキ上は学園祭会場となるため、
+
+　自転車の駐輪を規制いたします。
+
+
+
+　下記日時に、別添「自転車撤去図」の移動対象エリア（黄色の斜線部分）に駐輪してある自転車は、
+
+　各撤去場所（赤枠部分）へ移動いたしますので、前日までに駐輪可能な場所へ自転車を移動させて
+
+　いただくようお願いいたします。
+
+　ご迷惑をおかけしますが、ご理…]]></summary>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【BHEイベント】大学院と就職を考えるセミナー]]></title>
         <id>145a305492ce183a5f9699ab69c7ba11</id>
@@ -256,20 +276,5 @@ GD編　　１０：００－１１：３０　BHE会議室（スチューデン
 就活中あるいはこれから就活を始める皆さんにとって興味深いテーマを取り上げていただきます。
 
 誰でも無料…]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[スロベニア短期研修　履修説明会]]></title>
-        <id>5cea2de72512576c089380036447cf1f</id>
-        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4449"/>
-        <updated>2023-10-20T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[スロベニア共和国リュブリャーナ大学での短期研修を3月に実施します。
-下記の通り履修説明会を開催しますので、履修希望者は必ず出席してください。
-
-【研修について】
-・科目名：AE14E13「日本語・日本文化国際研修I」（３単位）
-・実施時期：秋C水6・春季休業中 集中
-・対象：人文・文化学群、社会・国際学群、人間学群
-・研修先：スロベニア共和国 リュブリャーナ大学
-・渡航日程：2024年3月中下旬　…]]></summary>
     </entry>
 </feed>
