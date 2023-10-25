@@ -2,10 +2,54 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/mkobayashime/twins-announcements</id>
     <title>在学生へのお知らせ | 筑波大学</title>
-    <updated>2023-10-25T01:42:18.063Z</updated>
+    <updated>2023-10-25T03:08:43.178Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://github.com/mkobayashime/twins-announcements"/>
     <subtitle>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</subtitle>
+    <entry>
+        <title type="html"><![CDATA[今夜開催【2023秋学期：国際文化交流“ちゃんぷーる（CAMPUR）”】]]></title>
+        <id>f80d6a6041a62552ff5e0e2cf6377736</id>
+        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4464"/>
+        <updated>2023-10-25T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[スチューデントサポートセンターよりイベントのお知らせです。
+
+今学期も、AIMSによる短期留学生、本学学生による文化交流イベント「ちゃんぷーる（CAMPUR）」を開催いたします！
+This semester, AIMS will again hold "CAMPUR," a cultural exchange event!
+
+◆対象/Target：本学の学生・教職員/Students, facul…]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【お知らせ】令和５年度学園祭実施に伴う石の広場周辺の交通規制について（11/2(木) 7:00～11/6(月) 19:00）]]></title>
+        <id>c97ee067b0e41e9247e2d5f866ec0e5c</id>
+        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4463"/>
+        <updated>2023-10-25T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[
+学園祭実施にあたり、石の広場に特設ステージの設置をすることから、以下のとおり交通規制を行います。
+ご迷惑をおかけしますが、ご理解とご協力のほどよろしくお願いいたします。
+
+　　　　　　　　　　　　　　　　　　　記
+
+　規制日時：令和５年１１月２日(木) ７：００ ～ １１月６日(月) １９：００
+
+　規制場所：石の広場周辺（理科系Ａ棟から３Ａ棟に向かうスロープ・階段及び通路）
+         …]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【11/8 開催】「文献管理ツールRefWorks活用法」図書館講習会]]></title>
+        <id>74e7c8443124ff565caa0f80a73cc5f4</id>
+        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4462"/>
+        <updated>2023-10-25T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[「文献管理ツールRefWorks活用法」の講習会を開催します。
+
+日時：11月8日（水）15:15-16:45
+開催方法： オンライン（Zoom)
+
+「あの論文、どこに保存したのか忘れちゃったな。どうしよう…」
+「文献リストの作成は時間がかかって面倒だな…。効率がいい方法があれば楽なのに。」
+と思っているそこのあなたに役立つ講習会です。
+
+秋学期は【初中級編】として、具体的な操作についてデモを交え…]]></summary>
+    </entry>
     <entry>
         <title type="html"><![CDATA[本日開催【中南米へ留学しよう！留学体験談】]]></title>
         <id>8376e12074d43c7bf05303cdf1f276a6</id>
@@ -229,44 +273,5 @@ https://anzenk…]]></summary>
         <updated>2023-10-19T03:00:00.000Z</updated>
         <summary type="html"><![CDATA[The World-science Leaders’ Seminar is a part of classes in the Human Biology PhD program.
 Students attending this seminar will learn the basics and latest research trends in the specialities of the wo…]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[全学停電及びサーバー更新作業に伴う就職情報提供システム停止のお知らせ]]></title>
-        <id>3d559a7480e123a9a014e4caaec7cc4d</id>
-        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4442"/>
-        <updated>2023-10-19T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[全学停電及びサーバー更新作業に伴い、下記の時間、就職情報提供システムが停止いたします。
-
-【システム停止日時】10/27（金）12：15　～　10/30（月）10：00
-
-なお、「学内専用ページ」、「ガイダンス等及び模試試験登録・申請」、「進路進捗状況届」へのアクセスはできません。
-皆様にはご迷惑をおかけいたしますが、ご理解、ご協力の程よろしくお願いいたします。
-]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[スーツ等の割引サービスについて（10月1日更新）]]></title>
-        <id>c9ecc5a53d4a750b4fd61af58cddf444</id>
-        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4441"/>
-        <updated>2023-10-19T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[本学は紳士服の大手4社と契約しています。
-そのため、在学生とそのご家族の皆様には、全国のAOKI、コナカ、はるやま、洋服の青山で、通常の割引価格から更に割引いた価格でスーツ等をご購入いただけます。
-大変お得ですので、是非ご利用ください。
-※ご購入いただいた金額の一部が大学に寄附されます。]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【2023秋学期：国際文化交流イベント“ちゃんぷーる (CAMPUR）” 】]]></title>
-        <id>45af41c497c6a814d8d8f1c9d20b4b79</id>
-        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4440"/>
-        <updated>2023-10-18T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[スチューデントサポートセンターよりイベントのお知らせです。
-
-今学期も、AIMSによる短期留学生、本学学生による文化交流イベント（「ちゃんぷーる（CAMPUR）」）を開催いたします！
-
-◆対象：本学の学生・教職員
-◆日時：（ポスター参照）
-◆時間：18：30～20：00
-◆開催場所：グローバル・ビレッジ 2階 (コミュニティーステーション）
-
-☆☆第1回目の開催は、10月25日（水）「日本」の発表…]]></summary>
     </entry>
 </feed>
