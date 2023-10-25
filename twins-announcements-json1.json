@@ -5,6 +5,20 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "122c7407b6648ab19e356b1de8199a9a",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4466",
+            "title": "【お知らせ】令和５年度学園祭実施に伴う自転車の駐輪規制及び撤去について（11/3(金・祝) 9:00～）",
+            "summary": "    学園祭期間中、第二・三エリア～体育・芸術エリア間のペデストリアンデッキ上は学園祭会場となるため、\n\n　自転車の駐輪を規制いたします。\n\n\n\n　下記日時に、別添「自転車撤去図」の移動対象エリア（黄色の斜線部分）に駐輪してある自転車は、\n\n　各撤去場所（赤枠部分）へ移動いたしますので、前日までに駐輪可能な場所へ自転車を移動させて\n\n　いただくようお願いいたします。\n\n　ご迷惑をおかけしますが、…",
+            "date_modified": "2023-10-25T03:00:00.000Z"
+        },
+        {
+            "id": "0cd00cfb32ae916f587ee7d90f4ab9c4",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4465",
+            "title": "【お知らせ】令和５年度学園祭打上げ花火に関するご案内及び虹の広場周辺の通行規制について（11/５(日)）",
+            "summary": "学園祭の最終日（11/5（日））の後夜祭において、下記のとおり花火を打ち上げます。\n\n　打上げ花火の実施に伴い、準備及び周辺の安全確保のため、虹の広場周辺の通行規制を行いますので、\n\n　ご理解とご協力をよろしくお願いいたします。\n\n　　　　　　　　　　　　　　　　　　　　　　　　　　記\n\n\n\n　　  打上げ日時  ： 令和５年１１月５日（日）２０：２５～２０：４０\n\n　　  打上げ場所  ：  筑…",
+            "date_modified": "2023-10-25T03:00:00.000Z"
+        },
+        {
             "id": "f80d6a6041a62552ff5e0e2cf6377736",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4464",
             "title": "今夜開催【2023秋学期：国際文化交流“ちゃんぷーる（CAMPUR）”】",
@@ -129,20 +143,6 @@
             "title": "10/26（木）15：15-17：15「Business Leaders’ Seminar/ビジネスリーダーズセミナー」（対象：全学生）",
             "summary": "ヒューマンバイオロジー学位プログラムでは授業の一環として「Business Leaders’ Seminar/ビジネスリーダーズセミナー」を開催しています。\n本セミナーは、世界のトップビジネスリーダーを招き、オムニバス形式でキャリア形成やビジネスに関する成功と失敗の話などの経験を紹介するものです。\n\n10月26日（木）15：15-17：15に開催するセミナーでは、株式会社ＤＯＫＩ  代表取締役、元…",
             "date_modified": "2023-10-20T03:00:00.000Z"
-        },
-        {
-            "id": "c8f445fa57d7d9e9d4008d398125fd28",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4445",
-            "title": "【お知らせ】令和５年度筑波地区防災訓練の実施について11月15日（水）",
-            "summary": "日頃より、本学の災害対策にご協力いただきありがとうございます。\n令和５年度筑波地区防災訓練の実施についてお知らせいたします。\n\n実施日時：　令和５年１１月１５日（水）　１１時２５分（２限目終了時刻）\n参 加 者：　学生、教職員、防災センター所属職員、参加可能な学内業務委託業者・福利厚生事業従業員等\n\n訓練の内容等につきましては、下記の環境安全管理室HPをご覧ください。\nhttps://anzenk…",
-            "date_modified": "2023-10-20T03:00:00.000Z"
-        },
-        {
-            "id": "1bb8d65a8bff1fb605b86b9b6db2b19e",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4444",
-            "title": "WSLS: T-LSI Special Seminar on Nov.1 at 12:15　",
-            "summary": "The World-science Leaders’ Seminar is a part of classes in the Human Biology PhD program.\nStudents attending this seminar will learn the basics and latest research trends in the specialities of the wo…",
-            "date_modified": "2023-10-19T03:00:00.000Z"
         }
     ]
 }
