@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/mkobayashime/twins-announcements</id>
     <title>在学生へのお知らせ | 筑波大学</title>
-    <updated>2023-10-26T00:32:16.745Z</updated>
+    <updated>2023-10-26T01:41:13.979Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://github.com/mkobayashime/twins-announcements"/>
     <subtitle>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</subtitle>
+    <entry>
+        <title type="html"><![CDATA[MDAセミナー「空間情報関連企業との対話(NTTデータ、パスコ)」明日10/27(金)開催のご案内]]></title>
+        <id>15751eb8a2832946af03dd85ec8a9240</id>
+        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4473"/>
+        <updated>2023-10-26T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[全学の学生・教員の皆様
+
+MDA教育推進室では、全学の学生と教員を対象として、10/27(金)に
+  MDAセミナー「豊富な空間情報でビジネスを展開する企業との対話－企業と共に研究テーマを探る－」
+を開催します。
+
+豊富な空間情報・位置情報を有し、ビジネスを展開する代表企業２社から、数理・データサイエンス・AI(MDA)分野で活用可能なデータとMDAで解決を期待する課題を中心に紹介していただきます…]]></summary>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Please introduce your country at the "IMAGINE THE 海外." International Exchange Festival]]></title>
         <id>1c7fe086c0b5feda1be20580979415bc</id>
@@ -258,20 +271,5 @@ https://o365tsukuba.sharepoint.com/:v:/s/Mathematica/Eej9gy7gip1Jkk…]]></summa
 単発での参加、途中参加も大歓迎です！
 
 開催日：火曜日 & 木曜日  (2023年10月~2024…]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[11月22日　BHE主催　就活支援企画　チャレンジ実践会]]></title>
-        <id>934de1458e4c11f1bedbb8f8565b89d6</id>
-        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4452"/>
-        <updated>2023-10-23T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[11月も面接編とGD編を対面で開催します。
-就活初心者大歓迎！ビジネスマナーも学ぶことができます。
-就活中の方、ISの選考を受ける方、参加して役立ててください。
-BHEキャリア支援チームのファシリテーターからフィードバックがあります。（日本語での開催です）
-
-〇開催日時・場所
-１１月２２日（水）
-GD編　　１０：００－１１：３０　BHE会議室（スチューデントプラザ2階）　
-面接編　  １３：３０－…]]></summary>
     </entry>
 </feed>

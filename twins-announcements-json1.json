@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "15751eb8a2832946af03dd85ec8a9240",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4473",
+            "title": "MDAセミナー「空間情報関連企業との対話(NTTデータ、パスコ)」明日10/27(金)開催のご案内",
+            "summary": "全学の学生・教員の皆様\n\nMDA教育推進室では、全学の学生と教員を対象として、10/27(金)に\n  MDAセミナー「豊富な空間情報でビジネスを展開する企業との対話－企業と共に研究テーマを探る－」\nを開催します。\n\n豊富な空間情報・位置情報を有し、ビジネスを展開する代表企業２社から、数理・データサイエンス・AI(MDA)分野で活用可能なデータとMDAで解決を期待する課題を中心に紹介していただきます…",
+            "date_modified": "2023-10-26T03:00:00.000Z"
+        },
+        {
             "id": "1c7fe086c0b5feda1be20580979415bc",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4472",
             "title": "Please introduce your country at the \"IMAGINE THE 海外.\" International Exchange Festival",
@@ -135,13 +142,6 @@
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4453",
             "title": "【英語チャットイベント】ほぼ毎週火・木 15:15~",
             "summary": "*初心者向けに、ビギナーテーブルを設置！*\nわからないことは、日本語が流暢な留学生スタッフがヘルプしてくれます！！\n\n国際交流をしたい！\n留学生の友達を作りたい！\n英語を練習したい！\n→などに当てはまるあなた、大変おススメです☆\n\n少人数グループに分かれて、英語で会話をします！英語初心者も歓迎です！\n単発での参加、途中参加も大歓迎です！\n\n開催日：火曜日 & 木曜日  (2023年10月~2024…",
-            "date_modified": "2023-10-23T03:00:00.000Z"
-        },
-        {
-            "id": "934de1458e4c11f1bedbb8f8565b89d6",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4452",
-            "title": "11月22日　BHE主催　就活支援企画　チャレンジ実践会",
-            "summary": "11月も面接編とGD編を対面で開催します。\n就活初心者大歓迎！ビジネスマナーも学ぶことができます。\n就活中の方、ISの選考を受ける方、参加して役立ててください。\nBHEキャリア支援チームのファシリテーターからフィードバックがあります。（日本語での開催です）\n\n〇開催日時・場所\n１１月２２日（水）\nGD編　　１０：００－１１：３０　BHE会議室（スチューデントプラザ2階）　\n面接編　  １３：３０－…",
             "date_modified": "2023-10-23T03:00:00.000Z"
         }
     ]
