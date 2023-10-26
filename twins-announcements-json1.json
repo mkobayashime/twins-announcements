@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "b4642c07cdb6d4326cbcdcefc3f420df",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4474",
+            "title": "令和７年度人間総合科学学術院心理学学位プログラム説明会の開催のお知らせ",
+            "summary": "下記日程で，人間総合科学学術院　心理学学位プログラム説明会の説明会を行います。受験をお考えの方は，ふるってご参加ください。\n説明会への参加を希望される方は申込みフォームからお申し込みをお願いいたします。\n\n＜申し込みフォーム＞\nhttps://forms.gle/fPKLCAspPau732KF6\n* メールアドレスの入力間違いにご注意ください。\n\n＜開催日時・方法＞\n令和5年12月20日（水）1…",
+            "date_modified": "2023-10-26T03:00:00.000Z"
+        },
+        {
             "id": "15751eb8a2832946af03dd85ec8a9240",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4473",
             "title": "MDAセミナー「空間情報関連企業との対話(NTTデータ、パスコ)」明日10/27(金)開催のご案内",
@@ -135,13 +142,6 @@
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4454",
             "title": "中南米へ留学しよう！留学体験談 10/25 (水)",
             "summary": "中南米への留学ってどんな感じ？聞いてみよう！\n\n中南米への留学を検討している方は、是非参加してください！\n様々疑問が出てくる留学。初めての体験はドキドキが止まらない。\n留学から帰ってきた先輩たちに直接聞いちゃおう！\n\n開催日：2023年10月25日（水）18:15～19:30\n対象：筑波大学在学生で交換留学を希望する者\n場所：スチューデント・コモンズ（第一エリア 1A棟203 ）\n使用言語：日本語…",
-            "date_modified": "2023-10-23T03:00:00.000Z"
-        },
-        {
-            "id": "1ff517bb24844d037309a21c3b4a4716",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4453",
-            "title": "【英語チャットイベント】ほぼ毎週火・木 15:15~",
-            "summary": "*初心者向けに、ビギナーテーブルを設置！*\nわからないことは、日本語が流暢な留学生スタッフがヘルプしてくれます！！\n\n国際交流をしたい！\n留学生の友達を作りたい！\n英語を練習したい！\n→などに当てはまるあなた、大変おススメです☆\n\n少人数グループに分かれて、英語で会話をします！英語初心者も歓迎です！\n単発での参加、途中参加も大歓迎です！\n\n開催日：火曜日 & 木曜日  (2023年10月~2024…",
             "date_modified": "2023-10-23T03:00:00.000Z"
         }
     ]
