@@ -4,10 +4,25 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Thu, 26 Oct 2023 06:10:23 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 26 Oct 2023 08:10:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
+        <item>
+            <title><![CDATA[【学内ボランティア参加者募集！】T-ACT×つくばボランティアフェスタ]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4476</link>
+            <guid>cff3d619d4c46b100d4b9a74416af0fd</guid>
+            <pubDate>Thu, 26 Oct 2023 03:00:00 GMT</pubDate>
+            <description><![CDATA[つくばアクションプロジェクト（T-ACT）からイベント運営ボランティア募集の連絡です。
+本活動の詳細は下記のURLを参照ください。ご興味のある方はぜひ申込みフォームより事前参加登録をお願い致します。申込みいただいた方に、メールにて詳細連絡をお送りします。
+
+＜活動名＞＜ボランティア参加者募集！＞T-ACT×つくばボランティアフェスタ
+
+＜対象者＞本学に所属する学生及び教職員
+
+＜参加方法＞
+下記フ…]]></description>
+        </item>
         <item>
             <title><![CDATA[11/2（木）13:00-15:00「Business Leaders’ Seminar/ビジネスリーダーズセミナー」（対象：全学生）]]></title>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4475</link>
@@ -250,20 +265,6 @@ https://o365tsukuba.sharepoint.com/:v:/s/Mathematica/Eej9gy7gip1Jkk…]]></descr
 
 【日時とゲストスピーカー】
 ①11月15日(水) 15:1…]]></description>
-        </item>
-        <item>
-            <title><![CDATA[【お知らせ】筑波大学開学50周年記念クラウドファンディング実施中]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4455</link>
-            <guid>1ae64163eaddeba19686c6b6d823ea91</guid>
-            <pubDate>Mon, 23 Oct 2023 03:00:00 GMT</pubDate>
-            <description><![CDATA[筑波大学では50周年事業の集大成としてクラウドファンディングを実施中です。
-皆さまとのあたらしいつながりづくりを目的に、筑波大学の過去のプロジェクトの最高支援者数を塗り替えるべく、まずは支援者1,500人を目指しています。
-
-【プロジェクト概要】
-プロジェクトページ：https://x.gd/N2vHm
-募集期限：11/10(金) 23時まで
-※5,000円のコースからございます。
-※寄付金額は税…]]></description>
         </item>
     </channel>
 </rss>
