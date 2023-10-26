@@ -4,7 +4,7 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Thu, 26 Oct 2023 09:12:11 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 26 Oct 2023 15:12:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
@@ -65,13 +65,15 @@ https://forms.gle/fPKLCAspPau732KF6
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4473</link>
             <guid>15751eb8a2832946af03dd85ec8a9240</guid>
             <pubDate>Thu, 26 Oct 2023 03:00:00 GMT</pubDate>
-            <description><![CDATA[全学の学生・教員の皆様
+            <description><![CDATA[下記日程で，人間総合科学学術院　心理学学位プログラム説明会の説明会を行います。受験をお考えの方は，ふるってご参加ください。
+説明会への参加を希望される方は申込みフォームからお申し込みをお願いいたします。
 
-MDA教育推進室では、全学の学生と教員を対象として、10/27(金)に
-  MDAセミナー「豊富な空間情報でビジネスを展開する企業との対話－企業と共に研究テーマを探る－」
-を開催します。
+＜申し込みフォーム＞
+https://forms.gle/fPKLCAspPau732KF6
+* メールアドレスの入力間違いにご注意ください。
 
-豊富な空間情報・位置情報を有し、ビジネスを展開する代表企業２社から、数理・データサイエンス・AI(MDA)分野で活用可能なデータとMDAで解決を期待する課題を中心に紹介していただきます…]]></description>
+＜開催日時・方法＞
+令和5年12月20日（水）1…]]></description>
         </item>
         <item>
             <title><![CDATA[Please introduce your country at the "IMAGINE THE 海外." International Exchange Festival]]></title>
@@ -116,17 +118,6 @@ At this event, both Japanese and international students can…]]></description>
             <guid>50056811af688c0b964171198ebe7413</guid>
             <pubDate>Wed, 25 Oct 2023 03:00:00 GMT</pubDate>
             <description><![CDATA[The Yomikyo Brass is an ensemble consisting of the top players of the Yomiuri Nippon Symphony Orchestra. This year's program includes both major and new ones together with enjoyable talk sessions betw…]]></description>
-        </item>
-        <item>
-            <title><![CDATA[[Notice of Publication]"Seminar for students to use chemicals in experiments safely"]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4468</link>
-            <guid>f1ab5f034cae6444a3714c892168a0a0</guid>
-            <pubDate>Wed, 25 Oct 2023 03:00:00 GMT</pubDate>
-            <description><![CDATA[The materials regarding the seminar to be held tomorrow have been posted.
-Participants are requested to print or download and bring their own copies.
-We look forward to your participation.
-
-Date: Octo…]]></description>
         </item>
         <item>
             <title><![CDATA[人文学学位プログラム大学院進学説明会開催のお知らせ【2023年11月8日（水）17時開催】]]></title>
@@ -265,6 +256,18 @@ https://o365tsukuba.sharepoint.com/:v:/s/Mathematica/Eej9gy7gip1Jkk…]]></descr
 「留学、行けるかな？」って思ったそこの筑大生！「具体的に行きたい協定校が絞れてきた。」というあなたも！あなたの疑問に応える【留学相談強化月間】
 留学プログラム毎の説明会や、海外インターンシップ説明会、語学試験の説明会。などなど。。。。
 イベント盛りだくさんでお贈りする、2023秋の留学相談強化月間！ぜひ…]]></description>
+        </item>
+        <item>
+            <title><![CDATA[【BHE】11/15,22(水)公開授業：キャリアデザイン入門～世界にはばたく未来の自分～]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4456</link>
+            <guid>e4b3f02bd2424bc10896f3192ee1290d</guid>
+            <pubDate>Mon, 23 Oct 2023 03:00:00 GMT</pubDate>
+            <description><![CDATA[学士基盤科目「キャリアデザイン入門～世界にはばたく未来の自分～」の第６回、第７回の授業を全学年の皆さんに公開します。
+ゲストスピーカーとして筑波大学卒業生が、自分の歩んできた人生を語り、後輩の皆さんに、力強いメッセージを届けてくれます。
+この貴重な機会を逃さず、先輩の話をきっかけとして、自分のこれからのキャリアについて考えてみませんか？
+
+【日時とゲストスピーカー】
+①11月15日(水) 15:1…]]></description>
         </item>
     </channel>
 </rss>
