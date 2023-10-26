@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "eab53b8ab19711bfdb4b23b9894d21f0",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4475",
+            "title": "11/2（木）13:00-15:00「Business Leaders’ Seminar/ビジネスリーダーズセミナー」（対象：全学生）",
+            "summary": "ヒューマンバイオロジー学位プログラムでは授業の一環として「Business Leaders’ Seminar/ビジネスリーダーズセミナー」を開催しています。\n本セミナーは、世界のトップビジネスリーダーを招き、オムニバス形式でキャリア形成やビジネスに関する成功と失敗の話などの経験を紹介するものです。\n\n11月2日（木）13:00-15:00に開催するセミナーでは、株式会社ナノルクス 代表取締役、祖父…",
+            "date_modified": "2023-10-26T03:00:00.000Z"
+        },
+        {
             "id": "b4642c07cdb6d4326cbcdcefc3f420df",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4474",
             "title": "令和７年度人間総合科学学術院心理学学位プログラム説明会の開催のお知らせ",
@@ -135,13 +142,6 @@
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4455",
             "title": "【お知らせ】筑波大学開学50周年記念クラウドファンディング実施中",
             "summary": "筑波大学では50周年事業の集大成としてクラウドファンディングを実施中です。\n皆さまとのあたらしいつながりづくりを目的に、筑波大学の過去のプロジェクトの最高支援者数を塗り替えるべく、まずは支援者1,500人を目指しています。\n\n【プロジェクト概要】\nプロジェクトページ：https://x.gd/N2vHm\n募集期限：11/10(金) 23時まで\n※5,000円のコースからございます。\n※寄付金額は税…",
-            "date_modified": "2023-10-23T03:00:00.000Z"
-        },
-        {
-            "id": "461f9acfd2ffc9cfb4d06f117c5a78ac",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4454",
-            "title": "中南米へ留学しよう！留学体験談 10/25 (水)",
-            "summary": "中南米への留学ってどんな感じ？聞いてみよう！\n\n中南米への留学を検討している方は、是非参加してください！\n様々疑問が出てくる留学。初めての体験はドキドキが止まらない。\n留学から帰ってきた先輩たちに直接聞いちゃおう！\n\n開催日：2023年10月25日（水）18:15～19:30\n対象：筑波大学在学生で交換留学を希望する者\n場所：スチューデント・コモンズ（第一エリア 1A棟203 ）\n使用言語：日本語…",
             "date_modified": "2023-10-23T03:00:00.000Z"
         }
     ]
