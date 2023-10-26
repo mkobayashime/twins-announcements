@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "1c7fe086c0b5feda1be20580979415bc",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4472",
+            "title": "Please introduce your country at the \"IMAGINE THE 海外.\" International Exchange Festival",
+            "summary": "The “International Exchange Fest “IMAGINE THE 海外(kaigai/overseas)“” aims to make our university a more global and international environment!\nAt this event, both Japanese and international students can…",
+            "date_modified": "2023-10-26T03:00:00.000Z"
+        },
+        {
             "id": "122c7407b6648ab19e356b1de8199a9a",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4471",
             "title": "【お知らせ】令和５年度学園祭実施に伴う自転車の駐輪規制及び撤去について（11/3(金・祝) 9:00～）",
@@ -135,13 +142,6 @@
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4452",
             "title": "11月22日　BHE主催　就活支援企画　チャレンジ実践会",
             "summary": "11月も面接編とGD編を対面で開催します。\n就活初心者大歓迎！ビジネスマナーも学ぶことができます。\n就活中の方、ISの選考を受ける方、参加して役立ててください。\nBHEキャリア支援チームのファシリテーターからフィードバックがあります。（日本語での開催です）\n\n〇開催日時・場所\n１１月２２日（水）\nGD編　　１０：００－１１：３０　BHE会議室（スチューデントプラザ2階）　\n面接編　  １３：３０－…",
-            "date_modified": "2023-10-23T03:00:00.000Z"
-        },
-        {
-            "id": "3fa4209b9ccda438664919cafd8d604d",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4451",
-            "title": "就活セミナー「筑波＿卒業後を考える会」(デロイトトーマツ・コンサルティング編)　開催のお知らせ",
-            "summary": "筑波大学「世界を変えよう基金アカデミー」では、デロイトトーマツ・コンサルティング社内定した4年生（社会工学学類）が、自らの経験を下級生に伝える「筑波＿卒業後を考える会」を、10月29日20:00からZoomで開催します。\nガクチカ、インターン体験、就活対象先を絞り込んで最終内定先を選んだ過程等、\n就活中あるいはこれから就活を始める皆さんにとって興味深いテーマを取り上げていただきます。\n\n誰でも無料…",
             "date_modified": "2023-10-23T03:00:00.000Z"
         }
     ]

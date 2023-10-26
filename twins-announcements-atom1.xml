@@ -2,10 +2,18 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/mkobayashime/twins-announcements</id>
     <title>在学生へのお知らせ | 筑波大学</title>
-    <updated>2023-10-25T21:10:59.367Z</updated>
+    <updated>2023-10-26T00:32:16.745Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://github.com/mkobayashime/twins-announcements"/>
     <subtitle>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</subtitle>
+    <entry>
+        <title type="html"><![CDATA[Please introduce your country at the "IMAGINE THE 海外." International Exchange Festival]]></title>
+        <id>1c7fe086c0b5feda1be20580979415bc</id>
+        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4472"/>
+        <updated>2023-10-26T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The “International Exchange Fest “IMAGINE THE 海外(kaigai/overseas)“” aims to make our university a more global and international environment!
+At this event, both Japanese and international students can…]]></summary>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【お知らせ】令和５年度学園祭実施に伴う自転車の駐輪規制及び撤去について（11/3(金・祝) 9:00～）]]></title>
         <id>122c7407b6648ab19e356b1de8199a9a</id>
@@ -265,16 +273,5 @@ BHEキャリア支援チームのファシリテーターからフィードバ�
 １１月２２日（水）
 GD編　　１０：００－１１：３０　BHE会議室（スチューデントプラザ2階）　
 面接編　  １３：３０－…]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[就活セミナー「筑波＿卒業後を考える会」(デロイトトーマツ・コンサルティング編)　開催のお知らせ]]></title>
-        <id>3fa4209b9ccda438664919cafd8d604d</id>
-        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4451"/>
-        <updated>2023-10-23T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[筑波大学「世界を変えよう基金アカデミー」では、デロイトトーマツ・コンサルティング社内定した4年生（社会工学学類）が、自らの経験を下級生に伝える「筑波＿卒業後を考える会」を、10月29日20:00からZoomで開催します。
-ガクチカ、インターン体験、就活対象先を絞り込んで最終内定先を選んだ過程等、
-就活中あるいはこれから就活を始める皆さんにとって興味深いテーマを取り上げていただきます。
-
-誰でも無料…]]></summary>
     </entry>
 </feed>
