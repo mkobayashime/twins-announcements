@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "334c9d51afee46a999ff15f870c3d6d8",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4479",
+            "title": "本日も！１０月は【留学相談強化月間】スチューデント・コモンズ（1A203）にて！",
+            "summary": "10月、秋学期！スチューデントサポートセンター国際交流支援室では、留学のアシストをしています！\n「留学、行けるかな？」って思ったそこの筑大生！「具体的に行きたい協定校が絞れてきた。」というあなたも！あなたの疑問に応える【留学相談強化月間】\n留学プログラム毎の説明会や、海外インターンシップ説明会、語学試験の説明会。などなど。。。。\nイベント盛りだくさんでお贈りする、2023秋の留学相談強化月間！ぜひ…",
+            "date_modified": "2023-10-27T03:00:00.000Z"
+        },
+        {
             "id": "7a9b01b19be73cc89a24e7501dfc664d",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4478",
             "title": "[Notice] 安全保障輸出管理のための誓約書提出のお願いRequest for Submission of Pledge for Security Export Control",
@@ -136,13 +143,6 @@
             "title": "【BHEキャリア支援チーム】学内就職イベント 運営スタッフ募集（アルバイト）",
             "summary": "12月に大学会館で開催される筑波大学BHEキャリア支援チーム主催「筑波大学就職ミライ博」の\nイベント運営スタッフ（アルバイト）を募集いたします。申込お待ちしております！\n\n＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝\n「学内就職イベントの運営スタッフ」\n仕事内容:　大学内就職イベントに係る事前準備・受付・誘導等の業務\n（１日でも可）\n-----------------------------------\n…",
             "date_modified": "2023-10-24T03:00:00.000Z"
-        },
-        {
-            "id": "b5182fa6f80d7cff880e48cb122ba05c",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4457",
-            "title": "今週も！１０月は【留学相談強化月間】スチューデント・コモンズ（1A203）にて！",
-            "summary": "10月！秋学期１スチューデントサポートセンター国際交流支援室では、留学のアシストをしています！\n「留学、行けるかな？」って思ったそこの筑大生！「具体的に行きたい協定校が絞れてきた。」というあなたも！あなたの疑問に応える【留学相談強化月間】\n留学プログラム毎の説明会や、海外インターンシップ説明会、語学試験の説明会。などなど。。。。\nイベント盛りだくさんでお贈りする、2023秋の留学相談強化月間！ぜひ…",
-            "date_modified": "2023-10-23T03:00:00.000Z"
         }
     ]
 }
