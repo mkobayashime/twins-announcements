@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/mkobayashime/twins-announcements</id>
     <title>在学生へのお知らせ | 筑波大学</title>
-    <updated>2023-10-27T02:14:54.529Z</updated>
+    <updated>2023-10-27T05:07:39.378Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://github.com/mkobayashime/twins-announcements"/>
     <subtitle>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</subtitle>
+    <entry>
+        <title type="html"><![CDATA[【～10/31：ご協力お願いします！】就職に関する意識や行動についてのアンケート調査]]></title>
+        <id>aa369183790b15519f540b7b414dc4a7</id>
+        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4480"/>
+        <updated>2023-10-27T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[筑波大学 学群３年、４年生、大学院生　各位
+　　　　　　　　　　　　　　　　　　　　　　　　　　　　 ヒューマンエンパワーメント推進局
+　　　　　　　　　　　　　　　　　　　　　　　　　　　　 　局長 太田　圭
+　　　　　　　　　　　　　　　　　　　　　　　　　　　　 　次長（キャリア担当）坂入洋右
+
+　現在、本学は、つくば市、(一財)地方自治研究機構が実施している共同調査に協力しています。同調査…]]></summary>
+    </entry>
     <entry>
         <title type="html"><![CDATA[本日も！１０月は【留学相談強化月間】スチューデント・コモンズ（1A203）にて！]]></title>
         <id>334c9d51afee46a999ff15f870c3d6d8</id>
@@ -246,20 +258,5 @@ Wolfram社よりMathematica
 講習動画提供と本学の期間限定の公開許可をもらいました。興味のある方は11/30までに下記から視聴してください。
 
 https://o365tsukuba.sharepoint.com/:v:/s/Mathematica/Eej9gy7gip1Jkk…]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【BHEキャリア支援チーム】学内就職イベント 運営スタッフ募集（アルバイト）]]></title>
-        <id>89c431218cc61a8deb7f4ce223140302</id>
-        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4458"/>
-        <updated>2023-10-24T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[12月に大学会館で開催される筑波大学BHEキャリア支援チーム主催「筑波大学就職ミライ博」の
-イベント運営スタッフ（アルバイト）を募集いたします。申込お待ちしております！
-
-＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝
-「学内就職イベントの運営スタッフ」
-仕事内容:　大学内就職イベントに係る事前準備・受付・誘導等の業務
-（１日でも可）
------------------------------------
-…]]></summary>
     </entry>
 </feed>
