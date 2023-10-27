@@ -5,6 +5,20 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "1dbc6c87c5429c89bcafbc6a09784a5a",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4482",
+            "title": "短期研修「南米ペルーに行ってみませんか？」11/20締切",
+            "summary": "ペルーの文化を知ろう！現地学生と交流しよう！現地の日本企業（JICA, JETROなど）を訪問しよう！\n\n派遣先：ペルー・カトリカ大学（ペルー）\n派遣期間（予定）：2024年2月26日～3月8日　※渡航期間は2023年12月頃決定する予定です。\n募集人数：15名程度（最少催行人数：6名）　\n使用言語：英語及びスペイン語 *スペイン語の履修歴は問わない\n単位：2単位（国際パートナーシップ研修（中南米…",
+            "date_modified": "2023-10-27T03:00:00.000Z"
+        },
+        {
+            "id": "400add7f5e19c9080fe9f730229b4e11",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4481",
+            "title": "本日開催【Spanish Chat】スペイン語チャットイベント",
+            "summary": "*初心者向けに、ビギナーテーブルを設置！*全然話せたくてもOK! ゲームなどを楽しみながら、スペイン語を学びましょう！\nわからないことは、日本語が流暢な留学生スタッフがヘルプしてくれます！！\n\n少人数グループに分かれて、スペイン語で会話をします！初心者も歓迎です！\n単発での参加、途中参加も大歓迎です！\n\n開催日：原則毎週金曜日 (10月~2月2日)\n時　間：15:15～16:30（この時間内でした…",
+            "date_modified": "2023-10-27T03:00:00.000Z"
+        },
+        {
             "id": "aa369183790b15519f540b7b414dc4a7",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4480",
             "title": "【～10/31：ご協力お願いします！】就職に関する意識や行動についてのアンケート調査",
@@ -129,20 +143,6 @@
             "title": "本日開催【中南米へ留学しよう！留学体験談】",
             "summary": "中南米への留学ってどんな感じ？聞いてみよう！\n\n中南米への留学を検討している方は、是非参加してください！\n様々疑問が出てくる留学。初めての体験はドキドキが止まらない。\n留学から帰ってきた先輩たちに直接聞いちゃおう！\n\n開催日：2023年10月25日（水）18:15～19:30\n対象：筑波大学在学生で交換留学を希望する者\n場所：スチューデント・コモンズ（第一エリア 1A棟203 ）\n使用言語：日本語…",
             "date_modified": "2023-10-25T03:00:00.000Z"
-        },
-        {
-            "id": "d724d3abdf32dffbf425a53ae238a872",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4460",
-            "title": "【芸術】芸術系留学説明会オンライン配信のお知らせ",
-            "summary": "10月18日（水）に実施した芸術系留学説明会のオンライン配信をしています。\n留学を検討している方、国際協定校への留学を検討している方で、\n説明会に参加しなかった方は参考までにご覧ください。\n",
-            "date_modified": "2023-10-24T03:00:00.000Z"
-        },
-        {
-            "id": "2d1d216bc93f25e1da8f720781558978",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4459",
-            "title": "（学術情報メディアセンター）Mathematica 講習動画公開のお知らせ（11/30までの期間限定）",
-            "summary": "（学術情報メディアセンター）Mathematica 講習動画公開のお知らせ\n（11/30までの期間限定）\n\nWolfram社よりMathematica\n講習動画提供と本学の期間限定の公開許可をもらいました。興味のある方は11/30までに下記から視聴してください。\n\nhttps://o365tsukuba.sharepoint.com/:v:/s/Mathematica/Eej9gy7gip1Jkk…",
-            "date_modified": "2023-10-24T03:00:00.000Z"
         }
     ]
 }
