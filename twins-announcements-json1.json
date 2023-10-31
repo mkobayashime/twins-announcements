@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "95653c33811592463d9369f4e6576370",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4485",
+            "title": "【再掲：開催案内】T-ACT×つくばボランティアフェスタ",
+            "summary": "　つくばアクションプロジェクト（T-ACT）からイベント開催案内のご連絡です。\n　本プロジェクトは、第49回雙峰祭の出展企画となります。T-ACTで活動する学生・教職員と、地域団体・市民の皆さんが交流する場を設け、互いに協同しながらT-ACTの活動紹介・つくば市社会福祉協議会の登録団体及び個人の活動を紹介します。\n＜期間＞11/4（土）、11/5（日）10：00～16：00予定\n＜会場＞１E棟10…",
+            "date_modified": "2023-10-31T03:00:00.000Z"
+        },
+        {
             "id": "b4a38f1dd311dadfd41c901d428c3b94",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4483",
             "title": "11/5(日)15:30～＠1D204【筑波大学の夢を語ろう！】雙峰祭学術企画「Design the future Campus Dream!」のご案内",
@@ -136,13 +143,6 @@
             "title": "本日開催【中南米へ留学しよう！留学体験談】",
             "summary": "中南米への留学ってどんな感じ？聞いてみよう！\n\n中南米への留学を検討している方は、是非参加してください！\n様々疑問が出てくる留学。初めての体験はドキドキが止まらない。\n留学から帰ってきた先輩たちに直接聞いちゃおう！\n\n開催日：2023年10月25日（水）18:15～19:30\n対象：筑波大学在学生で交換留学を希望する者\n場所：スチューデント・コモンズ（第一エリア 1A棟203 ）\n使用言語：日本語…",
             "date_modified": "2023-10-25T03:00:00.000Z"
-        },
-        {
-            "id": "d724d3abdf32dffbf425a53ae238a872",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4460",
-            "title": "【芸術】芸術系留学説明会オンライン配信のお知らせ",
-            "summary": "10月18日（水）に実施した芸術系留学説明会のオンライン配信をしています。\n留学を検討している方、国際協定校への留学を検討している方で、\n説明会に参加しなかった方は参考までにご覧ください。\n",
-            "date_modified": "2023-10-24T03:00:00.000Z"
         }
     ]
 }

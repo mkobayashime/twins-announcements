@@ -4,10 +4,20 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Mon, 30 Oct 2023 21:14:04 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 31 Oct 2023 00:50:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
+        <item>
+            <title><![CDATA[【再掲：開催案内】T-ACT×つくばボランティアフェスタ]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4485</link>
+            <guid>95653c33811592463d9369f4e6576370</guid>
+            <pubDate>Tue, 31 Oct 2023 03:00:00 GMT</pubDate>
+            <description><![CDATA[　つくばアクションプロジェクト（T-ACT）からイベント開催案内のご連絡です。
+　本プロジェクトは、第49回雙峰祭の出展企画となります。T-ACTで活動する学生・教職員と、地域団体・市民の皆さんが交流する場を設け、互いに協同しながらT-ACTの活動紹介・つくば市社会福祉協議会の登録団体及び個人の活動を紹介します。
+＜期間＞11/4（土）、11/5（日）10：00～16：00予定
+＜会場＞１E棟10…]]></description>
+        </item>
         <item>
             <title><![CDATA[11/5(日)15:30～＠1D204【筑波大学の夢を語ろう！】雙峰祭学術企画「Design the future Campus Dream!」のご案内]]></title>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4483</link>
@@ -256,16 +266,6 @@ This semester, AIMS will again hold "CAMPUR," a cultural exchange event!
 対象：筑波大学在学生で交換留学を希望する者
 場所：スチューデント・コモンズ（第一エリア 1A棟203 ）
 使用言語：日本語…]]></description>
-        </item>
-        <item>
-            <title><![CDATA[【芸術】芸術系留学説明会オンライン配信のお知らせ]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4460</link>
-            <guid>d724d3abdf32dffbf425a53ae238a872</guid>
-            <pubDate>Tue, 24 Oct 2023 03:00:00 GMT</pubDate>
-            <description><![CDATA[10月18日（水）に実施した芸術系留学説明会のオンライン配信をしています。
-留学を検討している方、国際協定校への留学を検討している方で、
-説明会に参加しなかった方は参考までにご覧ください。
-]]></description>
         </item>
     </channel>
 </rss>
