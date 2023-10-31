@@ -4,10 +4,31 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Tue, 31 Oct 2023 00:50:41 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 31 Oct 2023 02:19:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
+        <item>
+            <title><![CDATA[【開催案内】第43回「中央ユーラシアと日本の未来」公開講演会「ドローンから探る馬の社会」]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4486</link>
+            <guid>62e4637123f39e1bdb82784c439c6f43</guid>
+            <pubDate>Tue, 31 Oct 2023 03:00:00 GMT</pubDate>
+            <description><![CDATA[【開催案内】第43回「中央ユーラシアと日本の未来」公開講演会
+
+講師：前田玉青 氏
+日本学術振興会特別研究員PD（総合研究大学院大学）
+
+題目：ドローンから探る馬の社会
+
+日時：令和5年11月13日（月）13:45～15:00
+
+会場：オンライン（Zoom）
+
+対象：本学学生、本学教職員、一般
+
+申込方法：
+本講演会は登録制となっております。下記申込フォームにて参加登録をすると、どなたでも無料でご…]]></description>
+        </item>
         <item>
             <title><![CDATA[【再掲：開催案内】T-ACT×つくばボランティアフェスタ]]></title>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4485</link>
@@ -250,22 +271,6 @@ This semester, AIMS will again hold "CAMPUR," a cultural exchange event!
 と思っているそこのあなたに役立つ講習会です。
 
 秋学期は【初中級編】として、具体的な操作についてデモを交え…]]></description>
-        </item>
-        <item>
-            <title><![CDATA[本日開催【中南米へ留学しよう！留学体験談】]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4461</link>
-            <guid>8376e12074d43c7bf05303cdf1f276a6</guid>
-            <pubDate>Wed, 25 Oct 2023 03:00:00 GMT</pubDate>
-            <description><![CDATA[中南米への留学ってどんな感じ？聞いてみよう！
-
-中南米への留学を検討している方は、是非参加してください！
-様々疑問が出てくる留学。初めての体験はドキドキが止まらない。
-留学から帰ってきた先輩たちに直接聞いちゃおう！
-
-開催日：2023年10月25日（水）18:15～19:30
-対象：筑波大学在学生で交換留学を希望する者
-場所：スチューデント・コモンズ（第一エリア 1A棟203 ）
-使用言語：日本語…]]></description>
         </item>
     </channel>
 </rss>
