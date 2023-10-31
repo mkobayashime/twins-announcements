@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "96a693f00b1fdc9321f3e208d6483116",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4487",
+            "title": "ロシア語・カザフ語短期語学研修（カザフスタン） 2024年2月 参加者募集",
+            "summary": "CiC協定大学 アルファラビ・カザフ国立大学への短期語学研修（派遣）を下記の日程にて開催することになりましたので、参加学生を募集します。\n\n研修内容：\n\n▶︎研修期間：2023年2月16日（金）〜3月23日（金）（35日間。移動日含む。変更の可能性あり）\n\n▶︎研修地：カザフ国立大学（カザフスタン共和国アルマトイ市）\n\n▶︎対象：学群生、大学院生\n\n▶︎研修内容：ロシア語研修、カザフ語研修、異文化…",
+            "date_modified": "2023-10-31T03:00:00.000Z"
+        },
+        {
             "id": "62e4637123f39e1bdb82784c439c6f43",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4486",
             "title": "【開催案内】第43回「中央ユーラシアと日本の未来」公開講演会「ドローンから探る馬の社会」",
@@ -135,13 +142,6 @@
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4463",
             "title": "【お知らせ】令和５年度学園祭実施に伴う石の広場周辺の交通規制について（11/2(木) 7:00～11/6(月) 19:00）",
             "summary": "\n学園祭実施にあたり、石の広場に特設ステージの設置をすることから、以下のとおり交通規制を行います。\nご迷惑をおかけしますが、ご理解とご協力のほどよろしくお願いいたします。\n\n　　　　　　　　　　　　　　　　　　　記\n\n　規制日時：令和５年１１月２日(木) ７：００ ～ １１月６日(月) １９：００\n\n　規制場所：石の広場周辺（理科系Ａ棟から３Ａ棟に向かうスロープ・階段及び通路）\n         …",
-            "date_modified": "2023-10-25T03:00:00.000Z"
-        },
-        {
-            "id": "74e7c8443124ff565caa0f80a73cc5f4",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4462",
-            "title": "【11/8 開催】「文献管理ツールRefWorks活用法」図書館講習会",
-            "summary": "「文献管理ツールRefWorks活用法」の講習会を開催します。\n\n日時：11月8日（水）15:15-16:45\n開催方法： オンライン（Zoom)\n\n「あの論文、どこに保存したのか忘れちゃったな。どうしよう…」\n「文献リストの作成は時間がかかって面倒だな…。効率がいい方法があれば楽なのに。」\nと思っているそこのあなたに役立つ講習会です。\n\n秋学期は【初中級編】として、具体的な操作についてデモを交え…",
             "date_modified": "2023-10-25T03:00:00.000Z"
         }
     ]
