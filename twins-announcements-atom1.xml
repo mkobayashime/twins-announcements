@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/mkobayashime/twins-announcements</id>
     <title>在学生へのお知らせ | 筑波大学</title>
-    <updated>2023-10-31T23:11:29.344Z</updated>
+    <updated>2023-11-01T01:53:59.843Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://github.com/mkobayashime/twins-announcements"/>
     <subtitle>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</subtitle>
+    <entry>
+        <title type="html"><![CDATA[【11月】筑波大学BHEセーファースペース「KiteKite（きてきて）」の実施について]]></title>
+        <id>da867af4043902969156832c605b2bdb</id>
+        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4492"/>
+        <updated>2023-11-01T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[ヒューマンエンパワーメント推進局（BHE）ジェンダー支援チームでは、学生スタッフと共同で”セーファースペースKiteKite（きてきて）”を実施しています。11月の実施日についてお知らせしますので、ぜひお気軽にご参加ください。
+
+※セーファースペースとは…LGBTQ＋や女性をはじめ、全ての人が自らのジェンダー・セクシュアリティについてより安全に話すことができる居場所のこと
+
+KiteKiteは、年…]]></summary>
+    </entry>
     <entry>
         <title type="html"><![CDATA[STOP！研究費不正使用！／STOP！Wrongful use of research funding！]]></title>
         <id>d07de3a2549e9d1109e19fd73f9711de</id>
@@ -257,12 +268,5 @@ At this event, both Japanese and international students can…]]></summary>
         <summary type="html"><![CDATA[大学生活を送るなか、「大学院進学か就職か」で悩みを抱えている方はいませんか？
 イベント前半では大学院生の就職支援をしている株式会社アカリクの講師をお招きし、大学院進学することの意味や学部卒と院卒の違い、大学院生の就職事情について講演いただきます。
 後半では実際に迷って決断したふたりの先輩に加わっていただき、アカリク講師とBHEキャリア教員のトークセッションを行いますので皆さんの不安や疑問に感じてい…]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【Students Free!】Yomikyo Brass - Brass Harmony for Christmas Celebration -]]></title>
-        <id>50056811af688c0b964171198ebe7413</id>
-        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4469"/>
-        <updated>2023-10-25T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[The Yomikyo Brass is an ensemble consisting of the top players of the Yomiuri Nippon Symphony Orchestra. This year's program includes both major and new ones together with enjoyable talk sessions betw…]]></summary>
     </entry>
 </feed>
