@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "592d7e0e0735c4b4d005092efbfebd52",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4495",
+            "title": "（BHE)JETRO Career Discovery 　外資系企業と大学のオンライン交流会のお知らせ",
+            "summary": "Career Discovery とは、日本で活躍する外資系企業と日本で学ぶ学生のオンライン交流会です。\n学生の皆さんの質問に様々な業種及び国籍の企業がお答えします。\n外資系企業でのキャリア形成に関心をお持ちの皆さんのご参加をお待ちしています。\n\n特設ウェブページ& お申込みフォーム：　https://www.jetro.go.jp/form5/pub/ive/cd_2023　\n\n日時：2023年…",
+            "date_modified": "2023-11-01T03:00:00.000Z"
+        },
+        {
             "id": "cd859e54fb7aeca1db6b125055976d38",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4494",
             "title": "１,２年生も必見！【11/24（金）,12/1（金）,12/4（月）-6（水）】筑波大学就職ミライ博／業界研究会について（BHEキャリア支援チーム主催）",
@@ -135,13 +142,6 @@
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4474",
             "title": "令和７年度人間総合科学学術院心理学学位プログラム説明会の開催のお知らせ",
             "summary": "下記日程で，人間総合科学学術院　心理学学位プログラム説明会の説明会を行います。受験をお考えの方は，ふるってご参加ください。\n説明会への参加を希望される方は申込みフォームからお申し込みをお願いいたします。\n\n＜申し込みフォーム＞\nhttps://forms.gle/fPKLCAspPau732KF6\n* メールアドレスの入力間違いにご注意ください。\n\n＜開催日時・方法＞\n令和5年12月20日（水）1…",
-            "date_modified": "2023-10-26T03:00:00.000Z"
-        },
-        {
-            "id": "1c7fe086c0b5feda1be20580979415bc",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4472",
-            "title": "Please introduce your country at the \"IMAGINE THE 海外.\" International Exchange Festival",
-            "summary": "The “International Exchange Fest “IMAGINE THE 海外(kaigai/overseas)“” aims to make our university a more global and international environment!\nAt this event, both Japanese and international students can…",
             "date_modified": "2023-10-26T03:00:00.000Z"
         }
     ]

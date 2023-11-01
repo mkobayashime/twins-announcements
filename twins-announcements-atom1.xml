@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/mkobayashime/twins-announcements</id>
     <title>在学生へのお知らせ | 筑波大学</title>
-    <updated>2023-11-01T02:23:18.149Z</updated>
+    <updated>2023-11-01T08:14:45.205Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://github.com/mkobayashime/twins-announcements"/>
     <subtitle>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</subtitle>
+    <entry>
+        <title type="html"><![CDATA[（BHE)JETRO Career Discovery 　外資系企業と大学のオンライン交流会のお知らせ]]></title>
+        <id>592d7e0e0735c4b4d005092efbfebd52</id>
+        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4495"/>
+        <updated>2023-11-01T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Career Discovery とは、日本で活躍する外資系企業と日本で学ぶ学生のオンライン交流会です。
+学生の皆さんの質問に様々な業種及び国籍の企業がお答えします。
+外資系企業でのキャリア形成に関心をお持ちの皆さんのご参加をお待ちしています。
+
+特設ウェブページ& お申込みフォーム：　https://www.jetro.go.jp/form5/pub/ive/cd_2023　
+
+日時：2023年…]]></summary>
+    </entry>
     <entry>
         <title type="html"><![CDATA[１,２年生も必見！【11/24（金）,12/1（金）,12/4（月）-6（水）】筑波大学就職ミライ博／業界研究会について（BHEキャリア支援チーム主催）]]></title>
         <id>cd859e54fb7aeca1db6b125055976d38</id>
@@ -255,13 +268,5 @@ https://forms.gle/fPKLCAspPau732KF6
 
 ＜開催日時・方法＞
 令和5年12月20日（水）1…]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Please introduce your country at the "IMAGINE THE 海外." International Exchange Festival]]></title>
-        <id>1c7fe086c0b5feda1be20580979415bc</id>
-        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4472"/>
-        <updated>2023-10-26T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[The “International Exchange Fest “IMAGINE THE 海外(kaigai/overseas)“” aims to make our university a more global and international environment!
-At this event, both Japanese and international students can…]]></summary>
     </entry>
 </feed>
