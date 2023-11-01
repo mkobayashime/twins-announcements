@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/mkobayashime/twins-announcements</id>
     <title>在学生へのお知らせ | 筑波大学</title>
-    <updated>2023-11-01T09:17:26.722Z</updated>
+    <updated>2023-11-01T15:18:24.050Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://github.com/mkobayashime/twins-announcements"/>
     <subtitle>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</subtitle>
@@ -59,12 +59,11 @@ KiteKiteは、年…]]></summary>
         <id>d07de3a2549e9d1109e19fd73f9711de</id>
         <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4491"/>
         <updated>2023-11-01T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[学生の皆さんが不正使用に巻き込まれるケースが多発しています。
-不正を見かけた、持ちかけられたら、通報窓口へ。
-コンプライアンス・ハラスメント対策室（学内窓口）
-Mail:compliance@un.tsukuba.ac.jp TEL:029-853-2033
-つくば中央法律事務所（学外窓口）
-TEL:029-896-3530  FAX:029-896-3531]]></summary>
+        <summary type="html"><![CDATA[ヒューマンエンパワーメント推進局（BHE）ジェンダー支援チームでは、学生スタッフと共同で”セーファースペースKiteKite（きてきて）”を実施しています。11月の実施日についてお知らせしますので、ぜひお気軽にご参加ください。
+
+※セーファースペースとは…LGBTQ＋や女性をはじめ、全ての人が自らのジェンダー・セクシュアリティについてより安全に話すことができる居場所のこと
+
+KiteKiteは、年…]]></summary>
     </entry>
     <entry>
         <title type="html"><![CDATA[筑波大学公式オリジナルグッズECサイト割引クーポンのお知らせ（11月）]]></title>
@@ -230,21 +229,6 @@ To all students (including research students, etc.) enrolled in graduate school 
 ＜活動日＞10月28日（土）、11月11日（土）、11月25日（…]]></summary>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【学内ボランティア参加者募集！】T-ACT×つくばボランティアフェスタ]]></title>
-        <id>cff3d619d4c46b100d4b9a74416af0fd</id>
-        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4476"/>
-        <updated>2023-10-26T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[つくばアクションプロジェクト（T-ACT）からイベント運営ボランティア募集の連絡です。
-本活動の詳細は下記のURLを参照ください。ご興味のある方はぜひ申込みフォームより事前参加登録をお願い致します。申込みいただいた方に、メールにて詳細連絡をお送りします。
-
-＜活動名＞＜ボランティア参加者募集！＞T-ACT×つくばボランティアフェスタ
-
-＜対象者＞本学に所属する学生及び教職員
-
-＜参加方法＞
-下記フ…]]></summary>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[11/2（木）13:00-15:00「Business Leaders’ Seminar/ビジネスリーダーズセミナー」（対象：全学生）]]></title>
         <id>eab53b8ab19711bfdb4b23b9894d21f0</id>
         <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4475"/>
@@ -268,5 +252,13 @@ https://forms.gle/fPKLCAspPau732KF6
 
 ＜開催日時・方法＞
 令和5年12月20日（水）1…]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Please introduce your country at the "IMAGINE THE 海外." International Exchange Festival]]></title>
+        <id>1c7fe086c0b5feda1be20580979415bc</id>
+        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4472"/>
+        <updated>2023-10-26T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The “International Exchange Fest “IMAGINE THE 海外(kaigai/overseas)“” aims to make our university a more global and international environment!
+At this event, both Japanese and international students can…]]></summary>
     </entry>
 </feed>
