@@ -4,10 +4,21 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Wed, 01 Nov 2023 21:15:38 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 02 Nov 2023 05:11:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
+        <item>
+            <title><![CDATA[【短期留学・海外インターンシップ】漢陽大学校 (韓国) International Winter School]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4496</link>
+            <guid>562203ddf2741bf3f5cd9831f8ba2fb0</guid>
+            <pubDate>Thu, 02 Nov 2023 03:00:00 GMT</pubDate>
+            <description><![CDATA[Hanyang International Winter School（HIWS）のお知らせです。関心のある方はウェブサイトより詳細をよく確認し、各自でお申し込みください。質問や疑問点は直接、主催者へお願いします。
+
+Program Period
+– Session A: December 27, 2023 – January 12, 2024
+– Session B: January 18 – …]]></description>
+        </item>
         <item>
             <title><![CDATA[（BHE)JETRO Career Discovery 　外資系企業と大学のオンライン交流会のお知らせ]]></title>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4495</link>
@@ -87,13 +98,14 @@ ECサイトは以下のリンクから
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4490</link>
             <guid>1dbc6c87c5429c89bcafbc6a09784a5a</guid>
             <pubDate>Tue, 31 Oct 2023 03:00:00 GMT</pubDate>
-            <description><![CDATA[ペルーの文化を知ろう！現地学生と交流しよう！現地の日本企業（JICA, JETROなど）を訪問しよう！
+            <description><![CDATA[筑波大学公式オリジナルグッズ販売サイト「TSUKUBA-SHOP」11月の割引クーポンコードをお知らせいたします！
 
-派遣先：ペルー・カトリカ大学（ペルー）
-派遣期間（予定）：2024年2月26日～3月8日　※渡航期間は2023年12月頃決定する予定です。
-募集人数：15名程度（最少催行人数：6名）　
-使用言語：英語及びスペイン語 *スペイン語の履修歴は問わない
-単位：2単位（国際パートナーシップ研修（中南米…]]></description>
+
+どうぞご覧いただき、皆様の「日常生活」、「思い出」、「プレゼント🎁」などにご活用いただけますと幸いです。
+
+ECサイトは以下のリンクから
+※学内専用割引コードをTWINS掲示「大学から学生へのお知らせ（学内専用）」に掲載しております。
+※学生・教職員はこのコードを入力することで…]]></description>
         </item>
         <item>
             <title><![CDATA[[11/7開催]「卒論・修論に間に合う 論文執筆のポイント！ ～参考文献の調べ方・イントロの書き方のノウハウ公開～｣中央図書館LAセミナー]]></title>
@@ -255,14 +267,6 @@ https://forms.gle/fPKLCAspPau732KF6
 
 ＜開催日時・方法＞
 令和5年12月20日（水）1…]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Please introduce your country at the "IMAGINE THE 海外." International Exchange Festival]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4472</link>
-            <guid>1c7fe086c0b5feda1be20580979415bc</guid>
-            <pubDate>Thu, 26 Oct 2023 03:00:00 GMT</pubDate>
-            <description><![CDATA[The “International Exchange Fest “IMAGINE THE 海外(kaigai/overseas)“” aims to make our university a more global and international environment!
-At this event, both Japanese and international students can…]]></description>
         </item>
     </channel>
 </rss>

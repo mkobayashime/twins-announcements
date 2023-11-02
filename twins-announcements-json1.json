@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "562203ddf2741bf3f5cd9831f8ba2fb0",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4496",
+            "title": "【短期留学・海外インターンシップ】漢陽大学校 (韓国) International Winter School",
+            "summary": "Hanyang International Winter School（HIWS）のお知らせです。関心のある方はウェブサイトより詳細をよく確認し、各自でお申し込みください。質問や疑問点は直接、主催者へお願いします。\n\nProgram Period\n– Session A: December 27, 2023 – January 12, 2024\n– Session B: January 18 – …",
+            "date_modified": "2023-11-02T03:00:00.000Z"
+        },
+        {
             "id": "592d7e0e0735c4b4d005092efbfebd52",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4495",
             "title": "（BHE)JETRO Career Discovery 　外資系企業と大学のオンライン交流会のお知らせ",
@@ -50,7 +57,7 @@
             "id": "1dbc6c87c5429c89bcafbc6a09784a5a",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4490",
             "title": "短期研修「南米ペルーに行ってみませんか？」11/20締切",
-            "summary": "ペルーの文化を知ろう！現地学生と交流しよう！現地の日本企業（JICA, JETROなど）を訪問しよう！\n\n派遣先：ペルー・カトリカ大学（ペルー）\n派遣期間（予定）：2024年2月26日～3月8日　※渡航期間は2023年12月頃決定する予定です。\n募集人数：15名程度（最少催行人数：6名）　\n使用言語：英語及びスペイン語 *スペイン語の履修歴は問わない\n単位：2単位（国際パートナーシップ研修（中南米…",
+            "summary": "筑波大学公式オリジナルグッズ販売サイト「TSUKUBA-SHOP」11月の割引クーポンコードをお知らせいたします！\n\n\nどうぞご覧いただき、皆様の「日常生活」、「思い出」、「プレゼント🎁」などにご活用いただけますと幸いです。\n\nECサイトは以下のリンクから\n※学内専用割引コードをTWINS掲示「大学から学生へのお知らせ（学内専用）」に掲載しております。\n※学生・教職員はこのコードを入力することで…",
             "date_modified": "2023-10-31T03:00:00.000Z"
         },
         {
@@ -135,13 +142,6 @@
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4474",
             "title": "令和７年度人間総合科学学術院心理学学位プログラム説明会の開催のお知らせ",
             "summary": "下記日程で，人間総合科学学術院　心理学学位プログラム説明会の説明会を行います。受験をお考えの方は，ふるってご参加ください。\n説明会への参加を希望される方は申込みフォームからお申し込みをお願いいたします。\n\n＜申し込みフォーム＞\nhttps://forms.gle/fPKLCAspPau732KF6\n* メールアドレスの入力間違いにご注意ください。\n\n＜開催日時・方法＞\n令和5年12月20日（水）1…",
-            "date_modified": "2023-10-26T03:00:00.000Z"
-        },
-        {
-            "id": "1c7fe086c0b5feda1be20580979415bc",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4472",
-            "title": "Please introduce your country at the \"IMAGINE THE 海外.\" International Exchange Festival",
-            "summary": "The “International Exchange Fest “IMAGINE THE 海外(kaigai/overseas)“” aims to make our university a more global and international environment!\nAt this event, both Japanese and international students can…",
             "date_modified": "2023-10-26T03:00:00.000Z"
         }
     ]
