@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "fed74ea7e8b5f591a5b3b16ff932e269",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4510",
+            "title": "【筑波大学就職ミライ博2023】アルバイト募集（再掲）",
+            "summary": "筑波大学BHEキャリア支援チーム主催「筑波大学就職ミライ博」が12月に大学会館で開催されます！\nそこで、イベントの運営スタッフ（アルバイト）を募集いたします。お申込お待ちしております！\n＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝\n「学内就職イベントの運営スタッフ」\n仕事内容:　大学内就職イベントに係る事前準備・受付・誘導等の業務\n（１日でも可）\n-----------------------------…",
+            "date_modified": "2023-11-02T03:00:00.000Z"
+        },
+        {
             "id": "c9b20e8170caa0223a7aea37d438b619",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4509",
             "title": "【お願い】「犯罪被害者等支援及び性暴力被害者支援に関する認知度調査」の実施について",
@@ -136,13 +143,6 @@
             "title": "筑波大学公式オリジナルグッズECサイト割引クーポンのお知らせ（11月）",
             "summary": "筑波大学公式オリジナルグッズ販売サイト「TSUKUBA-SHOP」11月の割引クーポンコードをお知らせいたします！\n\n\nどうぞご覧いただき、皆様の「日常生活」、「思い出」、「プレゼント🎁」などにご活用いただけますと幸いです。\n\nECサイトは以下のリンクから\n※学内専用割引コードをTWINS掲示「大学から学生へのお知らせ（学内専用）」に掲載しております。\n※学生・教職員はこのコードを入力することで…",
             "date_modified": "2023-11-01T03:00:00.000Z"
-        },
-        {
-            "id": "1dbc6c87c5429c89bcafbc6a09784a5a",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4490",
-            "title": "短期研修「南米ペルーに行ってみませんか？」11/20締切",
-            "summary": "ペルーの文化を知ろう！現地学生と交流しよう！現地の日本企業（JICA, JETROなど）を訪問しよう！\n\n派遣先：ペルー・カトリカ大学（ペルー）\n派遣期間（予定）：2024年2月26日～3月8日　※渡航期間は2023年12月頃決定する予定です。\n募集人数：15名程度（最少催行人数：6名）　\n使用言語：英語及びスペイン語 *スペイン語の履修歴は問わない\n単位：2単位（国際パートナーシップ研修（中南米…",
-            "date_modified": "2023-10-31T03:00:00.000Z"
         }
     ]
 }

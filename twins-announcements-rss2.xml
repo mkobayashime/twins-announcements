@@ -4,10 +4,23 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Thu, 02 Nov 2023 09:17:07 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 02 Nov 2023 10:12:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
+        <item>
+            <title><![CDATA[【筑波大学就職ミライ博2023】アルバイト募集（再掲）]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4510</link>
+            <guid>fed74ea7e8b5f591a5b3b16ff932e269</guid>
+            <pubDate>Thu, 02 Nov 2023 03:00:00 GMT</pubDate>
+            <description><![CDATA[筑波大学BHEキャリア支援チーム主催「筑波大学就職ミライ博」が12月に大学会館で開催されます！
+そこで、イベントの運営スタッフ（アルバイト）を募集いたします。お申込お待ちしております！
+＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝
+「学内就職イベントの運営スタッフ」
+仕事内容:　大学内就職イベントに係る事前準備・受付・誘導等の業務
+（１日でも可）
+-----------------------------…]]></description>
+        </item>
         <item>
             <title><![CDATA[【お願い】「犯罪被害者等支援及び性暴力被害者支援に関する認知度調査」の実施について]]></title>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4509</link>
@@ -217,19 +230,6 @@ TEL:029-896-3530  FAX:029-896-3531]]></description>
 ECサイトは以下のリンクから
 ※学内専用割引コードをTWINS掲示「大学から学生へのお知らせ（学内専用）」に掲載しております。
 ※学生・教職員はこのコードを入力することで…]]></description>
-        </item>
-        <item>
-            <title><![CDATA[短期研修「南米ペルーに行ってみませんか？」11/20締切]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4490</link>
-            <guid>1dbc6c87c5429c89bcafbc6a09784a5a</guid>
-            <pubDate>Tue, 31 Oct 2023 03:00:00 GMT</pubDate>
-            <description><![CDATA[ペルーの文化を知ろう！現地学生と交流しよう！現地の日本企業（JICA, JETROなど）を訪問しよう！
-
-派遣先：ペルー・カトリカ大学（ペルー）
-派遣期間（予定）：2024年2月26日～3月8日　※渡航期間は2023年12月頃決定する予定です。
-募集人数：15名程度（最少催行人数：6名）　
-使用言語：英語及びスペイン語 *スペイン語の履修歴は問わない
-単位：2単位（国際パートナーシップ研修（中南米…]]></description>
         </item>
     </channel>
 </rss>
