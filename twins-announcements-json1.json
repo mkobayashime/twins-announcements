@@ -5,6 +5,27 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "165057dea115c4f64da247f24f2ff61f",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4515",
+            "title": "本日開催！ロシア語・カザフ語短期語学研修（カザフスタン）オンライン説明会",
+            "summary": "本日11月6日（月）の18:00～18:30、標記の海外語学研修に関するオンライン説明会を開催します。\n関心のある方は時間になりましたら下記URLからご参加ください。\n\n▶︎研修期間（予定）：2024年2月16日（金）〜3月23日（金）\n▶︎研修地：カザフ国立大学（カザフスタン共和国アルマトイ市）\n▶︎対象：学群生、大学院生\n▶︎研修内容：ロシア語研修、カザフ語研修、異文化理解研修　等\n▶︎単位：…",
+            "date_modified": "2023-11-06T03:00:00.000Z"
+        },
+        {
+            "id": "25041730a17706fb7e9077deee06e9f4",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4514",
+            "title": "11/15（18:00～）上野千鶴子氏講演会「道なき道の歩き方：女性学をつくる」（学生・教員対象）",
+            "summary": "TSUKUBA社会国際学初年次チュートリアルプログラムでは、11月15日（水）18時00分から公開講演会を開催いたします。\n講師は認定特定非営利活動法人　ウィメンズアクションネットワーク（WAN）理事長の上野千鶴子氏で、「道なき道の歩き方：女性学をつくる」という題目で講演していただきます。\n筑波大学の学生・大学院生でしたらどなたでもご参加いただけます。教員は聴講のみとなります。奮ってご参加下さい。…",
+            "date_modified": "2023-11-06T03:00:00.000Z"
+        },
+        {
+            "id": "469ba70370cac52a6896444615dd2394",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4513",
+            "title": "（再掲）【11/15開催】令和5年度全学防災訓練「障害学生等支援防災ワーク」（全学リスクマネジメントセミナー）の開催について",
+            "summary": "　令和5年度全学防災訓練「障害学生等支援防災ワーク」（全学リスクマネジメントセミナー）を開催いたします。\n　大規模災害発生時に障害学生等と避難誘導者双方が安全に避難するための方法について、講演を通じて学ぶことを目的とし、全学防災訓練の一環として行います。\n　なお、本防災ワークは全学リスクマネジメントセミナーを兼ねて実施します。皆さまのご参加をお待ちしております。\n\n実施日時：2023年11月15日…",
+            "date_modified": "2023-11-06T03:00:00.000Z"
+        },
+        {
             "id": "fed74ea7e8b5f591a5b3b16ff932e269",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4510",
             "title": "【筑波大学就職ミライ博2023】アルバイト募集（再掲）",
@@ -121,27 +142,6 @@
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4493",
             "title": "【BHE】大学生活で困ったときの対処と相談サービスについてのアンケート",
             "summary": "筑波大学では大阪国際工科専門職大学との協働により、大学生活で困った時の対処と相談サービスについてのアンケートを行なっています。10分程度での回答を想定しています。\n\nこのアンケートは、大学生が抱える困りごとの解決に役立つアプローチを検討することを目的に実施いたします。アンケートでは、大学生が日常生活や学校生活で困っていること、モヤモヤしていることについてお聞きします。また、困りごとがあったときに、…",
-            "date_modified": "2023-11-01T03:00:00.000Z"
-        },
-        {
-            "id": "da867af4043902969156832c605b2bdb",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4492",
-            "title": "【11月】筑波大学BHEセーファースペース「KiteKite（きてきて）」の実施について",
-            "summary": "ヒューマンエンパワーメント推進局（BHE）ジェンダー支援チームでは、学生スタッフと共同で”セーファースペースKiteKite（きてきて）”を実施しています。11月の実施日についてお知らせしますので、ぜひお気軽にご参加ください。\n\n※セーファースペースとは…LGBTQ＋や女性をはじめ、全ての人が自らのジェンダー・セクシュアリティについてより安全に話すことができる居場所のこと\n\nKiteKiteは、年…",
-            "date_modified": "2023-11-01T03:00:00.000Z"
-        },
-        {
-            "id": "d07de3a2549e9d1109e19fd73f9711de",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4491",
-            "title": "STOP！研究費不正使用！／STOP！Wrongful use of research funding！",
-            "summary": "学生の皆さんが不正使用に巻き込まれるケースが多発しています。\n不正を見かけた、持ちかけられたら、通報窓口へ。\nコンプライアンス・ハラスメント対策室（学内窓口）\nMail:compliance@un.tsukuba.ac.jp TEL:029-853-2033\nつくば中央法律事務所（学外窓口）\nTEL:029-896-3530  FAX:029-896-3531",
-            "date_modified": "2023-11-01T03:00:00.000Z"
-        },
-        {
-            "id": "1343706303ede3b4ab282736a31853c9",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4484",
-            "title": "筑波大学公式オリジナルグッズECサイト割引クーポンのお知らせ（11月）",
-            "summary": "筑波大学公式オリジナルグッズ販売サイト「TSUKUBA-SHOP」11月の割引クーポンコードをお知らせいたします！\n\n\nどうぞご覧いただき、皆様の「日常生活」、「思い出」、「プレゼント🎁」などにご活用いただけますと幸いです。\n\nECサイトは以下のリンクから\n※学内専用割引コードをTWINS掲示「大学から学生へのお知らせ（学内専用）」に掲載しております。\n※学生・教職員はこのコードを入力することで…",
             "date_modified": "2023-11-01T03:00:00.000Z"
         }
     ]
