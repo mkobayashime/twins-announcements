@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/mkobayashime/twins-announcements</id>
     <title>在学生へのお知らせ | 筑波大学</title>
-    <updated>2023-11-06T08:16:13.545Z</updated>
+    <updated>2023-11-06T09:12:43.759Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://github.com/mkobayashime/twins-announcements"/>
     <subtitle>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</subtitle>
+    <entry>
+        <title type="html"><![CDATA[11/10（金）10：00-12：00「Business Leaders’ Seminar/ビジネスリーダーズセミナー」（対象：全学生）]]></title>
+        <id>d99fd86dcdd0def6e94e822d3c0c4422</id>
+        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4521"/>
+        <updated>2023-11-06T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[ヒューマンバイオロジー学位プログラムでは授業の一環として「Business Leaders’ Seminar/ビジネスリーダーズセミナー」を開催しています。
+本セミナーは、世界のトップビジネスリーダーを招き、オムニバス形式でキャリア形成やビジネスに関する成功と失敗の話などの経験を紹介するものです。
+
+11月10日（金）10：00-12：00に開催するセミナーでは、英国勅許公認会計士であり、現在　テ…]]></summary>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【派遣学生募集】ドイツ・ブランデンブルク工科大学コトブス＝ゼンフテンベルク校（BTU）への派遣学生の追加募集について（2024年4月派遣開始分）]]></title>
         <id>bc38883fe73d941ab0872ca7af8931d9</id>
@@ -219,14 +229,5 @@ HPや学内掲示板では発信しきれない情報をタイムリーに発信
 詳細は下記の内容と添付のPDFにてご確認いただけますので、よろしくお願いします。
 
 １.日時　令和5年12月10日（日）　12：3…]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[トルクメニスタン化学オリンピック2023の参加募集]]></title>
-        <id>9ead5eddc49f6c797a44647e32a9e76f</id>
-        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4498"/>
-        <updated>2023-11-02T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[トルクメニスタン駐日大使館から、2023年11月14-17日に開催される第2回国際オンライン化学オリンピック（ホスト校：Magtymguly Turkmen State University）の参加者募集案内が届きました。
-
-興味がある方はホスト校ウェブサイト<https://tdu.edu.tm/?/TRANSLATE/&lang=eng>の”OLYMPIAD-2023”タブにて内容をご確認の上…]]></summary>
     </entry>
 </feed>
