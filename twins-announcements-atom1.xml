@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/mkobayashime/twins-announcements</id>
     <title>在学生へのお知らせ | 筑波大学</title>
-    <updated>2023-11-06T09:18:55.583Z</updated>
+    <updated>2023-11-06T21:15:37.261Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://github.com/mkobayashime/twins-announcements"/>
     <subtitle>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</subtitle>
@@ -144,17 +144,6 @@ HPや学内掲示板では発信しきれない情報をタイムリーに発信
 　できるだけ多くの方に回…]]></summary>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【周知】「e-Govデータコンテスト」作品募集について]]></title>
-        <id>cec9dbbf22c3e6d6815564eef31dbc46</id>
-        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4508"/>
-        <updated>2023-11-02T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[　デジタル庁より学生を対象としたイベント（コンテスト）の作品募集について情報提供がありましたので、お知らせします。
-
-　広く公共オープンデータ提供の役割を担うe-Govデータポータルサービスの普及・利活用促進を図るため、オープンデータの分析に関する「e-Govデータコンテスト」を本年12月に開催し、これに向けた参加作品を募集するとのことです。
-
-　詳細は以下のURLからご確認いただけますので、よろ…]]></summary>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[【周知】「みどり戦略学生チャレンジ（全国版）」の開催について]]></title>
         <id>34cd0c33abaa57f6ad83451077540155</id>
         <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4507"/>
@@ -229,5 +218,14 @@ HPや学内掲示板では発信しきれない情報をタイムリーに発信
 詳細は下記の内容と添付のPDFにてご確認いただけますので、よろしくお願いします。
 
 １.日時　令和5年12月10日（日）　12：3…]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[トルクメニスタン化学オリンピック2023の参加募集]]></title>
+        <id>9ead5eddc49f6c797a44647e32a9e76f</id>
+        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4498"/>
+        <updated>2023-11-02T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[トルクメニスタン駐日大使館から、2023年11月14-17日に開催される第2回国際オンライン化学オリンピック（ホスト校：Magtymguly Turkmen State University）の参加者募集案内が届きました。
+
+興味がある方はホスト校ウェブサイト<https://tdu.edu.tm/?/TRANSLATE/&lang=eng>の”OLYMPIAD-2023”タブにて内容をご確認の上…]]></summary>
     </entry>
 </feed>
