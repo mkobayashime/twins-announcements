@@ -5,6 +5,20 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "d0d4fd01908672a5b94b1f33210e4bba",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4530",
+            "title": "【開催案内】4th Borderless Onsite Meeting “Exploring Tajikistan’s Persian heritage”",
+            "summary": "【開催案内】4th Borderless Onsite Meeting\n\nプレゼンター：ダブロノヴァ・ファランギス（NipCAフェロー2022）\n\n題目：Exploring Tajikistan’s Persian heritage\n\n日時：令和5年11月17日（金）12:20～13:10\n\n会場：筑波大学　スチューデントコモンズ（1A棟203）\n\n対象：全学教職員、留学生ほか\n\n使用言語：英語\n…",
+            "date_modified": "2023-11-07T03:00:00.000Z"
+        },
+        {
+            "id": "cd60dc1a2ca2085d77fb07b97d18a907",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4529",
+            "title": "再掲【受験者追加募集：180名まで】（大学院生対象）令和５年度TOEIC IPテストの実施について",
+            "summary": "9月に募集した大学院生対象TOEIC IPテストの受験者追加募集（180名まで）を行います。\n前回（9月募集）お申込みいただいた方は今回お申込みいただくことはできませんのでご了承ください。\n\n＊＊＊＊＊＊趣旨再掲＊＊＊＊＊＊＊\n筑波大学に在籍する正規の大学院生を対象として、TOEIC IPテストを無料で実施します。\nTOEICは今やビジネスでの英語力を測る指標として多くの場で活用されています。\n特…",
+            "date_modified": "2023-11-07T03:00:00.000Z"
+        },
+        {
             "id": "30b7650712bb8357a6c6c9bf48b96058",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4528",
             "title": "【参加者募集・再掲】12/7, 8 開催 エリートスポーツコーチング論",
@@ -128,20 +142,6 @@
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4507",
             "title": "【周知】「みどり戦略学生チャレンジ（全国版）」の開催について",
             "summary": "　農林水産省から、「みどり戦略学生チャレンジ（全国版）」を実施するとのことでご連絡がありましたので、お知らせします。\n\n　今般、2021年に策定された「みどりの食料システム戦略」の実現に向けて、将来を担う若い世代の環境に配慮した取り組みを促すため、大学生や高校生等の個人・グループが「みどりの食料システム戦略」に基づいた活動を実践する機会として実施されるそうです。\n　ぜひ皆さんも参加してみてはいかが…",
-            "date_modified": "2023-11-02T03:00:00.000Z"
-        },
-        {
-            "id": "120375f07fb5dd3f7ffb6add7f727f46",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4506",
-            "title": "【周知】「男性・男児のための性暴力被害者ホットライン」の開設について",
-            "summary": "　内閣府から、「男性・男児のための性暴力被害者ホットライン」を開設するとのことで、情報提供がありましたので、お知らせします。\n\n　性犯罪・性暴力の被害に遭った男性や男児及びその保護者等のための臨時の相談窓口として、「男性のための性暴力被害ホットライン」及び「男の子と保護者のための性暴力被害ホットライン」が開設されました。これらの相談窓口では、専門的な知見を有する相談員が電話で相談を受け、相談内容に…",
-            "date_modified": "2023-11-02T03:00:00.000Z"
-        },
-        {
-            "id": "120375f07fb5dd3f7ffb6add7f727f46",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4505",
-            "title": "【周知】「男性・男児のための性暴力被害者ホットライン」の開設について",
-            "summary": "　内閣府から、「男性・男児のための性暴力被害者ホットライン」を開設するとのことで、情報提供がありましたので、お知らせします。\n\n　性犯罪・性暴力の被害に遭った男性や男児及びその保護者等のための臨時の相談窓口として、「男性のための性暴力被害ホットライン」及び「男の子と保護者のための性暴力被害ホットライン」が開設されました。これらの相談窓口では、専門的な知見を有する相談員が電話で相談を受け、相談内容に…",
             "date_modified": "2023-11-02T03:00:00.000Z"
         }
     ]
