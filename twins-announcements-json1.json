@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "ee8006f40bc3403a348380cbf7a10037",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4531",
+            "title": "(再掲)【11/8 開催】「文献管理ツールRefWorks活用法」図書館講習会",
+            "summary": "「文献管理ツールRefWorks活用法」の講習会を開催します。\n\n日時：11月8日（水）15:15-16:45\n開催方法： オンライン（Zoom)\n\n「あの論文、どこに保存したのか忘れちゃったな。どうしよう…」\n「文献リストの作成は時間がかかって面倒だな…。効率がいい方法があれば楽なのに。」\nと思っているそこのあなたに役立つ講習会です。\n\n秋学期は【初中級編】として、具体的な操作についてデモを交え…",
+            "date_modified": "2023-11-07T03:00:00.000Z"
+        },
+        {
             "id": "d0d4fd01908672a5b94b1f33210e4bba",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4530",
             "title": "【開催案内】4th Borderless Onsite Meeting “Exploring Tajikistan’s Persian heritage”",
@@ -135,13 +142,6 @@
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4509",
             "title": "【お願い】「犯罪被害者等支援及び性暴力被害者支援に関する認知度調査」の実施について",
             "summary": "　茨城県より、犯罪の被害者やその家族、性暴力の被害者に対する支援に関するアンケートへの協力のお願いがありましたので、お知らせします。\n\n　このアンケート調査は、犯罪や性暴力の被害に関すること、またそうした被害にあった場合の支援に関することについて、どれくらい知られているかなどを把握し、犯罪や性暴力の被害にあった人たちを支援する今後の取り組みに生かしていくものとのことです。\n　できるだけ多くの方に回…",
-            "date_modified": "2023-11-02T03:00:00.000Z"
-        },
-        {
-            "id": "34cd0c33abaa57f6ad83451077540155",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4507",
-            "title": "【周知】「みどり戦略学生チャレンジ（全国版）」の開催について",
-            "summary": "　農林水産省から、「みどり戦略学生チャレンジ（全国版）」を実施するとのことでご連絡がありましたので、お知らせします。\n\n　今般、2021年に策定された「みどりの食料システム戦略」の実現に向けて、将来を担う若い世代の環境に配慮した取り組みを促すため、大学生や高校生等の個人・グループが「みどりの食料システム戦略」に基づいた活動を実践する機会として実施されるそうです。\n　ぜひ皆さんも参加してみてはいかが…",
             "date_modified": "2023-11-02T03:00:00.000Z"
         }
     ]
