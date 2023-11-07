@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/mkobayashime/twins-announcements</id>
     <title>在学生へのお知らせ | 筑波大学</title>
-    <updated>2023-11-07T09:17:14.038Z</updated>
+    <updated>2023-11-07T11:10:12.161Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://github.com/mkobayashime/twins-announcements"/>
     <subtitle>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</subtitle>
+    <entry>
+        <title type="html"><![CDATA[【Now On Sale】University of Tsukuba Homegame TSUKUBA LIVE!]]></title>
+        <id>d70e4396aa8f1aff5f9ec675d222cc1d</id>
+        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4532"/>
+        <updated>2023-11-07T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[On November 15 (Wed.) at 18:00, we will hold a home game that makes students of the University of Tsukuba crazy about sports!
+After whole-day classes, let's get together at Tsukuba Capio🔥!
+
+This time…]]></summary>
+    </entry>
     <entry>
         <title type="html"><![CDATA[(再掲)【11/8 開催】「文献管理ツールRefWorks活用法」図書館講習会]]></title>
         <id>ee8006f40bc3403a348380cbf7a10037</id>
@@ -265,15 +275,5 @@ HPや学内掲示板では発信しきれない情報をタイムリーに発信
 仕事内容:　大学内就職イベントに係る事前準備・受付・誘導等の業務
 （１日でも可）
 -----------------------------…]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【お願い】「犯罪被害者等支援及び性暴力被害者支援に関する認知度調査」の実施について]]></title>
-        <id>c9b20e8170caa0223a7aea37d438b619</id>
-        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4509"/>
-        <updated>2023-11-02T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[　茨城県より、犯罪の被害者やその家族、性暴力の被害者に対する支援に関するアンケートへの協力のお願いがありましたので、お知らせします。
-
-　このアンケート調査は、犯罪や性暴力の被害に関すること、またそうした被害にあった場合の支援に関することについて、どれくらい知られているかなどを把握し、犯罪や性暴力の被害にあった人たちを支援する今後の取り組みに生かしていくものとのことです。
-　できるだけ多くの方に回…]]></summary>
     </entry>
 </feed>

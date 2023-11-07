@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "d70e4396aa8f1aff5f9ec675d222cc1d",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4532",
+            "title": "【Now On Sale】University of Tsukuba Homegame TSUKUBA LIVE!",
+            "summary": "On November 15 (Wed.) at 18:00, we will hold a home game that makes students of the University of Tsukuba crazy about sports!\nAfter whole-day classes, let's get together at Tsukuba Capio🔥!\n\nThis time…",
+            "date_modified": "2023-11-07T03:00:00.000Z"
+        },
+        {
             "id": "ee8006f40bc3403a348380cbf7a10037",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4531",
             "title": "(再掲)【11/8 開催】「文献管理ツールRefWorks活用法」図書館講習会",
@@ -135,13 +142,6 @@
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4510",
             "title": "【筑波大学就職ミライ博2023】アルバイト募集（再掲）",
             "summary": "筑波大学BHEキャリア支援チーム主催「筑波大学就職ミライ博」が12月に大学会館で開催されます！\nそこで、イベントの運営スタッフ（アルバイト）を募集いたします。お申込お待ちしております！\n＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝\n「学内就職イベントの運営スタッフ」\n仕事内容:　大学内就職イベントに係る事前準備・受付・誘導等の業務\n（１日でも可）\n-----------------------------…",
-            "date_modified": "2023-11-02T03:00:00.000Z"
-        },
-        {
-            "id": "c9b20e8170caa0223a7aea37d438b619",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4509",
-            "title": "【お願い】「犯罪被害者等支援及び性暴力被害者支援に関する認知度調査」の実施について",
-            "summary": "　茨城県より、犯罪の被害者やその家族、性暴力の被害者に対する支援に関するアンケートへの協力のお願いがありましたので、お知らせします。\n\n　このアンケート調査は、犯罪や性暴力の被害に関すること、またそうした被害にあった場合の支援に関することについて、どれくらい知られているかなどを把握し、犯罪や性暴力の被害にあった人たちを支援する今後の取り組みに生かしていくものとのことです。\n　できるだけ多くの方に回…",
             "date_modified": "2023-11-02T03:00:00.000Z"
         }
     ]
