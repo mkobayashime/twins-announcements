@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "f1cf854075817cb6ab50a7f6e4ca22cf",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4537",
+            "title": "【BHEイベント】大学院と就職を考えるセミナー（再掲）",
+            "summary": "院進と就職で悩む学生の皆さまへ\n将来のキャリア、大学院進学かそれとも就職かでお悩みを抱えていませんか？大学院の就活を支援する株式会社アカリクの講師があなたの悩みを解決します！\nイベント前半ではアカリクの講師より、大学院進学することの意味や学部卒と院卒の違い、大学院生の就職事情について講演いただきます。\n後半では実際に迷って決断したふたりの先輩に加わっていただき、アカリク講師とBHEキャリア教員のト…",
+            "date_modified": "2023-11-08T03:00:00.000Z"
+        },
+        {
             "id": "de7499f24f9443a7650eeeb2e51f598d",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4534",
             "title": "再掲（11/9まで）【BHE】大学生活で困ったときの対処と相談サービスについてのアンケート",
@@ -136,13 +143,6 @@
             "title": "（再掲）【11/15開催】令和5年度全学防災訓練「障害学生等支援防災ワーク」（全学リスクマネジメントセミナー）の開催について",
             "summary": "　令和5年度全学防災訓練「障害学生等支援防災ワーク」（全学リスクマネジメントセミナー）を開催いたします。\n　大規模災害発生時に障害学生等と避難誘導者双方が安全に避難するための方法について、講演を通じて学ぶことを目的とし、全学防災訓練の一環として行います。\n　なお、本防災ワークは全学リスクマネジメントセミナーを兼ねて実施します。皆さまのご参加をお待ちしております。\n\n実施日時：2023年11月15日…",
             "date_modified": "2023-11-06T03:00:00.000Z"
-        },
-        {
-            "id": "fed74ea7e8b5f591a5b3b16ff932e269",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4510",
-            "title": "【筑波大学就職ミライ博2023】アルバイト募集（再掲）",
-            "summary": "筑波大学BHEキャリア支援チーム主催「筑波大学就職ミライ博」が12月に大学会館で開催されます！\nそこで、イベントの運営スタッフ（アルバイト）を募集いたします。お申込お待ちしております！\n＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝\n「学内就職イベントの運営スタッフ」\n仕事内容:　大学内就職イベントに係る事前準備・受付・誘導等の業務\n（１日でも可）\n-----------------------------…",
-            "date_modified": "2023-11-02T03:00:00.000Z"
         }
     ]
 }

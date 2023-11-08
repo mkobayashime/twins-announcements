@@ -4,10 +4,20 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Wed, 08 Nov 2023 00:50:58 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 08 Nov 2023 06:15:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
+        <item>
+            <title><![CDATA[【BHEイベント】大学院と就職を考えるセミナー（再掲）]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4537</link>
+            <guid>f1cf854075817cb6ab50a7f6e4ca22cf</guid>
+            <pubDate>Wed, 08 Nov 2023 03:00:00 GMT</pubDate>
+            <description><![CDATA[院進と就職で悩む学生の皆さまへ
+将来のキャリア、大学院進学かそれとも就職かでお悩みを抱えていませんか？大学院の就活を支援する株式会社アカリクの講師があなたの悩みを解決します！
+イベント前半ではアカリクの講師より、大学院進学することの意味や学部卒と院卒の違い、大学院生の就職事情について講演いただきます。
+後半では実際に迷って決断したふたりの先輩に加わっていただき、アカリク講師とBHEキャリア教員のト…]]></description>
+        </item>
         <item>
             <title><![CDATA[再掲（11/9まで）【BHE】大学生活で困ったときの対処と相談サービスについてのアンケート]]></title>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4534</link>
@@ -257,19 +267,6 @@ HPや学内掲示板では発信しきれない情報をタイムリーに発信
 　なお、本防災ワークは全学リスクマネジメントセミナーを兼ねて実施します。皆さまのご参加をお待ちしております。
 
 実施日時：2023年11月15日…]]></description>
-        </item>
-        <item>
-            <title><![CDATA[【筑波大学就職ミライ博2023】アルバイト募集（再掲）]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4510</link>
-            <guid>fed74ea7e8b5f591a5b3b16ff932e269</guid>
-            <pubDate>Thu, 02 Nov 2023 03:00:00 GMT</pubDate>
-            <description><![CDATA[筑波大学BHEキャリア支援チーム主催「筑波大学就職ミライ博」が12月に大学会館で開催されます！
-そこで、イベントの運営スタッフ（アルバイト）を募集いたします。お申込お待ちしております！
-＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝
-「学内就職イベントの運営スタッフ」
-仕事内容:　大学内就職イベントに係る事前準備・受付・誘導等の業務
-（１日でも可）
------------------------------…]]></description>
         </item>
     </channel>
 </rss>
