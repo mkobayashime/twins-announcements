@@ -4,10 +4,19 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Tue, 07 Nov 2023 21:15:32 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 08 Nov 2023 00:50:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
+        <item>
+            <title><![CDATA[再掲（11/9まで）【BHE】大学生活で困ったときの対処と相談サービスについてのアンケート]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4534</link>
+            <guid>de7499f24f9443a7650eeeb2e51f598d</guid>
+            <pubDate>Wed, 08 Nov 2023 03:00:00 GMT</pubDate>
+            <description><![CDATA[筑波大学では大阪国際工科専門職大学との協働により、大学生活で困った時の対処と相談サービスについてのアンケートを行なっています。10分程度での回答を想定しています。
+
+このアンケートは、大学生が抱える困りごとの解決に役立つアプローチを検討することを目的に実施いたします。アンケートでは、大学生が日常生活や学校生活で困っていること、モヤモヤしていることについてお聞きします。また、困りごとがあったときに、…]]></description>
+        </item>
         <item>
             <title><![CDATA[【Now On Sale】University of Tsukuba Homegame TSUKUBA LIVE!]]></title>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4533</link>
@@ -261,16 +270,6 @@ HPや学内掲示板では発信しきれない情報をタイムリーに発信
 仕事内容:　大学内就職イベントに係る事前準備・受付・誘導等の業務
 （１日でも可）
 -----------------------------…]]></description>
-        </item>
-        <item>
-            <title><![CDATA[【お願い】「犯罪被害者等支援及び性暴力被害者支援に関する認知度調査」の実施について]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4509</link>
-            <guid>c9b20e8170caa0223a7aea37d438b619</guid>
-            <pubDate>Thu, 02 Nov 2023 03:00:00 GMT</pubDate>
-            <description><![CDATA[　茨城県より、犯罪の被害者やその家族、性暴力の被害者に対する支援に関するアンケートへの協力のお願いがありましたので、お知らせします。
-
-　このアンケート調査は、犯罪や性暴力の被害に関すること、またそうした被害にあった場合の支援に関することについて、どれくらい知られているかなどを把握し、犯罪や性暴力の被害にあった人たちを支援する今後の取り組みに生かしていくものとのことです。
-　できるだけ多くの方に回…]]></description>
         </item>
     </channel>
 </rss>
