@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "d70e4396aa8f1aff5f9ec675d222cc1d",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4541",
+            "title": "【Now On Sale】University of Tsukuba Homegame TSUKUBA LIVE!",
+            "summary": "On November 15 (Wed.) at 18:00, there will be a legendary volleyball match!\nThe University of Tsukuba, 2022 Japan Volleyball Champion will go against 2022 United State Volleyball Champion. Do not miss…",
+            "date_modified": "2023-11-09T03:00:00.000Z"
+        },
+        {
             "id": "d1a8a30bcc6ab750d8ca043c2d223c27",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4540",
             "title": "【チケット販売中】筑波大学ホームゲーム「TSUKUBA LIVE!」（男子バレー・vsハワイ大）",
@@ -136,13 +143,6 @@
             "title": "（再掲）【11/15開催】令和5年度全学防災訓練「障害学生等支援防災ワーク」（全学リスクマネジメントセミナー）の開催について",
             "summary": "　令和5年度全学防災訓練「障害学生等支援防災ワーク」（全学リスクマネジメントセミナー）を開催いたします。\n　大規模災害発生時に障害学生等と避難誘導者双方が安全に避難するための方法について、講演を通じて学ぶことを目的とし、全学防災訓練の一環として行います。\n　なお、本防災ワークは全学リスクマネジメントセミナーを兼ねて実施します。皆さまのご参加をお待ちしております。\n\n実施日時：2023年11月15日…",
             "date_modified": "2023-11-06T03:00:00.000Z"
-        },
-        {
-            "id": "fed74ea7e8b5f591a5b3b16ff932e269",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4510",
-            "title": "【筑波大学就職ミライ博2023】アルバイト募集（再掲）",
-            "summary": "筑波大学BHEキャリア支援チーム主催「筑波大学就職ミライ博」が12月に大学会館で開催されます！\nそこで、イベントの運営スタッフ（アルバイト）を募集いたします。お申込お待ちしております！\n＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝\n「学内就職イベントの運営スタッフ」\n仕事内容:　大学内就職イベントに係る事前準備・受付・誘導等の業務\n（１日でも可）\n-----------------------------…",
-            "date_modified": "2023-11-02T03:00:00.000Z"
         }
     ]
 }

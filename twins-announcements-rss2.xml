@@ -4,10 +4,18 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Thu, 09 Nov 2023 01:51:04 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 09 Nov 2023 02:21:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
+        <item>
+            <title><![CDATA[【Now On Sale】University of Tsukuba Homegame TSUKUBA LIVE!]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4541</link>
+            <guid>d70e4396aa8f1aff5f9ec675d222cc1d</guid>
+            <pubDate>Thu, 09 Nov 2023 03:00:00 GMT</pubDate>
+            <description><![CDATA[On November 15 (Wed.) at 18:00, there will be a legendary volleyball match!
+The University of Tsukuba, 2022 Japan Volleyball Champion will go against 2022 United State Volleyball Champion. Do not miss…]]></description>
+        </item>
         <item>
             <title><![CDATA[【チケット販売中】筑波大学ホームゲーム「TSUKUBA LIVE!」（男子バレー・vsハワイ大）]]></title>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4540</link>
@@ -265,19 +273,6 @@ HPや学内掲示板では発信しきれない情報をタイムリーに発信
 　なお、本防災ワークは全学リスクマネジメントセミナーを兼ねて実施します。皆さまのご参加をお待ちしております。
 
 実施日時：2023年11月15日…]]></description>
-        </item>
-        <item>
-            <title><![CDATA[【筑波大学就職ミライ博2023】アルバイト募集（再掲）]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4510</link>
-            <guid>fed74ea7e8b5f591a5b3b16ff932e269</guid>
-            <pubDate>Thu, 02 Nov 2023 03:00:00 GMT</pubDate>
-            <description><![CDATA[筑波大学BHEキャリア支援チーム主催「筑波大学就職ミライ博」が12月に大学会館で開催されます！
-そこで、イベントの運営スタッフ（アルバイト）を募集いたします。お申込お待ちしております！
-＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝
-「学内就職イベントの運営スタッフ」
-仕事内容:　大学内就職イベントに係る事前準備・受付・誘導等の業務
-（１日でも可）
------------------------------…]]></description>
         </item>
     </channel>
 </rss>
