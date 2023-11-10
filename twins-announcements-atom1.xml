@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/mkobayashime/twins-announcements</id>
     <title>在学生へのお知らせ | 筑波大学</title>
-    <updated>2023-11-09T21:15:16.244Z</updated>
+    <updated>2023-11-10T00:50:58.535Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://github.com/mkobayashime/twins-announcements"/>
     <subtitle>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</subtitle>
+    <entry>
+        <title type="html"><![CDATA[（BHE)JETRO　外資系企業と大学のオンライン交流会 Career Discovery のお知らせ]]></title>
+        <id>15e18fe596c2d5f1cb93f2e029ea96db</id>
+        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4543"/>
+        <updated>2023-11-10T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Career Discovery とは、日本で活躍する外資系企業と日本で学ぶ学生のオンライン交流会です。
+学生の皆さんの質問に様々な業種及び国籍の企業がお答えします。
+外資系企業でのキャリア形成に関心をお持ちの皆さんのご参加をお待ちしています。
+
+特設ウェブページ& お申込みフォーム：　https://www.jetro.go.jp/form5/pub/ive/cd_2023
+
+日時：2023年1…]]></summary>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【参加者募集】大学スポーツシンポジウム -Future of College Sports in Japan-]]></title>
         <id>444411d8869ca6765c5f4e928d80bcf1</id>
@@ -260,16 +273,5 @@ HPや学内掲示板では発信しきれない情報をタイムリーに発信
         <summary type="html"><![CDATA[TSUKUBA社会国際学初年次チュートリアルプログラムでは、11月15日（水）18時00分から公開講演会を開催いたします。
 講師は認定特定非営利活動法人　ウィメンズアクションネットワーク（WAN）理事長の上野千鶴子氏で、「道なき道の歩き方：女性学をつくる」という題目で講演していただきます。
 筑波大学の学生・大学院生でしたらどなたでもご参加いただけます。教員は聴講のみとなります。奮ってご参加下さい。…]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[（再掲）【11/15開催】令和5年度全学防災訓練「障害学生等支援防災ワーク」（全学リスクマネジメントセミナー）の開催について]]></title>
-        <id>469ba70370cac52a6896444615dd2394</id>
-        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4513"/>
-        <updated>2023-11-06T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[　令和5年度全学防災訓練「障害学生等支援防災ワーク」（全学リスクマネジメントセミナー）を開催いたします。
-　大規模災害発生時に障害学生等と避難誘導者双方が安全に避難するための方法について、講演を通じて学ぶことを目的とし、全学防災訓練の一環として行います。
-　なお、本防災ワークは全学リスクマネジメントセミナーを兼ねて実施します。皆さまのご参加をお待ちしております。
-
-実施日時：2023年11月15日…]]></summary>
     </entry>
 </feed>
