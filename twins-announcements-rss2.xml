@@ -4,10 +4,21 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Fri, 10 Nov 2023 03:12:17 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 10 Nov 2023 05:11:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
+        <item>
+            <title><![CDATA[2023年度「海外英語研修II-c」（3単位、対面）　募集説明会]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4546</link>
+            <guid>87b64835d05be89a67fdc45e2c778d6a</guid>
+            <pubDate>Fri, 10 Nov 2023 03:00:00 GMT</pubDate>
+            <description><![CDATA[オーストラリアの協定校、ウーロンゴン大学の英語研修に3週間参加し、ホームステイ先に宿泊します。英語力の向上や異文化交流に関心のある学生の参加を募集します。申込方法等の詳細については、募集説明会で説明しますので、参加希望の方は必ず参加（もしくは後日動画を視聴）してください。
+
+【研修内容】
+・8030806「海外英語研修II-c」（3単位、対面）
+・オーストラリア・ウーロンゴン大学　3-Week E…]]></description>
+        </item>
         <item>
             <title><![CDATA[【初心者歓迎】推薦休みはMATLABでAIを体験してみませんか？]]></title>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4545</link>
@@ -276,19 +287,6 @@ HPや学内掲示板では発信しきれない情報をタイムリーに発信
 
 【参加方法】
 チーム名「BHEキャリア支援チーム　…]]></description>
-        </item>
-        <item>
-            <title><![CDATA[（BHE)JETRO Career Discovery 　外資系企業と大学のオンライン交流会のお知らせ]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4516</link>
-            <guid>592d7e0e0735c4b4d005092efbfebd52</guid>
-            <pubDate>Mon, 06 Nov 2023 03:00:00 GMT</pubDate>
-            <description><![CDATA[Career Discovery とは、日本で活躍する外資系企業と日本で学ぶ学生のオンライン交流会です。
-学生の皆さんの質問に様々な業種及び国籍の企業がお答えします。
-外資系企業でのキャリア形成に関心をお持ちの皆さんのご参加をお待ちしています。
-
-特設ウェブページ& お申込みフォーム：　https://www.jetro.go.jp/form5/pub/ive/cd_2023　
-
-日時：2023年…]]></description>
         </item>
     </channel>
 </rss>

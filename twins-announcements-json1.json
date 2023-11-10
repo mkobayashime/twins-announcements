@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "87b64835d05be89a67fdc45e2c778d6a",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4546",
+            "title": "2023年度「海外英語研修II-c」（3単位、対面）　募集説明会",
+            "summary": "オーストラリアの協定校、ウーロンゴン大学の英語研修に3週間参加し、ホームステイ先に宿泊します。英語力の向上や異文化交流に関心のある学生の参加を募集します。申込方法等の詳細については、募集説明会で説明しますので、参加希望の方は必ず参加（もしくは後日動画を視聴）してください。\n\n【研修内容】\n・8030806「海外英語研修II-c」（3単位、対面）\n・オーストラリア・ウーロンゴン大学　3-Week E…",
+            "date_modified": "2023-11-10T03:00:00.000Z"
+        },
+        {
             "id": "7174d2f18acc357db94f21245d791c1e",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4545",
             "title": "【初心者歓迎】推薦休みはMATLABでAIを体験してみませんか？",
@@ -135,13 +142,6 @@
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4517",
             "title": "（BHEキャリア支援）Teams内　キャリア支援情報発信チームのご案内",
             "summary": "Teams内　キャリア支援情報発信チームのご案内\n\nBHEには、日々、各所から求人・インターンシップ、各種イベントなど、\n筑波大生に向けた案内が届きます。\nHPや学内掲示板では発信しきれない情報をタイムリーに発信していきます。\n6月に立ち上げ、現在900名の方が参加中です。\n卒業年度別や志望別のチャネルを設けていますので、ぜひ活用してください。\n\n【参加方法】\nチーム名「BHEキャリア支援チーム　…",
-            "date_modified": "2023-11-06T03:00:00.000Z"
-        },
-        {
-            "id": "592d7e0e0735c4b4d005092efbfebd52",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4516",
-            "title": "（BHE)JETRO Career Discovery 　外資系企業と大学のオンライン交流会のお知らせ",
-            "summary": "Career Discovery とは、日本で活躍する外資系企業と日本で学ぶ学生のオンライン交流会です。\n学生の皆さんの質問に様々な業種及び国籍の企業がお答えします。\n外資系企業でのキャリア形成に関心をお持ちの皆さんのご参加をお待ちしています。\n\n特設ウェブページ& お申込みフォーム：　https://www.jetro.go.jp/form5/pub/ive/cd_2023　\n\n日時：2023年…",
             "date_modified": "2023-11-06T03:00:00.000Z"
         }
     ]
