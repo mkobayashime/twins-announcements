@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "b61349823ca4e96bc1b0f924ddd2cada",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4549",
+            "title": "（再掲）【開催案内】「大学院教育改革フォーラム2023」について / \"Forum for Graduate School Educational Reform 2023\"（12/1-12/2）",
+            "summary": "筑波大学大学院教育改革フォーラム2023事務局（グローバル教育院）です。\n本学主催の「大学院教育改革フォーラム2023」の参加登録を受付中です（11/16(木)まで）。皆様のご参加をお待ちしています。\nWe are pleased to inform you that our university will be hosting the \"Forum for Graduate School Edu…",
+            "date_modified": "2023-11-10T03:00:00.000Z"
+        },
+        {
             "id": "da48c90d6980ac69681d37b3a2744f61",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4548",
             "title": "【謝礼あり・アンケート】「神経多様性に応じたチャットボットでのオペレーター対応がユーザに与える効果の検証」ご協力のお願い",
@@ -135,13 +142,6 @@
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4520",
             "title": "【派遣学生募集】ドイツ・ブランデンブルク工科大学コトブス＝ゼンフテンベルク校（BTU）への派遣学生の追加募集について（2024年4月派遣開始分）",
             "summary": "SSC公募型対象校のドイツ・ブランデンブルク工科大学コトブス＝ゼンフテンベルク校（BTU）について、2024年4月派遣開始分を追加募集いたします。\n添付の募集要項をよく確認の上、応募してください。\n\n【概要】\n留学先：ドイツ・ブランデンブルク工科大学コトブス＝ゼンフテンベルク校\n留学期間：2024年4月～2025年3月までの12ヵ月以内　\n　　　　　※少なくとも1学期間以上滞在することが望ましい。…",
-            "date_modified": "2023-11-06T03:00:00.000Z"
-        },
-        {
-            "id": "3860143b895a2cb31855d4f27d79cab8",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4518",
-            "title": "医学群、学群生必見！ 令和５年度「海外医療視察研修」参加者募集",
-            "summary": "筑波大学「日本財団　中央アジア・日本人材育成プロジェクト（NipCA）」では、\n医学群の学類生を対象にカザフスタンにおける「海外医療視察研修」を実施します。\n\n◆研修日程：令和6年3月10日（日）～20日（水）（移動日を含める）\n◆視察先（予定）：アルファラビ・カザフ国立大学医学部／薬学部、\nアスフェンディヤーロフ・カザフ国立医科大学、アスタナ医科大学、\nリウマチ病院など診療現場や薬局　他\n◆対象…",
             "date_modified": "2023-11-06T03:00:00.000Z"
         }
     ]

@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/mkobayashime/twins-announcements</id>
     <title>在学生へのお知らせ | 筑波大学</title>
-    <updated>2023-11-10T07:10:46.545Z</updated>
+    <updated>2023-11-10T09:11:42.054Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://github.com/mkobayashime/twins-announcements"/>
     <subtitle>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</subtitle>
+    <entry>
+        <title type="html"><![CDATA[（再掲）【開催案内】「大学院教育改革フォーラム2023」について / "Forum for Graduate School Educational Reform 2023"（12/1-12/2）]]></title>
+        <id>b61349823ca4e96bc1b0f924ddd2cada</id>
+        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4549"/>
+        <updated>2023-11-10T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[筑波大学大学院教育改革フォーラム2023事務局（グローバル教育院）です。
+本学主催の「大学院教育改革フォーラム2023」の参加登録を受付中です（11/16(木)まで）。皆様のご参加をお待ちしています。
+We are pleased to inform you that our university will be hosting the "Forum for Graduate School Edu…]]></summary>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【謝礼あり・アンケート】「神経多様性に応じたチャットボットでのオペレーター対応がユーザに与える効果の検証」ご協力のお願い]]></title>
         <id>da48c90d6980ac69681d37b3a2744f61</id>
@@ -266,19 +275,5 @@ TOEICは今やビジネスでの英語力を測る指標として多くの場で
 留学先：ドイツ・ブランデンブルク工科大学コトブス＝ゼンフテンベルク校
 留学期間：2024年4月～2025年3月までの12ヵ月以内　
 　　　　　※少なくとも1学期間以上滞在することが望ましい。…]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[医学群、学群生必見！ 令和５年度「海外医療視察研修」参加者募集]]></title>
-        <id>3860143b895a2cb31855d4f27d79cab8</id>
-        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4518"/>
-        <updated>2023-11-06T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[筑波大学「日本財団　中央アジア・日本人材育成プロジェクト（NipCA）」では、
-医学群の学類生を対象にカザフスタンにおける「海外医療視察研修」を実施します。
-
-◆研修日程：令和6年3月10日（日）～20日（水）（移動日を含める）
-◆視察先（予定）：アルファラビ・カザフ国立大学医学部／薬学部、
-アスフェンディヤーロフ・カザフ国立医科大学、アスタナ医科大学、
-リウマチ病院など診療現場や薬局　他
-◆対象…]]></summary>
     </entry>
 </feed>
