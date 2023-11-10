@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "da48c90d6980ac69681d37b3a2744f61",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4548",
+            "title": "【謝礼あり・アンケート】「神経多様性に応じたチャットボットでのオペレーター対応がユーザに与える効果の検証」ご協力のお願い",
+            "summary": "筑波大学ヒューマンエンパワーメント推進局（BHE）では、日常生活の困りごとに対し、対処法を自動で提案するLINEチャットボット「ダボット：ダックスさんの相談室」を開発しています。\nこの度、人とチャットできる「ゆるっとおしゃべり」機能を加えるにあたり、筑波大学の学生で機能の効果検証の研究にご協力いただける方を募集します。\n\n以下の全ての条件に当てはまる方を募集します\n・現在、筑波大学に在籍している学…",
+            "date_modified": "2023-11-10T03:00:00.000Z"
+        },
+        {
             "id": "87b64835d05be89a67fdc45e2c778d6a",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4546",
             "title": "2023年度「海外英語研修II-c」（3単位、対面）　募集説明会",
@@ -135,13 +142,6 @@
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4518",
             "title": "医学群、学群生必見！ 令和５年度「海外医療視察研修」参加者募集",
             "summary": "筑波大学「日本財団　中央アジア・日本人材育成プロジェクト（NipCA）」では、\n医学群の学類生を対象にカザフスタンにおける「海外医療視察研修」を実施します。\n\n◆研修日程：令和6年3月10日（日）～20日（水）（移動日を含める）\n◆視察先（予定）：アルファラビ・カザフ国立大学医学部／薬学部、\nアスフェンディヤーロフ・カザフ国立医科大学、アスタナ医科大学、\nリウマチ病院など診療現場や薬局　他\n◆対象…",
-            "date_modified": "2023-11-06T03:00:00.000Z"
-        },
-        {
-            "id": "6b5418cc9a064d8077cdc252d929f19b",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4517",
-            "title": "（BHEキャリア支援）Teams内　キャリア支援情報発信チームのご案内",
-            "summary": "Teams内　キャリア支援情報発信チームのご案内\n\nBHEには、日々、各所から求人・インターンシップ、各種イベントなど、\n筑波大生に向けた案内が届きます。\nHPや学内掲示板では発信しきれない情報をタイムリーに発信していきます。\n6月に立ち上げ、現在900名の方が参加中です。\n卒業年度別や志望別のチャネルを設けていますので、ぜひ活用してください。\n\n【参加方法】\nチーム名「BHEキャリア支援チーム　…",
             "date_modified": "2023-11-06T03:00:00.000Z"
         }
     ]
