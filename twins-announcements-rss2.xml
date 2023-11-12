@@ -4,7 +4,7 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Sun, 12 Nov 2023 09:15:56 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 12 Nov 2023 15:16:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
@@ -88,25 +88,6 @@ AIを使ったライントレースのシミュレーションを通してAIの�
 特設ウェブページ& お申込みフォーム：　https://www.jetro.go.jp/form5/pub/ive/cd_2023
 
 日時：2023年1…]]></description>
-        </item>
-        <item>
-            <title><![CDATA[【参加者募集】大学スポーツシンポジウム -Future of College Sports in Japan-]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4524</link>
-            <guid>444411d8869ca6765c5f4e928d80bcf1</guid>
-            <pubDate>Fri, 10 Nov 2023 03:00:00 GMT</pubDate>
-            <description><![CDATA[11月15日(水)に「大学スポーツの価値」をテーマに、ハワイ大学と国内大学スポーツの有識者が登壇するシンポジウムを開催します。
-参加申込受付中です。ご興味のある方は是非ご参加ください。
-
-【申込フォーム】https://forms.gle/mmGTPrAw9bS9ccLE6
-　　　　　　　　※11月12日(日)締切
-
-
-
-＜日時＞
-2023年11月15日(水) 14:00-16:30
-
-＜場所＞
-…]]></description>
         </item>
         <item>
             <title><![CDATA[【BHE主催】11/24（金）15：15～16：30　就職ミライ博2023「業界研究会オンライン事前セミナー」開催案内]]></title>
@@ -291,6 +272,20 @@ HPや学内掲示板では発信しきれない情報をタイムリーに発信
 特設ウェブページ& お申込みフォーム：　https://www.jetro.go.jp/form5/pub/ive/cd_2023　
 
 日時：2023年…]]></description>
+        </item>
+        <item>
+            <title><![CDATA[本日開催！ロシア語・カザフ語短期語学研修（カザフスタン）オンライン説明会]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4515</link>
+            <guid>165057dea115c4f64da247f24f2ff61f</guid>
+            <pubDate>Mon, 06 Nov 2023 03:00:00 GMT</pubDate>
+            <description><![CDATA[本日11月6日（月）の18:00～18:30、標記の海外語学研修に関するオンライン説明会を開催します。
+関心のある方は時間になりましたら下記URLからご参加ください。
+
+▶︎研修期間（予定）：2024年2月16日（金）〜3月23日（金）
+▶︎研修地：カザフ国立大学（カザフスタン共和国アルマトイ市）
+▶︎対象：学群生、大学院生
+▶︎研修内容：ロシア語研修、カザフ語研修、異文化理解研修　等
+▶︎単位：…]]></description>
         </item>
     </channel>
 </rss>
