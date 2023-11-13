@@ -4,10 +4,23 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Mon, 13 Nov 2023 05:12:04 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 13 Nov 2023 07:11:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
+        <item>
+            <title><![CDATA[短期研修「南米ペルーに行ってみませんか？」11/20締切]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4558</link>
+            <guid>1dbc6c87c5429c89bcafbc6a09784a5a</guid>
+            <pubDate>Mon, 13 Nov 2023 03:00:00 GMT</pubDate>
+            <description><![CDATA[ペルーの文化を知ろう！現地学生と交流しよう！現地の日本企業（JICA, JETROなど）を訪問しよう！
+
+派遣先：ペルー・カトリカ大学（ペルー）
+派遣期間（予定）：2024年2月26日～3月8日　※渡航期間は2023年12月頃決定する予定です。
+募集人数：15名程度（最少催行人数：6名）　
+使用言語：英語及びスペイン語 *スペイン語の履修歴は問わない
+単位：2単位（国際パートナーシップ研修（中南米…]]></description>
+        </item>
         <item>
             <title><![CDATA[【Now On Sale】University of Tsukuba Homegame TSUKUBA LIVE!]]></title>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4557</link>
@@ -260,16 +273,6 @@ TOEICは今やビジネスでの英語力を測る指標として多くの場で
 株式会社東レシステムセンター　企画管理部　嘱託
 
 【開催日程と…]]></description>
-        </item>
-        <item>
-            <title><![CDATA[11/10（金）10：00-12：00「Business Leaders’ Seminar/ビジネスリーダーズセミナー」（対象：全学生）]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4521</link>
-            <guid>d99fd86dcdd0def6e94e822d3c0c4422</guid>
-            <pubDate>Mon, 06 Nov 2023 03:00:00 GMT</pubDate>
-            <description><![CDATA[ヒューマンバイオロジー学位プログラムでは授業の一環として「Business Leaders’ Seminar/ビジネスリーダーズセミナー」を開催しています。
-本セミナーは、世界のトップビジネスリーダーを招き、オムニバス形式でキャリア形成やビジネスに関する成功と失敗の話などの経験を紹介するものです。
-
-11月10日（金）10：00-12：00に開催するセミナーでは、英国勅許公認会計士であり、現在　テ…]]></description>
         </item>
     </channel>
 </rss>

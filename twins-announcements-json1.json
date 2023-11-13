@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "1dbc6c87c5429c89bcafbc6a09784a5a",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4558",
+            "title": "短期研修「南米ペルーに行ってみませんか？」11/20締切",
+            "summary": "ペルーの文化を知ろう！現地学生と交流しよう！現地の日本企業（JICA, JETROなど）を訪問しよう！\n\n派遣先：ペルー・カトリカ大学（ペルー）\n派遣期間（予定）：2024年2月26日～3月8日　※渡航期間は2023年12月頃決定する予定です。\n募集人数：15名程度（最少催行人数：6名）　\n使用言語：英語及びスペイン語 *スペイン語の履修歴は問わない\n単位：2単位（国際パートナーシップ研修（中南米…",
+            "date_modified": "2023-11-13T03:00:00.000Z"
+        },
+        {
             "id": "d70e4396aa8f1aff5f9ec675d222cc1d",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4557",
             "title": "【Now On Sale】University of Tsukuba Homegame TSUKUBA LIVE!",
@@ -136,13 +143,6 @@
             "title": "【BHE】11月8日開催（茗渓会）11月ぶっちゃけ相談会",
             "summary": "１１月は、食品と情報システムサービスというそれぞれの業界でご活躍をしているお二人が登場します。ぜひご参加ください！\n\n【登壇者No1】\n工学基礎学類　2009年卒、数理物質科学研究科 ２０１１年修了\nミツカン（株式会社Mizkan J plus Holdings）　品質環境部 主任\n\n【登壇者No2】\n第三学群 情報学類　１９８１年卒\n株式会社東レシステムセンター　企画管理部　嘱託\n\n【開催日程と…",
             "date_modified": "2023-11-07T03:00:00.000Z"
-        },
-        {
-            "id": "d99fd86dcdd0def6e94e822d3c0c4422",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4521",
-            "title": "11/10（金）10：00-12：00「Business Leaders’ Seminar/ビジネスリーダーズセミナー」（対象：全学生）",
-            "summary": "ヒューマンバイオロジー学位プログラムでは授業の一環として「Business Leaders’ Seminar/ビジネスリーダーズセミナー」を開催しています。\n本セミナーは、世界のトップビジネスリーダーを招き、オムニバス形式でキャリア形成やビジネスに関する成功と失敗の話などの経験を紹介するものです。\n\n11月10日（金）10：00-12：00に開催するセミナーでは、英国勅許公認会計士であり、現在　テ…",
-            "date_modified": "2023-11-06T03:00:00.000Z"
         }
     ]
 }
