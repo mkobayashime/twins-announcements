@@ -5,6 +5,20 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "f31ebf0b25d5668d643f917f27d9b2b5",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4555",
+            "title": "【再掲】11/15（18:00～）上野千鶴子氏講演会「道なき道の歩き方：女性学をつくる」（学生・教員対象）",
+            "summary": "TSUKUBA社会国際学初年次チュートリアルプログラムでは、11月15日（水）18時00分から公開講演会を開催いたします。講師は認定特定非営利活動法人　ウィメンズアクションネットワーク（WAN）理事長の上野千鶴子氏で、「道なき道の歩き方：女性学をつくる」という題目で講演していただきます。筑波大学の学生・大学院生でしたらどなたでもご参加いただけます。教員は聴講のみとなります。奮ってご参加下さい。\n\n…",
+            "date_modified": "2023-11-13T03:00:00.000Z"
+        },
+        {
+            "id": "c4261878422769719a0857ec3a2018c5",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4554",
+            "title": "【BHEイベント開催】大学院進学と就職を考えるセミナー（再掲）",
+            "summary": "本セミナーは、筑波大学のヒューマンエンパワーメント推進局キャリア支援チーム（以下BHE）とアカリクが協力して開催します。\n大学院進学か就職かで悩んでいる方はもちろん、すでに大学院進学を決めた方も、院進の心構えがわかるのでお勧めです！\n\n<前半：キャリア講演>\n大学院進学の意義や学部卒と院卒の違い、大学院生の就職事情についてお話しします。\n\n<後半：トークセッション>\n実際に迷って決断した先輩・アカ…",
+            "date_modified": "2023-11-13T03:00:00.000Z"
+        },
+        {
             "id": "ed09c7a0944032293fa993f06cb6350e",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4553",
             "title": "【参加者募集】第1回「日米韓グローバル・リーダーシップ・ユースサミット (US-ROK-Japan Trilateral Global Leadership Youth Summit)」",
@@ -128,20 +142,6 @@
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4518",
             "title": "医学群、学群生必見！ 令和５年度「海外医療視察研修」参加者募集",
             "summary": "筑波大学「日本財団　中央アジア・日本人材育成プロジェクト（NipCA）」では、\n医学群の学類生を対象にカザフスタンにおける「海外医療視察研修」を実施します。\n\n◆研修日程：令和6年3月10日（日）～20日（水）（移動日を含める）\n◆視察先（予定）：アルファラビ・カザフ国立大学医学部／薬学部、\nアスフェンディヤーロフ・カザフ国立医科大学、アスタナ医科大学、\nリウマチ病院など診療現場や薬局　他\n◆対象…",
-            "date_modified": "2023-11-06T03:00:00.000Z"
-        },
-        {
-            "id": "6b5418cc9a064d8077cdc252d929f19b",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4517",
-            "title": "（BHEキャリア支援）Teams内　キャリア支援情報発信チームのご案内",
-            "summary": "Teams内　キャリア支援情報発信チームのご案内\n\nBHEには、日々、各所から求人・インターンシップ、各種イベントなど、\n筑波大生に向けた案内が届きます。\nHPや学内掲示板では発信しきれない情報をタイムリーに発信していきます。\n6月に立ち上げ、現在900名の方が参加中です。\n卒業年度別や志望別のチャネルを設けていますので、ぜひ活用してください。\n\n【参加方法】\nチーム名「BHEキャリア支援チーム　…",
-            "date_modified": "2023-11-06T03:00:00.000Z"
-        },
-        {
-            "id": "592d7e0e0735c4b4d005092efbfebd52",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4516",
-            "title": "（BHE)JETRO Career Discovery 　外資系企業と大学のオンライン交流会のお知らせ",
-            "summary": "Career Discovery とは、日本で活躍する外資系企業と日本で学ぶ学生のオンライン交流会です。\n学生の皆さんの質問に様々な業種及び国籍の企業がお答えします。\n外資系企業でのキャリア形成に関心をお持ちの皆さんのご参加をお待ちしています。\n\n特設ウェブページ& お申込みフォーム：　https://www.jetro.go.jp/form5/pub/ive/cd_2023　\n\n日時：2023年…",
             "date_modified": "2023-11-06T03:00:00.000Z"
         }
     ]
