@@ -4,10 +4,18 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Sun, 12 Nov 2023 21:14:21 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 13 Nov 2023 01:53:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
+        <item>
+            <title><![CDATA[【参加者募集】第1回「日米韓グローバル・リーダーシップ・ユースサミット (US-ROK-Japan Trilateral Global Leadership Youth Summit)」]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4553</link>
+            <guid>ed09c7a0944032293fa993f06cb6350e</guid>
+            <pubDate>Mon, 13 Nov 2023 03:00:00 GMT</pubDate>
+            <description><![CDATA[下記の内容で、第一回「日米韓グローバル・リーダーシップ・ユースサミット」参加者募集の案内がありました。参加に興味がある方はURL先の案内をよく読み、申請するようにしてください。不明な点については、URL先の連絡先に各自問い合わせてください。
+There is an announcement about the call for participants for "US-ROK-Japan Tril…]]></description>
+        </item>
         <item>
             <title><![CDATA[（再掲）【開催案内】「大学院教育改革フォーラム2023」について / "Forum for Graduate School Educational Reform 2023"（12/1-12/2）]]></title>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4549</link>
@@ -94,13 +102,16 @@ AIを使ったライントレースのシミュレーションを通してAIの�
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4539</link>
             <guid>1c9f3c19db24b657fb53e440c45dcd63</guid>
             <pubDate>Thu, 09 Nov 2023 03:00:00 GMT</pubDate>
-            <description><![CDATA[Career Discovery とは、日本で活躍する外資系企業と日本で学ぶ学生のオンライン交流会です。
-学生の皆さんの質問に様々な業種及び国籍の企業がお答えします。
-外資系企業でのキャリア形成に関心をお持ちの皆さんのご参加をお待ちしています。
+            <description><![CDATA[筑波大学ヒューマンエンパワーメント推進局（BHE）主催の、就活イベント
+筑波大学就職ミライ博2023の「業界研究会」が
+12月１日（金）から土日を除く６日まで、４日間開催されます！
 
-特設ウェブページ& お申込みフォーム：　https://www.jetro.go.jp/form5/pub/ive/cd_2023
+出展企業は11月13日（月）から
+キャリア支援チームHPで順次公開予定！
 
-日時：2023年1…]]></description>
+そこで、イベントを最大活用するためのオンラインセミナーを開催いたします。
+就活イベントですが、対象は全学生です。1.2年生も大歓迎！
+カメラ…]]></description>
         </item>
         <item>
             <title><![CDATA[【BHE主催】11/24（金）15：15～16：30　就職ミライ博2023「業界研究会オンライン事前セミナー」開催案内]]></title>
@@ -269,20 +280,6 @@ HPや学内掲示板では発信しきれない情報をタイムリーに発信
 特設ウェブページ& お申込みフォーム：　https://www.jetro.go.jp/form5/pub/ive/cd_2023　
 
 日時：2023年…]]></description>
-        </item>
-        <item>
-            <title><![CDATA[本日開催！ロシア語・カザフ語短期語学研修（カザフスタン）オンライン説明会]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4515</link>
-            <guid>165057dea115c4f64da247f24f2ff61f</guid>
-            <pubDate>Mon, 06 Nov 2023 03:00:00 GMT</pubDate>
-            <description><![CDATA[本日11月6日（月）の18:00～18:30、標記の海外語学研修に関するオンライン説明会を開催します。
-関心のある方は時間になりましたら下記URLからご参加ください。
-
-▶︎研修期間（予定）：2024年2月16日（金）〜3月23日（金）
-▶︎研修地：カザフ国立大学（カザフスタン共和国アルマトイ市）
-▶︎対象：学群生、大学院生
-▶︎研修内容：ロシア語研修、カザフ語研修、異文化理解研修　等
-▶︎単位：…]]></description>
         </item>
     </channel>
 </rss>
