@@ -4,10 +4,23 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Mon, 13 Nov 2023 21:16:00 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 14 Nov 2023 00:51:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
+        <item>
+            <title><![CDATA[【BHE】（JETRO）11/17 Career Discovery ＿Online Networking Event for Students and Global Companies]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4559</link>
+            <guid>ca9f70c5c0b3e7735f23f53e24f7046f</guid>
+            <pubDate>Tue, 14 Nov 2023 03:00:00 GMT</pubDate>
+            <description><![CDATA[Career Discovery とは、日本で活躍する外資系企業と日本で学ぶ学生のオンライン交流会です。
+学生の皆さんの質問に様々な業種及び国籍の企業がお答えします。
+外資系企業でのキャリア形成に関心をお持ちの皆さんのご参加をお待ちしています。
+
+特設ウェブページ& お申込みフォーム：　https://www.jetro.go.jp/form5/pub/ive/cd_2023　
+
+日時：2023年…]]></description>
+        </item>
         <item>
             <title><![CDATA[短期研修「南米ペルーに行ってみませんか？」11/20締切]]></title>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4558</link>
@@ -256,23 +269,6 @@ TOEICは今やビジネスでの英語力を測る指標として多くの場で
 今回は、成人式・二十歳の集いを迎える学生へ向けたキャンペーンをお知らせします。
 大変お得ですので、是非ご利用ください。
 ※ご購入いただいた金額の一部が大学に寄附されます。]]></description>
-        </item>
-        <item>
-            <title><![CDATA[【BHE】11月8日開催（茗渓会）11月ぶっちゃけ相談会]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4522</link>
-            <guid>ad14c95a5def982ee7f022d1dfbb96af</guid>
-            <pubDate>Tue, 07 Nov 2023 03:00:00 GMT</pubDate>
-            <description><![CDATA[１１月は、食品と情報システムサービスというそれぞれの業界でご活躍をしているお二人が登場します。ぜひご参加ください！
-
-【登壇者No1】
-工学基礎学類　2009年卒、数理物質科学研究科 ２０１１年修了
-ミツカン（株式会社Mizkan J plus Holdings）　品質環境部 主任
-
-【登壇者No2】
-第三学群 情報学類　１９８１年卒
-株式会社東レシステムセンター　企画管理部　嘱託
-
-【開催日程と…]]></description>
         </item>
     </channel>
 </rss>
