@@ -4,10 +4,25 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Tue, 14 Nov 2023 00:51:18 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 14 Nov 2023 04:14:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
+        <item>
+            <title><![CDATA[【開催案内】令和５年度 筑波大学人文社会科学研究群公開講座 『マンガでトランスボーダー！ 大学でマンガを学ぶとは？』]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4560</link>
+            <guid>778f95af79cc96642c363036f0564774</guid>
+            <pubDate>Tue, 14 Nov 2023 03:00:00 GMT</pubDate>
+            <description><![CDATA[令和５年度 筑波大学人文社会科学研究群公開講座
+『マンガでトランスボーダー！ 大学でマンガを学ぶとは？』開催のお知らせです。
+
+開催日は2023年12月9日（土）10日（日）16日（土）の3日間。
+
+マンガ研究に関する講演に加え、受講生自身がマンガ研究と創作を体験するワークショップを実施します！
+
+開催場所は筑波大学（情報メディアユニオン1F会議室）。
+現地参加のほかにオンラインでの受講も可能です…]]></description>
+        </item>
         <item>
             <title><![CDATA[【BHE】（JETRO）11/17 Career Discovery ＿Online Networking Event for Students and Global Companies]]></title>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4559</link>
@@ -258,17 +273,6 @@ TOEICは今やビジネスでの英語力を測る指標として多くの場で
 ▶︎対象：学群生、大学院生（ロシア語未修者も応募可能）
 
 ▶︎研修内容：ロシア…]]></description>
-        </item>
-        <item>
-            <title><![CDATA[【成人式・二十歳の集いを迎える学生へ】スーツ等の割引サービスについて（11月7日更新）]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4526</link>
-            <guid>6c9fd8db14097ea3a093b13f5d1eee38</guid>
-            <pubDate>Tue, 07 Nov 2023 03:00:00 GMT</pubDate>
-            <description><![CDATA[本学は紳士服の大手4社と契約しています。
-そのため、在学生とそのご家族の皆様には、全国のAOKI、コナカ、はるやま、洋服の青山で、通常の割引価格から更に割引いた価格でスーツ等をご購入いただけます。
-今回は、成人式・二十歳の集いを迎える学生へ向けたキャンペーンをお知らせします。
-大変お得ですので、是非ご利用ください。
-※ご購入いただいた金額の一部が大学に寄附されます。]]></description>
         </item>
     </channel>
 </rss>

@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "778f95af79cc96642c363036f0564774",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4560",
+            "title": "【開催案内】令和５年度 筑波大学人文社会科学研究群公開講座 『マンガでトランスボーダー！ 大学でマンガを学ぶとは？』",
+            "summary": "令和５年度 筑波大学人文社会科学研究群公開講座\n『マンガでトランスボーダー！ 大学でマンガを学ぶとは？』開催のお知らせです。\n\n開催日は2023年12月9日（土）10日（日）16日（土）の3日間。\n\nマンガ研究に関する講演に加え、受講生自身がマンガ研究と創作を体験するワークショップを実施します！\n\n開催場所は筑波大学（情報メディアユニオン1F会議室）。\n現地参加のほかにオンラインでの受講も可能です…",
+            "date_modified": "2023-11-14T03:00:00.000Z"
+        },
+        {
             "id": "ca9f70c5c0b3e7735f23f53e24f7046f",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4559",
             "title": "【BHE】（JETRO）11/17 Career Discovery ＿Online Networking Event for Students and Global Companies",
@@ -135,13 +142,6 @@
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4527",
             "title": "【再掲載】ロシア語・カザフ語短期語学研修（カザフスタン） 2024年2月 参加者募集",
             "summary": "CiC協定大学 アルファラビ・カザフ国立大学への短期語学研修（派遣）を下記の日程にて開催することになりましたので、参加学生を募集します。\n\n研修内容：\n\n▶︎研修期間：2024年2月16日（金）〜3月23日（金）（35日間。移動日含む。変更の可能性あり）\n\n▶︎研修地：カザフ国立大学（カザフスタン共和国アルマトイ市）\n\n▶︎対象：学群生、大学院生（ロシア語未修者も応募可能）\n\n▶︎研修内容：ロシア…",
-            "date_modified": "2023-11-07T03:00:00.000Z"
-        },
-        {
-            "id": "6c9fd8db14097ea3a093b13f5d1eee38",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4526",
-            "title": "【成人式・二十歳の集いを迎える学生へ】スーツ等の割引サービスについて（11月7日更新）",
-            "summary": "本学は紳士服の大手4社と契約しています。\nそのため、在学生とそのご家族の皆様には、全国のAOKI、コナカ、はるやま、洋服の青山で、通常の割引価格から更に割引いた価格でスーツ等をご購入いただけます。\n今回は、成人式・二十歳の集いを迎える学生へ向けたキャンペーンをお知らせします。\n大変お得ですので、是非ご利用ください。\n※ご購入いただいた金額の一部が大学に寄附されます。",
             "date_modified": "2023-11-07T03:00:00.000Z"
         }
     ]
