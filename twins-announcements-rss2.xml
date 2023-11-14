@@ -4,10 +4,24 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Tue, 14 Nov 2023 05:11:22 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 14 Nov 2023 08:14:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
+        <item>
+            <title><![CDATA[第４３回つくばマラソン実施に伴う構内交通規制等について 【On-campus traffic control during the 43rd Tsukuba Marathon】]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4562</link>
+            <guid>d862a1e9aa24dbfc19aa9c444c405bcc</guid>
+            <pubDate>Tue, 14 Nov 2023 03:00:00 GMT</pubDate>
+            <description><![CDATA[令和５年１１月２６日（日）に「第４３回つくばマラソン」が実施されます。
+
+筑波大学構内がスタート及びゴール地点となるため、当日は６時３０分から１６時３０分頃まで構内ループ道路の交通規制が行われますのでご理解とご協力をお願いします。
+
+詳細につきましては、以下の交通規制マップ及びつくばマラソンホームページをご覧ください。
+
+
+The 43rd Tsukuba Marathon will be hel…]]></description>
+        </item>
         <item>
             <title><![CDATA[サーバー更新作業に伴うキャリア支援チームHP及び就職情報提供システム停止のお知らせ]]></title>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4561</link>
@@ -260,14 +274,6 @@ AIを使ったライントレースのシミュレーションを通してAIの�
 筑波大学に在籍する正規の大学院生を対象として、TOEIC IPテストを無料で実施します。
 TOEICは今やビジネスでの英語力を測る指標として多くの場で活用されています。
 特…]]></description>
-        </item>
-        <item>
-            <title><![CDATA[【参加者募集・再掲】12/7, 8 開催 エリートスポーツコーチング論]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4528</link>
-            <guid>30b7650712bb8357a6c6c9bf48b96058</guid>
-            <pubDate>Tue, 07 Nov 2023 03:00:00 GMT</pubDate>
-            <description><![CDATA[　このコースは一流競技者のパフォーマンス向上に関するコーチング、トレーニング理論及び方法を学び実践します。特に高強度トレーニング、ファンクショナルトレーニングの処方に焦点をあて、様々な最新トレーニング用具を活用する方法について学習し、特定の運動種目を対象としたトレーニングプログラムを作成します。
-　今回は、株式会社ワンダーイヤーズ代表の今井 亮介先生をお招きし、レクチャーしていただきます。大学院進…]]></description>
         </item>
     </channel>
 </rss>
