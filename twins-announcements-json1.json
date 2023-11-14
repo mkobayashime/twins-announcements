@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "c4644bcf459158630d930318307b336a",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4563",
+            "title": "【11月のSSC主催イベント情報】＠スチューデント・コモンズ（1A203）",
+            "summary": "スチューデントサポートセンターでは、様々なイベントを開催しています。\n開催場所はスチューデント・コモンズまたはグローバル・ビレッジになります。\n☆------☆------\n11/15（水）●ライトハウス　\n　　　アメリカインターンシップ in ロサンゼルス説明会（2024年2月渡航分）\n　　　①11:35～12:10　②18:15～18:55　スチューデント・コモンズ/対面\n\n11/16(木)　…",
+            "date_modified": "2023-11-14T03:00:00.000Z"
+        },
+        {
             "id": "d862a1e9aa24dbfc19aa9c444c405bcc",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4562",
             "title": "第４３回つくばマラソン実施に伴う構内交通規制等について 【On-campus traffic control during the 43rd Tsukuba Marathon】",
@@ -135,13 +142,6 @@
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4530",
             "title": "【開催案内】4th Borderless Onsite Meeting “Exploring Tajikistan’s Persian heritage”",
             "summary": "【開催案内】4th Borderless Onsite Meeting\n\nプレゼンター：ダブロノヴァ・ファランギス（NipCAフェロー2022）\n\n題目：Exploring Tajikistan’s Persian heritage\n\n日時：令和5年11月17日（金）12:20～13:10\n\n会場：筑波大学　スチューデントコモンズ（1A棟203）\n\n対象：全学教職員、留学生ほか\n\n使用言語：英語\n…",
-            "date_modified": "2023-11-07T03:00:00.000Z"
-        },
-        {
-            "id": "cd60dc1a2ca2085d77fb07b97d18a907",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4529",
-            "title": "再掲【受験者追加募集：180名まで】（大学院生対象）令和５年度TOEIC IPテストの実施について",
-            "summary": "9月に募集した大学院生対象TOEIC IPテストの受験者追加募集（180名まで）を行います。\n前回（9月募集）お申込みいただいた方は今回お申込みいただくことはできませんのでご了承ください。\n\n＊＊＊＊＊＊趣旨再掲＊＊＊＊＊＊＊\n筑波大学に在籍する正規の大学院生を対象として、TOEIC IPテストを無料で実施します。\nTOEICは今やビジネスでの英語力を測る指標として多くの場で活用されています。\n特…",
             "date_modified": "2023-11-07T03:00:00.000Z"
         }
     ]

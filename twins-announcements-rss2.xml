@@ -4,10 +4,24 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Tue, 14 Nov 2023 08:14:27 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 14 Nov 2023 09:11:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
+        <item>
+            <title><![CDATA[【11月のSSC主催イベント情報】＠スチューデント・コモンズ（1A203）]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4563</link>
+            <guid>c4644bcf459158630d930318307b336a</guid>
+            <pubDate>Tue, 14 Nov 2023 03:00:00 GMT</pubDate>
+            <description><![CDATA[スチューデントサポートセンターでは、様々なイベントを開催しています。
+開催場所はスチューデント・コモンズまたはグローバル・ビレッジになります。
+☆------☆------
+11/15（水）●ライトハウス　
+　　　アメリカインターンシップ in ロサンゼルス説明会（2024年2月渡航分）
+　　　①11:35～12:10　②18:15～18:55　スチューデント・コモンズ/対面
+
+11/16(木)　…]]></description>
+        </item>
         <item>
             <title><![CDATA[第４３回つくばマラソン実施に伴う構内交通規制等について 【On-campus traffic control during the 43rd Tsukuba Marathon】]]></title>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4562</link>
@@ -261,19 +275,6 @@ AIを使ったライントレースのシミュレーションを通してAIの�
 
 使用言語：英語
 …]]></description>
-        </item>
-        <item>
-            <title><![CDATA[再掲【受験者追加募集：180名まで】（大学院生対象）令和５年度TOEIC IPテストの実施について]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4529</link>
-            <guid>cd60dc1a2ca2085d77fb07b97d18a907</guid>
-            <pubDate>Tue, 07 Nov 2023 03:00:00 GMT</pubDate>
-            <description><![CDATA[9月に募集した大学院生対象TOEIC IPテストの受験者追加募集（180名まで）を行います。
-前回（9月募集）お申込みいただいた方は今回お申込みいただくことはできませんのでご了承ください。
-
-＊＊＊＊＊＊趣旨再掲＊＊＊＊＊＊＊
-筑波大学に在籍する正規の大学院生を対象として、TOEIC IPテストを無料で実施します。
-TOEICは今やビジネスでの英語力を測る指標として多くの場で活用されています。
-特…]]></description>
         </item>
     </channel>
 </rss>
