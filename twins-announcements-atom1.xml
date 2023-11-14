@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/mkobayashime/twins-announcements</id>
     <title>在学生へのお知らせ | 筑波大学</title>
-    <updated>2023-11-14T04:14:17.098Z</updated>
+    <updated>2023-11-14T05:11:22.588Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://github.com/mkobayashime/twins-announcements"/>
     <subtitle>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</subtitle>
+    <entry>
+        <title type="html"><![CDATA[サーバー更新作業に伴うキャリア支援チームHP及び就職情報提供システム停止のお知らせ]]></title>
+        <id>f7e5c4dc1ece4147cbde4ed3df16263e</id>
+        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4561"/>
+        <updated>2023-11-14T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[サーバー更新作業に伴い、下記の時間、キャリア支援チームホームページ等へ繋がりにくくなります。
+【作業日時】11/22（水）9：00　～　11/22（水）13：15（予定）
+
+なお、サーバー更新作業中は、「学内専用ページ」、「ガイダンス等及び模試試験登録・申請」、「進路進捗状況届」へのアクセスはできません。
+皆様にはご迷惑をおかけいたしますが、ご理解、ご協力の程よろしくお願いいたします。
+]]></summary>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【開催案内】令和５年度 筑波大学人文社会科学研究群公開講座 『マンガでトランスボーダー！ 大学でマンガを学ぶとは？』]]></title>
         <id>778f95af79cc96642c363036f0564774</id>
@@ -254,22 +266,5 @@ TOEICは今やビジネスでの英語力を測る指標として多くの場で
         <updated>2023-11-07T03:00:00.000Z</updated>
         <summary type="html"><![CDATA[　このコースは一流競技者のパフォーマンス向上に関するコーチング、トレーニング理論及び方法を学び実践します。特に高強度トレーニング、ファンクショナルトレーニングの処方に焦点をあて、様々な最新トレーニング用具を活用する方法について学習し、特定の運動種目を対象としたトレーニングプログラムを作成します。
 　今回は、株式会社ワンダーイヤーズ代表の今井 亮介先生をお招きし、レクチャーしていただきます。大学院進…]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【再掲載】ロシア語・カザフ語短期語学研修（カザフスタン） 2024年2月 参加者募集]]></title>
-        <id>dd9636324ccbafeff0dc9a36e8b201cf</id>
-        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4527"/>
-        <updated>2023-11-07T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[CiC協定大学 アルファラビ・カザフ国立大学への短期語学研修（派遣）を下記の日程にて開催することになりましたので、参加学生を募集します。
-
-研修内容：
-
-▶︎研修期間：2024年2月16日（金）〜3月23日（金）（35日間。移動日含む。変更の可能性あり）
-
-▶︎研修地：カザフ国立大学（カザフスタン共和国アルマトイ市）
-
-▶︎対象：学群生、大学院生（ロシア語未修者も応募可能）
-
-▶︎研修内容：ロシア…]]></summary>
     </entry>
 </feed>
