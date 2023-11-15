@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "5e46b69c566a3b25a2ef90baa9d3c1ad",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4565",
+            "title": "【ミライ博前夜祭　メディア、広告業界で勝てる⁈就活セミナーのご案内】",
+            "summary": "就活が不安じゃないですか？？\n面接でうまく話が伝わらないんじゃないか、ESってどうやって書けばいいんだろうかとお思いの皆さん\n元テレビ局アナウンサーが就活面接での喋り方を、メディア広告の人事部の方がESの書き方を教えてくださいます！！\nメディア広告業界以外に興味がある人も大歓迎です！！\nイベント後半では、テレビ番組の制作のことやアナウンサーの働き方など学生を交えてクロストークをします！！\nマスコミ…",
+            "date_modified": "2023-11-15T03:00:00.000Z"
+        },
+        {
             "id": "9ea82a8ec5421afb37be2c07288ad439",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4564",
             "title": "【再掲　本日開催】11/15（18:00～）上野千鶴子氏講演会「道なき道の歩き方：女性学をつくる」（学生・教員対象）",
@@ -133,13 +140,6 @@
         {
             "id": "1c9f3c19db24b657fb53e440c45dcd63",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4539",
-            "title": "【BHE主催】11/24（金）15：15～16：30　就職ミライ博2023「業界研究会オンライン事前セミナー」開催案内",
-            "summary": "筑波大学ヒューマンエンパワーメント推進局（BHE）主催の、就活イベント\n筑波大学就職ミライ博2023の「業界研究会」が\n12月１日（金）から土日を除く６日まで、４日間開催されます！\n\n出展企業は11月13日（月）から\nキャリア支援チームHPで順次公開予定！\n\nそこで、イベントを最大活用するためのオンラインセミナーを開催いたします。\n就活イベントですが、対象は全学生です。1.2年生も大歓迎！\nカメラ…",
-            "date_modified": "2023-11-09T03:00:00.000Z"
-        },
-        {
-            "id": "1c9f3c19db24b657fb53e440c45dcd63",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4538",
             "title": "【BHE主催】11/24（金）15：15～16：30　就職ミライ博2023「業界研究会オンライン事前セミナー」開催案内",
             "summary": "筑波大学ヒューマンエンパワーメント推進局（BHE）主催の、就活イベント\n筑波大学就職ミライ博2023の「業界研究会」が\n12月１日（金）から土日を除く６日まで、４日間開催されます！\n\n出展企業は11月13日（月）から\nキャリア支援チームHPで順次公開予定！\n\nそこで、イベントを最大活用するためのオンラインセミナーを開催いたします。\n就活イベントですが、対象は全学生です。1.2年生も大歓迎！\nカメラ…",
             "date_modified": "2023-11-09T03:00:00.000Z"
