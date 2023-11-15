@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/mkobayashime/twins-announcements</id>
     <title>在学生へのお知らせ | 筑波大学</title>
-    <updated>2023-11-14T21:13:09.172Z</updated>
+    <updated>2023-11-15T02:24:46.537Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://github.com/mkobayashime/twins-announcements"/>
     <subtitle>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</subtitle>
+    <entry>
+        <title type="html"><![CDATA[【再掲　本日開催】11/15（18:00～）上野千鶴子氏講演会「道なき道の歩き方：女性学をつくる」（学生・教員対象）]]></title>
+        <id>9ea82a8ec5421afb37be2c07288ad439</id>
+        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4564"/>
+        <updated>2023-11-15T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[TSUKUBA社会国際学初年次チュートリアルプログラムでは、11月15日（水）18時00分から公開講演会を開催いたします。講師は認定特定非営利活動法人　ウィメンズアクションネットワーク（WAN）理事長の上野千鶴子氏で、「道なき道の歩き方：女性学をつくる」という題目で講演していただきます。筑波大学の学生・大学院生でしたらどなたでもご参加いただけます。教員は聴講のみとなります。奮ってご参加下さい。
+
+…]]></summary>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【11月のSSC主催イベント情報】＠スチューデント・コモンズ（1A203）]]></title>
         <id>c4644bcf459158630d930318307b336a</id>
@@ -253,25 +262,5 @@ AIを使ったライントレースのシミュレーションを通してAIの�
 そこで、イベントを最大活用するためのオンラインセミナーを開催いたします。
 就活イベントですが、対象は全学生です。1.2年生も大歓迎！
 カメラ…]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【開催案内】4th Borderless Onsite Meeting “Exploring Tajikistan’s Persian heritage”]]></title>
-        <id>d0d4fd01908672a5b94b1f33210e4bba</id>
-        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4530"/>
-        <updated>2023-11-07T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[【開催案内】4th Borderless Onsite Meeting
-
-プレゼンター：ダブロノヴァ・ファランギス（NipCAフェロー2022）
-
-題目：Exploring Tajikistan’s Persian heritage
-
-日時：令和5年11月17日（金）12:20～13:10
-
-会場：筑波大学　スチューデントコモンズ（1A棟203）
-
-対象：全学教職員、留学生ほか
-
-使用言語：英語
-…]]></summary>
     </entry>
 </feed>
