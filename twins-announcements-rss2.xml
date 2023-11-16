@@ -4,10 +4,24 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Thu, 16 Nov 2023 06:15:51 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 16 Nov 2023 07:11:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
+        <item>
+            <title><![CDATA[本日開催！／CiC留学報告会]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4576</link>
+            <guid>e918e3459e536717c20f1d2ea885f840</guid>
+            <pubDate>Thu, 16 Nov 2023 03:00:00 GMT</pubDate>
+            <description><![CDATA[CiC協定校への留学を終えた学生による留学報告会の第2弾を本日開催します。
+
+さまざまな試練を乗り越えて留学をやり遂げた学生が、留学中にチャレンジした活動と成果を報告します。
+
+これから留学したいと考えている学生や現在留学している学生、学生の留学を支援してくださった教職員の皆様も、ぜひ対面またはオンラインでご参加ください！！
+
+開催日時：
+（① 2023年11月13日（月）18:15~20:15）…]]></description>
+        </item>
         <item>
             <title><![CDATA[[Seminar] "Frontiers of MDA Research (2nd)" 11/18 (Sat)]]></title>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4575</link>
@@ -223,20 +237,6 @@ The University of Tsukuba, 2022 Japan Volleyball Champion will go against 2022 U
 足を運んでみんなで応援しましょう！
 
 ◉ 残りわずかな席もございます…]]></description>
-        </item>
-        <item>
-            <title><![CDATA[【BHEイベント開催】大学院進学と就職を考えるセミナー（再掲）]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4554</link>
-            <guid>c4261878422769719a0857ec3a2018c5</guid>
-            <pubDate>Mon, 13 Nov 2023 03:00:00 GMT</pubDate>
-            <description><![CDATA[本セミナーは、筑波大学のヒューマンエンパワーメント推進局キャリア支援チーム（以下BHE）とアカリクが協力して開催します。
-大学院進学か就職かで悩んでいる方はもちろん、すでに大学院進学を決めた方も、院進の心構えがわかるのでお勧めです！
-
-<前半：キャリア講演>
-大学院進学の意義や学部卒と院卒の違い、大学院生の就職事情についてお話しします。
-
-<後半：トークセッション>
-実際に迷って決断した先輩・アカ…]]></description>
         </item>
     </channel>
 </rss>

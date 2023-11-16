@@ -2,10 +2,24 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/mkobayashime/twins-announcements</id>
     <title>在学生へのお知らせ | 筑波大学</title>
-    <updated>2023-11-16T06:15:51.020Z</updated>
+    <updated>2023-11-16T07:11:19.344Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://github.com/mkobayashime/twins-announcements"/>
     <subtitle>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</subtitle>
+    <entry>
+        <title type="html"><![CDATA[本日開催！／CiC留学報告会]]></title>
+        <id>e918e3459e536717c20f1d2ea885f840</id>
+        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4576"/>
+        <updated>2023-11-16T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[CiC協定校への留学を終えた学生による留学報告会の第2弾を本日開催します。
+
+さまざまな試練を乗り越えて留学をやり遂げた学生が、留学中にチャレンジした活動と成果を報告します。
+
+これから留学したいと考えている学生や現在留学している学生、学生の留学を支援してくださった教職員の皆様も、ぜひ対面またはオンラインでご参加ください！！
+
+開催日時：
+（① 2023年11月13日（月）18:15~20:15）…]]></summary>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[Seminar] "Frontiers of MDA Research (2nd)" 11/18 (Sat)]]></title>
         <id>3a30608e9c037063da6aea6ce298acae</id>
@@ -221,19 +235,5 @@ The University of Tsukuba, 2022 Japan Volleyball Champion will go against 2022 U
 足を運んでみんなで応援しましょう！
 
 ◉ 残りわずかな席もございます…]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【BHEイベント開催】大学院進学と就職を考えるセミナー（再掲）]]></title>
-        <id>c4261878422769719a0857ec3a2018c5</id>
-        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4554"/>
-        <updated>2023-11-13T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[本セミナーは、筑波大学のヒューマンエンパワーメント推進局キャリア支援チーム（以下BHE）とアカリクが協力して開催します。
-大学院進学か就職かで悩んでいる方はもちろん、すでに大学院進学を決めた方も、院進の心構えがわかるのでお勧めです！
-
-<前半：キャリア講演>
-大学院進学の意義や学部卒と院卒の違い、大学院生の就職事情についてお話しします。
-
-<後半：トークセッション>
-実際に迷って決断した先輩・アカ…]]></summary>
     </entry>
 </feed>

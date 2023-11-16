@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "e918e3459e536717c20f1d2ea885f840",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4576",
+            "title": "本日開催！／CiC留学報告会",
+            "summary": "CiC協定校への留学を終えた学生による留学報告会の第2弾を本日開催します。\n\nさまざまな試練を乗り越えて留学をやり遂げた学生が、留学中にチャレンジした活動と成果を報告します。\n\nこれから留学したいと考えている学生や現在留学している学生、学生の留学を支援してくださった教職員の皆様も、ぜひ対面またはオンラインでご参加ください！！\n\n開催日時：\n（① 2023年11月13日（月）18:15~20:15）…",
+            "date_modified": "2023-11-16T03:00:00.000Z"
+        },
+        {
             "id": "3a30608e9c037063da6aea6ce298acae",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4575",
             "title": "[Seminar] \"Frontiers of MDA Research (2nd)\" 11/18 (Sat)",
@@ -135,13 +142,6 @@
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4556",
             "title": "再掲【開催案内】筑波大学ホームゲームTSUKUBA LIVE!",
             "summary": "史上初の歴史的瞬間が迫っています！\n11月15日（水）に開催される筑波大学ホームゲームTSUKUBA LIVE!では、\n全米王者であるハワイ大学を筑波大学男子バレーボール部が迎え撃ちます。\n\n同じ筑波大学の仲間である男子バレーボール部が史上最大の挑戦に挑みます。\n皆さんの熱い声援が男子バレーボール部の力となりますので、是非会場に\n足を運んでみんなで応援しましょう！\n\n◉ 残りわずかな席もございます…",
-            "date_modified": "2023-11-13T03:00:00.000Z"
-        },
-        {
-            "id": "c4261878422769719a0857ec3a2018c5",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4554",
-            "title": "【BHEイベント開催】大学院進学と就職を考えるセミナー（再掲）",
-            "summary": "本セミナーは、筑波大学のヒューマンエンパワーメント推進局キャリア支援チーム（以下BHE）とアカリクが協力して開催します。\n大学院進学か就職かで悩んでいる方はもちろん、すでに大学院進学を決めた方も、院進の心構えがわかるのでお勧めです！\n\n<前半：キャリア講演>\n大学院進学の意義や学部卒と院卒の違い、大学院生の就職事情についてお話しします。\n\n<後半：トークセッション>\n実際に迷って決断した先輩・アカ…",
             "date_modified": "2023-11-13T03:00:00.000Z"
         }
     ]
