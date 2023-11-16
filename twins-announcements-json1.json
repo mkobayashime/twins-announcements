@@ -5,6 +5,27 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "3a30608e9c037063da6aea6ce298acae",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4575",
+            "title": "[Seminar] \"Frontiers of MDA Research (2nd)\" 11/18 (Sat)",
+            "summary": "MDA Interdisciplinary Collaborative/Integrated Seminar \"Frontier of MDA Research (2nd)\" will be held on November 18 (Sat) from 1:00 p.m.\nYou can participate in individual sessions without registering …",
+            "date_modified": "2023-11-16T03:00:00.000Z"
+        },
+        {
+            "id": "3a30608e9c037063da6aea6ce298acae",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4574",
+            "title": "[Seminar] \"Frontiers of MDA Research (2nd)\" 11/18 (Sat)",
+            "summary": "MDA Interdisciplinary Collaborative/Integrated Seminar \"Frontier of MDA Research (2nd)\" will be held on November 18 (Sat) from 1:00 p.m.\nYou can participate in individual sessions without registering …",
+            "date_modified": "2023-11-16T03:00:00.000Z"
+        },
+        {
+            "id": "28b0473c2ee62691f2edccb0b2dc4a1d",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4573",
+            "title": "11/20締切! 短期研修「南米ペルーに行ってみませんか？」",
+            "summary": "ペルーの文化を知ろう！現地学生と交流しよう！現地の日本企業（JICA, JETROなど）を訪問しよう！\n\n派遣先：ペルー・カトリカ大学（ペルー）\n派遣期間（予定）：2024年2月26日～3月8日　※渡航期間は2023年12月頃決定する予定です。\n募集人数：15名程度（最少催行人数：6名）　\n使用言語：英語及びスペイン語 *スペイン語の履修歴は問わない\n単位：2単位（国際パートナーシップ研修（中南米…",
+            "date_modified": "2023-11-16T03:00:00.000Z"
+        },
+        {
             "id": "686e7dc3e1a7badfe8e757067c01acf6",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4572",
             "title": "（再掲）【11月】筑波大学BHEセーファースペース「KiteKite（きてきて）」の実施について",
@@ -122,27 +143,6 @@
             "title": "【BHEイベント開催】大学院進学と就職を考えるセミナー（再掲）",
             "summary": "本セミナーは、筑波大学のヒューマンエンパワーメント推進局キャリア支援チーム（以下BHE）とアカリクが協力して開催します。\n大学院進学か就職かで悩んでいる方はもちろん、すでに大学院進学を決めた方も、院進の心構えがわかるのでお勧めです！\n\n<前半：キャリア講演>\n大学院進学の意義や学部卒と院卒の違い、大学院生の就職事情についてお話しします。\n\n<後半：トークセッション>\n実際に迷って決断した先輩・アカ…",
             "date_modified": "2023-11-13T03:00:00.000Z"
-        },
-        {
-            "id": "ed09c7a0944032293fa993f06cb6350e",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4553",
-            "title": "【参加者募集】第1回「日米韓グローバル・リーダーシップ・ユースサミット (US-ROK-Japan Trilateral Global Leadership Youth Summit)」",
-            "summary": "下記の内容で、第一回「日米韓グローバル・リーダーシップ・ユースサミット」参加者募集の案内がありました。参加に興味がある方はURL先の案内をよく読み、申請するようにしてください。不明な点については、URL先の連絡先に各自問い合わせてください。\nThere is an announcement about the call for participants for \"US-ROK-Japan Tril…",
-            "date_modified": "2023-11-13T03:00:00.000Z"
-        },
-        {
-            "id": "b61349823ca4e96bc1b0f924ddd2cada",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4549",
-            "title": "（再掲）【開催案内】「大学院教育改革フォーラム2023」について / \"Forum for Graduate School Educational Reform 2023\"（12/1-12/2）",
-            "summary": "筑波大学大学院教育改革フォーラム2023事務局（グローバル教育院）です。\n本学主催の「大学院教育改革フォーラム2023」の参加登録を受付中です（11/16(木)まで）。皆様のご参加をお待ちしています。\nWe are pleased to inform you that our university will be hosting the \"Forum for Graduate School Edu…",
-            "date_modified": "2023-11-10T03:00:00.000Z"
-        },
-        {
-            "id": "da48c90d6980ac69681d37b3a2744f61",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4548",
-            "title": "【謝礼あり・アンケート】「神経多様性に応じたチャットボットでのオペレーター対応がユーザに与える効果の検証」ご協力のお願い",
-            "summary": "筑波大学ヒューマンエンパワーメント推進局（BHE）では、日常生活の困りごとに対し、対処法を自動で提案するLINEチャットボット「ダボット：ダックスさんの相談室」を開発しています。\nこの度、人とチャットできる「ゆるっとおしゃべり」機能を加えるにあたり、筑波大学の学生で機能の効果検証の研究にご協力いただける方を募集します。\n\n以下の全ての条件に当てはまる方を募集します\n・現在、筑波大学に在籍している学…",
-            "date_modified": "2023-11-10T03:00:00.000Z"
         }
     ]
 }
