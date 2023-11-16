@@ -2,10 +2,24 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/mkobayashime/twins-announcements</id>
     <title>在学生へのお知らせ | 筑波大学</title>
-    <updated>2023-11-15T21:16:09.254Z</updated>
+    <updated>2023-11-16T00:53:05.557Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://github.com/mkobayashime/twins-announcements"/>
     <subtitle>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</subtitle>
+    <entry>
+        <title type="html"><![CDATA[明日開催　外資系企業【BHE】（JETRO） Career Discovery]]></title>
+        <id>64a9920e1a277fc108db7b6a58fbf760</id>
+        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4566"/>
+        <updated>2023-11-16T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Career Discovery とは、日本で活躍する外資系企業と日本で学ぶ学生のオンライン交流会です。
+学生の皆さんの質問に様々な業種及び国籍の企業がお答えします。
+外資系企業でのキャリア形成に関心をお持ちの皆さんのご参加をお待ちしています。
+
+日時：2023年11月17日（金）16：00〜18：30
+スケジュール（予定）：
+16:00〜16:05  主催者挨拶、事務局からの説明
+16:05〜1…]]></summary>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【ミライ博前夜祭　メディア、広告業界で勝てる⁈就活セミナーのご案内】]]></title>
         <id>5e46b69c566a3b25a2ef90baa9d3c1ad</id>
@@ -256,25 +270,5 @@ AIを使ったライントレースのシミュレーションを通してAIの�
 そこで、イベントを最大活用するためのオンラインセミナーを開催いたします。
 就活イベントですが、対象は全学生です。1.2年生も大歓迎！
 カメラ…]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【開催案内】4th Borderless Onsite Meeting “Exploring Tajikistan’s Persian heritage”]]></title>
-        <id>d0d4fd01908672a5b94b1f33210e4bba</id>
-        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4530"/>
-        <updated>2023-11-07T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[【開催案内】4th Borderless Onsite Meeting
-
-プレゼンター：ダブロノヴァ・ファランギス（NipCAフェロー2022）
-
-題目：Exploring Tajikistan’s Persian heritage
-
-日時：令和5年11月17日（金）12:20～13:10
-
-会場：筑波大学　スチューデントコモンズ（1A棟203）
-
-対象：全学教職員、留学生ほか
-
-使用言語：英語
-…]]></summary>
     </entry>
 </feed>
