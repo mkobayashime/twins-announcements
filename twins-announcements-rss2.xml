@@ -4,10 +4,24 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Thu, 16 Nov 2023 21:15:57 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 17 Nov 2023 01:54:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
+        <item>
+            <title><![CDATA[公益財団法人　佐藤陽国際奨学財団 （春募集）]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4582</link>
+            <guid>b5c326bf2e384c7134d58d536f285133</guid>
+            <pubDate>Fri, 17 Nov 2023 03:00:00 GMT</pubDate>
+            <description><![CDATA[公益財団法人　佐藤陽国際奨学財団 （春募集）
+応募フォーム入力期限：2023年12月15日（金）正午
+応募書類提出期限：2023年12月19日(火)　正午
+提出先　：学生交流課　事務室（1A棟101）
+募集要項：(PDF(資料1))
+申請書等：(PDF(資料2))
+申請フロー・応募フォームの入力について：(PDF(資料3))
+財団HP：（https://sisf.or.jp/ja/about_ap…]]></description>
+        </item>
         <item>
             <title><![CDATA[Call for JEES・Toyotatsusho Scholarship 2024]]></title>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4581</link>
@@ -223,21 +237,6 @@ The 43rd Tsukuba Marathon will be hel…]]></description>
 なお、サーバー更新作業中は、「学内専用ページ」、「ガイダンス等及び模試試験登録・申請」、「進路進捗状況届」へのアクセスはできません。
 皆様にはご迷惑をおかけいたしますが、ご理解、ご協力の程よろしくお願いいたします。
 ]]></description>
-        </item>
-        <item>
-            <title><![CDATA[【開催案内】令和５年度 筑波大学人文社会科学研究群公開講座 『マンガでトランスボーダー！ 大学でマンガを学ぶとは？』]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4560</link>
-            <guid>778f95af79cc96642c363036f0564774</guid>
-            <pubDate>Tue, 14 Nov 2023 03:00:00 GMT</pubDate>
-            <description><![CDATA[令和５年度 筑波大学人文社会科学研究群公開講座
-『マンガでトランスボーダー！ 大学でマンガを学ぶとは？』開催のお知らせです。
-
-開催日は2023年12月9日（土）10日（日）16日（土）の3日間。
-
-マンガ研究に関する講演に加え、受講生自身がマンガ研究と創作を体験するワークショップを実施します！
-
-開催場所は筑波大学（情報メディアユニオン1F会議室）。
-現地参加のほかにオンラインでの受講も可能です…]]></description>
         </item>
     </channel>
 </rss>
