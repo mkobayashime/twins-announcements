@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "a6d87d8f41538a6dbf6129aede065578",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4586",
+            "title": "11/20締切!!! 短期研修「南米ペルーに行ってみませんか？」",
+            "summary": "ペルーの文化を知ろう！現地学生と交流しよう！現地の日本企業（JICA, JETROなど）を訪問しよう！\n\n派遣先：ペルー・カトリカ大学（ペルー）\n派遣期間（予定）：2024年2月26日～3月8日　※渡航期間は2023年12月頃決定する予定です。\n募集人数：15名程度（最少催行人数：6名）　\n使用言語：英語及びスペイン語 *スペイン語の履修歴は問わない\n単位：2単位（国際パートナーシップ研修（中南米…",
+            "date_modified": "2023-11-17T03:00:00.000Z"
+        },
+        {
             "id": "2ff8f9db5c3bc6c30014aa38345dcc26",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4585",
             "title": "第４５回　現代語・現代文化フォーラム",
@@ -136,13 +143,6 @@
             "title": "明日開催　外資系企業【BHE】（JETRO） Career Discovery",
             "summary": "Career Discovery とは、日本で活躍する外資系企業と日本で学ぶ学生のオンライン交流会です。\n学生の皆さんの質問に様々な業種及び国籍の企業がお答えします。\n外資系企業でのキャリア形成に関心をお持ちの皆さんのご参加をお待ちしています。\n\n日時：2023年11月17日（金）16：00〜18：30\nスケジュール（予定）：\n16:00〜16:05  主催者挨拶、事務局からの説明\n16:05〜1…",
             "date_modified": "2023-11-16T03:00:00.000Z"
-        },
-        {
-            "id": "5e46b69c566a3b25a2ef90baa9d3c1ad",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4565",
-            "title": "【ミライ博前夜祭　メディア、広告業界で勝てる⁈就活セミナーのご案内】",
-            "summary": "就活が不安じゃないですか？？\n面接でうまく話が伝わらないんじゃないか、ESってどうやって書けばいいんだろうかとお思いの皆さん\n元テレビ局アナウンサーが就活面接での喋り方を、メディア広告の人事部の方がESの書き方を教えてくださいます！！\nメディア広告業界以外に興味がある人も大歓迎です！！\nイベント後半では、テレビ番組の制作のことやアナウンサーの働き方など学生を交えてクロストークをします！！\nマスコミ…",
-            "date_modified": "2023-11-15T03:00:00.000Z"
         }
     ]
 }
