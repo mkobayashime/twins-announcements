@@ -4,10 +4,21 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Fri, 17 Nov 2023 01:54:38 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 17 Nov 2023 03:12:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
+        <item>
+            <title><![CDATA[全学生対象‼【12/1(金),4(月)～6(水)】筑波大学ミライ博／業界研究会 出展企業のご案内（BHEキャリア支援チーム）]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4583</link>
+            <guid>74e0e128d18601b623be6d049ec02acb</guid>
+            <pubDate>Fri, 17 Nov 2023 03:00:00 GMT</pubDate>
+            <description><![CDATA[ソニーや楽天、小学館、産総研、防衛省といった筑波大生と会いたい230社の企業・団体が集まります。
+前夜祭には「マスコミ・広告業界」のOBOGによるセミナーがあります。
+筑波大OBOGとの交流、これからインターンシップや就活を考える学生には絶好の機会です。
+公務員受験指導の大手企業も相談員として2日間参加します。民間・進学・公務員を目指す学生はこの機会に「しごと探求」をして視野を広げましょう！
+（対…]]></description>
+        </item>
         <item>
             <title><![CDATA[公益財団法人　佐藤陽国際奨学財団 （春募集）]]></title>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4582</link>
@@ -225,18 +236,6 @@ KiteKiteは、年…]]></description>
 
 
 The 43rd Tsukuba Marathon will be hel…]]></description>
-        </item>
-        <item>
-            <title><![CDATA[サーバー更新作業に伴うキャリア支援チームHP及び就職情報提供システム停止のお知らせ]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4561</link>
-            <guid>f7e5c4dc1ece4147cbde4ed3df16263e</guid>
-            <pubDate>Tue, 14 Nov 2023 03:00:00 GMT</pubDate>
-            <description><![CDATA[サーバー更新作業に伴い、下記の時間、キャリア支援チームホームページ等へ繋がりにくくなります。
-【作業日時】11/22（水）9：00　～　11/22（水）13：15（予定）
-
-なお、サーバー更新作業中は、「学内専用ページ」、「ガイダンス等及び模試試験登録・申請」、「進路進捗状況届」へのアクセスはできません。
-皆様にはご迷惑をおかけいたしますが、ご理解、ご協力の程よろしくお願いいたします。
-]]></description>
         </item>
     </channel>
 </rss>
