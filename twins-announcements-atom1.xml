@@ -2,10 +2,17 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/mkobayashime/twins-announcements</id>
     <title>在学生へのお知らせ | 筑波大学</title>
-    <updated>2023-11-20T09:19:23.448Z</updated>
+    <updated>2023-11-20T10:13:33.117Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://github.com/mkobayashime/twins-announcements"/>
     <subtitle>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</subtitle>
+    <entry>
+        <title type="html"><![CDATA[Nov21th(Tue) J-Chat～SCであそぼ～(みごホウキ）]]></title>
+        <id>4f7aacce3807e974a6b9184a6e8bfe60</id>
+        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4591"/>
+        <updated>2023-11-20T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[“J-Chat～SCであそぼ～” is a face-to-face Japanese chat event that connects international students with Japanese students. You can chill and chat in Japanese while enjoying cultural workshops, at the SC (Stu…]]></summary>
+    </entry>
     <entry>
         <title type="html"><![CDATA[空き枠あり！　11月22日　BHE主催　就活支援企画　チャレンジ実践会]]></title>
         <id>e4378810ebfa291e8bc67422f5f8d988</id>
@@ -244,19 +251,5 @@ KiteKiteは、年…]]></summary>
 春季休暇期間にかかる２月から３月にかけての３５日間（2/16～3/23）の期間で実施します。
 研修内容：「ロシア語研修」「カザフ語研修」「異文化理解研修（学生交流、ホームステイ等）」
 「オプション　見学旅行（タンバルタス遺跡、チャリンキャニオン等）」など]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[明日開催　外資系企業【BHE】（JETRO） Career Discovery]]></title>
-        <id>64a9920e1a277fc108db7b6a58fbf760</id>
-        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4566"/>
-        <updated>2023-11-16T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Career Discovery とは、日本で活躍する外資系企業と日本で学ぶ学生のオンライン交流会です。
-学生の皆さんの質問に様々な業種及び国籍の企業がお答えします。
-外資系企業でのキャリア形成に関心をお持ちの皆さんのご参加をお待ちしています。
-
-日時：2023年11月17日（金）16：00〜18：30
-スケジュール（予定）：
-16:00〜16:05  主催者挨拶、事務局からの説明
-16:05〜1…]]></summary>
     </entry>
 </feed>
