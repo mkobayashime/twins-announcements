@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "439a62a5fddb020eb19a186efb04e4a5",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4600",
+            "title": "【トビタテOB/OGによる相談会】～トビタテ！留学JAPAN新・日本代表プログラム～　 2024年度（第16期）応募希望学生対象",
+            "summary": "トビタテ！留学JAPAN新・日本代表プログラム【大学生等対象】2024年度（第16期）の応募希望学生を対象に、トビタテOB/OGによる相談会が実施されます。\n\nオンライン相談会では、「トビタテ！留学JAPAN日本代表プログラム【大学生等コース】」（旧制度）で留学を経験した先輩トビタテ生と話をすることができます。ぜひ応募希望者には奮ってご参加いただき、先輩トビタテ生の体験談を参考にして留学計画を作成…",
+            "date_modified": "2023-11-21T03:00:00.000Z"
+        },
+        {
             "id": "4d8964e0726152715b2c982badbfa156",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4599",
             "title": "【ご案内】 「筑波大学システム情報工学関連 業界研究セミナー2023」(11/28・29・30)",
@@ -135,13 +142,6 @@
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4578",
             "title": "令和6年度 生命保険協会留学生奨学金募集について",
             "summary": "令和6年度 生命保険協会留学生奨学金\n\n*応募期限：2023年12月1日（金）17時厳守\n*提 出 先：学生部学生交流課（1A101）※提出書類をisc-shien#un.tsukuba.ac.jpへ提出してください。\n（＃を＠に替えてください）\n\n※金融業界、特に生命保険に関心のある者（専攻は問わない）。\n※応募者多数の場合は学内選考の上、2名を財団へ推薦します。\n※今回選考された者は、他の学内…",
-            "date_modified": "2023-11-16T03:00:00.000Z"
-        },
-        {
-            "id": "279066b047916d4e4c381ce94e67edf0",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4577",
-            "title": "令和6年度　JEES・豊田通商奨学生募集について",
-            "summary": "令和6年度 JEES・豊田通商留学生奨学金（外国人留学生向け）\n\n*応募期限：2023年11月28日（火）17時厳守\n*提 出 先：学生部学生交流課（1A101）※提出書類をisc-shien#un.tsukuba.ac.jpへ提出してください。\n（＃を＠に替えてください）\n※応募者多数の場合は学内選考の上、３名を財団へ推薦します。\n※今回選考された者は、他の学内の奨学金には推薦されません。また、…",
             "date_modified": "2023-11-16T03:00:00.000Z"
         }
     ]
