@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/mkobayashime/twins-announcements</id>
     <title>在学生へのお知らせ | 筑波大学</title>
-    <updated>2023-11-21T00:53:44.823Z</updated>
+    <updated>2023-11-21T01:58:28.361Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://github.com/mkobayashime/twins-announcements"/>
     <subtitle>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</subtitle>
+    <entry>
+        <title type="html"><![CDATA[【周知】「優れた外国語活動」認定制度について　申請締切：令和６年１月３１日（水）]]></title>
+        <id>122a6d532cc5600f3d90b4ecf37c417c</id>
+        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4594"/>
+        <updated>2023-11-21T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[　グローバルコミュニケーション教育センター（通称CEGLOC）では、学生の皆さんの意欲的で、自主的な外国語活動を独自評価する「優れた外国語活動」認定制度を設置しています。
+学群、大学院は問いませんので、以下に該当するかなと思われる方は、是非申請してみてください。
+留学生の日本語活動も対象です。
+詳細はCEGLOCのホームページをご覧ください。
+皆さんからの積極的な応募をお待ちしています。
+
+●外国…]]></summary>
+    </entry>
     <entry>
         <title type="html"><![CDATA[(BHE)（筑波大生限定）東京リーガルマインド　公務員模試専用eクーポン]]></title>
         <id>d9ce886fceace1285ee5b7939ec404f3</id>
@@ -234,15 +247,5 @@ KiteKiteは、年…]]></summary>
         <summary type="html"><![CDATA[学生の皆様、教職員の皆様
 
 このたび社会・国際学群チュートリアルプログラムでは、オンラインによる公開講演会を開催いたします。講師は、特定非営利活動法人APLA（Alternative People’s  Linkage in Asia）事務局長の野川未央氏で、『インドネシアの伝統的エビ養殖農家と歩んだ30年－エコシュリンプ民衆交易事業の歴史を振り返る』というタイトルで講演を行っていただきます。皆様…]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[「海外語学研修ロシア語C」参加学生募集の案内（カザフスタン、CiC協定大学のアルファラビ・カザフ国立大学、2024年2月16日（金）〜3月23日（火）35日間）について]]></title>
-        <id>1b410419a67cc5bf4b511ba2caab217a</id>
-        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4567"/>
-        <updated>2023-11-16T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[カザフスタンでの春季ロシア語研修を開催することにないましたので、参加学生を募集します。
-春季休暇期間にかかる２月から３月にかけての３５日間（2/16～3/23）の期間で実施します。
-研修内容：「ロシア語研修」「カザフ語研修」「異文化理解研修（学生交流、ホームステイ等）」
-「オプション　見学旅行（タンバルタス遺跡、チャリンキャニオン等）」など]]></summary>
     </entry>
 </feed>
