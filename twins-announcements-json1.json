@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "309dcaf61d5ba2f7c4b75eec71aa0360",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4604",
+            "title": "12/6（16:45～）金塚氏講演会「スーパーシティの取組とインターネット投票」（学生・教員対象）",
+            "summary": "TSUKUBA社会国際学初年次チュートリアルプログラムでは、12月6日（水）16時45分から公開講演会を開催いたします。講師はつくば市政策イノベーション部　科学技術戦略課の金塚安伸氏で、「スーパーシティの取組とインターネット投票」という題目で講演していただきます。筑波大学の学生・教員でしたらどなたでもご参加いただけます。奮ってご参加下さい。\n\n「政治学の最前線チュートリアル」主催講演会\n日時：12…",
+            "date_modified": "2023-11-22T03:00:00.000Z"
+        },
+        {
             "id": "b3a22a131af7525463e1f04f90053fe9",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4603",
             "title": "2023年度「海外英語研修II-c」（オーストラリア、対面）　参加者募集",
@@ -136,13 +143,6 @@
             "title": "公益財団法人　佐藤陽国際奨学財団 （春募集）",
             "summary": "公益財団法人　佐藤陽国際奨学財団 （春募集）\n応募フォーム入力期限：2023年12月15日（金）正午\n応募書類提出期限：2023年12月19日(火)　正午\n提出先　：学生交流課　事務室（1A棟101）\n募集要項：(PDF(資料1))\n申請書等：(PDF(資料2))\n申請フロー・応募フォームの入力について：(PDF(資料3))\n財団HP：（https://sisf.or.jp/ja/about_ap…",
             "date_modified": "2023-11-17T03:00:00.000Z"
-        },
-        {
-            "id": "47448f2b9025bec344bd344a1b7b48f5",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4581",
-            "title": "Call for JEES・Toyotatsusho Scholarship 2024",
-            "summary": "JEES・Toyotatsusho Scholarship 2024 for International Students\nDeadline: November 28th  5pm, 2023\nSubmission: Division of Student Exchange (1A101)\n＊Submit required documents to isc-shien＃un.tsukuba.ac.…",
-            "date_modified": "2023-11-16T03:00:00.000Z"
         }
     ]
 }
