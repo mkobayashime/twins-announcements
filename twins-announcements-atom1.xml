@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/mkobayashime/twins-announcements</id>
     <title>在学生へのお知らせ | 筑波大学</title>
-    <updated>2023-11-22T01:57:43.746Z</updated>
+    <updated>2023-11-22T05:12:00.940Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://github.com/mkobayashime/twins-announcements"/>
     <subtitle>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</subtitle>
+    <entry>
+        <title type="html"><![CDATA[2023年度「海外英語研修II-c」（オーストラリア、対面）　参加者募集]]></title>
+        <id>b3a22a131af7525463e1f04f90053fe9</id>
+        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4603"/>
+        <updated>2023-11-22T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[オーストラリアの協定校、ウーロンゴン大学の英語研修に3週間参加し、ホームステイ先に宿泊します。英語力の向上や異文化交流に関心のある学生の参加を募集します。
+詳細や申込方法については、manabaコース「xx20371　海外英語研修」に自己登録のうえ、募集説明会動画と資料を確認してください。
+
+【manabaの登録方法について】
+manabaにログインし、マイページ右側の「自己登録について」＞「コー…]]></summary>
+    </entry>
     <entry>
         <title type="html"><![CDATA[留学生向けイベント本日締切　真壁ロータリークラブ国際交流の集い]]></title>
         <id>e583bab3ec95980d59583f1984810aa9</id>
@@ -263,16 +274,5 @@ BHEキャリア支援チームのファシリテーターからフィードバ�
 Deadline: November 28th  5pm, 2023
 Submission: Division of Student Exchange (1A101)
 ＊Submit required documents to isc-shien＃un.tsukuba.ac.…]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Call for JEES・Jinnai International Student Scholarship 2024]]></title>
-        <id>4348b727f2169ee98357e7bc1c8b2c7e</id>
-        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4580"/>
-        <updated>2023-11-16T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[JEES・Jinnai International Student Scholarship 2024
-
-Deadline: December 8th  5pm, 2023
-Submission: Division of Student Exchange (1A101)
-＊Submit required documents to  isc-shien＃un.tsukuba.ac.jp(replace…]]></summary>
     </entry>
 </feed>
