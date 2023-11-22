@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/mkobayashime/twins-announcements</id>
     <title>在学生へのお知らせ | 筑波大学</title>
-    <updated>2023-11-22T09:18:26.580Z</updated>
+    <updated>2023-11-22T15:18:27.009Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://github.com/mkobayashime/twins-announcements"/>
     <subtitle>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</subtitle>
@@ -26,23 +26,6 @@
 
 【manabaの登録方法について】
 manabaにログインし、マイページ右側の「自己登録について」＞「コー…]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[留学生向けイベント本日締切　真壁ロータリークラブ国際交流の集い]]></title>
-        <id>e583bab3ec95980d59583f1984810aa9</id>
-        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4602"/>
-        <updated>2023-11-22T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[国際交流の集いを開催します。
-地域の皆さんと楽しく食事をしながら、交流しませんか。
-家族と一緒に参加できます。
-日本の伝統芸能（ひょっとこ、お囃子）などの披露もあります。
-
-日時：2023年12月12日　（火）午後6時30分～午後8時30分
-場所：ホテルグランド東雲　（つくば市内）
-参加費：無料
-送迎：送迎バスあり
-
-]]></summary>
     </entry>
     <entry>
         <title type="html"><![CDATA[11/15上野千鶴子氏講演会で質問をしていただいた学生さんへ]]></title>
@@ -274,5 +257,15 @@ BHEキャリア支援チームのファシリテーターからフィードバ�
 申請書等：(PDF(資料2))
 申請フロー・応募フォームの入力について：(PDF(資料3))
 財団HP：（https://sisf.or.jp/ja/about_ap…]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Call for JEES・Toyotatsusho Scholarship 2024]]></title>
+        <id>47448f2b9025bec344bd344a1b7b48f5</id>
+        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4581"/>
+        <updated>2023-11-16T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[JEES・Toyotatsusho Scholarship 2024 for International Students
+Deadline: November 28th  5pm, 2023
+Submission: Division of Student Exchange (1A101)
+＊Submit required documents to isc-shien＃un.tsukuba.ac.…]]></summary>
     </entry>
 </feed>
