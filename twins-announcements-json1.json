@@ -5,6 +5,20 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "e583bab3ec95980d59583f1984810aa9",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4602",
+            "title": "留学生向けイベント本日締切　真壁ロータリークラブ国際交流の集い",
+            "summary": "国際交流の集いを開催します。\n地域の皆さんと楽しく食事をしながら、交流しませんか。\n家族と一緒に参加できます。\n日本の伝統芸能（ひょっとこ、お囃子）などの披露もあります。\n\n日時：2023年12月12日　（火）午後6時30分～午後8時30分\n場所：ホテルグランド東雲　（つくば市内）\n参加費：無料\n送迎：送迎バスあり\n\n",
+            "date_modified": "2023-11-22T03:00:00.000Z"
+        },
+        {
+            "id": "915ce0b3455a01cdca8b29bba17b8e02",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4601",
+            "title": "11/15上野千鶴子氏講演会で質問をしていただいた学生さんへ",
+            "summary": "11月15日（水）18時00分に実施した上野千鶴子氏講演会「道なき道の歩き方：女性学をつくる」におきまして、当日チャットで質問をされた方へ上野先生からコメントを頂戴いたしました。\n\n当日質問をされた方は下記メールアドレスに\n・学籍番号\n・所属\n・名前\n・当日Ｚｏｏｍで使用したアカウント名\nを記載の上、ご連絡ください。\n\njinsya-g30@un.tsukuba.ac.jp\n\n質問者ご本人だと確認…",
+            "date_modified": "2023-11-22T03:00:00.000Z"
+        },
+        {
             "id": "439a62a5fddb020eb19a186efb04e4a5",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4600",
             "title": "【トビタテOB/OGによる相談会】～トビタテ！留学JAPAN新・日本代表プログラム～　 2024年度（第16期）応募希望学生対象",
@@ -128,20 +142,6 @@
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4580",
             "title": "Call for JEES・Jinnai International Student Scholarship 2024",
             "summary": "JEES・Jinnai International Student Scholarship 2024\n\nDeadline: December 8th  5pm, 2023\nSubmission: Division of Student Exchange (1A101)\n＊Submit required documents to  isc-shien＃un.tsukuba.ac.jp(replace…",
-            "date_modified": "2023-11-16T03:00:00.000Z"
-        },
-        {
-            "id": "28634fc80e4e12ec81bedb6b5b4b3c9a",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4579",
-            "title": "令和6年度　JEES・神内国際理解奨学金申請について",
-            "summary": "令和6年度　JEES・神内国際理解奨学金\n\n*応募期限：2023年12月8日（金）17時厳守\n*提 出 先：学生部学生交流課（1A101）※提出書類をisc-shien#un.tsukuba.ac.jpへ提出してください。\n（＃を＠に替えてください）\n\n※国際理解教育活動実績のない者（過去と今後の具体的な予定）は応募できません。\n※応募者多数の場合は学内選考の上、３名を財団へ推薦します。\n※今回選…",
-            "date_modified": "2023-11-16T03:00:00.000Z"
-        },
-        {
-            "id": "a80f081899a7bf095d0a6027c0527b08",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4578",
-            "title": "令和6年度 生命保険協会留学生奨学金募集について",
-            "summary": "令和6年度 生命保険協会留学生奨学金\n\n*応募期限：2023年12月1日（金）17時厳守\n*提 出 先：学生部学生交流課（1A101）※提出書類をisc-shien#un.tsukuba.ac.jpへ提出してください。\n（＃を＠に替えてください）\n\n※金融業界、特に生命保険に関心のある者（専攻は問わない）。\n※応募者多数の場合は学内選考の上、2名を財団へ推薦します。\n※今回選考された者は、他の学内…",
             "date_modified": "2023-11-16T03:00:00.000Z"
         }
     ]
