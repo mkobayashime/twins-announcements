@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "bcfa4fe2468c87b1803ee364cb76305e",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4608",
+            "title": "【24卒採用情報発信中！】（BHEキャリア支援）Teams内　キャリア支援情報発信チームのご案内",
+            "summary": "\nBHEには、日々、各所から求人・インターンシップ、各種イベントなど、\n筑波大生に向けた案内が届きます。\nHPや学内掲示板では発信しきれない情報をタイムリーに発信していきます。\n6月に立ち上げ、現在900名の方が参加中です。\n卒業年度別や志望別のチャネルを設けていますので、ぜひ活用してください。\n\n【参加方法】\nチーム名「BHEキャリア支援チーム　情報発信」\n以下のリンクから参加してください。\nh…",
+            "date_modified": "2023-11-24T03:00:00.000Z"
+        },
+        {
             "id": "6a550d93d6119166ced68fe55171dc94",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4607",
             "title": "【12/15開催】令和５年度薬品・実験廃棄物管理研修会",
@@ -135,13 +142,6 @@
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4585",
             "title": "第４５回　現代語・現代文化フォーラム",
             "summary": "各位\n\n第４５回　現代語・現代文化フォーラムについてお知らせいたします。\n\n日時：2023年12月14日（木） 16：00～17:30\n場所：人文社会学系棟7階A722教室\n\n詳細につきましては、添付ファイルをご確認ください。\n\n\n　　　　　　　　　　　　　　　　現代語・現代文化専攻事務室\n",
-            "date_modified": "2023-11-17T03:00:00.000Z"
-        },
-        {
-            "id": "65507654d2c005bd31702aa6696bd1ed",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4584",
-            "title": "特別講演会「作家として翻訳家として」",
-            "summary": "各位\n\n特別講演会についてお知らせいたします。\n\n日時：2023年11月29日（水）15時～17時\n会：：筑波大学人文社会学系棟A520 参加費無料\n講師：松本侑子（作家・翻訳家／日本ペンクラブ理事）\n\n詳細につきましては添付フィアルをご確認ください。\n\n　　　　　　　　　　　　　　　　　　　　　　現代語・現代文化専攻事務室\n",
             "date_modified": "2023-11-17T03:00:00.000Z"
         }
     ]

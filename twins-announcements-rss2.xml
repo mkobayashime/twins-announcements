@@ -4,10 +4,27 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Fri, 24 Nov 2023 03:12:42 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Nov 2023 04:14:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
+        <item>
+            <title><![CDATA[【24卒採用情報発信中！】（BHEキャリア支援）Teams内　キャリア支援情報発信チームのご案内]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4608</link>
+            <guid>bcfa4fe2468c87b1803ee364cb76305e</guid>
+            <pubDate>Fri, 24 Nov 2023 03:00:00 GMT</pubDate>
+            <description><![CDATA[
+BHEには、日々、各所から求人・インターンシップ、各種イベントなど、
+筑波大生に向けた案内が届きます。
+HPや学内掲示板では発信しきれない情報をタイムリーに発信していきます。
+6月に立ち上げ、現在900名の方が参加中です。
+卒業年度別や志望別のチャネルを設けていますので、ぜひ活用してください。
+
+【参加方法】
+チーム名「BHEキャリア支援チーム　情報発信」
+以下のリンクから参加してください。
+h…]]></description>
+        </item>
         <item>
             <title><![CDATA[【12/15開催】令和５年度薬品・実験廃棄物管理研修会]]></title>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4607</link>
@@ -256,24 +273,6 @@ BHEキャリア支援チームのファシリテーターからフィードバ�
 
 
 　　　　　　　　　　　　　　　　現代語・現代文化専攻事務室
-]]></description>
-        </item>
-        <item>
-            <title><![CDATA[特別講演会「作家として翻訳家として」]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4584</link>
-            <guid>65507654d2c005bd31702aa6696bd1ed</guid>
-            <pubDate>Fri, 17 Nov 2023 03:00:00 GMT</pubDate>
-            <description><![CDATA[各位
-
-特別講演会についてお知らせいたします。
-
-日時：2023年11月29日（水）15時～17時
-会：：筑波大学人文社会学系棟A520 参加費無料
-講師：松本侑子（作家・翻訳家／日本ペンクラブ理事）
-
-詳細につきましては添付フィアルをご確認ください。
-
-　　　　　　　　　　　　　　　　　　　　　　現代語・現代文化専攻事務室
 ]]></description>
         </item>
     </channel>
