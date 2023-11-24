@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/mkobayashime/twins-announcements</id>
     <title>在学生へのお知らせ | 筑波大学</title>
-    <updated>2023-11-23T21:15:14.504Z</updated>
+    <updated>2023-11-24T01:51:39.898Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://github.com/mkobayashime/twins-announcements"/>
     <subtitle>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</subtitle>
+    <entry>
+        <title type="html"><![CDATA[《本日開催！！》【BHE主催】11/24（金）15：15～16：30　就職ミライ博2023「業界研究会オンライン事前セミナー」]]></title>
+        <id>42001a46bfb88e5d9fe2b17fa13adf47</id>
+        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4605"/>
+        <updated>2023-11-24T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[筑波大学ヒューマンエンパワーメント推進局（BHE）主催の就活イベント
+筑波大学就職ミライ博2023「業界研究会」が12月１日（金）から土日を除く６日まで、４日間開催されます。
+※出展企業は添付資料またはキャリア支援チームHPをご確認ください！
+
+ソニーや楽天、小学館といった筑波大生と会いたい230社の企業が筑波大学に集結します！
+筑波大OBOGとの交流、これからインターンシップや就活を考える学生に…]]></summary>
+    </entry>
     <entry>
         <title type="html"><![CDATA[12/6（16:45～）金塚氏講演会「スーパーシティの取組とインターネット投票」（学生・教員対象）]]></title>
         <id>309dcaf61d5ba2f7c4b75eec71aa0360</id>
@@ -257,15 +269,5 @@ BHEキャリア支援チームのファシリテーターからフィードバ�
 申請書等：(PDF(資料2))
 申請フロー・応募フォームの入力について：(PDF(資料3))
 財団HP：（https://sisf.or.jp/ja/about_ap…]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Call for JEES・Toyotatsusho Scholarship 2024]]></title>
-        <id>47448f2b9025bec344bd344a1b7b48f5</id>
-        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4581"/>
-        <updated>2023-11-16T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[JEES・Toyotatsusho Scholarship 2024 for International Students
-Deadline: November 28th  5pm, 2023
-Submission: Division of Student Exchange (1A101)
-＊Submit required documents to isc-shien＃un.tsukuba.ac.…]]></summary>
     </entry>
 </feed>

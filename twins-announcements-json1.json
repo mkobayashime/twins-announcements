@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "42001a46bfb88e5d9fe2b17fa13adf47",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4605",
+            "title": "《本日開催！！》【BHE主催】11/24（金）15：15～16：30　就職ミライ博2023「業界研究会オンライン事前セミナー」",
+            "summary": "筑波大学ヒューマンエンパワーメント推進局（BHE）主催の就活イベント\n筑波大学就職ミライ博2023「業界研究会」が12月１日（金）から土日を除く６日まで、４日間開催されます。\n※出展企業は添付資料またはキャリア支援チームHPをご確認ください！\n\nソニーや楽天、小学館といった筑波大生と会いたい230社の企業が筑波大学に集結します！\n筑波大OBOGとの交流、これからインターンシップや就活を考える学生に…",
+            "date_modified": "2023-11-24T03:00:00.000Z"
+        },
+        {
             "id": "309dcaf61d5ba2f7c4b75eec71aa0360",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4604",
             "title": "12/6（16:45～）金塚氏講演会「スーパーシティの取組とインターネット投票」（学生・教員対象）",
@@ -136,13 +143,6 @@
             "title": "公益財団法人　佐藤陽国際奨学財団 （春募集）",
             "summary": "公益財団法人　佐藤陽国際奨学財団 （春募集）\n応募フォーム入力期限：2023年12月15日（金）正午\n応募書類提出期限：2023年12月19日(火)　正午\n提出先　：学生交流課　事務室（1A棟101）\n募集要項：(PDF(資料1))\n申請書等：(PDF(資料2))\n申請フロー・応募フォームの入力について：(PDF(資料3))\n財団HP：（https://sisf.or.jp/ja/about_ap…",
             "date_modified": "2023-11-17T03:00:00.000Z"
-        },
-        {
-            "id": "47448f2b9025bec344bd344a1b7b48f5",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4581",
-            "title": "Call for JEES・Toyotatsusho Scholarship 2024",
-            "summary": "JEES・Toyotatsusho Scholarship 2024 for International Students\nDeadline: November 28th  5pm, 2023\nSubmission: Division of Student Exchange (1A101)\n＊Submit required documents to isc-shien＃un.tsukuba.ac.…",
-            "date_modified": "2023-11-16T03:00:00.000Z"
         }
     ]
 }
