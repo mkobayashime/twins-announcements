@@ -4,10 +4,20 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Fri, 24 Nov 2023 02:22:48 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Nov 2023 03:12:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
+        <item>
+            <title><![CDATA[【12/15開催】令和５年度薬品・実験廃棄物管理研修会]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4607</link>
+            <guid>6a550d93d6119166ced68fe55171dc94</guid>
+            <pubDate>Fri, 24 Nov 2023 03:00:00 GMT</pubDate>
+            <description><![CDATA[環境安全管理室では、有害廃棄物及び動物実験系廃棄物を取扱う教職員に対し、本学におけるルールを周知し安全安心な教育研究活動に資することを目的に研修会を開催しております。有害廃棄物及び動物実験系廃棄物を取扱う組織（附属病院及び附属学校等は除く）の廃棄物管理責任者は必ず受講くださるようお願いします。
+なお、後日オンデマンドでも開催することを申し添えます。
+
+１．日　時　　令和５年１２月１５日（金）１０時…]]></description>
+        </item>
         <item>
             <title><![CDATA[（BHE)12月 就活支講座チャレンジ実践会]]></title>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4606</link>
@@ -265,17 +275,6 @@ BHEキャリア支援チームのファシリテーターからフィードバ�
 
 　　　　　　　　　　　　　　　　　　　　　　現代語・現代文化専攻事務室
 ]]></description>
-        </item>
-        <item>
-            <title><![CDATA[全学生対象‼【12/1(金),4(月)～6(水)】筑波大学ミライ博／業界研究会 出展企業のご案内（BHEキャリア支援チーム）]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4583</link>
-            <guid>74e0e128d18601b623be6d049ec02acb</guid>
-            <pubDate>Fri, 17 Nov 2023 03:00:00 GMT</pubDate>
-            <description><![CDATA[ソニーや楽天、小学館、産総研、防衛省といった筑波大生と会いたい230社の企業・団体が集まります。
-前夜祭には「マスコミ・広告業界」のOBOGによるセミナーがあります。
-筑波大OBOGとの交流、これからインターンシップや就活を考える学生には絶好の機会です。
-公務員受験指導の大手企業も相談員として2日間参加します。民間・進学・公務員を目指す学生はこの機会に「しごと探求」をして視野を広げましょう！
-（対…]]></description>
         </item>
     </channel>
 </rss>
