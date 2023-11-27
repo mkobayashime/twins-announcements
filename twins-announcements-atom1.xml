@@ -2,10 +2,17 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/mkobayashime/twins-announcements</id>
     <title>在学生へのお知らせ | 筑波大学</title>
-    <updated>2023-11-27T09:19:03.223Z</updated>
+    <updated>2023-11-27T11:10:34.775Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://github.com/mkobayashime/twins-announcements"/>
     <subtitle>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</subtitle>
+    <entry>
+        <title type="html"><![CDATA[Nov28th(Tue) J-Chat～SCであそぼ～(水引/Mizuhiki）]]></title>
+        <id>3c5b386a7b6bb09a0b9f176654bd01aa</id>
+        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4615"/>
+        <updated>2023-11-27T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[“J-Chat～SCであそぼ～” is a face-to-face Japanese chat event that connects international students with Japanese students. You can chill and chat in Japanese while enjoying cultural workshops, at the SC (Stu…]]></summary>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【受講者募集】グローバル人材育成プログラム「アフリカにおけるグローバル人材育成プログラム」]]></title>
         <id>c988daa958ba73e9ae2d77c5b3a0b3d8</id>
@@ -258,12 +265,5 @@ jinsya-g30@un.tsukuba.ac.jp
 LECで販売・実施している公務員模試を筑波大生限定でお得に受験できるクーポンのご案内です。
 詳細は添付を確認の上、WEB・LEC本校窓口・電話にて申し込んでください。
 ※割引対象模試を必ず確認してください。]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Nov21th(Tue) J-Chat～SCであそぼ～(みごホウキ）]]></title>
-        <id>4f7aacce3807e974a6b9184a6e8bfe60</id>
-        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4591"/>
-        <updated>2023-11-20T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[“J-Chat～SCであそぼ～” is a face-to-face Japanese chat event that connects international students with Japanese students. You can chill and chat in Japanese while enjoying cultural workshops, at the SC (Stu…]]></summary>
     </entry>
 </feed>
