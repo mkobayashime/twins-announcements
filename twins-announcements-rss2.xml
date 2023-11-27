@@ -4,10 +4,21 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Mon, 27 Nov 2023 00:53:07 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 27 Nov 2023 05:11:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
+        <item>
+            <title><![CDATA[【開催案内】Tokyo Biotech Entrepreneurship Workshop]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4613</link>
+            <guid>105f1277290bdbc53b4344ba8f733e30</guid>
+            <pubDate>Mon, 27 Nov 2023 03:00:00 GMT</pubDate>
+            <description><![CDATA[このたび米国大使館から、Japan Society of Northern California (JSNC)とBioJentが開催する「Tokyo Biotech Entrepreneurship Workshop」について以下の案内がありましたたのでお知らせいたします。
+
+
+<米国大使館助成金事業のご案内>
+Tokyo Biotech Entrepreneurship Workshop - 1…]]></description>
+        </item>
         <item>
             <title><![CDATA[【再掲　12/1開催】社会・国際学群チュートリアルプログラムオンライン公開講演会開催のお知らせ（国際学Ⅲチュートリアル）]]></title>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4612</link>
@@ -263,13 +274,6 @@ BHEキャリア支援チームのファシリテーターからフィードバ�
 
 〇開催日時・場所
 １１月２２日…]]></description>
-        </item>
-        <item>
-            <title><![CDATA[（再掲）【残枠わずか、締め切り迫る！参加者募集！２年次以上の全学群生対象】東南アジアでの海外教育実習インターンシップSEA-Teacherプログラム]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4588</link>
-            <guid>692fd160f2ae68df2faedf3794b694b8</guid>
-            <pubDate>Mon, 20 Nov 2023 03:00:00 GMT</pubDate>
-            <description><![CDATA[東南アジアの提携大学での教育インターンシップへの参加者を募集します。現地教師の業務を実習し、授業を行うことを通して、グローバルな視野、異文化理解力、授業力、国際感覚を養うことが目標のプログラムです。2024年２月から３月の約一か月間、インドネシア、フィリピン、タイのいずれかの提携大学で実際に授業実習を行います。詳細は添付のチラシをご覧ください。１０月２６日に実施した事前説明会の内容はウェブサイトか…]]></description>
         </item>
     </channel>
 </rss>
