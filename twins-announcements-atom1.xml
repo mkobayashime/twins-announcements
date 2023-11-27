@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/mkobayashime/twins-announcements</id>
     <title>在学生へのお知らせ | 筑波大学</title>
-    <updated>2023-11-27T05:11:50.169Z</updated>
+    <updated>2023-11-27T09:13:12.335Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://github.com/mkobayashime/twins-announcements"/>
     <subtitle>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</subtitle>
+    <entry>
+        <title type="html"><![CDATA[【受講者募集】グローバル人材育成プログラム「アフリカにおけるグローバル人材育成プログラム」]]></title>
+        <id>c988daa958ba73e9ae2d77c5b3a0b3d8</id>
+        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4614"/>
+        <updated>2023-11-27T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[このたび国連大学SDG大学連携プラットフォーム事務局から、UNU-IAS（国連大学サステイナビリティ高等研究所）が実施するグローバル人材育成プログラム「アフリカにおけるグローバル人材育成プログラム」について受講者募集の案内がありましたのでお知らせします。
+
+*******************************
+プログラム名：グローバル人材育成プログラム「アフリカにおけるグローバル人材育成…]]></summary>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【開催案内】Tokyo Biotech Entrepreneurship Workshop]]></title>
         <id>105f1277290bdbc53b4344ba8f733e30</id>
@@ -255,22 +265,5 @@ LECで販売・実施している公務員模試を筑波大生限定でお得�
         <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4591"/>
         <updated>2023-11-20T03:00:00.000Z</updated>
         <summary type="html"><![CDATA[“J-Chat～SCであそぼ～” is a face-to-face Japanese chat event that connects international students with Japanese students. You can chill and chat in Japanese while enjoying cultural workshops, at the SC (Stu…]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[空き枠あり！　11月22日　BHE主催　就活支援企画　チャレンジ実践会]]></title>
-        <id>e4378810ebfa291e8bc67422f5f8d988</id>
-        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4590"/>
-        <updated>2023-11-20T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[以下のイベントについて、各２席ずつ空きがあります。
-初めてでも大歓迎！
-申込は２１日午前中まで受付中です。
-
-11月も面接編とGD編を対面で開催します。
-就活初心者大歓迎！ビジネスマナーも学ぶことができます。
-就活中の方、ISの選考を受ける方、参加して役立ててください。
-BHEキャリア支援チームのファシリテーターからフィードバックがあります。（日本語での開催です）
-
-〇開催日時・場所
-１１月２２日…]]></summary>
     </entry>
 </feed>

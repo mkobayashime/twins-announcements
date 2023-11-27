@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "c988daa958ba73e9ae2d77c5b3a0b3d8",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4614",
+            "title": "【受講者募集】グローバル人材育成プログラム「アフリカにおけるグローバル人材育成プログラム」",
+            "summary": "このたび国連大学SDG大学連携プラットフォーム事務局から、UNU-IAS（国連大学サステイナビリティ高等研究所）が実施するグローバル人材育成プログラム「アフリカにおけるグローバル人材育成プログラム」について受講者募集の案内がありましたのでお知らせします。\n\n*******************************\nプログラム名：グローバル人材育成プログラム「アフリカにおけるグローバル人材育成…",
+            "date_modified": "2023-11-27T03:00:00.000Z"
+        },
+        {
             "id": "105f1277290bdbc53b4344ba8f733e30",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4613",
             "title": "【開催案内】Tokyo Biotech Entrepreneurship Workshop",
@@ -135,13 +142,6 @@
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4591",
             "title": "Nov21th(Tue) J-Chat～SCであそぼ～(みごホウキ）",
             "summary": "“J-Chat～SCであそぼ～” is a face-to-face Japanese chat event that connects international students with Japanese students. You can chill and chat in Japanese while enjoying cultural workshops, at the SC (Stu…",
-            "date_modified": "2023-11-20T03:00:00.000Z"
-        },
-        {
-            "id": "e4378810ebfa291e8bc67422f5f8d988",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4590",
-            "title": "空き枠あり！　11月22日　BHE主催　就活支援企画　チャレンジ実践会",
-            "summary": "以下のイベントについて、各２席ずつ空きがあります。\n初めてでも大歓迎！\n申込は２１日午前中まで受付中です。\n\n11月も面接編とGD編を対面で開催します。\n就活初心者大歓迎！ビジネスマナーも学ぶことができます。\n就活中の方、ISの選考を受ける方、参加して役立ててください。\nBHEキャリア支援チームのファシリテーターからフィードバックがあります。（日本語での開催です）\n\n〇開催日時・場所\n１１月２２日…",
             "date_modified": "2023-11-20T03:00:00.000Z"
         }
     ]
