@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "d4c68a75f0860fd013796fefe65d702d",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4620",
+            "title": "【12/14開催案内】 2023年度T-ACT公開シンポジウム",
+            "summary": "【テーマ】\n“やってみたい”が地域社会へつながる　―T-ACTボランティアと地域課題―\n\n【概要】\n日時：2023年12月14日（木）17:00～20:00（受付開始　16:30～）\n場所：１D棟201講義室及びオンライン（Zoom）によるハイブリッド開催\n主催：T-ACT推進室\n\n【参加対象者】\nどなたでもご参加いただけます\n\n【その他】\n参加費無料、入退室自由\n\n　T-ACTは学生が自らの「や…",
+            "date_modified": "2023-11-29T03:00:00.000Z"
+        },
+        {
             "id": "8ae4b5c891699e3f9cc3cc768f8ecbbd",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4619",
             "title": "2024年度第16期トビタテ！留学JAPAN新・日本代表プログラムの募集について（学内応募締切：2024年1月31日（水）23時59分厳守）",
@@ -135,13 +142,6 @@
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4598",
             "title": "《再掲》【BHE主催】11/24（金）15：15～16：30　就職ミライ博2023「業界研究会オンライン事前セミナー」開催案内",
             "summary": "筑波大学ヒューマンエンパワーメント推進局（BHE）主催の、就活イベント\n筑波大学就職ミライ博2023の「業界研究会」が\n12月１日（金）から土日を除く６日まで、４日間開催されます！\n※出展企業は添付資料またはキャリア支援チームHPをご確認ください！\n\nそこで、イベントを最大活用するためのオンラインセミナーを開催いたします。\n対象は全学生です。1.2年生も大歓迎！\n就活はまだ先でしょ？という方も、始…",
-            "date_modified": "2023-11-21T03:00:00.000Z"
-        },
-        {
-            "id": "e6e67ad7fcbdf14bb4cf48ee0fa2f1fd",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4597",
-            "title": "【開催案内】「アスリート・アクティビズム、オリンピック憲章規則50の合法性及びオリンピックの法的枠組み」",
-            "summary": "0ATQ002 「Olympic Movement and Sport Law」\n\n　このコースはオリンピック憲章の構成とその内容、オリンピック・ムーブメントに関するオリンピック憲章での定義、その法律的意義、これまでのオリンピック憲章におけるオリンピック・ムーブメントの変遷を学びます。\n　今回は、マンチェスターメトロポリタン大学 マンチェスターロースクールの Mark James先生をお招きし、オ…",
             "date_modified": "2023-11-21T03:00:00.000Z"
         }
     ]

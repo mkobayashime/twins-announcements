@@ -4,10 +4,31 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Tue, 28 Nov 2023 21:15:47 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 29 Nov 2023 00:53:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
+        <item>
+            <title><![CDATA[【12/14開催案内】 2023年度T-ACT公開シンポジウム]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4620</link>
+            <guid>d4c68a75f0860fd013796fefe65d702d</guid>
+            <pubDate>Wed, 29 Nov 2023 03:00:00 GMT</pubDate>
+            <description><![CDATA[【テーマ】
+“やってみたい”が地域社会へつながる　―T-ACTボランティアと地域課題―
+
+【概要】
+日時：2023年12月14日（木）17:00～20:00（受付開始　16:30～）
+場所：１D棟201講義室及びオンライン（Zoom）によるハイブリッド開催
+主催：T-ACT推進室
+
+【参加対象者】
+どなたでもご参加いただけます
+
+【その他】
+参加費無料、入退室自由
+
+　T-ACTは学生が自らの「や…]]></description>
+        </item>
         <item>
             <title><![CDATA[2024年度第16期トビタテ！留学JAPAN新・日本代表プログラムの募集について（学内応募締切：2024年1月31日（水）23時59分厳守）]]></title>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4619</link>
@@ -248,16 +269,6 @@ jinsya-g30@un.tsukuba.ac.jp
 そこで、イベントを最大活用するためのオンラインセミナーを開催いたします。
 対象は全学生です。1.2年生も大歓迎！
 就活はまだ先でしょ？という方も、始…]]></description>
-        </item>
-        <item>
-            <title><![CDATA[【開催案内】「アスリート・アクティビズム、オリンピック憲章規則50の合法性及びオリンピックの法的枠組み」]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4597</link>
-            <guid>e6e67ad7fcbdf14bb4cf48ee0fa2f1fd</guid>
-            <pubDate>Tue, 21 Nov 2023 03:00:00 GMT</pubDate>
-            <description><![CDATA[0ATQ002 「Olympic Movement and Sport Law」
-
-　このコースはオリンピック憲章の構成とその内容、オリンピック・ムーブメントに関するオリンピック憲章での定義、その法律的意義、これまでのオリンピック憲章におけるオリンピック・ムーブメントの変遷を学びます。
-　今回は、マンチェスターメトロポリタン大学 マンチェスターロースクールの Mark James先生をお招きし、オ…]]></description>
         </item>
     </channel>
 </rss>
