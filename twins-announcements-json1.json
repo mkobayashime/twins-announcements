@@ -5,6 +5,20 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "f10108c3661ba2dc189218c8fd107920",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4624",
+            "title": "【ブラジル留学説明会】12月12日（火）11:30~12:15",
+            "summary": "ブラジルへの留学説明会を開催します！\nブラジル－特にサンパウロ大学（USP）－への留学を検討している方は、是非参加してください！\n\n開催日：2023年12月12日（火）11:30~12:15\n対象：筑波大学在学生で交換留学を希望する者\n場所：スチューデント・コモンズ（第一エリア 1A棟203）\n使用言語：英語及び日本語\n\n内容：\n・サンパウロ大学（USP）の紹介（USPからの教職員）*英語\n・ブラ…",
+            "date_modified": "2023-11-29T03:00:00.000Z"
+        },
+        {
+            "id": "8ca53776ffc08877f90a8d0fcf04ac08",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4623",
+            "title": "ブラジル文化紹介イベント",
+            "summary": "ブラジルからの留学生およびブラジル（サンパウロ大学）での留学経験者による国際交流イベントです！\n文化紹介のプレゼン以外にも、ゲームや食べ物なども楽しんでいただけます！\n留学生と友達になりたい方、海外に興味のある方、留学を考えてる方、沢山の学生と交流ができるイベントです。\n皆様、ぜひお気軽にご参加ください！\n\n◆対象：本学の学生\n◆日程：12月4日（月）　 スポーツ (Beach Sports, M…",
+            "date_modified": "2023-11-29T03:00:00.000Z"
+        },
+        {
             "id": "162c349893e87772b2b7869785c2906e",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4622",
             "title": "【BHEキャリア支援チーム】《しごと探求WEEK！》ミライ博／業界研究会まであと2日！前夜祭は明日18：30開催！！",
@@ -129,20 +143,6 @@
             "title": "2023年度「海外英語研修II-c」（オーストラリア、対面）　参加者募集",
             "summary": "オーストラリアの協定校、ウーロンゴン大学の英語研修に3週間参加し、ホームステイ先に宿泊します。英語力の向上や異文化交流に関心のある学生の参加を募集します。\n詳細や申込方法については、manabaコース「xx20371　海外英語研修」に自己登録のうえ、募集説明会動画と資料を確認してください。\n\n【manabaの登録方法について】\nmanabaにログインし、マイページ右側の「自己登録について」＞「コー…",
             "date_modified": "2023-11-22T03:00:00.000Z"
-        },
-        {
-            "id": "915ce0b3455a01cdca8b29bba17b8e02",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4601",
-            "title": "11/15上野千鶴子氏講演会で質問をしていただいた学生さんへ",
-            "summary": "11月15日（水）18時00分に実施した上野千鶴子氏講演会「道なき道の歩き方：女性学をつくる」におきまして、当日チャットで質問をされた方へ上野先生からコメントを頂戴いたしました。\n\n当日質問をされた方は下記メールアドレスに\n・学籍番号\n・所属\n・名前\n・当日Ｚｏｏｍで使用したアカウント名\nを記載の上、ご連絡ください。\n\njinsya-g30@un.tsukuba.ac.jp\n\n質問者ご本人だと確認…",
-            "date_modified": "2023-11-22T03:00:00.000Z"
-        },
-        {
-            "id": "439a62a5fddb020eb19a186efb04e4a5",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4600",
-            "title": "【トビタテOB/OGによる相談会】～トビタテ！留学JAPAN新・日本代表プログラム～　 2024年度（第16期）応募希望学生対象",
-            "summary": "トビタテ！留学JAPAN新・日本代表プログラム【大学生等対象】2024年度（第16期）の応募希望学生を対象に、トビタテOB/OGによる相談会が実施されます。\n\nオンライン相談会では、「トビタテ！留学JAPAN日本代表プログラム【大学生等コース】」（旧制度）で留学を経験した先輩トビタテ生と話をすることができます。ぜひ応募希望者には奮ってご参加いただき、先輩トビタテ生の体験談を参考にして留学計画を作成…",
-            "date_modified": "2023-11-21T03:00:00.000Z"
         }
     ]
 }
