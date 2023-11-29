@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "6ba3a8bf22c4d4900afb6333e3911e51",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4625",
+            "title": "メールの受け取りについて現状確認をお願いします。",
+            "summary": "キャリア支援チームから送られるメールについて、自動的に迷惑フォルダに格納されてしまうという問い合わせをいただきました。\n送信者：syushokuka@gswebsv.sec(以下略)\n\nこの送信者から送られてくるメールには、学生の皆さんに必ず確認してほしい重要事項を記載しています。\n各自、Microsoft365アカウントによるOutlookの現状確認をお願いいたします。\n\nそのうえで、上記送信者…",
+            "date_modified": "2023-11-29T03:00:00.000Z"
+        },
+        {
             "id": "f10108c3661ba2dc189218c8fd107920",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4624",
             "title": "【ブラジル留学説明会】12月12日（火）11:30~12:15",
@@ -135,13 +142,6 @@
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4604",
             "title": "12/6（16:45～）金塚氏講演会「スーパーシティの取組とインターネット投票」（学生・教員対象）",
             "summary": "TSUKUBA社会国際学初年次チュートリアルプログラムでは、12月6日（水）16時45分から公開講演会を開催いたします。講師はつくば市政策イノベーション部　科学技術戦略課の金塚安伸氏で、「スーパーシティの取組とインターネット投票」という題目で講演していただきます。筑波大学の学生・教員でしたらどなたでもご参加いただけます。奮ってご参加下さい。\n\n「政治学の最前線チュートリアル」主催講演会\n日時：12…",
-            "date_modified": "2023-11-22T03:00:00.000Z"
-        },
-        {
-            "id": "b3a22a131af7525463e1f04f90053fe9",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4603",
-            "title": "2023年度「海外英語研修II-c」（オーストラリア、対面）　参加者募集",
-            "summary": "オーストラリアの協定校、ウーロンゴン大学の英語研修に3週間参加し、ホームステイ先に宿泊します。英語力の向上や異文化交流に関心のある学生の参加を募集します。\n詳細や申込方法については、manabaコース「xx20371　海外英語研修」に自己登録のうえ、募集説明会動画と資料を確認してください。\n\n【manabaの登録方法について】\nmanabaにログインし、マイページ右側の「自己登録について」＞「コー…",
             "date_modified": "2023-11-22T03:00:00.000Z"
         }
     ]
