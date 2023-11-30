@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/mkobayashime/twins-announcements</id>
     <title>在学生へのお知らせ | 筑波大学</title>
-    <updated>2023-11-30T07:11:30.150Z</updated>
+    <updated>2023-11-30T09:11:58.651Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://github.com/mkobayashime/twins-announcements"/>
     <subtitle>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</subtitle>
+    <entry>
+        <title type="html"><![CDATA[【12/23 13:30】講演会 『言語データとその「鏡」-機械学習モデルを用いた言い誤りと失語症例の分析-』のご案内【対象：学生・教職員】]]></title>
+        <id>8d4b2170c9da325bfc5e3a307e022aa9</id>
+        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4629"/>
+        <updated>2023-11-30T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[2023年12月23日(土) 13時30分より、人文学類文化講演会を実施します。
+
+本講演会は人文学類生をはじめとする学類生、大学院生および教職員の皆様にご参加いただける講演会となっております。
+「事前の参加登録は不要」「途中入場・退場可能」ですので、ご興味をお持ちいただけましたらお気軽にご参加ください。
+詳細は添付ファイルをご覧ください。
+
+日時：2023年12月23日（土）13：30～17：4…]]></summary>
+    </entry>
     <entry>
         <title type="html"><![CDATA[12/15（15時15分～）講演会「AI時代の国際学：異文化理解とグローバル人材」（学生・教員対象）]]></title>
         <id>ddf6eb2c52a420f01d720c8d86892db9</id>
@@ -251,22 +264,5 @@ https://forms.gle/oKskZ…]]></summary>
 ▶︎対象：学群生、大学院生（ロシア語未修者も応募可能）
 
 ▶︎研修内容：ロシア…]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【24卒採用情報発信中！】（BHEキャリア支援）Teams内　キャリア支援情報発信チームのご案内]]></title>
-        <id>bcfa4fe2468c87b1803ee364cb76305e</id>
-        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4608"/>
-        <updated>2023-11-24T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[
-BHEには、日々、各所から求人・インターンシップ、各種イベントなど、
-筑波大生に向けた案内が届きます。
-HPや学内掲示板では発信しきれない情報をタイムリーに発信していきます。
-6月に立ち上げ、現在900名の方が参加中です。
-卒業年度別や志望別のチャネルを設けていますので、ぜひ活用してください。
-
-【参加方法】
-チーム名「BHEキャリア支援チーム　情報発信」
-以下のリンクから参加してください。
-h…]]></summary>
     </entry>
 </feed>
