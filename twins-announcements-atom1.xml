@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/mkobayashime/twins-announcements</id>
     <title>在学生へのお知らせ | 筑波大学</title>
-    <updated>2023-11-29T21:15:41.250Z</updated>
+    <updated>2023-11-30T02:25:45.429Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://github.com/mkobayashime/twins-announcements"/>
     <subtitle>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</subtitle>
+    <entry>
+        <title type="html"><![CDATA[【重要】メールの受け取りについて]]></title>
+        <id>08de057607058377899498517521c10a</id>
+        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4626"/>
+        <updated>2023-11-30T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[ヒューマンエンパワーメント推進局キャリア支援チームから以下のメールアドレスで学生の皆さまへアナウンスをしております。
+送信者：syushokuka@gswebsv.sec(以下略)
+　　　　soudan@gswebsv.sec(以下略)
+　　　　bhe-noreply@gswebsv.sec(以下略)
+
+この送信者から送られてくるメールには、学生の皆さんに必ず確認してほしい重要事項や個別キャリア相…]]></summary>
+    </entry>
     <entry>
         <title type="html"><![CDATA[メールの受け取りについて現状確認をお願いします。]]></title>
         <id>6ba3a8bf22c4d4900afb6333e3911e51</id>
@@ -259,15 +271,5 @@ GD編　  １３：３０－１５： ００
 〇場所
 面接編　人間系学系棟A　１階　１１４
 GD編　…]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[12/6（16:45～）金塚氏講演会「スーパーシティの取組とインターネット投票」（学生・教員対象）]]></title>
-        <id>309dcaf61d5ba2f7c4b75eec71aa0360</id>
-        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4604"/>
-        <updated>2023-11-22T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[TSUKUBA社会国際学初年次チュートリアルプログラムでは、12月6日（水）16時45分から公開講演会を開催いたします。講師はつくば市政策イノベーション部　科学技術戦略課の金塚安伸氏で、「スーパーシティの取組とインターネット投票」という題目で講演していただきます。筑波大学の学生・教員でしたらどなたでもご参加いただけます。奮ってご参加下さい。
-
-「政治学の最前線チュートリアル」主催講演会
-日時：12…]]></summary>
     </entry>
 </feed>

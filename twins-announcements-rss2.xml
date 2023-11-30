@@ -4,10 +4,22 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Wed, 29 Nov 2023 21:15:41 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 30 Nov 2023 02:25:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
+        <item>
+            <title><![CDATA[【重要】メールの受け取りについて]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4626</link>
+            <guid>08de057607058377899498517521c10a</guid>
+            <pubDate>Thu, 30 Nov 2023 03:00:00 GMT</pubDate>
+            <description><![CDATA[ヒューマンエンパワーメント推進局キャリア支援チームから以下のメールアドレスで学生の皆さまへアナウンスをしております。
+送信者：syushokuka@gswebsv.sec(以下略)
+　　　　soudan@gswebsv.sec(以下略)
+　　　　bhe-noreply@gswebsv.sec(以下略)
+
+この送信者から送られてくるメールには、学生の皆さんに必ず確認してほしい重要事項や個別キャリア相…]]></description>
+        </item>
         <item>
             <title><![CDATA[メールの受け取りについて現状確認をお願いします。]]></title>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4625</link>
@@ -261,16 +273,6 @@ GD編　  １３：３０－１５： ００
 〇場所
 面接編　人間系学系棟A　１階　１１４
 GD編　…]]></description>
-        </item>
-        <item>
-            <title><![CDATA[12/6（16:45～）金塚氏講演会「スーパーシティの取組とインターネット投票」（学生・教員対象）]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4604</link>
-            <guid>309dcaf61d5ba2f7c4b75eec71aa0360</guid>
-            <pubDate>Wed, 22 Nov 2023 03:00:00 GMT</pubDate>
-            <description><![CDATA[TSUKUBA社会国際学初年次チュートリアルプログラムでは、12月6日（水）16時45分から公開講演会を開催いたします。講師はつくば市政策イノベーション部　科学技術戦略課の金塚安伸氏で、「スーパーシティの取組とインターネット投票」という題目で講演していただきます。筑波大学の学生・教員でしたらどなたでもご参加いただけます。奮ってご参加下さい。
-
-「政治学の最前線チュートリアル」主催講演会
-日時：12…]]></description>
         </item>
     </channel>
 </rss>

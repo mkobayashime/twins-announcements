@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "08de057607058377899498517521c10a",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4626",
+            "title": "【重要】メールの受け取りについて",
+            "summary": "ヒューマンエンパワーメント推進局キャリア支援チームから以下のメールアドレスで学生の皆さまへアナウンスをしております。\n送信者：syushokuka@gswebsv.sec(以下略)\n　　　　soudan@gswebsv.sec(以下略)\n　　　　bhe-noreply@gswebsv.sec(以下略)\n\nこの送信者から送られてくるメールには、学生の皆さんに必ず確認してほしい重要事項や個別キャリア相…",
+            "date_modified": "2023-11-30T03:00:00.000Z"
+        },
+        {
             "id": "6ba3a8bf22c4d4900afb6333e3911e51",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4625",
             "title": "メールの受け取りについて現状確認をお願いします。",
@@ -136,13 +143,6 @@
             "title": "（BHE)12月 就活支講座チャレンジ実践会",
             "summary": "12月も面接編とGD編を対面で開催します。\nビジネスマナーも学ぶことができます。\n就活中の方、ISの選考を受ける方、参加して役立ててください。\nBHEキャリア支援チームのファシリテーターからフィードバックがあります。（日本語での開催です）\n\n〇開催日時\n１2月15日（金）\n面接編　１０：００－１２：００\nGD編　  １３：３０－１５： ００\n\n〇場所\n面接編　人間系学系棟A　１階　１１４\nGD編　…",
             "date_modified": "2023-11-24T03:00:00.000Z"
-        },
-        {
-            "id": "309dcaf61d5ba2f7c4b75eec71aa0360",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4604",
-            "title": "12/6（16:45～）金塚氏講演会「スーパーシティの取組とインターネット投票」（学生・教員対象）",
-            "summary": "TSUKUBA社会国際学初年次チュートリアルプログラムでは、12月6日（水）16時45分から公開講演会を開催いたします。講師はつくば市政策イノベーション部　科学技術戦略課の金塚安伸氏で、「スーパーシティの取組とインターネット投票」という題目で講演していただきます。筑波大学の学生・教員でしたらどなたでもご参加いただけます。奮ってご参加下さい。\n\n「政治学の最前線チュートリアル」主催講演会\n日時：12…",
-            "date_modified": "2023-11-22T03:00:00.000Z"
         }
     ]
 }
