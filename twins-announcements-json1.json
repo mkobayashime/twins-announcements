@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "d07de3a2549e9d1109e19fd73f9711de",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4630",
+            "title": "STOP！研究費不正使用！／STOP！Wrongful use of research funding！",
+            "summary": "学生の皆さんが不正使用に巻き込まれるケースが多発しています。\n不正を見かけた、持ちかけられたら、通報窓口へ。\nコンプライアンス・ハラスメント対策室（学内窓口）\nMail:compliance@un.tsukuba.ac.jp TEL:029-853-2033\nつくば中央法律事務所（学外窓口）\nTEL:029-896-3530  FAX:029-896-3531",
+            "date_modified": "2023-12-01T03:00:00.000Z"
+        },
+        {
             "id": "a934d6a8fdc4ec3579f4db1f7900ef0e",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4610",
             "title": "筑波大学公式オリジナルグッズECサイト割引クーポンのお知らせ（12月）",
@@ -135,13 +142,6 @@
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4612",
             "title": "【再掲　12/1開催】社会・国際学群チュートリアルプログラムオンライン公開講演会開催のお知らせ（国際学Ⅲチュートリアル）",
             "summary": "学生の皆様、教職員の皆様\n\nこのたび社会・国際学群チュートリアルプログラムでは、オンラインによる公開講演会を開催いたします。講師は、特定非営利活動法人APLA（Alternative People’s  Linkage in Asia）事務局長の野川未央氏で、『インドネシアの伝統的エビ養殖農家と歩んだ30年－エコシュリンプ民衆交易事業の歴史を振り返る』というタイトルで講演を行っていただきます。皆様…",
-            "date_modified": "2023-11-27T03:00:00.000Z"
-        },
-        {
-            "id": "8d2ca6a0bba3669a3b03a3bb51ba85bb",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4611",
-            "title": "12/6（16:45～）金塚氏講演会「スーパーシティの取組とインターネット投票」（学生・教員対象）事前登録のお願い",
-            "summary": "先日ご案内した「政治学の最前線チュートリアル」主催講演会につきまして、参加者の目安を把握するために事前登録をお願いしております。\n\nつきましては、参加予定の方は、下記のURLから参加登録をお願いできますでしょうか。\n当日は、参加登録なしでも出席することが可能です。\nまた、参加登録のうえで事情により欠席する場合でも、ご連絡いただかなくてけっこうです。\n\nhttps://forms.gle/oKskZ…",
             "date_modified": "2023-11-27T03:00:00.000Z"
         }
     ]
