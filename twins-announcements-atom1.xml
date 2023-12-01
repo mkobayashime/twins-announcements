@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/mkobayashime/twins-announcements</id>
     <title>在学生へのお知らせ | 筑波大学</title>
-    <updated>2023-12-01T15:18:43.653Z</updated>
+    <updated>2023-12-01T21:15:38.023Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://github.com/mkobayashime/twins-announcements"/>
     <subtitle>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</subtitle>
@@ -143,12 +143,13 @@ ECサイトは以下のリンクから
         <id>6ba3a8bf22c4d4900afb6333e3911e51</id>
         <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4625"/>
         <updated>2023-11-29T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[ヒューマンエンパワーメント推進局キャリア支援チームから以下のメールアドレスで学生の皆さまへアナウンスをしております。
+        <summary type="html"><![CDATA[キャリア支援チームから送られるメールについて、自動的に迷惑フォルダに格納されてしまうという問い合わせをいただきました。
 送信者：syushokuka@gswebsv.sec(以下略)
-　　　　soudan@gswebsv.sec(以下略)
-　　　　bhe-noreply@gswebsv.sec(以下略)
 
-この送信者から送られてくるメールには、学生の皆さんに必ず確認してほしい重要事項や個別キャリア相…]]></summary>
+この送信者から送られてくるメールには、学生の皆さんに必ず確認してほしい重要事項を記載しています。
+各自、Microsoft365アカウントによるOutlookの現状確認をお願いいたします。
+
+そのうえで、上記送信者…]]></summary>
     </entry>
     <entry>
         <title type="html"><![CDATA[【ブラジル留学説明会】12月12日（火）11:30~12:15]]></title>
