@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "56c05723ead994dde26b5359f69455ec",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4633",
+            "title": "【周知】「TSUKUBA-SHOP」☺ SNS はじめました！☺",
+            "summary": "「TSUKUBA-SHOP」ではこの度SNSをはじめました。\n\n公式オリジナルグッズ紹介やキャンペーンの他、クーポンの配布などお得情報を配信します！\n\nぜひフォローお願いいたします！\n\n\n●X（旧twitter）\nhttps://twitter.com/TsukubaShop\n●Instagram\nhttps://www.instagram.com/tsukuba_shop/\n●Facebook\n…",
+            "date_modified": "2023-12-01T03:00:00.000Z"
+        },
+        {
             "id": "ec57de73293d4b3e7f679b50997c3241",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4632",
             "title": "12月4日 15:15~ ブラジル文化紹介イベント　",
@@ -135,13 +142,6 @@
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4615",
             "title": "Nov28th(Tue) J-Chat～SCであそぼ～(水引/Mizuhiki）",
             "summary": "“J-Chat～SCであそぼ～” is a face-to-face Japanese chat event that connects international students with Japanese students. You can chill and chat in Japanese while enjoying cultural workshops, at the SC (Stu…",
-            "date_modified": "2023-11-27T03:00:00.000Z"
-        },
-        {
-            "id": "c988daa958ba73e9ae2d77c5b3a0b3d8",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4614",
-            "title": "【受講者募集】グローバル人材育成プログラム「アフリカにおけるグローバル人材育成プログラム」",
-            "summary": "このたび国連大学SDG大学連携プラットフォーム事務局から、UNU-IAS（国連大学サステイナビリティ高等研究所）が実施するグローバル人材育成プログラム「アフリカにおけるグローバル人材育成プログラム」について受講者募集の案内がありましたのでお知らせします。\n\n*******************************\nプログラム名：グローバル人材育成プログラム「アフリカにおけるグローバル人材育成…",
             "date_modified": "2023-11-27T03:00:00.000Z"
         }
     ]
