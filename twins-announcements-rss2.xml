@@ -4,10 +4,20 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Mon, 04 Dec 2023 06:16:26 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 04 Dec 2023 08:15:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
+        <item>
+            <title><![CDATA[【申込延長】「12/7 アスリート・アクティビズム、オリンピック憲章規則50の合法性及びオリンピックの法的枠組み」]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4642</link>
+            <guid>922ef0be369a8868f5da3ef1426fa0f0</guid>
+            <pubDate>Mon, 04 Dec 2023 03:00:00 GMT</pubDate>
+            <description><![CDATA[0ATQ002 「Olympic Movement and Sport Law」
+
+　このコースはオリンピック憲章の構成とその内容、オリンピック・ムーブメントに関するオリンピック憲章での定義、その法律的意義、これまでのオリンピック憲章におけるオリンピック・ムーブメントの変遷を学びます。
+　今回は、マンチェスターメトロポリタン大学 マンチェスターロースクールの Mark James先生をお招きし、オ…]]></description>
+        </item>
         <item>
             <title><![CDATA[【12/6開催】えがおcafe 2023（お菓子等の販売会）の開催について]]></title>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4641</link>
@@ -258,19 +268,6 @@ ECサイトは以下のリンクから
 内容：
 ・サンパウロ大学（USP）の紹介（USPからの教職員）*英語
 ・ブラ…]]></description>
-        </item>
-        <item>
-            <title><![CDATA[ブラジル文化紹介イベント]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4623</link>
-            <guid>8ca53776ffc08877f90a8d0fcf04ac08</guid>
-            <pubDate>Wed, 29 Nov 2023 03:00:00 GMT</pubDate>
-            <description><![CDATA[ブラジルからの留学生およびブラジル（サンパウロ大学）での留学経験者による国際交流イベントです！
-文化紹介のプレゼン以外にも、ゲームや食べ物なども楽しんでいただけます！
-留学生と友達になりたい方、海外に興味のある方、留学を考えてる方、沢山の学生と交流ができるイベントです。
-皆様、ぜひお気軽にご参加ください！
-
-◆対象：本学の学生
-◆日程：12月4日（月）　 スポーツ (Beach Sports, M…]]></description>
         </item>
     </channel>
 </rss>

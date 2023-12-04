@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/mkobayashime/twins-announcements</id>
     <title>在学生へのお知らせ | 筑波大学</title>
-    <updated>2023-12-04T06:16:26.104Z</updated>
+    <updated>2023-12-04T08:15:55.089Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://github.com/mkobayashime/twins-announcements"/>
     <subtitle>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</subtitle>
+    <entry>
+        <title type="html"><![CDATA[【申込延長】「12/7 アスリート・アクティビズム、オリンピック憲章規則50の合法性及びオリンピックの法的枠組み」]]></title>
+        <id>922ef0be369a8868f5da3ef1426fa0f0</id>
+        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4642"/>
+        <updated>2023-12-04T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[0ATQ002 「Olympic Movement and Sport Law」
+
+　このコースはオリンピック憲章の構成とその内容、オリンピック・ムーブメントに関するオリンピック憲章での定義、その法律的意義、これまでのオリンピック憲章におけるオリンピック・ムーブメントの変遷を学びます。
+　今回は、マンチェスターメトロポリタン大学 マンチェスターロースクールの Mark James先生をお招きし、オ…]]></summary>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【12/6開催】えがおcafe 2023（お菓子等の販売会）の開催について]]></title>
         <id>eec8815f83e5db7cb9f83025508b6217</id>
@@ -256,18 +266,5 @@ ECサイトは以下のリンクから
 内容：
 ・サンパウロ大学（USP）の紹介（USPからの教職員）*英語
 ・ブラ…]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ブラジル文化紹介イベント]]></title>
-        <id>8ca53776ffc08877f90a8d0fcf04ac08</id>
-        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4623"/>
-        <updated>2023-11-29T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[ブラジルからの留学生およびブラジル（サンパウロ大学）での留学経験者による国際交流イベントです！
-文化紹介のプレゼン以外にも、ゲームや食べ物なども楽しんでいただけます！
-留学生と友達になりたい方、海外に興味のある方、留学を考えてる方、沢山の学生と交流ができるイベントです。
-皆様、ぜひお気軽にご参加ください！
-
-◆対象：本学の学生
-◆日程：12月4日（月）　 スポーツ (Beach Sports, M…]]></summary>
     </entry>
 </feed>
