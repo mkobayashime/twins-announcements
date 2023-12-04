@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "eec8815f83e5db7cb9f83025508b6217",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4641",
+            "title": "【12/6開催】えがおcafe 2023（お菓子等の販売会）の開催について",
+            "summary": "筑波大学附属特別支援学校の生徒たちが作ったお菓子や小物の販売会を体育芸術エリアで行います。\nお菓子は厳選された国産の材料を使い、添加物は一切使用せず、食品加工の専門家からも高い評価を受けているものです。\n販売も生徒たち自身が行いますので、ぜひともお立ち寄りいただき、生徒たちにお声掛けいただけますようお願いいたします。\n\n日時　12月6日(水)　11時頃から14時頃まで（商品がなくなりましたら終了い…",
+            "date_modified": "2023-12-04T03:00:00.000Z"
+        },
+        {
             "id": "73707edb1d17015b67e0a621671830d0",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4640",
             "title": "本日15:15~ ブラジル文化紹介イベント",
@@ -135,13 +142,6 @@
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4623",
             "title": "ブラジル文化紹介イベント",
             "summary": "ブラジルからの留学生およびブラジル（サンパウロ大学）での留学経験者による国際交流イベントです！\n文化紹介のプレゼン以外にも、ゲームや食べ物なども楽しんでいただけます！\n留学生と友達になりたい方、海外に興味のある方、留学を考えてる方、沢山の学生と交流ができるイベントです。\n皆様、ぜひお気軽にご参加ください！\n\n◆対象：本学の学生\n◆日程：12月4日（月）　 スポーツ (Beach Sports, M…",
-            "date_modified": "2023-11-29T03:00:00.000Z"
-        },
-        {
-            "id": "162c349893e87772b2b7869785c2906e",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4622",
-            "title": "【BHEキャリア支援チーム】《しごと探求WEEK！》ミライ博／業界研究会まであと2日！前夜祭は明日18：30開催！！",
-            "summary": "企業検索ができる特設サイトが公開になりました！\n興味のある業種や、出展日程、企業情報が閲覧できます。ぜひご活用ください！\n\n－－－特設サイトへの行き方－－－－－－\n➀キャリア支援チームHP「在学者限定情報」の 「イベントコンテンツ（動画・資料）」をクリック\n※ユーザー名：学籍番号　PW:統一認証PW（TWINSと同じ）\n➁「【BHEキャリア支援チーム主催】ミライ博「業界研究会」特設サイトのご案内」…",
             "date_modified": "2023-11-29T03:00:00.000Z"
         }
     ]
