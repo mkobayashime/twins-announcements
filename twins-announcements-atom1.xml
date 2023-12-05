@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/mkobayashime/twins-announcements</id>
     <title>在学生へのお知らせ | 筑波大学</title>
-    <updated>2023-12-05T02:27:01.838Z</updated>
+    <updated>2023-12-05T05:11:38.968Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://github.com/mkobayashime/twins-announcements"/>
     <subtitle>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</subtitle>
+    <entry>
+        <title type="html"><![CDATA[【重要】2023年度第2期分授業料の納入督促について]]></title>
+        <id>9b8dcd0f5c4d7203b84b47462f49fd29</id>
+        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4646"/>
+        <updated>2023-12-05T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[　2023年度第2期分授業料について、11月27日(月)に口座振替により引落しを行いました。残高不足等のため引落しができなかった者については、12月27日(水)に再度預金口座から引落しを行います。
+　つきましては、金融機関の前営業日である12月26日(火)までに登録した預金口座へ入金をお願いします。
+
+　なお、引落しがされている場合は、通帳に“ツクバダイ”と記帳されますので、引落しがされているか登…]]></summary>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【開催案内】第46回「中央ユーラシアと日本の未来」公開講演会「道路標識にはなぜ 平仮名がないのか」]]></title>
         <id>d7c7c620a4766746ba42897e748b97dc</id>
@@ -242,17 +252,5 @@ ECサイトは以下のリンクから
 ➀キャリア支援チームHP「在学者限定情報」の 「イベントコンテンツ（動画・資料）」をクリック
 ※ユーザー名：学籍番号　PW:統一認証PW（TWINSと同じ）
 ➁「【BHEキャリア支援チーム主催】ミライ博「業界研究会」特設サイトのご案内…]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【重要】メールの受け取りについて]]></title>
-        <id>08de057607058377899498517521c10a</id>
-        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4626"/>
-        <updated>2023-11-30T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[ヒューマンエンパワーメント推進局キャリア支援チームから以下のメールアドレスで学生の皆さまへアナウンスをしております。
-送信者：syushokuka@gswebsv.sec(以下略)
-　　　　soudan@gswebsv.sec(以下略)
-　　　　bhe-noreply@gswebsv.sec(以下略)
-
-この送信者から送られてくるメールには、学生の皆さんに必ず確認してほしい重要事項や個別キャリア相…]]></summary>
     </entry>
 </feed>
