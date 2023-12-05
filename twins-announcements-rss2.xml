@@ -4,10 +4,17 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Tue, 05 Dec 2023 00:53:43 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 05 Dec 2023 01:56:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
+        <item>
+            <title><![CDATA[NOW! Let's make traditional new year's decorations! 10:00-12:00]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4644</link>
+            <guid>43f36181a94b740d06a5ca395af70a3e</guid>
+            <pubDate>Tue, 05 Dec 2023 03:00:00 GMT</pubDate>
+            <description><![CDATA[“J-Chat～SCであそぼ～” is a face-to-face Japanese chat event that connects international students with Japanese students. You can chill and chat in Japanese while enjoying cultural workshops, at the SC (Stu…]]></description>
+        </item>
         <item>
             <title><![CDATA[６日まで毎日開催！！《しごと探求WEEK！》ミライ博／業界研究会【BHEキャリア支援チーム】]]></title>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4643</link>
@@ -241,23 +248,6 @@ ECサイトは以下のリンクから
 各自、Microsoft365アカウントによるOutlookの現状確認をお願いいたします。
 
 そのうえで、上記送信者…]]></description>
-        </item>
-        <item>
-            <title><![CDATA[【ブラジル留学説明会】12月12日（火）11:30~12:15]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4624</link>
-            <guid>f10108c3661ba2dc189218c8fd107920</guid>
-            <pubDate>Wed, 29 Nov 2023 03:00:00 GMT</pubDate>
-            <description><![CDATA[ブラジルへの留学説明会を開催します！
-ブラジル－特にサンパウロ大学（USP）－への留学を検討している方は、是非参加してください！
-
-開催日：2023年12月12日（火）11:30~12:15
-対象：筑波大学在学生で交換留学を希望する者
-場所：スチューデント・コモンズ（第一エリア 1A棟203）
-使用言語：英語及び日本語
-
-内容：
-・サンパウロ大学（USP）の紹介（USPからの教職員）*英語
-・ブラ…]]></description>
         </item>
     </channel>
 </rss>

@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "43f36181a94b740d06a5ca395af70a3e",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4644",
+            "title": "NOW! Let's make traditional new year's decorations! 10:00-12:00",
+            "summary": "“J-Chat～SCであそぼ～” is a face-to-face Japanese chat event that connects international students with Japanese students. You can chill and chat in Japanese while enjoying cultural workshops, at the SC (Stu…",
+            "date_modified": "2023-12-05T03:00:00.000Z"
+        },
+        {
             "id": "f44aecee02fd344728f5a237063735ec",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4643",
             "title": "６日まで毎日開催！！《しごと探求WEEK！》ミライ博／業界研究会【BHEキャリア支援チーム】",
@@ -135,13 +142,6 @@
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4625",
             "title": "メールの受け取りについて現状確認をお願いします。",
             "summary": "キャリア支援チームから送られるメールについて、自動的に迷惑フォルダに格納されてしまうという問い合わせをいただきました。\n送信者：syushokuka@gswebsv.sec(以下略)\n\nこの送信者から送られてくるメールには、学生の皆さんに必ず確認してほしい重要事項を記載しています。\n各自、Microsoft365アカウントによるOutlookの現状確認をお願いいたします。\n\nそのうえで、上記送信者…",
-            "date_modified": "2023-11-29T03:00:00.000Z"
-        },
-        {
-            "id": "f10108c3661ba2dc189218c8fd107920",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4624",
-            "title": "【ブラジル留学説明会】12月12日（火）11:30~12:15",
-            "summary": "ブラジルへの留学説明会を開催します！\nブラジル－特にサンパウロ大学（USP）－への留学を検討している方は、是非参加してください！\n\n開催日：2023年12月12日（火）11:30~12:15\n対象：筑波大学在学生で交換留学を希望する者\n場所：スチューデント・コモンズ（第一エリア 1A棟203）\n使用言語：英語及び日本語\n\n内容：\n・サンパウロ大学（USP）の紹介（USPからの教職員）*英語\n・ブラ…",
             "date_modified": "2023-11-29T03:00:00.000Z"
         }
     ]
