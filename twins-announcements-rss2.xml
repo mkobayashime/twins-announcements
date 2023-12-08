@@ -4,21 +4,10 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Fri, 08 Dec 2023 00:53:27 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 Dec 2023 04:14:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
-        <item>
-            <title><![CDATA[【BHEイベント】【続編】大学院進学と就職を考えるセミナー]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4659</link>
-            <guid>6bc4e76d02b88eb9f70c6b0e360d2b32</guid>
-            <pubDate>Fri, 08 Dec 2023 03:00:00 GMT</pubDate>
-            <description><![CDATA[11月17日に実施しましたセミナーの続編です。今回は大学院進学と就職に悩みを抱える学生の質疑応答を中心に実施します。
-
-前半では大学院生のキャリア支援専門家集団であるアカリク講師による講演です。大学院進学することの意味・学部卒と院卒の違い・院進後の大切なポイントやキャリアパスなどをお話しします。
-
-後半では院進に関する疑問や不安について、参加者から直接受け付ける質疑応答タイムです。アカリク講師とB…]]></description>
-        </item>
         <item>
             <title><![CDATA[Frontiers of MDA Research (Vol. 3) "Data Science and Sustainability" 12/16 (Sat)]]></title>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4658</link>
@@ -233,6 +222,15 @@ You can try any part of the eBooks from the following eBook pla…]]></descripti
 
 「社会学の最前線チュートリアル」主催講演会
 日時：12月21日（木）…]]></description>
+        </item>
+        <item>
+            <title><![CDATA[【交通費支給】ダイバーシティとキャリアに関するワークショップ参加者の募集]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4637</link>
+            <guid>8b33ee3437665fe1289213449cebd22c</guid>
+            <pubDate>Mon, 04 Dec 2023 03:00:00 GMT</pubDate>
+            <description><![CDATA[現在、私たちの研究グループでは、リシュモンジャパン株式会社※（カルティエ等のブランドを運営する会社）と共同して、多様な属性や特性をもつ学生一人ひとりが安心して働きたいと思える職場とはどのような職場なのか、職場におけるダイバーシティ＆インクルージョン（Diversity & Inclusion）について研究を進めています。
+
+今回、リシュモンジャパン株式会社が主催するワークショップを【2月20日（火…]]></description>
         </item>
     </channel>
 </rss>

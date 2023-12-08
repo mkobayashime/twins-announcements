@@ -5,13 +5,6 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
-            "id": "6bc4e76d02b88eb9f70c6b0e360d2b32",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4659",
-            "title": "【BHEイベント】【続編】大学院進学と就職を考えるセミナー",
-            "summary": "11月17日に実施しましたセミナーの続編です。今回は大学院進学と就職に悩みを抱える学生の質疑応答を中心に実施します。\n\n前半では大学院生のキャリア支援専門家集団であるアカリク講師による講演です。大学院進学することの意味・学部卒と院卒の違い・院進後の大切なポイントやキャリアパスなどをお話しします。\n\n後半では院進に関する疑問や不安について、参加者から直接受け付ける質疑応答タイムです。アカリク講師とB…",
-            "date_modified": "2023-12-08T03:00:00.000Z"
-        },
-        {
             "id": "81b3d7765eb3503cd82e49de95569e05",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4658",
             "title": "Frontiers of MDA Research (Vol. 3) \"Data Science and Sustainability\" 12/16 (Sat)",
@@ -142,6 +135,13 @@
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4638",
             "title": "12/21（16:45～）元橋氏講演会「ケア・フェミニズムの可能性と課題」（学生・教員対象）",
             "summary": "TSUKUBA社会国際学初年次チュートリアルプログラムでは、12月21日（木）16時45分から公開講演会を開催いたします。講師は大阪大学人間科学研究科 招へい研究員の元橋利恵氏で、「ケア・フェミニズムの可能性と課題」という題目で講演していただきます。筑波大学の学生・教員でしたらどなたでもご参加いただけます。奮ってご参加下さい。\n\n「社会学の最前線チュートリアル」主催講演会\n日時：12月21日（木）…",
+            "date_modified": "2023-12-04T03:00:00.000Z"
+        },
+        {
+            "id": "8b33ee3437665fe1289213449cebd22c",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4637",
+            "title": "【交通費支給】ダイバーシティとキャリアに関するワークショップ参加者の募集",
+            "summary": "現在、私たちの研究グループでは、リシュモンジャパン株式会社※（カルティエ等のブランドを運営する会社）と共同して、多様な属性や特性をもつ学生一人ひとりが安心して働きたいと思える職場とはどのような職場なのか、職場におけるダイバーシティ＆インクルージョン（Diversity & Inclusion）について研究を進めています。\n\n今回、リシュモンジャパン株式会社が主催するワークショップを【2月20日（火…",
             "date_modified": "2023-12-04T03:00:00.000Z"
         }
     ]
