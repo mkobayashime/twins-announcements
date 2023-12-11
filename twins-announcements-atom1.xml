@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/mkobayashime/twins-announcements</id>
     <title>在学生へのお知らせ | 筑波大学</title>
-    <updated>2023-12-11T09:19:25.208Z</updated>
+    <updated>2023-12-11T15:19:50.865Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://github.com/mkobayashime/twins-announcements"/>
     <subtitle>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</subtitle>
@@ -55,24 +55,6 @@
         <summary type="html"><![CDATA[前回11月17日に実施しましたセミナーが好評につき2回目の開催となります。今回は大学院進学と就職に悩みを抱える学生の質疑応答を中心に実施します。
 前半大学院生のキャリア支援専門家集団アカリクの講演内容は第1回と同一になります。大学院進学することの意味・学部卒と院卒の違い・院進後の大切なポイントやキャリアパスなどをお話しします。
 後半では院進に関する疑問や不安について、参加者から直接受け付ける質疑応…]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Today！国際交流フェス「IMAGINE THE 海外」12/11(月)10:00~15:00]]></title>
-        <id>b221b5c7abc97350fd6df419bbcd6444</id>
-        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4665"/>
-        <updated>2023-12-11T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[留学前に協定校の事を知ろう！協定校の友達を作ろう！国際交流楽しもう！プログラム担当者/留学体験者に聞い
-
-”IMAGINE THE 海外.”
-日時：2023年12月11日（月）10：00～15：00
-場所：大学会館
-登録不要・参加無料！
-
-〈イベントの趣旨〉
-① 世界各国からやってきている留学生の母国（地域）の文化を知ろう！
-② 交換留学生の協定校のことを知ろう！
-③ 大学生活を国際化しよう！
-④…]]></summary>
     </entry>
     <entry>
         <title type="html"><![CDATA[空き枠あり(BHE) 就活実践講座（面接・GD練習）チャレンジ実践会]]></title>
@@ -240,5 +222,15 @@ You can try any part of the eBooks from the following eBook pla…]]></summary>
 ◎留学生向けガイダンスを10：30から実施しています！
 
 筑…]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【重要】2023年度第2期分授業料の納入督促について]]></title>
+        <id>9b8dcd0f5c4d7203b84b47462f49fd29</id>
+        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4646"/>
+        <updated>2023-12-05T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[　2023年度第2期分授業料について、11月27日(月)に口座振替により引落しを行いました。残高不足等のため引落しができなかった者については、12月27日(水)に再度預金口座から引落しを行います。
+　つきましては、金融機関の前営業日である12月26日(火)までに登録した預金口座へ入金をお願いします。
+
+　なお、引落しがされている場合は、通帳に“ツクバダイ”と記帳されますので、引落しがされているか登…]]></summary>
     </entry>
 </feed>
