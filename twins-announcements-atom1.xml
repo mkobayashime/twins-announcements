@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/mkobayashime/twins-announcements</id>
     <title>在学生へのお知らせ | 筑波大学</title>
-    <updated>2023-12-12T03:13:07.540Z</updated>
+    <updated>2023-12-12T08:15:35.753Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://github.com/mkobayashime/twins-announcements"/>
     <subtitle>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</subtitle>
+    <entry>
+        <title type="html"><![CDATA[【注意喚起】植樹作業の伴う通行注意のお知らせ]]></title>
+        <id>315f0d5b1d9054ea6ffe1bcbe660275d</id>
+        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4675"/>
+        <updated>2023-12-12T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[この度、次の日程で第一エリア松見上池付近において植樹作業を行います。
+作業は、安全等に十分留意して行う予定ですが、工事車両も運行しますので、通行の際はご注意ください。
+
+工事日程：令和５年１２月１６日（土）終日 雨天の場合は翌日１７日（日）に実施予定
+工事場所：第一エリア・松見池付近（添付ファイルのとおり）]]></summary>
+    </entry>
     <entry>
         <title type="html"><![CDATA[芸術支援研究会 映画「手でふれてみる世界」上映会のお知らせ]]></title>
         <id>62cc46e9e5bf4d861b1b2bce98c66b04</id>
@@ -218,19 +229,5 @@ You can try any part of the eBooks from the following eBook pla…]]></summary>
         <updated>2023-12-07T03:00:00.000Z</updated>
         <summary type="html"><![CDATA[つくばリサイタルシリーズは、筑波大学の有志学生による連続コンサート企画です。一流のクラシックをファンドレイジングにより一般1500円、学生無料でお届けしています。今回は、2019年に登場し大好評をいただいた読響ブラスを再びお招きします。
 読響ブラスは読売日本交響楽団のトップ奏者からなるアンサンブルです。大曲から新曲まで揃えた本格的なプログラムで、曲間には楽しいトークコーナーも予定しています。クリス…]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[本日最終日！！《しごと探求WEEK！》ミライ博／業界研究会【BHEキャリア支援チーム】]]></title>
-        <id>d7ba24fb445d3fc48d10fb4018abb0cd</id>
-        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4648"/>
-        <updated>2023-12-06T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[最終日の出展企業は、小学館、RIZAPグループ、キオクシア、旭酒造、
-電力中央研究所、茗渓学園、TOKIUM、星野リゾート・マネジメント、日本総合研究所、
-丸善石油、三菱電機、日本郵船、クオリサイトテクノロジーズ、リコーITソリューションズ、新日本科学PPD  など63社！
-
-◎公務員試験の対策・相談ができる東京リーガルマインドが出展！
-◎留学生向けガイダンスを10：30から実施しています！
-
-筑…]]></summary>
     </entry>
 </feed>
