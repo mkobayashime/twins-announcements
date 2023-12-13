@@ -2,10 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/mkobayashime/twins-announcements</id>
     <title>在学生へのお知らせ | 筑波大学</title>
-    <updated>2023-12-12T21:16:05.811Z</updated>
+    <updated>2023-12-13T00:53:14.244Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://github.com/mkobayashime/twins-announcements"/>
     <subtitle>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</subtitle>
+    <entry>
+        <title type="html"><![CDATA[空き枠あり！（BHE)面接・GD練習会　12月 就活支講座チャレンジ実践会]]></title>
+        <id>d649592e642d0d0cba59d87eda125dbc</id>
+        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4676"/>
+        <updated>2023-12-13T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[12月も面接編とGD編を対面で開催します。
+ビジネスマナーも学ぶことができます。
+就活中の方、ISの選考を受ける方、参加して役立ててください。
+BHEキャリア支援チームのファシリテーターからフィードバックがあります。（日本語での開催です）
+
+〇開催日時
+１2月15日（金）
+面接編　１０：００－１２：００
+GD編　  １３：３０－１５： ００
+
+〇場所
+面接編　人間系学系棟A　１階　１１４
+GD編　…]]></summary>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【注意喚起】植樹作業の伴う通行注意のお知らせ]]></title>
         <id>315f0d5b1d9054ea6ffe1bcbe660275d</id>
@@ -221,13 +240,5 @@ You can try any part of the eBooks from the following eBook pla…]]></summary>
 開催方式：初回は対面、第２～４回はリモート。　
 開催曜日：平日（火曜、水曜、木曜、金曜のいずれか）18:15~19:45,
 どの…]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【学生無料】第14回TRS『読響ブラス―クリスマスに贈る金管のハーモニー』]]></title>
-        <id>a677e5255593c9d4db9069e273e32209</id>
-        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4650"/>
-        <updated>2023-12-07T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[つくばリサイタルシリーズは、筑波大学の有志学生による連続コンサート企画です。一流のクラシックをファンドレイジングにより一般1500円、学生無料でお届けしています。今回は、2019年に登場し大好評をいただいた読響ブラスを再びお招きします。
-読響ブラスは読売日本交響楽団のトップ奏者からなるアンサンブルです。大曲から新曲まで揃えた本格的なプログラムで、曲間には楽しいトークコーナーも予定しています。クリス…]]></summary>
     </entry>
 </feed>
