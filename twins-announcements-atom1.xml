@@ -2,10 +2,24 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/mkobayashime/twins-announcements</id>
     <title>在学生へのお知らせ | 筑波大学</title>
-    <updated>2023-12-13T09:12:21.762Z</updated>
+    <updated>2023-12-13T09:18:07.685Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://github.com/mkobayashime/twins-announcements"/>
     <subtitle>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</subtitle>
+    <entry>
+        <title type="html"><![CDATA[【周知】天久保歩道橋修繕工事に伴う通行止めについて]]></title>
+        <id>3c65e49276eb97965d0b7b85ff342256</id>
+        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4679"/>
+        <updated>2023-12-13T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[　茨城県土浦土木事務所より、天久保歩道橋の修繕工事を実施するにあたり、通行止めをするとのことで、情報提供がありましたのでお知らせします。
+
+【場所】天久保歩道橋
+【工事期間】令和6年1月9日～令和6年3月15日
+※工事期間中は通行止めとなります。
+
+　詳細は添付のPDFからご確認いただけますので、よろしくお願いいたします。
+]]></summary>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【周知】「孤独・孤立相談ダイヤル#９９９９」の実施について]]></title>
         <id>e77a8244c01d8d471d7c2aa09725ab38</id>
@@ -240,17 +254,5 @@ We are pleased to invite Prof. Seungil Lee (Seoul National Un…]]></summary>
         <summary type="html"><![CDATA[The library is offering the second free full-text trial service of eBooks this year, Maruzen eBook Library provided by Maruzen Yushodo.
 
 You can try any part of the eBooks from the following eBook pla…]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【附属図書館】12月31日まで！電子ブック 全文無料試し読みサービス]]></title>
-        <id>e78193e673994a9303be95ab5d4db6fc</id>
-        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4653"/>
-        <updated>2023-12-07T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[附属図書館では、電子ブックの全文無料試し読みサービスの今年度第2弾として、丸善雄松堂が提供するMaruzen eBook Libraryの試し読みを実施しています。
-
-約10万点の図書の全文を、1回につき5分間試し読みすることができます。また、購入リクエストを送信することもできます。
-
-試読期間は残り約1ヶ月！2023年度の試読サービスはこれが最後です。
-この機会に気になる図書をぜひ開いてみてくだ…]]></summary>
     </entry>
 </feed>
