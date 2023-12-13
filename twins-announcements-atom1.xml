@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/mkobayashime/twins-announcements</id>
     <title>在学生へのお知らせ | 筑波大学</title>
-    <updated>2023-12-13T04:14:39.015Z</updated>
+    <updated>2023-12-13T09:12:21.762Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://github.com/mkobayashime/twins-announcements"/>
     <subtitle>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</subtitle>
+    <entry>
+        <title type="html"><![CDATA[【周知】「孤独・孤立相談ダイヤル#９９９９」の実施について]]></title>
+        <id>e77a8244c01d8d471d7c2aa09725ab38</id>
+        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4678"/>
+        <updated>2023-12-13T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[　文科省より、年末年始期間における「孤独・孤立相談ダイヤル#9999」の試行について、情報提供がありましたのでお知らせします。
+　孤独・孤立の問題は、単身世帯等の増加等により更なる深刻化が懸念されているところで、統一的な相談窓口である「孤独・孤立相談ダイヤル#9999」を令和５年12月15日（金）9:00～令和6年1月4日（木）9:00までの期間における実施を予定しているとのことです。
+
+　詳細は…]]></summary>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【ロシア語未修者可】2024年3月出発！短期留学派遣（CiC協定校　カザフ国立大学）]]></title>
         <id>4226c474da2513c229bc1c4957c68c79</id>
@@ -242,12 +252,5 @@ You can try any part of the eBooks from the following eBook pla…]]></summary>
 
 試読期間は残り約1ヶ月！2023年度の試読サービスはこれが最後です。
 この機会に気になる図書をぜひ開いてみてくだ…]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【Students Free!】Yomikyo Brass - Brass Harmony for Christmas Celebration -]]></title>
-        <id>50056811af688c0b964171198ebe7413</id>
-        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4652"/>
-        <updated>2023-12-07T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[The Yomikyo Brass is an ensemble consisting of the top players of the Yomiuri Nippon Symphony Orchestra. This year's program includes both major and new ones together with enjoyable talk sessions betw…]]></summary>
     </entry>
 </feed>
