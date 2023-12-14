@@ -5,6 +5,20 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "1f9a1bd6693243154bcfa863492a30af",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4683",
+            "title": "【Students Free! Coming Soon!】Yomikyo Brass - Brass Harmony for Christmas Celebration -",
+            "summary": "The Yomikyo Brass is an ensemble consisting of the top players of the Yomiuri Nippon Symphony Orchestra. This year's program includes both major and new ones together with enjoyable talk sessions betw…",
+            "date_modified": "2023-12-14T03:00:00.000Z"
+        },
+        {
+            "id": "fe6c62dc13ca4a05667374e1295131cd",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4682",
+            "title": "【学生無料・開催間近】第14回TRS『読響ブラス―クリスマスに贈る金管のハーモニー』",
+            "summary": "つくばリサイタルシリーズは、筑波大学の有志学生による連続コンサート企画です。\n一流のクラシックをファンドレイジングにより一般1500円、学生無料でお届けしています。\n今回は、2019年に登場し大好評をいただいた読響ブラスを再びお招きします。\n読響ブラスは読売日本交響楽団のトップ奏者からなるアンサンブルです。\n大曲から新曲まで揃えた本格的なプログラムで、曲間には楽しいトークコーナーも予定しています。…",
+            "date_modified": "2023-12-14T03:00:00.000Z"
+        },
+        {
             "id": "32f882a9833f8255d6d7bd65775a1505",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4681",
             "title": "絶賛募集中【ロシア語未修者可】2024年3月出発！短期留学派遣（CiC協定校　カザフ国立大学）",
@@ -128,20 +142,6 @@
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4657",
             "title": "MDA研究のフロンティア(第3回)「Data Science and Sustainability」12/16(土)",
             "summary": "MDA教育推進室より、セミナーのご案内です。\n異分野融合/連携ゼミナール「MDA研究のフロンティア(第3回)」を 12/16(土)13時から開催します。\nオンラインあり、科目履修登録なしで 1回のみの聴講okです。\n今回は、Seungil Lee 教授（ソウル大学）と小林博樹 教授（東京大学）をお招きします。\nぜひご参加ください。\n\n日時：2023年12月16日(土) 13:00- (4時間程度)…",
-            "date_modified": "2023-12-07T03:00:00.000Z"
-        },
-        {
-            "id": "bf560b4ca75013fd0a12e50db0534ff3",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4656",
-            "title": "国際交流フェス「IMAGINE THE 海外」12/11(月)10:00~15:00",
-            "summary": "留学前に協定校の事を知ろう！協定校の友達を作ろう！国際交流楽しもう！プログラム担当者/留学体験者に聞い\n\n”IMAGINE THE 海外.”\n日時：2023年12月11日（月）10：00～15：00\n場所：大学会館\n登録不要・参加無料！\n\n〈イベントの趣旨〉\n① 世界各国からやってきている留学生の母国（地域）の文化を知ろう！\n② 交換留学生の協定校のことを知ろう！\n③ 大学生活を国際化しよう！\n④…",
-            "date_modified": "2023-12-07T03:00:00.000Z"
-        },
-        {
-            "id": "ab1d87ef2067a0cc8b763d7875509e85",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4655",
-            "title": "【重要】冬季休業を向かえるにあたっての注意喚起／【important】Reminder for Winter Vacation",
-            "summary": "\n　学生の皆さんにあっては、冬季休業期間中にさまざまな活動を予定しているかと思いますが、開放的な気分になる時期にこそ、油断が生じ様々なトラブルに巻き込まれる可能性があります。\n　添付のファイルをご確認いただき、安全で有意義な冬季休業を過ごしてください。\n\n　For students, I am sure that you are planning various activities during…",
             "date_modified": "2023-12-07T03:00:00.000Z"
         }
     ]
