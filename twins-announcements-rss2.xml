@@ -4,10 +4,21 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Fri, 15 Dec 2023 00:53:47 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Dec 2023 01:55:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
+        <item>
+            <title><![CDATA[【周知】自転車の無料回収について]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4685</link>
+            <guid>ce332762d25fe851943625a7d880e274</guid>
+            <pubDate>Fri, 15 Dec 2023 03:00:00 GMT</pubDate>
+            <description><![CDATA[　本学では、つくば市シルバー人材センターの協力を得て、昨年に引き続き自転車回収・リサイクルを実施しております。本学を卒業及び修了するにあたって、自転車が不要となった場合は、下記回収場所に持ち込んでいただくようご協力お願いいたします。
+
+回収日程：月～金10：00～16：00（土・日・祝日を除く）
+　　　　※12月28日(木)～1月4日(木)の年末年始を除く。
+場　　所：大学会館駐車場内（桐葉橋下）…]]></description>
+        </item>
         <item>
             <title><![CDATA[【再掲　本日開催】12/15（15時15分～）講演会「AI時代の国際学：異文化理解とグローバル人材」（学生・教員対象）]]></title>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4684</link>
@@ -247,24 +258,6 @@ We are pleased to invite Prof. Seungil Lee (Seoul National Un…]]></description
 ぜひご参加ください。
 
 日時：2023年12月16日(土) 13:00- (4時間程度)…]]></description>
-        </item>
-        <item>
-            <title><![CDATA[国際交流フェス「IMAGINE THE 海外」12/11(月)10:00~15:00]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4656</link>
-            <guid>bf560b4ca75013fd0a12e50db0534ff3</guid>
-            <pubDate>Thu, 07 Dec 2023 03:00:00 GMT</pubDate>
-            <description><![CDATA[留学前に協定校の事を知ろう！協定校の友達を作ろう！国際交流楽しもう！プログラム担当者/留学体験者に聞い
-
-”IMAGINE THE 海外.”
-日時：2023年12月11日（月）10：00～15：00
-場所：大学会館
-登録不要・参加無料！
-
-〈イベントの趣旨〉
-① 世界各国からやってきている留学生の母国（地域）の文化を知ろう！
-② 交換留学生の協定校のことを知ろう！
-③ 大学生活を国際化しよう！
-④…]]></description>
         </item>
     </channel>
 </rss>
