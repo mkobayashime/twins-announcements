@@ -4,10 +4,26 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Fri, 15 Dec 2023 01:55:44 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Dec 2023 08:15:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
+        <item>
+            <title><![CDATA[【注意喚起】大学入学者選抜における不正行為の防止について]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4687</link>
+            <guid>6a3a02f5209ee7ab1a970c0b6bd1bc80</guid>
+            <pubDate>Fri, 15 Dec 2023 03:00:00 GMT</pubDate>
+            <description><![CDATA[大学入学者選抜における不正行為の防止について、文部科学省より注意喚起がありましたのでお知らせいたします。（詳細は添付ファイルを確認してください。）]]></description>
+        </item>
+        <item>
+            <title><![CDATA[【再掲】「お金の超基本勉強会―卒業してからでは遅すぎる」第9回開催のお知らせ]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4686</link>
+            <guid>af1b52c0fef60f9302c31918b5447cd4</guid>
+            <pubDate>Fri, 15 Dec 2023 03:00:00 GMT</pubDate>
+            <description><![CDATA[「筑波大学・世界を変えよう基金アカデミー」では、お金に関する基礎知識（税金の計算、結婚・教育・マイホーム・老後・病気への備え、投資運用,　NISA活用方法等）を学ぶ「お金の超基本勉強会―卒業してからでは遅すぎる」を1月8日の週から4週間にわたって、毎週１回開催します。
+開催方式：初回は可能な限り対面、第２～４回はリモート。　
+開催曜日：平日（火曜、水曜、木曜、金曜のいずれか）18:15~19:45…]]></description>
+        </item>
         <item>
             <title><![CDATA[【周知】自転車の無料回収について]]></title>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4685</link>
@@ -236,28 +252,6 @@ GD編　…]]></description>
 The Kubota Fund
 Deadline: January 16 (Tue.), 2024
 Submission: Please apply to the founda…]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Frontiers of MDA Research (Vol. 3) "Data Science and Sustainability" 12/16 (Sat)]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4658</link>
-            <guid>81b3d7765eb3503cd82e49de95569e05</guid>
-            <pubDate>Thu, 07 Dec 2023 03:00:00 GMT</pubDate>
-            <description><![CDATA[The seminar "Frontier of MDA Research (3rd)" will be held on Saturday, December 16, from 1:00 p.m.
-Online available, one-time auditing ok.
-We are pleased to invite Prof. Seungil Lee (Seoul National Un…]]></description>
-        </item>
-        <item>
-            <title><![CDATA[MDA研究のフロンティア(第3回)「Data Science and Sustainability」12/16(土)]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4657</link>
-            <guid>74c250c87135b6089f531d827d71a979</guid>
-            <pubDate>Thu, 07 Dec 2023 03:00:00 GMT</pubDate>
-            <description><![CDATA[MDA教育推進室より、セミナーのご案内です。
-異分野融合/連携ゼミナール「MDA研究のフロンティア(第3回)」を 12/16(土)13時から開催します。
-オンラインあり、科目履修登録なしで 1回のみの聴講okです。
-今回は、Seungil Lee 教授（ソウル大学）と小林博樹 教授（東京大学）をお招きします。
-ぜひご参加ください。
-
-日時：2023年12月16日(土) 13:00- (4時間程度)…]]></description>
         </item>
     </channel>
 </rss>
