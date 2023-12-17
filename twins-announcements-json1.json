@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "e06bec97a463b1d826b1464b46a7689a",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4674",
+            "title": "【お知らせ】大学会館内「TSUKUBA-SHOP」年末年始営業日のご案内",
+            "summary": "いつも大学会館内「TSUKUBA-SHOP」をご利用いただきありがとうございます。\n\n年末年始の営業日についてお知らせいたします。\n\n\n年内は12月28日(木)まで、年明けは1月11日(木)からの営業となります。\n\n営業時間は10：00～17：00です。\n\n（営業時間は変更となる場合もございますので店頭にてご確認ください）\n\n\n新しい年も「TSUKUBA-SHOP」をどうぞよろしくお願いいたします…",
+            "date_modified": "2023-12-18T03:00:00.000Z"
+        },
+        {
             "id": "499adc0adc177024b35841674e27626a",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4688",
             "title": "【再掲】大学院進学と就職を考えるセミナー",
@@ -87,13 +94,6 @@
             "title": "空き枠あり！（BHE)面接・GD練習会　12月 就活支講座チャレンジ実践会",
             "summary": "12月も面接編とGD編を対面で開催します。\nビジネスマナーも学ぶことができます。\n就活中の方、ISの選考を受ける方、参加して役立ててください。\nBHEキャリア支援チームのファシリテーターからフィードバックがあります。（日本語での開催です）\n\n〇開催日時\n１2月15日（金）\n面接編　１０：００－１２：００\nGD編　  １３：３０－１５： ００\n\n〇場所\n面接編　人間系学系棟A　１階　１１４\nGD編　…",
             "date_modified": "2023-12-13T03:00:00.000Z"
-        },
-        {
-            "id": "315f0d5b1d9054ea6ffe1bcbe660275d",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4675",
-            "title": "【注意喚起】植樹作業の伴う通行注意のお知らせ",
-            "summary": "この度、次の日程で第一エリア松見上池付近において植樹作業を行います。\n作業は、安全等に十分留意して行う予定ですが、工事車両も運行しますので、通行の際はご注意ください。\n\n工事日程：令和５年１２月１６日（土）終日 雨天の場合は翌日１７日（日）に実施予定\n工事場所：第一エリア・松見池付近（添付ファイルのとおり）",
-            "date_modified": "2023-12-12T03:00:00.000Z"
         },
         {
             "id": "a8eac66d09d6d4721c8d17562e520804",

@@ -4,10 +4,29 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Sun, 17 Dec 2023 09:16:27 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 17 Dec 2023 15:11:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
+        <item>
+            <title><![CDATA[【お知らせ】大学会館内「TSUKUBA-SHOP」年末年始営業日のご案内]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4674</link>
+            <guid>e06bec97a463b1d826b1464b46a7689a</guid>
+            <pubDate>Mon, 18 Dec 2023 03:00:00 GMT</pubDate>
+            <description><![CDATA[いつも大学会館内「TSUKUBA-SHOP」をご利用いただきありがとうございます。
+
+年末年始の営業日についてお知らせいたします。
+
+
+年内は12月28日(木)まで、年明けは1月11日(木)からの営業となります。
+
+営業時間は10：00～17：00です。
+
+（営業時間は変更となる場合もございますので店頭にてご確認ください）
+
+
+新しい年も「TSUKUBA-SHOP」をどうぞよろしくお願いいたします…]]></description>
+        </item>
         <item>
             <title><![CDATA[【再掲】大学院進学と就職を考えるセミナー]]></title>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4688</link>
@@ -157,17 +176,6 @@ GD編　  １３：３０－１５： ００
 〇場所
 面接編　人間系学系棟A　１階　１１４
 GD編　…]]></description>
-        </item>
-        <item>
-            <title><![CDATA[【注意喚起】植樹作業の伴う通行注意のお知らせ]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4675</link>
-            <guid>315f0d5b1d9054ea6ffe1bcbe660275d</guid>
-            <pubDate>Tue, 12 Dec 2023 03:00:00 GMT</pubDate>
-            <description><![CDATA[この度、次の日程で第一エリア松見上池付近において植樹作業を行います。
-作業は、安全等に十分留意して行う予定ですが、工事車両も運行しますので、通行の際はご注意ください。
-
-工事日程：令和５年１２月１６日（土）終日 雨天の場合は翌日１７日（日）に実施予定
-工事場所：第一エリア・松見池付近（添付ファイルのとおり）]]></description>
         </item>
         <item>
             <title><![CDATA[【BHEイベント】大学院進学と就職を考えるセミナー]]></title>
