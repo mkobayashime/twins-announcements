@@ -4,10 +4,22 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Mon, 18 Dec 2023 01:55:38 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 18 Dec 2023 07:11:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
+        <item>
+            <title><![CDATA[2024年度 筑波大学ベンチャー起業支援事業「つばさ」の募集開始]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4691</link>
+            <guid>6b881c304683d2b34b8281e27c486044</guid>
+            <pubDate>Mon, 18 Dec 2023 03:00:00 GMT</pubDate>
+            <description><![CDATA[筑波大学ベンチャー起業支援事業「つばさ」は、大学の優れた技術シーズを基にした成長ポテンシャルの高い大学発ベンチャーの創出を促進することを目的としています。
+
+本事業の2024年度研究開発課題の募集を開始いたします。募集の詳細については、こちらをご参照ください。
+・2024年度つばさ事業募集：https://www.sanrenhonbu.tsukuba.ac.jp/score/recruit/
+
+…]]></description>
+        </item>
         <item>
             <title><![CDATA[【再掲】12/21（16:45～）元橋氏講演会「ケア・フェミニズムの可能性と課題」（学生・教員対象）]]></title>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4690</link>
@@ -254,24 +266,6 @@ Submission: Please apply to the founda…]]></description>
 ぜひご参加ください。
 
 日時：2023年12月16日(土) 13:00- (4時間程度)…]]></description>
-        </item>
-        <item>
-            <title><![CDATA[国際交流フェス「IMAGINE THE 海外」12/11(月)10:00~15:00]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4656</link>
-            <guid>bf560b4ca75013fd0a12e50db0534ff3</guid>
-            <pubDate>Thu, 07 Dec 2023 03:00:00 GMT</pubDate>
-            <description><![CDATA[留学前に協定校の事を知ろう！協定校の友達を作ろう！国際交流楽しもう！プログラム担当者/留学体験者に聞い
-
-”IMAGINE THE 海外.”
-日時：2023年12月11日（月）10：00～15：00
-場所：大学会館
-登録不要・参加無料！
-
-〈イベントの趣旨〉
-① 世界各国からやってきている留学生の母国（地域）の文化を知ろう！
-② 交換留学生の協定校のことを知ろう！
-③ 大学生活を国際化しよう！
-④…]]></description>
         </item>
     </channel>
 </rss>
