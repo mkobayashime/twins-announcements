@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "d7048155a53c1e4c9673aa78b33d1f77",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4689",
+            "title": "令和６年度『筑波大学社会貢献プロジェクト』の募集について",
+            "summary": "つくば・地域連携推進室では、教職員や学生による多様な形での地域への貢献活動等を『筑波大学社会貢献プロジェクト』として採択し、活動経費の支援を行っております。\n\nつきましては、下記添付のとおり募集しますので、募集要項をよく確認の上、申請書類を提出願います。\nなお、申請にあたっては、申請書への教員の署名（自署）が必要です。\n\n※申請締切期限：令和６年１月22日（月）16時30分まで",
+            "date_modified": "2023-12-18T03:00:00.000Z"
+        },
+        {
             "id": "e06bec97a463b1d826b1464b46a7689a",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4674",
             "title": "【お知らせ】大学会館内「TSUKUBA-SHOP」年末年始営業日のご案内",
@@ -135,13 +142,6 @@
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4655",
             "title": "【重要】冬季休業を向かえるにあたっての注意喚起／【important】Reminder for Winter Vacation",
             "summary": "\n　学生の皆さんにあっては、冬季休業期間中にさまざまな活動を予定しているかと思いますが、開放的な気分になる時期にこそ、油断が生じ様々なトラブルに巻き込まれる可能性があります。\n　添付のファイルをご確認いただき、安全で有意義な冬季休業を過ごしてください。\n\n　For students, I am sure that you are planning various activities during…",
-            "date_modified": "2023-12-07T03:00:00.000Z"
-        },
-        {
-            "id": "05957074be2a8b21ea2a224d48ba68e0",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4654",
-            "title": "【Library】Free Ebook Trial Service Part2 (-Dec 31)",
-            "summary": "The library is offering the second free full-text trial service of eBooks this year, Maruzen eBook Library provided by Maruzen Yushodo.\n\nYou can try any part of the eBooks from the following eBook pla…",
             "date_modified": "2023-12-07T03:00:00.000Z"
         }
     ]
