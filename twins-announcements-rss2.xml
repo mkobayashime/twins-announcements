@@ -4,18 +4,10 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Mon, 18 Dec 2023 11:10:48 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 18 Dec 2023 15:13:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
-        <item>
-            <title><![CDATA[Call for JEES・T.Banaji Indian International Student Scholarship 2024]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4693</link>
-            <guid>d9606fadf6965fa1f3ec85e0f2097694</guid>
-            <pubDate>Mon, 18 Dec 2023 03:00:00 GMT</pubDate>
-            <description><![CDATA[Deadline: December 26th  5pm, 2023
-Submission: Division of Student Exchange (1A101)＊Submit required documents to isc-shien＃un.tsukuba.ac.jp(replace # to@)                                              …]]></description>
-        </item>
         <item>
             <title><![CDATA[令和6年度　JEES・T.バナージインド留学生奨学金申請について]]></title>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4692</link>
@@ -33,12 +25,12 @@ Submission: Division of Student Exchange (1A101)＊Submit required documents to 
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4691</link>
             <guid>6b881c304683d2b34b8281e27c486044</guid>
             <pubDate>Mon, 18 Dec 2023 03:00:00 GMT</pubDate>
-            <description><![CDATA[筑波大学ベンチャー起業支援事業「つばさ」は、大学の優れた技術シーズを基にした成長ポテンシャルの高い大学発ベンチャーの創出を促進することを目的としています。
+            <description><![CDATA[令和6年度　JEES・T.バナージインド留学生奨学金
 
-本事業の2024年度研究開発課題の募集を開始いたします。募集の詳細については、こちらをご参照ください。
-・2024年度つばさ事業募集：https://www.sanrenhonbu.tsukuba.ac.jp/score/recruit/
-
-…]]></description>
+*応募期限：2023年12月26日（火）17時厳守
+*提 出 先：学生部学生交流課（1A101）　　　　　　　　　　　　　　　　　　　　　　　　　                        　
+  ※提出書類をisc-shien#un.tsukuba.ac.jpへ提出してください。（＃を＠に替えてください）
+  ※「留学」ビザを持つインド…]]></description>
         </item>
         <item>
             <title><![CDATA[【再掲】12/21（16:45～）元橋氏講演会「ケア・フェミニズムの可能性と課題」（学生・教員対象）]]></title>
@@ -82,17 +74,6 @@ Submission: Division of Student Exchange (1A101)＊Submit required documents to 
 新しい年も「TSUKUBA-SHOP」をどうぞよろしくお願いいたします…]]></description>
         </item>
         <item>
-            <title><![CDATA[【再掲】大学院進学と就職を考えるセミナー]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4688</link>
-            <guid>499adc0adc177024b35841674e27626a</guid>
-            <pubDate>Fri, 15 Dec 2023 03:00:00 GMT</pubDate>
-            <description><![CDATA[11月17日に実施しましたセミナーの続編です。今回は大学院進学と就職に悩みを抱える学生の質疑応答を中心に実施します。
-
-前半では大学院生のキャリア支援専門家集団であるアカリク講師による講演です。大学院進学することの意味・学部卒と院卒の違い・院進後の大切なポイントやキャリアパスなどをお話しします。
-
-後半では院進に関する疑問や不安について、参加者から直接受け付ける質疑応答タイムです。アカリク講師とB…]]></description>
-        </item>
-        <item>
             <title><![CDATA[【注意喚起】大学入学者選抜における不正行為の防止について]]></title>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4687</link>
             <guid>6a3a02f5209ee7ab1a970c0b6bd1bc80</guid>
@@ -118,24 +99,6 @@ Submission: Division of Student Exchange (1A101)＊Submit required documents to 
 回収日程：月～金10：00～16：00（土・日・祝日を除く）
 　　　　※12月28日(木)～1月4日(木)の年末年始を除く。
 場　　所：大学会館駐車場内（桐葉橋下）…]]></description>
-        </item>
-        <item>
-            <title><![CDATA[【Students Free! Coming Soon!】Yomikyo Brass - Brass Harmony for Christmas Celebration -]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4683</link>
-            <guid>1f9a1bd6693243154bcfa863492a30af</guid>
-            <pubDate>Thu, 14 Dec 2023 03:00:00 GMT</pubDate>
-            <description><![CDATA[The Yomikyo Brass is an ensemble consisting of the top players of the Yomiuri Nippon Symphony Orchestra. This year's program includes both major and new ones together with enjoyable talk sessions betw…]]></description>
-        </item>
-        <item>
-            <title><![CDATA[【学生無料・開催間近】第14回TRS『読響ブラス―クリスマスに贈る金管のハーモニー』]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4682</link>
-            <guid>fe6c62dc13ca4a05667374e1295131cd</guid>
-            <pubDate>Thu, 14 Dec 2023 03:00:00 GMT</pubDate>
-            <description><![CDATA[つくばリサイタルシリーズは、筑波大学の有志学生による連続コンサート企画です。
-一流のクラシックをファンドレイジングにより一般1500円、学生無料でお届けしています。
-今回は、2019年に登場し大好評をいただいた読響ブラスを再びお招きします。
-読響ブラスは読売日本交響楽団のトップ奏者からなるアンサンブルです。
-大曲から新曲まで揃えた本格的なプログラムで、曲間には楽しいトークコーナーも予定しています。…]]></description>
         </item>
         <item>
             <title><![CDATA[絶賛募集中【ロシア語未修者可】2024年3月出発！短期留学派遣（CiC協定校　カザフ国立大学）]]></title>
@@ -232,15 +195,6 @@ GD編　  １３：３０－１５： ００
 GD編　…]]></description>
         </item>
         <item>
-            <title><![CDATA[【BHEイベント】大学院進学と就職を考えるセミナー]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4666</link>
-            <guid>a8eac66d09d6d4721c8d17562e520804</guid>
-            <pubDate>Mon, 11 Dec 2023 03:00:00 GMT</pubDate>
-            <description><![CDATA[前回11月17日に実施しましたセミナーが好評につき2回目の開催となります。今回は大学院進学と就職に悩みを抱える学生の質疑応答を中心に実施します。
-前半大学院生のキャリア支援専門家集団アカリクの講演内容は第1回と同一になります。大学院進学することの意味・学部卒と院卒の違い・院進後の大切なポイントやキャリアパスなどをお話しします。
-後半では院進に関する疑問や不安について、参加者から直接受け付ける質疑応…]]></description>
-        </item>
-        <item>
             <title><![CDATA[空き枠あり(BHE) 就活実践講座（面接・GD練習）チャレンジ実践会]]></title>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4663</link>
             <guid>f5d8cfadda7652dfc9a55bd8c693d9a5</guid>
@@ -258,6 +212,72 @@ GD編　  １３：３０－１５： ００
 〇場所
 面接編　人間系学系棟A　１階　１１４
 GD編　…]]></description>
+        </item>
+        <item>
+            <title><![CDATA[公益信託久保田豊基金助成対象者募集/The Kubota Fund]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4661</link>
+            <guid>f0e829e4bb2e922a4c804bb6d5b52588</guid>
+            <pubDate>Fri, 08 Dec 2023 03:00:00 GMT</pubDate>
+            <description><![CDATA[公益信託久保田豊基金助成対象者募集
+応募締切：2024年1月16日(火)
+提出先：事務局へ直接応募
+募集要項：(PDF(資料1))
+応募ページ：https://mypage.3050.i-webs.jp/kbt2023/
+
+The Kubota Fund
+Deadline: January 16 (Tue.), 2024
+Submission: Please apply to the founda…]]></description>
+        </item>
+        <item>
+            <title><![CDATA[MDA研究のフロンティア(第3回)「Data Science and Sustainability」12/16(土)]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4657</link>
+            <guid>74c250c87135b6089f531d827d71a979</guid>
+            <pubDate>Thu, 07 Dec 2023 03:00:00 GMT</pubDate>
+            <description><![CDATA[MDA教育推進室より、セミナーのご案内です。
+異分野融合/連携ゼミナール「MDA研究のフロンティア(第3回)」を 12/16(土)13時から開催します。
+オンラインあり、科目履修登録なしで 1回のみの聴講okです。
+今回は、Seungil Lee 教授（ソウル大学）と小林博樹 教授（東京大学）をお招きします。
+ぜひご参加ください。
+
+日時：2023年12月16日(土) 13:00- (4時間程度)…]]></description>
+        </item>
+        <item>
+            <title><![CDATA[国際交流フェス「IMAGINE THE 海外」12/11(月)10:00~15:00]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4656</link>
+            <guid>bf560b4ca75013fd0a12e50db0534ff3</guid>
+            <pubDate>Thu, 07 Dec 2023 03:00:00 GMT</pubDate>
+            <description><![CDATA[留学前に協定校の事を知ろう！協定校の友達を作ろう！国際交流楽しもう！プログラム担当者/留学体験者に聞い
+
+”IMAGINE THE 海外.”
+日時：2023年12月11日（月）10：00～15：00
+場所：大学会館
+登録不要・参加無料！
+
+〈イベントの趣旨〉
+① 世界各国からやってきている留学生の母国（地域）の文化を知ろう！
+② 交換留学生の協定校のことを知ろう！
+③ 大学生活を国際化しよう！
+④…]]></description>
+        </item>
+        <item>
+            <title><![CDATA[【重要】冬季休業を向かえるにあたっての注意喚起／【important】Reminder for Winter Vacation]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4655</link>
+            <guid>ab1d87ef2067a0cc8b763d7875509e85</guid>
+            <pubDate>Thu, 07 Dec 2023 03:00:00 GMT</pubDate>
+            <description><![CDATA[
+　学生の皆さんにあっては、冬季休業期間中にさまざまな活動を予定しているかと思いますが、開放的な気分になる時期にこそ、油断が生じ様々なトラブルに巻き込まれる可能性があります。
+　添付のファイルをご確認いただき、安全で有意義な冬季休業を過ごしてください。
+
+　For students, I am sure that you are planning various activities during…]]></description>
+        </item>
+        <item>
+            <title><![CDATA[【Library】Free Ebook Trial Service Part2 (-Dec 31)]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4654</link>
+            <guid>05957074be2a8b21ea2a224d48ba68e0</guid>
+            <pubDate>Thu, 07 Dec 2023 03:00:00 GMT</pubDate>
+            <description><![CDATA[The library is offering the second free full-text trial service of eBooks this year, Maruzen eBook Library provided by Maruzen Yushodo.
+
+You can try any part of the eBooks from the following eBook pla…]]></description>
         </item>
     </channel>
 </rss>
