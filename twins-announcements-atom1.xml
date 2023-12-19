@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/mkobayashime/twins-announcements</id>
     <title>在学生へのお知らせ | 筑波大学</title>
-    <updated>2023-12-19T06:15:35.907Z</updated>
+    <updated>2023-12-19T08:15:13.328Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://github.com/mkobayashime/twins-announcements"/>
     <subtitle>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</subtitle>
+    <entry>
+        <title type="html"><![CDATA[【参加募集】文科省主催：アントレプレナーシップ教育に関する特別講演]]></title>
+        <id>7788f35d7b88b2e17647e5b774c02544</id>
+        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4696"/>
+        <updated>2023-12-19T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[文部科学省から以下の案内がありましたのでお知らせします。
+
+-------------------------
+文部科学省では、全国の学生を対象に、アントレプレナーシップを身に付けるプログラムを実施しています。
+この度、バブソン大学の山川先生をお招きした特別講演をオフライン・オンラインのハイブリットで開催します。
+アメリカのトップスクールのアントレ教育に触れられる非常に貴重な機会です。多くの学生の…]]></summary>
+    </entry>
     <entry>
         <title type="html"><![CDATA[教室変更のご案内：【12/23 13:30】講演会 『言語データとその「鏡」-機械学習モデルを用いた言い誤りと失語症例の分析-』のご案内【対象：学生・教職員】]]></title>
         <id>1a02541d46d80d0b8e04f5196be2539e</id>
@@ -263,23 +275,5 @@ Submission: Please apply to the founda…]]></summary>
 ぜひご参加ください。
 
 日時：2023年12月16日(土) 13:00- (4時間程度)…]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[国際交流フェス「IMAGINE THE 海外」12/11(月)10:00~15:00]]></title>
-        <id>bf560b4ca75013fd0a12e50db0534ff3</id>
-        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4656"/>
-        <updated>2023-12-07T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[留学前に協定校の事を知ろう！協定校の友達を作ろう！国際交流楽しもう！プログラム担当者/留学体験者に聞い
-
-”IMAGINE THE 海外.”
-日時：2023年12月11日（月）10：00～15：00
-場所：大学会館
-登録不要・参加無料！
-
-〈イベントの趣旨〉
-① 世界各国からやってきている留学生の母国（地域）の文化を知ろう！
-② 交換留学生の協定校のことを知ろう！
-③ 大学生活を国際化しよう！
-④…]]></summary>
     </entry>
 </feed>
