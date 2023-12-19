@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "d5f0da6fa61ea191637de3e540e91740",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4697",
+            "title": "【お知らせ】令和５年度学園祭実施に伴う自転車の撤去について",
+            "summary": "   \n\n    学園祭期間中、第二・三エリア～体育・芸術エリア間のペデストリアンデッキ上は学園祭会場となるため、\n\n　自転車の駐輪を規制いたしました。\n\n\n\n　下記日時に、別添「自転車撤去図」の移動対象エリア（黄色の斜線部分）に駐輪してあった自転車は、\n\n　各撤去場所（赤枠部分）へ移動いたしましたので、各自でご回収をお願いいたします。\n\n\n　ご迷惑をおかけし申し訳ございませんが、ご理解とご協力を…",
+            "date_modified": "2023-12-19T03:00:00.000Z"
+        },
+        {
             "id": "7788f35d7b88b2e17647e5b774c02544",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4696",
             "title": "【参加募集】文科省主催：アントレプレナーシップ教育に関する特別講演",
@@ -136,13 +143,6 @@
             "title": "公益信託久保田豊基金助成対象者募集/The Kubota Fund",
             "summary": "公益信託久保田豊基金助成対象者募集\n応募締切：2024年1月16日(火)\n提出先：事務局へ直接応募\n募集要項：(PDF(資料1))\n応募ページ：https://mypage.3050.i-webs.jp/kbt2023/\n\nThe Kubota Fund\nDeadline: January 16 (Tue.), 2024\nSubmission: Please apply to the founda…",
             "date_modified": "2023-12-08T03:00:00.000Z"
-        },
-        {
-            "id": "74c250c87135b6089f531d827d71a979",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4657",
-            "title": "MDA研究のフロンティア(第3回)「Data Science and Sustainability」12/16(土)",
-            "summary": "MDA教育推進室より、セミナーのご案内です。\n異分野融合/連携ゼミナール「MDA研究のフロンティア(第3回)」を 12/16(土)13時から開催します。\nオンラインあり、科目履修登録なしで 1回のみの聴講okです。\n今回は、Seungil Lee 教授（ソウル大学）と小林博樹 教授（東京大学）をお招きします。\nぜひご参加ください。\n\n日時：2023年12月16日(土) 13:00- (4時間程度)…",
-            "date_modified": "2023-12-07T03:00:00.000Z"
         }
     ]
 }

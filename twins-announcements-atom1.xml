@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/mkobayashime/twins-announcements</id>
     <title>在学生へのお知らせ | 筑波大学</title>
-    <updated>2023-12-19T08:15:13.328Z</updated>
+    <updated>2023-12-19T09:17:54.204Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://github.com/mkobayashime/twins-announcements"/>
     <subtitle>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</subtitle>
+    <entry>
+        <title type="html"><![CDATA[【お知らせ】令和５年度学園祭実施に伴う自転車の撤去について]]></title>
+        <id>d5f0da6fa61ea191637de3e540e91740</id>
+        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4697"/>
+        <updated>2023-12-19T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[   
+
+    学園祭期間中、第二・三エリア～体育・芸術エリア間のペデストリアンデッキ上は学園祭会場となるため、
+
+　自転車の駐輪を規制いたしました。
+
+
+
+　下記日時に、別添「自転車撤去図」の移動対象エリア（黄色の斜線部分）に駐輪してあった自転車は、
+
+　各撤去場所（赤枠部分）へ移動いたしましたので、各自でご回収をお願いいたします。
+
+
+　ご迷惑をおかけし申し訳ございませんが、ご理解とご協力を…]]></summary>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【参加募集】文科省主催：アントレプレナーシップ教育に関する特別講演]]></title>
         <id>7788f35d7b88b2e17647e5b774c02544</id>
@@ -262,18 +282,5 @@ GD編　…]]></summary>
 The Kubota Fund
 Deadline: January 16 (Tue.), 2024
 Submission: Please apply to the founda…]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MDA研究のフロンティア(第3回)「Data Science and Sustainability」12/16(土)]]></title>
-        <id>74c250c87135b6089f531d827d71a979</id>
-        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4657"/>
-        <updated>2023-12-07T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[MDA教育推進室より、セミナーのご案内です。
-異分野融合/連携ゼミナール「MDA研究のフロンティア(第3回)」を 12/16(土)13時から開催します。
-オンラインあり、科目履修登録なしで 1回のみの聴講okです。
-今回は、Seungil Lee 教授（ソウル大学）と小林博樹 教授（東京大学）をお招きします。
-ぜひご参加ください。
-
-日時：2023年12月16日(土) 13:00- (4時間程度)…]]></summary>
     </entry>
 </feed>
