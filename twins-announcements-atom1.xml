@@ -2,10 +2,35 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/mkobayashime/twins-announcements</id>
     <title>在学生へのお知らせ | 筑波大学</title>
-    <updated>2023-12-18T21:15:55.143Z</updated>
+    <updated>2023-12-19T06:15:35.907Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://github.com/mkobayashime/twins-announcements"/>
     <subtitle>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</subtitle>
+    <entry>
+        <title type="html"><![CDATA[教室変更のご案内：【12/23 13:30】講演会 『言語データとその「鏡」-機械学習モデルを用いた言い誤りと失語症例の分析-』のご案内【対象：学生・教職員】]]></title>
+        <id>1a02541d46d80d0b8e04f5196be2539e</id>
+        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4695"/>
+        <updated>2023-12-19T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[11月30日にご案内した人文学類文化講演会につきまして、下記のとおり実施場所の変更が生じましたのでご連絡いたします。
+
+変更内容：1D204教室　→　1D201教室
+
+＝＝＝＝＝＝＝＝＝＝＝＝下記、修正後の案内となります。＝＝＝＝＝＝＝＝＝＝＝＝
+
+2023年12月23日(土) 13時30分より、人文学類文化講演会を実施します。
+
+本講演会は人文学類生をはじめとする学類生、大学院生および教職員の皆…]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【令和5年度卒業･修了予定者の皆様へ】「進路進捗状況届」登録のお願い]]></title>
+        <id>dd3a0412366cbe7213f25305594af068</id>
+        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4694"/>
+        <updated>2023-12-19T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[学群・大学院の最終年次に在籍している全学生を対象に、自身の進路を届け出る「進路進捗状況届」の登録をお願いしています。
+就職・進学に限らず、資格試験等準備、職務復帰、家事手伝い、留年、帰国などすべての進路先が対象です。
+卒業・修了後の進路が決まりましたら、キャリア支援チームWebサイト内「進路進捗状況届」から進路を入力のうえ、決定処理をしてください。
+なお、決定処理は複数の進路先を入力されている場合…]]></summary>
+    </entry>
     <entry>
         <title type="html"><![CDATA[令和6年度　JEES・T.バナージインド留学生奨学金申請について]]></title>
         <id>6562d364595812f7b8fe61640e55b8d5</id>
@@ -256,25 +281,5 @@ Submission: Please apply to the founda…]]></summary>
 ② 交換留学生の協定校のことを知ろう！
 ③ 大学生活を国際化しよう！
 ④…]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【重要】冬季休業を向かえるにあたっての注意喚起／【important】Reminder for Winter Vacation]]></title>
-        <id>ab1d87ef2067a0cc8b763d7875509e85</id>
-        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4655"/>
-        <updated>2023-12-07T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[
-　学生の皆さんにあっては、冬季休業期間中にさまざまな活動を予定しているかと思いますが、開放的な気分になる時期にこそ、油断が生じ様々なトラブルに巻き込まれる可能性があります。
-　添付のファイルをご確認いただき、安全で有意義な冬季休業を過ごしてください。
-
-　For students, I am sure that you are planning various activities during…]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【Library】Free Ebook Trial Service Part2 (-Dec 31)]]></title>
-        <id>05957074be2a8b21ea2a224d48ba68e0</id>
-        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4654"/>
-        <updated>2023-12-07T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[The library is offering the second free full-text trial service of eBooks this year, Maruzen eBook Library provided by Maruzen Yushodo.
-
-You can try any part of the eBooks from the following eBook pla…]]></summary>
     </entry>
 </feed>
