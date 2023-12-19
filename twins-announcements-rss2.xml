@@ -4,7 +4,7 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Tue, 19 Dec 2023 15:18:39 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 Dec 2023 21:13:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
@@ -60,15 +60,10 @@
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4694</link>
             <guid>dd3a0412366cbe7213f25305594af068</guid>
             <pubDate>Tue, 19 Dec 2023 03:00:00 GMT</pubDate>
-            <description><![CDATA[11月30日にご案内した人文学類文化講演会につきまして、下記のとおり実施場所の変更が生じましたのでご連絡いたします。
-
-変更内容：1D204教室　→　1D201教室
-
-＝＝＝＝＝＝＝＝＝＝＝＝下記、修正後の案内となります。＝＝＝＝＝＝＝＝＝＝＝＝
-
-2023年12月23日(土) 13時30分より、人文学類文化講演会を実施します。
-
-本講演会は人文学類生をはじめとする学類生、大学院生および教職員の皆…]]></description>
+            <description><![CDATA[学群・大学院の最終年次に在籍している全学生を対象に、自身の進路を届け出る「進路進捗状況届」の登録をお願いしています。
+就職・進学に限らず、資格試験等準備、職務復帰、家事手伝い、留年、帰国などすべての進路先が対象です。
+卒業・修了後の進路が決まりましたら、キャリア支援チームWebサイト内「進路進捗状況届」から進路を入力のうえ、決定処理をしてください。
+なお、決定処理は複数の進路先を入力されている場合…]]></description>
         </item>
         <item>
             <title><![CDATA[令和6年度　JEES・T.バナージインド留学生奨学金申請について]]></title>
