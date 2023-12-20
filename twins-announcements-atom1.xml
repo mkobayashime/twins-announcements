@@ -2,10 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/mkobayashime/twins-announcements</id>
     <title>在学生へのお知らせ | 筑波大学</title>
-    <updated>2023-12-20T01:32:59.689Z</updated>
+    <updated>2023-12-20T06:13:05.426Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://github.com/mkobayashime/twins-announcements"/>
     <subtitle>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</subtitle>
+    <entry>
+        <title type="html"><![CDATA[Frontier of MDA Research (Vol. 4) "Interaction and Sense" 1/9 (Tue)]]></title>
+        <id>fd8a5f9e93b4527c718ca09870072925</id>
+        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4704"/>
+        <updated>2023-12-20T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The seminar "Frontier of MDA Research" will be held on January 9 (Tue).
+We have invited Dr. Kazumi Kasahara (AIST), who is working on elucidating "brain individuality" using life x information collabo…]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MDA研究のフロンティア(第4回)「インタラクションと感覚」 1/9(火)]]></title>
+        <id>7fe81a9067400422f2fd0b5d1026fa34</id>
+        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4703"/>
+        <updated>2023-12-20T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[MDA教育推進室より、セミナーのご案内です。
+異分野融合/連携ゼミナール「MDA研究のフロンティア(第4回)」を 1/9(火)13:45から開催します。
+今回は、生命×情報連携技術を用いて「脳の個性」の解明に取り組まれている笠原和美氏（産総研）と自閉スペクトラム症未就学児を主な対象に対人相互作用の計測と促進に関する研究に取り組まれている松田壮一郎助教（人間系）をお招きして、講演・議論します。
+オン…]]></summary>
+    </entry>
     <entry>
         <title type="html"><![CDATA[サーバー更新作業に伴うキャリア支援チームHP及び就職情報提供システム停止のお知らせ]]></title>
         <id>f7e5c4dc1ece4147cbde4ed3df16263e</id>
@@ -239,35 +257,5 @@ East Asian Circle of Applied Technology Founda…]]></summary>
 
 　詳細は添付のPDFからご確認いただけますので、よろしくお願いいたします。
 ]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【周知】「孤独・孤立相談ダイヤル#９９９９」の実施について]]></title>
-        <id>e77a8244c01d8d471d7c2aa09725ab38</id>
-        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4678"/>
-        <updated>2023-12-13T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[　文科省より、年末年始期間における「孤独・孤立相談ダイヤル#9999」の試行について、情報提供がありましたのでお知らせします。
-　孤独・孤立の問題は、単身世帯等の増加等により更なる深刻化が懸念されているところで、統一的な相談窓口である「孤独・孤立相談ダイヤル#9999」を令和５年12月15日（金）9:00～令和6年1月4日（木）9:00までの期間における実施を予定しているとのことです。
-
-　詳細は…]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【ロシア語未修者可】2024年3月出発！短期留学派遣（CiC協定校　カザフ国立大学）]]></title>
-        <id>4226c474da2513c229bc1c4957c68c79</id>
-        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4677"/>
-        <updated>2023-12-13T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[CiC協定大学 アルファラビ・カザフ国立大学への短期留学（交換留学：派遣）の参加学生を募集します。
-
-研修内容：
-
-▶︎派遣期間：2024年3月出発　３ヵ月～１２ヵ月（期間は調整可能）
-
-▶︎受入機関：カザフ国立大学（カザフスタン共和国アルマトイ市）
-
-▶︎対象：学群生、大学院生
-※ロシア語未修者も応募可能、ただし現地ではロシア語ないしカザフ語の履修をしていただきます
-
-▶︎修了条件：
-
-渡航前危…]]></summary>
     </entry>
 </feed>

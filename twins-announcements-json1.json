@@ -5,6 +5,20 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "fd8a5f9e93b4527c718ca09870072925",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4704",
+            "title": "Frontier of MDA Research (Vol. 4) \"Interaction and Sense\" 1/9 (Tue)",
+            "summary": "The seminar \"Frontier of MDA Research\" will be held on January 9 (Tue).\nWe have invited Dr. Kazumi Kasahara (AIST), who is working on elucidating \"brain individuality\" using life x information collabo…",
+            "date_modified": "2023-12-20T03:00:00.000Z"
+        },
+        {
+            "id": "7fe81a9067400422f2fd0b5d1026fa34",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4703",
+            "title": "MDA研究のフロンティア(第4回)「インタラクションと感覚」 1/9(火)",
+            "summary": "MDA教育推進室より、セミナーのご案内です。\n異分野融合/連携ゼミナール「MDA研究のフロンティア(第4回)」を 1/9(火)13:45から開催します。\n今回は、生命×情報連携技術を用いて「脳の個性」の解明に取り組まれている笠原和美氏（産総研）と自閉スペクトラム症未就学児を主な対象に対人相互作用の計測と促進に関する研究に取り組まれている松田壮一郎助教（人間系）をお招きして、講演・議論します。\nオン…",
+            "date_modified": "2023-12-20T03:00:00.000Z"
+        },
+        {
             "id": "f7e5c4dc1ece4147cbde4ed3df16263e",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4700",
             "title": "サーバー更新作業に伴うキャリア支援チームHP及び就職情報提供システム停止のお知らせ",
@@ -128,20 +142,6 @@
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4679",
             "title": "【周知】天久保歩道橋修繕工事に伴う通行止めについて",
             "summary": "　茨城県土浦土木事務所より、天久保歩道橋の修繕工事を実施するにあたり、通行止めをするとのことで、情報提供がありましたのでお知らせします。\n\n【場所】天久保歩道橋\n【工事期間】令和6年1月9日～令和6年3月15日\n※工事期間中は通行止めとなります。\n\n　詳細は添付のPDFからご確認いただけますので、よろしくお願いいたします。\n",
-            "date_modified": "2023-12-13T03:00:00.000Z"
-        },
-        {
-            "id": "e77a8244c01d8d471d7c2aa09725ab38",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4678",
-            "title": "【周知】「孤独・孤立相談ダイヤル#９９９９」の実施について",
-            "summary": "　文科省より、年末年始期間における「孤独・孤立相談ダイヤル#9999」の試行について、情報提供がありましたのでお知らせします。\n　孤独・孤立の問題は、単身世帯等の増加等により更なる深刻化が懸念されているところで、統一的な相談窓口である「孤独・孤立相談ダイヤル#9999」を令和５年12月15日（金）9:00～令和6年1月4日（木）9:00までの期間における実施を予定しているとのことです。\n\n　詳細は…",
-            "date_modified": "2023-12-13T03:00:00.000Z"
-        },
-        {
-            "id": "4226c474da2513c229bc1c4957c68c79",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4677",
-            "title": "【ロシア語未修者可】2024年3月出発！短期留学派遣（CiC協定校　カザフ国立大学）",
-            "summary": "CiC協定大学 アルファラビ・カザフ国立大学への短期留学（交換留学：派遣）の参加学生を募集します。\n\n研修内容：\n\n▶︎派遣期間：2024年3月出発　３ヵ月～１２ヵ月（期間は調整可能）\n\n▶︎受入機関：カザフ国立大学（カザフスタン共和国アルマトイ市）\n\n▶︎対象：学群生、大学院生\n※ロシア語未修者も応募可能、ただし現地ではロシア語ないしカザフ語の履修をしていただきます\n\n▶︎修了条件：\n\n渡航前危…",
             "date_modified": "2023-12-13T03:00:00.000Z"
         }
     ]
