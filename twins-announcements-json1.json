@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "49921698c1875314d5228254bcf87f54",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4698",
+            "title": "公益財団法人　千本財団 (2024年度春季奨学生募集)",
+            "summary": "公益財団法人　千本財団 (2024年度春季募集)\n応募期間：2023年12月13日(水)～2024年1月31日(水)　※当日消印有効\n提出先　：財団へ直接応募\n募集要項：(PDF(資料1))\n出願書：(PDF(資料2))\n財団HP：https://semmoto.or.jp/scholarship-system#a2\n※この奨学金を受給する者は、受給期間中、他の大学推薦奨学金の申請資格がありません…",
+            "date_modified": "2023-12-20T03:00:00.000Z"
+        },
+        {
             "id": "d5f0da6fa61ea191637de3e540e91740",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4697",
             "title": "【お知らせ】令和５年度学園祭実施に伴う自転車の撤去について",
@@ -136,13 +143,6 @@
             "title": "空き枠あり(BHE) 就活実践講座（面接・GD練習）チャレンジ実践会",
             "summary": "12月も面接編とGD編を対面で開催します。\nビジネスマナーも学ぶことができます。\n就活中の方、ISの選考を受ける方、参加して役立ててください。\nBHEキャリア支援チームのファシリテーターからフィードバックがあります。（日本語での開催です）\n\n〇開催日時\n１2月15日（金）\n面接編　１０：００－１２：００\nGD編　  １３：３０－１５： ００\n\n〇場所\n面接編　人間系学系棟A　１階　１１４\nGD編　…",
             "date_modified": "2023-12-11T03:00:00.000Z"
-        },
-        {
-            "id": "f0e829e4bb2e922a4c804bb6d5b52588",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4661",
-            "title": "公益信託久保田豊基金助成対象者募集/The Kubota Fund",
-            "summary": "公益信託久保田豊基金助成対象者募集\n応募締切：2024年1月16日(火)\n提出先：事務局へ直接応募\n募集要項：(PDF(資料1))\n応募ページ：https://mypage.3050.i-webs.jp/kbt2023/\n\nThe Kubota Fund\nDeadline: January 16 (Tue.), 2024\nSubmission: Please apply to the founda…",
-            "date_modified": "2023-12-08T03:00:00.000Z"
         }
     ]
 }
