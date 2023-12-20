@@ -5,6 +5,20 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "f7e5c4dc1ece4147cbde4ed3df16263e",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4700",
+            "title": "サーバー更新作業に伴うキャリア支援チームHP及び就職情報提供システム停止のお知らせ",
+            "summary": "サーバー更新作業に伴い、下記の時間、キャリア支援チームホームページ等へ繋がりにくくなります。\n【作業日時】12/27（水）9：00　～　12/27（水）13：15（予定）\n\nなお、サーバー更新作業中は、「学内専用ページ」、「ガイダンス等及び模試試験登録・申請」、「進路進捗状況届」へのアクセスはできません。\n皆様にはご迷惑をおかけいたしますが、ご理解、ご協力の程よろしくお願いいたします。\n",
+            "date_modified": "2023-12-20T03:00:00.000Z"
+        },
+        {
+            "id": "acba7658a82c06e6f0dbbb37a02e9242",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4699",
+            "title": "公益財団法人　東亜留学生育友会奨学金（2024年度）募集",
+            "summary": "公益財団法人　東亜留学生育友会奨学金（2024年度）\n応募期限： 2024年2月10日(土)　※郵送必着\n提 出 先：財団へ直接応募\n募集要項：(PDF(資料1))\n申請書：(PDF(資料2) )\n※日本語能力が必要です。\n※この奨学金を受給する者は、2024年度の大学推薦奨学金の申請資格がありません。\n\nEast Asian Circle of Applied Technology Founda…",
+            "date_modified": "2023-12-20T03:00:00.000Z"
+        },
+        {
             "id": "49921698c1875314d5228254bcf87f54",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4698",
             "title": "公益財団法人　千本財団 (2024年度春季奨学生募集)",
@@ -129,20 +143,6 @@
             "title": "【ロシア語未修者可】2024年3月出発！短期留学派遣（CiC協定校　カザフ国立大学）",
             "summary": "CiC協定大学 アルファラビ・カザフ国立大学への短期留学（交換留学：派遣）の参加学生を募集します。\n\n研修内容：\n\n▶︎派遣期間：2024年3月出発　３ヵ月～１２ヵ月（期間は調整可能）\n\n▶︎受入機関：カザフ国立大学（カザフスタン共和国アルマトイ市）\n\n▶︎対象：学群生、大学院生\n※ロシア語未修者も応募可能、ただし現地ではロシア語ないしカザフ語の履修をしていただきます\n\n▶︎修了条件：\n\n渡航前危…",
             "date_modified": "2023-12-13T03:00:00.000Z"
-        },
-        {
-            "id": "d649592e642d0d0cba59d87eda125dbc",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4676",
-            "title": "空き枠あり！（BHE)面接・GD練習会　12月 就活支講座チャレンジ実践会",
-            "summary": "12月も面接編とGD編を対面で開催します。\nビジネスマナーも学ぶことができます。\n就活中の方、ISの選考を受ける方、参加して役立ててください。\nBHEキャリア支援チームのファシリテーターからフィードバックがあります。（日本語での開催です）\n\n〇開催日時\n１2月15日（金）\n面接編　１０：００－１２：００\nGD編　  １３：３０－１５： ００\n\n〇場所\n面接編　人間系学系棟A　１階　１１４\nGD編　…",
-            "date_modified": "2023-12-13T03:00:00.000Z"
-        },
-        {
-            "id": "f5d8cfadda7652dfc9a55bd8c693d9a5",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4663",
-            "title": "空き枠あり(BHE) 就活実践講座（面接・GD練習）チャレンジ実践会",
-            "summary": "12月も面接編とGD編を対面で開催します。\nビジネスマナーも学ぶことができます。\n就活中の方、ISの選考を受ける方、参加して役立ててください。\nBHEキャリア支援チームのファシリテーターからフィードバックがあります。（日本語での開催です）\n\n〇開催日時\n１2月15日（金）\n面接編　１０：００－１２：００\nGD編　  １３：３０－１５： ００\n\n〇場所\n面接編　人間系学系棟A　１階　１１４\nGD編　…",
-            "date_modified": "2023-12-11T03:00:00.000Z"
         }
     ]
 }
