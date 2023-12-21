@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "fe236733b4eb7d23bbf392064c61bd67",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4705",
+            "title": "【日程変更】12/22（16:45～）元橋氏講演会「ケア・フェミニズムの可能性と課題」（学生・教員対象）",
+            "summary": "本日開催予定であった橋氏講演会「ケア・フェミニズムの可能性と課題」ですが、\n日程が下記のとおり変更となりました。場所は変更ございません。\n変更前：12月21日（木）16時45分から18時\n変更後：12月22日（金）16時45分から18時\n\n直前のご連絡となってしまい大変恐縮ですが、参加を希望される方は明日会場までお越しいただきますようお願いいたします。\n\n---------------------…",
+            "date_modified": "2023-12-21T03:00:00.000Z"
+        },
+        {
             "id": "fd8a5f9e93b4527c718ca09870072925",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4704",
             "title": "Frontier of MDA Research (Vol. 4) \"Interaction and Sense\" 1/9 (Tue)",
@@ -136,13 +143,6 @@
             "title": "【CEGLOC】ニュージーランドに6週間の短期留学しませんか？",
             "summary": "　CEGLOCではニュージーランドのVictoria University of Wellingtonにおいて６週間の海外語学研修プログラムに参加される学生を募集します。\n\n▶︎研修期間：2024年8月５日～9月６日　（春学期Cモジュール授業実施期間と重なる１週間分については、筑波大学においてオリエンテーションを実施します。）\n\n▶︎受入機関：Victoria University of Well…",
             "date_modified": "2023-12-14T03:00:00.000Z"
-        },
-        {
-            "id": "3c65e49276eb97965d0b7b85ff342256",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4679",
-            "title": "【周知】天久保歩道橋修繕工事に伴う通行止めについて",
-            "summary": "　茨城県土浦土木事務所より、天久保歩道橋の修繕工事を実施するにあたり、通行止めをするとのことで、情報提供がありましたのでお知らせします。\n\n【場所】天久保歩道橋\n【工事期間】令和6年1月9日～令和6年3月15日\n※工事期間中は通行止めとなります。\n\n　詳細は添付のPDFからご確認いただけますので、よろしくお願いいたします。\n",
-            "date_modified": "2023-12-13T03:00:00.000Z"
         }
     ]
 }
