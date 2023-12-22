@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "dbe7a2364848276a543999a8f4d48dda",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4708",
+            "title": "【見逃し配信】令和5年度薬品・実験廃棄物管理研修会",
+            "summary": "令和５年１２月１５日（金）に開催しました令和５年度薬品・実験廃棄物管理研修会の見逃し配信を下記のとおり行います\n\n１．内　容　　\n＜責任者編＞\n「廃棄物管理責任者にお願いしたいこと」（19分44秒）環境安全管理室長　中村修教授\n＜実務者編＞\n「有害廃棄物の処理依頼方法概要（廃液を中心に）」（13分36秒）環境安全管理室　貴志孝洋准教授\n「無機系廃液処理施設処理運転終了に伴う処理依頼方法の変更につい…",
+            "date_modified": "2023-12-22T03:00:00.000Z"
+        },
+        {
             "id": "9f3b9ace79acfe2537d11c47e4002a19",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4707",
             "title": "Microsoft Teams (旧) から 新しい Microsoft Teams への移行について",
@@ -136,13 +143,6 @@
             "title": "【周知】自転車の無料回収について",
             "summary": "　本学では、つくば市シルバー人材センターの協力を得て、昨年に引き続き自転車回収・リサイクルを実施しております。本学を卒業及び修了するにあたって、自転車が不要となった場合は、下記回収場所に持ち込んでいただくようご協力お願いいたします。\n\n回収日程：月～金10：00～16：00（土・日・祝日を除く）\n　　　　※12月28日(木)～1月4日(木)の年末年始を除く。\n場　　所：大学会館駐車場内（桐葉橋下）…",
             "date_modified": "2023-12-15T03:00:00.000Z"
-        },
-        {
-            "id": "32f882a9833f8255d6d7bd65775a1505",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4681",
-            "title": "絶賛募集中【ロシア語未修者可】2024年3月出発！短期留学派遣（CiC協定校　カザフ国立大学）",
-            "summary": "CiC協定大学 アルファラビ・カザフ国立大学への短期留学（交換留学：派遣）の参加学生を募集します。\n\n研修内容：\n\n▶︎派遣期間：2024年3月出発　３ヵ月～１２ヵ月（期間は調整可能）\n\n▶︎受入機関：カザフ国立大学（カザフスタン共和国アルマトイ市）\n\n▶︎対象：学群生、大学院生\n※ロシア語未修者も応募可能、ただし現地ではロシア語ないしカザフ語の履修をしていただきます\n\n▶︎修了条件：\n\n渡航前危…",
-            "date_modified": "2023-12-14T03:00:00.000Z"
         }
     ]
 }
