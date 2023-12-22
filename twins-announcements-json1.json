@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "9f3b9ace79acfe2537d11c47e4002a19",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4707",
+            "title": "Microsoft Teams (旧) から 新しい Microsoft Teams への移行について",
+            "summary": "マイクロソフトは、Microsoft Teams(以下、Teams のみ記載)について大きな変更を\n行うことをアナウンスしています。\nこれは、ユーザが、新しい Teams アプリを使う必要があることを意味しています。\nこれまでのアプリ(以下、「旧アプリ」)は、2024年3月以降使えなくなる予定です。\n\n【概要】\n・マイクロソフトは Teams の変更を行う\n・2024年３月以降はこれまでの(旧)ア…",
+            "date_modified": "2023-12-22T03:00:00.000Z"
+        },
+        {
             "id": "d2ac7c4a4e006c7f7ccd225ead35c4db",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4706",
             "title": "【開催案内】5th Borderless Onsite Meeting “Azerbaijan – the Land of Fire, and more-“",
@@ -135,13 +142,6 @@
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4681",
             "title": "絶賛募集中【ロシア語未修者可】2024年3月出発！短期留学派遣（CiC協定校　カザフ国立大学）",
             "summary": "CiC協定大学 アルファラビ・カザフ国立大学への短期留学（交換留学：派遣）の参加学生を募集します。\n\n研修内容：\n\n▶︎派遣期間：2024年3月出発　３ヵ月～１２ヵ月（期間は調整可能）\n\n▶︎受入機関：カザフ国立大学（カザフスタン共和国アルマトイ市）\n\n▶︎対象：学群生、大学院生\n※ロシア語未修者も応募可能、ただし現地ではロシア語ないしカザフ語の履修をしていただきます\n\n▶︎修了条件：\n\n渡航前危…",
-            "date_modified": "2023-12-14T03:00:00.000Z"
-        },
-        {
-            "id": "623850ac6d3f48c1b9afac638a2b2fc3",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4680",
-            "title": "【CEGLOC】ニュージーランドに6週間の短期留学しませんか？",
-            "summary": "　CEGLOCではニュージーランドのVictoria University of Wellingtonにおいて６週間の海外語学研修プログラムに参加される学生を募集します。\n\n▶︎研修期間：2024年8月５日～9月６日　（春学期Cモジュール授業実施期間と重なる１週間分については、筑波大学においてオリエンテーションを実施します。）\n\n▶︎受入機関：Victoria University of Well…",
             "date_modified": "2023-12-14T03:00:00.000Z"
         }
     ]
