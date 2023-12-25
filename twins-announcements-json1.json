@@ -5,6 +5,20 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "9668948098c1a516699d21124ab32b99",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4713",
+            "title": "令和5年度春季休業前の海外危機管理セミナーについて",
+            "summary": "海外危機管理セミナー（オンライン）を開催しますので、お知らせいたします。\n海外危機管理に関するスペシャリストをお招きし、海外渡航※前の準備事項と、現地での安全対策について学びます。ご参加に当たっては、期日までに事前登録してください。\n\n１．日時：　令和6年2月1日（木）18：15～19：15\n\n２．内容・講師：\n　　①「海外渡航にむけた準備とその心得」\n　　　（渡航に関する指針（学長決定）、海外渡…",
+            "date_modified": "2023-12-25T03:00:00.000Z"
+        },
+        {
+            "id": "1bcc9ab80d5a51ba3e4886e1940ad3c2",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4712",
+            "title": "令和６年度 春学期の共通科目「情報リテラシー（講義・演習）」のTA募集",
+            "summary": "令和6年度 春学期の共通科目「情報リテラシー・講義」「同・演習」のTAを募集します．\n\n【対象】\n令和6年度にシステム情報工学研究群に在籍予定の人。学位Pは不問。\n\n【応募方法・募集枠】下記URLから応募してください。\nhttps://forms.office.com/r/wz8GKEXKdT\n\n【募集締切】 2024年1月15日(月)\n\n【授業内容】\n講義は、情報技術 (ネットワークのしくみ、セ…",
+            "date_modified": "2023-12-25T03:00:00.000Z"
+        },
+        {
             "id": "0cff7aa2730371d505981773d7283195",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4711",
             "title": "トビタテ！留学JAPAN新・日本代表プログラム【大学生等対象】2024年度（第16期） 留学計画の添削希望者募集について（2024年1月15日締切）",
@@ -129,20 +143,6 @@
             "title": "【お知らせ】大学会館内「TSUKUBA-SHOP」年末年始営業日のご案内",
             "summary": "いつも大学会館内「TSUKUBA-SHOP」をご利用いただきありがとうございます。\n\n年末年始の営業日についてお知らせいたします。\n\n\n年内は12月28日(木)まで、年明けは1月11日(木)からの営業となります。\n\n営業時間は10：00～17：00です。\n\n（営業時間は変更となる場合もございますので店頭にてご確認ください）\n\n\n新しい年も「TSUKUBA-SHOP」をどうぞよろしくお願いいたします…",
             "date_modified": "2023-12-18T03:00:00.000Z"
-        },
-        {
-            "id": "6a3a02f5209ee7ab1a970c0b6bd1bc80",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4687",
-            "title": "【注意喚起】大学入学者選抜における不正行為の防止について",
-            "summary": "大学入学者選抜における不正行為の防止について、文部科学省より注意喚起がありましたのでお知らせいたします。（詳細は添付ファイルを確認してください。）",
-            "date_modified": "2023-12-15T03:00:00.000Z"
-        },
-        {
-            "id": "af1b52c0fef60f9302c31918b5447cd4",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4686",
-            "title": "【再掲】「お金の超基本勉強会―卒業してからでは遅すぎる」第9回開催のお知らせ",
-            "summary": "「筑波大学・世界を変えよう基金アカデミー」では、お金に関する基礎知識（税金の計算、結婚・教育・マイホーム・老後・病気への備え、投資運用,　NISA活用方法等）を学ぶ「お金の超基本勉強会―卒業してからでは遅すぎる」を1月8日の週から4週間にわたって、毎週１回開催します。\n開催方式：初回は可能な限り対面、第２～４回はリモート。　\n開催曜日：平日（火曜、水曜、木曜、金曜のいずれか）18:15~19:45…",
-            "date_modified": "2023-12-15T03:00:00.000Z"
         }
     ]
 }
