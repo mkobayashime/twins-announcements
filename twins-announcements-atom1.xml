@@ -2,10 +2,27 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/mkobayashime/twins-announcements</id>
     <title>在学生へのお知らせ | 筑波大学</title>
-    <updated>2023-12-25T08:15:16.627Z</updated>
+    <updated>2023-12-25T09:12:13.045Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://github.com/mkobayashime/twins-announcements"/>
     <subtitle>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</subtitle>
+    <entry>
+        <title type="html"><![CDATA[Additional Call: Scholarship for Students Participating in Online International Programs]]></title>
+        <id>9415746fe6285441a6622980c694cbb3</id>
+        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4716"/>
+        <updated>2023-12-25T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[In order to further promote ONLINE international education and exchange opportunities for students, we will provide support for course fees and other expenses, even if students do not earn credits, on…]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【追加公募】オンラインを活用した国際的な教育・交流プログラムへ参加する学生への奨学金支援]]></title>
+        <id>a066587b2dc6fea72ad36d895ad7da2e</id>
+        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4715"/>
+        <updated>2023-12-25T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[学生がオンラインで国境を超えた多様な学びができるよう、国際的な教育・交流プログラムへ参加する学生への経費を支援します。単位を取得しない場合であっても、受講修了証等の提出を条件に、支援対象となります。申請を希望する学生は募集要項をよく確認の上、必要書類をエリア支援室等へ提出してください。
+
+・【対象期間（プログラム参加期間）】令和5年12月～令和6年3月8日
+・【支援経費】１登録あたり１律3万円（経…]]></summary>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[Notice] 安全保障輸出管理のための誓約書提出のお願いRequest for Submission of Pledge for Security Export Control]]></title>
         <id>7a9b01b19be73cc89a24e7501dfc664d</id>
@@ -235,29 +252,5 @@ East Asian Circle of Applied Technology Founda…]]></summary>
 *提 出 先：学生部学生交流課（1A101）　　　　　　　　　　　　　　　　　　　　　　　　　                        　
   ※提出書類をisc-shien#un.tsukuba.ac.jpへ提出してください。（＃を＠に替えてください）
   ※「留学」ビザを持つインド…]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2024年度 筑波大学ベンチャー起業支援事業「つばさ」の募集開始]]></title>
-        <id>6b881c304683d2b34b8281e27c486044</id>
-        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4691"/>
-        <updated>2023-12-18T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[筑波大学ベンチャー起業支援事業「つばさ」は、大学の優れた技術シーズを基にした成長ポテンシャルの高い大学発ベンチャーの創出を促進することを目的としています。
-
-本事業の2024年度研究開発課題の募集を開始いたします。募集の詳細については、こちらをご参照ください。
-・2024年度つばさ事業募集：https://www.sanrenhonbu.tsukuba.ac.jp/score/recruit/
-
-…]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[令和６年度『筑波大学社会貢献プロジェクト』の募集について]]></title>
-        <id>d7048155a53c1e4c9673aa78b33d1f77</id>
-        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4689"/>
-        <updated>2023-12-18T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[つくば・地域連携推進室では、教職員や学生による多様な形での地域への貢献活動等を『筑波大学社会貢献プロジェクト』として採択し、活動経費の支援を行っております。
-
-つきましては、下記添付のとおり募集しますので、募集要項をよく確認の上、申請書類を提出願います。
-なお、申請にあたっては、申請書への教員の署名（自署）が必要です。
-
-※申請締切期限：令和６年１月22日（月）16時30分まで]]></summary>
     </entry>
 </feed>
