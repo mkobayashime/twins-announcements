@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "7a9b01b19be73cc89a24e7501dfc664d",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4714",
+            "title": "[Notice] 安全保障輸出管理のための誓約書提出のお願いRequest for Submission of Pledge for Security Export Control",
+            "summary": "2023年度大学院入学者（研究生等含む）の皆様へ\nTo all students (including research students, etc.) enrolled in graduate school for the academic year 2023\n安全保障に関連する機微技術流出の防止のために、大学院生（研究生等含む）は大学院入学時に「外国為替及び外国貿易法」を遵守する誓約書をman…",
+            "date_modified": "2023-12-25T03:00:00.000Z"
+        },
+        {
             "id": "9668948098c1a516699d21124ab32b99",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4713",
             "title": "令和5年度春季休業前の海外危機管理セミナーについて",
@@ -135,13 +142,6 @@
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4689",
             "title": "令和６年度『筑波大学社会貢献プロジェクト』の募集について",
             "summary": "つくば・地域連携推進室では、教職員や学生による多様な形での地域への貢献活動等を『筑波大学社会貢献プロジェクト』として採択し、活動経費の支援を行っております。\n\nつきましては、下記添付のとおり募集しますので、募集要項をよく確認の上、申請書類を提出願います。\nなお、申請にあたっては、申請書への教員の署名（自署）が必要です。\n\n※申請締切期限：令和６年１月22日（月）16時30分まで",
-            "date_modified": "2023-12-18T03:00:00.000Z"
-        },
-        {
-            "id": "e06bec97a463b1d826b1464b46a7689a",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4674",
-            "title": "【お知らせ】大学会館内「TSUKUBA-SHOP」年末年始営業日のご案内",
-            "summary": "いつも大学会館内「TSUKUBA-SHOP」をご利用いただきありがとうございます。\n\n年末年始の営業日についてお知らせいたします。\n\n\n年内は12月28日(木)まで、年明けは1月11日(木)からの営業となります。\n\n営業時間は10：00～17：00です。\n\n（営業時間は変更となる場合もございますので店頭にてご確認ください）\n\n\n新しい年も「TSUKUBA-SHOP」をどうぞよろしくお願いいたします…",
             "date_modified": "2023-12-18T03:00:00.000Z"
         }
     ]

@@ -4,10 +4,19 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Mon, 25 Dec 2023 06:15:54 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Dec 2023 08:15:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
+        <item>
+            <title><![CDATA[[Notice] 安全保障輸出管理のための誓約書提出のお願いRequest for Submission of Pledge for Security Export Control]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4714</link>
+            <guid>7a9b01b19be73cc89a24e7501dfc664d</guid>
+            <pubDate>Mon, 25 Dec 2023 03:00:00 GMT</pubDate>
+            <description><![CDATA[2023年度大学院入学者（研究生等含む）の皆様へ
+To all students (including research students, etc.) enrolled in graduate school for the academic year 2023
+安全保障に関連する機微技術流出の防止のために、大学院生（研究生等含む）は大学院入学時に「外国為替及び外国貿易法」を遵守する誓約書をman…]]></description>
+        </item>
         <item>
             <title><![CDATA[令和5年度春季休業前の海外危機管理セミナーについて]]></title>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4713</link>
@@ -252,25 +261,6 @@ East Asian Circle of Applied Technology Founda…]]></description>
 なお、申請にあたっては、申請書への教員の署名（自署）が必要です。
 
 ※申請締切期限：令和６年１月22日（月）16時30分まで]]></description>
-        </item>
-        <item>
-            <title><![CDATA[【お知らせ】大学会館内「TSUKUBA-SHOP」年末年始営業日のご案内]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4674</link>
-            <guid>e06bec97a463b1d826b1464b46a7689a</guid>
-            <pubDate>Mon, 18 Dec 2023 03:00:00 GMT</pubDate>
-            <description><![CDATA[いつも大学会館内「TSUKUBA-SHOP」をご利用いただきありがとうございます。
-
-年末年始の営業日についてお知らせいたします。
-
-
-年内は12月28日(木)まで、年明けは1月11日(木)からの営業となります。
-
-営業時間は10：00～17：00です。
-
-（営業時間は変更となる場合もございますので店頭にてご確認ください）
-
-
-新しい年も「TSUKUBA-SHOP」をどうぞよろしくお願いいたします…]]></description>
         </item>
     </channel>
 </rss>
