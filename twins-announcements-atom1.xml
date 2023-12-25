@@ -2,10 +2,17 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/mkobayashime/twins-announcements</id>
     <title>在学生へのお知らせ | 筑波大学</title>
-    <updated>2023-12-24T21:14:49.691Z</updated>
+    <updated>2023-12-25T00:53:19.993Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://github.com/mkobayashime/twins-announcements"/>
     <subtitle>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</subtitle>
+    <entry>
+        <title type="html"><![CDATA[IBARAKIドリーム・パス事業　第５回プレゼンテーション大会開催のご案内]]></title>
+        <id>2c0e81b67d20a3d52a161cce03147f5f</id>
+        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4709"/>
+        <updated>2023-12-25T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[茨城県からIBARAKIドリーム・パス事業　第５回プレゼンテーション大会について添付ファイルの案内がありましたのでお知らせします。]]></summary>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【見逃し配信】令和5年度薬品・実験廃棄物管理研修会]]></title>
         <id>dbe7a2364848276a543999a8f4d48dda</id>
@@ -256,16 +263,5 @@ East Asian Circle of Applied Technology Founda…]]></summary>
 ▶︎修了条件：
 
 渡航前危…]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【CEGLOC】ニュージーランドに6週間の短期留学しませんか？]]></title>
-        <id>623850ac6d3f48c1b9afac638a2b2fc3</id>
-        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4680"/>
-        <updated>2023-12-14T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[　CEGLOCではニュージーランドのVictoria University of Wellingtonにおいて６週間の海外語学研修プログラムに参加される学生を募集します。
-
-▶︎研修期間：2024年8月５日～9月６日　（春学期Cモジュール授業実施期間と重なる１週間分については、筑波大学においてオリエンテーションを実施します。）
-
-▶︎受入機関：Victoria University of Well…]]></summary>
     </entry>
 </feed>
