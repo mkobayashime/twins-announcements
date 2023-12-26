@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "bf60612ab155d28977c938e60a80cdf0",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4717",
+            "title": "【中央図書館】2024年度ラーニング・アドバイザー募集",
+            "summary": "来年度の学生サポートデスク（中央図書館2階ラーニング・スクエア内）のスタッフを募集します。\n学生の学習支援に興味のある【大学院生】の皆様、ぜひご応募ください！\n\nご希望の方は、以下のURLから指定の履歴書書式をダウンロードしてご記入のうえ、\n中央図書館レファレンスデスクへご持参ください。（受付時間：平日9時-17時）\nなお、書類審査がありますので「志望の動機」はしっかりご記入ください。\n\n※来年度…",
+            "date_modified": "2023-12-26T03:00:00.000Z"
+        },
+        {
             "id": "9415746fe6285441a6622980c694cbb3",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4716",
             "title": "Additional Call: Scholarship for Students Participating in Online International Programs",
@@ -136,13 +143,6 @@
             "title": "【令和5年度卒業･修了予定者の皆様へ】「進路進捗状況届」登録のお願い",
             "summary": "学群・大学院の最終年次に在籍している全学生を対象に、自身の進路を届け出る「進路進捗状況届」の登録をお願いしています。\n就職・進学に限らず、資格試験等準備、職務復帰、家事手伝い、留年、帰国などすべての進路先が対象です。\n卒業・修了後の進路が決まりましたら、キャリア支援チームWebサイト内「進路進捗状況届」から進路を入力のうえ、決定処理をしてください。\nなお、決定処理は複数の進路先を入力されている場合…",
             "date_modified": "2023-12-19T03:00:00.000Z"
-        },
-        {
-            "id": "6562d364595812f7b8fe61640e55b8d5",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4692",
-            "title": "令和6年度　JEES・T.バナージインド留学生奨学金申請について",
-            "summary": "令和6年度　JEES・T.バナージインド留学生奨学金\n\n*応募期限：2023年12月26日（火）17時厳守\n*提 出 先：学生部学生交流課（1A101）　　　　　　　　　　　　　　　　　　　　　　　　　                        　\n  ※提出書類をisc-shien#un.tsukuba.ac.jpへ提出してください。（＃を＠に替えてください）\n  ※「留学」ビザを持つインド…",
-            "date_modified": "2023-12-18T03:00:00.000Z"
         }
     ]
 }

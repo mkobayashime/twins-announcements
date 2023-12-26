@@ -4,10 +4,24 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Mon, 25 Dec 2023 21:15:11 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 26 Dec 2023 02:21:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
+        <item>
+            <title><![CDATA[【中央図書館】2024年度ラーニング・アドバイザー募集]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4717</link>
+            <guid>bf60612ab155d28977c938e60a80cdf0</guid>
+            <pubDate>Tue, 26 Dec 2023 03:00:00 GMT</pubDate>
+            <description><![CDATA[来年度の学生サポートデスク（中央図書館2階ラーニング・スクエア内）のスタッフを募集します。
+学生の学習支援に興味のある【大学院生】の皆様、ぜひご応募ください！
+
+ご希望の方は、以下のURLから指定の履歴書書式をダウンロードしてご記入のうえ、
+中央図書館レファレンスデスクへご持参ください。（受付時間：平日9時-17時）
+なお、書類審査がありますので「志望の動機」はしっかりご記入ください。
+
+※来年度…]]></description>
+        </item>
         <item>
             <title><![CDATA[Additional Call: Scholarship for Students Participating in Online International Programs]]></title>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4716</link>
@@ -242,18 +256,6 @@ East Asian Circle of Applied Technology Founda…]]></description>
 就職・進学に限らず、資格試験等準備、職務復帰、家事手伝い、留年、帰国などすべての進路先が対象です。
 卒業・修了後の進路が決まりましたら、キャリア支援チームWebサイト内「進路進捗状況届」から進路を入力のうえ、決定処理をしてください。
 なお、決定処理は複数の進路先を入力されている場合…]]></description>
-        </item>
-        <item>
-            <title><![CDATA[令和6年度　JEES・T.バナージインド留学生奨学金申請について]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4692</link>
-            <guid>6562d364595812f7b8fe61640e55b8d5</guid>
-            <pubDate>Mon, 18 Dec 2023 03:00:00 GMT</pubDate>
-            <description><![CDATA[令和6年度　JEES・T.バナージインド留学生奨学金
-
-*応募期限：2023年12月26日（火）17時厳守
-*提 出 先：学生部学生交流課（1A101）　　　　　　　　　　　　　　　　　　　　　　　　　                        　
-  ※提出書類をisc-shien#un.tsukuba.ac.jpへ提出してください。（＃を＠に替えてください）
-  ※「留学」ビザを持つインド…]]></description>
         </item>
     </channel>
 </rss>
