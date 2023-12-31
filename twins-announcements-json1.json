@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "e3a78ab17fe5da68f779c2e01a89d311",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4702",
+            "title": "筑波大学公式オリジナルグッズECサイト割引クーポンのお知らせ（1月）",
+            "summary": "筑波大学公式オリジナルグッズ販売サイト「TSUKUBA-SHOP」1月の割引クーポンコードをお知らせいたします！\n\n\nどうぞご覧いただき、皆様の「日常生活」、「思い出」、「プレゼント🎁」などにご活用いただけますと幸いです。\n\nECサイトは以下のリンクから\n※学内専用割引コードをTWINS掲示「大学から学生へのお知らせ（学内専用）」に掲載しております。\n※学生・教職員はこのコードを入力することで、…",
+            "date_modified": "2024-01-01T03:00:00.000Z"
+        },
+        {
             "id": "8c97adf8ca04a36cee1eb397b3b66dac",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4718",
             "title": "T-ACT Forum UT” Friday Night Science Cafe in English”",
@@ -135,13 +142,6 @@
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4696",
             "title": "【参加募集】文科省主催：アントレプレナーシップ教育に関する特別講演",
             "summary": "文部科学省から以下の案内がありましたのでお知らせします。\n\n-------------------------\n文部科学省では、全国の学生を対象に、アントレプレナーシップを身に付けるプログラムを実施しています。\nこの度、バブソン大学の山川先生をお招きした特別講演をオフライン・オンラインのハイブリットで開催します。\nアメリカのトップスクールのアントレ教育に触れられる非常に貴重な機会です。多くの学生の…",
-            "date_modified": "2023-12-19T03:00:00.000Z"
-        },
-        {
-            "id": "dd3a0412366cbe7213f25305594af068",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4694",
-            "title": "【令和5年度卒業･修了予定者の皆様へ】「進路進捗状況届」登録のお願い",
-            "summary": "学群・大学院の最終年次に在籍している全学生を対象に、自身の進路を届け出る「進路進捗状況届」の登録をお願いしています。\n就職・進学に限らず、資格試験等準備、職務復帰、家事手伝い、留年、帰国などすべての進路先が対象です。\n卒業・修了後の進路が決まりましたら、キャリア支援チームWebサイト内「進路進捗状況届」から進路を入力のうえ、決定処理をしてください。\nなお、決定処理は複数の進路先を入力されている場合…",
             "date_modified": "2023-12-19T03:00:00.000Z"
         }
     ]
