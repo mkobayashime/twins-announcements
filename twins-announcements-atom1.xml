@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/mkobayashime/twins-announcements</id>
     <title>在学生へのお知らせ | 筑波大学</title>
-    <updated>2024-01-02T21:15:34.776Z</updated>
+    <updated>2024-01-03T00:52:47.547Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://github.com/mkobayashime/twins-announcements"/>
     <subtitle>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</subtitle>
+    <entry>
+        <title type="html"><![CDATA[「緊急メッセージ」（第一稿）]]></title>
+        <id>dc436ce5150bd17c0078461a75ec6865</id>
+        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4719"/>
+        <updated>2024-01-02T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[　令和６年１月１日に発生した令和６年能登半島地震により，犠牲となられた方々に深く哀悼の意を表するとともに，負傷された方，被災された方，そのご家族及び関係の方々に心よりお見舞いを申し上げます。
+
+　現在、被災された地域に帰省、旅行等で滞在する学生の皆さんにあっては、まずはご自身およびご家族等の関係の方々の安全確保に努めてください。
+　また、つくば市等の地域において、ご実家等のご心配をされている学生の…]]></summary>
+    </entry>
     <entry>
         <title type="html"><![CDATA[筑波大学公式オリジナルグッズECサイト割引クーポンのお知らせ（1月）]]></title>
         <id>e3a78ab17fe5da68f779c2e01a89d311</id>
@@ -246,17 +256,5 @@ East Asian Circle of Applied Technology Founda…]]></summary>
 
 
 　ご迷惑をおかけし申し訳ございませんが、ご理解とご協力を…]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【参加募集】文科省主催：アントレプレナーシップ教育に関する特別講演]]></title>
-        <id>7788f35d7b88b2e17647e5b774c02544</id>
-        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4696"/>
-        <updated>2023-12-19T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[文部科学省から以下の案内がありましたのでお知らせします。
-
--------------------------
-文部科学省では、全国の学生を対象に、アントレプレナーシップを身に付けるプログラムを実施しています。
-この度、バブソン大学の山川先生をお招きした特別講演をオフライン・オンラインのハイブリットで開催します。
-アメリカのトップスクールのアントレ教育に触れられる非常に貴重な機会です。多くの学生の…]]></summary>
     </entry>
 </feed>
