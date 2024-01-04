@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "d07de3a2549e9d1109e19fd73f9711de",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4720",
+            "title": "STOP！研究費不正使用！／STOP！Wrongful use of research funding！",
+            "summary": "学生の皆さんが不正使用に巻き込まれるケースが多発しています。\n不正を見かけた、持ちかけられたら、通報窓口へ。\nコンプライアンス・ハラスメント対策室（学内窓口）\nMail:compliance@un.tsukuba.ac.jp TEL:029-853-2033\nつくば中央法律事務所（学外窓口）\nTEL:029-896-3530  FAX:029-896-3531",
+            "date_modified": "2024-01-05T03:00:00.000Z"
+        },
+        {
             "id": "dc436ce5150bd17c0078461a75ec6865",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4719",
             "title": "「緊急メッセージ」（第一稿）",
@@ -136,13 +143,6 @@
             "title": "公益財団法人　千本財団 (2024年度春季奨学生募集)",
             "summary": "公益財団法人　千本財団 (2024年度春季募集)\n応募期間：2023年12月13日(水)～2024年1月31日(水)　※当日消印有効\n提出先　：財団へ直接応募\n募集要項：(PDF(資料1))\n出願書：(PDF(資料2))\n財団HP：https://semmoto.or.jp/scholarship-system#a2\n※この奨学金を受給する者は、受給期間中、他の大学推薦奨学金の申請資格がありません…",
             "date_modified": "2023-12-20T03:00:00.000Z"
-        },
-        {
-            "id": "d5f0da6fa61ea191637de3e540e91740",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4697",
-            "title": "【お知らせ】令和５年度学園祭実施に伴う自転車の撤去について",
-            "summary": "   \n\n    学園祭期間中、第二・三エリア～体育・芸術エリア間のペデストリアンデッキ上は学園祭会場となるため、\n\n　自転車の駐輪を規制いたしました。\n\n\n\n　下記日時に、別添「自転車撤去図」の移動対象エリア（黄色の斜線部分）に駐輪してあった自転車は、\n\n　各撤去場所（赤枠部分）へ移動いたしましたので、各自でご回収をお願いいたします。\n\n\n　ご迷惑をおかけし申し訳ございませんが、ご理解とご協力を…",
-            "date_modified": "2023-12-19T03:00:00.000Z"
         }
     ]
 }

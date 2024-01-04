@@ -4,10 +4,22 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Thu, 04 Jan 2024 21:16:17 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 04 Jan 2024 23:13:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
+        <item>
+            <title><![CDATA[STOP！研究費不正使用！／STOP！Wrongful use of research funding！]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4720</link>
+            <guid>d07de3a2549e9d1109e19fd73f9711de</guid>
+            <pubDate>Fri, 05 Jan 2024 03:00:00 GMT</pubDate>
+            <description><![CDATA[学生の皆さんが不正使用に巻き込まれるケースが多発しています。
+不正を見かけた、持ちかけられたら、通報窓口へ。
+コンプライアンス・ハラスメント対策室（学内窓口）
+Mail:compliance@un.tsukuba.ac.jp TEL:029-853-2033
+つくば中央法律事務所（学外窓口）
+TEL:029-896-3530  FAX:029-896-3531]]></description>
+        </item>
         <item>
             <title><![CDATA[「緊急メッセージ」（第一稿）]]></title>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4719</link>
@@ -238,26 +250,6 @@ East Asian Circle of Applied Technology Founda…]]></description>
 出願書：(PDF(資料2))
 財団HP：https://semmoto.or.jp/scholarship-system#a2
 ※この奨学金を受給する者は、受給期間中、他の大学推薦奨学金の申請資格がありません…]]></description>
-        </item>
-        <item>
-            <title><![CDATA[【お知らせ】令和５年度学園祭実施に伴う自転車の撤去について]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4697</link>
-            <guid>d5f0da6fa61ea191637de3e540e91740</guid>
-            <pubDate>Tue, 19 Dec 2023 03:00:00 GMT</pubDate>
-            <description><![CDATA[   
-
-    学園祭期間中、第二・三エリア～体育・芸術エリア間のペデストリアンデッキ上は学園祭会場となるため、
-
-　自転車の駐輪を規制いたしました。
-
-
-
-　下記日時に、別添「自転車撤去図」の移動対象エリア（黄色の斜線部分）に駐輪してあった自転車は、
-
-　各撤去場所（赤枠部分）へ移動いたしましたので、各自でご回収をお願いいたします。
-
-
-　ご迷惑をおかけし申し訳ございませんが、ご理解とご協力を…]]></description>
         </item>
     </channel>
 </rss>
