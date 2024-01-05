@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/mkobayashime/twins-announcements</id>
     <title>在学生へのお知らせ | 筑波大学</title>
-    <updated>2024-01-04T23:13:00.235Z</updated>
+    <updated>2024-01-05T01:54:34.569Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://github.com/mkobayashime/twins-announcements"/>
     <subtitle>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</subtitle>
+    <entry>
+        <title type="html"><![CDATA[【New Event Info】Invitation Ticket to Performance by NHK Symphony Orchestra 2024]]></title>
+        <id>3d64b9ef2823822fc3e5ee9b73e704dd</id>
+        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4721"/>
+        <updated>2024-01-05T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA["<<対象：留学生>>
+学内の留学生の方を対象に、NHK交響楽団の公演への招待チケット（無料）が用意されています。
+興味のある方は、下記URLの申込フォーム（Forms）より、必要事項に回答し各公演の申し込み締切日までに
+申し込んでください。
+※先着順のため、申込締切日より前に、受付を締め切ることがあります。
+※実際に招待チケットで講演に行ける方には、後日学生交流課より連絡します。
+※詳細について…]]></summary>
+    </entry>
     <entry>
         <title type="html"><![CDATA[STOP！研究費不正使用！／STOP！Wrongful use of research funding！]]></title>
         <id>d07de3a2549e9d1109e19fd73f9711de</id>
@@ -235,18 +248,5 @@ We have invited Dr. Kazumi Kasahara (AIST), who is working on elucidating "brain
 ※この奨学金を受給する者は、2024年度の大学推薦奨学金の申請資格がありません。
 
 East Asian Circle of Applied Technology Founda…]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[公益財団法人　千本財団 (2024年度春季奨学生募集)]]></title>
-        <id>49921698c1875314d5228254bcf87f54</id>
-        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4698"/>
-        <updated>2023-12-20T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[公益財団法人　千本財団 (2024年度春季募集)
-応募期間：2023年12月13日(水)～2024年1月31日(水)　※当日消印有効
-提出先　：財団へ直接応募
-募集要項：(PDF(資料1))
-出願書：(PDF(資料2))
-財団HP：https://semmoto.or.jp/scholarship-system#a2
-※この奨学金を受給する者は、受給期間中、他の大学推薦奨学金の申請資格がありません…]]></summary>
     </entry>
 </feed>
