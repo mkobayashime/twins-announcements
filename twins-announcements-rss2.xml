@@ -4,10 +4,26 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Fri, 05 Jan 2024 01:54:34 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 05 Jan 2024 05:11:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
+        <item>
+            <title><![CDATA[General use of the Central Gymnasium Training Room for University Members (Trial Operation)]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4723</link>
+            <guid>87b9b988312adb884ebab3738860bfbd</guid>
+            <pubDate>Fri, 05 Jan 2024 03:00:00 GMT</pubDate>
+            <description><![CDATA[Regarding the Central Gymnasium training room, it has already been announced on the Sports and Pysical Education Center's website that general usage (trial operation) commenced on December 8, 2023. Fo…]]></description>
+        </item>
+        <item>
+            <title><![CDATA[中央体育館トレーニング場の本学構成員に係る一般使用（試験的運用）について]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4722</link>
+            <guid>3c03f1a01ee02aac0f28ca0b90eaa743</guid>
+            <pubDate>Fri, 05 Jan 2024 03:00:00 GMT</pubDate>
+            <description><![CDATA[中央体育館トレーニング場については、すでに体育センターHPで周知のとおり、2023年12月8日から一般使用（試験的運用）が開始されています。
+詳細については、以下のURLをご参照ください。
+]]></description>
+        </item>
         <item>
             <title><![CDATA[【New Event Info】Invitation Ticket to Performance by NHK Symphony Orchestra 2024]]></title>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4721</link>
@@ -225,31 +241,6 @@ KiteKiteは、年齢…]]></description>
             <pubDate>Wed, 20 Dec 2023 03:00:00 GMT</pubDate>
             <description><![CDATA[The seminar "Frontier of MDA Research" will be held on January 9 (Tue).
 We have invited Dr. Kazumi Kasahara (AIST), who is working on elucidating "brain individuality" using life x information collabo…]]></description>
-        </item>
-        <item>
-            <title><![CDATA[MDA研究のフロンティア(第4回)「インタラクションと感覚」 1/9(火)]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4703</link>
-            <guid>7fe81a9067400422f2fd0b5d1026fa34</guid>
-            <pubDate>Wed, 20 Dec 2023 03:00:00 GMT</pubDate>
-            <description><![CDATA[MDA教育推進室より、セミナーのご案内です。
-異分野融合/連携ゼミナール「MDA研究のフロンティア(第4回)」を 1/9(火)13:45から開催します。
-今回は、生命×情報連携技術を用いて「脳の個性」の解明に取り組まれている笠原和美氏（産総研）と自閉スペクトラム症未就学児を主な対象に対人相互作用の計測と促進に関する研究に取り組まれている松田壮一郎助教（人間系）をお招きして、講演・議論します。
-オン…]]></description>
-        </item>
-        <item>
-            <title><![CDATA[公益財団法人　東亜留学生育友会奨学金（2024年度）募集]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4699</link>
-            <guid>acba7658a82c06e6f0dbbb37a02e9242</guid>
-            <pubDate>Wed, 20 Dec 2023 03:00:00 GMT</pubDate>
-            <description><![CDATA[公益財団法人　東亜留学生育友会奨学金（2024年度）
-応募期限： 2024年2月10日(土)　※郵送必着
-提 出 先：財団へ直接応募
-募集要項：(PDF(資料1))
-申請書：(PDF(資料2) )
-※日本語能力が必要です。
-※この奨学金を受給する者は、2024年度の大学推薦奨学金の申請資格がありません。
-
-East Asian Circle of Applied Technology Founda…]]></description>
         </item>
     </channel>
 </rss>
