@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "7a2ffb4c35510ad42837bf08f607ae7c",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4725",
+            "title": "「緊急メッセージ」（第二報）",
+            "summary": "令和６年能登半島地震により、被災された方々には心からお見舞い申し上げます。\n\n学生の皆さんで帰省先等において家屋の倒壊等、被害に遭われた方、又は友人学生が被害にあった情報がありましたら、状況把握のため被害状況等について、所属するエリア支援室（学生支援担当）までご連絡ください。\n\nまた、１月５日（金）から授業は通常どおり実施していますが、被災地域へ帰省等のため、授業開始日までにつくばに戻れず、授業に…",
+            "date_modified": "2024-01-05T03:00:00.000Z"
+        },
+        {
             "id": "87b9b988312adb884ebab3738860bfbd",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4723",
             "title": "General use of the Central Gymnasium Training Room for University Members (Trial Operation)",
@@ -136,13 +143,6 @@
             "title": "【開催案内】5th Borderless Onsite Meeting “Azerbaijan – the Land of Fire, and more-“",
             "summary": "【開催案内】5th Borderless Onsite Meeting\n\nプレゼンター：ハサノヴァ・ナルギズ（NipCAフェロー2023）\n\n題目：Azerbaijan – the Land of Fire, and more-\n\n日時：令和6年1月26日（金）12:20～13 :10\n\n会場：筑波大学　スチューデントコモンズ（1A棟203）\n\n対象：全学教職員、留学生ほか\n\n使用言語：英語\n\nス…",
             "date_modified": "2023-12-22T03:00:00.000Z"
-        },
-        {
-            "id": "fd8a5f9e93b4527c718ca09870072925",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4704",
-            "title": "Frontier of MDA Research (Vol. 4) \"Interaction and Sense\" 1/9 (Tue)",
-            "summary": "The seminar \"Frontier of MDA Research\" will be held on January 9 (Tue).\nWe have invited Dr. Kazumi Kasahara (AIST), who is working on elucidating \"brain individuality\" using life x information collabo…",
-            "date_modified": "2023-12-20T03:00:00.000Z"
         }
     ]
 }

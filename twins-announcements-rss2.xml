@@ -4,10 +4,21 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Fri, 05 Jan 2024 05:11:47 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 05 Jan 2024 08:15:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
+        <item>
+            <title><![CDATA[「緊急メッセージ」（第二報）]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4725</link>
+            <guid>7a2ffb4c35510ad42837bf08f607ae7c</guid>
+            <pubDate>Fri, 05 Jan 2024 03:00:00 GMT</pubDate>
+            <description><![CDATA[令和６年能登半島地震により、被災された方々には心からお見舞い申し上げます。
+
+学生の皆さんで帰省先等において家屋の倒壊等、被害に遭われた方、又は友人学生が被害にあった情報がありましたら、状況把握のため被害状況等について、所属するエリア支援室（学生支援担当）までご連絡ください。
+
+また、１月５日（金）から授業は通常どおり実施していますが、被災地域へ帰省等のため、授業開始日までにつくばに戻れず、授業に…]]></description>
+        </item>
         <item>
             <title><![CDATA[General use of the Central Gymnasium Training Room for University Members (Trial Operation)]]></title>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4723</link>
@@ -233,14 +244,6 @@ KiteKiteは、年齢…]]></description>
 使用言語：英語
 
 ス…]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Frontier of MDA Research (Vol. 4) "Interaction and Sense" 1/9 (Tue)]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4704</link>
-            <guid>fd8a5f9e93b4527c718ca09870072925</guid>
-            <pubDate>Wed, 20 Dec 2023 03:00:00 GMT</pubDate>
-            <description><![CDATA[The seminar "Frontier of MDA Research" will be held on January 9 (Tue).
-We have invited Dr. Kazumi Kasahara (AIST), who is working on elucidating "brain individuality" using life x information collabo…]]></description>
         </item>
     </channel>
 </rss>
