@@ -2,10 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/mkobayashime/twins-announcements</id>
     <title>在学生へのお知らせ | 筑波大学</title>
-    <updated>2024-01-09T00:53:49.717Z</updated>
+    <updated>2024-01-09T01:55:54.509Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://github.com/mkobayashime/twins-announcements"/>
     <subtitle>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</subtitle>
+    <entry>
+        <title type="html"><![CDATA[[Seminar] "Dialogue for the Realization of Tsukuba Super Science City" 1/18(Thu)]]></title>
+        <id>a7b9843c6364b377fcce81c744c44033</id>
+        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4730"/>
+        <updated>2024-01-09T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The MDA Education Promotion Office will hold an MDA seminar "Dialogue for the Realization of Tsukuba Super Science City: Exploring Research Themes with Tsukuba City" for all students and faculty membe…]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【セミナーのご案内】「つくばスーパーサイエンスシティの実現に向けた対話」1/18(木)]]></title>
+        <id>3ed44f239293fc5e503eb8e6eec65fbd</id>
+        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4729"/>
+        <updated>2024-01-09T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[MDA教育推進室では、全学の学生さんと教員を対象として、1/18(木)にMDAセミナー
+「つくばスーパーサイエンスシティの実現に向けた対話－つくば市と共に研究テーマを探る－」
+を開催します。
+
+つくば市が取り組む、住民の困りごとを大胆な規制改革と先端的サービスの社会実装により解決する「つくばスーパーサイエンスシティ構想」について、市役所と企業側の専門家から、直接、紹介していただきます。具体のプロジ…]]></summary>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【BHE】就活支援企画　1月19日チャレンジ実践会（対面）]]></title>
         <id>907f754b9422b744829b17b02bd802d7</id>
@@ -224,26 +242,5 @@ https://forms.office.com/Pages/ResponsePage.aspx?id=_V1bnp1m-E6yQEIpy_SoPaOPW_j2
 ※セーファースペースとは…LGBTQ＋や女性をはじめ、全ての人が自らのジェンダー・セクシュアリティについてより安全に話すことができる居場所のこと
 
 KiteKiteは、年齢…]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[IBARAKIドリーム・パス事業　第５回プレゼンテーション大会開催のご案内]]></title>
-        <id>2c0e81b67d20a3d52a161cce03147f5f</id>
-        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4709"/>
-        <updated>2023-12-25T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[茨城県からIBARAKIドリーム・パス事業　第５回プレゼンテーション大会について添付ファイルの案内がありましたのでお知らせします。]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【見逃し配信】令和5年度薬品・実験廃棄物管理研修会]]></title>
-        <id>dbe7a2364848276a543999a8f4d48dda</id>
-        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4708"/>
-        <updated>2023-12-22T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[令和５年１２月１５日（金）に開催しました令和５年度薬品・実験廃棄物管理研修会の見逃し配信を下記のとおり行います
-
-１．内　容　　
-＜責任者編＞
-「廃棄物管理責任者にお願いしたいこと」（19分44秒）環境安全管理室長　中村修教授
-＜実務者編＞
-「有害廃棄物の処理依頼方法概要（廃液を中心に）」（13分36秒）環境安全管理室　貴志孝洋准教授
-「無機系廃液処理施設処理運転終了に伴う処理依頼方法の変更につい…]]></summary>
     </entry>
 </feed>
