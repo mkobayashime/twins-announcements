@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/mkobayashime/twins-announcements</id>
     <title>在学生へのお知らせ | 筑波大学</title>
-    <updated>2024-01-09T01:55:54.509Z</updated>
+    <updated>2024-01-09T05:12:06.219Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://github.com/mkobayashime/twins-announcements"/>
     <subtitle>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</subtitle>
+    <entry>
+        <title type="html"><![CDATA[【周知】発症予防の治験に参加協力のお願い～新型コロナウイルスに感染された方と同居している方へ～]]></title>
+        <id>9e9d95c7d5198f495b268dd7a7889a21</id>
+        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4731"/>
+        <updated>2024-01-09T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[　筑波大学附属病院より新型コロナウイルスに罹患された方の同居者を対象に臨床試験への参加募集の案内がありました。既に承認されている薬剤の適用拡大のための試験となります。
+　
+　詳しくは、添付の資料をご覧頂き、参加希望者は下記までご連絡ください。
+
+筑波大学附属病院
+電話番号：029-853-3682・3683
+平日・土曜：8:30～17:15]]></summary>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[Seminar] "Dialogue for the Realization of Tsukuba Super Science City" 1/18(Thu)]]></title>
         <id>a7b9843c6364b377fcce81c744c44033</id>
@@ -231,16 +244,5 @@ https://forms.office.com/r/wz8GKEXKdT
 
 申込フォーム：必要事項を入力し、送信してください。
 https://forms.office.com/Pages/ResponsePage.aspx?id=_V1bnp1m-E6yQEIpy_SoPaOPW_j2tV1Oj8…]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【1月】筑波大学BHEセーファースペース「KiteKite（きてきて）」の実施について]]></title>
-        <id>0610e5204155671555cd10d1fcbf6a61</id>
-        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4710"/>
-        <updated>2023-12-25T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[ヒューマンエンパワーメント推進局（BHE）ジェンダー支援チームでは、学生スタッフと共同で”セーファースペースKiteKite（きてきて）”を実施しています。1月の実施日についてお知らせしますので、ぜひお気軽にご参加ください。
-
-※セーファースペースとは…LGBTQ＋や女性をはじめ、全ての人が自らのジェンダー・セクシュアリティについてより安全に話すことができる居場所のこと
-
-KiteKiteは、年齢…]]></summary>
     </entry>
 </feed>

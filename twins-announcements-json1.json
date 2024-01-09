@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "9e9d95c7d5198f495b268dd7a7889a21",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4731",
+            "title": "【周知】発症予防の治験に参加協力のお願い～新型コロナウイルスに感染された方と同居している方へ～",
+            "summary": "　筑波大学附属病院より新型コロナウイルスに罹患された方の同居者を対象に臨床試験への参加募集の案内がありました。既に承認されている薬剤の適用拡大のための試験となります。\n　\n　詳しくは、添付の資料をご覧頂き、参加希望者は下記までご連絡ください。\n\n筑波大学附属病院\n電話番号：029-853-3682・3683\n平日・土曜：8:30～17:15",
+            "date_modified": "2024-01-09T03:00:00.000Z"
+        },
+        {
             "id": "a7b9843c6364b377fcce81c744c44033",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4730",
             "title": "[Seminar] \"Dialogue for the Realization of Tsukuba Super Science City\" 1/18(Thu)",
@@ -135,13 +142,6 @@
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4711",
             "title": "トビタテ！留学JAPAN新・日本代表プログラム【大学生等対象】2024年度（第16期） 留学計画の添削希望者募集について（2024年1月15日締切）",
             "summary": "留学計画の添削を希望する方を募り、応募するコースや地域に応じて、先輩トビタテ生を紹介します。下記申込フォームからお申し込みください。1月以降、先輩トビタテ生をご紹介します。\n\n申込フォーム：必要事項を入力し、送信してください。\nhttps://forms.office.com/Pages/ResponsePage.aspx?id=_V1bnp1m-E6yQEIpy_SoPaOPW_j2tV1Oj8…",
-            "date_modified": "2023-12-25T03:00:00.000Z"
-        },
-        {
-            "id": "0610e5204155671555cd10d1fcbf6a61",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4710",
-            "title": "【1月】筑波大学BHEセーファースペース「KiteKite（きてきて）」の実施について",
-            "summary": "ヒューマンエンパワーメント推進局（BHE）ジェンダー支援チームでは、学生スタッフと共同で”セーファースペースKiteKite（きてきて）”を実施しています。1月の実施日についてお知らせしますので、ぜひお気軽にご参加ください。\n\n※セーファースペースとは…LGBTQ＋や女性をはじめ、全ての人が自らのジェンダー・セクシュアリティについてより安全に話すことができる居場所のこと\n\nKiteKiteは、年齢…",
             "date_modified": "2023-12-25T03:00:00.000Z"
         }
     ]
