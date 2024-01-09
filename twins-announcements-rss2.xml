@@ -4,10 +4,20 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Tue, 09 Jan 2024 06:15:42 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 09 Jan 2024 07:13:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
+        <item>
+            <title><![CDATA[【企画募集】Tsukuba Global Science Week (TGSW) 2024 セッション企画募集について（R6.2.16（金）締切）]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4734</link>
+            <guid>6a74b0398eef19a1d35ebf07a476d16f</guid>
+            <pubDate>Tue, 09 Jan 2024 03:00:00 GMT</pubDate>
+            <description><![CDATA[Tsukuba Global Science Week（TGSW）は、世界各国から様々な分野の発表者を迎えて開催される本学主催の国際シンポジウムです。この度、セッションの企画提案について下記の通り募集します。採用された企画には、広報局国際会議推進部門より経費支援があります。詳しくは添付の募集要項等をご確認ください。
+
+〇TGSW2024概要
+　日程：令和６年9月３０日（月）～10月４日（金）(5日…]]></description>
+        </item>
         <item>
             <title><![CDATA[【開催案内】第47回「中央ユーラシアと日本の未来」公開講演会「地方自治体における多文化共生施策と多言語対応－愛知県豊田市の取組の動向から考える－」]]></title>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4733</link>
@@ -236,20 +246,6 @@ Admission: Free (with soft drinks a…]]></description>
             <description><![CDATA[2023年度大学院入学者（研究生等含む）の皆様へ
 To all students (including research students, etc.) enrolled in graduate school for the academic year 2023
 安全保障に関連する機微技術流出の防止のために、大学院生（研究生等含む）は大学院入学時に「外国為替及び外国貿易法」を遵守する誓約書をman…]]></description>
-        </item>
-        <item>
-            <title><![CDATA[令和5年度春季休業前の海外危機管理セミナーについて]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4713</link>
-            <guid>9668948098c1a516699d21124ab32b99</guid>
-            <pubDate>Mon, 25 Dec 2023 03:00:00 GMT</pubDate>
-            <description><![CDATA[海外危機管理セミナー（オンライン）を開催しますので、お知らせいたします。
-海外危機管理に関するスペシャリストをお招きし、海外渡航※前の準備事項と、現地での安全対策について学びます。ご参加に当たっては、期日までに事前登録してください。
-
-１．日時：　令和6年2月1日（木）18：15～19：15
-
-２．内容・講師：
-　　①「海外渡航にむけた準備とその心得」
-　　　（渡航に関する指針（学長決定）、海外渡…]]></description>
         </item>
     </channel>
 </rss>
