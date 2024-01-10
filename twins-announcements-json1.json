@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "abbd7d280726f6e50115cb4f775d9123",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4740",
+            "title": "New year event”日本文化ウィーク”開催！1月16日(火)～19(金)＠スチューデント・コモンズ",
+            "summary": "スチューデント・コモンズ（1A203）で、2024年の新年を祝って、”日本文化ウィーク”を開催します！\n日本の正月文化を満喫できるイベントです。どなたでも是非ご来場ください！\n\n日付　令和６年1月16日（火）～19日（金）\n時間　10:00-16:00\n場所　スチューデント・コモンズ（1A203）\n\n**-**-**-\n【各イベントの日程】\n1/16(火) ※予約不要・入退室自由\n・筆文字アート体…",
+            "date_modified": "2024-01-10T03:00:00.000Z"
+        },
+        {
             "id": "13872e7205e7ec37c380b49370c958f9",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4739",
             "title": "令和６年度２月期学生定期健康診断について",
@@ -136,13 +143,6 @@
             "title": "筑波大学公式オリジナルグッズECサイト割引クーポンのお知らせ（1月）",
             "summary": "筑波大学公式オリジナルグッズ販売サイト「TSUKUBA-SHOP」1月の割引クーポンコードをお知らせいたします！\n\n\nどうぞご覧いただき、皆様の「日常生活」、「思い出」、「プレゼント🎁」などにご活用いただけますと幸いです。\n\nECサイトは以下のリンクから\n※学内専用割引コードをTWINS掲示「大学から学生へのお知らせ（学内専用）」に掲載しております。\n※学生・教職員はこのコードを入力することで、…",
             "date_modified": "2024-01-01T03:00:00.000Z"
-        },
-        {
-            "id": "8c97adf8ca04a36cee1eb397b3b66dac",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4718",
-            "title": "T-ACT Forum UT” Friday Night Science Cafe in English”",
-            "summary": "Venue: co-en  \n　　　　Tsukuba Center Building 1F, 1-10-1 Azuma, Tsukuba\nDates: December 29, 2023, and February 23, 2024  \nTime: 19:00 - 20:00  \nNo reservation required\nAdmission: Free (with soft drinks a…",
-            "date_modified": "2023-12-28T03:00:00.000Z"
         }
     ]
 }
