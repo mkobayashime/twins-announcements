@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "d17bd33184abffc59269a44e3dc6b0ac",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4743",
+            "title": "【お知らせ】令和6年能登半島地震による休学希望者への柔軟な対応について",
+            "summary": "この度は令和6年能登半島地震において被災された皆様に心からお見舞い申し上げます。\n\n令和6年能登半島地震の影響により、予め手続きができる状態になかった者が休学を希望する場合、令和6年1月に遡って休学を許可する等、柔軟に取り扱うことを可とします。\n\n１．申し出の期間について\n休学願を原則として令和6年2月29日（木）までに対応エリア支援室に提出してください。\n\n２ ．休学の理由について\n令和6年能登…",
+            "date_modified": "2024-01-11T03:00:00.000Z"
+        },
+        {
             "id": "1089809866e74e047572f7d1eeecbcc7",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4742",
             "title": "【BHE就活支援】企業が見ているポイントは？最終面接準備講座",
@@ -135,13 +142,6 @@
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4722",
             "title": "中央体育館トレーニング場の本学構成員に係る一般使用（試験的運用）について",
             "summary": "中央体育館トレーニング場については、すでに体育センターHPで周知のとおり、2023年12月8日から一般使用（試験的運用）が開始されています。\n詳細については、以下のURLをご参照ください。\n",
-            "date_modified": "2024-01-05T03:00:00.000Z"
-        },
-        {
-            "id": "d07de3a2549e9d1109e19fd73f9711de",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4720",
-            "title": "STOP！研究費不正使用！／STOP！Wrongful use of research funding！",
-            "summary": "学生の皆さんが不正使用に巻き込まれるケースが多発しています。\n不正を見かけた、持ちかけられたら、通報窓口へ。\nコンプライアンス・ハラスメント対策室（学内窓口）\nMail:compliance@un.tsukuba.ac.jp TEL:029-853-2033\nつくば中央法律事務所（学外窓口）\nTEL:029-896-3530  FAX:029-896-3531",
             "date_modified": "2024-01-05T03:00:00.000Z"
         }
     ]
