@@ -4,10 +4,27 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Wed, 10 Jan 2024 21:14:52 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 11 Jan 2024 05:12:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
+        <item>
+            <title><![CDATA[【BHE就活支援】企業が見ているポイントは？最終面接準備講座]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4742</link>
+            <guid>1089809866e74e047572f7d1eeecbcc7</guid>
+            <pubDate>Thu, 11 Jan 2024 03:00:00 GMT</pubDate>
+            <description><![CDATA[(株)リクルートによる「最終面接準備講座」を開催します。
+70分で、最終面接の大事なポイントをお伝えします。
+※3年生・M1対象LIVE配信
+
+「面接に対して苦手意識がある」
+「選考を通過してきたけど、最終面接の準備は何をすればいいのかな・・」
+「準備を進めているけどなんだか不安・・」
+こんな不安のある方、不安の大小は問いません。質疑応答の時間もございますのでお気軽に
+ご参加ください。
+
+【講座内…]]></description>
+        </item>
         <item>
             <title><![CDATA[New year event "Japanese Culture Week" will be held at Student Commons!]]></title>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4741</link>
@@ -254,16 +271,6 @@ BHEキャリア支援チームのファシリテーターからフィードバ�
 Mail:compliance@un.tsukuba.ac.jp TEL:029-853-2033
 つくば中央法律事務所（学外窓口）
 TEL:029-896-3530  FAX:029-896-3531]]></description>
-        </item>
-        <item>
-            <title><![CDATA[「緊急メッセージ」（第一稿）]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4719</link>
-            <guid>dc436ce5150bd17c0078461a75ec6865</guid>
-            <pubDate>Tue, 02 Jan 2024 03:00:00 GMT</pubDate>
-            <description><![CDATA[　令和６年１月１日に発生した令和６年能登半島地震により，犠牲となられた方々に深く哀悼の意を表するとともに，負傷された方，被災された方，そのご家族及び関係の方々に心よりお見舞いを申し上げます。
-
-　現在、被災された地域に帰省、旅行等で滞在する学生の皆さんにあっては、まずはご自身およびご家族等の関係の方々の安全確保に努めてください。
-　また、つくば市等の地域において、ご実家等のご心配をされている学生の…]]></description>
         </item>
     </channel>
 </rss>

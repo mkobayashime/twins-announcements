@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "1089809866e74e047572f7d1eeecbcc7",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4742",
+            "title": "【BHE就活支援】企業が見ているポイントは？最終面接準備講座",
+            "summary": "(株)リクルートによる「最終面接準備講座」を開催します。\n70分で、最終面接の大事なポイントをお伝えします。\n※3年生・M1対象LIVE配信\n\n「面接に対して苦手意識がある」\n「選考を通過してきたけど、最終面接の準備は何をすればいいのかな・・」\n「準備を進めているけどなんだか不安・・」\nこんな不安のある方、不安の大小は問いません。質疑応答の時間もございますのでお気軽に\nご参加ください。\n\n【講座内…",
+            "date_modified": "2024-01-11T03:00:00.000Z"
+        },
+        {
             "id": "cd2ab672c9e77c8d1ec62bad88526c64",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4741",
             "title": "New year event \"Japanese Culture Week\" will be held at Student Commons!",
@@ -136,13 +143,6 @@
             "title": "STOP！研究費不正使用！／STOP！Wrongful use of research funding！",
             "summary": "学生の皆さんが不正使用に巻き込まれるケースが多発しています。\n不正を見かけた、持ちかけられたら、通報窓口へ。\nコンプライアンス・ハラスメント対策室（学内窓口）\nMail:compliance@un.tsukuba.ac.jp TEL:029-853-2033\nつくば中央法律事務所（学外窓口）\nTEL:029-896-3530  FAX:029-896-3531",
             "date_modified": "2024-01-05T03:00:00.000Z"
-        },
-        {
-            "id": "dc436ce5150bd17c0078461a75ec6865",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4719",
-            "title": "「緊急メッセージ」（第一稿）",
-            "summary": "　令和６年１月１日に発生した令和６年能登半島地震により，犠牲となられた方々に深く哀悼の意を表するとともに，負傷された方，被災された方，そのご家族及び関係の方々に心よりお見舞いを申し上げます。\n\n　現在、被災された地域に帰省、旅行等で滞在する学生の皆さんにあっては、まずはご自身およびご家族等の関係の方々の安全確保に努めてください。\n　また、つくば市等の地域において、ご実家等のご心配をされている学生の…",
-            "date_modified": "2024-01-02T03:00:00.000Z"
         }
     ]
 }
