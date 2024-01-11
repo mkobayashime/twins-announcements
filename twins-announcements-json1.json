@@ -5,6 +5,20 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "78a64848294ab0040f97f03dbadba977",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4745",
+            "title": "【Seminar】\"Frontier of MDA Research (5th): Disaster Mitigation and Forecasting\" 1/16 (Tue)",
+            "summary": "MDA Education Promotion Office will hold \"Frontiers of MDA Research (5th)\" on 1/16.\nAll students and faculty of the University of Tsukuba are welcome to attend.\nIn this session, Dr. Shingo Suzuki, who…",
+            "date_modified": "2024-01-11T03:00:00.000Z"
+        },
+        {
+            "id": "d5e611329456219ec7ee8dfa1ed3b1e3",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4744",
+            "title": "【セミナーのご案内】「MDA研究のフロンティア(第5回)：減災と予測」 1/16(火)",
+            "summary": "MDA教育推進室では、「MDA研究のフロンティア(第5回)：減災と予測」を 1/16(火)13:45から開催します。\n筑波大学の全学生・教員がご参加いただけます。\n第5回目では、防災科研で10秒診断などの減災対策のプロジェクト・研究に携わる鈴木進吾氏と老朽化するインフラ構造物の安全な運用にデータ同化や機械学習などのアプローチで取り組む西尾真由子氏（システム情報系）をお招きして講演・議論を行います。…",
+            "date_modified": "2024-01-11T03:00:00.000Z"
+        },
+        {
             "id": "d17bd33184abffc59269a44e3dc6b0ac",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4743",
             "title": "【お知らせ】令和6年能登半島地震による休学希望者への柔軟な対応について",
@@ -128,20 +142,6 @@
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4726",
             "title": "「緊急メッセージ」（第二報）",
             "summary": "令和６年能登半島地震により、被災された方々には心からお見舞い申し上げます。\n\n学生の皆さんで帰省先等において家屋の倒壊等、被害に遭われた方、又は友人学生が被害にあった情報がありましたら、状況把握のため被害状況等について、所属するエリア支援室（学生支援担当）までご連絡ください。\n\n筑波大学では、安否確認システム（ANPIC）でみなさん安否確認を行っておりますので、必ず報告をお願いします。\n\n１月５日…",
-            "date_modified": "2024-01-05T03:00:00.000Z"
-        },
-        {
-            "id": "87b9b988312adb884ebab3738860bfbd",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4723",
-            "title": "General use of the Central Gymnasium Training Room for University Members (Trial Operation)",
-            "summary": "Regarding the Central Gymnasium training room, it has already been announced on the Sports and Pysical Education Center's website that general usage (trial operation) commenced on December 8, 2023. Fo…",
-            "date_modified": "2024-01-05T03:00:00.000Z"
-        },
-        {
-            "id": "3c03f1a01ee02aac0f28ca0b90eaa743",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4722",
-            "title": "中央体育館トレーニング場の本学構成員に係る一般使用（試験的運用）について",
-            "summary": "中央体育館トレーニング場については、すでに体育センターHPで周知のとおり、2023年12月8日から一般使用（試験的運用）が開始されています。\n詳細については、以下のURLをご参照ください。\n",
             "date_modified": "2024-01-05T03:00:00.000Z"
         }
     ]
