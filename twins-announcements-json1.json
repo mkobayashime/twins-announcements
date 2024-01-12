@@ -5,6 +5,20 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "06f93687292974c6c8b21371c24c0711",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4757",
+            "title": "1月19日（金）10：00-12：00「Business Leaders’ Seminar/ビジネスリーダーズセミナー」開催のお知らせ （対象：全学生）",
+            "summary": "ヒューマンバイオロジー学位プログラムでは授業の一環として「Business Leaders’ Seminar/ビジネスリーダーズセミナー」を開催しています。\n本セミナーは、世界のトップビジネスリーダーを招き、オムニバス形式でキャリア形成やビジネスに関する成功と失敗の話などの経験を紹介するものです。\n\n1月19日（金）10：00-12：00に開催するセミナーでは、Chairperson of FP&…",
+            "date_modified": "2024-01-12T03:00:00.000Z"
+        },
+        {
+            "id": "06f93687292974c6c8b21371c24c0711",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4756",
+            "title": "1月19日（金）10：00-12：00「Business Leaders’ Seminar/ビジネスリーダーズセミナー」開催のお知らせ （対象：全学生）",
+            "summary": "ヒューマンバイオロジー学位プログラムでは授業の一環として「Business Leaders’ Seminar/ビジネスリーダーズセミナー」を開催しています。\n本セミナーは、世界のトップビジネスリーダーを招き、オムニバス形式でキャリア形成やビジネスに関する成功と失敗の話などの経験を紹介するものです。\n\n1月19日（金）10：00-12：00に開催するセミナーでは、Chairperson of FP&…",
+            "date_modified": "2024-01-12T03:00:00.000Z"
+        },
+        {
             "id": "f8fca83fd6d1bcbc1586642d7d70e3ed",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4755",
             "title": "【1.24】第52回ASIP/TG公開セミナー「海外研修から始まる/広がるマイキャリア・マイライフ~教育支援から医療支援へ~」",
@@ -128,20 +142,6 @@
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4738",
             "title": "【New Event Info】Invitation Ticket to Performance by NHK Symphony Orchestra 2024",
             "summary": "\"<<対象：留学生>>\n学内の留学生の方を対象に、NHK交響楽団の公演への招待チケット（無料）が用意されています。\n興味のある方は、下記URLの申込フォーム（Forms）より、必要事項に回答し各公演の申し込み締切日までに\n申し込んでください。\n※先着順のため、申込締切日より前に、受付を締め切ることがあります。\n※実際に招待チケットで講演に行ける方には、後日学生交流課より連絡します。\n※詳細について…",
-            "date_modified": "2024-01-10T03:00:00.000Z"
-        },
-        {
-            "id": "3816a6be2ff032bdb18bd344ce17c83e",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4737",
-            "title": "【周知】人社公開講座「人文社会系女子のキャリア形成」（第四回：1月10日 グローバル企業編、第五回：1月17日 国連編）",
-            "summary": "人文社会科学研究群公開講座「人文社会系女子のキャリア形成――自分と社会のつなぎ方」のお知らせ\n\n【第四回  グローバル企業 (インテル・マイクロソフト) 編】\n講師　　吉川久美子さん\n：2004年　    国際総合学類入学、1年休学して世界一周旅行\n　2009年      国際総合学類卒業、京都大学修士課程進学\n　2011年～    インテル社\n　2017年～　  日本マイクロソフト社サプライチェ…",
-            "date_modified": "2024-01-10T03:00:00.000Z"
-        },
-        {
-            "id": "040a4c8ddf62453b63157482d617bb3b",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4736",
-            "title": "【参加者募集】2024/1/31講演「How to Create Positive Sport Environment for Kids」",
-            "summary": "スポーツ・オリンピック学学位プログラム卒業生の ChristianE.Okoye 氏をお招きし、「How to Create Positive Sport Environment for Kids」について講演していただきます。\n\n■日時：2024年1月31日（水）2限 10：10～11：25\n\n■募集対象者：筑波大生\n\n■場所：GSI棟 302室\n\n■言語：英語\n\n■参加費：無料\n\n■申込方法：…",
             "date_modified": "2024-01-10T03:00:00.000Z"
         }
     ]
