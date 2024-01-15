@@ -5,13 +5,6 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
-            "id": "517c45d3f46ab55ec9eadb0d15bdb7c0",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4760",
-            "title": "1/16(火)～New year event　”日本文化ウィーク”開催！",
-            "summary": "スチューデント・コモンズ（1A203）で、2024年の新年を祝って、”日本文化ウィーク”を開催します！\n日本の正月文化を満喫できるイベントです。どなたでも是非ご来場ください！\n\n日付　令和６年1月16日（火）～19日（金）\n時間　10:00-16:00\n場所　スチューデント・コモンズ（1A203）\n\n**-**-**-\n【各イベントの日程】\n1/16(火) ※予約不要・入退室自由\n・筆文字アート体…",
-            "date_modified": "2024-01-15T03:00:00.000Z"
-        },
-        {
             "id": "21004a2d9e4cb4460810ffa3349c4103",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4759",
             "title": "「緊急メッセージ」（三報）緊急経済支援の実施について",
@@ -138,10 +131,17 @@
             "date_modified": "2024-01-11T03:00:00.000Z"
         },
         {
-            "id": "cd2ab672c9e77c8d1ec62bad88526c64",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4741",
-            "title": "New year event \"Japanese Culture Week\" will be held at Student Commons!",
-            "summary": "In celebration of the New Year 2024, \"Japanese Culture Week\" will be held at Student Commons (1A203)!\nThis event is a great opportunity to enjoy Japanese New Year's culture. Anyone can join this event…",
+            "id": "13872e7205e7ec37c380b49370c958f9",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4739",
+            "title": "令和６年度２月期学生定期健康診断について",
+            "summary": "令和６年度に実施する教育実習（特別支援教育実習を除く）を予定している学生、介護等体験に参加希望の学生（対象者は掲示参照）、医学類及び看護学類の臨床実習等を行う学生に対し、定期健康診断を次のとおり実施します。なお、今回の健康診断を受診できる介護等体験を履修する学生は、事前に申し込みをした者に限ります。詳細は以下のPDFまたはホームページをご確認ください。",
+            "date_modified": "2024-01-10T03:00:00.000Z"
+        },
+        {
+            "id": "3d64b9ef2823822fc3e5ee9b73e704dd",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4738",
+            "title": "【New Event Info】Invitation Ticket to Performance by NHK Symphony Orchestra 2024",
+            "summary": "\"<<対象：留学生>>\n学内の留学生の方を対象に、NHK交響楽団の公演への招待チケット（無料）が用意されています。\n興味のある方は、下記URLの申込フォーム（Forms）より、必要事項に回答し各公演の申し込み締切日までに\n申し込んでください。\n※先着順のため、申込締切日より前に、受付を締め切ることがあります。\n※実際に招待チケットで講演に行ける方には、後日学生交流課より連絡します。\n※詳細について…",
             "date_modified": "2024-01-10T03:00:00.000Z"
         }
     ]
