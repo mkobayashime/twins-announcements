@@ -4,10 +4,40 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Mon, 15 Jan 2024 09:19:23 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 15 Jan 2024 11:11:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
+        <item>
+            <title><![CDATA[1/16(火)～New year event　”日本文化ウィーク”開催！]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4760</link>
+            <guid>517c45d3f46ab55ec9eadb0d15bdb7c0</guid>
+            <pubDate>Mon, 15 Jan 2024 03:00:00 GMT</pubDate>
+            <description><![CDATA[スチューデント・コモンズ（1A203）で、2024年の新年を祝って、”日本文化ウィーク”を開催します！
+日本の正月文化を満喫できるイベントです。どなたでも是非ご来場ください！
+
+日付　令和６年1月16日（火）～19日（金）
+時間　10:00-16:00
+場所　スチューデント・コモンズ（1A203）
+
+**-**-**-
+【各イベントの日程】
+1/16(火) ※予約不要・入退室自由
+・筆文字アート体…]]></description>
+        </item>
+        <item>
+            <title><![CDATA[「緊急メッセージ」（三報）緊急経済支援の実施について]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4759</link>
+            <guid>21004a2d9e4cb4460810ffa3349c4103</guid>
+            <pubDate>Mon, 15 Jan 2024 03:00:00 GMT</pubDate>
+            <description><![CDATA[令和６年能登半島地震により、被災された方々には心からお見舞い申し上げます。
+
+本学では、被災された学生の皆さんの修学あるいは生活への支援として、この度、授業料免除等の緊急経済支援を行うこととなりました。
+
+応募に関する詳細情報については、今週末に、改めてお知らせいたします。
+
+なお、学生の皆さんで帰省先等において家屋の倒壊等、被害に遭われた方、又は友人学生が被害にあった情報がありましたら、状況把握…]]></description>
+        </item>
         <item>
             <title><![CDATA[【BHE就活支援】内定者と話してみよう！内定者懇談会のご案内]]></title>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4758</link>
@@ -230,30 +260,6 @@ In this session, Dr. Shingo Suzuki, who…]]></description>
             <pubDate>Wed, 10 Jan 2024 03:00:00 GMT</pubDate>
             <description><![CDATA[In celebration of the New Year 2024, "Japanese Culture Week" will be held at Student Commons (1A203)!
 This event is a great opportunity to enjoy Japanese New Year's culture. Anyone can join this event…]]></description>
-        </item>
-        <item>
-            <title><![CDATA[New year event”日本文化ウィーク”開催！1月16日(火)～19(金)＠スチューデント・コモンズ]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4740</link>
-            <guid>abbd7d280726f6e50115cb4f775d9123</guid>
-            <pubDate>Wed, 10 Jan 2024 03:00:00 GMT</pubDate>
-            <description><![CDATA[スチューデント・コモンズ（1A203）で、2024年の新年を祝って、”日本文化ウィーク”を開催します！
-日本の正月文化を満喫できるイベントです。どなたでも是非ご来場ください！
-
-日付　令和６年1月16日（火）～19日（金）
-時間　10:00-16:00
-場所　スチューデント・コモンズ（1A203）
-
-**-**-**-
-【各イベントの日程】
-1/16(火) ※予約不要・入退室自由
-・筆文字アート体…]]></description>
-        </item>
-        <item>
-            <title><![CDATA[令和６年度２月期学生定期健康診断について]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4739</link>
-            <guid>13872e7205e7ec37c380b49370c958f9</guid>
-            <pubDate>Wed, 10 Jan 2024 03:00:00 GMT</pubDate>
-            <description><![CDATA[令和６年度に実施する教育実習（特別支援教育実習を除く）を予定している学生、介護等体験に参加希望の学生（対象者は掲示参照）、医学類及び看護学類の臨床実習等を行う学生に対し、定期健康診断を次のとおり実施します。なお、今回の健康診断を受診できる介護等体験を履修する学生は、事前に申し込みをした者に限ります。詳細は以下のPDFまたはホームページをご確認ください。]]></description>
         </item>
     </channel>
 </rss>
