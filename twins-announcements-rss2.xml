@@ -4,7 +4,7 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Tue, 16 Jan 2024 10:13:26 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 16 Jan 2024 15:19:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
@@ -245,13 +245,19 @@ URL：https://us02web…]]></description>
 ・…]]></description>
         </item>
         <item>
-            <title><![CDATA[【Seminar】"Frontier of MDA Research (5th): Disaster Mitigation and Forecasting" 1/16 (Tue)]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4745</link>
-            <guid>78a64848294ab0040f97f03dbadba977</guid>
+            <title><![CDATA[【お知らせ】令和6年能登半島地震による休学希望者への柔軟な対応について]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4743</link>
+            <guid>d17bd33184abffc59269a44e3dc6b0ac</guid>
             <pubDate>Thu, 11 Jan 2024 03:00:00 GMT</pubDate>
-            <description><![CDATA[MDA Education Promotion Office will hold "Frontiers of MDA Research (5th)" on 1/16.
-All students and faculty of the University of Tsukuba are welcome to attend.
-In this session, Dr. Shingo Suzuki, who…]]></description>
+            <description><![CDATA[この度は令和6年能登半島地震において被災された皆様に心からお見舞い申し上げます。
+
+令和6年能登半島地震の影響により、予め手続きができる状態になかった者が休学を希望する場合、令和6年1月に遡って休学を許可する等、柔軟に取り扱うことを可とします。
+
+１．申し出の期間について
+休学願を原則として令和6年2月29日（木）までに対応エリア支援室に提出してください。
+
+２ ．休学の理由について
+令和6年能登…]]></description>
         </item>
     </channel>
 </rss>
