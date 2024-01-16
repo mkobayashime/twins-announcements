@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/mkobayashime/twins-announcements</id>
     <title>在学生へのお知らせ | 筑波大学</title>
-    <updated>2024-01-16T09:18:23.863Z</updated>
+    <updated>2024-01-16T10:13:26.172Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://github.com/mkobayashime/twins-announcements"/>
     <subtitle>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</subtitle>
+    <entry>
+        <title type="html"><![CDATA[【Announcement】 AY 2023 Class Recess Due to the Undergraduate Entrance Examination]]></title>
+        <id>8a5d0f108bf77ef80e401cca08f807dd</id>
+        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4765"/>
+        <updated>2024-01-16T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[To all students
+
+This is to inform you that some changes have been made to the "AY 2023 Class Recess Due to the Undergraduate Entrance Examination" posted on the TWINS bulletin board on October 16, 20…]]></summary>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【お知らせ】学群入学試験等の実施に伴う令和5年度授業の臨時休業について（令和6年1月16日更新）]]></title>
         <id>04dea533f0b8f3a43908b33413108a42</id>
@@ -241,14 +250,5 @@ URL：https://us02web…]]></summary>
         <summary type="html"><![CDATA[MDA Education Promotion Office will hold "Frontiers of MDA Research (5th)" on 1/16.
 All students and faculty of the University of Tsukuba are welcome to attend.
 In this session, Dr. Shingo Suzuki, who…]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【セミナーのご案内】「MDA研究のフロンティア(第5回)：減災と予測」 1/16(火)]]></title>
-        <id>d5e611329456219ec7ee8dfa1ed3b1e3</id>
-        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4744"/>
-        <updated>2024-01-11T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[MDA教育推進室では、「MDA研究のフロンティア(第5回)：減災と予測」を 1/16(火)13:45から開催します。
-筑波大学の全学生・教員がご参加いただけます。
-第5回目では、防災科研で10秒診断などの減災対策のプロジェクト・研究に携わる鈴木進吾氏と老朽化するインフラ構造物の安全な運用にデータ同化や機械学習などのアプローチで取り組む西尾真由子氏（システム情報系）をお招きして講演・議論を行います。…]]></summary>
     </entry>
 </feed>
