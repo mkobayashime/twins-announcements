@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "04dea533f0b8f3a43908b33413108a42",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4764",
+            "title": "【お知らせ】学群入学試験等の実施に伴う令和5年度授業の臨時休業について（令和6年1月16日更新）",
+            "summary": "令和5年10月16日付でTWINS掲示板に掲載した「学群入学試験等の実施に伴う令和5年度授業の臨時休業について」に一部変更が生じたのでお知らせいたします。詳細は添付ファイルをご確認ください。",
+            "date_modified": "2024-01-16T03:00:00.000Z"
+        },
+        {
             "id": "1b67b10f4f5033aece8beaa7b676db6f",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4763",
             "title": "【開催案内】人文社会科学研究群公開講座『危機後の文学』（2/2,10,17)　",
@@ -135,13 +142,6 @@
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4744",
             "title": "【セミナーのご案内】「MDA研究のフロンティア(第5回)：減災と予測」 1/16(火)",
             "summary": "MDA教育推進室では、「MDA研究のフロンティア(第5回)：減災と予測」を 1/16(火)13:45から開催します。\n筑波大学の全学生・教員がご参加いただけます。\n第5回目では、防災科研で10秒診断などの減災対策のプロジェクト・研究に携わる鈴木進吾氏と老朽化するインフラ構造物の安全な運用にデータ同化や機械学習などのアプローチで取り組む西尾真由子氏（システム情報系）をお招きして講演・議論を行います。…",
-            "date_modified": "2024-01-11T03:00:00.000Z"
-        },
-        {
-            "id": "d17bd33184abffc59269a44e3dc6b0ac",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4743",
-            "title": "【お知らせ】令和6年能登半島地震による休学希望者への柔軟な対応について",
-            "summary": "この度は令和6年能登半島地震において被災された皆様に心からお見舞い申し上げます。\n\n令和6年能登半島地震の影響により、予め手続きができる状態になかった者が休学を希望する場合、令和6年1月に遡って休学を許可する等、柔軟に取り扱うことを可とします。\n\n１．申し出の期間について\n休学願を原則として令和6年2月29日（木）までに対応エリア支援室に提出してください。\n\n２ ．休学の理由について\n令和6年能登…",
             "date_modified": "2024-01-11T03:00:00.000Z"
         }
     ]
