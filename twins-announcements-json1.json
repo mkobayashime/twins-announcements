@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "54d04a229201dc9b92ab16decd785abf",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4766",
+            "title": "【重要/ Important】1C棟への立入禁止について/ Prohibition of entry to the 1C Building（1/26-29）",
+            "summary": "大学院入試実施のため、下記期間中、学生の1C棟各階への立ち入りを\n禁止させていただきます。\nご理解とご協力のほどどうぞよろしくお願いいたします。\n\n＜期間および対象階＞\n期間：令和６年１月26日（金）１５時１５分～29日（月）終日：\n対象階：1C棟３階以上\n\n\nDue to graduate school admissions, students are not allowed to enter …",
+            "date_modified": "2024-01-17T03:00:00.000Z"
+        },
+        {
             "id": "8a5d0f108bf77ef80e401cca08f807dd",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4765",
             "title": "【Announcement】 AY 2023 Class Recess Due to the Undergraduate Entrance Examination",
@@ -135,13 +142,6 @@
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4746",
             "title": "図書館プリンタからの白黒無料印刷（年間500枚）サービス終了について",
             "summary": "図書館システムの更新に伴い、2024年2月中旬頃に図書館プリンタからの白黒印刷（年間500枚）の無料印刷サービスを終了いたします。\n※ 図書館システムの更新の日程については改めてお知らせします。\n\n● 全学計算機アカウントをお持ちの方\n各図書館に設置されている全学計算機プリンタから、無料印刷ができます。\n印刷可能枚数は学類・専攻等各組織によって異なります。詳しくは以下のページをご覧ください。\n\n・…",
-            "date_modified": "2024-01-11T03:00:00.000Z"
-        },
-        {
-            "id": "d17bd33184abffc59269a44e3dc6b0ac",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4743",
-            "title": "【お知らせ】令和6年能登半島地震による休学希望者への柔軟な対応について",
-            "summary": "この度は令和6年能登半島地震において被災された皆様に心からお見舞い申し上げます。\n\n令和6年能登半島地震の影響により、予め手続きができる状態になかった者が休学を希望する場合、令和6年1月に遡って休学を許可する等、柔軟に取り扱うことを可とします。\n\n１．申し出の期間について\n休学願を原則として令和6年2月29日（木）までに対応エリア支援室に提出してください。\n\n２ ．休学の理由について\n令和6年能登…",
             "date_modified": "2024-01-11T03:00:00.000Z"
         }
     ]

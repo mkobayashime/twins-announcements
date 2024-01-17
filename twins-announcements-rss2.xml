@@ -4,10 +4,26 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Tue, 16 Jan 2024 21:16:19 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 17 Jan 2024 00:54:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
+        <item>
+            <title><![CDATA[【重要/ Important】1C棟への立入禁止について/ Prohibition of entry to the 1C Building（1/26-29）]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4766</link>
+            <guid>54d04a229201dc9b92ab16decd785abf</guid>
+            <pubDate>Wed, 17 Jan 2024 03:00:00 GMT</pubDate>
+            <description><![CDATA[大学院入試実施のため、下記期間中、学生の1C棟各階への立ち入りを
+禁止させていただきます。
+ご理解とご協力のほどどうぞよろしくお願いいたします。
+
+＜期間および対象階＞
+期間：令和６年１月26日（金）１５時１５分～29日（月）終日：
+対象階：1C棟３階以上
+
+
+Due to graduate school admissions, students are not allowed to enter …]]></description>
+        </item>
         <item>
             <title><![CDATA[【Announcement】 AY 2023 Class Recess Due to the Undergraduate Entrance Examination]]></title>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4765</link>
@@ -243,21 +259,6 @@ URL：https://us02web…]]></description>
 印刷可能枚数は学類・専攻等各組織によって異なります。詳しくは以下のページをご覧ください。
 
 ・…]]></description>
-        </item>
-        <item>
-            <title><![CDATA[【お知らせ】令和6年能登半島地震による休学希望者への柔軟な対応について]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4743</link>
-            <guid>d17bd33184abffc59269a44e3dc6b0ac</guid>
-            <pubDate>Thu, 11 Jan 2024 03:00:00 GMT</pubDate>
-            <description><![CDATA[この度は令和6年能登半島地震において被災された皆様に心からお見舞い申し上げます。
-
-令和6年能登半島地震の影響により、予め手続きができる状態になかった者が休学を希望する場合、令和6年1月に遡って休学を許可する等、柔軟に取り扱うことを可とします。
-
-１．申し出の期間について
-休学願を原則として令和6年2月29日（木）までに対応エリア支援室に提出してください。
-
-２ ．休学の理由について
-令和6年能登…]]></description>
         </item>
     </channel>
 </rss>
