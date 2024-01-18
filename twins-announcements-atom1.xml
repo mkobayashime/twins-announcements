@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/mkobayashime/twins-announcements</id>
     <title>在学生へのお知らせ | 筑波大学</title>
-    <updated>2024-01-18T06:16:16.073Z</updated>
+    <updated>2024-01-18T07:12:12.844Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://github.com/mkobayashime/twins-announcements"/>
     <subtitle>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</subtitle>
+    <entry>
+        <title type="html"><![CDATA[[Event Ended] Get rice for FREE! Today 10:00～16:00]]></title>
+        <id>ee573484517ab4f03cbe5905e60d1ba8</id>
+        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4781"/>
+        <updated>2024-01-18T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Regarding the "Japanese Culture Week" currently being held at Student Commons (1A203), we would like to inform you that the free rice distribution event that was being held today has ended.
+
+Please st…]]></summary>
+    </entry>
     <entry>
         <title type="html"><![CDATA[配布終了！：お米の無料配布！本日10:00～16:00（日本文化ウィーク）]]></title>
         <id>c234f426f9397af19d09fa1c16d1d9d8</id>
@@ -251,13 +260,5 @@ This is to inform you that some changes have been made to the "AY 2023 Class Rec
 日時：　令和6年2月3日（土）、4日（日）
 対象：　筑波大学の学群生及び大学院生
 会場：　筑波大学体芸棟4…]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【周知】自動運転バス 乗車モニタの募集]]></title>
-        <id>bfc765ab4dcac6521a3fad40429d172e</id>
-        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4761"/>
-        <updated>2024-01-16T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[つくば市、筑波大学、関東鉄道株式会社、KDDI株式会社とコンソーシアムを結成し、2024 年 1月22日から 2024 年 1 月 30 日の間（土日を除く）、筑波大学周辺の周回ルートにおいて、レベル 2 の自動運転バス車両（車両定員 9 名）による走行実証を実施し、地域の皆様の受容性確認や区域内の技術的・地理的課題の抽出を行います。
-本実験にご参加いただける方を募集します。添付資料をご覧頂き　乗…]]></summary>
     </entry>
 </feed>
