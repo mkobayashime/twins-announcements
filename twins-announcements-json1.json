@@ -5,6 +5,20 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "c00c6117a90bd0e9bdc183694038ca10",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4776",
+            "title": "Get rice for FREE! Today 10:00~16:00*Ends as soon as the rice bags run out",
+            "summary": "In celebration of the New Year 2024, \"Japanese Culture Week\" will be held in the Student Commons (1A203)!\n\n1/18(Thu)\nFree rice distribution (rice grown by JICA trainees)*Ends as soon as the rice bags …",
+            "date_modified": "2024-01-18T03:00:00.000Z"
+        },
+        {
+            "id": "7a64e19faef7f47202c79d2b58a6a58d",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4775",
+            "title": "お米の無料配布！本日10:00~16:00*なくなり次第終了！",
+            "summary": "スチューデント・コモンズ（1A203）で、2024年の新年を祝って、”日本文化ウィーク”を開催します！\n\n1/18(木)\n・お米の無料配布（JICA研修員が作ったお米です）*なくなり次第終了！！！！\n・JICAブース\n・TSUKUBA-Shop（筑波大学公式グッズショップ）\n\n1/19(金)\n・振る舞い餅（お餅無料配布）\n\n1月16日（火）～19日（金）\n常設展示（予約不要・入退室自由）\n　桐書藝…",
+            "date_modified": "2024-01-18T03:00:00.000Z"
+        },
+        {
             "id": "48f618e26325a43f6525bd2b8ba47b6a",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4774",
             "title": "【見逃し配信】令和5年度全学防災訓練「障害学生等支援防災ワーク」（全学リスクマネジメントセミナー）",
@@ -128,20 +142,6 @@
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4756",
             "title": "1月19日（金）10：00-12：00「Business Leaders’ Seminar/ビジネスリーダーズセミナー」開催のお知らせ （対象：全学生）",
             "summary": "ヒューマンバイオロジー学位プログラムでは授業の一環として「Business Leaders’ Seminar/ビジネスリーダーズセミナー」を開催しています。\n本セミナーは、世界のトップビジネスリーダーを招き、オムニバス形式でキャリア形成やビジネスに関する成功と失敗の話などの経験を紹介するものです。\n\n1月19日（金）10：00-12：00に開催するセミナーでは、Chairperson of FP&…",
-            "date_modified": "2024-01-12T03:00:00.000Z"
-        },
-        {
-            "id": "f8fca83fd6d1bcbc1586642d7d70e3ed",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4755",
-            "title": "【1.24】第52回ASIP/TG公開セミナー「海外研修から始まる/広がるマイキャリア・マイライフ~教育支援から医療支援へ~」",
-            "summary": "第52回ASIP/TG+公開セミナーのご案内です\n\n「海外研修から始まる/広がるマイキャリア・マイライフ~教育支援から医療支援へ~」\n\n日時：1月24日（水）18:10~19:40\n会場：文科修士棟８A107\n講師： 杉山　智哉氏　（認定）特定非営利活動法人ジャパンハート　HR・管理部長・ラオス事業部長\n申込期限：1月24日（水）12：00\n\nお申込みはこちらから☟\nhttps://docs.go…",
-            "date_modified": "2024-01-12T03:00:00.000Z"
-        },
-        {
-            "id": "5bfc95068b975d7926744076cbb5953d",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4754",
-            "title": "【Seminar】\"Frontier of MDA Research (6th)\" 1/19 (Fri)",
-            "summary": "MDA Education Promotion Office will hold \"Frontier of MDA Research (6th): Solid Earth Observation, Modeling and Sustainable Society\" on 1/19.\nAll students and faculty of the University of Tsukuba are …",
             "date_modified": "2024-01-12T03:00:00.000Z"
         }
     ]
