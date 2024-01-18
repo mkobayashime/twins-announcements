@@ -5,6 +5,20 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "c234f426f9397af19d09fa1c16d1d9d8",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4780",
+            "title": "配布終了！：お米の無料配布！本日10:00～16:00（日本文化ウィーク）",
+            "summary": "現在スチューデント・コモンズ（1A203）にて開催しています「日本文化ウィーク」について、本日実施していたお米の無料配布イベントは、配布が終了したことをお知らせします。\n\n引き続き、以下のイベントを開催していますので、スチューデント・コモンズ（1A203）にお立ち寄りください。\n\n1/18(木) ～16:00\n・JICAブース\n・TSUKUBA-Shop（筑波大学公式グッズショップ）\n\n1/19(…",
+            "date_modified": "2024-01-18T03:00:00.000Z"
+        },
+        {
+            "id": "1089809866e74e047572f7d1eeecbcc7",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4779",
+            "title": "【BHE就活支援】企業が見ているポイントは？最終面接準備講座",
+            "summary": "(株)リクルートによる「最終面接準備講座」を開催します。\n70分で、最終面接の大事なポイントをお伝えします。\n※3年生・M1対象LIVE配信\n\n「面接に対して苦手意識がある」\n「選考を通過してきたけど、最終面接の準備は何をすればいいのかな・・」\n「準備を進めているけどなんだか不安・・」\nこんな不安のある方、不安の大小は問いません。質疑応答の時間もございますのでお気軽に\nご参加ください。\n\n【講座内…",
+            "date_modified": "2024-01-18T03:00:00.000Z"
+        },
+        {
             "id": "76c261d1ba7f38b099b402c89cf9c94c",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4778",
             "title": "【周知】次世代ハンズフリーチケッティング　実証モニタの募集",
@@ -129,20 +143,6 @@
             "title": "【周知】自動運転バス 乗車モニタの募集",
             "summary": "つくば市、筑波大学、関東鉄道株式会社、KDDI株式会社とコンソーシアムを結成し、2024 年 1月22日から 2024 年 1 月 30 日の間（土日を除く）、筑波大学周辺の周回ルートにおいて、レベル 2 の自動運転バス車両（車両定員 9 名）による走行実証を実施し、地域の皆様の受容性確認や区域内の技術的・地理的課題の抽出を行います。\n本実験にご参加いただける方を募集します。添付資料をご覧頂き　乗…",
             "date_modified": "2024-01-16T03:00:00.000Z"
-        },
-        {
-            "id": "21004a2d9e4cb4460810ffa3349c4103",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4759",
-            "title": "「緊急メッセージ」（三報）緊急経済支援の実施について",
-            "summary": "令和６年能登半島地震により、被災された方々には心からお見舞い申し上げます。\n\n本学では、被災された学生の皆さんの修学あるいは生活への支援として、この度、授業料免除等の緊急経済支援を行うこととなりました。\n\n応募に関する詳細情報については、今週末に、改めてお知らせいたします。\n\nなお、学生の皆さんで帰省先等において家屋の倒壊等、被害に遭われた方、又は友人学生が被害にあった情報がありましたら、状況把握…",
-            "date_modified": "2024-01-15T03:00:00.000Z"
-        },
-        {
-            "id": "3bf9e63d0957a5544681fcc7062e8010",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4758",
-            "title": "【BHE就活支援】内定者と話してみよう！内定者懇談会のご案内",
-            "summary": "今年度、就職活動を終えた先輩に就活の体験談を聞くことのできる座談会を\n対面で開催します。\n\n就活直後の先輩の話を聞ける貴重な機会です。\n就活において、不安に思っていることやわからないことを自由に話してみましょう。\n\n対象：就活中の方・これから就活を始める方\n\n＜当日参加してくれる先輩の紹介＞\n内定先：官公庁・鉄道・メーカー・デザイン等\n所属と人数：理系・文系・学群・大学院　7名程度参加予定\n\n日時…",
-            "date_modified": "2024-01-15T03:00:00.000Z"
         }
     ]
 }
