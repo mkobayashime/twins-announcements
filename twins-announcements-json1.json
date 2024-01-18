@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "36bb96769022ce01a8ddc5c34a20ceb6",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4777",
+            "title": "【周知】ナショナルリーディングコーチ養成系列（NLC養成系列）開催のコーチセミナー",
+            "summary": "下記の通りセミナーを開催いたしますのでお知らせいたします。\n\nナショナルリーディングコーチ養成系列（NLC養成系列）開催のコーチセミナー\nテーマ：アスリートとキャリア～指導者への道～\n講　師：平山相太氏（元サッカー日本代表選手・筑波大学蹴球部ヘッドコーチ）\n日　時：2024年1月19日（金）17：00～18：30\n場　所：5C216（階段教室）\n参加方法：事前登録はありません。\n　　　　　学群生、…",
+            "date_modified": "2024-01-18T03:00:00.000Z"
+        },
+        {
             "id": "c00c6117a90bd0e9bdc183694038ca10",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4776",
             "title": "Get rice for FREE! Today 10:00~16:00*Ends as soon as the rice bags run out",
@@ -133,13 +140,6 @@
         {
             "id": "06f93687292974c6c8b21371c24c0711",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4757",
-            "title": "1月19日（金）10：00-12：00「Business Leaders’ Seminar/ビジネスリーダーズセミナー」開催のお知らせ （対象：全学生）",
-            "summary": "ヒューマンバイオロジー学位プログラムでは授業の一環として「Business Leaders’ Seminar/ビジネスリーダーズセミナー」を開催しています。\n本セミナーは、世界のトップビジネスリーダーを招き、オムニバス形式でキャリア形成やビジネスに関する成功と失敗の話などの経験を紹介するものです。\n\n1月19日（金）10：00-12：00に開催するセミナーでは、Chairperson of FP&…",
-            "date_modified": "2024-01-12T03:00:00.000Z"
-        },
-        {
-            "id": "06f93687292974c6c8b21371c24c0711",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4756",
             "title": "1月19日（金）10：00-12：00「Business Leaders’ Seminar/ビジネスリーダーズセミナー」開催のお知らせ （対象：全学生）",
             "summary": "ヒューマンバイオロジー学位プログラムでは授業の一環として「Business Leaders’ Seminar/ビジネスリーダーズセミナー」を開催しています。\n本セミナーは、世界のトップビジネスリーダーを招き、オムニバス形式でキャリア形成やビジネスに関する成功と失敗の話などの経験を紹介するものです。\n\n1月19日（金）10：00-12：00に開催するセミナーでは、Chairperson of FP&…",
             "date_modified": "2024-01-12T03:00:00.000Z"
