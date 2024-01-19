@@ -4,10 +4,21 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Thu, 18 Jan 2024 21:16:36 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 19 Jan 2024 00:54:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
+        <item>
+            <title><![CDATA[【2月】筑波大学BHEセーファースペース「KiteKite（きてきて）」の実施について]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4782</link>
+            <guid>21ed8de170f999129ce3044e2fc288de</guid>
+            <pubDate>Fri, 19 Jan 2024 03:00:00 GMT</pubDate>
+            <description><![CDATA[ヒューマンエンパワーメント推進局（BHE）ジェンダー支援チームでは、学生スタッフと共同で”セーファースペースKiteKite（きてきて）”を実施しています。2月の実施日についてお知らせしますので、ぜひお気軽にご参加ください。
+
+※セーファースペースとは…LGBTQ＋や女性をはじめ、全ての人が自らのジェンダー・セクシュアリティについてより安全に話すことができる居場所のこと
+
+KiteKiteは、年齢…]]></description>
+        </item>
         <item>
             <title><![CDATA[[Event Ended] Get rice for FREE! Today 10:00～16:00]]></title>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4781</link>
@@ -248,20 +259,6 @@ This is to inform you that some changes have been made to the "AY 2023 Class Rec
 「廃墟と文学―ドイツを例に」
 
 第2回　2/10（土）18:30-…]]></description>
-        </item>
-        <item>
-            <title><![CDATA[（BHE）茗渓会　第38回教職研修会]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4762</link>
-            <guid>c8f3197ce3a7352303625f1579ab8530</guid>
-            <pubDate>Tue, 16 Jan 2024 03:00:00 GMT</pubDate>
-            <description><![CDATA[茗渓会では、下記の日程で教員採用試験対策のための研修会を行います。
-教員を志望する筑波大学学生の皆様ふるってご参加ください。
-
-教員の採用は、新卒枠の減少、教員採用試験の前倒し等が予想されます。教職採用に関わった先生方の指導で教職の知識・見識・能力を高め、教員採用試験受験の基礎を固めます。
-
-日時：　令和6年2月3日（土）、4日（日）
-対象：　筑波大学の学群生及び大学院生
-会場：　筑波大学体芸棟4…]]></description>
         </item>
     </channel>
 </rss>
