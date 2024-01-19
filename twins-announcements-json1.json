@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "e6548ecb6785426dc1ee1e317c55b8b9",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4787",
+            "title": "「緊急メッセージ」（四報）緊急経済支援の実施について",
+            "summary": "令和６年能登半島地震により、被災された方々には心からお見舞い申し上げます。\n\n本学では、実家等が被災したことにより経済的支援が必要となった学生が、安心して修学を継続できるよう、本学独自の緊急経済支援として、一時金の支給や寄宿料の免除について準備を進めています。\n\nできるだけ早く公募を開始すべく準備を進めていますが、詳細については、今しばらくお待ちください。\n\nなお、被災により困っていること、支援が…",
+            "date_modified": "2024-01-19T03:00:00.000Z"
+        },
+        {
             "id": "9643478241f2ca9d6343e0bcd237583b",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4786",
             "title": "【参加者募集】1/24・ASIP/TG公開セミナー「海外研修から始まる/広がるマイキャリア・マイライフ~教育支援から医療支援へ~」",
@@ -135,13 +142,6 @@
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4768",
             "title": "お米の無料配布！本日＆明日10:00~16:00",
             "summary": "スチューデント・コモンズ（1A203）で、2024年の新年を祝って、”日本文化ウィーク”を開催します！\n\n1/17(水)、1/18(木)\n・お米の無料配布（JICA研修員が作ったお米です）\n・JICAブース\n・TSUKUBA-Shop（筑波大学公式グッズショップ）\n\n1/19(金)\n・振る舞い餅（お餅無料配布）\n\n1月16日（火）～19日（金）\n常設展示（予約不要・入退室自由）\n　桐書藝団による、…",
-            "date_modified": "2024-01-17T03:00:00.000Z"
-        },
-        {
-            "id": "412f1f8fe728304f8023c4964b8bfbb2",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4767",
-            "title": "2023年度「OUT IN JAPAN @ 筑波大学」開催のお知らせ",
-            "summary": "認定NPO法人グッド・エイジング・エールズのご協力のもと、「OUT IN JAPAN @ 筑波大学」を今年も開催することが決定しました。\n2024年1月16日（火）～31日（水）の期間、附属中央図書館２Fギャラリーゾーンにて展示します。\n多様なセクシュアリティを持つ人々の「姿」と「思い」にふれることのできる貴重な機会ですので、ぜひご覧ください。\nまた、併せてLGBTQ+に関する書籍展示を行います。…",
             "date_modified": "2024-01-17T03:00:00.000Z"
         }
     ]
