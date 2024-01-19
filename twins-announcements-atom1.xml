@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/mkobayashime/twins-announcements</id>
     <title>在学生へのお知らせ | 筑波大学</title>
-    <updated>2024-01-19T01:56:36.246Z</updated>
+    <updated>2024-01-19T03:13:10.412Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://github.com/mkobayashime/twins-announcements"/>
     <subtitle>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</subtitle>
+    <entry>
+        <title type="html"><![CDATA[サーバー更新作業に伴うキャリア支援チームHP及び就職情報提供システム停止のお知らせ]]></title>
+        <id>f7e5c4dc1ece4147cbde4ed3df16263e</id>
+        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4785"/>
+        <updated>2024-01-19T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[サーバー更新作業に伴い、下記の時間、キャリア支援チームホームページ等へ繋がりにくくなります。
+【作業日時】1/25（木）9：00　～　 1/25（木）12：15（予定）
+
+なお、サーバー更新作業中は、「学内専用ページ」、「ガイダンス等及び模試試験登録・申請」、「進路進捗状況届」へのアクセスはできません。
+皆様にはご迷惑をおかけいたしますが、ご理解、ご協力の程よろしくお願いいたします。
+]]></summary>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Get mochi for FREE! Today 11:20 & 12:20 Mochi pounding performance]]></title>
         <id>fe5f577420e3138596fc5eaec097791d</id>
@@ -253,14 +265,5 @@ TSUKUBA-…]]></summary>
 
 
 Due to graduate school admissions, students are not allowed to enter …]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【Announcement】 AY 2023 Class Recess Due to the Undergraduate Entrance Examination]]></title>
-        <id>8a5d0f108bf77ef80e401cca08f807dd</id>
-        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4765"/>
-        <updated>2024-01-16T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[To all students
-
-This is to inform you that some changes have been made to the "AY 2023 Class Recess Due to the Undergraduate Entrance Examination" posted on the TWINS bulletin board on October 16, 20…]]></summary>
     </entry>
 </feed>
