@@ -4,10 +4,22 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Mon, 22 Jan 2024 08:16:37 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 22 Jan 2024 09:13:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
+        <item>
+            <title><![CDATA[「緊急メッセージ」（五報）緊急経済支援の実施について（募集開始）2024/1/22]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4793</link>
+            <guid>0a8a65615770f0b5474db7e2d48d3df3</guid>
+            <pubDate>Mon, 22 Jan 2024 03:00:00 GMT</pubDate>
+            <description><![CDATA[令和６年能登半島地震により、被災された方々には心からお見舞い申し上げます。
+
+本学では、実家等が被災したことにより経済的支援が必要となった学生が、安心して修学を継続できるよう、本学独自の緊急経済支援として寄宿料の免除及び生活費支援金の支給について応募を受け付けます。（令和6年１～3月分）
+被害に遭われた学生は添付資料をご確認いただくとともに、支援を希望される方は期日までに申請を行ってください。
+
+…]]></description>
+        </item>
         <item>
             <title><![CDATA[（BHE）茗渓会　第38回教職研修会]]></title>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4792</link>
@@ -270,15 +282,6 @@ https://docs.go…]]></description>
             <description><![CDATA[ヒューマンエンパワーメント推進局（BHE）ジェンダー支援チームでは、令和5年度から『ピアスタッフ』制度を設けており、令和6年度もピアスタッフとして活動していただける学生を募集いたします。
 ピアスタッフとは、筑波大学のDE＆I（DiversityEquity＆Inclusion）推進、特にジェンダー・セクシュアリティの観点から企画の立案・運営等を学生主体で行う学生スタッフの制度です。
 興味がある、参…]]></description>
-        </item>
-        <item>
-            <title><![CDATA[[図情図書館]2024/1/26(金) 図書館情報学データベースLISA オンライン講習会のご案内]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4770</link>
-            <guid>724e7f42b184a667f797369f563d7bdf</guid>
-            <pubDate>Wed, 17 Jan 2024 03:00:00 GMT</pubDate>
-            <description><![CDATA[附属図書館では、データベース提供元の講師にお願いして、図書館情報学データ ベースLISAのオンライン講習会を、1月26日(金)に開催します。
-
-LISAは、1969年以降の68ヵ国以上、20以上の言語の400点を超える雑誌を収録し ている外国語論文データベースであり、また、ProQuest社提供のデータベースが 同一画面で検索できるため、人文社会科学から自然科学分野まで、幅広い学術分 野の文献を一…]]></description>
         </item>
     </channel>
 </rss>
