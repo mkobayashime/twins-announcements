@@ -4,10 +4,30 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Mon, 22 Jan 2024 03:13:41 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 22 Jan 2024 06:16:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
+        <item>
+            <title><![CDATA[【開催案内】第48回「中央ユーラシアと日本の未来」公開講演会「生成系AIと大学教育の未来 －自身の知的成長を止めないために－」]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4790</link>
+            <guid>913ac3f8bf3420715d2470fd065163a4</guid>
+            <pubDate>Mon, 22 Jan 2024 03:00:00 GMT</pubDate>
+            <description><![CDATA[【開催案内】第48回「中央ユーラシアと日本の未来」公開講演会
+
+講師：當作 靖彦 氏
+カリフォルニア大学 サンディエゴ校 教授
+
+題目：生成系AIと大学教育の未来 －自身の知的成長を止めないために－
+
+日時：令和6年2月13日（火）10:10～11:25
+
+会場：筑波大学　スチューデント・コモンズ（1A203）
+およびオンライン（Zoom）
+
+対象：本学学生、本学教職員、一般
+どなたでも無料でご参…]]></description>
+        </item>
         <item>
             <title><![CDATA[(再掲)【開催案内】人文社会科学研究群公開講座『危機後の文学』(2/2,10,17)]]></title>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4789</link>
@@ -261,16 +281,6 @@ TSUKUBA-…]]></description>
 1月16日（火）～19日（金）
 常設展示（予約不要・入退室自由）
 　桐書藝団による、…]]></description>
-        </item>
-        <item>
-            <title><![CDATA[2023年度「OUT IN JAPAN @ 筑波大学」開催のお知らせ]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4767</link>
-            <guid>412f1f8fe728304f8023c4964b8bfbb2</guid>
-            <pubDate>Wed, 17 Jan 2024 03:00:00 GMT</pubDate>
-            <description><![CDATA[認定NPO法人グッド・エイジング・エールズのご協力のもと、「OUT IN JAPAN @ 筑波大学」を今年も開催することが決定しました。
-2024年1月16日（火）～31日（水）の期間、附属中央図書館２Fギャラリーゾーンにて展示します。
-多様なセクシュアリティを持つ人々の「姿」と「思い」にふれることのできる貴重な機会ですので、ぜひご覧ください。
-また、併せてLGBTQ+に関する書籍展示を行います。…]]></description>
         </item>
     </channel>
 </rss>
