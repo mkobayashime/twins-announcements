@@ -4,10 +4,30 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Mon, 22 Jan 2024 00:56:22 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 22 Jan 2024 03:13:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
+        <item>
+            <title><![CDATA[(再掲)【開催案内】人文社会科学研究群公開講座『危機後の文学』(2/2,10,17)]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4789</link>
+            <guid>533d9bdc620505db8548cfb9e9fb974a</guid>
+            <pubDate>Mon, 22 Jan 2024 03:00:00 GMT</pubDate>
+            <description><![CDATA[人文社会科学研究群　人文学学位プログラム
+文学サブプログラム開催の公開講座が以下のとおり開催されます。
+ご関心のある方は奮ってご参加ください。
+
+『危機後の文学』
+参加費：無料（どなたでもご参加できます。）
+会場：オンライン（zoom）
+お申込み方法：添付PDF参照
+
+第1回　2/2（金）18:30-19:45
+講師：小川 美登里
+「廃墟と文学―ドイツを例に」
+
+第2回　2/10（土）18:30-…]]></description>
+        </item>
         <item>
             <title><![CDATA[就活セミナー「国家公務員総合職試験への挑戦」開催のお知らせ]]></title>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4788</link>
@@ -251,22 +271,6 @@ TSUKUBA-…]]></description>
 2024年1月16日（火）～31日（水）の期間、附属中央図書館２Fギャラリーゾーンにて展示します。
 多様なセクシュアリティを持つ人々の「姿」と「思い」にふれることのできる貴重な機会ですので、ぜひご覧ください。
 また、併せてLGBTQ+に関する書籍展示を行います。…]]></description>
-        </item>
-        <item>
-            <title><![CDATA[【重要/ Important】1C棟への立入禁止について/ Prohibition of entry to the 1C Building（1/26-29）]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4766</link>
-            <guid>54d04a229201dc9b92ab16decd785abf</guid>
-            <pubDate>Wed, 17 Jan 2024 03:00:00 GMT</pubDate>
-            <description><![CDATA[大学院入試実施のため、下記期間中、学生の1C棟各階への立ち入りを
-禁止させていただきます。
-ご理解とご協力のほどどうぞよろしくお願いいたします。
-
-＜期間および対象階＞
-期間：令和６年１月26日（金）１５時１５分～29日（月）終日：
-対象階：1C棟３階以上
-
-
-Due to graduate school admissions, students are not allowed to enter …]]></description>
         </item>
     </channel>
 </rss>
