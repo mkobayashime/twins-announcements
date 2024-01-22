@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "a66edff27a27008af27ea7d969cf8d22",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4788",
+            "title": "就活セミナー「国家公務員総合職試験への挑戦」開催のお知らせ",
+            "summary": "筑波大学「世界を変えよう基金アカデミー」では、難関といわれる国家公務員総合職試験法律区分及び教養区分に昨年合格した4年生お二人(国際総合学類、生物資源学類各1名)をお招きして、国家公務員を志望した動機、一次試験・二次試験に向けた受験勉強のコツ、官庁訪問の経験等を話していただく、Zoom就活セミナー「国家公務員総合職試験への挑戦」を2月17日（土）20:00 から開催します。\n\n国家公務員総合職試験…",
+            "date_modified": "2024-01-22T03:00:00.000Z"
+        },
+        {
             "id": "e6548ecb6785426dc1ee1e317c55b8b9",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4787",
             "title": "「緊急メッセージ」（四報）緊急経済支援の実施について",
@@ -136,13 +143,6 @@
             "title": "【重要/ Important】1C棟への立入禁止について/ Prohibition of entry to the 1C Building（1/26-29）",
             "summary": "大学院入試実施のため、下記期間中、学生の1C棟各階への立ち入りを\n禁止させていただきます。\nご理解とご協力のほどどうぞよろしくお願いいたします。\n\n＜期間および対象階＞\n期間：令和６年１月26日（金）１５時１５分～29日（月）終日：\n対象階：1C棟３階以上\n\n\nDue to graduate school admissions, students are not allowed to enter …",
             "date_modified": "2024-01-17T03:00:00.000Z"
-        },
-        {
-            "id": "8a5d0f108bf77ef80e401cca08f807dd",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4765",
-            "title": "【Announcement】 AY 2023 Class Recess Due to the Undergraduate Entrance Examination",
-            "summary": "To all students\n\nThis is to inform you that some changes have been made to the \"AY 2023 Class Recess Due to the Undergraduate Entrance Examination\" posted on the TWINS bulletin board on October 16, 20…",
-            "date_modified": "2024-01-16T03:00:00.000Z"
         }
     ]
 }
