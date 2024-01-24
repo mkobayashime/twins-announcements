@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "518ad15a221f66289aa7acf4ddfe1edb",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4797",
+            "title": "【〆切延長】1/31「How to Create Positive Sport Environment for Kids」",
+            "summary": "スポーツ・オリンピック学学位プログラム卒業生の ChristianE.Okoye さんをお招きし、「How to Create Positive Sport Environment for Kids」について講演していただきます。\n\n■日時：2024年1月31日（水）2限 10：10～11：25\n\n■募集対象者：筑波大生\n\n■場所：GSI棟 302室\n\n■言語：英語\n\n■参加費：無料\n\n■申込方法…",
+            "date_modified": "2024-01-24T03:00:00.000Z"
+        },
+        {
             "id": "959291d1993989eba528ae463e00741c",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4795",
             "title": "【周知】人社公開講座「人文社会系女子のキャリア形成」（第六回：1月24日 ファンドマネジャー編）",
@@ -135,13 +142,6 @@
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4774",
             "title": "【見逃し配信】令和5年度全学防災訓練「障害学生等支援防災ワーク」（全学リスクマネジメントセミナー）",
             "summary": "　令和5年11月15日（水）に開催しました、令和5年度全学防災訓練「障害学生等支援防災ワーク」（全学リスクマネジメントセミナー）の見逃し配信を行いますので、ご案内申し上げます。\n※講演部分のみの配信となります。\n\n見逃し配信は、安定したインターネットに接続できる端末をご用意いただければ、下記の視聴期間中いつでもどこでも自由に視聴することができます。申込後に見逃し配信への接続方法がメールで自動的に通…",
-            "date_modified": "2024-01-17T03:00:00.000Z"
-        },
-        {
-            "id": "46267b50949049661be4886409582df4",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4773",
-            "title": "【参加者募集】第2回 TIDE異業種交流会【IBM・産総研 共催】",
-            "summary": "ヒューマンエンパワーメント推進局では、日本アイ・ビー・エム、産業技術総合研究所との共催で、第2回 異業種交流会を開催します！\nこのイベントは、前線で活躍する女性研究者・技術者の方々の取組を共有する交流会です。\n講演会では日本アイ・ビー・エム株式会社のフェローとして活躍する倉島菜つ美氏を講師にお迎えし、女性技術者として、また女性リーダーとしてのこれまでをお話しいただきます。併せて、10月開催の異業種…",
             "date_modified": "2024-01-17T03:00:00.000Z"
         }
     ]
