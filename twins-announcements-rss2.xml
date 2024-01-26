@@ -4,10 +4,21 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Fri, 26 Jan 2024 00:50:51 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 26 Jan 2024 06:14:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
+        <item>
+            <title><![CDATA[（再掲・情報追加）【2月】筑波大学BHEセーファースペース「KiteKite（きてきて）」の実施について]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4799</link>
+            <guid>bea6e213c48f8223aadc44564e95ff95</guid>
+            <pubDate>Fri, 26 Jan 2024 03:00:00 GMT</pubDate>
+            <description><![CDATA[※1月26日（金）再掲・更新：トークテーマの情報を追加しました。
+
+ヒューマンエンパワーメント推進局（BHE）ジェンダー支援チームでは、学生スタッフと共同で”セーファースペースKiteKite（きてきて）”を実施しています。2月の実施日についてお知らせしますので、ぜひお気軽にご参加ください。
+
+※セーファースペースとは…LGBTQ＋や女性をはじめ、全ての人が自らのジェンダー・セクシュアリティについ…]]></description>
+        </item>
         <item>
             <title><![CDATA[2月1日（木）12：30-14：30「Business Leaders’ Seminar/ビジネスリーダーズセミナー」開催のお知らせ （対象：全学生）]]></title>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4798</link>
@@ -271,15 +282,6 @@ Free rice distribution (rice grown by JICA trainees)*Ends as soon as the rice ba
             <description><![CDATA[ヒューマンエンパワーメント推進局では、日本アイ・ビー・エム、産業技術総合研究所との共催で、第2回 異業種交流会を開催します！
 このイベントは、前線で活躍する女性研究者・技術者の方々の取組を共有する交流会です。
 講演会では日本アイ・ビー・エム株式会社のフェローとして活躍する倉島菜つ美氏を講師にお迎えし、女性技術者として、また女性リーダーとしてのこれまでをお話しいただきます。併せて、10月開催の異業種…]]></description>
-        </item>
-        <item>
-            <title><![CDATA[【学生スタッフ募集】令和6年度ピアスタッフ]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4771</link>
-            <guid>dd6e63b47e82a6e6a9bcffd1e09425a0</guid>
-            <pubDate>Wed, 17 Jan 2024 03:00:00 GMT</pubDate>
-            <description><![CDATA[ヒューマンエンパワーメント推進局（BHE）ジェンダー支援チームでは、令和5年度から『ピアスタッフ』制度を設けており、令和6年度もピアスタッフとして活動していただける学生を募集いたします。
-ピアスタッフとは、筑波大学のDE＆I（DiversityEquity＆Inclusion）推進、特にジェンダー・セクシュアリティの観点から企画の立案・運営等を学生主体で行う学生スタッフの制度です。
-興味がある、参…]]></description>
         </item>
     </channel>
 </rss>
