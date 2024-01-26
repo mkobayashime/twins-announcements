@@ -4,10 +4,20 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Thu, 25 Jan 2024 21:15:06 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 26 Jan 2024 00:50:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
+        <item>
+            <title><![CDATA[2月1日（木）12：30-14：30「Business Leaders’ Seminar/ビジネスリーダーズセミナー」開催のお知らせ （対象：全学生）]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4798</link>
+            <guid>c9d5799f0013d22b47d88f09f03396fa</guid>
+            <pubDate>Fri, 26 Jan 2024 03:00:00 GMT</pubDate>
+            <description><![CDATA[ヒューマンバイオロジー学位プログラムでは授業の一環として「Business Leaders’ Seminar/ビジネスリーダーズセミナー」を開催しています。
+本セミナーは、世界のトップビジネスリーダーを招き、オムニバス形式でキャリア形成やビジネスに関する成功と失敗の話などの経験を紹介するものです。
+
+2月1日（木）12：30-14：30に開催するセミナーでは、株式会社ミツカリ代表取締役社長 表　孝…]]></description>
+        </item>
         <item>
             <title><![CDATA[【〆切延長】1/31「How to Create Positive Sport Environment for Kids」]]></title>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4797</link>
@@ -270,15 +280,6 @@ Free rice distribution (rice grown by JICA trainees)*Ends as soon as the rice ba
             <description><![CDATA[ヒューマンエンパワーメント推進局（BHE）ジェンダー支援チームでは、令和5年度から『ピアスタッフ』制度を設けており、令和6年度もピアスタッフとして活動していただける学生を募集いたします。
 ピアスタッフとは、筑波大学のDE＆I（DiversityEquity＆Inclusion）推進、特にジェンダー・セクシュアリティの観点から企画の立案・運営等を学生主体で行う学生スタッフの制度です。
 興味がある、参…]]></description>
-        </item>
-        <item>
-            <title><![CDATA[[図情図書館]2024/1/26(金) 図書館情報学データベースLISA オンライン講習会のご案内]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4770</link>
-            <guid>724e7f42b184a667f797369f563d7bdf</guid>
-            <pubDate>Wed, 17 Jan 2024 03:00:00 GMT</pubDate>
-            <description><![CDATA[附属図書館では、データベース提供元の講師にお願いして、図書館情報学データ ベースLISAのオンライン講習会を、1月26日(金)に開催します。
-
-LISAは、1969年以降の68ヵ国以上、20以上の言語の400点を超える雑誌を収録し ている外国語論文データベースであり、また、ProQuest社提供のデータベースが 同一画面で検索できるため、人文社会科学から自然科学分野まで、幅広い学術分 野の文献を一…]]></description>
         </item>
     </channel>
 </rss>
