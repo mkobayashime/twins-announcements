@@ -2,10 +2,17 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/mkobayashime/twins-announcements</id>
     <title>在学生へのお知らせ | 筑波大学</title>
-    <updated>2024-01-29T03:12:08.984Z</updated>
+    <updated>2024-01-29T04:14:00.934Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://github.com/mkobayashime/twins-announcements"/>
     <subtitle>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</subtitle>
+    <entry>
+        <title type="html"><![CDATA[【全学群生対象】人文学類主催　就職・進学トークイベント]]></title>
+        <id>81db065c62ab85be618f9355a17bd4a1</id>
+        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4803"/>
+        <updated>2024-01-29T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[人文学類では、2月19日の午後に、就職・進学支援トークイベントを開催します。先輩達の体験談を聞くことができるイベントで、毎年多くの参加者が集まっています。13：00からの就職支援トークイベントでは、この3月に卒業予定の人文学類の4年生7名に、就職活動の体験談（ここでしか聞けない内緒の話も）を語っていただきます。その後、座談会という形で個別の質問に応える時間も用意しています。15：30開始の進学支援…]]></summary>
+    </entry>
     <entry>
         <title type="html"><![CDATA[1月31日開催！【BHE就活支援】内定者と話をしよう！内定者懇談会のご案内]]></title>
         <id>f35a48e716aec6f7a2c7f73e94b87567</id>
@@ -269,15 +276,5 @@ KiteKiteは、年齢…]]></summary>
         <summary type="html"><![CDATA[つくばスマートシティ協議会、筑波大学 及び株式会社日立製作所は スマートフォンアプリの活用により、特段の作業、確認をせずともバスに乗降できる技術の実証を行います。今回は自動運転バスおよび関東鉄道が運行する筑波大学循環(右周り・左周り)バスにて実証実験を行います。本実験にご協力いただける方を募集します。詳細について添付資料　及びつくば市HPを参照してください。　
 
 ハンズフリーチケッティングに関する…]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Get rice for FREE! Today 10:00~16:00*Ends as soon as the rice bags run out]]></title>
-        <id>c00c6117a90bd0e9bdc183694038ca10</id>
-        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4776"/>
-        <updated>2024-01-18T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[In celebration of the New Year 2024, "Japanese Culture Week" will be held in the Student Commons (1A203)!
-
-1/18(Thu)
-Free rice distribution (rice grown by JICA trainees)*Ends as soon as the rice bags …]]></summary>
     </entry>
 </feed>
