@@ -4,10 +4,28 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Mon, 29 Jan 2024 21:15:15 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 30 Jan 2024 02:17:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
+        <item>
+            <title><![CDATA[【周知】人社公開講座「人文社会系女子のキャリア形成」（第七回：1月31日 「交換留学生・研究生から大学教授へ」）]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4804</link>
+            <guid>7c0c01471e73e20e62b31cf1125669f7</guid>
+            <pubDate>Tue, 30 Jan 2024 03:00:00 GMT</pubDate>
+            <description><![CDATA[人文社会科学研究群公開講座「人文社会系女子のキャリア形成――自分と社会のつなぎ方」のお知らせ
+
+【第七回  大学教授編：「交換留学生・研究生から大学教授へ」】
+
+日時　　1月31日（水）4時45分～
+方法       ズームのみの開催
+
+講師　　範丹さん（中国・西南財経大学教授）
+
+1999年　　　　中国湖南大学入学
+2002－03年　　筑波大学比較文化学類　交換留学
+2003－04年　　筑波大学…]]></description>
+        </item>
         <item>
             <title><![CDATA[【全学群生対象】人文学類主催　就職・進学トークイベント]]></title>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4803</link>
@@ -269,15 +287,6 @@ KiteKiteは、年齢…]]></description>
 ご参加ください。
 
 【講座内…]]></description>
-        </item>
-        <item>
-            <title><![CDATA[【周知】次世代ハンズフリーチケッティング　実証モニタの募集]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4778</link>
-            <guid>76c261d1ba7f38b099b402c89cf9c94c</guid>
-            <pubDate>Thu, 18 Jan 2024 03:00:00 GMT</pubDate>
-            <description><![CDATA[つくばスマートシティ協議会、筑波大学 及び株式会社日立製作所は スマートフォンアプリの活用により、特段の作業、確認をせずともバスに乗降できる技術の実証を行います。今回は自動運転バスおよび関東鉄道が運行する筑波大学循環(右周り・左周り)バスにて実証実験を行います。本実験にご協力いただける方を募集します。詳細について添付資料　及びつくば市HPを参照してください。　
-
-ハンズフリーチケッティングに関する…]]></description>
         </item>
     </channel>
 </rss>
