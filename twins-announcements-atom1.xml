@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/mkobayashime/twins-announcements</id>
     <title>在学生へのお知らせ | 筑波大学</title>
-    <updated>2024-01-30T09:17:51.658Z</updated>
+    <updated>2024-01-30T15:18:32.741Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://github.com/mkobayashime/twins-announcements"/>
     <subtitle>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</subtitle>
@@ -45,7 +45,18 @@
         <id>81db065c62ab85be618f9355a17bd4a1</id>
         <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4803"/>
         <updated>2024-01-29T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[人文学類では、2月19日の午後に、就職・進学支援トークイベントを開催します。先輩達の体験談を聞くことができるイベントで、毎年多くの参加者が集まっています。13：00からの就職支援トークイベントでは、この3月に卒業予定の人文学類の4年生7名に、就職活動の体験談（ここでしか聞けない内緒の話も）を語っていただきます。その後、座談会という形で個別の質問に応える時間も用意しています。15：30開始の進学支援…]]></summary>
+        <summary type="html"><![CDATA[人文社会科学研究群公開講座「人文社会系女子のキャリア形成――自分と社会のつなぎ方」のお知らせ
+
+【第七回  大学教授編：「交換留学生・研究生から大学教授へ」】
+
+日時　　1月31日（水）4時45分～
+方法       ズームのみの開催
+
+講師　　範丹さん（中国・西南財経大学教授）
+
+1999年　　　　中国湖南大学入学
+2002－03年　　筑波大学比較文化学類　交換留学
+2003－04年　　筑波大学…]]></summary>
     </entry>
     <entry>
         <title type="html"><![CDATA[1月31日開催！【BHE就活支援】内定者と話をしよう！内定者懇談会のご案内]]></title>
@@ -123,21 +134,6 @@ https://forms.gle/UJz3YtmHHixDPUbz7
 ■参加費：無料
 
 ■申込方法…]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【周知】人社公開講座「人文社会系女子のキャリア形成」（第六回：1月24日 ファンドマネジャー編）]]></title>
-        <id>959291d1993989eba528ae463e00741c</id>
-        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4795"/>
-        <updated>2024-01-23T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[人文社会科学研究群公開講座「人文社会系女子のキャリア形成――自分と社会のつなぎ方」のお知らせ
-
-【第六回  ファンドマネジャー編】
-講師　　松田華織さん（中国上海在住）
-：中国を拠点に、お子さんを育てながら、大規模な投資で中国・日本・世界をつないでいる活動を紹介していただきます。
-
-1997年　    社会学類入学
-2001年        社会学類卒業後、上智大学MBA修士
-2005年　　野村証…]]></summary>
     </entry>
     <entry>
         <title type="html"><![CDATA[「緊急メッセージ」（五報）緊急経済支援の実施について（募集開始）2024/1/22]]></title>
@@ -284,5 +280,22 @@ a) 11:20　Tickets d…]]></summary>
 ※セーファースペースとは…LGBTQ＋や女性をはじめ、全ての人が自らのジェンダー・セクシュアリティについてより安全に話すことができる居場所のこと
 
 KiteKiteは、年齢…]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【BHE就活支援】企業が見ているポイントは？最終面接準備講座]]></title>
+        <id>1089809866e74e047572f7d1eeecbcc7</id>
+        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4779"/>
+        <updated>2024-01-18T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[(株)リクルートによる「最終面接準備講座」を開催します。
+70分で、最終面接の大事なポイントをお伝えします。
+※3年生・M1対象LIVE配信
+
+「面接に対して苦手意識がある」
+「選考を通過してきたけど、最終面接の準備は何をすればいいのかな・・」
+「準備を進めているけどなんだか不安・・」
+こんな不安のある方、不安の大小は問いません。質疑応答の時間もございますのでお気軽に
+ご参加ください。
+
+【講座内…]]></summary>
     </entry>
 </feed>
