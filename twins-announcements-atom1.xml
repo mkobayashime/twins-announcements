@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/mkobayashime/twins-announcements</id>
     <title>在学生へのお知らせ | 筑波大学</title>
-    <updated>2024-01-31T00:50:32.616Z</updated>
+    <updated>2024-01-31T02:18:05.607Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://github.com/mkobayashime/twins-announcements"/>
     <subtitle>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</subtitle>
+    <entry>
+        <title type="html"><![CDATA[【周知】子供の性被害防止に係る啓発リーフレット「ネットには危険がいっぱい！」について]]></title>
+        <id>6cdeebdd08786ee4d7005c111f3f48eb</id>
+        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4807"/>
+        <updated>2024-01-31T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[　文部科学省より、「ネットには危険がいっぱい！」啓発リーフレットの紹介がありましたので、お知らせします。
+　本リーフレットは主に高校生までを対象として作成されたものですが、掲載している手口等は、大学生等においても十分に注意する必要があります。被害に遭う前に一人で悩まず、すぐにご相談ください。また、本件のような被害に遭ったら、学生相談室、総合相談窓口に相談してください。
+
+　詳細は添付のPDFからご…]]></summary>
+    </entry>
     <entry>
         <title type="html"><![CDATA[本日開催　当日参加可！【BHE就活支援】内定者と話をしよう！内定者懇談会のご案内]]></title>
         <id>fe36cd90748472364f2d47167ba44a30</id>
@@ -272,22 +282,5 @@ a) 11:20　Tickets d…]]></summary>
 ※セーファースペースとは…LGBTQ＋や女性をはじめ、全ての人が自らのジェンダー・セクシュアリティについてより安全に話すことができる居場所のこと
 
 KiteKiteは、年齢…]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【BHE就活支援】企業が見ているポイントは？最終面接準備講座]]></title>
-        <id>1089809866e74e047572f7d1eeecbcc7</id>
-        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4779"/>
-        <updated>2024-01-18T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[(株)リクルートによる「最終面接準備講座」を開催します。
-70分で、最終面接の大事なポイントをお伝えします。
-※3年生・M1対象LIVE配信
-
-「面接に対して苦手意識がある」
-「選考を通過してきたけど、最終面接の準備は何をすればいいのかな・・」
-「準備を進めているけどなんだか不安・・」
-こんな不安のある方、不安の大小は問いません。質疑応答の時間もございますのでお気軽に
-ご参加ください。
-
-【講座内…]]></summary>
     </entry>
 </feed>
