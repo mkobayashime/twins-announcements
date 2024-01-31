@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "d2731bc46feeaec505f2d98adbbf5366",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4796",
+            "title": "筑波大学公式オリジナルグッズECサイト割引クーポンのお知らせ（2月）※コード記載",
+            "summary": "筑波大学公式オリジナルグッズ販売サイト「TSUKUBA-SHOP」2月の割引クーポンコードをお知らせいたします！\n\n\nどうぞご覧いただき、皆様の「日常生活」、「思い出」、「プレゼント🎁」などにご活用いただけますと幸いです。\n\nECサイトは以下のリンクから\n※学内専用割引コードをTWINS掲示「大学から学生へのお知らせ（学内専用）」に掲載しております。\n※学生・教職員はこのコードを入力することで、…",
+            "date_modified": "2024-02-01T03:00:00.000Z"
+        },
+        {
             "id": "123b8a9995e8367da456e251f8e3fa9a",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4813",
             "title": "【開催案内】JETRO×Berkley Skydeck Bootcamp Program in Tokyo/Osaka",
@@ -36,7 +43,7 @@
             "id": "7061e6038168eb4cec68e86099edfc3b",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4809",
             "title": "【周知】引越時期の分散について",
-            "summary": "　文部科学省より、分散引越への協力依頼がありましたので、お知らせいたします。\n\n　引越事業においては、例年3月下旬から4月上旬にかけて引越の依頼が集中しているところ、従来より国土交通省では、引越時期の分散化に向けた周知広報を行っております。\n実際に引越時期を分散した利用者の方々からは「ピーク時より引越代金が安くなった」といった声も上がっているとのことですが、依然として同時期における依頼が集中してい…",
+            "summary": "　茨城県より、アンケートへの協力依頼がありましたので、お知らせいたします。\n\n　茨城県では、日本一子どもを産み育てやすい県を目指し、こども政策の推進に取り組んでおります。本アンケートは、こどもや子育てに関する意見や意識、生活や支援ニーズ等を調査し、社内環境の整備や支援策に役立てるものになります。\n　学生の皆さんからの回答は、今後の茨城県のこども施策に欠かせない、重要な資料となるとのことですので、ご…",
             "date_modified": "2024-01-31T03:00:00.000Z"
         },
         {
@@ -50,7 +57,7 @@
             "id": "6cdeebdd08786ee4d7005c111f3f48eb",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4807",
             "title": "【周知】子供の性被害防止に係る啓発リーフレット「ネットには危険がいっぱい！」について",
-            "summary": "　文部科学省より、「ネットには危険がいっぱい！」啓発リーフレットの紹介がありましたので、お知らせします。\n　本リーフレットは主に高校生までを対象として作成されたものですが、掲載している手口等は、大学生等においても十分に注意する必要があります。被害に遭う前に一人で悩まず、すぐにご相談ください。また、本件のような被害に遭ったら、学生相談室、総合相談窓口に相談してください。\n\n　詳細は添付のPDFからご…",
+            "summary": "　文部科学省より、「SecHack365」プログラムについて、情報提供がありましたので、お知らせします。\n\n　本プログラムは25歳以下の学生や社会人を対象とし、セキュリティイノベーター人材育成のため、1年間の長期ハッカソンによってサイバーセキュリティを考慮したモノづくりに取り組むもので、平成29年度より実施しております。\n　2024年度受講生は4月募集開始を予定しているところ、応募検討会向け説明会…",
             "date_modified": "2024-01-31T03:00:00.000Z"
         },
         {
@@ -135,13 +142,6 @@
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4791",
             "title": "【参加者募集（Recruitment of Participants）】サービス工学シンポジウム開催のお知らせ（Notice of Symposium on Service Engineering）",
             "summary": "学群生の皆様へ\n\n2024年2月19日に筑波大学第3エリア（3A202・3A204）にて、サービス工学シンポジウムを開催いたします。\n筑波大学社会工学の大学院であるサービス工学学位プログラムでは、毎年シンポジウムを開催しています。大学や企業から講演者をお招きしサービス工学に関する基調講演をいただくほか、学生による共同研究のポスター発表が行われます。詳しくは、添付のポスターやシンポジウムホームページ…",
-            "date_modified": "2024-01-22T03:00:00.000Z"
-        },
-        {
-            "id": "913ac3f8bf3420715d2470fd065163a4",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4790",
-            "title": "【開催案内】第48回「中央ユーラシアと日本の未来」公開講演会「生成系AIと大学教育の未来 －自身の知的成長を止めないために－」",
-            "summary": "【開催案内】第48回「中央ユーラシアと日本の未来」公開講演会\n\n講師：當作 靖彦 氏\nカリフォルニア大学 サンディエゴ校 教授\n\n題目：生成系AIと大学教育の未来 －自身の知的成長を止めないために－\n\n日時：令和6年2月13日（火）10:10～11:25\n\n会場：筑波大学　スチューデント・コモンズ（1A203）\nおよびオンライン（Zoom）\n\n対象：本学学生、本学教職員、一般\nどなたでも無料でご参…",
             "date_modified": "2024-01-22T03:00:00.000Z"
         }
     ]
