@@ -5,6 +5,41 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "4c38b97974ccf60ad3105acedb70997d",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4812",
+            "title": "TSUKUBA Lecture on Constitutional Law on British Imperialism and Minority Rights in History (6 Feb)",
+            "summary": "School of Social and International Studies invites Dr Karly Kehoe (Professor of History and Canada Research Chair in Atlantic Canada Communities, Saint Mary’s University) and organises the 9th TSUKUBA…",
+            "date_modified": "2024-01-31T03:00:00.000Z"
+        },
+        {
+            "id": "007ebfb990384b489e824dd709fef8e6",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4811",
+            "title": "2/6講演会”Becoming Equal under the Law: British Imperialism and Minority Rights in the 18th century”",
+            "summary": "社会・国際学群では、Karly Kehoeさん（Professor of History and Canada Research Chair in Atlantic Canada Communities, Saint Mary’s University）をお招きし、第9回TSUKUBA憲法レクチャー「Becoming Equal under the Law: British Imperialism…",
+            "date_modified": "2024-01-31T03:00:00.000Z"
+        },
+        {
+            "id": "62a839852365dc8ce49d0c2ec8e05d58",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4810",
+            "title": "【周知】こども・若者・保護者へのアンケートについて",
+            "summary": "　茨城県より、アンケートへの協力依頼がありましたので、お知らせいたします。\n\n　茨城県では、日本一子どもを産み育てやすい県を目指し、こども政策の推進に取り組んでおります。本アンケートは、こどもや子育てに関する意見や意識、生活や支援ニーズ等を調査し、社内環境の整備や支援策に役立てるものになります。\n　学生の皆さんからの回答は、今後の茨城県のこども施策に欠かせない、重要な資料となるとのことですので、ご…",
+            "date_modified": "2024-01-31T03:00:00.000Z"
+        },
+        {
+            "id": "7061e6038168eb4cec68e86099edfc3b",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4809",
+            "title": "【周知】引越時期の分散について",
+            "summary": "　文部科学省より、分散引越への協力依頼がありましたので、お知らせいたします。\n\n　引越事業においては、例年3月下旬から4月上旬にかけて引越の依頼が集中しているところ、従来より国土交通省では、引越時期の分散化に向けた周知広報を行っております。\n実際に引越時期を分散した利用者の方々からは「ピーク時より引越代金が安くなった」といった声も上がっているとのことですが、依然として同時期における依頼が集中してい…",
+            "date_modified": "2024-01-31T03:00:00.000Z"
+        },
+        {
+            "id": "6139a9c8e3655c361ad3a323cc34fefb",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4808",
+            "title": "【周知】2024年度「SecHack365」プログラムについて",
+            "summary": "　文部科学省より、「SecHack365」プログラムについて、情報提供がありましたので、お知らせします。\n\n　本プログラムは25歳以下の学生や社会人を対象とし、セキュリティイノベーター人材育成のため、1年間の長期ハッカソンによってサイバーセキュリティを考慮したモノづくりに取り組むもので、平成29年度より実施しております。\n　2024年度受講生は4月募集開始を予定しているところ、応募検討会向け説明会…",
+            "date_modified": "2024-01-31T03:00:00.000Z"
+        },
+        {
             "id": "6cdeebdd08786ee4d7005c111f3f48eb",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4807",
             "title": "【周知】子供の性被害防止に係る啓発リーフレット「ネットには危険がいっぱい！」について",
@@ -108,41 +143,6 @@
             "title": "(再掲)【開催案内】人文社会科学研究群公開講座『危機後の文学』(2/2,10,17)",
             "summary": "人文社会科学研究群　人文学学位プログラム\n文学サブプログラム開催の公開講座が以下のとおり開催されます。\nご関心のある方は奮ってご参加ください。\n\n『危機後の文学』\n参加費：無料（どなたでもご参加できます。）\n会場：オンライン（zoom）\nお申込み方法：添付PDF参照\n\n第1回　2/2（金）18:30-19:45\n講師：小川 美登里\n「廃墟と文学―ドイツを例に」\n\n第2回　2/10（土）18:30-…",
             "date_modified": "2024-01-22T03:00:00.000Z"
-        },
-        {
-            "id": "a66edff27a27008af27ea7d969cf8d22",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4788",
-            "title": "就活セミナー「国家公務員総合職試験への挑戦」開催のお知らせ",
-            "summary": "筑波大学「世界を変えよう基金アカデミー」では、難関といわれる国家公務員総合職試験法律区分及び教養区分に昨年合格した4年生お二人(国際総合学類、生物資源学類各1名)をお招きして、国家公務員を志望した動機、一次試験・二次試験に向けた受験勉強のコツ、官庁訪問の経験等を話していただく、Zoom就活セミナー「国家公務員総合職試験への挑戦」を2月17日（土）20:00 から開催します。\n\n国家公務員総合職試験…",
-            "date_modified": "2024-01-22T03:00:00.000Z"
-        },
-        {
-            "id": "e6548ecb6785426dc1ee1e317c55b8b9",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4787",
-            "title": "「緊急メッセージ」（四報）緊急経済支援の実施について",
-            "summary": "令和６年能登半島地震により、被災された方々には心からお見舞い申し上げます。\n\n本学では、実家等が被災したことにより経済的支援が必要となった学生が、安心して修学を継続できるよう、本学独自の緊急経済支援として、一時金の支給や寄宿料の免除について準備を進めています。\n\nできるだけ早く公募を開始すべく準備を進めていますが、詳細については、今しばらくお待ちください。\n\nなお、被災により困っていること、支援が…",
-            "date_modified": "2024-01-19T03:00:00.000Z"
-        },
-        {
-            "id": "fe5f577420e3138596fc5eaec097791d",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4784",
-            "title": "Get mochi for FREE! Today 11:20 & 12:20 Mochi pounding performance",
-            "summary": "In celebration of the New Year 2024, \"Japanese Culture Week\" will be held in the Student Commons (1A203)!\n\n1/19 (Friday)\nMochi (rice cakes) will be distributed free of charge.\nTime:\na) 11:20　Tickets d…",
-            "date_modified": "2024-01-19T03:00:00.000Z"
-        },
-        {
-            "id": "e96dc7fa209b99251585b703695b5407",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4783",
-            "title": "お餅の無料配布！本日 11:20 & 12:20 お餅つき！",
-            "summary": "スチューデント・コモンズ（1A203）で、2024年の新年を祝って、”日本文化ウィーク”を開催します！\n\n1/19(金)\n・振る舞い餅（お餅無料配布＆餅つき）\n11:20~ 整理券配布（先着順・数量限定）\n11:30~ 餅つきパフォーマンス\n11:45~ お餅無料配布\n\n12:20~ 整理券配布（先着順・数量限定）\n12:30~ 餅つきパフォーマンス\n12:45~ お餅無料配布\n\n\n常設展示（予約…",
-            "date_modified": "2024-01-19T03:00:00.000Z"
-        },
-        {
-            "id": "21ed8de170f999129ce3044e2fc288de",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4782",
-            "title": "【2月】筑波大学BHEセーファースペース「KiteKite（きてきて）」の実施について",
-            "summary": "ヒューマンエンパワーメント推進局（BHE）ジェンダー支援チームでは、学生スタッフと共同で”セーファースペースKiteKite（きてきて）”を実施しています。2月の実施日についてお知らせしますので、ぜひお気軽にご参加ください。\n\n※セーファースペースとは…LGBTQ＋や女性をはじめ、全ての人が自らのジェンダー・セクシュアリティについてより安全に話すことができる居場所のこと\n\nKiteKiteは、年齢…",
-            "date_modified": "2024-01-19T03:00:00.000Z"
         }
     ]
 }
