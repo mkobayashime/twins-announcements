@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "a6df7a160e2c9334f43aef98c36b5d10",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4816",
+            "title": "【募集】筑波大学ホームゲーム「TSUKUBA LIVE!」の当日スタッフを募集します！",
+            "summary": "2024年3月26日(火)に開催予定の筑波大学ホームゲーム「TSUKUBA LIVE!」において、会場設営や当日運営を通じて、一緒にホームゲームをつくるボランティアスタッフを募集しています。\n\nこれまでも多くの筑波大生が参加しており、学群学類・国籍・年齢などの枠を越えた新しいつながりがたくさん生まれています。スポーツイベントの運営に関わった事のない方も大歓迎です。友達と一緒での参加もお待ちしており…",
+            "date_modified": "2024-02-01T03:00:00.000Z"
+        },
+        {
             "id": "15d6ebe2a4639ac2895a9f9e40af7f6b",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4815",
             "title": "【定期開催】第4回　博士のポートフォリオ大公開＋ロールモデル懇談会(2/16開催）",
@@ -136,13 +143,6 @@
             "title": "【〆切延長】1/31「How to Create Positive Sport Environment for Kids」",
             "summary": "スポーツ・オリンピック学学位プログラム卒業生の ChristianE.Okoye さんをお招きし、「How to Create Positive Sport Environment for Kids」について講演していただきます。\n\n■日時：2024年1月31日（水）2限 10：10～11：25\n\n■募集対象者：筑波大生\n\n■場所：GSI棟 302室\n\n■言語：英語\n\n■参加費：無料\n\n■申込方法…",
             "date_modified": "2024-01-24T03:00:00.000Z"
-        },
-        {
-            "id": "0a8a65615770f0b5474db7e2d48d3df3",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4793",
-            "title": "「緊急メッセージ」（五報）緊急経済支援の実施について（募集開始）2024/1/22",
-            "summary": "令和６年能登半島地震により、被災された方々には心からお見舞い申し上げます。\n\n本学では、実家等が被災したことにより経済的支援が必要となった学生が、安心して修学を継続できるよう、本学独自の緊急経済支援として寄宿料の免除及び生活費支援金の支給について応募を受け付けます。（令和6年１～3月分）\n被害に遭われた学生は添付資料をご確認いただくとともに、支援を希望される方は期日までに申請を行ってください。\n\n…",
-            "date_modified": "2024-01-22T03:00:00.000Z"
         }
     ]
 }
