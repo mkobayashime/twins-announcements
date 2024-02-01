@@ -2,10 +2,24 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/mkobayashime/twins-announcements</id>
     <title>在学生へのお知らせ | 筑波大学</title>
-    <updated>2024-01-31T23:11:57.490Z</updated>
+    <updated>2024-02-01T00:52:45.487Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://github.com/mkobayashime/twins-announcements"/>
     <subtitle>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</subtitle>
+    <entry>
+        <title type="html"><![CDATA[【定期開催】第4回　博士のポートフォリオ大公開＋ロールモデル懇談会(2/16開催）]]></title>
+        <id>15d6ebe2a4639ac2895a9f9e40af7f6b</id>
+        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4815"/>
+        <updated>2024-02-01T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[BHEの3チーム合同企画「博士のポートフォリオ+ロールモデル懇談会」の第4回についてお知らせします。
+
+博士号を取得した後、社会で活躍する本学卒業生の声を聞いてみたい――
+そんな声を受けて、博士の先輩による博士人材のための企画を立ち上げました。
+
+博士時代の悩みとその解決経過をテーマにポートフォリオを作成してもらい、本学教職員限定で大公開！
+そのポートフォリオをベースにした懇談会も開催します。
+＊…]]></summary>
+    </entry>
     <entry>
         <title type="html"><![CDATA[STOP！研究費不正使用！／STOP！Wrongful use of research funding！]]></title>
         <id>d07de3a2549e9d1109e19fd73f9711de</id>
@@ -230,24 +244,5 @@ https://forms.gle/UJz3YtmHHixDPUbz7
 被害に遭われた学生は添付資料をご確認いただくとともに、支援を希望される方は期日までに申請を行ってください。
 
 …]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[（BHE）茗渓会　第38回教職研修会]]></title>
-        <id>c8f3197ce3a7352303625f1579ab8530</id>
-        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4792"/>
-        <updated>2024-01-22T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[今年度、就職活動を終えた先輩に就活の体験談を聞くことのできる座談会を
-対面で開催します。
-
-就活直後の先輩の話を聞ける貴重な機会です。
-就活において、不安に思っていることやわからないことを自由に話してみましょう。
-
-対象：就活中の方・これから就活を始める方
-
-＜当日参加してくれる先輩の紹介＞
-内定先：官公庁・鉄道・メーカー・デザイン等
-所属と人数：理系・文系・学群・大学院　7名程度参加予定
-
-日時…]]></summary>
     </entry>
 </feed>
