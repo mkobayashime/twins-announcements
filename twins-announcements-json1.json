@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "d0adb6f470a51c2a5ff30363495b2130",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4821",
+            "title": "Feb 9th 2024: TIAS post-2020 Legacy International Forum",
+            "summary": "SPORT FOR TOMORROW (SFT), an international contribution through sport initiative developed through Tokyo 2020 Olympic and Paralympic Games, promoted international exchange and cooperation through spor…",
+            "date_modified": "2024-02-02T03:00:00.000Z"
+        },
+        {
             "id": "6eb1dc6a78ff4901ec478639055a9f96",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4819",
             "title": "（再掲）【学内対象】2024年度筑波大学ベンチャー起業支援事業「つばさ」公募説明会について〔2024年2月22日17時～〕",
@@ -135,13 +142,6 @@
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4801",
             "title": "３月１日(金) ジョイントセミナー by Patrick Clastres教授（ローザンヌ大学）",
             "summary": "スポーツ・オリンピック学学位プログラムでは、2024年3月1日に、日本スポーツ法学会（JSLA）と共催で、以下の研究会を開催します。\n筑波大学関係者であれば、誰でも参加できますので、ぜひ参加をご検討ください。\n\n【出欠登録用フォーム】\nhttps://forms.gle/UJz3YtmHHixDPUbz7\n\n※オンライン参加登録者には、後日、Zoomリンクをお送りさせていただきます。\n\n【詳細情報…",
-            "date_modified": "2024-01-29T03:00:00.000Z"
-        },
-        {
-            "id": "2da8865082a56278f1bc27f5276b03fc",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4800",
-            "title": "March 1st: Joint Seminar by Prof. Patrick Clastres@Tokyo Campus/Online",
-            "summary": "Master’s Program in Sport and Olympic Studies (TIAS2.0) will hold the following seminor, jointly with Japanese Sports Law Association(JSLA). Anyone related to the University of Tsukuba is welcome to a…",
             "date_modified": "2024-01-29T03:00:00.000Z"
         }
     ]
