@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/mkobayashime/twins-announcements</id>
     <title>在学生へのお知らせ | 筑波大学</title>
-    <updated>2024-02-01T21:16:02.230Z</updated>
+    <updated>2024-02-02T01:43:58.554Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://github.com/mkobayashime/twins-announcements"/>
     <subtitle>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</subtitle>
+    <entry>
+        <title type="html"><![CDATA[日米豪印フェローシップについて]]></title>
+        <id>b81dc9419383eb849727e3dbce712332</id>
+        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4817"/>
+        <updated>2024-02-02T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[
+外務省人物交流室から日米豪印フェローシップについて
+情報提供がございましたのでお知らせします。
+
+
+]]></summary>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【募集】筑波大学ホームゲーム「TSUKUBA LIVE!」の当日スタッフを募集します！]]></title>
         <id>a6df7a160e2c9334f43aef98c36b5d10</id>
@@ -222,17 +234,5 @@ https://forms.gle/UJz3YtmHHixDPUbz7
 本セミナーは、世界のトップビジネスリーダーを招き、オムニバス形式でキャリア形成やビジネスに関する成功と失敗の話などの経験を紹介するものです。
 
 2月1日（木）12：30-14：30に開催するセミナーでは、株式会社ミツカリ代表取締役社長 表　孝…]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[「緊急メッセージ」（五報）緊急経済支援の実施について（募集開始）2024/1/22]]></title>
-        <id>0a8a65615770f0b5474db7e2d48d3df3</id>
-        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4793"/>
-        <updated>2024-01-22T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[令和６年能登半島地震により、被災された方々には心からお見舞い申し上げます。
-
-本学では、実家等が被災したことにより経済的支援が必要となった学生が、安心して修学を継続できるよう、本学独自の緊急経済支援として寄宿料の免除及び生活費支援金の支給について応募を受け付けます。（令和6年１～3月分）
-被害に遭われた学生は添付資料をご確認いただくとともに、支援を希望される方は期日までに申請を行ってください。
-
-…]]></summary>
     </entry>
 </feed>

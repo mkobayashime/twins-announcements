@@ -4,10 +4,22 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Thu, 01 Feb 2024 21:16:02 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 02 Feb 2024 01:43:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
+        <item>
+            <title><![CDATA[日米豪印フェローシップについて]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4817</link>
+            <guid>b81dc9419383eb849727e3dbce712332</guid>
+            <pubDate>Fri, 02 Feb 2024 03:00:00 GMT</pubDate>
+            <description><![CDATA[
+外務省人物交流室から日米豪印フェローシップについて
+情報提供がございましたのでお知らせします。
+
+
+]]></description>
+        </item>
         <item>
             <title><![CDATA[【募集】筑波大学ホームゲーム「TSUKUBA LIVE!」の当日スタッフを募集します！]]></title>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4816</link>
@@ -224,18 +236,6 @@ https://forms.gle/UJz3YtmHHixDPUbz7
 本セミナーは、世界のトップビジネスリーダーを招き、オムニバス形式でキャリア形成やビジネスに関する成功と失敗の話などの経験を紹介するものです。
 
 2月1日（木）12：30-14：30に開催するセミナーでは、株式会社ミツカリ代表取締役社長 表　孝…]]></description>
-        </item>
-        <item>
-            <title><![CDATA[「緊急メッセージ」（五報）緊急経済支援の実施について（募集開始）2024/1/22]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4793</link>
-            <guid>0a8a65615770f0b5474db7e2d48d3df3</guid>
-            <pubDate>Mon, 22 Jan 2024 03:00:00 GMT</pubDate>
-            <description><![CDATA[令和６年能登半島地震により、被災された方々には心からお見舞い申し上げます。
-
-本学では、実家等が被災したことにより経済的支援が必要となった学生が、安心して修学を継続できるよう、本学独自の緊急経済支援として寄宿料の免除及び生活費支援金の支給について応募を受け付けます。（令和6年１～3月分）
-被害に遭われた学生は添付資料をご確認いただくとともに、支援を希望される方は期日までに申請を行ってください。
-
-…]]></description>
         </item>
     </channel>
 </rss>
