@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "6eb1dc6a78ff4901ec478639055a9f96",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4819",
+            "title": "（再掲）【学内対象】2024年度筑波大学ベンチャー起業支援事業「つばさ」公募説明会について〔2024年2月22日17時～〕",
+            "summary": "筑波大学ベンチャー起業支援事業「つばさ」（つばさ事業＊）は、大学の優れた技術シーズを基にした成長ポテンシャルの高い大学発ベンチャーの創出を促進することを目的としています。\nつばさ事業の2024年度研究開発課題の公募説明会を下記のとおり開催いたしますので、応募を検討されている方はぜひご参加ください。\n\n＊JST大学発新産業創出プログラム（START）大学推進型の学内呼称です。\n\n申込・詳細は下記のU…",
+            "date_modified": "2024-02-02T03:00:00.000Z"
+        },
+        {
             "id": "7630781ac416eb40b5deaa2b2d7bed02",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4818",
             "title": "総合学域群からの移行学生を対象としたアンケート調査への回答をお願いします",
@@ -136,13 +143,6 @@
             "title": "March 1st: Joint Seminar by Prof. Patrick Clastres@Tokyo Campus/Online",
             "summary": "Master’s Program in Sport and Olympic Studies (TIAS2.0) will hold the following seminor, jointly with Japanese Sports Law Association(JSLA). Anyone related to the University of Tsukuba is welcome to a…",
             "date_modified": "2024-01-29T03:00:00.000Z"
-        },
-        {
-            "id": "bea6e213c48f8223aadc44564e95ff95",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4799",
-            "title": "（再掲・情報追加）【2月】筑波大学BHEセーファースペース「KiteKite（きてきて）」の実施について",
-            "summary": "※1月26日（金）再掲・更新：トークテーマの情報を追加しました。\n\nヒューマンエンパワーメント推進局（BHE）ジェンダー支援チームでは、学生スタッフと共同で”セーファースペースKiteKite（きてきて）”を実施しています。2月の実施日についてお知らせしますので、ぜひお気軽にご参加ください。\n\n※セーファースペースとは…LGBTQ＋や女性をはじめ、全ての人が自らのジェンダー・セクシュアリティについ…",
-            "date_modified": "2024-01-26T03:00:00.000Z"
         }
     ]
 }
