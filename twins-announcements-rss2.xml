@@ -4,10 +4,21 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Fri, 02 Feb 2024 01:43:58 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 02 Feb 2024 07:10:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
+        <item>
+            <title><![CDATA[総合学域群からの移行学生を対象としたアンケート調査への回答をお願いします]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4818</link>
+            <guid>7630781ac416eb40b5deaa2b2d7bed02</guid>
+            <pubDate>Fri, 02 Feb 2024 03:00:00 GMT</pubDate>
+            <description><![CDATA[※対象者には、TWINS掲示板「学生呼び出し」欄に同様のお知らせが届いています。
+総合学域群では、将来の学生支援及び運営改善に資するため、移行学生の皆さまを対象としたアンケート調査を行っております【締切：2月12日】。
+当初、1月31日を締切としておりましたが、より多くの学生の皆さまの回答を集めるため、期間を延長いたしました。
+
+2022年4月1日付けで移行された方向け→　https://form…]]></description>
+        </item>
         <item>
             <title><![CDATA[日米豪印フェローシップについて]]></title>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4817</link>
@@ -226,16 +237,6 @@ https://forms.gle/UJz3YtmHHixDPUbz7
 ヒューマンエンパワーメント推進局（BHE）ジェンダー支援チームでは、学生スタッフと共同で”セーファースペースKiteKite（きてきて）”を実施しています。2月の実施日についてお知らせしますので、ぜひお気軽にご参加ください。
 
 ※セーファースペースとは…LGBTQ＋や女性をはじめ、全ての人が自らのジェンダー・セクシュアリティについ…]]></description>
-        </item>
-        <item>
-            <title><![CDATA[2月1日（木）12：30-14：30「Business Leaders’ Seminar/ビジネスリーダーズセミナー」開催のお知らせ （対象：全学生）]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4798</link>
-            <guid>c9d5799f0013d22b47d88f09f03396fa</guid>
-            <pubDate>Fri, 26 Jan 2024 03:00:00 GMT</pubDate>
-            <description><![CDATA[ヒューマンバイオロジー学位プログラムでは授業の一環として「Business Leaders’ Seminar/ビジネスリーダーズセミナー」を開催しています。
-本セミナーは、世界のトップビジネスリーダーを招き、オムニバス形式でキャリア形成やビジネスに関する成功と失敗の話などの経験を紹介するものです。
-
-2月1日（木）12：30-14：30に開催するセミナーでは、株式会社ミツカリ代表取締役社長 表　孝…]]></description>
         </item>
     </channel>
 </rss>
