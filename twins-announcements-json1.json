@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "c098abfef57f850e1da7228bdb0eb123",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4836",
+            "title": "降雪に伴う授業実施について/Classes Conducted on February 6, 2024",
+            "summary": "明日2/6（火）の授業について、通常どおり実施いたします。\nTsukuba campus will have classes as scheduled on February 6, 2024.\n\nなお、交通機関等の乱れ等により、授業に出席できない場合は、授業担当教員に相談してください。\nIn case that students cannot attend classes due to trans…",
+            "date_modified": "2024-02-05T03:00:00.000Z"
+        },
+        {
             "id": "86bcfc38d25fca7c56cff220a004eeb1",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4835",
             "title": "【開催案内】オリンピックおよびパラリンピックに関する研究教育センター シンポジウム",
@@ -136,13 +143,6 @@
             "title": "本日開催　当日参加可！【BHE就活支援】内定者と話をしよう！内定者懇談会のご案内",
             "summary": "本日開催！当日参加可能です！\n\n今年度、就職活動を終えた先輩に就活の体験談を聞くことのできる座談会を\n対面で開催します。\n\n業種が違っても就活のコツは共通しています！\n一番最近就活を経験した先輩が協力してくれる絶好の機会です\n就活において、不安に思っていることやわからないことを自由に話してみましょう。\n\n対象：就活中の方・これから就活を始める方\n\n＜当日参加してくれる先輩の紹介＞\n内定先：官公庁・…",
             "date_modified": "2024-01-31T03:00:00.000Z"
-        },
-        {
-            "id": "7c0c01471e73e20e62b31cf1125669f7",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4804",
-            "title": "【周知】人社公開講座「人文社会系女子のキャリア形成」（第七回：1月31日 「交換留学生・研究生から大学教授へ」）",
-            "summary": "人文社会科学研究群公開講座「人文社会系女子のキャリア形成――自分と社会のつなぎ方」のお知らせ\n\n【第七回  大学教授編：「交換留学生・研究生から大学教授へ」】\n\n日時　　1月31日（水）4時45分～\n方法       ズームのみの開催\n\n講師　　範丹さん（中国・西南財経大学教授）\n\n1999年　　　　中国湖南大学入学\n2002－03年　　筑波大学比較文化学類　交換留学\n2003－04年　　筑波大学…",
-            "date_modified": "2024-01-30T03:00:00.000Z"
         }
     ]
 }
