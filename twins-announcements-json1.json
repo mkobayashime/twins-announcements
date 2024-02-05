@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "211e10f7c8eb1a24f9868c9b603f5793",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4834",
+            "title": "降雪に伴う授業の実施について／Classes Conducted on February 6, 2024",
+            "summary": "2月5日（月）午後から2月6日（火）にかけて、関東甲信地方において降雪が予想されています。\n降雪に伴う筑波キャンパスでの授業の実施については、以下のとおり取り扱うこととします。\n\n⑴ 2月6日（火）の授業について\n臨時休講等の措置を行う場合には、本日（2/5）の18時00分までに以下の方法にて周知を行います。\nWEB掲示板(TWINS)：https://twins.tsukuba.ac.jp/ca…",
+            "date_modified": "2024-02-05T03:00:00.000Z"
+        },
+        {
             "id": "cf47119191f1b33cd00bd6b9ee727af3",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4833",
             "title": "【お知らせ】令和6年1月23日からの大雪等による災害にかかる被害状況について",
@@ -135,13 +142,6 @@
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4803",
             "title": "【全学群生対象】人文学類主催　就職・進学トークイベント",
             "summary": "人文学類では、2月19日の午後に、就職・進学支援トークイベントを開催します。先輩達の体験談を聞くことができるイベントで、毎年多くの参加者が集まっています。13：00からの就職支援トークイベントでは、この3月に卒業予定の人文学類の4年生7名に、就職活動の体験談（ここでしか聞けない内緒の話も）を語っていただきます。その後、座談会という形で個別の質問に応える時間も用意しています。15：30開始の進学支援…",
-            "date_modified": "2024-01-29T03:00:00.000Z"
-        },
-        {
-            "id": "f35a48e716aec6f7a2c7f73e94b87567",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4802",
-            "title": "1月31日開催！【BHE就活支援】内定者と話をしよう！内定者懇談会のご案内",
-            "summary": "今年度、就職活動を終えた先輩に就活の体験談を聞くことのできる座談会を対面で開催します！\n業種が違っても就活のコツは共通しています。\n一番最近就活を経験した先輩が協力してくれる絶好の機会です。\n就活において、不安に思っていることやわからないことを自由に話してみましょう。\n\n対象：就活中の方・これから就活を始める方\n\n＜当日参加してくれる先輩の紹介＞\n内定先：味の素・茨城県庁・岡山市役所・個人情報保護…",
             "date_modified": "2024-01-29T03:00:00.000Z"
         }
     ]
