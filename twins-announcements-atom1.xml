@@ -2,10 +2,17 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/mkobayashime/twins-announcements</id>
     <title>在学生へのお知らせ | 筑波大学</title>
-    <updated>2024-02-06T00:49:22.049Z</updated>
+    <updated>2024-02-06T01:43:18.467Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://github.com/mkobayashime/twins-announcements"/>
     <subtitle>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</subtitle>
+    <entry>
+        <title type="html"><![CDATA[Founding Commemorative Symposium of the Research and Education Center on the Olympics & Paralympics]]></title>
+        <id>bd2f9abc385832a843a2250b198a6c27</id>
+        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4838"/>
+        <updated>2024-02-06T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[We will hold a founding commemorative symposium of the research and education center on the Olympics and Paralympics at the University of Tsukuba. We will invite frontline wheelchair softball players …]]></summary>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【再掲】就活セミナー「国家公務員総合職試験への挑戦」開催のお知らせ]]></title>
         <id>46a8c5833cbaee077e139c8a0cb50f37</id>
@@ -205,15 +212,5 @@ ECサイトは以下のリンクから
 
 　本プログラムは25歳以下の学生や社会人を対象とし、セキュリティイノベーター人材育成のため、1年間の長期ハッカソンによってサイバーセキュリティを考慮したモノづくりに取り組むもので、平成29年度より実施しております。
 　2024年度受講生は4月募集開始を予定しているところ、応募検討会向け説明会…]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【周知】子供の性被害防止に係る啓発リーフレット「ネットには危険がいっぱい！」について]]></title>
-        <id>6cdeebdd08786ee4d7005c111f3f48eb</id>
-        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4807"/>
-        <updated>2024-01-31T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[　文部科学省より、「ネットには危険がいっぱい！」啓発リーフレットの紹介がありましたので、お知らせします。
-　本リーフレットは主に高校生までを対象として作成されたものですが、掲載している手口等は、大学生等においても十分に注意する必要があります。被害に遭う前に一人で悩まず、すぐにご相談ください。また、本件のような被害に遭ったら、学生相談室、総合相談窓口に相談してください。
-
-　詳細は添付のPDFからご…]]></summary>
     </entry>
 </feed>
