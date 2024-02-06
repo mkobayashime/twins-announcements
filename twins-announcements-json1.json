@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "e4d8386ecab96402f1393ee8690d75ae",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4840",
+            "title": "留学生のチューター募集について（2024年度春学期）",
+            "summary": "留学生と交流したい、または留学生をサポートしたいと思っている正規課程の在学生の皆さん、ぜひチューターになってみませんか？\n\n2024年4月に多くの留学生が入学する予定です。\nこれに伴い、チューター支援（主に生活の立ち上げ支援（原則対面））を\n行ってくださるチューターを大募集しています！！！！\n\nチューター希望の学生は、下記URL上の「チューターバンク」に記載の登録方法に従い、チューターバンクに登録…",
+            "date_modified": "2024-02-06T03:00:00.000Z"
+        },
+        {
             "id": "bd2f9abc385832a843a2250b198a6c27",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4838",
             "title": "Founding Commemorative Symposium of the Research and Education Center on the Olympics & Paralympics",
@@ -135,13 +142,6 @@
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4809",
             "title": "【周知】引越時期の分散について",
             "summary": "　文部科学省より、分散引越への協力依頼がありましたので、お知らせいたします。\n\n　引越事業においては、例年3月下旬から4月上旬にかけて引越の依頼が集中しているところ、従来より国土交通省では、引越時期の分散化に向けた周知広報を行っております。\n実際に引越時期を分散した利用者の方々からは「ピーク時より引越代金が安くなった」といった声も上がっているとのことですが、依然として同時期における依頼が集中してい…",
-            "date_modified": "2024-01-31T03:00:00.000Z"
-        },
-        {
-            "id": "6139a9c8e3655c361ad3a323cc34fefb",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4808",
-            "title": "【周知】2024年度「SecHack365」プログラムについて",
-            "summary": "　文部科学省より、「SecHack365」プログラムについて、情報提供がありましたので、お知らせします。\n\n　本プログラムは25歳以下の学生や社会人を対象とし、セキュリティイノベーター人材育成のため、1年間の長期ハッカソンによってサイバーセキュリティを考慮したモノづくりに取り組むもので、平成29年度より実施しております。\n　2024年度受講生は4月募集開始を予定しているところ、応募検討会向け説明会…",
             "date_modified": "2024-01-31T03:00:00.000Z"
         }
     ]
