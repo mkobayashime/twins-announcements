@@ -4,10 +4,30 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Wed, 07 Feb 2024 04:14:07 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 07 Feb 2024 06:14:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
+        <item>
+            <title><![CDATA[【周知】人社公開講座「人文社会系女子のキャリア形成」（第八回：2月7日 NHKプロデューサー編）]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4843</link>
+            <guid>4de4ca74107ac94de2c4af6bc5511dbc</guid>
+            <pubDate>Wed, 07 Feb 2024 03:00:00 GMT</pubDate>
+            <description><![CDATA[各位
+
+人文社会科学研究群公開講座「人文社会系女子のキャリア形成――自分と社会のつなぎ方」のお知らせ
+
+【第八回：NHKプロデューサー編】
+
+日時　　2月7日（水）4時45分～
+方法       3A203 (いつもと部屋が異なりますのでご注意ください)
+
+講師        川手洋子さん
+
+2005年 比較文化学類入学
+2010年  卒業後、NHK入局
+ディレクター、プロデューサーとして、「のど…]]></description>
+        </item>
         <item>
             <title><![CDATA[【BHE合同企業説明会特別講演】激動の時代でも選ばれ続けるキャリアの作り方～２人に１人の就活生が利用するOpenWorkのデータから読み解く就活必勝法～]]></title>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4842</link>
@@ -209,16 +229,6 @@ ECサイトは以下のリンクから
 
 　本プログラムは25歳以下の学生や社会人を対象とし、セキュリティイノベーター人材育成のため、1年間の長期ハッカソンによってサイバーセキュリティを考慮したモノづくりに取り組むもので、平成29年度より実施しております。
 　2024年度受講生は4月募集開始を予定しているところ、応募検討会向け説明会…]]></description>
-        </item>
-        <item>
-            <title><![CDATA[【周知】子供の性被害防止に係る啓発リーフレット「ネットには危険がいっぱい！」について]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4807</link>
-            <guid>6cdeebdd08786ee4d7005c111f3f48eb</guid>
-            <pubDate>Wed, 31 Jan 2024 03:00:00 GMT</pubDate>
-            <description><![CDATA[　文部科学省より、「ネットには危険がいっぱい！」啓発リーフレットの紹介がありましたので、お知らせします。
-　本リーフレットは主に高校生までを対象として作成されたものですが、掲載している手口等は、大学生等においても十分に注意する必要があります。被害に遭う前に一人で悩まず、すぐにご相談ください。また、本件のような被害に遭ったら、学生相談室、総合相談窓口に相談してください。
-
-　詳細は添付のPDFからご…]]></description>
         </item>
     </channel>
 </rss>

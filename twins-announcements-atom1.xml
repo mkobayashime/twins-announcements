@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/mkobayashime/twins-announcements</id>
     <title>在学生へのお知らせ | 筑波大学</title>
-    <updated>2024-02-07T04:14:07.414Z</updated>
+    <updated>2024-02-07T06:14:35.564Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://github.com/mkobayashime/twins-announcements"/>
     <subtitle>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</subtitle>
+    <entry>
+        <title type="html"><![CDATA[【周知】人社公開講座「人文社会系女子のキャリア形成」（第八回：2月7日 NHKプロデューサー編）]]></title>
+        <id>4de4ca74107ac94de2c4af6bc5511dbc</id>
+        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4843"/>
+        <updated>2024-02-07T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[各位
+
+人文社会科学研究群公開講座「人文社会系女子のキャリア形成――自分と社会のつなぎ方」のお知らせ
+
+【第八回：NHKプロデューサー編】
+
+日時　　2月7日（水）4時45分～
+方法       3A203 (いつもと部屋が異なりますのでご注意ください)
+
+講師        川手洋子さん
+
+2005年 比較文化学類入学
+2010年  卒業後、NHK入局
+ディレクター、プロデューサーとして、「のど…]]></summary>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【BHE合同企業説明会特別講演】激動の時代でも選ばれ続けるキャリアの作り方～２人に１人の就活生が利用するOpenWorkのデータから読み解く就活必勝法～]]></title>
         <id>f747186177cad9f0ef252811bbb65785</id>
@@ -207,15 +227,5 @@ ECサイトは以下のリンクから
 
 　本プログラムは25歳以下の学生や社会人を対象とし、セキュリティイノベーター人材育成のため、1年間の長期ハッカソンによってサイバーセキュリティを考慮したモノづくりに取り組むもので、平成29年度より実施しております。
 　2024年度受講生は4月募集開始を予定しているところ、応募検討会向け説明会…]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【周知】子供の性被害防止に係る啓発リーフレット「ネットには危険がいっぱい！」について]]></title>
-        <id>6cdeebdd08786ee4d7005c111f3f48eb</id>
-        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4807"/>
-        <updated>2024-01-31T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[　文部科学省より、「ネットには危険がいっぱい！」啓発リーフレットの紹介がありましたので、お知らせします。
-　本リーフレットは主に高校生までを対象として作成されたものですが、掲載している手口等は、大学生等においても十分に注意する必要があります。被害に遭う前に一人で悩まず、すぐにご相談ください。また、本件のような被害に遭ったら、学生相談室、総合相談窓口に相談してください。
-
-　詳細は添付のPDFからご…]]></summary>
     </entry>
 </feed>
