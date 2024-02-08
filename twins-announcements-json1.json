@@ -5,6 +5,20 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "867379b53eb360397ce51cd10462d5d2",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4845",
+            "title": "Semiconductor Market Analysis and Strategic Carrier Guidance",
+            "summary": "The Talent Acquisition Director of Micron Memory Japan, K.K., https://jp.micron.com/in-japan, will visit our university and directly provide information on recruitment and internships. Micron is a lea…",
+            "date_modified": "2024-02-08T03:00:00.000Z"
+        },
+        {
+            "id": "95d93cd7440a0bf437fb23d95902ec0f",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4844",
+            "title": "半導体業界キャリアガイダンス (2/16) のお知らせ",
+            "summary": "2030年には100兆円市場となることが見込まれる半導体業界ですが、\nそのうち、米国最大のメモリ製造企業である Micron 社の日本法人\n\n・マイクロンメモリジャパン株式会社\n　https://jp.micron.com/in-japan\n\nの人事採用本部長に直接本学まで来て頂き、\n採用情報やインターンシップについて説明して頂けることになりました。\n\n企業情報をもう少し知りたい、という人は次の …",
+            "date_modified": "2024-02-08T03:00:00.000Z"
+        },
+        {
             "id": "4de4ca74107ac94de2c4af6bc5511dbc",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4843",
             "title": "【周知】人社公開講座「人文社会系女子のキャリア形成」（第八回：2月7日 NHKプロデューサー編）",
@@ -128,20 +142,6 @@
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4810",
             "title": "【周知】こども・若者・保護者へのアンケートについて",
             "summary": "　茨城県より、アンケートへの協力依頼がありましたので、お知らせいたします。\n\n　茨城県では、日本一子どもを産み育てやすい県を目指し、こども政策の推進に取り組んでおります。本アンケートは、こどもや子育てに関する意見や意識、生活や支援ニーズ等を調査し、社内環境の整備や支援策に役立てるものになります。\n　学生の皆さんからの回答は、今後の茨城県のこども施策に欠かせない、重要な資料となるとのことですので、ご…",
-            "date_modified": "2024-01-31T03:00:00.000Z"
-        },
-        {
-            "id": "7061e6038168eb4cec68e86099edfc3b",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4809",
-            "title": "【周知】引越時期の分散について",
-            "summary": "　文部科学省より、分散引越への協力依頼がありましたので、お知らせいたします。\n\n　引越事業においては、例年3月下旬から4月上旬にかけて引越の依頼が集中しているところ、従来より国土交通省では、引越時期の分散化に向けた周知広報を行っております。\n実際に引越時期を分散した利用者の方々からは「ピーク時より引越代金が安くなった」といった声も上がっているとのことですが、依然として同時期における依頼が集中してい…",
-            "date_modified": "2024-01-31T03:00:00.000Z"
-        },
-        {
-            "id": "6139a9c8e3655c361ad3a323cc34fefb",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4808",
-            "title": "【周知】2024年度「SecHack365」プログラムについて",
-            "summary": "　文部科学省より、「SecHack365」プログラムについて、情報提供がありましたので、お知らせします。\n\n　本プログラムは25歳以下の学生や社会人を対象とし、セキュリティイノベーター人材育成のため、1年間の長期ハッカソンによってサイバーセキュリティを考慮したモノづくりに取り組むもので、平成29年度より実施しております。\n　2024年度受講生は4月募集開始を予定しているところ、応募検討会向け説明会…",
             "date_modified": "2024-01-31T03:00:00.000Z"
         }
     ]

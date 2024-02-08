@@ -4,10 +4,33 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Wed, 07 Feb 2024 21:15:08 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 08 Feb 2024 05:12:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
+        <item>
+            <title><![CDATA[Semiconductor Market Analysis and Strategic Carrier Guidance]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4845</link>
+            <guid>867379b53eb360397ce51cd10462d5d2</guid>
+            <pubDate>Thu, 08 Feb 2024 03:00:00 GMT</pubDate>
+            <description><![CDATA[The Talent Acquisition Director of Micron Memory Japan, K.K., https://jp.micron.com/in-japan, will visit our university and directly provide information on recruitment and internships. Micron is a lea…]]></description>
+        </item>
+        <item>
+            <title><![CDATA[半導体業界キャリアガイダンス (2/16) のお知らせ]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4844</link>
+            <guid>95d93cd7440a0bf437fb23d95902ec0f</guid>
+            <pubDate>Thu, 08 Feb 2024 03:00:00 GMT</pubDate>
+            <description><![CDATA[2030年には100兆円市場となることが見込まれる半導体業界ですが、
+そのうち、米国最大のメモリ製造企業である Micron 社の日本法人
+
+・マイクロンメモリジャパン株式会社
+　https://jp.micron.com/in-japan
+
+の人事採用本部長に直接本学まで来て頂き、
+採用情報やインターンシップについて説明して頂けることになりました。
+
+企業情報をもう少し知りたい、という人は次の …]]></description>
+        </item>
         <item>
             <title><![CDATA[【周知】人社公開講座「人文社会系女子のキャリア形成」（第八回：2月7日 NHKプロデューサー編）]]></title>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4843</link>
@@ -209,26 +232,6 @@ ECサイトは以下のリンクから
 
 　茨城県では、日本一子どもを産み育てやすい県を目指し、こども政策の推進に取り組んでおります。本アンケートは、こどもや子育てに関する意見や意識、生活や支援ニーズ等を調査し、社内環境の整備や支援策に役立てるものになります。
 　学生の皆さんからの回答は、今後の茨城県のこども施策に欠かせない、重要な資料となるとのことですので、ご…]]></description>
-        </item>
-        <item>
-            <title><![CDATA[【周知】引越時期の分散について]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4809</link>
-            <guid>7061e6038168eb4cec68e86099edfc3b</guid>
-            <pubDate>Wed, 31 Jan 2024 03:00:00 GMT</pubDate>
-            <description><![CDATA[　文部科学省より、分散引越への協力依頼がありましたので、お知らせいたします。
-
-　引越事業においては、例年3月下旬から4月上旬にかけて引越の依頼が集中しているところ、従来より国土交通省では、引越時期の分散化に向けた周知広報を行っております。
-実際に引越時期を分散した利用者の方々からは「ピーク時より引越代金が安くなった」といった声も上がっているとのことですが、依然として同時期における依頼が集中してい…]]></description>
-        </item>
-        <item>
-            <title><![CDATA[【周知】2024年度「SecHack365」プログラムについて]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4808</link>
-            <guid>6139a9c8e3655c361ad3a323cc34fefb</guid>
-            <pubDate>Wed, 31 Jan 2024 03:00:00 GMT</pubDate>
-            <description><![CDATA[　文部科学省より、「SecHack365」プログラムについて、情報提供がありましたので、お知らせします。
-
-　本プログラムは25歳以下の学生や社会人を対象とし、セキュリティイノベーター人材育成のため、1年間の長期ハッカソンによってサイバーセキュリティを考慮したモノづくりに取り組むもので、平成29年度より実施しております。
-　2024年度受講生は4月募集開始を予定しているところ、応募検討会向け説明会…]]></description>
         </item>
     </channel>
 </rss>
