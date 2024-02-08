@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "605f33336d3d30324f873248021e9aae",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4848",
+            "title": "【BHEキャリア支援チーム主催】筑波大学就職ミライ博2023「合同企業説明会Part１」のご案内",
+            "summary": "3/1（金）、4（月）～6（水）の4日間、\n筑波大学BHEキャリア支援チーム主催イベント\n「筑波大学就職ミライ博2023　合同企業説明会Part１」を開催します！\n\n筑波大学就職ミライ博とは…？\n筑波大生だけが参加できる、筑波大生のための、学内最大の就活イベントです。\n参加対象は全学群生・全大学院生です！\n\n出展する企業、団体、官公庁は添付チラシや特設サイトから確認できます。\n出展企業は毎日変わり…",
+            "date_modified": "2024-02-08T03:00:00.000Z"
+        },
+        {
             "id": "ec60b9170b29670d125e7b9a512af93b",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4847",
             "title": "【manaba掲載のお知らせ】令和5年度春季休業前の海外危機管理セミナーについて",
@@ -136,13 +143,6 @@
             "title": "筑波大学公式オリジナルグッズECサイト割引クーポンのお知らせ（2月）※コード記載",
             "summary": "筑波大学公式オリジナルグッズ販売サイト「TSUKUBA-SHOP」2月の割引クーポンコードをお知らせいたします！\n\n\nどうぞご覧いただき、皆様の「日常生活」、「思い出」、「プレゼント🎁」などにご活用いただけますと幸いです。\n\nECサイトは以下のリンクから\n※学内専用割引コードをTWINS掲示「大学から学生へのお知らせ（学内専用）」に掲載しております。\n※学生・教職員はこのコードを入力することで、…",
             "date_modified": "2024-02-01T03:00:00.000Z"
-        },
-        {
-            "id": "123b8a9995e8367da456e251f8e3fa9a",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4813",
-            "title": "【開催案内】JETRO×Berkley Skydeck Bootcamp Program in Tokyo/Osaka",
-            "summary": "JETROから以下の案内がありましたのでお知らせします。\n\n-----------------------------\nジェトロでは、米カリフォルニア大学バークレー校発、世界有数のファンドを持つアクセラレーターBerkeley SkyDeckのメンター・アドバイザー陣が来日して実施するブートキャンプを大阪・東京の2会場で開催します。\n\n研究アイデアから事業化・起業を目指す研究者や海外展開を目指すス…",
-            "date_modified": "2024-01-31T03:00:00.000Z"
         }
     ]
 }
