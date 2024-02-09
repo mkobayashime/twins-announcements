@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "7a913ded31788ff6c719812d74d03f1f",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4851",
+            "title": "2/15（16:00～）篠原氏講演会開催のお知らせ「テクノロジー・スポーツ・Eスポーツと法」（法学の最前線チュートリアル）学生・教員対象",
+            "summary": "TSUKUBA社会国際学初年次チュートリアルプログラムでは、2月15日（木）16時00分から公開講演会を開催いたします。講師はSwiss Esports Federation, Human Rights Officerの篠原　翼氏で、「テクノロジー・スポーツ・Eスポーツと法」という題目で講演していただきます。筑波大学の学生・教員でしたらどなたでもご参加いただけます。奮ってご参加下さい。\n\n「法学の…",
+            "date_modified": "2024-02-09T03:00:00.000Z"
+        },
+        {
             "id": "c21e343c7ffb36061c25ce3ca7f65ce7",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4849",
             "title": "【Today 】“J-Chat-SCであそぼ-　⑫藍染/indigo dye",
@@ -135,13 +142,6 @@
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4815",
             "title": "【定期開催】第4回　博士のポートフォリオ大公開＋ロールモデル懇談会(2/16開催）",
             "summary": "BHEの3チーム合同企画「博士のポートフォリオ+ロールモデル懇談会」の第4回についてお知らせします。\n\n博士号を取得した後、社会で活躍する本学卒業生の声を聞いてみたい――\nそんな声を受けて、博士の先輩による博士人材のための企画を立ち上げました。\n\n博士時代の悩みとその解決経過をテーマにポートフォリオを作成してもらい、本学教職員限定で大公開！\nそのポートフォリオをベースにした懇談会も開催します。\n＊…",
-            "date_modified": "2024-02-01T03:00:00.000Z"
-        },
-        {
-            "id": "d07de3a2549e9d1109e19fd73f9711de",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4814",
-            "title": "STOP！研究費不正使用！／STOP！Wrongful use of research funding！",
-            "summary": "学生の皆さんが不正使用に巻き込まれるケースが多発しています。\n不正を見かけた、持ちかけられたら、通報窓口へ。\nコンプライアンス・ハラスメント対策室（学内窓口）\nMail:compliance@un.tsukuba.ac.jp TEL:029-853-2033\nつくば中央法律事務所（学外窓口）\nTEL:029-896-3530  FAX:029-896-3531",
             "date_modified": "2024-02-01T03:00:00.000Z"
         }
     ]
