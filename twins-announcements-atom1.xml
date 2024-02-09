@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/mkobayashime/twins-announcements</id>
     <title>在学生へのお知らせ | 筑波大学</title>
-    <updated>2024-02-09T03:12:20.663Z</updated>
+    <updated>2024-02-09T04:13:57.222Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://github.com/mkobayashime/twins-announcements"/>
     <subtitle>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</subtitle>
+    <entry>
+        <title type="html"><![CDATA[再掲【開催案内】第48回「中央ユーラシアと日本の未来」公開講演会「生成系AIと大学教育の未来 －自身の知的成長を止めないために－」]]></title>
+        <id>5cd755a15526baaa67e5d41526e80d77</id>
+        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4854"/>
+        <updated>2024-02-09T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[【開催案内】第48回「中央ユーラシアと日本の未来」公開講演会
+
+講師：當作 靖彦 氏
+カリフォルニア大学 サンディエゴ校 教授
+
+題目：生成系AIと大学教育の未来 －自身の知的成長を止めないために－
+
+日時：令和6年2月13日（火）10:10～11:25
+
+会場：筑波大学　スチューデント・コモンズ（1A203）
+およびオンライン（Zoom）
+
+対象：本学学生、本学教職員、一般
+どなたでも無料でご参…]]></summary>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【アルバイト募集】就職ミライ博2023「合同企業説明会Part1」]]></title>
         <id>9cda54ca5accf49be751426ed4ab7ce7</id>
@@ -218,17 +238,5 @@
 当初、1月31日を締切としておりましたが、より多くの学生の皆さまの回答を集めるため、期間を延長いたしました。
 
 2022年4月1日付けで移行された方向け→　https://form…]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[日米豪印フェローシップについて]]></title>
-        <id>b81dc9419383eb849727e3dbce712332</id>
-        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4817"/>
-        <updated>2024-02-02T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[
-外務省人物交流室から日米豪印フェローシップについて
-情報提供がございましたのでお知らせします。
-
-
-]]></summary>
     </entry>
 </feed>
