@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/mkobayashime/twins-announcements</id>
     <title>在学生へのお知らせ | 筑波大学</title>
-    <updated>2024-02-10T09:16:07.501Z</updated>
+    <updated>2024-02-10T15:16:04.469Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://github.com/mkobayashime/twins-announcements"/>
     <subtitle>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</subtitle>
@@ -239,13 +239,6 @@
 また、学生相談室や総合相談窓口を遠慮なくご利用く…]]></summary>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Feb 9th 2024: TIAS post-2020 Legacy International Forum]]></title>
-        <id>d0adb6f470a51c2a5ff30363495b2130</id>
-        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4821"/>
-        <updated>2024-02-02T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[SPORT FOR TOMORROW (SFT), an international contribution through sport initiative developed through Tokyo 2020 Olympic and Paralympic Games, promoted international exchange and cooperation through spor…]]></summary>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[（再掲）【学内対象】2024年度筑波大学ベンチャー起業支援事業「つばさ」公募説明会について〔2024年2月22日17時～〕]]></title>
         <id>6eb1dc6a78ff4901ec478639055a9f96</id>
         <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4819"/>
@@ -256,5 +249,16 @@
 ＊JST大学発新産業創出プログラム（START）大学推進型の学内呼称です。
 
 申込・詳細は下記のU…]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[総合学域群からの移行学生を対象としたアンケート調査への回答をお願いします]]></title>
+        <id>7630781ac416eb40b5deaa2b2d7bed02</id>
+        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4818"/>
+        <updated>2024-02-02T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[※対象者には、TWINS掲示板「学生呼び出し」欄に同様のお知らせが届いています。
+総合学域群では、将来の学生支援及び運営改善に資するため、移行学生の皆さまを対象としたアンケート調査を行っております【締切：2月12日】。
+当初、1月31日を締切としておりましたが、より多くの学生の皆さまの回答を集めるため、期間を延長いたしました。
+
+2022年4月1日付けで移行された方向け→　https://form…]]></summary>
     </entry>
 </feed>
