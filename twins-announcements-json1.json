@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "b3abb96db5c63650df8592b09c7dea0a",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4863",
+            "title": "国際学生カンファレンスの開催について",
+            "summary": "在学生・教職員の皆様\n\n　アジア6か国の大学院生が参加している「Campus-Asia６」プログラムの集大成となる、学生国際カンファレンス（オンライン）を以下の日程で開催します。\n　興味のある方はどなたでも参加できますので、参加を希望する方は参加申込フォームから申込をしてください。\n\n開催日程　　2024年2月21日（水）－2024年2月22日（木）15：00-18：30（両日）\n開催方法　　オン…",
+            "date_modified": "2024-02-14T03:00:00.000Z"
+        },
+        {
             "id": "f7e5c4dc1ece4147cbde4ed3df16263e",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4862",
             "title": "サーバー更新作業に伴うキャリア支援チームHP及び就職情報提供システム停止のお知らせ",
@@ -135,13 +142,6 @@
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4835",
             "title": "【開催案内】オリンピックおよびパラリンピックに関する研究教育センター シンポジウム",
             "summary": "この度、筑波大学オリンピックおよびパラリンピックに関する研究教育センターの新たなスタートを記念し、スポーツを通じた共生社会の更なる実現に向け、車いすソフトボールの展開を事例に車いすソフトボールの日本代表およびアメリカ代表の現役選手をお招きして議論するシンポジウムを開催することとなりました。また、シンポジウム終了後には参加者の皆さんとの交流会や車いすソフトボールの体験会も予定しております。プログラム…",
-            "date_modified": "2024-02-05T03:00:00.000Z"
-        },
-        {
-            "id": "cf47119191f1b33cd00bd6b9ee727af3",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4833",
-            "title": "【お知らせ】令和6年1月23日からの大雪等による災害にかかる被害状況について",
-            "summary": "　令和６年1月23日からの大雪等による災害により被災された方々には心からお見舞い申し上げます。\n\n◆災害救助法適用地域：【岐阜県】不破郡関ケ原町\n◆法適用日：令和６年１月２４日\n　\n　学生の皆さんで被害に遭われた方、又は友人学生が被害にあった情報がありましたら、状況把握のため被害状況等について、所属するエリア支援室学生支援担当までご連絡ください。\n\nまた、学生相談室や総合相談窓口を遠慮なくご利用く…",
             "date_modified": "2024-02-05T03:00:00.000Z"
         }
     ]
