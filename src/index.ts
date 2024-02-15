@@ -22,7 +22,7 @@ const TWINS_ROOT_URL = "https://twins.tsukuba.ac.jp/campusweb/campusportal.do";
   );
 
   const browser = await puppeteer.launch({
-    headless: HEADLESS ? "new" : false,
+    headless: HEADLESS,
     defaultViewport: null,
   });
   const page = await browser.newPage();
