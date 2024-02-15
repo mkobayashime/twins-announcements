@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "80ab1d9146034d225e876ebfcb7c69e0",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4866",
+            "title": "Suspension of some services involved in the renewal to the library system(Feb 15-29)",
+            "summary": "The University of Tsukuba Library is set to implement renewal procedure on the library system in Feb. By this operation, some services will be unavailable temporally.\n\n[Services temporally unavailable…",
+            "date_modified": "2024-02-15T03:00:00.000Z"
+        },
+        {
             "id": "59d893b00106d50036ae5de3a495651b",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4865",
             "title": "図書館システム更新に伴うサービス・機能の一時停止について(2/15-2/29)",
@@ -135,13 +142,6 @@
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4840",
             "title": "留学生のチューター募集について（2024年度春学期）",
             "summary": "留学生と交流したい、または留学生をサポートしたいと思っている正規課程の在学生の皆さん、ぜひチューターになってみませんか？\n\n2024年4月に多くの留学生が入学する予定です。\nこれに伴い、チューター支援（主に生活の立ち上げ支援（原則対面））を\n行ってくださるチューターを大募集しています！！！！\n\nチューター希望の学生は、下記URL上の「チューターバンク」に記載の登録方法に従い、チューターバンクに登録…",
-            "date_modified": "2024-02-06T03:00:00.000Z"
-        },
-        {
-            "id": "bd2f9abc385832a843a2250b198a6c27",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4838",
-            "title": "Founding Commemorative Symposium of the Research and Education Center on the Olympics & Paralympics",
-            "summary": "We will hold a founding commemorative symposium of the research and education center on the Olympics and Paralympics at the University of Tsukuba. We will invite frontline wheelchair softball players …",
             "date_modified": "2024-02-06T03:00:00.000Z"
         }
     ]

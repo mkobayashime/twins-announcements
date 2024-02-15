@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/mkobayashime/twins-announcements</id>
     <title>在学生へのお知らせ | 筑波大学</title>
-    <updated>2024-02-15T07:11:29.125Z</updated>
+    <updated>2024-02-15T08:15:22.835Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://github.com/mkobayashime/twins-announcements"/>
     <subtitle>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</subtitle>
+    <entry>
+        <title type="html"><![CDATA[Suspension of some services involved in the renewal to the library system(Feb 15-29)]]></title>
+        <id>80ab1d9146034d225e876ebfcb7c69e0</id>
+        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4866"/>
+        <updated>2024-02-15T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The University of Tsukuba Library is set to implement renewal procedure on the library system in Feb. By this operation, some services will be unavailable temporally.
+
+[Services temporally unavailable…]]></summary>
+    </entry>
     <entry>
         <title type="html"><![CDATA[図書館システム更新に伴うサービス・機能の一時停止について(2/15-2/29)]]></title>
         <id>59d893b00106d50036ae5de3a495651b</id>
@@ -256,12 +265,5 @@ This time, a student from Costa Rica is going to deliver a presentation titled 9
 行ってくださるチューターを大募集しています！！！！
 
 チューター希望の学生は、下記URL上の「チューターバンク」に記載の登録方法に従い、チューターバンクに登録…]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Founding Commemorative Symposium of the Research and Education Center on the Olympics & Paralympics]]></title>
-        <id>bd2f9abc385832a843a2250b198a6c27</id>
-        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4838"/>
-        <updated>2024-02-06T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[We will hold a founding commemorative symposium of the research and education center on the Olympics and Paralympics at the University of Tsukuba. We will invite frontline wheelchair softball players …]]></summary>
     </entry>
 </feed>

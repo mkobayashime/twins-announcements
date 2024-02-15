@@ -4,10 +4,19 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Thu, 15 Feb 2024 07:11:29 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 15 Feb 2024 08:15:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
+        <item>
+            <title><![CDATA[Suspension of some services involved in the renewal to the library system(Feb 15-29)]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4866</link>
+            <guid>80ab1d9146034d225e876ebfcb7c69e0</guid>
+            <pubDate>Thu, 15 Feb 2024 03:00:00 GMT</pubDate>
+            <description><![CDATA[The University of Tsukuba Library is set to implement renewal procedure on the library system in Feb. By this operation, some services will be unavailable temporally.
+
+[Services temporally unavailable…]]></description>
+        </item>
         <item>
             <title><![CDATA[図書館システム更新に伴うサービス・機能の一時停止について(2/15-2/29)]]></title>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4865</link>
@@ -258,13 +267,6 @@ This time, a student from Costa Rica is going to deliver a presentation titled 9
 行ってくださるチューターを大募集しています！！！！
 
 チューター希望の学生は、下記URL上の「チューターバンク」に記載の登録方法に従い、チューターバンクに登録…]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Founding Commemorative Symposium of the Research and Education Center on the Olympics & Paralympics]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4838</link>
-            <guid>bd2f9abc385832a843a2250b198a6c27</guid>
-            <pubDate>Tue, 06 Feb 2024 03:00:00 GMT</pubDate>
-            <description><![CDATA[We will hold a founding commemorative symposium of the research and education center on the Olympics and Paralympics at the University of Tsukuba. We will invite frontline wheelchair softball players …]]></description>
         </item>
     </channel>
 </rss>
