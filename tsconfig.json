@@ -16,8 +16,5 @@
     "skipLibCheck": true,
     "forceConsistentCasingInFileNames": true,
     "esModuleInterop": true
-  },
-  "ts-node": {
-    "swc": true
   }
 }

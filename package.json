@@ -9,7 +9,6 @@
   "devDependencies": {
     "@mkobayashime/eslint-config": "0.3.0",
     "@mkobayashime/eslint-config-typescript": "1.0.0",
-    "@swc/core": "1.4.1",
     "@types/md5": "2.3.5",
     "@types/node": "20.11.17",
     "@types/puppeteer": "5.4.7",
@@ -26,7 +25,7 @@
     "prettier": "3.2.5",
     "puppeteer": "22.0.0",
     "rimraf": "5.0.5",
-    "ts-node": "10.9.2",
+    "tsx": "^4.7.1",
     "typescript": "5.3.3"
   }
 }
