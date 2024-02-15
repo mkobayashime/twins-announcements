@@ -28,8 +28,9 @@ const getAnnouncementBody = async (
       const documentRoot = iframe.contentDocument;
 
       const text =
-        documentRoot?.querySelector<HTMLDivElement>("#webpage-contents")
-          ?.innerText;
+        documentRoot?.querySelector<HTMLDivElement>(
+          "#webpage-contents",
+        )?.innerText;
       if (!text) throw new Error("Announcement text not found");
 
       return {
