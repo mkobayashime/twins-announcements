@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "1b8f2792f9cf0e5ac0428b9e0b7cd170",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4871",
+            "title": "【単位認定】日本語サポーター募集！（TWINS締切 3/15）",
+            "summary": "茨城県の中学校と連携して、外国にルーツのある子どもたちの日本語学習や教科学習のサポートをする「日本語サポーター」を募集します。4月からの1年間、授業の空き時間を利用して活動を行い、活動時間に応じて単位認定されます。学類や専門は問いません。自分の得意分野を活かして一緒に活動してみませんか。\n\n日本語サポーターになるためには、下記の授業を履修してください。\n\n科目番号：AE14H22（1単位）\n科目名…",
+            "date_modified": "2024-02-20T03:00:00.000Z"
+        },
+        {
             "id": "7822db0d8a420129b6852291d8a83002",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4870",
             "title": "筑波大学「世界を変えよう基金」能登半島地震災害ボランティア活動支援奨学金募集のお知らせ",
@@ -136,13 +143,6 @@
             "title": "【お知らせ】令和6年1月23日からの大雪等による災害にかかる被害状況について",
             "summary": "　令和６年1月23日からの大雪等による災害により被災された方々には心からお見舞い申し上げます。\n\n◆災害救助法適用地域：【岐阜県】不破郡関ケ原町\n◆法適用日：令和６年１月２４日\n　\n　学生の皆さんで被害に遭われた方、又は友人学生が被害にあった情報がありましたら、状況把握のため被害状況等について、所属するエリア支援室学生支援担当までご連絡ください。\n\nまた、学生相談室や総合相談窓口を遠慮なくご利用く…",
             "date_modified": "2024-02-05T03:00:00.000Z"
-        },
-        {
-            "id": "6eb1dc6a78ff4901ec478639055a9f96",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4819",
-            "title": "（再掲）【学内対象】2024年度筑波大学ベンチャー起業支援事業「つばさ」公募説明会について〔2024年2月22日17時～〕",
-            "summary": "筑波大学ベンチャー起業支援事業「つばさ」（つばさ事業＊）は、大学の優れた技術シーズを基にした成長ポテンシャルの高い大学発ベンチャーの創出を促進することを目的としています。\nつばさ事業の2024年度研究開発課題の公募説明会を下記のとおり開催いたしますので、応募を検討されている方はぜひご参加ください。\n\n＊JST大学発新産業創出プログラム（START）大学推進型の学内呼称です。\n\n申込・詳細は下記のU…",
-            "date_modified": "2024-02-02T03:00:00.000Z"
         }
     ]
 }
