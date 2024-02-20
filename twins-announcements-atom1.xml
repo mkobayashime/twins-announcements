@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/mkobayashime/twins-announcements</id>
     <title>在学生へのお知らせ | 筑波大学</title>
-    <updated>2024-02-20T09:17:15.919Z</updated>
+    <updated>2024-02-20T15:16:23.222Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://github.com/mkobayashime/twins-announcements"/>
     <subtitle>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</subtitle>
@@ -109,15 +109,12 @@
         <id>27b7022e8265d35d021b175078e71456</id>
         <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4861"/>
         <updated>2024-02-14T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[人文社会科学研究群公開講座「人文社会系女子のキャリア形成――自分と社会のつなぎ方」のお知らせ
+        <summary type="html"><![CDATA[サーバー更新作業に伴い、下記の時間、キャリア支援チームホームページ等へ繋がりにくくなります。
+【作業日時】2/21（水）9：00　～　 2/21（水）13：15（予定）
 
-【第九回：欧州企業編 (シェンカーからラルフローレンへ)】
-
-日時　　2月14日（水）4時45分～
-方法       3A403 (先週と部屋が異なります)
-
-参加 Zoom ミーティング
-https://us02web.zoom.us/j/81800917173?pwd=c3VqamtrK3BvVGx…]]></summary>
+なお、サーバー更新作業中は、「学内専用ページ」、「ガイダンス等及び模試試験登録・申請」、「進路進捗状況届」へのアクセスはできません。
+皆様にはご迷惑をおかけいたしますが、ご理解、ご協力の程よろしくお願いいたします。
+]]></summary>
     </entry>
     <entry>
         <title type="html"><![CDATA[（BHE)茗渓会　『就活についてのぶっちゃけ質問会・相談会』』]]></title>
@@ -148,32 +145,6 @@ https://us02web.zoom.us/j/81800917173?pwd=c3VqamtrK3BvVGx…]]></summary>
 申請期間：2024年4月1日（月）から4月12日（金）
 提出先：自分の所属する支援室の教務又は学位プログラム事務室等
 ]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【アルバイト募集】就職ミライ博2023「合同企業説明会Part1」]]></title>
-        <id>9cda54ca5accf49be751426ed4ab7ce7</id>
-        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4853"/>
-        <updated>2024-02-09T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[3月1日・4日・5日・6日に開催する「合同企業説明会Part1」にて
-アルバイトを募集することとなりました。
-つきましては、下記詳細をご覧いただき、ご参加可能な日程がございましたら、
-【2月20日(火)12：00】までにフォームにてご登録いただけますと幸いです。
-
-【日程等詳細】
------------------------------------------------------------…]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【アルバイト募集】就職ミライ博2023「合同企業説明会Part1」]]></title>
-        <id>9cda54ca5accf49be751426ed4ab7ce7</id>
-        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4852"/>
-        <updated>2024-02-09T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[3月1日・4日・5日・6日に開催する「合同企業説明会Part1」にて
-アルバイトを募集することとなりました。
-つきましては、下記詳細をご覧いただき、ご参加可能な日程がございましたら、
-【2月20日(火)12：00】までにフォームにてご登録いただけますと幸いです。
-
-【日程等詳細】
------------------------------------------------------------…]]></summary>
     </entry>
     <entry>
         <title type="html"><![CDATA[【BHEキャリア支援チーム主催】筑波大学就職ミライ博2023「合同企業説明会Part１」のご案内]]></title>
@@ -271,5 +242,29 @@ https://us02web.zoom.us/j/81800917173?pwd=c3VqamtrK3BvVGx…]]></summary>
 　学生の皆さんで被害に遭われた方、又は友人学生が被害にあった情報がありましたら、状況把握のため被害状況等について、所属するエリア支援室学生支援担当までご連絡ください。
 
 また、学生相談室や総合相談窓口を遠慮なくご利用く…]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[（再掲）【学内対象】2024年度筑波大学ベンチャー起業支援事業「つばさ」公募説明会について〔2024年2月22日17時～〕]]></title>
+        <id>6eb1dc6a78ff4901ec478639055a9f96</id>
+        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4819"/>
+        <updated>2024-02-02T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[筑波大学ベンチャー起業支援事業「つばさ」（つばさ事業＊）は、大学の優れた技術シーズを基にした成長ポテンシャルの高い大学発ベンチャーの創出を促進することを目的としています。
+つばさ事業の2024年度研究開発課題の公募説明会を下記のとおり開催いたしますので、応募を検討されている方はぜひご参加ください。
+
+＊JST大学発新産業創出プログラム（START）大学推進型の学内呼称です。
+
+申込・詳細は下記のU…]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[日米豪印フェローシップについて]]></title>
+        <id>b81dc9419383eb849727e3dbce712332</id>
+        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4817"/>
+        <updated>2024-02-02T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[
+外務省人物交流室から日米豪印フェローシップについて
+情報提供がございましたのでお知らせします。
+
+
+]]></summary>
     </entry>
 </feed>
