@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/mkobayashime/twins-announcements</id>
     <title>在学生へのお知らせ | 筑波大学</title>
-    <updated>2024-02-19T21:16:01.484Z</updated>
+    <updated>2024-02-20T01:43:18.403Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://github.com/mkobayashime/twins-announcements"/>
     <subtitle>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</subtitle>
+    <entry>
+        <title type="html"><![CDATA[筑波大学「世界を変えよう基金」能登半島地震災害ボランティア活動支援奨学金募集のお知らせ]]></title>
+        <id>7822db0d8a420129b6852291d8a83002</id>
+        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4870"/>
+        <updated>2024-02-20T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[筑波大学「世界を変えよう基金」では、災害支援ボランティア活動を行う学生に対し、現地までの交通費半額を奨学金として支給する災害ボランティア活動支援制度を2019年に設立しました。
+
+今回の能登半島地震に際して災害ボランティア活動に参加する学生からの支援申請を受け付けています。
+支援の条件は下記のとおりです。
+・災害ボランティア活動に出発する1週間前に、支援申請書を提出すること
+・災害ボランティア活動…]]></summary>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【BHEキャリア支援チーム主催】３/１,４‐６開催　筑波大学就職ミライ博2023　合同企業説明会Part１のご案内]]></title>
         <id>4c8c68a269065f3c21c0e77b6faf2ac8</id>
@@ -259,17 +271,5 @@ https://us02web.zoom.us/j/81800917173?pwd=c3VqamtrK3BvVGx…]]></summary>
 ＊JST大学発新産業創出プログラム（START）大学推進型の学内呼称です。
 
 申込・詳細は下記のU…]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[日米豪印フェローシップについて]]></title>
-        <id>b81dc9419383eb849727e3dbce712332</id>
-        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4817"/>
-        <updated>2024-02-02T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[
-外務省人物交流室から日米豪印フェローシップについて
-情報提供がございましたのでお知らせします。
-
-
-]]></summary>
     </entry>
 </feed>

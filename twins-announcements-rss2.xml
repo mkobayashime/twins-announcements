@@ -4,10 +4,22 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Mon, 19 Feb 2024 21:16:01 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 20 Feb 2024 01:43:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
+        <item>
+            <title><![CDATA[筑波大学「世界を変えよう基金」能登半島地震災害ボランティア活動支援奨学金募集のお知らせ]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4870</link>
+            <guid>7822db0d8a420129b6852291d8a83002</guid>
+            <pubDate>Tue, 20 Feb 2024 03:00:00 GMT</pubDate>
+            <description><![CDATA[筑波大学「世界を変えよう基金」では、災害支援ボランティア活動を行う学生に対し、現地までの交通費半額を奨学金として支給する災害ボランティア活動支援制度を2019年に設立しました。
+
+今回の能登半島地震に際して災害ボランティア活動に参加する学生からの支援申請を受け付けています。
+支援の条件は下記のとおりです。
+・災害ボランティア活動に出発する1週間前に、支援申請書を提出すること
+・災害ボランティア活動…]]></description>
+        </item>
         <item>
             <title><![CDATA[【BHEキャリア支援チーム主催】３/１,４‐６開催　筑波大学就職ミライ博2023　合同企業説明会Part１のご案内]]></title>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4869</link>
@@ -261,18 +273,6 @@ https://us02web.zoom.us/j/81800917173?pwd=c3VqamtrK3BvVGx…]]></description>
 ＊JST大学発新産業創出プログラム（START）大学推進型の学内呼称です。
 
 申込・詳細は下記のU…]]></description>
-        </item>
-        <item>
-            <title><![CDATA[日米豪印フェローシップについて]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4817</link>
-            <guid>b81dc9419383eb849727e3dbce712332</guid>
-            <pubDate>Fri, 02 Feb 2024 03:00:00 GMT</pubDate>
-            <description><![CDATA[
-外務省人物交流室から日米豪印フェローシップについて
-情報提供がございましたのでお知らせします。
-
-
-]]></description>
         </item>
     </channel>
 </rss>
