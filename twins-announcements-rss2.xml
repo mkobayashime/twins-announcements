@@ -4,10 +4,20 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Tue, 20 Feb 2024 21:15:32 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 21 Feb 2024 01:45:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
+        <item>
+            <title><![CDATA[[Notice] 安全保障輸出管理のための誓約書提出のお願いRequest for Submission of Pledge for Security Export Control]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4872</link>
+            <guid>7a9b01b19be73cc89a24e7501dfc664d</guid>
+            <pubDate>Wed, 21 Feb 2024 03:00:00 GMT</pubDate>
+            <description><![CDATA[2023年度大学院修了予定者（退学等を含む）の皆様へ
+To prospective graduate school graduates in AY2023 (including those who will withdraw)
+大学院修了にあたり、外国為替及び外国貿易法遵守の”誓約書（修了時）”提出をお願いしております。ご理解とご協力をよろしくお願いいたします
+In order to comply…]]></description>
+        </item>
         <item>
             <title><![CDATA[【単位認定】日本語サポーター募集！（TWINS締切 3/15）]]></title>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4871</link>
@@ -259,18 +269,6 @@ https://us02web.zoom.us/j/81800917173?pwd=c3VqamtrK3BvVGx…]]></description>
 ＊JST大学発新産業創出プログラム（START）大学推進型の学内呼称です。
 
 申込・詳細は下記のU…]]></description>
-        </item>
-        <item>
-            <title><![CDATA[日米豪印フェローシップについて]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4817</link>
-            <guid>b81dc9419383eb849727e3dbce712332</guid>
-            <pubDate>Fri, 02 Feb 2024 03:00:00 GMT</pubDate>
-            <description><![CDATA[
-外務省人物交流室から日米豪印フェローシップについて
-情報提供がございましたのでお知らせします。
-
-
-]]></description>
         </item>
     </channel>
 </rss>
