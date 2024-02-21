@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "cc614261e57dbbab3175895f1ac5bbbd",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4874",
+            "title": "【経済支援（再掲）】令和６年能登半島地震にかかる災害救助法適用地域の世帯の学生・生徒に対する奨学金について",
+            "summary": "在学生　各位\n\n1月22日に震災に係る緊急支援についてお知らせし、申請期限を2月22日（木）までとしていましたが、\n罹災証明書等や損壊額を証明する書類の発行がすぐにできないこと等を考慮し、申請期限後も随時書類提出を受け付けますのでご相談ください。\nなお、被災により困っていること等ある場合には、遠慮なく所属するエリア支援室（学生支援担当）又は学生生活課まで個別にご相談ください。\n\n以上\n",
+            "date_modified": "2024-02-21T03:00:00.000Z"
+        },
+        {
             "id": "7a9b01b19be73cc89a24e7501dfc664d",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4872",
             "title": "[Notice] 安全保障輸出管理のための誓約書提出のお願いRequest for Submission of Pledge for Security Export Control",
@@ -136,13 +143,6 @@
             "title": "【お知らせ】令和6年1月23日からの大雪等による災害にかかる被害状況について",
             "summary": "　令和６年1月23日からの大雪等による災害により被災された方々には心からお見舞い申し上げます。\n\n◆災害救助法適用地域：【岐阜県】不破郡関ケ原町\n◆法適用日：令和６年１月２４日\n　\n　学生の皆さんで被害に遭われた方、又は友人学生が被害にあった情報がありましたら、状況把握のため被害状況等について、所属するエリア支援室学生支援担当までご連絡ください。\n\nまた、学生相談室や総合相談窓口を遠慮なくご利用く…",
             "date_modified": "2024-02-05T03:00:00.000Z"
-        },
-        {
-            "id": "6eb1dc6a78ff4901ec478639055a9f96",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4819",
-            "title": "（再掲）【学内対象】2024年度筑波大学ベンチャー起業支援事業「つばさ」公募説明会について〔2024年2月22日17時～〕",
-            "summary": "筑波大学ベンチャー起業支援事業「つばさ」（つばさ事業＊）は、大学の優れた技術シーズを基にした成長ポテンシャルの高い大学発ベンチャーの創出を促進することを目的としています。\nつばさ事業の2024年度研究開発課題の公募説明会を下記のとおり開催いたしますので、応募を検討されている方はぜひご参加ください。\n\n＊JST大学発新産業創出プログラム（START）大学推進型の学内呼称です。\n\n申込・詳細は下記のU…",
-            "date_modified": "2024-02-02T03:00:00.000Z"
         }
     ]
 }

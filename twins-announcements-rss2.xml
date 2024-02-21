@@ -4,10 +4,24 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Wed, 21 Feb 2024 01:45:36 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 21 Feb 2024 06:16:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
+        <item>
+            <title><![CDATA[【経済支援（再掲）】令和６年能登半島地震にかかる災害救助法適用地域の世帯の学生・生徒に対する奨学金について]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4874</link>
+            <guid>cc614261e57dbbab3175895f1ac5bbbd</guid>
+            <pubDate>Wed, 21 Feb 2024 03:00:00 GMT</pubDate>
+            <description><![CDATA[在学生　各位
+
+1月22日に震災に係る緊急支援についてお知らせし、申請期限を2月22日（木）までとしていましたが、
+罹災証明書等や損壊額を証明する書類の発行がすぐにできないこと等を考慮し、申請期限後も随時書類提出を受け付けますのでご相談ください。
+なお、被災により困っていること等ある場合には、遠慮なく所属するエリア支援室（学生支援担当）又は学生生活課まで個別にご相談ください。
+
+以上
+]]></description>
+        </item>
         <item>
             <title><![CDATA[[Notice] 安全保障輸出管理のための誓約書提出のお願いRequest for Submission of Pledge for Security Export Control]]></title>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4872</link>
@@ -257,18 +271,6 @@ https://us02web.zoom.us/j/81800917173?pwd=c3VqamtrK3BvVGx…]]></description>
 　学生の皆さんで被害に遭われた方、又は友人学生が被害にあった情報がありましたら、状況把握のため被害状況等について、所属するエリア支援室学生支援担当までご連絡ください。
 
 また、学生相談室や総合相談窓口を遠慮なくご利用く…]]></description>
-        </item>
-        <item>
-            <title><![CDATA[（再掲）【学内対象】2024年度筑波大学ベンチャー起業支援事業「つばさ」公募説明会について〔2024年2月22日17時～〕]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4819</link>
-            <guid>6eb1dc6a78ff4901ec478639055a9f96</guid>
-            <pubDate>Fri, 02 Feb 2024 03:00:00 GMT</pubDate>
-            <description><![CDATA[筑波大学ベンチャー起業支援事業「つばさ」（つばさ事業＊）は、大学の優れた技術シーズを基にした成長ポテンシャルの高い大学発ベンチャーの創出を促進することを目的としています。
-つばさ事業の2024年度研究開発課題の公募説明会を下記のとおり開催いたしますので、応募を検討されている方はぜひご参加ください。
-
-＊JST大学発新産業創出プログラム（START）大学推進型の学内呼称です。
-
-申込・詳細は下記のU…]]></description>
         </item>
     </channel>
 </rss>
