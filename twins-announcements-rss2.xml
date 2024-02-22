@@ -4,7 +4,7 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Thu, 22 Feb 2024 09:18:02 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 22 Feb 2024 15:17:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
@@ -104,19 +104,6 @@ In order to comply…]]></description>
 
 2月19日(月)9時～2月29日(木)14時
 　・貸出図書の更新…]]></description>
-        </item>
-        <item>
-            <title><![CDATA[国際学生カンファレンスの開催について]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4863</link>
-            <guid>b3abb96db5c63650df8592b09c7dea0a</guid>
-            <pubDate>Wed, 14 Feb 2024 03:00:00 GMT</pubDate>
-            <description><![CDATA[在学生・教職員の皆様
-
-　アジア6か国の大学院生が参加している「Campus-Asia６」プログラムの集大成となる、学生国際カンファレンス（オンライン）を以下の日程で開催します。
-　興味のある方はどなたでも参加できますので、参加を希望する方は参加申込フォームから申込をしてください。
-
-開催日程　　2024年2月21日（水）－2024年2月22日（木）15：00-18：30（両日）
-開催方法　　オン…]]></description>
         </item>
         <item>
             <title><![CDATA[【周知】人社公開講座「人文社会系女子のキャリア形成」（第九回：本日2月14日 欧州企業編）]]></title>
@@ -261,16 +248,30 @@ https://us02web.zoom.us/j/81800917173?pwd=c3VqamtrK3BvVGx…]]></description>
 また、学生相談室や総合相談窓口を遠慮なくご利用く…]]></description>
         </item>
         <item>
-            <title><![CDATA[（再掲）【学内対象】2024年度筑波大学ベンチャー起業支援事業「つばさ」公募説明会について〔2024年2月22日17時～〕]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4819</link>
-            <guid>6eb1dc6a78ff4901ec478639055a9f96</guid>
+            <title><![CDATA[日米豪印フェローシップについて]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4817</link>
+            <guid>b81dc9419383eb849727e3dbce712332</guid>
             <pubDate>Fri, 02 Feb 2024 03:00:00 GMT</pubDate>
-            <description><![CDATA[筑波大学ベンチャー起業支援事業「つばさ」（つばさ事業＊）は、大学の優れた技術シーズを基にした成長ポテンシャルの高い大学発ベンチャーの創出を促進することを目的としています。
-つばさ事業の2024年度研究開発課題の公募説明会を下記のとおり開催いたしますので、応募を検討されている方はぜひご参加ください。
+            <description><![CDATA[
+外務省人物交流室から日米豪印フェローシップについて
+情報提供がございましたのでお知らせします。
 
-＊JST大学発新産業創出プログラム（START）大学推進型の学内呼称です。
 
-申込・詳細は下記のU…]]></description>
+]]></description>
+        </item>
+        <item>
+            <title><![CDATA[【定期開催】第4回　博士のポートフォリオ大公開＋ロールモデル懇談会(2/16開催）]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4815</link>
+            <guid>15d6ebe2a4639ac2895a9f9e40af7f6b</guid>
+            <pubDate>Thu, 01 Feb 2024 03:00:00 GMT</pubDate>
+            <description><![CDATA[BHEの3チーム合同企画「博士のポートフォリオ+ロールモデル懇談会」の第4回についてお知らせします。
+
+博士号を取得した後、社会で活躍する本学卒業生の声を聞いてみたい――
+そんな声を受けて、博士の先輩による博士人材のための企画を立ち上げました。
+
+博士時代の悩みとその解決経過をテーマにポートフォリオを作成してもらい、本学教職員限定で大公開！
+そのポートフォリオをベースにした懇談会も開催します。
+＊…]]></description>
         </item>
     </channel>
 </rss>
