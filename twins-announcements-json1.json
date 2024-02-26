@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "c89f978491825365b95420a6adbab55c",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4875",
+            "title": "「時事問題を英語で読み書き話す勉強会」開催のお知らせ",
+            "summary": "筑波大学「世界を変えよう基金アカデミー」では、国際社会で活躍するために必要な英語思考力を養成するため、時事問題に関する英語メディア報道記事を題材に、英語でPowerPoint slidesを作成し、英語で議論する勉強会を4月中旬からZoomで隔週開催します（8回程度、各90分）。勉強会はすべて英語で行います。\n\n参加は無料ですが、TOEFLiBT 90点以上またはTOEIC 820点相当以上の英語…",
+            "date_modified": "2024-02-26T03:00:00.000Z"
+        },
+        {
             "id": "cc614261e57dbbab3175895f1ac5bbbd",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4874",
             "title": "【経済支援（再掲）】令和６年能登半島地震にかかる災害救助法適用地域の世帯の学生・生徒に対する奨学金について",
@@ -85,7 +92,7 @@
             "id": "605f33336d3d30324f873248021e9aae",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4848",
             "title": "【BHEキャリア支援チーム主催】筑波大学就職ミライ博2023「合同企業説明会Part１」のご案内",
-            "summary": "3/1（金）、4（月）～6（水）の4日間、\n筑波大学BHEキャリア支援チーム主催イベント\n「筑波大学就職ミライ博2023　合同企業説明会Part１」を開催します！\n\n筑波大学就職ミライ博とは…？\n筑波大生だけが参加できる、筑波大生のための、学内最大の就活イベントです。\n参加対象は全学群生・全大学院生です！\n\n出展する企業、団体、官公庁は添付チラシや特設サイトから確認できます。\n出展企業は毎日変わり…",
+            "summary": "3/1（金）、4（月）～6（水）の4日間、\n筑波大学BHEキャリア支援チーム主催イベント\n「筑波大学就職ミライ博2023　合同企業説明会Part１」を開催します！\n\n筑波大学就職ミライ博とは…？\n筑波大生だけが参加できる、筑波大生のための、学内最大の就活イベントです。\n参加対象は全学群生・全大学院生です！\n\n出展する企業、団体、官公庁は添付チラシや特設サイトから確認できます。\n出展",
             "date_modified": "2024-02-08T03:00:00.000Z"
         },
         {
@@ -136,13 +143,6 @@
             "title": "日米豪印フェローシップについて",
             "summary": "\n外務省人物交流室から日米豪印フェローシップについて\n情報提供がございましたのでお知らせします。\n\n\n",
             "date_modified": "2024-02-02T03:00:00.000Z"
-        },
-        {
-            "id": "15d6ebe2a4639ac2895a9f9e40af7f6b",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4815",
-            "title": "【定期開催】第4回　博士のポートフォリオ大公開＋ロールモデル懇談会(2/16開催）",
-            "summary": "BHEの3チーム合同企画「博士のポートフォリオ+ロールモデル懇談会」の第4回についてお知らせします。\n\n博士号を取得した後、社会で活躍する本学卒業生の声を聞いてみたい――\nそんな声を受けて、博士の先輩による博士人材のための企画を立ち上げました。\n\n博士時代の悩みとその解決経過をテーマにポートフォリオを作成してもらい、本学教職員限定で大公開！\nそのポートフォリオをベースにした懇談会も開催します。\n＊…",
-            "date_modified": "2024-02-01T03:00:00.000Z"
         }
     ]
 }
