@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "e6bf5c9ad8fc141e48ff39ed0bb03a7b",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4880",
+            "title": "【学生・教職員ボランティア募集】東京レインボープライド2024",
+            "summary": "筑波大学ヒューマンエンパワーメント推進局（BHE）は、2024年4月20日（土）・21日（日）に開催される東京レインボープライド（Tokyo Rainbow Pride：TRP）にブース出展を行います。\nそこで、ブース出展の手伝いをお願いできる学生・教職員ボランティアを募集します。\n詳細は、以下のジェンダー支援チームHPをご確認ください。\nURL：https://diversity.tsukuba…",
+            "date_modified": "2024-02-27T03:00:00.000Z"
+        },
+        {
             "id": "a996564871725d950fce50ae4a85070e",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4879",
             "title": "【オンライン直前セミナーまであと2日！！】３/１,４‐６開催　筑波大学就職ミライ博2023 合同企業説明会Part１",
@@ -135,13 +142,6 @@
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4843",
             "title": "【周知】人社公開講座「人文社会系女子のキャリア形成」（第八回：2月7日 NHKプロデューサー編）",
             "summary": "各位\n\n人文社会科学研究群公開講座「人文社会系女子のキャリア形成――自分と社会のつなぎ方」のお知らせ\n\n【第八回：NHKプロデューサー編】\n\n日時　　2月7日（水）4時45分～\n方法       3A203 (いつもと部屋が異なりますのでご注意ください)\n\n講師        川手洋子さん\n\n2005年 比較文化学類入学\n2010年  卒業後、NHK入局\nディレクター、プロデューサーとして、「のど…",
-            "date_modified": "2024-02-07T03:00:00.000Z"
-        },
-        {
-            "id": "f747186177cad9f0ef252811bbb65785",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4842",
-            "title": "【BHE合同企業説明会特別講演】激動の時代でも選ばれ続けるキャリアの作り方～２人に１人の就活生が利用するOpenWorkのデータから読み解く就活必勝法～",
-            "summary": "合同企業説明会特別講演についてのお知らせです。\n累計1000万件以上の口コミからなる就職・転職サイトオープンワーク株式会社の取締役社長であり本学のOBでもある大澤陽樹氏をお招きします。\n働き方やキャリア観が大きく変化する中、就職活動をする上での大切なポイントである企業選び、キャリアの描き方などについて解説します。\n就活生のみでなく全学生が対象ですので1，2年生のみなさんもぜひご参加ください。\n\n【…",
             "date_modified": "2024-02-07T03:00:00.000Z"
         }
     ]
