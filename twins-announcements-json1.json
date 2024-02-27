@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "a996564871725d950fce50ae4a85070e",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4879",
+            "title": "【オンライン直前セミナーまであと2日！！】３/１,４‐６開催　筑波大学就職ミライ博2023 合同企業説明会Part１",
+            "summary": "筑波大学BHEキャリア支援チーム主催イベント\n164社の企業・団体・官公庁が集まる「合同企業説明会Part１」が3月1日(金)から開催されます！\n前日の2月29日には、合説を十分活用するコツを伝授する「直前セミナー」、\n開催2日目(3月4日)には、筑波大OBでオープンワーク株式会社 取締役社長の大澤氏による\n特別セミナーもあります！(事前申込が必要です！)\n\n出展企業のPR動画をYouTubeで限…",
+            "date_modified": "2024-02-27T03:00:00.000Z"
+        },
+        {
             "id": "a55db10493953a94abd35dc440b6e07e",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4878",
             "title": "【チケット先行販売中】筑波大学ホームゲーム「TSUKUBA LIVE!」（男子バスケ・vs東海大）",
@@ -136,13 +143,6 @@
             "title": "【BHE合同企業説明会特別講演】激動の時代でも選ばれ続けるキャリアの作り方～２人に１人の就活生が利用するOpenWorkのデータから読み解く就活必勝法～",
             "summary": "合同企業説明会特別講演についてのお知らせです。\n累計1000万件以上の口コミからなる就職・転職サイトオープンワーク株式会社の取締役社長であり本学のOBでもある大澤陽樹氏をお招きします。\n働き方やキャリア観が大きく変化する中、就職活動をする上での大切なポイントである企業選び、キャリアの描き方などについて解説します。\n就活生のみでなく全学生が対象ですので1，2年生のみなさんもぜひご参加ください。\n\n【…",
             "date_modified": "2024-02-07T03:00:00.000Z"
-        },
-        {
-            "id": "e4d8386ecab96402f1393ee8690d75ae",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4840",
-            "title": "留学生のチューター募集について（2024年度春学期）",
-            "summary": "留学生と交流したい、または留学生をサポートしたいと思っている正規課程の在学生の皆さん、ぜひチューターになってみませんか？\n\n2024年4月に多くの留学生が入学する予定です。\nこれに伴い、チューター支援（主に生活の立ち上げ支援（原則対面））を\n行ってくださるチューターを大募集しています！！！！\n\nチューター希望の学生は、下記URL上の「チューターバンク」に記載の登録方法に従い、チューターバンクに登録…",
-            "date_modified": "2024-02-06T03:00:00.000Z"
         }
     ]
 }
