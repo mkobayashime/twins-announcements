@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "af841e636076093a2269457444e48cc8",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4883",
+            "title": "【注意喚起】本学構内における不審者の出没について／[caution] Suspicious Persons on the University's Campus",
+            "summary": "2月27日（火）21時45分ごろ、本部南ゲート駐車場付近において、駐車場利用者の後をつけて、車まで近づいてくる男性の不審者が出没しました。\nキャンパス内を移動する際には、不審者がいないか、不審な点がないか十分気をつけてください。\nキャンパス内で不審者・不審物の情報があれば、速やかに最寄りの警備員室または本部防災センター（029-853-2079）へご連絡ください。\n※緊急の場合はすぐに110番通報…",
+            "date_modified": "2024-02-28T03:00:00.000Z"
+        },
+        {
             "id": "2a4a06d2e2cf2377e54762533dd8408c",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4882",
             "title": "Application for Spring 2024 to Suzuki Scholarship sponsored by “Make a Difference in the World Fund”",
@@ -136,13 +143,6 @@
             "title": "2024年度私費外国人留学生各種奨学金4月期追加募集",
             "summary": "下記のとおり、募集します。\n希望者は、リンクの募集要項等を確認の上、期限内に申請してください。\n\n申請期間：2024年4月1日（月）から4月12日（金）\n提出先：自分の所属する支援室の教務又は学位プログラム事務室等\n",
             "date_modified": "2024-02-09T03:00:00.000Z"
-        },
-        {
-            "id": "605f33336d3d30324f873248021e9aae",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4848",
-            "title": "【BHEキャリア支援チーム主催】筑波大学就職ミライ博2023「合同企業説明会Part１」のご案内",
-            "summary": "3/1（金）、4（月）～6（水）の4日間、\n筑波大学BHEキャリア支援チーム主催イベント\n「筑波大学就職ミライ博2023　合同企業説明会Part１」を開催します！\n\n筑波大学就職ミライ博とは…？\n筑波大生だけが参加できる、筑波大生のための、学内最大の就活イベントです。\n参加対象は全学群生・全大学院生です！\n\n出展する企業、団体、官公庁は添付チラシや特設サイトから確認できます。\n出展企業は毎日変わり…",
-            "date_modified": "2024-02-08T03:00:00.000Z"
         }
     ]
 }

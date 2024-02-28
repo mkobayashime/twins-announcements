@@ -4,10 +4,20 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Wed, 28 Feb 2024 01:45:43 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 28 Feb 2024 05:13:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
+        <item>
+            <title><![CDATA[【注意喚起】本学構内における不審者の出没について／[caution] Suspicious Persons on the University's Campus]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4883</link>
+            <guid>af841e636076093a2269457444e48cc8</guid>
+            <pubDate>Wed, 28 Feb 2024 03:00:00 GMT</pubDate>
+            <description><![CDATA[2月27日（火）21時45分ごろ、本部南ゲート駐車場付近において、駐車場利用者の後をつけて、車まで近づいてくる男性の不審者が出没しました。
+キャンパス内を移動する際には、不審者がいないか、不審な点がないか十分気をつけてください。
+キャンパス内で不審者・不審物の情報があれば、速やかに最寄りの警備員室または本部防災センター（029-853-2079）へご連絡ください。
+※緊急の場合はすぐに110番通報…]]></description>
+        </item>
         <item>
             <title><![CDATA[Application for Spring 2024 to Suzuki Scholarship sponsored by “Make a Difference in the World Fund”]]></title>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4882</link>
@@ -236,22 +246,6 @@ https://us02web.zoom.us/j/81800917173?pwd=c3VqamtrK3BvVGx…]]></description>
 申請期間：2024年4月1日（月）から4月12日（金）
 提出先：自分の所属する支援室の教務又は学位プログラム事務室等
 ]]></description>
-        </item>
-        <item>
-            <title><![CDATA[【BHEキャリア支援チーム主催】筑波大学就職ミライ博2023「合同企業説明会Part１」のご案内]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4848</link>
-            <guid>605f33336d3d30324f873248021e9aae</guid>
-            <pubDate>Thu, 08 Feb 2024 03:00:00 GMT</pubDate>
-            <description><![CDATA[3/1（金）、4（月）～6（水）の4日間、
-筑波大学BHEキャリア支援チーム主催イベント
-「筑波大学就職ミライ博2023　合同企業説明会Part１」を開催します！
-
-筑波大学就職ミライ博とは…？
-筑波大生だけが参加できる、筑波大生のための、学内最大の就活イベントです。
-参加対象は全学群生・全大学院生です！
-
-出展する企業、団体、官公庁は添付チラシや特設サイトから確認できます。
-出展企業は毎日変わり…]]></description>
         </item>
     </channel>
 </rss>
