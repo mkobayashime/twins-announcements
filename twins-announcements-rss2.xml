@@ -4,10 +4,26 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Wed, 28 Feb 2024 05:13:15 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 28 Feb 2024 06:15:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
+        <item>
+            <title><![CDATA[【周知】人社公開講座「人文社会系女子のキャリア形成」（最終回：3月6日（水）15時15分～）]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4884</link>
+            <guid>b9db3a90fb05d37a75655cd35c862a6f</guid>
+            <pubDate>Wed, 28 Feb 2024 03:00:00 GMT</pubDate>
+            <description><![CDATA[人文社会科学研究群公開講座「人文社会系女子のキャリア形成――自分と社会のつなぎ方」のお知らせ
+
+人文社会公開講座「人文社会系女子のキャリア形成」の最終回 が3月6日に行われます。
+（2月28日(水)に予定していましたが、変更になりました。）
+
+日時　　3月6日（水）15時15分～
+方法       3A416 (前回と部屋が異なります)
+
+参加 Zoom ミーティング
+https://us02we…]]></description>
+        </item>
         <item>
             <title><![CDATA[【注意喚起】本学構内における不審者の出没について／[caution] Suspicious Persons on the University's Campus]]></title>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4883</link>
@@ -234,18 +250,6 @@ https://us02web.zoom.us/j/81800917173?pwd=c3VqamtrK3BvVGx…]]></description>
 人間学群 心理学類：2013年卒業
 
 【申込期間】2…]]></description>
-        </item>
-        <item>
-            <title><![CDATA[2024年度私費外国人留学生各種奨学金4月期追加募集]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4855</link>
-            <guid>a297812d05631debef2606261c821ea1</guid>
-            <pubDate>Fri, 09 Feb 2024 03:00:00 GMT</pubDate>
-            <description><![CDATA[下記のとおり、募集します。
-希望者は、リンクの募集要項等を確認の上、期限内に申請してください。
-
-申請期間：2024年4月1日（月）から4月12日（金）
-提出先：自分の所属する支援室の教務又は学位プログラム事務室等
-]]></description>
         </item>
     </channel>
 </rss>

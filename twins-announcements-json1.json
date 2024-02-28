@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "b9db3a90fb05d37a75655cd35c862a6f",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4884",
+            "title": "【周知】人社公開講座「人文社会系女子のキャリア形成」（最終回：3月6日（水）15時15分～）",
+            "summary": "人文社会科学研究群公開講座「人文社会系女子のキャリア形成――自分と社会のつなぎ方」のお知らせ\n\n人文社会公開講座「人文社会系女子のキャリア形成」の最終回 が3月6日に行われます。\n（2月28日(水)に予定していましたが、変更になりました。）\n\n日時　　3月6日（水）15時15分～\n方法       3A416 (前回と部屋が異なります)\n\n参加 Zoom ミーティング\nhttps://us02we…",
+            "date_modified": "2024-02-28T03:00:00.000Z"
+        },
+        {
             "id": "af841e636076093a2269457444e48cc8",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4883",
             "title": "【注意喚起】本学構内における不審者の出没について／[caution] Suspicious Persons on the University's Campus",
@@ -135,13 +142,6 @@
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4857",
             "title": "（BHE)茗渓会　『就活についてのぶっちゃけ質問会・相談会』』",
             "summary": "毎月2名のOBOGが登壇し、就職についてキャリアについて\n気軽に話ができるイベントです。\n\n2/14（水）21：00～22:00@オンライン開催\n\n【登壇者No.1】NHK（日本放送協会）（メディア総局・メディアイノベーションセンター）\n自然学類：2009年卒／数理物質研究科：2011年修了\n\n【登壇者No.2】ルビーイン株式会社（代表取締役）\n人間学群 心理学類：2013年卒業\n\n【申込期間】2…",
-            "date_modified": "2024-02-09T03:00:00.000Z"
-        },
-        {
-            "id": "a297812d05631debef2606261c821ea1",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4855",
-            "title": "2024年度私費外国人留学生各種奨学金4月期追加募集",
-            "summary": "下記のとおり、募集します。\n希望者は、リンクの募集要項等を確認の上、期限内に申請してください。\n\n申請期間：2024年4月1日（月）から4月12日（金）\n提出先：自分の所属する支援室の教務又は学位プログラム事務室等\n",
             "date_modified": "2024-02-09T03:00:00.000Z"
         }
     ]
