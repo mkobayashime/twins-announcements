@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "49cedba2698c940ad9eef4b61a13fe00",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4886",
+            "title": "リマインド【BHE合同企業説明会特別講演】激動の時代でも選ばれ続けるキャリアの作り方～２人に１人の就活生が利用するOpenWorkのデータから読み解く就活必勝法～",
+            "summary": "※お申込み期限を延長しました！3月3日(日)まで\n合同企業説明会特別講演についてのお知らせです。\n累計1000万件以上の口コミからなる就職・転職サイトオープンワーク株式会社の取締役社長であり本学のOBでもある大澤陽樹氏をお招きします。\n働き方やキャリア観が大きく変化する中、就職活動をする上での大切なポイントである企業選び、キャリアの描き方などについて解説します。\n就活生のみでなく全学生が対象ですの…",
+            "date_modified": "2024-02-29T03:00:00.000Z"
+        },
+        {
             "id": "54107e3aa847a6ab6398c32ae44477b9",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4885",
             "title": "【【本日オンライン直前セミナー開催！！】】３/１,４‐６開催　筑波大学就職ミライ博2023 合同企業説明会Part１",
@@ -136,13 +143,6 @@
             "title": "図書館システム更新に伴うサービス・機能の一時停止について(2/15-2/29)",
             "summary": "筑波大学附属図書館は2月に図書館システムの更新作業を予定しています。それに伴い一時的に利用できないサービスが発生しますので、ご案内します。\n詳細は以下のURLをご確認ください。\n\n[停止するサービス]\n2月19日(月)～2月20日(火)\n　・OPAC（蔵書検索）\n\n2月15日(木)12時～2月29日(木)14時\n　・予約・取り寄せ\n\n2月19日(月)9時～2月29日(木)14時\n　・貸出図書の更新…",
             "date_modified": "2024-02-15T03:00:00.000Z"
-        },
-        {
-            "id": "27b7022e8265d35d021b175078e71456",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4861",
-            "title": "【周知】人社公開講座「人文社会系女子のキャリア形成」（第九回：本日2月14日 欧州企業編）",
-            "summary": "人文社会科学研究群公開講座「人文社会系女子のキャリア形成――自分と社会のつなぎ方」のお知らせ\n\n【第九回：欧州企業編 (シェンカーからラルフローレンへ)】\n\n日時　　2月14日（水）4時45分～\n方法       3A403 (先週と部屋が異なります)\n\n参加 Zoom ミーティング\nhttps://us02web.zoom.us/j/81800917173?pwd=c3VqamtrK3BvVGx…",
-            "date_modified": "2024-02-14T03:00:00.000Z"
         }
     ]
 }
