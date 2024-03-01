@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "0b300d4b1d44c1cbaa31e4eccd192fba",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4889",
+            "title": "【BHE主催】就職ミライ博・合説Part１【本日から開催！！】（会場：大学会館）",
+            "summary": "本日から、筑波大学就職ミライ博2023\n「合同企業説明会Part１」が大学会館で開催されます！\n\n受付は13時半からの予定です。\nこれから晴れる予報ですが、まだ足元が悪い可能性があるので気を付けてお越しください。\n\n3/1の出展企業は39社\nNEC（日本電気(株)）、ＮＴＴコムウェア、ナビタイムなどソフトウェアの業種が多め。\nメーカーは日立製作所、三菱電機、富士電機、キヤノンメディカルシステムズな…",
+            "date_modified": "2024-03-01T03:00:00.000Z"
+        },
+        {
             "id": "b282e746d5d1e60b1818f49421f959af",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4888",
             "title": "「筑波大学マレーシア校学内向け説明会」の開催について（3月11日（月）15時～16時半）",
@@ -136,13 +143,6 @@
             "title": "筑波大学「世界を変えよう基金」能登半島地震災害ボランティア活動支援奨学金募集のお知らせ",
             "summary": "筑波大学「世界を変えよう基金」では、災害支援ボランティア活動を行う学生に対し、現地までの交通費半額を奨学金として支給する災害ボランティア活動支援制度を2019年に設立しました。\n\n今回の能登半島地震に際して災害ボランティア活動に参加する学生からの支援申請を受け付けています。\n支援の条件は下記のとおりです。\n・災害ボランティア活動に出発する1週間前に、支援申請書を提出すること\n・災害ボランティア活動…",
             "date_modified": "2024-02-20T03:00:00.000Z"
-        },
-        {
-            "id": "4c8c68a269065f3c21c0e77b6faf2ac8",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4869",
-            "title": "【BHEキャリア支援チーム主催】３/１,４‐６開催　筑波大学就職ミライ博2023　合同企業説明会Part１のご案内",
-            "summary": "3/1（金）、4（月）～6（水）の4日間、\n筑波大学BHEキャリア支援チーム主催イベント\n164社の企業・団体・官公庁が集まる「合同企業説明会Part１」が3月1日(金)から開催されます！\n前日の2月29日には、合説を十分活用するコツを伝授する「直前セミナー」、\n開催2日目(3月4日)には、筑波大OBでオープンワーク株式会社 取締役社長の大澤氏による\n特別セミナーもあります！(事前申込が必要です！…",
-            "date_modified": "2024-02-16T03:00:00.000Z"
         }
     ]
 }
