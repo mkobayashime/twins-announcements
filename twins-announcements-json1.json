@@ -5,6 +5,20 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "b282e746d5d1e60b1818f49421f959af",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4888",
+            "title": "「筑波大学マレーシア校学内向け説明会」の開催について（3月11日（月）15時～16時半）",
+            "summary": "在学生の皆様へ\n\n筑波大学マレーシア校（学際サイエンス・デザイン専門学群）は、2024 年9 月にマレーシアの首都クアラルンプールで開校します。2023 年12 月には、マレーシアにおける高等教育の質保証を担う政府機関「マレーシア資格機構」（MQA）から、教育課程に関する認定を受けました。日本の大学の学位を授与する学部相当の組織を海外で設置するのは初めてです。\nこのたび、学内向け説明会を実施するこ…",
+            "date_modified": "2024-03-01T03:00:00.000Z"
+        },
+        {
+            "id": "f9f47669b11c48d571532a47ae836e07",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4887",
+            "title": "令和６年度学生定期健康診断について　Announcement on the AY2024 Student Health Examination",
+            "summary": "令和６年度の学生定期健康診断を、身体検査とこころの健康調査に分けて実施します。必ず受診してください。\n\n身体検査\n４月１１日（木）から４月２３日（火）で実施されます。\n指定日時内の希望の時間を保健管理センターのホームページにて予約してください。\n\nこころの健康調査\n４月１１日(木) から５月３１日(金)で実施されます。\n学習管理システム（manaba）での回答となります。\n\n詳細は以下のPDFまた…",
+            "date_modified": "2024-03-01T03:00:00.000Z"
+        },
+        {
             "id": "2b7434daab5abc28ddee6b9b5e612f57",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4873",
             "title": "筑波大学公式オリジナルグッズECサイト割引クーポンのお知らせ（3月）",
@@ -129,20 +143,6 @@
             "title": "【BHEキャリア支援チーム主催】３/１,４‐６開催　筑波大学就職ミライ博2023　合同企業説明会Part１のご案内",
             "summary": "3/1（金）、4（月）～6（水）の4日間、\n筑波大学BHEキャリア支援チーム主催イベント\n164社の企業・団体・官公庁が集まる「合同企業説明会Part１」が3月1日(金)から開催されます！\n前日の2月29日には、合説を十分活用するコツを伝授する「直前セミナー」、\n開催2日目(3月4日)には、筑波大OBでオープンワーク株式会社 取締役社長の大澤氏による\n特別セミナーもあります！(事前申込が必要です！…",
             "date_modified": "2024-02-16T03:00:00.000Z"
-        },
-        {
-            "id": "7efd0c1f83f69b79024461c9c5342f36",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4867",
-            "title": "【重要】有効期限切れの学生証の更新について/【Notice】Regarding Renewal of Expired Student ID Card",
-            "summary": "　令和６年３月末に有効期限が切れる学生証をお持ちの方（留学予定者等）は更新手続きが必要となりますので、添付ファイルのとおり手続きしてください。\n　\n　学生部／学生生活課\n",
-            "date_modified": "2024-02-16T03:00:00.000Z"
-        },
-        {
-            "id": "27b7022e8265d35d021b175078e71456",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4861",
-            "title": "【周知】人社公開講座「人文社会系女子のキャリア形成」（第九回：本日2月14日 欧州企業編）",
-            "summary": "人文社会科学研究群公開講座「人文社会系女子のキャリア形成――自分と社会のつなぎ方」のお知らせ\n\n【第九回：欧州企業編 (シェンカーからラルフローレンへ)】\n\n日時　　2月14日（水）4時45分～\n方法       3A403 (先週と部屋が異なります)\n\n参加 Zoom ミーティング\nhttps://us02web.zoom.us/j/81800917173?pwd=c3VqamtrK3BvVGx…",
-            "date_modified": "2024-02-14T03:00:00.000Z"
         }
     ]
 }
