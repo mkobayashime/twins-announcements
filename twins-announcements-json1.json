@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "1433b3488f39e26205c3c10cd857450d",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4890",
+            "title": "「ヨーロッパ絵画を楽しむ会」アシスタント募集のお知らせ",
+            "summary": "「筑波大学・世界を変えよう基金アカデミー」は、毎年春学期に「日本絵画を楽しむ会」を開催しています。次回開催に先立ち、「楽しむ会」で鑑賞するヨーロッパ絵画資料を分析・調査する学部生アシスタント若干名を募集します。\n課題は下記のとおりです。\n〇「筑波大学・世界を変えよう基金アカデミー」が収集した絵画画像約2000~3000点（主としてヨーロッパ絵画ですが、日本絵画を含みます）を総覧し、一つの色彩（例え…",
+            "date_modified": "2024-03-01T03:00:00.000Z"
+        },
+        {
             "id": "0b300d4b1d44c1cbaa31e4eccd192fba",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4889",
             "title": "【BHE主催】就職ミライ博・合説Part１【本日から開催！！】（会場：大学会館）",
@@ -135,13 +142,6 @@
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4871",
             "title": "【単位認定】日本語サポーター募集！（TWINS締切 3/15）",
             "summary": "茨城県の中学校と連携して、外国にルーツのある子どもたちの日本語学習や教科学習のサポートをする「日本語サポーター」を募集します。4月からの1年間、授業の空き時間を利用して活動を行い、活動時間に応じて単位認定されます。学類や専門は問いません。自分の得意分野を活かして一緒に活動してみませんか。\n\n日本語サポーターになるためには、下記の授業を履修してください。\n\n科目番号：AE14H22（1単位）\n科目名…",
-            "date_modified": "2024-02-20T03:00:00.000Z"
-        },
-        {
-            "id": "7822db0d8a420129b6852291d8a83002",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4870",
-            "title": "筑波大学「世界を変えよう基金」能登半島地震災害ボランティア活動支援奨学金募集のお知らせ",
-            "summary": "筑波大学「世界を変えよう基金」では、災害支援ボランティア活動を行う学生に対し、現地までの交通費半額を奨学金として支給する災害ボランティア活動支援制度を2019年に設立しました。\n\n今回の能登半島地震に際して災害ボランティア活動に参加する学生からの支援申請を受け付けています。\n支援の条件は下記のとおりです。\n・災害ボランティア活動に出発する1週間前に、支援申請書を提出すること\n・災害ボランティア活動…",
             "date_modified": "2024-02-20T03:00:00.000Z"
         }
     ]
