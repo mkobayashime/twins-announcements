@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "ccf0d3a531667c19ed284890e7afa21a",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4892",
+            "title": "【BHE主催】就職ミライ博・合説Part１【本日2日目！！】12：45から特別セミナーも開催！（会場：大学会館）",
+            "summary": "筑波大学就職ミライ博2023\n「合同企業説明会Part１」が大学会館で開催！\n\n本日の受付は、特別セミナー開催のため12：15開始です！！\n\n3/4(月) の出展企業は41社（茨城に勤務地がある企業等が多く出展します！）\nソフトウェア：NRIネットコム、ＪＥＭＳ、日本電信電話など\nメーカー：ソニーグループ、フレクストロニクス・インターナショナル、スミハツなど\nその他：茨城県、つくば市役所、常陽銀行…",
+            "date_modified": "2024-03-04T03:00:00.000Z"
+        },
+        {
             "id": "d07de3a2549e9d1109e19fd73f9711de",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4891",
             "title": "STOP！研究費不正使用！／STOP！Wrongful use of research funding！",
@@ -135,13 +142,6 @@
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4874",
             "title": "【経済支援（再掲）】令和６年能登半島地震にかかる災害救助法適用地域の世帯の学生・生徒に対する奨学金について",
             "summary": "在学生　各位\n\n1月22日に震災に係る緊急支援についてお知らせし、申請期限を2月22日（木）までとしていましたが、\n罹災証明書等や損壊額を証明する書類の発行がすぐにできないこと等を考慮し、申請期限後も随時書類提出を受け付けますのでご相談ください。\nなお、被災により困っていること等ある場合には、遠慮なく所属するエリア支援室（学生支援担当）又は学生生活課まで個別にご相談ください。\n\n以上\n",
-            "date_modified": "2024-02-21T03:00:00.000Z"
-        },
-        {
-            "id": "7a9b01b19be73cc89a24e7501dfc664d",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4872",
-            "title": "[Notice] 安全保障輸出管理のための誓約書提出のお願いRequest for Submission of Pledge for Security Export Control",
-            "summary": "2023年度大学院修了予定者（退学等を含む）の皆様へ\nTo prospective graduate school graduates in AY2023 (including those who will withdraw)\n大学院修了にあたり、外国為替及び外国貿易法遵守の”誓約書（修了時）”提出をお願いしております。ご理解とご協力をよろしくお願いいたします\nIn order to comply…",
             "date_modified": "2024-02-21T03:00:00.000Z"
         }
     ]

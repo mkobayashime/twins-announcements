@@ -2,10 +2,25 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/mkobayashime/twins-announcements</id>
     <title>在学生へのお知らせ | 筑波大学</title>
-    <updated>2024-03-03T15:17:34.494Z</updated>
+    <updated>2024-03-04T02:01:45.579Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://github.com/mkobayashime/twins-announcements"/>
     <subtitle>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</subtitle>
+    <entry>
+        <title type="html"><![CDATA[【BHE主催】就職ミライ博・合説Part１【本日2日目！！】12：45から特別セミナーも開催！（会場：大学会館）]]></title>
+        <id>ccf0d3a531667c19ed284890e7afa21a</id>
+        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4892"/>
+        <updated>2024-03-04T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[筑波大学就職ミライ博2023
+「合同企業説明会Part１」が大学会館で開催！
+
+本日の受付は、特別セミナー開催のため12：15開始です！！
+
+3/4(月) の出展企業は41社（茨城に勤務地がある企業等が多く出展します！）
+ソフトウェア：NRIネットコム、ＪＥＭＳ、日本電信電話など
+メーカー：ソニーグループ、フレクストロニクス・インターナショナル、スミハツなど
+その他：茨城県、つくば市役所、常陽銀行…]]></summary>
+    </entry>
     <entry>
         <title type="html"><![CDATA[STOP！研究費不正使用！／STOP！Wrongful use of research funding！]]></title>
         <id>d07de3a2549e9d1109e19fd73f9711de</id>
@@ -235,15 +250,5 @@ URL：https://diversity.tsukuba…]]></summary>
 
 以上
 ]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[Notice] 安全保障輸出管理のための誓約書提出のお願いRequest for Submission of Pledge for Security Export Control]]></title>
-        <id>7a9b01b19be73cc89a24e7501dfc664d</id>
-        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4872"/>
-        <updated>2024-02-21T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[2023年度大学院修了予定者（退学等を含む）の皆様へ
-To prospective graduate school graduates in AY2023 (including those who will withdraw)
-大学院修了にあたり、外国為替及び外国貿易法遵守の”誓約書（修了時）”提出をお願いしております。ご理解とご協力をよろしくお願いいたします
-In order to comply…]]></summary>
     </entry>
 </feed>
