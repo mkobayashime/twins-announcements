@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "7fa857747b27cc5ca144f50019b52166",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4907",
+            "title": "令和５年度筑波大学海外留学支援事業（はばたけ！筑大生） 海外武者修行支援プログラム帰国報告会の実施について（お知らせ）",
+            "summary": "\n１．日時：令和６年３月７日（木）１４時００分～１６時００分\n\n２．会場：総合研究棟Ａ　１１０公開講義室\n\n３．帰国報告会次第　　　\n（１）開会\n\n（２）挨拶（副学長）\n\n（３）評価方法説明\n\n（４）発表  （プレゼンテーション５分・質疑応答４分・準備１分）\n\n　①良い死とは－安楽死の現場から－（オランダ）\n　　　　企画代表者（所属）：人間学群心理学類\n　②iGEMへの出場（フランス）\n　　　　企…",
+            "date_modified": "2024-03-05T03:00:00.000Z"
+        },
+        {
             "id": "b7e26ddd7f555bc3f2ddf417185ae86f",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4906",
             "title": "\"Important reminder\"安全保障輸出管理誓約書提出のお願いRequest for Submission of Pledge for Security Export Control",
@@ -136,13 +143,6 @@
             "title": "【チケット先行販売中】筑波大学ホームゲーム「TSUKUBA LIVE!」（男子バスケ・vs東海大）",
             "summary": "3月26日（火）に筑波大学ホームゲーム「TSUKUBA LIVE!」を開催します！\n本日より筑波大学関係者（学生・教職員）とつくば市に在住・在勤の方が対象のチケット先行販売がスタートしました！\n\n今回の競技は男子バスケットボール、対戦カードは筑波大学vs東海大学です。\n\n会場には様々な企画・ブースも出店し、試合以外でも楽しめるホームゲームなので、スポーツ観戦デビューをしたい筑波大生にもぴったりの機…",
             "date_modified": "2024-02-27T03:00:00.000Z"
-        },
-        {
-            "id": "da97aee077978fe513284a803c59c856",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4877",
-            "title": "【直前セミナーまであと3日！！】３/１,４‐６開催　筑波大学就職ミライ博2023 合同企業説明会Part１",
-            "summary": "3/1（金）、4（月）～6（水）の4日間、\n筑波大学BHEキャリア支援チーム主催イベント\n164社の企業・団体・官公庁が集まる「合同企業説明会Part１」が3月1日(金)から開催されます！\n前日の2月29日には、合説を十分活用するコツを伝授する「直前セミナー」、\n開催2日目(3月4日)には、筑波大OBでオープンワーク株式会社 取締役社長の大澤氏による\n特別セミナーもあります！(事前申込が必要です！…",
-            "date_modified": "2024-02-26T03:00:00.000Z"
         }
     ]
 }
