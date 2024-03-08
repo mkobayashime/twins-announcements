@@ -4,10 +4,22 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Thu, 07 Mar 2024 21:15:53 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 Mar 2024 01:43:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
+        <item>
+            <title><![CDATA[3/13（18:15～）平井氏講演会「スポーツ経済学への誘い」（学生・教員対象）]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4911</link>
+            <guid>fb29a4a2aed168be5bee726e438ead57</guid>
+            <pubDate>Fri, 08 Mar 2024 03:00:00 GMT</pubDate>
+            <description><![CDATA[TSUKUBA社会国際学初年次チュートリアルプログラムでは、3月13日（水）18時15分から公開講演会を開催いたします。
+講師は西南学院大学 経済学部 経済学科・教授の平井秀明氏で、「スポーツ経済学への誘い」という題目で講演していただきます。
+筑波大学の学生・教員でしたらどなたでもご参加いただけます。奮ってご参加下さい。
+
+「経済学の最前線チュートリアル」主催講演会
+日時：3月13日（水）18時1…]]></description>
+        </item>
         <item>
             <title><![CDATA[【Now On Sale】University of Tsukuba Homegame TSUKUBA LIVE!]]></title>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4910</link>
@@ -237,21 +249,6 @@ In order to comply…]]></description>
 　
 　学生部／学生生活課
 ]]></description>
-        </item>
-        <item>
-            <title><![CDATA[【周知】人社公開講座「人文社会系女子のキャリア形成」（第九回：本日2月14日 欧州企業編）]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4861</link>
-            <guid>27b7022e8265d35d021b175078e71456</guid>
-            <pubDate>Wed, 14 Feb 2024 03:00:00 GMT</pubDate>
-            <description><![CDATA[人文社会科学研究群公開講座「人文社会系女子のキャリア形成――自分と社会のつなぎ方」のお知らせ
-
-【第九回：欧州企業編 (シェンカーからラルフローレンへ)】
-
-日時　　2月14日（水）4時45分～
-方法       3A403 (先週と部屋が異なります)
-
-参加 Zoom ミーティング
-https://us02web.zoom.us/j/81800917173?pwd=c3VqamtrK3BvVGx…]]></description>
         </item>
     </channel>
 </rss>
