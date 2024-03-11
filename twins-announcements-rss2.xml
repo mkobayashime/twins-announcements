@@ -4,10 +4,23 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Mon, 11 Mar 2024 09:18:42 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 Mar 2024 15:14:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
+        <item>
+            <title><![CDATA[【チケット販売中】筑波大学ホームゲーム「TSUKUBA LIVE!」（男子バスケ・vs東海大）]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4905</link>
+            <guid>74dfbc9595832f92c43463a266925690</guid>
+            <pubDate>Tue, 12 Mar 2024 03:00:00 GMT</pubDate>
+            <description><![CDATA[3月26日（火）につくばカピオで開催する筑波大学ホームゲーム「TSUKUBA LIVE!」のご案内です
+
+今回の競技は男子バスケットボール、対戦カードは筑波大学vs東海大学です。
+
+会場には様々な企画・ブースも出店し、試合以外でも楽しめるホームゲームなので、スポーツ観戦デビューをしたい筑波大生にもぴったりの機会です！
+
+筑波大生には限定応援席として「本気で応援席」（数量限定・特別特典つき）」を準備…]]></description>
+        </item>
         <item>
             <title><![CDATA[【開催通知】薬品・高圧ガス管理システム説明会]]></title>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4917</link>
@@ -25,16 +38,6 @@
             <description><![CDATA[グローバルコミュニケーション教育センター（CEGLOC）が開講する日本語コースの受講を希望する留学生等は、下記のリンクから受講手続を確認してください。
 
 If you are interested in the Japanese Language Courses offered by the Center for Education of Global Communication (CEGLOC)…]]></description>
-        </item>
-        <item>
-            <title><![CDATA[※申込延長：3月11日（月）13時〆 ※「筑波大学マレーシア校学内向け説明会」の開催について（3月11日（月）15時～16時半）]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4915</link>
-            <guid>b11f71b6b8c731ac93caacfd33235244</guid>
-            <pubDate>Fri, 08 Mar 2024 03:00:00 GMT</pubDate>
-            <description><![CDATA[在学生の皆様へ
-
-筑波大学マレーシア校（学際サイエンス・デザイン専門学群）は、2024 年9 月にマレーシアの首都クアラルンプールで開校します。2023 年12 月には、マレーシアにおける高等教育の質保証を担う政府機関「マレーシア資格機構」（MQA）から、教育課程に関する認定を受けました。日本の大学の学位を授与する学部相当の組織を海外で設置するのは初めてです。
-このたび、学内向け説明会を実施するこ…]]></description>
         </item>
         <item>
             <title><![CDATA[（配信開始）令和7年度採用を目指す日本学術振興会特別研究員説明会の講演について]]></title>
@@ -72,15 +75,6 @@ If you are interested in the Japanese Language Courses offered by the Center for
 日時：3月13日（水）18時1…]]></description>
         </item>
         <item>
-            <title><![CDATA[【Now On Sale】University of Tsukuba Homegame TSUKUBA LIVE!]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4910</link>
-            <guid>d70e4396aa8f1aff5f9ec675d222cc1d</guid>
-            <pubDate>Wed, 06 Mar 2024 03:00:00 GMT</pubDate>
-            <description><![CDATA[On March 26 (Tue.) at 14:30, there will be a basketball match!
-
-The University of Tsukuba 5 times All Japan University Basketball Champion will go against Tokai University 6 times All Japan University…]]></description>
-        </item>
-        <item>
             <title><![CDATA[【重要】2023年度授業料の納入督促について]]></title>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4909</link>
             <guid>dd57b45f98893fee77826ea4972cb022</guid>
@@ -95,23 +89,10 @@ The University of Tsukuba 5 times All Japan University Basketball Champion will 
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4906</link>
             <guid>b7e26ddd7f555bc3f2ddf417185ae86f</guid>
             <pubDate>Tue, 05 Mar 2024 03:00:00 GMT</pubDate>
-            <description><![CDATA["Important reminder"2023年度大学院修了予定者（退学等を含む）の皆様へ
-To prospective graduate school graduates in AY2023 (including those who will withdraw)
-大学院修了にあたり、外国為替及び外国貿易法遵守の”誓約書（修了時）”提出をお願いしております。ご理解とご協力をよろしくお願いいたしま…]]></description>
-        </item>
-        <item>
-            <title><![CDATA[【チケット一般販売開始】筑波大学ホームゲーム「TSUKUBA LIVE!」（男子バスケ・vs東海大）]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4904</link>
-            <guid>80ee5c9940bceb4b481bab474dfc8586</guid>
-            <pubDate>Tue, 05 Mar 2024 03:00:00 GMT</pubDate>
-            <description><![CDATA[3月26日（火）に筑波大学ホームゲーム「TSUKUBA LIVE!」を開催します！
-本日よりすべての方を対象にチケット販売がスタートしました！
+            <description><![CDATA[2023年度分授業料未納者は、「払込取扱票」が送付されているので、再度確認の上、速やかに金融機関窓口にて納付されるようお願いします。
+納付されないときは、本学学則による除籍処分となります。
 
-今回の競技は男子バスケットボール、対戦カードは筑波大学vs東海大学です。
-
-会場には様々な企画・ブースも出店し、試合以外でも楽しめるホームゲームなので、スポーツ観戦デビューをしたい筑波大生にもぴったりの機会です！
-
-筑波大生には限定応援席として「本気で応…]]></description>
+※本掲示は全ての学生・教員に通知しております。]]></description>
         </item>
         <item>
             <title><![CDATA[STOP！研究費不正使用！／STOP！Wrongful use of research funding！]]></title>
@@ -232,6 +213,28 @@ https://us02we…]]></description>
 
 以上
 ]]></description>
+        </item>
+        <item>
+            <title><![CDATA[[Notice] 安全保障輸出管理のための誓約書提出のお願いRequest for Submission of Pledge for Security Export Control]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4872</link>
+            <guid>7a9b01b19be73cc89a24e7501dfc664d</guid>
+            <pubDate>Wed, 21 Feb 2024 03:00:00 GMT</pubDate>
+            <description><![CDATA[2023年度大学院修了予定者（退学等を含む）の皆様へ
+To prospective graduate school graduates in AY2023 (including those who will withdraw)
+大学院修了にあたり、外国為替及び外国貿易法遵守の”誓約書（修了時）”提出をお願いしております。ご理解とご協力をよろしくお願いいたします
+In order to comply…]]></description>
+        </item>
+        <item>
+            <title><![CDATA[【単位認定】日本語サポーター募集！（TWINS締切 3/15）]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4871</link>
+            <guid>1b8f2792f9cf0e5ac0428b9e0b7cd170</guid>
+            <pubDate>Tue, 20 Feb 2024 03:00:00 GMT</pubDate>
+            <description><![CDATA[茨城県の中学校と連携して、外国にルーツのある子どもたちの日本語学習や教科学習のサポートをする「日本語サポーター」を募集します。4月からの1年間、授業の空き時間を利用して活動を行い、活動時間に応じて単位認定されます。学類や専門は問いません。自分の得意分野を活かして一緒に活動してみませんか。
+
+日本語サポーターになるためには、下記の授業を履修してください。
+
+科目番号：AE14H22（1単位）
+科目名…]]></description>
         </item>
     </channel>
 </rss>
