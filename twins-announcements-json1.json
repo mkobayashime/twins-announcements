@@ -5,6 +5,20 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "90c7b968b5fffac084bcdb75b7b993e3",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4917",
+            "title": "【開催通知】薬品・高圧ガス管理システム説明会",
+            "summary": "令和６年度から、原則全ての試薬及び高圧ガスの薬品・高圧ガス管理システム「Tsukuba-CRIS」（以下「CRIS」という。）への登録、1年に1度以上の定期的な棚卸が義務化されます。化学物質管理強化方針、CRISの使用方法及び棚卸についての説明会を開催いたしますので、試薬及び高圧ガスを使用される教職員・学生の方は出席ください。\nなお、後日オンデマンド（英語字幕付）でも開催することを申し添えます。\n…",
+            "date_modified": "2024-03-11T03:00:00.000Z"
+        },
+        {
+            "id": "5c52be62e18a65c9d979c4c9135c21ee",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4916",
+            "title": "2024年度 日本語コースの実施/Japanese Language Courses for AY2024",
+            "summary": "グローバルコミュニケーション教育センター（CEGLOC）が開講する日本語コースの受講を希望する留学生等は、下記のリンクから受講手続を確認してください。\n\nIf you are interested in the Japanese Language Courses offered by the Center for Education of Global Communication (CEGLOC)…",
+            "date_modified": "2024-03-11T03:00:00.000Z"
+        },
+        {
             "id": "b11f71b6b8c731ac93caacfd33235244",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4915",
             "title": "※申込延長：3月11日（月）13時〆 ※「筑波大学マレーシア校学内向け説明会」の開催について（3月11日（月）15時～16時半）",
@@ -129,20 +143,6 @@
             "title": "【経済支援（再掲）】令和６年能登半島地震にかかる災害救助法適用地域の世帯の学生・生徒に対する奨学金について",
             "summary": "在学生　各位\n\n1月22日に震災に係る緊急支援についてお知らせし、申請期限を2月22日（木）までとしていましたが、\n罹災証明書等や損壊額を証明する書類の発行がすぐにできないこと等を考慮し、申請期限後も随時書類提出を受け付けますのでご相談ください。\nなお、被災により困っていること等ある場合には、遠慮なく所属するエリア支援室（学生支援担当）又は学生生活課まで個別にご相談ください。\n\n以上\n",
             "date_modified": "2024-02-21T03:00:00.000Z"
-        },
-        {
-            "id": "7a9b01b19be73cc89a24e7501dfc664d",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4872",
-            "title": "[Notice] 安全保障輸出管理のための誓約書提出のお願いRequest for Submission of Pledge for Security Export Control",
-            "summary": "2023年度大学院修了予定者（退学等を含む）の皆様へ\nTo prospective graduate school graduates in AY2023 (including those who will withdraw)\n大学院修了にあたり、外国為替及び外国貿易法遵守の”誓約書（修了時）”提出をお願いしております。ご理解とご協力をよろしくお願いいたします\nIn order to comply…",
-            "date_modified": "2024-02-21T03:00:00.000Z"
-        },
-        {
-            "id": "1b8f2792f9cf0e5ac0428b9e0b7cd170",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4871",
-            "title": "【単位認定】日本語サポーター募集！（TWINS締切 3/15）",
-            "summary": "茨城県の中学校と連携して、外国にルーツのある子どもたちの日本語学習や教科学習のサポートをする「日本語サポーター」を募集します。4月からの1年間、授業の空き時間を利用して活動を行い、活動時間に応じて単位認定されます。学類や専門は問いません。自分の得意分野を活かして一緒に活動してみませんか。\n\n日本語サポーターになるためには、下記の授業を履修してください。\n\n科目番号：AE14H22（1単位）\n科目名…",
-            "date_modified": "2024-02-20T03:00:00.000Z"
         }
     ]
 }
