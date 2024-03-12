@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "ef272c8872baaf7397da70a572d832b4",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4918",
+            "title": "【開催案内】6th Borderless Onsite Meeting “Turkmenistan: A Journey through Culture and History”",
+            "summary": "【開催案内】6th Borderless Onsite Meeting\n\nプレゼンター：ゲルディエヴァ・ミヴェゴゼル（NipCAフェロー2019）\n\n題目：Turkmenistan: A Journey through Culture and History\n          (トルクメニスタンの歴史と文化をめぐる)\n\n日時：令和6年3月15日（金）12:20～13 :00\n\n会場：筑波大学　ス…",
+            "date_modified": "2024-03-12T03:00:00.000Z"
+        },
+        {
             "id": "74dfbc9595832f92c43463a266925690",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4905",
             "title": "【チケット販売中】筑波大学ホームゲーム「TSUKUBA LIVE!」（男子バスケ・vs東海大）",
@@ -136,13 +143,6 @@
             "title": "[Notice] 安全保障輸出管理のための誓約書提出のお願いRequest for Submission of Pledge for Security Export Control",
             "summary": "2023年度大学院修了予定者（退学等を含む）の皆様へ\nTo prospective graduate school graduates in AY2023 (including those who will withdraw)\n大学院修了にあたり、外国為替及び外国貿易法遵守の”誓約書（修了時）”提出をお願いしております。ご理解とご協力をよろしくお願いいたします\nIn order to comply…",
             "date_modified": "2024-02-21T03:00:00.000Z"
-        },
-        {
-            "id": "1b8f2792f9cf0e5ac0428b9e0b7cd170",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4871",
-            "title": "【単位認定】日本語サポーター募集！（TWINS締切 3/15）",
-            "summary": "茨城県の中学校と連携して、外国にルーツのある子どもたちの日本語学習や教科学習のサポートをする「日本語サポーター」を募集します。4月からの1年間、授業の空き時間を利用して活動を行い、活動時間に応じて単位認定されます。学類や専門は問いません。自分の得意分野を活かして一緒に活動してみませんか。\n\n日本語サポーターになるためには、下記の授業を履修してください。\n\n科目番号：AE14H22（1単位）\n科目名…",
-            "date_modified": "2024-02-20T03:00:00.000Z"
         }
     ]
 }
