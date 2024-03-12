@@ -2,10 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/mkobayashime/twins-announcements</id>
     <title>在学生へのお知らせ | 筑波大学</title>
-    <updated>2024-03-12T03:15:52.166Z</updated>
+    <updated>2024-03-12T05:13:52.108Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://github.com/mkobayashime/twins-announcements"/>
     <subtitle>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</subtitle>
+    <entry>
+        <title type="html"><![CDATA[[Notice] Undergraduate / Graduate School Commencement Ceremonies for AY2023]]></title>
+        <id>d8e774330d2b4661e2f47f7dc18ee9fc</id>
+        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4922"/>
+        <updated>2024-03-12T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[To Graduating Students
+
+Undergraduate and Graduate School Commencement Ceremonies for AY2023 will be held as shown in the attached file.]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【お知らせ】令和5年度卒業式・学位記授与式の開催について]]></title>
+        <id>a47ed47c9cee8c0e00592c24c9999dfa</id>
+        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4921"/>
+        <updated>2024-03-12T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[卒業生・修了生　各位
+
+令和5年度卒業式・学位記授与式を添付ファイルのとおり挙行いたしますので、お知らせします。]]></summary>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【開催案内】第6回 オンラインによるロシア・中央アジア映画上映会]]></title>
         <id>91ad075a36dc3dff1488326dd057df3b</id>
@@ -208,26 +226,5 @@ https://us02we…]]></summary>
         <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4882"/>
         <updated>2024-02-28T03:00:00.000Z</updated>
         <summary type="html"><![CDATA[“Make a Difference in the World Fund (MDW Fund)” at the University of Tsukuba was established in December 2015 by Visiting Professor Hideaki Suzuki. In the wake of COVID-19 in 2020, the Fund establish…]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【参加者募集】女性の健康セミナー（3/26）]]></title>
-        <id>c37d44ce2b5d1e9e15d177e2c363b050</id>
-        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4881"/>
-        <updated>2024-02-28T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[ヒューマンエンパワーメント推進局（BHE）では、3月8日の国際女性デーに関連したイベントとして、「女性の健康セミナー」を実施します。
-生理が重い方も軽い方も、生理がある方もそうでない方も、お互いを思いやるコミュニケーションを築くために、このセミナーをとおして正しい知識を一緒に学んでみませんか。
-
-【イベント詳細】
-日時：3月26日（火）12:15～13:15
-対象：筑波大学の学生・大学院生・教職員…]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[「時事問題を英語で読み書き話す勉強会」開催のお知らせ]]></title>
-        <id>c89f978491825365b95420a6adbab55c</id>
-        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4875"/>
-        <updated>2024-02-26T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[筑波大学「世界を変えよう基金アカデミー」では、国際社会で活躍するために必要な英語思考力を養成するため、時事問題に関する英語メディア報道記事を題材に、英語でPowerPoint slidesを作成し、英語で議論する勉強会を4月中旬からZoomで隔週開催します（8回程度、各90分）。勉強会はすべて英語で行います。
-
-参加は無料ですが、TOEFLiBT 90点以上またはTOEIC 820点相当以上の英語…]]></summary>
     </entry>
 </feed>

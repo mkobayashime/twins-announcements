@@ -5,6 +5,20 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "d8e774330d2b4661e2f47f7dc18ee9fc",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4922",
+            "title": "[Notice] Undergraduate / Graduate School Commencement Ceremonies for AY2023",
+            "summary": "To Graduating Students\n\nUndergraduate and Graduate School Commencement Ceremonies for AY2023 will be held as shown in the attached file.",
+            "date_modified": "2024-03-12T03:00:00.000Z"
+        },
+        {
+            "id": "a47ed47c9cee8c0e00592c24c9999dfa",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4921",
+            "title": "【お知らせ】令和5年度卒業式・学位記授与式の開催について",
+            "summary": "卒業生・修了生　各位\n\n令和5年度卒業式・学位記授与式を添付ファイルのとおり挙行いたしますので、お知らせします。",
+            "date_modified": "2024-03-12T03:00:00.000Z"
+        },
+        {
             "id": "91ad075a36dc3dff1488326dd057df3b",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4920",
             "title": "【開催案内】第6回 オンラインによるロシア・中央アジア映画上映会",
@@ -129,20 +143,6 @@
             "title": "Application for Spring 2024 to Suzuki Scholarship sponsored by “Make a Difference in the World Fund”",
             "summary": "“Make a Difference in the World Fund (MDW Fund)” at the University of Tsukuba was established in December 2015 by Visiting Professor Hideaki Suzuki. In the wake of COVID-19 in 2020, the Fund establish…",
             "date_modified": "2024-02-28T03:00:00.000Z"
-        },
-        {
-            "id": "c37d44ce2b5d1e9e15d177e2c363b050",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4881",
-            "title": "【参加者募集】女性の健康セミナー（3/26）",
-            "summary": "ヒューマンエンパワーメント推進局（BHE）では、3月8日の国際女性デーに関連したイベントとして、「女性の健康セミナー」を実施します。\n生理が重い方も軽い方も、生理がある方もそうでない方も、お互いを思いやるコミュニケーションを築くために、このセミナーをとおして正しい知識を一緒に学んでみませんか。\n\n【イベント詳細】\n日時：3月26日（火）12:15～13:15\n対象：筑波大学の学生・大学院生・教職員…",
-            "date_modified": "2024-02-28T03:00:00.000Z"
-        },
-        {
-            "id": "c89f978491825365b95420a6adbab55c",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4875",
-            "title": "「時事問題を英語で読み書き話す勉強会」開催のお知らせ",
-            "summary": "筑波大学「世界を変えよう基金アカデミー」では、国際社会で活躍するために必要な英語思考力を養成するため、時事問題に関する英語メディア報道記事を題材に、英語でPowerPoint slidesを作成し、英語で議論する勉強会を4月中旬からZoomで隔週開催します（8回程度、各90分）。勉強会はすべて英語で行います。\n\n参加は無料ですが、TOEFLiBT 90点以上またはTOEIC 820点相当以上の英語…",
-            "date_modified": "2024-02-26T03:00:00.000Z"
         }
     ]
 }
