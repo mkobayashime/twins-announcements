@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "ef39dc45d17c779be2e720bbee90a5a8",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4924",
+            "title": "※アーカイブ配信※「筑波大学マレーシア校学内向け説明会」の開催について（3月11日（月）15時～16時半）",
+            "summary": "3月11日（月）開催の学内向け研修会の模様及び資料を、下記URLからアーカイブ配信、共有いたします。\n※URLへのアクセスには、筑波大学のOffice 365アカウントでのログインが必要です。\n\n（アーカイブ配信）\nhttps://o365tsukuba-my.sharepoint.com/:v:/g/personal/goino_hikari_fm_un_tsukuba_ac_jp/EQ8pDK…",
+            "date_modified": "2024-03-13T03:00:00.000Z"
+        },
+        {
             "id": "33e4620726aab13e4ff043254b5893a0",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4923",
             "title": "【再掲　本日開催】3/13（18:15～）平井氏講演会「スポーツ経済学への誘い」（学生・教員対象）",
@@ -135,13 +142,6 @@
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4884",
             "title": "【周知】人社公開講座「人文社会系女子のキャリア形成」（最終回：3月6日（水）15時15分～）",
             "summary": "人文社会科学研究群公開講座「人文社会系女子のキャリア形成――自分と社会のつなぎ方」のお知らせ\n\n人文社会公開講座「人文社会系女子のキャリア形成」の最終回 が3月6日に行われます。\n（2月28日(水)に予定していましたが、変更になりました。）\n\n日時　　3月6日（水）15時15分～\n方法       3A416 (前回と部屋が異なります)\n\n参加 Zoom ミーティング\nhttps://us02we…",
-            "date_modified": "2024-02-28T03:00:00.000Z"
-        },
-        {
-            "id": "af841e636076093a2269457444e48cc8",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4883",
-            "title": "【注意喚起】本学構内における不審者の出没について／[caution] Suspicious Persons on the University's Campus",
-            "summary": "2月27日（火）21時45分ごろ、本部南ゲート駐車場付近において、駐車場利用者の後をつけて、車まで近づいてくる男性の不審者が出没しました。\nキャンパス内を移動する際には、不審者がいないか、不審な点がないか十分気をつけてください。\nキャンパス内で不審者・不審物の情報があれば、速やかに最寄りの警備員室または本部防災センター（029-853-2079）へご連絡ください。\n※緊急の場合はすぐに110番通報…",
             "date_modified": "2024-02-28T03:00:00.000Z"
         }
     ]

@@ -4,10 +4,21 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Wed, 13 Mar 2024 00:54:31 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 Mar 2024 01:50:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
+        <item>
+            <title><![CDATA[※アーカイブ配信※「筑波大学マレーシア校学内向け説明会」の開催について（3月11日（月）15時～16時半）]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4924</link>
+            <guid>ef39dc45d17c779be2e720bbee90a5a8</guid>
+            <pubDate>Wed, 13 Mar 2024 03:00:00 GMT</pubDate>
+            <description><![CDATA[3月11日（月）開催の学内向け研修会の模様及び資料を、下記URLからアーカイブ配信、共有いたします。
+※URLへのアクセスには、筑波大学のOffice 365アカウントでのログインが必要です。
+
+（アーカイブ配信）
+https://o365tsukuba-my.sharepoint.com/:v:/g/personal/goino_hikari_fm_un_tsukuba_ac_jp/EQ8pDK…]]></description>
+        </item>
         <item>
             <title><![CDATA[【再掲　本日開催】3/13（18:15～）平井氏講演会「スポーツ経済学への誘い」（学生・教員対象）]]></title>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4923</link>
@@ -221,16 +232,6 @@ ECサイトは以下のリンクから
 
 参加 Zoom ミーティング
 https://us02we…]]></description>
-        </item>
-        <item>
-            <title><![CDATA[【注意喚起】本学構内における不審者の出没について／[caution] Suspicious Persons on the University's Campus]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4883</link>
-            <guid>af841e636076093a2269457444e48cc8</guid>
-            <pubDate>Wed, 28 Feb 2024 03:00:00 GMT</pubDate>
-            <description><![CDATA[2月27日（火）21時45分ごろ、本部南ゲート駐車場付近において、駐車場利用者の後をつけて、車まで近づいてくる男性の不審者が出没しました。
-キャンパス内を移動する際には、不審者がいないか、不審な点がないか十分気をつけてください。
-キャンパス内で不審者・不審物の情報があれば、速やかに最寄りの警備員室または本部防災センター（029-853-2079）へご連絡ください。
-※緊急の場合はすぐに110番通報…]]></description>
         </item>
     </channel>
 </rss>
