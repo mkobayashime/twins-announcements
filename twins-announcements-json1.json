@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "33e4620726aab13e4ff043254b5893a0",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4923",
+            "title": "【再掲　本日開催】3/13（18:15～）平井氏講演会「スポーツ経済学への誘い」（学生・教員対象）",
+            "summary": "TSUKUBA社会国際学初年次チュートリアルプログラムでは、3月13日（水）18時15分から公開講演会を開催いたします。講師は西南学院大学 経済学部 経済学科・教授の平井秀明氏で、「スポーツ経済学への誘い」という題目で講演していただきます。筑波大学の学生・教員でしたらどなたでもご参加いただけます。奮ってご参加下さい。\n\n「経済学の最前線チュートリアル」主催講演会\n日時：3月13日（水）18時15分…",
+            "date_modified": "2024-03-13T03:00:00.000Z"
+        },
+        {
             "id": "d8e774330d2b4661e2f47f7dc18ee9fc",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4922",
             "title": "[Notice] Undergraduate / Graduate School Commencement Ceremonies for AY2023",
@@ -135,13 +142,6 @@
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4883",
             "title": "【注意喚起】本学構内における不審者の出没について／[caution] Suspicious Persons on the University's Campus",
             "summary": "2月27日（火）21時45分ごろ、本部南ゲート駐車場付近において、駐車場利用者の後をつけて、車まで近づいてくる男性の不審者が出没しました。\nキャンパス内を移動する際には、不審者がいないか、不審な点がないか十分気をつけてください。\nキャンパス内で不審者・不審物の情報があれば、速やかに最寄りの警備員室または本部防災センター（029-853-2079）へご連絡ください。\n※緊急の場合はすぐに110番通報…",
-            "date_modified": "2024-02-28T03:00:00.000Z"
-        },
-        {
-            "id": "2a4a06d2e2cf2377e54762533dd8408c",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4882",
-            "title": "Application for Spring 2024 to Suzuki Scholarship sponsored by “Make a Difference in the World Fund”",
-            "summary": "“Make a Difference in the World Fund (MDW Fund)” at the University of Tsukuba was established in December 2015 by Visiting Professor Hideaki Suzuki. In the wake of COVID-19 in 2020, the Fund establish…",
             "date_modified": "2024-02-28T03:00:00.000Z"
         }
     ]
