@@ -5,17 +5,17 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "946b96dc6615228830fb36fe2423ec69",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4928",
+            "title": "卒業祝賀飛行のお知らせ",
+            "summary": "卒業予定者のみなさんへ\n\n卒業式当日（3/25），人間系の岡田昌毅教授が卒業祝賀飛行を行います。\nみなさんの門出を，機長の岡田先生が筑波大学上空からお祝いします。\n\n（心理学類長からのメッセージ）\n\n最高学年のみなさんへ\n行く人，待つ人，みんなに，祝賀飛行を。\nみなさんの進路は，もう一斉スタートではなく，自由発進です。\n卒業式３／２５を学生生活の一区切りとし，いつでもキャンパスを飛び出して，自由に…",
+            "date_modified": "2024-03-13T03:00:00.000Z"
+        },
+        {
             "id": "4f83ccfb07b93bf1280d8e0b6dd65294",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4926",
             "title": "【申込受付中】令和6年度 筑波大学事務職員独自採用試験説明会",
             "summary": "進学先としての筑波大学ではなく、就職先としての国立大学法人筑波大学をご存じの方は、\nそう多くないのではないのでしょうか。\n「国立大学法人筑波大学ってどんな大学なのだろう」\n「筑波大学で職員として働く魅力・やりがいは？」\nという疑問に、筑波大学職員がお答えします！\n\n－形式　　：オンライン（Zoom）\n－日時　　：2024年3月16日（土）10：00～10：40、11：00～11：40\n　　　　　　…",
-            "date_modified": "2024-03-13T03:00:00.000Z"
-        },
-        {
-            "id": "946b96dc6615228830fb36fe2423ec69",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4925",
-            "title": "卒業祝賀飛行のお知らせ",
-            "summary": "卒業予定者のみなさんへ\n\n卒業式当日（3/25），人間系の岡田昌毅教授が卒業祝賀飛行を行います。\nみなさんの門出を，機長の岡田先生が筑波大学上空からお祝いします。\n\n（以下先生からのメッセージ）\n\n最高学年のみなさんへ\n行く人，待つ人，みんなに，祝賀飛行を。\nみなさんの進路は，もう一斉スタートではなく，自由発進です。\n卒業式３／２５を学生生活の一区切りとし，いつでもキャンパスを飛び出して，自由に広…",
             "date_modified": "2024-03-13T03:00:00.000Z"
         },
         {
