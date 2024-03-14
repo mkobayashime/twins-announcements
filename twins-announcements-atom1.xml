@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/mkobayashime/twins-announcements</id>
     <title>在学生へのお知らせ | 筑波大学</title>
-    <updated>2024-03-14T06:15:54.643Z</updated>
+    <updated>2024-03-14T07:14:31.846Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://github.com/mkobayashime/twins-announcements"/>
     <subtitle>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</subtitle>
+    <entry>
+        <title type="html"><![CDATA[サーバー更新作業に伴うキャリア支援チームHP及び就職情報提供システム停止のお知らせ]]></title>
+        <id>f7e5c4dc1ece4147cbde4ed3df16263e</id>
+        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4931"/>
+        <updated>2024-03-14T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[サーバー更新作業に伴い、下記の時間、キャリア支援チームホームページ等へ繋がりにくくなります。
+【作業日時】3/21（木）9：00　～　3/21（木）13：15（予定）
+　　　　　　3/25（月）10：00　～　3/25（月）12：15（予定）
+
+なお、サーバー更新作業中は、「学内専用ページ」、「ガイダンス等及び模試試験登録・申請」、「進路進捗状況届」へのアクセスはできません。
+皆様にはご迷惑をおか…]]></summary>
+    </entry>
     <entry>
         <title type="html"><![CDATA[公益財団法人　大塚敏美育英奨学財団奨学金　2024年度]]></title>
         <id>1b00fc47c9d74aef7ae43c373b3cfc6e</id>
@@ -220,22 +232,5 @@ TEL:029-896-3530  FAX:029-896-3531]]></summary>
         <summary type="html"><![CDATA[「筑波大学・世界を変えよう基金アカデミー」は、毎年春学期に「日本絵画を楽しむ会」を開催しています。次回開催に先立ち、「楽しむ会」で鑑賞するヨーロッパ絵画資料を分析・調査する学部生アシスタント若干名を募集します。
 課題は下記のとおりです。
 〇「筑波大学・世界を変えよう基金アカデミー」が収集した絵画画像約2000~3000点（主としてヨーロッパ絵画ですが、日本絵画を含みます）を総覧し、一つの色彩（例え…]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[令和６年度学生定期健康診断について　Announcement on the AY2024 Student Health Examination]]></title>
-        <id>f9f47669b11c48d571532a47ae836e07</id>
-        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4887"/>
-        <updated>2024-03-01T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[令和６年度の学生定期健康診断を、身体検査とこころの健康調査に分けて実施します。必ず受診してください。
-
-身体検査
-４月１１日（木）から４月２３日（火）で実施されます。
-指定日時内の希望の時間を保健管理センターのホームページにて予約してください。
-
-こころの健康調査
-４月１１日(木) から５月３１日(金)で実施されます。
-学習管理システム（manaba）での回答となります。
-
-詳細は以下のPDFまた…]]></summary>
     </entry>
 </feed>
