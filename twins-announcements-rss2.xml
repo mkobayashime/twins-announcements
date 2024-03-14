@@ -4,10 +4,22 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Wed, 13 Mar 2024 16:28:07 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 Mar 2024 00:53:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
+        <item>
+            <title><![CDATA[年度末・年度始のTWINS サービス休止のお知らせ]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4929</link>
+            <guid>1e70161c8736012e6723cf1e1470d72f</guid>
+            <pubDate>Thu, 14 Mar 2024 03:00:00 GMT</pubDate>
+            <description><![CDATA[TWINSの年度更新作業のため、下記の期間TWINSによる各種サービスを休止します。
+この間、成績照会や証明書の発行もできません。
+ご不便をおかけしますが、ご協力をお願いします。
+令和６年３月30日(土)12時 ～ ４月２日(火)まで
+
+Due to annual updates, various services on TWINS will be temporarily suspended du…]]></description>
+        </item>
         <item>
             <title><![CDATA[卒業祝賀飛行のお知らせ]]></title>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4928</link>
@@ -226,22 +238,6 @@ TEL:029-896-3530  FAX:029-896-3531]]></description>
 ECサイトは以下のリンクから
 ※学内専用割引コードをTWINS掲示「大学から学生へのお知らせ（学内専用）」に掲載しております。
 ※学生・教職員はこのコードを入力することで、…]]></description>
-        </item>
-        <item>
-            <title><![CDATA[【周知】人社公開講座「人文社会系女子のキャリア形成」（最終回：3月6日（水）15時15分～）]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4884</link>
-            <guid>b9db3a90fb05d37a75655cd35c862a6f</guid>
-            <pubDate>Wed, 28 Feb 2024 03:00:00 GMT</pubDate>
-            <description><![CDATA[人文社会科学研究群公開講座「人文社会系女子のキャリア形成――自分と社会のつなぎ方」のお知らせ
-
-人文社会公開講座「人文社会系女子のキャリア形成」の最終回 が3月6日に行われます。
-（2月28日(水)に予定していましたが、変更になりました。）
-
-日時　　3月6日（水）15時15分～
-方法       3A416 (前回と部屋が異なります)
-
-参加 Zoom ミーティング
-https://us02we…]]></description>
         </item>
     </channel>
 </rss>

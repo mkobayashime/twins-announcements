@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "1e70161c8736012e6723cf1e1470d72f",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4929",
+            "title": "年度末・年度始のTWINS サービス休止のお知らせ",
+            "summary": "TWINSの年度更新作業のため、下記の期間TWINSによる各種サービスを休止します。\nこの間、成績照会や証明書の発行もできません。\nご不便をおかけしますが、ご協力をお願いします。\n令和６年３月30日(土)12時 ～ ４月２日(火)まで\n\nDue to annual updates, various services on TWINS will be temporarily suspended du…",
+            "date_modified": "2024-03-14T03:00:00.000Z"
+        },
+        {
             "id": "946b96dc6615228830fb36fe2423ec69",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4928",
             "title": "卒業祝賀飛行のお知らせ",
@@ -136,13 +143,6 @@
             "title": "筑波大学公式オリジナルグッズECサイト割引クーポンのお知らせ（3月）",
             "summary": "筑波大学公式オリジナルグッズ販売サイト「TSUKUBA-SHOP」3月の割引クーポンコードをお知らせいたします！\n\n\nどうぞご覧いただき、皆様の「日常生活」、「思い出」、「プレゼント🎁」などにご活用いただけますと幸いです。\n\nECサイトは以下のリンクから\n※学内専用割引コードをTWINS掲示「大学から学生へのお知らせ（学内専用）」に掲載しております。\n※学生・教職員はこのコードを入力することで、…",
             "date_modified": "2024-03-01T03:00:00.000Z"
-        },
-        {
-            "id": "b9db3a90fb05d37a75655cd35c862a6f",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4884",
-            "title": "【周知】人社公開講座「人文社会系女子のキャリア形成」（最終回：3月6日（水）15時15分～）",
-            "summary": "人文社会科学研究群公開講座「人文社会系女子のキャリア形成――自分と社会のつなぎ方」のお知らせ\n\n人文社会公開講座「人文社会系女子のキャリア形成」の最終回 が3月6日に行われます。\n（2月28日(水)に予定していましたが、変更になりました。）\n\n日時　　3月6日（水）15時15分～\n方法       3A416 (前回と部屋が異なります)\n\n参加 Zoom ミーティング\nhttps://us02we…",
-            "date_modified": "2024-02-28T03:00:00.000Z"
         }
     ]
 }
