@@ -2,10 +2,25 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/mkobayashime/twins-announcements</id>
     <title>在学生へのお知らせ | 筑波大学</title>
-    <updated>2024-03-14T00:53:37.516Z</updated>
+    <updated>2024-03-14T06:15:54.643Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://github.com/mkobayashime/twins-announcements"/>
     <subtitle>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</subtitle>
+    <entry>
+        <title type="html"><![CDATA[公益財団法人　大塚敏美育英奨学財団奨学金　2024年度]]></title>
+        <id>1b00fc47c9d74aef7ae43c373b3cfc6e</id>
+        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4930"/>
+        <updated>2024-03-14T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[公益財団法人　大塚敏美育英奨学財団奨学金　2024年度
+※「Web提出」と「原本の郵送」の両方の手続きが必須です。
+応募期間：
+【新規申請者】
+-WEB提出：2024年3月7日(木) 9時～4月22日(月) 17時
+-郵送：2024年4月1日(月)～4月25日(木) 15時(必着)
+【継続申請者】
+-WEB提出：2024年3月7日(木) 9時～4月15日(月) 17時
+-郵送：2024年4月1日(…]]></summary>
+    </entry>
     <entry>
         <title type="html"><![CDATA[年度末・年度始のTWINS サービス休止のお知らせ]]></title>
         <id>1e70161c8736012e6723cf1e1470d72f</id>
@@ -222,19 +237,5 @@ TEL:029-896-3530  FAX:029-896-3531]]></summary>
 学習管理システム（manaba）での回答となります。
 
 詳細は以下のPDFまた…]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[筑波大学公式オリジナルグッズECサイト割引クーポンのお知らせ（3月）]]></title>
-        <id>2b7434daab5abc28ddee6b9b5e612f57</id>
-        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4873"/>
-        <updated>2024-03-01T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[筑波大学公式オリジナルグッズ販売サイト「TSUKUBA-SHOP」3月の割引クーポンコードをお知らせいたします！
-
-
-どうぞご覧いただき、皆様の「日常生活」、「思い出」、「プレゼント🎁」などにご活用いただけますと幸いです。
-
-ECサイトは以下のリンクから
-※学内専用割引コードをTWINS掲示「大学から学生へのお知らせ（学内専用）」に掲載しております。
-※学生・教職員はこのコードを入力することで、…]]></summary>
     </entry>
 </feed>
