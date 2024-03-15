@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/mkobayashime/twins-announcements</id>
     <title>在学生へのお知らせ | 筑波大学</title>
-    <updated>2024-03-15T09:16:42.859Z</updated>
+    <updated>2024-03-15T15:17:33.637Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://github.com/mkobayashime/twins-announcements"/>
     <subtitle>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</subtitle>
@@ -130,9 +130,11 @@ https://o365tsukuba-my.sharepoint.com/:v:/g/personal/goino_hikari_fm_un_tsukuba_
         <id>d8e774330d2b4661e2f47f7dc18ee9fc</id>
         <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4922"/>
         <updated>2024-03-12T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[To Graduating Students
+        <summary type="html"><![CDATA[3月11日（月）開催の学内向け研修会の模様及び資料を、下記URLからアーカイブ配信、共有いたします。
+※URLへのアクセスには、筑波大学のOffice 365アカウントでのログインが必要です。
 
-Undergraduate and Graduate School Commencement Ceremonies for AY2023 will be held as shown in the attached file.]]></summary>
+（アーカイブ配信）
+https://o365tsukuba-my.sharepoint.com/:v:/g/personal/goino_hikari_fm_un_tsukuba_ac_jp/EQ8pDK…]]></summary>
     </entry>
     <entry>
         <title type="html"><![CDATA[【お知らせ】令和5年度卒業式・学位記授与式の開催について]]></title>
@@ -159,22 +161,6 @@ Undergraduate and Graduate School Commencement Ceremonies for AY2023 will be hel
         <summary type="html"><![CDATA[On March 26 (Tue.) at 14:30, there will be a basketball match!
 
 The University of Tsukuba 5 times All Japan University Basketball Champion will go against Tokai University 6 times All Japan University…]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【開催案内】6th Borderless Onsite Meeting “Turkmenistan: A Journey through Culture and History”]]></title>
-        <id>ef272c8872baaf7397da70a572d832b4</id>
-        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4918"/>
-        <updated>2024-03-12T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[【開催案内】6th Borderless Onsite Meeting
-
-プレゼンター：ゲルディエヴァ・ミヴェゴゼル（NipCAフェロー2019）
-
-題目：Turkmenistan: A Journey through Culture and History
-          (トルクメニスタンの歴史と文化をめぐる)
-
-日時：令和6年3月15日（金）12:20～13 :00
-
-会場：筑波大学　ス…]]></summary>
     </entry>
     <entry>
         <title type="html"><![CDATA[【チケット販売中】筑波大学ホームゲーム「TSUKUBA LIVE!」（男子バスケ・vs東海大）]]></title>
@@ -239,5 +225,14 @@ If you are interested in the Japanese Language Courses offered by the Center for
 納付されないときは、本学学則による除籍処分となります。
 
 ※本掲示は全ての学生・教員に通知しております。]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["Important reminder"安全保障輸出管理誓約書提出のお願いRequest for Submission of Pledge for Security Export Control]]></title>
+        <id>b7e26ddd7f555bc3f2ddf417185ae86f</id>
+        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4906"/>
+        <updated>2024-03-05T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA["Important reminder"2023年度大学院修了予定者（退学等を含む）の皆様へ
+To prospective graduate school graduates in AY2023 (including those who will withdraw)
+大学院修了にあたり、外国為替及び外国貿易法遵守の”誓約書（修了時）”提出をお願いしております。ご理解とご協力をよろしくお願いいたしま…]]></summary>
     </entry>
 </feed>
