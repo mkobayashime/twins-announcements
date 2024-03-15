@@ -4,10 +4,31 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Fri, 15 Mar 2024 05:13:09 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Mar 2024 09:12:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
+        <item>
+            <title><![CDATA[Temporary Suspension of Overseas Travel System ”TRIP” (March 25, 2024, 10:00 AM - 2:00 PM)]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4934</link>
+            <guid>d325d8cec121cf73519fadc0037ed48d</guid>
+            <pubDate>Fri, 15 Mar 2024 03:00:00 GMT</pubDate>
+            <description><![CDATA[Due to system maintenance, the Overseas Travel System "TRIP" will not be available during the time specified below.
+We apologize for any inconvenience this may cause.
+
+＊Please note：the suspension peri…]]></description>
+        </item>
+        <item>
+            <title><![CDATA[海外渡航システム（TRIP）運用休止について（2024/03/25（月）10時～14時（予定））]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4933</link>
+            <guid>9eb2be22186b6f778524fa80d796219e</guid>
+            <pubDate>Fri, 15 Mar 2024 03:00:00 GMT</pubDate>
+            <description><![CDATA[海外渡航システム（TRIP）のメンテナンス作業に伴い、システムの運用を下記の日程で休止します。
+作業完了次第、運用を再開いたします。ご迷惑をおかけしますが、どうぞよろしくお願いいたします。
+
+※作業の進捗によっては、システムの休止期間が延長される場合があります。
+※休止期間中は、TRIPに登録された渡航者の安否確認を、海外危機管理アドレス（gc-assitance@un.tsukuba.ac.jp…]]></description>
+        </item>
         <item>
             <title><![CDATA[【再掲】公益財団法人　大塚敏美育英奨学財団奨学金　2024年度]]></title>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4932</link>
@@ -220,27 +241,6 @@ If you are interested in the Japanese Language Courses offered by the Center for
 納付されないときは、本学学則による除籍処分となります。
 
 ※本掲示は全ての学生・教員に通知しております。]]></description>
-        </item>
-        <item>
-            <title><![CDATA["Important reminder"安全保障輸出管理誓約書提出のお願いRequest for Submission of Pledge for Security Export Control]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4906</link>
-            <guid>b7e26ddd7f555bc3f2ddf417185ae86f</guid>
-            <pubDate>Tue, 05 Mar 2024 03:00:00 GMT</pubDate>
-            <description><![CDATA["Important reminder"2023年度大学院修了予定者（退学等を含む）の皆様へ
-To prospective graduate school graduates in AY2023 (including those who will withdraw)
-大学院修了にあたり、外国為替及び外国貿易法遵守の”誓約書（修了時）”提出をお願いしております。ご理解とご協力をよろしくお願いいたしま…]]></description>
-        </item>
-        <item>
-            <title><![CDATA[STOP！研究費不正使用！／STOP！Wrongful use of research funding！]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4891</link>
-            <guid>d07de3a2549e9d1109e19fd73f9711de</guid>
-            <pubDate>Fri, 01 Mar 2024 03:00:00 GMT</pubDate>
-            <description><![CDATA[学生の皆さんが不正使用に巻き込まれるケースが多発しています。
-不正を見かけた、持ちかけられたら、通報窓口へ。
-コンプライアンス・ハラスメント対策室（学内窓口）
-Mail:compliance@un.tsukuba.ac.jp TEL:029-853-2033
-つくば中央法律事務所（学外窓口）
-TEL:029-896-3530  FAX:029-896-3531]]></description>
         </item>
     </channel>
 </rss>
