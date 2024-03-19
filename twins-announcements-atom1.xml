@@ -2,30 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/mkobayashime/twins-announcements</id>
     <title>在学生へのお知らせ | 筑波大学</title>
-    <updated>2024-03-19T09:17:01.623Z</updated>
+    <updated>2024-03-19T15:14:00.950Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://github.com/mkobayashime/twins-announcements"/>
     <subtitle>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</subtitle>
-    <entry>
-        <title type="html"><![CDATA[【BHE】3月27日ｵﾝﾗｲﾝ面接練習会]]></title>
-        <id>84dd462bfe608335a172b5c5f8cbe560</id>
-        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4942"/>
-        <updated>2024-03-19T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[就活が早期化＆本格化していることを受け、3月もオンラインでも開催します。
-就活中の方、ISの選考を受ける方、参加して役立ててください。
-（日本語での開催です）
-
-〇日時と場所
-日にち：令和６年3月27日（水）
-時間：集団面接編　10：00-11：30
-〇定員
-各回12名
-〇申込に当たっての注意点
-
-BHE HPより申し込んでください。
-「イベントコンテンツ動画・資料」→「就職情報」
-https:/…]]></summary>
-    </entry>
     <entry>
         <title type="html"><![CDATA[【カナダ大使館後援2024春留学フェア】のお知らせ（3/20（水））]]></title>
         <id>276711317d805e2f4f8983978bc6b338</id>
@@ -96,17 +76,9 @@ The University of Tsukuba 5 times All Japan University Basketball Champion will 
         <id>58ad1a266ff27a06515ed54352f40c31</id>
         <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4936"/>
         <updated>2024-03-18T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[各位
+        <summary type="html"><![CDATA[On March 26 (Tue.) at 14:30, there will be a basketball match!
 
-英語教育学サブプログラム 博士前期課程・後期課程（修士／博士） につきまして
-大学院出願直前相談会 を以下の日程で開催致します。
-
-2024年４月26日（金）18:00～19:30 開催方法：【オンライン (Zoom)】開催（事前参加登録制）
-
-詳しくは添付ファイルをご参照ください。
-
-　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　英語教育学SP事務室
-]]></summary>
+The University of Tsukuba 5 times All Japan University Basketball Champion will go against Tokai University 6 times All Japan University…]]></summary>
     </entry>
     <entry>
         <title type="html"><![CDATA[【開催案内】茨城県eスポーツフェス OWL FES 2024（3月26日開催）]]></title>
@@ -266,5 +238,14 @@ Undergraduate and Graduate School Commencement Ceremonies for AY2023 will be hel
         <updated>2024-03-12T03:00:00.000Z</updated>
         <summary type="html"><![CDATA[　筑波大学「日本財団 中央アジア・日本人材育成プロジェクト (NipCA)」は、中央アジアの文化とSDGsへの理解促進のため、オンラインによるロシア・中央アジア映画上映会を開催しています。
 　映画上映会も通算で第6回目となる今回は、在日本ウズベキスタン共和国大使館の協力を得て、第5回に引き続きウズベキスタンの映画を上映できることとなりました。今回の上映作品は、ユルダシ・アグザモフが1958年に撮っ…]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【開催通知】薬品・高圧ガス管理システム説明会]]></title>
+        <id>90c7b968b5fffac084bcdb75b7b993e3</id>
+        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4917"/>
+        <updated>2024-03-11T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[令和６年度から、原則全ての試薬及び高圧ガスの薬品・高圧ガス管理システム「Tsukuba-CRIS」（以下「CRIS」という。）への登録、1年に1度以上の定期的な棚卸が義務化されます。化学物質管理強化方針、CRISの使用方法及び棚卸についての説明会を開催いたしますので、試薬及び高圧ガスを使用される教職員・学生の方は出席ください。
+なお、後日オンデマンド（英語字幕付）でも開催することを申し添えます。
+…]]></summary>
     </entry>
 </feed>
