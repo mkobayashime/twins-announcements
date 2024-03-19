@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "7d622600ca3dcf345d9addd7ebc7185a",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4940",
+            "title": "（再掲）【参加者募集】女性の健康セミナー（3/26）",
+            "summary": "ヒューマンエンパワーメント推進局（BHE）では、3月8日の国際女性デーに関連したイベントとして、「女性の健康セミナー」を実施します。\n生理が重い方も軽い方も、生理がある方もそうでない方も、お互いを思いやるコミュニケーションを築くために、このセミナーをとおして正しい知識を一緒に学んでみませんか。\n\n【イベント詳細】\n日時：3月26日（火）12:15～13:15\n対象：筑波大学の学生・大学院生・教職員…",
+            "date_modified": "2024-03-19T03:00:00.000Z"
+        },
+        {
             "id": "e8080361ccc0324017a542b56b7bbb41",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4939",
             "title": "3/25･27公務員試験対策講座・公務員試験対策ガイダンスのお知らせ",
@@ -136,13 +143,6 @@
             "title": "2024年度 日本語コースの実施/Japanese Language Courses for AY2024",
             "summary": "グローバルコミュニケーション教育センター（CEGLOC）が開講する日本語コースの受講を希望する留学生等は、下記のリンクから受講手続を確認してください。\n\nIf you are interested in the Japanese Language Courses offered by the Center for Education of Global Communication (CEGLOC)…",
             "date_modified": "2024-03-11T03:00:00.000Z"
-        },
-        {
-            "id": "ad90170bac9095fda450bbb219dd2dfe",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4914",
-            "title": "（配信開始）令和7年度採用を目指す日本学術振興会特別研究員説明会の講演について",
-            "summary": "令和7年度採用を目指す日本学術振興会特別研究員説明会をmanabaにて配信開始いたしました。採用内定者からのアドバイス、特別研究員審査会専門委員から見た申請にあたってのポイント等について、それぞれの講師から説明いただいております。ぜひご視聴の上、積極的に申請してください。\n\n配信場所　学習管理システム　manaba（https://manaba.tsukuba.ac.jp/ct/home）\n　コー…",
-            "date_modified": "2024-03-08T03:00:00.000Z"
         }
     ]
 }
