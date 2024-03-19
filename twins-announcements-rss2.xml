@@ -4,10 +4,28 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Tue, 19 Mar 2024 02:18:49 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 Mar 2024 03:13:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
+        <item>
+            <title><![CDATA[【カナダ大使館後援2024春留学フェア】のお知らせ（3/20（水））]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4941</link>
+            <guid>276711317d805e2f4f8983978bc6b338</guid>
+            <pubDate>Tue, 19 Mar 2024 03:00:00 GMT</pubDate>
+            <description><![CDATA[カナダ留学フェア事務局は2024春留学フェアを開催します。参加希望者は、下記カナダ留学フェア事務局のホームページをご確認ください。
+https://www.canada-ryugaku-fair.com/spring2024
+
+【開催日程】
+2024年3月20日（水・祝）11：00～16：00
+
+【開催場所】
+東京会場：
+御茶ノ水ソラシティカンファレンスセンター
+※参加無料・入退場自由
+
+【セミナ…]]></description>
+        </item>
         <item>
             <title><![CDATA[（再掲）【参加者募集】女性の健康セミナー（3/26）]]></title>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4940</link>
@@ -239,15 +257,6 @@ Undergraduate and Graduate School Commencement Ceremonies for AY2023 will be hel
             <description><![CDATA[令和６年度から、原則全ての試薬及び高圧ガスの薬品・高圧ガス管理システム「Tsukuba-CRIS」（以下「CRIS」という。）への登録、1年に1度以上の定期的な棚卸が義務化されます。化学物質管理強化方針、CRISの使用方法及び棚卸についての説明会を開催いたしますので、試薬及び高圧ガスを使用される教職員・学生の方は出席ください。
 なお、後日オンデマンド（英語字幕付）でも開催することを申し添えます。
 …]]></description>
-        </item>
-        <item>
-            <title><![CDATA[2024年度 日本語コースの実施/Japanese Language Courses for AY2024]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4916</link>
-            <guid>5c52be62e18a65c9d979c4c9135c21ee</guid>
-            <pubDate>Mon, 11 Mar 2024 03:00:00 GMT</pubDate>
-            <description><![CDATA[グローバルコミュニケーション教育センター（CEGLOC）が開講する日本語コースの受講を希望する留学生等は、下記のリンクから受講手続を確認してください。
-
-If you are interested in the Japanese Language Courses offered by the Center for Education of Global Communication (CEGLOC)…]]></description>
         </item>
     </channel>
 </rss>

@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "276711317d805e2f4f8983978bc6b338",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4941",
+            "title": "【カナダ大使館後援2024春留学フェア】のお知らせ（3/20（水））",
+            "summary": "カナダ留学フェア事務局は2024春留学フェアを開催します。参加希望者は、下記カナダ留学フェア事務局のホームページをご確認ください。\nhttps://www.canada-ryugaku-fair.com/spring2024\n\n【開催日程】\n2024年3月20日（水・祝）11：00～16：00\n\n【開催場所】\n東京会場：\n御茶ノ水ソラシティカンファレンスセンター\n※参加無料・入退場自由\n\n【セミナ…",
+            "date_modified": "2024-03-19T03:00:00.000Z"
+        },
+        {
             "id": "7d622600ca3dcf345d9addd7ebc7185a",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4940",
             "title": "（再掲）【参加者募集】女性の健康セミナー（3/26）",
@@ -135,13 +142,6 @@
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4917",
             "title": "【開催通知】薬品・高圧ガス管理システム説明会",
             "summary": "令和６年度から、原則全ての試薬及び高圧ガスの薬品・高圧ガス管理システム「Tsukuba-CRIS」（以下「CRIS」という。）への登録、1年に1度以上の定期的な棚卸が義務化されます。化学物質管理強化方針、CRISの使用方法及び棚卸についての説明会を開催いたしますので、試薬及び高圧ガスを使用される教職員・学生の方は出席ください。\nなお、後日オンデマンド（英語字幕付）でも開催することを申し添えます。\n…",
-            "date_modified": "2024-03-11T03:00:00.000Z"
-        },
-        {
-            "id": "5c52be62e18a65c9d979c4c9135c21ee",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4916",
-            "title": "2024年度 日本語コースの実施/Japanese Language Courses for AY2024",
-            "summary": "グローバルコミュニケーション教育センター（CEGLOC）が開講する日本語コースの受講を希望する留学生等は、下記のリンクから受講手続を確認してください。\n\nIf you are interested in the Japanese Language Courses offered by the Center for Education of Global Communication (CEGLOC)…",
             "date_modified": "2024-03-11T03:00:00.000Z"
         }
     ]
