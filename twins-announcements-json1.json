@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "84dd462bfe608335a172b5c5f8cbe560",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4942",
+            "title": "【BHE】3月27日ｵﾝﾗｲﾝ面接練習会",
+            "summary": "就活が早期化＆本格化していることを受け、3月もオンラインでも開催します。\n就活中の方、ISの選考を受ける方、参加して役立ててください。\n（日本語での開催です）\n\n〇日時と場所\n日にち：令和６年3月27日（水）\n時間：集団面接編　10：00-11：30\n〇定員\n各回12名\n〇申込に当たっての注意点\n\nBHE HPより申し込んでください。\n「イベントコンテンツ動画・資料」→「就職情報」\nhttps:/…",
+            "date_modified": "2024-03-19T03:00:00.000Z"
+        },
+        {
             "id": "276711317d805e2f4f8983978bc6b338",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4941",
             "title": "【カナダ大使館後援2024春留学フェア】のお知らせ（3/20（水））",
@@ -136,13 +143,6 @@
             "title": "【開催案内】第6回 オンラインによるロシア・中央アジア映画上映会",
             "summary": "　筑波大学「日本財団 中央アジア・日本人材育成プロジェクト (NipCA)」は、中央アジアの文化とSDGsへの理解促進のため、オンラインによるロシア・中央アジア映画上映会を開催しています。\n　映画上映会も通算で第6回目となる今回は、在日本ウズベキスタン共和国大使館の協力を得て、第5回に引き続きウズベキスタンの映画を上映できることとなりました。今回の上映作品は、ユルダシ・アグザモフが1958年に撮っ…",
             "date_modified": "2024-03-12T03:00:00.000Z"
-        },
-        {
-            "id": "90c7b968b5fffac084bcdb75b7b993e3",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4917",
-            "title": "【開催通知】薬品・高圧ガス管理システム説明会",
-            "summary": "令和６年度から、原則全ての試薬及び高圧ガスの薬品・高圧ガス管理システム「Tsukuba-CRIS」（以下「CRIS」という。）への登録、1年に1度以上の定期的な棚卸が義務化されます。化学物質管理強化方針、CRISの使用方法及び棚卸についての説明会を開催いたしますので、試薬及び高圧ガスを使用される教職員・学生の方は出席ください。\nなお、後日オンデマンド（英語字幕付）でも開催することを申し添えます。\n…",
-            "date_modified": "2024-03-11T03:00:00.000Z"
         }
     ]
 }
