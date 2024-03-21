@@ -4,10 +4,30 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Wed, 20 Mar 2024 21:17:11 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Mar 2024 09:12:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
+        <item>
+            <title><![CDATA[【BHE】3月27日ｵﾝﾗｲﾝ面接練習会]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4943</link>
+            <guid>84dd462bfe608335a172b5c5f8cbe560</guid>
+            <pubDate>Thu, 21 Mar 2024 03:00:00 GMT</pubDate>
+            <description><![CDATA[就活が早期化＆本格化していることを受け、3月もオンラインでも開催します。
+就活中の方、ISの選考を受ける方、参加して役立ててください。
+（日本語での開催です）
+
+〇日時と場所
+日にち：令和６年3月27日（水）
+時間：集団面接編　10：00-11：30
+〇定員
+各回12名
+〇申込に当たっての注意点
+
+BHE HPより申し込んでください。
+「イベントコンテンツ動画・資料」→「就職情報」
+https:/…]]></description>
+        </item>
         <item>
             <title><![CDATA[【カナダ大使館後援2024春留学フェア】のお知らせ（3/20（水））]]></title>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4941</link>
@@ -248,15 +268,6 @@ Undergraduate and Graduate School Commencement Ceremonies for AY2023 will be hel
             <pubDate>Tue, 12 Mar 2024 03:00:00 GMT</pubDate>
             <description><![CDATA[　筑波大学「日本財団 中央アジア・日本人材育成プロジェクト (NipCA)」は、中央アジアの文化とSDGsへの理解促進のため、オンラインによるロシア・中央アジア映画上映会を開催しています。
 　映画上映会も通算で第6回目となる今回は、在日本ウズベキスタン共和国大使館の協力を得て、第5回に引き続きウズベキスタンの映画を上映できることとなりました。今回の上映作品は、ユルダシ・アグザモフが1958年に撮っ…]]></description>
-        </item>
-        <item>
-            <title><![CDATA[【開催通知】薬品・高圧ガス管理システム説明会]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4917</link>
-            <guid>90c7b968b5fffac084bcdb75b7b993e3</guid>
-            <pubDate>Mon, 11 Mar 2024 03:00:00 GMT</pubDate>
-            <description><![CDATA[令和６年度から、原則全ての試薬及び高圧ガスの薬品・高圧ガス管理システム「Tsukuba-CRIS」（以下「CRIS」という。）への登録、1年に1度以上の定期的な棚卸が義務化されます。化学物質管理強化方針、CRISの使用方法及び棚卸についての説明会を開催いたしますので、試薬及び高圧ガスを使用される教職員・学生の方は出席ください。
-なお、後日オンデマンド（英語字幕付）でも開催することを申し添えます。
-…]]></description>
         </item>
     </channel>
 </rss>
