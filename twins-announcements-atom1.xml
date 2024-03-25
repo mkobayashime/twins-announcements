@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/mkobayashime/twins-announcements</id>
     <title>在学生へのお知らせ | 筑波大学</title>
-    <updated>2024-03-25T02:01:57.870Z</updated>
+    <updated>2024-03-25T03:15:19.885Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://github.com/mkobayashime/twins-announcements"/>
     <subtitle>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</subtitle>
+    <entry>
+        <title type="html"><![CDATA[【4月】筑波大学BHEセーファースペース「KiteKite（きてきて）」の実施について]]></title>
+        <id>31a587ec096d18e3f6eb7f36df917dc9</id>
+        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4949"/>
+        <updated>2024-03-25T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[ヒューマンエンパワーメント推進局（BHE）ジェンダー支援チームでは、学生スタッフと共同で”セーファースペースKiteKite（きてきて）”を実施しています。4月の実施日についてお知らせしますので、ぜひお気軽にご参加ください。
+
+※セーファースペースとは…LGBTQ＋や女性をはじめ、全ての人が自らのジェンダー・セクシュアリティについてより安全に話すことができる居場所のこと
+
+KiteKiteは、年齢…]]></summary>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【新一年生向け】～トビタテ！留学JAPAN新・日本代表プログラム～　 ≪先輩トビタテ生による留学体験談・スタッフによる説明会（2023年12月11日実施）の再配信≫]]></title>
         <id>1f5e966e15081c6901a814f310891f57</id>
@@ -250,14 +261,5 @@ Due to annual updates, various services on TWINS will be temporarily suspended d
 
 （アーカイブ配信）
 https://o365tsukuba-my.sharepoint.com/:v:/g/personal/goino_hikari_fm_un_tsukuba_ac_jp/EQ8pDK…]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[Notice] Undergraduate / Graduate School Commencement Ceremonies for AY2023]]></title>
-        <id>d8e774330d2b4661e2f47f7dc18ee9fc</id>
-        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4922"/>
-        <updated>2024-03-12T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[To Graduating Students
-
-Undergraduate and Graduate School Commencement Ceremonies for AY2023 will be held as shown in the attached file.]]></summary>
     </entry>
 </feed>
