@@ -5,6 +5,20 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "1f5e966e15081c6901a814f310891f57",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4947",
+            "title": "【新一年生向け】～トビタテ！留学JAPAN新・日本代表プログラム～　 ≪先輩トビタテ生による留学体験談・スタッフによる説明会（2023年12月11日実施）の再配信≫",
+            "summary": "トビタテ！留学JAPAN新・日本代表プログラム～【大学一年生枠】に応募する新一年生に向け、2023年12月11日（月）に開催された～トビタテ！留学JAPAN新・日本代表プログラム～　≪先輩トビタテ生による留学体験談・スタッフによる説明会≫の録画を学習管理システム「manaba」に掲載しましたのでご案内いたします（2024年4月15日までご視聴いただけます）。\n\n●録画の視聴方法\n１　manaba …",
+            "date_modified": "2024-03-25T03:00:00.000Z"
+        },
+        {
+            "id": "04e6c99d4ab052fbcd6be548b2372f19",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4946",
+            "title": "2024年度（第16期）官民協働海外留学支援制度～トビタテ！留学JAPAN新・日本代表プログラム～【大学１年生枠】の募集について（学内締切：2024年4月15日（月）17時）",
+            "summary": "2024年度（第16期）官民協働海外留学支援制度～トビタテ！留学JAPAN新・日本代表プログラム～【大学1年生枠】の募集につき、ご案内いたします。座学だけでなく、インターンシップや実習、ボランティア等の実践活動を含む留学計画が支援対象であり、留学の成果を積極的に社会に発信することが求められます。申請希望者は募集要項にて要件を確認の上、2024年4月15日（月）17時までに、応募申請システム（ガクシ…",
+            "date_modified": "2024-03-25T03:00:00.000Z"
+        },
+        {
             "id": "c722550e270db66b514487e509c232f3",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4945",
             "title": "世界文化セミナーについて　(The World Culture Seminar)",
@@ -129,20 +143,6 @@
             "title": "[Notice] Undergraduate / Graduate School Commencement Ceremonies for AY2023",
             "summary": "To Graduating Students\n\nUndergraduate and Graduate School Commencement Ceremonies for AY2023 will be held as shown in the attached file.",
             "date_modified": "2024-03-12T03:00:00.000Z"
-        },
-        {
-            "id": "a47ed47c9cee8c0e00592c24c9999dfa",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4921",
-            "title": "【お知らせ】令和5年度卒業式・学位記授与式の開催について",
-            "summary": "卒業生・修了生　各位\n\n令和5年度卒業式・学位記授与式を添付ファイルのとおり挙行いたしますので、お知らせします。",
-            "date_modified": "2024-03-12T03:00:00.000Z"
-        },
-        {
-            "id": "5c52be62e18a65c9d979c4c9135c21ee",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4916",
-            "title": "2024年度 日本語コースの実施/Japanese Language Courses for AY2024",
-            "summary": "グローバルコミュニケーション教育センター（CEGLOC）が開講する日本語コースの受講を希望する留学生等は、下記のリンクから受講手続を確認してください。\n\nIf you are interested in the Japanese Language Courses offered by the Center for Education of Global Communication (CEGLOC)…",
-            "date_modified": "2024-03-11T03:00:00.000Z"
         }
     ]
 }
