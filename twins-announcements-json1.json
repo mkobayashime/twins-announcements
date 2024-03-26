@@ -5,6 +5,20 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "42d8e551f3b46d55dfd90cc5ee95677d",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4954",
+            "title": "筑波大学「世界を変えよう基金」鈴木奨学金2024年度奨学生募集のお知らせ",
+            "summary": "筑波大学「世界を変えよう基金」は、2015年12月本学客員教授を務めていた鈴木英明氏により創設され、大学内外の社会的・文化的ニーズに貢献する活動を行う筑波大学生を対象に資金支援を行っています。\n\n新型肺炎感染拡大により経済的に困窮する学生が急増した状況に鑑み、将来日本社会・国際社会に貢献する意欲を有する学部生に対して、2020年7月から鈴木奨学金を支給しています。返済は不要ですが、支給に際し「鈴木…",
+            "date_modified": "2024-03-26T03:00:00.000Z"
+        },
+        {
+            "id": "2e054f6196b7cc72e9230e7055b0212b",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4953",
+            "title": "3/27開催 2024年度受験対象　公務員試験対策講座のお知らせ",
+            "summary": "24年度に公務員試験を受験予定の方向けに試験対策講座を開催します。\n受験予定の年度別に内容が異なりますので、以下を確認の上、申し込んでください。\n\n〇3月27日（水）24年度受験者向け　公務員試験対策講座\n（内容）\n東京リーガルマインド専任講師による2024年受験予定者対象の公務員試験対策講座です。\n【第1部】13:00-14:15\n「面接試験を攻略する」\n【第2部】14:30-15:30\n「官庁…",
+            "date_modified": "2024-03-26T03:00:00.000Z"
+        },
+        {
             "id": "b030d1d93f9d4c4f1662290b76264098",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4952",
             "title": "公益財団法人本庄国際奨学財団奨学金 　2024年度(秋採用)/Honjo International Scholarship Foundation (Fall) for 2024",
@@ -129,20 +143,6 @@
             "title": "公益財団法人　大塚敏美育英奨学財団奨学金　2024年度",
             "summary": "公益財団法人　大塚敏美育英奨学財団奨学金　2024年度\n※「Web提出」と「原本の郵送」の両方の手続きが必須です。\n応募期間：\n【新規申請者】\n-WEB提出：2024年3月7日(木) 9時～4月22日(月) 17時\n-郵送：2024年4月1日(月)～4月25日(木) 15時(必着)\n【継続申請者】\n-WEB提出：2024年3月7日(木) 9時～4月15日(月) 17時\n-郵送：2024年4月1日(…",
             "date_modified": "2024-03-14T03:00:00.000Z"
-        },
-        {
-            "id": "1e70161c8736012e6723cf1e1470d72f",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4929",
-            "title": "年度末・年度始のTWINS サービス休止のお知らせ",
-            "summary": "TWINSの年度更新作業のため、下記の期間TWINSによる各種サービスを休止します。\nこの間、成績照会や証明書の発行もできません。\nご不便をおかけしますが、ご協力をお願いします。\n令和６年３月30日(土)12時 ～ ４月２日(火)まで\n\nDue to annual updates, various services on TWINS will be temporarily suspended du…",
-            "date_modified": "2024-03-14T03:00:00.000Z"
-        },
-        {
-            "id": "946b96dc6615228830fb36fe2423ec69",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4928",
-            "title": "卒業祝賀飛行のお知らせ",
-            "summary": "卒業予定者のみなさんへ\n\n卒業式当日（3/25），人間系の岡田昌毅教授が卒業祝賀飛行を行います。\nみなさんの門出を，機長の岡田先生が筑波大学上空からお祝いします。\n\n（心理学類長からのメッセージ）\n\n最高学年のみなさんへ\n行く人，待つ人，みんなに，祝賀飛行を。\nみなさんの進路は，もう一斉スタートではなく，自由発進です。\n卒業式３／２５を学生生活の一区切りとし，いつでもキャンパスを飛び出して，自由に…",
-            "date_modified": "2024-03-13T03:00:00.000Z"
         }
     ]
 }
