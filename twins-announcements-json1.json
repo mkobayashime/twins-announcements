@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "d6f60501524d8af57bd0aee836c054e2",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4955",
+            "title": "HPVワクチン集団接種の実施について（通知）",
+            "summary": "　本学では、国がキャッチアップ期間（令和４（2022）年４月～令和７年（2025）３月の３年間）を設けてHPVワクチン接種の積極的な勧奨を再開していることから、教職員及び学生の健康管理の観点から、接種対象となる方のうち、希望者を対象として添付のとおり実施するものです。\n　詳細は、添付ファイル「HPVワクチン集団接種の実施内容について」をご参照ください。\n\n※現在、手元に自治体から届いたHPVワクチ…",
+            "date_modified": "2024-03-26T03:00:00.000Z"
+        },
+        {
             "id": "42d8e551f3b46d55dfd90cc5ee95677d",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4954",
             "title": "筑波大学「世界を変えよう基金」鈴木奨学金2024年度奨学生募集のお知らせ",
@@ -136,13 +143,6 @@
             "title": "【再掲】公益財団法人　大塚敏美育英奨学財団奨学金　2024年度",
             "summary": "公益財団法人　大塚敏美育英奨学財団　2024年度\n\n※添付ファイルに不備があったため再掲いたします。\n※「Web提出」と「原本の郵送」の両方の手続きが必須です。\n応募期間：\n【新規申請者】\n-WEB提出：2024年3月7日(木) 9時～4月22日(月) 17時\n-郵送：2024年4月1日(月)～4月25日(木) 15時(必着)\n【継続申請者】\n-WEB提出：2024年3月7日(木) 9時～4月15…",
             "date_modified": "2024-03-15T03:00:00.000Z"
-        },
-        {
-            "id": "1b00fc47c9d74aef7ae43c373b3cfc6e",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4930",
-            "title": "公益財団法人　大塚敏美育英奨学財団奨学金　2024年度",
-            "summary": "公益財団法人　大塚敏美育英奨学財団奨学金　2024年度\n※「Web提出」と「原本の郵送」の両方の手続きが必須です。\n応募期間：\n【新規申請者】\n-WEB提出：2024年3月7日(木) 9時～4月22日(月) 17時\n-郵送：2024年4月1日(月)～4月25日(木) 15時(必着)\n【継続申請者】\n-WEB提出：2024年3月7日(木) 9時～4月15日(月) 17時\n-郵送：2024年4月1日(…",
-            "date_modified": "2024-03-14T03:00:00.000Z"
         }
     ]
 }
