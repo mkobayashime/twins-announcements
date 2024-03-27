@@ -4,10 +4,26 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Tue, 26 Mar 2024 21:17:53 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Mar 2024 03:14:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
+        <item>
+            <title><![CDATA[本日開催！当日参加可！ 2024年度受験対象　公務員試験対策講座のお知らせ]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4956</link>
+            <guid>6184cc40f5b72e0df28ab4559fb99d7b</guid>
+            <pubDate>Wed, 27 Mar 2024 03:00:00 GMT</pubDate>
+            <description><![CDATA[24年度に公務員試験を受験予定の方向けに試験対策講座を開催します。
+受験予定の年度別に内容が異なりますので、以下を確認の上、申し込んでください。
+
+〇3月27日（水）24年度受験者向け　公務員試験対策講座
+（内容）
+東京リーガルマインド専任講師による2024年受験予定者対象の公務員試験対策講座です。
+【第1部】13:00-14:15
+「面接試験を攻略する」
+【第2部】14:30-15:30
+「官庁…]]></description>
+        </item>
         <item>
             <title><![CDATA[HPVワクチン集団接種の実施について（通知）]]></title>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4955</link>
@@ -258,21 +274,6 @@ Due to annual updates, various services on TWINS will be temporarily suspended d
 行く人，待つ人，みんなに，祝賀飛行を。
 みなさんの進路は，もう一斉スタートではなく，自由発進です。
 卒業式３／２５を学生生活の一区切りとし，いつでもキャンパスを飛び出して，自由に…]]></description>
-        </item>
-        <item>
-            <title><![CDATA[【申込受付中】令和6年度 筑波大学事務職員独自採用試験説明会]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4926</link>
-            <guid>4f83ccfb07b93bf1280d8e0b6dd65294</guid>
-            <pubDate>Wed, 13 Mar 2024 03:00:00 GMT</pubDate>
-            <description><![CDATA[進学先としての筑波大学ではなく、就職先としての国立大学法人筑波大学をご存じの方は、
-そう多くないのではないのでしょうか。
-「国立大学法人筑波大学ってどんな大学なのだろう」
-「筑波大学で職員として働く魅力・やりがいは？」
-という疑問に、筑波大学職員がお答えします！
-
-－形式　　：オンライン（Zoom）
-－日時　　：2024年3月16日（土）10：00～10：40、11：00～11：40
-　　　　　　…]]></description>
         </item>
     </channel>
 </rss>
