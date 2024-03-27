@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "af841e636076093a2269457444e48cc8",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4957",
+            "title": "【注意喚起】本学構内における不審者の出没について／[caution] Suspicious Persons on the University's Campus",
+            "summary": "3月27日（水）10時ごろ、医学西駐車場（国際統合睡眠医科学研究機構（IIIS））付近において、歩行者にバッグで殴りかかろうとする、駐車場の車のナンバーを確認する不審者が出没しました。\nキャンパス内を移動する際には、不審者がいないか、不審な点がないか十分気をつけてください。\nキャンパス内で不審者・不審物の情報があれば、速やかに最寄りの警備員室または本部防災センター（029-853-2079）へご連…",
+            "date_modified": "2024-03-27T03:00:00.000Z"
+        },
+        {
             "id": "6184cc40f5b72e0df28ab4559fb99d7b",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4956",
             "title": "本日開催！当日参加可！ 2024年度受験対象　公務員試験対策講座のお知らせ",
@@ -136,13 +143,6 @@
             "title": "年度末・年度始のTWINS サービス休止のお知らせ",
             "summary": "TWINSの年度更新作業のため、下記の期間TWINSによる各種サービスを休止します。\nこの間、成績照会や証明書の発行もできません。\nご不便をおかけしますが、ご協力をお願いします。\n令和６年３月30日(土)12時 ～ ４月２日(火)まで\n\nDue to annual updates, various services on TWINS will be temporarily suspended du…",
             "date_modified": "2024-03-14T03:00:00.000Z"
-        },
-        {
-            "id": "946b96dc6615228830fb36fe2423ec69",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4928",
-            "title": "卒業祝賀飛行のお知らせ",
-            "summary": "卒業予定者のみなさんへ\n\n卒業式当日（3/25），人間系の岡田昌毅教授が卒業祝賀飛行を行います。\nみなさんの門出を，機長の岡田先生が筑波大学上空からお祝いします。\n\n（心理学類長からのメッセージ）\n\n最高学年のみなさんへ\n行く人，待つ人，みんなに，祝賀飛行を。\nみなさんの進路は，もう一斉スタートではなく，自由発進です。\n卒業式３／２５を学生生活の一区切りとし，いつでもキャンパスを飛び出して，自由に…",
-            "date_modified": "2024-03-13T03:00:00.000Z"
         }
     ]
 }
