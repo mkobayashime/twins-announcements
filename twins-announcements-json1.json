@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "e4d8386ecab96402f1393ee8690d75ae",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4964",
+            "title": "留学生のチューター募集について（2024年度春学期）",
+            "summary": "留学生と交流したい、または留学生をサポートしたいと思っている正規課程の在学生の皆さん、ぜひチューターになってみませんか？\n\n2024年4月に多くの留学生が入学する予定です。\nこれに伴い、チューター支援（主に生活の立ち上げ支援（原則対面））を\n行ってくださるチューターを大募集しています！！！！\n\nチューター希望の学生は、下記URL上の「チューターバンク」に記載の登録方法に従い、チューターバンクに登録…",
+            "date_modified": "2024-03-29T03:00:00.000Z"
+        },
+        {
             "id": "87b9b988312adb884ebab3738860bfbd",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4963",
             "title": "General use of the Central Gymnasium Training Room for University Members (Trial Operation)",
@@ -133,13 +140,6 @@
         {
             "id": "e8080361ccc0324017a542b56b7bbb41",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4939",
-            "title": "3/25･27公務員試験対策講座・公務員試験対策ガイダンスのお知らせ",
-            "summary": "24年度、25年度以降、公務員試験を受験予定の方向けに試験対策講座を開催します。\n受験予定の年度別に内容が異なりますので、以下を確認の上、申し込んでください。\n\n〇3月25日（月）25年度受験者向け　公務員試験対策講座　\n（内容）\n東京リーガルマインド専任講師による2025年受験予定者対象の公務員試験対策講座です。\n2025年に公務員試験受験を考えるにあたり、公務員の仕事や試験対策について学ぶこと…",
-            "date_modified": "2024-03-19T03:00:00.000Z"
-        },
-        {
-            "id": "e8080361ccc0324017a542b56b7bbb41",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4938",
             "title": "3/25･27公務員試験対策講座・公務員試験対策ガイダンスのお知らせ",
             "summary": "24年度、25年度以降、公務員試験を受験予定の方向けに試験対策講座を開催します。\n受験予定の年度別に内容が異なりますので、以下を確認の上、申し込んでください。\n\n〇3月25日（月）25年度受験者向け　公務員試験対策講座　\n（内容）\n東京リーガルマインド専任講師による2025年受験予定者対象の公務員試験対策講座です。\n2025年に公務員試験受験を考えるにあたり、公務員の仕事や試験対策について学ぶこと…",
             "date_modified": "2024-03-19T03:00:00.000Z"
