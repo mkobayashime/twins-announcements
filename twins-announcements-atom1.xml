@@ -2,10 +2,24 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/mkobayashime/twins-announcements</id>
     <title>在学生へのお知らせ | 筑波大学</title>
-    <updated>2024-03-31T09:17:00.163Z</updated>
+    <updated>2024-03-31T15:11:42.587Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://github.com/mkobayashime/twins-announcements"/>
     <subtitle>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</subtitle>
+    <entry>
+        <title type="html"><![CDATA[筑波大学公式オリジナルグッズECサイト割引クーポンのお知らせ（4月）]]></title>
+        <id>2976fdf573b6be3bc81f8b1cd4d10bdf</id>
+        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4948"/>
+        <updated>2024-04-01T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[筑波大学公式オリジナルグッズ販売サイト「TSUKUBA-SHOP」4月の割引クーポンコードをお知らせいたします！
+
+
+どうぞご覧いただき、皆様の「日常生活」、「思い出」、「プレゼント🎁」などにご活用いただけますと幸いです。
+
+ECサイトは以下のリンクから
+※学内専用割引コードをTWINS掲示「大学から学生へのお知らせ（学内専用）」に掲載しております。
+※学生・教職員はこのコードを入力することで、…]]></summary>
+    </entry>
     <entry>
         <title type="html"><![CDATA[留学生のチューター募集について（2024年度春学期）]]></title>
         <id>e4d8386ecab96402f1393ee8690d75ae</id>
@@ -227,18 +241,5 @@ World Culture Seminar will be held by Ib…]]></summary>
 BHE HPより申し込んでください。
 「イベントコンテンツ動画・資料」→「就職情報」
 https:/…]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[3/25･27公務員試験対策講座・公務員試験対策ガイダンスのお知らせ]]></title>
-        <id>e8080361ccc0324017a542b56b7bbb41</id>
-        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4939"/>
-        <updated>2024-03-19T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[24年度、25年度以降、公務員試験を受験予定の方向けに試験対策講座を開催します。
-受験予定の年度別に内容が異なりますので、以下を確認の上、申し込んでください。
-
-〇3月25日（月）25年度受験者向け　公務員試験対策講座　
-（内容）
-東京リーガルマインド専任講師による2025年受験予定者対象の公務員試験対策講座です。
-2025年に公務員試験受験を考えるにあたり、公務員の仕事や試験対策について学ぶこと…]]></summary>
     </entry>
 </feed>
