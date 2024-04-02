@@ -2,10 +2,24 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/mkobayashime/twins-announcements</id>
     <title>在学生へのお知らせ | 筑波大学</title>
-    <updated>2024-04-01T21:16:48.160Z</updated>
+    <updated>2024-04-02T07:14:07.777Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://github.com/mkobayashime/twins-announcements"/>
     <subtitle>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</subtitle>
+    <entry>
+        <title type="html"><![CDATA[令和６年度全学ＴＡ研修会の開催について]]></title>
+        <id>7d2281bc3cb4a0931cde766b1c2dd194</id>
+        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4965"/>
+        <updated>2024-04-02T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[大学院生各位
+
+全学TA研修会をmanabaで配信開始しました。TA業務にあたる予定の方は、業務開始前に必ず受講してください。
+
+
+Dear graduate students,
+
+The TA training seminar has now been launched on Manaba. Those scheduled to engage in TA duties must complete…]]></summary>
+    </entry>
     <entry>
         <title type="html"><![CDATA[筑波大学公式オリジナルグッズECサイト割引クーポンのお知らせ（4月）]]></title>
         <id>2976fdf573b6be3bc81f8b1cd4d10bdf</id>
@@ -221,25 +235,5 @@ KiteKiteは、年齢…]]></summary>
 詳細はファイル及びHPをご確認ください。
 
 World Culture Seminar will be held by Ib…]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【BHE】3月27日ｵﾝﾗｲﾝ面接練習会]]></title>
-        <id>84dd462bfe608335a172b5c5f8cbe560</id>
-        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4943"/>
-        <updated>2024-03-21T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[就活が早期化＆本格化していることを受け、3月もオンラインでも開催します。
-就活中の方、ISの選考を受ける方、参加して役立ててください。
-（日本語での開催です）
-
-〇日時と場所
-日にち：令和６年3月27日（水）
-時間：集団面接編　10：00-11：30
-〇定員
-各回12名
-〇申込に当たっての注意点
-
-BHE HPより申し込んでください。
-「イベントコンテンツ動画・資料」→「就職情報」
-https:/…]]></summary>
     </entry>
 </feed>

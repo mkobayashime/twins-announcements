@@ -4,10 +4,24 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Mon, 01 Apr 2024 21:16:48 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 02 Apr 2024 07:14:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
+        <item>
+            <title><![CDATA[令和６年度全学ＴＡ研修会の開催について]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4965</link>
+            <guid>7d2281bc3cb4a0931cde766b1c2dd194</guid>
+            <pubDate>Tue, 02 Apr 2024 03:00:00 GMT</pubDate>
+            <description><![CDATA[大学院生各位
+
+全学TA研修会をmanabaで配信開始しました。TA業務にあたる予定の方は、業務開始前に必ず受講してください。
+
+
+Dear graduate students,
+
+The TA training seminar has now been launched on Manaba. Those scheduled to engage in TA duties must complete…]]></description>
+        </item>
         <item>
             <title><![CDATA[筑波大学公式オリジナルグッズECサイト割引クーポンのお知らせ（4月）]]></title>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4948</link>
@@ -223,26 +237,6 @@ KiteKiteは、年齢…]]></description>
 詳細はファイル及びHPをご確認ください。
 
 World Culture Seminar will be held by Ib…]]></description>
-        </item>
-        <item>
-            <title><![CDATA[【BHE】3月27日ｵﾝﾗｲﾝ面接練習会]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4943</link>
-            <guid>84dd462bfe608335a172b5c5f8cbe560</guid>
-            <pubDate>Thu, 21 Mar 2024 03:00:00 GMT</pubDate>
-            <description><![CDATA[就活が早期化＆本格化していることを受け、3月もオンラインでも開催します。
-就活中の方、ISの選考を受ける方、参加して役立ててください。
-（日本語での開催です）
-
-〇日時と場所
-日にち：令和６年3月27日（水）
-時間：集団面接編　10：00-11：30
-〇定員
-各回12名
-〇申込に当たっての注意点
-
-BHE HPより申し込んでください。
-「イベントコンテンツ動画・資料」→「就職情報」
-https:/…]]></description>
         </item>
     </channel>
 </rss>

@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "7d2281bc3cb4a0931cde766b1c2dd194",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4965",
+            "title": "令和６年度全学ＴＡ研修会の開催について",
+            "summary": "大学院生各位\n\n全学TA研修会をmanabaで配信開始しました。TA業務にあたる予定の方は、業務開始前に必ず受講してください。\n\n\nDear graduate students,\n\nThe TA training seminar has now been launched on Manaba. Those scheduled to engage in TA duties must complete…",
+            "date_modified": "2024-04-02T03:00:00.000Z"
+        },
+        {
             "id": "2976fdf573b6be3bc81f8b1cd4d10bdf",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4948",
             "title": "筑波大学公式オリジナルグッズECサイト割引クーポンのお知らせ（4月）",
@@ -136,13 +143,6 @@
             "title": "世界文化セミナーについて　(The World Culture Seminar)",
             "summary": "\"(公財)茨城県国際交流協会では、「2024年度世界文化セミナー(春期)」を開講します。\n興味のある方は、チラシのQRコード、またはHPの申込書に必要事項を記入の上、3月26日(火)（オンデマンドコースは４月４日（木）一次締め切り）までにメール、郵送にてお申し込みください。\n詳細はファイル及びHPをご確認ください。\n\nWorld Culture Seminar will be held by Ib…",
             "date_modified": "2024-03-22T03:00:00.000Z"
-        },
-        {
-            "id": "84dd462bfe608335a172b5c5f8cbe560",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4943",
-            "title": "【BHE】3月27日ｵﾝﾗｲﾝ面接練習会",
-            "summary": "就活が早期化＆本格化していることを受け、3月もオンラインでも開催します。\n就活中の方、ISの選考を受ける方、参加して役立ててください。\n（日本語での開催です）\n\n〇日時と場所\n日にち：令和６年3月27日（水）\n時間：集団面接編　10：00-11：30\n〇定員\n各回12名\n〇申込に当たっての注意点\n\nBHE HPより申し込んでください。\n「イベントコンテンツ動画・資料」→「就職情報」\nhttps:/…",
-            "date_modified": "2024-03-21T03:00:00.000Z"
         }
     ]
 }
