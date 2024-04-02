@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "f9d3d2571e06458599b3371e53efd0e2",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4966",
+            "title": "TA training 2024 launched on manaba",
+            "summary": "Dear graduate students,\n\nThe TA training seminar has now been launched on manaba. Those scheduled to engage in TA duties must complete the seminar before commencing their tasks.\n",
+            "date_modified": "2024-04-02T03:00:00.000Z"
+        },
+        {
             "id": "7d2281bc3cb4a0931cde766b1c2dd194",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4965",
             "title": "令和６年度全学ＴＡ研修会の開催について",
@@ -136,13 +143,6 @@
             "title": "2024年度（第16期）官民協働海外留学支援制度～トビタテ！留学JAPAN新・日本代表プログラム～【大学１年生枠】の募集について（学内締切：2024年4月15日（月）17時）",
             "summary": "2024年度（第16期）官民協働海外留学支援制度～トビタテ！留学JAPAN新・日本代表プログラム～【大学1年生枠】の募集につき、ご案内いたします。座学だけでなく、インターンシップや実習、ボランティア等の実践活動を含む留学計画が支援対象であり、留学の成果を積極的に社会に発信することが求められます。申請希望者は募集要項にて要件を確認の上、2024年4月15日（月）17時までに、応募申請システム（ガクシ…",
             "date_modified": "2024-03-25T03:00:00.000Z"
-        },
-        {
-            "id": "c722550e270db66b514487e509c232f3",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4945",
-            "title": "世界文化セミナーについて　(The World Culture Seminar)",
-            "summary": "\"(公財)茨城県国際交流協会では、「2024年度世界文化セミナー(春期)」を開講します。\n興味のある方は、チラシのQRコード、またはHPの申込書に必要事項を記入の上、3月26日(火)（オンデマンドコースは４月４日（木）一次締め切り）までにメール、郵送にてお申し込みください。\n詳細はファイル及びHPをご確認ください。\n\nWorld Culture Seminar will be held by Ib…",
-            "date_modified": "2024-03-22T03:00:00.000Z"
         }
     ]
 }

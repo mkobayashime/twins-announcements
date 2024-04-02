@@ -4,10 +4,20 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Tue, 02 Apr 2024 07:14:07 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 02 Apr 2024 08:16:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
+        <item>
+            <title><![CDATA[TA training 2024 launched on manaba]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4966</link>
+            <guid>f9d3d2571e06458599b3371e53efd0e2</guid>
+            <pubDate>Tue, 02 Apr 2024 03:00:00 GMT</pubDate>
+            <description><![CDATA[Dear graduate students,
+
+The TA training seminar has now been launched on manaba. Those scheduled to engage in TA duties must complete the seminar before commencing their tasks.
+]]></description>
+        </item>
         <item>
             <title><![CDATA[令和６年度全学ＴＡ研修会の開催について]]></title>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4965</link>
@@ -226,17 +236,6 @@ KiteKiteは、年齢…]]></description>
             <guid>04e6c99d4ab052fbcd6be548b2372f19</guid>
             <pubDate>Mon, 25 Mar 2024 03:00:00 GMT</pubDate>
             <description><![CDATA[2024年度（第16期）官民協働海外留学支援制度～トビタテ！留学JAPAN新・日本代表プログラム～【大学1年生枠】の募集につき、ご案内いたします。座学だけでなく、インターンシップや実習、ボランティア等の実践活動を含む留学計画が支援対象であり、留学の成果を積極的に社会に発信することが求められます。申請希望者は募集要項にて要件を確認の上、2024年4月15日（月）17時までに、応募申請システム（ガクシ…]]></description>
-        </item>
-        <item>
-            <title><![CDATA[世界文化セミナーについて　(The World Culture Seminar)]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4945</link>
-            <guid>c722550e270db66b514487e509c232f3</guid>
-            <pubDate>Fri, 22 Mar 2024 03:00:00 GMT</pubDate>
-            <description><![CDATA["(公財)茨城県国際交流協会では、「2024年度世界文化セミナー(春期)」を開講します。
-興味のある方は、チラシのQRコード、またはHPの申込書に必要事項を記入の上、3月26日(火)（オンデマンドコースは４月４日（木）一次締め切り）までにメール、郵送にてお申し込みください。
-詳細はファイル及びHPをご確認ください。
-
-World Culture Seminar will be held by Ib…]]></description>
         </item>
     </channel>
 </rss>
