@@ -5,6 +5,20 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "ce9dd9c70d37929e3bf8c53ca599b17d",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4968",
+            "title": "2024-2025 年度 　韓国教員大学校　 交換留学生募集のお知らせ",
+            "summary": "韓国教員大学校への交換留学生を募集します。関心のある方は連絡調整責任者の國分先生宛てに2024年4月18日（木曜日）までにメールにてその旨お知らせください。応募多数の場合は選抜します。連絡調整責任者が期限までにメール受信を確認できない場合、2024-2025 年度の交換留学生への応募はできません。詳細は、添付ファイルをご参照ください。",
+            "date_modified": "2024-04-03T03:00:00.000Z"
+        },
+        {
+            "id": "e934ac3bbb4ae94e97ec2eee6bb5b02b",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4967",
+            "title": "2024年度第1期分授業料の納付について",
+            "summary": "2024年度第1期授業料の納付について、添付の通りお知らせいたします。\n口座振替日、納付期限についてご確認をお願いいたします。",
+            "date_modified": "2024-04-03T03:00:00.000Z"
+        },
+        {
             "id": "f9d3d2571e06458599b3371e53efd0e2",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4966",
             "title": "TA training 2024 launched on manaba",
@@ -128,20 +142,6 @@
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4949",
             "title": "【4月】筑波大学BHEセーファースペース「KiteKite（きてきて）」の実施について",
             "summary": "ヒューマンエンパワーメント推進局（BHE）ジェンダー支援チームでは、学生スタッフと共同で”セーファースペースKiteKite（きてきて）”を実施しています。4月の実施日についてお知らせしますので、ぜひお気軽にご参加ください。\n\n※セーファースペースとは…LGBTQ＋や女性をはじめ、全ての人が自らのジェンダー・セクシュアリティについてより安全に話すことができる居場所のこと\n\nKiteKiteは、年齢…",
-            "date_modified": "2024-03-25T03:00:00.000Z"
-        },
-        {
-            "id": "1f5e966e15081c6901a814f310891f57",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4947",
-            "title": "【新一年生向け】～トビタテ！留学JAPAN新・日本代表プログラム～　 ≪先輩トビタテ生による留学体験談・スタッフによる説明会（2023年12月11日実施）の再配信≫",
-            "summary": "トビタテ！留学JAPAN新・日本代表プログラム～【大学一年生枠】に応募する新一年生に向け、2023年12月11日（月）に開催された～トビタテ！留学JAPAN新・日本代表プログラム～　≪先輩トビタテ生による留学体験談・スタッフによる説明会≫の録画を学習管理システム「manaba」に掲載しましたのでご案内いたします（2024年4月15日までご視聴いただけます）。\n\n●録画の視聴方法\n１　manaba …",
-            "date_modified": "2024-03-25T03:00:00.000Z"
-        },
-        {
-            "id": "04e6c99d4ab052fbcd6be548b2372f19",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4946",
-            "title": "2024年度（第16期）官民協働海外留学支援制度～トビタテ！留学JAPAN新・日本代表プログラム～【大学１年生枠】の募集について（学内締切：2024年4月15日（月）17時）",
-            "summary": "2024年度（第16期）官民協働海外留学支援制度～トビタテ！留学JAPAN新・日本代表プログラム～【大学1年生枠】の募集につき、ご案内いたします。座学だけでなく、インターンシップや実習、ボランティア等の実践活動を含む留学計画が支援対象であり、留学の成果を積極的に社会に発信することが求められます。申請希望者は募集要項にて要件を確認の上、2024年4月15日（月）17時までに、応募申請システム（ガクシ…",
             "date_modified": "2024-03-25T03:00:00.000Z"
         }
     ]

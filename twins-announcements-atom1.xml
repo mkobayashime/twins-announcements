@@ -2,10 +2,25 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/mkobayashime/twins-announcements</id>
     <title>在学生へのお知らせ | 筑波大学</title>
-    <updated>2024-04-02T21:16:23.062Z</updated>
+    <updated>2024-04-03T00:53:50.126Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://github.com/mkobayashime/twins-announcements"/>
     <subtitle>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</subtitle>
+    <entry>
+        <title type="html"><![CDATA[2024-2025 年度 　韓国教員大学校　 交換留学生募集のお知らせ]]></title>
+        <id>ce9dd9c70d37929e3bf8c53ca599b17d</id>
+        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4968"/>
+        <updated>2024-04-03T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[韓国教員大学校への交換留学生を募集します。関心のある方は連絡調整責任者の國分先生宛てに2024年4月18日（木曜日）までにメールにてその旨お知らせください。応募多数の場合は選抜します。連絡調整責任者が期限までにメール受信を確認できない場合、2024-2025 年度の交換留学生への応募はできません。詳細は、添付ファイルをご参照ください。]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2024年度第1期分授業料の納付について]]></title>
+        <id>e934ac3bbb4ae94e97ec2eee6bb5b02b</id>
+        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4967"/>
+        <updated>2024-04-03T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[2024年度第1期授業料の納付について、添付の通りお知らせいたします。
+口座振替日、納付期限についてご確認をお願いいたします。]]></summary>
+    </entry>
     <entry>
         <title type="html"><![CDATA[TA training 2024 launched on manaba]]></title>
         <id>f9d3d2571e06458599b3371e53efd0e2</id>
@@ -217,22 +232,5 @@ ECサイトは以下のリンクから
 ※セーファースペースとは…LGBTQ＋や女性をはじめ、全ての人が自らのジェンダー・セクシュアリティについてより安全に話すことができる居場所のこと
 
 KiteKiteは、年齢…]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【新一年生向け】～トビタテ！留学JAPAN新・日本代表プログラム～　 ≪先輩トビタテ生による留学体験談・スタッフによる説明会（2023年12月11日実施）の再配信≫]]></title>
-        <id>1f5e966e15081c6901a814f310891f57</id>
-        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4947"/>
-        <updated>2024-03-25T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[トビタテ！留学JAPAN新・日本代表プログラム～【大学一年生枠】に応募する新一年生に向け、2023年12月11日（月）に開催された～トビタテ！留学JAPAN新・日本代表プログラム～　≪先輩トビタテ生による留学体験談・スタッフによる説明会≫の録画を学習管理システム「manaba」に掲載しましたのでご案内いたします（2024年4月15日までご視聴いただけます）。
-
-●録画の視聴方法
-１　manaba …]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2024年度（第16期）官民協働海外留学支援制度～トビタテ！留学JAPAN新・日本代表プログラム～【大学１年生枠】の募集について（学内締切：2024年4月15日（月）17時）]]></title>
-        <id>04e6c99d4ab052fbcd6be548b2372f19</id>
-        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4946"/>
-        <updated>2024-03-25T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[2024年度（第16期）官民協働海外留学支援制度～トビタテ！留学JAPAN新・日本代表プログラム～【大学1年生枠】の募集につき、ご案内いたします。座学だけでなく、インターンシップや実習、ボランティア等の実践活動を含む留学計画が支援対象であり、留学の成果を積極的に社会に発信することが求められます。申請希望者は募集要項にて要件を確認の上、2024年4月15日（月）17時までに、応募申請システム（ガクシ…]]></summary>
     </entry>
 </feed>
