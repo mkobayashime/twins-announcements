@@ -4,10 +4,21 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Wed, 03 Apr 2024 01:49:11 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 03 Apr 2024 04:15:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
+        <item>
+            <title><![CDATA[4/24（水）開催！筑波大学発ベンチャー・株式会社FullDepth伊藤昌平氏講演「深海とロボット」]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4971</link>
+            <guid>331e0e239da5995aad9900698f9caa00</guid>
+            <pubDate>Wed, 03 Apr 2024 03:00:00 GMT</pubDate>
+            <description><![CDATA[筑波大学卒業生でベンチャー企業を立ち上げ活躍する伊藤昌平氏の講演を、「筑波クリエイティブ・キャンプ・ベーシック」（学群自由科目）第2回授業内で実施いたします。
+授業履修生以外の方の参加も可能ですので、起業や事業立ち上げにご興味のある方はぜひご参加ください！
+
+■講演者　　　　：伊藤 昌平氏　株式会社FullDepth 取締役･共同創業者
+■日時　　　　　：2024年4月24日（水）13:45～15…]]></description>
+        </item>
         <item>
             <title><![CDATA[東京YWCA「留学生の母親」運動奨学金/Tokyo YWCA ‘Japanese Mothers for International Students’ Movement （2024年度）]]></title>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4970</link>
@@ -225,21 +236,6 @@ ECサイトは以下のリンクから
 募集要項：（PDF(資料5)）
 応募フォーム・必要書類一式：(https://entry.hisf.or.jp) (このシステムは2024年4月1日よりアクセス可能となります)
 ※この奨学金を受給する者は、2024年度の大学推薦奨学金の申請資格がありま…]]></description>
-        </item>
-        <item>
-            <title><![CDATA[公益財団法人 朝鮮奨学会 2024年度大学・大学院奨学生募集/The Korean Scholarship foundation 2024]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4951</link>
-            <guid>9931cd531c5e2a6c78a4215c1ebd44b5</guid>
-            <pubDate>Mon, 25 Mar 2024 03:00:00 GMT</pubDate>
-            <description><![CDATA[応募期間：(新規)2024年4月10日(水)～19日(金)　17時
-　　　　(継続、特別永住者)募集要項参照
-提出先：(新規)筑波大学学生交流課 事務室(1A棟101)
-　　　　(継続、特別永住者)募集要項参照
-募集要項：(PDF(資料2))
-新規申請フロー：(PDF(資料3))
-学内選考用応募様式（新規申請者）：下記URL参照
-※日本語能力が必要です。
-※この奨学金を受給する者は，2024年度の…]]></description>
         </item>
     </channel>
 </rss>
