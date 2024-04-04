@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/mkobayashime/twins-announcements</id>
     <title>在学生へのお知らせ | 筑波大学</title>
-    <updated>2024-04-03T21:15:58.160Z</updated>
+    <updated>2024-04-04T00:55:33.489Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://github.com/mkobayashime/twins-announcements"/>
     <subtitle>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</subtitle>
+    <entry>
+        <title type="html"><![CDATA[【周知】German Research Fair – ドイツ研究フェア（オンライン、4月11・12日）]]></title>
+        <id>be360607da813355a9c1f62e57db1179</id>
+        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4974"/>
+        <updated>2024-04-04T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[German Research Fair – ドイツ研究フェア（オンライン、4月11・12日）
+
+ドイツの大学や研究機関で研究したい、ドイツの大学の博士課程、ポスドク、奨学金について知りたい方必見！4月11日（木）・12日（金）にオンラインで開催されるドイツ研究フェアには、ドイツから30の有名大学、研究機関、助成機関が参加予定です。今すぐ登録をして、ドイツでの研究滞在への扉を開き、国際的な研究キャ…]]></summary>
+    </entry>
     <entry>
         <title type="html"><![CDATA[リユース品の配布/Distribution of reusable items]]></title>
         <id>0f8e15007332d1fc4af2aebfd6dc785b</id>
@@ -220,21 +229,5 @@ ECサイトは以下のリンクから
         <summary type="html"><![CDATA[筑波大学「世界を変えよう基金」は、2015年12月本学客員教授を務めていた鈴木英明氏により創設され、大学内外の社会的・文化的ニーズに貢献する活動を行う筑波大学生を対象に資金支援を行っています。
 
 新型肺炎感染拡大により経済的に困窮する学生が急増した状況に鑑み、将来日本社会・国際社会に貢献する意欲を有する学部生に対して、2020年7月から鈴木奨学金を支給しています。返済は不要ですが、支給に際し「鈴木…]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[3/27開催 2024年度受験対象　公務員試験対策講座のお知らせ]]></title>
-        <id>2e054f6196b7cc72e9230e7055b0212b</id>
-        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4953"/>
-        <updated>2024-03-26T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[24年度に公務員試験を受験予定の方向けに試験対策講座を開催します。
-受験予定の年度別に内容が異なりますので、以下を確認の上、申し込んでください。
-
-〇3月27日（水）24年度受験者向け　公務員試験対策講座
-（内容）
-東京リーガルマインド専任講師による2024年受験予定者対象の公務員試験対策講座です。
-【第1部】13:00-14:15
-「面接試験を攻略する」
-【第2部】14:30-15:30
-「官庁…]]></summary>
     </entry>
 </feed>
