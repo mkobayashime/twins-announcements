@@ -4,10 +4,24 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Thu, 04 Apr 2024 02:22:21 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 04 Apr 2024 06:16:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
+        <item>
+            <title><![CDATA[リユース品の配布/Distribution of reusable items]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4977</link>
+            <guid>0f8e15007332d1fc4af2aebfd6dc785b</guid>
+            <pubDate>Thu, 04 Apr 2024 03:00:00 GMT</pubDate>
+            <description><![CDATA[★リユース品の配布
+スチューデントサポートセンターでは、”Student Commons’ SDGs RECYCLING PROJECT”
+として、「まだ使用できる不用品」を回収し、新入生をはじめとした学生へ、無料譲渡するプロジェクトを実施します。
+
+※プロジェクト参加者は筑波大学の在籍者（学生、研究員、教職員）に限ります。
+
+4月4日木曜日　より配布開始　～12日金曜日まで
+　配布時間　10：0…]]></description>
+        </item>
         <item>
             <title><![CDATA[4/24（水）開催！筑波大学発ベンチャー・株式会社FullDepth伊藤昌平氏講演「深海とロボット」]]></title>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4975</link>
@@ -222,15 +236,6 @@ ECサイトは以下のリンクから
 　詳細は、添付ファイル「HPVワクチン集団接種の実施内容について」をご参照ください。
 
 ※現在、手元に自治体から届いたHPVワクチ…]]></description>
-        </item>
-        <item>
-            <title><![CDATA[筑波大学「世界を変えよう基金」鈴木奨学金2024年度奨学生募集のお知らせ]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4954</link>
-            <guid>42d8e551f3b46d55dfd90cc5ee95677d</guid>
-            <pubDate>Tue, 26 Mar 2024 03:00:00 GMT</pubDate>
-            <description><![CDATA[筑波大学「世界を変えよう基金」は、2015年12月本学客員教授を務めていた鈴木英明氏により創設され、大学内外の社会的・文化的ニーズに貢献する活動を行う筑波大学生を対象に資金支援を行っています。
-
-新型肺炎感染拡大により経済的に困窮する学生が急増した状況に鑑み、将来日本社会・国際社会に貢献する意欲を有する学部生に対して、2020年7月から鈴木奨学金を支給しています。返済は不要ですが、支給に際し「鈴木…]]></description>
         </item>
     </channel>
 </rss>
