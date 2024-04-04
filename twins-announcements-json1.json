@@ -5,6 +5,20 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "430cf58f8a38b47100d6548db2de1428",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4979",
+            "title": "4月10日　茗渓会　ぶっちゃけ相談会(リクルート・伊藤忠プラスチックス株式会社）",
+            "summary": "毎月2名のOBOGが登壇し、就職について・キャリアについて気軽に話ができるイベントです。\n【開催日程と手法】\n　・4月10日（水）21時～22時　受付：20時50分～\n　・ZOOM\n　※申し込み後にZOOMのURLを送ります。\n　※就活や選考ではないので、気軽に参加してください。\n　　私服、部屋着でOKです。登壇者も気軽に参加します。\n\n（今回登壇いただく方）\n【登壇者No1】\n理工学群　社会工学…",
+            "date_modified": "2024-04-04T03:00:00.000Z"
+        },
+        {
+            "id": "eb1ca310be43ec88be074392db75dfde",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4978",
+            "title": "4/10開催 2025年度受験対象　公務員試験対策講座のお知らせ",
+            "summary": "25年度に公務員試験を受験予定の方向けに試験対策講座を開催します。\n\n東京リーガルマインド専任講師による2025年受験予定者対象の公務員試験対策講座です。\n2025年に公務員試験受験を考える方を対象に、公務員の仕事や試験対策について学ぶことができます。\n学内公務員講座についても説明します。\n※3月25日の「公務員試験対策講座」とは別内容です。",
+            "date_modified": "2024-04-04T03:00:00.000Z"
+        },
+        {
             "id": "0f8e15007332d1fc4af2aebfd6dc785b",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4977",
             "title": "リユース品の配布/Distribution of reusable items",
@@ -129,20 +143,6 @@
             "title": "【注意喚起】本学構内における不審者の出没について／[caution] Suspicious Persons on the University's Campus",
             "summary": "3月27日（水）10時ごろ、医学西駐車場（国際統合睡眠医科学研究機構（IIIS））付近において、歩行者にバッグで殴りかかろうとする、駐車場の車のナンバーを確認する不審者が出没しました。\nキャンパス内を移動する際には、不審者がいないか、不審な点がないか十分気をつけてください。\nキャンパス内で不審者・不審物の情報があれば、速やかに最寄りの警備員室または本部防災センター（029-853-2079）へご連…",
             "date_modified": "2024-03-27T03:00:00.000Z"
-        },
-        {
-            "id": "6184cc40f5b72e0df28ab4559fb99d7b",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4956",
-            "title": "本日開催！当日参加可！ 2024年度受験対象　公務員試験対策講座のお知らせ",
-            "summary": "24年度に公務員試験を受験予定の方向けに試験対策講座を開催します。\n受験予定の年度別に内容が異なりますので、以下を確認の上、申し込んでください。\n\n〇3月27日（水）24年度受験者向け　公務員試験対策講座\n（内容）\n東京リーガルマインド専任講師による2024年受験予定者対象の公務員試験対策講座です。\n【第1部】13:00-14:15\n「面接試験を攻略する」\n【第2部】14:30-15:30\n「官庁…",
-            "date_modified": "2024-03-27T03:00:00.000Z"
-        },
-        {
-            "id": "d6f60501524d8af57bd0aee836c054e2",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4955",
-            "title": "HPVワクチン集団接種の実施について（通知）",
-            "summary": "　本学では、国がキャッチアップ期間（令和４（2022）年４月～令和７年（2025）３月の３年間）を設けてHPVワクチン接種の積極的な勧奨を再開していることから、教職員及び学生の健康管理の観点から、接種対象となる方のうち、希望者を対象として添付のとおり実施するものです。\n　詳細は、添付ファイル「HPVワクチン集団接種の実施内容について」をご参照ください。\n\n※現在、手元に自治体から届いたHPVワクチ…",
-            "date_modified": "2024-03-26T03:00:00.000Z"
         }
     ]
 }
