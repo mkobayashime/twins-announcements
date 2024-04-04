@@ -2,10 +2,27 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/mkobayashime/twins-announcements</id>
     <title>在学生へのお知らせ | 筑波大学</title>
-    <updated>2024-04-04T09:18:01.799Z</updated>
+    <updated>2024-04-04T15:13:21.444Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://github.com/mkobayashime/twins-announcements"/>
     <subtitle>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</subtitle>
+    <entry>
+        <title type="html"><![CDATA[【再掲】令和６年度学生定期健康診断について　Announcement on the AY2024 Student Health Examination]]></title>
+        <id>29fe41344a569a5cb8dede29663878d1</id>
+        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4976"/>
+        <updated>2024-04-05T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[令和６年度の学生定期健康診断を、身体検査とこころの健康調査に分けて実施します。必ず受診してください。
+
+身体検査
+４月１１日（木）午後から４月２３日（火）で実施されます。
+指定日時内の希望の時間を保健管理センターのホームページにて予約してください。
+
+こころの健康調査
+４月１１日(木) から５月３１日(金)で実施されます。
+学習管理システム（manaba）での回答となります。
+
+詳細は以下のPDF…]]></summary>
+    </entry>
     <entry>
         <title type="html"><![CDATA[4月10日　茗渓会　ぶっちゃけ相談会(リクルート・伊藤忠プラスチックス株式会社）]]></title>
         <id>430cf58f8a38b47100d6548db2de1428</id>
@@ -228,14 +245,5 @@ ECサイトは以下のリンクから
 ２．支援の内容：
 ① 1件あたり最大50万円。採択数５チーム程度　　※選考結果により金額・チーム数は増減があります。
 ② 研究資金の使用例：実験試…]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【注意喚起】本学構内における不審者の出没について／[caution] Suspicious Persons on the University's Campus]]></title>
-        <id>af841e636076093a2269457444e48cc8</id>
-        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4957"/>
-        <updated>2024-03-27T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[3月27日（水）10時ごろ、医学西駐車場（国際統合睡眠医科学研究機構（IIIS））付近において、歩行者にバッグで殴りかかろうとする、駐車場の車のナンバーを確認する不審者が出没しました。
-キャンパス内を移動する際には、不審者がいないか、不審な点がないか十分気をつけてください。
-キャンパス内で不審者・不審物の情報があれば、速やかに最寄りの警備員室または本部防災センター（029-853-2079）へご連…]]></summary>
     </entry>
 </feed>

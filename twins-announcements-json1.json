@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "29fe41344a569a5cb8dede29663878d1",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4976",
+            "title": "【再掲】令和６年度学生定期健康診断について　Announcement on the AY2024 Student Health Examination",
+            "summary": "令和６年度の学生定期健康診断を、身体検査とこころの健康調査に分けて実施します。必ず受診してください。\n\n身体検査\n４月１１日（木）午後から４月２３日（火）で実施されます。\n指定日時内の希望の時間を保健管理センターのホームページにて予約してください。\n\nこころの健康調査\n４月１１日(木) から５月３１日(金)で実施されます。\n学習管理システム（manaba）での回答となります。\n\n詳細は以下のPDF…",
+            "date_modified": "2024-04-05T03:00:00.000Z"
+        },
+        {
             "id": "430cf58f8a38b47100d6548db2de1428",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4979",
             "title": "4月10日　茗渓会　ぶっちゃけ相談会(リクルート・伊藤忠プラスチックス株式会社）",
@@ -135,13 +142,6 @@
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4958",
             "title": "【募集受付け中】学群生のアイデアを芽吹かせる研究助成（令和6年度エンブリオ・プログラム）",
             "summary": "筑波大学学群生3年次以下のチームが実施する自主的で独創的な研究活動に対し、活動経費の一部を支援します。\n\n１．支援対象の研究（①又は②）：\n① 現在および未来社会が抱える(地球規模)課題解決を目指す研究\n② 人、社会、地球の健全な未来の構築に資する研究\n２．支援の内容：\n① 1件あたり最大50万円。採択数５チーム程度　　※選考結果により金額・チーム数は増減があります。\n② 研究資金の使用例：実験試…",
-            "date_modified": "2024-03-27T03:00:00.000Z"
-        },
-        {
-            "id": "af841e636076093a2269457444e48cc8",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4957",
-            "title": "【注意喚起】本学構内における不審者の出没について／[caution] Suspicious Persons on the University's Campus",
-            "summary": "3月27日（水）10時ごろ、医学西駐車場（国際統合睡眠医科学研究機構（IIIS））付近において、歩行者にバッグで殴りかかろうとする、駐車場の車のナンバーを確認する不審者が出没しました。\nキャンパス内を移動する際には、不審者がいないか、不審な点がないか十分気をつけてください。\nキャンパス内で不審者・不審物の情報があれば、速やかに最寄りの警備員室または本部防災センター（029-853-2079）へご連…",
             "date_modified": "2024-03-27T03:00:00.000Z"
         }
     ]
