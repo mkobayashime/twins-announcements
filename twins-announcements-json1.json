@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "42d8e551f3b46d55dfd90cc5ee95677d",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4983",
+            "title": "筑波大学「世界を変えよう基金」鈴木奨学金2024年度奨学生募集のお知らせ",
+            "summary": "筑波大学「世界を変えよう基金」は、2015年12月本学客員教授を務めていた鈴木英明氏により創設され、大学内外の社会的・文化的ニーズに貢献する活動を行う筑波大学生を対象に資金支援を行っています。\n\n2020年の新型肺炎感染拡大を機に、将来日本社会・国際社会に貢献する意欲を有する学部生に対して、2020年7月から鈴木奨学金を支給しています。返済は不要ですが、支給に際し「鈴木奨学金勉強会」への参加を要件…",
+            "date_modified": "2024-04-05T03:00:00.000Z"
+        },
+        {
             "id": "a515b0dc53b567c53c5d75954f5b0a2e",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4982",
             "title": "【募集】2024/4/25開催「ヒトの身体運動とバランスのバイオメカニクス」",
@@ -135,13 +142,6 @@
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4962",
             "title": "中央体育館トレーニング場の本学構成員に係る一般使用（試験的運用）について",
             "summary": "トレーニング場の一般使用について2024年4月1日（月）以降も引き続き試験的運用を行うこととなりましたので、お知らせします。詳細については、以下のURLをご参照ください。",
-            "date_modified": "2024-03-29T03:00:00.000Z"
-        },
-        {
-            "id": "bcdad4a2e69d947204f2975bbf157820",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4961",
-            "title": "【見逃し配信】薬品・高圧ガス管理システム（CRIS）説明会",
-            "summary": "令和６年３月２１日（木）に開催しました薬品・高圧ガス管理システム（CRIS）説明会の見逃し配信を下記のとおり行いますので、当日参加できなかった方、もう一度確認されたい方も是非視聴ください。なお、視聴は本学教職員及び学生に限ります。また、学内LANからのみとなっておりますので、予めご了承ください。\nなお、英語の動画は現在準備中で、４月中に掲載予定です。\n　\n                     …",
             "date_modified": "2024-03-29T03:00:00.000Z"
         }
     ]
