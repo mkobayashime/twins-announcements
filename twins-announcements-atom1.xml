@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/mkobayashime/twins-announcements</id>
     <title>在学生へのお知らせ | 筑波大学</title>
-    <updated>2024-04-05T05:12:21.280Z</updated>
+    <updated>2024-04-05T06:16:15.997Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://github.com/mkobayashime/twins-announcements"/>
     <subtitle>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</subtitle>
+    <entry>
+        <title type="html"><![CDATA[4月10日　25年受験者対象　公務員試験対策講座]]></title>
+        <id>bd8f6c6685613eee5f06875eddf7d381</id>
+        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4985"/>
+        <updated>2024-04-05T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[25年度に公務員試験を受験予定の方向けに試験対策講座を開催します。
+
+東京リーガルマインド専任講師による2025年受験予定者対象の公務員試験対策講座です。
+2025年に公務員試験受験を考える方を対象に、公務員の仕事や試験対策について学ぶことができます。
+学内公務員講座についても説明します。
+※3月25日の「公務員試験対策講座」とは別内容です。]]></summary>
+    </entry>
     <entry>
         <title type="html"><![CDATA[筑波大学「世界を変えよう基金」鈴木奨学金2024年度奨学生募集のお知らせ]]></title>
         <id>42d8e551f3b46d55dfd90cc5ee95677d</id>
@@ -237,12 +249,5 @@ ECサイトは以下のリンクから
         <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4963"/>
         <updated>2024-03-29T03:00:00.000Z</updated>
         <summary type="html"><![CDATA[General use of the training room will continue on a trial basis from April 1, 2024 (Monday) onward.  For more details, please refer to the following URL.]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[中央体育館トレーニング場の本学構成員に係る一般使用（試験的運用）について]]></title>
-        <id>3c03f1a01ee02aac0f28ca0b90eaa743</id>
-        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4962"/>
-        <updated>2024-03-29T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[トレーニング場の一般使用について2024年4月1日（月）以降も引き続き試験的運用を行うこととなりましたので、お知らせします。詳細については、以下のURLをご参照ください。]]></summary>
     </entry>
 </feed>

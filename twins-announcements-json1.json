@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "bd8f6c6685613eee5f06875eddf7d381",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4985",
+            "title": "4月10日　25年受験者対象　公務員試験対策講座",
+            "summary": "25年度に公務員試験を受験予定の方向けに試験対策講座を開催します。\n\n東京リーガルマインド専任講師による2025年受験予定者対象の公務員試験対策講座です。\n2025年に公務員試験受験を考える方を対象に、公務員の仕事や試験対策について学ぶことができます。\n学内公務員講座についても説明します。\n※3月25日の「公務員試験対策講座」とは別内容です。",
+            "date_modified": "2024-04-05T03:00:00.000Z"
+        },
+        {
             "id": "42d8e551f3b46d55dfd90cc5ee95677d",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4983",
             "title": "筑波大学「世界を変えよう基金」鈴木奨学金2024年度奨学生募集のお知らせ",
@@ -135,13 +142,6 @@
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4963",
             "title": "General use of the Central Gymnasium Training Room for University Members (Trial Operation)",
             "summary": "General use of the training room will continue on a trial basis from April 1, 2024 (Monday) onward.  For more details, please refer to the following URL.",
-            "date_modified": "2024-03-29T03:00:00.000Z"
-        },
-        {
-            "id": "3c03f1a01ee02aac0f28ca0b90eaa743",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4962",
-            "title": "中央体育館トレーニング場の本学構成員に係る一般使用（試験的運用）について",
-            "summary": "トレーニング場の一般使用について2024年4月1日（月）以降も引き続き試験的運用を行うこととなりましたので、お知らせします。詳細については、以下のURLをご参照ください。",
             "date_modified": "2024-03-29T03:00:00.000Z"
         }
     ]

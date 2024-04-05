@@ -4,10 +4,22 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Fri, 05 Apr 2024 05:12:21 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 05 Apr 2024 06:16:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
+        <item>
+            <title><![CDATA[4月10日　25年受験者対象　公務員試験対策講座]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4985</link>
+            <guid>bd8f6c6685613eee5f06875eddf7d381</guid>
+            <pubDate>Fri, 05 Apr 2024 03:00:00 GMT</pubDate>
+            <description><![CDATA[25年度に公務員試験を受験予定の方向けに試験対策講座を開催します。
+
+東京リーガルマインド専任講師による2025年受験予定者対象の公務員試験対策講座です。
+2025年に公務員試験受験を考える方を対象に、公務員の仕事や試験対策について学ぶことができます。
+学内公務員講座についても説明します。
+※3月25日の「公務員試験対策講座」とは別内容です。]]></description>
+        </item>
         <item>
             <title><![CDATA[筑波大学「世界を変えよう基金」鈴木奨学金2024年度奨学生募集のお知らせ]]></title>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4983</link>
@@ -239,13 +251,6 @@ ECサイトは以下のリンクから
             <guid>87b9b988312adb884ebab3738860bfbd</guid>
             <pubDate>Fri, 29 Mar 2024 03:00:00 GMT</pubDate>
             <description><![CDATA[General use of the training room will continue on a trial basis from April 1, 2024 (Monday) onward.  For more details, please refer to the following URL.]]></description>
-        </item>
-        <item>
-            <title><![CDATA[中央体育館トレーニング場の本学構成員に係る一般使用（試験的運用）について]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4962</link>
-            <guid>3c03f1a01ee02aac0f28ca0b90eaa743</guid>
-            <pubDate>Fri, 29 Mar 2024 03:00:00 GMT</pubDate>
-            <description><![CDATA[トレーニング場の一般使用について2024年4月1日（月）以降も引き続き試験的運用を行うこととなりましたので、お知らせします。詳細については、以下のURLをご参照ください。]]></description>
         </item>
     </channel>
 </rss>
