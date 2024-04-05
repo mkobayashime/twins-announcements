@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "fb6b46bd0a9f7570ec01a43565d9df92",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4981",
+            "title": "「さあ就活を始めようー先輩の経験を聞く会」開催のお知らせ",
+            "summary": "筑波大学「世界を変えよう基金アカデミー」では、\nこれから就活準備を始める学生を対象に、\n就活を終えた4年生お二人が自らの経験を伝える\n「さあ就活を始めようー先輩の経験を聞く会」をZoomで開催します。\n\nお二人の就活ストラテジー、経験に基づく就活ツールの活用方法、\nOＢ／OＧへのアプローチ方法、就活対象先を絞り込んで最終内定先を選んだ過程等、\n就活を始める皆さんにとって興味深いお話を聞くことができ…",
+            "date_modified": "2024-04-05T03:00:00.000Z"
+        },
+        {
             "id": "29fe41344a569a5cb8dede29663878d1",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4976",
             "title": "【再掲】令和６年度学生定期健康診断について　Announcement on the AY2024 Student Health Examination",
@@ -136,13 +143,6 @@
             "title": "【注意喚起】海外からの肉製品や果物・野菜等の持ち込みについて Bringing in meat Products, Fruits,Vegetables, etc. From Abroad",
             "summary": "海外から日本への肉製品や果物・野菜等の持ち込みは法律で厳しく制限されており、悪質性、違法性のある持ち込みに対しては近年厳罰化されています。\n\n筑波大学でも実際に、特に国際郵便での持ち込みの事例が複数発生しています。以下の点ご注意ください。\n・海外から持ち込む食品の成分表を確認し、製品に肉由来の成分がないか確認する\n・家族や知人に、肉製品や果物・野菜等を郵送しないよう周知する\n・万が一禁止製品が届い…",
             "date_modified": "2024-03-28T03:00:00.000Z"
-        },
-        {
-            "id": "10d68851b2044a469f775856f677eccc",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4958",
-            "title": "【募集受付け中】学群生のアイデアを芽吹かせる研究助成（令和6年度エンブリオ・プログラム）",
-            "summary": "筑波大学学群生3年次以下のチームが実施する自主的で独創的な研究活動に対し、活動経費の一部を支援します。\n\n１．支援対象の研究（①又は②）：\n① 現在および未来社会が抱える(地球規模)課題解決を目指す研究\n② 人、社会、地球の健全な未来の構築に資する研究\n２．支援の内容：\n① 1件あたり最大50万円。採択数５チーム程度　　※選考結果により金額・チーム数は増減があります。\n② 研究資金の使用例：実験試…",
-            "date_modified": "2024-03-27T03:00:00.000Z"
         }
     ]
 }
