@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/mkobayashime/twins-announcements</id>
     <title>在学生へのお知らせ | 筑波大学</title>
-    <updated>2024-04-05T01:48:17.571Z</updated>
+    <updated>2024-04-05T02:19:55.291Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://github.com/mkobayashime/twins-announcements"/>
     <subtitle>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</subtitle>
+    <entry>
+        <title type="html"><![CDATA[【募集】2024/4/25開催「ヒトの身体運動とバランスのバイオメカニクス」]]></title>
+        <id>a515b0dc53b567c53c5d75954f5b0a2e</id>
+        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4982"/>
+        <updated>2024-04-05T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[産業技術総合研究所 藤本 雅大 氏をお招きし、「ヒトの身体運動とバランスのバイオメカニクス Biomechanics of Human Balance and Movement」について講義していただきます。
+ヒトのバランス制御や身体運動のバイオメカニクスに興味のある方はもちろん、英語の授業に興味のある方、ぜひご参加ください。
+
+■日時：2024年4月25日(木) 5限 15：15～16：30
+
+…]]></summary>
+    </entry>
     <entry>
         <title type="html"><![CDATA[「さあ就活を始めようー先輩の経験を聞く会」開催のお知らせ]]></title>
         <id>fb6b46bd0a9f7570ec01a43565d9df92</id>
@@ -233,17 +245,5 @@ ECサイトは以下のリンクから
 なお、英語の動画は現在準備中で、４月中に掲載予定です。
 　
                      …]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【注意喚起】海外からの肉製品や果物・野菜等の持ち込みについて Bringing in meat Products, Fruits,Vegetables, etc. From Abroad]]></title>
-        <id>da33fcaf112eb428f9dd9342dab9ae1f</id>
-        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4959"/>
-        <updated>2024-03-28T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[海外から日本への肉製品や果物・野菜等の持ち込みは法律で厳しく制限されており、悪質性、違法性のある持ち込みに対しては近年厳罰化されています。
-
-筑波大学でも実際に、特に国際郵便での持ち込みの事例が複数発生しています。以下の点ご注意ください。
-・海外から持ち込む食品の成分表を確認し、製品に肉由来の成分がないか確認する
-・家族や知人に、肉製品や果物・野菜等を郵送しないよう周知する
-・万が一禁止製品が届い…]]></summary>
     </entry>
 </feed>

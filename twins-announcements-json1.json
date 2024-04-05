@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "a515b0dc53b567c53c5d75954f5b0a2e",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4982",
+            "title": "【募集】2024/4/25開催「ヒトの身体運動とバランスのバイオメカニクス」",
+            "summary": "産業技術総合研究所 藤本 雅大 氏をお招きし、「ヒトの身体運動とバランスのバイオメカニクス Biomechanics of Human Balance and Movement」について講義していただきます。\nヒトのバランス制御や身体運動のバイオメカニクスに興味のある方はもちろん、英語の授業に興味のある方、ぜひご参加ください。\n\n■日時：2024年4月25日(木) 5限 15：15～16：30\n\n…",
+            "date_modified": "2024-04-05T03:00:00.000Z"
+        },
+        {
             "id": "fb6b46bd0a9f7570ec01a43565d9df92",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4981",
             "title": "「さあ就活を始めようー先輩の経験を聞く会」開催のお知らせ",
@@ -136,13 +143,6 @@
             "title": "【見逃し配信】薬品・高圧ガス管理システム（CRIS）説明会",
             "summary": "令和６年３月２１日（木）に開催しました薬品・高圧ガス管理システム（CRIS）説明会の見逃し配信を下記のとおり行いますので、当日参加できなかった方、もう一度確認されたい方も是非視聴ください。なお、視聴は本学教職員及び学生に限ります。また、学内LANからのみとなっておりますので、予めご了承ください。\nなお、英語の動画は現在準備中で、４月中に掲載予定です。\n　\n                     …",
             "date_modified": "2024-03-29T03:00:00.000Z"
-        },
-        {
-            "id": "da33fcaf112eb428f9dd9342dab9ae1f",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4959",
-            "title": "【注意喚起】海外からの肉製品や果物・野菜等の持ち込みについて Bringing in meat Products, Fruits,Vegetables, etc. From Abroad",
-            "summary": "海外から日本への肉製品や果物・野菜等の持ち込みは法律で厳しく制限されており、悪質性、違法性のある持ち込みに対しては近年厳罰化されています。\n\n筑波大学でも実際に、特に国際郵便での持ち込みの事例が複数発生しています。以下の点ご注意ください。\n・海外から持ち込む食品の成分表を確認し、製品に肉由来の成分がないか確認する\n・家族や知人に、肉製品や果物・野菜等を郵送しないよう周知する\n・万が一禁止製品が届い…",
-            "date_modified": "2024-03-28T03:00:00.000Z"
         }
     ]
 }
