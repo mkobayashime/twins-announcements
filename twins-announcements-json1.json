@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "2d308d09a436231074b0cdc78f90bf62",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4992",
+            "title": "【２６卒２７卒】就職＆インターンシップガイダンス(日本語）",
+            "summary": "就活＆インターンシップガイダンスを2回にわたって開催します。　\n　インターンシップについて知りたい方から企業選びについて、人気のインターンシップへの選考対策まで株式会社マイナビのキャリアサポーターや編集長が解説します。\n　インターンシップは企業を知ることへの第1歩です。就活生の方はぜひご参加ください！\n　また他の学年のご参加も歓迎です。\n\n⓵【初級編】\nコンセプト：就職活動やインターンシップのポイ…",
+            "date_modified": "2024-04-08T03:00:00.000Z"
+        },
+        {
             "id": "bd8f6c6685613eee5f06875eddf7d381",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4991",
             "title": "4月10日　25年受験者対象　公務員試験対策講座",
@@ -135,13 +142,6 @@
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4969",
             "title": "公益財団法人金子国際文化交流財団奨学金/Kaneko Foundation for International Cultural Communication　(KF-ICC)",
             "summary": "公益財団法人　金子国際文化交流財団 　2024年度\n応募締め切り：令和6年5月15日（水）まで（必着）\n提出先　：財団事務局へ直接応募　(郵送)\n募集要項：（PDF(資料1)）\n申請書・推薦状様式：（Word(資料2)）\n※日本語能力が必要です。\n※この奨学金を受給する者は、2024年度の大学推薦奨学金の申請資格がありません。\n\nKaneko Foundation for Internationa…",
-            "date_modified": "2024-04-03T03:00:00.000Z"
-        },
-        {
-            "id": "ce9dd9c70d37929e3bf8c53ca599b17d",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4968",
-            "title": "2024-2025 年度 　韓国教員大学校　 交換留学生募集のお知らせ",
-            "summary": "韓国教員大学校への交換留学生を募集します。関心のある方は連絡調整責任者の國分先生宛てに2024年4月18日（木曜日）までにメールにてその旨お知らせください。応募多数の場合は選抜します。連絡調整責任者が期限までにメール受信を確認できない場合、2024-2025 年度の交換留学生への応募はできません。詳細は、添付ファイルをご参照ください。",
             "date_modified": "2024-04-03T03:00:00.000Z"
         }
     ]

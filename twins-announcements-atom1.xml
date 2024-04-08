@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/mkobayashime/twins-announcements</id>
     <title>在学生へのお知らせ | 筑波大学</title>
-    <updated>2024-04-08T04:15:56.168Z</updated>
+    <updated>2024-04-08T06:17:20.273Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://github.com/mkobayashime/twins-announcements"/>
     <subtitle>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</subtitle>
+    <entry>
+        <title type="html"><![CDATA[【２６卒２７卒】就職＆インターンシップガイダンス(日本語）]]></title>
+        <id>2d308d09a436231074b0cdc78f90bf62</id>
+        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4992"/>
+        <updated>2024-04-08T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[就活＆インターンシップガイダンスを2回にわたって開催します。　
+　インターンシップについて知りたい方から企業選びについて、人気のインターンシップへの選考対策まで株式会社マイナビのキャリアサポーターや編集長が解説します。
+　インターンシップは企業を知ることへの第1歩です。就活生の方はぜひご参加ください！
+　また他の学年のご参加も歓迎です。
+
+⓵【初級編】
+コンセプト：就職活動やインターンシップのポイ…]]></summary>
+    </entry>
     <entry>
         <title type="html"><![CDATA[4月10日　25年受験者対象　公務員試験対策講座]]></title>
         <id>bd8f6c6685613eee5f06875eddf7d381</id>
@@ -240,12 +253,5 @@ OＢ／OＧへのアプローチ方法、就活対象先を絞り込んで最終
 ※この奨学金を受給する者は、2024年度の大学推薦奨学金の申請資格がありません。
 
 Kaneko Foundation for Internationa…]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2024-2025 年度 　韓国教員大学校　 交換留学生募集のお知らせ]]></title>
-        <id>ce9dd9c70d37929e3bf8c53ca599b17d</id>
-        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4968"/>
-        <updated>2024-04-03T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[韓国教員大学校への交換留学生を募集します。関心のある方は連絡調整責任者の國分先生宛てに2024年4月18日（木曜日）までにメールにてその旨お知らせください。応募多数の場合は選抜します。連絡調整責任者が期限までにメール受信を確認できない場合、2024-2025 年度の交換留学生への応募はできません。詳細は、添付ファイルをご参照ください。]]></summary>
     </entry>
 </feed>
