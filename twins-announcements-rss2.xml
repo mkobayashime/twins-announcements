@@ -4,10 +4,22 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Mon, 08 Apr 2024 03:14:24 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 08 Apr 2024 04:15:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
+        <item>
+            <title><![CDATA[4月10日　25年受験者対象　公務員試験対策講座]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4991</link>
+            <guid>bd8f6c6685613eee5f06875eddf7d381</guid>
+            <pubDate>Mon, 08 Apr 2024 03:00:00 GMT</pubDate>
+            <description><![CDATA[25年度に公務員試験を受験予定の方向けに試験対策講座を開催します。
+
+東京リーガルマインド専任講師による2025年受験予定者対象の公務員試験対策講座です。
+2025年に公務員試験受験を考える方を対象に、公務員の仕事や試験対策について学ぶことができます。
+学内公務員講座についても説明します。
+※3月25日の「公務員試験対策講座」とは別内容です。]]></description>
+        </item>
         <item>
             <title><![CDATA[Data Science Expert Program (DSEP) Course Enrollment Orientation: 4/11(Thu)]]></title>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4990</link>
@@ -237,14 +249,6 @@ Kaneko Foundation for Internationa…]]></description>
             <guid>ce9dd9c70d37929e3bf8c53ca599b17d</guid>
             <pubDate>Wed, 03 Apr 2024 03:00:00 GMT</pubDate>
             <description><![CDATA[韓国教員大学校への交換留学生を募集します。関心のある方は連絡調整責任者の國分先生宛てに2024年4月18日（木曜日）までにメールにてその旨お知らせください。応募多数の場合は選抜します。連絡調整責任者が期限までにメール受信を確認できない場合、2024-2025 年度の交換留学生への応募はできません。詳細は、添付ファイルをご参照ください。]]></description>
-        </item>
-        <item>
-            <title><![CDATA[2024年度第1期分授業料の納付について]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4967</link>
-            <guid>e934ac3bbb4ae94e97ec2eee6bb5b02b</guid>
-            <pubDate>Wed, 03 Apr 2024 03:00:00 GMT</pubDate>
-            <description><![CDATA[2024年度第1期授業料の納付について、添付の通りお知らせいたします。
-口座振替日、納付期限についてご確認をお願いいたします。]]></description>
         </item>
     </channel>
 </rss>
