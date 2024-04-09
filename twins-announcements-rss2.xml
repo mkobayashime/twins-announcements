@@ -4,10 +4,44 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Tue, 09 Apr 2024 02:20:30 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 09 Apr 2024 03:15:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
+        <item>
+            <title><![CDATA[To All the students (NOTICE)：Changes in Class Dates in 2024]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5001</link>
+            <guid>219b0e1a308469f89cfb48d07a476455</guid>
+            <pubDate>Tue, 09 Apr 2024 03:00:00 GMT</pubDate>
+            <description><![CDATA[To All the students
+
+In order to ensure certain number of class days, classes on listed dates are scheduled to be held as follows (excluding Tokyo Campus):
+
+　　　　　　　　　　　　　Statement
+
+【Spring semester】
+F…]]></description>
+        </item>
+        <item>
+            <title><![CDATA[令和６年度授業の曜日振替について]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5000</link>
+            <guid>633849f6bee524c64734165d7aa2a9d1</guid>
+            <pubDate>Tue, 09 Apr 2024 03:00:00 GMT</pubDate>
+            <description><![CDATA[学生各位
+
+このことについて、授業日数確保のため、下記のとおり曜日が振替になっていますので、ご注意願います。
+（但し、東京キャンパスは除く。）
+
+　　　　　　　　　　　　　　　　　記
+
+【春学期授業】
+令和６年  ５月　１日（水）は、金曜日の授業を実施（終日）
+令和６年  ５月　７日（火）は、月曜日の授業を実施（終日）
+
+【秋学期授業】
+令和６年１０月１６日（水）は、月曜日の授業を実施（終日）
+令…]]></description>
+        </item>
         <item>
             <title><![CDATA[Notice about the Undergraduate Final Examinations in 2024 (To All the Undergraduate Students)]]></title>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4999</link>
@@ -226,32 +260,6 @@ OＢ／OＧへのアプローチ方法、就活対象先を絞り込んで最終
 （今回登壇いただく方）
 【登壇者No1】
 理工学群　社会工学…]]></description>
-        </item>
-        <item>
-            <title><![CDATA[4/10開催 2025年度受験対象　公務員試験対策講座のお知らせ]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4978</link>
-            <guid>eb1ca310be43ec88be074392db75dfde</guid>
-            <pubDate>Thu, 04 Apr 2024 03:00:00 GMT</pubDate>
-            <description><![CDATA[25年度に公務員試験を受験予定の方向けに試験対策講座を開催します。
-
-東京リーガルマインド専任講師による2025年受験予定者対象の公務員試験対策講座です。
-2025年に公務員試験受験を考える方を対象に、公務員の仕事や試験対策について学ぶことができます。
-学内公務員講座についても説明します。
-※3月25日の「公務員試験対策講座」とは別内容です。]]></description>
-        </item>
-        <item>
-            <title><![CDATA[リユース品の配布/Distribution of reusable items]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4977</link>
-            <guid>0f8e15007332d1fc4af2aebfd6dc785b</guid>
-            <pubDate>Thu, 04 Apr 2024 03:00:00 GMT</pubDate>
-            <description><![CDATA[★リユース品の配布
-スチューデントサポートセンターでは、”Student Commons’ SDGs RECYCLING PROJECT”
-として、「まだ使用できる不用品」を回収し、新入生をはじめとした学生へ、無料譲渡するプロジェクトを実施します。
-
-※プロジェクト参加者は筑波大学の在籍者（学生、研究員、教職員）に限ります。
-
-4月4日木曜日　より配布開始　～12日金曜日まで
-　配布時間　10：0…]]></description>
         </item>
     </channel>
 </rss>

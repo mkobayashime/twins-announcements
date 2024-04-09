@@ -5,6 +5,20 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "219b0e1a308469f89cfb48d07a476455",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5001",
+            "title": "To All the students (NOTICE)：Changes in Class Dates in 2024",
+            "summary": "To All the students\n\nIn order to ensure certain number of class days, classes on listed dates are scheduled to be held as follows (excluding Tokyo Campus):\n\n　　　　　　　　　　　　　Statement\n\n【Spring semester】\nF…",
+            "date_modified": "2024-04-09T03:00:00.000Z"
+        },
+        {
+            "id": "633849f6bee524c64734165d7aa2a9d1",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5000",
+            "title": "令和６年度授業の曜日振替について",
+            "summary": "学生各位\n\nこのことについて、授業日数確保のため、下記のとおり曜日が振替になっていますので、ご注意願います。\n（但し、東京キャンパスは除く。）\n\n　　　　　　　　　　　　　　　　　記\n\n【春学期授業】\n令和６年  ５月　１日（水）は、金曜日の授業を実施（終日）\n令和６年  ５月　７日（火）は、月曜日の授業を実施（終日）\n\n【秋学期授業】\n令和６年１０月１６日（水）は、月曜日の授業を実施（終日）\n令…",
+            "date_modified": "2024-04-09T03:00:00.000Z"
+        },
+        {
             "id": "b86832313f2e261754acd1b07215d732",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4999",
             "title": "Notice about the Undergraduate Final Examinations in 2024 (To All the Undergraduate Students)",
@@ -128,20 +142,6 @@
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4979",
             "title": "4月10日　茗渓会　ぶっちゃけ相談会(リクルート・伊藤忠プラスチックス株式会社）",
             "summary": "毎月2名のOBOGが登壇し、就職について・キャリアについて気軽に話ができるイベントです。\n【開催日程と手法】\n　・4月10日（水）21時～22時　受付：20時50分～\n　・ZOOM\n　※申し込み後にZOOMのURLを送ります。\n　※就活や選考ではないので、気軽に参加してください。\n　　私服、部屋着でOKです。登壇者も気軽に参加します。\n\n（今回登壇いただく方）\n【登壇者No1】\n理工学群　社会工学…",
-            "date_modified": "2024-04-04T03:00:00.000Z"
-        },
-        {
-            "id": "eb1ca310be43ec88be074392db75dfde",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4978",
-            "title": "4/10開催 2025年度受験対象　公務員試験対策講座のお知らせ",
-            "summary": "25年度に公務員試験を受験予定の方向けに試験対策講座を開催します。\n\n東京リーガルマインド専任講師による2025年受験予定者対象の公務員試験対策講座です。\n2025年に公務員試験受験を考える方を対象に、公務員の仕事や試験対策について学ぶことができます。\n学内公務員講座についても説明します。\n※3月25日の「公務員試験対策講座」とは別内容です。",
-            "date_modified": "2024-04-04T03:00:00.000Z"
-        },
-        {
-            "id": "0f8e15007332d1fc4af2aebfd6dc785b",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4977",
-            "title": "リユース品の配布/Distribution of reusable items",
-            "summary": "★リユース品の配布\nスチューデントサポートセンターでは、”Student Commons’ SDGs RECYCLING PROJECT”\nとして、「まだ使用できる不用品」を回収し、新入生をはじめとした学生へ、無料譲渡するプロジェクトを実施します。\n\n※プロジェクト参加者は筑波大学の在籍者（学生、研究員、教職員）に限ります。\n\n4月4日木曜日　より配布開始　～12日金曜日まで\n　配布時間　10：0…",
             "date_modified": "2024-04-04T03:00:00.000Z"
         }
     ]
