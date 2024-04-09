@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "61053ca13af3cec57743cb3e7cfdba1e",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5002",
+            "title": "【Event】Briefing Session for Johnson & Johnson Japan Data Science Internship 2024",
+            "summary": "ジョンソン・エンド・ジョンソンよりインターンシップ説明会の募集がございました。\n興味のある学生はぜひご応募ください。\n\nJohnson & Johnson Japan will hold a briefing session for Johnson & Johnson Japan Data Science Internship 2024.\nIf you are interested, please…",
+            "date_modified": "2024-04-09T03:00:00.000Z"
+        },
+        {
             "id": "219b0e1a308469f89cfb48d07a476455",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5001",
             "title": "To All the students (NOTICE)：Changes in Class Dates in 2024",
@@ -136,13 +143,6 @@
             "title": "【再掲】令和６年度学生定期健康診断について　Announcement on the AY2024 Student Health Examination",
             "summary": "令和６年度の学生定期健康診断を、身体検査とこころの健康調査に分けて実施します。必ず受診してください。\n\n身体検査\n４月１１日（木）午後から４月２３日（火）で実施されます。\n指定日時内の希望の時間を保健管理センターのホームページにて予約してください。\n\nこころの健康調査\n４月１１日(木) から５月３１日(金)で実施されます。\n学習管理システム（manaba）での回答となります。\n\n詳細は以下のPDF…",
             "date_modified": "2024-04-05T03:00:00.000Z"
-        },
-        {
-            "id": "430cf58f8a38b47100d6548db2de1428",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4979",
-            "title": "4月10日　茗渓会　ぶっちゃけ相談会(リクルート・伊藤忠プラスチックス株式会社）",
-            "summary": "毎月2名のOBOGが登壇し、就職について・キャリアについて気軽に話ができるイベントです。\n【開催日程と手法】\n　・4月10日（水）21時～22時　受付：20時50分～\n　・ZOOM\n　※申し込み後にZOOMのURLを送ります。\n　※就活や選考ではないので、気軽に参加してください。\n　　私服、部屋着でOKです。登壇者も気軽に参加します。\n\n（今回登壇いただく方）\n【登壇者No1】\n理工学群　社会工学…",
-            "date_modified": "2024-04-04T03:00:00.000Z"
         }
     ]
 }

@@ -4,10 +4,21 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Tue, 09 Apr 2024 03:15:39 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 09 Apr 2024 06:16:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
+        <item>
+            <title><![CDATA[【Event】Briefing Session for Johnson & Johnson Japan Data Science Internship 2024]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5002</link>
+            <guid>61053ca13af3cec57743cb3e7cfdba1e</guid>
+            <pubDate>Tue, 09 Apr 2024 03:00:00 GMT</pubDate>
+            <description><![CDATA[ジョンソン・エンド・ジョンソンよりインターンシップ説明会の募集がございました。
+興味のある学生はぜひご応募ください。
+
+Johnson & Johnson Japan will hold a briefing session for Johnson & Johnson Japan Data Science Internship 2024.
+If you are interested, please…]]></description>
+        </item>
         <item>
             <title><![CDATA[To All the students (NOTICE)：Changes in Class Dates in 2024]]></title>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5001</link>
@@ -243,23 +254,6 @@ OＢ／OＧへのアプローチ方法、就活対象先を絞り込んで最終
 学習管理システム（manaba）での回答となります。
 
 詳細は以下のPDF…]]></description>
-        </item>
-        <item>
-            <title><![CDATA[4月10日　茗渓会　ぶっちゃけ相談会(リクルート・伊藤忠プラスチックス株式会社）]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4979</link>
-            <guid>430cf58f8a38b47100d6548db2de1428</guid>
-            <pubDate>Thu, 04 Apr 2024 03:00:00 GMT</pubDate>
-            <description><![CDATA[毎月2名のOBOGが登壇し、就職について・キャリアについて気軽に話ができるイベントです。
-【開催日程と手法】
-　・4月10日（水）21時～22時　受付：20時50分～
-　・ZOOM
-　※申し込み後にZOOMのURLを送ります。
-　※就活や選考ではないので、気軽に参加してください。
-　　私服、部屋着でOKです。登壇者も気軽に参加します。
-
-（今回登壇いただく方）
-【登壇者No1】
-理工学群　社会工学…]]></description>
         </item>
     </channel>
 </rss>
