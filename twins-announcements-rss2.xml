@@ -4,10 +4,22 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Tue, 09 Apr 2024 06:16:55 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 09 Apr 2024 08:16:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
+        <item>
+            <title><![CDATA[【必見】【２６卒２７卒】就活＆インターンシップガイダンス(日本語）]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5003</link>
+            <guid>eade9963f7c1cbf0ef56bb4018e88fdf</guid>
+            <pubDate>Tue, 09 Apr 2024 03:00:00 GMT</pubDate>
+            <description><![CDATA[就活＆インターンシップガイダンスを2回にわたって開催します。　
+インターンシップについて知りたい方から企業選びについて、人気のインターンシップへの選考対策まで株式会社マイナビのキャリアサポーターや編集長が解説します。
+インターンシップは企業を知ることへの第1歩です。就活生の方はぜひご参加ください！
+また他の学年のご参加も歓迎です。
+
+　【初級編】就職活動やインターンシップのポイントを知り、将来のた…]]></description>
+        </item>
         <item>
             <title><![CDATA[【Event】Briefing Session for Johnson & Johnson Japan Data Science Internship 2024]]></title>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5002</link>
@@ -237,23 +249,6 @@ KiteKiteは、年齢…]]></description>
 お二人の就活ストラテジー、経験に基づく就活ツールの活用方法、
 OＢ／OＧへのアプローチ方法、就活対象先を絞り込んで最終内定先を選んだ過程等、
 就活を始める皆さんにとって興味深いお話を聞くことができ…]]></description>
-        </item>
-        <item>
-            <title><![CDATA[【再掲】令和６年度学生定期健康診断について　Announcement on the AY2024 Student Health Examination]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4976</link>
-            <guid>29fe41344a569a5cb8dede29663878d1</guid>
-            <pubDate>Fri, 05 Apr 2024 03:00:00 GMT</pubDate>
-            <description><![CDATA[令和６年度の学生定期健康診断を、身体検査とこころの健康調査に分けて実施します。必ず受診してください。
-
-身体検査
-４月１１日（木）午後から４月２３日（火）で実施されます。
-指定日時内の希望の時間を保健管理センターのホームページにて予約してください。
-
-こころの健康調査
-４月１１日(木) から５月３１日(金)で実施されます。
-学習管理システム（manaba）での回答となります。
-
-詳細は以下のPDF…]]></description>
         </item>
     </channel>
 </rss>
