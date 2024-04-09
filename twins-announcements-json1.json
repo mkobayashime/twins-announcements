@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "9c6fa5428370441c3b7f759d933ca65d",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5004",
+            "title": "【お知らせ】データサイエンス応用基礎プログラムの全学実施の開始について",
+            "summary": "本学学士課程の学生　各位\n\n本学では開学以来、全ての学士課程の学生に対して必修科目として講義形式とコンピューターでの演習を含めた発展的な情報教育を実施しており、世界的にも先駆的な情報教育を行っております。\n\nまた、近年では、デジタル化の急速な進展に伴い、「数理・データサイエンス・AI（以下「MDA」という。）」は、デジタル社会の基礎知識として、文理を問わず、全ての大学・高専の学生が身に付けておくべ…",
+            "date_modified": "2024-04-09T03:00:00.000Z"
+        },
+        {
             "id": "eade9963f7c1cbf0ef56bb4018e88fdf",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5003",
             "title": "【必見】【２６卒２７卒】就活＆インターンシップガイダンス(日本語）",
@@ -135,13 +142,6 @@
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4982",
             "title": "【募集】2024/4/25開催「ヒトの身体運動とバランスのバイオメカニクス」",
             "summary": "産業技術総合研究所 藤本 雅大 氏をお招きし、「ヒトの身体運動とバランスのバイオメカニクス Biomechanics of Human Balance and Movement」について講義していただきます。\nヒトのバランス制御や身体運動のバイオメカニクスに興味のある方はもちろん、英語の授業に興味のある方、ぜひご参加ください。\n\n■日時：2024年4月25日(木) 5限 15：15～16：30\n\n…",
-            "date_modified": "2024-04-05T03:00:00.000Z"
-        },
-        {
-            "id": "fb6b46bd0a9f7570ec01a43565d9df92",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4981",
-            "title": "「さあ就活を始めようー先輩の経験を聞く会」開催のお知らせ",
-            "summary": "筑波大学「世界を変えよう基金アカデミー」では、\nこれから就活準備を始める学生を対象に、\n就活を終えた4年生お二人が自らの経験を伝える\n「さあ就活を始めようー先輩の経験を聞く会」をZoomで開催します。\n\nお二人の就活ストラテジー、経験に基づく就活ツールの活用方法、\nOＢ／OＧへのアプローチ方法、就活対象先を絞り込んで最終内定先を選んだ過程等、\n就活を始める皆さんにとって興味深いお話を聞くことができ…",
             "date_modified": "2024-04-05T03:00:00.000Z"
         }
     ]

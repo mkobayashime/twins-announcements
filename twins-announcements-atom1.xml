@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/mkobayashime/twins-announcements</id>
     <title>在学生へのお知らせ | 筑波大学</title>
-    <updated>2024-04-09T08:16:05.223Z</updated>
+    <updated>2024-04-09T09:13:50.399Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://github.com/mkobayashime/twins-announcements"/>
     <subtitle>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</subtitle>
+    <entry>
+        <title type="html"><![CDATA[【お知らせ】データサイエンス応用基礎プログラムの全学実施の開始について]]></title>
+        <id>9c6fa5428370441c3b7f759d933ca65d</id>
+        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5004"/>
+        <updated>2024-04-09T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[本学学士課程の学生　各位
+
+本学では開学以来、全ての学士課程の学生に対して必修科目として講義形式とコンピューターでの演習を含めた発展的な情報教育を実施しており、世界的にも先駆的な情報教育を行っております。
+
+また、近年では、デジタル化の急速な進展に伴い、「数理・データサイエンス・AI（以下「MDA」という。）」は、デジタル社会の基礎知識として、文理を問わず、全ての大学・高専の学生が身に付けておくべ…]]></summary>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【必見】【２６卒２７卒】就活＆インターンシップガイダンス(日本語）]]></title>
         <id>eade9963f7c1cbf0ef56bb4018e88fdf</id>
@@ -233,19 +244,5 @@ KiteKiteは、年齢…]]></summary>
 ■日時：2024年4月25日(木) 5限 15：15～16：30
 
 …]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[「さあ就活を始めようー先輩の経験を聞く会」開催のお知らせ]]></title>
-        <id>fb6b46bd0a9f7570ec01a43565d9df92</id>
-        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4981"/>
-        <updated>2024-04-05T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[筑波大学「世界を変えよう基金アカデミー」では、
-これから就活準備を始める学生を対象に、
-就活を終えた4年生お二人が自らの経験を伝える
-「さあ就活を始めようー先輩の経験を聞く会」をZoomで開催します。
-
-お二人の就活ストラテジー、経験に基づく就活ツールの活用方法、
-OＢ／OＧへのアプローチ方法、就活対象先を絞り込んで最終内定先を選んだ過程等、
-就活を始める皆さんにとって興味深いお話を聞くことができ…]]></summary>
     </entry>
 </feed>
