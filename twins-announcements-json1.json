@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "48a593e7112ba3ef1d857b862713eb06",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5006",
+            "title": "【募集】世界展開力強化事業（CAMPUS-Asia6）海外派遣学生（第3期生）募集開始！",
+            "summary": "世界展開力強化事業「アジア高等教育共同体形成促進」（CAMPUS-Asia6）では海外派遣学生（第3期生）の募集を開始します！\n日本、中国、韓国およびASEAN（インドネシア、タイ、マレーシア）で行う交換留学プログラムです。\n各国の大学院生との交流を通して「地球規模課題」について考えてみませんか？\n\n募集にあたりプログラム説明会を開催します。CAMPUS-Asia6プログラム、アジアの国々、留学に…",
+            "date_modified": "2024-04-10T03:00:00.000Z"
+        },
+        {
             "id": "ea2277bcaa5d4c21b2e4ff3471c20019",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5005",
             "title": "本日開催　当日申込み可 2025年度受験対象　公務員試験対策講座のお知らせ",
@@ -135,13 +142,6 @@
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4985",
             "title": "4月10日　25年受験者対象　公務員試験対策講座",
             "summary": "25年度に公務員試験を受験予定の方向けに試験対策講座を開催します。\n\n東京リーガルマインド専任講師による2025年受験予定者対象の公務員試験対策講座です。\n2025年に公務員試験受験を考える方を対象に、公務員の仕事や試験対策について学ぶことができます。\n学内公務員講座についても説明します。\n※3月25日の「公務員試験対策講座」とは別内容です。",
-            "date_modified": "2024-04-05T03:00:00.000Z"
-        },
-        {
-            "id": "42d8e551f3b46d55dfd90cc5ee95677d",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4983",
-            "title": "筑波大学「世界を変えよう基金」鈴木奨学金2024年度奨学生募集のお知らせ",
-            "summary": "筑波大学「世界を変えよう基金」は、2015年12月本学客員教授を務めていた鈴木英明氏により創設され、大学内外の社会的・文化的ニーズに貢献する活動を行う筑波大学生を対象に資金支援を行っています。\n\n2020年の新型肺炎感染拡大を機に、将来日本社会・国際社会に貢献する意欲を有する学部生に対して、2020年7月から鈴木奨学金を支給しています。返済は不要ですが、支給に際し「鈴木奨学金勉強会」への参加を要件…",
             "date_modified": "2024-04-05T03:00:00.000Z"
         }
     ]
