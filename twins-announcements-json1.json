@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "58ed3c7b2dd587fbb4a900696f987e6d",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5007",
+            "title": "スーツの割引について（4月10日更新）",
+            "summary": "本学は紳士服の大手4社と契約しています。\nそのため、在学生とそのご家族の皆様には、\n全国のAOKI、コナカ、はるやま、洋服の青山（後日掲載）で、\n通常の割引価格から更に割引いた価格でスーツ等をご購入いただけます。\n大変お得ですので、是非ご利用ください。\n\n※ご購入いただいた金額の一部が大学に寄附されます。\n",
+            "date_modified": "2024-04-11T03:00:00.000Z"
+        },
+        {
             "id": "48a593e7112ba3ef1d857b862713eb06",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5006",
             "title": "【募集】世界展開力強化事業（CAMPUS-Asia6）海外派遣学生（第3期生）募集開始！",
@@ -136,13 +143,6 @@
             "title": "【動画配信】SOGI/LGBTQ+に関する基礎知識 （配信期間：4月8日～30日）",
             "summary": "4月に筑波大学に入学された皆さん、おめでとうございます！\nヒューマンエンパワーメント推進局（BHE）は、新入生（新入生でない学生も大歓迎です！）に向けて、気軽にダイバーシティやインクルージョンについて学べる基礎知識の動画を配信します。\n\n新しい出会い・体験に胸躍らせる、そんな4月ですが、4月19日～21日に「東京レインボープライド（TRP）」というLGBTQ＋をはじめとした性の多様性を祝うイベント…",
             "date_modified": "2024-04-08T03:00:00.000Z"
-        },
-        {
-            "id": "bd8f6c6685613eee5f06875eddf7d381",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4985",
-            "title": "4月10日　25年受験者対象　公務員試験対策講座",
-            "summary": "25年度に公務員試験を受験予定の方向けに試験対策講座を開催します。\n\n東京リーガルマインド専任講師による2025年受験予定者対象の公務員試験対策講座です。\n2025年に公務員試験受験を考える方を対象に、公務員の仕事や試験対策について学ぶことができます。\n学内公務員講座についても説明します。\n※3月25日の「公務員試験対策講座」とは別内容です。",
-            "date_modified": "2024-04-05T03:00:00.000Z"
         }
     ]
 }

@@ -2,10 +2,24 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/mkobayashime/twins-announcements</id>
     <title>在学生へのお知らせ | 筑波大学</title>
-    <updated>2024-04-10T15:19:07.678Z</updated>
+    <updated>2024-04-11T01:51:04.614Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://github.com/mkobayashime/twins-announcements"/>
     <subtitle>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</subtitle>
+    <entry>
+        <title type="html"><![CDATA[スーツの割引について（4月10日更新）]]></title>
+        <id>58ed3c7b2dd587fbb4a900696f987e6d</id>
+        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5007"/>
+        <updated>2024-04-11T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[本学は紳士服の大手4社と契約しています。
+そのため、在学生とそのご家族の皆様には、
+全国のAOKI、コナカ、はるやま、洋服の青山（後日掲載）で、
+通常の割引価格から更に割引いた価格でスーツ等をご購入いただけます。
+大変お得ですので、是非ご利用ください。
+
+※ご購入いただいた金額の一部が大学に寄附されます。
+]]></summary>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【募集】世界展開力強化事業（CAMPUS-Asia6）海外派遣学生（第3期生）募集開始！]]></title>
         <id>48a593e7112ba3ef1d857b862713eb06</id>
@@ -235,17 +249,5 @@ KiteKiteは、年齢…]]></summary>
 ヒューマンエンパワーメント推進局（BHE）は、新入生（新入生でない学生も大歓迎です！）に向けて、気軽にダイバーシティやインクルージョンについて学べる基礎知識の動画を配信します。
 
 新しい出会い・体験に胸躍らせる、そんな4月ですが、4月19日～21日に「東京レインボープライド（TRP）」というLGBTQ＋をはじめとした性の多様性を祝うイベント…]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[4月10日　25年受験者対象　公務員試験対策講座]]></title>
-        <id>bd8f6c6685613eee5f06875eddf7d381</id>
-        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4985"/>
-        <updated>2024-04-05T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[25年度に公務員試験を受験予定の方向けに試験対策講座を開催します。
-
-東京リーガルマインド専任講師による2025年受験予定者対象の公務員試験対策講座です。
-2025年に公務員試験受験を考える方を対象に、公務員の仕事や試験対策について学ぶことができます。
-学内公務員講座についても説明します。
-※3月25日の「公務員試験対策講座」とは別内容です。]]></summary>
     </entry>
 </feed>
