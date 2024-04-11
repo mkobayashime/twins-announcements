@@ -4,10 +4,29 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Thu, 11 Apr 2024 02:22:23 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 11 Apr 2024 08:16:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
+        <item>
+            <title><![CDATA[【学生無料】荒木奏美オーボエリサイタル～染みわたるオーボエの調べ（第２回TRSサロンシリーズ）]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5009</link>
+            <guid>8618d0cd3f56344e6b50c97221b4b2a3</guid>
+            <pubDate>Thu, 11 Apr 2024 03:00:00 GMT</pubDate>
+            <description><![CDATA[2024年6月9日（日）17時開演（16時30分開場）
+つくばアルスホール
+
+出演
+荒木奏美（読売日本交響楽団首席オーボエ奏者）
+大崎由貴（ピアノ）
+
+プログラム
+ラヴェル：ハバネラ形式の小品
+プーランク：オーボエとピアノのためのソナタ
+ドラニシコワ：ポエム　　他
+
+筑波大学の有志学生が企画・運営を行うつくばリサイタルシリーズは毎回一流の音楽家をお招きし、助成金や各種補助金、クラウドファンディング…]]></description>
+        </item>
         <item>
             <title><![CDATA[まもなく終了RECYCLING PROJECT　+ぷらす水引体験]]></title>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5008</link>
@@ -27,14 +46,14 @@
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5007</link>
             <guid>58ed3c7b2dd587fbb4a900696f987e6d</guid>
             <pubDate>Thu, 11 Apr 2024 03:00:00 GMT</pubDate>
-            <description><![CDATA[＜RECYCLING PROJECT＞　～12金まで！
-★リユース品の配布
-スチューデントサポートセンターでは、”Student Commons’ SDGs RECYCLING PROJECT”
-として、「まだ使用できる不用品」を回収し、新入生をはじめとした学生へ、無料譲渡するプロジェクトを実施します。
+            <description><![CDATA[本学は紳士服の大手4社と契約しています。
+そのため、在学生とそのご家族の皆様には、
+全国のAOKI、コナカ、はるやま、洋服の青山（後日掲載）で、
+通常の割引価格から更に割引いた価格でスーツ等をご購入いただけます。
+大変お得ですので、是非ご利用ください。
 
-※プロジェクト参加者は筑波大学の在籍者（学生、研究員、教職員）に限ります。
-
-　配布時間　1…]]></description>
+※ご購入いただいた金額の一部が大学に寄附されます。
+]]></description>
         </item>
         <item>
             <title><![CDATA[【募集】世界展開力強化事業（CAMPUS-Asia6）海外派遣学生（第3期生）募集開始！]]></title>
@@ -244,17 +263,6 @@ DSEP/DSEP+の詳細はこちらをご覧ください。
 https://www.sie.tsukuba.ac.jp/dsep/
 
 …]]></description>
-        </item>
-        <item>
-            <title><![CDATA[（再掲）【4月】筑波大学BHEセーファースペース「KiteKite（きてきて）」の実施について]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4987</link>
-            <guid>576beb9f843f4d0a97b99c3f583fffba</guid>
-            <pubDate>Mon, 08 Apr 2024 03:00:00 GMT</pubDate>
-            <description><![CDATA[ヒューマンエンパワーメント推進局（BHE）ジェンダー支援チームでは、学生スタッフと共同で”セーファースペースKiteKite（きてきて）”を実施しています。4月の実施日についてお知らせしますので、ぜひお気軽にご参加ください。
-
-※セーファースペースとは…LGBTQ＋や女性をはじめ、全ての人が自らのジェンダー・セクシュアリティについてより安全に話すことができる居場所のこと
-
-KiteKiteは、年齢…]]></description>
         </item>
     </channel>
 </rss>
