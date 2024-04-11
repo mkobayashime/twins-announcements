@@ -5,10 +5,17 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "b35b8eb618fe80e8e285aa05a306ffb5",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5008",
+            "title": "まもなく終了RECYCLING PROJECT　+ぷらす水引体験",
+            "summary": "＜RECYCLING PROJECT＞　～12金まで！\n★リユース品の配布\nスチューデントサポートセンターでは、”Student Commons’ SDGs RECYCLING PROJECT”\nとして、「まだ使用できる不用品」を回収し、新入生をはじめとした学生へ、無料譲渡するプロジェクトを実施します。\n\n※プロジェクト参加者は筑波大学の在籍者（学生、研究員、教職員）に限ります。\n\n　配布時間　1…",
+            "date_modified": "2024-04-11T03:00:00.000Z"
+        },
+        {
             "id": "58ed3c7b2dd587fbb4a900696f987e6d",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5007",
             "title": "スーツの割引について（4月10日更新）",
-            "summary": "本学は紳士服の大手4社と契約しています。\nそのため、在学生とそのご家族の皆様には、\n全国のAOKI、コナカ、はるやま、洋服の青山（後日掲載）で、\n通常の割引価格から更に割引いた価格でスーツ等をご購入いただけます。\n大変お得ですので、是非ご利用ください。\n\n※ご購入いただいた金額の一部が大学に寄附されます。\n",
+            "summary": "＜RECYCLING PROJECT＞　～12金まで！\n★リユース品の配布\nスチューデントサポートセンターでは、”Student Commons’ SDGs RECYCLING PROJECT”\nとして、「まだ使用できる不用品」を回収し、新入生をはじめとした学生へ、無料譲渡するプロジェクトを実施します。\n\n※プロジェクト参加者は筑波大学の在籍者（学生、研究員、教職員）に限ります。\n\n　配布時間　1…",
             "date_modified": "2024-04-11T03:00:00.000Z"
         },
         {
@@ -135,13 +142,6 @@
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4987",
             "title": "（再掲）【4月】筑波大学BHEセーファースペース「KiteKite（きてきて）」の実施について",
             "summary": "ヒューマンエンパワーメント推進局（BHE）ジェンダー支援チームでは、学生スタッフと共同で”セーファースペースKiteKite（きてきて）”を実施しています。4月の実施日についてお知らせしますので、ぜひお気軽にご参加ください。\n\n※セーファースペースとは…LGBTQ＋や女性をはじめ、全ての人が自らのジェンダー・セクシュアリティについてより安全に話すことができる居場所のこと\n\nKiteKiteは、年齢…",
-            "date_modified": "2024-04-08T03:00:00.000Z"
-        },
-        {
-            "id": "72f56e8b503253159d48438fc6e57131",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4986",
-            "title": "【動画配信】SOGI/LGBTQ+に関する基礎知識 （配信期間：4月8日～30日）",
-            "summary": "4月に筑波大学に入学された皆さん、おめでとうございます！\nヒューマンエンパワーメント推進局（BHE）は、新入生（新入生でない学生も大歓迎です！）に向けて、気軽にダイバーシティやインクルージョンについて学べる基礎知識の動画を配信します。\n\n新しい出会い・体験に胸躍らせる、そんな4月ですが、4月19日～21日に「東京レインボープライド（TRP）」というLGBTQ＋をはじめとした性の多様性を祝うイベント…",
             "date_modified": "2024-04-08T03:00:00.000Z"
         }
     ]
