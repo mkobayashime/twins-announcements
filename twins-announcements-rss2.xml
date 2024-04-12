@@ -4,10 +4,32 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Fri, 12 Apr 2024 04:14:48 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 12 Apr 2024 08:16:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
+        <item>
+            <title><![CDATA[Open Call for DSEP Joint Research and Study Abroad Support]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5014</link>
+            <guid>5e2ed2a5ea415d6728048cef2f542d99</guid>
+            <pubDate>Fri, 12 Apr 2024 03:00:00 GMT</pubDate>
+            <description><![CDATA[【The announcement for the application of the DSEP Joint Research and Study Abroad Support has been released】
+
+The courses offered under this program include the MDA Advanced Project Research, which is…]]></description>
+        </item>
+        <item>
+            <title><![CDATA[DSEP共同研究・研究留学支援の公募を開始しました]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5013</link>
+            <guid>e718b0bade11f01b0deb366a667c74d9</guid>
+            <pubDate>Fri, 12 Apr 2024 03:00:00 GMT</pubDate>
+            <description><![CDATA[MDA後期プロジェクト研究、MDA後期研究留学の科目は、前者は国内、後者は海外の、共同研究やインターンシップ等を行っていただきます。
+それらの支援の公募を開始しましたので、ぜひご応募ください。
+
+申請手順：
+1. manabaのMDAコースに登録：登録キー 1443621
+2. コンテンツの「DSEP履修関連」の「DSEP履修申請書」にあるDSEP履修申請書をmanabaのMDAコースに提出
+3.…]]></description>
+        </item>
         <item>
             <title><![CDATA[4/17～4/25【留学相談強化週間７Days – 2024春】場所：スチューデント・コモンズ（1A203）またはオンライン]]></title>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5012</link>
@@ -250,31 +272,6 @@ Classrooms assigned the examinations might be changed, thus, please pay …]]></
 　詳細は、添付ファイル「HPVワクチン集団接種の実施内容について」をご参照ください。
 
 ※現在、手元に自治体から届いたHPVワクチ…]]></description>
-        </item>
-        <item>
-            <title><![CDATA[実践桜会国際交流基金奨学生募集（2024 年度）/Jissen Sakura-kai Foundation for AY2024]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4993</link>
-            <guid>b421c54b627705bc2fa395c166a511a2</guid>
-            <pubDate>Mon, 08 Apr 2024 03:00:00 GMT</pubDate>
-            <description><![CDATA[実践桜会国際交流基金奨学生募集（2024 年度）
-応募期限：
-(Google フォームによるエントリー締切)2024 年5月24 日（金）
-(応募書類提出締切)2024 年5 月31 日（金）16 時 ※必着
-募集要項：(PDF(資料1))
-応募フォーム・必要書類一式：https://www.j-sakura.org/contents/society/application.htm
-提出先：財団に…]]></description>
-        </item>
-        <item>
-            <title><![CDATA[4月10日　25年受験者対象　公務員試験対策講座]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4991</link>
-            <guid>bd8f6c6685613eee5f06875eddf7d381</guid>
-            <pubDate>Mon, 08 Apr 2024 03:00:00 GMT</pubDate>
-            <description><![CDATA[25年度に公務員試験を受験予定の方向けに試験対策講座を開催します。
-
-東京リーガルマインド専任講師による2025年受験予定者対象の公務員試験対策講座です。
-2025年に公務員試験受験を考える方を対象に、公務員の仕事や試験対策について学ぶことができます。
-学内公務員講座についても説明します。
-※3月25日の「公務員試験対策講座」とは別内容です。]]></description>
         </item>
     </channel>
 </rss>
