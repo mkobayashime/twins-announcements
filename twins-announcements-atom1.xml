@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/mkobayashime/twins-announcements</id>
     <title>在学生へのお知らせ | 筑波大学</title>
-    <updated>2024-04-14T11:23:03.922Z</updated>
+    <updated>2024-04-14T22:05:04.296Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://github.com/mkobayashime/twins-announcements"/>
     <subtitle>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</subtitle>
+    <entry>
+        <title type="html"><![CDATA[「筑波大学キャンパスマップ」に関するアンケートを実施しています]]></title>
+        <id>4d8c00cb50e18b4029edec9818d94bf5</id>
+        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4973"/>
+        <updated>2024-04-15T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[「筑波大学キャンパスマップ」に関するアンケートを実施しています。
+今後より良いものにしていくために、アンケートにご協力願います。
+TWINSのメニューから「アンケート」⇒「アンケート回答」⇒「筑波大学キャンパスマップに関するアンケート」をクリックし、行ってください。
+回答期限は6月28日です。]]></summary>
+    </entry>
     <entry>
         <title type="html"><![CDATA[カナダのプリンスエドワード島大学「英語で授業ができる教員養成のためのTA・TF夏期海外研修プログラム」説明会開催]]></title>
         <id>a5745ba72bf255563cac30b12cc8ab38</id>
@@ -256,15 +266,5 @@ Classrooms assigned the examinations might be changed, thus, please pay …]]></
 場所：総合研究棟A110（ハイブリッド開催）
 参加：無料
 参加申込：https://docs.google.com/forms/d/e/1FAIpQLSdPCytxD0UDdjI8LueZf8RG0IuUv1mFRKNG1TdI6BKtQ6RQdw/view…]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[HPVワクチン集団接種の実施について]]></title>
-        <id>ab1b3158f80d4b29f6c4a613e2d61feb</id>
-        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4995"/>
-        <updated>2024-04-09T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[　本学では、国がキャッチアップ期間（令和４(2022)年4月～令和７年(2025)３月の３年間）を設けてHPVワクチン接種の積極的な勧奨を再開していることから、教職員及び学生の健康管理の観点から、接種対象となる方のうち、希望者を対象として添付のとおり実施するものです。
-　詳細は、添付ファイル「HPVワクチン集団接種の実施内容について」をご参照ください。
-
-※現在、手元に自治体から届いたHPVワクチ…]]></summary>
     </entry>
 </feed>
