@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "e46d84fbd924b12d51bcbc46ea219a78",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5018",
+            "title": "（ご案内）学生向け人財育成プログラム「常陸frogs」６期生募集開始について",
+            "summary": "茨城に所縁のある学生向け人財育成プログラム『常陸frogs』の案内がありました。\n\n下記をご確認の上、興味のある学生は応募フォームより直接応募してください。\n\n以下が『常陸frogs』案内文です。\n----------\n2019年からスタートした、学生向け人財育成プログラム「常陸frogs」。\n今年度も本プログラムへの挑戦者を募集します！\n「世界に触れ、自分を変えたい」\n「テクノロジーを活用し、社…",
+            "date_modified": "2024-04-15T03:00:00.000Z"
+        },
+        {
             "id": "20654527202aa0bde3031879ef6307a3",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5017",
             "title": "【初級編　申込締切間近】【26卒＆27卒】就活＆インターンシップガイダンス（日本語）リマインド",
@@ -135,13 +142,6 @@
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4999",
             "title": "Notice about the Undergraduate Final Examinations in 2024 (To All the Undergraduate Students)",
             "summary": "To All the Undergraduate Students\n\nUniversity of Tsukuba conducts the undergraduate final examinations in 2024 as stated below.\nClassrooms assigned the examinations might be changed, thus, please pay …",
-            "date_modified": "2024-04-09T03:00:00.000Z"
-        },
-        {
-            "id": "a2806a5daafc36d8bd2ed6c5e9e6d724",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4998",
-            "title": "【参加者募集】2024年度 国立台湾大学との学生交流プロジェクト",
-            "summary": "2024年度 国立台湾大学との学生交流プロジェクトに参加する学生を募集します！\n添付のURL及び募集要項をよく読み、応募してください。\n\n【概要】\n募集対象：本学の正規課程に在籍する学群生及び大学院生（博士課程前期に限る）で、英語でのコミュニケーションが可能な者。なお、プロジェクトの全日程に参加できることが応募条件となります。\n\n募集人数：20名\n\n実施内容：筑波大学及び国立台湾大学から参加する各…",
             "date_modified": "2024-04-09T03:00:00.000Z"
         }
     ]
