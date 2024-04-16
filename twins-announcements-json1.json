@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "566b4a1746a915f6a150d55ce8f73a72",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5019",
+            "title": "【開催案内】海外研修・短期留学 合同帰国報告会 （カザフスタン）",
+            "summary": "2023年度に実施した、カザフスタンにおける海外研修（ロシア語語学研修/医療視察研修/短期留学）を修了した学生による帰国報告会を実施いたします。\nまた、2024年度実施予定の研修プログラムの紹介もいたします。\n\n中央アジアやロシア語圏の文化、海外研修などに関心のある方、是非お気軽にご来聴ください。\n\n【開催案内】\n海外研修・短期留学 合同帰国報告会 （カザフスタン）\n\n日時：令和6年4月22日（月…",
+            "date_modified": "2024-04-16T03:00:00.000Z"
+        },
+        {
             "id": "e46d84fbd924b12d51bcbc46ea219a78",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5018",
             "title": "（ご案内）学生向け人財育成プログラム「常陸frogs」６期生募集開始について",
@@ -135,13 +142,6 @@
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5000",
             "title": "令和６年度授業の曜日振替について",
             "summary": "学生各位\n\nこのことについて、授業日数確保のため、下記のとおり曜日が振替になっていますので、ご注意願います。\n（但し、東京キャンパスは除く。）\n\n　　　　　　　　　　　　　　　　　記\n\n【春学期授業】\n令和６年  ５月　１日（水）は、金曜日の授業を実施（終日）\n令和６年  ５月　７日（火）は、月曜日の授業を実施（終日）\n\n【秋学期授業】\n令和６年１０月１６日（水）は、月曜日の授業を実施（終日）\n令…",
-            "date_modified": "2024-04-09T03:00:00.000Z"
-        },
-        {
-            "id": "b86832313f2e261754acd1b07215d732",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4999",
-            "title": "Notice about the Undergraduate Final Examinations in 2024 (To All the Undergraduate Students)",
-            "summary": "To All the Undergraduate Students\n\nUniversity of Tsukuba conducts the undergraduate final examinations in 2024 as stated below.\nClassrooms assigned the examinations might be changed, thus, please pay …",
             "date_modified": "2024-04-09T03:00:00.000Z"
         }
     ]
