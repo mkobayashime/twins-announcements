@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "3f9641d77cc6cdb87ec11ef766b893de",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5024",
+            "title": "茨城県留学生親善大使募集(Application for Ibaraki Foreign Student Goodwill Ambassador)",
+            "summary": "<<留学生対象>>\n公益財団法人　茨城県国際交流協会より、留学生親善大使募集のお知らせがありました。\nそこで、留学生親善大使を募集します。\n興味のある方は、「留学生親善大使申込書」を下記からダウンロードして、学生交流課留学生支援宛に2024年5月6日(月)までにメールで応募してください。\n(メール：isc-shien@un.tsukuba.ac.jp)\n\n詳細は添付のPDFをご参照ください。\n\n<…",
+            "date_modified": "2024-04-18T03:00:00.000Z"
+        },
+        {
             "id": "597eea8dbf8beb50b41b8c99ac7f0513",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5023",
             "title": "つくばリサイタルシリーズ実行委員会説明会開催のお知らせ",
@@ -135,13 +142,6 @@
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5004",
             "title": "【お知らせ】データサイエンス応用基礎プログラムの全学実施の開始について",
             "summary": "本学学士課程の学生　各位\n\n本学では開学以来、全ての学士課程の学生に対して必修科目として講義形式とコンピューターでの演習を含めた発展的な情報教育を実施しており、世界的にも先駆的な情報教育を行っております。\n\nまた、近年では、デジタル化の急速な進展に伴い、「数理・データサイエンス・AI（以下「MDA」という。）」は、デジタル社会の基礎知識として、文理を問わず、全ての大学・高専の学生が身に付けておくべ…",
-            "date_modified": "2024-04-09T03:00:00.000Z"
-        },
-        {
-            "id": "eade9963f7c1cbf0ef56bb4018e88fdf",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5003",
-            "title": "【必見】【２６卒２７卒】就活＆インターンシップガイダンス(日本語）",
-            "summary": "就活＆インターンシップガイダンスを2回にわたって開催します。　\nインターンシップについて知りたい方から企業選びについて、人気のインターンシップへの選考対策まで株式会社マイナビのキャリアサポーターや編集長が解説します。\nインターンシップは企業を知ることへの第1歩です。就活生の方はぜひご参加ください！\nまた他の学年のご参加も歓迎です。\n\n　【初級編】就職活動やインターンシップのポイントを知り、将来のた…",
             "date_modified": "2024-04-09T03:00:00.000Z"
         }
     ]
