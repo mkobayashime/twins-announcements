@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "db58ed5b91bc8563ccfda478a1e56045",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5040",
+            "title": "Reminder： Prevention of Fraudulent Use of On-Campus Transportation System (The bus pass)",
+            "summary": "To User of On-Campus Transportation System\n\n* On-Campus Transportation System (The bus pass) expires on March 31 of each year. Please remove the\n　expired bus pass sticker from your student/staff ID ca…",
+            "date_modified": "2024-04-19T03:00:00.000Z"
+        },
+        {
             "id": "462b6dcda183200637e2eadeb7383107",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5039",
             "title": "【注意喚起】キャンパス交通システム利用証（大学循環バス特殊定期券)の不正使用防止について",
@@ -136,13 +143,6 @@
             "title": "「筑波大学キャンパスマップ」に関するアンケートを実施しています",
             "summary": "「筑波大学キャンパスマップ」に関するアンケートを実施しています。\n今後より良いものにしていくために、アンケートにご協力願います。\nTWINSのメニューから「アンケート」⇒「アンケート回答」⇒「筑波大学キャンパスマップに関するアンケート」をクリックし、行ってください。\n回答期限は6月28日です。",
             "date_modified": "2024-04-15T03:00:00.000Z"
-        },
-        {
-            "id": "a5745ba72bf255563cac30b12cc8ab38",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5015",
-            "title": "カナダのプリンスエドワード島大学「英語で授業ができる教員養成のためのTA・TF夏期海外研修プログラム」説明会開催",
-            "summary": "「筑波大学キャンパスマップ」に関するアンケートを実施しています。\n今後より良いものにしていくために、アンケートにご協力願います。\nTWINSのメニューから「アンケート」⇒「アンケート回答」⇒「筑波大学キャンパスマップに関するアンケート」をクリックし、行ってください。\n回答期限は6月28日です。",
-            "date_modified": "2024-04-12T03:00:00.000Z"
         }
     ]
 }
