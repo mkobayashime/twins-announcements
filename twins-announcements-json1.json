@@ -5,6 +5,34 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "0728c88949058c384423d6a2d707716a",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5034",
+            "title": "Initial Registration and Addition of E-mail Addresses, etc. to the ANPIC [Request]",
+            "summary": "＜Target of the Safety Confirmation Using ANPIC＞\n・Undergraduate Students and Graduate Students (Including Non-Degree Students)\n　※Those Registered in TWINS\n\n＜Initial Registration and Addition of E-mail …",
+            "date_modified": "2024-04-19T03:00:00.000Z"
+        },
+        {
+            "id": "91cce8abfe0671e48985f4723d95a2cf",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5033",
+            "title": "筑波大学安否確認システム（ANPIC）の初期登録及びメールアドレスの追加等について【お願い】",
+            "summary": "日頃より、本学の災害対策にご協力いただきありがとうございます。\n令和２年11月１日から、本学の安否確認システムは、「筑波大学安否確認システム（ANPIC)」（以下、ANPICという。）による運用を開始いたしました。\nANPICでは、大地震などの大規模災害発生時や防災訓練において、ANPICから学生・教職員のメールアドレス等に安否確認メールを配信します。速やかに安否報告ができるよう、必ず初期登録を行…",
+            "date_modified": "2024-04-19T03:00:00.000Z"
+        },
+        {
+            "id": "3b8e7753fec1b6c0ba676d08e3ce238b",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5032",
+            "title": "HPVワクチン集団接種の実施について【再掲】",
+            "summary": "　本学では、国がキャッチアップ期間（令和４（2022）年４月～令和７年（2025）３月の３年間）を設けてHPVワクチン接種の積極的な勧奨を再開していることから、教職員及び学生の健康管理の観点から、接種対象となる方のうち、希望者を対象として実施（接種場所：筑波大学附属病院）するものです。\n　接種対象者、接種期間及び予約方法等の詳細については、下記リンク先より、スチューデントサポートセンターHPの「セ…",
+            "date_modified": "2024-04-19T03:00:00.000Z"
+        },
+        {
+            "id": "52d34161e5e6a8e12254587e60de6e59",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5031",
+            "title": "【大学生向けイベントのご案内】2024年度日本財団 海洋開発サマースクールの募集について",
+            "summary": "2024年度海洋開発サマースクールの募集開始に関するご案内です。\n\n本プログラムは、将来海洋開発産業で活躍を志す学生を対象に、\n海洋開発に関する知識や国際性を実践的に経験していただくことを目的としております。\n\n今年度は、スコットランド、ノルウェー、アメリカ、オランダの4カ国の大学で実施する予定です。\n参加学生は、同じ志を持つ仲間たちと共に、海洋開発の実際を学びながら英語の応用力も高めることができ…",
+            "date_modified": "2024-04-19T03:00:00.000Z"
+        },
+        {
             "id": "e47c7c7e9af456c4ee86fe456a1ae59b",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5030",
             "title": "【25卒学生向け就職イベント】就職ミライ博・合同企業説明会Part２（BHEキャリア支援チーム主催）",
@@ -114,34 +142,6 @@
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5014",
             "title": "Open Call for DSEP Joint Research and Study Abroad Support",
             "summary": "【The announcement for the application of the DSEP Joint Research and Study Abroad Support has been released】\n\nThe courses offered under this program include the MDA Advanced Project Research, which is…",
-            "date_modified": "2024-04-12T03:00:00.000Z"
-        },
-        {
-            "id": "e718b0bade11f01b0deb366a667c74d9",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5013",
-            "title": "DSEP共同研究・研究留学支援の公募を開始しました",
-            "summary": "MDA後期プロジェクト研究、MDA後期研究留学の科目は、前者は国内、後者は海外の、共同研究やインターンシップ等を行っていただきます。\nそれらの支援の公募を開始しましたので、ぜひご応募ください。\n\n申請手順：\n1. manabaのMDAコースに登録：登録キー 1443621\n2. コンテンツの「DSEP履修関連」の「DSEP履修申請書」にあるDSEP履修申請書をmanabaのMDAコースに提出\n3.…",
-            "date_modified": "2024-04-12T03:00:00.000Z"
-        },
-        {
-            "id": "ea1abefd147c375eedc25588523eb5be",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5012",
-            "title": "4/17～4/25【留学相談強化週間７Days – 2024春】場所：スチューデント・コモンズ（1A203）またはオンライン",
-            "summary": "4月、新年度。新しい試みや体験をしたくてウズウズしている人も多いハズ！！\nスチューデントサポートセンター国際交流支援室（SSC）は、筑波大学生の留学のアシストをしています！\n\n「留学、興味あるけどよくわからない！」って思ったそこの筑大生！「夏に研修やインターンシップに参加したい」というあなた！\nそうです。そんなあなたのために【留学相談強化週間７Days-2024春】を開催します！\n各留学プログラム…",
-            "date_modified": "2024-04-12T03:00:00.000Z"
-        },
-        {
-            "id": "55a7885f8f1e252dcd888bc5897d57c6",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5011",
-            "title": "国際パートナーシップ研修(東南アジア) （全学自由科目（特設）2単位）参加希望者の募集",
-            "summary": "海外派遣コースへの参加者を募集します。\n対象：全学類生、募集人員8名\n\n派遣日程：2024年8月25日-9月1日の一週間程度を予定\nコース内容：\n8月26日 〜8月29日：感染ワークショップ（ホーチミン市バイオテクノロジーセンター）\n8月30日〜：ベトナムの協定校との国際交流（調整中）\n対象者：筑波大学・学類生（全学）、ベトナム学生/社会人\n\n応募いただいた中から、派遣候補者を選抜します。\n費用・…",
-            "date_modified": "2024-04-12T03:00:00.000Z"
-        },
-        {
-            "id": "07a1210006dd6f4e3ef839c756296814",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5010",
-            "title": "日本語教育のための修了証と国家資格のガイダンス",
-            "summary": "令和6年度より日本語教師の国家資格「登録日本語教員」制度がスタートします。\n日本語・日本文化学類で開設している 「日本語教師養成 修了証プログラム」を取得することで、 登録日本語教員の認定要件の一部が免除されます。\n\n修了証と国家資格について、制度の概要を説明します。\n関心のある方はご参加ください。\n\n日本語教育のための修了証と国家資格のガイダンス\n　日時：2024年5月15日（水）…",
             "date_modified": "2024-04-12T03:00:00.000Z"
         }
     ]
