@@ -4,10 +4,27 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Fri, 19 Apr 2024 00:55:10 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 19 Apr 2024 03:13:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
+        <item>
+            <title><![CDATA[【25卒学生向け就職イベント】就職ミライ博・合同企業説明会Part２（BHEキャリア支援チーム主催）]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5030</link>
+            <guid>e47c7c7e9af456c4ee86fe456a1ae59b</guid>
+            <pubDate>Fri, 19 Apr 2024 03:00:00 GMT</pubDate>
+            <description><![CDATA[採用担当者の方と密に話せる、面談型就職イベントを開催します。
+27社×2日間で54社の企業・団体・官公庁が出展します！
+出展企業は添付のチラシ、または特設サイトを確認してください。
+この機会に、一気に就職活動を進めましょう！
+
+●26卒以降の学生について
+　業界研究等の機会になりますので、興味のある方はぜひご参加ください。
+
+【開催概要】
+開催日程：2024年5月13日（月）、14日（火）
+会場：…]]></description>
+        </item>
         <item>
             <title><![CDATA[公益財団法人 バロック村井博之財団 (2024 年度)/Baroque Murai Hiroyuki Foundation 2024]]></title>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5029</link>
@@ -238,25 +255,6 @@ The courses offered under this program include the MDA Advanced Project Research
 
 日本語教育のための修了証と国家資格のガイダンス
 　日時：2024年5月15日（水）…]]></description>
-        </item>
-        <item>
-            <title><![CDATA[【学生無料】荒木奏美オーボエリサイタル～染みわたるオーボエの調べ（第２回TRSサロンシリーズ）]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5009</link>
-            <guid>8618d0cd3f56344e6b50c97221b4b2a3</guid>
-            <pubDate>Thu, 11 Apr 2024 03:00:00 GMT</pubDate>
-            <description><![CDATA[2024年6月9日（日）17時開演（16時30分開場）
-つくばアルスホール
-
-出演
-荒木奏美（読売日本交響楽団首席オーボエ奏者）
-大崎由貴（ピアノ）
-
-プログラム
-ラヴェル：ハバネラ形式の小品
-プーランク：オーボエとピアノのためのソナタ
-ドラニシコワ：ポエム　　他
-
-筑波大学の有志学生が企画・運営を行うつくばリサイタルシリーズは毎回一流の音楽家をお招きし、助成金や各種補助金、クラウドファンディング…]]></description>
         </item>
     </channel>
 </rss>

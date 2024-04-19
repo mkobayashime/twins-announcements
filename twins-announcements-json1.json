@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "e47c7c7e9af456c4ee86fe456a1ae59b",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5030",
+            "title": "【25卒学生向け就職イベント】就職ミライ博・合同企業説明会Part２（BHEキャリア支援チーム主催）",
+            "summary": "採用担当者の方と密に話せる、面談型就職イベントを開催します。\n27社×2日間で54社の企業・団体・官公庁が出展します！\n出展企業は添付のチラシ、または特設サイトを確認してください。\nこの機会に、一気に就職活動を進めましょう！\n\n●26卒以降の学生について\n　業界研究等の機会になりますので、興味のある方はぜひご参加ください。\n\n【開催概要】\n開催日程：2024年5月13日（月）、14日（火）\n会場：…",
+            "date_modified": "2024-04-19T03:00:00.000Z"
+        },
+        {
             "id": "09d38d138408d1fc58b83a78f75f1c86",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5029",
             "title": "公益財団法人 バロック村井博之財団 (2024 年度)/Baroque Murai Hiroyuki Foundation 2024",
@@ -136,13 +143,6 @@
             "title": "日本語教育のための修了証と国家資格のガイダンス",
             "summary": "令和6年度より日本語教師の国家資格「登録日本語教員」制度がスタートします。\n日本語・日本文化学類で開設している 「日本語教師養成 修了証プログラム」を取得することで、 登録日本語教員の認定要件の一部が免除されます。\n\n修了証と国家資格について、制度の概要を説明します。\n関心のある方はご参加ください。\n\n日本語教育のための修了証と国家資格のガイダンス\n　日時：2024年5月15日（水）…",
             "date_modified": "2024-04-12T03:00:00.000Z"
-        },
-        {
-            "id": "8618d0cd3f56344e6b50c97221b4b2a3",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5009",
-            "title": "【学生無料】荒木奏美オーボエリサイタル～染みわたるオーボエの調べ（第２回TRSサロンシリーズ）",
-            "summary": "2024年6月9日（日）17時開演（16時30分開場）\nつくばアルスホール\n\n出演\n荒木奏美（読売日本交響楽団首席オーボエ奏者）\n大崎由貴（ピアノ）\n\nプログラム\nラヴェル：ハバネラ形式の小品\nプーランク：オーボエとピアノのためのソナタ\nドラニシコワ：ポエム　　他\n\n筑波大学の有志学生が企画・運営を行うつくばリサイタルシリーズは毎回一流の音楽家をお招きし、助成金や各種補助金、クラウドファンディング…",
-            "date_modified": "2024-04-11T03:00:00.000Z"
         }
     ]
 }
