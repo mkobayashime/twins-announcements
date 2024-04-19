@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "137ee28273468cde91523862151f60a7",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5041",
+            "title": "【再掲：留学生向け案内】公益財団法人 バロック村井博之財団 (2024 年度)/【Repost】Baroque Murai Hiroyuki Foundation 2024",
+            "summary": "【再掲】\n※こちらは留学生向けの案内です。日本人学生の応募については学生生活課までお問い合わせください。\n\n公益財団法人 バロック村井博之財団 (2024 年度)\n応募期限： 2024 年5 月2 日（木） 17 時\n提出先：学生交流課(1A 棟101)\n募集要項：(PDF(資料1))\n提出書類：https://baroque-murai.or.jp/\n※この奨学金を受給する者は、2024 年度の…",
+            "date_modified": "2024-04-19T03:00:00.000Z"
+        },
+        {
             "id": "db58ed5b91bc8563ccfda478a1e56045",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5040",
             "title": "Reminder： Prevention of Fraudulent Use of On-Campus Transportation System (The bus pass)",
@@ -135,13 +142,6 @@
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5016",
             "title": "（2025年春学期渡航分）【SSC公募（一括公募）型】CiCパートナー校及び全学対象協定校への海外留学の公募について",
             "summary": "2025年春学期渡航分の一括公募（SSC公募）の留学募集を開始しました。\n興味がある方は、URL先の案内をよくご確認の上、manabaにて応募してください。\n\n・募集対象: 2025年春学期渡航分\n・応募締切:2024年6月5日（月）8時半\n　※期限を過ぎた場合はいかなる理由があろうとも受け付けません。\n\nまた、本公募を含めた留学に関する説明会を以下の日時にて開催しますので、留学に興味がある方はぜ…",
-            "date_modified": "2024-04-15T03:00:00.000Z"
-        },
-        {
-            "id": "4d8c00cb50e18b4029edec9818d94bf5",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=4973",
-            "title": "「筑波大学キャンパスマップ」に関するアンケートを実施しています",
-            "summary": "「筑波大学キャンパスマップ」に関するアンケートを実施しています。\n今後より良いものにしていくために、アンケートにご協力願います。\nTWINSのメニューから「アンケート」⇒「アンケート回答」⇒「筑波大学キャンパスマップに関するアンケート」をクリックし、行ってください。\n回答期限は6月28日です。",
             "date_modified": "2024-04-15T03:00:00.000Z"
         }
     ]
