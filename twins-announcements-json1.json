@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "f7e5c4dc1ece4147cbde4ed3df16263e",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5043",
+            "title": "サーバー更新作業に伴うキャリア支援チームHP及び就職情報提供システム停止のお知らせ",
+            "summary": "サーバー更新作業に伴い、下記の時間、キャリア支援チームホームページ等へ繋がりにくくなります。\n【作業日時】4/25（木）9：00　～　13：15（予定）\n\nなお、サーバー更新作業中は、「学内専用ページ」、「ガイダンス等及び模試試験登録・申請」、「進路進捗状況届」へのアクセスはできません。\n皆様にはご迷惑をおかけいたしますが、ご理解、ご協力の程よろしくお願いいたします。\n",
+            "date_modified": "2024-04-22T03:00:00.000Z"
+        },
+        {
             "id": "329148f5caf3635ef1476ee27460a132",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5042",
             "title": "【再掲】つくばリサイタルシリーズ実行委員会説明会開催のお知らせ",
@@ -135,13 +142,6 @@
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5017",
             "title": "【初級編　申込締切間近】【26卒＆27卒】就活＆インターンシップガイダンス（日本語）リマインド",
             "summary": "就活＆インターンシップガイダンスを2回にわたって開催します。　\nインターンシップについて知りたい方から企業選びについて、人気のインターンシップへの選考対策まで株式会社マイナビのキャリアサポーターや編集長が解説します。\nインターンシップは企業を知ることへの第1歩です。就活生の方はぜひご参加ください！\nまた他の学年のご参加も歓迎です。\n\n　【初級編】就職活動やインターンシップのポイントを知り、将来のた…",
-            "date_modified": "2024-04-15T03:00:00.000Z"
-        },
-        {
-            "id": "61055c64c2f784ee31741fa85f5018d1",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5016",
-            "title": "（2025年春学期渡航分）【SSC公募（一括公募）型】CiCパートナー校及び全学対象協定校への海外留学の公募について",
-            "summary": "2025年春学期渡航分の一括公募（SSC公募）の留学募集を開始しました。\n興味がある方は、URL先の案内をよくご確認の上、manabaにて応募してください。\n\n・募集対象: 2025年春学期渡航分\n・応募締切:2024年6月5日（月）8時半\n　※期限を過ぎた場合はいかなる理由があろうとも受け付けません。\n\nまた、本公募を含めた留学に関する説明会を以下の日時にて開催しますので、留学に興味がある方はぜ…",
             "date_modified": "2024-04-15T03:00:00.000Z"
         }
     ]
