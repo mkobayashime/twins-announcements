@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/mkobayashime/twins-announcements</id>
     <title>在学生へのお知らせ | 筑波大学</title>
-    <updated>2024-04-21T21:15:49.373Z</updated>
+    <updated>2024-04-22T01:54:51.214Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://github.com/mkobayashime/twins-announcements"/>
     <subtitle>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</subtitle>
+    <entry>
+        <title type="html"><![CDATA[【再掲】つくばリサイタルシリーズ実行委員会説明会開催のお知らせ]]></title>
+        <id>329148f5caf3635ef1476ee27460a132</id>
+        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5042"/>
+        <updated>2024-04-22T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[つくばリサイタルシリーズ実行委員会は筑波大学の有志学生からなる団体で、比較文化学類の共催をいただき、一流のクラシック音楽の演奏家をお招きして、学生無料のコンサートを開催しています。
+
+当委員会では現在、一緒に演奏会を作り上げる仲間を募集しています。
+芸術や文化を地域社会に広めたい方、社会とのつながりを意識しながら活動を行いたい方、一流の演奏家の演奏を間近で聴きたい方など、どんな動機でも問題なし！音…]]></summary>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【再掲：留学生向け案内】公益財団法人 バロック村井博之財団 (2024 年度)/【Repost】Baroque Murai Hiroyuki Foundation 2024]]></title>
         <id>137ee28273468cde91523862151f60a7</id>
@@ -102,14 +112,8 @@ ANPICでは、大地震などの大規模災害発生時や防災訓練におい
         <id>16b0255238c88ff49be3493fc3e663e0</id>
         <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5028"/>
         <updated>2024-04-19T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[公益財団法人 バロック村井博之財団 (2024 年度)
-応募期限： 2024 年5 月2 日（木） 17 時
-提出先：学生交流課(1A 棟101)
-募集要項：(PDF(資料1))
-提出書類：https://baroque-murai.or.jp/
-※この奨学金を受給する者は、2024 年度の大学推薦奨学金の申請資格がありません。
-※日本語能力が必要です。
-※推薦書については、上部は空欄、下部は指導…]]></summary>
+        <summary type="html"><![CDATA[　このコースは英語で行われます。スポーツイベントに関連する経営戦略とマーケティング戦略を理解し、実践へとつなげるためのフレームワークを提供します。
+　今回は、当該分野での研究や調査を実践に生かすことを目指し、成果の発表方法やその効果を捉える手法について考えます。ゲストスピーカーの2名からは、Event ManagementおよびSport Management分野の出版について情報提供をいただきま…]]></summary>
     </entry>
     <entry>
         <title type="html"><![CDATA[Notice of Sustainability Week]]></title>
@@ -234,15 +238,5 @@ Please check…]]></summary>
 　※期限を過ぎた場合はいかなる理由があろうとも受け付けません。
 
 また、本公募を含めた留学に関する説明会を以下の日時にて開催しますので、留学に興味がある方はぜ…]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[「筑波大学キャンパスマップ」に関するアンケートを実施しています]]></title>
-        <id>4d8c00cb50e18b4029edec9818d94bf5</id>
-        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=4973"/>
-        <updated>2024-04-15T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[「筑波大学キャンパスマップ」に関するアンケートを実施しています。
-今後より良いものにしていくために、アンケートにご協力願います。
-TWINSのメニューから「アンケート」⇒「アンケート回答」⇒「筑波大学キャンパスマップに関するアンケート」をクリックし、行ってください。
-回答期限は6月28日です。]]></summary>
     </entry>
 </feed>
