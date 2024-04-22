@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "1bf9b4aef0a07fd95835c607bc40ea35",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5044",
+            "title": "人物コスチュームモデル募集について Looking for an Art Model in costume",
+            "summary": "令和6年度筑波大学公開講座　芸術教室「油絵」講座では、人物モデル（西洋人女性モデル）を募集しています。\n興味のある方は、添付ファイルのポスターを確認し、「お問い合わせ」先まで連絡してください。\n\nThe 2024 University of Tsukuba Open Lecture, Art Class \"Oil Painting\" is looking for an art model in c…",
+            "date_modified": "2024-04-22T03:00:00.000Z"
+        },
+        {
             "id": "f7e5c4dc1ece4147cbde4ed3df16263e",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5043",
             "title": "サーバー更新作業に伴うキャリア支援チームHP及び就職情報提供システム停止のお知らせ",
@@ -135,13 +142,6 @@
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5018",
             "title": "（ご案内）学生向け人財育成プログラム「常陸frogs」６期生募集開始について",
             "summary": "茨城に所縁のある学生向け人財育成プログラム『常陸frogs』の案内がありました。\n\n下記をご確認の上、興味のある学生は応募フォームより直接応募してください。\n\n以下が『常陸frogs』案内文です。\n----------\n2019年からスタートした、学生向け人財育成プログラム「常陸frogs」。\n今年度も本プログラムへの挑戦者を募集します！\n「世界に触れ、自分を変えたい」\n「テクノロジーを活用し、社…",
-            "date_modified": "2024-04-15T03:00:00.000Z"
-        },
-        {
-            "id": "20654527202aa0bde3031879ef6307a3",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5017",
-            "title": "【初級編　申込締切間近】【26卒＆27卒】就活＆インターンシップガイダンス（日本語）リマインド",
-            "summary": "就活＆インターンシップガイダンスを2回にわたって開催します。　\nインターンシップについて知りたい方から企業選びについて、人気のインターンシップへの選考対策まで株式会社マイナビのキャリアサポーターや編集長が解説します。\nインターンシップは企業を知ることへの第1歩です。就活生の方はぜひご参加ください！\nまた他の学年のご参加も歓迎です。\n\n　【初級編】就職活動やインターンシップのポイントを知り、将来のた…",
             "date_modified": "2024-04-15T03:00:00.000Z"
         }
     ]
