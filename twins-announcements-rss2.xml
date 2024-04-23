@@ -4,10 +4,22 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Tue, 23 Apr 2024 00:55:50 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 23 Apr 2024 03:13:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
+        <item>
+            <title><![CDATA[（公務員試験対策）LEC東京リーガルマインド学内講座案内]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5047</link>
+            <guid>629a727c2c850bafb93005a96c3ba907</guid>
+            <pubDate>Tue, 23 Apr 2024 03:00:00 GMT</pubDate>
+            <description><![CDATA[5年度公務員試験受験予定の皆様
+
+LEC学内講座のご案内
+LEC東京リーガルマインド中野本校からZOOMを利用して授業尾ライブ配信します。
+受講生の方は自宅などで受講していただくオンライン受講で実施します。
+5月24日開講　現在申込受付中です！（講座開始後も申込み可能です）]]></description>
+        </item>
         <item>
             <title><![CDATA[【応用編　申込締切間近】【26卒＆27卒】就活＆インターンシップガイダンス（日本語）リマインド]]></title>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5046</link>
@@ -217,22 +229,6 @@ Please check…]]></description>
 【研修内容】
 ・研修先：University of Victoria, English Language Centre（ブリティッシュ・コロンビア州、ビクトリア）
 ・研修コース：「Monthly…]]></description>
-        </item>
-        <item>
-            <title><![CDATA[（ご案内）学生向け人財育成プログラム「常陸frogs」６期生募集開始について]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5018</link>
-            <guid>e46d84fbd924b12d51bcbc46ea219a78</guid>
-            <pubDate>Mon, 15 Apr 2024 03:00:00 GMT</pubDate>
-            <description><![CDATA[茨城に所縁のある学生向け人財育成プログラム『常陸frogs』の案内がありました。
-
-下記をご確認の上、興味のある学生は応募フォームより直接応募してください。
-
-以下が『常陸frogs』案内文です。
-----------
-2019年からスタートした、学生向け人財育成プログラム「常陸frogs」。
-今年度も本プログラムへの挑戦者を募集します！
-「世界に触れ、自分を変えたい」
-「テクノロジーを活用し、社…]]></description>
         </item>
     </channel>
 </rss>
