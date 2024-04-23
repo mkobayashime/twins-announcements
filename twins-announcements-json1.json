@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "4f760611d090bb1700978e9e5680a717",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5053",
+            "title": "【オンデマンド配信】【26卒・27卒】【初級編】就活＆インターンシップガイダンス（日本語）配信終了～7月31日(水)まで",
+            "summary": "4月17日(水)に開催しました【26卒・27卒】【初級編】就活＆インターンシップガイダンスのオンデマンド配信のご案内です。\n【初級編】就職活動やインターンシップのポイントを知り、将来のための1歩を踏み出そう！\n対象：主に学群2年生、学群3年生、他全学生\n内容：インターンシップの基礎知識、インターンシップの探し方や就職活動の準備について\n講師：株式会社マイナビ　キャリアサポーター\n\n配信方法\nZOO…",
+            "date_modified": "2024-04-23T03:00:00.000Z"
+        },
+        {
             "id": "36c8ff05cdd886f5efc395ca6870804f",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5052",
             "title": "スーツの割引について（4月23日更新）",
@@ -135,13 +142,6 @@
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5027",
             "title": "Notice of Sustainability Week",
             "summary": "\"Sustainability Week\" is an event jointly held by student organizations from the University of Tsukuba, Ochanomizu University, the University of Tokyo, and Tokyo University of Agriculture and Technolo…",
-            "date_modified": "2024-04-18T03:00:00.000Z"
-        },
-        {
-            "id": "388289915add54f709deb56887b07be8",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5026",
-            "title": "自然保護寄附講座第11期生春募集！Apply Now for the CPNC ( Spring Semester) !",
-            "summary": "筑波大学大学院新入生の皆さん、ご入学おめでとうございます！\n自然保護寄附講座では、第11期生（2024年度春履修開始）を募集します。\nApply now for the Certificate Programme on Nature Conservation of 2024 ( Spring Semester ) !\n\n詳しくは自然保護寄附講座ウェブサイトをご覧ください！\nPlease check…",
             "date_modified": "2024-04-18T03:00:00.000Z"
         }
     ]

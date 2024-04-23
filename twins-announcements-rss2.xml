@@ -4,10 +4,24 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Tue, 23 Apr 2024 08:16:23 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 23 Apr 2024 09:13:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
+        <item>
+            <title><![CDATA[【オンデマンド配信】【26卒・27卒】【初級編】就活＆インターンシップガイダンス（日本語）配信終了～7月31日(水)まで]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5053</link>
+            <guid>4f760611d090bb1700978e9e5680a717</guid>
+            <pubDate>Tue, 23 Apr 2024 03:00:00 GMT</pubDate>
+            <description><![CDATA[4月17日(水)に開催しました【26卒・27卒】【初級編】就活＆インターンシップガイダンスのオンデマンド配信のご案内です。
+【初級編】就職活動やインターンシップのポイントを知り、将来のための1歩を踏み出そう！
+対象：主に学群2年生、学群3年生、他全学生
+内容：インターンシップの基礎知識、インターンシップの探し方や就職活動の準備について
+講師：株式会社マイナビ　キャリアサポーター
+
+配信方法
+ZOO…]]></description>
+        </item>
         <item>
             <title><![CDATA[スーツの割引について（4月23日更新）]]></title>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5052</link>
@@ -228,18 +242,6 @@ ANPICでは、大地震などの大規模災害発生時や防災訓練におい
             <guid>ba934859e5b0cbbd9e5203f77baea55d</guid>
             <pubDate>Thu, 18 Apr 2024 03:00:00 GMT</pubDate>
             <description><![CDATA["Sustainability Week" is an event jointly held by student organizations from the University of Tsukuba, Ochanomizu University, the University of Tokyo, and Tokyo University of Agriculture and Technolo…]]></description>
-        </item>
-        <item>
-            <title><![CDATA[自然保護寄附講座第11期生春募集！Apply Now for the CPNC ( Spring Semester) !]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5026</link>
-            <guid>388289915add54f709deb56887b07be8</guid>
-            <pubDate>Thu, 18 Apr 2024 03:00:00 GMT</pubDate>
-            <description><![CDATA[筑波大学大学院新入生の皆さん、ご入学おめでとうございます！
-自然保護寄附講座では、第11期生（2024年度春履修開始）を募集します。
-Apply now for the Certificate Programme on Nature Conservation of 2024 ( Spring Semester ) !
-
-詳しくは自然保護寄附講座ウェブサイトをご覧ください！
-Please check…]]></description>
         </item>
     </channel>
 </rss>
