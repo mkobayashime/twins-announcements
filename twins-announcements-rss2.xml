@@ -4,10 +4,23 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Tue, 23 Apr 2024 09:18:03 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 23 Apr 2024 10:13:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
+        <item>
+            <title><![CDATA[【募集】DXインターンシップ参加者の募集（筑波大学×UiPath㈱）]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5054</link>
+            <guid>1f2fd4cf579c70bb9366a68ee525d7e4</guid>
+            <pubDate>Tue, 23 Apr 2024 03:00:00 GMT</pubDate>
+            <description><![CDATA[筑波大学では、UiPath株式会社とデータサイエンス・AI等DX分野での先鋭的な人材の発掘および育成に向けて、戦略パートナーシップ協定を締結しています。
+本協定に基づき「2024年度DXインターンシップ」を募集します。
+
+実施にあたり以下の日時に説明会（オンライン）を実施しますので、興味のある方は是非参加してください。
+
+【日時】2024年5月14日（火）18時00分～19時00分
+【会場】オンラ…]]></description>
+        </item>
         <item>
             <title><![CDATA[【オンデマンド配信】【26卒・27卒】【初級編】就活＆インターンシップガイダンス（日本語）配信終了～7月31日(水)まで]]></title>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5053</link>
@@ -235,13 +248,6 @@ ANPICでは、大地震などの大規模災害発生時や防災訓練におい
             <pubDate>Fri, 19 Apr 2024 03:00:00 GMT</pubDate>
             <description><![CDATA[　このコースは英語で行われます。スポーツイベントに関連する経営戦略とマーケティング戦略を理解し、実践へとつなげるためのフレームワークを提供します。
 　今回は、当該分野での研究や調査を実践に生かすことを目指し、成果の発表方法やその効果を捉える手法について考えます。ゲストスピーカーの2名からは、Event ManagementおよびSport Management分野の出版について情報提供をいただきま…]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Notice of Sustainability Week]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5027</link>
-            <guid>ba934859e5b0cbbd9e5203f77baea55d</guid>
-            <pubDate>Thu, 18 Apr 2024 03:00:00 GMT</pubDate>
-            <description><![CDATA["Sustainability Week" is an event jointly held by student organizations from the University of Tsukuba, Ochanomizu University, the University of Tokyo, and Tokyo University of Agriculture and Technolo…]]></description>
         </item>
     </channel>
 </rss>
