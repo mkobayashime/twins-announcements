@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "0d245db8b8c2877a2275437284ccf523",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5050",
+            "title": "PuTTY の脆弱性に対する注意喚起",
+            "summary": "　　　　　　PuTTY の脆弱性に対する注意喚起\n\n　　　　　　　　　　　　　　　　　　学術情報メディアセンター\n　　　　　　　　　　　　　　　　　　2024年4月23日\n\nSSH クライアントである PuTTY の古いバージョンに脆弱性が発見されて\nいます。PuTTY 0.68（2017年2月21日公開）から PuTTY 0.80（2023年12月\n18日公開）までのバージョンを利用している、ま…",
+            "date_modified": "2024-04-23T03:00:00.000Z"
+        },
+        {
             "id": "27162c47dccc959ac01d3c184c2606b0",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5049",
             "title": "再掲「さあ就活を始めようー先輩の経験を聞く会」開催のお知らせ",
@@ -31,13 +38,6 @@
             "title": "【応用編　申込締切間近】【26卒＆27卒】就活＆インターンシップガイダンス（日本語）リマインド",
             "summary": "就活＆インターンシップガイダンスを2回にわたって開催します。　\n【初級編】は416名の学生にご参加いただきました。【応用編】は2024年夏の業界動向予測や、人気のインターンシップへの選考対策まで株式会社マイナビの編集長が解説します。\nインターンシップ攻略のため就活生の方はぜひご参加ください！他の学年のご参加も歓迎です。\n\n　【応用編】企業の評価ポイントを押さえよう！インターンシップの選考対策講座\n…",
             "date_modified": "2024-04-23T03:00:00.000Z"
-        },
-        {
-            "id": "1bf9b4aef0a07fd95835c607bc40ea35",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5044",
-            "title": "人物コスチュームモデル募集について Looking for an Art Model in costume",
-            "summary": "令和6年度筑波大学公開講座　芸術教室「油絵」講座では、人物モデル（西洋人女性モデル）を募集しています。\n興味のある方は、添付ファイルのポスターを確認し、「お問い合わせ」先まで連絡してください。\n\nThe 2024 University of Tsukuba Open Lecture, Art Class \"Oil Painting\" is looking for an art model in c…",
-            "date_modified": "2024-04-22T03:00:00.000Z"
         },
         {
             "id": "f7e5c4dc1ece4147cbde4ed3df16263e",

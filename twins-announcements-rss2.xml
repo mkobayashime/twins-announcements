@@ -4,10 +4,24 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Tue, 23 Apr 2024 04:16:04 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 23 Apr 2024 06:17:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
+        <item>
+            <title><![CDATA[PuTTY の脆弱性に対する注意喚起]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5050</link>
+            <guid>0d245db8b8c2877a2275437284ccf523</guid>
+            <pubDate>Tue, 23 Apr 2024 03:00:00 GMT</pubDate>
+            <description><![CDATA[　　　　　　PuTTY の脆弱性に対する注意喚起
+
+　　　　　　　　　　　　　　　　　　学術情報メディアセンター
+　　　　　　　　　　　　　　　　　　2024年4月23日
+
+SSH クライアントである PuTTY の古いバージョンに脆弱性が発見されて
+います。PuTTY 0.68（2017年2月21日公開）から PuTTY 0.80（2023年12月
+18日公開）までのバージョンを利用している、ま…]]></description>
+        </item>
         <item>
             <title><![CDATA[再掲「さあ就活を始めようー先輩の経験を聞く会」開催のお知らせ]]></title>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5049</link>
@@ -56,16 +70,6 @@ LEC東京リーガルマインド中野本校からZOOMを利用して授業尾�
 
 　【応用編】企業の評価ポイントを押さえよう！インターンシップの選考対策講座
 …]]></description>
-        </item>
-        <item>
-            <title><![CDATA[人物コスチュームモデル募集について Looking for an Art Model in costume]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5044</link>
-            <guid>1bf9b4aef0a07fd95835c607bc40ea35</guid>
-            <pubDate>Mon, 22 Apr 2024 03:00:00 GMT</pubDate>
-            <description><![CDATA[令和6年度筑波大学公開講座　芸術教室「油絵」講座では、人物モデル（西洋人女性モデル）を募集しています。
-興味のある方は、添付ファイルのポスターを確認し、「お問い合わせ」先まで連絡してください。
-
-The 2024 University of Tsukuba Open Lecture, Art Class "Oil Painting" is looking for an art model in c…]]></description>
         </item>
         <item>
             <title><![CDATA[サーバー更新作業に伴うキャリア支援チームHP及び就職情報提供システム停止のお知らせ]]></title>
