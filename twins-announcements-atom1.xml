@@ -2,10 +2,24 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/mkobayashime/twins-announcements</id>
     <title>在学生へのお知らせ | 筑波大学</title>
-    <updated>2024-04-23T06:17:49.965Z</updated>
+    <updated>2024-04-23T07:12:15.757Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://github.com/mkobayashime/twins-announcements"/>
     <subtitle>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</subtitle>
+    <entry>
+        <title type="html"><![CDATA[【4/24水17時締切】「学問探究チュートリアル」履修希望者対象事前アンケート]]></title>
+        <id>649242313292b2f1097edc84046fe6b1</id>
+        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5051"/>
+        <updated>2024-04-23T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[「学問探究チュートリアル」の履修を希望される方にリマインドです。
+
+「学問探究チュートリアル」（1226016）の履修を希望する方は、以下のウェブフォームから
+アンケートに回答してください。
+回答期限は４月２４日(水)１７時（厳守）です。
+
+アンケートフォーム：https://forms.office.com/r/f6EEDe3YHQ
+※回答には筑波大学から発行されたMicrosoftアカウントが…]]></summary>
+    </entry>
     <entry>
         <title type="html"><![CDATA[PuTTY の脆弱性に対する注意喚起]]></title>
         <id>0d245db8b8c2877a2275437284ccf523</id>
@@ -220,20 +234,5 @@ Please check…]]></summary>
 1. Sustainability Talks
 環境問題・サステナビリティに関する最先端の研究や研究者の声をお届けするシンポジウム！
 日…]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[茨城県留学生親善大使募集(Application for Ibaraki Foreign Student Goodwill Ambassador)]]></title>
-        <id>3f9641d77cc6cdb87ec11ef766b893de</id>
-        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5024"/>
-        <updated>2024-04-18T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[<<留学生対象>>
-公益財団法人　茨城県国際交流協会より、留学生親善大使募集のお知らせがありました。
-そこで、留学生親善大使を募集します。
-興味のある方は、「留学生親善大使申込書」を下記からダウンロードして、学生交流課留学生支援宛に2024年5月6日(月)までにメールで応募してください。
-(メール：isc-shien@un.tsukuba.ac.jp)
-
-詳細は添付のPDFをご参照ください。
-
-<…]]></summary>
     </entry>
 </feed>
