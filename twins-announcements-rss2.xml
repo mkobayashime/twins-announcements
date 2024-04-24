@@ -4,7 +4,7 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Wed, 24 Apr 2024 15:14:35 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 24 Apr 2024 15:20:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
@@ -56,14 +56,16 @@ https://futureship.sec.tsukuba.ac.jp/app…]]></description>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5051</link>
             <guid>649242313292b2f1097edc84046fe6b1</guid>
             <pubDate>Tue, 23 Apr 2024 03:00:00 GMT</pubDate>
-            <description><![CDATA[「学問探究チュートリアル」の履修を希望される方にリマインドです。
+            <description><![CDATA[本学は紳士服の大手4社と契約しています。
+そのため、在学生とそのご家族の皆様には、
+全国のAOKI、コナカ、はるやま、洋服の青山（後日掲載）で、
+通常の割引価格から更に割引いた価格でスーツ等をご購入いただけます。
+大変お得ですので、是非ご利用ください。
 
-「学問探究チュートリアル」（1226016）の履修を希望する方は、以下のウェブフォームから
-アンケートに回答してください。
-回答期限は４月２４日(水)１７時（厳守）です。
+※ご購入いただいた金額の一部が大学に寄附されます。
 
-アンケートフォーム：https://forms.office.com/r/f6EEDe3YHQ
-※回答には筑波大学から発行されたMicrosoftアカウントが…]]></description>
+AOKI
+https://futureship.sec.tsukuba.ac.jp/app…]]></description>
         </item>
         <item>
             <title><![CDATA[PuTTY の脆弱性に対する注意喚起]]></title>
