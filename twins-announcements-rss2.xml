@@ -4,10 +4,26 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Tue, 23 Apr 2024 21:15:54 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 24 Apr 2024 00:56:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
+        <item>
+            <title><![CDATA[＼本日です／AIMS留学説明会＆海外留学奨学金説明会]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5055</link>
+            <guid>ee423aba80c8297bdd35f1ad3301c5c9</guid>
+            <pubDate>Wed, 24 Apr 2024 03:00:00 GMT</pubDate>
+            <description><![CDATA[
+予約不要・入退出自由！　留学に興味のある方、お気軽にお越しください！
+
+☆---------------------------------------------
+開催日：2024年4月24日（水）
+対象：筑波大学在学生で交換留学を希望する者
+場所：スチューデント・コモンズ（第一エリア 1A棟203）
+使用言語：日本語（一部のみ英語）
+
+11：30-12：15　AIMS（東南アジアプログラム）…]]></description>
+        </item>
         <item>
             <title><![CDATA[【募集】DXインターンシップ参加者の募集（筑波大学×UiPath㈱）]]></title>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5054</link>
@@ -240,14 +256,6 @@ ANPICでは、大地震などの大規模災害発生時や防災訓練におい
 ※この奨学金を受給する者は、2024 年度の大学推薦奨学金の申請資格がありません。
 ※日本語能力が必要です。
 ※推薦書については、上部は空欄、下部は指導…]]></description>
-        </item>
-        <item>
-            <title><![CDATA[【募集】2024/5/10開催「Sport Management, Event Managementの調査や研究の成果の公表に関する国際潮流と、その手法について学ぶ」]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5028</link>
-            <guid>16b0255238c88ff49be3493fc3e663e0</guid>
-            <pubDate>Fri, 19 Apr 2024 03:00:00 GMT</pubDate>
-            <description><![CDATA[　このコースは英語で行われます。スポーツイベントに関連する経営戦略とマーケティング戦略を理解し、実践へとつなげるためのフレームワークを提供します。
-　今回は、当該分野での研究や調査を実践に生かすことを目指し、成果の発表方法やその効果を捉える手法について考えます。ゲストスピーカーの2名からは、Event ManagementおよびSport Management分野の出版について情報提供をいただきま…]]></description>
         </item>
     </channel>
 </rss>

@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "ee423aba80c8297bdd35f1ad3301c5c9",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5055",
+            "title": "＼本日です／AIMS留学説明会＆海外留学奨学金説明会",
+            "summary": "\n予約不要・入退出自由！　留学に興味のある方、お気軽にお越しください！\n\n☆---------------------------------------------\n開催日：2024年4月24日（水）\n対象：筑波大学在学生で交換留学を希望する者\n場所：スチューデント・コモンズ（第一エリア 1A棟203）\n使用言語：日本語（一部のみ英語）\n\n11：30-12：15　AIMS（東南アジアプログラム）…",
+            "date_modified": "2024-04-24T03:00:00.000Z"
+        },
+        {
             "id": "1f2fd4cf579c70bb9366a68ee525d7e4",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5054",
             "title": "【募集】DXインターンシップ参加者の募集（筑波大学×UiPath㈱）",
@@ -135,13 +142,6 @@
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5029",
             "title": "公益財団法人 バロック村井博之財団 (2024 年度)/Baroque Murai Hiroyuki Foundation 2024",
             "summary": "公益財団法人 バロック村井博之財団 (2024 年度)\n応募期限： 2024 年5 月2 日（木） 17 時\n提出先：学生交流課(1A 棟101)\n募集要項：(PDF(資料1))\n提出書類：https://baroque-murai.or.jp/\n※この奨学金を受給する者は、2024 年度の大学推薦奨学金の申請資格がありません。\n※日本語能力が必要です。\n※推薦書については、上部は空欄、下部は指導…",
-            "date_modified": "2024-04-19T03:00:00.000Z"
-        },
-        {
-            "id": "16b0255238c88ff49be3493fc3e663e0",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5028",
-            "title": "【募集】2024/5/10開催「Sport Management, Event Managementの調査や研究の成果の公表に関する国際潮流と、その手法について学ぶ」",
-            "summary": "　このコースは英語で行われます。スポーツイベントに関連する経営戦略とマーケティング戦略を理解し、実践へとつなげるためのフレームワークを提供します。\n　今回は、当該分野での研究や調査を実践に生かすことを目指し、成果の発表方法やその効果を捉える手法について考えます。ゲストスピーカーの2名からは、Event ManagementおよびSport Management分野の出版について情報提供をいただきま…",
             "date_modified": "2024-04-19T03:00:00.000Z"
         }
     ]
