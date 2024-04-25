@@ -5,6 +5,20 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "3b06b71bae2f3af1cf3e24d280c8094f",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5057",
+            "title": "公益財団法人かめのり財団「Kamenori College 2024」の募集について（締切：5/29（水））",
+            "summary": "公益財団法人かめのり財団は、日本とアジア・オセアニア諸国の若い世代との交流を通じて、未来にわたって日本と各国との友好関係と相互理解を推進するとともに、その架け橋となるグローバルリーダーの育成を図ることを目的とした事業を行っています。\nその一環として、今後グローバルでの活躍を目指す国内在住の大学学部生を対象に、様々な国際交流の機会において、存在感を発揮し、自己主張可能な人材を育成することを目的とした…",
+            "date_modified": "2024-04-25T03:00:00.000Z"
+        },
+        {
+            "id": "a737ec29dd16286f49d65d40c278e07b",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5056",
+            "title": "【本日最終日・留学相談強化週間】スチューデント・コモンズ（1A203）にて！",
+            "summary": "スチューデントサポートセンター国際交流支援室では、留学のアシストをしています！\n「留学、行けるかな？」って思ったそこの筑大生！「具体的に行きたい協定校が絞れてきた。」というあなたも！あなたの疑問に応えてきた【留学相談強化週間７Days】\n留学プログラム毎の説明会や、海外インターンシップ説明会、語学試験の説明会などを開催してきた７日間。最終日を飾るのは\n\n【ライトハウスUSA主催】\nアメリカインター…",
+            "date_modified": "2024-04-25T03:00:00.000Z"
+        },
+        {
             "id": "1f2fd4cf579c70bb9366a68ee525d7e4",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5054",
             "title": "【募集】DXインターンシップ参加者の募集（筑波大学×UiPath㈱）",
@@ -129,20 +143,6 @@
             "title": "【募集】2024/5/10開催「Sport Management, Event Managementの調査や研究の成果の公表に関する国際潮流と、その手法について学ぶ」",
             "summary": "　このコースは英語で行われます。スポーツイベントに関連する経営戦略とマーケティング戦略を理解し、実践へとつなげるためのフレームワークを提供します。\n　今回は、当該分野での研究や調査を実践に生かすことを目指し、成果の発表方法やその効果を捉える手法について考えます。ゲストスピーカーの2名からは、Event ManagementおよびSport Management分野の出版について情報提供をいただきま…",
             "date_modified": "2024-04-19T03:00:00.000Z"
-        },
-        {
-            "id": "ba934859e5b0cbbd9e5203f77baea55d",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5027",
-            "title": "Notice of Sustainability Week",
-            "summary": "\"Sustainability Week\" is an event jointly held by student organizations from the University of Tsukuba, Ochanomizu University, the University of Tokyo, and Tokyo University of Agriculture and Technolo…",
-            "date_modified": "2024-04-18T03:00:00.000Z"
-        },
-        {
-            "id": "b896823cc2a4382bbaa8adb876795eb1",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5025",
-            "title": "Sustainability Week開催のお知らせ",
-            "summary": "「Sustainability Week」とは、筑波大学・お茶の水女子大学・東京大学・東京農工大学の学生団体が共同開催する、持続可能な未来について考えるためのイベントです。\n4月22日のEarth Dayに合わせて、サステナビリティについて一緒に考えましょう！\n\n1. Sustainability Talks\n環境問題・サステナビリティに関する最先端の研究や研究者の声をお届けするシンポジウム！\n日…",
-            "date_modified": "2024-04-18T03:00:00.000Z"
         }
     ]
 }
