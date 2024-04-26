@@ -4,10 +4,21 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Thu, 25 Apr 2024 21:18:54 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 26 Apr 2024 00:55:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
+        <item>
+            <title><![CDATA[【MDAセミナー】位置情報データ活用のプロフェッショナル企業との対話]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5058</link>
+            <guid>96e108f8c261dfad28ba1a910f7a5b13</guid>
+            <pubDate>Fri, 26 Apr 2024 03:00:00 GMT</pubDate>
+            <description><![CDATA[全学の学生さんと教員を対象として、MDAセミナー
+「位置情報データ活用のプロフェッショナル企業との対話－企業と共に研究テーマを探る－」
+を開催いたします。
+
+本セミナーでは、人流データ×機械学習によって生成される「ひとりひとりの移動の軌跡がわかる高粒度人流データ」を活用して、まちづくりや土木交通、観光、防災など多岐にわたる分野で貢献を果たす株式会社GEOTRAが、データサイエンスやAIの社会実装例…]]></description>
+        </item>
         <item>
             <title><![CDATA[公益財団法人かめのり財団「Kamenori College 2024」の募集について（締切：5/29（水））]]></title>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5057</link>
@@ -87,17 +98,17 @@ SSH クライアントである PuTTY の古いバージョンに脆弱性が発
         </item>
         <item>
             <title><![CDATA[再掲「さあ就活を始めようー先輩の経験を聞く会」開催のお知らせ]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5050</link>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5049</link>
             <guid>27162c47dccc959ac01d3c184c2606b0</guid>
             <pubDate>Tue, 23 Apr 2024 03:00:00 GMT</pubDate>
-            <description><![CDATA[　　　　　　PuTTY の脆弱性に対する注意喚起
+            <description><![CDATA[筑波大学「世界を変えよう基金アカデミー」では、
+これから就活準備を始める学生を対象に、
+就活を終えた4年生お二人が自らの経験を伝える
+「さあ就活を始めようー先輩の経験を聞く会」をZoomで開催します。
 
-　　　　　　　　　　　　　　　　　　学術情報メディアセンター
-　　　　　　　　　　　　　　　　　　2024年4月23日
-
-SSH クライアントである PuTTY の古いバージョンに脆弱性が発見されて
-います。PuTTY 0.68（2017年2月21日公開）から PuTTY 0.80（2023年12月
-18日公開）までのバージョンを利用している、ま…]]></description>
+お二人の就活ストラテジー、経験に基づく就活ツールの活用方法、
+OＢ／OＧへのアプローチ方法、就活対象先を絞り込んで最終内定先を選んだ過程等、
+就活を始める皆さんにとって興味深いお話を聞くことができ…]]></description>
         </item>
         <item>
             <title><![CDATA[（公務員試験対策）LEC東京リーガルマインド学内講座案内]]></title>
@@ -226,18 +237,6 @@ ANPICでは、大地震などの大規模災害発生時や防災訓練におい
             <guid>ba934859e5b0cbbd9e5203f77baea55d</guid>
             <pubDate>Thu, 18 Apr 2024 03:00:00 GMT</pubDate>
             <description><![CDATA["Sustainability Week" is an event jointly held by student organizations from the University of Tsukuba, Ochanomizu University, the University of Tokyo, and Tokyo University of Agriculture and Technolo…]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Sustainability Week開催のお知らせ]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5025</link>
-            <guid>b896823cc2a4382bbaa8adb876795eb1</guid>
-            <pubDate>Thu, 18 Apr 2024 03:00:00 GMT</pubDate>
-            <description><![CDATA[「Sustainability Week」とは、筑波大学・お茶の水女子大学・東京大学・東京農工大学の学生団体が共同開催する、持続可能な未来について考えるためのイベントです。
-4月22日のEarth Dayに合わせて、サステナビリティについて一緒に考えましょう！
-
-1. Sustainability Talks
-環境問題・サステナビリティに関する最先端の研究や研究者の声をお届けするシンポジウム！
-日…]]></description>
         </item>
     </channel>
 </rss>

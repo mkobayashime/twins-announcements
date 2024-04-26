@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "96e108f8c261dfad28ba1a910f7a5b13",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5058",
+            "title": "【MDAセミナー】位置情報データ活用のプロフェッショナル企業との対話",
+            "summary": "全学の学生さんと教員を対象として、MDAセミナー\n「位置情報データ活用のプロフェッショナル企業との対話－企業と共に研究テーマを探る－」\nを開催いたします。\n\n本セミナーでは、人流データ×機械学習によって生成される「ひとりひとりの移動の軌跡がわかる高粒度人流データ」を活用して、まちづくりや土木交通、観光、防災など多岐にわたる分野で貢献を果たす株式会社GEOTRAが、データサイエンスやAIの社会実装例…",
+            "date_modified": "2024-04-26T03:00:00.000Z"
+        },
+        {
             "id": "3b06b71bae2f3af1cf3e24d280c8094f",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5057",
             "title": "公益財団法人かめのり財団「Kamenori College 2024」の募集について（締切：5/29（水））",
@@ -48,9 +55,9 @@
         },
         {
             "id": "27162c47dccc959ac01d3c184c2606b0",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5050",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5049",
             "title": "再掲「さあ就活を始めようー先輩の経験を聞く会」開催のお知らせ",
-            "summary": "　　　　　　PuTTY の脆弱性に対する注意喚起\n\n　　　　　　　　　　　　　　　　　　学術情報メディアセンター\n　　　　　　　　　　　　　　　　　　2024年4月23日\n\nSSH クライアントである PuTTY の古いバージョンに脆弱性が発見されて\nいます。PuTTY 0.68（2017年2月21日公開）から PuTTY 0.80（2023年12月\n18日公開）までのバージョンを利用している、ま…",
+            "summary": "筑波大学「世界を変えよう基金アカデミー」では、\nこれから就活準備を始める学生を対象に、\n就活を終えた4年生お二人が自らの経験を伝える\n「さあ就活を始めようー先輩の経験を聞く会」をZoomで開催します。\n\nお二人の就活ストラテジー、経験に基づく就活ツールの活用方法、\nOＢ／OＧへのアプローチ方法、就活対象先を絞り込んで最終内定先を選んだ過程等、\n就活を始める皆さんにとって興味深いお話を聞くことができ…",
             "date_modified": "2024-04-23T03:00:00.000Z"
         },
         {
@@ -135,13 +142,6 @@
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5027",
             "title": "Notice of Sustainability Week",
             "summary": "\"Sustainability Week\" is an event jointly held by student organizations from the University of Tsukuba, Ochanomizu University, the University of Tokyo, and Tokyo University of Agriculture and Technolo…",
-            "date_modified": "2024-04-18T03:00:00.000Z"
-        },
-        {
-            "id": "b896823cc2a4382bbaa8adb876795eb1",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5025",
-            "title": "Sustainability Week開催のお知らせ",
-            "summary": "「Sustainability Week」とは、筑波大学・お茶の水女子大学・東京大学・東京農工大学の学生団体が共同開催する、持続可能な未来について考えるためのイベントです。\n4月22日のEarth Dayに合わせて、サステナビリティについて一緒に考えましょう！\n\n1. Sustainability Talks\n環境問題・サステナビリティに関する最先端の研究や研究者の声をお届けするシンポジウム！\n日…",
             "date_modified": "2024-04-18T03:00:00.000Z"
         }
     ]
