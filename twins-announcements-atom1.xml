@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/mkobayashime/twins-announcements</id>
     <title>在学生へのお知らせ | 筑波大学</title>
-    <updated>2024-04-26T05:12:41.291Z</updated>
+    <updated>2024-04-26T06:18:11.090Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://github.com/mkobayashime/twins-announcements"/>
     <subtitle>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</subtitle>
+    <entry>
+        <title type="html"><![CDATA[2024年度「海外英語研修I-a」（3単位、オンライン）参加者募集]]></title>
+        <id>622ccb3bde1bdd8ef55270b54748bfaa</id>
+        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5060"/>
+        <updated>2024-04-26T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[2024年7月に実施される、「海外英語研修I-a」（3単位、オンライン）の参加者を募集します。プログラムの詳細や申込方法については、manabaコース「xx20371　海外英語研修オンライン募集説明会」に自己登録のうえ、コースニュースより募集説明動画と申込に関する情報を確認してください。
+
+●8030306「海外英語研修I-a」（3単位、オンライン）
+
+・プログラム：ブリティッシュ・コロンビア大学…]]></summary>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【25卒学生向け就職イベント】就職ミライ博・合同企業説明会Part２（BHEキャリア支援チーム主催）]]></title>
         <id>e47c7c7e9af456c4ee86fe456a1ae59b</id>
@@ -237,13 +248,5 @@ ANPICでは、大地震などの大規模災害発生時や防災訓練におい
 ※この奨学金を受給する者は、2024 年度の大学推薦奨学金の申請資格がありません。
 ※日本語能力が必要です。
 ※推薦書については、上部は空欄、下部は指導…]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【募集】2024/5/10開催「Sport Management, Event Managementの調査や研究の成果の公表に関する国際潮流と、その手法について学ぶ」]]></title>
-        <id>16b0255238c88ff49be3493fc3e663e0</id>
-        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5028"/>
-        <updated>2024-04-19T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[　このコースは英語で行われます。スポーツイベントに関連する経営戦略とマーケティング戦略を理解し、実践へとつなげるためのフレームワークを提供します。
-　今回は、当該分野での研究や調査を実践に生かすことを目指し、成果の発表方法やその効果を捉える手法について考えます。ゲストスピーカーの2名からは、Event ManagementおよびSport Management分野の出版について情報提供をいただきま…]]></summary>
     </entry>
 </feed>
