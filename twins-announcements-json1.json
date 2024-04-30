@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "2efb09f3b3e1c156b6c1e805455f4d57",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5061",
+            "title": "MDAトップ人材養成特別演習 履修説明会(5/15,17)",
+            "summary": "自分の関心領域に近い現実社会の実課題やリアルデータの分析に取り組んでみませんか？企業等の実務専門家、トップ・データサイエンティスト、異分野の学生とともに、ワークショップ型演習に参加しませんか？\n\nいま社会から本当に求められている人材は、データ分析力だけに秀でている人材ではありません。企業等がデータサイエンティストに求めている能力は、関係者を巻き込みつつ、課題を適切に設定し、データを収集・整形し、デ…",
+            "date_modified": "2024-04-30T03:00:00.000Z"
+        },
+        {
             "id": "e47c7c7e9af456c4ee86fe456a1ae59b",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5059",
             "title": "【25卒学生向け就職イベント】就職ミライ博・合同企業説明会Part２（BHEキャリア支援チーム主催）",
@@ -136,13 +143,6 @@
             "title": "【募集】2024/5/10開催「Sport Management, Event Managementの調査や研究の成果の公表に関する国際潮流と、その手法について学ぶ」",
             "summary": "　このコースは英語で行われます。スポーツイベントに関連する経営戦略とマーケティング戦略を理解し、実践へとつなげるためのフレームワークを提供します。\n　今回は、当該分野での研究や調査を実践に生かすことを目指し、成果の発表方法やその効果を捉える手法について考えます。ゲストスピーカーの2名からは、Event ManagementおよびSport Management分野の出版について情報提供をいただきま…",
             "date_modified": "2024-04-19T03:00:00.000Z"
-        },
-        {
-            "id": "3f9641d77cc6cdb87ec11ef766b893de",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5024",
-            "title": "茨城県留学生親善大使募集(Application for Ibaraki Foreign Student Goodwill Ambassador)",
-            "summary": "<<留学生対象>>\n公益財団法人　茨城県国際交流協会より、留学生親善大使募集のお知らせがありました。\nそこで、留学生親善大使を募集します。\n興味のある方は、「留学生親善大使申込書」を下記からダウンロードして、学生交流課留学生支援宛に2024年5月6日(月)までにメールで応募してください。\n(メール：isc-shien@un.tsukuba.ac.jp)\n\n詳細は添付のPDFをご参照ください。\n\n<…",
-            "date_modified": "2024-04-18T03:00:00.000Z"
         }
     ]
 }
