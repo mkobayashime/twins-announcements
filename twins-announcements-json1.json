@@ -5,6 +5,20 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "9666d53f0f51dd3acab169b492d5c751",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5078",
+            "title": "【ご案内】アジア最大級のグローバルスタートアッププログラム主催の学生対象イベント",
+            "summary": "標記の件について、案内をいただきましたので周知いたします。\n\n\n------以下、案内------\n\n皆様\nアジア最大級のグローバルスタートアップイベント「SusHi Tech Tokyo 2024 Global Startup Program」にて、学生対象イベント「WASABI」が開催されます。\n\n「SusHi Tech Tokyo 2024 Global Startup Program」とは…",
+            "date_modified": "2024-05-01T03:00:00.000Z"
+        },
+        {
+            "id": "4cfc5336b69436897a11ce1ae527d53b",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5077",
+            "title": "令和6年度 茗渓会学生活動支援事業について",
+            "summary": "茗渓会による学生活動支援事業の実施について、お知らせします。\nくわしくは添付の事業要項をご確認ください。\n申請を希望する団体は、申請書と構成員名簿をご提出ください。\n\n申請期限：5月31日（金）まで\n申請窓口：茗渓会筑波事務所(総合交流会館２階）\n",
+            "date_modified": "2024-05-01T03:00:00.000Z"
+        },
+        {
             "id": "65ec12d0553626aaf49baf77d109d521",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5076",
             "title": "(Library) Free Ebook Trial Service (May 1-July 31)",
@@ -129,20 +143,6 @@
             "title": "【MDAセミナー】位置情報データ活用のプロフェッショナル企業との対話",
             "summary": "全学の学生さんと教員を対象として、MDAセミナー\n「位置情報データ活用のプロフェッショナル企業との対話－企業と共に研究テーマを探る－」\nを開催いたします。\n\n本セミナーでは、人流データ×機械学習によって生成される「ひとりひとりの移動の軌跡がわかる高粒度人流データ」を活用して、まちづくりや土木交通、観光、防災など多岐にわたる分野で貢献を果たす株式会社GEOTRAが、データサイエンスやAIの社会実装例…",
             "date_modified": "2024-04-26T03:00:00.000Z"
-        },
-        {
-            "id": "3b06b71bae2f3af1cf3e24d280c8094f",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5057",
-            "title": "公益財団法人かめのり財団「Kamenori College 2024」の募集について（締切：5/29（水））",
-            "summary": "公益財団法人かめのり財団は、日本とアジア・オセアニア諸国の若い世代との交流を通じて、未来にわたって日本と各国との友好関係と相互理解を推進するとともに、その架け橋となるグローバルリーダーの育成を図ることを目的とした事業を行っています。\nその一環として、今後グローバルでの活躍を目指す国内在住の大学学部生を対象に、様々な国際交流の機会において、存在感を発揮し、自己主張可能な人材を育成することを目的とした…",
-            "date_modified": "2024-04-25T03:00:00.000Z"
-        },
-        {
-            "id": "1f2fd4cf579c70bb9366a68ee525d7e4",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5054",
-            "title": "【募集】DXインターンシップ参加者の募集（筑波大学×UiPath㈱）",
-            "summary": "筑波大学では、UiPath株式会社とデータサイエンス・AI等DX分野での先鋭的な人材の発掘および育成に向けて、戦略パートナーシップ協定を締結しています。\n本協定に基づき「2024年度DXインターンシップ」を募集します。\n\n実施にあたり以下の日時に説明会（オンライン）を実施しますので、興味のある方は是非参加してください。\n\n【日時】2024年5月14日（火）18時00分～19時00分\n【会場】オンラ…",
-            "date_modified": "2024-04-23T03:00:00.000Z"
         }
     ]
 }
