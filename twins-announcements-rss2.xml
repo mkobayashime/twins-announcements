@@ -4,10 +4,22 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Wed, 01 May 2024 02:33:13 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 01 May 2024 03:15:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
+        <item>
+            <title><![CDATA[(公務員試験対策）LEC東京リーガルマインド　学内講座のご案内]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5073</link>
+            <guid>ea0c4fff20304f9d755fe0931106e388</guid>
+            <pubDate>Wed, 01 May 2024 03:00:00 GMT</pubDate>
+            <description><![CDATA[2025年度公務員試験受験予定の皆様
+
+LEC学内講座のご案内
+LEC東京リーガルマインド中野本校からZOOMを利用して授業尾ライブ配信します。
+受講生の方は自宅などで受講していただくオンライン受講で実施します。
+5月24日開講　現在申込受付中です！（講座開始後も申込み可能です）]]></description>
+        </item>
         <item>
             <title><![CDATA[【BHEキャリア＆アクセシビリティ】キャリア形成支援動画　(支援機関・サービス編）公開]]></title>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5072</link>
@@ -237,20 +249,6 @@ https://futureship.sec.tsukuba.ac.jp/app…]]></description>
 SSH クライアントである PuTTY の古いバージョンに脆弱性が発見されて
 います。PuTTY 0.68（2017年2月21日公開）から PuTTY 0.80（2023年12月
 18日公開）までのバージョンを利用している、ま…]]></description>
-        </item>
-        <item>
-            <title><![CDATA[再掲「さあ就活を始めようー先輩の経験を聞く会」開催のお知らせ]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5049</link>
-            <guid>27162c47dccc959ac01d3c184c2606b0</guid>
-            <pubDate>Tue, 23 Apr 2024 03:00:00 GMT</pubDate>
-            <description><![CDATA[筑波大学「世界を変えよう基金アカデミー」では、
-これから就活準備を始める学生を対象に、
-就活を終えた4年生お二人が自らの経験を伝える
-「さあ就活を始めようー先輩の経験を聞く会」をZoomで開催します。
-
-お二人の就活ストラテジー、経験に基づく就活ツールの活用方法、
-OＢ／OＧへのアプローチ方法、就活対象先を絞り込んで最終内定先を選んだ過程等、
-就活を始める皆さんにとって興味深いお話を聞くことができ…]]></description>
         </item>
     </channel>
 </rss>
