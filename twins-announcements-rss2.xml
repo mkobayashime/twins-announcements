@@ -4,10 +4,22 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Wed, 01 May 2024 02:01:03 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 01 May 2024 02:33:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
+        <item>
+            <title><![CDATA[【BHEキャリア＆アクセシビリティ】キャリア形成支援動画　(支援機関・サービス編）公開]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5072</link>
+            <guid>e61bb45cc7921f1449d1d41e5b920ca6</guid>
+            <pubDate>Wed, 01 May 2024 03:00:00 GMT</pubDate>
+            <description><![CDATA[この度、BHE(ヒューマンエンパワーメント推進局)キャリア支援チームとアクセシビリティ支援チームにて障害のある学生や不安を抱えた学生のためのキャリアを応援する動画を作成しました。
+【目的】障害のある学生のためのキャリア形成支援
+　　　　・社会的自立のための障害学生の就労支援機関・サービス　　　　　
+【コンテンツの内容】
+１．BHE(ヒューマンエンパワーメント推進局）が提供するキャリア形成支援
+２．…]]></description>
+        </item>
         <item>
             <title><![CDATA[【5月】筑波大学BHEセーファースペース「KiteKite（きてきて）」の実施について]]></title>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5071</link>
@@ -239,18 +251,6 @@ SSH クライアントである PuTTY の古いバージョンに脆弱性が発
 お二人の就活ストラテジー、経験に基づく就活ツールの活用方法、
 OＢ／OＧへのアプローチ方法、就活対象先を絞り込んで最終内定先を選んだ過程等、
 就活を始める皆さんにとって興味深いお話を聞くことができ…]]></description>
-        </item>
-        <item>
-            <title><![CDATA[（公務員試験対策）LEC東京リーガルマインド学内講座案内]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5047</link>
-            <guid>629a727c2c850bafb93005a96c3ba907</guid>
-            <pubDate>Tue, 23 Apr 2024 03:00:00 GMT</pubDate>
-            <description><![CDATA[5年度公務員試験受験予定の皆様
-
-LEC学内講座のご案内
-LEC東京リーガルマインド中野本校からZOOMを利用して授業尾ライブ配信します。
-受講生の方は自宅などで受講していただくオンライン受講で実施します。
-5月24日開講　現在申込受付中です！（講座開始後も申込み可能です）]]></description>
         </item>
     </channel>
 </rss>

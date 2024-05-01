@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "e61bb45cc7921f1449d1d41e5b920ca6",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5072",
+            "title": "【BHEキャリア＆アクセシビリティ】キャリア形成支援動画　(支援機関・サービス編）公開",
+            "summary": "この度、BHE(ヒューマンエンパワーメント推進局)キャリア支援チームとアクセシビリティ支援チームにて障害のある学生や不安を抱えた学生のためのキャリアを応援する動画を作成しました。\n【目的】障害のある学生のためのキャリア形成支援\n　　　　・社会的自立のための障害学生の就労支援機関・サービス　　　　　\n【コンテンツの内容】\n１．BHE(ヒューマンエンパワーメント推進局）が提供するキャリア形成支援\n２．…",
+            "date_modified": "2024-05-01T03:00:00.000Z"
+        },
+        {
             "id": "8efd909f5d41c1f59b50ed3a02b4ead5",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5071",
             "title": "【5月】筑波大学BHEセーファースペース「KiteKite（きてきて）」の実施について",
@@ -135,13 +142,6 @@
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5049",
             "title": "再掲「さあ就活を始めようー先輩の経験を聞く会」開催のお知らせ",
             "summary": "筑波大学「世界を変えよう基金アカデミー」では、\nこれから就活準備を始める学生を対象に、\n就活を終えた4年生お二人が自らの経験を伝える\n「さあ就活を始めようー先輩の経験を聞く会」をZoomで開催します。\n\nお二人の就活ストラテジー、経験に基づく就活ツールの活用方法、\nOＢ／OＧへのアプローチ方法、就活対象先を絞り込んで最終内定先を選んだ過程等、\n就活を始める皆さんにとって興味深いお話を聞くことができ…",
-            "date_modified": "2024-04-23T03:00:00.000Z"
-        },
-        {
-            "id": "629a727c2c850bafb93005a96c3ba907",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5047",
-            "title": "（公務員試験対策）LEC東京リーガルマインド学内講座案内",
-            "summary": "5年度公務員試験受験予定の皆様\n\nLEC学内講座のご案内\nLEC東京リーガルマインド中野本校からZOOMを利用して授業尾ライブ配信します。\n受講生の方は自宅などで受講していただくオンライン受講で実施します。\n5月24日開講　現在申込受付中です！（講座開始後も申込み可能です）",
             "date_modified": "2024-04-23T03:00:00.000Z"
         }
     ]
