@@ -5,6 +5,27 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "65ec12d0553626aaf49baf77d109d521",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5076",
+            "title": "(Library) Free Ebook Trial Service (May 1-July 31)",
+            "summary": "In order to support teaching and learning, we provide an eBook trial service.For the first time in 2024, KinoDen, provided by Kinokuniya Bookstore, will be available for a limited time.\n\nYou can try a…",
+            "date_modified": "2024-05-01T03:00:00.000Z"
+        },
+        {
+            "id": "1c46ed53443a15bad88e286f0cf3c4f0",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5075",
+            "title": "春の図書館講習会 / Library Workshops",
+            "summary": "附属図書館では、春の講習会を開催中です。\n図書館の使い方や各種データベースの使い方など、学習や研究に役立つ内容です。\nmanabaでコース登録をしてご参加ください。\n皆様のご参加をお待ちしております。\n\n詳しくは下記Webページをご覧ください。\n\n---\n\nIn the library, we hold Library Workshops (Spring Semester).\n\nIn these …",
+            "date_modified": "2024-05-01T03:00:00.000Z"
+        },
+        {
+            "id": "30805aacce714aac7abd0c902f492ca0",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5074",
+            "title": "（附属図書館）電子ブック 全文無料試し読みサービスのご案内【期間限定！】",
+            "summary": "附属図書館では、教育・学習を支援するため、電子ブックの全文無料試し読みサービスを実施しています。2024年度第一弾として、紀伊國屋書店が提供するKinoDenの試し読みサービスが利用できます。\n\n【実施期間】\n・2024年5月1日(水)～7月31日(水)\n【対象プラットフォーム】\n・KinoDen（紀伊國屋書店）\n\n詳しくは附属図書館Webページをご参照ください。\nhttps://www.tuli…",
+            "date_modified": "2024-05-01T03:00:00.000Z"
+        },
+        {
             "id": "ea0c4fff20304f9d755fe0931106e388",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5073",
             "title": "(公務員試験対策）LEC東京リーガルマインド　学内講座のご案内",
@@ -121,27 +142,6 @@
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5054",
             "title": "【募集】DXインターンシップ参加者の募集（筑波大学×UiPath㈱）",
             "summary": "筑波大学では、UiPath株式会社とデータサイエンス・AI等DX分野での先鋭的な人材の発掘および育成に向けて、戦略パートナーシップ協定を締結しています。\n本協定に基づき「2024年度DXインターンシップ」を募集します。\n\n実施にあたり以下の日時に説明会（オンライン）を実施しますので、興味のある方は是非参加してください。\n\n【日時】2024年5月14日（火）18時00分～19時00分\n【会場】オンラ…",
-            "date_modified": "2024-04-23T03:00:00.000Z"
-        },
-        {
-            "id": "4f760611d090bb1700978e9e5680a717",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5053",
-            "title": "【オンデマンド配信】【26卒・27卒】【初級編】就活＆インターンシップガイダンス（日本語）配信終了～7月31日(水)まで",
-            "summary": "4月17日(水)に開催しました【26卒・27卒】【初級編】就活＆インターンシップガイダンスのオンデマンド配信のご案内です。\n【初級編】就職活動やインターンシップのポイントを知り、将来のための1歩を踏み出そう！\n対象：主に学群2年生、学群3年生、他全学生\n内容：インターンシップの基礎知識、インターンシップの探し方や就職活動の準備について\n講師：株式会社マイナビ　キャリアサポーター\n\n配信方法\nZOO…",
-            "date_modified": "2024-04-23T03:00:00.000Z"
-        },
-        {
-            "id": "36c8ff05cdd886f5efc395ca6870804f",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5052",
-            "title": "スーツの割引について（4月23日更新）",
-            "summary": "本学は紳士服の大手4社と契約しています。\nそのため、在学生とそのご家族の皆様には、\n全国のAOKI、コナカ、はるやま、洋服の青山（後日掲載）で、\n通常の割引価格から更に割引いた価格でスーツ等をご購入いただけます。\n大変お得ですので、是非ご利用ください。\n\n※ご購入いただいた金額の一部が大学に寄附されます。\n\nAOKI\nhttps://futureship.sec.tsukuba.ac.jp/app…",
-            "date_modified": "2024-04-23T03:00:00.000Z"
-        },
-        {
-            "id": "0d245db8b8c2877a2275437284ccf523",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5050",
-            "title": "PuTTY の脆弱性に対する注意喚起",
-            "summary": "　　　　　　PuTTY の脆弱性に対する注意喚起\n\n　　　　　　　　　　　　　　　　　　学術情報メディアセンター\n　　　　　　　　　　　　　　　　　　2024年4月23日\n\nSSH クライアントである PuTTY の古いバージョンに脆弱性が発見されて\nいます。PuTTY 0.68（2017年2月21日公開）から PuTTY 0.80（2023年12月\n18日公開）までのバージョンを利用している、ま…",
             "date_modified": "2024-04-23T03:00:00.000Z"
         }
     ]
