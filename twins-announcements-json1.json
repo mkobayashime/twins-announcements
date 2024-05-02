@@ -5,6 +5,20 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "938d209813d1a53cedc8627d58ceb24b",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5082",
+            "title": "【再掲載】ガクチカをつくろう！国際協力体験プログラム　参加者募集（締切り5/7）",
+            "summary": "【再掲載】ガクチカをつくろう！国際協力体験プログラム　参加者募集（締切り5/7）\n\nカザフスタン共和国とキルギスの２カ国で国際ボランティアに参加しながら観光学について学びます。筑波大学「日本財団 中央アジア・日本人材育成プロジェクト（NipCA）」とキルギス日本人材開発センターとの協力により開設されたプログラムです。メディアではあまり報道されない中央アジアの２カ国を実際に自分の目で見て、聞いて、活…",
+            "date_modified": "2024-05-02T03:00:00.000Z"
+        },
+        {
+            "id": "54d89660ff9fc0e2f937673fbb85485a",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5081",
+            "title": "【再掲載】2024 年夏季 キルギス日本センターロシア語 1 カ月スキルアップコース　参加者募集（締切り5/7）",
+            "summary": "キルギスでロシア語（および入門キルギス語）を学ぶプログラムです。\n筑波大学「日本財団 中央アジア・日本人材育成プロジェクト（NipCA）」とキルギス日本人材開発センターとの協力により実施され、他大学からの参加者も多く、キルギス人学生はもとより、他大学の日本人学生とも交流できるプログラムです。\n研修内容：\n▶︎研修期間：2024 年8 月19 日（月）〜9 月13 日（金）（26 日間）\n▶︎研修地…",
+            "date_modified": "2024-05-02T03:00:00.000Z"
+        },
+        {
             "id": "4eb04d970f138d17e1acc3cb1f7e531b",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5080",
             "title": "【派遣学生募集】ドイツ・ブランデンブルク工科大学コトブス＝ゼンフテンベルク校（BTU）への派遣学生の追加募集について（2024年10月派遣開始分）",
@@ -128,20 +142,6 @@
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5063",
             "title": "安全保障輸出管理研修及び誓約書提出のお願い",
             "summary": "日頃より輸出管理のご協力をありがとうございます。昨年度入学者より誓約書の提出をお願いしておりましたが、5月1日より、在学生の皆様も安全保障輸出管理に関するe-learning研修を受講いただくこととなりました。\n既に受講いただいた方には、お手間をおかけしますが動画受講の確認として、再度誓約書の提出をお願いいたします。\n\n添付ファイルをご覧いただき、”manaba”コースコード”24012”誓約書（…",
-            "date_modified": "2024-04-30T03:00:00.000Z"
-        },
-        {
-            "id": "73dbbefec8449746b5ba07035ab82741",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5062",
-            "title": "Request for watching the security export control e-learning.",
-            "summary": "Thank you for your continued diligence regarding security export control.\nWe have decided to conduct e-learning training on security trade control for graduate students and others.\nPlease check the at…",
-            "date_modified": "2024-04-30T03:00:00.000Z"
-        },
-        {
-            "id": "2efb09f3b3e1c156b6c1e805455f4d57",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5061",
-            "title": "MDAトップ人材養成特別演習 履修説明会(5/15,17)",
-            "summary": "自分の関心領域に近い現実社会の実課題やリアルデータの分析に取り組んでみませんか？企業等の実務専門家、トップ・データサイエンティスト、異分野の学生とともに、ワークショップ型演習に参加しませんか？\n\nいま社会から本当に求められている人材は、データ分析力だけに秀でている人材ではありません。企業等がデータサイエンティストに求めている能力は、関係者を巻き込みつつ、課題を適切に設定し、データを収集・整形し、デ…",
             "date_modified": "2024-04-30T03:00:00.000Z"
         }
     ]
