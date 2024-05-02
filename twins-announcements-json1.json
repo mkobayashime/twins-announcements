@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "fc17d1105bfdb7c20bcfc9dbbad4a56d",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5083",
+            "title": "【5/9開催 】博士人材向け「キャリア開発ガイダンス2024」",
+            "summary": "毎年好評を博している博士人材向けキャリア開発ガイダンスを今年も開催！\n\nスケジュール感を始めとする博士人材ならではの就活基礎知識、博士人材をめぐる産業界の動向などをレクチャーします。\nガイダンス後には特別アンバサダーによるキャリア相談会も行いますので、奮ってご参加ください。\n\n詳細は下記リンクよりご覧ください！",
+            "date_modified": "2024-05-02T03:00:00.000Z"
+        },
+        {
             "id": "938d209813d1a53cedc8627d58ceb24b",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5082",
             "title": "【再掲載】ガクチカをつくろう！国際協力体験プログラム　参加者募集（締切り5/7）",
@@ -135,13 +142,6 @@
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5064",
             "title": "2024 年夏季 キルギス日本センターロシア語 1 カ月スキルアップコース　参加者募集【締切り5/7】",
             "summary": "キルギスでロシア語（および入門キルギス語）を学ぶプログラムです。\n筑波大学「日本財団 中央アジア・日本人材育成プロジェクト（NipCA）」とキルギス日本人材開発センターとの協力により実施され、他大学からの参加者も多く、キルギス人学生はもとより、他大学の日本人学生とも交流できるプログラムです。\n研修内容：\n▶︎研修期間：2024 年8 月19 日（月）〜9 月13 日（金）（26 日間）\n▶︎研修地…",
-            "date_modified": "2024-04-30T03:00:00.000Z"
-        },
-        {
-            "id": "f64c08e5aed55e43e841ecbc699a5aa9",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5063",
-            "title": "安全保障輸出管理研修及び誓約書提出のお願い",
-            "summary": "日頃より輸出管理のご協力をありがとうございます。昨年度入学者より誓約書の提出をお願いしておりましたが、5月1日より、在学生の皆様も安全保障輸出管理に関するe-learning研修を受講いただくこととなりました。\n既に受講いただいた方には、お手間をおかけしますが動画受講の確認として、再度誓約書の提出をお願いいたします。\n\n添付ファイルをご覧いただき、”manaba”コースコード”24012”誓約書（…",
             "date_modified": "2024-04-30T03:00:00.000Z"
         }
     ]

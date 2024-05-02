@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/mkobayashime/twins-announcements</id>
     <title>在学生へのお知らせ | 筑波大学</title>
-    <updated>2024-05-02T09:18:52.591Z</updated>
+    <updated>2024-05-02T10:14:25.384Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://github.com/mkobayashime/twins-announcements"/>
     <subtitle>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</subtitle>
+    <entry>
+        <title type="html"><![CDATA[【5/9開催 】博士人材向け「キャリア開発ガイダンス2024」]]></title>
+        <id>fc17d1105bfdb7c20bcfc9dbbad4a56d</id>
+        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5083"/>
+        <updated>2024-05-02T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[毎年好評を博している博士人材向けキャリア開発ガイダンスを今年も開催！
+
+スケジュール感を始めとする博士人材ならではの就活基礎知識、博士人材をめぐる産業界の動向などをレクチャーします。
+ガイダンス後には特別アンバサダーによるキャリア相談会も行いますので、奮ってご参加ください。
+
+詳細は下記リンクよりご覧ください！]]></summary>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【再掲載】ガクチカをつくろう！国際協力体験プログラム　参加者募集（締切り5/7）]]></title>
         <id>938d209813d1a53cedc8627d58ceb24b</id>
@@ -243,15 +255,5 @@ To prevent the leakage of sensitive technologies, we request th…]]></summary>
 研修内容：
 ▶︎研修期間：2024 年8 月19 日（月）〜9 月13 日（金）（26 日間）
 ▶︎研修地…]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[安全保障輸出管理研修及び誓約書提出のお願い]]></title>
-        <id>f64c08e5aed55e43e841ecbc699a5aa9</id>
-        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5063"/>
-        <updated>2024-04-30T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[日頃より輸出管理のご協力をありがとうございます。昨年度入学者より誓約書の提出をお願いしておりましたが、5月1日より、在学生の皆様も安全保障輸出管理に関するe-learning研修を受講いただくこととなりました。
-既に受講いただいた方には、お手間をおかけしますが動画受講の確認として、再度誓約書の提出をお願いいたします。
-
-添付ファイルをご覧いただき、”manaba”コースコード”24012”誓約書（…]]></summary>
     </entry>
 </feed>
