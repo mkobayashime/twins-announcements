@@ -4,7 +4,7 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Thu, 02 May 2024 15:19:43 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 02 May 2024 21:16:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
@@ -100,13 +100,9 @@ Tulips Search は、筑波大学の蔵書と世界中の論文をまとめて探
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5076</link>
             <guid>65ec12d0553626aaf49baf77d109d521</guid>
             <pubDate>Wed, 01 May 2024 03:00:00 GMT</pubDate>
-            <description><![CDATA[茗渓会による学生活動支援事業の実施について、お知らせします。
-くわしくは添付の事業要項をご確認ください。
-申請を希望する団体は、申請書と構成員名簿をご提出ください。
+            <description><![CDATA[In order to support teaching and learning, we provide an eBook trial service.For the first time in 2024, KinoDen, provided by Kinokuniya Bookstore, will be available for a limited time.
 
-申請期限：5月31日（金）まで
-申請窓口：茗渓会筑波事務所(総合交流会館２階）
-]]></description>
+You can try a…]]></description>
         </item>
         <item>
             <title><![CDATA[春の図書館講習会 / Library Workshops]]></title>
