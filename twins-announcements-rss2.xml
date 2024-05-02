@@ -4,10 +4,24 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Wed, 01 May 2024 21:16:16 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 02 May 2024 01:52:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
+        <item>
+            <title><![CDATA[【5/8開催】「新Tulips Search & 文献管理ツールRefWorks活用法」図書館講習会]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5079</link>
+            <guid>5cb9a1663c6cc13e4da3148a32324fcf</guid>
+            <pubDate>Thu, 02 May 2024 03:00:00 GMT</pubDate>
+            <description><![CDATA[「新Tulips Search & 文献管理ツールRefWorks活用法」の講習会を開催します。
+
+-----------------------------
+日時：5月8日（水）15:15-16:45
+開催方法： オンライン（Zoom)
+-----------------------------
+
+Tulips Search は、筑波大学の蔵書と世界中の論文をまとめて探すことができるツールです。…]]></description>
+        </item>
         <item>
             <title><![CDATA[【ご案内】アジア最大級のグローバルスタートアッププログラム主催の学生対象イベント]]></title>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5078</link>
@@ -243,17 +257,6 @@ Please check the at…]]></description>
 【持ち物】学生証
 【開催時間のご案内】
 各企業の個別面談セッションは、以下の時間区分に沿って…]]></description>
-        </item>
-        <item>
-            <title><![CDATA[【MDAセミナー】位置情報データ活用のプロフェッショナル企業との対話]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5058</link>
-            <guid>96e108f8c261dfad28ba1a910f7a5b13</guid>
-            <pubDate>Fri, 26 Apr 2024 03:00:00 GMT</pubDate>
-            <description><![CDATA[全学の学生さんと教員を対象として、MDAセミナー
-「位置情報データ活用のプロフェッショナル企業との対話－企業と共に研究テーマを探る－」
-を開催いたします。
-
-本セミナーでは、人流データ×機械学習によって生成される「ひとりひとりの移動の軌跡がわかる高粒度人流データ」を活用して、まちづくりや土木交通、観光、防災など多岐にわたる分野で貢献を果たす株式会社GEOTRAが、データサイエンスやAIの社会実装例…]]></description>
         </item>
     </channel>
 </rss>
