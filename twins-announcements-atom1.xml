@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/mkobayashime/twins-announcements</id>
     <title>在学生へのお知らせ | 筑波大学</title>
-    <updated>2024-05-02T01:52:35.337Z</updated>
+    <updated>2024-05-02T06:17:03.370Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://github.com/mkobayashime/twins-announcements"/>
     <subtitle>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</subtitle>
+    <entry>
+        <title type="html"><![CDATA[【派遣学生募集】ドイツ・ブランデンブルク工科大学コトブス＝ゼンフテンベルク校（BTU）への派遣学生の追加募集について（2024年10月派遣開始分）]]></title>
+        <id>4eb04d970f138d17e1acc3cb1f7e531b</id>
+        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5080"/>
+        <updated>2024-05-02T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[SSC公募型対象校のドイツ・ブランデンブルク工科大学コトブス＝ゼンフテンベルク校（BTU）について、2024年10月派遣開始分を追加募集いたします。
+添付の募集内容をよく確認の上、manabaにて応募してください。
+
+【募集の概要】
+留学先：ドイツ・ブランデンブルク工科大学コトブス＝ゼンフテンベルク校
+留学期間：2024年10月～2025年9月までの12ヵ月以内　
+　　　　　※少なくとも1学期間以…]]></summary>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【5/8開催】「新Tulips Search & 文献管理ツールRefWorks活用法」図書館講習会]]></title>
         <id>5cb9a1663c6cc13e4da3148a32324fcf</id>
@@ -238,22 +251,5 @@ Please check the at…]]></summary>
         <summary type="html"><![CDATA[自分の関心領域に近い現実社会の実課題やリアルデータの分析に取り組んでみませんか？企業等の実務専門家、トップ・データサイエンティスト、異分野の学生とともに、ワークショップ型演習に参加しませんか？
 
 いま社会から本当に求められている人材は、データ分析力だけに秀でている人材ではありません。企業等がデータサイエンティストに求めている能力は、関係者を巻き込みつつ、課題を適切に設定し、データを収集・整形し、デ…]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【25卒学生向け就職イベント】就職ミライ博・合同企業説明会Part２（BHEキャリア支援チーム主催）]]></title>
-        <id>e47c7c7e9af456c4ee86fe456a1ae59b</id>
-        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5059"/>
-        <updated>2024-04-26T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[筑波大生の採用に積極的な企業が大集合！
-採用担当者と密に話せる、面談型就職イベント
-一気に就職活動を進めましょう！
-
-【日程】2024年5月13日(月)、14日(火)10:00～16:00
-【対象】2025年３月 卒業・修了予定の学生
-　　　　※26 卒以降も参加可
-【会場】国立大学法人筑波大学　大学会館
-【持ち物】学生証
-【開催時間のご案内】
-各企業の個別面談セッションは、以下の時間区分に沿って…]]></summary>
     </entry>
 </feed>
