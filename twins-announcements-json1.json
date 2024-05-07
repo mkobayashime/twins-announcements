@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "e47c7c7e9af456c4ee86fe456a1ae59b",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5085",
+            "title": "【25卒学生向け就職イベント】就職ミライ博・合同企業説明会Part２（BHEキャリア支援チーム主催）",
+            "summary": "筑波大生の採用に積極的な企業が大集合！\n採用担当者と密に話せる、面談型就職イベント\n一気に就職活動を進めましょう！\n\n【日程】2024年5月13日(月)、14日(火)10:00～16:00\n【対象】2025年３月 卒業・修了予定の学生\n　　　　※26 卒以降も参加可\n【会場】国立大学法人筑波大学　大学会館\n【持ち物】学生証\n【開催時間のご案内】\n各企業の個別面談セッションは、以下の時間区分に沿って…",
+            "date_modified": "2024-05-07T03:00:00.000Z"
+        },
+        {
             "id": "b8e98a8c68daf9b7c8f4f1c944496080",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5084",
             "title": "【本日〆切：募集】DXインターンシップ参加者の募集（筑波大学×UiPath㈱）",
@@ -135,13 +142,6 @@
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5066",
             "title": "ガクチカをつくろう！国際協力体験プログラム　参加者募集【締切り5/7】",
             "summary": "カザフスタン共和国とキルギスの２カ国で国際ボランティアに参加しながら観光学について学びます。筑波大学「日本財団 中央アジア・日本人材育成プロジェクト（NipCA）」とキルギス日本人材開発センターとの協力により開設されたプログラムです。メディアではあまり報道されない中央アジアの２カ国を実際に自分の目で見て、聞いて、活動して、他では得られない経験を通して一回りも二回りも成長しましょう！\n\n研修内容：\n…",
-            "date_modified": "2024-04-30T03:00:00.000Z"
-        },
-        {
-            "id": "676248707009707324cea4775aede1f8",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5065",
-            "title": "世界展開力強化事業（CAMPUS-Asia6）受付締切日延長 5/8(水)",
-            "summary": "世界展開力強化事業「アジア高等教育共同体形成促進」（CAMPUS-Asia6）では海外派遣学生（第3期生）の募集を開始します！\n日本、中国、韓国およびASEAN（インドネシア、タイ、マレーシア）で行う交換留学プログラムです。\n各国の大学院生との交流を通して「地球規模課題」について考えてみませんか？\n\n■申請書類提出日延長！：\n2024年5月8日(水) 16:00必着 CAMPUS-Asia6運営事…",
             "date_modified": "2024-04-30T03:00:00.000Z"
         }
     ]
