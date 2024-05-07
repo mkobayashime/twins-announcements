@@ -4,10 +4,19 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Tue, 07 May 2024 08:16:18 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 07 May 2024 09:15:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
+        <item>
+            <title><![CDATA[楽天グループ長期インターンシップ説明会5/14 について（26卒 エンジニア職）]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5090</link>
+            <guid>757622abfd01ce8a6e0fcfa8a176f780</guid>
+            <pubDate>Tue, 07 May 2024 03:00:00 GMT</pubDate>
+            <description><![CDATA[楽天グループTech Divisionによる長期インターンシップの説明会が日本語と英語で２回あります。
+筑波大生向けの説明会ですので、是非ご参加ください。
+説明会は添付PDF内のQRコードから申し込みください。（5/13 11時〆切）]]></description>
+        </item>
         <item>
             <title><![CDATA[【社会教育主事】令和６年度説明会]]></title>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5089</link>
@@ -255,16 +264,6 @@ LEC東京リーガルマインド中野本校からZOOMを利用して授業尾�
 ※セーファースペースとは…LGBTQ＋や女性をはじめ、全ての人が自らのジェンダー・セクシュアリティについてより安全に話すことができる居場所のこと
 
 KiteKiteは、年齢…]]></description>
-        </item>
-        <item>
-            <title><![CDATA[2024年度「海外英語研修I-a」（3単位、オンライン）参加者募集]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5070</link>
-            <guid>622ccb3bde1bdd8ef55270b54748bfaa</guid>
-            <pubDate>Wed, 01 May 2024 03:00:00 GMT</pubDate>
-            <description><![CDATA[2024年7月に実施される、「海外英語研修I-a」（3単位、オンライン）の参加者を募集します。プログラムの詳細や申込方法については、manabaコース「xx20371　海外英語研修」に自己登録のうえ、コースニュースより募集説明動画と申込に関する情報を確認してください。
-
-●8030306「海外英語研修I-a」（3単位、オンライン）
-・カナダ　ブリティッシュ・コロンビア大学（協定校）　ASPIRE …]]></description>
         </item>
     </channel>
 </rss>
