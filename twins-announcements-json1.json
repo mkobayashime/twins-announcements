@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "f0fa934dea9074f8120011c17f338523",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5089",
+            "title": "【社会教育主事】令和６年度説明会",
+            "summary": "標題の件、5/15（水）に下記の要領で社会教育実習と主に1年生向けの\n社会教育主事養成コースの説明会を行います。\n修得を希望する人や関心のある人は、『履修要覧』または『資格取得科目一覧』の\n社会教育主事のページと添付ファイルを参照のうえ、第２部から参加してください。\nなお、今年度に「社会教育実習」を履修する人は第１部から出席して\nください。\n\n日時：5月15日（水）\n第1部14：30～15：00　…",
+            "date_modified": "2024-05-07T03:00:00.000Z"
+        },
+        {
             "id": "946ce992fe0a9e42f1fde615f20063f3",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5088",
             "title": "学内循環バス定期券の販売について",
@@ -135,13 +142,6 @@
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5070",
             "title": "2024年度「海外英語研修I-a」（3単位、オンライン）参加者募集",
             "summary": "2024年7月に実施される、「海外英語研修I-a」（3単位、オンライン）の参加者を募集します。プログラムの詳細や申込方法については、manabaコース「xx20371　海外英語研修」に自己登録のうえ、コースニュースより募集説明動画と申込に関する情報を確認してください。\n\n●8030306「海外英語研修I-a」（3単位、オンライン）\n・カナダ　ブリティッシュ・コロンビア大学（協定校）　ASPIRE …",
-            "date_modified": "2024-05-01T03:00:00.000Z"
-        },
-        {
-            "id": "a2ede486d26e14c01ac981edc1f582ff",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5069",
-            "title": "筑波大学公式オリジナルグッズECサイト割引クーポンのお知らせ（5月）",
-            "summary": "筑波大学公式オリジナルグッズ販売サイト「TSUKUBA-SHOP」5月の割引クーポンコードをお知らせいたします！\n\nクーポンコード　：　tsmayx4298n25\n有効期間　：　2024年5月1日～2024年5月31日\n\nどうぞご覧いただき、皆様の「日常生活」、「思い出」、「プレゼント🎁」などにご活用いただけますと幸いです。\n\nECサイトは以下のリンクから\n※学内専用割引コードをTWINS掲示「…",
             "date_modified": "2024-05-01T03:00:00.000Z"
         }
     ]

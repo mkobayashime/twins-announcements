@@ -4,10 +4,25 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Tue, 07 May 2024 07:19:17 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 07 May 2024 08:16:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
+        <item>
+            <title><![CDATA[【社会教育主事】令和６年度説明会]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5089</link>
+            <guid>f0fa934dea9074f8120011c17f338523</guid>
+            <pubDate>Tue, 07 May 2024 03:00:00 GMT</pubDate>
+            <description><![CDATA[標題の件、5/15（水）に下記の要領で社会教育実習と主に1年生向けの
+社会教育主事養成コースの説明会を行います。
+修得を希望する人や関心のある人は、『履修要覧』または『資格取得科目一覧』の
+社会教育主事のページと添付ファイルを参照のうえ、第２部から参加してください。
+なお、今年度に「社会教育実習」を履修する人は第１部から出席して
+ください。
+
+日時：5月15日（水）
+第1部14：30～15：00　…]]></description>
+        </item>
         <item>
             <title><![CDATA[学内循環バス定期券の販売について]]></title>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5088</link>
@@ -250,21 +265,6 @@ KiteKiteは、年齢…]]></description>
 
 ●8030306「海外英語研修I-a」（3単位、オンライン）
 ・カナダ　ブリティッシュ・コロンビア大学（協定校）　ASPIRE …]]></description>
-        </item>
-        <item>
-            <title><![CDATA[筑波大学公式オリジナルグッズECサイト割引クーポンのお知らせ（5月）]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5069</link>
-            <guid>a2ede486d26e14c01ac981edc1f582ff</guid>
-            <pubDate>Wed, 01 May 2024 03:00:00 GMT</pubDate>
-            <description><![CDATA[筑波大学公式オリジナルグッズ販売サイト「TSUKUBA-SHOP」5月の割引クーポンコードをお知らせいたします！
-
-クーポンコード　：　tsmayx4298n25
-有効期間　：　2024年5月1日～2024年5月31日
-
-どうぞご覧いただき、皆様の「日常生活」、「思い出」、「プレゼント🎁」などにご活用いただけますと幸いです。
-
-ECサイトは以下のリンクから
-※学内専用割引コードをTWINS掲示「…]]></description>
         </item>
     </channel>
 </rss>
