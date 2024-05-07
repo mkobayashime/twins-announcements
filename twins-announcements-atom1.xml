@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/mkobayashime/twins-announcements</id>
     <title>在学生へのお知らせ | 筑波大学</title>
-    <updated>2024-05-06T21:17:12.011Z</updated>
+    <updated>2024-05-07T00:56:41.806Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://github.com/mkobayashime/twins-announcements"/>
     <subtitle>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</subtitle>
+    <entry>
+        <title type="html"><![CDATA[【本日〆切：募集】DXインターンシップ参加者の募集（筑波大学×UiPath㈱）]]></title>
+        <id>b8e98a8c68daf9b7c8f4f1c944496080</id>
+        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5084"/>
+        <updated>2024-05-07T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[筑波大学では、UiPath株式会社とデータサイエンス・AI等DX分野での先鋭的な人材の発掘および育成に向けて、戦略パートナーシップ協定を締結しています。
+本協定に基づき「2024年度DXインターンシップ」を募集します。
+
+実施にあたり以下の日時に説明会（オンライン）を実施しますので、興味のある方は是非参加してください。
+
+【日時】2024年5月14日（火）18時00分～19時00分
+【会場】オンラ…]]></summary>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【5/9開催 】博士人材向け「キャリア開発ガイダンス2024」]]></title>
         <id>fc17d1105bfdb7c20bcfc9dbbad4a56d</id>
@@ -244,16 +257,5 @@ To prevent the leakage of sensitive technologies, we request th…]]></summary>
 
 ■申請書類提出日延長！：
 2024年5月8日(水) 16:00必着 CAMPUS-Asia6運営事…]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2024 年夏季 キルギス日本センターロシア語 1 カ月スキルアップコース　参加者募集【締切り5/7】]]></title>
-        <id>0ca6f5f7b6037bf8d40d71157775db0b</id>
-        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5064"/>
-        <updated>2024-04-30T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[キルギスでロシア語（および入門キルギス語）を学ぶプログラムです。
-筑波大学「日本財団 中央アジア・日本人材育成プロジェクト（NipCA）」とキルギス日本人材開発センターとの協力により実施され、他大学からの参加者も多く、キルギス人学生はもとより、他大学の日本人学生とも交流できるプログラムです。
-研修内容：
-▶︎研修期間：2024 年8 月19 日（月）〜9 月13 日（金）（26 日間）
-▶︎研修地…]]></summary>
     </entry>
 </feed>
