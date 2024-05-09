@@ -4,10 +4,22 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Thu, 09 May 2024 06:17:32 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 09 May 2024 09:14:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
+        <item>
+            <title><![CDATA[【説明会開催】パリ第8大学の留学説明会（2025年春渡航分募集中！） 5/14日（火）18時～]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5100</link>
+            <guid>dee88d0032781a7f666118df551f0fc3</guid>
+            <pubDate>Thu, 09 May 2024 03:00:00 GMT</pubDate>
+            <description><![CDATA[本学協定校の一つである、パリ第8大学（フランス）のオンライン留学説明会を開催します。興味がある方は、ぜひご参加ください。
+
+開催日時：2024年5月14日（火）18：00～19：00
+開催方法：オンライン（Zoom)　※時間になりましたらこちらのリンクから入室してください → https://x.gd/Fjl3r
+
+なお、現在2025年春渡航分のパリ第8大学への留学については、下記リンク先のSSC…]]></description>
+        </item>
         <item>
             <title><![CDATA[オーストラリア・ウーロンゴン大学カレッジ　英語研修プログラム説明会のお知らせ]]></title>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5099</link>
@@ -244,24 +256,6 @@ Please see the attached file for details.
             <description><![CDATA[In order to support teaching and learning, we provide an eBook trial service.For the first time in 2024, KinoDen, provided by Kinokuniya Bookstore, will be available for a limited time.
 
 You can try a…]]></description>
-        </item>
-        <item>
-            <title><![CDATA[春の図書館講習会 / Library Workshops]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5075</link>
-            <guid>1c46ed53443a15bad88e286f0cf3c4f0</guid>
-            <pubDate>Wed, 01 May 2024 03:00:00 GMT</pubDate>
-            <description><![CDATA[附属図書館では、春の講習会を開催中です。
-図書館の使い方や各種データベースの使い方など、学習や研究に役立つ内容です。
-manabaでコース登録をしてご参加ください。
-皆様のご参加をお待ちしております。
-
-詳しくは下記Webページをご覧ください。
-
----
-
-In the library, we hold Library Workshops (Spring Semester).
-
-In these …]]></description>
         </item>
     </channel>
 </rss>
