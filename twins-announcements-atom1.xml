@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/mkobayashime/twins-announcements</id>
     <title>在学生へのお知らせ | 筑波大学</title>
-    <updated>2024-05-09T09:19:22.456Z</updated>
+    <updated>2024-05-09T10:15:20.375Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://github.com/mkobayashime/twins-announcements"/>
     <subtitle>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</subtitle>
+    <entry>
+        <title type="html"><![CDATA[【ご案内】第11回　OＢ・OGキャリアカフェ　～いろんなセンパイと気軽に話をしてみよう！～]]></title>
+        <id>3190b54153e0f79e7994609b39db4336</id>
+        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5101"/>
+        <updated>2024-05-09T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[筑波大生の皆さんへ
+2019 年より始まった筑波大学および大学院の卒業生と現役学生との交流の機会、「OB・OG キャリアカフェ」。大学の先輩から就職活動やキャリア、学生生活などのアドバイスについて本音で聞ける機会として、学生から高い満足度を得ています。
+今回は、対面開催です。
+★社会人のリアルや業界・企業について知る機会★
+★筑波大のOB・OGだから気軽に質問しやすい★
+★就活のこと、キャリアのこ…]]></summary>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【説明会開催】パリ第8大学の留学説明会（2025年春渡航分募集中！） 5/14日（火）18時～]]></title>
         <id>dee88d0032781a7f666118df551f0fc3</id>
@@ -245,14 +257,5 @@ Please see the attached file for details.
 申請期限：5月31日（金）まで
 申請窓口：茗渓会筑波事務所(総合交流会館２階）
 ]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[(Library) Free Ebook Trial Service (May 1-July 31)]]></title>
-        <id>65ec12d0553626aaf49baf77d109d521</id>
-        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5076"/>
-        <updated>2024-05-01T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[In order to support teaching and learning, we provide an eBook trial service.For the first time in 2024, KinoDen, provided by Kinokuniya Bookstore, will be available for a limited time.
-
-You can try a…]]></summary>
     </entry>
 </feed>

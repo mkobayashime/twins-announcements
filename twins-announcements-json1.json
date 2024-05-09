@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "3190b54153e0f79e7994609b39db4336",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5101",
+            "title": "【ご案内】第11回　OＢ・OGキャリアカフェ　～いろんなセンパイと気軽に話をしてみよう！～",
+            "summary": "筑波大生の皆さんへ\n2019 年より始まった筑波大学および大学院の卒業生と現役学生との交流の機会、「OB・OG キャリアカフェ」。大学の先輩から就職活動やキャリア、学生生活などのアドバイスについて本音で聞ける機会として、学生から高い満足度を得ています。\n今回は、対面開催です。\n★社会人のリアルや業界・企業について知る機会★\n★筑波大のOB・OGだから気軽に質問しやすい★\n★就活のこと、キャリアのこ…",
+            "date_modified": "2024-05-09T03:00:00.000Z"
+        },
+        {
             "id": "dee88d0032781a7f666118df551f0fc3",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5100",
             "title": "【説明会開催】パリ第8大学の留学説明会（2025年春渡航分募集中！） 5/14日（火）18時～",
@@ -135,13 +142,6 @@
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5077",
             "title": "令和6年度 茗渓会学生活動支援事業について",
             "summary": "茗渓会による学生活動支援事業の実施について、お知らせします。\nくわしくは添付の事業要項をご確認ください。\n申請を希望する団体は、申請書と構成員名簿をご提出ください。\n\n申請期限：5月31日（金）まで\n申請窓口：茗渓会筑波事務所(総合交流会館２階）\n",
-            "date_modified": "2024-05-01T03:00:00.000Z"
-        },
-        {
-            "id": "65ec12d0553626aaf49baf77d109d521",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5076",
-            "title": "(Library) Free Ebook Trial Service (May 1-July 31)",
-            "summary": "In order to support teaching and learning, we provide an eBook trial service.For the first time in 2024, KinoDen, provided by Kinokuniya Bookstore, will be available for a limited time.\n\nYou can try a…",
             "date_modified": "2024-05-01T03:00:00.000Z"
         }
     ]
