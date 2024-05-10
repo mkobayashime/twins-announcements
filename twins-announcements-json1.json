@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "fc9cf5e34b014ebfd560111a2844185e",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5102",
+            "title": "【BHE就活支援】参加者募集中　5月21日チャレンジ実践会　",
+            "summary": "就活が本格化していることを受け、５月も対面とオンラインで開催します。\n対面面接編ではビジネスマナーも学ぶことができます。\n就活中の方、ISの選考を受ける方、参加して役立ててください。\nBHEキャリア支援チームのファシリテーターからフィードバックがあります。（日本語での開催です）\n＜対面＞\n日にち：令和６年5月21日（火）\n時間：午前　集団面接編　10：00-12：00\n　　　午後　グループディスカ…",
+            "date_modified": "2024-05-10T03:00:00.000Z"
+        },
+        {
             "id": "3190b54153e0f79e7994609b39db4336",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5101",
             "title": "【ご案内】第11回　OＢ・OGキャリアカフェ　～いろんなセンパイと気軽に話をしてみよう！～",
@@ -135,13 +142,6 @@
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5078",
             "title": "【ご案内】アジア最大級のグローバルスタートアッププログラム主催の学生対象イベント",
             "summary": "標記の件について、案内をいただきましたので周知いたします。\n\n\n------以下、案内------\n\n皆様\nアジア最大級のグローバルスタートアップイベント「SusHi Tech Tokyo 2024 Global Startup Program」にて、学生対象イベント「WASABI」が開催されます。\n\n「SusHi Tech Tokyo 2024 Global Startup Program」とは…",
-            "date_modified": "2024-05-01T03:00:00.000Z"
-        },
-        {
-            "id": "4cfc5336b69436897a11ce1ae527d53b",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5077",
-            "title": "令和6年度 茗渓会学生活動支援事業について",
-            "summary": "茗渓会による学生活動支援事業の実施について、お知らせします。\nくわしくは添付の事業要項をご確認ください。\n申請を希望する団体は、申請書と構成員名簿をご提出ください。\n\n申請期限：5月31日（金）まで\n申請窓口：茗渓会筑波事務所(総合交流会館２階）\n",
             "date_modified": "2024-05-01T03:00:00.000Z"
         }
     ]

@@ -4,10 +4,24 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Thu, 09 May 2024 21:19:33 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 10 May 2024 00:56:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
+        <item>
+            <title><![CDATA[【BHE就活支援】参加者募集中　5月21日チャレンジ実践会　]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5102</link>
+            <guid>fc9cf5e34b014ebfd560111a2844185e</guid>
+            <pubDate>Fri, 10 May 2024 03:00:00 GMT</pubDate>
+            <description><![CDATA[就活が本格化していることを受け、５月も対面とオンラインで開催します。
+対面面接編ではビジネスマナーも学ぶことができます。
+就活中の方、ISの選考を受ける方、参加して役立ててください。
+BHEキャリア支援チームのファシリテーターからフィードバックがあります。（日本語での開催です）
+＜対面＞
+日にち：令和６年5月21日（火）
+時間：午前　集団面接編　10：00-12：00
+　　　午後　グループディスカ…]]></description>
+        </item>
         <item>
             <title><![CDATA[【ご案内】第11回　OＢ・OGキャリアカフェ　～いろんなセンパイと気軽に話をしてみよう！～]]></title>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5101</link>
@@ -246,19 +260,6 @@ Please see the attached file for details.
 アジア最大級のグローバルスタートアップイベント「SusHi Tech Tokyo 2024 Global Startup Program」にて、学生対象イベント「WASABI」が開催されます。
 
 「SusHi Tech Tokyo 2024 Global Startup Program」とは…]]></description>
-        </item>
-        <item>
-            <title><![CDATA[令和6年度 茗渓会学生活動支援事業について]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5077</link>
-            <guid>4cfc5336b69436897a11ce1ae527d53b</guid>
-            <pubDate>Wed, 01 May 2024 03:00:00 GMT</pubDate>
-            <description><![CDATA[茗渓会による学生活動支援事業の実施について、お知らせします。
-くわしくは添付の事業要項をご確認ください。
-申請を希望する団体は、申請書と構成員名簿をご提出ください。
-
-申請期限：5月31日（金）まで
-申請窓口：茗渓会筑波事務所(総合交流会館２階）
-]]></description>
         </item>
     </channel>
 </rss>
