@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "0f12878ac9dddc99a5dde81876ad98dc",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5103",
+            "title": "【5/15開催】「外国語論文の探し方 (Web of Science）」図書館講習会",
+            "summary": "「外国語論文の探し方 (Web of Science）」の講習会を開催します。\n\n-----------------------------\n日時：5月15日（水）15:15-16:30\n開催方法： オンライン（Webex)\n-----------------------------\n\nWeb of Scienceは、全分野の質の高い外国語論文を検索できるデータベースです。\n引用文献に強いという特…",
+            "date_modified": "2024-05-10T03:00:00.000Z"
+        },
+        {
             "id": "fc9cf5e34b014ebfd560111a2844185e",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5102",
             "title": "【BHE就活支援】参加者募集中　5月21日チャレンジ実践会　",
@@ -136,13 +143,6 @@
             "title": "【派遣学生募集】ドイツ・ブランデンブルク工科大学コトブス＝ゼンフテンベルク校（BTU）への派遣学生の追加募集について（2024年10月派遣開始分）",
             "summary": "SSC公募型対象校のドイツ・ブランデンブルク工科大学コトブス＝ゼンフテンベルク校（BTU）について、2024年10月派遣開始分を追加募集いたします。\n添付の募集内容をよく確認の上、manabaにて応募してください。\n\n【募集の概要】\n留学先：ドイツ・ブランデンブルク工科大学コトブス＝ゼンフテンベルク校\n留学期間：2024年10月～2025年9月までの12ヵ月以内　\n　　　　　※少なくとも1学期間以…",
             "date_modified": "2024-05-02T03:00:00.000Z"
-        },
-        {
-            "id": "9666d53f0f51dd3acab169b492d5c751",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5078",
-            "title": "【ご案内】アジア最大級のグローバルスタートアッププログラム主催の学生対象イベント",
-            "summary": "標記の件について、案内をいただきましたので周知いたします。\n\n\n------以下、案内------\n\n皆様\nアジア最大級のグローバルスタートアップイベント「SusHi Tech Tokyo 2024 Global Startup Program」にて、学生対象イベント「WASABI」が開催されます。\n\n「SusHi Tech Tokyo 2024 Global Startup Program」とは…",
-            "date_modified": "2024-05-01T03:00:00.000Z"
         }
     ]
 }
