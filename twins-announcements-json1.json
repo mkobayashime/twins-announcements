@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "911b9c39d20dddb3b7bbee508eeac2a7",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5104",
+            "title": "【周知】富山大学和漢医薬総合研究所セミナー「WAKAN2024」について",
+            "summary": "　富山大学より、和漢医薬総合研究セミナー「WAKAN2024」の案内がありましたので、お知らせいたします。\n\n　本セミナーでは、大学院で学ぶことの面白さや、専門を変えて学ぶ選択肢もあることを知ることができる内容の企画を実施します。これから進学・進路選択を考える学生もいるかと思いますので、ぜひご参加ください。\n　\n詳細は添付のPDFからご確認いただけます。\n",
+            "date_modified": "2024-05-10T03:00:00.000Z"
+        },
+        {
             "id": "0f12878ac9dddc99a5dde81876ad98dc",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5103",
             "title": "【5/15開催】「外国語論文の探し方 (Web of Science）」図書館講習会",
@@ -135,13 +142,6 @@
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5081",
             "title": "【再掲載】2024 年夏季 キルギス日本センターロシア語 1 カ月スキルアップコース　参加者募集（締切り5/7）",
             "summary": "キルギスでロシア語（および入門キルギス語）を学ぶプログラムです。\n筑波大学「日本財団 中央アジア・日本人材育成プロジェクト（NipCA）」とキルギス日本人材開発センターとの協力により実施され、他大学からの参加者も多く、キルギス人学生はもとより、他大学の日本人学生とも交流できるプログラムです。\n研修内容：\n▶︎研修期間：2024 年8 月19 日（月）〜9 月13 日（金）（26 日間）\n▶︎研修地…",
-            "date_modified": "2024-05-02T03:00:00.000Z"
-        },
-        {
-            "id": "4eb04d970f138d17e1acc3cb1f7e531b",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5080",
-            "title": "【派遣学生募集】ドイツ・ブランデンブルク工科大学コトブス＝ゼンフテンベルク校（BTU）への派遣学生の追加募集について（2024年10月派遣開始分）",
-            "summary": "SSC公募型対象校のドイツ・ブランデンブルク工科大学コトブス＝ゼンフテンベルク校（BTU）について、2024年10月派遣開始分を追加募集いたします。\n添付の募集内容をよく確認の上、manabaにて応募してください。\n\n【募集の概要】\n留学先：ドイツ・ブランデンブルク工科大学コトブス＝ゼンフテンベルク校\n留学期間：2024年10月～2025年9月までの12ヵ月以内　\n　　　　　※少なくとも1学期間以…",
             "date_modified": "2024-05-02T03:00:00.000Z"
         }
     ]
