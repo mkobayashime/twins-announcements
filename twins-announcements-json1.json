@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "ee5907d43ecd609191e84fc40abcbed2",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5107",
+            "title": "【参加者募集・5/29開催】第１回博士のポートフォリオ大公開+ロールモデル懇談会",
+            "summary": "　ヒューマンエンパワーメント推進局では、筑波大学に所属する全学群生・大学院生を対象に、多様な学生のキャリア形成に対する視野を開くこと、また、博士進学後のキャリアパスをクリアにすることを目的として、令和6年度第1回博士のポートフォリオ大公開+ロールモデル懇談会を開催いたします。\n\n　博士課程に進学したきっかけや当時の悩みなど、筑波大学で博士号を取得した方に日ごろの疑問を質問できる貴重な機会です。\n　…",
+            "date_modified": "2024-05-13T03:00:00.000Z"
+        },
+        {
             "id": "4a79d2f5ee07e6ba7d9da733a292313c",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5106",
             "title": "【開催中】25卒学生向け就活イベント　就職ミライ博（BHEキャリア支援チーム主催）",
@@ -72,13 +79,6 @@
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5096",
             "title": "【学生宿舎】2024年度学生宿舎初期消火訓練の実施について",
             "summary": "５月15日（水）に、2024年度学生宿舎入居者向けの初期消火訓練を実施します。\n詳細は、添付ファイルをご覧ください。\n\nOn Wednesday, May 15th, we will hold fire drill for 2024 student resident hall.\nPlease see the attached file for details.\n",
-            "date_modified": "2024-05-09T03:00:00.000Z"
-        },
-        {
-            "id": "ee5907d43ecd609191e84fc40abcbed2",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5095",
-            "title": "【参加者募集・5/29開催】第１回博士のポートフォリオ大公開+ロールモデル懇談会",
-            "summary": "　ヒューマンエンパワーメント推進局では、筑波大学に所属する全学群生・大学院生を対象に、多様な学生のキャリア形成に対する視野を開くこと、また、博士進学後のキャリアパスをクリアにすることを目的として、令和6年度第1回博士のポートフォリオ大公開+ロールモデル懇談会を開催いたします。\n\n　博士課程に進学したきっかけや当時の悩みなど、筑波大学で博士号を取得した方に日ごろの疑問を質問できる貴重な機会です。\n　…",
             "date_modified": "2024-05-09T03:00:00.000Z"
         },
         {
