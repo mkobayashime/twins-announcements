@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "a20ecd091992cc616016c062a4cb9eed",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5109",
+            "title": "第12回筑波大学オープンファシリティー研究機器共同利用説明会のお知らせ(6/6@オンライン)",
+            "summary": "筑波大学オープンファシリティー推進機構では、設備の有効活用に伴う利用サポートを実施いたしております。\n第12回目の開催となる、本年度の説明会では、筑波大学の研究機器だけでなく、物質・材料研究機構及び高エネルギー加速器研究機構の研究機器も含め、つくば地区の共用機器を幅広くご紹介いたします。\n研究促進に役立つ情報を提供しますので、是非ご参加ください。\n教職員・学生問わず、どなたでもご参加いただけます。…",
+            "date_modified": "2024-05-13T03:00:00.000Z"
+        },
+        {
             "id": "86cc1301be5d3a15be8d77eb117c65e4",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5108",
             "title": "【リマインド】MDAトップ人材養成特別演習 履修説明会(5/15,17)",
@@ -92,7 +99,7 @@
             "id": "7bf8d309bbc1fc2ca7f8549dad161136",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5093",
             "title": "【申込：9/1まで　謝礼あり】大学内でリラックスできる学習・休憩環境を体験する実験の参加者募集",
-            "summary": "　筑波大学ヒューマンエンパワーメント推進局（BHE）では、大学生を対象に大学内でリラックスできる環境の構築に関する研究を進めています。\n　このたび、多重感覚環境（センサリールーム）という、照明の色や明るさなどを好みに応じて変えられる環境などを実際に体験して、リラクゼーション効果を検証する研究を行うため、ご協力いただける大学生を募集します。\n　研究内容の詳細は添付のチラシをご覧ください。\n\n＜対象者…",
+            "summary": "　筑波大学ヒューマンエンパワーメント推進局（BHE）では、大学生を対象に大学内でリラックスできる環境の構築に関する研究を進めています。\n　このたび、多重感覚環境（センサリールーム）という、照明の色や明るさなどを好みに応じて変えられる環境などを実際に体験して、リラクゼーション効果を検証する研究を行うため、ご協力いただける大学生を募集します。\n　研究内容の詳細は添付の",
             "date_modified": "2024-05-09T03:00:00.000Z"
         },
         {
@@ -136,13 +143,6 @@
             "title": "【本日〆切：募集】DXインターンシップ参加者の募集（筑波大学×UiPath㈱）",
             "summary": "筑波大学では、UiPath株式会社とデータサイエンス・AI等DX分野での先鋭的な人材の発掘および育成に向けて、戦略パートナーシップ協定を締結しています。\n本協定に基づき「2024年度DXインターンシップ」を募集します。\n\n実施にあたり以下の日時に説明会（オンライン）を実施しますので、興味のある方は是非参加してください。\n\n【日時】2024年5月14日（火）18時00分～19時00分\n【会場】オンラ…",
             "date_modified": "2024-05-07T03:00:00.000Z"
-        },
-        {
-            "id": "938d209813d1a53cedc8627d58ceb24b",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5082",
-            "title": "【再掲載】ガクチカをつくろう！国際協力体験プログラム　参加者募集（締切り5/7）",
-            "summary": "【再掲載】ガクチカをつくろう！国際協力体験プログラム　参加者募集（締切り5/7）\n\nカザフスタン共和国とキルギスの２カ国で国際ボランティアに参加しながら観光学について学びます。筑波大学「日本財団 中央アジア・日本人材育成プロジェクト（NipCA）」とキルギス日本人材開発センターとの協力により開設されたプログラムです。メディアではあまり報道されない中央アジアの２カ国を実際に自分の目で見て、聞いて、活…",
-            "date_modified": "2024-05-02T03:00:00.000Z"
         }
     ]
 }
