@@ -4,10 +4,18 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Mon, 13 May 2024 08:17:59 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 13 May 2024 09:14:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
+        <item>
+            <title><![CDATA[【セミナーのご案内】オハイオ州立大学との学生交流セミナー Joint Seminar with Ohio State University]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5110</link>
+            <guid>059afb2e9812cbcc6fca9422f748316e</guid>
+            <pubDate>Mon, 13 May 2024 03:00:00 GMT</pubDate>
+            <description><![CDATA[筑波大学とオハイオ州立大学の学生が集い、研究発表と自由な意見交換を通じて新たな視野を開く機会を提供します。学問の枠を超えて創造的なアイデアが活発に交わされることでしょう。この貴重な機会を活かし、積極的なご参加をお待ちしています。
+Students from the University of Tsukuba and Ohio State University will gather for a s…]]></description>
+        </item>
         <item>
             <title><![CDATA[第12回筑波大学オープンファシリティー研究機器共同利用説明会のお知らせ(6/6@オンライン)]]></title>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5109</link>
@@ -182,7 +190,9 @@ Please see the attached file for details.
             <pubDate>Thu, 09 May 2024 03:00:00 GMT</pubDate>
             <description><![CDATA[　筑波大学ヒューマンエンパワーメント推進局（BHE）では、大学生を対象に大学内でリラックスできる環境の構築に関する研究を進めています。
 　このたび、多重感覚環境（センサリールーム）という、照明の色や明るさなどを好みに応じて変えられる環境などを実際に体験して、リラクゼーション効果を検証する研究を行うため、ご協力いただける大学生を募集します。
-　研究内容の詳細は添付の]]></description>
+　研究内容の詳細は添付のチラシをご覧ください。
+
+＜対象者…]]></description>
         </item>
         <item>
             <title><![CDATA[【再掲】楽天グループ長期インターンシップ説明会5/14 について（26卒 エンジニア職）]]></title>
@@ -247,19 +257,6 @@ Please see the attached file for details.
 研修内容：
 ▶︎研修期間：2024 年8 月19 日（月）〜9 月13 日（金）（26 日間）
 ▶︎研修…]]></description>
-        </item>
-        <item>
-            <title><![CDATA[【本日〆切：募集】DXインターンシップ参加者の募集（筑波大学×UiPath㈱）]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5084</link>
-            <guid>b8e98a8c68daf9b7c8f4f1c944496080</guid>
-            <pubDate>Tue, 07 May 2024 03:00:00 GMT</pubDate>
-            <description><![CDATA[筑波大学では、UiPath株式会社とデータサイエンス・AI等DX分野での先鋭的な人材の発掘および育成に向けて、戦略パートナーシップ協定を締結しています。
-本協定に基づき「2024年度DXインターンシップ」を募集します。
-
-実施にあたり以下の日時に説明会（オンライン）を実施しますので、興味のある方は是非参加してください。
-
-【日時】2024年5月14日（火）18時00分～19時00分
-【会場】オンラ…]]></description>
         </item>
     </channel>
 </rss>

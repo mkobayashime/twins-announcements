@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "059afb2e9812cbcc6fca9422f748316e",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5110",
+            "title": "【セミナーのご案内】オハイオ州立大学との学生交流セミナー Joint Seminar with Ohio State University",
+            "summary": "筑波大学とオハイオ州立大学の学生が集い、研究発表と自由な意見交換を通じて新たな視野を開く機会を提供します。学問の枠を超えて創造的なアイデアが活発に交わされることでしょう。この貴重な機会を活かし、積極的なご参加をお待ちしています。\nStudents from the University of Tsukuba and Ohio State University will gather for a s…",
+            "date_modified": "2024-05-13T03:00:00.000Z"
+        },
+        {
             "id": "a20ecd091992cc616016c062a4cb9eed",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5109",
             "title": "第12回筑波大学オープンファシリティー研究機器共同利用説明会のお知らせ(6/6@オンライン)",
@@ -99,7 +106,7 @@
             "id": "7bf8d309bbc1fc2ca7f8549dad161136",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5093",
             "title": "【申込：9/1まで　謝礼あり】大学内でリラックスできる学習・休憩環境を体験する実験の参加者募集",
-            "summary": "　筑波大学ヒューマンエンパワーメント推進局（BHE）では、大学生を対象に大学内でリラックスできる環境の構築に関する研究を進めています。\n　このたび、多重感覚環境（センサリールーム）という、照明の色や明るさなどを好みに応じて変えられる環境などを実際に体験して、リラクゼーション効果を検証する研究を行うため、ご協力いただける大学生を募集します。\n　研究内容の詳細は添付の",
+            "summary": "　筑波大学ヒューマンエンパワーメント推進局（BHE）では、大学生を対象に大学内でリラックスできる環境の構築に関する研究を進めています。\n　このたび、多重感覚環境（センサリールーム）という、照明の色や明るさなどを好みに応じて変えられる環境などを実際に体験して、リラクゼーション効果を検証する研究を行うため、ご協力いただける大学生を募集します。\n　研究内容の詳細は添付のチラシをご覧ください。\n\n＜対象者…",
             "date_modified": "2024-05-09T03:00:00.000Z"
         },
         {
@@ -135,13 +142,6 @@
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5086",
             "title": "【締切延長：再掲載】2024 年夏季 キルギス日本センターロシア語 1 カ月スキルアップコース　参加者募集（締切り5/10金）2024/5/07",
             "summary": "キルギスでロシア語（および入門キルギス語）を学ぶプログラムです。\n筑波大学「日本財団 中央アジア・日本人材育成プロジェクト（NipCA）」とキルギス日本人材開発センターとの協力により実施され、他大学からの参加者も多く、キルギス人学生はもとより、他大学の日本人学生とも交流できるプログラムです。\n\n研修内容：\n▶︎研修期間：2024 年8 月19 日（月）〜9 月13 日（金）（26 日間）\n▶︎研修…",
-            "date_modified": "2024-05-07T03:00:00.000Z"
-        },
-        {
-            "id": "b8e98a8c68daf9b7c8f4f1c944496080",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5084",
-            "title": "【本日〆切：募集】DXインターンシップ参加者の募集（筑波大学×UiPath㈱）",
-            "summary": "筑波大学では、UiPath株式会社とデータサイエンス・AI等DX分野での先鋭的な人材の発掘および育成に向けて、戦略パートナーシップ協定を締結しています。\n本協定に基づき「2024年度DXインターンシップ」を募集します。\n\n実施にあたり以下の日時に説明会（オンライン）を実施しますので、興味のある方は是非参加してください。\n\n【日時】2024年5月14日（火）18時00分～19時00分\n【会場】オンラ…",
             "date_modified": "2024-05-07T03:00:00.000Z"
         }
     ]
