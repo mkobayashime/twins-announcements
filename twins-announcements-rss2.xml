@@ -4,10 +4,32 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Tue, 14 May 2024 01:55:35 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 14 May 2024 06:19:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
+        <item>
+            <title><![CDATA[【開催案内】7th Borderless Onsite Meeting “Steppe Culture of Kazakhstan”]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5114</link>
+            <guid>0446bb4c4f1a76e7f2d6822930f6a37f</guid>
+            <pubDate>Tue, 14 May 2024 03:00:00 GMT</pubDate>
+            <description><![CDATA[【開催案内】7th Borderless Onsite Meeting
+
+プレゼンター：トゥルスナリエヴァ・アジャル（NipCAフェロー2023）
+
+題目：Steppe Culture of Kazakhstan
+
+日時：令和6年5月28日（金）12:20～13 :00
+
+会場：筑波大学　スチューデントコモンズ（1A棟203）
+
+対象：全学教職員、留学生ほか
+
+使用言語：英語
+
+スケジュール
+12…]]></description>
+        </item>
         <item>
             <title><![CDATA[【就活イベントFor International Students 】Practice Session for recruiting interview]]></title>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5113</link>
@@ -244,21 +266,6 @@ Please see the attached file for details.
 筑波大生向けの説明会ですので、是非ご参加ください。
 説明会は添付PDF内のQRコードから申し込みください。（5/13 11時〆切）
 ]]></description>
-        </item>
-        <item>
-            <title><![CDATA[【社会教育主事】令和６年度説明会]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5089</link>
-            <guid>f0fa934dea9074f8120011c17f338523</guid>
-            <pubDate>Tue, 07 May 2024 03:00:00 GMT</pubDate>
-            <description><![CDATA[標題の件、5/15（水）に下記の要領で社会教育実習と主に1年生向けの
-社会教育主事養成コースの説明会を行います。
-修得を希望する人や関心のある人は、『履修要覧』または『資格取得科目一覧』の
-社会教育主事のページと添付ファイルを参照のうえ、第２部から参加してください。
-なお、今年度に「社会教育実習」を履修する人は第１部から出席して
-ください。
-
-日時：5月15日（水）
-第1部14：30～15：00　…]]></description>
         </item>
     </channel>
 </rss>

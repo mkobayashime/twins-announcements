@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "0446bb4c4f1a76e7f2d6822930f6a37f",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5114",
+            "title": "【開催案内】7th Borderless Onsite Meeting “Steppe Culture of Kazakhstan”",
+            "summary": "【開催案内】7th Borderless Onsite Meeting\n\nプレゼンター：トゥルスナリエヴァ・アジャル（NipCAフェロー2023）\n\n題目：Steppe Culture of Kazakhstan\n\n日時：令和6年5月28日（金）12:20～13 :00\n\n会場：筑波大学　スチューデントコモンズ（1A棟203）\n\n対象：全学教職員、留学生ほか\n\n使用言語：英語\n\nスケジュール\n12…",
+            "date_modified": "2024-05-14T03:00:00.000Z"
+        },
+        {
             "id": "bd206b7215c4e3a2c89cf810ddc21bc4",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5113",
             "title": "【就活イベントFor International Students 】Practice Session for recruiting interview",
@@ -135,13 +142,6 @@
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5092",
             "title": "【再掲】楽天グループ長期インターンシップ説明会5/14 について（26卒 エンジニア職）",
             "summary": "楽天グループTech Divisionによる長期インターンシップの説明会が日本語と英語で２回あります。\n筑波大生向けの説明会ですので、是非ご参加ください。\n説明会は添付PDF内のQRコードから申し込みください。（5/13 11時〆切）\n",
-            "date_modified": "2024-05-07T03:00:00.000Z"
-        },
-        {
-            "id": "f0fa934dea9074f8120011c17f338523",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5089",
-            "title": "【社会教育主事】令和６年度説明会",
-            "summary": "標題の件、5/15（水）に下記の要領で社会教育実習と主に1年生向けの\n社会教育主事養成コースの説明会を行います。\n修得を希望する人や関心のある人は、『履修要覧』または『資格取得科目一覧』の\n社会教育主事のページと添付ファイルを参照のうえ、第２部から参加してください。\nなお、今年度に「社会教育実習」を履修する人は第１部から出席して\nください。\n\n日時：5月15日（水）\n第1部14：30～15：00　…",
             "date_modified": "2024-05-07T03:00:00.000Z"
         }
     ]
