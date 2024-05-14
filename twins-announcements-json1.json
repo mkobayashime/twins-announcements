@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "bd206b7215c4e3a2c89cf810ddc21bc4",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5113",
+            "title": "【就活イベントFor International Students 】Practice Session for recruiting interview",
+            "summary": "Date and Time: 13:30-, on May 22\nPlace: Institutes of Human Sciences (Room 114)\n*Max: 6 students (First come, first served.)\n*Target: Mainly for students who have N2 or N1 (inc. N2 or N1 equivalent) H…",
+            "date_modified": "2024-05-14T03:00:00.000Z"
+        },
+        {
             "id": "6880a410fb75480921893bad5f162e78",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5112",
             "title": "【本日開催！】パリ第8大学のオンライン留学説明会（2025年春渡航分募集中！） 5/14日（火）18時～",
@@ -135,13 +142,6 @@
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5089",
             "title": "【社会教育主事】令和６年度説明会",
             "summary": "標題の件、5/15（水）に下記の要領で社会教育実習と主に1年生向けの\n社会教育主事養成コースの説明会を行います。\n修得を希望する人や関心のある人は、『履修要覧』または『資格取得科目一覧』の\n社会教育主事のページと添付ファイルを参照のうえ、第２部から参加してください。\nなお、今年度に「社会教育実習」を履修する人は第１部から出席して\nください。\n\n日時：5月15日（水）\n第1部14：30～15：00　…",
-            "date_modified": "2024-05-07T03:00:00.000Z"
-        },
-        {
-            "id": "946ce992fe0a9e42f1fde615f20063f3",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5088",
-            "title": "学内循環バス定期券の販売について",
-            "summary": "学生の皆様\n\n19,000円で学内循環バスが乗り放題になるお得な定期券が学内の丸善（書籍部）で販売中です！\n\nつくば駅（つくばセンター）⇔筑波大学中央 （片道310円）の通学定期券の正規料金は107,140円/年なので、\n最大約82％オフと大変お得です。\n\n定期券の有効期限は購入日～購入日が属する年度の3月31日までとなりますので、\n早めの購入がオススメです！\n\n※詳しくはホームページと添付のポス…",
             "date_modified": "2024-05-07T03:00:00.000Z"
         }
     ]
