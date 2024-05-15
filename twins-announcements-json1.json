@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "0caad0b3088da92c5c2a894dc5d39c09",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5117",
+            "title": "【再掲 本日開催】5/15(水) 15:15～「外国語論文の探し方 (Web of Science）」図書館講習会",
+            "summary": "「外国語論文の探し方 (Web of Science）」の講習会を開催します。\n\n-----------------------------\n日時：5月15日（水）15:15-16:30\n開催方法： オンライン（Webex)\n-----------------------------\n\nWeb of Scienceは、全分野の質の高い外国語論文を検索できるデータベースです。\n引用文献に強いという特…",
+            "date_modified": "2024-05-15T03:00:00.000Z"
+        },
+        {
             "id": "21cf1788fba349e20285f7d7e6a30f65",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5116",
             "title": "【6/6開催】R6衛生管理者講習会_知っておきたい職場巡視の心得～衛生管理者にできること、できないこと～",
@@ -136,13 +143,6 @@
             "title": "【申込：9/1まで　謝礼あり】大学内でリラックスできる学習・休憩環境を体験する実験の参加者募集",
             "summary": "　筑波大学ヒューマンエンパワーメント推進局（BHE）では、大学生を対象に大学内でリラックスできる環境の構築に関する研究を進めています。\n　このたび、多重感覚環境（センサリールーム）という、照明の色や明るさなどを好みに応じて変えられる環境などを実際に体験して、リラクゼーション効果を検証する研究を行うため、ご協力いただける大学生を募集します。\n　研究内容の詳細は添付のチラシをご覧ください。\n\n＜対象者…",
             "date_modified": "2024-05-09T03:00:00.000Z"
-        },
-        {
-            "id": "f0fa934dea9074f8120011c17f338523",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5089",
-            "title": "【社会教育主事】令和６年度説明会",
-            "summary": "標題の件、5/15（水）に下記の要領で社会教育実習と主に1年生向けの\n社会教育主事養成コースの説明会を行います。\n修得を希望する人や関心のある人は、『履修要覧』または『資格取得科目一覧』の\n社会教育主事のページと添付ファイルを参照のうえ、第２部から参加してください。\nなお、今年度に「社会教育実習」を履修する人は第１部から出席して\nください。\n\n日時：5月15日（水）\n第1部14：30～15：00　…",
-            "date_modified": "2024-05-07T03:00:00.000Z"
         }
     ]
 }
