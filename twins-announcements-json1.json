@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "c2e462cc3a9569ab580dc312429d19cb",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5118",
+            "title": "【6/24開催】学生の皆さんが安心して化学実験を行うための研修会",
+            "summary": "標記研修会を以下のとおり開催します。\n化学実験を行う学群・大学院生はご参加くださいますようお願いいたします。\n\n１．目的　\n実験に携わる学群・大学院生向けに，化学物質の危険性や有害性を伝え，\n事件事故や健康障害を引き起こすリスクを減らすこと\n\n２．開催日時および場所\n日時：令和６年６月２４日（月）１５時１５分～１６時３０分\n場所：総合研究棟Ａ１１０公開講義室\n\n３．内容\n（１）化学物質の安全な取り…",
+            "date_modified": "2024-05-15T03:00:00.000Z"
+        },
+        {
             "id": "0caad0b3088da92c5c2a894dc5d39c09",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5117",
             "title": "【再掲 本日開催】5/15(水) 15:15～「外国語論文の探し方 (Web of Science）」図書館講習会",
@@ -135,13 +142,6 @@
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5096",
             "title": "【学生宿舎】2024年度学生宿舎初期消火訓練の実施について",
             "summary": "５月15日（水）に、2024年度学生宿舎入居者向けの初期消火訓練を実施します。\n詳細は、添付ファイルをご覧ください。\n\nOn Wednesday, May 15th, we will hold fire drill for 2024 student resident hall.\nPlease see the attached file for details.\n",
-            "date_modified": "2024-05-09T03:00:00.000Z"
-        },
-        {
-            "id": "7bf8d309bbc1fc2ca7f8549dad161136",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5093",
-            "title": "【申込：9/1まで　謝礼あり】大学内でリラックスできる学習・休憩環境を体験する実験の参加者募集",
-            "summary": "　筑波大学ヒューマンエンパワーメント推進局（BHE）では、大学生を対象に大学内でリラックスできる環境の構築に関する研究を進めています。\n　このたび、多重感覚環境（センサリールーム）という、照明の色や明るさなどを好みに応じて変えられる環境などを実際に体験して、リラクゼーション効果を検証する研究を行うため、ご協力いただける大学生を募集します。\n　研究内容の詳細は添付のチラシをご覧ください。\n\n＜対象者…",
             "date_modified": "2024-05-09T03:00:00.000Z"
         }
     ]
