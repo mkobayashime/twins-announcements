@@ -5,6 +5,20 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "21cf1788fba349e20285f7d7e6a30f65",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5116",
+            "title": "【6/6開催】R6衛生管理者講習会_知っておきたい職場巡視の心得～衛生管理者にできること、できないこと～",
+            "summary": "この度，下記のとおり令和６年度衛生管理者講習会を開催することになりました。\nこの講習は衛生管理者向けですが，本学関係者であればどなたでも聴講できます。\n\n　　　　　　　　　　　　　　　　　　　記\n\n１．日　時：令和６年６月６日（木）　１５：１５～１６：３０\n２．場　所：筑波大学本部アネックス棟会議室１・２・３\n３．テーマ：知っておきたい職場巡視の心得～衛生管理者にできること、できないこと～\n４．対…",
+            "date_modified": "2024-05-15T03:00:00.000Z"
+        },
+        {
+            "id": "f3e40f68b05846bd51f48d3609f343e2",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5115",
+            "title": "【参加者募集！5/29開催】第１回博士のポートフォリオ大公開+ロールモデル懇談会",
+            "summary": "　ヒューマンエンパワーメント推進局では、筑波大学に所属する全学群生・大学院生を対象に、多様な学生のキャリア形成に対する視野を開くこと、また、博士進学後のキャリアパスをクリアにすることを目的として、令和6年度第1回博士のポートフォリオ大公開+ロールモデル懇談会を開催いたします。\n\n　博士課程に進学したきっかけや当時の悩みなど、筑波大学で博士号を取得した方に日ごろの疑問を質問できる貴重な機会です。\n　…",
+            "date_modified": "2024-05-15T03:00:00.000Z"
+        },
+        {
             "id": "0446bb4c4f1a76e7f2d6822930f6a37f",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5114",
             "title": "【開催案内】7th Borderless Onsite Meeting “Steppe Culture of Kazakhstan”",
@@ -51,13 +65,6 @@
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5108",
             "title": "【リマインド】MDAトップ人材養成特別演習 履修説明会(5/15,17)",
             "summary": "自分の関心領域に近い現実社会の実課題やリアルデータの分析に取り組んでみませんか？企業等の実務専門家、トップ・データサイエンティスト、異分野の学生とともに、ワークショップ型演習に参加しませんか？\n\nいま社会から本当に求められている人材は、データ分析力だけに秀でている人材ではありません。企業等がデータサイエンティストに求めている能力は、関係者を巻き込みつつ、課題を適切に設定し、データを収集・整形し、デ…",
-            "date_modified": "2024-05-13T03:00:00.000Z"
-        },
-        {
-            "id": "ee5907d43ecd609191e84fc40abcbed2",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5107",
-            "title": "【参加者募集・5/29開催】第１回博士のポートフォリオ大公開+ロールモデル懇談会",
-            "summary": "　ヒューマンエンパワーメント推進局では、筑波大学に所属する全学群生・大学院生を対象に、多様な学生のキャリア形成に対する視野を開くこと、また、博士進学後のキャリアパスをクリアにすることを目的として、令和6年度第1回博士のポートフォリオ大公開+ロールモデル懇談会を開催いたします。\n\n　博士課程に進学したきっかけや当時の悩みなど、筑波大学で博士号を取得した方に日ごろの疑問を質問できる貴重な機会です。\n　…",
             "date_modified": "2024-05-13T03:00:00.000Z"
         },
         {
@@ -135,13 +142,6 @@
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5089",
             "title": "【社会教育主事】令和６年度説明会",
             "summary": "標題の件、5/15（水）に下記の要領で社会教育実習と主に1年生向けの\n社会教育主事養成コースの説明会を行います。\n修得を希望する人や関心のある人は、『履修要覧』または『資格取得科目一覧』の\n社会教育主事のページと添付ファイルを参照のうえ、第２部から参加してください。\nなお、今年度に「社会教育実習」を履修する人は第１部から出席して\nください。\n\n日時：5月15日（水）\n第1部14：30～15：00　…",
-            "date_modified": "2024-05-07T03:00:00.000Z"
-        },
-        {
-            "id": "946ce992fe0a9e42f1fde615f20063f3",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5088",
-            "title": "学内循環バス定期券の販売について",
-            "summary": "学生の皆様\n\n19,000円で学内循環バスが乗り放題になるお得な定期券が学内の丸善（書籍部）で販売中です！\n\nつくば駅（つくばセンター）⇔筑波大学中央 （片道310円）の通学定期券の正規料金は107,140円/年なので、\n最大約82％オフと大変お得です。\n\n定期券の有効期限は購入日～購入日が属する年度の3月31日までとなりますので、\n早めの購入がオススメです！\n\n※詳しくはホームページと添付のポス…",
             "date_modified": "2024-05-07T03:00:00.000Z"
         }
     ]
