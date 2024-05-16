@@ -4,7 +4,7 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Thu, 16 May 2024 15:19:21 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 16 May 2024 21:18:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
@@ -139,10 +139,9 @@ Students from the University of Tsukuba and Ohio State University will gather fo
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5108</link>
             <guid>86cc1301be5d3a15be8d77eb117c65e4</guid>
             <pubDate>Mon, 13 May 2024 03:00:00 GMT</pubDate>
-            <description><![CDATA[筑波大学オープンファシリティー推進機構では、設備の有効活用に伴う利用サポートを実施いたしております。
-第12回目の開催となる、本年度の説明会では、筑波大学の研究機器だけでなく、物質・材料研究機構及び高エネルギー加速器研究機構の研究機器も含め、つくば地区の共用機器を幅広くご紹介いたします。
-研究促進に役立つ情報を提供しますので、是非ご参加ください。
-教職員・学生問わず、どなたでもご参加いただけます。…]]></description>
+            <description><![CDATA[自分の関心領域に近い現実社会の実課題やリアルデータの分析に取り組んでみませんか？企業等の実務専門家、トップ・データサイエンティスト、異分野の学生とともに、ワークショップ型演習に参加しませんか？
+
+いま社会から本当に求められている人材は、データ分析力だけに秀でている人材ではありません。企業等がデータサイエンティストに求めている能力は、関係者を巻き込みつつ、課題を適切に設定し、データを収集・整形し、デ…]]></description>
         </item>
         <item>
             <title><![CDATA[留学生限定！見学会にご招待（BHE就活・インターンシップ集団面接講座）　]]></title>
