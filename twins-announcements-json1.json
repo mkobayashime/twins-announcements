@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "0780ead8a2ce565d74f4e559921626c8",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5119",
+            "title": "【就職ミライ博】インターンシップ研究会 6/11-14 （BHEキャリア支援チーム主催）",
+            "summary": "4日間で計120社以上の企業・団体・官公庁が筑波大に集結！\n夏以降のインターンシップ最新情報を筑波大生に届けます\nこの機会をお見逃しなく！\n\n〈開催概要〉\n開催日程：2024年6月11日（火）～14日（金）\n会場：大学会館\n開催時間：11：30～16：00\n事前申込：不要\n\n出展企業：近日公開予定\nタイムスケジュール：準備中\n\n",
+            "date_modified": "2024-05-16T03:00:00.000Z"
+        },
+        {
             "id": "c2e462cc3a9569ab580dc312429d19cb",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5118",
             "title": "【6/24開催】学生の皆さんが安心して化学実験を行うための研修会",
@@ -22,7 +29,7 @@
             "id": "f3e40f68b05846bd51f48d3609f343e2",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5115",
             "title": "【参加者募集！5/29開催】第１回博士のポートフォリオ大公開+ロールモデル懇談会",
-            "summary": "この度，下記のとおり令和６年度衛生管理者講習会を開催することになりました。\nこの講習は衛生管理者向けですが，本学関係者であればどなたでも聴講できます。\n\n　　　　　　　　　　　　　　　　　　　記\n\n１．日　時：令和６年６月６日（木）　１５：１５～１６：３０\n２．場　所：筑波大学本部アネックス棟会議室１・２・３\n３．テーマ：知っておきたい職場巡視の心得～衛生管理者にできること、できないこと～\n４．対…",
+            "summary": "　ヒューマンエンパワーメント推進局では、筑波大学に所属する全学群生・大学院生を対象に、多様な学生のキャリア形成に対する視野を開くこと、また、博士進学後のキャリアパスをクリアにすることを目的として、令和6年度第1回博士のポートフォリオ大公開+ロールモデル懇談会を開催いたします。\n\n　博士課程に進学したきっかけや当時の悩みなど、筑波大学で博士号を取得した方に日ごろの疑問を質問できる貴重な機会です。\n　…",
             "date_modified": "2024-05-15T03:00:00.000Z"
         },
         {
@@ -36,7 +43,7 @@
             "id": "bd206b7215c4e3a2c89cf810ddc21bc4",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5113",
             "title": "【就活イベントFor International Students 】Practice Session for recruiting interview",
-            "summary": "【開催案内】7th Borderless Onsite Meeting\n\nプレゼンター：トゥルスナリエヴァ・アジャル（NipCAフェロー2023）\n\n題目：Steppe Culture of Kazakhstan\n\n日時：令和6年5月28日（金）12:20～13 :00\n\n会場：筑波大学　スチューデントコモンズ（1A棟203）\n\n対象：全学教職員、留学生ほか\n\n使用言語：英語\n\nスケジュール\n12…",
+            "summary": "Date and Time: 13:30-, on May 22\nPlace: Institutes of Human Sciences (Room 114)\n*Max: 6 students (First come, first served.)\n*Target: Mainly for students who have N2 or N1 (inc. N2 or N1 equivalent) H…",
             "date_modified": "2024-05-14T03:00:00.000Z"
         },
         {
@@ -135,13 +142,6 @@
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5087",
             "title": "【締切延長：再掲載】ガクチカをつくろう！国際協力体験プログラム　参加者募集（締切り5/10） 2024/5/07",
             "summary": "カザフスタン共和国とキルギスの２カ国で国際ボランティアに参加しながら観光学について学びます。筑波大学「日本財団 中央アジア・日本人材育成プロジェクト（NipCA）」とキルギス日本人材開発センターとの協力により開設されたプログラムです。メディアではあまり報道されない中央アジアの２カ国を実際に自分の目で見て、聞いて、活動して、他では得られない経験を通して一回りも二回りも成長しましょう！\n\n研修内容：\n…",
-            "date_modified": "2024-05-07T03:00:00.000Z"
-        },
-        {
-            "id": "eeed5b7f8adfd802d91875c9924e4a53",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5086",
-            "title": "【締切延長：再掲載】2024 年夏季 キルギス日本センターロシア語 1 カ月スキルアップコース　参加者募集（締切り5/10金）2024/5/07",
-            "summary": "キルギスでロシア語（および入門キルギス語）を学ぶプログラムです。\n筑波大学「日本財団 中央アジア・日本人材育成プロジェクト（NipCA）」とキルギス日本人材開発センターとの協力により実施され、他大学からの参加者も多く、キルギス人学生はもとより、他大学の日本人学生とも交流できるプログラムです。\n\n研修内容：\n▶︎研修期間：2024 年8 月19 日（月）〜9 月13 日（金）（26 日間）\n▶︎研修…",
             "date_modified": "2024-05-07T03:00:00.000Z"
         }
     ]
