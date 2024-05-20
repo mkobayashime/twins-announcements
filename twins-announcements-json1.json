@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "2fe9722e7935669bf9e3d415d3095ef4",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5127",
+            "title": "令和6年度夏季休業前の海外危機管理セミナーについて",
+            "summary": "海外危機管理セミナーを開催しますので、お知らせいたします。\n海外危機管理に関するスペシャリストをお招きし、海外渡航前の準備事項と、現地での安全対策について学びます。\n\n\n１．日時：　令和6年6月26日（水）18：15～19：30\n\n２．内容・講師：\n\n　①「海外に行く際の、気軽にできる感染症予防」\n　　講師：筑波大学附属病院感染症科　鈴木 広道　診療科長（医学医療系）\n\n\n　②「安全対策として渡航…",
+            "date_modified": "2024-05-20T03:00:00.000Z"
+        },
+        {
             "id": "213e9feeec894955c68d251c5b7a350a",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5126",
             "title": "【Now On Sale】University of Tsukuba Homegame TSUKUBA LIVE! (June 6, Basketball)",
@@ -135,13 +142,6 @@
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5099",
             "title": "オーストラリア・ウーロンゴン大学カレッジ　英語研修プログラム説明会のお知らせ",
             "summary": "本学の「海外英語研修II-c」（3単位）の派遣先であるオーストラリア・ウーロンゴン大学カレッジの担当者による、プログラムの説明会を開催します。関心のある方はぜひご参加ください。\n\n日時：2024年5月27日（月）　11：30～12：00\n場所：スチューデント・コモンズ（1A203）\n使用言語：英語\n\n※2024年度の「海外英語研修II-c」は、2025年3月1日（土）～23日（日）に実施予定です。…",
-            "date_modified": "2024-05-09T03:00:00.000Z"
-        },
-        {
-            "id": "0a51d9b81a38d501059a587fa1cac554",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5098",
-            "title": "【募集】2024/6/9 (sun)「鹿島神宮ツアー」",
-            "summary": "鹿島神宮：古武道奉納演武大会「武道の日」見学\n　　　　　　　　　＋\n香取神宮：香取神宮にゆかりのある剣豪の墓所見学など\n\nこのコースは英語で行われます。多文化理解や留学生との交流を目的として鹿島神宮ツアーを実施します。\nBudoに興味のある方はもちろん、留学生との交流に関心のある学生、スポーツ・オリンピック学学位プログラム進学に関心のある学生も、ぜひご参加ください。\n\n\n■日時：2024年6月9日…",
             "date_modified": "2024-05-09T03:00:00.000Z"
         }
     ]
