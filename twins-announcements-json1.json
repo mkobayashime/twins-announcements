@@ -5,6 +5,20 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "f7e5c4dc1ece4147cbde4ed3df16263e",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5135",
+            "title": "サーバー更新作業に伴うキャリア支援チームHP及び就職情報提供システム停止のお知らせ",
+            "summary": "サーバー更新作業に伴い、下記の時間、キャリア支援チームホームページ等へ繋がりにくくなります。\n【作業日時】5/29（水）9：00　～　 5/29（月）13：15（予定）\n\nなお、サーバー更新作業中は、「学内専用ページ」、「ガイダンス等及び模試試験登録・申請」、「進路進捗状況届」へのアクセスはできません。\n皆様にはご迷惑をおかけいたしますが、ご理解、ご協力の程よろしくお願いいたします。\n",
+            "date_modified": "2024-05-21T03:00:00.000Z"
+        },
+        {
+            "id": "0780ead8a2ce565d74f4e559921626c8",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5134",
+            "title": "【就職ミライ博】インターンシップ研究会 6/11-14 （BHEキャリア支援チーム主催）",
+            "summary": "【インターンシップ研究会】\n4日間で計120社以上の企業・団体・官公庁が筑波大に集結！\n夏以降のインターンシップ最新情報を筑波大生に届けます\nこの機会をお見逃しなく！\n\n〈開催概要〉\n開催日程：2024年6月11日（火）～14日（金）\n会場：大学会館\n開催時間：11：30～16：00\n事前申込：不要\n\n出展企業：添付チラシ参照（5/21時点・追加予定あり）",
+            "date_modified": "2024-05-21T03:00:00.000Z"
+        },
+        {
             "id": "f35c9e6c763984b48174a0a6111c4f8e",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5133",
             "title": "【Event Notice】Briefing Sessions (Hybrid) for the Aug 2024 Entrance Examination",
@@ -129,20 +143,6 @@
             "title": "【開催案内】7th Borderless Onsite Meeting “Steppe Culture of Kazakhstan”",
             "summary": "【開催案内】7th Borderless Onsite Meeting\n\nプレゼンター：トゥルスナリエヴァ・アジャル（NipCAフェロー2023）\n\n題目：Steppe Culture of Kazakhstan\n\n日時：令和6年5月28日（金）12:20～13 :00\n\n会場：筑波大学　スチューデントコモンズ（1A棟203）\n\n対象：全学教職員、留学生ほか\n\n使用言語：英語\n\nスケジュール\n12…",
             "date_modified": "2024-05-14T03:00:00.000Z"
-        },
-        {
-            "id": "bd206b7215c4e3a2c89cf810ddc21bc4",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5113",
-            "title": "【就活イベントFor International Students 】Practice Session for recruiting interview",
-            "summary": "Date and Time: 13:30-, on May 22\nPlace: Institutes of Human Sciences (Room 114)\n*Max: 6 students (First come, first served.)\n*Target: Mainly for students who have N2 or N1 (inc. N2 or N1 equivalent) H…",
-            "date_modified": "2024-05-14T03:00:00.000Z"
-        },
-        {
-            "id": "059afb2e9812cbcc6fca9422f748316e",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5110",
-            "title": "【セミナーのご案内】オハイオ州立大学との学生交流セミナー Joint Seminar with Ohio State University",
-            "summary": "筑波大学とオハイオ州立大学の学生が集い、研究発表と自由な意見交換を通じて新たな視野を開く機会を提供します。学問の枠を超えて創造的なアイデアが活発に交わされることでしょう。この貴重な機会を活かし、積極的なご参加をお待ちしています。\nStudents from the University of Tsukuba and Ohio State University will gather for a s…",
-            "date_modified": "2024-05-13T03:00:00.000Z"
         }
     ]
 }

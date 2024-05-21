@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/mkobayashime/twins-announcements</id>
     <title>在学生へのお知らせ | 筑波大学</title>
-    <updated>2024-05-21T02:27:31.698Z</updated>
+    <updated>2024-05-21T06:18:50.410Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://github.com/mkobayashime/twins-announcements"/>
     <subtitle>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</subtitle>
+    <entry>
+        <title type="html"><![CDATA[サーバー更新作業に伴うキャリア支援チームHP及び就職情報提供システム停止のお知らせ]]></title>
+        <id>f7e5c4dc1ece4147cbde4ed3df16263e</id>
+        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5135"/>
+        <updated>2024-05-21T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[サーバー更新作業に伴い、下記の時間、キャリア支援チームホームページ等へ繋がりにくくなります。
+【作業日時】5/29（水）9：00　～　 5/29（月）13：15（予定）
+
+なお、サーバー更新作業中は、「学内専用ページ」、「ガイダンス等及び模試試験登録・申請」、「進路進捗状況届」へのアクセスはできません。
+皆様にはご迷惑をおかけいたしますが、ご理解、ご協力の程よろしくお願いいたします。
+]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【就職ミライ博】インターンシップ研究会 6/11-14 （BHEキャリア支援チーム主催）]]></title>
+        <id>0780ead8a2ce565d74f4e559921626c8</id>
+        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5134"/>
+        <updated>2024-05-21T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[【インターンシップ研究会】
+4日間で計120社以上の企業・団体・官公庁が筑波大に集結！
+夏以降のインターンシップ最新情報を筑波大生に届けます
+この機会をお見逃しなく！
+
+〈開催概要〉
+開催日程：2024年6月11日（火）～14日（金）
+会場：大学会館
+開催時間：11：30～16：00
+事前申込：不要
+
+出展企業：添付チラシ参照（5/21時点・追加予定あり）]]></summary>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【Event Notice】Briefing Sessions (Hybrid) for the Aug 2024 Entrance Examination]]></title>
         <id>f35c9e6c763984b48174a0a6111c4f8e</id>
@@ -249,23 +279,5 @@ English Chat, Japanese Chat, Multilingual Chatの各チャットイベントを�
 
 スケジュール
 12…]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【就活イベントFor International Students 】Practice Session for recruiting interview]]></title>
-        <id>bd206b7215c4e3a2c89cf810ddc21bc4</id>
-        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5113"/>
-        <updated>2024-05-14T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Date and Time: 13:30-, on May 22
-Place: Institutes of Human Sciences (Room 114)
-*Max: 6 students (First come, first served.)
-*Target: Mainly for students who have N2 or N1 (inc. N2 or N1 equivalent) H…]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【セミナーのご案内】オハイオ州立大学との学生交流セミナー Joint Seminar with Ohio State University]]></title>
-        <id>059afb2e9812cbcc6fca9422f748316e</id>
-        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5110"/>
-        <updated>2024-05-13T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[筑波大学とオハイオ州立大学の学生が集い、研究発表と自由な意見交換を通じて新たな視野を開く機会を提供します。学問の枠を超えて創造的なアイデアが活発に交わされることでしょう。この貴重な機会を活かし、積極的なご参加をお待ちしています。
-Students from the University of Tsukuba and Ohio State University will gather for a s…]]></summary>
     </entry>
 </feed>
