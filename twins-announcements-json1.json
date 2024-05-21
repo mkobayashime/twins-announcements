@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "f7a604ed9b52d09cb51ace1c247922c9",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5136",
+            "title": "IBARAKIドリーム・パス　高校生サポートインターン募集のお知らせ",
+            "summary": "茨城県が、地域課題の解決や自分の夢実現に向けた企画立案・実践活動を目指す高校生等のチームをサポートする茨城県内大学在学・出身の大学生・大学院生を募集しています。\n\n詳細は以下のURLとチラシをご覧ください。",
+            "date_modified": "2024-05-21T03:00:00.000Z"
+        },
+        {
             "id": "f7e5c4dc1ece4147cbde4ed3df16263e",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5135",
             "title": "サーバー更新作業に伴うキャリア支援チームHP及び就職情報提供システム停止のお知らせ",
@@ -136,13 +143,6 @@
             "title": "【参加者募集！5/29開催】第１回博士のポートフォリオ大公開+ロールモデル懇談会",
             "summary": "　ヒューマンエンパワーメント推進局では、筑波大学に所属する全学群生・大学院生を対象に、多様な学生のキャリア形成に対する視野を開くこと、また、博士進学後のキャリアパスをクリアにすることを目的として、令和6年度第1回博士のポートフォリオ大公開+ロールモデル懇談会を開催いたします。\n\n　博士課程に進学したきっかけや当時の悩みなど、筑波大学で博士号を取得した方に日ごろの疑問を質問できる貴重な機会です。\n　…",
             "date_modified": "2024-05-15T03:00:00.000Z"
-        },
-        {
-            "id": "0446bb4c4f1a76e7f2d6822930f6a37f",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5114",
-            "title": "【開催案内】7th Borderless Onsite Meeting “Steppe Culture of Kazakhstan”",
-            "summary": "【開催案内】7th Borderless Onsite Meeting\n\nプレゼンター：トゥルスナリエヴァ・アジャル（NipCAフェロー2023）\n\n題目：Steppe Culture of Kazakhstan\n\n日時：令和6年5月28日（金）12:20～13 :00\n\n会場：筑波大学　スチューデントコモンズ（1A棟203）\n\n対象：全学教職員、留学生ほか\n\n使用言語：英語\n\nスケジュール\n12…",
-            "date_modified": "2024-05-14T03:00:00.000Z"
         }
     ]
 }

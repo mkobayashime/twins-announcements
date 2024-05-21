@@ -4,10 +4,19 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Tue, 21 May 2024 06:18:50 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 21 May 2024 07:12:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
+        <item>
+            <title><![CDATA[IBARAKIドリーム・パス　高校生サポートインターン募集のお知らせ]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5136</link>
+            <guid>f7a604ed9b52d09cb51ace1c247922c9</guid>
+            <pubDate>Tue, 21 May 2024 03:00:00 GMT</pubDate>
+            <description><![CDATA[茨城県が、地域課題の解決や自分の夢実現に向けた企画立案・実践活動を目指す高校生等のチームをサポートする茨城県内大学在学・出身の大学生・大学院生を募集しています。
+
+詳細は以下のURLとチラシをご覧ください。]]></description>
+        </item>
         <item>
             <title><![CDATA[サーバー更新作業に伴うキャリア支援チームHP及び就職情報提供システム停止のお知らせ]]></title>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5135</link>
@@ -259,28 +268,6 @@ English Chat, Japanese Chat, Multilingual Chatの各チャットイベントを�
 
 　博士課程に進学したきっかけや当時の悩みなど、筑波大学で博士号を取得した方に日ごろの疑問を質問できる貴重な機会です。
 　…]]></description>
-        </item>
-        <item>
-            <title><![CDATA[【開催案内】7th Borderless Onsite Meeting “Steppe Culture of Kazakhstan”]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5114</link>
-            <guid>0446bb4c4f1a76e7f2d6822930f6a37f</guid>
-            <pubDate>Tue, 14 May 2024 03:00:00 GMT</pubDate>
-            <description><![CDATA[【開催案内】7th Borderless Onsite Meeting
-
-プレゼンター：トゥルスナリエヴァ・アジャル（NipCAフェロー2023）
-
-題目：Steppe Culture of Kazakhstan
-
-日時：令和6年5月28日（金）12:20～13 :00
-
-会場：筑波大学　スチューデントコモンズ（1A棟203）
-
-対象：全学教職員、留学生ほか
-
-使用言語：英語
-
-スケジュール
-12…]]></description>
         </item>
     </channel>
 </rss>
