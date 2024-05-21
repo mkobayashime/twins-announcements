@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/mkobayashime/twins-announcements</id>
     <title>在学生へのお知らせ | 筑波大学</title>
-    <updated>2024-05-21T15:20:18.588Z</updated>
+    <updated>2024-05-21T21:17:29.849Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://github.com/mkobayashime/twins-announcements"/>
     <subtitle>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</subtitle>
@@ -87,14 +87,11 @@
         <id>613408b78a91a7b3699e94a813a91223</id>
         <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5131"/>
         <updated>2024-05-20T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[学生の皆さまへ
+        <summary type="html"><![CDATA[全学の学生さんと教員を対象として、MDAセミナー
+「位置情報データ活用のプロフェッショナル企業との対話－企業と共に研究テーマを探る－」
+を開催いたします。
 
-筑波大学5年一貫制大学院「ヒューマニクス学位プログラム」事務室より、2024年8月実施入試に関する説明会のご案内です。
-
-ヒューマニクス学位プログラムは、生命医科学と理・工・情報学、両分野の知識を博士レベルまで極める、国内でも類を見ない先進的なカリキュラムを提供しています。
-多様なバックグラウンドを持った学生が集う刺激的な環境の中で、独創的な融合研究に取り組みませんか？
-
-多くの…]]></summary>
+本セミナーでは、人流データ×機械学習によって生成される「ひとりひとりの移動の軌跡がわかる高粒度人流データ」を活用して、まちづくりや土木交通、観光、防災など多岐にわたる分野で貢献を果たす株式会社GEOTRAが、データサイエンスやAIの社会実装例…]]></summary>
     </entry>
     <entry>
         <title type="html"><![CDATA[【〆切間近！5/29開催】第１回博士のポートフォリオ大公開+ロールモデル懇談会]]></title>
