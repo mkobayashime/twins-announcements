@@ -2,10 +2,26 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/mkobayashime/twins-announcements</id>
     <title>在学生へのお知らせ | 筑波大学</title>
-    <updated>2024-05-21T07:12:55.763Z</updated>
+    <updated>2024-05-21T08:17:01.334Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://github.com/mkobayashime/twins-announcements"/>
     <subtitle>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</subtitle>
+    <entry>
+        <title type="html"><![CDATA[【募集】まつりつくば踊り手の(女性)募集について /Call for Matsuri Tsukuba Dancers (female)]]></title>
+        <id>1bb479ce81c0d92a064b8a9186eea9fa</id>
+        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5137"/>
+        <updated>2024-05-21T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[* See attached file for English translation.
+
+筑波大学学生生活課から、
+まつりつくばの踊り手（女性）の募集の連絡です。
+ご友人などにも声をかけていただき、奮ってご応募ください。
+詳細は以下のとおりです。
+
+======
+全国女性団体連絡協議会では、まつりつくばで実施するパレードに参加し、
+一緒につくば音頭を踊っていただく筑波大学の女子学生を下記の要領で…]]></summary>
+    </entry>
     <entry>
         <title type="html"><![CDATA[IBARAKIドリーム・パス　高校生サポートインターン募集のお知らせ]]></title>
         <id>f7a604ed9b52d09cb51ace1c247922c9</id>
@@ -256,15 +272,5 @@ English Chat, Japanese Chat, Multilingual Chatの各チャットイベントを�
 ２．場　所：筑波大学本部アネックス棟会議室１・２・３
 ３．テーマ：知っておきたい職場巡視の心得～衛生管理者にできること、できないこと～
 ４．対…]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【参加者募集！5/29開催】第１回博士のポートフォリオ大公開+ロールモデル懇談会]]></title>
-        <id>f3e40f68b05846bd51f48d3609f343e2</id>
-        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5115"/>
-        <updated>2024-05-15T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[　ヒューマンエンパワーメント推進局では、筑波大学に所属する全学群生・大学院生を対象に、多様な学生のキャリア形成に対する視野を開くこと、また、博士進学後のキャリアパスをクリアにすることを目的として、令和6年度第1回博士のポートフォリオ大公開+ロールモデル懇談会を開催いたします。
-
-　博士課程に進学したきっかけや当時の悩みなど、筑波大学で博士号を取得した方に日ごろの疑問を質問できる貴重な機会です。
-　…]]></summary>
     </entry>
 </feed>

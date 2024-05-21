@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "1bb479ce81c0d92a064b8a9186eea9fa",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5137",
+            "title": "【募集】まつりつくば踊り手の(女性)募集について /Call for Matsuri Tsukuba Dancers (female)",
+            "summary": "* See attached file for English translation.\n\n筑波大学学生生活課から、\nまつりつくばの踊り手（女性）の募集の連絡です。\nご友人などにも声をかけていただき、奮ってご応募ください。\n詳細は以下のとおりです。\n\n======\n全国女性団体連絡協議会では、まつりつくばで実施するパレードに参加し、\n一緒につくば音頭を踊っていただく筑波大学の女子学生を下記の要領で…",
+            "date_modified": "2024-05-21T03:00:00.000Z"
+        },
+        {
             "id": "f7a604ed9b52d09cb51ace1c247922c9",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5136",
             "title": "IBARAKIドリーム・パス　高校生サポートインターン募集のお知らせ",
@@ -135,13 +142,6 @@
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5116",
             "title": "【6/6開催】R6衛生管理者講習会_知っておきたい職場巡視の心得～衛生管理者にできること、できないこと～",
             "summary": "この度，下記のとおり令和６年度衛生管理者講習会を開催することになりました。\nこの講習は衛生管理者向けですが，本学関係者であればどなたでも聴講できます。\n\n　　　　　　　　　　　　　　　　　　　記\n\n１．日　時：令和６年６月６日（木）　１５：１５～１６：３０\n２．場　所：筑波大学本部アネックス棟会議室１・２・３\n３．テーマ：知っておきたい職場巡視の心得～衛生管理者にできること、できないこと～\n４．対…",
-            "date_modified": "2024-05-15T03:00:00.000Z"
-        },
-        {
-            "id": "f3e40f68b05846bd51f48d3609f343e2",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5115",
-            "title": "【参加者募集！5/29開催】第１回博士のポートフォリオ大公開+ロールモデル懇談会",
-            "summary": "　ヒューマンエンパワーメント推進局では、筑波大学に所属する全学群生・大学院生を対象に、多様な学生のキャリア形成に対する視野を開くこと、また、博士進学後のキャリアパスをクリアにすることを目的として、令和6年度第1回博士のポートフォリオ大公開+ロールモデル懇談会を開催いたします。\n\n　博士課程に進学したきっかけや当時の悩みなど、筑波大学で博士号を取得した方に日ごろの疑問を質問できる貴重な機会です。\n　…",
             "date_modified": "2024-05-15T03:00:00.000Z"
         }
     ]
