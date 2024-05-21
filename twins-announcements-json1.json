@@ -5,6 +5,20 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "f35c9e6c763984b48174a0a6111c4f8e",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5133",
+            "title": "【Event Notice】Briefing Sessions (Hybrid) for the Aug 2024 Entrance Examination",
+            "summary": "The Ph.D. Program in Humanics (Five-year Doctoral Program, University of Tsukuba) cultivates leaders equipped with doctoral-level knowledge and skills in the fields of both biomedical sciences and phy…",
+            "date_modified": "2024-05-21T03:00:00.000Z"
+        },
+        {
+            "id": "ad343d781416e3da9c0c065f28527f63",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5132",
+            "title": "●大学院説明会● [生命医科学] × [理・工・情報学] 一貫制博士課程「ヒューマニクス学位プログラム」5/25（土）, 6/22（土）",
+            "summary": "学生の皆さまへ\n\n筑波大学5年一貫制大学院「ヒューマニクス学位プログラム」事務室より、2024年8月実施入試に関する説明会のご案内です。\n\nヒューマニクス学位プログラムは、生命医科学と理・工・情報学、両分野の知識を博士レベルまで極める、国内でも類を見ない先進的なカリキュラムを提供しています。\n多様なバックグラウンドを持った学生が集う刺激的な環境の中で、独創的な融合研究に取り組みませんか？\n\n多くの…",
+            "date_modified": "2024-05-21T03:00:00.000Z"
+        },
+        {
             "id": "613408b78a91a7b3699e94a813a91223",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5131",
             "title": "【MDA対話セミナー】位置情報データ活用のプロフェッショナル企業との対話",
@@ -128,20 +142,6 @@
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5110",
             "title": "【セミナーのご案内】オハイオ州立大学との学生交流セミナー Joint Seminar with Ohio State University",
             "summary": "筑波大学とオハイオ州立大学の学生が集い、研究発表と自由な意見交換を通じて新たな視野を開く機会を提供します。学問の枠を超えて創造的なアイデアが活発に交わされることでしょう。この貴重な機会を活かし、積極的なご参加をお待ちしています。\nStudents from the University of Tsukuba and Ohio State University will gather for a s…",
-            "date_modified": "2024-05-13T03:00:00.000Z"
-        },
-        {
-            "id": "a20ecd091992cc616016c062a4cb9eed",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5109",
-            "title": "第12回筑波大学オープンファシリティー研究機器共同利用説明会のお知らせ(6/6@オンライン)",
-            "summary": "筑波大学オープンファシリティー推進機構では、設備の有効活用に伴う利用サポートを実施いたしております。\n第12回目の開催となる、本年度の説明会では、筑波大学の研究機器だけでなく、物質・材料研究機構及び高エネルギー加速器研究機構の研究機器も含め、つくば地区の共用機器を幅広くご紹介いたします。\n研究促進に役立つ情報を提供しますので、是非ご参加ください。\n教職員・学生問わず、どなたでもご参加いただけます。…",
-            "date_modified": "2024-05-13T03:00:00.000Z"
-        },
-        {
-            "id": "1b17c5214379b21321cb1cd0b9a46e7b",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5105",
-            "title": "留学生限定！見学会にご招待（BHE就活・インターンシップ集団面接講座）　",
-            "summary": "日本人の学生が行う集団面接練習を見学してみませんか？\n自分が行うのではなく、他の学生がしている面接練習を見学するツアーです。（留学生限定）\n\n英語で説明を行います。\n参加したい学生はスチューデントプラザに５月21日 ９時45分までに来てください。\n（実際の集団面接は10:00~12:00で行われます）\n\nぜひ日本の就活でどのような面接をすればよいか理解しましょう！",
             "date_modified": "2024-05-13T03:00:00.000Z"
         }
     ]
