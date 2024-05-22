@@ -4,10 +4,28 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Tue, 21 May 2024 21:17:29 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 22 May 2024 01:57:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
+        <item>
+            <title><![CDATA[【就職ミライ博】インターンシップ研究会 6/11-14 （BHEキャリア支援チーム主催）]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5138</link>
+            <guid>0780ead8a2ce565d74f4e559921626c8</guid>
+            <pubDate>Wed, 22 May 2024 03:00:00 GMT</pubDate>
+            <description><![CDATA[【インターンシップ研究会】
+4日間で計120社以上の企業・団体・官公庁が筑波大に集結！
+夏以降のインターンシップ最新情報を筑波大生に届けます
+この機会をお見逃しなく！
+
+〈開催概要〉
+開催日程：2024年6月11日（火）～14日（金）
+会場：大学会館
+開催時間：11：30～16：00
+事前申込：不要
+
+出展企業：5/22更新（人事院、メイテック、保土谷化学工業　追加）（さらに追加する可能性がありま…]]></description>
+        </item>
         <item>
             <title><![CDATA[【募集】まつりつくば踊り手の(女性)募集について /Call for Matsuri Tsukuba Dancers (female)]]></title>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5137</link>
@@ -259,21 +277,6 @@ English Chat, Japanese Chat, Multilingual Chatの各チャットイベントを�
 
 ３．内容
 （１）化学物質の安全な取り…]]></description>
-        </item>
-        <item>
-            <title><![CDATA[【6/6開催】R6衛生管理者講習会_知っておきたい職場巡視の心得～衛生管理者にできること、できないこと～]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5116</link>
-            <guid>21cf1788fba349e20285f7d7e6a30f65</guid>
-            <pubDate>Wed, 15 May 2024 03:00:00 GMT</pubDate>
-            <description><![CDATA[この度，下記のとおり令和６年度衛生管理者講習会を開催することになりました。
-この講習は衛生管理者向けですが，本学関係者であればどなたでも聴講できます。
-
-　　　　　　　　　　　　　　　　　　　記
-
-１．日　時：令和６年６月６日（木）　１５：１５～１６：３０
-２．場　所：筑波大学本部アネックス棟会議室１・２・３
-３．テーマ：知っておきたい職場巡視の心得～衛生管理者にできること、できないこと～
-４．対…]]></description>
         </item>
     </channel>
 </rss>
