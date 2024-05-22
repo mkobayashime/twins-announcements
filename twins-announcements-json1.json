@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "1264f6108a7488fb65bcbbf126ad544b",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5139",
+            "title": "【5/29開催】「外国語論文の探し方 (ProQuest Central）」図書館講習会",
+            "summary": "「外国語論文の探し方 (ProQuest Central）」の講習会を開催します。\n\n-----------------------------\n日時：5月29日（水）15:15-16:15\n開催方法： オンライン（Webex)\n-----------------------------\n\nProQuest Centralは自然科学、人文社会科学など、幅広い分野を検索できるデータベースです。\n学術…",
+            "date_modified": "2024-05-22T03:00:00.000Z"
+        },
+        {
             "id": "0780ead8a2ce565d74f4e559921626c8",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5138",
             "title": "【就職ミライ博】インターンシップ研究会 6/11-14 （BHEキャリア支援チーム主催）",
@@ -136,13 +143,6 @@
             "title": "【就職ミライ博】インターンシップ研究会 6/11-14 （BHEキャリア支援チーム主催）",
             "summary": "4日間で計120社以上の企業・団体・官公庁が筑波大に集結！\n夏以降のインターンシップ最新情報を筑波大生に届けます\nこの機会をお見逃しなく！\n\n〈開催概要〉\n開催日程：2024年6月11日（火）～14日（金）\n会場：大学会館\n開催時間：11：30～16：00\n事前申込：不要\n\n出展企業：近日公開予定\nタイムスケジュール：準備中\n\n",
             "date_modified": "2024-05-16T03:00:00.000Z"
-        },
-        {
-            "id": "c2e462cc3a9569ab580dc312429d19cb",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5118",
-            "title": "【6/24開催】学生の皆さんが安心して化学実験を行うための研修会",
-            "summary": "標記研修会を以下のとおり開催します。\n化学実験を行う学群・大学院生はご参加くださいますようお願いいたします。\n\n１．目的　\n実験に携わる学群・大学院生向けに，化学物質の危険性や有害性を伝え，\n事件事故や健康障害を引き起こすリスクを減らすこと\n\n２．開催日時および場所\n日時：令和６年６月２４日（月）１５時１５分～１６時３０分\n場所：総合研究棟Ａ１１０公開講義室\n\n３．内容\n（１）化学物質の安全な取り…",
-            "date_modified": "2024-05-15T03:00:00.000Z"
         }
     ]
 }
