@@ -5,6 +5,27 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "a28d789d1e1f0687f8b0911d16d33fb8",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5150",
+            "title": "【ご案内】第11回　OＢ・OGキャリアカフェ　～いろんなセンパイと気軽に話をしてみよう！～【リマインド】",
+            "summary": "筑波大生の皆さんへ\n2019 年より始まった筑波大学および大学院の卒業生と現役学生との交流の機会、「OB・OG キャリアカフェ」。大学の先輩から就職活動やキャリア、学生生活などのアドバイスについて本音で聞ける機会として、学生から高い満足度を得ています。\n今回は、対面開催です。\n★社会人のリアルや業界・企業について知る機会★\n★筑波大のOB・OGだから気軽に質問しやすい★\n★就活のこと、キャリアのこ…",
+            "date_modified": "2024-05-23T03:00:00.000Z"
+        },
+        {
+            "id": "5301b52bddb3998725e9392a4a3c738a",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5149",
+            "title": "【BHEキャリア＆アクセシビリティ】キャリア形成支援動画　(就職活動準備編）公開",
+            "summary": "BHE(ヒューマンエンパワーメント推進局)キャリア支援チームとアクセシビリティ支援チームにて障害のある学生または関心のある学生のためのキャリアを応援する動画第2弾を作成しました。\n【目的】障害のある学生のためのキャリア形成支援\n　　　　・就職活動準備編　　　\n【コンテンツの内容】\n１．就職活動を始めよう～具体的な内容と対策～\n２．就職活動を始めよう～自分を知る・仕事を知る～\n\n【時間】各5分～7分…",
+            "date_modified": "2024-05-23T03:00:00.000Z"
+        },
+        {
+            "id": "fe963ffba467c8bd4a00421b76bada36",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5148",
+            "title": "【学生宿舎/Student Residence Hall】学生宿舎入居募集（空室補充）について / Residence Hall Application【Additional】",
+            "summary": "令和６年度学生宿舎入居募集情報（空室補充）についてお知らせいたします。\n　詳細は添付ファイルを参照してください。\n\n　　・グローバルヴィレッジ\n　　・一の矢継続入居棟\n　　・一般単身未改修棟\n\n　This is to inform you about AY2024 Residence Hall Application (Additional).\n　Please check attached PDF…",
+            "date_modified": "2024-05-23T03:00:00.000Z"
+        },
+        {
             "id": "c8aa3a9c217144e8954193fa0d9b2e29",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5147",
             "title": "第16回JCKフォーラム参加者募集/Call for participation to JCK Forum2024",
@@ -44,13 +65,6 @@
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5142",
             "title": "【学生宿舎/Student Residence Hall】学生宿舎入居募集（世帯用）について / Residence Hall Application-family room",
             "summary": "　令和6年度学生宿舎入居募集情報（世帯用・空室補充）についてお知らせいたします。\n　詳細は添付ファイルを参照してください。\n\n　This is to inform you about AY2024 Residence Hall Additional Application (family room).\n　Please check attached PDF.",
-            "date_modified": "2024-05-22T03:00:00.000Z"
-        },
-        {
-            "id": "fe963ffba467c8bd4a00421b76bada36",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5141",
-            "title": "【学生宿舎/Student Residence Hall】学生宿舎入居募集（空室補充）について / Residence Hall Application【Additional】",
-            "summary": "令和６年度学生宿舎入居募集情報（空室補充）についてお知らせいたします。\n　詳細は添付ファイルを参照してください。\n\n　　・グローバルヴィレッジ\n　　・一の矢継続入居棟\n　　・一般単身未改修棟\n\n　This is to inform you about AY2024 Residence Hall Application (Additional).\n　Please check attached PDF…",
             "date_modified": "2024-05-22T03:00:00.000Z"
         },
         {
@@ -128,20 +142,6 @@
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5129",
             "title": "【オンデマンド配信】【26卒・27卒】【応用編】就活＆インターンシップガイダンス（日本語）【リマインド】",
             "summary": "4月24日(水)に開催しました【26卒・27卒】【応用編】就活＆インターンシップガイダンスのオンデマンド配信のご案内です。\n【応用編】企業の評価ポイントを押さえよう！インターンシップの選考対策講座\n\n対象 主に学群3年生、修士1年生\n内容\n・2024夏のインターンシップ業界予測\n・人気のインターンシップに参加するために必要な準備\n・インターンシップ選考対策のポイント\n\n講師 株式会社マイナビ　新卒…",
-            "date_modified": "2024-05-20T03:00:00.000Z"
-        },
-        {
-            "id": "653629d35c9195e8a434eb0039ec2c34",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5128",
-            "title": "【開催案内】中央図書館での常設展示『PRIDE at Tsukuba〜ぷちライブラリー〜』（6月3日～21日）",
-            "summary": "2024年6月3日（月）～21日（金）に筑波大学附属中央図書館２Fギャラリーゾーンにて\n学生ピアスタッフ企画『PRIDE at Tsukuba〜ぷちライブラリー〜』を開催します！\n6月のプライドマンスにちなんで、「性」に関する推薦書籍や、4月に出展した東京レインボープライド2024の写真・制作物等の常設展示をいたします。\n来場者の方におすすめの作品を記入してもらうコーナーもございます。\nぜひお気軽…",
-            "date_modified": "2024-05-20T03:00:00.000Z"
-        },
-        {
-            "id": "2fe9722e7935669bf9e3d415d3095ef4",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5127",
-            "title": "令和6年度夏季休業前の海外危機管理セミナーについて",
-            "summary": "海外危機管理セミナーを開催しますので、お知らせいたします。\n海外危機管理に関するスペシャリストをお招きし、海外渡航前の準備事項と、現地での安全対策について学びます。\n\n\n１．日時：　令和6年6月26日（水）18：15～19：30\n\n２．内容・講師：\n\n　①「海外に行く際の、気軽にできる感染症予防」\n　　講師：筑波大学附属病院感染症科　鈴木 広道　診療科長（医学医療系）\n\n\n　②「安全対策として渡航…",
             "date_modified": "2024-05-20T03:00:00.000Z"
         }
     ]
