@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "93b1680082d4237f83f84bceb7bb44b9",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5152",
+            "title": "【大学院に興味のある学生向け/〆切間近！5/29開催】第１回博士のポートフォリオ大公開+ロールモデル懇談会",
+            "summary": "　ヒューマンエンパワーメント推進局では、筑波大学に所属する全学群生・大学院生を対象に、多様な学生のキャリア形成に対する視野を開くこと、また、博士進学後のキャリアパスをクリアにすることを目的として、令和6年度第1回博士のポートフォリオ大公開+ロールモデル懇談会を開催いたします。\n\n　博士課程に進学したきっかけや当時の悩みなど、筑波大学で博士号を取得した方に日ごろの疑問を質問できる貴重な機会です。\n　…",
+            "date_modified": "2024-05-24T03:00:00.000Z"
+        },
+        {
             "id": "2e88614493fbfcb867257463b3e626b5",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5151",
             "title": "カナダのプリンスエドワード島大学大学院夏期研修　説明会開催",
@@ -129,13 +136,6 @@
             "title": "●大学院説明会● [生命医科学] × [理・工・情報学] 一貫制博士課程「ヒューマニクス学位プログラム」5/25（土）, 6/22（土）",
             "summary": "学生の皆さまへ\n\n筑波大学5年一貫制大学院「ヒューマニクス学位プログラム」事務室より、2024年8月実施入試に関する説明会のご案内です。\n\nヒューマニクス学位プログラムは、生命医科学と理・工・情報学、両分野の知識を博士レベルまで極める、国内でも類を見ない先進的なカリキュラムを提供しています。\n多様なバックグラウンドを持った学生が集う刺激的な環境の中で、独創的な融合研究に取り組みませんか？\n\n多くの…",
             "date_modified": "2024-05-21T03:00:00.000Z"
-        },
-        {
-            "id": "60b6dfc9ba9d79d31d59038eafd85cf6",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5130",
-            "title": "【〆切間近！5/29開催】第１回博士のポートフォリオ大公開+ロールモデル懇談会",
-            "summary": "　ヒューマンエンパワーメント推進局では、筑波大学に所属する全学群生・大学院生を対象に、多様な学生のキャリア形成に対する視野を開くこと、また、博士進学後のキャリアパスをクリアにすることを目的として、令和6年度第1回博士のポートフォリオ大公開+ロールモデル懇談会を開催いたします。\n\n　博士課程に進学したきっかけや当時の悩みなど、筑波大学で博士号を取得した方に日ごろの疑問を質問できる貴重な機会です。\n　…",
-            "date_modified": "2024-05-20T03:00:00.000Z"
         },
         {
             "id": "350ef2a5dd896ffdb4138f9544a9c19e",
