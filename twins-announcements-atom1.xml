@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/mkobayashime/twins-announcements</id>
     <title>在学生へのお知らせ | 筑波大学</title>
-    <updated>2024-05-23T21:17:17.235Z</updated>
+    <updated>2024-05-24T06:18:42.466Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://github.com/mkobayashime/twins-announcements"/>
     <subtitle>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</subtitle>
+    <entry>
+        <title type="html"><![CDATA[カナダのプリンスエドワード島大学大学院夏期研修　説明会開催]]></title>
+        <id>2e88614493fbfcb867257463b3e626b5</id>
+        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5151"/>
+        <updated>2024-05-24T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[カナダのプリンスエドワード島大学大学院夏季研修「英語で授業ができる教員養成のための TA・TF 海外研修プログラ」の説明会を6月6日（木曜日）（１１時３０分から１２時）にオンラインで開催します。「はばたけ！筑大生」一人あたり20万円支給予定（先着20人）。
+
+授業内容:
+1)TA/TF 海外研修プログラム(入門コース 英語初級者向け・初めて留学する院生対象)
+異文化コミュニケーション…]]></summary>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【ご案内】第11回　OＢ・OGキャリアカフェ　～いろんなセンパイと気軽に話をしてみよう！～【リマインド】]]></title>
         <id>a28d789d1e1f0687f8b0911d16d33fb8</id>
@@ -260,16 +271,5 @@ ProQuest Centralは自然科学、人文社会科学など、幅広い分野を�
 ・インターンシップ選考対策のポイント
 
 講師 株式会社マイナビ　新卒…]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【開催案内】中央図書館での常設展示『PRIDE at Tsukuba〜ぷちライブラリー〜』（6月3日～21日）]]></title>
-        <id>653629d35c9195e8a434eb0039ec2c34</id>
-        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5128"/>
-        <updated>2024-05-20T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[2024年6月3日（月）～21日（金）に筑波大学附属中央図書館２Fギャラリーゾーンにて
-学生ピアスタッフ企画『PRIDE at Tsukuba〜ぷちライブラリー〜』を開催します！
-6月のプライドマンスにちなんで、「性」に関する推薦書籍や、4月に出展した東京レインボープライド2024の写真・制作物等の常設展示をいたします。
-来場者の方におすすめの作品を記入してもらうコーナーもございます。
-ぜひお気軽…]]></summary>
     </entry>
 </feed>
