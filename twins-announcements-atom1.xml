@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/mkobayashime/twins-announcements</id>
     <title>在学生へのお知らせ | 筑波大学</title>
-    <updated>2024-05-27T07:14:39.526Z</updated>
+    <updated>2024-05-27T09:15:02.853Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://github.com/mkobayashime/twins-announcements"/>
     <subtitle>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</subtitle>
+    <entry>
+        <title type="html"><![CDATA[【チケット販売中】筑波大学ホームゲーム「TSUKUBA LIVE!」（女子バスケ・vsハワイ大）筑波大生割引クーポンあり]]></title>
+        <id>23c1e1b40c312c61dd08a64439901030</id>
+        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5155"/>
+        <updated>2024-05-27T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[6月6日（木）に筑波大学中央体育館で開催する筑波大学ホームゲーム「TSUKUBA LIVE!」のチケット販売中です。
+
+今回の競技は女子バスケットボール、対戦カードは筑波大学vsハワイ大学です。
+
+会場には様々な企画・ブースも出店し、試合以外でも楽しめるホームゲームなので、スポーツ観戦デビューをしたい筑波大生にもぴったりの機会です！
+
+筑波大生には割引クーポン（500円引き、先着100人）を配布し…]]></summary>
+    </entry>
     <entry>
         <title type="html"><![CDATA[(再掲載)【開催案内】留学生によるプレゼンと英会話を楽しみませんか 7th Borderless Onsite Meeting “Steppe Culture of Kazakhstan”]]></title>
         <id>656084d529fbce1047327daaaac93b4e</id>
@@ -254,12 +267,5 @@ ProQuest Centralは自然科学、人文社会科学など、幅広い分野を�
 事前申込：不要
 
 出展企業：添付チラシ参照（5/21時点・追加予定あり）]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【Event Notice】Briefing Sessions (Hybrid) for the Aug 2024 Entrance Examination]]></title>
-        <id>f35c9e6c763984b48174a0a6111c4f8e</id>
-        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5133"/>
-        <updated>2024-05-21T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[The Ph.D. Program in Humanics (Five-year Doctoral Program, University of Tsukuba) cultivates leaders equipped with doctoral-level knowledge and skills in the fields of both biomedical sciences and phy…]]></summary>
     </entry>
 </feed>

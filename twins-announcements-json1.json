@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "23c1e1b40c312c61dd08a64439901030",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5155",
+            "title": "【チケット販売中】筑波大学ホームゲーム「TSUKUBA LIVE!」（女子バスケ・vsハワイ大）筑波大生割引クーポンあり",
+            "summary": "6月6日（木）に筑波大学中央体育館で開催する筑波大学ホームゲーム「TSUKUBA LIVE!」のチケット販売中です。\n\n今回の競技は女子バスケットボール、対戦カードは筑波大学vsハワイ大学です。\n\n会場には様々な企画・ブースも出店し、試合以外でも楽しめるホームゲームなので、スポーツ観戦デビューをしたい筑波大生にもぴったりの機会です！\n\n筑波大生には割引クーポン（500円引き、先着100人）を配布し…",
+            "date_modified": "2024-05-27T03:00:00.000Z"
+        },
+        {
             "id": "656084d529fbce1047327daaaac93b4e",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5154",
             "title": "(再掲載)【開催案内】留学生によるプレゼンと英会話を楽しみませんか 7th Borderless Onsite Meeting “Steppe Culture of Kazakhstan”",
@@ -135,13 +142,6 @@
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5134",
             "title": "【就職ミライ博】インターンシップ研究会 6/11-14 （BHEキャリア支援チーム主催）",
             "summary": "【インターンシップ研究会】\n4日間で計120社以上の企業・団体・官公庁が筑波大に集結！\n夏以降のインターンシップ最新情報を筑波大生に届けます\nこの機会をお見逃しなく！\n\n〈開催概要〉\n開催日程：2024年6月11日（火）～14日（金）\n会場：大学会館\n開催時間：11：30～16：00\n事前申込：不要\n\n出展企業：添付チラシ参照（5/21時点・追加予定あり）",
-            "date_modified": "2024-05-21T03:00:00.000Z"
-        },
-        {
-            "id": "f35c9e6c763984b48174a0a6111c4f8e",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5133",
-            "title": "【Event Notice】Briefing Sessions (Hybrid) for the Aug 2024 Entrance Examination",
-            "summary": "The Ph.D. Program in Humanics (Five-year Doctoral Program, University of Tsukuba) cultivates leaders equipped with doctoral-level knowledge and skills in the fields of both biomedical sciences and phy…",
             "date_modified": "2024-05-21T03:00:00.000Z"
         }
     ]
