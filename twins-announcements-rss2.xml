@@ -4,10 +4,20 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Mon, 27 May 2024 00:59:11 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 27 May 2024 07:14:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
+        <item>
+            <title><![CDATA[(再掲載)【開催案内】留学生によるプレゼンと英会話を楽しみませんか 7th Borderless Onsite Meeting “Steppe Culture of Kazakhstan”]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5154</link>
+            <guid>656084d529fbce1047327daaaac93b4e</guid>
+            <pubDate>Mon, 27 May 2024 03:00:00 GMT</pubDate>
+            <description><![CDATA[【開催案内】7th Borderless Onsite Meeting
+
+　留学生（外国人職員）が出身国を紹介するイベント”BOM”を月に一度ランチタイムに開催しています。５月は対面での開催です。英語によるフリーチャットや留学生によるプレゼンテーションをお楽しみください。
+　今年度最初のオンサイト開催は、NipCAフェロー2023トゥルスナリエヴァ・アジャルさんがカザフスタンの紹介をしてくれます。…]]></description>
+        </item>
         <item>
             <title><![CDATA[English Camp in Nasu]]></title>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5153</link>
@@ -253,20 +263,6 @@ ProQuest Centralは自然科学、人文社会科学など、幅広い分野を�
             <guid>f35c9e6c763984b48174a0a6111c4f8e</guid>
             <pubDate>Tue, 21 May 2024 03:00:00 GMT</pubDate>
             <description><![CDATA[The Ph.D. Program in Humanics (Five-year Doctoral Program, University of Tsukuba) cultivates leaders equipped with doctoral-level knowledge and skills in the fields of both biomedical sciences and phy…]]></description>
-        </item>
-        <item>
-            <title><![CDATA[●大学院説明会● [生命医科学] × [理・工・情報学] 一貫制博士課程「ヒューマニクス学位プログラム」5/25（土）, 6/22（土）]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5132</link>
-            <guid>ad343d781416e3da9c0c065f28527f63</guid>
-            <pubDate>Tue, 21 May 2024 03:00:00 GMT</pubDate>
-            <description><![CDATA[学生の皆さまへ
-
-筑波大学5年一貫制大学院「ヒューマニクス学位プログラム」事務室より、2024年8月実施入試に関する説明会のご案内です。
-
-ヒューマニクス学位プログラムは、生命医科学と理・工・情報学、両分野の知識を博士レベルまで極める、国内でも類を見ない先進的なカリキュラムを提供しています。
-多様なバックグラウンドを持った学生が集う刺激的な環境の中で、独創的な融合研究に取り組みませんか？
-
-多くの…]]></description>
         </item>
     </channel>
 </rss>
