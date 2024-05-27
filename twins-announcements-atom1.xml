@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/mkobayashime/twins-announcements</id>
     <title>在学生へのお知らせ | 筑波大学</title>
-    <updated>2024-05-26T21:17:34.358Z</updated>
+    <updated>2024-05-27T00:59:11.446Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://github.com/mkobayashime/twins-announcements"/>
     <subtitle>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</subtitle>
+    <entry>
+        <title type="html"><![CDATA[English Camp in Nasu]]></title>
+        <id>e59ae9944cf46431fa3cc0636f95249c</id>
+        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5153"/>
+        <updated>2024-05-27T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[<<For International Students>>
+
+■What’s English Camp in Nasu?:
+　Kita Ward Board of Education organizes an English camp for junior high school students (8th graders, ages 13-14 years old) who live in t…]]></summary>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【大学院に興味のある学生向け/〆切間近！5/29開催】第１回博士のポートフォリオ大公開+ロールモデル懇談会]]></title>
         <id>93b1680082d4237f83f84bceb7bb44b9</id>
@@ -255,21 +265,5 @@ ProQuest Centralは自然科学、人文社会科学など、幅広い分野を�
 多様なバックグラウンドを持った学生が集う刺激的な環境の中で、独創的な融合研究に取り組みませんか？
 
 多くの…]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【オンデマンド配信】【26卒・27卒】【応用編】就活＆インターンシップガイダンス（日本語）【リマインド】]]></title>
-        <id>350ef2a5dd896ffdb4138f9544a9c19e</id>
-        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5129"/>
-        <updated>2024-05-20T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[4月24日(水)に開催しました【26卒・27卒】【応用編】就活＆インターンシップガイダンスのオンデマンド配信のご案内です。
-【応用編】企業の評価ポイントを押さえよう！インターンシップの選考対策講座
-
-対象 主に学群3年生、修士1年生
-内容
-・2024夏のインターンシップ業界予測
-・人気のインターンシップに参加するために必要な準備
-・インターンシップ選考対策のポイント
-
-講師 株式会社マイナビ　新卒…]]></summary>
     </entry>
 </feed>

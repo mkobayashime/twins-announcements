@@ -4,10 +4,20 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Sun, 26 May 2024 21:17:34 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 27 May 2024 00:59:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
+        <item>
+            <title><![CDATA[English Camp in Nasu]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5153</link>
+            <guid>e59ae9944cf46431fa3cc0636f95249c</guid>
+            <pubDate>Mon, 27 May 2024 03:00:00 GMT</pubDate>
+            <description><![CDATA[<<For International Students>>
+
+■What’s English Camp in Nasu?:
+　Kita Ward Board of Education organizes an English camp for junior high school students (8th graders, ages 13-14 years old) who live in t…]]></description>
+        </item>
         <item>
             <title><![CDATA[【大学院に興味のある学生向け/〆切間近！5/29開催】第１回博士のポートフォリオ大公開+ロールモデル懇談会]]></title>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5152</link>
@@ -257,22 +267,6 @@ ProQuest Centralは自然科学、人文社会科学など、幅広い分野を�
 多様なバックグラウンドを持った学生が集う刺激的な環境の中で、独創的な融合研究に取り組みませんか？
 
 多くの…]]></description>
-        </item>
-        <item>
-            <title><![CDATA[【オンデマンド配信】【26卒・27卒】【応用編】就活＆インターンシップガイダンス（日本語）【リマインド】]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5129</link>
-            <guid>350ef2a5dd896ffdb4138f9544a9c19e</guid>
-            <pubDate>Mon, 20 May 2024 03:00:00 GMT</pubDate>
-            <description><![CDATA[4月24日(水)に開催しました【26卒・27卒】【応用編】就活＆インターンシップガイダンスのオンデマンド配信のご案内です。
-【応用編】企業の評価ポイントを押さえよう！インターンシップの選考対策講座
-
-対象 主に学群3年生、修士1年生
-内容
-・2024夏のインターンシップ業界予測
-・人気のインターンシップに参加するために必要な準備
-・インターンシップ選考対策のポイント
-
-講師 株式会社マイナビ　新卒…]]></description>
         </item>
     </channel>
 </rss>
