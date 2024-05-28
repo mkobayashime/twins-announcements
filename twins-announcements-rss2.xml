@@ -4,10 +4,18 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Tue, 28 May 2024 01:59:47 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 May 2024 05:13:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
+        <item>
+            <title><![CDATA[HPVワクチンの集団接種の実施について【再掲】]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5162</link>
+            <guid>729e871bc9e5db68ad26ea916bba3e76</guid>
+            <pubDate>Tue, 28 May 2024 03:00:00 GMT</pubDate>
+            <description><![CDATA[　本学では、国がキャッチアップ期間（令和４（2022）年４月～令和７年（2025）３月の３年間）を設けてHPVワクチン接種の積極的な勧奨を再開していることから、教職員及び学生の健康管理の観点から、接種対象となる方のうち、希望者を対象として実施（接種場所：筑波大学附属病院）するものです。
+　接種対象者、接種期間及び予約方法等の詳細については、下記リンク先より、スチューデントサポートセンターHPの「セ…]]></description>
+        </item>
         <item>
             <title><![CDATA[【再掲6/6開催】R6衛生管理者講習会_知っておきたい職場巡視の心得～衛生管理者にできること、できないこと～]]></title>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5161</link>
@@ -249,17 +257,6 @@ KiteKiteは、年齢…]]></description>
 開催場所： 日本財団ビル（東京都港区赤坂1-2-2）
 開催日時： 2024年6月8日（土）10時00分〜15時00分（予定）
 ※途中入場、途中退室可…]]></description>
-        </item>
-        <item>
-            <title><![CDATA[【学生宿舎/Student Residence Hall】学生宿舎入居募集（世帯用）について / Residence Hall Application-family room]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5142</link>
-            <guid>fbcc65adf26a3eeafa2b6764614a04ea</guid>
-            <pubDate>Wed, 22 May 2024 03:00:00 GMT</pubDate>
-            <description><![CDATA[　令和6年度学生宿舎入居募集情報（世帯用・空室補充）についてお知らせいたします。
-　詳細は添付ファイルを参照してください。
-
-　This is to inform you about AY2024 Residence Hall Additional Application (family room).
-　Please check attached PDF.]]></description>
         </item>
     </channel>
 </rss>
