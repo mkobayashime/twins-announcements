@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "a2c88549c44e326d07083d0fbdda773e",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5163",
+            "title": "【参加者募集】夏季海外語学研修カザフ語（カザフスタン）8月出発",
+            "summary": "CiC協定大学 アルファラビ・カザフ国立大学への短期語学研修（派遣）を下記の日程にて開催することになりましたので、参加学生を募集します。\n\n研修参加者は、NipCAフレンドシップメンバーとして登録されます。\n\n研修内容：\n▶︎研修期間：2024年8月11日（日）〜9月7日（土）（移動日含む28日間。変更の可能性あり）\n\n▶︎研修地：カザフ国立大学（カザフスタン共和国アルマトイ市）\n\n▶︎対象：学群…",
+            "date_modified": "2024-05-28T03:00:00.000Z"
+        },
+        {
             "id": "729e871bc9e5db68ad26ea916bba3e76",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5162",
             "title": "HPVワクチンの集団接種の実施について【再掲】",
@@ -135,13 +142,6 @@
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5144",
             "title": "【周知】献血の実施について（6月7日実施）",
             "summary": "日本赤十字社が学内に献血バスを配車して、以下のとおり献血を実施することとなりました。学生の皆さまのご協力をお願いいたします。\n\n日時：2024年6月7日（金）9：45～12：15、13：30～16：00\n場所：第三エリア食堂前\n",
-            "date_modified": "2024-05-22T03:00:00.000Z"
-        },
-        {
-            "id": "27abe51b49d7c279749008c69b8a4bbe",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5143",
-            "title": "日本財団オーシャンイノベーションコンソーシアム イベントのご案内①　6/6締切",
-            "summary": "イベントのご案内です\n\n1. 就活生向け！海洋開発業界セミナー（対面開催）（東京）\n就職活動を間近に控えた学生向けに、海洋開発業界を深く知ることができるセミナーを開催します。\n\n<プログラム>\n主　催： 日本財団オーシャンイノベーションコンソーシアム\n開催場所： 日本財団ビル（東京都港区赤坂1-2-2）\n開催日時： 2024年6月8日（土）10時00分〜15時00分（予定）\n※途中入場、途中退室可…",
             "date_modified": "2024-05-22T03:00:00.000Z"
         }
     ]
