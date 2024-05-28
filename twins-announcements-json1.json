@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "653642a16cbf5ada68a012af1c6ec5a5",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5165",
+            "title": "　「【申込：6/10まで　謝礼あり】LINEチャットボット「ダボット：ダックスさんの相談室」利用率向上に関する研究協力者募集",
+            "summary": "　筑波大学ヒューマンエンパワーメント推進局（BHE）では、日常生活の困りごとに対し、対処法を自動で提案するLINEチャットボット「ダボット：ダックスさんの相談室」を開発しています。\n　この度、日常生活で困りごとがあった際にその都度ダボットを繰り返し利用してもらえる方法について、プッシュ通知に着目して検討しており、この研究にご協力いただける筑波大学の学生に方を募集します。\n\n【以下の全ての条件に当て…",
+            "date_modified": "2024-05-28T03:00:00.000Z"
+        },
+        {
             "id": "56f6919842ca3f8f2e7b6ff23d2060bf",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5164",
             "title": "【参加企業追加！】就職ミライ博インターンシップ研究会 6/11-14 （BHEキャリア支援チーム主催）",
@@ -136,13 +143,6 @@
             "title": "【6月】筑波大学BHEセーファースペース「KiteKite（きてきて）」の実施について",
             "summary": "ヒューマンエンパワーメント推進局（BHE）ジェンダー支援チームでは、学生スタッフと共同で”セーファースペースKiteKite（きてきて）”を実施しています。6月の実施日についてお知らせしますので、ぜひお気軽にご参加ください。\n\n※セーファースペースとは…LGBTQ＋や女性をはじめ、全ての人が自らのジェンダー・セクシュアリティについてより安全に話すことができる居場所のこと\n\nKiteKiteは、年齢…",
             "date_modified": "2024-05-23T03:00:00.000Z"
-        },
-        {
-            "id": "904b3ee6efc2219aa78e14b309c4bb63",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5145",
-            "title": "日本財団オーシャンイノベーションコンソーシアム　イベントのご案内②",
-            "summary": "イベントのご案内です\n\n2. 船舶業界のゼロエミッションへの挑戦〜高崎先生と行く！未来への乗船体験2024〜\n海洋開発に欠かせない船舶・海運分野に対して、水素や液化天然ガス（LNG）など、新しい燃料へのシフトがどのような影響をもたらすかについて探求します。NEDOの水素やアンモニアエンジンの研究開発事業にも深く関係している、九州大学名誉教授の高崎講二先生が全面的にサポートします。\n\n<プログラム>…",
-            "date_modified": "2024-05-22T03:00:00.000Z"
         }
     ]
 }
