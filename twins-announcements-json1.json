@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "ca3df92af592b8c80b653e71ad98b950",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5167",
+            "title": "【学内参加者募集】2024年度つくばアントレプレナー育成プログラム BizDev講座",
+            "summary": "つくばアントレプレナー育成プログラム BizDev講座 は、主に教育・研究機関等に所属する研究者等を対象として開設する筑波大学エクステンションプログラムです。アントレプレナーの輩出と研究・技術シーズに基づくスタートアップ創出の促進を目的とした有料講座です。\n\n国際産学連携本部では学内参加者を支援するため、起業や新規事業創出のため事業化の必須スキルを実践的に学び、事業化シーズを投資対象となるビジネス…",
+            "date_modified": "2024-05-29T03:00:00.000Z"
+        },
+        {
             "id": "ef1fd61419a609bfafe5ef4dd72cd807",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5166",
             "title": "【再掲：本日5/29開催】「外国語論文の探し方 (ProQuest Central）」図書館講習会",
@@ -135,13 +142,6 @@
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5147",
             "title": "第16回JCKフォーラム参加者募集/Call for participation to JCK Forum2024",
             "summary": "日中韓国際大学院生アカデミックフォーラムが今年は中国の主催で開催されます。\n\n日時：2024年9月11日（水）～9月14日（土）\n会場：中国地質大学（中国、北京市）\n対象：農学、環境科学、生命科学、地球科学を専攻する大学院生\n発表形式：口頭発表（英語）\n参加費：200-300RMB\n旅費・参加費は自己負担\n登録締切：令和6年6月7日（金）\n要旨提出〆切：令和6年6月30日（日）\n\n登録用リンクは添…",
-            "date_modified": "2024-05-23T03:00:00.000Z"
-        },
-        {
-            "id": "cda7a3f3c7cd781c67f6b3e3004277c2",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5146",
-            "title": "【6月】筑波大学BHEセーファースペース「KiteKite（きてきて）」の実施について",
-            "summary": "ヒューマンエンパワーメント推進局（BHE）ジェンダー支援チームでは、学生スタッフと共同で”セーファースペースKiteKite（きてきて）”を実施しています。6月の実施日についてお知らせしますので、ぜひお気軽にご参加ください。\n\n※セーファースペースとは…LGBTQ＋や女性をはじめ、全ての人が自らのジェンダー・セクシュアリティについてより安全に話すことができる居場所のこと\n\nKiteKiteは、年齢…",
             "date_modified": "2024-05-23T03:00:00.000Z"
         }
     ]
