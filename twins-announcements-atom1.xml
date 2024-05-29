@@ -2,10 +2,25 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/mkobayashime/twins-announcements</id>
     <title>在学生へのお知らせ | 筑波大学</title>
-    <updated>2024-05-28T21:18:21.849Z</updated>
+    <updated>2024-05-29T01:01:49.113Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://github.com/mkobayashime/twins-announcements"/>
     <subtitle>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</subtitle>
+    <entry>
+        <title type="html"><![CDATA[【再掲：本日5/29開催】「外国語論文の探し方 (ProQuest Central）」図書館講習会]]></title>
+        <id>ef1fd61419a609bfafe5ef4dd72cd807</id>
+        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5166"/>
+        <updated>2024-05-29T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[「外国語論文の探し方 (ProQuest Central）」の講習会を開催します。
+
+-----------------------------
+日時：5月29日（水）15:15-16:15
+開催方法： オンライン（Webex)
+-----------------------------
+
+ProQuest Centralは自然科学、人文社会科学など、幅広い分野を検索できるデータベースです。
+学術…]]></summary>
+    </entry>
     <entry>
         <title type="html"><![CDATA[　「【申込：6/10まで　謝礼あり】LINEチャットボット「ダボット：ダックスさんの相談室」利用率向上に関する研究協力者募集]]></title>
         <id>653642a16cbf5ada68a012af1c6ec5a5</id>
@@ -256,17 +271,5 @@ A special 500-yen discount coupon is avail…]]></summary>
 ※セーファースペースとは…LGBTQ＋や女性をはじめ、全ての人が自らのジェンダー・セクシュアリティについてより安全に話すことができる居場所のこと
 
 KiteKiteは、年齢…]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[日本財団オーシャンイノベーションコンソーシアム　イベントのご案内②]]></title>
-        <id>904b3ee6efc2219aa78e14b309c4bb63</id>
-        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5145"/>
-        <updated>2024-05-22T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[イベントのご案内です
-
-2. 船舶業界のゼロエミッションへの挑戦〜高崎先生と行く！未来への乗船体験2024〜
-海洋開発に欠かせない船舶・海運分野に対して、水素や液化天然ガス（LNG）など、新しい燃料へのシフトがどのような影響をもたらすかについて探求します。NEDOの水素やアンモニアエンジンの研究開発事業にも深く関係している、九州大学名誉教授の高崎講二先生が全面的にサポートします。
-
-<プログラム>…]]></summary>
     </entry>
 </feed>
