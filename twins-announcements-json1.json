@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "1fba9cab134bc135357515ee2e91a227",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5168",
+            "title": "【周知】令和６年度 構内における放置自転車・放置自動車等の一斉撤去について / Removal of All Abandoned Bicycles and Vehicles in Campus",
+            "summary": "　本学では、良好な構内環境を保持するため、本学の要項に基づき、放置車両と思われる車両については、撤去通告書を車両に貼付後、一定の期間を置いてから一斉撤去を実施します。\n　つきましては、別添に日程等詳細を記載しておりますので、所有されている車両について現状確認をしていただくようお願いします。\n　また、駐車場、駐輪場、駐輪スペース以外に停めている場合は、必ず移動してください。\n\n\n　In order …",
+            "date_modified": "2024-05-29T03:00:00.000Z"
+        },
+        {
             "id": "ca3df92af592b8c80b653e71ad98b950",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5167",
             "title": "【学内参加者募集】2024年度つくばアントレプレナー育成プログラム BizDev講座",
@@ -135,13 +142,6 @@
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5148",
             "title": "【学生宿舎/Student Residence Hall】学生宿舎入居募集（空室補充）について / Residence Hall Application【Additional】",
             "summary": "令和６年度学生宿舎入居募集情報（空室補充）についてお知らせいたします。\n　詳細は添付ファイルを参照してください。\n\n　　・グローバルヴィレッジ\n　　・一の矢継続入居棟\n　　・一般単身未改修棟\n\n　This is to inform you about AY2024 Residence Hall Application (Additional).\n　Please check attached PDF…",
-            "date_modified": "2024-05-23T03:00:00.000Z"
-        },
-        {
-            "id": "c8aa3a9c217144e8954193fa0d9b2e29",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5147",
-            "title": "第16回JCKフォーラム参加者募集/Call for participation to JCK Forum2024",
-            "summary": "日中韓国際大学院生アカデミックフォーラムが今年は中国の主催で開催されます。\n\n日時：2024年9月11日（水）～9月14日（土）\n会場：中国地質大学（中国、北京市）\n対象：農学、環境科学、生命科学、地球科学を専攻する大学院生\n発表形式：口頭発表（英語）\n参加費：200-300RMB\n旅費・参加費は自己負担\n登録締切：令和6年6月7日（金）\n要旨提出〆切：令和6年6月30日（日）\n\n登録用リンクは添…",
             "date_modified": "2024-05-23T03:00:00.000Z"
         }
     ]
