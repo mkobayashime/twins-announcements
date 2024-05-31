@@ -5,6 +5,20 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "b588c7799ba18cdcb51c55319e727008",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5173",
+            "title": "TG⁺プログラム第5期生の募集を開始します",
+            "summary": "TG⁺プログラム第5期生の募集を開始します。\n\n【募集期間】\n5月31日～8月31日\n【締め切り】\n一次募集　6月30日（日）\n二次募集　8月31日（土）\n書類・面談による選考結果は、9月中旬に通知予定です。\n【申し込み】\n参加登録案内（https://tgplus.hass.tsukuba.ac.jp/entry/）をご覧ください。\n【説明会のご案内】\n募集にあたりプログラムの説明会を開催します…",
+            "date_modified": "2024-05-31T03:00:00.000Z"
+        },
+        {
+            "id": "1dfe2a54e556f3ea0d0e69cc31aad841",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5172",
+            "title": "World-science Leaders’ Seminar for all students on June 25th (Tue) 2024 16:00-17:30",
+            "summary": "The World-science Leaders’ Seminar is a part of classes in the Human Biology PhD program.\nStudents attending this seminar will learn the basics and latest research trends in the specialties of the wor…",
+            "date_modified": "2024-05-31T03:00:00.000Z"
+        },
+        {
             "id": "cd74eb197d16f2c86a375218b898c49e",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5171",
             "title": "[Notice] Safety Report Drill for AY 2024 (June 12-14)",
@@ -129,20 +143,6 @@
             "title": "カナダのプリンスエドワード島大学大学院夏期研修　説明会開催",
             "summary": "カナダのプリンスエドワード島大学大学院夏季研修「英語で授業ができる教員養成のための TA・TF 海外研修プログラ」の説明会を6月6日（木曜日）（１１時３０分から１２時）にオンラインで開催します。「はばたけ！筑大生」一人あたり20万円支給予定（先着20人）。\n\n授業内容:\n1)TA/TF 海外研修プログラム(入門コース 英語初級者向け・初めて留学する院生対象)\n異文化コミュニケーション…",
             "date_modified": "2024-05-24T03:00:00.000Z"
-        },
-        {
-            "id": "a28d789d1e1f0687f8b0911d16d33fb8",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5150",
-            "title": "【ご案内】第11回　OＢ・OGキャリアカフェ　～いろんなセンパイと気軽に話をしてみよう！～【リマインド】",
-            "summary": "筑波大生の皆さんへ\n2019 年より始まった筑波大学および大学院の卒業生と現役学生との交流の機会、「OB・OG キャリアカフェ」。大学の先輩から就職活動やキャリア、学生生活などのアドバイスについて本音で聞ける機会として、学生から高い満足度を得ています。\n今回は、対面開催です。\n★社会人のリアルや業界・企業について知る機会★\n★筑波大のOB・OGだから気軽に質問しやすい★\n★就活のこと、キャリアのこ…",
-            "date_modified": "2024-05-23T03:00:00.000Z"
-        },
-        {
-            "id": "5301b52bddb3998725e9392a4a3c738a",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5149",
-            "title": "【BHEキャリア＆アクセシビリティ】キャリア形成支援動画　(就職活動準備編）公開",
-            "summary": "BHE(ヒューマンエンパワーメント推進局)キャリア支援チームとアクセシビリティ支援チームにて障害のある学生または関心のある学生のためのキャリアを応援する動画第2弾を作成しました。\n【目的】障害のある学生のためのキャリア形成支援\n　　　　・就職活動準備編　　　\n【コンテンツの内容】\n１．就職活動を始めよう～具体的な内容と対策～\n２．就職活動を始めよう～自分を知る・仕事を知る～\n\n【時間】各5分～7分…",
-            "date_modified": "2024-05-23T03:00:00.000Z"
         }
     ]
 }
