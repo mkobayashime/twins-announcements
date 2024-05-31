@@ -4,10 +4,18 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Fri, 31 May 2024 00:59:22 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 31 May 2024 02:00:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
+        <item>
+            <title><![CDATA[[Notice] Safety Report Drill for AY 2024 (June 12-14)]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5171</link>
+            <guid>cd74eb197d16f2c86a375218b898c49e</guid>
+            <pubDate>Fri, 31 May 2024 03:00:00 GMT</pubDate>
+            <description><![CDATA[Thank you very much for your cooperation in the University's disaster preparedness.
+This is to inform you that the 2024 Safety Report Drill using the University of Tsukuba Safety Confirmation System (…]]></description>
+        </item>
         <item>
             <title><![CDATA[【お知らせ】令和6年度安否報告訓練の実施について(6月12日～14日)]]></title>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5170</link>
@@ -257,21 +265,6 @@ A special 500-yen discount coupon is avail…]]></description>
 ２．就職活動を始めよう～自分を知る・仕事を知る～
 
 【時間】各5分～7分…]]></description>
-        </item>
-        <item>
-            <title><![CDATA[【学生宿舎/Student Residence Hall】学生宿舎入居募集（空室補充）について / Residence Hall Application【Additional】]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5148</link>
-            <guid>fe963ffba467c8bd4a00421b76bada36</guid>
-            <pubDate>Thu, 23 May 2024 03:00:00 GMT</pubDate>
-            <description><![CDATA[令和６年度学生宿舎入居募集情報（空室補充）についてお知らせいたします。
-　詳細は添付ファイルを参照してください。
-
-　　・グローバルヴィレッジ
-　　・一の矢継続入居棟
-　　・一般単身未改修棟
-
-　This is to inform you about AY2024 Residence Hall Application (Additional).
-　Please check attached PDF…]]></description>
         </item>
     </channel>
 </rss>

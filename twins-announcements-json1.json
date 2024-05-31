@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "cd74eb197d16f2c86a375218b898c49e",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5171",
+            "title": "[Notice] Safety Report Drill for AY 2024 (June 12-14)",
+            "summary": "Thank you very much for your cooperation in the University's disaster preparedness.\nThis is to inform you that the 2024 Safety Report Drill using the University of Tsukuba Safety Confirmation System (…",
+            "date_modified": "2024-05-31T03:00:00.000Z"
+        },
+        {
             "id": "a7ca2e70245518104daf5f249d54cf41",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5170",
             "title": "【お知らせ】令和6年度安否報告訓練の実施について(6月12日～14日)",
@@ -135,13 +142,6 @@
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5149",
             "title": "【BHEキャリア＆アクセシビリティ】キャリア形成支援動画　(就職活動準備編）公開",
             "summary": "BHE(ヒューマンエンパワーメント推進局)キャリア支援チームとアクセシビリティ支援チームにて障害のある学生または関心のある学生のためのキャリアを応援する動画第2弾を作成しました。\n【目的】障害のある学生のためのキャリア形成支援\n　　　　・就職活動準備編　　　\n【コンテンツの内容】\n１．就職活動を始めよう～具体的な内容と対策～\n２．就職活動を始めよう～自分を知る・仕事を知る～\n\n【時間】各5分～7分…",
-            "date_modified": "2024-05-23T03:00:00.000Z"
-        },
-        {
-            "id": "fe963ffba467c8bd4a00421b76bada36",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5148",
-            "title": "【学生宿舎/Student Residence Hall】学生宿舎入居募集（空室補充）について / Residence Hall Application【Additional】",
-            "summary": "令和６年度学生宿舎入居募集情報（空室補充）についてお知らせいたします。\n　詳細は添付ファイルを参照してください。\n\n　　・グローバルヴィレッジ\n　　・一の矢継続入居棟\n　　・一般単身未改修棟\n\n　This is to inform you about AY2024 Residence Hall Application (Additional).\n　Please check attached PDF…",
             "date_modified": "2024-05-23T03:00:00.000Z"
         }
     ]

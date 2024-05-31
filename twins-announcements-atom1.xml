@@ -2,10 +2,18 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/mkobayashime/twins-announcements</id>
     <title>在学生へのお知らせ | 筑波大学</title>
-    <updated>2024-05-31T00:59:22.080Z</updated>
+    <updated>2024-05-31T02:00:44.292Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://github.com/mkobayashime/twins-announcements"/>
     <subtitle>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</subtitle>
+    <entry>
+        <title type="html"><![CDATA[[Notice] Safety Report Drill for AY 2024 (June 12-14)]]></title>
+        <id>cd74eb197d16f2c86a375218b898c49e</id>
+        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5171"/>
+        <updated>2024-05-31T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Thank you very much for your cooperation in the University's disaster preparedness.
+This is to inform you that the 2024 Safety Report Drill using the University of Tsukuba Safety Confirmation System (…]]></summary>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【お知らせ】令和6年度安否報告訓練の実施について(6月12日～14日)]]></title>
         <id>a7ca2e70245518104daf5f249d54cf41</id>
@@ -255,20 +263,5 @@ A special 500-yen discount coupon is avail…]]></summary>
 ２．就職活動を始めよう～自分を知る・仕事を知る～
 
 【時間】各5分～7分…]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【学生宿舎/Student Residence Hall】学生宿舎入居募集（空室補充）について / Residence Hall Application【Additional】]]></title>
-        <id>fe963ffba467c8bd4a00421b76bada36</id>
-        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5148"/>
-        <updated>2024-05-23T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[令和６年度学生宿舎入居募集情報（空室補充）についてお知らせいたします。
-　詳細は添付ファイルを参照してください。
-
-　　・グローバルヴィレッジ
-　　・一の矢継続入居棟
-　　・一般単身未改修棟
-
-　This is to inform you about AY2024 Residence Hall Application (Additional).
-　Please check attached PDF…]]></summary>
     </entry>
 </feed>
