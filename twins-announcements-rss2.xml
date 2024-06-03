@@ -4,10 +4,24 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Sun, 02 Jun 2024 21:17:56 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 03 Jun 2024 02:03:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
+        <item>
+            <title><![CDATA[【14th June, Special Lecture】Dr Rosina Buckland,"The Splendour of Modernity"]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5175</link>
+            <guid>a5f609fd6008db89779d5658e2bc47e3</guid>
+            <pubDate>Mon, 03 Jun 2024 03:00:00 GMT</pubDate>
+            <description><![CDATA[Dr Rosina Buckland (Curator, The British Museum) This is an announcement to attend a special lecture (in-person only) by Dr. Rosina Buckland, Asahi Shimbun Curator of the Japanese Collection at the Br…]]></description>
+        </item>
+        <item>
+            <title><![CDATA[【6/14開催】大英博物館学芸員ロジーナ・バックランド博士 特別講演会]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5174</link>
+            <guid>e5851802c3c668f50713bb956b03a1d5</guid>
+            <pubDate>Mon, 03 Jun 2024 03:00:00 GMT</pubDate>
+            <description><![CDATA[このたび新刊『The Splendour of Modernity』を出版された大英博物館 日本コレクション 朝日新聞キュレーター、ロジーナ・バックランド博士による特別講演会（対面のみ）を企画しました。明治美術における近代性とは何か？という大きな命題について、バックランド博士により選び抜かれた日本美術の図版を参照しながら、最新の研究動向が紹介されます。貴重な機会となりますので、ぜひご参加ください。…]]></description>
+        </item>
         <item>
             <title><![CDATA[TG⁺プログラム第5期生の募集を開始します]]></title>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5173</link>
@@ -237,35 +251,6 @@ ECサイトは以下のリンクから
 ★社会人のリアルや業界・企業について知る機会★
 ★筑波大のOB・OGだから気軽に質問しやすい★
 ★就活のこと、キャリアのこ…]]></description>
-        </item>
-        <item>
-            <title><![CDATA[【BHEキャリア＆アクセシビリティ】キャリア形成支援動画　(就職活動準備編）公開]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5149</link>
-            <guid>5301b52bddb3998725e9392a4a3c738a</guid>
-            <pubDate>Thu, 23 May 2024 03:00:00 GMT</pubDate>
-            <description><![CDATA[BHE(ヒューマンエンパワーメント推進局)キャリア支援チームとアクセシビリティ支援チームにて障害のある学生または関心のある学生のためのキャリアを応援する動画第2弾を作成しました。
-【目的】障害のある学生のためのキャリア形成支援
-　　　　・就職活動準備編　　　
-【コンテンツの内容】
-１．就職活動を始めよう～具体的な内容と対策～
-２．就職活動を始めよう～自分を知る・仕事を知る～
-
-【時間】各5分～7分…]]></description>
-        </item>
-        <item>
-            <title><![CDATA[【学生宿舎/Student Residence Hall】学生宿舎入居募集（空室補充）について / Residence Hall Application【Additional】]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5148</link>
-            <guid>fe963ffba467c8bd4a00421b76bada36</guid>
-            <pubDate>Thu, 23 May 2024 03:00:00 GMT</pubDate>
-            <description><![CDATA[令和６年度学生宿舎入居募集情報（空室補充）についてお知らせいたします。
-　詳細は添付ファイルを参照してください。
-
-　　・グローバルヴィレッジ
-　　・一の矢継続入居棟
-　　・一般単身未改修棟
-
-　This is to inform you about AY2024 Residence Hall Application (Additional).
-　Please check attached PDF…]]></description>
         </item>
     </channel>
 </rss>
