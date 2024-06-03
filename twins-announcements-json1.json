@@ -5,6 +5,20 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "e36dfddedbc229f8714dd62bd79397d0",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5180",
+            "title": "【6/5 12時申込期限】第12回筑波大学オープンファシリティー研究機器共同利用説明会のお知らせ(6/6@オンライン)",
+            "summary": "筑波大学オープンファシリティー推進機構では、設備の有効活用に伴う利用サポートを実施いたしております。\n第12回目の開催となる、本年度の説明会(6/6)では、筑波大学の研究機器だけでなく、物質・材料研究機構及び高エネルギー加速器研究機構の研究機器も含め、つくば地区の共用機器を幅広くご紹介いたします。\n研究促進に役立つ情報を提供しますので、是非ご参加ください。\n教職員・学生問わず、どなたでもご参加いた…",
+            "date_modified": "2024-06-03T03:00:00.000Z"
+        },
+        {
+            "id": "e36dfddedbc229f8714dd62bd79397d0",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5179",
+            "title": "【6/5 12時申込期限】第12回筑波大学オープンファシリティー研究機器共同利用説明会のお知らせ(6/6@オンライン)",
+            "summary": "筑波大学オープンファシリティー推進機構では、設備の有効活用に伴う利用サポートを実施いたしております。\n第12回目の開催となる、本年度の説明会(6/6)では、筑波大学の研究機器だけでなく、物質・材料研究機構及び高エネルギー加速器研究機構の研究機器も含め、つくば地区の共用機器を幅広くご紹介いたします。\n研究促進に役立つ情報を提供しますので、是非ご参加ください。\n教職員・学生問わず、どなたでもご参加いた…",
+            "date_modified": "2024-06-03T03:00:00.000Z"
+        },
+        {
             "id": "a3b6d7774e201d8d24f718c38ab05945",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5178",
             "title": "6月17日（月）18：00-20：00「Business Leaders’ Seminar/ビジネスリーダーズセミナー」開催のお知らせ",
@@ -129,20 +143,6 @@
             "title": "つくば市　学生翻訳スタッフ募集",
             "summary": "つくば市国際都市推進課では、市が発行する外国語広報紙の翻訳をしていただける学生翻訳スタッフを募集します。\nつくば市在住・在学の短期大学、大学、大学院に通っている学生（国籍に関係なく日本人も可）ぜひ、応募してください！\n\n●募集言語\n英語（１名）、 韓国語（１名）、スペイン語（1名）、タイ語（２名）、インドネシア語（１名）\n\n●詳細\n応募に関する詳細はホームページをご確認ください。",
             "date_modified": "2024-05-28T03:00:00.000Z"
-        },
-        {
-            "id": "e59ae9944cf46431fa3cc0636f95249c",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5153",
-            "title": "English Camp in Nasu",
-            "summary": "<<For International Students>>\n\n■What’s English Camp in Nasu?:\n　Kita Ward Board of Education organizes an English camp for junior high school students (8th graders, ages 13-14 years old) who live in t…",
-            "date_modified": "2024-05-27T03:00:00.000Z"
-        },
-        {
-            "id": "2e88614493fbfcb867257463b3e626b5",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5151",
-            "title": "カナダのプリンスエドワード島大学大学院夏期研修　説明会開催",
-            "summary": "カナダのプリンスエドワード島大学大学院夏季研修「英語で授業ができる教員養成のための TA・TF 海外研修プログラ」の説明会を6月6日（木曜日）（１１時３０分から１２時）にオンラインで開催します。「はばたけ！筑大生」一人あたり20万円支給予定（先着20人）。\n\n授業内容:\n1)TA/TF 海外研修プログラム(入門コース 英語初級者向け・初めて留学する院生対象)\n異文化コミュニケーション…",
-            "date_modified": "2024-05-24T03:00:00.000Z"
         }
     ]
 }
