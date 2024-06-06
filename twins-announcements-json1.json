@@ -5,6 +5,20 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "68824dae66d050d6ee3dc0d6a2468f5e",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5191",
+            "title": "【本日6/6オンライン説明会開催！！！】夏季海外語学研修カザフ語（カザフスタン）オンライン説明会",
+            "summary": "CiC協定大学 アルファラビ・カザフ国立大学への短期語学研修（派遣）を下記の日程にて開催することになりましたので、参加学生を募集します。\n本日6月6日18:15からオンライン説明会を開催します。\n時間になりましたらURLからアクセスしてください：\nhttps://us02web.zoom.us/j/82340466719?pwd=vZ2QZhlPeAca6xB21OXBEG5EckFeVB.1\n\n…",
+            "date_modified": "2024-06-06T03:00:00.000Z"
+        },
+        {
+            "id": "e7377e9b5af71c83130ec12663fea657",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5190",
+            "title": "【開催：7/9（火）】（対話セミナー）テレマティクスデータがもたらすメリットと未来— 企業と共に研究テーマを探る —」",
+            "summary": "対話セミナー「テレマティクスデータがもたらすメリットと未来— 企業と共に研究テーマを探る —」を開催します。\n\nあいおいニッセイ同和損害保険株式会社は「テレコミュニケーション（通信）」と「インフォマティクス（情報工学）」を組み合わせた、テレマティクス自動車保険の車載器を通じて収集した自動車走行データを活用し、180万台のビッグデータをもとに地方自治体や企業と協力しながら地域社会の様々な課題解決に取…",
+            "date_modified": "2024-06-06T03:00:00.000Z"
+        },
+        {
             "id": "040108df21368ebd4e134fec7d8dd3c3",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5189",
             "title": "【参加者募集】第43回エンカウンター合宿開催のお知らせ",
@@ -128,20 +142,6 @@
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5171",
             "title": "[Notice] Safety Report Drill for AY 2024 (June 12-14)",
             "summary": "Thank you very much for your cooperation in the University's disaster preparedness.\nThis is to inform you that the 2024 Safety Report Drill using the University of Tsukuba Safety Confirmation System (…",
-            "date_modified": "2024-05-31T03:00:00.000Z"
-        },
-        {
-            "id": "a7ca2e70245518104daf5f249d54cf41",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5170",
-            "title": "【お知らせ】令和6年度安否報告訓練の実施について(6月12日～14日)",
-            "summary": "日頃より、本学の災害対策にご協力いただきましてありがとうございます。\n筑波大学安否確認システム（ANPIC）を利用した令和６年度安否報告訓練の実施についてお知らせいたします。\n\n１．目的\n大規模災害時における、本学の学生・教職員の安否を正確かつ迅速に把握するため、全学で安否報告訓練を実施する。\n\n２．実施日時\n令和６年６月１２日（水）～１４日（金）\n\n３．対象者\n　学生：学群生・大学院生（非正規生…",
-            "date_modified": "2024-05-31T03:00:00.000Z"
-        },
-        {
-            "id": "7bfae42b4128d38efc473e6ae807076d",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5169",
-            "title": "筑波大学公式オリジナルグッズECサイト割引クーポンのお知らせ（6月） 2024/6/01",
-            "summary": "筑波大学公式オリジナルグッズ販売サイト「TSUKUBA-SHOP」6月の割引クーポンコードをお知らせいたします！\n\nクーポンコード　：　tsjuy6298n26\n有効期間　：　2024年6月1日～2024年6月30日\n\nどうぞご覧いただき、皆様の「日常生活」、「思い出」、「プレゼント🎁」などにご活用いただけますと幸いです。\n\nECサイトは以下のリンクから\n※学内専用割引コードをTWINS掲示「大…",
             "date_modified": "2024-05-31T03:00:00.000Z"
         }
     ]
