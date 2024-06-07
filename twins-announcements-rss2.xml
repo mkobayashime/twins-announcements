@@ -4,10 +4,27 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Fri, 07 Jun 2024 02:31:10 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 07 Jun 2024 08:17:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
+        <item>
+            <title><![CDATA[第178会バイオEカフェのお知らせ]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5195</link>
+            <guid>91f20858d08553f77399d2ea2d411445</guid>
+            <pubDate>Fri, 07 Jun 2024 03:00:00 GMT</pubDate>
+            <description><![CDATA[生物学類主催のサイエンスカフェ開催のお知らせです。
+
+第178回バイオEカフェ
+日時：6月25日（火）　18時30分～20時00分
+場所：2B棟2階210、オンライン(Zoom）
+
+◆ 対面 にて参加される方：参加費100円 - 事前申し込み不要
+当日は会場(2B210)まで直接お越しください。お菓子と飲み物を提供いたします。
+
+◆ Zoom にて参加される方：参加費無料 - 要事前申し込み
+下記…]]></description>
+        </item>
         <item>
             <title><![CDATA[日本財団オーシャンイノベーションコンソーシアム イベント開催のお知らせ②]]></title>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5194</link>
@@ -248,14 +265,6 @@ BHEキャリア支援チームのファシリテーターからフィードバ�
 参加登録案内（https://tgplus.hass.tsukuba.ac.jp/entry/）をご覧ください。
 【説明会のご案内】
 募集にあたりプログラムの説明会を開催します…]]></description>
-        </item>
-        <item>
-            <title><![CDATA[World-science Leaders’ Seminar for all students on June 25th (Tue) 2024 16:00-17:30]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5172</link>
-            <guid>1dfe2a54e556f3ea0d0e69cc31aad841</guid>
-            <pubDate>Fri, 31 May 2024 03:00:00 GMT</pubDate>
-            <description><![CDATA[The World-science Leaders’ Seminar is a part of classes in the Human Biology PhD program.
-Students attending this seminar will learn the basics and latest research trends in the specialties of the wor…]]></description>
         </item>
     </channel>
 </rss>
