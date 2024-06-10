@@ -2,10 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/mkobayashime/twins-announcements</id>
     <title>在学生へのお知らせ | 筑波大学</title>
-    <updated>2024-06-10T06:20:09.784Z</updated>
+    <updated>2024-06-10T09:16:37.927Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://github.com/mkobayashime/twins-announcements"/>
     <subtitle>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</subtitle>
+    <entry>
+        <title type="html"><![CDATA[【再掲】6/11（火）14：00～特別セミナー開催！「インターンシップ研究会」6/11-14 （BHEキャリア支援チーム主催）]]></title>
+        <id>642891d3f93dbbe5172a5834f1e5a9af</id>
+        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5200"/>
+        <updated>2024-06-10T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[4日間で計130社以上の企業・団体・官公庁が筑波大に集結！
+夏以降のインターンシップ最新情報を筑波大生に届けます
+この機会をお見逃しなく！
+
+【開催概要】
+開催日程：2024年6月11日（火）～14日（金）
+会場：大学会館
+開催時間：11：30～16：00
+事前申込：不要
+
+◆  11日（火）14:00~特別セミナー開催！！
+【内容（予定）】
+➀特別講師((株)キャリアアンドブリッジ遠藤和氏)のイ…]]></summary>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【募集】2024/7/5, 8開催「国際スポーツイベントマネジメント論」オンライン]]></title>
         <id>dc8002cf5be279e6212319c6e258c95b</id>
@@ -248,12 +267,5 @@ BHEキャリア支援チームのファシリテーターからフィードバ�
 　研究内容の詳細は添付のチラシをご覧ください。
 
 ＜対象者…]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【14th June, Special Lecture】Dr Rosina Buckland,"The Splendour of Modernity"]]></title>
-        <id>a5f609fd6008db89779d5658e2bc47e3</id>
-        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5175"/>
-        <updated>2024-06-03T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Dr Rosina Buckland (Curator, The British Museum) This is an announcement to attend a special lecture (in-person only) by Dr. Rosina Buckland, Asahi Shimbun Curator of the Japanese Collection at the Br…]]></summary>
     </entry>
 </feed>
