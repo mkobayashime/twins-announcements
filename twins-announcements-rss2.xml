@@ -4,7 +4,7 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Wed, 12 Jun 2024 09:20:45 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 12 Jun 2024 15:19:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
@@ -23,20 +23,6 @@ ANPICに登録されたメールアドレス宛に、
 ※未回答者には13日(木)、14日(金)にも安否確認メールを送信し…]]></description>
         </item>
         <item>
-            <title><![CDATA[【オンライン説明会オンデマンド配信中】夏季海外語学研修カザフ語（カザフスタン）]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5204</link>
-            <guid>75777d001e2fea85c825f7e10026e575</guid>
-            <pubDate>Wed, 12 Jun 2024 03:00:00 GMT</pubDate>
-            <description><![CDATA[オンライン説明会6月21日まで公開中（パスワード: NipCA2024）
-https://vimeo.com/954660418
-
-CiC協定大学 アルファラビ・カザフ国立大学への短期語学研修（派遣）を下記の日程にて開催することになりましたので、参加学生を募集します。
-
-研修内容：
-▶︎研修期間：2024年8月11日（日）〜9月7日（土）（移動日含む28日間。変更の可能性あり）
-▶︎研修地：カザフ…]]></description>
-        </item>
-        <item>
             <title><![CDATA[【参加者募集】プライドマンスセミナー：トランス排除からインターセクショナリティを考える（7/10）]]></title>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5203</link>
             <guid>f48752f6ef079ee21aebf6acf36e622d</guid>
@@ -53,8 +39,12 @@ CiC協定大学 アルファラビ・カザフ国立大学への短期語学研�
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5202</link>
             <guid>7bd6697cac1210d28ab44162b91ee56a</guid>
             <pubDate>Wed, 12 Jun 2024 03:00:00 GMT</pubDate>
-            <description><![CDATA[Thank you very much for your cooperation in the University's disaster preparedness.
-This is to inform you that the 2024 Safety Report Drill using the University of Tsukuba Safety Confirmation System (…]]></description>
+            <description><![CDATA[近年、日本ではトランスジェンダー、特にトランス女性の権利が女性の権利と対立するものとして捉えられる出来事が増えています。今回のプライドマンスのセミナーでは、トランス排除をテーマに、フェミニズムは誰のためのものなのかを考えます。
+飲食物持ち込み自由なので、お昼を食べながらお気軽にご参加ください！
+
+【セミナー概要】
+日時：2024年7月10日（水）11:30～12:10
+会場：スチューデント・コモン…]]></description>
         </item>
         <item>
             <title><![CDATA[再掲【お知らせ】令和6年度安否報告訓練の実施について(6月12日～14日)]]></title>
@@ -78,19 +68,17 @@ This is to inform you that the 2024 Safety Report Drill using the University of 
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5200</link>
             <guid>642891d3f93dbbe5172a5834f1e5a9af</guid>
             <pubDate>Mon, 10 Jun 2024 03:00:00 GMT</pubDate>
-            <description><![CDATA[4日間で計130社以上の企業・団体・官公庁が筑波大に集結！
-夏以降のインターンシップ最新情報を筑波大生に届けます
-この機会をお見逃しなく！
+            <description><![CDATA[日頃より、本学の災害対策にご協力いただきましてありがとうございます。
+筑波大学安否確認システム（ANPIC）を利用した令和６年度安否報告訓練の実施についてお知らせいたします。
 
-【開催概要】
-開催日程：2024年6月11日（火）～14日（金）
-会場：大学会館
-開催時間：11：30～16：00
-事前申込：不要
+１．目的
+大規模災害時における、本学の学生・教職員の安否を正確かつ迅速に把握するため、全学で安否報告訓練を実施する。
 
-◆  11日（火）14:00~特別セミナー開催！！
-【内容（予定）】
-➀特別講師((株)キャリアアンドブリッジ遠藤和氏)のイ…]]></description>
+２．実施日時
+令和６年６月１２日（水）～１４日（金）
+
+３．対象者
+　学生：学群生・大学院生（非正規生…]]></description>
         </item>
         <item>
             <title><![CDATA[【募集】2024/7/5, 8開催「国際スポーツイベントマネジメント論」オンライン]]></title>
@@ -275,6 +263,16 @@ BHEキャリア支援チームのファシリテーターからフィードバ�
 ◆業界不問◆
 日にち：令和６年6月19日（水）
 時間：午前　グループディスカッション編　10：00-11：…]]></description>
+        </item>
+        <item>
+            <title><![CDATA[【重要】2024年度第1期分授業料の納入督促について]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5183</link>
+            <guid>6352df31cdd8aa9f290bfd39ca5dee9f</guid>
+            <pubDate>Tue, 04 Jun 2024 03:00:00 GMT</pubDate>
+            <description><![CDATA[　2024年度第1期分授業料について、5月27日(月)に口座振替により引落しを行いました。残高不足等のため引落しができなかった者については、6月27日(木)に再度預金口座から引落しを行います。
+　つきましては、金融機関の前営業日である6月26日(水)までに登録した預金口座へ入金をお願いします。
+
+　なお、引落しがされている場合は、通帳に“ツクバダイ”と記帳されますので、引落しがされているか登録した…]]></description>
         </item>
     </channel>
 </rss>
