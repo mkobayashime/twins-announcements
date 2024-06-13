@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "d07de3a2549e9d1109e19fd73f9711de",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5207",
+            "title": "STOP！研究費不正使用！／STOP！Wrongful use of research funding！",
+            "summary": "学生の皆さんが不正使用に巻き込まれるケースが多発しています。\n不正を見かけた、持ちかけられたら、通報窓口へ。\nコンプライアンス・ハラスメント対策室（学内窓口）\nMail:compliance@un.tsukuba.ac.jp TEL:029-853-2033\nつくば中央法律事務所（学外窓口）\nTEL:029-896-3530  FAX:029-896-3531",
+            "date_modified": "2024-06-13T03:00:00.000Z"
+        },
+        {
             "id": "79c91210d737f57b99c6d2d9236f082d",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5206",
             "title": "【再掲6/19申込期限】学生の皆さんが安心して化学実験を行うための研修会",
@@ -15,7 +22,7 @@
             "id": "595ad03c7af637ea72f8d3e02290b877",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5205",
             "title": "安否状況をお知らせください",
-            "summary": "標記研修会を以下のとおり開催します。\n化学実験を行う学群・大学院生はご参加くださいますようお願いいたします。\n\n１．目的　\n実験に携わる学群・大学院生向けに，化学物質の危険性や有害性を伝え，\n事件事故や健康障害を引き起こすリスクを減らすこと\n\n２．開催日時および場所\n日時：令和６年６月２４日（月）１５時１５分～１６時３０分\n場所：総合研究棟Ａ１１０公開講義室\n\n３．内容\n（１）化学物質の安全な取り…",
+            "summary": "筑波大学安否確認システム（ANPIC）を利用した安否報告訓練を実施しております。\nANPICに登録されたメールアドレス宛に、\n筑波大学　安否確認システム <no-reply@jecc.jp>から、訓練メールが届きます。\n訓練メール本文中のアドレスにアクセスし、安否の登録をお願いいたします。\n\n回答〆切：6月14日(金)17時まで\n\n※未回答者には13日(木)、14日(金)にも安否確認メールを送信し…",
             "date_modified": "2024-06-12T03:00:00.000Z"
         },
         {
@@ -133,13 +140,6 @@
         {
             "id": "1e997d48fef5842b0eb10cadeb9f84d6",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5185",
-            "title": "【BHE就活支援】参加者募集中　6月19日チャレンジ実践会　",
-            "summary": "就活が本格化していることを受け、6月も対面とオンラインで開催します。\n対面面接編ではビジネスマナーも学ぶことができます。\n就活中の方、ISの選考を受ける方、参加して役立ててください。\nBHEキャリア支援チームのファシリテーターからフィードバックがあります。（日本語での開催です）\n\n＜対面＞\n\n◆業界不問◆\n日にち：令和６年6月19日（水）\n時間：午前　グループディスカッション編　10：00-11：…",
-            "date_modified": "2024-06-05T03:00:00.000Z"
-        },
-        {
-            "id": "1e997d48fef5842b0eb10cadeb9f84d6",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5184",
             "title": "【BHE就活支援】参加者募集中　6月19日チャレンジ実践会　",
             "summary": "就活が本格化していることを受け、6月も対面とオンラインで開催します。\n対面面接編ではビジネスマナーも学ぶことができます。\n就活中の方、ISの選考を受ける方、参加して役立ててください。\nBHEキャリア支援チームのファシリテーターからフィードバックがあります。（日本語での開催です）\n\n＜対面＞\n\n◆業界不問◆\n日にち：令和６年6月19日（水）\n時間：午前　グループディスカッション編　10：00-11：…",
             "date_modified": "2024-06-05T03:00:00.000Z"
