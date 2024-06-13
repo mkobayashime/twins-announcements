@@ -5,10 +5,17 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "79c91210d737f57b99c6d2d9236f082d",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5206",
+            "title": "【再掲6/19申込期限】学生の皆さんが安心して化学実験を行うための研修会",
+            "summary": "標記研修会を以下のとおり開催します。\n化学実験を行う学群・大学院生はご参加くださいますようお願いいたします。\n\n１．目的　\n実験に携わる学群・大学院生向けに，化学物質の危険性や有害性を伝え，\n事件事故や健康障害を引き起こすリスクを減らすこと\n\n２．開催日時および場所\n日時：令和６年６月２４日（月）１５時１５分～１６時３０分\n場所：総合研究棟Ａ１１０公開講義室\n\n３．内容\n（１）化学物質の安全な取り…",
+            "date_modified": "2024-06-13T03:00:00.000Z"
+        },
+        {
             "id": "595ad03c7af637ea72f8d3e02290b877",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5205",
             "title": "安否状況をお知らせください",
-            "summary": "筑波大学安否確認システム（ANPIC）を利用した安否報告訓練を実施しております。\nANPICに登録されたメールアドレス宛に、\n筑波大学　安否確認システム <no-reply@jecc.jp>から、訓練メールが届きます。\n訓練メール本文中のアドレスにアクセスし、安否の登録をお願いいたします。\n\n回答〆切：6月14日(金)17時まで\n\n※未回答者には13日(木)、14日(金)にも安否確認メールを送信し…",
+            "summary": "標記研修会を以下のとおり開催します。\n化学実験を行う学群・大学院生はご参加くださいますようお願いいたします。\n\n１．目的　\n実験に携わる学群・大学院生向けに，化学物質の危険性や有害性を伝え，\n事件事故や健康障害を引き起こすリスクを減らすこと\n\n２．開催日時および場所\n日時：令和６年６月２４日（月）１５時１５分～１６時３０分\n場所：総合研究棟Ａ１１０公開講義室\n\n３．内容\n（１）化学物質の安全な取り…",
             "date_modified": "2024-06-12T03:00:00.000Z"
         },
         {
@@ -136,13 +143,6 @@
             "title": "【BHE就活支援】参加者募集中　6月19日チャレンジ実践会　",
             "summary": "就活が本格化していることを受け、6月も対面とオンラインで開催します。\n対面面接編ではビジネスマナーも学ぶことができます。\n就活中の方、ISの選考を受ける方、参加して役立ててください。\nBHEキャリア支援チームのファシリテーターからフィードバックがあります。（日本語での開催です）\n\n＜対面＞\n\n◆業界不問◆\n日にち：令和６年6月19日（水）\n時間：午前　グループディスカッション編　10：00-11：…",
             "date_modified": "2024-06-05T03:00:00.000Z"
-        },
-        {
-            "id": "6352df31cdd8aa9f290bfd39ca5dee9f",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5183",
-            "title": "【重要】2024年度第1期分授業料の納入督促について",
-            "summary": "　2024年度第1期分授業料について、5月27日(月)に口座振替により引落しを行いました。残高不足等のため引落しができなかった者については、6月27日(木)に再度預金口座から引落しを行います。\n　つきましては、金融機関の前営業日である6月26日(水)までに登録した預金口座へ入金をお願いします。\n\n　なお、引落しがされている場合は、通帳に“ツクバダイ”と記帳されますので、引落しがされているか登録した…",
-            "date_modified": "2024-06-04T03:00:00.000Z"
         }
     ]
 }
