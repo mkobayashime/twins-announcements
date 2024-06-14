@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "b73c58777a40c42eb915afe8d7682789",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5210",
+            "title": "【お知らせ】7月よりセーファースペース「KiteKite（きてきて）」の開室時間を延長します！",
+            "summary": "ヒューマンエンパワーメント推進局（BHE）ジェンダー支援チームでは、令和5年7月よりセーファースペース「KiteKite（きてきて）」を実施しています。\nKiteKiteは、年齢・属性・所属・国籍・性別等を問わず、全ての筑波大学内者がグラウンドルールのもとに、ジェンダー・セクシュアリティについて（それ以外でも）プライバシーを守りながら安全に話をしたり、交流ができる場です。\n\nより多くの方に利用いた…",
+            "date_modified": "2024-06-14T03:00:00.000Z"
+        },
+        {
             "id": "b2b3412c7fa3c75f26914f0da24c44ab",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5208",
             "title": "【本日まで開催‼】「インターンシップ研究会」会場：大学会館（BHEキャリア支援チーム主催）",
@@ -133,13 +140,6 @@
         {
             "id": "1e997d48fef5842b0eb10cadeb9f84d6",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5185",
-            "title": "【BHE就活支援】参加者募集中　6月19日チャレンジ実践会　",
-            "summary": "就活が本格化していることを受け、6月も対面とオンラインで開催します。\n対面面接編ではビジネスマナーも学ぶことができます。\n就活中の方、ISの選考を受ける方、参加して役立ててください。\nBHEキャリア支援チームのファシリテーターからフィードバックがあります。（日本語での開催です）\n\n＜対面＞\n\n◆業界不問◆\n日にち：令和６年6月19日（水）\n時間：午前　グループディスカッション編　10：00-11：…",
-            "date_modified": "2024-06-05T03:00:00.000Z"
-        },
-        {
-            "id": "1e997d48fef5842b0eb10cadeb9f84d6",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5184",
             "title": "【BHE就活支援】参加者募集中　6月19日チャレンジ実践会　",
             "summary": "就活が本格化していることを受け、6月も対面とオンラインで開催します。\n対面面接編ではビジネスマナーも学ぶことができます。\n就活中の方、ISの選考を受ける方、参加して役立ててください。\nBHEキャリア支援チームのファシリテーターからフィードバックがあります。（日本語での開催です）\n\n＜対面＞\n\n◆業界不問◆\n日にち：令和６年6月19日（水）\n時間：午前　グループディスカッション編　10：00-11：…",
             "date_modified": "2024-06-05T03:00:00.000Z"
