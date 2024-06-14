@@ -4,10 +4,24 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Fri, 14 Jun 2024 05:13:44 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 14 Jun 2024 07:14:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
+        <item>
+            <title><![CDATA[【就職情報】交流イベント「レジリエンス研究教育推進コンソーシアムとのキャリアマッチングデー」(7/8)]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5211</link>
+            <guid>7a13fc51308a0a2e28ef4e9708265446</guid>
+            <pubDate>Fri, 14 Jun 2024 03:00:00 GMT</pubDate>
+            <description><![CDATA[本学と１４の企業・研究機関の協働によるレジリエンス研究教育推進コンソーシ
+アムが企画する交流イベント「筑波大学×レジリエンス研究教育推進コンソーシ
+アム キャリアマッチングデー」が開催されます。各業界をリードする企業・研究
+機関の採用担当者、実務担当者、研究者の方々と、学生の皆さんが直接交流でき
+る貴重な機会です。
+
+・これから参加できるインターンシップ情報を探したい
+・就職やキャリアに関する情報…]]></description>
+        </item>
         <item>
             <title><![CDATA[【お知らせ】7月よりセーファースペース「KiteKite（きてきて）」の開室時間を延長します！]]></title>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5210</link>
@@ -267,22 +281,6 @@ https://us02web.zoom.us/j/82340466719?pwd=vZ2QZhlPeAca6xB21OXBEG5EckFeVB.1
 ◆  11日（火）14:00~特別セミナー開催！！
 【内容（予定）】
 ➀特別講師((株)キャリアアン…]]></description>
-        </item>
-        <item>
-            <title><![CDATA[【BHE就活支援】参加者募集中　6月19日チャレンジ実践会　]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5185</link>
-            <guid>1e997d48fef5842b0eb10cadeb9f84d6</guid>
-            <pubDate>Wed, 05 Jun 2024 03:00:00 GMT</pubDate>
-            <description><![CDATA[就活が本格化していることを受け、6月も対面とオンラインで開催します。
-対面面接編ではビジネスマナーも学ぶことができます。
-就活中の方、ISの選考を受ける方、参加して役立ててください。
-BHEキャリア支援チームのファシリテーターからフィードバックがあります。（日本語での開催です）
-
-＜対面＞
-
-◆業界不問◆
-日にち：令和６年6月19日（水）
-時間：午前　グループディスカッション編　10：00-11：…]]></description>
         </item>
     </channel>
 </rss>
