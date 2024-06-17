@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/mkobayashime/twins-announcements</id>
     <title>在学生へのお知らせ | 筑波大学</title>
-    <updated>2024-06-17T05:17:12.120Z</updated>
+    <updated>2024-06-17T06:20:08.449Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://github.com/mkobayashime/twins-announcements"/>
     <subtitle>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</subtitle>
+    <entry>
+        <title type="html"><![CDATA[【北川フラム氏による講演会案内（対面）】地域を変えるアートの力と芸術祭を支える人々の力]]></title>
+        <id>18066b352574a9e1bbd7fb4ba6a05432</id>
+        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5216"/>
+        <updated>2024-06-17T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[テーマ：地域を変えるアートの力と芸術祭を支える人々の力
+講演ゲスト：アートディレクター　北川 フラム
+　　　　　（株）アートフロントギャラリー　野村 翠
+
+今年開催予定の北アルプス国際芸術祭2024に合わせ、当芸術祭の総合ディレクターを務める北川フラム氏と、㈱アートフロントギャラリーで北アルプス国際芸術祭の作品制作のコーディネート・事務局に携わる野村翠氏より、対面にてご講演いただきます。
+「なぜ今…]]></summary>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【ご案内】優良企業・研究機関の探し方講座～ダイヤモンド社～]]></title>
         <id>95c01334b55ee39d6b77675bab796108</id>
@@ -255,21 +267,5 @@ https://us02web.zoom.us/j/82340466719?pwd=vZ2QZhlPeAca6xB21OXBEG5EckFeVB.1
         <summary type="html"><![CDATA[　自分自身のことや将来のことについてもっと深く考えたい、考えたことを本音で話し合いたい、新しい人間関係を作りたいと思ったことはありませんか？
 　そんな方々に向けて、学生相談室では「エンカウンター合宿」を実施します。コロナ禍以来久しぶりの開催ですが、今回で43回目となる伝統ある企画です。各種心理学的ワークやBBQを通して、相互交流と自己理解を深めます。
 　日々に変化がほしい人、他学類・他専攻の友達を…]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【BHE就活支援】参加者募集中　6月19日チャレンジ実践会　]]></title>
-        <id>1e997d48fef5842b0eb10cadeb9f84d6</id>
-        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5185"/>
-        <updated>2024-06-05T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[就活が本格化していることを受け、6月も対面とオンラインで開催します。
-対面面接編ではビジネスマナーも学ぶことができます。
-就活中の方、ISの選考を受ける方、参加して役立ててください。
-BHEキャリア支援チームのファシリテーターからフィードバックがあります。（日本語での開催です）
-
-＜対面＞
-
-◆業界不問◆
-日にち：令和６年6月19日（水）
-時間：午前　グループディスカッション編　10：00-11：…]]></summary>
     </entry>
 </feed>
