@@ -4,10 +4,29 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Mon, 17 Jun 2024 21:18:31 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 18 Jun 2024 02:04:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
+        <item>
+            <title><![CDATA[【7.11】公開セミナー「留学」と「就職」～留学と就活の両立について～]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5217</link>
+            <guid>149195f344f366710fff588b12bdee1e</guid>
+            <pubDate>Tue, 18 Jun 2024 03:00:00 GMT</pubDate>
+            <description><![CDATA[第53回ASIP/TG+ 公開セミナーについてご案内いたします。
+
+タイトル：「留学」と「就職」～留学と就活の両立について～　
+日時：令和6年７月１１日（木）午前11時 30分～ 12時 30分
+講師：増田ゆうこ氏
+株式会社マイナビ　
+就職情報事業本部　グローバル採用企画統括部  
+グローバルキャリアサポート2課・課長
+
+内容：
+・留学後のキャリアを考える
+・グローバル人材に企業が求めること
+・留…]]></description>
+        </item>
         <item>
             <title><![CDATA[【北川フラム氏による講演会案内（対面）】地域を変えるアートの力と芸術祭を支える人々の力]]></title>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5216</link>
@@ -260,15 +279,6 @@ https://us02web.zoom.us/j/82340466719?pwd=vZ2QZhlPeAca6xB21OXBEG5EckFeVB.1
             <description><![CDATA[対話セミナー「テレマティクスデータがもたらすメリットと未来— 企業と共に研究テーマを探る —」を開催します。
 
 あいおいニッセイ同和損害保険株式会社は「テレコミュニケーション（通信）」と「インフォマティクス（情報工学）」を組み合わせた、テレマティクス自動車保険の車載器を通じて収集した自動車走行データを活用し、180万台のビッグデータをもとに地方自治体や企業と協力しながら地域社会の様々な課題解決に取…]]></description>
-        </item>
-        <item>
-            <title><![CDATA[【参加者募集】第43回エンカウンター合宿開催のお知らせ]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5189</link>
-            <guid>040108df21368ebd4e134fec7d8dd3c3</guid>
-            <pubDate>Thu, 06 Jun 2024 03:00:00 GMT</pubDate>
-            <description><![CDATA[　自分自身のことや将来のことについてもっと深く考えたい、考えたことを本音で話し合いたい、新しい人間関係を作りたいと思ったことはありませんか？
-　そんな方々に向けて、学生相談室では「エンカウンター合宿」を実施します。コロナ禍以来久しぶりの開催ですが、今回で43回目となる伝統ある企画です。各種心理学的ワークやBBQを通して、相互交流と自己理解を深めます。
-　日々に変化がほしい人、他学類・他専攻の友達を…]]></description>
         </item>
     </channel>
 </rss>
