@@ -4,10 +4,18 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Wed, 19 Jun 2024 03:05:03 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 19 Jun 2024 06:10:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
+        <item>
+            <title><![CDATA[留年等に係る学研災再加入手続きについて / Gakkensai Insurance for Repeat Year Students: Coverage for Additional Terms]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5221</link>
+            <guid>38d6bee8425c06494e27215491b620c3</guid>
+            <pubDate>Wed, 19 Jun 2024 03:00:00 GMT</pubDate>
+            <description><![CDATA[本学では，皆さんが安心して教育研究活動及び課外活動を行えるよう，学研災に必ず加入していただいております。
+In the University of Tsukuba, all students must take out an insurance “Personal Accident Insurance for Student Pursuing Education and Research (PAS…]]></description>
+        </item>
         <item>
             <title><![CDATA[学研災および付帯賠責の加入状況の確認方法　2024/06/19]]></title>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5220</link>
@@ -258,23 +266,6 @@ Venue:  All IIIS members, Gather in the 1F Auditorium, I…]]></description>
 <概要>
 主催：日本財団オーシャンイノベーションコンソーシアム
 実施期間：2024年7月1…]]></description>
-        </item>
-        <item>
-            <title><![CDATA[日本財団オーシャンイノベーションコンソーシアム イベント開催のお知らせ①]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5193</link>
-            <guid>8c262877d0f1d62e5c7ff12f22ae8b7c</guid>
-            <pubDate>Fri, 07 Jun 2024 03:00:00 GMT</pubDate>
-            <description><![CDATA[夏に開催予定のイベントをご案内いたします。
-皆様のご参加をお待ちしております！
-
-1．(予告）海洋科学掘削の舞台裏：地球深部探査船「ちきゅう」を知る２日間
-
-<概要>
-主催：日本財団オーシャンイノベーションコンソーシアム
-日時：2024年8月3日（土）〜4日（日）※ちきゅう船内にて1泊2日
-場所：静岡県　清水港
-共催： 国立研究開発法人   海洋研究開発機構（JAMSTEC）
-内容：JAMSTEC…]]></description>
         </item>
     </channel>
 </rss>
