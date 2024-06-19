@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "d6d082e878ceb61b3d5f716ae1d0c0f0",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5222",
+            "title": "（BHE)【公務員二次試験対策】面接練習会",
+            "summary": "24年度公務員試験受験者の方へ\n\n二次試験直前対策‼\n残席あります!!\n\n◆公務員試験受験対策◆\n日にち：令和6年6月28日（金）\n時間：集団面接編　10：00-11：30\n場所　筑波大学筑波キャンパス　人間系学系棟A　１１４\n申込み：\nBHE HP「ガイダンス等及び模擬試験　登録・申請」\nhttps://syushoku.sec.tsukuba.ac.jp/pls/piss/appli_stu.…",
+            "date_modified": "2024-06-19T03:00:00.000Z"
+        },
+        {
             "id": "38d6bee8425c06494e27215491b620c3",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5221",
             "title": "留年等に係る学研災再加入手続きについて / Gakkensai Insurance for Repeat Year Students: Coverage for Additional Terms",
@@ -135,13 +142,6 @@
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5196",
             "title": "Announcement of the 198th and 199th WPI-IIIS Seminar",
             "summary": "We are going to have the 198th & 199th WPI-IIIS Seminar on-site as follows.\n\n<The 198th Seminar>\nDate: Monday, June 24, 2024\nTime: 10:00 -11:00\nVenue:  All IIIS members, Gather in the 1F Auditorium, I…",
-            "date_modified": "2024-06-07T03:00:00.000Z"
-        },
-        {
-            "id": "a5c01a0530db6bb5fc17c0b703b13e1c",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5194",
-            "title": "日本財団オーシャンイノベーションコンソーシアム イベント開催のお知らせ②",
-            "summary": "夏に開催予定のイベントをご案内いたします。\n皆様のご参加をお待ちしております！\n\n3．課題解決型 海洋開発人材育成プロジェクト演習（PBL）\n日本財団オーシャンイノベーションコンソーシアムでは、今年も夏から、課題解決型プロジェクト演習（Project based Learning: PBL)を実施します。\n\n<概要>\n主催：日本財団オーシャンイノベーションコンソーシアム\n実施期間：2024年7月1…",
             "date_modified": "2024-06-07T03:00:00.000Z"
         }
     ]
