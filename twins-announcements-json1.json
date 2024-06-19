@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "edd2e74bf2bc7a871f520f076b33b967",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5223",
+            "title": "【ご案内】修学や就職のためのコミュニケーションワーク～パーソルダイバース～",
+            "summary": "自分のコミュニケーションの特性について理解を深めながら学校生活や就職活動で役立つコミュニケーションについて学ぶ講座です。このイベントはBHE主催のもと、パーソルダイバース株式会社のコミュニケーション・サポート・プログラム(CSP)を筑波大学生向けにアレンジして実施致します。\n大学生活で、\n・人に相談したり質問したりするのが苦手\n・複数人での会話が苦手で、自分の話すタイミングがわからない\n就職活動で…",
+            "date_modified": "2024-06-19T03:00:00.000Z"
+        },
+        {
             "id": "d6d082e878ceb61b3d5f716ae1d0c0f0",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5222",
             "title": "（BHE)【公務員二次試験対策】面接練習会",
@@ -135,13 +142,6 @@
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5198",
             "title": "第178回バイオeカフェ開催のお知らせ",
             "summary": "生物学類主催のサイエンスカフェ開催のお知らせです。\n\n第178回バイオeカフェ\n「もっとハチをみて！ しって！\n怖がらずにすすめたい Win-win なカンケイ」\n日時：6月25日（火）　18時30分～20時00分\n場所：2B棟2階210、オンライン(Zoom）\n\n◆ 対面 にて参加される方：参加費100円 - 事前申し込み不要\n当日は会場(2B210)まで直接お越しください。お菓子と飲み物を提供…",
-            "date_modified": "2024-06-07T03:00:00.000Z"
-        },
-        {
-            "id": "99cd5987dbef6acf45306e41c516f500",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5196",
-            "title": "Announcement of the 198th and 199th WPI-IIIS Seminar",
-            "summary": "We are going to have the 198th & 199th WPI-IIIS Seminar on-site as follows.\n\n<The 198th Seminar>\nDate: Monday, June 24, 2024\nTime: 10:00 -11:00\nVenue:  All IIIS members, Gather in the 1F Auditorium, I…",
             "date_modified": "2024-06-07T03:00:00.000Z"
         }
     ]
