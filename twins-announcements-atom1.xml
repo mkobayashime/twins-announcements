@@ -2,10 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/mkobayashime/twins-announcements</id>
     <title>在学生へのお知らせ | 筑波大学</title>
-    <updated>2024-06-20T05:04:53.422Z</updated>
+    <updated>2024-06-20T06:05:22.961Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://github.com/mkobayashime/twins-announcements"/>
     <subtitle>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</subtitle>
+    <entry>
+        <title type="html"><![CDATA[【再掲】TG⁺プログラム第5期生の募集を開始します]]></title>
+        <id>4bf07347f1692e2b0ba471aa11028276</id>
+        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5227"/>
+        <updated>2024-06-20T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[TG⁺プログラム第5期生の募集を開始します。
+
+【募集期間】
+5月31日～8月31日
+【締め切り】
+一次募集　6月30日（日）
+二次募集　8月31日（土）
+書類・面談による選考結果は、9月中旬に通知予定です。
+【申し込み】
+参加登録案内（https://tgplus.hass.tsukuba.ac.jp/entry/）をご覧ください。
+【説明会のご案内】
+募集にあたりプログラムの説明会を開催します…]]></summary>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【再掲載】夏季海外語学研修カザフ語（カザフスタン）締め切り間近！]]></title>
         <id>4347aa33053d60a0c76ea5268fe35c56</id>
@@ -84,7 +102,8 @@ In the University of Tsukuba, all students must take out an insurance “Persona
         <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5219"/>
         <updated>2024-06-18T03:00:00.000Z</updated>
         <summary type="html"><![CDATA[　ヒューマンエンパワーメント推進局では、筑波大学に所属する全学群生・大学院生を対象に、多様な学生のキャリア形成に対する視野を開くこと、また、博士進学後のキャリアパスをクリアにすることを目的として、令和6年度第1回博士のポートフォリオ大公開+ロールモデル懇談会を開催いたします。
-　博士課程に進学したきっかけや当時の悩みなど、筑波大学で博士号を取得した方に日ごろの疑問を質問できる貴重な]]></summary>
+　博士課程に進学したきっかけや当時の悩みなど、筑波大学で博士号を取得した方に日ごろの疑問を質問できる貴重な機会です。
+　障…]]></summary>
     </entry>
     <entry>
         <title type="html"><![CDATA[【7/9(火)説明会開催】海外先進大学スポーツマネジメント研修]]></title>
@@ -247,22 +266,5 @@ KiteKiteは、年齢・属性・所属・国籍・性別等を問わず、全て
         <updated>2024-06-12T03:00:00.000Z</updated>
         <summary type="html"><![CDATA[Thank you very much for your cooperation in the University's disaster preparedness.
 This is to inform you that the 2024 Safety Report Drill using the University of Tsukuba Safety Confirmation System (…]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[再掲【お知らせ】令和6年度安否報告訓練の実施について(6月12日～14日)]]></title>
-        <id>20995bf3af1c50ebb85a34a1cb41fd1f</id>
-        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5201"/>
-        <updated>2024-06-12T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[日頃より、本学の災害対策にご協力いただきましてありがとうございます。
-筑波大学安否確認システム（ANPIC）を利用した令和６年度安否報告訓練の実施についてお知らせいたします。
-
-１．目的
-大規模災害時における、本学の学生・教職員の安否を正確かつ迅速に把握するため、全学で安否報告訓練を実施する。
-
-２．実施日時
-令和６年６月１２日（水）～１４日（金）
-
-３．対象者
-　学生：学群生・大学院生（非正規生…]]></summary>
     </entry>
 </feed>
