@@ -2,14 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/mkobayashime/twins-announcements</id>
     <title>在学生へのお知らせ | 筑波大学</title>
-    <updated>2024-06-21T00:14:01.173Z</updated>
+    <updated>2024-06-21T01:30:12.478Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://github.com/mkobayashime/twins-announcements"/>
     <subtitle>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</subtitle>
     <entry>
-        <title type="html"><![CDATA[【参加者募集】パリ2024オリンピックパラリンピック壮行会 [7月4日(火)]]]></title>
-        <id>0d5c1197980305a49af2d584cda70f39</id>
-        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5228"/>
+        <title type="html"><![CDATA[【参加者募集】日仏討論会「スポーツを通じた社会変革」7月4日(木)]]></title>
+        <id>6a63427864e9382eeac5e2c60285e951</id>
+        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5230"/>
+        <updated>2024-06-21T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[
+東京2020大会のレガシーを踏まえ、スポーツを社会生活により浸透したかたちで考え、実践していくにあたり、フランス外務省と連携して、社会におけるスポーツの意味と可能性を議論します。
+
+どなたでも入場できますので、興味のある方はぜひご参加ください。
+参加をご希望の方は以下のURLから申し込みをお願いいたします。
+https://forms.gle/xsJT18sx4aAdmJpn6
+
+---
+会場：…]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【参加者募集】パリ2024オリンピックパラリンピック壮行会 [7月4日(木)]]]></title>
+        <id>d6ff45ecdacb708dcdf89ec322b003de</id>
+        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5229"/>
         <updated>2024-06-21T03:00:00.000Z</updated>
         <summary type="html"><![CDATA[筑波大学の関係者（附属学校や附属学校を含む）50名以上の方々が選手やスタッフとして、オリンピック・パラリンピックに参加されます。
 それに伴い、7月4日（木）に壮行会を大学会館にて開催しますので、皆で選手やスタッフにエールを送りましょう！
@@ -260,17 +275,5 @@ KiteKiteは、年齢・属性・所属・国籍・性別等を問わず、全て
 
 ３．内容
 （１）化学物質の安全な取り…]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【参加者募集】プライドマンスセミナー：トランス排除からインターセクショナリティを考える（7/10）]]></title>
-        <id>f48752f6ef079ee21aebf6acf36e622d</id>
-        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5203"/>
-        <updated>2024-06-12T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[近年、日本ではトランスジェンダー、特にトランス女性の権利が女性の権利と対立するものとして捉えられる出来事が増えています。今回のプライドマンスのセミナーでは、トランス排除をテーマに、フェミニズムは誰のためのものなのかを考えます。
-飲食物持ち込み自由なので、お昼を食べながらお気軽にご参加ください！
-
-【セミナー概要】
-日時：2024年7月10日（水）11:30～12:10
-会場：スチューデント・コモン…]]></summary>
     </entry>
 </feed>

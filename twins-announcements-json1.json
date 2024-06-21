@@ -5,9 +5,16 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
-            "id": "0d5c1197980305a49af2d584cda70f39",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5228",
-            "title": "【参加者募集】パリ2024オリンピックパラリンピック壮行会 [7月4日(火)]",
+            "id": "6a63427864e9382eeac5e2c60285e951",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5230",
+            "title": "【参加者募集】日仏討論会「スポーツを通じた社会変革」7月4日(木)",
+            "summary": "\n東京2020大会のレガシーを踏まえ、スポーツを社会生活により浸透したかたちで考え、実践していくにあたり、フランス外務省と連携して、社会におけるスポーツの意味と可能性を議論します。\n\nどなたでも入場できますので、興味のある方はぜひご参加ください。\n参加をご希望の方は以下のURLから申し込みをお願いいたします。\nhttps://forms.gle/xsJT18sx4aAdmJpn6\n\n---\n会場：…",
+            "date_modified": "2024-06-21T03:00:00.000Z"
+        },
+        {
+            "id": "d6ff45ecdacb708dcdf89ec322b003de",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5229",
+            "title": "【参加者募集】パリ2024オリンピックパラリンピック壮行会 [7月4日(木)]",
             "summary": "筑波大学の関係者（附属学校や附属学校を含む）50名以上の方々が選手やスタッフとして、オリンピック・パラリンピックに参加されます。\nそれに伴い、7月4日（木）に壮行会を大学会館にて開催しますので、皆で選手やスタッフにエールを送りましょう！\n\n参加をご希望の方は以下のURLからお申し込みください。\nhttps://forms.gle/xsJT18sx4aAdmJpn6\n\n---\n会場：筑波大学 大学会…",
             "date_modified": "2024-06-21T03:00:00.000Z"
         },
@@ -136,13 +143,6 @@
             "title": "【再掲6/19申込期限】学生の皆さんが安心して化学実験を行うための研修会",
             "summary": "標記研修会を以下のとおり開催します。\n化学実験を行う学群・大学院生はご参加くださいますようお願いいたします。\n\n１．目的　\n実験に携わる学群・大学院生向けに，化学物質の危険性や有害性を伝え，\n事件事故や健康障害を引き起こすリスクを減らすこと\n\n２．開催日時および場所\n日時：令和６年６月２４日（月）１５時１５分～１６時３０分\n場所：総合研究棟Ａ１１０公開講義室\n\n３．内容\n（１）化学物質の安全な取り…",
             "date_modified": "2024-06-13T03:00:00.000Z"
-        },
-        {
-            "id": "f48752f6ef079ee21aebf6acf36e622d",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5203",
-            "title": "【参加者募集】プライドマンスセミナー：トランス排除からインターセクショナリティを考える（7/10）",
-            "summary": "近年、日本ではトランスジェンダー、特にトランス女性の権利が女性の権利と対立するものとして捉えられる出来事が増えています。今回のプライドマンスのセミナーでは、トランス排除をテーマに、フェミニズムは誰のためのものなのかを考えます。\n飲食物持ち込み自由なので、お昼を食べながらお気軽にご参加ください！\n\n【セミナー概要】\n日時：2024年7月10日（水）11:30～12:10\n会場：スチューデント・コモン…",
-            "date_modified": "2024-06-12T03:00:00.000Z"
         }
     ]
 }
