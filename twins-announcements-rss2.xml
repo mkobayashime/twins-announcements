@@ -4,10 +4,24 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Thu, 20 Jun 2024 21:06:38 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 21 Jun 2024 00:14:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
+        <item>
+            <title><![CDATA[【参加者募集】パリ2024オリンピックパラリンピック壮行会 [7月4日(火)]]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5228</link>
+            <guid>0d5c1197980305a49af2d584cda70f39</guid>
+            <pubDate>Fri, 21 Jun 2024 03:00:00 GMT</pubDate>
+            <description><![CDATA[筑波大学の関係者（附属学校や附属学校を含む）50名以上の方々が選手やスタッフとして、オリンピック・パラリンピックに参加されます。
+それに伴い、7月4日（木）に壮行会を大学会館にて開催しますので、皆で選手やスタッフにエールを送りましょう！
+
+参加をご希望の方は以下のURLからお申し込みください。
+https://forms.gle/xsJT18sx4aAdmJpn6
+
+---
+会場：筑波大学 大学会…]]></description>
+        </item>
         <item>
             <title><![CDATA[【再掲】TG⁺プログラム第5期生の募集を開始します]]></title>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5227</link>
@@ -260,14 +274,6 @@ KiteKiteは、年齢・属性・所属・国籍・性別等を問わず、全て
 【セミナー概要】
 日時：2024年7月10日（水）11:30～12:10
 会場：スチューデント・コモン…]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Repost【Notice】Safety Report Drill for AY 2024(June 12～14)]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5202</link>
-            <guid>7bd6697cac1210d28ab44162b91ee56a</guid>
-            <pubDate>Wed, 12 Jun 2024 03:00:00 GMT</pubDate>
-            <description><![CDATA[Thank you very much for your cooperation in the University's disaster preparedness.
-This is to inform you that the 2024 Safety Report Drill using the University of Tsukuba Safety Confirmation System (…]]></description>
         </item>
     </channel>
 </rss>
