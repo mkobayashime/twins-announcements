@@ -4,10 +4,28 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Mon, 24 Jun 2024 21:06:42 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 25 Jun 2024 02:16:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
+        <item>
+            <title><![CDATA[（BHE)【公務員二次試験対策】面接練習会]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5237</link>
+            <guid>d6d082e878ceb61b3d5f716ae1d0c0f0</guid>
+            <pubDate>Tue, 25 Jun 2024 03:00:00 GMT</pubDate>
+            <description><![CDATA[24年度公務員試験受験者の方へ
+
+二次試験直前対策‼
+残席あります!!
+
+◆公務員試験受験対策◆
+日にち：令和6年6月28日（金）
+時間：集団面接編　10：00-11：30
+場所　筑波大学筑波キャンパス　人間系学系棟A　１１４
+申込み：
+BHE HP「ガイダンス等及び模擬試験　登録・申請」
+https://syushoku.sec.tsukuba.ac.jp/pls/piss/appli_stu.…]]></description>
+        </item>
         <item>
             <title><![CDATA[【7/11(木)17時開始】米国オハイオ州立大学との共同教育プログラム第1回説明会]]></title>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5236</link>
@@ -257,17 +275,6 @@ In the University of Tsukuba, all students must take out an insurance “Persona
 ◆興味のある企業の広げ方
 ◆優良企業について
 ◆研究機…]]></description>
-        </item>
-        <item>
-            <title><![CDATA[【単位認定】日本語サポーター募集！（TWINS締切 7/8）]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5214</link>
-            <guid>69516cb3451990294adadf02bca6d406</guid>
-            <pubDate>Mon, 17 Jun 2024 03:00:00 GMT</pubDate>
-            <description><![CDATA[茨城県の中学校と連携して、外国にルーツのある子どもたちの日本語学習や教科学習のサポートをする「日本語サポーター」を募集します。10月から2月末まで、授業の空き時間を利用して活動を行い、活動時間に応じて単位認定されます。学類や専門は問いません。自分の得意分野を活かして一緒に活動してみませんか。
-
-日本語サポーターになるためには、下記の授業を履修してください。
-科目番号：AE14H12（1単位）
-科目…]]></description>
         </item>
     </channel>
 </rss>
