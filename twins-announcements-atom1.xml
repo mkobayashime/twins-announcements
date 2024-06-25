@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/mkobayashime/twins-announcements</id>
     <title>在学生へのお知らせ | 筑波大学</title>
-    <updated>2024-06-25T02:16:53.055Z</updated>
+    <updated>2024-06-25T07:04:30.872Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://github.com/mkobayashime/twins-announcements"/>
     <subtitle>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</subtitle>
+    <entry>
+        <title type="html"><![CDATA[【附属図書館】7/15(月・祝)の開館時間について / [Library] Opening hours on Monday, July 15th (national holiday)]]></title>
+        <id>9ad9a7ec17480ed0aaa11a0b4717fde6</id>
+        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5238"/>
+        <updated>2024-06-25T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[7月15日(月・祝)、附属図書館は祝日の開館時間です。
+筑波キャンパスは授業日ですが、お間違えのないようお願いいたします。
+開館日カレンダーもあわせてご確認ください。
+
+Although it will be a class day, but we will be open during the holiday hours on Monday, July 15th (national holida…]]></summary>
+    </entry>
     <entry>
         <title type="html"><![CDATA[（BHE)【公務員二次試験対策】面接練習会]]></title>
         <id>d6d082e878ceb61b3d5f716ae1d0c0f0</id>
@@ -257,21 +268,5 @@ In the University of Tsukuba, all students must take out an insurance “Persona
 
 今年開催予定の北アルプス国際芸術祭2024に合わせ、当芸術祭の総合ディレクターを務める北川フラム氏と、㈱アートフロントギャラリーで北アルプス国際芸術祭の作品制作のコーディネート・事務局に携わる野村翠氏より、対面にてご講演いただきます。
 「なぜ今…]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【ご案内】優良企業・研究機関の探し方講座～ダイヤモンド社～]]></title>
-        <id>95c01334b55ee39d6b77675bab796108</id>
-        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5215"/>
-        <updated>2024-06-17T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[数多くのビジネス書を手掛けてきたダイヤモンド社ならではの視点で企業研究の仕方や優良企業の選び方について解説いたします。
-ぜひ皆様の進路を考える上でお役立てください。就活生はもちろんのこと大学１年生から博士後期学生まで全学生対象のセミナーです。
-
-日時 ７月１０日(水)　１８:００～１９:３０
-対象 全学生
-内容
-◆企業研究を深めるための情報源
-◆興味のある企業の広げ方
-◆優良企業について
-◆研究機…]]></summary>
     </entry>
 </feed>
