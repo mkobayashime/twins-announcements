@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "cb2c10a7c63700c0e7604c345e41cc25",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5245",
+            "title": "（BHE)【24年度教員採用試験面接試験対策】面接練習会",
+            "summary": "24年度教員採用試験受験者の方へ\n\n面接試験直前対策‼\n対面練習とビジネスマナーが学べます。\n\n◆24年度受験者対象　教員採用試験受験対策◆\n日にち：令和6年7月3日（水）\n時間：集団面接編　10：00-11：30\n場所　筑波大学筑波キャンパス　人間系学系棟A　１１４\n申込み：\nBHE HP「ガイダンス等及び模擬試験　登録・申請」\nhttps://syushoku.sec.tsukuba.ac.j…",
+            "date_modified": "2024-06-26T03:00:00.000Z"
+        },
+        {
             "id": "a50f9e02f89ece9d379a167a6a8b1617",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5244",
             "title": "【開催案内】2024年度つくばアクションプロジェクト活動報告会・新入生歓迎会― 開催のお知らせ 【7/10(水) 17:00～19:30】",
@@ -135,13 +142,6 @@
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5223",
             "title": "【ご案内】修学や就職のためのコミュニケーションワーク～パーソルダイバース～",
             "summary": "自分のコミュニケーションの特性について理解を深めながら学校生活や就職活動で役立つコミュニケーションについて学ぶ講座です。このイベントはBHE主催のもと、パーソルダイバース株式会社のコミュニケーション・サポート・プログラム(CSP)を筑波大学生向けにアレンジして実施致します。\n大学生活で、\n・人に相談したり質問したりするのが苦手\n・複数人での会話が苦手で、自分の話すタイミングがわからない\n就職活動で…",
-            "date_modified": "2024-06-19T03:00:00.000Z"
-        },
-        {
-            "id": "d6d082e878ceb61b3d5f716ae1d0c0f0",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5222",
-            "title": "（BHE)【公務員二次試験対策】面接練習会",
-            "summary": "24年度公務員試験受験者の方へ\n\n二次試験直前対策‼\n残席あります!!\n\n◆公務員試験受験対策◆\n日にち：令和6年6月28日（金）\n時間：集団面接編　10：00-11：30\n場所　筑波大学筑波キャンパス　人間系学系棟A　１１４\n申込み：\nBHE HP「ガイダンス等及び模擬試験　登録・申請」\nhttps://syushoku.sec.tsukuba.ac.jp/pls/piss/appli_stu.…",
             "date_modified": "2024-06-19T03:00:00.000Z"
         }
     ]
