@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "a50f9e02f89ece9d379a167a6a8b1617",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5244",
+            "title": "【開催案内】2024年度つくばアクションプロジェクト活動報告会・新入生歓迎会― 開催のお知らせ 【7/10(水) 17:00～19:30】",
+            "summary": "T-ACT推進室では実際につくばアクションプロジェクト（T-ACT） を企画して活動した学生の皆さんに、\n活動の様子を報告していただきながら参加者の方々と交流する場を持ちたく、\n「活動報告会」を開催します。\n\nより多くの新入生と交流しながらにT-ACTのことを知ってもらいたく\n「T-ACT Welcome Fest 2024」 と題し、本学の新入生を含む学生、教職員はもちろん、全国の筑波大学に興味…",
+            "date_modified": "2024-06-26T03:00:00.000Z"
+        },
+        {
             "id": "51ffbe56d8b3a86cf1812c3d0c28e45b",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5243",
             "title": "【再掲】7.11公開セミナー「留学」と「就職」～留学と就活の両立について～",
@@ -135,13 +142,6 @@
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5222",
             "title": "（BHE)【公務員二次試験対策】面接練習会",
             "summary": "24年度公務員試験受験者の方へ\n\n二次試験直前対策‼\n残席あります!!\n\n◆公務員試験受験対策◆\n日にち：令和6年6月28日（金）\n時間：集団面接編　10：00-11：30\n場所　筑波大学筑波キャンパス　人間系学系棟A　１１４\n申込み：\nBHE HP「ガイダンス等及び模擬試験　登録・申請」\nhttps://syushoku.sec.tsukuba.ac.jp/pls/piss/appli_stu.…",
-            "date_modified": "2024-06-19T03:00:00.000Z"
-        },
-        {
-            "id": "38d6bee8425c06494e27215491b620c3",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5221",
-            "title": "留年等に係る学研災再加入手続きについて / Gakkensai Insurance for Repeat Year Students: Coverage for Additional Terms",
-            "summary": "本学では，皆さんが安心して教育研究活動及び課外活動を行えるよう，学研災に必ず加入していただいております。\nIn the University of Tsukuba, all students must take out an insurance “Personal Accident Insurance for Student Pursuing Education and Research (PAS…",
             "date_modified": "2024-06-19T03:00:00.000Z"
         }
     ]
