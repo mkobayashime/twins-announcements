@@ -4,10 +4,22 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Wed, 26 Jun 2024 21:07:11 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 27 Jun 2024 07:04:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
+        <item>
+            <title><![CDATA[【7/5】全学FD「国際オンライン教育プラットフォームJV-Campus の紹介と本学での活用について」]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5246</link>
+            <guid>6c7e5c38aade54c3e3e043e53e6eaed6</guid>
+            <pubDate>Thu, 27 Jun 2024 03:00:00 GMT</pubDate>
+            <description><![CDATA[「JV-Campus」をご存じですか？
+
+　JV-Campus は⽂科省のプロジェクトとして「⽇本の⾼等教育の国際的⽞関⼝」となる⽬的で構築されたオンライン教育プラットフォームです。既に筑波⼤学を含む60 以上の国内の⼤学が国内外の学生にコンテンツを発信しています。
+　本FD ではJV-Campusを紹介し、本学での更なる活用に向けて皆様と情報共有を行いたいと思います。
+
+　あわせて、この夏全学対…]]></description>
+        </item>
         <item>
             <title><![CDATA[（BHE)【24年度教員採用試験面接試験対策】面接練習会]]></title>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5245</link>
@@ -265,24 +277,6 @@ https://vimeo.com/954660418
 ・人に相談したり質問したりするのが苦手
 ・複数人での会話が苦手で、自分の話すタイミングがわからない
 就職活動で…]]></description>
-        </item>
-        <item>
-            <title><![CDATA[（BHE)【公務員二次試験対策】面接練習会]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5222</link>
-            <guid>d6d082e878ceb61b3d5f716ae1d0c0f0</guid>
-            <pubDate>Wed, 19 Jun 2024 03:00:00 GMT</pubDate>
-            <description><![CDATA[24年度公務員試験受験者の方へ
-
-二次試験直前対策‼
-残席あります!!
-
-◆公務員試験受験対策◆
-日にち：令和6年6月28日（金）
-時間：集団面接編　10：00-11：30
-場所　筑波大学筑波キャンパス　人間系学系棟A　１１４
-申込み：
-BHE HP「ガイダンス等及び模擬試験　登録・申請」
-https://syushoku.sec.tsukuba.ac.jp/pls/piss/appli_stu.…]]></description>
         </item>
     </channel>
 </rss>
