@@ -4,10 +4,22 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Thu, 27 Jun 2024 07:04:34 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 27 Jun 2024 08:05:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
+        <item>
+            <title><![CDATA[（再掲）【参加者募集】プライドマンスセミナー：トランス排除からインターセクショナリティを考える（7/10）]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5247</link>
+            <guid>c7d64cec9d412b0a380337b330a6bf8f</guid>
+            <pubDate>Thu, 27 Jun 2024 03:00:00 GMT</pubDate>
+            <description><![CDATA[近年、日本ではトランスジェンダー、特にトランス女性の権利が女性の権利と対立するものとして捉えられる出来事が増えています。今回のプライドマンスのセミナーでは、トランス排除をテーマに、フェミニズムは誰のためのものなのかを考えます。
+飲食物持ち込み自由なので、お昼を食べながらお気軽にご参加ください！
+
+【セミナー概要】
+日時：2024年7月10日（水）11:30～12:10
+会場：スチューデント・コモン…]]></description>
+        </item>
         <item>
             <title><![CDATA[【7/5】全学FD「国際オンライン教育プラットフォームJV-Campus の紹介と本学での活用について」]]></title>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5246</link>
@@ -266,17 +278,6 @@ https://vimeo.com/954660418
 なお、サーバー更新作業中は、「学内専用ページ」、「ガイダンス等及び模試試験登録・申請」、「進路進捗状況届」へのアクセスはできません。
 皆様にはご迷惑をおかけいたしますが、ご理解、ご協力の程よろしくお願いいたします。
 ]]></description>
-        </item>
-        <item>
-            <title><![CDATA[【ご案内】修学や就職のためのコミュニケーションワーク～パーソルダイバース～]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5223</link>
-            <guid>edd2e74bf2bc7a871f520f076b33b967</guid>
-            <pubDate>Wed, 19 Jun 2024 03:00:00 GMT</pubDate>
-            <description><![CDATA[自分のコミュニケーションの特性について理解を深めながら学校生活や就職活動で役立つコミュニケーションについて学ぶ講座です。このイベントはBHE主催のもと、パーソルダイバース株式会社のコミュニケーション・サポート・プログラム(CSP)を筑波大学生向けにアレンジして実施致します。
-大学生活で、
-・人に相談したり質問したりするのが苦手
-・複数人での会話が苦手で、自分の話すタイミングがわからない
-就職活動で…]]></description>
         </item>
     </channel>
 </rss>
