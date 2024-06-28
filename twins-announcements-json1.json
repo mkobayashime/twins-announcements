@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "1f2fd4cf579c70bb9366a68ee525d7e4",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5248",
+            "title": "【募集】DXインターンシップ参加者の募集（筑波大学×UiPath㈱）",
+            "summary": "筑波大学では、UiPath株式会社とデータサイエンス・AI等DX分野での先鋭的な人材の発掘および育成に向けて、戦略パートナーシップ協定を締結しています。\n本協定に基づき「2024年度DXインターンシップ」を募集しますので、興味のある方は是非参加してください。\n\n【応募締切】7月10日（水）\n【応募先】https://hypnotic-asparagus-a23.notion.site/DX-9c6…",
+            "date_modified": "2024-06-28T03:00:00.000Z"
+        },
+        {
             "id": "c7d64cec9d412b0a380337b330a6bf8f",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5247",
             "title": "（再掲）【参加者募集】プライドマンスセミナー：トランス排除からインターセクショナリティを考える（7/10）",
@@ -136,13 +143,6 @@
             "title": "【再掲載】夏季海外語学研修カザフ語（カザフスタン）締め切り間近！",
             "summary": "CiC協定大学 アルファラビ・カザフ国立大学への短期語学研修（派遣）を下記の日程にて開催することになりましたので、参加学生を募集します。\nオンライン説明会6月21日まで公開中（パスワード: NipCA2024）\nhttps://vimeo.com/954660418\n\n【中央アジアに関心のある方、短期交換留学前のプレ留学としても最適です】\n研修内容：\n▶︎研修期間：2024年8月11日（日）〜9月…",
             "date_modified": "2024-06-20T03:00:00.000Z"
-        },
-        {
-            "id": "edd2e74bf2bc7a871f520f076b33b967",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5223",
-            "title": "【ご案内】修学や就職のためのコミュニケーションワーク～パーソルダイバース～",
-            "summary": "自分のコミュニケーションの特性について理解を深めながら学校生活や就職活動で役立つコミュニケーションについて学ぶ講座です。このイベントはBHE主催のもと、パーソルダイバース株式会社のコミュニケーション・サポート・プログラム(CSP)を筑波大学生向けにアレンジして実施致します。\n大学生活で、\n・人に相談したり質問したりするのが苦手\n・複数人での会話が苦手で、自分の話すタイミングがわからない\n就職活動で…",
-            "date_modified": "2024-06-19T03:00:00.000Z"
         }
     ]
 }
