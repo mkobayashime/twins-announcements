@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "5ab19009c6dee995d66ed81e5ffbf5ba",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5249",
+            "title": "【ご案内】修学や就職のためのコミュニケーションワーク～パーソルダイバース～　※リマインド",
+            "summary": "自分のコミュニケーションの特性について理解を深めながら学校生活や就職活動で役立つコミュニケーションについて学ぶ講座です。このイベントはBHE主催のもと、パーソルダイバース株式会社のコミュニケーション・サポート・プログラム(CSP)を筑波大学生向けにアレンジして実施致します。\n大学生活で、\n・人に相談したり質問したりするのが苦手\n・複数人での会話が苦手で、自分の話すタイミングがわからない\n就職活動で…",
+            "date_modified": "2024-06-28T03:00:00.000Z"
+        },
+        {
             "id": "1f2fd4cf579c70bb9366a68ee525d7e4",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5248",
             "title": "【募集】DXインターンシップ参加者の募集（筑波大学×UiPath㈱）",
@@ -135,13 +142,6 @@
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5227",
             "title": "【再掲】TG⁺プログラム第5期生の募集を開始します",
             "summary": "TG⁺プログラム第5期生の募集を開始します。\n\n【募集期間】\n5月31日～8月31日\n【締め切り】\n一次募集　6月30日（日）\n二次募集　8月31日（土）\n書類・面談による選考結果は、9月中旬に通知予定です。\n【申し込み】\n参加登録案内（https://tgplus.hass.tsukuba.ac.jp/entry/）をご覧ください。\n【説明会のご案内】\n募集にあたりプログラムの説明会を開催します…",
-            "date_modified": "2024-06-20T03:00:00.000Z"
-        },
-        {
-            "id": "4347aa33053d60a0c76ea5268fe35c56",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5225",
-            "title": "【再掲載】夏季海外語学研修カザフ語（カザフスタン）締め切り間近！",
-            "summary": "CiC協定大学 アルファラビ・カザフ国立大学への短期語学研修（派遣）を下記の日程にて開催することになりましたので、参加学生を募集します。\nオンライン説明会6月21日まで公開中（パスワード: NipCA2024）\nhttps://vimeo.com/954660418\n\n【中央アジアに関心のある方、短期交換留学前のプレ留学としても最適です】\n研修内容：\n▶︎研修期間：2024年8月11日（日）〜9月…",
             "date_modified": "2024-06-20T03:00:00.000Z"
         }
     ]
