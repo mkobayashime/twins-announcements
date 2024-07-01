@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "24e4400fdda4d4efce04191a4e744e1e",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5255",
+            "title": "【参加者募集】パリ2024オリンピック・パラリンピック壮行会 [7月4日(木)]",
+            "summary": "筑波大学の関係者（附属学校や附属学校を含む）50名以上の方々が選手やスタッフとして、オリンピック・パラリンピックに参加されます。\nそれに伴い、7月4日（木）に壮行会を大学会館にて開催しますので、皆で選手やスタッフにエールを送りましょう！\n\n参加をご希望の方は以下のURLからお申し込みください。\nhttps://forms.gle/xsJT18sx4aAdmJpn6\n\n---\n会場：筑波大学 大学会…",
+            "date_modified": "2024-07-01T03:00:00.000Z"
+        },
+        {
             "id": "a9d0564fbfb711aba731cc110cf33359",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5254",
             "title": "【manaba掲載のお知らせ】令和6年度夏季休業前の海外危機管理セミナーについて",
@@ -135,13 +142,6 @@
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5236",
             "title": "【7/11(木)17時開始】米国オハイオ州立大学との共同教育プログラム第1回説明会",
             "summary": "学生の皆様へ\n\n米国オハイオ州立大学との共同教育プログラム「ISSプログラム」の第１回説明会を次のとおり開催しますので、少しでも興味を持たれた方はぜひ参加してください。\n\n〇日時：2024年7月11日(木)　17:00～18:00\n〇オンサイト会場：スチューデント・コモンズ(第一エリア 1A棟2階)\n〇オンライン会場：Microsoft Teams （近日中にお知らせします）\n\n【プログラム（予定…",
-            "date_modified": "2024-06-24T03:00:00.000Z"
-        },
-        {
-            "id": "495c4c93cee0e1c5db7a342551292718",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5233",
-            "title": "【ご案内】優良企業・研究機関の探し方講座～ダイヤモンド社～(リマインド）",
-            "summary": "数多くのビジネス書を手掛けてきたダイヤモンド社ならではの視点で企業研究の仕方や優良企業の選び方について解説いたします。\nぜひ皆様の進路を考える上でお役立てください。就活生はもちろんのこと大学１年生から博士後期学生まで全学生対象のセミナーです。\n\n日時 ７月１０日(水)　１８:００～１９:３０\n対象 全学生\n内容\n◆企業研究を深めるための情報源\n◆興味のある企業の広げ方\n◆優良企業について\n◆研究機…",
             "date_modified": "2024-06-24T03:00:00.000Z"
         }
     ]

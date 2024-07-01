@@ -2,10 +2,24 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/mkobayashime/twins-announcements</id>
     <title>在学生へのお知らせ | 筑波大学</title>
-    <updated>2024-07-01T09:08:10.861Z</updated>
+    <updated>2024-07-01T10:04:43.172Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://github.com/mkobayashime/twins-announcements"/>
     <subtitle>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</subtitle>
+    <entry>
+        <title type="html"><![CDATA[【参加者募集】パリ2024オリンピック・パラリンピック壮行会 [7月4日(木)]]]></title>
+        <id>24e4400fdda4d4efce04191a4e744e1e</id>
+        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5255"/>
+        <updated>2024-07-01T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[筑波大学の関係者（附属学校や附属学校を含む）50名以上の方々が選手やスタッフとして、オリンピック・パラリンピックに参加されます。
+それに伴い、7月4日（木）に壮行会を大学会館にて開催しますので、皆で選手やスタッフにエールを送りましょう！
+
+参加をご希望の方は以下のURLからお申し込みください。
+https://forms.gle/xsJT18sx4aAdmJpn6
+
+---
+会場：筑波大学 大学会…]]></summary>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【manaba掲載のお知らせ】令和6年度夏季休業前の海外危機管理セミナーについて]]></title>
         <id>a9d0564fbfb711aba731cc110cf33359</id>
@@ -252,21 +266,5 @@ https://syushoku.sec.tsukuba.ac.jp/pls/piss/appli_stu.…]]></summary>
 〇オンライン会場：Microsoft Teams （近日中にお知らせします）
 
 【プログラム（予定…]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【ご案内】優良企業・研究機関の探し方講座～ダイヤモンド社～(リマインド）]]></title>
-        <id>495c4c93cee0e1c5db7a342551292718</id>
-        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5233"/>
-        <updated>2024-06-24T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[数多くのビジネス書を手掛けてきたダイヤモンド社ならではの視点で企業研究の仕方や優良企業の選び方について解説いたします。
-ぜひ皆様の進路を考える上でお役立てください。就活生はもちろんのこと大学１年生から博士後期学生まで全学生対象のセミナーです。
-
-日時 ７月１０日(水)　１８:００～１９:３０
-対象 全学生
-内容
-◆企業研究を深めるための情報源
-◆興味のある企業の広げ方
-◆優良企業について
-◆研究機…]]></summary>
     </entry>
 </feed>
