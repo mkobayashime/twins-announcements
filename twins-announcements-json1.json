@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "b9d9bf654707873419717683aa9ec217",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5252",
+            "title": "【留学生向けお知らせ】公益財団法人　渥美国際交流財団奨学金（2025年度）/Atsumi International Foundation 2025",
+            "summary": "公益財団法人　渥美国際交流財団（2025年度）\n応募期間：2024年9月2日(月)～30(月)　17時　※必着\n提出先：財団へ直接応募\n募集要項：（PDF(資料1)）\n※この奨学金を受給する者は、2025年度の大学推薦奨学金の申請資格がありません。\n※高い日本語能力が必要です。\n\nAtsumi International Foundation 2025\nApplication period:\nFr…",
+            "date_modified": "2024-07-01T03:00:00.000Z"
+        },
+        {
             "id": "47fa7aa9fc3bdf2b444ce9cbbcd122fe",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5251",
             "title": "【参加者募集・7/31開催】第３回博士のポートフォリオ大公開 + ロールモデル懇談会",
@@ -135,13 +142,6 @@
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5230",
             "title": "【参加者募集】日仏討論会「スポーツを通じた社会変革」7月4日(木)",
             "summary": "\n東京2020大会のレガシーを踏まえ、スポーツを社会生活により浸透したかたちで考え、実践していくにあたり、フランス外務省と連携して、社会におけるスポーツの意味と可能性を議論します。\n\nどなたでも入場できますので、興味のある方はぜひご参加ください。\n参加をご希望の方は以下のURLから申し込みをお願いいたします。\nhttps://forms.gle/xsJT18sx4aAdmJpn6\n\n---\n会場：…",
-            "date_modified": "2024-06-21T03:00:00.000Z"
-        },
-        {
-            "id": "d6ff45ecdacb708dcdf89ec322b003de",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5229",
-            "title": "【参加者募集】パリ2024オリンピックパラリンピック壮行会 [7月4日(木)]",
-            "summary": "筑波大学の関係者（附属学校や附属学校を含む）50名以上の方々が選手やスタッフとして、オリンピック・パラリンピックに参加されます。\nそれに伴い、7月4日（木）に壮行会を大学会館にて開催しますので、皆で選手やスタッフにエールを送りましょう！\n\n参加をご希望の方は以下のURLからお申し込みください。\nhttps://forms.gle/xsJT18sx4aAdmJpn6\n\n---\n会場：筑波大学 大学会…",
             "date_modified": "2024-06-21T03:00:00.000Z"
         }
     ]

@@ -2,10 +2,26 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/mkobayashime/twins-announcements</id>
     <title>在学生へのお知らせ | 筑波大学</title>
-    <updated>2024-07-01T01:31:27.938Z</updated>
+    <updated>2024-07-01T03:04:52.739Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://github.com/mkobayashime/twins-announcements"/>
     <subtitle>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</subtitle>
+    <entry>
+        <title type="html"><![CDATA[【留学生向けお知らせ】公益財団法人　渥美国際交流財団奨学金（2025年度）/Atsumi International Foundation 2025]]></title>
+        <id>b9d9bf654707873419717683aa9ec217</id>
+        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5252"/>
+        <updated>2024-07-01T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[公益財団法人　渥美国際交流財団（2025年度）
+応募期間：2024年9月2日(月)～30(月)　17時　※必着
+提出先：財団へ直接応募
+募集要項：（PDF(資料1)）
+※この奨学金を受給する者は、2025年度の大学推薦奨学金の申請資格がありません。
+※高い日本語能力が必要です。
+
+Atsumi International Foundation 2025
+Application period:
+Fr…]]></summary>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【参加者募集・7/31開催】第３回博士のポートフォリオ大公開 + ロールモデル懇談会]]></title>
         <id>47fa7aa9fc3bdf2b444ce9cbbcd122fe</id>
@@ -254,19 +270,5 @@ https://forms.gle/xsJT18sx4aAdmJpn6
 
 ---
 会場：…]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【参加者募集】パリ2024オリンピックパラリンピック壮行会 [7月4日(木)]]]></title>
-        <id>d6ff45ecdacb708dcdf89ec322b003de</id>
-        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5229"/>
-        <updated>2024-06-21T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[筑波大学の関係者（附属学校や附属学校を含む）50名以上の方々が選手やスタッフとして、オリンピック・パラリンピックに参加されます。
-それに伴い、7月4日（木）に壮行会を大学会館にて開催しますので、皆で選手やスタッフにエールを送りましょう！
-
-参加をご希望の方は以下のURLからお申し込みください。
-https://forms.gle/xsJT18sx4aAdmJpn6
-
----
-会場：筑波大学 大学会…]]></summary>
     </entry>
 </feed>
