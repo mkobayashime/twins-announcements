@@ -5,6 +5,20 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "58cc972b0ebfe95551bd5c61f1607a4b",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5260",
+            "title": "【CEGLOC】語学学習相談イベント開催の知らせ（令和６年７月２５日開催）",
+            "summary": "　CEGLOCのAcademic Writing Support Deskとメディアライブラリーが合同企画する語学学習相談イベントが開催されます。\n\n日時：７/25（木）5限\n場所：CEGLOCメディアライブラリー\nお問い合わせ：tsukuba.cegloc.english@gmail.com\n\n　様々な語学試験（スペイン語、中国語、韓国語、ドイツ語、英語、フランス語）の準備や対策に関して各言語教…",
+            "date_modified": "2024-07-02T03:00:00.000Z"
+        },
+        {
+            "id": "7a72b67ab053ed9466d9ecae951eafa4",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5259",
+            "title": "【再掲】TG⁺プログラム第5期生の募集",
+            "summary": "TG⁺プログラム第5期生の募集を開始しています。\n\n【募集期間】\n5月25日～8月31日\n【締め切り】\n一次募集　6月30日（日）→締め切りました\n二次募集　8月31日（土）→募集中です\n\n一次募集締め切り後、応募者面談等を順次実施します。\n二次募集は、一次募集の応募者数に関わらず必ず実施されます。\n書類・面談による選考結果は、9月中旬に通知予定です。\n\n【申し込み】\n参加登録案内（https:/…",
+            "date_modified": "2024-07-02T03:00:00.000Z"
+        },
+        {
             "id": "b43eddc78873954563b63be4b1d6d243",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5258",
             "title": "【見逃し配信】学生の皆さんが安心して化学実験を行うための研修会（英語版有）",
@@ -128,20 +142,6 @@
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5241",
             "title": "【July27-29】Online festival between UT and Ohio State University",
             "summary": "We are thrilled to announce a special collaborative event between the University of Tsukuba and the Ohio State University! This unique online festival will take place at the end of July and promises t…",
-            "date_modified": "2024-06-25T03:00:00.000Z"
-        },
-        {
-            "id": "d88664628fec5e19ab09e5dfc7f271fe",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5240",
-            "title": "【7/27(土）～29(月)】ISSサマーフェスティバル開催",
-            "summary": "学生の皆様へ\n\n筑波大学×オハイオ州立大学オンライン文化祭開催します！\n2024年7月、筑波大学とオハイオ州立大学(OSU)の合同イベント「ISS Summer Festival」がオンラインにて初開催。トクベツな体験をお届けします。\n\n＜イベント概要＞\n〇開催日程：2024年7月27日～29日\n〇リアルタイム企画開催時間：21:00-23:00（日本標準時）/ 8:00-10:00 （米国東部標…",
-            "date_modified": "2024-06-25T03:00:00.000Z"
-        },
-        {
-            "id": "97b9a06a6ef5fe02f8ff4ad5854ed8e0",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5239",
-            "title": "【開講のお知らせ】補講日本語4　話す／補講日本語4　書く/2 additional Supplementary Japanese Courses",
-            "summary": "2024春Cで留学生に向けた「補講日本語4　話す」XJ04132「補講日本語4　書く」XJ04252 を追加開講します！2 additional Supplementary Japanese Courses will be conducted in Module C 2024!",
             "date_modified": "2024-06-25T03:00:00.000Z"
         }
     ]
