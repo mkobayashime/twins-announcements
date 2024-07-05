@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "8b33ee3437665fe1289213449cebd22c",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5272",
+            "title": "【交通費支給】ダイバーシティとキャリアに関するワークショップ参加者の募集",
+            "summary": "現在、私たちの研究グループでは、リシュモンジャパン株式会社※（カルティエ等のブランドを運営する会社）と共同して、多様な属性や特性をもつ学生一人ひとりが安心して働きたいと思える職場とはどのような職場なのか、職場におけるダイバーシティ＆インクルージョン（Diversity & Inclusion）について研究を進めています。\n\n今回、リシュモンジャパン株式会社が主催するワークショップを【8月27日（火…",
+            "date_modified": "2024-07-05T03:00:00.000Z"
+        },
+        {
             "id": "2afe58df1087ce00ca2333713973069c",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5271",
             "title": "【CEGLOC】語学学習相談イベント開催（令和６年７月２５日開催）",
@@ -135,13 +142,6 @@
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5250",
             "title": "（BHE)【教員採用試験　面接試験対策】面接練習会",
             "summary": "24年度教員採用試験受験者の方へ\n\n二次試験直前対策　面接練習会のご案内です。\n模擬面接練習・ビジネスマナー講座もあります。\n\n◆教員採用試験受験対策◆\n日にち：令和6年7月3日（水）\n時間：集団面接編　10：00-11：30\n場所　筑波大学筑波キャンパス　人間系学系棟A　１１４\n申込み：\nBHE HP「ガイダンス等及び模擬試験　登録・申請」\nhttps://syushoku.sec.tsukub…",
-            "date_modified": "2024-06-28T03:00:00.000Z"
-        },
-        {
-            "id": "5ab19009c6dee995d66ed81e5ffbf5ba",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5249",
-            "title": "【ご案内】修学や就職のためのコミュニケーションワーク～パーソルダイバース～　※リマインド",
-            "summary": "自分のコミュニケーションの特性について理解を深めながら学校生活や就職活動で役立つコミュニケーションについて学ぶ講座です。このイベントはBHE主催のもと、パーソルダイバース株式会社のコミュニケーション・サポート・プログラム(CSP)を筑波大学生向けにアレンジして実施致します。\n大学生活で、\n・人に相談したり質問したりするのが苦手\n・複数人での会話が苦手で、自分の話すタイミングがわからない\n就職活動で…",
             "date_modified": "2024-06-28T03:00:00.000Z"
         }
     ]

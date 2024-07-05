@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/mkobayashime/twins-announcements</id>
     <title>在学生へのお知らせ | 筑波大学</title>
-    <updated>2024-07-04T21:06:53.111Z</updated>
+    <updated>2024-07-05T05:04:36.092Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://github.com/mkobayashime/twins-announcements"/>
     <subtitle>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</subtitle>
+    <entry>
+        <title type="html"><![CDATA[【交通費支給】ダイバーシティとキャリアに関するワークショップ参加者の募集]]></title>
+        <id>8b33ee3437665fe1289213449cebd22c</id>
+        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5272"/>
+        <updated>2024-07-05T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[現在、私たちの研究グループでは、リシュモンジャパン株式会社※（カルティエ等のブランドを運営する会社）と共同して、多様な属性や特性をもつ学生一人ひとりが安心して働きたいと思える職場とはどのような職場なのか、職場におけるダイバーシティ＆インクルージョン（Diversity & Inclusion）について研究を進めています。
+
+今回、リシュモンジャパン株式会社が主催するワークショップを【8月27日（火…]]></summary>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【CEGLOC】語学学習相談イベント開催（令和６年７月２５日開催）]]></title>
         <id>2afe58df1087ce00ca2333713973069c</id>
@@ -255,16 +264,5 @@ Fr…]]></summary>
 申込み：
 BHE HP「ガイダンス等及び模擬試験　登録・申請」
 https://syushoku.sec.tsukub…]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【ご案内】修学や就職のためのコミュニケーションワーク～パーソルダイバース～　※リマインド]]></title>
-        <id>5ab19009c6dee995d66ed81e5ffbf5ba</id>
-        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5249"/>
-        <updated>2024-06-28T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[自分のコミュニケーションの特性について理解を深めながら学校生活や就職活動で役立つコミュニケーションについて学ぶ講座です。このイベントはBHE主催のもと、パーソルダイバース株式会社のコミュニケーション・サポート・プログラム(CSP)を筑波大学生向けにアレンジして実施致します。
-大学生活で、
-・人に相談したり質問したりするのが苦手
-・複数人での会話が苦手で、自分の話すタイミングがわからない
-就職活動で…]]></summary>
     </entry>
 </feed>
