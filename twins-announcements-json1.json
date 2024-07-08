@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "6352df31cdd8aa9f290bfd39ca5dee9f",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5278",
+            "title": "【重要】2024年度第1期分授業料の納入督促について",
+            "summary": "2024年度第1期分授業料未納者は、「払込取扱票」が送付されているので、確認の上、速やかに金融機関窓口にて納付されるようお願いします。\n納付されないときは、本学学則による除籍処分該当者となります。\n\n・口座振替対象の未納者は、7月に発行される払込取扱票により納入をお願いします。\n・払込取扱票が既に発行されている未納者は、お持ちの払込取扱票により納入をお願いします。\n\n※本掲示は全ての学生・教員に通…",
+            "date_modified": "2024-07-05T03:00:00.000Z"
+        },
+        {
             "id": "279ddb7e29f743fef04e89e3973789bb",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5277",
             "title": "【Announcement】AY 2024 Class Recess Due to the Undergraduate Entrance Examinations",
@@ -135,13 +142,6 @@
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5254",
             "title": "【manaba掲載のお知らせ】令和6年度夏季休業前の海外危機管理セミナーについて",
             "summary": "6/26(水)に開催した標記セミナーについて、セミナーの動画と関係資料をmanabaに掲載しましたので、お知らせいたします。\nコース登録方法、動画視聴方法等につきましては、添付ファイルをご確認ください。\n\n\n＜以下、参考：セミナーの概要情報＞\n海外危機管理セミナーを開催しますので、お知らせいたします。\n海外危機管理に関するスペシャリストをお招きし、海外渡航前の準備事項と、現地での安全対策について学…",
-            "date_modified": "2024-07-01T03:00:00.000Z"
-        },
-        {
-            "id": "4de25c310941f378a4993ebef8fa0d3a",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5253",
-            "title": "起業家教育プログラム「筑波クリエイティブ・キャンプ・アドバンスト」のご案内",
-            "summary": "2024年度の学群自由科目・大学院共通科目「筑波クリエイティブ・キャンプ・アドバンスト」が10月2日（水）から始まります！\n\n各自が考えているビジネスプランをCustomer-Problem Fit/Solution-Problem Fitのプロセスにより検証・ブラッシュアップする最新事業化メソッドカリキュラムを実施します。\n\nLINEを世界的SNSに成長させ、さらに現在はC CHANNELを世界…",
             "date_modified": "2024-07-01T03:00:00.000Z"
         }
     ]

@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/mkobayashime/twins-announcements</id>
     <title>在学生へのお知らせ | 筑波大学</title>
-    <updated>2024-07-07T21:07:06.415Z</updated>
+    <updated>2024-07-08T02:18:04.744Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://github.com/mkobayashime/twins-announcements"/>
     <subtitle>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</subtitle>
+    <entry>
+        <title type="html"><![CDATA[【重要】2024年度第1期分授業料の納入督促について]]></title>
+        <id>6352df31cdd8aa9f290bfd39ca5dee9f</id>
+        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5278"/>
+        <updated>2024-07-05T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[2024年度第1期分授業料未納者は、「払込取扱票」が送付されているので、確認の上、速やかに金融機関窓口にて納付されるようお願いします。
+納付されないときは、本学学則による除籍処分該当者となります。
+
+・口座振替対象の未納者は、7月に発行される払込取扱票により納入をお願いします。
+・払込取扱票が既に発行されている未納者は、お持ちの払込取扱票により納入をお願いします。
+
+※本掲示は全ての学生・教員に通…]]></summary>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【Announcement】AY 2024 Class Recess Due to the Undergraduate Entrance Examinations]]></title>
         <id>279ddb7e29f743fef04e89e3973789bb</id>
@@ -238,16 +251,5 @@ ECサイトは以下のリンクから
 ＜以下、参考：セミナーの概要情報＞
 海外危機管理セミナーを開催しますので、お知らせいたします。
 海外危機管理に関するスペシャリストをお招きし、海外渡航前の準備事項と、現地での安全対策について学…]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[起業家教育プログラム「筑波クリエイティブ・キャンプ・アドバンスト」のご案内]]></title>
-        <id>4de25c310941f378a4993ebef8fa0d3a</id>
-        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5253"/>
-        <updated>2024-07-01T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[2024年度の学群自由科目・大学院共通科目「筑波クリエイティブ・キャンプ・アドバンスト」が10月2日（水）から始まります！
-
-各自が考えているビジネスプランをCustomer-Problem Fit/Solution-Problem Fitのプロセスにより検証・ブラッシュアップする最新事業化メソッドカリキュラムを実施します。
-
-LINEを世界的SNSに成長させ、さらに現在はC CHANNELを世界…]]></summary>
     </entry>
 </feed>
