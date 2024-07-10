@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "6bc4ec8d1884b61bb77c60b1adb7f141",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5283",
+            "title": "【注意喚起】不審者情報について",
+            "summary": "人間系学系棟利用者の皆様\n\n\n　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　人間エリア支援室　\n\n\n　　　　　　　　　　　　　　　　不審者情報について（注意喚起）\n\n　人間系学系棟利用者から６月１９日に以下のような行動をおこなった男性の不審者情報について報告\nがありました。\n　本件の報告を受け、人間系学系棟の警備巡回を増やす等、警備強化を行っています。\n　ついては、人間系…",
+            "date_modified": "2024-07-10T03:00:00.000Z"
+        },
+        {
             "id": "7150bf43ce311a3250b5348379339207",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5282",
             "title": "【附属図書館】夏季休業期間の貸出および休館 / [Library] Loan sevice and library closure during the summer holidays",
@@ -135,13 +142,6 @@
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5258",
             "title": "【見逃し配信】学生の皆さんが安心して化学実験を行うための研修会（英語版有）",
             "summary": "令和６年6月２４日（月）に開催しました「令和６年度学生の皆さんが安心して化学実験を行うための研修会」の見逃し配信を、下記のとおり行います。　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　    \n\n１．目的　\n　　実験に携わる学群・大学院生向けに，化学物質の危険性や有害性を伝え，\n　　事件事故や健康障害を引き起こすリスクを減らすこと\n\n２．開催方法\n　　…",
-            "date_modified": "2024-07-02T03:00:00.000Z"
-        },
-        {
-            "id": "886a3c67b37d20388fe2924cc06c67d0",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5257",
-            "title": "（BHE)明日開催！空き枠あり‼【教員採用試験　面接試験対策】面接練習会",
-            "summary": "24年度教員採用試験受験者の方へ\n\n二次試験直前対策　面接練習会のご案内です。\n模擬面接練習・ビジネスマナー講座もあります。\n\n◆教員採用試験受験対策◆\n日にち：令和6年7月3日（水）\n時間：集団面接編　10：00-11：30\n場所　筑波大学筑波キャンパス　人間系学系棟A　１１４\n申込み：\nBHE HP「ガイダンス等及び模擬試験　登録・申請」\nhttps://syushoku.sec.tsukub…",
             "date_modified": "2024-07-02T03:00:00.000Z"
         }
     ]
