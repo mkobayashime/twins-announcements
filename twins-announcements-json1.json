@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "1d06dd72aa6e91f77a36aa090759cff0",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5284",
+            "title": "（再掲）【参加者募集・7/31開催】第３回博士のポートフォリオ大公開 + ロールモデル懇談会",
+            "summary": "ヒューマンエンパワーメント推進局（BHE）では、筑波大学に所属する全学群生・大学院生を対象に、多様な学生のキャリア形成に対する視野を開くこと、また、博士進学後のキャリアパスをクリアにすることを目的として、令和6年度第3回博士のポートフォリオ大公開+ロールモデル懇談会を開催します。\n博士課程に進学したきっかけや当時の悩みなど、筑波大学で博士号を取得した方に日ごろの疑問を質問できる貴重な機会です。障害…",
+            "date_modified": "2024-07-10T03:00:00.000Z"
+        },
+        {
             "id": "6bc4ec8d1884b61bb77c60b1adb7f141",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5283",
             "title": "【注意喚起】不審者情報について",
@@ -135,13 +142,6 @@
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5259",
             "title": "【再掲】TG⁺プログラム第5期生の募集",
             "summary": "TG⁺プログラム第5期生の募集を開始しています。\n\n【募集期間】\n5月25日～8月31日\n【締め切り】\n一次募集　6月30日（日）→締め切りました\n二次募集　8月31日（土）→募集中です\n\n一次募集締め切り後、応募者面談等を順次実施します。\n二次募集は、一次募集の応募者数に関わらず必ず実施されます。\n書類・面談による選考結果は、9月中旬に通知予定です。\n\n【申し込み】\n参加登録案内（https:/…",
-            "date_modified": "2024-07-02T03:00:00.000Z"
-        },
-        {
-            "id": "b43eddc78873954563b63be4b1d6d243",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5258",
-            "title": "【見逃し配信】学生の皆さんが安心して化学実験を行うための研修会（英語版有）",
-            "summary": "令和６年6月２４日（月）に開催しました「令和６年度学生の皆さんが安心して化学実験を行うための研修会」の見逃し配信を、下記のとおり行います。　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　    \n\n１．目的　\n　　実験に携わる学群・大学院生向けに，化学物質の危険性や有害性を伝え，\n　　事件事故や健康障害を引き起こすリスクを減らすこと\n\n２．開催方法\n　　…",
             "date_modified": "2024-07-02T03:00:00.000Z"
         }
     ]

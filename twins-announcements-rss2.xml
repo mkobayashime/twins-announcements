@@ -4,10 +4,18 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Wed, 10 Jul 2024 06:05:43 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 10 Jul 2024 07:05:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
+        <item>
+            <title><![CDATA[（再掲）【参加者募集・7/31開催】第３回博士のポートフォリオ大公開 + ロールモデル懇談会]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5284</link>
+            <guid>1d06dd72aa6e91f77a36aa090759cff0</guid>
+            <pubDate>Wed, 10 Jul 2024 03:00:00 GMT</pubDate>
+            <description><![CDATA[ヒューマンエンパワーメント推進局（BHE）では、筑波大学に所属する全学群生・大学院生を対象に、多様な学生のキャリア形成に対する視野を開くこと、また、博士進学後のキャリアパスをクリアにすることを目的として、令和6年度第3回博士のポートフォリオ大公開+ロールモデル懇談会を開催します。
+博士課程に進学したきっかけや当時の悩みなど、筑波大学で博士号を取得した方に日ごろの疑問を質問できる貴重な機会です。障害…]]></description>
+        </item>
         <item>
             <title><![CDATA[【注意喚起】不審者情報について]]></title>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5283</link>
@@ -246,20 +254,6 @@ The first information session for the ISS Program, a joint academic program with
 
 【申し込み】
 参加登録案内（https:/…]]></description>
-        </item>
-        <item>
-            <title><![CDATA[【見逃し配信】学生の皆さんが安心して化学実験を行うための研修会（英語版有）]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5258</link>
-            <guid>b43eddc78873954563b63be4b1d6d243</guid>
-            <pubDate>Tue, 02 Jul 2024 03:00:00 GMT</pubDate>
-            <description><![CDATA[令和６年6月２４日（月）に開催しました「令和６年度学生の皆さんが安心して化学実験を行うための研修会」の見逃し配信を、下記のとおり行います。　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　    
-
-１．目的　
-　　実験に携わる学群・大学院生向けに，化学物質の危険性や有害性を伝え，
-　　事件事故や健康障害を引き起こすリスクを減らすこと
-
-２．開催方法
-　　…]]></description>
         </item>
     </channel>
 </rss>
