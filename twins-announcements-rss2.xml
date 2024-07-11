@@ -4,10 +4,19 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Wed, 10 Jul 2024 21:06:27 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 11 Jul 2024 01:30:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
+        <item>
+            <title><![CDATA[【お知らせ】7/15（月祝）授業日の福利厚生施設の休業について]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5285</link>
+            <guid>57e78dc7f993912945d396ad12b13c3b</guid>
+            <pubDate>Thu, 11 Jul 2024 03:00:00 GMT</pubDate>
+            <description><![CDATA[7/15（月祝）の授業日ですが、福利厚生事業者さんに確認したところ、筑波キャンパス内ではスターバックスさんを除き、休業予定となっております。
+
+申し訳ありませんがお食事等、各自ご用意くださいますよう、お願いいたします。]]></description>
+        </item>
         <item>
             <title><![CDATA[（再掲）【参加者募集・7/31開催】第３回博士のポートフォリオ大公開 + ロールモデル懇談会]]></title>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5284</link>
@@ -166,12 +175,14 @@ Why not share the attraction of the…]]></description>
         </item>
         <item>
             <title><![CDATA[July 11(Thu)17:00 open /Pre-registration for online participation/Joint Program with OSU]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5268</link>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5269</link>
             <guid>2e7fe0c02d31da9979ce882d19f37ec3</guid>
             <pubDate>Wed, 03 Jul 2024 03:00:00 GMT</pubDate>
-            <description><![CDATA[Dear all students
+            <description><![CDATA[未来の筑波大生に向けて、大学の魅力を発信してみませんか？
+入賞作品は国際オンライン教育プラットフォームJV-Campusと筑波大学公式YouTubeから世界に発信します！副賞は、筑波大学マレーシア校キャンパス体験（撮影依頼付）や、国内プロの映像制作現場見学。詳しくはWEBサイトご確認ください。
+皆様のご応募お待ちしています！
 
-The first information session for the ISS Program, a joint academic program with Ohio State University(US), will be held as follows. If you are at all interested in the program, ple…]]></description>
+Why not share the attraction of the…]]></description>
         </item>
         <item>
             <title><![CDATA[【7/11(木)17時開始】オンライン参加の事前登録について/米国オハイオ州立大学との共同教育プログラム第1回説明会]]></title>
@@ -234,26 +245,6 @@ The first information session for the ISS Program, a joint academic program with
 〇オンライン会場：Microsoft Teams （近日中にお知らせします）
 
 【プログラム（予定…]]></description>
-        </item>
-        <item>
-            <title><![CDATA[【再掲】TG⁺プログラム第5期生の募集]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5259</link>
-            <guid>7a72b67ab053ed9466d9ecae951eafa4</guid>
-            <pubDate>Tue, 02 Jul 2024 03:00:00 GMT</pubDate>
-            <description><![CDATA[TG⁺プログラム第5期生の募集を開始しています。
-
-【募集期間】
-5月25日～8月31日
-【締め切り】
-一次募集　6月30日（日）→締め切りました
-二次募集　8月31日（土）→募集中です
-
-一次募集締め切り後、応募者面談等を順次実施します。
-二次募集は、一次募集の応募者数に関わらず必ず実施されます。
-書類・面談による選考結果は、9月中旬に通知予定です。
-
-【申し込み】
-参加登録案内（https:/…]]></description>
         </item>
     </channel>
 </rss>
