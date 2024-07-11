@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "24d14f3a660525202ce26d34a9969b59",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5287",
+            "title": "[Notice] Closure of welfare facilities on Monday, July 15th (holiday)",
+            "summary": "Regarding classes on Monday, July 15th (national holiday), we have confirmed with the welfare company that all stores on the Tsukuba campus will be closed except for Starbucks.\n\nWe apologize for the i…",
+            "date_modified": "2024-07-11T03:00:00.000Z"
+        },
+        {
             "id": "94e37db9bc814da32b8fdb5176562ad3",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5286",
             "title": "【On-site】World-science Leaders’ Seminar for all students on July 22nd (Mon) 2024 13:30-15:00",
@@ -135,13 +142,6 @@
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5263",
             "title": "【出展募集】【7/27(土）～29(月)】ISSサマーフェスティバル開催",
             "summary": "学生の皆様へ\n\n筑波大学×オハイオ州立大学オンライン文化祭開催します！\n2024年7月、筑波大学とオハイオ州立大学(OSU)の合同イベント「ISS Summer Festival」がオンラインにて初開催。トクベツな体験をお届けします。\n\n＜イベント概要＞\n〇開催日程：2024年7月27日～29日\n〇リアルタイム企画開催時間：21:00-23:00（日本標準時）/ 8:00-10:00 （米国東部標…",
-            "date_modified": "2024-07-02T03:00:00.000Z"
-        },
-        {
-            "id": "ec247d6825c82c60a6a84e1b4c312307",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5262",
-            "title": "【11 July17:00 open 】1st Information Session on Joint Academic Program with Ohio State University",
-            "summary": "Dear all students\n\nThe first information session for the ISS Program, a joint academic program with Ohio State University(US), will be held as follows. If you are at all interested in the program, ple…",
             "date_modified": "2024-07-02T03:00:00.000Z"
         }
     ]

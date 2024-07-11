@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/mkobayashime/twins-announcements</id>
     <title>在学生へのお知らせ | 筑波大学</title>
-    <updated>2024-07-11T03:06:05.718Z</updated>
+    <updated>2024-07-11T05:04:34.505Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://github.com/mkobayashime/twins-announcements"/>
     <subtitle>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</subtitle>
+    <entry>
+        <title type="html"><![CDATA[[Notice] Closure of welfare facilities on Monday, July 15th (holiday)]]></title>
+        <id>24d14f3a660525202ce26d34a9969b59</id>
+        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5287"/>
+        <updated>2024-07-11T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Regarding classes on Monday, July 15th (national holiday), we have confirmed with the welfare company that all stores on the Tsukuba campus will be closed except for Starbucks.
+
+We apologize for the i…]]></summary>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【On-site】World-science Leaders’ Seminar for all students on July 22nd (Mon) 2024 13:30-15:00]]></title>
         <id>94e37db9bc814da32b8fdb5176562ad3</id>
@@ -225,14 +234,5 @@ We are thrilled to announce a special collaborative event between the University
 ＜イベント概要＞
 〇開催日程：2024年7月27日～29日
 〇リアルタイム企画開催時間：21:00-23:00（日本標準時）/ 8:00-10:00 （米国東部標…]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【11 July17:00 open 】1st Information Session on Joint Academic Program with Ohio State University]]></title>
-        <id>ec247d6825c82c60a6a84e1b4c312307</id>
-        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5262"/>
-        <updated>2024-07-02T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Dear all students
-
-The first information session for the ISS Program, a joint academic program with Ohio State University(US), will be held as follows. If you are at all interested in the program, ple…]]></summary>
     </entry>
 </feed>
