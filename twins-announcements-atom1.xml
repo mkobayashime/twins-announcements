@@ -2,10 +2,18 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/mkobayashime/twins-announcements</id>
     <title>在学生へのお知らせ | 筑波大学</title>
-    <updated>2024-07-11T01:30:59.661Z</updated>
+    <updated>2024-07-11T03:06:05.718Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://github.com/mkobayashime/twins-announcements"/>
     <subtitle>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</subtitle>
+    <entry>
+        <title type="html"><![CDATA[【On-site】World-science Leaders’ Seminar for all students on July 22nd (Mon) 2024 13:30-15:00]]></title>
+        <id>94e37db9bc814da32b8fdb5176562ad3</id>
+        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5286"/>
+        <updated>2024-07-11T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The World-science Leaders’ Seminar is a part of classes in the Human Biology PhD program.
+Students attending this seminar will learn the basics and latest research trends in the specialties of the wor…]]></summary>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【お知らせ】7/15（月祝）授業日の福利厚生施設の休業について]]></title>
         <id>57e78dc7f993912945d396ad12b13c3b</id>
@@ -174,13 +182,11 @@ Why not share the attraction of the…]]></summary>
     <entry>
         <title type="html"><![CDATA[July 11(Thu)17:00 open /Pre-registration for online participation/Joint Program with OSU]]></title>
         <id>2e7fe0c02d31da9979ce882d19f37ec3</id>
-        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5269"/>
+        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5268"/>
         <updated>2024-07-03T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[未来の筑波大生に向けて、大学の魅力を発信してみませんか？
-入賞作品は国際オンライン教育プラットフォームJV-Campusと筑波大学公式YouTubeから世界に発信します！副賞は、筑波大学マレーシア校キャンパス体験（撮影依頼付）や、国内プロの映像制作現場見学。詳しくはWEBサイトご確認ください。
-皆様のご応募お待ちしています！
+        <summary type="html"><![CDATA[Dear all students
 
-Why not share the attraction of the…]]></summary>
+The first information session for the ISS Program, a joint academic program with Ohio State University(US), will be held as follows. If you are at all interested in the program, ple…]]></summary>
     </entry>
     <entry>
         <title type="html"><![CDATA[【7/11(木)17時開始】オンライン参加の事前登録について/米国オハイオ州立大学との共同教育プログラム第1回説明会]]></title>
@@ -228,20 +234,5 @@ We are thrilled to announce a special collaborative event between the University
         <summary type="html"><![CDATA[Dear all students
 
 The first information session for the ISS Program, a joint academic program with Ohio State University(US), will be held as follows. If you are at all interested in the program, ple…]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[再掲【7/11(木)17時開始】米国オハイオ州立大学との共同教育プログラム第1回説明会]]></title>
-        <id>7dfdef0eb069d777d443f1028a67ea78</id>
-        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5261"/>
-        <updated>2024-07-02T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[学生の皆様へ
-
-米国オハイオ州立大学との共同教育プログラム「ISSプログラム」の第１回説明会を次のとおり開催しますので、少しでも興味を持たれた方はぜひ参加してください。
-
-〇日時：2024年7月11日(木)　17:00～18:00
-〇オンサイト会場：スチューデント・コモンズ(第一エリア 1A棟2階)
-〇オンライン会場：Microsoft Teams （近日中にお知らせします）
-
-【プログラム（予定…]]></summary>
     </entry>
 </feed>
