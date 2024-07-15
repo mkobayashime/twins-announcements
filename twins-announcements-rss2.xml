@@ -4,7 +4,7 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Mon, 15 Jul 2024 15:08:12 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 15 Jul 2024 21:07:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
@@ -209,8 +209,14 @@ We are thrilled to announce a special collaborative event between the University
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5263</link>
             <guid>6c5cfbeb52a1de1bb6ba8680d9c72ff7</guid>
             <pubDate>Tue, 02 Jul 2024 03:00:00 GMT</pubDate>
-            <description><![CDATA[Dear students
-We are thrilled to announce a special collaborative event between the University of Tsukuba and the Ohio State University! This unique online festival will take place at the end of July …]]></description>
+            <description><![CDATA[学生の皆様へ
+
+筑波大学×オハイオ州立大学オンライン文化祭開催します！
+2024年7月、筑波大学とオハイオ州立大学(OSU)の合同イベント「ISS Summer Festival」がオンラインにて初開催。トクベツな体験をお届けします。
+
+＜イベント概要＞
+〇開催日程：2024年7月27日～29日
+〇リアルタイム企画開催時間：21:00-23:00（日本標準時）/ 8:00-10:00 （米国東部標…]]></description>
         </item>
         <item>
             <title><![CDATA[【再掲】TG⁺プログラム第5期生の募集]]></title>
@@ -237,20 +243,14 @@ We are thrilled to announce a special collaborative event between the University
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5258</link>
             <guid>b43eddc78873954563b63be4b1d6d243</guid>
             <pubDate>Tue, 02 Jul 2024 03:00:00 GMT</pubDate>
-            <description><![CDATA[TG⁺プログラム第5期生の募集を開始しています。
+            <description><![CDATA[令和６年6月２４日（月）に開催しました「令和６年度学生の皆さんが安心して化学実験を行うための研修会」の見逃し配信を、下記のとおり行います。　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　    
 
-【募集期間】
-5月25日～8月31日
-【締め切り】
-一次募集　6月30日（日）→締め切りました
-二次募集　8月31日（土）→募集中です
+１．目的　
+　　実験に携わる学群・大学院生向けに，化学物質の危険性や有害性を伝え，
+　　事件事故や健康障害を引き起こすリスクを減らすこと
 
-一次募集締め切り後、応募者面談等を順次実施します。
-二次募集は、一次募集の応募者数に関わらず必ず実施されます。
-書類・面談による選考結果は、9月中旬に通知予定です。
-
-【申し込み】
-参加登録案内（https:/…]]></description>
+２．開催方法
+　　…]]></description>
         </item>
     </channel>
 </rss>
