@@ -4,10 +4,22 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Tue, 16 Jul 2024 09:07:50 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 16 Jul 2024 10:04:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
+        <item>
+            <title><![CDATA[「お金の超基本勉強会―卒業してからでは遅すぎる」第15回開催のお知らせ]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5291</link>
+            <guid>b8f93d0e7049c1da6effc7406644d2c9</guid>
+            <pubDate>Tue, 16 Jul 2024 03:00:00 GMT</pubDate>
+            <description><![CDATA[「筑波大学・世界を変えよう基金アカデミー」では、お金に関する基礎知識（税金の計算、結婚・教育・マイホーム・老後・病気への備え、
+投資運用,NISA活用方法等）を学ぶ「お金の超基本勉強会―卒業してからでは遅すぎる」を8月に開催します。
+
+開催方式：初回は対面（中央図書館セミナー室を予定）、第2・3回はZoomの可能性あり。
+　
+開催曜日：8月10日16:00~18:00（対面）、17日時間未定、24…]]></description>
+        </item>
         <item>
             <title><![CDATA[第179回バイオeカフェ　イベント開催のお知らせ]]></title>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5290</link>
@@ -232,26 +244,6 @@ We are thrilled to announce a special collaborative event between the University
 ＜イベント概要＞
 〇開催日程：2024年7月27日～29日
 〇リアルタイム企画開催時間：21:00-23:00（日本標準時）/ 8:00-10:00 （米国東部標…]]></description>
-        </item>
-        <item>
-            <title><![CDATA[【再掲】TG⁺プログラム第5期生の募集]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5259</link>
-            <guid>7a72b67ab053ed9466d9ecae951eafa4</guid>
-            <pubDate>Tue, 02 Jul 2024 03:00:00 GMT</pubDate>
-            <description><![CDATA[TG⁺プログラム第5期生の募集を開始しています。
-
-【募集期間】
-5月25日～8月31日
-【締め切り】
-一次募集　6月30日（日）→締め切りました
-二次募集　8月31日（土）→募集中です
-
-一次募集締め切り後、応募者面談等を順次実施します。
-二次募集は、一次募集の応募者数に関わらず必ず実施されます。
-書類・面談による選考結果は、9月中旬に通知予定です。
-
-【申し込み】
-参加登録案内（https:/…]]></description>
         </item>
     </channel>
 </rss>
