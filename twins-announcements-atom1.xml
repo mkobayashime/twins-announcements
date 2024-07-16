@@ -2,10 +2,25 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/mkobayashime/twins-announcements</id>
     <title>在学生へのお知らせ | 筑波大学</title>
-    <updated>2024-07-15T21:07:13.269Z</updated>
+    <updated>2024-07-16T08:06:16.771Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://github.com/mkobayashime/twins-announcements"/>
     <subtitle>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</subtitle>
+    <entry>
+        <title type="html"><![CDATA[第179回バイオeカフェ　イベント開催のお知らせ]]></title>
+        <id>669a9f4093abafd51ef431582ee1225b</id>
+        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5290"/>
+        <updated>2024-07-16T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[生物学類主催の、第179回バイオeカフェ開催をお知らせします。
+
+テーマ：電子の眼で見る我々の周囲のミクロ世界
+講演者：数理物質系 関口隆史先生
+日　時：7/23（火）18時30分～20時00分
+場　所：筑波大学2B棟2階210またオンライン（Zoom）
+
+・対面 にて参加される方：参加費100円 - 事前申し込み不要
+当日は会場(2B210)まで直接お越しください。お菓子と飲み物を提供いたします…]]></summary>
+    </entry>
     <entry>
         <title type="html"><![CDATA[英語版廃棄物取扱いの手引き/Waste Management Guidelines（May 2024）]]></title>
         <id>70b6b8a9407512833af82eb104f09d6e</id>
@@ -235,19 +250,5 @@ We are thrilled to announce a special collaborative event between the University
 
 【申し込み】
 参加登録案内（https:/…]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【見逃し配信】学生の皆さんが安心して化学実験を行うための研修会（英語版有）]]></title>
-        <id>b43eddc78873954563b63be4b1d6d243</id>
-        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5258"/>
-        <updated>2024-07-02T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[令和６年6月２４日（月）に開催しました「令和６年度学生の皆さんが安心して化学実験を行うための研修会」の見逃し配信を、下記のとおり行います。　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　    
-
-１．目的　
-　　実験に携わる学群・大学院生向けに，化学物質の危険性や有害性を伝え，
-　　事件事故や健康障害を引き起こすリスクを減らすこと
-
-２．開催方法
-　　…]]></summary>
     </entry>
 </feed>
