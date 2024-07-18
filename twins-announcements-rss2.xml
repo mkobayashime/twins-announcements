@@ -4,10 +4,22 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Thu, 18 Jul 2024 06:05:24 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 18 Jul 2024 07:04:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
+        <item>
+            <title><![CDATA[【CEGLOC】「優れた外国語活動」認定制度について]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5302</link>
+            <guid>be454e8f52f649dbaefccb235f2d5897</guid>
+            <pubDate>Thu, 18 Jul 2024 03:00:00 GMT</pubDate>
+            <description><![CDATA[「優れた外国語活動」認定制度とは、本学の言語教育改革の一環として、学生（学群生・院生）の主体的な学びを実現するための支援として、外国語に関する学生の自主的な取り組みの実績全体を評価し、認定するものです。
+
+　申請を希望する学生は優れた外国語活動認定について_202407改定 [PDF形式／305.3KB]をよく読み、必要書類を用意した上で申請してください。
+
+【必要書類】
+・「優れた外国語活動」認…]]></description>
+        </item>
         <item>
             <title><![CDATA[【チケット販売中】筑波大学ホームゲーム「TSUKUBA LIVE!」（男子ハンド・vs早稲田大）筑波大生割引クーポンあり]]></title>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5300</link>
@@ -245,15 +257,6 @@ Due to a network suspentions caused by the replacement of …]]></description>
 ・払込取扱票が既に発行されている未納者は、お持ちの払込取扱票により納入をお願いします。
 
 ※本掲示は全ての学生・教員に通…]]></description>
-        </item>
-        <item>
-            <title><![CDATA[【Announcement】AY 2024 Class Recess Due to the Undergraduate Entrance Examinations]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5277</link>
-            <guid>279ddb7e29f743fef04e89e3973789bb</guid>
-            <pubDate>Fri, 05 Jul 2024 03:00:00 GMT</pubDate>
-            <description><![CDATA[To All Students
-
-Due to the Undergraduate Entrance Examinations, such as the Entrance Examination by School Recommendation (Suisen Nyūshi); the Common Test for University Admissions (Daigaku Nyūgaku K…]]></description>
         </item>
     </channel>
 </rss>
