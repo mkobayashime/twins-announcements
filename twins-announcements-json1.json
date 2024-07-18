@@ -5,6 +5,27 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "6c8531b0e48c2e9b7dc619d567c2193f",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5298",
+            "title": "RECYCLING PROJECT! Collection at Student Commons (1A203) and Division of Student Exchange (1A101)",
+            "summary": "Student Support Center Office is organizing the “Student Commons’ SDGs RECYCLING PROJECT” .\n\nThrough this project, we will collect ‘still-useable and unused items’ from July to September, then we will…",
+            "date_modified": "2024-07-18T03:00:00.000Z"
+        },
+        {
+            "id": "ed320f9384d2733ccf5382fb55febfb0",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5297",
+            "title": "【回収】不用品を捨てずにリユース！RECYCLING PROJECTに参加しませんか？＠Student Commons (1A203))",
+            "summary": "スチューデントサポートセンターでは、学生のための交流スペースであるStudent Commonsを活用し、かつSDGｓに資するため、”Student Commons’ SDGs RECYCLING PROJECT”\nとして、学期が切り替わる長期休暇前の7月から9月に、「まだ使用できる不用品」を回収し、新学期に新入生をはじめとした学生へ、無料譲渡するプロジェクトを実施します。\n\n捨てるにはもったいな…",
+            "date_modified": "2024-07-18T03:00:00.000Z"
+        },
+        {
+            "id": "b1c61680dd7199a1179d3597dcfad3c3",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5296",
+            "title": "【scholarship】2025年度フランス政府奨学金留学生募集　« Bourses France Excellence Japon » - Campagne 2025-2026",
+            "summary": "フランス政府奨学金は、フランスの高等教育・研究機関への留学を目指す日本人留学生を支援しています。\n対象者：フランスであらゆる分野の博士課程留学またはポスドク留学を志す方\n　           フランスの修士課程で政治学・国際関係学分野の専攻を志望する学生の方\n2024年9月20日オンライン登録開始。\n\nLe programme des « Bourses France Excellence Ja…",
+            "date_modified": "2024-07-18T03:00:00.000Z"
+        },
+        {
             "id": "c278bb33f88e51f8ec0bd254e099a276",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5295",
             "title": "Let’s watch Paris Olympics together! (7/29-31) / パリオリンピックをみんなで観戦しよう！（7/29〜31）",
@@ -122,27 +143,6 @@
             "title": "【交通費支給】ダイバーシティとキャリアに関するワークショップ参加者の募集",
             "summary": "現在、私たちの研究グループでは、リシュモンジャパン株式会社※（カルティエ等のブランドを運営する会社）と共同して、多様な属性や特性をもつ学生一人ひとりが安心して働きたいと思える職場とはどのような職場なのか、職場におけるダイバーシティ＆インクルージョン（Diversity & Inclusion）について研究を進めています。\n\n今回、リシュモンジャパン株式会社が主催するワークショップを【8月27日（火…",
             "date_modified": "2024-07-05T03:00:00.000Z"
-        },
-        {
-            "id": "2afe58df1087ce00ca2333713973069c",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5271",
-            "title": "【CEGLOC】語学学習相談イベント開催（令和６年７月２５日開催）",
-            "summary": "　CEGLOCのAcademic Writing Support Deskとメディアライブラリーが合同企画する語学学習相談イベントが開催されます。\n\n日時：７/25（木）5限\n場所：CEGLOCメディアライブラリー\nお問い合わせ：tsukuba.cegloc.english@gmail.com\n\n　様々な語学試験（日本語、スペイン語、中国語、韓国語、ドイツ語、英語、フランス語）の準備や対策に関して…",
-            "date_modified": "2024-07-04T03:00:00.000Z"
-        },
-        {
-            "id": "bb35b646029385bb1cb1534a31c77d47",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5270",
-            "title": "【作品受付中】デジタルバッジデザインコンテスト/ Now accepting! Digital Badge Design Contest",
-            "summary": "国際的なオンライン教育プラットフォーム、JV-Campus 筑波大学Boxで発行するデジタルバッジのデザインを公募します。グランプリ作品は実際にデジタルバッジとして国内外の学生に発行されます。また、副賞としてその作品をピンバッジにしてプレゼントします。\nぜひ、ご参加ください！\n\nWe are calling for the design of a digital badge to be issue…",
-            "date_modified": "2024-07-03T03:00:00.000Z"
-        },
-        {
-            "id": "aba2f44eb417cfb50824207f16ff7a72",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5269",
-            "title": "【エントリー受付中】キャンパスライフ動画コンテスト/Now Accepting Entries! Campus Life Video Contest",
-            "summary": "未来の筑波大生に向けて、大学の魅力を発信してみませんか？\n入賞作品は国際オンライン教育プラットフォームJV-Campusと筑波大学公式YouTubeから世界に発信します！副賞は、筑波大学マレーシア校キャンパス体験（撮影依頼付）や、国内プロの映像制作現場見学。詳しくはWEBサイトご確認ください。\n皆様のご応募お待ちしています！\n\nWhy not share the attraction of the…",
-            "date_modified": "2024-07-03T03:00:00.000Z"
         }
     ]
 }
