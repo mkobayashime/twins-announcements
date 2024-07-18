@@ -4,10 +4,19 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Thu, 18 Jul 2024 07:04:22 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 18 Jul 2024 09:04:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
+        <item>
+            <title><![CDATA[【Tickets On Sale】University of Tsukuba Home Game "TSUKUBA LIVE!" (Men's Handball: vs Waseda Univ.)]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5303</link>
+            <guid>eac3ecd88682f338617124fdb2d1933c</guid>
+            <pubDate>Thu, 18 Jul 2024 03:00:00 GMT</pubDate>
+            <description><![CDATA[Tickets are now on sale for the University of Tsukuba home game "TSUKUBA LIVE!" to be held on Saturday, August 3rd, at the University of Tsukuba Central Gymnasium.
+ 
+This event features men's handball…]]></description>
+        </item>
         <item>
             <title><![CDATA[【CEGLOC】「優れた外国語活動」認定制度について]]></title>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5302</link>
@@ -244,19 +253,6 @@ Due to a network suspentions caused by the replacement of …]]></description>
 
 【今月の登壇者】
 １人目は金融業界（日本生命保険相互会社）で、２人目は地域おこし協力隊（秋田県上小阿仁村役場総務課）で活躍されているお二人が登場し…]]></description>
-        </item>
-        <item>
-            <title><![CDATA[【重要】2024年度第1期分授業料の納入督促について]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5278</link>
-            <guid>6352df31cdd8aa9f290bfd39ca5dee9f</guid>
-            <pubDate>Fri, 05 Jul 2024 03:00:00 GMT</pubDate>
-            <description><![CDATA[2024年度第1期分授業料未納者は、「払込取扱票」が送付されているので、確認の上、速やかに金融機関窓口にて納付されるようお願いします。
-納付されないときは、本学学則による除籍処分該当者となります。
-
-・口座振替対象の未納者は、7月に発行される払込取扱票により納入をお願いします。
-・払込取扱票が既に発行されている未納者は、お持ちの払込取扱票により納入をお願いします。
-
-※本掲示は全ての学生・教員に通…]]></description>
         </item>
     </channel>
 </rss>
