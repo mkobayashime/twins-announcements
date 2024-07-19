@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "7a109efac6088bc57f542ab1f78a1c3d",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5305",
+            "title": "（締切間近）【交通費支給】ダイバーシティとキャリアに関するワークショップ参加者の募集",
+            "summary": "現在、私たちの研究グループでは、リシュモンジャパン株式会社※（カルティエ等のブランドを運営する会社）と共同して、多様な属性や特性をもつ学生一人ひとりが安心して働きたいと思える職場とはどのような職場なのか、職場におけるダイバーシティ＆インクルージョン（Diversity & Inclusion）について研究を進めています。\n\n今回、リシュモンジャパン株式会社が主催するワークショップを【8月27日（火…",
+            "date_modified": "2024-07-19T03:00:00.000Z"
+        },
+        {
             "id": "e365340fde67f68d5142f44d21548f06",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5304",
             "title": "【チケット販売中】筑波大学ホームゲーム「TSUKUBA LIVE!」（男子ハンド・vs早稲田大）筑波大生割引クーポンあり",
@@ -135,13 +142,6 @@
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5281",
             "title": "【附属図書館】臨時休館（中央・医学）について(8/12) / [Library] Temporary closure (Central / Medical, August 12)",
             "summary": "キャンパス情報ネットワークシステム更新に伴うネットワーク停止を受け、中央図書館と医学図書館は、8月12日（月）に臨時休館いたします。皆様のご協力をお願い申し上げます。\nなおOPAC、マイライブラリ等のサービスの一時停止も予定しておりますので、詳しくは図書館お知らせをご覧ください。\n\nDue to a network suspentions caused by the replacement of …",
-            "date_modified": "2024-07-09T03:00:00.000Z"
-        },
-        {
-            "id": "80f2853b42e55e5a8ddf07b17522bb71",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5279",
-            "title": "明日開催！（茗渓会）OBの話を聞いてみよう！ぶっちゃけ質問会・相談会",
-            "summary": "【参加対象者】\n・筑波大学および大学院の全ての学生。学年不問。\n新入生大歓迎！\n\n【参加費】\n・無料\nこれから就活が始まる方、卒業後の進路やキャリアに悩んでいる方、\nこれからの大学生活をどう過ごそうか考えている方、\nぜひ、先輩に質問してみてください。\n\n【今月の登壇者】\n１人目は金融業界（日本生命保険相互会社）で、２人目は地域おこし協力隊（秋田県上小阿仁村役場総務課）で活躍されているお二人が登場し…",
             "date_modified": "2024-07-09T03:00:00.000Z"
         }
     ]
