@@ -2,10 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/mkobayashime/twins-announcements</id>
     <title>在学生へのお知らせ | 筑波大学</title>
-    <updated>2024-07-22T01:31:23.072Z</updated>
+    <updated>2024-07-22T02:19:54.390Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://github.com/mkobayashime/twins-announcements"/>
     <subtitle>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</subtitle>
+    <entry>
+        <title type="html"><![CDATA[【開催案内】2024年度 筑波大学 オンラインによる新入生に贈る特別講演会「大学教育・学習における生成AIその可能性と限界」]]></title>
+        <id>5f8401addaae5e7cf9bc671db3116cb1</id>
+        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5307"/>
+        <updated>2024-07-22T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[【開催案内】オンラインによる新入生に贈る特別講演会
+
+講師：當作 靖彦 氏
+　　　カリフォルニア大学 サンディエゴ校 名誉教授
+
+題目：大学教育・学習における生成AIその可能性と限界
+
+日時：令和6年7月29日（月）13:45～15:00
+
+会場：オンライン（Zoom）
+
+対象：本学学生、本学教職員、一般（ただし本学新入生優先）
+どなたでも無料でご参加いただけます。
+
+申込方法：下記申込フォームに…]]></summary>
+    </entry>
     <entry>
         <title type="html"><![CDATA[（締切間近！）【参加者募集・7/31開催】第３回博士のポートフォリオ大公開 + ロールモデル懇談会]]></title>
         <id>033eb7339938c2aa73fe208537635c58</id>
@@ -223,22 +244,5 @@ Students attending this seminar will learn the basics and latest research trends
 がありました。
 　本件の報告を受け、人間系学系棟の警備巡回を増やす等、警備強化を行っています。
 　ついては、人間系…]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【附属図書館】夏季休業期間の貸出および休館 / [Library] Loan sevice and library closure during the summer holidays]]></title>
-        <id>7150bf43ce311a3250b5348379339207</id>
-        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5282"/>
-        <updated>2024-07-10T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[夏季休業期間の休館
-
-    筑波地区は、8/12-8/16に休館します。（臨時休館および全学一斉休業期間のため）
-    大塚図書館は、8/12-8/17に休館します。
-
-図書貸出期間の変更
-
-貸出・更新した図書（Webからの更新を含む）の貸出期間が、通常の3週間より長くなります。
-詳しくは下記URLをご覧ください。
-
-Library closure during the summer holi…]]></summary>
     </entry>
 </feed>
