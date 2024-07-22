@@ -4,10 +4,18 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Sun, 21 Jul 2024 21:06:32 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 22 Jul 2024 01:31:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
+        <item>
+            <title><![CDATA[（締切間近！）【参加者募集・7/31開催】第３回博士のポートフォリオ大公開 + ロールモデル懇談会]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5306</link>
+            <guid>033eb7339938c2aa73fe208537635c58</guid>
+            <pubDate>Mon, 22 Jul 2024 03:00:00 GMT</pubDate>
+            <description><![CDATA[ヒューマンエンパワーメント推進局（BHE）では、筑波大学に所属する全学群生・大学院生を対象に、多様な学生のキャリア形成に対する視野を開くこと、また、博士進学後のキャリアパスをクリアにすることを目的として、令和6年度第3回博士のポートフォリオ大公開+ロールモデル懇談会を開催します。
+博士課程に進学したきっかけや当時の悩みなど、筑波大学で博士号を取得した方に日ごろの疑問を質問できる貴重な機会です。障害…]]></description>
+        </item>
         <item>
             <title><![CDATA[（締切間近）【交通費支給】ダイバーシティとキャリアに関するワークショップ参加者の募集]]></title>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5305</link>
@@ -234,16 +242,6 @@ Students attending this seminar will learn the basics and latest research trends
 詳しくは下記URLをご覧ください。
 
 Library closure during the summer holi…]]></description>
-        </item>
-        <item>
-            <title><![CDATA[【附属図書館】臨時休館（中央・医学）について(8/12) / [Library] Temporary closure (Central / Medical, August 12)]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5281</link>
-            <guid>0c9cdd1c866e111e91fbe39dc12b69a4</guid>
-            <pubDate>Tue, 09 Jul 2024 03:00:00 GMT</pubDate>
-            <description><![CDATA[キャンパス情報ネットワークシステム更新に伴うネットワーク停止を受け、中央図書館と医学図書館は、8月12日（月）に臨時休館いたします。皆様のご協力をお願い申し上げます。
-なおOPAC、マイライブラリ等のサービスの一時停止も予定しておりますので、詳しくは図書館お知らせをご覧ください。
-
-Due to a network suspentions caused by the replacement of …]]></description>
         </item>
     </channel>
 </rss>
