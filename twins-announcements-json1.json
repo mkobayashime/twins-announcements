@@ -5,6 +5,20 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "be57d77eef9ce301d79c6491f02a41ac",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5310",
+            "title": "（茗渓会）8月7日　ぶっちゃけ相談会のご案内",
+            "summary": "【参加対象者】\n・筑波大学および大学院の全ての学生。学年不問。\n新入生大歓迎！\n【参加費】\n・無料\nこれから就活が始まる方、卒業後の進路やキャリアに悩んでいる方、\nこれからの大学生活をどう過ごそうか考えている方、\nぜひ、先輩に質問してみてください。\n【今月の登壇者】\n１人目は放送業界（テレビ、ＮＨＫ）で、２人目は電機（重電）業界（プラントエンジニアリング）で活躍されているお二人が登場します。\nみな…",
+            "date_modified": "2024-07-22T03:00:00.000Z"
+        },
+        {
+            "id": "69a9cf707a82b8cbcbe06c02efe3ba43",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5309",
+            "title": "令和５年度社会貢献プロジェクト報告書の掲載等について",
+            "summary": "つくば・地域連携推進室では、本学と社会・地域との多様な形での連携活動やその取組等を「社会貢献プロジェクト」として採択し、経費支援等を行っています。\n※「社会貢献プロジェクト」は、学生も申請できるものとなっています。\n\nこのたび、『令和５年度社会貢献プロジェクト報告書』を下記ホームページに掲載しましたのでお知らせします。\n筑波大学社会貢献・地域連携HP： https://scpj.tsukuba.a…",
+            "date_modified": "2024-07-22T03:00:00.000Z"
+        },
+        {
             "id": "94d05b462b040f161bcd024b08b3ef84",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5308",
             "title": "【開催案内】（9/19(木)）公開シンポジウム「スタートアップにおける士業活用」／ビジネスサイエンス系・国際産学連携本部共催イベント",
@@ -129,20 +143,6 @@
             "title": "インターンシップについて",
             "summary": "インターンシップの申し込みや手続きについてのご連絡です。\n\n・大学経由型インターンシップの書類は、各機関締切日の10日前です。\n・インターンシップ保険に加入してください。\n・インターンシップ参加届の入力をしてください。\n・教員（指導教員、クラス担任又は所属長等　どなたか1名）に事前報告をしてください。\n\nインターンシップに申込をする際は、必ず下記URLをご一読ください。\n※授業の一環として実施する…",
             "date_modified": "2024-07-12T03:00:00.000Z"
-        },
-        {
-            "id": "94e37db9bc814da32b8fdb5176562ad3",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5286",
-            "title": "【On-site】World-science Leaders’ Seminar for all students on July 22nd (Mon) 2024 13:30-15:00",
-            "summary": "The World-science Leaders’ Seminar is a part of classes in the Human Biology PhD program.\nStudents attending this seminar will learn the basics and latest research trends in the specialties of the wor…",
-            "date_modified": "2024-07-11T03:00:00.000Z"
-        },
-        {
-            "id": "1d06dd72aa6e91f77a36aa090759cff0",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5284",
-            "title": "（再掲）【参加者募集・7/31開催】第３回博士のポートフォリオ大公開 + ロールモデル懇談会",
-            "summary": "ヒューマンエンパワーメント推進局（BHE）では、筑波大学に所属する全学群生・大学院生を対象に、多様な学生のキャリア形成に対する視野を開くこと、また、博士進学後のキャリアパスをクリアにすることを目的として、令和6年度第3回博士のポートフォリオ大公開+ロールモデル懇談会を開催します。\n博士課程に進学したきっかけや当時の悩みなど、筑波大学で博士号を取得した方に日ごろの疑問を質問できる貴重な機会です。障害…",
-            "date_modified": "2024-07-10T03:00:00.000Z"
         }
     ]
 }

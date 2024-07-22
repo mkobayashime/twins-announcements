@@ -2,10 +2,38 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/mkobayashime/twins-announcements</id>
     <title>在学生へのお知らせ | 筑波大学</title>
-    <updated>2024-07-22T03:06:03.197Z</updated>
+    <updated>2024-07-22T08:06:05.661Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://github.com/mkobayashime/twins-announcements"/>
     <subtitle>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</subtitle>
+    <entry>
+        <title type="html"><![CDATA[（茗渓会）8月7日　ぶっちゃけ相談会のご案内]]></title>
+        <id>be57d77eef9ce301d79c6491f02a41ac</id>
+        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5310"/>
+        <updated>2024-07-22T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[【参加対象者】
+・筑波大学および大学院の全ての学生。学年不問。
+新入生大歓迎！
+【参加費】
+・無料
+これから就活が始まる方、卒業後の進路やキャリアに悩んでいる方、
+これからの大学生活をどう過ごそうか考えている方、
+ぜひ、先輩に質問してみてください。
+【今月の登壇者】
+１人目は放送業界（テレビ、ＮＨＫ）で、２人目は電機（重電）業界（プラントエンジニアリング）で活躍されているお二人が登場します。
+みな…]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[令和５年度社会貢献プロジェクト報告書の掲載等について]]></title>
+        <id>69a9cf707a82b8cbcbe06c02efe3ba43</id>
+        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5309"/>
+        <updated>2024-07-22T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[つくば・地域連携推進室では、本学と社会・地域との多様な形での連携活動やその取組等を「社会貢献プロジェクト」として採択し、経費支援等を行っています。
+※「社会貢献プロジェクト」は、学生も申請できるものとなっています。
+
+このたび、『令和５年度社会貢献プロジェクト報告書』を下記ホームページに掲載しましたのでお知らせします。
+筑波大学社会貢献・地域連携HP： https://scpj.tsukuba.a…]]></summary>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【開催案内】（9/19(木)）公開シンポジウム「スタートアップにおける士業活用」／ビジネスサイエンス系・国際産学連携本部共催イベント]]></title>
         <id>94d05b462b040f161bcd024b08b3ef84</id>
@@ -222,21 +250,5 @@ We are pleased to announce that we have prepared the revised English versions of
 
 インターンシップに申込をする際は、必ず下記URLをご一読ください。
 ※授業の一環として実施する…]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【On-site】World-science Leaders’ Seminar for all students on July 22nd (Mon) 2024 13:30-15:00]]></title>
-        <id>94e37db9bc814da32b8fdb5176562ad3</id>
-        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5286"/>
-        <updated>2024-07-11T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[The World-science Leaders’ Seminar is a part of classes in the Human Biology PhD program.
-Students attending this seminar will learn the basics and latest research trends in the specialties of the wor…]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[（再掲）【参加者募集・7/31開催】第３回博士のポートフォリオ大公開 + ロールモデル懇談会]]></title>
-        <id>1d06dd72aa6e91f77a36aa090759cff0</id>
-        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5284"/>
-        <updated>2024-07-10T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[ヒューマンエンパワーメント推進局（BHE）では、筑波大学に所属する全学群生・大学院生を対象に、多様な学生のキャリア形成に対する視野を開くこと、また、博士進学後のキャリアパスをクリアにすることを目的として、令和6年度第3回博士のポートフォリオ大公開+ロールモデル懇談会を開催します。
-博士課程に進学したきっかけや当時の悩みなど、筑波大学で博士号を取得した方に日ごろの疑問を質問できる貴重な機会です。障害…]]></summary>
     </entry>
 </feed>
