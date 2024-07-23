@@ -2,10 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/mkobayashime/twins-announcements</id>
     <title>在学生へのお知らせ | 筑波大学</title>
-    <updated>2024-07-23T07:04:26.493Z</updated>
+    <updated>2024-07-23T08:06:17.809Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://github.com/mkobayashime/twins-announcements"/>
     <subtitle>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</subtitle>
+    <entry>
+        <title type="html"><![CDATA[【再掲】TG⁺プログラム第5期生の募集]]></title>
+        <id>7a72b67ab053ed9466d9ecae951eafa4</id>
+        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5315"/>
+        <updated>2024-07-23T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[TG⁺プログラム第5期生の募集を開始しています。
+
+【募集期間】
+5月31日～8月31日
+【締め切り】
+一次募集　6月30日（日）…締め切りました
+二次募集　8月31日（土）
+書類・面談による選考結果は、9月中旬に通知予定です。
+
+【申し込み】
+参加登録案内（https://tgplus.hass.tsukuba.ac.jp/entry/）をご覧ください。
+]]></summary>
+    </entry>
     <entry>
         <title type="html"><![CDATA[パリオリンピックをみんなで観戦しよう！（7/29〜31）]]></title>
         <id>b89b4cc720c7ffba93692384b14be3b1</id>
@@ -245,17 +263,5 @@ Scheduled…]]></summary>
         <summary type="html"><![CDATA[Due to the renewal work of Campus Information Network System of the university, library web services will be unavailable as follows.
 
 Date and Time：Monday, August 12, 2024, short and intermittent stop…]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[「お金の超基本勉強会―卒業してからでは遅すぎる」第15回開催のお知らせ]]></title>
-        <id>b8f93d0e7049c1da6effc7406644d2c9</id>
-        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5291"/>
-        <updated>2024-07-16T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[「筑波大学・世界を変えよう基金アカデミー」では、お金に関する基礎知識（税金の計算、結婚・教育・マイホーム・老後・病気への備え、
-投資運用,NISA活用方法等）を学ぶ「お金の超基本勉強会―卒業してからでは遅すぎる」を8月に開催します。
-
-開催方式：初回は対面（中央図書館セミナー室を予定）、第2・3回はZoomの可能性あり。
-　
-開催曜日：8月10日16:00~18:00（対面）、17日時間未定、24…]]></summary>
     </entry>
 </feed>

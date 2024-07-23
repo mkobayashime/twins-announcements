@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "7a72b67ab053ed9466d9ecae951eafa4",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5315",
+            "title": "【再掲】TG⁺プログラム第5期生の募集",
+            "summary": "TG⁺プログラム第5期生の募集を開始しています。\n\n【募集期間】\n5月31日～8月31日\n【締め切り】\n一次募集　6月30日（日）…締め切りました\n二次募集　8月31日（土）\n書類・面談による選考結果は、9月中旬に通知予定です。\n\n【申し込み】\n参加登録案内（https://tgplus.hass.tsukuba.ac.jp/entry/）をご覧ください。\n",
+            "date_modified": "2024-07-23T03:00:00.000Z"
+        },
+        {
             "id": "b89b4cc720c7ffba93692384b14be3b1",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5314",
             "title": "パリオリンピックをみんなで観戦しよう！（7/29〜31）",
@@ -136,13 +143,6 @@
             "title": "【8/12】Library web services unavailable",
             "summary": "Due to the renewal work of Campus Information Network System of the university, library web services will be unavailable as follows.\n\nDate and Time：Monday, August 12, 2024, short and intermittent stop…",
             "date_modified": "2024-07-17T03:00:00.000Z"
-        },
-        {
-            "id": "b8f93d0e7049c1da6effc7406644d2c9",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5291",
-            "title": "「お金の超基本勉強会―卒業してからでは遅すぎる」第15回開催のお知らせ",
-            "summary": "「筑波大学・世界を変えよう基金アカデミー」では、お金に関する基礎知識（税金の計算、結婚・教育・マイホーム・老後・病気への備え、\n投資運用,NISA活用方法等）を学ぶ「お金の超基本勉強会―卒業してからでは遅すぎる」を8月に開催します。\n\n開催方式：初回は対面（中央図書館セミナー室を予定）、第2・3回はZoomの可能性あり。\n　\n開催曜日：8月10日16:00~18:00（対面）、17日時間未定、24…",
-            "date_modified": "2024-07-16T03:00:00.000Z"
         }
     ]
 }
