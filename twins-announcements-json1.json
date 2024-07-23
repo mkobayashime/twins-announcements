@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "b89b4cc720c7ffba93692384b14be3b1",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5314",
+            "title": "パリオリンピックをみんなで観戦しよう！（7/29〜31）",
+            "summary": "スポーツを通じて、国際交流しよう！！\nパリオリンピックのパブリックビューイングを開催します！！多様な国籍の人々と一緒に選手を応援しよう！！\n\n日程：\n1. 7月29日（火）16:30~20:00\n2. 7月30日（水）16:30~20:00\n3. 7月31日（木）16:30~20:00\n\n場所：　スチューデントコモンズ（1A203）\n\n※当日参加もOK！\n※食べ物や飲み物（アルコール類）の持ち込み…",
+            "date_modified": "2024-07-23T03:00:00.000Z"
+        },
+        {
             "id": "075d2fa8224a58ca3d463d755e5a4d57",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5313",
             "title": "【再掲】(9/1まで：謝礼あり)大学内でリラックスできる学習・休憩環境を体験する実験の参加者募集",
@@ -135,13 +142,6 @@
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5291",
             "title": "「お金の超基本勉強会―卒業してからでは遅すぎる」第15回開催のお知らせ",
             "summary": "「筑波大学・世界を変えよう基金アカデミー」では、お金に関する基礎知識（税金の計算、結婚・教育・マイホーム・老後・病気への備え、\n投資運用,NISA活用方法等）を学ぶ「お金の超基本勉強会―卒業してからでは遅すぎる」を8月に開催します。\n\n開催方式：初回は対面（中央図書館セミナー室を予定）、第2・3回はZoomの可能性あり。\n　\n開催曜日：8月10日16:00~18:00（対面）、17日時間未定、24…",
-            "date_modified": "2024-07-16T03:00:00.000Z"
-        },
-        {
-            "id": "669a9f4093abafd51ef431582ee1225b",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5290",
-            "title": "第179回バイオeカフェ　イベント開催のお知らせ",
-            "summary": "生物学類主催の、第179回バイオeカフェ開催をお知らせします。\n\nテーマ：電子の眼で見る我々の周囲のミクロ世界\n講演者：数理物質系 関口隆史先生\n日　時：7/23（火）18時30分～20時00分\n場　所：筑波大学2B棟2階210またオンライン（Zoom）\n\n・対面 にて参加される方：参加費100円 - 事前申し込み不要\n当日は会場(2B210)まで直接お越しください。お菓子と飲み物を提供いたします…",
             "date_modified": "2024-07-16T03:00:00.000Z"
         }
     ]

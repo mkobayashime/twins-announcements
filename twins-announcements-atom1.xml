@@ -2,10 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/mkobayashime/twins-announcements</id>
     <title>在学生へのお知らせ | 筑波大学</title>
-    <updated>2024-07-23T01:30:51.483Z</updated>
+    <updated>2024-07-23T07:04:26.493Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://github.com/mkobayashime/twins-announcements"/>
     <subtitle>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</subtitle>
+    <entry>
+        <title type="html"><![CDATA[パリオリンピックをみんなで観戦しよう！（7/29〜31）]]></title>
+        <id>b89b4cc720c7ffba93692384b14be3b1</id>
+        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5314"/>
+        <updated>2024-07-23T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[スポーツを通じて、国際交流しよう！！
+パリオリンピックのパブリックビューイングを開催します！！多様な国籍の人々と一緒に選手を応援しよう！！
+
+日程：
+1. 7月29日（火）16:30~20:00
+2. 7月30日（水）16:30~20:00
+3. 7月31日（木）16:30~20:00
+
+場所：　スチューデントコモンズ（1A203）
+
+※当日参加もOK！
+※食べ物や飲み物（アルコール類）の持ち込み…]]></summary>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【再掲】(9/1まで：謝礼あり)大学内でリラックスできる学習・休憩環境を体験する実験の参加者募集]]></title>
         <id>075d2fa8224a58ca3d463d755e5a4d57</id>
@@ -239,20 +257,5 @@ Date and Time：Monday, August 12, 2024, short and intermittent stop…]]></summ
 開催方式：初回は対面（中央図書館セミナー室を予定）、第2・3回はZoomの可能性あり。
 　
 開催曜日：8月10日16:00~18:00（対面）、17日時間未定、24…]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[第179回バイオeカフェ　イベント開催のお知らせ]]></title>
-        <id>669a9f4093abafd51ef431582ee1225b</id>
-        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5290"/>
-        <updated>2024-07-16T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[生物学類主催の、第179回バイオeカフェ開催をお知らせします。
-
-テーマ：電子の眼で見る我々の周囲のミクロ世界
-講演者：数理物質系 関口隆史先生
-日　時：7/23（火）18時30分～20時00分
-場　所：筑波大学2B棟2階210またオンライン（Zoom）
-
-・対面 にて参加される方：参加費100円 - 事前申し込み不要
-当日は会場(2B210)まで直接お越しください。お菓子と飲み物を提供いたします…]]></summary>
     </entry>
 </feed>
