@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "075d2fa8224a58ca3d463d755e5a4d57",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5313",
+            "title": "【再掲】(9/1まで：謝礼あり)大学内でリラックスできる学習・休憩環境を体験する実験の参加者募集",
+            "summary": "　筑波大学ヒューマンエンパワーメント推進局（BHE）では、大学生を対象に大学内でリラックスできる環境の構築に関する研究を進めています。\n　このたび、多重感覚環境（センサリールーム）という、照明の色や明るさなどを好みに応じて変えられる環境などを実際に体験して、リラクゼーション効果を検証する研究を行うため、ご協力いただける大学生を募集します。研究内容の詳細は添付のチラシをご覧ください。\n\n＜対象者＞大…",
+            "date_modified": "2024-07-23T03:00:00.000Z"
+        },
+        {
             "id": "a3657c56a22041156fc19502651119da",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5311",
             "title": "【募集】茨城県教育委員会「情報専門家活用プログラム」授業支援講師の募集",
@@ -136,13 +143,6 @@
             "title": "第179回バイオeカフェ　イベント開催のお知らせ",
             "summary": "生物学類主催の、第179回バイオeカフェ開催をお知らせします。\n\nテーマ：電子の眼で見る我々の周囲のミクロ世界\n講演者：数理物質系 関口隆史先生\n日　時：7/23（火）18時30分～20時00分\n場　所：筑波大学2B棟2階210またオンライン（Zoom）\n\n・対面 にて参加される方：参加費100円 - 事前申し込み不要\n当日は会場(2B210)まで直接お越しください。お菓子と飲み物を提供いたします…",
             "date_modified": "2024-07-16T03:00:00.000Z"
-        },
-        {
-            "id": "70b6b8a9407512833af82eb104f09d6e",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5289",
-            "title": "英語版廃棄物取扱いの手引き/Waste Management Guidelines（May 2024）",
-            "summary": "このたび、英語版「筑波大学廃棄物取扱いの手引き（2024.5月版）」及び「筑波大学の実験系廃棄物分別収集早見表（2024.5月版）」を作成し、PDF版を環境安全管理室ホームページに掲載いたしました。\n\nWe are pleased to announce that we have prepared the revised English versions of the “Waste Managem…",
-            "date_modified": "2024-07-12T03:00:00.000Z"
         }
     ]
 }
