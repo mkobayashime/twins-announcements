@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "14c6708e8f93f50eb29baa8d0007f83f",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5316",
+            "title": "【動画配信のご案内】優良企業・研究機関の探し方講座～ダイヤモンド社",
+            "summary": "7月10日(水)に開催しました優良企業・研究機関の探し方講座のオンデマンド配信です。\n全学年を対象としましたので学群１年生から博士後期学生まで幅広くご参加いただきました。\n企業を深めたい方や優良企業を見極めたい方、研究機関を探したい方などにおすすめです。\n配信：ZOOMオンデマンド\n視聴方法：HP内イベントコンテンツ(動画・資料）よりご視聴いただけます。\n※ログインが必要です。「ユーザー名：学籍番…",
+            "date_modified": "2024-07-23T03:00:00.000Z"
+        },
+        {
             "id": "7a72b67ab053ed9466d9ecae951eafa4",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5315",
             "title": "【再掲】TG⁺プログラム第5期生の募集",
@@ -135,13 +142,6 @@
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5294",
             "title": "【8月12日（月・祝）】図書館Webサービス停止について",
             "summary": "本学キャンパス情報ネットワークの更新作業のため、以下の通り図書館のWebサービスが停止します。\n\n日時：8月12日（月・祝）9時～17時の間で短時間、断続的に停止\n\n対象：\n\n・附属図書館Webサイト\n・OPAC\n・マイライブラリ\n　・貸出期限の更新（延長）\n　・蔵書の予約、取り寄せ\n　・学外からの図書/論文コピー取り寄せ申し込み、学内e-DDS\n　・図書購入依頼\n　・学生希望図書、教員推薦図書の…",
-            "date_modified": "2024-07-17T03:00:00.000Z"
-        },
-        {
-            "id": "768493f1c7acec63b387bfb1425307d3",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5293",
-            "title": "【8/12】Library web services unavailable",
-            "summary": "Due to the renewal work of Campus Information Network System of the university, library web services will be unavailable as follows.\n\nDate and Time：Monday, August 12, 2024, short and intermittent stop…",
             "date_modified": "2024-07-17T03:00:00.000Z"
         }
     ]
