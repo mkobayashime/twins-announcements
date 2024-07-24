@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "bcdc5e043ff60c648a0b049d55745dd7",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5317",
+            "title": "国際交流プログラム【Global Talk 2024-25】ご案内",
+            "summary": "外務省、文科省、アメリカ大使館が後援する、米国学生との国際交流プログラムをご案内します。\n詳しくは下記をご通読ください。\n\n＝＝＝＝＝\n学生の皆さんへ\n\n★第９回 Global Talk ～オンライン国際交流プログラム～《 参加費無料 》\n\nアメリカの日本語学習者と一年に渡り交流する、Global Talkの参加者を募集中です！\nこのプログラムは、ハーバード大学、イェール大学、ブラウン大学、その他…",
+            "date_modified": "2024-07-24T03:00:00.000Z"
+        },
+        {
             "id": "14c6708e8f93f50eb29baa8d0007f83f",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5316",
             "title": "【動画配信のご案内】優良企業・研究機関の探し方講座～ダイヤモンド社",
@@ -135,13 +142,6 @@
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5295",
             "title": "Let’s watch Paris Olympics together! (7/29-31) / パリオリンピックをみんなで観戦しよう！（7/29〜31）",
             "summary": "Let’s come together through sports, promoting international friendship!!\nWe are going to hold Paris Olympics Public Viewing!! Let’s cheer up Olympians with people from different countries!!\n\nScheduled…",
-            "date_modified": "2024-07-17T03:00:00.000Z"
-        },
-        {
-            "id": "a53e4b17f0a57dda6496836b4d1a4e07",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5294",
-            "title": "【8月12日（月・祝）】図書館Webサービス停止について",
-            "summary": "本学キャンパス情報ネットワークの更新作業のため、以下の通り図書館のWebサービスが停止します。\n\n日時：8月12日（月・祝）9時～17時の間で短時間、断続的に停止\n\n対象：\n\n・附属図書館Webサイト\n・OPAC\n・マイライブラリ\n　・貸出期限の更新（延長）\n　・蔵書の予約、取り寄せ\n　・学外からの図書/論文コピー取り寄せ申し込み、学内e-DDS\n　・図書購入依頼\n　・学生希望図書、教員推薦図書の…",
             "date_modified": "2024-07-17T03:00:00.000Z"
         }
     ]
