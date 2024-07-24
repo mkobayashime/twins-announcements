@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "2bba208d62ace3ec7e185958d9bd3b62",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5318",
+            "title": "【通知】キャンパス情報ネットワーク更新作業に伴うTWINSおよびKdB休止のお知らせ（8/10(土)午後6時30分～8/19(月)午前12時まで）",
+            "summary": "TWINS・KdB利用者各位\n\nキャンパス情報ネットワーク更新作業に伴い、以下の期間TWINSおよびKdBのサービスを休止いたします。\nご迷惑をおかけしますが、ご協力をお願いします。\n\nTWINS・KdB運転休止期間：\n令和６年８月10日(土)　午後6時30分　から　８月19日(月)　午前12時　まで\n※19日は動作確認が完了次第復旧いたします。\n\nDuring the following per…",
+            "date_modified": "2024-07-25T03:00:00.000Z"
+        },
+        {
             "id": "bcdc5e043ff60c648a0b049d55745dd7",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5317",
             "title": "国際交流プログラム【Global Talk 2024-25】ご案内",
@@ -107,13 +114,6 @@
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5302",
             "title": "【CEGLOC】「優れた外国語活動」認定制度について",
             "summary": "「優れた外国語活動」認定制度とは、本学の言語教育改革の一環として、学生（学群生・院生）の主体的な学びを実現するための支援として、外国語に関する学生の自主的な取り組みの実績全体を評価し、認定するものです。\n\n　申請を希望する学生は優れた外国語活動認定について_202407改定 [PDF形式／305.3KB]をよく読み、必要書類を用意した上で申請してください。\n\n【必要書類】\n・「優れた外国語活動」認…",
-            "date_modified": "2024-07-18T03:00:00.000Z"
-        },
-        {
-            "id": "f7e5c4dc1ece4147cbde4ed3df16263e",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5299",
-            "title": "サーバー更新作業に伴うキャリア支援チームHP及び就職情報提供システム停止のお知らせ",
-            "summary": "ーバー更新作業に伴い、下記の時間、キャリア支援チームホームページ等へ繋がりにくくなります。\n【作業日時】7/24（水）9：00　～　13：15（予定）\n\nなお、サーバー更新作業中は、「学内専用ページ」、「ガイダンス等及び模試試験登録・申請」、「進路進捗状況届」へのアクセスはできません。\n皆様にはご迷惑をおかけいたしますが、ご理解、ご協力の程よろしくお願いいたします。\n",
             "date_modified": "2024-07-18T03:00:00.000Z"
         },
         {
