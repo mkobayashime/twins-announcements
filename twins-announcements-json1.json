@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "b588a1300f9c6ac94ac3d08766debca1",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5323",
+            "title": "留学生のチューター募集について（2024年度秋学期）",
+            "summary": "留学生と交流したい、または留学生をサポートしたいと思っている正規課程の在学生の皆さん、ぜひチューターになってみませんか？\n\n2024年9月・10月に多くの留学生が入学する予定です。\nこれに伴い、チューター支援（主に生活の立ち上げ支援（原則対面））を\n行ってくださるチューターを大募集しています！！！！\n\nチューター希望の学生は、下記URL上の「チューターバンク」に記載の登録方法に従い、チューターバン…",
+            "date_modified": "2024-07-25T03:00:00.000Z"
+        },
+        {
             "id": "a51c8e6e6bc83723708935ff8339c631",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5322",
             "title": "【附属図書館】9月の臨時休館について / [Library] Temporaly Closure on September",
@@ -135,13 +142,6 @@
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5303",
             "title": "【Tickets On Sale】University of Tsukuba Home Game \"TSUKUBA LIVE!\" (Men's Handball: vs Waseda Univ.)",
             "summary": "Tickets are now on sale for the University of Tsukuba home game \"TSUKUBA LIVE!\" to be held on Saturday, August 3rd, at the University of Tsukuba Central Gymnasium.\n \nThis event features men's handball…",
-            "date_modified": "2024-07-18T03:00:00.000Z"
-        },
-        {
-            "id": "be454e8f52f649dbaefccb235f2d5897",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5302",
-            "title": "【CEGLOC】「優れた外国語活動」認定制度について",
-            "summary": "「優れた外国語活動」認定制度とは、本学の言語教育改革の一環として、学生（学群生・院生）の主体的な学びを実現するための支援として、外国語に関する学生の自主的な取り組みの実績全体を評価し、認定するものです。\n\n　申請を希望する学生は優れた外国語活動認定について_202407改定 [PDF形式／305.3KB]をよく読み、必要書類を用意した上で申請してください。\n\n【必要書類】\n・「優れた外国語活動」認…",
             "date_modified": "2024-07-18T03:00:00.000Z"
         }
     ]
