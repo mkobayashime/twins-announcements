@@ -4,10 +4,28 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Wed, 24 Jul 2024 21:07:15 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 25 Jul 2024 02:18:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
+        <item>
+            <title><![CDATA[Online Festival Between University of Tsukuba and Ohio State University]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5320</link>
+            <guid>69bd59ccb4b51f2670a3dca5c6711f63</guid>
+            <pubDate>Thu, 25 Jul 2024 03:00:00 GMT</pubDate>
+            <description><![CDATA[We are excited to announce a unique and enriching opportunity for you to participate in a special online festival hosted by the University of Tsukuba (UT) for Ohio State University (OSU)! This event i…]]></description>
+        </item>
+        <item>
+            <title><![CDATA[オンラインフェスティバル　筑波大学×オハイオ州立大学]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5319</link>
+            <guid>eb129801584307174ab942d4ed69b28a</guid>
+            <pubDate>Thu, 25 Jul 2024 03:00:00 GMT</pubDate>
+            <description><![CDATA[学生の皆様
+筑波大学初の試みとして、アメリカのオハイオ州立大学との共同オンラインイベント「ISSサマーフェスティバル」を開催します！
+このイベントは、多様なバックグラウンドをもつ学生による協働とイノベーションを促進する、学術・文化交流プログラムの一環として実施されます。
+
+イベント情報： https://iss-summer-festival.jimdofree.com/%E6%97%A5%E6%…]]></description>
+        </item>
         <item>
             <title><![CDATA[【通知】キャンパス情報ネットワーク更新作業に伴うTWINSおよびKdB休止のお知らせ（8/10(土)午後6時30分～8/19(月)午前12時まで）]]></title>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5318</link>
@@ -246,28 +264,6 @@ Through this project, we will collect ‘still-useable and unused items’ from 
 として、学期が切り替わる長期休暇前の7月から9月に、「まだ使用できる不用品」を回収し、新学期に新入生をはじめとした学生へ、無料譲渡するプロジェクトを実施します。
 
 捨てるにはもったいな…]]></description>
-        </item>
-        <item>
-            <title><![CDATA[【scholarship】2025年度フランス政府奨学金留学生募集　« Bourses France Excellence Japon » - Campagne 2025-2026]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5296</link>
-            <guid>b1c61680dd7199a1179d3597dcfad3c3</guid>
-            <pubDate>Thu, 18 Jul 2024 03:00:00 GMT</pubDate>
-            <description><![CDATA[フランス政府奨学金は、フランスの高等教育・研究機関への留学を目指す日本人留学生を支援しています。
-対象者：フランスであらゆる分野の博士課程留学またはポスドク留学を志す方
-　           フランスの修士課程で政治学・国際関係学分野の専攻を志望する学生の方
-2024年9月20日オンライン登録開始。
-
-Le programme des « Bourses France Excellence Ja…]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Let’s watch Paris Olympics together! (7/29-31) / パリオリンピックをみんなで観戦しよう！（7/29〜31）]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5295</link>
-            <guid>c278bb33f88e51f8ec0bd254e099a276</guid>
-            <pubDate>Wed, 17 Jul 2024 03:00:00 GMT</pubDate>
-            <description><![CDATA[Let’s come together through sports, promoting international friendship!!
-We are going to hold Paris Olympics Public Viewing!! Let’s cheer up Olympians with people from different countries!!
-
-Scheduled…]]></description>
         </item>
     </channel>
 </rss>
