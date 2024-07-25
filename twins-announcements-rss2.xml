@@ -4,10 +4,26 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Thu, 25 Jul 2024 02:18:03 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 25 Jul 2024 03:04:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
+        <item>
+            <title><![CDATA[【オンライン実施】CiCプログラムで2024年秋渡航前説明会及び留学目的発表会]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5321</link>
+            <guid>82e3fd4dd8213a74bfa97f216fedfa11</guid>
+            <pubDate>Thu, 25 Jul 2024 03:00:00 GMT</pubDate>
+            <description><![CDATA[オンラインで各協定校・地域についての説明や学生からの留学目的の発表会を開催します！
+特にフランス（グルノーブル・アルプ大学とボルドー大学）およびドイツ（ボーフム大学）へ留学を検討している方は、ぜひご参加ください！
+事前の参加登録は不要です！
+
+開催方法：Zoomミーティング
+時刻：2024年7月31日(水)18:15
+
+ミーティング ID: 817 6039 1682
+パスコード: mfG6YU
+…]]></description>
+        </item>
         <item>
             <title><![CDATA[Online Festival Between University of Tsukuba and Ohio State University]]></title>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5320</link>
@@ -254,16 +270,6 @@ This event features men's handball…]]></description>
             <description><![CDATA[Student Support Center Office is organizing the “Student Commons’ SDGs RECYCLING PROJECT” .
 
 Through this project, we will collect ‘still-useable and unused items’ from July to September, then we will…]]></description>
-        </item>
-        <item>
-            <title><![CDATA[【回収】不用品を捨てずにリユース！RECYCLING PROJECTに参加しませんか？＠Student Commons (1A203))]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5297</link>
-            <guid>ed320f9384d2733ccf5382fb55febfb0</guid>
-            <pubDate>Thu, 18 Jul 2024 03:00:00 GMT</pubDate>
-            <description><![CDATA[スチューデントサポートセンターでは、学生のための交流スペースであるStudent Commonsを活用し、かつSDGｓに資するため、”Student Commons’ SDGs RECYCLING PROJECT”
-として、学期が切り替わる長期休暇前の7月から9月に、「まだ使用できる不用品」を回収し、新学期に新入生をはじめとした学生へ、無料譲渡するプロジェクトを実施します。
-
-捨てるにはもったいな…]]></description>
         </item>
     </channel>
 </rss>

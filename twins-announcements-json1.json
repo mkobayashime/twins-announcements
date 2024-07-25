@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "82e3fd4dd8213a74bfa97f216fedfa11",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5321",
+            "title": "【オンライン実施】CiCプログラムで2024年秋渡航前説明会及び留学目的発表会",
+            "summary": "オンラインで各協定校・地域についての説明や学生からの留学目的の発表会を開催します！\n特にフランス（グルノーブル・アルプ大学とボルドー大学）およびドイツ（ボーフム大学）へ留学を検討している方は、ぜひご参加ください！\n事前の参加登録は不要です！\n\n開催方法：Zoomミーティング\n時刻：2024年7月31日(水)18:15\n\nミーティング ID: 817 6039 1682\nパスコード: mfG6YU\n…",
+            "date_modified": "2024-07-25T03:00:00.000Z"
+        },
+        {
             "id": "69bd59ccb4b51f2670a3dca5c6711f63",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5320",
             "title": "Online Festival Between University of Tsukuba and Ohio State University",
@@ -135,13 +142,6 @@
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5298",
             "title": "RECYCLING PROJECT! Collection at Student Commons (1A203) and Division of Student Exchange (1A101)",
             "summary": "Student Support Center Office is organizing the “Student Commons’ SDGs RECYCLING PROJECT” .\n\nThrough this project, we will collect ‘still-useable and unused items’ from July to September, then we will…",
-            "date_modified": "2024-07-18T03:00:00.000Z"
-        },
-        {
-            "id": "ed320f9384d2733ccf5382fb55febfb0",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5297",
-            "title": "【回収】不用品を捨てずにリユース！RECYCLING PROJECTに参加しませんか？＠Student Commons (1A203))",
-            "summary": "スチューデントサポートセンターでは、学生のための交流スペースであるStudent Commonsを活用し、かつSDGｓに資するため、”Student Commons’ SDGs RECYCLING PROJECT”\nとして、学期が切り替わる長期休暇前の7月から9月に、「まだ使用できる不用品」を回収し、新学期に新入生をはじめとした学生へ、無料譲渡するプロジェクトを実施します。\n\n捨てるにはもったいな…",
             "date_modified": "2024-07-18T03:00:00.000Z"
         }
     ]
