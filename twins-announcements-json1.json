@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "a51c8e6e6bc83723708935ff8339c631",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5322",
+            "title": "【附属図書館】9月の臨時休館について / [Library] Temporaly Closure on September",
+            "summary": "館内整備日のため、以下のとおり臨時休館いたします。ご不便をおかけしますが、ご協力の程よろしくお願いいたします。\nFor organizing the books, the library will be temporarily closed as follows. Thank you for your cooperation.\n\n休館する図書館 / 休館日時\n大塚図書館 / 令和6年9月3日（火）…",
+            "date_modified": "2024-07-25T03:00:00.000Z"
+        },
+        {
             "id": "82e3fd4dd8213a74bfa97f216fedfa11",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5321",
             "title": "【オンライン実施】CiCプログラムで2024年秋渡航前説明会及び留学目的発表会",
@@ -135,13 +142,6 @@
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5302",
             "title": "【CEGLOC】「優れた外国語活動」認定制度について",
             "summary": "「優れた外国語活動」認定制度とは、本学の言語教育改革の一環として、学生（学群生・院生）の主体的な学びを実現するための支援として、外国語に関する学生の自主的な取り組みの実績全体を評価し、認定するものです。\n\n　申請を希望する学生は優れた外国語活動認定について_202407改定 [PDF形式／305.3KB]をよく読み、必要書類を用意した上で申請してください。\n\n【必要書類】\n・「優れた外国語活動」認…",
-            "date_modified": "2024-07-18T03:00:00.000Z"
-        },
-        {
-            "id": "6c8531b0e48c2e9b7dc619d567c2193f",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5298",
-            "title": "RECYCLING PROJECT! Collection at Student Commons (1A203) and Division of Student Exchange (1A101)",
-            "summary": "Student Support Center Office is organizing the “Student Commons’ SDGs RECYCLING PROJECT” .\n\nThrough this project, we will collect ‘still-useable and unused items’ from July to September, then we will…",
             "date_modified": "2024-07-18T03:00:00.000Z"
         }
     ]

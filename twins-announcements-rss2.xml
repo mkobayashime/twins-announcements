@@ -4,10 +4,21 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Thu, 25 Jul 2024 03:04:50 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 25 Jul 2024 04:05:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
+        <item>
+            <title><![CDATA[【附属図書館】9月の臨時休館について / [Library] Temporaly Closure on September]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5322</link>
+            <guid>a51c8e6e6bc83723708935ff8339c631</guid>
+            <pubDate>Thu, 25 Jul 2024 03:00:00 GMT</pubDate>
+            <description><![CDATA[館内整備日のため、以下のとおり臨時休館いたします。ご不便をおかけしますが、ご協力の程よろしくお願いいたします。
+For organizing the books, the library will be temporarily closed as follows. Thank you for your cooperation.
+
+休館する図書館 / 休館日時
+大塚図書館 / 令和6年9月3日（火）…]]></description>
+        </item>
         <item>
             <title><![CDATA[【オンライン実施】CiCプログラムで2024年秋渡航前説明会及び留学目的発表会]]></title>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5321</link>
@@ -261,15 +272,6 @@ This event features men's handball…]]></description>
 
 【必要書類】
 ・「優れた外国語活動」認…]]></description>
-        </item>
-        <item>
-            <title><![CDATA[RECYCLING PROJECT! Collection at Student Commons (1A203) and Division of Student Exchange (1A101)]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5298</link>
-            <guid>6c8531b0e48c2e9b7dc619d567c2193f</guid>
-            <pubDate>Thu, 18 Jul 2024 03:00:00 GMT</pubDate>
-            <description><![CDATA[Student Support Center Office is organizing the “Student Commons’ SDGs RECYCLING PROJECT” .
-
-Through this project, we will collect ‘still-useable and unused items’ from July to September, then we will…]]></description>
         </item>
     </channel>
 </rss>
