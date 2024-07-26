@@ -2,10 +2,32 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/mkobayashime/twins-announcements</id>
     <title>在学生へのお知らせ | 筑波大学</title>
-    <updated>2024-07-25T21:07:31.917Z</updated>
+    <updated>2024-07-26T01:30:49.845Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://github.com/mkobayashime/twins-announcements"/>
     <subtitle>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</subtitle>
+    <entry>
+        <title type="html"><![CDATA[【Tickets On Sale】University of Tsukuba Home Game "TSUKUBA LIVE!" (Men's Handball: vs Waseda Univ.)]]></title>
+        <id>eac3ecd88682f338617124fdb2d1933c</id>
+        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5326"/>
+        <updated>2024-07-26T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Tickets are now on sale for the University of Tsukuba home game "TSUKUBA LIVE!" to be held on Saturday, August 3rd, at the University of Tsukuba Central Gymnasium.
+ 
+This event features men's handball…]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【チケット販売中】筑波大学ホームゲーム「TSUKUBA LIVE!」（男子ハンド・vs早稲田大）]]></title>
+        <id>3b2e12dd4c97eeacbdc3783f3c8fc447</id>
+        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5325"/>
+        <updated>2024-07-26T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[8月3日（土）に筑波大学中央体育館で開催する筑波大学ホームゲーム「TSUKUBA LIVE!」のチケットを販売中です。
+
+今回の競技は男子ハンドボール、対戦カードは筑波大学vs早稲田大学です。
+
+会場には様々な企画・ブースも出店し、試合以外でも楽しめるホームゲームなので、スポーツ観戦デビューをしたい筑波大生にもぴったりの機会です！
+
+※筑波大生には割引クーポン（500円引き、先着50人）は定員に達…]]></summary>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【開催案内】茗溪学園主催・公開シンポジウム「これからの中等教育～生徒が入試の出題者になろう～」]]></title>
         <id>d056674eb0a4af53ed4fc4b183b1f839</id>
@@ -253,26 +275,5 @@ During the following per…]]></summary>
         <updated>2024-07-22T03:00:00.000Z</updated>
         <summary type="html"><![CDATA[ヒューマンエンパワーメント推進局（BHE）では、筑波大学に所属する全学群生・大学院生を対象に、多様な学生のキャリア形成に対する視野を開くこと、また、博士進学後のキャリアパスをクリアにすることを目的として、令和6年度第3回博士のポートフォリオ大公開+ロールモデル懇談会を開催します。
 博士課程に進学したきっかけや当時の悩みなど、筑波大学で博士号を取得した方に日ごろの疑問を質問できる貴重な機会です。障害…]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【CEGLOC】「優れた外国語活動」認定制度について]]></title>
-        <id>be454e8f52f649dbaefccb235f2d5897</id>
-        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5302"/>
-        <updated>2024-07-18T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[「優れた外国語活動」認定制度とは、本学の言語教育改革の一環として、学生（学群生・院生）の主体的な学びを実現するための支援として、外国語に関する学生の自主的な取り組みの実績全体を評価し、認定するものです。
-
-　申請を希望する学生は優れた外国語活動認定について_202407改定 [PDF形式／305.3KB]をよく読み、必要書類を用意した上で申請してください。
-
-【必要書類】
-・「優れた外国語活動」認…]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RECYCLING PROJECT! Collection at Student Commons (1A203) and Division of Student Exchange (1A101)]]></title>
-        <id>6c8531b0e48c2e9b7dc619d567c2193f</id>
-        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5298"/>
-        <updated>2024-07-18T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Student Support Center Office is organizing the “Student Commons’ SDGs RECYCLING PROJECT” .
-
-Through this project, we will collect ‘still-useable and unused items’ from July to September, then we will…]]></summary>
     </entry>
 </feed>
