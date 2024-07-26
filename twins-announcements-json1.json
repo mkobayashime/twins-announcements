@@ -5,6 +5,20 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "7c72dd941eb61a6723ce05a49ff00731",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5331",
+            "title": "7/28まで！【再掲・募集】茨城県教育委員会「情報専門家活用プログラム」授業支援講師の募集について",
+            "summary": "大学院生の皆さん、高校で授業支援をしてみませんか？\n----------------------------------------------------------------------------\n高等学校情報科の必履修科目である「情報Ｉ」の\nプログラミング領域、情報デザイン領域、データ分析領域等において、\n県立高校等の校長の指示に基づき、次の業務を行います。\n\n・生徒への指導、助言に必要…",
+            "date_modified": "2024-07-26T03:00:00.000Z"
+        },
+        {
+            "id": "3a11b40087a6b0a545cace73d34b6bde",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5330",
+            "title": "（再掲・締切間近！）【参加者募集・7/31開催】第３回博士のポートフォリオ大公開 + ロールモデル懇談会",
+            "summary": "ヒューマンエンパワーメント推進局（BHE）では、筑波大学に所属する全学群生・大学院生を対象に、多様な学生のキャリア形成に対する視野を開くこと、また、博士進学後のキャリアパスをクリアにすることを目的として、令和6年度第3回博士のポートフォリオ大公開+ロールモデル懇談会を開催します。\n博士課程に進学したきっかけや当時の悩みなど、筑波大学で博士号を取得した方に日ごろの疑問を質問できる貴重な機会です。障害…",
+            "date_modified": "2024-07-26T03:00:00.000Z"
+        },
+        {
             "id": "6e324558c6a5b9dd7359dbd7202ed67e",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5329",
             "title": "【開催案内】国立美術館「ミュージアムで謎解きを　ミュージアムラリー2024」開催のご案内",
@@ -128,20 +142,6 @@
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5311",
             "title": "【募集】茨城県教育委員会「情報専門家活用プログラム」授業支援講師の募集",
             "summary": "大学院生の皆さん、高校で授業支援をしてみませんか？\n【業務内容】\n高等学校情報科の必履修科目である「情報Ｉ」の\nプログラミング領域、情報デザイン領域、データ分析領域等において、\n県立高校等の校長の指示に基づき、次の業務を行います。\n\n・生徒への指導、助言に必要な資料の作成\n・情報Ｉの授業における生徒への指導、助言\n・担当教員との意見交換等\n\n※情報Ⅰの授業とは？\n文部科学省のウェブサイトに動画が掲…",
-            "date_modified": "2024-07-22T03:00:00.000Z"
-        },
-        {
-            "id": "be57d77eef9ce301d79c6491f02a41ac",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5310",
-            "title": "（茗渓会）8月7日　ぶっちゃけ相談会のご案内",
-            "summary": "【参加対象者】\n・筑波大学および大学院の全ての学生。学年不問。\n新入生大歓迎！\n【参加費】\n・無料\nこれから就活が始まる方、卒業後の進路やキャリアに悩んでいる方、\nこれからの大学生活をどう過ごそうか考えている方、\nぜひ、先輩に質問してみてください。\n【今月の登壇者】\n１人目は放送業界（テレビ、ＮＨＫ）で、２人目は電機（重電）業界（プラントエンジニアリング）で活躍されているお二人が登場します。\nみな…",
-            "date_modified": "2024-07-22T03:00:00.000Z"
-        },
-        {
-            "id": "69a9cf707a82b8cbcbe06c02efe3ba43",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5309",
-            "title": "令和５年度社会貢献プロジェクト報告書の掲載等について",
-            "summary": "つくば・地域連携推進室では、本学と社会・地域との多様な形での連携活動やその取組等を「社会貢献プロジェクト」として採択し、経費支援等を行っています。\n※「社会貢献プロジェクト」は、学生も申請できるものとなっています。\n\nこのたび、『令和５年度社会貢献プロジェクト報告書』を下記ホームページに掲載しましたのでお知らせします。\n筑波大学社会貢献・地域連携HP： https://scpj.tsukuba.a…",
             "date_modified": "2024-07-22T03:00:00.000Z"
         }
     ]
