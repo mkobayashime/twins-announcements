@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/mkobayashime/twins-announcements</id>
     <title>在学生へのお知らせ | 筑波大学</title>
-    <updated>2024-07-29T10:04:40.122Z</updated>
+    <updated>2024-07-29T11:04:33.923Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://github.com/mkobayashime/twins-announcements"/>
     <subtitle>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</subtitle>
+    <entry>
+        <title type="html"><![CDATA[【Calling for Participants】Nebuta Parade at Matsuri Tsukuba (August 24-25)]]></title>
+        <id>2bcfa6705eff3e30d6b58b6d294c05af</id>
+        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5339"/>
+        <updated>2024-07-29T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Let's have "Tsukuba Summer" unique experience with your friends!
+
+We are recruiting UT students to participate in the "Matsuri Tsukuba" Nebuta Parade, which will be held around Tsukuba Station on Augu…]]></summary>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【参加者募集】まつりつくばのねぶたパレード（8月24・25日）]]></title>
         <id>3c587fe5ca94461bd2f8d26d05d1ee6a</id>
@@ -255,21 +264,5 @@ TWINS・KdB運転休止期間：
 ※19日は動作確認が完了次第復旧いたします。
 
 During the following per…]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[国際交流プログラム【Global Talk 2024-25】ご案内]]></title>
-        <id>bcdc5e043ff60c648a0b049d55745dd7</id>
-        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5317"/>
-        <updated>2024-07-24T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[外務省、文科省、アメリカ大使館が後援する、米国学生との国際交流プログラムをご案内します。
-詳しくは下記をご通読ください。
-
-＝＝＝＝＝
-学生の皆さんへ
-
-★第９回 Global Talk ～オンライン国際交流プログラム～《 参加費無料 》
-
-アメリカの日本語学習者と一年に渡り交流する、Global Talkの参加者を募集中です！
-このプログラムは、ハーバード大学、イェール大学、ブラウン大学、その他…]]></summary>
     </entry>
 </feed>

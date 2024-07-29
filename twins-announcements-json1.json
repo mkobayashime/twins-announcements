@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "2bcfa6705eff3e30d6b58b6d294c05af",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5339",
+            "title": "【Calling for Participants】Nebuta Parade at Matsuri Tsukuba (August 24-25)",
+            "summary": "Let's have \"Tsukuba Summer\" unique experience with your friends!\n\nWe are recruiting UT students to participate in the \"Matsuri Tsukuba\" Nebuta Parade, which will be held around Tsukuba Station on Augu…",
+            "date_modified": "2024-07-29T03:00:00.000Z"
+        },
+        {
             "id": "3c587fe5ca94461bd2f8d26d05d1ee6a",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5338",
             "title": "【参加者募集】まつりつくばのねぶたパレード（8月24・25日）",
@@ -136,13 +143,6 @@
             "title": "【通知】キャンパス情報ネットワーク更新作業に伴うTWINSおよびKdB休止のお知らせ（8/10(土)午後6時30分～8/19(月)午前12時まで）",
             "summary": "TWINS・KdB利用者各位\n\nキャンパス情報ネットワーク更新作業に伴い、以下の期間TWINSおよびKdBのサービスを休止いたします。\nご迷惑をおかけしますが、ご協力をお願いします。\n\nTWINS・KdB運転休止期間：\n令和６年８月10日(土)　午後6時30分　から　８月19日(月)　午前12時　まで\n※19日は動作確認が完了次第復旧いたします。\n\nDuring the following per…",
             "date_modified": "2024-07-25T03:00:00.000Z"
-        },
-        {
-            "id": "bcdc5e043ff60c648a0b049d55745dd7",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5317",
-            "title": "国際交流プログラム【Global Talk 2024-25】ご案内",
-            "summary": "外務省、文科省、アメリカ大使館が後援する、米国学生との国際交流プログラムをご案内します。\n詳しくは下記をご通読ください。\n\n＝＝＝＝＝\n学生の皆さんへ\n\n★第９回 Global Talk ～オンライン国際交流プログラム～《 参加費無料 》\n\nアメリカの日本語学習者と一年に渡り交流する、Global Talkの参加者を募集中です！\nこのプログラムは、ハーバード大学、イェール大学、ブラウン大学、その他…",
-            "date_modified": "2024-07-24T03:00:00.000Z"
         }
     ]
 }
