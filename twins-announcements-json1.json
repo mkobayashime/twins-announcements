@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "3c587fe5ca94461bd2f8d26d05d1ee6a",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5338",
+            "title": "【参加者募集】まつりつくばのねぶたパレード（8月24・25日）",
+            "summary": "この夏、仲間と共にここでしかできない体験をしよう！！\n\n2024年8月24・25日、つくば駅周辺で開催される「まつりつくば」にて、ねぶたパレードに参加する筑波大生を募集します。\n参加希望者は、以下より、必要事項をご回答ください。\n＜申し込みフォーム＞\nhttps://docs.google.com/forms/d/e/1FAIpQLSdmpcw35b5I88TSnRS38s9QFpVHRqj8a-…",
+            "date_modified": "2024-07-29T03:00:00.000Z"
+        },
+        {
             "id": "f29c707cf054f38c437a799569b3ec48",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5337",
             "title": "【8月開室スケジュール】セーファースペース「KiteKite（きてきて）」",
@@ -136,13 +143,6 @@
             "title": "国際交流プログラム【Global Talk 2024-25】ご案内",
             "summary": "外務省、文科省、アメリカ大使館が後援する、米国学生との国際交流プログラムをご案内します。\n詳しくは下記をご通読ください。\n\n＝＝＝＝＝\n学生の皆さんへ\n\n★第９回 Global Talk ～オンライン国際交流プログラム～《 参加費無料 》\n\nアメリカの日本語学習者と一年に渡り交流する、Global Talkの参加者を募集中です！\nこのプログラムは、ハーバード大学、イェール大学、ブラウン大学、その他…",
             "date_modified": "2024-07-24T03:00:00.000Z"
-        },
-        {
-            "id": "14c6708e8f93f50eb29baa8d0007f83f",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5316",
-            "title": "【動画配信のご案内】優良企業・研究機関の探し方講座～ダイヤモンド社",
-            "summary": "7月10日(水)に開催しました優良企業・研究機関の探し方講座のオンデマンド配信です。\n全学年を対象としましたので学群１年生から博士後期学生まで幅広くご参加いただきました。\n企業を深めたい方や優良企業を見極めたい方、研究機関を探したい方などにおすすめです。\n配信：ZOOMオンデマンド\n視聴方法：HP内イベントコンテンツ(動画・資料）よりご視聴いただけます。\n※ログインが必要です。「ユーザー名：学籍番…",
-            "date_modified": "2024-07-23T03:00:00.000Z"
         }
     ]
 }
