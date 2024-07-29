@@ -5,6 +5,20 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "d5cb0792025c8f547e0e834947f4e000",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5335",
+            "title": "【開催延期】2024年度 筑波大学 オンラインによる新入生に贈る特別講演会「大学教育・学習における生成AIその可能性と限界」",
+            "summary": "【開催延期】2024年度 筑波大学 オンラインによる新入生に贈る特別講演会「大学教育・学習における生成AIその可能性と限界」\n\n7月29日(月)13:45より予定されておりました當作靖彦氏（カリフォルニア大学サンディエゴ校・名誉教授）によるオンライン公開講演会「大学教育・学習における生成AIその可能性と限界」ですが、講師体調不良のため延期させていただくこととなりました。\n\n新たな開催日が決まりまし…",
+            "date_modified": "2024-07-29T03:00:00.000Z"
+        },
+        {
+            "id": "82df206c7ee93a02fe8796ed05f170bb",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5334",
+            "title": "夏休みいけばな体験の開催について/Summer Vacation Ikebana Experience",
+            "summary": "夏休みいけばな体験を8月14日に開催いたします。\n\n詳細は添付ファイルをご確認ください。\n\nWould you like experience the Japanese culture of ikebana during your summer vacation?\n\nFor detail, please see the attached file.",
+            "date_modified": "2024-07-29T03:00:00.000Z"
+        },
+        {
             "id": "71e758626f2333e18b9f3358506b9c4e",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5332",
             "title": "【10/2(水) 15:30～】令和6年度人文学類文化講演会「海の人類史　パイオニアたちの100万年」のご案内",
@@ -129,20 +143,6 @@
             "title": "パリオリンピックをみんなで観戦しよう！（7/29〜31）",
             "summary": "スポーツを通じて、国際交流しよう！！\nパリオリンピックのパブリックビューイングを開催します！！多様な国籍の人々と一緒に選手を応援しよう！！\n\n日程：\n1. 7月29日（火）16:30~20:00\n2. 7月30日（水）16:30~20:00\n3. 7月31日（木）16:30~20:00\n\n場所：　スチューデントコモンズ（1A203）\n\n※当日参加もOK！\n※食べ物や飲み物（アルコール類）の持ち込み…",
             "date_modified": "2024-07-23T03:00:00.000Z"
-        },
-        {
-            "id": "075d2fa8224a58ca3d463d755e5a4d57",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5313",
-            "title": "【再掲】(9/1まで：謝礼あり)大学内でリラックスできる学習・休憩環境を体験する実験の参加者募集",
-            "summary": "　筑波大学ヒューマンエンパワーメント推進局（BHE）では、大学生を対象に大学内でリラックスできる環境の構築に関する研究を進めています。\n　このたび、多重感覚環境（センサリールーム）という、照明の色や明るさなどを好みに応じて変えられる環境などを実際に体験して、リラクゼーション効果を検証する研究を行うため、ご協力いただける大学生を募集します。研究内容の詳細は添付のチラシをご覧ください。\n\n＜対象者＞大…",
-            "date_modified": "2024-07-23T03:00:00.000Z"
-        },
-        {
-            "id": "be57d77eef9ce301d79c6491f02a41ac",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5310",
-            "title": "（茗渓会）8月7日　ぶっちゃけ相談会のご案内",
-            "summary": "【参加対象者】\n・筑波大学および大学院の全ての学生。学年不問。\n新入生大歓迎！\n【参加費】\n・無料\nこれから就活が始まる方、卒業後の進路やキャリアに悩んでいる方、\nこれからの大学生活をどう過ごそうか考えている方、\nぜひ、先輩に質問してみてください。\n【今月の登壇者】\n１人目は放送業界（テレビ、ＮＨＫ）で、２人目は電機（重電）業界（プラントエンジニアリング）で活躍されているお二人が登場します。\nみな…",
-            "date_modified": "2024-07-22T03:00:00.000Z"
         }
     ]
 }
