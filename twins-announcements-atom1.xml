@@ -2,10 +2,17 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/mkobayashime/twins-announcements</id>
     <title>在学生へのお知らせ | 筑波大学</title>
-    <updated>2024-07-29T21:07:43.668Z</updated>
+    <updated>2024-07-30T03:04:59.080Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://github.com/mkobayashime/twins-announcements"/>
     <subtitle>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</subtitle>
+    <entry>
+        <title type="html"><![CDATA[Request for Participation in Survey for international students from MEXT（Monbukagakusho）]]></title>
+        <id>9bacda6d3cc7318174769e80934784f3</id>
+        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5340"/>
+        <updated>2024-07-30T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[MEXT(Monbukagakusho, the Ministry of Education, Culture, Sports, Science and Technology) is asking international students to answer to the survey regarding family members and others accompanying with …]]></summary>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【Calling for Participants】Nebuta Parade at Matsuri Tsukuba (August 24-25)]]></title>
         <id>2bcfa6705eff3e30d6b58b6d294c05af</id>
@@ -248,17 +255,5 @@ During the following per…]]></summary>
 
 アメリカの日本語学習者と一年に渡り交流する、Global Talkの参加者を募集中です！
 このプログラムは、ハーバード大学、イェール大学、ブラウン大学、その他…]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【動画配信のご案内】優良企業・研究機関の探し方講座～ダイヤモンド社]]></title>
-        <id>14c6708e8f93f50eb29baa8d0007f83f</id>
-        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5316"/>
-        <updated>2024-07-23T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[7月10日(水)に開催しました優良企業・研究機関の探し方講座のオンデマンド配信です。
-全学年を対象としましたので学群１年生から博士後期学生まで幅広くご参加いただきました。
-企業を深めたい方や優良企業を見極めたい方、研究機関を探したい方などにおすすめです。
-配信：ZOOMオンデマンド
-視聴方法：HP内イベントコンテンツ(動画・資料）よりご視聴いただけます。
-※ログインが必要です。「ユーザー名：学籍番…]]></summary>
     </entry>
 </feed>
