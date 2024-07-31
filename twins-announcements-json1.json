@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "21c3874ac1507a3ba3ef52768b76ac87",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5342",
+            "title": "（ご案内）WE AT CHALLENGE 2024",
+            "summary": "東京大学協創プラットフォーム開発株式会社より、ピッチイベント「優勝賞金1000万円 | WE AT CHALLENGE 2024」のご案内をいただきましたので共有いたします。\n下記をご覧のうえ、応募される場合は直接サイトよりお願いいたします。\n\n----------\n■WE AT CHALLENGE 2024 概要\n対象：\n　・グローバルへの事業展開を目指していること\n　・社会課題を解決し、人々の…",
+            "date_modified": "2024-07-31T03:00:00.000Z"
+        },
+        {
             "id": "d494fd0e9a39f5973f1b127ba7235cc9",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5341",
             "title": "学生支援員の募集について",
@@ -135,13 +142,6 @@
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5319",
             "title": "オンラインフェスティバル　筑波大学×オハイオ州立大学",
             "summary": "学生の皆様\n筑波大学初の試みとして、アメリカのオハイオ州立大学との共同オンラインイベント「ISSサマーフェスティバル」を開催します！\nこのイベントは、多様なバックグラウンドをもつ学生による協働とイノベーションを促進する、学術・文化交流プログラムの一環として実施されます。\n\nイベント情報： https://iss-summer-festival.jimdofree.com/%E6%97%A5%E6%…",
-            "date_modified": "2024-07-25T03:00:00.000Z"
-        },
-        {
-            "id": "2bba208d62ace3ec7e185958d9bd3b62",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5318",
-            "title": "【通知】キャンパス情報ネットワーク更新作業に伴うTWINSおよびKdB休止のお知らせ（8/10(土)午後6時30分～8/19(月)午前12時まで）",
-            "summary": "TWINS・KdB利用者各位\n\nキャンパス情報ネットワーク更新作業に伴い、以下の期間TWINSおよびKdBのサービスを休止いたします。\nご迷惑をおかけしますが、ご協力をお願いします。\n\nTWINS・KdB運転休止期間：\n令和６年８月10日(土)　午後6時30分　から　８月19日(月)　午前12時　まで\n※19日は動作確認が完了次第復旧いたします。\n\nDuring the following per…",
             "date_modified": "2024-07-25T03:00:00.000Z"
         }
     ]

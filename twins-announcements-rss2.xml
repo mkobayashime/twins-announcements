@@ -4,10 +4,24 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Wed, 31 Jul 2024 03:04:54 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 31 Jul 2024 05:05:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
+        <item>
+            <title><![CDATA[（ご案内）WE AT CHALLENGE 2024]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5342</link>
+            <guid>21c3874ac1507a3ba3ef52768b76ac87</guid>
+            <pubDate>Wed, 31 Jul 2024 03:00:00 GMT</pubDate>
+            <description><![CDATA[東京大学協創プラットフォーム開発株式会社より、ピッチイベント「優勝賞金1000万円 | WE AT CHALLENGE 2024」のご案内をいただきましたので共有いたします。
+下記をご覧のうえ、応募される場合は直接サイトよりお願いいたします。
+
+----------
+■WE AT CHALLENGE 2024 概要
+対象：
+　・グローバルへの事業展開を目指していること
+　・社会課題を解決し、人々の…]]></description>
+        </item>
         <item>
             <title><![CDATA[学生支援員の募集について]]></title>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5341</link>
@@ -239,22 +253,6 @@ For organizing the books, the library will be temporarily closed as follows. Tha
 このイベントは、多様なバックグラウンドをもつ学生による協働とイノベーションを促進する、学術・文化交流プログラムの一環として実施されます。
 
 イベント情報： https://iss-summer-festival.jimdofree.com/%E6%97%A5%E6%…]]></description>
-        </item>
-        <item>
-            <title><![CDATA[【通知】キャンパス情報ネットワーク更新作業に伴うTWINSおよびKdB休止のお知らせ（8/10(土)午後6時30分～8/19(月)午前12時まで）]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5318</link>
-            <guid>2bba208d62ace3ec7e185958d9bd3b62</guid>
-            <pubDate>Thu, 25 Jul 2024 03:00:00 GMT</pubDate>
-            <description><![CDATA[TWINS・KdB利用者各位
-
-キャンパス情報ネットワーク更新作業に伴い、以下の期間TWINSおよびKdBのサービスを休止いたします。
-ご迷惑をおかけしますが、ご協力をお願いします。
-
-TWINS・KdB運転休止期間：
-令和６年８月10日(土)　午後6時30分　から　８月19日(月)　午前12時　まで
-※19日は動作確認が完了次第復旧いたします。
-
-During the following per…]]></description>
         </item>
     </channel>
 </rss>

@@ -2,10 +2,24 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/mkobayashime/twins-announcements</id>
     <title>在学生へのお知らせ | 筑波大学</title>
-    <updated>2024-07-31T03:04:54.013Z</updated>
+    <updated>2024-07-31T05:05:01.798Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://github.com/mkobayashime/twins-announcements"/>
     <subtitle>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</subtitle>
+    <entry>
+        <title type="html"><![CDATA[（ご案内）WE AT CHALLENGE 2024]]></title>
+        <id>21c3874ac1507a3ba3ef52768b76ac87</id>
+        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5342"/>
+        <updated>2024-07-31T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[東京大学協創プラットフォーム開発株式会社より、ピッチイベント「優勝賞金1000万円 | WE AT CHALLENGE 2024」のご案内をいただきましたので共有いたします。
+下記をご覧のうえ、応募される場合は直接サイトよりお願いいたします。
+
+----------
+■WE AT CHALLENGE 2024 概要
+対象：
+　・グローバルへの事業展開を目指していること
+　・社会課題を解決し、人々の…]]></summary>
+    </entry>
     <entry>
         <title type="html"><![CDATA[学生支援員の募集について]]></title>
         <id>d494fd0e9a39f5973f1b127ba7235cc9</id>
@@ -237,21 +251,5 @@ For organizing the books, the library will be temporarily closed as follows. Tha
 このイベントは、多様なバックグラウンドをもつ学生による協働とイノベーションを促進する、学術・文化交流プログラムの一環として実施されます。
 
 イベント情報： https://iss-summer-festival.jimdofree.com/%E6%97%A5%E6%…]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【通知】キャンパス情報ネットワーク更新作業に伴うTWINSおよびKdB休止のお知らせ（8/10(土)午後6時30分～8/19(月)午前12時まで）]]></title>
-        <id>2bba208d62ace3ec7e185958d9bd3b62</id>
-        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5318"/>
-        <updated>2024-07-25T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[TWINS・KdB利用者各位
-
-キャンパス情報ネットワーク更新作業に伴い、以下の期間TWINSおよびKdBのサービスを休止いたします。
-ご迷惑をおかけしますが、ご協力をお願いします。
-
-TWINS・KdB運転休止期間：
-令和６年８月10日(土)　午後6時30分　から　８月19日(月)　午前12時　まで
-※19日は動作確認が完了次第復旧いたします。
-
-During the following per…]]></summary>
     </entry>
 </feed>
