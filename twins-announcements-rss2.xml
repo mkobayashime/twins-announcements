@@ -4,10 +4,30 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Thu, 01 Aug 2024 04:05:12 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 01 Aug 2024 05:04:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
+        <item>
+            <title><![CDATA[（再掲）【開催案内】第49回「中央ユーラシアと日本の未来」公開講演会「中央アジア・コーカサス地域における能力開発と職業訓練」]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5344</link>
+            <guid>9a318c123afdd60bc0e46ad42ec23e3a</guid>
+            <pubDate>Thu, 01 Aug 2024 03:00:00 GMT</pubDate>
+            <description><![CDATA[【開催案内】第49回「中央ユーラシアと日本の未来」公開講演会
+
+講師：片山　弘倫 氏
+国際連合教育科学文化機関（UNESCO）本部（フランス・パリ）
+教育局若年・識字・能力開発課職員
+
+題目：中央アジア・コーカサス地域における能力開発と職業訓練
+
+日時：令和6年8月8日（木）13:45～15:00
+
+会場：オンライン（Zoom）
+
+対象：本学学生、本学教職員、一般
+どなたでも無料でご参加いただけま…]]></description>
+        </item>
         <item>
             <title><![CDATA[【再掲】TG⁺プログラム第5期生の募集]]></title>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5343</link>
@@ -263,22 +283,6 @@ TWINS・KdB運転休止期間：
 ※19日は動作確認が完了次第復旧いたします。
 
 During the following per…]]></description>
-        </item>
-        <item>
-            <title><![CDATA[国際交流プログラム【Global Talk 2024-25】ご案内]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5317</link>
-            <guid>bcdc5e043ff60c648a0b049d55745dd7</guid>
-            <pubDate>Wed, 24 Jul 2024 03:00:00 GMT</pubDate>
-            <description><![CDATA[外務省、文科省、アメリカ大使館が後援する、米国学生との国際交流プログラムをご案内します。
-詳しくは下記をご通読ください。
-
-＝＝＝＝＝
-学生の皆さんへ
-
-★第９回 Global Talk ～オンライン国際交流プログラム～《 参加費無料 》
-
-アメリカの日本語学習者と一年に渡り交流する、Global Talkの参加者を募集中です！
-このプログラムは、ハーバード大学、イェール大学、ブラウン大学、その他…]]></description>
         </item>
     </channel>
 </rss>
