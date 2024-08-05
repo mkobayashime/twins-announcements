@@ -4,10 +4,21 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Sun, 04 Aug 2024 21:06:39 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 05 Aug 2024 04:05:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
+        <item>
+            <title><![CDATA[【注意喚起】本学構内における不審者の出没について／[caution] Suspicious Persons on the University's Campus]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5350</link>
+            <guid>af841e636076093a2269457444e48cc8</guid>
+            <pubDate>Mon, 05 Aug 2024 03:00:00 GMT</pubDate>
+            <description><![CDATA[7月29日（月）に、カスミ筑波大学店付近において、落としたものを拾ってもらった際に相手の手を握る30代位の不審な男性が現れました。
+キャンパス内では、不審者がいないか、不審な点がないか十分気をつけてください。
+キャンパス内で不審者・不審物の情報があれば、速やかに最寄りの警備員室または本部防災センター（029-853-2079）へご連絡ください。
+また、緊急の場合はすぐに110番通報してください。
+…]]></description>
+        </item>
         <item>
             <title><![CDATA[Thorough Preventive Measures Against Transmission of New Coronavirus Infections (Request)]]></title>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5349</link>
@@ -264,19 +275,6 @@ For detail, please see the attached file.]]></description>
 2021年より開催しております茗溪学園の公開シンポジウムですが、今回で4回目となり、初めての2日間開催に挑戦します。
 今回も、生徒がシンポジウム組織委員会の中心メンバーとして参加・企画するイベントとなっています。これまでのテーマは、
 2021年　「自…]]></description>
-        </item>
-        <item>
-            <title><![CDATA[留学生のチューター募集について（2024年度秋学期）]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5323</link>
-            <guid>b588a1300f9c6ac94ac3d08766debca1</guid>
-            <pubDate>Thu, 25 Jul 2024 03:00:00 GMT</pubDate>
-            <description><![CDATA[留学生と交流したい、または留学生をサポートしたいと思っている正規課程の在学生の皆さん、ぜひチューターになってみませんか？
-
-2024年9月・10月に多くの留学生が入学する予定です。
-これに伴い、チューター支援（主に生活の立ち上げ支援（原則対面））を
-行ってくださるチューターを大募集しています！！！！
-
-チューター希望の学生は、下記URL上の「チューターバンク」に記載の登録方法に従い、チューターバン…]]></description>
         </item>
     </channel>
 </rss>

@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/mkobayashime/twins-announcements</id>
     <title>在学生へのお知らせ | 筑波大学</title>
-    <updated>2024-08-04T21:06:39.261Z</updated>
+    <updated>2024-08-05T04:05:08.966Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://github.com/mkobayashime/twins-announcements"/>
     <subtitle>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</subtitle>
+    <entry>
+        <title type="html"><![CDATA[【注意喚起】本学構内における不審者の出没について／[caution] Suspicious Persons on the University's Campus]]></title>
+        <id>af841e636076093a2269457444e48cc8</id>
+        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5350"/>
+        <updated>2024-08-05T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[7月29日（月）に、カスミ筑波大学店付近において、落としたものを拾ってもらった際に相手の手を握る30代位の不審な男性が現れました。
+キャンパス内では、不審者がいないか、不審な点がないか十分気をつけてください。
+キャンパス内で不審者・不審物の情報があれば、速やかに最寄りの警備員室または本部防災センター（029-853-2079）へご連絡ください。
+また、緊急の場合はすぐに110番通報してください。
+…]]></summary>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Thorough Preventive Measures Against Transmission of New Coronavirus Infections (Request)]]></title>
         <id>0e338f8c424f8d0d9581d9b356e5f126</id>
@@ -262,18 +273,5 @@ For detail, please see the attached file.]]></summary>
 2021年より開催しております茗溪学園の公開シンポジウムですが、今回で4回目となり、初めての2日間開催に挑戦します。
 今回も、生徒がシンポジウム組織委員会の中心メンバーとして参加・企画するイベントとなっています。これまでのテーマは、
 2021年　「自…]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[留学生のチューター募集について（2024年度秋学期）]]></title>
-        <id>b588a1300f9c6ac94ac3d08766debca1</id>
-        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5323"/>
-        <updated>2024-07-25T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[留学生と交流したい、または留学生をサポートしたいと思っている正規課程の在学生の皆さん、ぜひチューターになってみませんか？
-
-2024年9月・10月に多くの留学生が入学する予定です。
-これに伴い、チューター支援（主に生活の立ち上げ支援（原則対面））を
-行ってくださるチューターを大募集しています！！！！
-
-チューター希望の学生は、下記URL上の「チューターバンク」に記載の登録方法に従い、チューターバン…]]></summary>
     </entry>
 </feed>
