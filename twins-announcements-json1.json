@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "46849ef1b5f9bec16c9b074a96deded6",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5359",
+            "title": "個別キャリア相談夏季休業のおしらせ",
+            "summary": "8/13（火）～19（火）個別キャリア相談はお休みします。\n20日以降の予約申し込みは通常どおりオンラインで受け付けます。午前オンライン、午後対面で実施しますが、変更可能です。申し込み時に面接方法変更希望と記入ください。\n\n\n",
+            "date_modified": "2024-08-07T03:00:00.000Z"
+        },
+        {
             "id": "2bcfa6705eff3e30d6b58b6d294c05af",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5358",
             "title": "【Calling for Participants】Nebuta Parade at Matsuri Tsukuba (August 24-25)",
@@ -135,13 +142,6 @@
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5336",
             "title": "【参加者募集・9/9 開催】TIDE 女性研究者・技術者の異業種交流会",
             "summary": "ヒューマンエンパワーメント推進局（BHE）では、産業技術総合研究所・日本アイ・ビー・エム株式会社との共催で異業種交流会2024を開催します！\nこのイベントは、女性研究者・技術者の方を中心とした企業・研究機関・大学の交流会です。\n研究者・技術者の方はもちろん、学生から職員の方までどなたでもご参加いただけますので、ぜひご参加ください。\n\n【概要】\n日時：2024年9月9日（金）15：00～17：00　…",
-            "date_modified": "2024-07-29T03:00:00.000Z"
-        },
-        {
-            "id": "82df206c7ee93a02fe8796ed05f170bb",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5334",
-            "title": "夏休みいけばな体験の開催について/Summer Vacation Ikebana Experience",
-            "summary": "夏休みいけばな体験を8月14日に開催いたします。\n\n詳細は添付ファイルをご確認ください。\n\nWould you like experience the Japanese culture of ikebana during your summer vacation?\n\nFor detail, please see the attached file.",
             "date_modified": "2024-07-29T03:00:00.000Z"
         }
     ]
