@@ -5,6 +5,20 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "2bcfa6705eff3e30d6b58b6d294c05af",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5358",
+            "title": "【Calling for Participants】Nebuta Parade at Matsuri Tsukuba (August 24-25)",
+            "summary": "Let's have \"Tsukuba Summer\" unique experience with your friends!\n\nWe are recruiting UT students to participate in the \"Matsuri Tsukuba\" Nebuta Parade, which will be held around Tsukuba Station on Augu…",
+            "date_modified": "2024-08-07T03:00:00.000Z"
+        },
+        {
+            "id": "3c587fe5ca94461bd2f8d26d05d1ee6a",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5357",
+            "title": "【参加者募集】まつりつくばのねぶたパレード（8月24・25日）",
+            "summary": "この夏、仲間と共にここでしかできない体験をしよう！！\n\n2024年8月24・25日、つくば駅周辺で開催される「まつりつくば」にて、ねぶたパレードに参加する筑波大生を募集します。\n参加希望者は、以下より、必要事項をご回答ください。\n＜申し込みフォーム＞\nhttps://docs.google.com/forms/d/e/1FAIpQLSdmpcw35b5I88TSnRS38s9QFpVHRqj8a-…",
+            "date_modified": "2024-08-07T03:00:00.000Z"
+        },
+        {
             "id": "336a3910d372e1e6bbc721ab7e4df055",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5356",
             "title": "【＼参加者募集／】Tsukuba × Latin America Online Exchange Event（中南米諸国とのオンライン学生交流プログラム）2024/9/18～20",
@@ -129,20 +143,6 @@
             "title": "夏休みいけばな体験の開催について/Summer Vacation Ikebana Experience",
             "summary": "夏休みいけばな体験を8月14日に開催いたします。\n\n詳細は添付ファイルをご確認ください。\n\nWould you like experience the Japanese culture of ikebana during your summer vacation?\n\nFor detail, please see the attached file.",
             "date_modified": "2024-07-29T03:00:00.000Z"
-        },
-        {
-            "id": "71e758626f2333e18b9f3358506b9c4e",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5332",
-            "title": "【10/2(水) 15:30～】令和6年度人文学類文化講演会「海の人類史　パイオニアたちの100万年」のご案内",
-            "summary": "人文学類では、人文学に関連する著名な先生を学外からお招きして\nご講演いただく「文化講演会」というイベントを毎年開催しています。\n\n今年度も、下記の要領で文化講演会を開催することとなりました。\n学外の著名な先生からお話を伺える貴重な機会となりますので、奮ってご参加ください。\n詳細につきましては、添付のポスターをご覧ください。\n\n演題：\n海の人類史　パイオニアたちの100万年\n\n講師：\n海部　陽介\n東…",
-            "date_modified": "2024-07-29T03:00:00.000Z"
-        },
-        {
-            "id": "6e324558c6a5b9dd7359dbd7202ed67e",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5329",
-            "title": "【開催案内】国立美術館「ミュージアムで謎解きを　ミュージアムラリー2024」開催のご案内",
-            "summary": "本学は、国立美術館のキャンパスメンバーズに入会しています。\n\n本学の学生（正規生のみ）・教職員（非常勤を含む）は以下の国立美術館の窓口で学生証（または職員証）を提示すると、所蔵作品展を無料で、特別展・共催展を割引料金（団体料金）で鑑賞することができます。\n\n現在「ミュージアムで謎解きを　ミュージアムラリー2024」が開催中です。\n\n本ラリーは、ストーリーを読み進めながら東京都内のミュージアムや駅を…",
-            "date_modified": "2024-07-26T03:00:00.000Z"
         }
     ]
 }
