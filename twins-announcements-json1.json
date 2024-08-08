@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "00118a3817f108a76102125daa6f2a09",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5360",
+            "title": "一般財団法人　高久国際奨学財団奨学生募集（2025年度）",
+            "summary": "一般財団法人　高久国際奨学財団奨学生募集（2025年度）\n応募期間：2024年11月1日～30日　※当日消印有効\n提出先：財団へ直接応募　(普通郵便で送付)\n募集要項・申請書等様式：http://www.takaku-foundation.com/\n※日本語能力が必要です。(日本語能力試験1級程度の会話力及び文章力)\n※この奨学金を受給する者は、2025年度の大学推薦奨学金の申請資格がありません。…",
+            "date_modified": "2024-08-08T03:00:00.000Z"
+        },
+        {
             "id": "46849ef1b5f9bec16c9b074a96deded6",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5359",
             "title": "個別キャリア相談夏季休業のおしらせ",
@@ -135,13 +142,6 @@
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5337",
             "title": "【8月開室スケジュール】セーファースペース「KiteKite（きてきて）」",
             "summary": "ヒューマンエンパワーメント推進局（BHE）ジェンダー支援チームでは、学生スタッフと共同で”セーファースペースKiteKite（きてきて）”を実施しています。\n8月の開室スケジュールをお知らせしますので、ぜひお気軽にご参加ください。\n\n※セーファースペースとは…LGBTQ＋や女性をはじめ、全ての人が自らのジェンダー・セクシュアリティについてより安全に話すことができる居場所のこと\n\nKiteKiteは…",
-            "date_modified": "2024-07-29T03:00:00.000Z"
-        },
-        {
-            "id": "b651121ad292b3e1d06c931b8c672807",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5336",
-            "title": "【参加者募集・9/9 開催】TIDE 女性研究者・技術者の異業種交流会",
-            "summary": "ヒューマンエンパワーメント推進局（BHE）では、産業技術総合研究所・日本アイ・ビー・エム株式会社との共催で異業種交流会2024を開催します！\nこのイベントは、女性研究者・技術者の方を中心とした企業・研究機関・大学の交流会です。\n研究者・技術者の方はもちろん、学生から職員の方までどなたでもご参加いただけますので、ぜひご参加ください。\n\n【概要】\n日時：2024年9月9日（金）15：00～17：00　…",
             "date_modified": "2024-07-29T03:00:00.000Z"
         }
     ]

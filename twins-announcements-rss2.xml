@@ -4,10 +4,22 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Wed, 07 Aug 2024 21:06:55 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 08 Aug 2024 01:31:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
+        <item>
+            <title><![CDATA[一般財団法人　高久国際奨学財団奨学生募集（2025年度）]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5360</link>
+            <guid>00118a3817f108a76102125daa6f2a09</guid>
+            <pubDate>Thu, 08 Aug 2024 03:00:00 GMT</pubDate>
+            <description><![CDATA[一般財団法人　高久国際奨学財団奨学生募集（2025年度）
+応募期間：2024年11月1日～30日　※当日消印有効
+提出先：財団へ直接応募　(普通郵便で送付)
+募集要項・申請書等様式：http://www.takaku-foundation.com/
+※日本語能力が必要です。(日本語能力試験1級程度の会話力及び文章力)
+※この奨学金を受給する者は、2025年度の大学推薦奨学金の申請資格がありません。…]]></description>
+        </item>
         <item>
             <title><![CDATA[個別キャリア相談夏季休業のおしらせ]]></title>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5359</link>
@@ -250,18 +262,6 @@ Please watch the following videos before handling chemicals or beginning a chemi
 ※セーファースペースとは…LGBTQ＋や女性をはじめ、全ての人が自らのジェンダー・セクシュアリティについてより安全に話すことができる居場所のこと
 
 KiteKiteは…]]></description>
-        </item>
-        <item>
-            <title><![CDATA[【参加者募集・9/9 開催】TIDE 女性研究者・技術者の異業種交流会]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5336</link>
-            <guid>b651121ad292b3e1d06c931b8c672807</guid>
-            <pubDate>Mon, 29 Jul 2024 03:00:00 GMT</pubDate>
-            <description><![CDATA[ヒューマンエンパワーメント推進局（BHE）では、産業技術総合研究所・日本アイ・ビー・エム株式会社との共催で異業種交流会2024を開催します！
-このイベントは、女性研究者・技術者の方を中心とした企業・研究機関・大学の交流会です。
-研究者・技術者の方はもちろん、学生から職員の方までどなたでもご参加いただけますので、ぜひご参加ください。
-
-【概要】
-日時：2024年9月9日（金）15：00～17：00　…]]></description>
         </item>
     </channel>
 </rss>
