@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "f786e4d7230b0c84087424d2672dad3c",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5367",
+            "title": "クラス連絡会等における全学的要望への対応について",
+            "summary": "本日、クラス連絡会等における全学的要望への対応内容について、令和5年度分及び\n令和6年度で担当部署から回答済みのものを学生生活関係HPに掲載いたしました。",
+            "date_modified": "2024-08-09T03:00:00.000Z"
+        },
+        {
             "id": "fe7f56f0f3b14769cdaf9326d236c405",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5366",
             "title": "（再掲）留学生のチューター募集について（2024年度秋学期）",
@@ -15,7 +22,7 @@
             "id": "a8010f00836ed95d2b590c37d35b41d8",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5365",
             "title": "Repost: Calling for Residents for Student Residence Halls",
-            "summary": "留学生と交流したい、または留学生をサポートしたいと思っている正規課程の在学生の皆さん、ぜひチューターになってみませんか？\n\n2024年9月・10月に多くの留学生が入学する予定です。\nこれに伴い、チューター支援（主に生活の立ち上げ支援（原則対面））を\n行ってくださるチューターを大募集しています！！！！\n\nチューター希望の学生は、下記URL上の「チューターバンク」に記載の登録方法に従い、チューターバン…",
+            "summary": "We are currently calling for the residents for student residence halls.\n\nRoom type: Ichinoya for Long Term (Single, Renovated Room).\n\nPeriod of residence of this room type is from moving-in date to th…",
             "date_modified": "2024-08-08T03:00:00.000Z"
         },
         {
@@ -135,13 +142,6 @@
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5345",
             "title": "【Notice】Educational materials on Chemicals and Experiment Waste Management",
             "summary": "To:International students, Visiting Foreign Research Fellows, etc. who handle chemicals and experiment wastes\n\nPlease watch the following videos before handling chemicals or beginning a chemical exper…",
-            "date_modified": "2024-08-01T03:00:00.000Z"
-        },
-        {
-            "id": "7a72b67ab053ed9466d9ecae951eafa4",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5343",
-            "title": "【再掲】TG⁺プログラム第5期生の募集",
-            "summary": "TG⁺プログラム第5期生の募集を開始しています。\n\n【募集期間】\n5月25日～8月31日\n【締め切り】\n一次募集　6月30日（日）→締め切りました\n二次募集　8月31日（土）→募集中です\n\n一次募集締め切り後、応募者面談等を順次実施します。\n二次募集は、一次募集の応募者数に関わらず必ず実施されます。\n書類・面談による選考結果は、9月中旬に通知予定です。\n\n【申し込み】\n参加登録案内（https:/…",
             "date_modified": "2024-08-01T03:00:00.000Z"
         }
     ]
