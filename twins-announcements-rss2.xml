@@ -4,10 +4,24 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Fri, 09 Aug 2024 01:31:10 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 09 Aug 2024 02:19:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
+        <item>
+            <title><![CDATA[【注意喚起】正体を隠した悪質なカルト団体に注意！]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5368</link>
+            <guid>aeda7e406cc91112f48a00b57796dee0</guid>
+            <pubDate>Fri, 09 Aug 2024 03:00:00 GMT</pubDate>
+            <description><![CDATA[　
+　最近、大学構内で、正体を隠した悪質なカルト団体が勧誘してくるケースが増えています。これらの団体は一見楽しそうな活動を装い、以下のような手口で接近してきます。
+
+• 「一緒に○○しませんか？」
+• 「食事会、合宿に参加しませんか？」
+• 「この辺りで美味しいお店知りませんか？」
+
+これらの誘い文句に応じて実際に話をしてみると、相手は非常に言葉巧みに安心感を与え、コミュニティに勧誘してきます。一…]]></description>
+        </item>
         <item>
             <title><![CDATA[クラス連絡会等における全学的要望への対応について]]></title>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5367</link>
@@ -228,15 +242,6 @@ To all students, faculty and staff
 【実施期間と対象プラットフォーム】
 ・KinoDen（紀伊國屋書店）　8月31日(木)まで
 　https://kinoden-kinokuniya-c…]]></description>
-        </item>
-        <item>
-            <title><![CDATA[【Notice】Educational materials on Chemicals and Experiment Waste Management]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5345</link>
-            <guid>facbfffc308ffa8720aca483356bfaa3</guid>
-            <pubDate>Thu, 01 Aug 2024 03:00:00 GMT</pubDate>
-            <description><![CDATA[To:International students, Visiting Foreign Research Fellows, etc. who handle chemicals and experiment wastes
-
-Please watch the following videos before handling chemicals or beginning a chemical exper…]]></description>
         </item>
     </channel>
 </rss>
