@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "c3d1897f3aa13647c8dc776cc5df8e5e",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5369",
+            "title": "南海トラフ地震臨時情報（巨大地震注意）への対応について（依頼）",
+            "summary": "　　　　　　　　　　　　　　　　　　　　　　　　　　　令和６年８月９日\n学生・教職員　各位\n\n　　　　　　　　　　　　　　　　　　　　　全学リスクマネジメント委員会\n　　　　　　　　　　　　　　　　　　　　　　総務担当副学長　加藤　和彦\n\n\n　　　南海トラフ地震臨時情報（巨大地震注意）への対応について（依頼）\n\n\n　令和６年８月８日（木）午後４時４３分頃、日向灘を震源とする最大震度６弱の地震が発生…",
+            "date_modified": "2024-08-09T03:00:00.000Z"
+        },
+        {
             "id": "aeda7e406cc91112f48a00b57796dee0",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5368",
             "title": "【注意喚起】正体を隠した悪質なカルト団体に注意！",
@@ -135,13 +142,6 @@
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5347",
             "title": "【Library】[Period extended]Free Ebook Trial Service(-Aug.31)",
             "summary": "In order to support teaching and learning, we provide an eBook trial service. Ebooks on KinoDen platform, provided by Kinokuniya Bookstore, has extended its free service period by one month and will b…",
-            "date_modified": "2024-08-01T03:00:00.000Z"
-        },
-        {
-            "id": "b3e94ac3ed54f5d98282bb8ea55e7f37",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5346",
-            "title": "【附属図書館】[期間延長！8月31日まで]電子ブック 全文無料試し読みサービスのご案内",
-            "summary": "5月から実施していた電子ブックの全文無料試し読みサービス期間が1か月延長になりました。8月31日までご利用いただけます。\n\n自宅や帰省先からも利用できます。\nレポートや卒論の執筆、就職活動に役立つ図書もあります。秋学期の準備にもお役立てください。\n\n【実施期間と対象プラットフォーム】\n・KinoDen（紀伊國屋書店）　8月31日(木)まで\n　https://kinoden-kinokuniya-c…",
             "date_modified": "2024-08-01T03:00:00.000Z"
         }
     ]

@@ -4,10 +4,27 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Fri, 09 Aug 2024 02:19:14 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 09 Aug 2024 04:05:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
+        <item>
+            <title><![CDATA[南海トラフ地震臨時情報（巨大地震注意）への対応について（依頼）]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5369</link>
+            <guid>c3d1897f3aa13647c8dc776cc5df8e5e</guid>
+            <pubDate>Fri, 09 Aug 2024 03:00:00 GMT</pubDate>
+            <description><![CDATA[　　　　　　　　　　　　　　　　　　　　　　　　　　　令和６年８月９日
+学生・教職員　各位
+
+　　　　　　　　　　　　　　　　　　　　　全学リスクマネジメント委員会
+　　　　　　　　　　　　　　　　　　　　　　総務担当副学長　加藤　和彦
+
+
+　　　南海トラフ地震臨時情報（巨大地震注意）への対応について（依頼）
+
+
+　令和６年８月８日（木）午後４時４３分頃、日向灘を震源とする最大震度６弱の地震が発生…]]></description>
+        </item>
         <item>
             <title><![CDATA[【注意喚起】正体を隠した悪質なカルト団体に注意！]]></title>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5368</link>
@@ -228,20 +245,6 @@ To all students, faculty and staff
             <guid>031d0959cd68cdb46eb4b8887b55ad21</guid>
             <pubDate>Thu, 01 Aug 2024 03:00:00 GMT</pubDate>
             <description><![CDATA[In order to support teaching and learning, we provide an eBook trial service. Ebooks on KinoDen platform, provided by Kinokuniya Bookstore, has extended its free service period by one month and will b…]]></description>
-        </item>
-        <item>
-            <title><![CDATA[【附属図書館】[期間延長！8月31日まで]電子ブック 全文無料試し読みサービスのご案内]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5346</link>
-            <guid>b3e94ac3ed54f5d98282bb8ea55e7f37</guid>
-            <pubDate>Thu, 01 Aug 2024 03:00:00 GMT</pubDate>
-            <description><![CDATA[5月から実施していた電子ブックの全文無料試し読みサービス期間が1か月延長になりました。8月31日までご利用いただけます。
-
-自宅や帰省先からも利用できます。
-レポートや卒論の執筆、就職活動に役立つ図書もあります。秋学期の準備にもお役立てください。
-
-【実施期間と対象プラットフォーム】
-・KinoDen（紀伊國屋書店）　8月31日(木)まで
-　https://kinoden-kinokuniya-c…]]></description>
         </item>
     </channel>
 </rss>
