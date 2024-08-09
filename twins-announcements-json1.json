@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "46ac4f0f9853a8ffbfc1a32d9f73d6f6",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5370",
+            "title": "Response to the Nankai Trough Earthquake Temporary Information (Request)",
+            "summary": "At around 4:43 p.m. on Thursday, August 8, 2024, an earthquake with a maximum intensity of just under 6 on the Japanese scale occurred with its epicenter in the Hyuga Sea.\n\nPlease see the attached fil…",
+            "date_modified": "2024-08-09T03:00:00.000Z"
+        },
+        {
             "id": "c3d1897f3aa13647c8dc776cc5df8e5e",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5369",
             "title": "南海トラフ地震臨時情報（巨大地震注意）への対応について（依頼）",
@@ -136,13 +143,6 @@
             "title": "新型コロナウイルス感染症の感染予防対策の徹底について（依頼）",
             "summary": "　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　令和６年８月２日\n\n　学生・教職員　各位\n\n　　　　　　　　　　　　　　　　　　　　　　新型コロナウイルス感染症リスク対応チーム\n　　　　　　　　　　　　　　　　　　　　　　　　　　　　　総務担当副学長　加藤　和彦\n\n\n　　　　　　新型コロナウイルス感染症の感染予防対策の徹底について（依頼）\n\n　現在、新型コロナウイルス感染症の変…",
             "date_modified": "2024-08-02T03:00:00.000Z"
-        },
-        {
-            "id": "031d0959cd68cdb46eb4b8887b55ad21",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5347",
-            "title": "【Library】[Period extended]Free Ebook Trial Service(-Aug.31)",
-            "summary": "In order to support teaching and learning, we provide an eBook trial service. Ebooks on KinoDen platform, provided by Kinokuniya Bookstore, has extended its free service period by one month and will b…",
-            "date_modified": "2024-08-01T03:00:00.000Z"
         }
     ]
 }

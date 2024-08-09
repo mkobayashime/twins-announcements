@@ -4,10 +4,19 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Fri, 09 Aug 2024 04:05:12 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 09 Aug 2024 05:04:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
+        <item>
+            <title><![CDATA[Response to the Nankai Trough Earthquake Temporary Information (Request)]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5370</link>
+            <guid>46ac4f0f9853a8ffbfc1a32d9f73d6f6</guid>
+            <pubDate>Fri, 09 Aug 2024 03:00:00 GMT</pubDate>
+            <description><![CDATA[At around 4:43 p.m. on Thursday, August 8, 2024, an earthquake with a maximum intensity of just under 6 on the Japanese scale occurred with its epicenter in the Hyuga Sea.
+
+Please see the attached fil…]]></description>
+        </item>
         <item>
             <title><![CDATA[南海トラフ地震臨時情報（巨大地震注意）への対応について（依頼）]]></title>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5369</link>
@@ -238,13 +247,6 @@ To all students, faculty and staff
 　　　　　　新型コロナウイルス感染症の感染予防対策の徹底について（依頼）
 
 　現在、新型コロナウイルス感染症の変…]]></description>
-        </item>
-        <item>
-            <title><![CDATA[【Library】[Period extended]Free Ebook Trial Service(-Aug.31)]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5347</link>
-            <guid>031d0959cd68cdb46eb4b8887b55ad21</guid>
-            <pubDate>Thu, 01 Aug 2024 03:00:00 GMT</pubDate>
-            <description><![CDATA[In order to support teaching and learning, we provide an eBook trial service. Ebooks on KinoDen platform, provided by Kinokuniya Bookstore, has extended its free service period by one month and will b…]]></description>
         </item>
     </channel>
 </rss>
