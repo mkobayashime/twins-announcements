@@ -4,7 +4,7 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Mon, 19 Aug 2024 09:07:07 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 19 Aug 2024 15:06:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
@@ -123,17 +123,6 @@ Global Village is a shared house type of student residence halls where internati
 ※この奨学金を受給する者は、2025年度の大学推薦奨学金の申請資格がありません。…]]></description>
         </item>
         <item>
-            <title><![CDATA[個別キャリア相談夏季休業のおしらせ]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5359</link>
-            <guid>46849ef1b5f9bec16c9b074a96deded6</guid>
-            <pubDate>Wed, 07 Aug 2024 03:00:00 GMT</pubDate>
-            <description><![CDATA[8/13（火）～19（火）個別キャリア相談はお休みします。
-20日以降の予約申し込みは通常どおりオンラインで受け付けます。午前オンライン、午後対面で実施しますが、変更可能です。申し込み時に面接方法変更希望と記入ください。
-
-
-]]></description>
-        </item>
-        <item>
             <title><![CDATA[【＼参加者募集／】Tsukuba × Latin America Online Exchange Event（中南米諸国とのオンライン学生交流プログラム）2024/9/18～20]]></title>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5356</link>
             <guid>336a3910d372e1e6bbc721ab7e4df055</guid>
@@ -247,6 +236,15 @@ To all students, faculty and staff
 【実施期間と対象プラットフォーム】
 ・KinoDen（紀伊國屋書店）　8月31日(木)まで
 　https://kinoden-kinokuniya-c…]]></description>
+        </item>
+        <item>
+            <title><![CDATA[【Notice】Educational materials on Chemicals and Experiment Waste Management]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5345</link>
+            <guid>facbfffc308ffa8720aca483356bfaa3</guid>
+            <pubDate>Thu, 01 Aug 2024 03:00:00 GMT</pubDate>
+            <description><![CDATA[To:International students, Visiting Foreign Research Fellows, etc. who handle chemicals and experiment wastes
+
+Please watch the following videos before handling chemicals or beginning a chemical exper…]]></description>
         </item>
     </channel>
 </rss>
