@@ -2,10 +2,33 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/mkobayashime/twins-announcements</id>
     <title>在学生へのお知らせ | 筑波大学</title>
-    <updated>2024-08-19T21:06:31.481Z</updated>
+    <updated>2024-08-20T09:07:59.258Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://github.com/mkobayashime/twins-announcements"/>
     <subtitle>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</subtitle>
+    <entry>
+        <title type="html"><![CDATA[サーバー更新作業に伴うキャリア支援チームHP及び就職情報提供システム停止のお知らせ]]></title>
+        <id>f7e5c4dc1ece4147cbde4ed3df16263e</id>
+        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5372"/>
+        <updated>2024-08-20T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[サーバー更新作業に伴い、下記の時間、キャリア支援チームホームページ等へ繋がりにくくなります。
+【作業日時】8/28（水）9：00　～　13：15（予定）
+
+なお、サーバー更新作業中は、「学内専用ページ」、「ガイダンス等及び模試試験登録・申請」、「進路進捗状況届」へのアクセスはできません。
+皆様にはご迷惑をおかけいたしますが、ご理解、ご協力の程よろしくお願いいたします。
+]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[Notice] 安全保障輸出管理のための誓約書提出のお願いRequest for Submission of Pledge for Security Export Control]]></title>
+        <id>7a9b01b19be73cc89a24e7501dfc664d</id>
+        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5371"/>
+        <updated>2024-08-20T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[2024年度大学院修了予定者（退学等を含む）の皆様へ
+To prospective graduate school graduates in AY2024 (including those who will withdraw)
+
+大学院修了にあたり、外国為替及び外国貿易法遵守の”誓約書（修了時）”提出をお願いしております。ご理解とご協力をよろしくお願いいたします
+In order to compl…]]></summary>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Response to the Nankai Trough Earthquake Temporary Information (Request)]]></title>
         <id>46ac4f0f9853a8ffbfc1a32d9f73d6f6</id>
@@ -220,28 +243,5 @@ To all students, faculty and staff
         <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5347"/>
         <updated>2024-08-01T03:00:00.000Z</updated>
         <summary type="html"><![CDATA[In order to support teaching and learning, we provide an eBook trial service. Ebooks on KinoDen platform, provided by Kinokuniya Bookstore, has extended its free service period by one month and will b…]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【附属図書館】[期間延長！8月31日まで]電子ブック 全文無料試し読みサービスのご案内]]></title>
-        <id>b3e94ac3ed54f5d98282bb8ea55e7f37</id>
-        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5346"/>
-        <updated>2024-08-01T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[5月から実施していた電子ブックの全文無料試し読みサービス期間が1か月延長になりました。8月31日までご利用いただけます。
-
-自宅や帰省先からも利用できます。
-レポートや卒論の執筆、就職活動に役立つ図書もあります。秋学期の準備にもお役立てください。
-
-【実施期間と対象プラットフォーム】
-・KinoDen（紀伊國屋書店）　8月31日(木)まで
-　https://kinoden-kinokuniya-c…]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【Notice】Educational materials on Chemicals and Experiment Waste Management]]></title>
-        <id>facbfffc308ffa8720aca483356bfaa3</id>
-        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5345"/>
-        <updated>2024-08-01T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[To:International students, Visiting Foreign Research Fellows, etc. who handle chemicals and experiment wastes
-
-Please watch the following videos before handling chemicals or beginning a chemical exper…]]></summary>
     </entry>
 </feed>
