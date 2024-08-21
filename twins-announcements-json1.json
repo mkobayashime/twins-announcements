@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "063bec9c183e376dc79640022ec7dbce",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5373",
+            "title": "【チケット販売中】筑波大学ホームゲーム「TSUKUBA LIVE!」（女子バレー・vsアルバータ大）",
+            "summary": "8月31日に、筑波大学ホームゲーム「TSUKUBA LIVE!」を開催します！\n\n今回の「 TSUKUBA LIVE! 」の競技は女子バレーボール🏐\n対戦相手はカナダの超強豪のアルバータ大学です🇨🇦\nバレーボールを初めて見る人でも最高に楽しめる企画やイベントが盛りだくさんです！！\n\n当日会場にはつくば市を拠点に活動する、V.LEAGUEに所属の「つくばユナイテッドSun GAIA」の選手も登…",
+            "date_modified": "2024-08-21T03:00:00.000Z"
+        },
+        {
             "id": "f7e5c4dc1ece4147cbde4ed3df16263e",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5372",
             "title": "サーバー更新作業に伴うキャリア支援チームHP及び就職情報提供システム停止のお知らせ",
@@ -136,13 +143,6 @@
             "title": "新型コロナウイルス感染症の感染予防対策の徹底について（依頼）",
             "summary": "　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　令和６年８月２日\n\n　学生・教職員　各位\n\n　　　　　　　　　　　　　　　　　　　　　　新型コロナウイルス感染症リスク対応チーム\n　　　　　　　　　　　　　　　　　　　　　　　　　　　　　総務担当副学長　加藤　和彦\n\n\n　　　　　　新型コロナウイルス感染症の感染予防対策の徹底について（依頼）\n\n　現在、新型コロナウイルス感染症の変…",
             "date_modified": "2024-08-02T03:00:00.000Z"
-        },
-        {
-            "id": "031d0959cd68cdb46eb4b8887b55ad21",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5347",
-            "title": "【Library】[Period extended]Free Ebook Trial Service(-Aug.31)",
-            "summary": "In order to support teaching and learning, we provide an eBook trial service. Ebooks on KinoDen platform, provided by Kinokuniya Bookstore, has extended its free service period by one month and will b…",
-            "date_modified": "2024-08-01T03:00:00.000Z"
         }
     ]
 }

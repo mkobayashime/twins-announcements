@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/mkobayashime/twins-announcements</id>
     <title>在学生へのお知らせ | 筑波大学</title>
-    <updated>2024-08-20T21:07:12.801Z</updated>
+    <updated>2024-08-21T09:07:35.542Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://github.com/mkobayashime/twins-announcements"/>
     <subtitle>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</subtitle>
+    <entry>
+        <title type="html"><![CDATA[【チケット販売中】筑波大学ホームゲーム「TSUKUBA LIVE!」（女子バレー・vsアルバータ大）]]></title>
+        <id>063bec9c183e376dc79640022ec7dbce</id>
+        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5373"/>
+        <updated>2024-08-21T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[8月31日に、筑波大学ホームゲーム「TSUKUBA LIVE!」を開催します！
+
+今回の「 TSUKUBA LIVE! 」の競技は女子バレーボール🏐
+対戦相手はカナダの超強豪のアルバータ大学です🇨🇦
+バレーボールを初めて見る人でも最高に楽しめる企画やイベントが盛りだくさんです！！
+
+当日会場にはつくば市を拠点に活動する、V.LEAGUEに所属の「つくばユナイテッドSun GAIA」の選手も登…]]></summary>
+    </entry>
     <entry>
         <title type="html"><![CDATA[サーバー更新作業に伴うキャリア支援チームHP及び就職情報提供システム停止のお知らせ]]></title>
         <id>f7e5c4dc1ece4147cbde4ed3df16263e</id>
@@ -236,12 +249,5 @@ To all students, faculty and staff
 　　　　　　新型コロナウイルス感染症の感染予防対策の徹底について（依頼）
 
 　現在、新型コロナウイルス感染症の変…]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【Library】[Period extended]Free Ebook Trial Service(-Aug.31)]]></title>
-        <id>031d0959cd68cdb46eb4b8887b55ad21</id>
-        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5347"/>
-        <updated>2024-08-01T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[In order to support teaching and learning, we provide an eBook trial service. Ebooks on KinoDen platform, provided by Kinokuniya Bookstore, has extended its free service period by one month and will b…]]></summary>
     </entry>
 </feed>

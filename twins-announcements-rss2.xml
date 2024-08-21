@@ -4,10 +4,23 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Tue, 20 Aug 2024 21:07:12 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 21 Aug 2024 09:07:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
+        <item>
+            <title><![CDATA[【チケット販売中】筑波大学ホームゲーム「TSUKUBA LIVE!」（女子バレー・vsアルバータ大）]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5373</link>
+            <guid>063bec9c183e376dc79640022ec7dbce</guid>
+            <pubDate>Wed, 21 Aug 2024 03:00:00 GMT</pubDate>
+            <description><![CDATA[8月31日に、筑波大学ホームゲーム「TSUKUBA LIVE!」を開催します！
+
+今回の「 TSUKUBA LIVE! 」の競技は女子バレーボール🏐
+対戦相手はカナダの超強豪のアルバータ大学です🇨🇦
+バレーボールを初めて見る人でも最高に楽しめる企画やイベントが盛りだくさんです！！
+
+当日会場にはつくば市を拠点に活動する、V.LEAGUEに所属の「つくばユナイテッドSun GAIA」の選手も登…]]></description>
+        </item>
         <item>
             <title><![CDATA[サーバー更新作業に伴うキャリア支援チームHP及び就職情報提供システム停止のお知らせ]]></title>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5372</link>
@@ -238,13 +251,6 @@ To all students, faculty and staff
 　　　　　　新型コロナウイルス感染症の感染予防対策の徹底について（依頼）
 
 　現在、新型コロナウイルス感染症の変…]]></description>
-        </item>
-        <item>
-            <title><![CDATA[【Library】[Period extended]Free Ebook Trial Service(-Aug.31)]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5347</link>
-            <guid>031d0959cd68cdb46eb4b8887b55ad21</guid>
-            <pubDate>Thu, 01 Aug 2024 03:00:00 GMT</pubDate>
-            <description><![CDATA[In order to support teaching and learning, we provide an eBook trial service. Ebooks on KinoDen platform, provided by Kinokuniya Bookstore, has extended its free service period by one month and will b…]]></description>
         </item>
     </channel>
 </rss>
