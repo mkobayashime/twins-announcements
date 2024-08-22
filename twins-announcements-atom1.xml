@@ -2,10 +2,24 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/mkobayashime/twins-announcements</id>
     <title>在学生へのお知らせ | 筑波大学</title>
-    <updated>2024-08-21T21:06:44.126Z</updated>
+    <updated>2024-08-22T09:06:42.927Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://github.com/mkobayashime/twins-announcements"/>
     <subtitle>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</subtitle>
+    <entry>
+        <title type="html"><![CDATA[【Tickets On Sale】University of Tsukuba Homegame "TSUKUBA LIVE!" (Volleyball: vs Univ. of Alberta)]]></title>
+        <id>91a119f540a1bb485a7a54a4abbd9821</id>
+        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5374"/>
+        <updated>2024-08-22T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Make Your Last August Memory at TSUKUBA LIVE! 📣
+
+Get your friends together and mark your calendars✌️
+
+
+Are you still figuring out your summer plans?
+
+On August 31st, Tsukuba University will host anot…]]></summary>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【チケット販売中】筑波大学ホームゲーム「TSUKUBA LIVE!」（女子バレー・vsアルバータ大）]]></title>
         <id>063bec9c183e376dc79640022ec7dbce</id>
@@ -232,22 +246,5 @@ To all students, faculty and staff
 
 　　　　　　　　　　　　　　　　　　　　　New Coronavirus Infections Risk Response Team
 　　　　　　　　　　　　　　　　　　　　　Vice President for Gener…]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[新型コロナウイルス感染症の感染予防対策の徹底について（依頼）]]></title>
-        <id>1e4290edf5c3ca297b0f28ec494cbfbe</id>
-        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5348"/>
-        <updated>2024-08-02T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　令和６年８月２日
-
-　学生・教職員　各位
-
-　　　　　　　　　　　　　　　　　　　　　　新型コロナウイルス感染症リスク対応チーム
-　　　　　　　　　　　　　　　　　　　　　　　　　　　　　総務担当副学長　加藤　和彦
-
-
-　　　　　　新型コロナウイルス感染症の感染予防対策の徹底について（依頼）
-
-　現在、新型コロナウイルス感染症の変…]]></summary>
     </entry>
 </feed>
