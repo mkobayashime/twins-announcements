@@ -5,6 +5,20 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "a45bbdeb2f4be188c4bfb1d7e8d188b8",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5377",
+            "title": "（茗渓会）9月ぶっちゃけ相談会　（IT業界・公務員）",
+            "summary": "【参加対象者】\n・筑波大学および大学院の全ての学生。学年不問。\n新入生大歓迎！\n\n【参加費】\n・無料\n\nこれから就活が始まる方、卒業後の進路やキャリアに悩んでいる方、\nこれからの大学生活をどう過ごそうか考えている方、\nぜひ、先輩に質問してみてください。\nぶっちゃけ相談会とは\n【今月の登壇者】\n１人目は、IT業界（株式会社トラストハブ）、２人目は、公務員（大分県庁）で活躍されているお二人が登場します…",
+            "date_modified": "2024-08-23T03:00:00.000Z"
+        },
+        {
+            "id": "97e5064f7871dae7596d58318d870d71",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5376",
+            "title": "（9/25・参加者募集）第4回博士のポートフォリオ大公開+ロールモデル懇談会",
+            "summary": "ヒューマンエンパワーメント推進局（BHE）では、筑波大学に所属する全学群生・大学院生を対象に、\n多様な学生のキャリア形成に対する視野を開くこと、また、博士進学後のキャリアパスをクリアにすることを目的として、令和6年度第4回博士のポートフォリオ大公開+ロールモデル懇談会を開催します。\n\n・博士課程に進学したきっかけや当時の悩み\n・博士時代に経験してよかったこと\n・筑波大学の博士の特徴　など\n\n気にな…",
+            "date_modified": "2024-08-23T03:00:00.000Z"
+        },
+        {
             "id": "91a119f540a1bb485a7a54a4abbd9821",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5374",
             "title": "【Tickets On Sale】University of Tsukuba Homegame \"TSUKUBA LIVE!\" (Volleyball: vs Univ. of Alberta)",
@@ -129,20 +143,6 @@
             "title": "（BHE）Teams内 情報発信チームのご案内",
             "summary": "キャリア支援チームに日々届く、企業・自治体・学校からの求人情報や\nインターンシップ情報を発信しています。\n卒業年度別、進路志望別に就活に役立つ情報をタイムリーに掲載します。\nチームに参加して皆さんの就活に役立ててください。\n\n【参加方法】\nチーム名「BHEキャリア支援チーム　情報発信」\n以下のリンクから参加してください。\n\n【掲載情報例】\n（カテゴリー）\n企業（25卒向け・26卒向け）、教員、公務…",
             "date_modified": "2024-08-06T03:00:00.000Z"
-        },
-        {
-            "id": "af841e636076093a2269457444e48cc8",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5350",
-            "title": "【注意喚起】本学構内における不審者の出没について／[caution] Suspicious Persons on the University's Campus",
-            "summary": "7月29日（月）に、カスミ筑波大学店付近において、落としたものを拾ってもらった際に相手の手を握る30代位の不審な男性が現れました。\nキャンパス内では、不審者がいないか、不審な点がないか十分気をつけてください。\nキャンパス内で不審者・不審物の情報があれば、速やかに最寄りの警備員室または本部防災センター（029-853-2079）へご連絡ください。\nまた、緊急の場合はすぐに110番通報してください。\n…",
-            "date_modified": "2024-08-05T03:00:00.000Z"
-        },
-        {
-            "id": "0e338f8c424f8d0d9581d9b356e5f126",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5349",
-            "title": "Thorough Preventive Measures Against Transmission of New Coronavirus Infections (Request)",
-            "summary": "　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　August 2, 2024\n\nTo all students, faculty and staff\n\n　　　　　　　　　　　　　　　　　　　　　New Coronavirus Infections Risk Response Team\n　　　　　　　　　　　　　　　　　　　　　Vice President for Gener…",
-            "date_modified": "2024-08-02T03:00:00.000Z"
         }
     ]
 }
