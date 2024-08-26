@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "f0cf5caec91fadfdaffc496bec3e855b",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5380",
+            "title": "【開催案内9/6】第2回人文社会系研究交流セミナー",
+            "summary": "人文社会系では、第2回研究交流セミナーを下記の通り開催いたします。\n詳細は添付のポスターをご参照ください。\n\n日時：9月6日（金）15:00-16:00\n講演者：周 筱 (国際公共政策学域・助教)\n演題：少年司法制度から見る「法的パターナリズム」の現在\n※ZoomによるWeb開催\n\n参加をご希望の方は、下記のGoogleフォームから事前登録をお願いいたします。\n\n途中参加も可能ですので、お気軽にご…",
+            "date_modified": "2024-08-26T03:00:00.000Z"
+        },
+        {
             "id": "df912d4e1177df3a06268d1b455465ce",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5379",
             "title": "Announcement on the Student Health Examination for Fall Semester 2024",
@@ -135,13 +142,6 @@
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5356",
             "title": "【＼参加者募集／】Tsukuba × Latin America Online Exchange Event（中南米諸国とのオンライン学生交流プログラム）2024/9/18～20",
             "summary": "9/18(水)～9/20(金)の3日間（全日とも日本時間の午前8:00～10:00）、筑波大学と中南米諸国の大学とのオンライン交流プログラムを開催します！\n\n英語で文化交流、ディスカッションを行い、最終日にはグループごとに発表をしていただくという、大変やりがいのあるイベントです（例年も参加者の方々からは参加後嬉しいアンケート結果をいただいており、大変好評でした！）。\n\n中南米に少しでも興味のある方…",
-            "date_modified": "2024-08-06T03:00:00.000Z"
-        },
-        {
-            "id": "4cd1f9da943f202b3ff8cf6b25c8883d",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5355",
-            "title": "（ご案内）GTIE SEP2024",
-            "summary": "GTIE（注）事務局から、「GTIE 学生アントレプレナーシッププログラム2024」（GTIE SEP2024）の募集について連絡がありましたので、お知らせいたします。\n8月に開催されるキックオフを皮切りに、リーンローンチパッドプログラム研修（全4回）、海外事前研修（ビジネスモデル構築、ファイナンス）、海外研修（オーストラリア、米国を予定）などの各種研修の実施が予定されています。また、キックオフ以…",
             "date_modified": "2024-08-06T03:00:00.000Z"
         }
     ]
