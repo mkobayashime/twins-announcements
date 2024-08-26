@@ -5,6 +5,20 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "df912d4e1177df3a06268d1b455465ce",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5379",
+            "title": "Announcement on the Student Health Examination for Fall Semester 2024",
+            "summary": "The Student Health Examination for Fall Semester 2024 will be divided into a physical examination and a mental health survey as follows.\nPlease be sure to take the examination if you are eligible.\n\nPh…",
+            "date_modified": "2024-08-26T03:00:00.000Z"
+        },
+        {
+            "id": "2664a48e5e51eea713a91138c413f185",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5378",
+            "title": "令和６年度秋学期学生健康診断について",
+            "summary": "令和６年度秋学期学生健康診断について、身体検査とこころの健康調査に分けて以下の通り実施します。\n該当者は必ず受診してください。\n\n身体検査\n１０月２２日（火）から１０月２３日（水）で実施されます。\n【対象】\n・令和６年５月以降に入学した学生\n・令和６年４月の健康診断実施時に留学中・休学中などやむを得ない事由によって受診できなかった学生\n\nこころの健康調査\n１０月１５日(火) から１１月１日(金)で…",
+            "date_modified": "2024-08-26T03:00:00.000Z"
+        },
+        {
             "id": "a45bbdeb2f4be188c4bfb1d7e8d188b8",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5377",
             "title": "（茗渓会）9月ぶっちゃけ相談会　（IT業界・公務員）",
@@ -128,20 +142,6 @@
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5355",
             "title": "（ご案内）GTIE SEP2024",
             "summary": "GTIE（注）事務局から、「GTIE 学生アントレプレナーシッププログラム2024」（GTIE SEP2024）の募集について連絡がありましたので、お知らせいたします。\n8月に開催されるキックオフを皮切りに、リーンローンチパッドプログラム研修（全4回）、海外事前研修（ビジネスモデル構築、ファイナンス）、海外研修（オーストラリア、米国を予定）などの各種研修の実施が予定されています。また、キックオフ以…",
-            "date_modified": "2024-08-06T03:00:00.000Z"
-        },
-        {
-            "id": "4eb3c087ab1d9fffa41b103390e80d9f",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5353",
-            "title": "明日開催！放送業界・電機業界（茗渓会）ぶっちゃけ相談会のご案内",
-            "summary": "【参加対象者】\n・筑波大学および大学院の全ての学生。学年不問。\n新入生大歓迎！\n【参加費】\n・無料\nこれから就活が始まる方、卒業後の進路やキャリアに悩んでいる方、\nこれからの大学生活をどう過ごそうか考えている方、\nぜひ、先輩に質問してみてください。\n【今月の登壇者】\n１人目は放送業界（テレビ、ＮＨＫ）で、２人目は電機（重電）業界（プラントエンジニアリング）で活躍されているお二人が登場します。\nみな…",
-            "date_modified": "2024-08-06T03:00:00.000Z"
-        },
-        {
-            "id": "db21767d2c3d07188004ce652a974e31",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5352",
-            "title": "（BHE）Teams内 情報発信チームのご案内",
-            "summary": "キャリア支援チームに日々届く、企業・自治体・学校からの求人情報や\nインターンシップ情報を発信しています。\n卒業年度別、進路志望別に就活に役立つ情報をタイムリーに掲載します。\nチームに参加して皆さんの就活に役立ててください。\n\n【参加方法】\nチーム名「BHEキャリア支援チーム　情報発信」\n以下のリンクから参加してください。\n\n【掲載情報例】\n（カテゴリー）\n企業（25卒向け・26卒向け）、教員、公務…",
             "date_modified": "2024-08-06T03:00:00.000Z"
         }
     ]
