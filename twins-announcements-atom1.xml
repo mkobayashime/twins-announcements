@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/mkobayashime/twins-announcements</id>
     <title>在学生へのお知らせ | 筑波大学</title>
-    <updated>2024-08-27T01:28:21.833Z</updated>
+    <updated>2024-08-27T02:17:41.067Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://github.com/mkobayashime/twins-announcements"/>
     <subtitle>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</subtitle>
+    <entry>
+        <title type="html"><![CDATA[【9月開室スケジュール】セーファースペース「KiteKite（きてきて）」]]></title>
+        <id>3d9eefb5a660e8ba63db35544350d239</id>
+        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5383"/>
+        <updated>2024-08-27T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[ヒューマンエンパワーメント推進局（BHE）ジェンダー支援チームでは、学生スタッフと共同で”セーファースペースKiteKite（きてきて）”を実施しています。
+9月の開室スケジュールをお知らせしますので、ぜひお気軽にご参加ください。
+
+※セーファースペースとは…LGBTQ＋や女性をはじめ、全ての人が自らのジェンダー・セクシュアリティについてより安全に話すことができる居場所のこと
+
+KiteKiteは…]]></summary>
+    </entry>
     <entry>
         <title type="html"><![CDATA[(再掲)【附属図書館】9月の臨時休館について / [Library] Temporaly Closure on September]]></title>
         <id>49a2cafb30b4f93337b39f937ba73bda</id>
@@ -244,16 +256,5 @@ Period of residence of this room type is from moving-in date to th…]]></summar
         <updated>2024-08-08T03:00:00.000Z</updated>
         <summary type="html"><![CDATA[We are currently calling residents for Global Village.
 Global Village is a shared house type of student residence halls where international and local students live together and there are also exchange…]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[（再掲) グローバルヴィレッジの入居者募集 （空室補充）について]]></title>
-        <id>2f4ed0387494c5b1bc93abe7d8c5ef02</id>
-        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5361"/>
-        <updated>2024-08-08T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[現在、グローバルヴィレッジの入居者を募集しております。
-グローバルヴィレッジは、留学生と一般学生の混住シェアハウスタイプの学生宿舎で、入居者向けに留学生との交流イベント等もあります。
-
-入居の申し込みにつきましては、添付ファイルをご覧ください。
-]]></summary>
     </entry>
 </feed>
