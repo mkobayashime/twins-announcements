@@ -4,7 +4,7 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Wed, 28 Aug 2024 09:07:33 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 28 Aug 2024 15:06:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
@@ -193,18 +193,6 @@ On August 31st, Tsukuba University will host anot…]]></description>
 当日会場にはつくば市を拠点に活動する、V.LEAGUEに所属の「つくばユナイテッドSun GAIA」の選手も登…]]></description>
         </item>
         <item>
-            <title><![CDATA[サーバー更新作業に伴うキャリア支援チームHP及び就職情報提供システム停止のお知らせ]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5372</link>
-            <guid>f7e5c4dc1ece4147cbde4ed3df16263e</guid>
-            <pubDate>Tue, 20 Aug 2024 03:00:00 GMT</pubDate>
-            <description><![CDATA[サーバー更新作業に伴い、下記の時間、キャリア支援チームホームページ等へ繋がりにくくなります。
-【作業日時】8/28（水）9：00　～　13：15（予定）
-
-なお、サーバー更新作業中は、「学内専用ページ」、「ガイダンス等及び模試試験登録・申請」、「進路進捗状況届」へのアクセスはできません。
-皆様にはご迷惑をおかけいたしますが、ご理解、ご協力の程よろしくお願いいたします。
-]]></description>
-        </item>
-        <item>
             <title><![CDATA[[Notice] 安全保障輸出管理のための誓約書提出のお願いRequest for Submission of Pledge for Security Export Control]]></title>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5371</link>
             <guid>7a9b01b19be73cc89a24e7501dfc664d</guid>
@@ -262,6 +250,19 @@ Please see the attached fil…]]></description>
             <pubDate>Fri, 09 Aug 2024 03:00:00 GMT</pubDate>
             <description><![CDATA[本日、クラス連絡会等における全学的要望への対応内容について、令和5年度分及び
 令和6年度で担当部署から回答済みのものを学生生活関係HPに掲載いたしました。]]></description>
+        </item>
+        <item>
+            <title><![CDATA[（再掲）留学生のチューター募集について（2024年度秋学期）]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5366</link>
+            <guid>fe7f56f0f3b14769cdaf9326d236c405</guid>
+            <pubDate>Thu, 08 Aug 2024 03:00:00 GMT</pubDate>
+            <description><![CDATA[留学生と交流したい、または留学生をサポートしたいと思っている正規課程の在学生の皆さん、ぜひチューターになってみませんか？
+
+2024年9月・10月に多くの留学生が入学する予定です。
+これに伴い、チューター支援（主に生活の立ち上げ支援（原則対面））を
+行ってくださるチューターを大募集しています！！！！
+
+チューター希望の学生は、下記URL上の「チューターバンク」に記載の登録方法に従い、チューターバン…]]></description>
         </item>
     </channel>
 </rss>
