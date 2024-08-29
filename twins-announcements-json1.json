@@ -5,6 +5,20 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "ec8bfd68a2b7d42a022930e6f2e5335c",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5390",
+            "title": "（9/25・Zoom開催）第4回博士のポートフォリオ大公開+ロールモデル懇談会",
+            "summary": "ヒューマンエンパワーメント推進局（BHE）では、筑波大学に所属する全学群生・大学院生を対象に、\n多様な学生のキャリア形成に対する視野を開くこと、また、博士進学後のキャリアパスをクリアにすることを目的として、「令和6年度第4回博士のポートフォリオ大公開+ロールモデル懇談会」を開催します。\n\n・院への進学の決め手や悩み\n・修了後のキャリアパス\n・筑波大学の博士の特徴　など\n\n気になってることを筑波大学…",
+            "date_modified": "2024-08-29T03:00:00.000Z"
+        },
+        {
+            "id": "ec8bfd68a2b7d42a022930e6f2e5335c",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5389",
+            "title": "（9/25・Zoom開催）第4回博士のポートフォリオ大公開+ロールモデル懇談会",
+            "summary": "ヒューマンエンパワーメント推進局（BHE）では、筑波大学に所属する全学群生・大学院生を対象に、\n多様な学生のキャリア形成に対する視野を開くこと、また、博士進学後のキャリアパスをクリアにすることを目的として、「令和6年度第4回博士のポートフォリオ大公開+ロールモデル懇談会」を開催します。\n\n・院への進学の決め手や悩み\n・修了後のキャリアパス\n・筑波大学の博士の特徴　など\n\n気になってることを筑波大学…",
+            "date_modified": "2024-08-29T03:00:00.000Z"
+        },
+        {
             "id": "84ab29f6ded18dd4c0cfc81dac1fbf34",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5388",
             "title": "（再掲）【参加者募集・9/9 開催】TIDE 女性研究者・技術者の異業種交流会",
@@ -129,20 +143,6 @@
             "title": "【注意喚起】正体を隠した悪質なカルト団体に注意！",
             "summary": "　\n　最近、大学構内で、正体を隠した悪質なカルト団体が勧誘してくるケースが増えています。これらの団体は一見楽しそうな活動を装い、以下のような手口で接近してきます。\n\n• 「一緒に○○しませんか？」\n• 「食事会、合宿に参加しませんか？」\n• 「この辺りで美味しいお店知りませんか？」\n\nこれらの誘い文句に応じて実際に話をしてみると、相手は非常に言葉巧みに安心感を与え、コミュニティに勧誘してきます。一…",
             "date_modified": "2024-08-09T03:00:00.000Z"
-        },
-        {
-            "id": "f786e4d7230b0c84087424d2672dad3c",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5367",
-            "title": "クラス連絡会等における全学的要望への対応について",
-            "summary": "本日、クラス連絡会等における全学的要望への対応内容について、令和5年度分及び\n令和6年度で担当部署から回答済みのものを学生生活関係HPに掲載いたしました。",
-            "date_modified": "2024-08-09T03:00:00.000Z"
-        },
-        {
-            "id": "fe7f56f0f3b14769cdaf9326d236c405",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5366",
-            "title": "（再掲）留学生のチューター募集について（2024年度秋学期）",
-            "summary": "留学生と交流したい、または留学生をサポートしたいと思っている正規課程の在学生の皆さん、ぜひチューターになってみませんか？\n\n2024年9月・10月に多くの留学生が入学する予定です。\nこれに伴い、チューター支援（主に生活の立ち上げ支援（原則対面））を\n行ってくださるチューターを大募集しています！！！！\n\nチューター希望の学生は、下記URL上の「チューターバンク」に記載の登録方法に従い、チューターバン…",
-            "date_modified": "2024-08-08T03:00:00.000Z"
         }
     ]
 }
