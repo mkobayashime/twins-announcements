@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "b5e87f3669dd124c100c12d710319227",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5391",
+            "title": "【受付延長】キャンパスライフ動画コンテスト/ [Entries period extended] Campus Life Video Contest",
+            "summary": "「筑波大学・キャンパスライフ魅力発信動画コンテスト」のエントリー受付期間を延長します。\n皆様のご応募、お待ちしております！\n\n＜変更点＞\n１．エントリー受付最終日：（変更前）8月３１日→（変更後）９月１８日\n２．動画提出受付最終日：（変更前）９月３０日→（変更後）１０月７日\n＊詳しくは、応募要項(URL)をご覧ください。\n\nThe entry period for the \"University …",
+            "date_modified": "2024-08-30T03:00:00.000Z"
+        },
+        {
             "id": "ec8bfd68a2b7d42a022930e6f2e5335c",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5390",
             "title": "（9/25・Zoom開催）第4回博士のポートフォリオ大公開+ロールモデル懇談会",
@@ -135,13 +142,6 @@
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5369",
             "title": "南海トラフ地震臨時情報（巨大地震注意）への対応について（依頼）",
             "summary": "　　　　　　　　　　　　　　　　　　　　　　　　　　　令和６年８月９日\n学生・教職員　各位\n\n　　　　　　　　　　　　　　　　　　　　　全学リスクマネジメント委員会\n　　　　　　　　　　　　　　　　　　　　　　総務担当副学長　加藤　和彦\n\n\n　　　南海トラフ地震臨時情報（巨大地震注意）への対応について（依頼）\n\n\n　令和６年８月８日（木）午後４時４３分頃、日向灘を震源とする最大震度６弱の地震が発生…",
-            "date_modified": "2024-08-09T03:00:00.000Z"
-        },
-        {
-            "id": "aeda7e406cc91112f48a00b57796dee0",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5368",
-            "title": "【注意喚起】正体を隠した悪質なカルト団体に注意！",
-            "summary": "　\n　最近、大学構内で、正体を隠した悪質なカルト団体が勧誘してくるケースが増えています。これらの団体は一見楽しそうな活動を装い、以下のような手口で接近してきます。\n\n• 「一緒に○○しませんか？」\n• 「食事会、合宿に参加しませんか？」\n• 「この辺りで美味しいお店知りませんか？」\n\nこれらの誘い文句に応じて実際に話をしてみると、相手は非常に言葉巧みに安心感を与え、コミュニティに勧誘してきます。一…",
             "date_modified": "2024-08-09T03:00:00.000Z"
         }
     ]
