@@ -5,6 +5,20 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "0f8e15007332d1fc4af2aebfd6dc785b",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5395",
+            "title": "リユース品の配布/Distribution of reusable items",
+            "summary": "スチューデントサポートセンターでは、”RECYCLING PROJECT”\nとして、「まだ使用できる不用品」を回収し、新学期に新入生をはじめとした学生へ、無料譲渡するプロジェクトを実施します。\n\nStudent Support Center Office is organizing the “RECYCLING PROJECT”.\nThrough this project, we will col…",
+            "date_modified": "2024-09-02T03:00:00.000Z"
+        },
+        {
+            "id": "4b60a1000335b500412c492e6c54d1b4",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5394",
+            "title": "【Fall Welcome Event / 秋新歓イベント】Tsuku・Koi 2024 開催のお知らせ",
+            "summary": "The fall welcome event for international students \"Tsuku・Koi\" is making a comeback! There will be various student groups booth, fun activities and performances at the University Hall! Any student at t…",
+            "date_modified": "2024-09-02T03:00:00.000Z"
+        },
+        {
             "id": "b1562959e268e79d36513008f06b4990",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5393",
             "title": "BHE主催就活支援企画　9月面接・GD練習会",
@@ -129,20 +143,6 @@
             "title": "（9/25・参加者募集）第4回博士のポートフォリオ大公開+ロールモデル懇談会",
             "summary": "ヒューマンエンパワーメント推進局（BHE）では、筑波大学に所属する全学群生・大学院生を対象に、\n多様な学生のキャリア形成に対する視野を開くこと、また、博士進学後のキャリアパスをクリアにすることを目的として、令和6年度第4回博士のポートフォリオ大公開+ロールモデル懇談会を開催します。\n\n・博士課程に進学したきっかけや当時の悩み\n・博士時代に経験してよかったこと\n・筑波大学の博士の特徴　など\n\n気にな…",
             "date_modified": "2024-08-23T03:00:00.000Z"
-        },
-        {
-            "id": "7a9b01b19be73cc89a24e7501dfc664d",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5371",
-            "title": "[Notice] 安全保障輸出管理のための誓約書提出のお願いRequest for Submission of Pledge for Security Export Control",
-            "summary": "2024年度大学院修了予定者（退学等を含む）の皆様へ\nTo prospective graduate school graduates in AY2024 (including those who will withdraw)\n\n大学院修了にあたり、外国為替及び外国貿易法遵守の”誓約書（修了時）”提出をお願いしております。ご理解とご協力をよろしくお願いいたします\nIn order to compl…",
-            "date_modified": "2024-08-20T03:00:00.000Z"
-        },
-        {
-            "id": "46ac4f0f9853a8ffbfc1a32d9f73d6f6",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5370",
-            "title": "Response to the Nankai Trough Earthquake Temporary Information (Request)",
-            "summary": "At around 4:43 p.m. on Thursday, August 8, 2024, an earthquake with a maximum intensity of just under 6 on the Japanese scale occurred with its epicenter in the Hyuga Sea.\n\nPlease see the attached fil…",
-            "date_modified": "2024-08-09T03:00:00.000Z"
         }
     ]
 }

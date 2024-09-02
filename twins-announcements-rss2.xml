@@ -4,10 +4,28 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Mon, 02 Sep 2024 03:02:26 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 02 Sep 2024 07:02:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
+        <item>
+            <title><![CDATA[リユース品の配布/Distribution of reusable items]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5395</link>
+            <guid>0f8e15007332d1fc4af2aebfd6dc785b</guid>
+            <pubDate>Mon, 02 Sep 2024 03:00:00 GMT</pubDate>
+            <description><![CDATA[スチューデントサポートセンターでは、”RECYCLING PROJECT”
+として、「まだ使用できる不用品」を回収し、新学期に新入生をはじめとした学生へ、無料譲渡するプロジェクトを実施します。
+
+Student Support Center Office is organizing the “RECYCLING PROJECT”.
+Through this project, we will col…]]></description>
+        </item>
+        <item>
+            <title><![CDATA[【Fall Welcome Event / 秋新歓イベント】Tsuku・Koi 2024 開催のお知らせ]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5394</link>
+            <guid>4b60a1000335b500412c492e6c54d1b4</guid>
+            <pubDate>Mon, 02 Sep 2024 03:00:00 GMT</pubDate>
+            <description><![CDATA[The fall welcome event for international students "Tsuku・Koi" is making a comeback! There will be various student groups booth, fun activities and performances at the University Hall! Any student at t…]]></description>
+        </item>
         <item>
             <title><![CDATA[BHE主催就活支援企画　9月面接・GD練習会]]></title>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5393</link>
@@ -247,26 +265,6 @@ Ph…]]></description>
 ・筑波大学の博士の特徴　など
 
 気にな…]]></description>
-        </item>
-        <item>
-            <title><![CDATA[[Notice] 安全保障輸出管理のための誓約書提出のお願いRequest for Submission of Pledge for Security Export Control]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5371</link>
-            <guid>7a9b01b19be73cc89a24e7501dfc664d</guid>
-            <pubDate>Tue, 20 Aug 2024 03:00:00 GMT</pubDate>
-            <description><![CDATA[2024年度大学院修了予定者（退学等を含む）の皆様へ
-To prospective graduate school graduates in AY2024 (including those who will withdraw)
-
-大学院修了にあたり、外国為替及び外国貿易法遵守の”誓約書（修了時）”提出をお願いしております。ご理解とご協力をよろしくお願いいたします
-In order to compl…]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Response to the Nankai Trough Earthquake Temporary Information (Request)]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5370</link>
-            <guid>46ac4f0f9853a8ffbfc1a32d9f73d6f6</guid>
-            <pubDate>Fri, 09 Aug 2024 03:00:00 GMT</pubDate>
-            <description><![CDATA[At around 4:43 p.m. on Thursday, August 8, 2024, an earthquake with a maximum intensity of just under 6 on the Japanese scale occurred with its epicenter in the Hyuga Sea.
-
-Please see the attached fil…]]></description>
         </item>
     </channel>
 </rss>
