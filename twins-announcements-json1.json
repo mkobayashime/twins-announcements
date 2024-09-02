@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "1d1dc71ed565980bac6858d4825ce766",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5397",
+            "title": "2025年度　ライト工業みらい奨学基金（ベトナム人留学生用）",
+            "summary": "2025年度　ライト工業みらい奨学基金（ベトナム人留学生用）\n応募期間：2024年8月20日～2024年10月23日（※郵送必着）\n提出先　：協会へ直接応募\n募集要項：（PDF(資料1)）\nポスター：（PDF(資料2)）\n※この奨学金を受給する者は、2025年度の大学推薦奨学金の申請資格はありません。\n※日本語能力試験N3程度の日本語能力が必要です。\n\nRAITO KOGYO Grant-type…",
+            "date_modified": "2024-09-02T03:00:00.000Z"
+        },
+        {
             "id": "44420401c129516f541a970458e198ce",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5396",
             "title": "【事前参加登録〆切：9/13（金）】人文社会科学研究群オンライン説明会〔（9/21（土）〕開催のお知らせ",
@@ -136,13 +143,6 @@
             "title": "令和６年度秋学期学生健康診断について",
             "summary": "令和６年度秋学期学生健康診断について、身体検査とこころの健康調査に分けて以下の通り実施します。\n該当者は必ず受診してください。\n\n身体検査\n１０月２２日（火）から１０月２３日（水）で実施されます。\n【対象】\n・令和６年５月以降に入学した学生\n・令和６年４月の健康診断実施時に留学中・休学中などやむを得ない事由によって受診できなかった学生\n\nこころの健康調査\n１０月１５日(火) から１１月１日(金)で…",
             "date_modified": "2024-08-26T03:00:00.000Z"
-        },
-        {
-            "id": "a45bbdeb2f4be188c4bfb1d7e8d188b8",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5377",
-            "title": "（茗渓会）9月ぶっちゃけ相談会　（IT業界・公務員）",
-            "summary": "【参加対象者】\n・筑波大学および大学院の全ての学生。学年不問。\n新入生大歓迎！\n\n【参加費】\n・無料\n\nこれから就活が始まる方、卒業後の進路やキャリアに悩んでいる方、\nこれからの大学生活をどう過ごそうか考えている方、\nぜひ、先輩に質問してみてください。\nぶっちゃけ相談会とは\n【今月の登壇者】\n１人目は、IT業界（株式会社トラストハブ）、２人目は、公務員（大分県庁）で活躍されているお二人が登場します…",
-            "date_modified": "2024-08-23T03:00:00.000Z"
         }
     ]
 }
