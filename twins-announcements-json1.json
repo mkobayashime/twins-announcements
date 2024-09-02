@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "b1562959e268e79d36513008f06b4990",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5393",
+            "title": "BHE主催就活支援企画　9月面接・GD練習会",
+            "summary": "就活に即役立つ、面接・GD練習会です。対面でもオンラインでも開催します。\n対面面接編ではビジネスマナーも学ぶことができます。\n就活中の方、ISの選考を受ける方だけでなく、低学年の皆さんの参加も大歓迎！「面接ってどんな感じ？」、「グループディスカッションってどんな話をすればいいの？」などちょっと知りたいという方もぜひどうぞ。\nBHEキャリア支援チームのファシリテーターからフィードバックがあります。（…",
+            "date_modified": "2024-09-02T03:00:00.000Z"
+        },
+        {
             "id": "54a801bbb5653cf39568d19632b50891",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5392",
             "title": "【事前投票スタート！】シン・いばらきメシ総選挙2024　コート・ダジュール✕筑波大学コラボ商品がつくば市代表でエントリー！",
@@ -135,13 +142,6 @@
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5370",
             "title": "Response to the Nankai Trough Earthquake Temporary Information (Request)",
             "summary": "At around 4:43 p.m. on Thursday, August 8, 2024, an earthquake with a maximum intensity of just under 6 on the Japanese scale occurred with its epicenter in the Hyuga Sea.\n\nPlease see the attached fil…",
-            "date_modified": "2024-08-09T03:00:00.000Z"
-        },
-        {
-            "id": "c3d1897f3aa13647c8dc776cc5df8e5e",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5369",
-            "title": "南海トラフ地震臨時情報（巨大地震注意）への対応について（依頼）",
-            "summary": "　　　　　　　　　　　　　　　　　　　　　　　　　　　令和６年８月９日\n学生・教職員　各位\n\n　　　　　　　　　　　　　　　　　　　　　全学リスクマネジメント委員会\n　　　　　　　　　　　　　　　　　　　　　　総務担当副学長　加藤　和彦\n\n\n　　　南海トラフ地震臨時情報（巨大地震注意）への対応について（依頼）\n\n\n　令和６年８月８日（木）午後４時４３分頃、日向灘を震源とする最大震度６弱の地震が発生…",
             "date_modified": "2024-08-09T03:00:00.000Z"
         }
     ]
