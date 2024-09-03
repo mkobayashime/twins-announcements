@@ -1,8 +1,8 @@
+import { mkdir, writeFile } from "node:fs/promises";
+import path from "node:path";
 import { Feed } from "feed";
-import { writeFile, mkdir } from "fs/promises";
-import path from "path";
 
-import { Announcement, Feeds } from "./types/index.js";
+import type { Announcement, Feeds } from "./types/index.js";
 
 export const generateFeed = (announcements: Announcement[]): Feeds => {
   const feedClient = new Feed({
@@ -15,7 +15,7 @@ export const generateFeed = (announcements: Announcement[]): Feeds => {
     language: "ja",
   });
 
-  announcements.forEach(({ id, title, text, date, url }) => {
+  for (const { id, title, text, date, url } of announcements) {
     feedClient.addItem({
       id,
       title,
@@ -23,7 +23,7 @@ export const generateFeed = (announcements: Announcement[]): Feeds => {
       link: url,
       date,
     });
-  });
+  }
 
   return {
     rss2: feedClient.rss2(),

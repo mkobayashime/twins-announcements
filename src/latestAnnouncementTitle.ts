@@ -1,7 +1,7 @@
+import { existsSync } from "node:fs";
+import { mkdir, readFile, writeFile } from "node:fs/promises";
+import path from "node:path";
 import * as O from "fp-ts/lib/Option.js";
-import { existsSync } from "fs";
-import { mkdir, writeFile, readFile } from "fs/promises";
-import path from "path";
 
 import type { Announcement } from "./types/index.js";
 

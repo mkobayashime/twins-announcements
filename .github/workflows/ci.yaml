@@ -12,17 +12,12 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-      - name: Use Node.js
-        uses: actions/setup-node@v4
+      - uses: actions/setup-node@v4
         with:
           node-version: "18"
           cache: "yarn"
-      - name: ESLint
-        run: make lint
-      - name: Prettier
-        run: make format.check
-      - name: Typecheck
-        run: make typecheck
+      - run: make lint
+      - run: make typecheck
   run:
     name: Run
     runs-on: ubuntu-latest
@@ -33,9 +28,7 @@ jobs:
       FEED_ITEMS_NUMBER: 2
     steps:
       - uses: actions/checkout@v4
-      - name: Use Node.js
-        uses: actions/setup-node@v4
+      - uses: actions/setup-node@v4
         with:
           node-version: "18"
-      - name: Run
-        run: make run
+      - run: make run
