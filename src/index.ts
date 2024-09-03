@@ -7,8 +7,10 @@ import { saveLatestAnnouncementTitle } from "./latestAnnouncementTitle.js";
 
 const HEADLESS = process.env.HEADLESS === "true";
 const FORCE_FULL_FETCH = process.env.FORCE_FULL_FETCH === "true";
-const NANABLE_FEED_ITEMS_NUMBER = parseInt(process.env.FEED_ITEMS_NUMBER ?? "");
-const FEED_ITEMS_NUMBER = isNaN(NANABLE_FEED_ITEMS_NUMBER)
+const NANABLE_FEED_ITEMS_NUMBER = Number.parseInt(
+  process.env.FEED_ITEMS_NUMBER ?? "",
+);
+const FEED_ITEMS_NUMBER = Number.isNaN(NANABLE_FEED_ITEMS_NUMBER)
   ? 20
   : NANABLE_FEED_ITEMS_NUMBER;
 const TWINS_ROOT_URL = "https://twins.tsukuba.ac.jp/campusweb/campusportal.do";
@@ -30,7 +32,7 @@ const TWINS_ROOT_URL = "https://twins.tsukuba.ac.jp/campusweb/campusportal.do";
   /**
    * For forwarding logs in the browser to the terminal
    */
-  page.on("console", (message) => console.log("page: " + message.text()));
+  page.on("console", (message) => console.log(`page: ${message.text()}`));
 
   const announcements = await getAnnouncements({
     page,

@@ -1,8 +1,8 @@
+import { setTimeout as setTimerTimeout } from "node:timers/promises";
 import { parse } from "date-fns";
 import * as O from "fp-ts/lib/Option.js";
 import md5 from "md5";
-import { setTimeout as setTimerTimeout } from "node:timers/promises";
-import { Page } from "puppeteer";
+import type { Page } from "puppeteer";
 
 import { getLatestAnnouncementTitle } from "./latestAnnouncementTitle.js";
 import type { Announcement } from "./types/index.js";
@@ -35,8 +35,8 @@ const getAnnouncementBody = async (
       if (!text) throw new Error("Announcement text not found");
 
       return {
-        text: text.length < 200 ? text : text.slice(0, 200) + "…",
-        url: "https://twins.tsukuba.ac.jp/campusweb/" + iFrameSrc,
+        text: text.length < 200 ? text : `${text.slice(0, 200)}…`,
+        url: `https://twins.tsukuba.ac.jp/campusweb/${iFrameSrc}`,
       };
     });
 
@@ -115,7 +115,7 @@ export const getAnnouncements = async ({
         const dateMatch = innerHTMLWithoutTitle?.match(
           /\d{4}\/\d{1,2}\/\d{1,2}/,
         );
-        const date = dateMatch && dateMatch.length ? dateMatch[0] : undefined;
+        const date = dateMatch?.length ? dateMatch[0] : undefined;
         if (!date) throw new Error("Date not found");
 
         return {
