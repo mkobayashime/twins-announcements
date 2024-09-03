@@ -1,5 +1,4 @@
-eslint = yarn run eslint --ignore-path .gitignore
-prettier = yarn run prettier --ignore-path .gitignore
+biome = yarn run biome
 typecheck = yarn run tsc --noEmit
 ts-node = yarn run tsx
 
@@ -15,16 +14,10 @@ run: node_modules PHONY
 	$(ts-node) src/index.ts
 
 lint: node_modules PHONY
-	$(eslint) .
+	$(biome) check .
 
 lint.fix: node_modules PHONY
-	$(eslint) --fix .
-
-format: node_modules PHONY
-	$(prettier) --write .
-
-format.check: node_modules PHONY
-	$(prettier) --check .
+	$(biome) check --fix .
 
 typecheck: node_modules PHONY
 	$(typecheck)
