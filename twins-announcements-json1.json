@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "d418afd1f3692006526a247d426346ce",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5399",
+            "title": "（大学院に興味のある方向け）第4回博士のポートフォリオ大公開+ロールモデル懇談会",
+            "summary": "　ヒューマンエンパワーメント推進局（BHE）では、筑波大学に所属する全学群生・大学院生を対象に、\n多様な学生のキャリア形成に対する視野を開くこと、また、博士進学後のキャリアパスをクリアにすることを目的として、令和6年度第4回博士のポートフォリオ大公開+ロールモデル懇談会を開催します。\n気になってることを筑波大学で博士号を取得した方に質問してみませんか？\n\n・博士進学の決め手\n・博士時代の困難や、そ…",
+            "date_modified": "2024-09-04T03:00:00.000Z"
+        },
+        {
             "id": "db21767d2c3d07188004ce652a974e31",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5398",
             "title": "（BHE）Teams内 情報発信チームのご案内",
@@ -135,13 +142,6 @@
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5380",
             "title": "【開催案内9/6】第2回人文社会系研究交流セミナー",
             "summary": "人文社会系では、第2回研究交流セミナーを下記の通り開催いたします。\n詳細は添付のポスターをご参照ください。\n\n日時：9月6日（金）15:00-16:00\n講演者：周 筱 (国際公共政策学域・助教)\n演題：少年司法制度から見る「法的パターナリズム」の現在\n※ZoomによるWeb開催\n\n参加をご希望の方は、下記のGoogleフォームから事前登録をお願いいたします。\n\n途中参加も可能ですので、お気軽にご…",
-            "date_modified": "2024-08-26T03:00:00.000Z"
-        },
-        {
-            "id": "df912d4e1177df3a06268d1b455465ce",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5379",
-            "title": "Announcement on the Student Health Examination for Fall Semester 2024",
-            "summary": "The Student Health Examination for Fall Semester 2024 will be divided into a physical examination and a mental health survey as follows.\nPlease be sure to take the examination if you are eligible.\n\nPh…",
             "date_modified": "2024-08-26T03:00:00.000Z"
         }
     ]

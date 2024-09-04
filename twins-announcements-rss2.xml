@@ -4,10 +4,22 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Tue, 03 Sep 2024 21:06:34 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 04 Sep 2024 02:19:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
+        <item>
+            <title><![CDATA[（大学院に興味のある方向け）第4回博士のポートフォリオ大公開+ロールモデル懇談会]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5399</link>
+            <guid>d418afd1f3692006526a247d426346ce</guid>
+            <pubDate>Wed, 04 Sep 2024 03:00:00 GMT</pubDate>
+            <description><![CDATA[　ヒューマンエンパワーメント推進局（BHE）では、筑波大学に所属する全学群生・大学院生を対象に、
+多様な学生のキャリア形成に対する視野を開くこと、また、博士進学後のキャリアパスをクリアにすることを目的として、令和6年度第4回博士のポートフォリオ大公開+ロールモデル懇談会を開催します。
+気になってることを筑波大学で博士号を取得した方に質問してみませんか？
+
+・博士進学の決め手
+・博士時代の困難や、そ…]]></description>
+        </item>
         <item>
             <title><![CDATA[（BHE）Teams内 情報発信チームのご案内]]></title>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5398</link>
@@ -253,16 +265,6 @@ BHEキャリア支援チームのファシリテーターからフィードバ�
 参加をご希望の方は、下記のGoogleフォームから事前登録をお願いいたします。
 
 途中参加も可能ですので、お気軽にご…]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Announcement on the Student Health Examination for Fall Semester 2024]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5379</link>
-            <guid>df912d4e1177df3a06268d1b455465ce</guid>
-            <pubDate>Mon, 26 Aug 2024 03:00:00 GMT</pubDate>
-            <description><![CDATA[The Student Health Examination for Fall Semester 2024 will be divided into a physical examination and a mental health survey as follows.
-Please be sure to take the examination if you are eligible.
-
-Ph…]]></description>
         </item>
     </channel>
 </rss>

@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/mkobayashime/twins-announcements</id>
     <title>在学生へのお知らせ | 筑波大学</title>
-    <updated>2024-09-03T21:06:34.909Z</updated>
+    <updated>2024-09-04T02:19:48.711Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://github.com/mkobayashime/twins-announcements"/>
     <subtitle>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</subtitle>
+    <entry>
+        <title type="html"><![CDATA[（大学院に興味のある方向け）第4回博士のポートフォリオ大公開+ロールモデル懇談会]]></title>
+        <id>d418afd1f3692006526a247d426346ce</id>
+        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5399"/>
+        <updated>2024-09-04T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[　ヒューマンエンパワーメント推進局（BHE）では、筑波大学に所属する全学群生・大学院生を対象に、
+多様な学生のキャリア形成に対する視野を開くこと、また、博士進学後のキャリアパスをクリアにすることを目的として、令和6年度第4回博士のポートフォリオ大公開+ロールモデル懇談会を開催します。
+気になってることを筑波大学で博士号を取得した方に質問してみませんか？
+
+・博士進学の決め手
+・博士時代の困難や、そ…]]></summary>
+    </entry>
     <entry>
         <title type="html"><![CDATA[（BHE）Teams内 情報発信チームのご案内]]></title>
         <id>db21767d2c3d07188004ce652a974e31</id>
@@ -251,15 +263,5 @@ BHEキャリア支援チームのファシリテーターからフィードバ�
 参加をご希望の方は、下記のGoogleフォームから事前登録をお願いいたします。
 
 途中参加も可能ですので、お気軽にご…]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Announcement on the Student Health Examination for Fall Semester 2024]]></title>
-        <id>df912d4e1177df3a06268d1b455465ce</id>
-        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5379"/>
-        <updated>2024-08-26T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[The Student Health Examination for Fall Semester 2024 will be divided into a physical examination and a mental health survey as follows.
-Please be sure to take the examination if you are eligible.
-
-Ph…]]></summary>
     </entry>
 </feed>
