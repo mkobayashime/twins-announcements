@@ -2,10 +2,24 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/mkobayashime/twins-announcements</id>
     <title>在学生へのお知らせ | 筑波大学</title>
-    <updated>2024-09-04T02:19:48.711Z</updated>
+    <updated>2024-09-04T03:01:40.961Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://github.com/mkobayashime/twins-announcements"/>
     <subtitle>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</subtitle>
+    <entry>
+        <title type="html"><![CDATA[いけばな体験教室の開催について/The Lesson of Ikebana Experience]]></title>
+        <id>5008e72d7e5a3cc4b6900315ee6a9547</id>
+        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5400"/>
+        <updated>2024-09-04T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[いけばな体験教室を9月16日に開催いたします。
+
+詳細は添付ファイルをご確認ください。
+
+
+Would you like to experience the Japanese culture of ikebana?
+
+For detail, please see the attached file.]]></summary>
+    </entry>
     <entry>
         <title type="html"><![CDATA[（大学院に興味のある方向け）第4回博士のポートフォリオ大公開+ロールモデル懇談会]]></title>
         <id>d418afd1f3692006526a247d426346ce</id>
@@ -246,22 +260,5 @@ For organizing the books, the library will be temporarily closed as follows. Tha
 対面面接編ではビジネスマナーも学ぶことができます。
 就活中の方、ISの選考を受ける方だけでなく、低学年の皆さんの参加も大歓迎！「面接ってどんな感じ？」、「グループディスカッションってどんな話をすればいいの？」などちょっと知りたいという方もぜひどうぞ。
 BHEキャリア支援チームのファシリテーターからフィードバックがあります。（…]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【開催案内9/6】第2回人文社会系研究交流セミナー]]></title>
-        <id>f0cf5caec91fadfdaffc496bec3e855b</id>
-        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5380"/>
-        <updated>2024-08-26T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[人文社会系では、第2回研究交流セミナーを下記の通り開催いたします。
-詳細は添付のポスターをご参照ください。
-
-日時：9月6日（金）15:00-16:00
-講演者：周 筱 (国際公共政策学域・助教)
-演題：少年司法制度から見る「法的パターナリズム」の現在
-※ZoomによるWeb開催
-
-参加をご希望の方は、下記のGoogleフォームから事前登録をお願いいたします。
-
-途中参加も可能ですので、お気軽にご…]]></summary>
     </entry>
 </feed>
