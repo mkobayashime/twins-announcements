@@ -4,10 +4,22 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Thu, 05 Sep 2024 07:01:58 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 05 Sep 2024 08:01:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
+        <item>
+            <title><![CDATA[自己理解ワークショップ～こんなお悩みはありませんか～]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5403</link>
+            <guid>a53675696486fbf32cfb99be58e522dc</guid>
+            <pubDate>Thu, 05 Sep 2024 03:00:00 GMT</pubDate>
+            <description><![CDATA[あなたは自分のことを理解できていますか？
+自分自身の苦手なことや困りごとに対する工夫・対処法・他者に求めたい協力について少人数で話し合いながら考える講座で個人ワークやグループワークを中心に進めて行きます。
+このイベントはBHE主催のもと、パーソルダイバースのコミュニケーション・サポート・プログラム(CSP)の第2弾となります。
+
+♦日常生活や学校生活で困り感があり、もやもやを抱えている
+♦苦手や困…]]></description>
+        </item>
         <item>
             <title><![CDATA[公益財団法人　本庄国際奨学財団 　2025年度(春採用)]]></title>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5402</link>
@@ -252,18 +264,6 @@ The entry period for the "University …]]></description>
 詳細はファイル及びHPをご確認ください。
 
 World Culture Seminar will be held by Ib…]]></description>
-        </item>
-        <item>
-            <title><![CDATA[【9月開室スケジュール】セーファースペース「KiteKite（きてきて）」]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5383</link>
-            <guid>3d9eefb5a660e8ba63db35544350d239</guid>
-            <pubDate>Tue, 27 Aug 2024 03:00:00 GMT</pubDate>
-            <description><![CDATA[ヒューマンエンパワーメント推進局（BHE）ジェンダー支援チームでは、学生スタッフと共同で”セーファースペースKiteKite（きてきて）”を実施しています。
-9月の開室スケジュールをお知らせしますので、ぜひお気軽にご参加ください。
-
-※セーファースペースとは…LGBTQ＋や女性をはじめ、全ての人が自らのジェンダー・セクシュアリティについてより安全に話すことができる居場所のこと
-
-KiteKiteは…]]></description>
         </item>
     </channel>
 </rss>

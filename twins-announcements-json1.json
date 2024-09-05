@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "a53675696486fbf32cfb99be58e522dc",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5403",
+            "title": "自己理解ワークショップ～こんなお悩みはありませんか～",
+            "summary": "あなたは自分のことを理解できていますか？\n自分自身の苦手なことや困りごとに対する工夫・対処法・他者に求めたい協力について少人数で話し合いながら考える講座で個人ワークやグループワークを中心に進めて行きます。\nこのイベントはBHE主催のもと、パーソルダイバースのコミュニケーション・サポート・プログラム(CSP)の第2弾となります。\n\n♦日常生活や学校生活で困り感があり、もやもやを抱えている\n♦苦手や困…",
+            "date_modified": "2024-09-05T03:00:00.000Z"
+        },
+        {
             "id": "57587a97e1e5996fcd31d8a36474b05e",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5402",
             "title": "公益財団法人　本庄国際奨学財団 　2025年度(春採用)",
@@ -136,13 +143,6 @@
             "title": "世界文化セミナーについて　(The World Culture Seminar)",
             "summary": "(公財)茨城県国際交流協会では、「2024年度世界文化セミナー(秋期)」を開講します。\n興味のある方は、チラシのQRコード、またはHPの申込書に必要事項を記入の上、9月17日(火)（オンデマンドコースは9月24日（火）一次締め切り）までにメール、郵送にてお申し込みください。\n詳細はファイル及びHPをご確認ください。\n\nWorld Culture Seminar will be held by Ib…",
             "date_modified": "2024-08-28T03:00:00.000Z"
-        },
-        {
-            "id": "3d9eefb5a660e8ba63db35544350d239",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5383",
-            "title": "【9月開室スケジュール】セーファースペース「KiteKite（きてきて）」",
-            "summary": "ヒューマンエンパワーメント推進局（BHE）ジェンダー支援チームでは、学生スタッフと共同で”セーファースペースKiteKite（きてきて）”を実施しています。\n9月の開室スケジュールをお知らせしますので、ぜひお気軽にご参加ください。\n\n※セーファースペースとは…LGBTQ＋や女性をはじめ、全ての人が自らのジェンダー・セクシュアリティについてより安全に話すことができる居場所のこと\n\nKiteKiteは…",
-            "date_modified": "2024-08-27T03:00:00.000Z"
         }
     ]
 }
