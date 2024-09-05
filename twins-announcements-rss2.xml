@@ -4,10 +4,18 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Wed, 04 Sep 2024 21:06:25 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 05 Sep 2024 03:01:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
+        <item>
+            <title><![CDATA[TGSW2024開催のお知らせ ～参加登録受付中～/The registration form for TGSW2024 is now open]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5401</link>
+            <guid>e3fba79168087f6b18be90bf006beebf</guid>
+            <pubDate>Thu, 05 Sep 2024 03:00:00 GMT</pubDate>
+            <description><![CDATA[TGSWは、世界各国のベテランから若手まで、幅広い世代の研究者が筑波研究学園都市に会し、国や研究領域を超えた議論を行う筑波大学主催の国際会議です。通算13回目の開催となる TGSW2024 は、オンライン形式と対面形式（ハイブリッド形式含む）により様々なセッションを実施します。どなたでも参加可能です。皆様のご参加をお待ちしています。
+日時：令和6年9 月30 日(月)～10月4 日（金）※9月30…]]></description>
+        </item>
         <item>
             <title><![CDATA[いけばな体験教室の開催について/The Lesson of Ikebana Experience]]></title>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5400</link>
@@ -252,16 +260,6 @@ For organizing the books, the library will be temporarily closed as follows. Tha
 
 休館する図書館 / 休館日時
 大塚図書館 / 令和6年9月3日（火）…]]></description>
-        </item>
-        <item>
-            <title><![CDATA[BHE主催就活支援企画　9月面接・GD練習会]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5381</link>
-            <guid>b1562959e268e79d36513008f06b4990</guid>
-            <pubDate>Tue, 27 Aug 2024 03:00:00 GMT</pubDate>
-            <description><![CDATA[就活に即役立つ、面接・GD練習会です。対面でもオンラインでも開催します。
-対面面接編ではビジネスマナーも学ぶことができます。
-就活中の方、ISの選考を受ける方だけでなく、低学年の皆さんの参加も大歓迎！「面接ってどんな感じ？」、「グループディスカッションってどんな話をすればいいの？」などちょっと知りたいという方もぜひどうぞ。
-BHEキャリア支援チームのファシリテーターからフィードバックがあります。（…]]></description>
         </item>
     </channel>
 </rss>

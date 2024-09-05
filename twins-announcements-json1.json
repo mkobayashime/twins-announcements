@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "e3fba79168087f6b18be90bf006beebf",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5401",
+            "title": "TGSW2024開催のお知らせ ～参加登録受付中～/The registration form for TGSW2024 is now open",
+            "summary": "TGSWは、世界各国のベテランから若手まで、幅広い世代の研究者が筑波研究学園都市に会し、国や研究領域を超えた議論を行う筑波大学主催の国際会議です。通算13回目の開催となる TGSW2024 は、オンライン形式と対面形式（ハイブリッド形式含む）により様々なセッションを実施します。どなたでも参加可能です。皆様のご参加をお待ちしています。\n日時：令和6年9 月30 日(月)～10月4 日（金）※9月30…",
+            "date_modified": "2024-09-05T03:00:00.000Z"
+        },
+        {
             "id": "5008e72d7e5a3cc4b6900315ee6a9547",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5400",
             "title": "いけばな体験教室の開催について/The Lesson of Ikebana Experience",
@@ -135,13 +142,6 @@
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5382",
             "title": "(再掲)【附属図書館】9月の臨時休館について / [Library] Temporaly Closure on September",
             "summary": "館内整備日のため、以下のとおり臨時休館いたします。ご不便をおかけしますが、ご協力の程よろしくお願いいたします。\nFor organizing the books, the library will be temporarily closed as follows. Thank you for your cooperation.\n\n休館する図書館 / 休館日時\n大塚図書館 / 令和6年9月3日（火）…",
-            "date_modified": "2024-08-27T03:00:00.000Z"
-        },
-        {
-            "id": "b1562959e268e79d36513008f06b4990",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5381",
-            "title": "BHE主催就活支援企画　9月面接・GD練習会",
-            "summary": "就活に即役立つ、面接・GD練習会です。対面でもオンラインでも開催します。\n対面面接編ではビジネスマナーも学ぶことができます。\n就活中の方、ISの選考を受ける方だけでなく、低学年の皆さんの参加も大歓迎！「面接ってどんな感じ？」、「グループディスカッションってどんな話をすればいいの？」などちょっと知りたいという方もぜひどうぞ。\nBHEキャリア支援チームのファシリテーターからフィードバックがあります。（…",
             "date_modified": "2024-08-27T03:00:00.000Z"
         }
     ]
