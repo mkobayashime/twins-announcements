@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "b7c967698253a6db36bffaec5fe64f0f",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5409",
+            "title": "The Toshizo Watanabe International Scholarship (by Pathways Japan) 2025",
+            "summary": "渡邉利三国際奨学金（パスウェイズ・ジャパン）　奨学生募集（2025年度）\n※主な対象：難民、避難民\n応募期間：2024年10月28日(月)～2025年1月6日(月)\n財団HP：https://pathways-j.org/twis_2025\n※奨学金のオンライン説明会（第1回）が2024年9月13日（金）に開催されます。\n　参加を希望する場合は、財団HPから直接申込をしてください。\n　説明会は英語…",
+            "date_modified": "2024-09-09T03:00:00.000Z"
+        },
+        {
             "id": "c5291654e443ecc81b55582639101554",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5408",
             "title": "(BHE)9月11日開催　面接・GD練習会のご案内",
@@ -133,13 +140,6 @@
         {
             "id": "ec8bfd68a2b7d42a022930e6f2e5335c",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5390",
-            "title": "（9/25・Zoom開催）第4回博士のポートフォリオ大公開+ロールモデル懇談会",
-            "summary": "ヒューマンエンパワーメント推進局（BHE）では、筑波大学に所属する全学群生・大学院生を対象に、\n多様な学生のキャリア形成に対する視野を開くこと、また、博士進学後のキャリアパスをクリアにすることを目的として、「令和6年度第4回博士のポートフォリオ大公開+ロールモデル懇談会」を開催します。\n\n・院への進学の決め手や悩み\n・修了後のキャリアパス\n・筑波大学の博士の特徴　など\n\n気になってることを筑波大学…",
-            "date_modified": "2024-08-29T03:00:00.000Z"
-        },
-        {
-            "id": "ec8bfd68a2b7d42a022930e6f2e5335c",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5389",
             "title": "（9/25・Zoom開催）第4回博士のポートフォリオ大公開+ロールモデル懇談会",
             "summary": "ヒューマンエンパワーメント推進局（BHE）では、筑波大学に所属する全学群生・大学院生を対象に、\n多様な学生のキャリア形成に対する視野を開くこと、また、博士進学後のキャリアパスをクリアにすることを目的として、「令和6年度第4回博士のポートフォリオ大公開+ロールモデル懇談会」を開催します。\n\n・院への進学の決め手や悩み\n・修了後のキャリアパス\n・筑波大学の博士の特徴　など\n\n気になってることを筑波大学…",
             "date_modified": "2024-08-29T03:00:00.000Z"
