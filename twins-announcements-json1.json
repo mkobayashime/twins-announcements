@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "57c1500ce59c60a13df68f3c16a8a189",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5411",
+            "title": "【開催案内】9th Borderless Onsite Meeting “Azerbaijani music – the rhythm of soul- “",
+            "summary": "【開催案内】9th Borderless Onsite Meeting\n\n留学生（外国人職員）が出身国を紹介するイベント”BOM”を月に一度ランチタイムに開催しています。9月は対面での開催です。英語によるフリーチャットや留学生によるプレゼンテーションをお楽しみください。\n\n今月のオンサイト開催は、NipCAフェロー2023　ハサノヴァ・ナルギズさんがアゼルバイジャン共和国の紹介をしてくれます。\n\n…",
+            "date_modified": "2024-09-10T03:00:00.000Z"
+        },
+        {
             "id": "f831311a7e414264868a275f20902605",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5410",
             "title": "（9/25・申込者多数）第4回博士のポートフォリオ大公開+ロールモデル懇談会",
@@ -136,13 +143,6 @@
             "title": "【受付延長】キャンパスライフ動画コンテスト/ [Entries period extended] Campus Life Video Contest",
             "summary": "「筑波大学・キャンパスライフ魅力発信動画コンテスト」のエントリー受付期間を延長します。\n皆様のご応募、お待ちしております！\n\n＜変更点＞\n１．エントリー受付最終日：（変更前）8月３１日→（変更後）９月１８日\n２．動画提出受付最終日：（変更前）９月３０日→（変更後）１０月７日\n＊詳しくは、応募要項(URL)をご覧ください。\n\nThe entry period for the \"University …",
             "date_modified": "2024-08-30T03:00:00.000Z"
-        },
-        {
-            "id": "ec8bfd68a2b7d42a022930e6f2e5335c",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5390",
-            "title": "（9/25・Zoom開催）第4回博士のポートフォリオ大公開+ロールモデル懇談会",
-            "summary": "ヒューマンエンパワーメント推進局（BHE）では、筑波大学に所属する全学群生・大学院生を対象に、\n多様な学生のキャリア形成に対する視野を開くこと、また、博士進学後のキャリアパスをクリアにすることを目的として、「令和6年度第4回博士のポートフォリオ大公開+ロールモデル懇談会」を開催します。\n\n・院への進学の決め手や悩み\n・修了後のキャリアパス\n・筑波大学の博士の特徴　など\n\n気になってることを筑波大学…",
-            "date_modified": "2024-08-29T03:00:00.000Z"
         }
     ]
 }
