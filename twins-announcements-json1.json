@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "54cab52f471408e7fa9eedc1957454e8",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5412",
+            "title": "【Event Info】国際文化交流バスツアー “Cultural Exchange Bus Tour!!”",
+            "summary": "<留学生対象>\n\n利根町国際交流会が国際文化交流バスツアーを開催します！\n\n日時：2024年10月20日(日) 8:40～15:30頃まで\n場所：茨城県つくば市「筑波山」、 茨城県常総市「道の駅　常総」\n申込方法：参加希望者は、https://forms.office.com/r/16D6Qx4wup（Forms）から\n9月23日(月)までに申し込んでください。\n＊ 実際に参加できる方には、後日利…",
+            "date_modified": "2024-09-11T03:00:00.000Z"
+        },
+        {
             "id": "57c1500ce59c60a13df68f3c16a8a189",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5411",
             "title": "【開催案内】9th Borderless Onsite Meeting “Azerbaijani music – the rhythm of soul- “",
@@ -136,13 +143,6 @@
             "title": "STOP！研究費不正使用！／STOP！Wrongful use of research funding！",
             "summary": "学生の皆さんが不正使用に巻き込まれるケースが多発しています。\n不正を見かけた、持ちかけられたら、通報窓口へ。\nコンプライアンス・ハラスメント対策室（学内窓口）\nMail:compliance@un.tsukuba.ac.jp TEL:029-853-2033\nつくば中央法律事務所（学外窓口）\nTEL:029-896-3530  FAX:029-896-3531",
             "date_modified": "2024-09-01T03:00:00.000Z"
-        },
-        {
-            "id": "b5e87f3669dd124c100c12d710319227",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5391",
-            "title": "【受付延長】キャンパスライフ動画コンテスト/ [Entries period extended] Campus Life Video Contest",
-            "summary": "「筑波大学・キャンパスライフ魅力発信動画コンテスト」のエントリー受付期間を延長します。\n皆様のご応募、お待ちしております！\n\n＜変更点＞\n１．エントリー受付最終日：（変更前）8月３１日→（変更後）９月１８日\n２．動画提出受付最終日：（変更前）９月３０日→（変更後）１０月７日\n＊詳しくは、応募要項(URL)をご覧ください。\n\nThe entry period for the \"University …",
-            "date_modified": "2024-08-30T03:00:00.000Z"
         }
     ]
 }
