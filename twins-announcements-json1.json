@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "cced7288c47c19b32c3ce1e88c76c8fc",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5417",
+            "title": "世界を変えよう基金「時事問題を英語で読み書き話す勉強会」開催のお知らせ",
+            "summary": "筑波大学「世界を変えよう基金」では、世界に重大な影響を与える時事問題について、英語ニュース（BBC, CNN, CGTN, Al Jazeera等）を題材に、アカデミック・エッセーまたはパワポ・スライドを作成し、英語で議論する勉強会（９０分程度）をZoomで開催します。勉強会では、英語のみ使用します(作成するパワポについては添付したサンプルを参照してください)。\n\n開催曜日・時間帯は参加者のスケジ…",
+            "date_modified": "2024-09-13T03:00:00.000Z"
+        },
+        {
             "id": "ddfa8f2cb904200718a7088106be8c6d",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5416",
             "title": "DSEP共同研究・研究留学の支援金公募 Call for Applications: DSEP Joint Research and Study Abroad Financial Support",
@@ -135,13 +142,6 @@
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5394",
             "title": "【Fall Welcome Event / 秋新歓イベント】Tsuku・Koi 2024 開催のお知らせ",
             "summary": "The fall welcome event for international students \"Tsuku・Koi\" is making a comeback! There will be various student groups booth, fun activities and performances at the University Hall! Any student at t…",
-            "date_modified": "2024-09-02T03:00:00.000Z"
-        },
-        {
-            "id": "b1562959e268e79d36513008f06b4990",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5393",
-            "title": "BHE主催就活支援企画　9月面接・GD練習会",
-            "summary": "就活に即役立つ、面接・GD練習会です。対面でもオンラインでも開催します。\n対面面接編ではビジネスマナーも学ぶことができます。\n就活中の方、ISの選考を受ける方だけでなく、低学年の皆さんの参加も大歓迎！「面接ってどんな感じ？」、「グループディスカッションってどんな話をすればいいの？」などちょっと知りたいという方もぜひどうぞ。\nBHEキャリア支援チームのファシリテーターからフィードバックがあります。（…",
             "date_modified": "2024-09-02T03:00:00.000Z"
         }
     ]
