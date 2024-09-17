@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/mkobayashime/twins-announcements</id>
     <title>在学生へのお知らせ | 筑波大学</title>
-    <updated>2024-09-16T21:06:56.257Z</updated>
+    <updated>2024-09-17T01:24:54.786Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://github.com/mkobayashime/twins-announcements"/>
     <subtitle>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</subtitle>
+    <entry>
+        <title type="html"><![CDATA[（BHE)公務員内定者と話そう！　10月9日 学内「公務員内定者懇談会」]]></title>
+        <id>819463c8e08a3125c3178d0e669bd319</id>
+        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5418"/>
+        <updated>2024-09-17T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[今年度の公務員試験内定者による内定者懇談会を開催します。
+受験体験談と共に、公務員試験の制度・対策・併願先等の理解を深めたり、受験にあたって準備すべきことを学ぶことができます。
+志望別に少人数に分かれての質疑応答の時間もあります。
+公務員試験受験予定の方や公務員に興味のある方はもちろん、今まで公務員を考えたことがなかった方も、
+まずは実際に試験を経験した先輩達のお話を聞いてみませんか。
+
+＜日時＞…]]></summary>
+    </entry>
     <entry>
         <title type="html"><![CDATA[世界を変えよう基金「時事問題を英語で読み書き話す勉強会」開催のお知らせ]]></title>
         <id>cced7288c47c19b32c3ce1e88c76c8fc</id>
@@ -242,15 +255,5 @@ Through this project, we will col…]]></summary>
         <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5394"/>
         <updated>2024-09-02T03:00:00.000Z</updated>
         <summary type="html"><![CDATA[The fall welcome event for international students "Tsuku・Koi" is making a comeback! There will be various student groups booth, fun activities and performances at the University Hall! Any student at t…]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[BHE主催就活支援企画　9月面接・GD練習会]]></title>
-        <id>b1562959e268e79d36513008f06b4990</id>
-        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5393"/>
-        <updated>2024-09-02T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[就活に即役立つ、面接・GD練習会です。対面でもオンラインでも開催します。
-対面面接編ではビジネスマナーも学ぶことができます。
-就活中の方、ISの選考を受ける方だけでなく、低学年の皆さんの参加も大歓迎！「面接ってどんな感じ？」、「グループディスカッションってどんな話をすればいいの？」などちょっと知りたいという方もぜひどうぞ。
-BHEキャリア支援チームのファシリテーターからフィードバックがあります。（…]]></summary>
     </entry>
 </feed>
