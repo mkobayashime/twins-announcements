@@ -4,7 +4,7 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Tue, 17 Sep 2024 09:07:13 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 17 Sep 2024 15:06:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
@@ -81,19 +81,6 @@ DSEP/DSEP+の概要、カリキュラム・履修要件、MDA開設科目、共�
 皆様お誘い合わせのうえ、ぜひお越しください。
 
 【…]]></description>
-        </item>
-        <item>
-            <title><![CDATA[【開催案内】9th Borderless Onsite Meeting “Azerbaijani music – the rhythm of soul- “]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5411</link>
-            <guid>57c1500ce59c60a13df68f3c16a8a189</guid>
-            <pubDate>Tue, 10 Sep 2024 03:00:00 GMT</pubDate>
-            <description><![CDATA[【開催案内】9th Borderless Onsite Meeting
-
-留学生（外国人職員）が出身国を紹介するイベント”BOM”を月に一度ランチタイムに開催しています。9月は対面での開催です。英語によるフリーチャットや留学生によるプレゼンテーションをお楽しみください。
-
-今月のオンサイト開催は、NipCAフェロー2023　ハサノヴァ・ナルギズさんがアゼルバイジャン共和国の紹介をしてくれます。
-
-…]]></description>
         </item>
         <item>
             <title><![CDATA[（9/25・申込者多数）第4回博士のポートフォリオ大公開+ロールモデル懇談会]]></title>
@@ -257,6 +244,16 @@ Through this project, we will col…]]></description>
             <guid>4b60a1000335b500412c492e6c54d1b4</guid>
             <pubDate>Mon, 02 Sep 2024 03:00:00 GMT</pubDate>
             <description><![CDATA[The fall welcome event for international students "Tsuku・Koi" is making a comeback! There will be various student groups booth, fun activities and performances at the University Hall! Any student at t…]]></description>
+        </item>
+        <item>
+            <title><![CDATA[BHE主催就活支援企画　9月面接・GD練習会]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5393</link>
+            <guid>b1562959e268e79d36513008f06b4990</guid>
+            <pubDate>Mon, 02 Sep 2024 03:00:00 GMT</pubDate>
+            <description><![CDATA[就活に即役立つ、面接・GD練習会です。対面でもオンラインでも開催します。
+対面面接編ではビジネスマナーも学ぶことができます。
+就活中の方、ISの選考を受ける方だけでなく、低学年の皆さんの参加も大歓迎！「面接ってどんな感じ？」、「グループディスカッションってどんな話をすればいいの？」などちょっと知りたいという方もぜひどうぞ。
+BHEキャリア支援チームのファシリテーターからフィードバックがあります。（…]]></description>
         </item>
     </channel>
 </rss>
