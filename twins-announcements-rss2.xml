@@ -4,10 +4,20 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Wed, 18 Sep 2024 05:02:03 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 18 Sep 2024 07:01:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
+        <item>
+            <title><![CDATA[【開催案内】産業競争力強化のための戦略人材（標準化人材）教育パイロットプログラム]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5425</link>
+            <guid>d210ef114f7f835f518bb7bdabce3ce4</guid>
+            <pubDate>Wed, 18 Sep 2024 03:00:00 GMT</pubDate>
+            <description><![CDATA[ビジネスサイエンス系（主に経営学・法学を専門とする教員組織）では、経済産業省・日本規格協会との連携の下、「産業競争力強化のための戦略人材（標準化人材）教育パイロットプログラム」を開講いたします。学生も参加可能ですので、御興味のある方は是非お申込みください。
+
+【受講期間】２０２４年１１月１日（金）～１２月６日（金）毎週金曜日１８：２０～２１：００ （全６回）
+第１回のみ講義の前に１８：００からオリ…]]></description>
+        </item>
         <item>
             <title><![CDATA[【開催：10/25（金）】（MDAセミナー）データサイエンスが支える金融ビジネス - マーケティングとリスク管理の現場 - 」]]></title>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5424</link>
@@ -238,24 +248,6 @@ Honjo Interna…]]></description>
 
 ・博士進学の決め手
 ・博士時代の困難や、そ…]]></description>
-        </item>
-        <item>
-            <title><![CDATA[（BHE）Teams内 情報発信チームのご案内]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5398</link>
-            <guid>db21767d2c3d07188004ce652a974e31</guid>
-            <pubDate>Tue, 03 Sep 2024 03:00:00 GMT</pubDate>
-            <description><![CDATA[キャリア支援チームに日々届く、企業・自治体・学校からの求人情報や
-インターンシップ情報を発信しています。
-卒業年度別、進路志望別に就活に役立つ情報をタイムリーに掲載します。
-チームに参加して皆さんの就活に役立ててください。
-
-【参加方法】
-チーム名「BHEキャリア支援チーム　情報発信」
-以下のリンクから参加してください。
-
-【掲載情報例】
-（カテゴリー）
-企業（25卒向け・26卒向け）、教員、公務…]]></description>
         </item>
     </channel>
 </rss>

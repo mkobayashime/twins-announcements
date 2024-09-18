@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "d210ef114f7f835f518bb7bdabce3ce4",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5425",
+            "title": "【開催案内】産業競争力強化のための戦略人材（標準化人材）教育パイロットプログラム",
+            "summary": "ビジネスサイエンス系（主に経営学・法学を専門とする教員組織）では、経済産業省・日本規格協会との連携の下、「産業競争力強化のための戦略人材（標準化人材）教育パイロットプログラム」を開講いたします。学生も参加可能ですので、御興味のある方は是非お申込みください。\n\n【受講期間】２０２４年１１月１日（金）～１２月６日（金）毎週金曜日１８：２０～２１：００ （全６回）\n第１回のみ講義の前に１８：００からオリ…",
+            "date_modified": "2024-09-18T03:00:00.000Z"
+        },
+        {
             "id": "2579647ca19cb8050083db7c7eb9dd21",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5424",
             "title": "【開催：10/25（金）】（MDAセミナー）データサイエンスが支える金融ビジネス - マーケティングとリスク管理の現場 - 」",
@@ -136,13 +143,6 @@
             "title": "（大学院に興味のある方向け）第4回博士のポートフォリオ大公開+ロールモデル懇談会",
             "summary": "　ヒューマンエンパワーメント推進局（BHE）では、筑波大学に所属する全学群生・大学院生を対象に、\n多様な学生のキャリア形成に対する視野を開くこと、また、博士進学後のキャリアパスをクリアにすることを目的として、令和6年度第4回博士のポートフォリオ大公開+ロールモデル懇談会を開催します。\n気になってることを筑波大学で博士号を取得した方に質問してみませんか？\n\n・博士進学の決め手\n・博士時代の困難や、そ…",
             "date_modified": "2024-09-04T03:00:00.000Z"
-        },
-        {
-            "id": "db21767d2c3d07188004ce652a974e31",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5398",
-            "title": "（BHE）Teams内 情報発信チームのご案内",
-            "summary": "キャリア支援チームに日々届く、企業・自治体・学校からの求人情報や\nインターンシップ情報を発信しています。\n卒業年度別、進路志望別に就活に役立つ情報をタイムリーに掲載します。\nチームに参加して皆さんの就活に役立ててください。\n\n【参加方法】\nチーム名「BHEキャリア支援チーム　情報発信」\n以下のリンクから参加してください。\n\n【掲載情報例】\n（カテゴリー）\n企業（25卒向け・26卒向け）、教員、公務…",
-            "date_modified": "2024-09-03T03:00:00.000Z"
         }
     ]
 }
