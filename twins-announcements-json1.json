@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "2e1eb20395c64ae165886ca65dd85c22",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5419",
+            "title": "【協力のお願い】「筑波大学」・「筑波大学スポーツ」に対するイメージについてのアンケート",
+            "summary": "このたび体育スポーツ局では、今後の取り組みに活かしていくため、皆さまの声をお伺いするアンケートを実施いたします。\n\n「筑波大学」「筑波大学スポーツ」それぞれに対するイメージをお聞かせください。\n\n体育スポーツ局は50周年に新たに設立され、本学が50周年事業にて掲げた「DESIGN THE FUTURE, TOGETHER.ーともに拓く未来ー」を体現していきたいと考えております。\n”皆様をはじめとす…",
+            "date_modified": "2024-09-18T03:00:00.000Z"
+        },
+        {
             "id": "819463c8e08a3125c3178d0e669bd319",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5418",
             "title": "（BHE)公務員内定者と話そう！　10月9日 学内「公務員内定者懇談会」",
@@ -135,13 +142,6 @@
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5394",
             "title": "【Fall Welcome Event / 秋新歓イベント】Tsuku・Koi 2024 開催のお知らせ",
             "summary": "The fall welcome event for international students \"Tsuku・Koi\" is making a comeback! There will be various student groups booth, fun activities and performances at the University Hall! Any student at t…",
-            "date_modified": "2024-09-02T03:00:00.000Z"
-        },
-        {
-            "id": "b1562959e268e79d36513008f06b4990",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5393",
-            "title": "BHE主催就活支援企画　9月面接・GD練習会",
-            "summary": "就活に即役立つ、面接・GD練習会です。対面でもオンラインでも開催します。\n対面面接編ではビジネスマナーも学ぶことができます。\n就活中の方、ISの選考を受ける方だけでなく、低学年の皆さんの参加も大歓迎！「面接ってどんな感じ？」、「グループディスカッションってどんな話をすればいいの？」などちょっと知りたいという方もぜひどうぞ。\nBHEキャリア支援チームのファシリテーターからフィードバックがあります。（…",
             "date_modified": "2024-09-02T03:00:00.000Z"
         }
     ]
