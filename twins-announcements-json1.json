@@ -5,6 +5,20 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "a8e7c0fc0d9a627aeb434e605c276a7c",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5422",
+            "title": "(茗渓会）10月ぶっちゃけ相談会　特集テーマ 「金融業界」",
+            "summary": "毎月2名のOBOGが登壇し、ご自身のキャリアについて話をしてくださいます。\nみなさんが卒業した後に、どんなキャリア（人生、仕事、就職）を歩むのか？\n考えるきっかけとして、少し先に卒業した先輩が、何を考え、どう決断したのかを聞いてみてください。\nこれから就活が始まる方、卒業後の進路やキャリアに悩んでいる方、\nこれからの大学生活をどう過ごそうか考えている方、\nぜひ、先輩に質問してみてください。\n\n【参…",
+            "date_modified": "2024-09-18T03:00:00.000Z"
+        },
+        {
+            "id": "266ce1d5ec80c6ff164fe9dee67aa12f",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5420",
+            "title": "(BHE)9月27日開催　オンライン面接練習会のご案内",
+            "summary": "就活に即役立つ、面接練習会です。\n就活中の方、ISの選考を受ける方だけでなく、低学年の皆さんの参加も大歓迎！「面接ってどんな感じ？」、「これから初めてオンライン面接を受ける」など、ちょっと知りたいという方もぜひどうぞ。\nBHEキャリア支援チームのファシリテーターからフィードバックがあります。（日本語での開催です）\n\n＜オンライン＞\n日にち：令和６年9月27日（金）\n時間：集団面接編　10：00-1…",
+            "date_modified": "2024-09-18T03:00:00.000Z"
+        },
+        {
             "id": "2e1eb20395c64ae165886ca65dd85c22",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5419",
             "title": "【協力のお願い】「筑波大学」・「筑波大学スポーツ」に対するイメージについてのアンケート",
@@ -128,20 +142,6 @@
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5396",
             "title": "【事前参加登録〆切：9/13（金）】人文社会科学研究群オンライン説明会〔（9/21（土）〕開催のお知らせ",
             "summary": "人文社会科学研究群各学位プログラムへ進学を検討されている方や興味をお持ちの方は是非ご参加ください。\n\n日　　時：2024年9月21日（土）10:00～12:00\n開催方法：Web会議システムZoomウェビナー及びZoomミーティング（事前参加登録制）\n参加登録期間：8月30日（金）～9月13日（金）\n参加登録方法：以下のURLよりご確認ください。\n\n内　　容：人文社会科学研究群についての説明\n　　…",
-            "date_modified": "2024-09-02T03:00:00.000Z"
-        },
-        {
-            "id": "0f8e15007332d1fc4af2aebfd6dc785b",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5395",
-            "title": "リユース品の配布/Distribution of reusable items",
-            "summary": "スチューデントサポートセンターでは、”RECYCLING PROJECT”\nとして、「まだ使用できる不用品」を回収し、新学期に新入生をはじめとした学生へ、無料譲渡するプロジェクトを実施します。\n\nStudent Support Center Office is organizing the “RECYCLING PROJECT”.\nThrough this project, we will col…",
-            "date_modified": "2024-09-02T03:00:00.000Z"
-        },
-        {
-            "id": "4b60a1000335b500412c492e6c54d1b4",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5394",
-            "title": "【Fall Welcome Event / 秋新歓イベント】Tsuku・Koi 2024 開催のお知らせ",
-            "summary": "The fall welcome event for international students \"Tsuku・Koi\" is making a comeback! There will be various student groups booth, fun activities and performances at the University Hall! Any student at t…",
             "date_modified": "2024-09-02T03:00:00.000Z"
         }
     ]

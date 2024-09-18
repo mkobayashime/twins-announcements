@@ -2,10 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/mkobayashime/twins-announcements</id>
     <title>在学生へのお知らせ | 筑波大学</title>
-    <updated>2024-09-18T01:28:28.415Z</updated>
+    <updated>2024-09-18T04:02:12.839Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://github.com/mkobayashime/twins-announcements"/>
     <subtitle>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</subtitle>
+    <entry>
+        <title type="html"><![CDATA[(茗渓会）10月ぶっちゃけ相談会　特集テーマ 「金融業界」]]></title>
+        <id>a8e7c0fc0d9a627aeb434e605c276a7c</id>
+        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5422"/>
+        <updated>2024-09-18T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[毎月2名のOBOGが登壇し、ご自身のキャリアについて話をしてくださいます。
+みなさんが卒業した後に、どんなキャリア（人生、仕事、就職）を歩むのか？
+考えるきっかけとして、少し先に卒業した先輩が、何を考え、どう決断したのかを聞いてみてください。
+これから就活が始まる方、卒業後の進路やキャリアに悩んでいる方、
+これからの大学生活をどう過ごそうか考えている方、
+ぜひ、先輩に質問してみてください。
+
+【参…]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[(BHE)9月27日開催　オンライン面接練習会のご案内]]></title>
+        <id>266ce1d5ec80c6ff164fe9dee67aa12f</id>
+        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5420"/>
+        <updated>2024-09-18T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[就活に即役立つ、面接練習会です。
+就活中の方、ISの選考を受ける方だけでなく、低学年の皆さんの参加も大歓迎！「面接ってどんな感じ？」、「これから初めてオンライン面接を受ける」など、ちょっと知りたいという方もぜひどうぞ。
+BHEキャリア支援チームのファシリテーターからフィードバックがあります。（日本語での開催です）
+
+＜オンライン＞
+日にち：令和６年9月27日（金）
+時間：集団面接編　10：00-1…]]></summary>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【協力のお願い】「筑波大学」・「筑波大学スポーツ」に対するイメージについてのアンケート]]></title>
         <id>2e1eb20395c64ae165886ca65dd85c22</id>
@@ -236,23 +263,5 @@ RAITO KOGYO Grant-type…]]></summary>
 
 内　　容：人文社会科学研究群についての説明
 　　…]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[リユース品の配布/Distribution of reusable items]]></title>
-        <id>0f8e15007332d1fc4af2aebfd6dc785b</id>
-        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5395"/>
-        <updated>2024-09-02T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[スチューデントサポートセンターでは、”RECYCLING PROJECT”
-として、「まだ使用できる不用品」を回収し、新学期に新入生をはじめとした学生へ、無料譲渡するプロジェクトを実施します。
-
-Student Support Center Office is organizing the “RECYCLING PROJECT”.
-Through this project, we will col…]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【Fall Welcome Event / 秋新歓イベント】Tsuku・Koi 2024 開催のお知らせ]]></title>
-        <id>4b60a1000335b500412c492e6c54d1b4</id>
-        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5394"/>
-        <updated>2024-09-02T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[The fall welcome event for international students "Tsuku・Koi" is making a comeback! There will be various student groups booth, fun activities and performances at the University Hall! Any student at t…]]></summary>
     </entry>
 </feed>
