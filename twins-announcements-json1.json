@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "11b6e6fdfe6b172668bfad580b33ec6b",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5427",
+            "title": "【保健管理センター】インフルエンザワクチン接種、今年もやります。",
+            "summary": "今年度もインフルエンザのワクチン接種を行います。\n接種を希望される方は、以下の予約ページより事前にご予約をお願いします。\n\n　予約開始　：　令和６年９月２６日（木）１９：００頃～\n　接種期間　：　令和６年１０月４日（金）～\n　対　　象　：　筑波大学 学生・職員（本学の学生証または、職員証がある方）\n　料　　金　：　３，０００円\n\n　※接種当日は「インフルエンザHAワクチン予防接種予診票」をご記入の…",
+            "date_modified": "2024-09-19T03:00:00.000Z"
+        },
+        {
             "id": "7a9b01b19be73cc89a24e7501dfc664d",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5426",
             "title": "[Notice] 安全保障輸出管理のための誓約書提出のお願いRequest for Submission of Pledge for Security Export Control",
@@ -135,13 +142,6 @@
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5402",
             "title": "公益財団法人　本庄国際奨学財団 　2025年度(春採用)",
             "summary": "公益財団法人　本庄国際奨学財団 　2025年度(春採用)\n応募期間：2024年9月2日～10月31日\n提出先　：財団事務局へ直接応募　(オンライン申請)\n募集要項：（PDF(資料1)）\n応募フォーム・必要書類一式：https://entry.hisf.or.jp\n※この奨学金を受給する者は、2025年度の大学推薦奨学金の申請資格がありません。\n※日本語能力が必要です。\n\nHonjo Interna…",
-            "date_modified": "2024-09-05T03:00:00.000Z"
-        },
-        {
-            "id": "e3fba79168087f6b18be90bf006beebf",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5401",
-            "title": "TGSW2024開催のお知らせ ～参加登録受付中～/The registration form for TGSW2024 is now open",
-            "summary": "TGSWは、世界各国のベテランから若手まで、幅広い世代の研究者が筑波研究学園都市に会し、国や研究領域を超えた議論を行う筑波大学主催の国際会議です。通算13回目の開催となる TGSW2024 は、オンライン形式と対面形式（ハイブリッド形式含む）により様々なセッションを実施します。どなたでも参加可能です。皆様のご参加をお待ちしています。\n日時：令和6年9 月30 日(月)～10月4 日（金）※9月30…",
             "date_modified": "2024-09-05T03:00:00.000Z"
         }
     ]
