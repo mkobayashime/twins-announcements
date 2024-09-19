@@ -4,10 +4,20 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Wed, 18 Sep 2024 21:06:58 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 19 Sep 2024 01:28:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
+        <item>
+            <title><![CDATA[[Notice] 安全保障輸出管理のための誓約書提出のお願いRequest for Submission of Pledge for Security Export Control]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5426</link>
+            <guid>7a9b01b19be73cc89a24e7501dfc664d</guid>
+            <pubDate>Thu, 19 Sep 2024 03:00:00 GMT</pubDate>
+            <description><![CDATA[2024年度大学院修了予定者（退学等を含む）の皆様へ
+To prospective graduate school graduates in AY2024 (including those who will withdraw)
+大学院修了にあたり、外国為替及び外国貿易法遵守の”誓約書（修了時）”提出をお願いしております。ご理解とご協力をよろしくお願いいたします
+In order to comply…]]></description>
+        </item>
         <item>
             <title><![CDATA[【開催案内】産業競争力強化のための戦略人材（標準化人材）教育パイロットプログラム]]></title>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5425</link>
@@ -236,18 +246,6 @@ Honjo Interna…]]></description>
             <pubDate>Thu, 05 Sep 2024 03:00:00 GMT</pubDate>
             <description><![CDATA[TGSWは、世界各国のベテランから若手まで、幅広い世代の研究者が筑波研究学園都市に会し、国や研究領域を超えた議論を行う筑波大学主催の国際会議です。通算13回目の開催となる TGSW2024 は、オンライン形式と対面形式（ハイブリッド形式含む）により様々なセッションを実施します。どなたでも参加可能です。皆様のご参加をお待ちしています。
 日時：令和6年9 月30 日(月)～10月4 日（金）※9月30…]]></description>
-        </item>
-        <item>
-            <title><![CDATA[（大学院に興味のある方向け）第4回博士のポートフォリオ大公開+ロールモデル懇談会]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5399</link>
-            <guid>d418afd1f3692006526a247d426346ce</guid>
-            <pubDate>Wed, 04 Sep 2024 03:00:00 GMT</pubDate>
-            <description><![CDATA[　ヒューマンエンパワーメント推進局（BHE）では、筑波大学に所属する全学群生・大学院生を対象に、
-多様な学生のキャリア形成に対する視野を開くこと、また、博士進学後のキャリアパスをクリアにすることを目的として、令和6年度第4回博士のポートフォリオ大公開+ロールモデル懇談会を開催します。
-気になってることを筑波大学で博士号を取得した方に質問してみませんか？
-
-・博士進学の決め手
-・博士時代の困難や、そ…]]></description>
         </item>
     </channel>
 </rss>

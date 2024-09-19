@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "7a9b01b19be73cc89a24e7501dfc664d",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5426",
+            "title": "[Notice] 安全保障輸出管理のための誓約書提出のお願いRequest for Submission of Pledge for Security Export Control",
+            "summary": "2024年度大学院修了予定者（退学等を含む）の皆様へ\nTo prospective graduate school graduates in AY2024 (including those who will withdraw)\n大学院修了にあたり、外国為替及び外国貿易法遵守の”誓約書（修了時）”提出をお願いしております。ご理解とご協力をよろしくお願いいたします\nIn order to comply…",
+            "date_modified": "2024-09-19T03:00:00.000Z"
+        },
+        {
             "id": "d210ef114f7f835f518bb7bdabce3ce4",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5425",
             "title": "【開催案内】産業競争力強化のための戦略人材（標準化人材）教育パイロットプログラム",
@@ -136,13 +143,6 @@
             "title": "TGSW2024開催のお知らせ ～参加登録受付中～/The registration form for TGSW2024 is now open",
             "summary": "TGSWは、世界各国のベテランから若手まで、幅広い世代の研究者が筑波研究学園都市に会し、国や研究領域を超えた議論を行う筑波大学主催の国際会議です。通算13回目の開催となる TGSW2024 は、オンライン形式と対面形式（ハイブリッド形式含む）により様々なセッションを実施します。どなたでも参加可能です。皆様のご参加をお待ちしています。\n日時：令和6年9 月30 日(月)～10月4 日（金）※9月30…",
             "date_modified": "2024-09-05T03:00:00.000Z"
-        },
-        {
-            "id": "d418afd1f3692006526a247d426346ce",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5399",
-            "title": "（大学院に興味のある方向け）第4回博士のポートフォリオ大公開+ロールモデル懇談会",
-            "summary": "　ヒューマンエンパワーメント推進局（BHE）では、筑波大学に所属する全学群生・大学院生を対象に、\n多様な学生のキャリア形成に対する視野を開くこと、また、博士進学後のキャリアパスをクリアにすることを目的として、令和6年度第4回博士のポートフォリオ大公開+ロールモデル懇談会を開催します。\n気になってることを筑波大学で博士号を取得した方に質問してみませんか？\n\n・博士進学の決め手\n・博士時代の困難や、そ…",
-            "date_modified": "2024-09-04T03:00:00.000Z"
         }
     ]
 }
