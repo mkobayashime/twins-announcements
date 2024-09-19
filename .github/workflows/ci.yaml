@@ -4,7 +4,6 @@ name: CI
 
 env:
   TZ: Asia/Tokyo
-  MAKE_YARN_FROZEN_LOCKFILE: 1
 
 jobs:
   lint:
@@ -12,10 +11,12 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
+      - uses: pnpm/action-setup@v4
       - uses: actions/setup-node@v4
         with:
           node-version: "lts/*"
-          cache: "yarn"
+          cache: "pnpm"
+      - run: make node_modules
       - run: make lint
       - run: make typecheck
   run:
@@ -28,7 +29,9 @@ jobs:
       FEED_ITEMS_NUMBER: 2
     steps:
       - uses: actions/checkout@v4
+      - uses: pnpm/action-setup@v4
       - uses: actions/setup-node@v4
         with:
           node-version: "lts/*"
+      - run: make node_modules
       - run: make run

@@ -1,13 +1,9 @@
-biome = yarn run biome
-typecheck = yarn run tsc --noEmit
-ts-node = yarn run tsx
+biome = pnpm exec biome
+typecheck = pnpm exec tsc --noEmit
+ts-node = pnpm exec tsx
 
-node_modules: package.json yarn.lock
-ifeq ($(MAKE_YARN_FROZEN_LOCKFILE), 1)
-	yarn install --frozen-lockfile
-else
-	yarn install
-endif
+node_modules: package.json pnpm-*.yaml
+	pnpm install
 	@touch node_modules
 
 run: node_modules PHONY
@@ -26,6 +22,6 @@ typecheck.watch: node_modules PHONY
 	$(typecheck) --watch
 
 clear: node_modules PHONY
-	yarn rimraf dist
+	pnpm exec rimraf dist
 
 PHONY:

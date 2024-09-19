@@ -23,10 +23,11 @@ jobs:
         with:
           ref: dist
           path: dist
-      - name: Use Node.js
-        uses: actions/setup-node@v4
+      - uses: pnpm/action-setup@v4
+      - uses: actions/setup-node@v4
         with:
           node-version: "lts/*"
+      - run: make node_modules
       - name: Run
         run: make run
       - name: Deploy
