@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "734abb734e6c14e87251932fffe41702",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5428",
+            "title": "（9/25・締切直前）第4回博士のポートフォリオ大公開+ロールモデル懇談会",
+            "summary": "ヒューマンエンパワーメント推進局（BHE）では、筑波大学に所属する全学群生・大学院生を対象に、\n多様な学生のキャリア形成に対する視野を開くこと、また、博士進学後のキャリアパスをクリアにすることを目的として、令和6年度第4回博士のポートフォリオ大公開+ロールモデル懇談会を開催します。\n\n・博士課程に進学したきっかけや当時の悩み、決断の決め手\n・博士時代に経験してよかったこと\n・筑波大学の博士の特徴　…",
+            "date_modified": "2024-09-19T03:00:00.000Z"
+        },
+        {
             "id": "11b6e6fdfe6b172668bfad580b33ec6b",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5427",
             "title": "【保健管理センター】インフルエンザワクチン接種、今年もやります。",
@@ -135,13 +142,6 @@
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5403",
             "title": "自己理解ワークショップ～こんなお悩みはありませんか～",
             "summary": "あなたは自分のことを理解できていますか？\n自分自身の苦手なことや困りごとに対する工夫・対処法・他者に求めたい協力について少人数で話し合いながら考える講座で個人ワークやグループワークを中心に進めて行きます。\nこのイベントはBHE主催のもと、パーソルダイバースのコミュニケーション・サポート・プログラム(CSP)の第2弾となります。\n\n♦日常生活や学校生活で困り感があり、もやもやを抱えている\n♦苦手や困…",
-            "date_modified": "2024-09-05T03:00:00.000Z"
-        },
-        {
-            "id": "57587a97e1e5996fcd31d8a36474b05e",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5402",
-            "title": "公益財団法人　本庄国際奨学財団 　2025年度(春採用)",
-            "summary": "公益財団法人　本庄国際奨学財団 　2025年度(春採用)\n応募期間：2024年9月2日～10月31日\n提出先　：財団事務局へ直接応募　(オンライン申請)\n募集要項：（PDF(資料1)）\n応募フォーム・必要書類一式：https://entry.hisf.or.jp\n※この奨学金を受給する者は、2025年度の大学推薦奨学金の申請資格がありません。\n※日本語能力が必要です。\n\nHonjo Interna…",
             "date_modified": "2024-09-05T03:00:00.000Z"
         }
     ]
