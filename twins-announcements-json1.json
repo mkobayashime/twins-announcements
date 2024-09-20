@@ -5,6 +5,20 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "58ad1a266ff27a06515ed54352f40c31",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5430",
+            "title": "筑波大学大学院人文学学位プログラム【英語教育学SP】進学相談会について",
+            "summary": "各位\n\n博士前期課程・後期課程（修士／博士）フォーラム＆進学相談会に\nついてお知らせいたします。詳細は添付ファイルにてご確認ください。\nご参加お待ちしております。\n\n202４年度第２回フォーラム & 大学院進学相談会\n202４年１０月１２日（土）1０:00～1２:00\n開催方法：Zoom によるオンライン開催（事前参加登録制）\n　　　　　　　\n英語教育学サブプログラムでは、動機づけ研究の第一人者 …",
+            "date_modified": "2024-09-20T03:00:00.000Z"
+        },
+        {
+            "id": "bf03b5e10b6d22a88c496c7ff5145f22",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5429",
+            "title": "【学生ボランティア募集】雙峰祭への出展（11月2日、3日、4日）",
+            "summary": "ヒューマンエンパワーメント推進局（BHE）は、2024年11月3日（日）・4日（月）に開催される雙峰祭にて、学生と共同でジェンダー・セクシュアリティに関する企画の出展を行います。\nそこで、出展の手伝いをお願いできる学生ボランティアを募集します。\n特にBHEの取組に興味がある方や、ジェンダー・セクシュアリティに関する企画に参加してみたい、という方はぜひお申込みください！\n\n＜募集概要＞\n日時：202…",
+            "date_modified": "2024-09-20T03:00:00.000Z"
+        },
+        {
             "id": "734abb734e6c14e87251932fffe41702",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5428",
             "title": "（9/25・締切直前）第4回博士のポートフォリオ大公開+ロールモデル懇談会",
@@ -129,20 +143,6 @@
             "title": "(BHE)9月11日開催　面接・GD練習会のご案内",
             "summary": "就活に即役立つ、面接・GD練習会です。\n対面でもオンラインでも開催します。\n対面面接編ではビジネスマナーも学ぶことができます。\n就活中の方、ISの選考を受ける方だけでなく、低学年の皆さんの参加も大歓迎！「面接ってどんな感じ？」、「グループディスカッションってどんな話をすればいいの？」などちょっと知りたいという方もぜひどうぞ。\nBHEキャリア支援チームのファシリテーターからフィードバックがあります。…",
             "date_modified": "2024-09-09T03:00:00.000Z"
-        },
-        {
-            "id": "2476b3cdf3a12455f20ee04a20f338df",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5405",
-            "title": "【参加者募集中】公務員内定者懇談会",
-            "summary": "今年度の公務員試験内定者による内定者懇談会です。\n受験体験談と共に、公務員試験の制度・対策・併願先等の理解を深めたり、受験にあたって準備すべきことを学ぶことができます。\n志望別に少人数に分かれての質疑応答の時間もあります\n公務員試験受験予定の方や公務員に興味のある方はもちろん、今まで公務員を考えたことがなかった方も、\nまずは実際に試験を経験した先輩達のお話を聞いてみませんか。\n\n＜日時＞10月9日…",
-            "date_modified": "2024-09-06T03:00:00.000Z"
-        },
-        {
-            "id": "a53675696486fbf32cfb99be58e522dc",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5403",
-            "title": "自己理解ワークショップ～こんなお悩みはありませんか～",
-            "summary": "あなたは自分のことを理解できていますか？\n自分自身の苦手なことや困りごとに対する工夫・対処法・他者に求めたい協力について少人数で話し合いながら考える講座で個人ワークやグループワークを中心に進めて行きます。\nこのイベントはBHE主催のもと、パーソルダイバースのコミュニケーション・サポート・プログラム(CSP)の第2弾となります。\n\n♦日常生活や学校生活で困り感があり、もやもやを抱えている\n♦苦手や困…",
-            "date_modified": "2024-09-05T03:00:00.000Z"
         }
     ]
 }
