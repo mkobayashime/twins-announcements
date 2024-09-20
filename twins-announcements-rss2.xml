@@ -4,10 +4,21 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Fri, 20 Sep 2024 09:07:59 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 20 Sep 2024 11:01:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
+        <item>
+            <title><![CDATA[筑波大学 Open Facility Week 2024開催のお知らせ(10/21-25)※申込締切10/14]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5431</link>
+            <guid>27f51fb38f6f70958dc2412936986273</guid>
+            <pubDate>Fri, 20 Sep 2024 03:00:00 GMT</pubDate>
+            <description><![CDATA[オープンファシリティー推進機構では、教育研究を効率的に推進するため、440台以上の研究機器を
+オープンファシリティーシステムに登録し、設備の有効活用に伴う利用サポートを実施いたしております。
+この度、10月21日（月）から10月25日（金）までの期間を機器共用促進の重点実施期間として、
+「筑波大学オープンファシリティーウィーク2024」を下記のとおり、開催することとなりましたので、
+ご案内申し上げ…]]></description>
+        </item>
         <item>
             <title><![CDATA[筑波大学大学院人文学学位プログラム【英語教育学SP】進学相談会について]]></title>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5430</link>
@@ -243,17 +254,6 @@ DSEP/DSEP+の概要、カリキュラム・履修要件、MDA開設科目、共�
 ※奨学金のオンライン説明会（第1回）が2024年9月13日（金）に開催されます。
 　参加を希望する場合は、財団HPから直接申込をしてください。
 　説明会は英語…]]></description>
-        </item>
-        <item>
-            <title><![CDATA[(BHE)9月11日開催　面接・GD練習会のご案内]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5408</link>
-            <guid>c5291654e443ecc81b55582639101554</guid>
-            <pubDate>Mon, 09 Sep 2024 03:00:00 GMT</pubDate>
-            <description><![CDATA[就活に即役立つ、面接・GD練習会です。
-対面でもオンラインでも開催します。
-対面面接編ではビジネスマナーも学ぶことができます。
-就活中の方、ISの選考を受ける方だけでなく、低学年の皆さんの参加も大歓迎！「面接ってどんな感じ？」、「グループディスカッションってどんな話をすればいいの？」などちょっと知りたいという方もぜひどうぞ。
-BHEキャリア支援チームのファシリテーターからフィードバックがあります。…]]></description>
         </item>
     </channel>
 </rss>

@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "27f51fb38f6f70958dc2412936986273",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5431",
+            "title": "筑波大学 Open Facility Week 2024開催のお知らせ(10/21-25)※申込締切10/14",
+            "summary": "オープンファシリティー推進機構では、教育研究を効率的に推進するため、440台以上の研究機器を\nオープンファシリティーシステムに登録し、設備の有効活用に伴う利用サポートを実施いたしております。\nこの度、10月21日（月）から10月25日（金）までの期間を機器共用促進の重点実施期間として、\n「筑波大学オープンファシリティーウィーク2024」を下記のとおり、開催することとなりましたので、\nご案内申し上げ…",
+            "date_modified": "2024-09-20T03:00:00.000Z"
+        },
+        {
             "id": "58ad1a266ff27a06515ed54352f40c31",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5430",
             "title": "筑波大学大学院人文学学位プログラム【英語教育学SP】進学相談会について",
@@ -135,13 +142,6 @@
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5409",
             "title": "The Toshizo Watanabe International Scholarship (by Pathways Japan) 2025",
             "summary": "渡邉利三国際奨学金（パスウェイズ・ジャパン）　奨学生募集（2025年度）\n※主な対象：難民、避難民\n応募期間：2024年10月28日(月)～2025年1月6日(月)\n財団HP：https://pathways-j.org/twis_2025\n※奨学金のオンライン説明会（第1回）が2024年9月13日（金）に開催されます。\n　参加を希望する場合は、財団HPから直接申込をしてください。\n　説明会は英語…",
-            "date_modified": "2024-09-09T03:00:00.000Z"
-        },
-        {
-            "id": "c5291654e443ecc81b55582639101554",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5408",
-            "title": "(BHE)9月11日開催　面接・GD練習会のご案内",
-            "summary": "就活に即役立つ、面接・GD練習会です。\n対面でもオンラインでも開催します。\n対面面接編ではビジネスマナーも学ぶことができます。\n就活中の方、ISの選考を受ける方だけでなく、低学年の皆さんの参加も大歓迎！「面接ってどんな感じ？」、「グループディスカッションってどんな話をすればいいの？」などちょっと知りたいという方もぜひどうぞ。\nBHEキャリア支援チームのファシリテーターからフィードバックがあります。…",
             "date_modified": "2024-09-09T03:00:00.000Z"
         }
     ]
