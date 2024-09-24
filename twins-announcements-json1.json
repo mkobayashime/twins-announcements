@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "13158948bed2aea7e9544f219c9ad012",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5438",
+            "title": "【再掲】自己理解ワークショップ～こんなお悩みはありませんか～",
+            "summary": "あなたは自分のことを理解できていますか？\n自分自身の苦手なことや困りごとに対する工夫・対処法・他者に求めたい協力について少人数で話し合いながら考える講座で個人ワークやグループワークを中心に進めて行きます。\nこのイベントはBHE主催のもと、パーソルダイバースのコミュニケーション・サポート・プログラム(CSP)の第2弾となります。\n\n♦日常生活や学校生活で困り感があり、もやもやを抱えている\n♦苦手や困…",
+            "date_modified": "2024-09-24T03:00:00.000Z"
+        },
+        {
             "id": "fa3a54af6b5a872c6880ec7d52c93410",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5437",
             "title": "（再掲）【10/2(水) 15:30～】令和6年度人文学類文化講演会「海の人類史　パイオニアたちの100万年」のご案内",
@@ -135,13 +142,6 @@
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5416",
             "title": "DSEP共同研究・研究留学の支援金公募 Call for Applications: DSEP Joint Research and Study Abroad Financial Support",
             "summary": "DSEPで開講しているMDA後期プロジェクト研究、MDA後期研究留学の科目は、前者は国内、後者は海外で共同研究やインターンシップ等を行っていただきます。\nそれらの支援金の公募を開始しました。\n\n[申請手順]\nDSEPに履修登録後、manabaのMDAコースのコンテンツの「MDA後期プロジェクト研究」「MDA後期研究留学」にあるそれぞれの申請書をmanabaのDSEP履修生用ページに提出\n　P-1：…",
-            "date_modified": "2024-09-12T03:00:00.000Z"
-        },
-        {
-            "id": "ac58c8223bea6c4b5c4f9e479cc2a9c3",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5415",
-            "title": "データサイエンス・エキスパート・プログラム(DSEP)履修説明会10/1(火)11:45 Data Science Expert Program(DSEP)Enrollment Orientation",
-            "summary": "DSEP履修説明会を開催します。\nDSEP/DSEP+の概要、カリキュラム・履修要件、MDA開設科目、共同研究費等・海外留学費の支援、企業等との学外連携活動等についてご説明します。\n博士後期課程以外の学生も歓迎です。\n\n[開催概要]\n日時：2024年10月1日(火)11:45～12:45　終了後、質疑・個別相談\n場所：第三エリア3A209(ハイブリッド開催)、春日7A208(第3エリアから配信)\n…",
             "date_modified": "2024-09-12T03:00:00.000Z"
         }
     ]
