@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/mkobayashime/twins-announcements</id>
     <title>在学生へのお知らせ | 筑波大学</title>
-    <updated>2024-09-25T09:07:12.495Z</updated>
+    <updated>2024-09-25T21:06:38.496Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://github.com/mkobayashime/twins-announcements"/>
     <subtitle>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</subtitle>
@@ -13,18 +13,6 @@
         <updated>2024-09-25T03:00:00.000Z</updated>
         <summary type="html"><![CDATA[The World-science Leaders’ Seminar is a part of classes in the Human Biology PhD program.
 Students attending this seminar will learn the basics and latest research trends in the specialties of the wor…]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【イベント終了/ the event is over】リユース品の配布/Distribution of reusable items]]></title>
-        <id>ee1593ff6fb39047d5e86eb7778a3f9a</id>
-        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5439"/>
-        <updated>2024-09-25T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[9/18 から行われていたリサイクリングプロジェクトですが、
-物品がなくなってしまったため本来より早めにイベントを終了いたします。
-皆さま、Student Commonsにお越しいただきありがとうございました。
-
-We have held the event called "Recycling Project" since 18th of September.
-But because the it…]]></summary>
     </entry>
     <entry>
         <title type="html"><![CDATA[【再掲】自己理解ワークショップ～こんなお悩みはありませんか～]]></title>
@@ -255,5 +243,14 @@ BHEキャリア支援チームのファシリテーターからフィードバ�
 まずは実際に試験を経験した先輩達のお話を聞いてみませんか。
 
 ＜日時＞…]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[世界を変えよう基金「時事問題を英語で読み書き話す勉強会」開催のお知らせ]]></title>
+        <id>cced7288c47c19b32c3ce1e88c76c8fc</id>
+        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5417"/>
+        <updated>2024-09-13T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[筑波大学「世界を変えよう基金」では、世界に重大な影響を与える時事問題について、英語ニュース（BBC, CNN, CGTN, Al Jazeera等）を題材に、アカデミック・エッセーまたはパワポ・スライドを作成し、英語で議論する勉強会（９０分程度）をZoomで開催します。勉強会では、英語のみ使用します(作成するパワポについては添付したサンプルを参照してください)。
+
+開催曜日・時間帯は参加者のスケジ…]]></summary>
     </entry>
 </feed>
