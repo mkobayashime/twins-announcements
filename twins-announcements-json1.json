@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "ee1593ff6fb39047d5e86eb7778a3f9a",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5439",
+            "title": "【イベント終了/ the event is over】リユース品の配布/Distribution of reusable items",
+            "summary": "9/18 から行われていたリサイクリングプロジェクトですが、\n物品がなくなってしまったため本来より早めにイベントを終了いたします。\n皆さま、Student Commonsにお越しいただきありがとうございました。\n\nWe have held the event called \"Recycling Project\" since 18th of September.\nBut because the it…",
+            "date_modified": "2024-09-25T03:00:00.000Z"
+        },
+        {
             "id": "13158948bed2aea7e9544f219c9ad012",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5438",
             "title": "【再掲】自己理解ワークショップ～こんなお悩みはありませんか～",
@@ -136,13 +143,6 @@
             "title": "世界を変えよう基金「時事問題を英語で読み書き話す勉強会」開催のお知らせ",
             "summary": "筑波大学「世界を変えよう基金」では、世界に重大な影響を与える時事問題について、英語ニュース（BBC, CNN, CGTN, Al Jazeera等）を題材に、アカデミック・エッセーまたはパワポ・スライドを作成し、英語で議論する勉強会（９０分程度）をZoomで開催します。勉強会では、英語のみ使用します(作成するパワポについては添付したサンプルを参照してください)。\n\n開催曜日・時間帯は参加者のスケジ…",
             "date_modified": "2024-09-13T03:00:00.000Z"
-        },
-        {
-            "id": "ddfa8f2cb904200718a7088106be8c6d",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5416",
-            "title": "DSEP共同研究・研究留学の支援金公募 Call for Applications: DSEP Joint Research and Study Abroad Financial Support",
-            "summary": "DSEPで開講しているMDA後期プロジェクト研究、MDA後期研究留学の科目は、前者は国内、後者は海外で共同研究やインターンシップ等を行っていただきます。\nそれらの支援金の公募を開始しました。\n\n[申請手順]\nDSEPに履修登録後、manabaのMDAコースのコンテンツの「MDA後期プロジェクト研究」「MDA後期研究留学」にあるそれぞれの申請書をmanabaのDSEP履修生用ページに提出\n　P-1：…",
-            "date_modified": "2024-09-12T03:00:00.000Z"
         }
     ]
 }

@@ -4,10 +4,22 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Tue, 24 Sep 2024 21:06:46 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 25 Sep 2024 05:01:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
+        <item>
+            <title><![CDATA[【イベント終了/ the event is over】リユース品の配布/Distribution of reusable items]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5439</link>
+            <guid>ee1593ff6fb39047d5e86eb7778a3f9a</guid>
+            <pubDate>Wed, 25 Sep 2024 03:00:00 GMT</pubDate>
+            <description><![CDATA[9/18 から行われていたリサイクリングプロジェクトですが、
+物品がなくなってしまったため本来より早めにイベントを終了いたします。
+皆さま、Student Commonsにお越しいただきありがとうございました。
+
+We have held the event called "Recycling Project" since 18th of September.
+But because the it…]]></description>
+        </item>
         <item>
             <title><![CDATA[【再掲】自己理解ワークショップ～こんなお悩みはありませんか～]]></title>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5438</link>
@@ -246,18 +258,6 @@ BHEキャリア支援チームのファシリテーターからフィードバ�
             <description><![CDATA[筑波大学「世界を変えよう基金」では、世界に重大な影響を与える時事問題について、英語ニュース（BBC, CNN, CGTN, Al Jazeera等）を題材に、アカデミック・エッセーまたはパワポ・スライドを作成し、英語で議論する勉強会（９０分程度）をZoomで開催します。勉強会では、英語のみ使用します(作成するパワポについては添付したサンプルを参照してください)。
 
 開催曜日・時間帯は参加者のスケジ…]]></description>
-        </item>
-        <item>
-            <title><![CDATA[DSEP共同研究・研究留学の支援金公募 Call for Applications: DSEP Joint Research and Study Abroad Financial Support]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5416</link>
-            <guid>ddfa8f2cb904200718a7088106be8c6d</guid>
-            <pubDate>Thu, 12 Sep 2024 03:00:00 GMT</pubDate>
-            <description><![CDATA[DSEPで開講しているMDA後期プロジェクト研究、MDA後期研究留学の科目は、前者は国内、後者は海外で共同研究やインターンシップ等を行っていただきます。
-それらの支援金の公募を開始しました。
-
-[申請手順]
-DSEPに履修登録後、manabaのMDAコースのコンテンツの「MDA後期プロジェクト研究」「MDA後期研究留学」にあるそれぞれの申請書をmanabaのDSEP履修生用ページに提出
-　P-1：…]]></description>
         </item>
     </channel>
 </rss>
