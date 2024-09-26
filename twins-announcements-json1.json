@@ -5,6 +5,41 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "b29767a1a91a795d23c4799c9f233500",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5447",
+            "title": "\"How to disseminate your doctoral thesis on the Internet\"",
+            "summary": "We'll hold an online seminar.\n\nThe doctoral thesis that you will submit to the University of Tsukuba upon obtaining your degree will be published on the Internet through the \"Tsukuba Repository\".\nThe …",
+            "date_modified": "2024-09-26T03:00:00.000Z"
+        },
+        {
+            "id": "f7a4b6ceab5ff5a11f923768e489b5f6",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5446",
+            "title": "オンライン講習会「博士論文インターネット公表の基礎知識」開催のお知らせ",
+            "summary": "以下の日程でオンライン講習会「博士論文インターネット公表の基礎知識」を 開催します。\n\n皆さんが学位取得時に提出する博士論文は、「つくばリポジトリ」からイン ターネット上に公開されます。\n博士論文を執筆する際の注意事項や、提出について、提出後の流れなどをリア ルタイム配信で説明します。\n実際に博士論文を執筆する大学院生だけでなく、指導・支援する教職員の皆さ まも是非ご参加ください。\n\n日時：\n(1…",
+            "date_modified": "2024-09-26T03:00:00.000Z"
+        },
+        {
+            "id": "e2d3315c74202c048ffc78735b05782f",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5445",
+            "title": "【周知】献血の実施について（10月7日実施）",
+            "summary": "日本赤十字社が学内に献血バスを配車して、以下のとおり献血を実施することとなりました。学生の皆さまのご協力をお願いいたします。\n\n日時：2024年10月7日（月）9：45～12：15、13：30～16：00\n場所：第三エリア食堂前\n",
+            "date_modified": "2024-09-26T03:00:00.000Z"
+        },
+        {
+            "id": "fc2b0942a7487e63fd45f9d8b9d7d536",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5444",
+            "title": "【お知らせ】グルノーブル・アルプ大学（UGA）主催　UGA PhD Forum　(Online – Nov. 14, 2024)",
+            "summary": "グルノーブル・アルプ大学（UGA）からオンラインフォーラムのお知らせがありました。\nジョイントディグリー学生をメインターゲットとしていますが、博士前期学生で、\nダブルディグリープログラムを検討している方、後期進学を考えている方も歓迎します。\n\n日時：11月14日　23:30~25:30（フランスとの時差のため深夜に開催されます）\n事前申し込みが必要です。\n詳細は、以下のスチューデントコモンズイベン…",
+            "date_modified": "2024-09-26T03:00:00.000Z"
+        },
+        {
+            "id": "01d0b3208df967eb3705430f4223ca02",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5443",
+            "title": "【お知らせ】グルノーブル・アルプ大学（UGA）主催UGA PhD Forum",
+            "summary": "グルノーブル・アルプ大学からオンラインフォーラムのお知らせがありました。\nジョイントディグリー学生をメインターゲットとしていますが、博士前期学生で、\nダブルディグリープログラムを検討している方、後期進学を考えている方も歓迎します。\n\n日時：11月14日　23:30~（フランスとの時差のため深夜に開催されます）\n事前申し込みが必要です。\n詳細は、以下のスチューデントコモンズイベント案内のサイトをご覧…",
+            "date_modified": "2024-09-26T03:00:00.000Z"
+        },
+        {
             "id": "8048109469684f6d40c4e634ed829701",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5442",
             "title": "カリフォルニア州立大学への交換留学（派遣）の募集について（2025年秋学期渡航分）",
@@ -108,41 +143,6 @@
             "title": "[Notice] 安全保障輸出管理のための誓約書提出のお願いRequest for Submission of Pledge for Security Export Control",
             "summary": "2024年度大学院修了予定者（退学等を含む）の皆様へ\nTo prospective graduate school graduates in AY2024 (including those who will withdraw)\n大学院修了にあたり、外国為替及び外国貿易法遵守の”誓約書（修了時）”提出をお願いしております。ご理解とご協力をよろしくお願いいたします\nIn order to comply…",
             "date_modified": "2024-09-19T03:00:00.000Z"
-        },
-        {
-            "id": "d210ef114f7f835f518bb7bdabce3ce4",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5425",
-            "title": "【開催案内】産業競争力強化のための戦略人材（標準化人材）教育パイロットプログラム",
-            "summary": "ビジネスサイエンス系（主に経営学・法学を専門とする教員組織）では、経済産業省・日本規格協会との連携の下、「産業競争力強化のための戦略人材（標準化人材）教育パイロットプログラム」を開講いたします。学生も参加可能ですので、御興味のある方は是非お申込みください。\n\n【受講期間】２０２４年１１月１日（金）～１２月６日（金）毎週金曜日１８：２０～２１：００ （全６回）\n第１回のみ講義の前に１８：００からオリ…",
-            "date_modified": "2024-09-18T03:00:00.000Z"
-        },
-        {
-            "id": "2579647ca19cb8050083db7c7eb9dd21",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5424",
-            "title": "【開催：10/25（金）】（MDAセミナー）データサイエンスが支える金融ビジネス - マーケティングとリスク管理の現場 - 」",
-            "summary": "システム情報工学研究群、MDA教育推進室、情報学学位プログラム、高度情報専門人材育成事業の共催で、筑波大学所属の学生のみなさん、また 教職員の皆様を対象として、「MDAセミナー：データサイエンスが支える金融ビジネス— マーケティングとリスク管理の現場 —」を開催します。\n\n株式会社 浜銀総合研究所は、横浜銀行（コンコルディア・フィナンシャルグループ、東証プライム上場）系列のシンクタンクとして、先進…",
-            "date_modified": "2024-09-18T03:00:00.000Z"
-        },
-        {
-            "id": "e02d0d69d7212fb60dca8a1ffcf664e5",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5423",
-            "title": "就活セミナー「筑波＿卒業後を考える会」開催のお知らせ",
-            "summary": "筑波大学「世界を変えよう基金アカデミー」では、就活を終えた4年生が自らの経験を下級生に伝える「筑波＿卒業後を考える会」をZoomで毎年開催しています。\nガクチカ、インターン体験、就活対象先を絞り込んで最終内定先を選んだ過程等、\n就活中あるいはこれから就活を始める皆さんにとって興味深いテーマを取り上げていただきます。\n\n今年の日程は下記のとおりです。\n10/20(日)20:00~、スピーカー（国際5…",
-            "date_modified": "2024-09-18T03:00:00.000Z"
-        },
-        {
-            "id": "a8e7c0fc0d9a627aeb434e605c276a7c",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5422",
-            "title": "(茗渓会）10月ぶっちゃけ相談会　特集テーマ 「金融業界」",
-            "summary": "毎月2名のOBOGが登壇し、ご自身のキャリアについて話をしてくださいます。\nみなさんが卒業した後に、どんなキャリア（人生、仕事、就職）を歩むのか？\n考えるきっかけとして、少し先に卒業した先輩が、何を考え、どう決断したのかを聞いてみてください。\nこれから就活が始まる方、卒業後の進路やキャリアに悩んでいる方、\nこれからの大学生活をどう過ごそうか考えている方、\nぜひ、先輩に質問してみてください。\n\n【参…",
-            "date_modified": "2024-09-18T03:00:00.000Z"
-        },
-        {
-            "id": "266ce1d5ec80c6ff164fe9dee67aa12f",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5420",
-            "title": "(BHE)9月27日開催　オンライン面接練習会のご案内",
-            "summary": "就活に即役立つ、面接練習会です。\n就活中の方、ISの選考を受ける方だけでなく、低学年の皆さんの参加も大歓迎！「面接ってどんな感じ？」、「これから初めてオンライン面接を受ける」など、ちょっと知りたいという方もぜひどうぞ。\nBHEキャリア支援チームのファシリテーターからフィードバックがあります。（日本語での開催です）\n\n＜オンライン＞\n日にち：令和６年9月27日（金）\n時間：集団面接編　10：00-1…",
-            "date_modified": "2024-09-18T03:00:00.000Z"
         }
     ]
 }
