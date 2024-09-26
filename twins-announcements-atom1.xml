@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/mkobayashime/twins-announcements</id>
     <title>在学生へのお知らせ | 筑波大学</title>
-    <updated>2024-09-25T21:06:38.496Z</updated>
+    <updated>2024-09-26T01:28:37.886Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://github.com/mkobayashime/twins-announcements"/>
     <subtitle>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</subtitle>
+    <entry>
+        <title type="html"><![CDATA[（再掲）【学生ボランティア募集】雙峰祭への出展（11月2日、3日、4日）]]></title>
+        <id>8a4f6edd5e7c7a1b36793afb7a0acf81</id>
+        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5441"/>
+        <updated>2024-09-26T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[ヒューマンエンパワーメント推進局（BHE）は、2024年11月3日（日）・4日（月）に開催される雙峰祭にて、学生と共同でジェンダー・セクシュアリティに関する企画の出展を行います。
+そこで、出展の手伝いをお願いできる学生ボランティアを募集します。
+特にBHEの取組に興味がある方や、ジェンダー・セクシュアリティに関する企画に参加してみたい、という方はぜひお申込みください！
+
+＜募集概要＞
+日時：202…]]></summary>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【On-site】World-science Leaders’ Seminar for all students on September 30th (Mon) 2024 13:45-16:45]]></title>
         <id>ebc7ef724016e795e6e9c9ce211e1723</id>
@@ -243,14 +255,5 @@ BHEキャリア支援チームのファシリテーターからフィードバ�
 まずは実際に試験を経験した先輩達のお話を聞いてみませんか。
 
 ＜日時＞…]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[世界を変えよう基金「時事問題を英語で読み書き話す勉強会」開催のお知らせ]]></title>
-        <id>cced7288c47c19b32c3ce1e88c76c8fc</id>
-        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5417"/>
-        <updated>2024-09-13T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[筑波大学「世界を変えよう基金」では、世界に重大な影響を与える時事問題について、英語ニュース（BBC, CNN, CGTN, Al Jazeera等）を題材に、アカデミック・エッセーまたはパワポ・スライドを作成し、英語で議論する勉強会（９０分程度）をZoomで開催します。勉強会では、英語のみ使用します(作成するパワポについては添付したサンプルを参照してください)。
-
-開催曜日・時間帯は参加者のスケジ…]]></summary>
     </entry>
 </feed>
