@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "cea7184a7e0959f0f3e94b20bf2a18d3",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5449",
+            "title": "NHK内定者による座談会を開催します！",
+            "summary": "ヒューマンエンパワーメント推進局(BHE)キャリア支援チームです。\n本チームキャリアサポーターとして登録されている学生の有志企画についてお知らせします。\n----------\nこんにちは。BHEキャリアサポーターです。\n本学学生から高い人気を集める業界のひとつ＜テレビ業界＞について、なかなか情報交換できる機会は少ないですよね？\nこの業界について、また就職活動について、NHK内定者とNHK人事担当者…",
+            "date_modified": "2024-09-27T03:00:00.000Z"
+        },
+        {
             "id": "50b8a9bf8159f817fd67ddea1d8b34c7",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5448",
             "title": "【留学生向け奨学金】公益財団法人　伊藤国際教育交流財団（2025年度）",
@@ -135,13 +142,6 @@
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5427",
             "title": "【保健管理センター】インフルエンザワクチン接種、今年もやります。",
             "summary": "今年度もインフルエンザのワクチン接種を行います。\n接種を希望される方は、以下の予約ページより事前にご予約をお願いします。\n\n　予約開始　：　令和６年９月２６日（木）１９：００頃～\n　接種期間　：　令和６年１０月４日（金）～\n　対　　象　：　筑波大学 学生・職員（本学の学生証または、職員証がある方）\n　料　　金　：　３，０００円\n\n　※接種当日は「インフルエンザHAワクチン予防接種予診票」をご記入の…",
-            "date_modified": "2024-09-19T03:00:00.000Z"
-        },
-        {
-            "id": "7a9b01b19be73cc89a24e7501dfc664d",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5426",
-            "title": "[Notice] 安全保障輸出管理のための誓約書提出のお願いRequest for Submission of Pledge for Security Export Control",
-            "summary": "2024年度大学院修了予定者（退学等を含む）の皆様へ\nTo prospective graduate school graduates in AY2024 (including those who will withdraw)\n大学院修了にあたり、外国為替及び外国貿易法遵守の”誓約書（修了時）”提出をお願いしております。ご理解とご協力をよろしくお願いいたします\nIn order to comply…",
             "date_modified": "2024-09-19T03:00:00.000Z"
         }
     ]

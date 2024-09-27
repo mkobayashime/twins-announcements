@@ -4,10 +4,22 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Fri, 27 Sep 2024 09:07:09 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 27 Sep 2024 10:01:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
+        <item>
+            <title><![CDATA[NHK内定者による座談会を開催します！]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5449</link>
+            <guid>cea7184a7e0959f0f3e94b20bf2a18d3</guid>
+            <pubDate>Fri, 27 Sep 2024 03:00:00 GMT</pubDate>
+            <description><![CDATA[ヒューマンエンパワーメント推進局(BHE)キャリア支援チームです。
+本チームキャリアサポーターとして登録されている学生の有志企画についてお知らせします。
+----------
+こんにちは。BHEキャリアサポーターです。
+本学学生から高い人気を集める業界のひとつ＜テレビ業界＞について、なかなか情報交換できる機会は少ないですよね？
+この業界について、また就職活動について、NHK内定者とNHK人事担当者…]]></description>
+        </item>
         <item>
             <title><![CDATA[【留学生向け奨学金】公益財団法人　伊藤国際教育交流財団（2025年度）]]></title>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5448</link>
@@ -253,16 +265,6 @@ KiteKite…]]></description>
 　料　　金　：　３，０００円
 
 　※接種当日は「インフルエンザHAワクチン予防接種予診票」をご記入の…]]></description>
-        </item>
-        <item>
-            <title><![CDATA[[Notice] 安全保障輸出管理のための誓約書提出のお願いRequest for Submission of Pledge for Security Export Control]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5426</link>
-            <guid>7a9b01b19be73cc89a24e7501dfc664d</guid>
-            <pubDate>Thu, 19 Sep 2024 03:00:00 GMT</pubDate>
-            <description><![CDATA[2024年度大学院修了予定者（退学等を含む）の皆様へ
-To prospective graduate school graduates in AY2024 (including those who will withdraw)
-大学院修了にあたり、外国為替及び外国貿易法遵守の”誓約書（修了時）”提出をお願いしております。ご理解とご協力をよろしくお願いいたします
-In order to comply…]]></description>
         </item>
     </channel>
 </rss>
