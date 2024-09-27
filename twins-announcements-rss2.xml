@@ -4,10 +4,25 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Thu, 26 Sep 2024 21:06:33 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 27 Sep 2024 08:02:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
+        <item>
+            <title><![CDATA[【留学生向け奨学金】公益財団法人　伊藤国際教育交流財団（2025年度）]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5448</link>
+            <guid>50b8a9bf8159f817fd67ddea1d8b34c7</guid>
+            <pubDate>Fri, 27 Sep 2024 03:00:00 GMT</pubDate>
+            <description><![CDATA[公益財団法人　伊藤国際教育交流財団　外国人奨学金（2025年度）
+応募期間：2024年10月1日(火)～31日(木)　※当日消印有効
+提出先：財団へ直接応募
+お知らせ：(PDF(資料1))
+募集要項：https://www.itofound.or.jp/
+※日本語能力が要求されます。
+※この奨学金を受給する者は、2025年度の大学推薦奨学金の申請資格がありません。
+
+ITO Foundation …]]></description>
+        </item>
         <item>
             <title><![CDATA["How to disseminate your doctoral thesis on the Internet"]]></title>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5447</link>
@@ -248,16 +263,6 @@ KiteKite…]]></description>
 To prospective graduate school graduates in AY2024 (including those who will withdraw)
 大学院修了にあたり、外国為替及び外国貿易法遵守の”誓約書（修了時）”提出をお願いしております。ご理解とご協力をよろしくお願いいたします
 In order to comply…]]></description>
-        </item>
-        <item>
-            <title><![CDATA[【開催案内】産業競争力強化のための戦略人材（標準化人材）教育パイロットプログラム]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5425</link>
-            <guid>d210ef114f7f835f518bb7bdabce3ce4</guid>
-            <pubDate>Wed, 18 Sep 2024 03:00:00 GMT</pubDate>
-            <description><![CDATA[ビジネスサイエンス系（主に経営学・法学を専門とする教員組織）では、経済産業省・日本規格協会との連携の下、「産業競争力強化のための戦略人材（標準化人材）教育パイロットプログラム」を開講いたします。学生も参加可能ですので、御興味のある方は是非お申込みください。
-
-【受講期間】２０２４年１１月１日（金）～１２月６日（金）毎週金曜日１８：２０～２１：００ （全６回）
-第１回のみ講義の前に１８：００からオリ…]]></description>
         </item>
     </channel>
 </rss>
