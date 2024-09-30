@@ -4,10 +4,28 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Mon, 30 Sep 2024 02:27:10 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 30 Sep 2024 06:01:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
+        <item>
+            <title><![CDATA[【開催案内】マレーシア実習・スロベニア実習履修説明会（10月22日開催）]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5456</link>
+            <guid>6435bbbc967708efe9a56d774cfef3b3</guid>
+            <pubDate>Mon, 30 Sep 2024 03:00:00 GMT</pubDate>
+            <description><![CDATA[在学生の方へ
+
+今年度開設の下記の科目について、履修説明会を開催します。
+履修を希望している方は、必ずご参加ください。
+当日、プログラムの内容や渡航日程、奨学金、履修希望申請の方法について説明します。
+----------------------------------
+日時：2024年10月22日（火）11:30-12:10
+場所：2C407教室
+担当：渡部宏樹・澤田浩子
+対象科目：
+
+(1) …]]></description>
+        </item>
         <item>
             <title><![CDATA[「ヨーロッパ絵画を楽しむ会」参加者募集]]></title>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5455</link>
@@ -244,21 +262,6 @@ BHE HP…]]></description>
 まずは実際に試験を経験した先輩達のお話を聞いてみませんか。
 
 ＜日時＞…]]></description>
-        </item>
-        <item>
-            <title><![CDATA[【Event Info】One-Day Home Visit （ホームステイ体験）]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5433</link>
-            <guid>ce9ba96348e6fa5a50c2e5e0861c689e</guid>
-            <pubDate>Tue, 24 Sep 2024 03:00:00 GMT</pubDate>
-            <description><![CDATA[<留学生対象>
-
-守谷市国際交流協会では、ホームステイに参加する外国人留学生を募集しています。
-日本の一般家庭の方々と交流する貴重な機会です。
-
-日時：2024年11月16日(土)
-募集人数：約10名（応募者多数の場合は、抽選で決定します）
-申込方法：参加希望者は、https://forms.office.com/r/XMqF4nZjsj（Forms）から
-10月11日(金)までに申し込んでくださ…]]></description>
         </item>
     </channel>
 </rss>
