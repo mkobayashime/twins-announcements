@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/mkobayashime/twins-announcements</id>
     <title>在学生へのお知らせ | 筑波大学</title>
-    <updated>2024-10-01T06:01:47.413Z</updated>
+    <updated>2024-10-01T07:01:42.351Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://github.com/mkobayashime/twins-announcements"/>
     <subtitle>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</subtitle>
+    <entry>
+        <title type="html"><![CDATA[芸術系「留学説明会2024（10/23 Teams開催）」のお知らせ]]></title>
+        <id>588dbcae6264ef6aebcb9c2b2d5177d2</id>
+        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5474"/>
+        <updated>2024-10-01T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[10月23日（水）17:30より留学説明会（オンライン）を開催します。
+参加には事前申込みが必要になります。申し込みの方法等は以下のホームページを参照してください。
+（申し込みをいただいた方はTeamsより参加できるようになります）
+  https://www.geijutsu.tsukuba.ac.jp/global/626/
+
+「芸術系 留学説明会」
+10月23日（水）17:30-19:00（…]]></summary>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【参加者募集】介護セミナー「在宅医療と在宅介護～住み慣れた家で人生の最後まで～」（10/22開催）]]></title>
         <id>416892a8e58d93a51342f630ca3800b7</id>
@@ -211,14 +224,5 @@ DSEP/DSEP+の概要、カリキュラム・履修要件、MDA開設科目、共�
 日時：2024年10月1日(火)11:45～12:45　終了後、質疑・個別相談
 場所：第三エリア3A209(ハイブリッド開催)、春日7A208(第3エリアから配信)
 …]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[世界を変えよう基金「時事問題を英語で読み書き話す勉強会」開催のお知らせ]]></title>
-        <id>cced7288c47c19b32c3ce1e88c76c8fc</id>
-        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5452"/>
-        <updated>2024-09-30T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[筑波大学「世界を変えよう基金」では、世界に重大な影響を与える時事問題について、英語ニュース（BBC, CNN, CGTN, Al Jazeera等）を題材に、パワポ・スライドを作成し、英語で議論する勉強会（９０分程度）をZoomで開催します。勉強会では、英語のみ使用します(作成するパワポについては添付したサンプルを参照してください)。
-
-開催曜日・時間帯は参加者のスケジュールを勘案して決定します。…]]></summary>
     </entry>
 </feed>
