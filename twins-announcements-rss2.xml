@@ -4,7 +4,7 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Tue, 01 Oct 2024 09:07:26 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 01 Oct 2024 15:06:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
@@ -214,18 +214,13 @@ For detail, please see the attached file.
 ]]></description>
         </item>
         <item>
-            <title><![CDATA[【再掲:明日】データサイエンス・エキスパート・プログラム(DSEP)履修説明会10/1.11:45 Data Science Expert Program Enrollment Orientation]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5453</link>
-            <guid>d497f08ab432bf58281f57164f3d49db</guid>
+            <title><![CDATA[世界を変えよう基金「時事問題を英語で読み書き話す勉強会」開催のお知らせ]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5452</link>
+            <guid>cced7288c47c19b32c3ce1e88c76c8fc</guid>
             <pubDate>Mon, 30 Sep 2024 03:00:00 GMT</pubDate>
-            <description><![CDATA[DSEP履修説明会を開催します。
-DSEP/DSEP+の概要、カリキュラム・履修要件、MDA開設科目、共同研究費等・海外留学費の支援、企業等との学外連携活動等についてご説明します。
-博士後期課程以外の学生も歓迎です。
+            <description><![CDATA[筑波大学「世界を変えよう基金」では、世界に重大な影響を与える時事問題について、英語ニュース（BBC, CNN, CGTN, Al Jazeera等）を題材に、パワポ・スライドを作成し、英語で議論する勉強会（９０分程度）をZoomで開催します。勉強会では、英語のみ使用します(作成するパワポについては添付したサンプルを参照してください)。
 
-[開催概要]
-日時：2024年10月1日(火)11:45～12:45　終了後、質疑・個別相談
-場所：第三エリア3A209(ハイブリッド開催)、春日7A208(第3エリアから配信)
-…]]></description>
+開催曜日・時間帯は参加者のスケジュールを勘案して決定します。…]]></description>
         </item>
     </channel>
 </rss>
