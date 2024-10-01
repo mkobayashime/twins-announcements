@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "416892a8e58d93a51342f630ca3800b7",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5473",
+            "title": "【参加者募集】介護セミナー「在宅医療と在宅介護～住み慣れた家で人生の最後まで～」（10/22開催）",
+            "summary": "ヒューマンエンパワーメント推進局（BHE）では、「在宅医療・在宅介護」をテーマとした介護セミナーを開催いたします。\n今回のセミナーでは、在宅医療では具体的にどのようなことができるのか、介護保険のサービスにはどのようなものがあるのか、医療・介護に関する相談先等をご紹介します。\nオンライン開催なので、お気軽にご参加ください。\n\n＜イベント概要＞\n日時：2024年10月22日（火）15時～16時10分\n…",
+            "date_modified": "2024-10-01T03:00:00.000Z"
+        },
+        {
             "id": "5befdf57d7ab773254433c9b7164e13d",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5472",
             "title": "令和7年度学生宿舎入居募集スケジュールについて / AY 2025 Application schedule for student residence halls",
@@ -135,13 +142,6 @@
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5452",
             "title": "世界を変えよう基金「時事問題を英語で読み書き話す勉強会」開催のお知らせ",
             "summary": "筑波大学「世界を変えよう基金」では、世界に重大な影響を与える時事問題について、英語ニュース（BBC, CNN, CGTN, Al Jazeera等）を題材に、パワポ・スライドを作成し、英語で議論する勉強会（９０分程度）をZoomで開催します。勉強会では、英語のみ使用します(作成するパワポについては添付したサンプルを参照してください)。\n\n開催曜日・時間帯は参加者のスケジュールを勘案して決定します。…",
-            "date_modified": "2024-09-30T03:00:00.000Z"
-        },
-        {
-            "id": "819463c8e08a3125c3178d0e669bd319",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5450",
-            "title": "（BHE)公務員内定者と話そう！　10月9日 学内「公務員内定者懇談会」",
-            "summary": "今年度の公務員試験内定者による内定者懇談会を開催します。\n受験体験談と共に、公務員試験の制度・対策・併願先等の理解を深めたり、受験にあたって準備すべきことを学ぶことができます。\n志望別に少人数に分かれての質疑応答の時間もあります。\n公務員試験受験予定の方や公務員に興味のある方はもちろん、今まで公務員を考えたことがなかった方も、\nまずは実際に試験を経験した先輩達のお話を聞いてみませんか。\n\n＜日時＞…",
             "date_modified": "2024-09-30T03:00:00.000Z"
         }
     ]
