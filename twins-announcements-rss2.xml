@@ -4,10 +4,39 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Tue, 01 Oct 2024 01:29:07 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 01 Oct 2024 02:28:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
+        <item>
+            <title><![CDATA[令和7年度学生宿舎入居募集スケジュールについて / AY 2025 Application schedule for student residence halls]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5472</link>
+            <guid>5befdf57d7ab773254433c9b7164e13d</guid>
+            <pubDate>Tue, 01 Oct 2024 03:00:00 GMT</pubDate>
+            <description><![CDATA[令和7年度学生宿舎入居募集スケジュール（在学生向け）を添付ファイルの通りお知らせいたします。
+なお、それぞれの募集については別途掲示しますので、ご参照ください。
+
+We would like to inform you of AY 2025 Application schedule for student residence halls for current students as the at…]]></description>
+        </item>
+        <item>
+            <title><![CDATA[【追越南】令和7年度学生宿舎入居者募集について/ AY 2025 Residence Hall Application for Oikoshi-Minami]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5471</link>
+            <guid>c8088eaa3a88cbc38ffb3eec14d1a8d4</guid>
+            <pubDate>Tue, 01 Oct 2024 03:00:00 GMT</pubDate>
+            <description><![CDATA[【追越南 /  Oikoshi-Minami】
+令和7年度学生宿舎入居募集（在学生向け）を添付ファイルの通りお知らせいたします。
+We would like to inform you of AY 2025 Application call for student residence halls for current students as the attached files.
+]]></description>
+        </item>
+        <item>
+            <title><![CDATA[【世帯用】令和7年度学生宿舎入居者募集について/ AY 2025 Residence Hall Application for Family Room]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5470</link>
+            <guid>1edc11f5d24ed0e5b6f437b6a36806c6</guid>
+            <pubDate>Tue, 01 Oct 2024 03:00:00 GMT</pubDate>
+            <description><![CDATA[【世帯用 / Family Room】
+令和7年度学生宿舎入居募集（在学生向け）を添付ファイルの通りお知らせいたします。
+We would like to inform you of AY 2025 Application call for student residence halls for current students as the attached files.]]></description>
+        </item>
         <item>
             <title><![CDATA[【留学生（春日）】令和7年度学生宿舎入居者募集について/ AY 2025 Residence Hall Application for Kasuga area]]></title>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5469</link>
@@ -102,16 +131,6 @@ We would like to inform you of AY 2025 Application call for student residence ha
 You can try any part of the eBooks from the following eBook platforms for free for five minutes per title…]]></description>
         </item>
         <item>
-            <title><![CDATA[令和7年度学生宿舎入居募集スケジュールについて / AY 2025 Application schedule for student residence halls]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5459</link>
-            <guid>5befdf57d7ab773254433c9b7164e13d</guid>
-            <pubDate>Tue, 01 Oct 2024 03:00:00 GMT</pubDate>
-            <description><![CDATA[令和7年度学生宿舎入居募集スケジュール（在学生向け）を添付ファイルの通りお知らせいたします。
-なお、それぞれの募集については別途掲示しますので、ご参照ください。
-
-We would like to inform you of AY 2025 Application schedule for student residence halls for current students as the at…]]></description>
-        </item>
-        <item>
             <title><![CDATA[令和７年度学年暦について/Academic Calendar for 2025-2026 determined]]></title>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5457</link>
             <guid>e49cd5a29491e8adb1b5ff2e31333679</guid>
@@ -203,33 +222,6 @@ DSEP/DSEP+の概要、カリキュラム・履修要件、MDA開設科目、共�
 まずは実際に試験を経験した先輩達のお話を聞いてみませんか。
 
 ＜日時＞…]]></description>
-        </item>
-        <item>
-            <title><![CDATA[NHK内定者による座談会を開催します！]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5449</link>
-            <guid>cea7184a7e0959f0f3e94b20bf2a18d3</guid>
-            <pubDate>Fri, 27 Sep 2024 03:00:00 GMT</pubDate>
-            <description><![CDATA[ヒューマンエンパワーメント推進局(BHE)キャリア支援チームです。
-本チームキャリアサポーターとして登録されている学生の有志企画についてお知らせします。
-----------
-こんにちは。BHEキャリアサポーターです。
-本学学生から高い人気を集める業界のひとつ＜テレビ業界＞について、なかなか情報交換できる機会は少ないですよね？
-この業界について、また就職活動について、NHK内定者とNHK人事担当者…]]></description>
-        </item>
-        <item>
-            <title><![CDATA[【留学生向け奨学金】公益財団法人　伊藤国際教育交流財団（2025年度）]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5448</link>
-            <guid>50b8a9bf8159f817fd67ddea1d8b34c7</guid>
-            <pubDate>Fri, 27 Sep 2024 03:00:00 GMT</pubDate>
-            <description><![CDATA[公益財団法人　伊藤国際教育交流財団　外国人奨学金（2025年度）
-応募期間：2024年10月1日(火)～31日(木)　※当日消印有効
-提出先：財団へ直接応募
-お知らせ：(PDF(資料1))
-募集要項：https://www.itofound.or.jp/
-※日本語能力が要求されます。
-※この奨学金を受給する者は、2025年度の大学推薦奨学金の申請資格がありません。
-
-ITO Foundation …]]></description>
         </item>
     </channel>
 </rss>
