@@ -5,6 +5,20 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "cc5a1456d66a808177afe8081b9005d2",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5477",
+            "title": "【参加者募集！２年次以上の全学群生対象】東南アジアでの海外教育実習インターンシップSEA-Teacherプログラム",
+            "summary": "東南アジアの提携大学での教育インターンシップへの参加者を募集します。現地教師の業務を実習し、授業を行うことを通して、グローバルな視野、異文化理解力、授業力、国際感覚を養うことが目標のプログラムです。2025年1月下旬から2月中旬の約一か月間、インドネシア、フィリピン、タイのいずれかの提携大学で実際に授業実習を行います。詳細は添付のチラシをご覧ください。\n事前説明会を下記日程で実施します。興味がある…",
+            "date_modified": "2024-10-02T03:00:00.000Z"
+        },
+        {
+            "id": "fa3a54af6b5a872c6880ec7d52c93410",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5476",
+            "title": "（再掲）【10/2(水) 15:30～】令和6年度人文学類文化講演会「海の人類史　パイオニアたちの100万年」のご案内",
+            "summary": "【講演会案内】「海の人類史－パイオニアたちの100 万年－」\n\n人文学類では人文学類をはじめとする学群生、および大学院生を対象に学外の著名な研究者を招いて文化講演会を毎年開催しています。すでに掲示板でおしらせしていますが、再度のご案内です。\n\n今年度は人文学類先史学・考古学コースの企画で下記の要領で開催いたします。\n\n演題：海の人類史　パイオニアたちの100万年\n講師：海部　陽介（東京大学総合研究…",
+            "date_modified": "2024-10-02T03:00:00.000Z"
+        },
+        {
             "id": "588dbcae6264ef6aebcb9c2b2d5177d2",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5475",
             "title": "芸術系「留学説明会2024（10/23 Teams開催）」のお知らせ",
@@ -128,20 +142,6 @@
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5455",
             "title": "「ヨーロッパ絵画を楽しむ会」参加者募集",
             "summary": "筑波大学「世界を変えよう基金アカデミー」では、「ヨーロッパ絵画を楽しむ会」を10月下旬から隔週(対面またはZoom)開催します（約90分、6回程度開催予定）。\n\n初期ルネサンスから１9世紀初頭までのヨーロッパ絵画主要作品を、キリスト教絵画、ギリシア・ローマ神話画、歴史画、肖像画、風景画、風俗画、静物画のジャンル別に鑑賞します。\n作品について基本的な情報は提供しますが、参加メンバーがこれらの作品から…",
-            "date_modified": "2024-09-30T03:00:00.000Z"
-        },
-        {
-            "id": "5008e72d7e5a3cc4b6900315ee6a9547",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5454",
-            "title": "いけばな体験教室の開催について/The Lesson of Ikebana Experience",
-            "summary": "いけばな体験教室を10月19日に開催いたします。\n\n詳細は添付ファイルをご確認ください。\n\n\nWould you like to experience the Japanese culture of ikebana?\n\nFor detail, please see the attached file.\n",
-            "date_modified": "2024-09-30T03:00:00.000Z"
-        },
-        {
-            "id": "cced7288c47c19b32c3ce1e88c76c8fc",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5452",
-            "title": "世界を変えよう基金「時事問題を英語で読み書き話す勉強会」開催のお知らせ",
-            "summary": "筑波大学「世界を変えよう基金」では、世界に重大な影響を与える時事問題について、英語ニュース（BBC, CNN, CGTN, Al Jazeera等）を題材に、パワポ・スライドを作成し、英語で議論する勉強会（９０分程度）をZoomで開催します。勉強会では、英語のみ使用します(作成するパワポについては添付したサンプルを参照してください)。\n\n開催曜日・時間帯は参加者のスケジュールを勘案して決定します。…",
             "date_modified": "2024-09-30T03:00:00.000Z"
         }
     ]
