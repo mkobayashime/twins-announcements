@@ -4,10 +4,22 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Wed, 02 Oct 2024 01:28:35 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 02 Oct 2024 03:05:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
+        <item>
+            <title><![CDATA[【注意喚起】本学構内における不審者の出没について／[caution] Suspicious Persons on the University's Campus]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5478</link>
+            <guid>af841e636076093a2269457444e48cc8</guid>
+            <pubDate>Wed, 02 Oct 2024 03:00:00 GMT</pubDate>
+            <description><![CDATA[10月1日（火）に、中央口案内センター付近において、道を尋ねた際に相手にハグを求める不審な外国人男性が現れました。
+キャンパス内では、不審者がいないか、不審な点がないか十分気をつけてください。
+キャンパス内で不審者・不審物の情報があれば、速やかに最寄りの警備員室または本部防災センター（029-853-2079）へご連絡ください。
+また、緊急の場合はすぐに110番通報してください。
+
+On Octo…]]></description>
+        </item>
         <item>
             <title><![CDATA[【参加者募集！２年次以上の全学群生対象】東南アジアでの海外教育実習インターンシップSEA-Teacherプログラム]]></title>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5477</link>
@@ -209,16 +221,6 @@ Dear Studen…]]></description>
 対象科目：
 
 (1) …]]></description>
-        </item>
-        <item>
-            <title><![CDATA[「ヨーロッパ絵画を楽しむ会」参加者募集]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5455</link>
-            <guid>ea45e7fabbcb6fc6362737abc2c3c0a5</guid>
-            <pubDate>Mon, 30 Sep 2024 03:00:00 GMT</pubDate>
-            <description><![CDATA[筑波大学「世界を変えよう基金アカデミー」では、「ヨーロッパ絵画を楽しむ会」を10月下旬から隔週(対面またはZoom)開催します（約90分、6回程度開催予定）。
-
-初期ルネサンスから１9世紀初頭までのヨーロッパ絵画主要作品を、キリスト教絵画、ギリシア・ローマ神話画、歴史画、肖像画、風景画、風俗画、静物画のジャンル別に鑑賞します。
-作品について基本的な情報は提供しますが、参加メンバーがこれらの作品から…]]></description>
         </item>
     </channel>
 </rss>
