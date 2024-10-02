@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/mkobayashime/twins-announcements</id>
     <title>在学生へのお知らせ | 筑波大学</title>
-    <updated>2024-10-02T03:05:41.892Z</updated>
+    <updated>2024-10-02T05:01:38.860Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://github.com/mkobayashime/twins-announcements"/>
     <subtitle>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</subtitle>
+    <entry>
+        <title type="html"><![CDATA[（BHE)公務員内定者と話そう！　10月9日 学内「公務員内定者懇談会」]]></title>
+        <id>819463c8e08a3125c3178d0e669bd319</id>
+        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5479"/>
+        <updated>2024-10-02T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[今年度の公務員試験内定者による内定者懇談会を開催します。
+受験体験談と共に、公務員試験の制度・対策・併願先等の理解を深めたり、受験にあたって準備すべきことを学ぶことができます。
+志望別に少人数に分かれての質疑応答の時間もあります。
+公務員試験受験予定の方や公務員に興味のある方はもちろん、今まで公務員を考えたことがなかった方も、
+まずは実際に試験を経験した先輩達のお話を聞いてみませんか。
+
+＜日時＞…]]></summary>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【注意喚起】本学構内における不審者の出没について／[caution] Suspicious Persons on the University's Campus]]></title>
         <id>af841e636076093a2269457444e48cc8</id>
@@ -201,23 +214,5 @@ You can try any part of the eBooks from the following eBook platforms for free f
 英語版：https://www.tsukuba.ac.jp/en/academics/academic-calendar/2025.html
 
 Dear Studen…]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【開催案内】マレーシア実習・スロベニア実習履修説明会（10月22日開催）]]></title>
-        <id>6435bbbc967708efe9a56d774cfef3b3</id>
-        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5456"/>
-        <updated>2024-09-30T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[在学生の方へ
-
-今年度開設の下記の科目について、履修説明会を開催します。
-履修を希望している方は、必ずご参加ください。
-当日、プログラムの内容や渡航日程、奨学金、履修希望申請の方法について説明します。
-----------------------------------
-日時：2024年10月22日（火）11:30-12:10
-場所：2C407教室
-担当：渡部宏樹・澤田浩子
-対象科目：
-
-(1) …]]></summary>
     </entry>
 </feed>
