@@ -4,10 +4,19 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Wed, 02 Oct 2024 05:01:38 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 02 Oct 2024 07:01:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
+        <item>
+            <title><![CDATA[【比較文化学類】比較文化学類講演会のお知らせ]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5480</link>
+            <guid>d70cd1952c690581c772bbed6221083f</guid>
+            <pubDate>Wed, 02 Oct 2024 03:00:00 GMT</pubDate>
+            <description><![CDATA[比較文化学類講演会のお知らせ
+
+※詳細は添付資料をご覧ください。]]></description>
+        </item>
         <item>
             <title><![CDATA[（BHE)公務員内定者と話そう！　10月9日 学内「公務員内定者懇談会」]]></title>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5479</link>
@@ -202,20 +211,6 @@ We would like to inform you of AY 2025 Application call for student residence ha
             <description><![CDATA[In order to support teaching and learning, the library provides an eBook trial service again!
 
 You can try any part of the eBooks from the following eBook platforms for free for five minutes per title…]]></description>
-        </item>
-        <item>
-            <title><![CDATA[令和７年度学年暦について/Academic Calendar for 2025-2026 determined]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5457</link>
-            <guid>e49cd5a29491e8adb1b5ff2e31333679</guid>
-            <pubDate>Mon, 30 Sep 2024 03:00:00 GMT</pubDate>
-            <description><![CDATA[学生各位
-
-令和７年度学年暦が決定しましたのでお知らせします。下記の大学HPからご覧ください。
-
-日本語版：https://www.tsukuba.ac.jp/campuslife/calendar-school/2025.html
-英語版：https://www.tsukuba.ac.jp/en/academics/academic-calendar/2025.html
-
-Dear Studen…]]></description>
         </item>
     </channel>
 </rss>
