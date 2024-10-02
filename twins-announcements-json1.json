@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "1069384626c4dc9cfc211a852f977aaf",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5482",
+            "title": "（BHEキャリアサポーター企画）NHK内定者による座談会",
+            "summary": "ヒューマンエンパワーメント推進局(BHE)キャリア支援チームです。\n本チームキャリアサポーターとして登録されている学生の有志企画についてお知らせします。\n----------\nこんにちは。BHEキャリアサポーターです。\n本学学生から高い人気を集める業界のひとつ＜テレビ業界＞について、なかなか情報交換できる機会は少ないですよね？\nこの業界について、また就職活動について、NHK内定者とNHK人事担当者…",
+            "date_modified": "2024-10-02T03:00:00.000Z"
+        },
+        {
             "id": "e2906d7d0479e8a42462c4d5377cf488",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5481",
             "title": "【参加者募集】院生女子会（10/18）",
@@ -135,13 +142,6 @@
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5462",
             "title": "【特別事情/コミュニティリーダー】令和7年度学生宿舎入居者募集について",
             "summary": "【特別事情・コミュニティリーダー】令和7年度学生宿舎入居募集（在学生向け）を添付ファイルの通りお知らせいたします。\n",
-            "date_modified": "2024-10-01T03:00:00.000Z"
-        },
-        {
-            "id": "a9b4d663ffd2cbdcf1ba2c0149eeabcd",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5461",
-            "title": "【グローバルヴィレッジ】令和7年度学生宿舎入居者募集について/ AY 2025 Residence Hall Application for Global Village",
-            "summary": "【グローバルヴィレッジ / Global Village】\n令和7年度学生宿舎入居募集（在学生向け）を添付ファイルの通りお知らせいたします。\nWe would like to inform you of AY 2025 Application call for student residence halls for current students as the attached files.",
             "date_modified": "2024-10-01T03:00:00.000Z"
         }
     ]
