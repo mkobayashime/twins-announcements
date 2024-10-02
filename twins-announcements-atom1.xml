@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/mkobayashime/twins-announcements</id>
     <title>在学生へのお知らせ | 筑波大学</title>
-    <updated>2024-10-02T07:01:47.167Z</updated>
+    <updated>2024-10-02T09:01:39.416Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://github.com/mkobayashime/twins-announcements"/>
     <subtitle>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</subtitle>
+    <entry>
+        <title type="html"><![CDATA[【参加者募集】院生女子会（10/18）]]></title>
+        <id>e2906d7d0479e8a42462c4d5377cf488</id>
+        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5481"/>
+        <updated>2024-10-02T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[ヒューマンエンパワーメント推進局（BHE）の学生スタッフ（Co-Lab）主催で、10月18日（金）に「院生女子会」を開催いたします！
+院生になると研究室以外のつながりを持ちにくいですよね。
+（そのうえ女子の院生は3割程度しかいないんです。。。）
+そこで、いろんな分野の院生とつながりを作ろう、ということで本イベントを企画しました！
+所属関係なく参加できますので、気軽にご参加ください
+
+日程：10月1…]]></summary>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【比較文化学類】比較文化学類講演会のお知らせ]]></title>
         <id>d70cd1952c690581c772bbed6221083f</id>
@@ -200,14 +213,5 @@ We would like to inform you of AY 2025 Application call for student residence ha
         <summary type="html"><![CDATA[【グローバルヴィレッジ / Global Village】
 令和7年度学生宿舎入居募集（在学生向け）を添付ファイルの通りお知らせいたします。
 We would like to inform you of AY 2025 Application call for student residence halls for current students as the attached files.]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[(Library) Free Ebook Trial Service Part2]]></title>
-        <id>30c05924a424d9f881d0074ddcff6f94</id>
-        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5460"/>
-        <updated>2024-10-01T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[In order to support teaching and learning, the library provides an eBook trial service again!
-
-You can try any part of the eBooks from the following eBook platforms for free for five minutes per title…]]></summary>
     </entry>
 </feed>

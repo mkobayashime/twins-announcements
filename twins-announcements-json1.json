@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "e2906d7d0479e8a42462c4d5377cf488",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5481",
+            "title": "【参加者募集】院生女子会（10/18）",
+            "summary": "ヒューマンエンパワーメント推進局（BHE）の学生スタッフ（Co-Lab）主催で、10月18日（金）に「院生女子会」を開催いたします！\n院生になると研究室以外のつながりを持ちにくいですよね。\n（そのうえ女子の院生は3割程度しかいないんです。。。）\nそこで、いろんな分野の院生とつながりを作ろう、ということで本イベントを企画しました！\n所属関係なく参加できますので、気軽にご参加ください\n\n日程：10月1…",
+            "date_modified": "2024-10-02T03:00:00.000Z"
+        },
+        {
             "id": "d70cd1952c690581c772bbed6221083f",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5480",
             "title": "【比較文化学類】比較文化学類講演会のお知らせ",
@@ -135,13 +142,6 @@
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5461",
             "title": "【グローバルヴィレッジ】令和7年度学生宿舎入居者募集について/ AY 2025 Residence Hall Application for Global Village",
             "summary": "【グローバルヴィレッジ / Global Village】\n令和7年度学生宿舎入居募集（在学生向け）を添付ファイルの通りお知らせいたします。\nWe would like to inform you of AY 2025 Application call for student residence halls for current students as the attached files.",
-            "date_modified": "2024-10-01T03:00:00.000Z"
-        },
-        {
-            "id": "30c05924a424d9f881d0074ddcff6f94",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5460",
-            "title": "(Library) Free Ebook Trial Service Part2",
-            "summary": "In order to support teaching and learning, the library provides an eBook trial service again!\n\nYou can try any part of the eBooks from the following eBook platforms for free for five minutes per title…",
             "date_modified": "2024-10-01T03:00:00.000Z"
         }
     ]

@@ -4,10 +4,23 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Wed, 02 Oct 2024 07:01:47 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 02 Oct 2024 09:01:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
+        <item>
+            <title><![CDATA[【参加者募集】院生女子会（10/18）]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5481</link>
+            <guid>e2906d7d0479e8a42462c4d5377cf488</guid>
+            <pubDate>Wed, 02 Oct 2024 03:00:00 GMT</pubDate>
+            <description><![CDATA[ヒューマンエンパワーメント推進局（BHE）の学生スタッフ（Co-Lab）主催で、10月18日（金）に「院生女子会」を開催いたします！
+院生になると研究室以外のつながりを持ちにくいですよね。
+（そのうえ女子の院生は3割程度しかいないんです。。。）
+そこで、いろんな分野の院生とつながりを作ろう、ということで本イベントを企画しました！
+所属関係なく参加できますので、気軽にご参加ください
+
+日程：10月1…]]></description>
+        </item>
         <item>
             <title><![CDATA[【比較文化学類】比較文化学類講演会のお知らせ]]></title>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5480</link>
@@ -202,15 +215,6 @@ We would like to inform you of AY 2025 Application call for student residence ha
             <description><![CDATA[【グローバルヴィレッジ / Global Village】
 令和7年度学生宿舎入居募集（在学生向け）を添付ファイルの通りお知らせいたします。
 We would like to inform you of AY 2025 Application call for student residence halls for current students as the attached files.]]></description>
-        </item>
-        <item>
-            <title><![CDATA[(Library) Free Ebook Trial Service Part2]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5460</link>
-            <guid>30c05924a424d9f881d0074ddcff6f94</guid>
-            <pubDate>Tue, 01 Oct 2024 03:00:00 GMT</pubDate>
-            <description><![CDATA[In order to support teaching and learning, the library provides an eBook trial service again!
-
-You can try any part of the eBooks from the following eBook platforms for free for five minutes per title…]]></description>
         </item>
     </channel>
 </rss>
