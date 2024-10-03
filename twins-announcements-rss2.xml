@@ -4,10 +4,24 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Wed, 02 Oct 2024 21:07:37 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 03 Oct 2024 00:02:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
+        <item>
+            <title><![CDATA[(茗渓会・BHE）10月ぶっちゃけ相談会　特集テーマ 「金融業界」]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5483</link>
+            <guid>5e83e0e4d7a6d2abf5cd6493ad6e8654</guid>
+            <pubDate>Thu, 03 Oct 2024 03:00:00 GMT</pubDate>
+            <description><![CDATA[毎月2名のOBOGが登壇し、ご自身のキャリアについて話をしてくださいます。
+みなさんが卒業した後に、どんなキャリア（人生、仕事、就職）を歩むのか？
+考えるきっかけとして、少し先に卒業した先輩が、何を考え、どう決断したのかを聞いてみてください。
+これから就活が始まる方、卒業後の進路やキャリアに悩んでいる方、
+これからの大学生活をどう過ごそうか考えている方、
+ぜひ、先輩に質問してみてください。
+
+【参…]]></description>
+        </item>
         <item>
             <title><![CDATA[（BHEキャリアサポーター企画）NHK内定者による座談会]]></title>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5482</link>
@@ -210,14 +224,6 @@ We would like to inform you of AY 2025 Application call for student residence ha
 【一般単身未改修棟 / Standard Single, Non-renovated】
 令和7年度学生宿舎入居募集（在学生向け）を添付ファイルの通りお知らせいたします。
 We would like to inform you of AY 2025 Application call for student residence halls for current students as the at…]]></description>
-        </item>
-        <item>
-            <title><![CDATA[【特別事情/コミュニティリーダー】令和7年度学生宿舎入居者募集について]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5462</link>
-            <guid>a91e92d9fdd308ae0cd919715ccffcb6</guid>
-            <pubDate>Tue, 01 Oct 2024 03:00:00 GMT</pubDate>
-            <description><![CDATA[【特別事情・コミュニティリーダー】令和7年度学生宿舎入居募集（在学生向け）を添付ファイルの通りお知らせいたします。
-]]></description>
         </item>
     </channel>
 </rss>
