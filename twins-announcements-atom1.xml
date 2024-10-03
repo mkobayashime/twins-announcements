@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/mkobayashime/twins-announcements</id>
     <title>在学生へのお知らせ | 筑波大学</title>
-    <updated>2024-10-03T02:24:39.530Z</updated>
+    <updated>2024-10-03T07:02:01.197Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://github.com/mkobayashime/twins-announcements"/>
     <subtitle>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</subtitle>
+    <entry>
+        <title type="html"><![CDATA[（附属図書館）ライティング支援連続セミナー2024を開催します（10/17～11/21）]]></title>
+        <id>2d454eefcf050d31e3a7e67b5755835a</id>
+        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5489"/>
+        <updated>2024-10-03T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[読むこと、考えること、伝えること。高校までとは違う、大学での学びに必要なスキルをテーマ毎にご案内する、ライティング支援連続セミナーが始まります。
+レポート作成や論文執筆など、大学特有の課題形式に取り組むスキルを伸ばしたい方に特にお薦めです。
+
+受講対象者：筑波大学の関係者であればどなたでも受講できます。
+会場：中央図書館本館2階ギャラリーゾーン（入館ゲートを入って直ぐ）
+事前申し込みは不要です。当…]]></summary>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【周知】令和6年度犯罪被害者等支援に関する認知度調査アンケートについて]]></title>
         <id>940b14f275f06428882ab922227e9565</id>
@@ -227,17 +239,5 @@ We would like to inform you of AY 2025 Application call for student residence ha
         <summary type="html"><![CDATA[【留学生（春日） / Kasuga area】
 令和7年度学生宿舎入居募集（在学生向け）を添付ファイルの通りお知らせいたします。
 We would like to inform you of AY 2025 Application call for student residence halls for current students as the attached files.]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【附属図書館】電子ブック 全文無料試し読みサービス第２弾のご案内]]></title>
-        <id>e972b2d147b4433ad8122395a28a5b56</id>
-        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5468"/>
-        <updated>2024-10-01T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[附属図書館では、5月～8月に実施しご好評をいただいた、電子ブックの全文無料試し読みサービスの第２弾を実施します。
-今回は、丸善雄松堂が提供するMaruzen eBook Libraryを期間限定でご利用いただけます。
-
-対象プラットフォームの電子ブックからお好きな部分を1タイトルにつき5分間、試し読みすることができます。また、リクエストを送信することもできます。この機会にぜひお試しください。
-
-【…]]></summary>
     </entry>
 </feed>
