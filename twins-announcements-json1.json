@@ -5,6 +5,20 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "940b14f275f06428882ab922227e9565",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5488",
+            "title": "【周知】令和6年度犯罪被害者等支援に関する認知度調査アンケートについて",
+            "summary": "【周知】令和6年度犯罪被害者等支援に関する認知度調査アンケートについて\n茨城県より、アンケートへの協力依頼がありましたので、お知らせいたします。\n\n    茨城県では、犯罪被害者等支援窓口、性暴力被害者支援窓口等の認知度の向上等を通じて、県民の誰もが安心して暮らすことができる社会の実現を目指しています。\n　本アンケートは、学生の皆さんに、条例や被害に遭った際の対処方法、相談窓口があることを知ってい…",
+            "date_modified": "2024-10-03T03:00:00.000Z"
+        },
+        {
+            "id": "0cf5263e6185e75ebe9e4f0dbd7a555d",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5487",
+            "title": "スーツの割引について（10/1更新）",
+            "summary": "本学は紳士服の大手4社と契約しています。\nそのため、在学生とそのご家族の皆様には、\n全国のAOKI、コナカ、はるやま、洋服の青山（後日掲載）で、\n通常の割引価格から更に割引いた価格でスーツ等をご購入いただけます。\n大変お得ですので、是非ご利用ください。\n\n※ご購入いただいた金額の一部が大学に寄附されます。",
+            "date_modified": "2024-10-03T03:00:00.000Z"
+        },
+        {
             "id": "b32c28c08da6168c8d2be207b35e71a1",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5486",
             "title": "筑波大学公式オリジナルグッズECサイト割引クーポンのお知らせ（10月） 2024/10/1～2024/10/31",
@@ -128,20 +142,6 @@
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5468",
             "title": "【附属図書館】電子ブック 全文無料試し読みサービス第２弾のご案内",
             "summary": "附属図書館では、5月～8月に実施しご好評をいただいた、電子ブックの全文無料試し読みサービスの第２弾を実施します。\n今回は、丸善雄松堂が提供するMaruzen eBook Libraryを期間限定でご利用いただけます。\n\n対象プラットフォームの電子ブックからお好きな部分を1タイトルにつき5分間、試し読みすることができます。また、リクエストを送信することもできます。この機会にぜひお試しください。\n\n【…",
-            "date_modified": "2024-10-01T03:00:00.000Z"
-        },
-        {
-            "id": "455618c53dfa7ce525d1cacc88a6f400",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5467",
-            "title": "【短期・ショートステイハウス】令和7年度学生宿舎入居者募集について/ AY 2025 Residence Hall Application for Short-stay house",
-            "summary": "【短期・ショートステイハウス/ Short-stay house】\n令和7年度学生宿舎入居募集（在学生向け）を添付ファイルの通りお知らせいたします。\nWe would like to inform you of AY 2025 Application call for student residence halls for current students as the attached file…",
-            "date_modified": "2024-10-01T03:00:00.000Z"
-        },
-        {
-            "id": "12ce3e69af72477c21a7dcd7431383e4",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5466",
-            "title": "【二人室単身使用】令和7年度学生宿舎入居者募集について/ AY 2025 Residence Hall Application for Twin room for single use",
-            "summary": "【二人室単身使用 / Twin room for single use】\n令和7年度学生宿舎入居募集（在学生向け）を添付ファイルの通りお知らせいたします。\nWe would like to inform you of AY 2025 Application call for student residence halls for current students as the attached f…",
             "date_modified": "2024-10-01T03:00:00.000Z"
         }
     ]
