@@ -5,6 +5,20 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "d3655d40b77355612057762c3010fc9d",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5491",
+            "title": "カリフォルニア州立大学　留学説明会＆留学体験談",
+            "summary": "本学の協定校である米国・カリフォルニア州立大学について、2025年秋学期からの留学を希望する学生を募集します。留学を考えている方は、ぜひご参加ください！\n\n日時：2024年10月22日（火）18：30～20：00\n場所：スチューデント・コモンズ（第1エリア１A棟２階）\n※本説明会の一部は録画し、後日スチューデントサポートセンターのウェブサイトで公開されます。\n\n◆スケジュール\n18：30～19：0…",
+            "date_modified": "2024-10-03T03:00:00.000Z"
+        },
+        {
+            "id": "9228ac562aeffe58bb64e246590dbc51",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5490",
+            "title": "2025年秋学期渡航分　協定校留学説明会",
+            "summary": "協定校留学の制度や注意点、学内公募から帰国後までの手続き、以下の対象協定校の概要と応募条件について説明します。留学に関心のある方の参加をお待ちしています。\n\n日時：2024年10月15日（火）18：30～20：00\n場所：スチューデント・コモンズ（第1エリア１A棟２階）\n※本説明会は録画し、後日スチューデントサポートセンターのウェブサイトで公開されます。\n\n◆対象協定校（国際交流支援室担当分）\n・…",
+            "date_modified": "2024-10-03T03:00:00.000Z"
+        },
+        {
             "id": "2d454eefcf050d31e3a7e67b5755835a",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5489",
             "title": "（附属図書館）ライティング支援連続セミナー2024を開催します（10/17～11/21）",
@@ -128,20 +142,6 @@
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5471",
             "title": "【追越南】令和7年度学生宿舎入居者募集について/ AY 2025 Residence Hall Application for Oikoshi-Minami",
             "summary": "【追越南 /  Oikoshi-Minami】\n令和7年度学生宿舎入居募集（在学生向け）を添付ファイルの通りお知らせいたします。\nWe would like to inform you of AY 2025 Application call for student residence halls for current students as the attached files.\n",
-            "date_modified": "2024-10-01T03:00:00.000Z"
-        },
-        {
-            "id": "1edc11f5d24ed0e5b6f437b6a36806c6",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5470",
-            "title": "【世帯用】令和7年度学生宿舎入居者募集について/ AY 2025 Residence Hall Application for Family Room",
-            "summary": "【世帯用 / Family Room】\n令和7年度学生宿舎入居募集（在学生向け）を添付ファイルの通りお知らせいたします。\nWe would like to inform you of AY 2025 Application call for student residence halls for current students as the attached files.",
-            "date_modified": "2024-10-01T03:00:00.000Z"
-        },
-        {
-            "id": "1e4bd692d4576157e0ea00be327c3acc",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5469",
-            "title": "【留学生（春日）】令和7年度学生宿舎入居者募集について/ AY 2025 Residence Hall Application for Kasuga area",
-            "summary": "【留学生（春日） / Kasuga area】\n令和7年度学生宿舎入居募集（在学生向け）を添付ファイルの通りお知らせいたします。\nWe would like to inform you of AY 2025 Application call for student residence halls for current students as the attached files.",
             "date_modified": "2024-10-01T03:00:00.000Z"
         }
     ]
