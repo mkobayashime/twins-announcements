@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "41f4b251d404eec6e83d1c321a91accc",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5492",
+            "title": "2024年度「海外英語研修II-c」（オーストラリア、3単位、実渡航）募集説明会",
+            "summary": "本学の協定校、オーストラリア・ウーロンゴン大学の英語研修に3週間参加し、ホームステイ先に宿泊します。英語力の向上や異文化交流に関心のある学生の参加を募集します。申込方法等の詳細については、募集説明会で説明しますので、参加希望の方は必ず参加（もしくは後日動画を視聴）してください。\n\n【研修内容】\n・8030806「海外英語研修II-c」（3単位、対面）\n・オーストラリア・ウーロンゴン大学　3-Wee…",
+            "date_modified": "2024-10-04T03:00:00.000Z"
+        },
+        {
             "id": "d3655d40b77355612057762c3010fc9d",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5491",
             "title": "カリフォルニア州立大学　留学説明会＆留学体験談",
@@ -135,13 +142,6 @@
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5472",
             "title": "令和7年度学生宿舎入居募集スケジュールについて / AY 2025 Application schedule for student residence halls",
             "summary": "令和7年度学生宿舎入居募集スケジュール（在学生向け）を添付ファイルの通りお知らせいたします。\nなお、それぞれの募集については別途掲示しますので、ご参照ください。\n\nWe would like to inform you of AY 2025 Application schedule for student residence halls for current students as the at…",
-            "date_modified": "2024-10-01T03:00:00.000Z"
-        },
-        {
-            "id": "c8088eaa3a88cbc38ffb3eec14d1a8d4",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5471",
-            "title": "【追越南】令和7年度学生宿舎入居者募集について/ AY 2025 Residence Hall Application for Oikoshi-Minami",
-            "summary": "【追越南 /  Oikoshi-Minami】\n令和7年度学生宿舎入居募集（在学生向け）を添付ファイルの通りお知らせいたします。\nWe would like to inform you of AY 2025 Application call for student residence halls for current students as the attached files.\n",
             "date_modified": "2024-10-01T03:00:00.000Z"
         }
     ]

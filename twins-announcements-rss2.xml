@@ -4,10 +4,21 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Thu, 03 Oct 2024 21:06:32 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 04 Oct 2024 01:28:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
+        <item>
+            <title><![CDATA[2024年度「海外英語研修II-c」（オーストラリア、3単位、実渡航）募集説明会]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5492</link>
+            <guid>41f4b251d404eec6e83d1c321a91accc</guid>
+            <pubDate>Fri, 04 Oct 2024 03:00:00 GMT</pubDate>
+            <description><![CDATA[本学の協定校、オーストラリア・ウーロンゴン大学の英語研修に3週間参加し、ホームステイ先に宿泊します。英語力の向上や異文化交流に関心のある学生の参加を募集します。申込方法等の詳細については、募集説明会で説明しますので、参加希望の方は必ず参加（もしくは後日動画を視聴）してください。
+
+【研修内容】
+・8030806「海外英語研修II-c」（3単位、対面）
+・オーストラリア・ウーロンゴン大学　3-Wee…]]></description>
+        </item>
         <item>
             <title><![CDATA[カリフォルニア州立大学　留学説明会＆留学体験談]]></title>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5491</link>
@@ -241,16 +252,6 @@ TEL:029-896-3530  FAX:029-896-3531
 なお、それぞれの募集については別途掲示しますので、ご参照ください。
 
 We would like to inform you of AY 2025 Application schedule for student residence halls for current students as the at…]]></description>
-        </item>
-        <item>
-            <title><![CDATA[【追越南】令和7年度学生宿舎入居者募集について/ AY 2025 Residence Hall Application for Oikoshi-Minami]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5471</link>
-            <guid>c8088eaa3a88cbc38ffb3eec14d1a8d4</guid>
-            <pubDate>Tue, 01 Oct 2024 03:00:00 GMT</pubDate>
-            <description><![CDATA[【追越南 /  Oikoshi-Minami】
-令和7年度学生宿舎入居募集（在学生向け）を添付ファイルの通りお知らせいたします。
-We would like to inform you of AY 2025 Application call for student residence halls for current students as the attached files.
-]]></description>
         </item>
     </channel>
 </rss>
