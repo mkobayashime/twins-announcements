@@ -5,6 +5,20 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "b5749c53ee1cf7ade7481a6c4d441486",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5494",
+            "title": "ドイツ・ブランデンブルク工科大学コトブス＝ゼンフテンベルク校（BTU）への派遣学生の追加募集について（2025年4月派遣開始分）",
+            "summary": "SSC公募型対象校のドイツ・ブランデンブルク工科大学コトブス＝ゼンフテンベルク校（BTU）について、2025年4月派遣開始分を追加募集いたします。\n添付の募集内容をよく確認の上応募してください。\n\n【募集内容の概要】\n留学先：ドイツ・ブランデンブルク工科大学コトブス＝ゼンフテンベルク校\n留学期間：2025年4月～2026年3月までの12ヵ月以内※少なくとも1学期間以上滞在することが望ましい。渡航時…",
+            "date_modified": "2024-10-04T03:00:00.000Z"
+        },
+        {
+            "id": "5576c17b07a1d3aa8a392aa71674c6ec",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5493",
+            "title": "【募集を締め切りました/Applications are closed】いけばな体験教室の開催について/The Lesson of Ikebana Experience",
+            "summary": "10月19日開催のいけばな体験教室は定員に達したため、\n募集を締め切りました。\n\nThe number of applicants for the lesson of Ikebana experience on October 19 has reached the limit,\nso we closed applications.",
+            "date_modified": "2024-10-04T03:00:00.000Z"
+        },
+        {
             "id": "41f4b251d404eec6e83d1c321a91accc",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5492",
             "title": "2024年度「海外英語研修II-c」（オーストラリア、3単位、実渡航）募集説明会",
@@ -128,20 +142,6 @@
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5475",
             "title": "芸術系「留学説明会2024（10/23 Teams開催）」のお知らせ",
             "summary": "10月23日（水）17:30より留学説明会（オンライン）を開催します。\n参加には10月22日までに事前申込みが必要になります。申し込みの方法等は以下のホームページを参照してください。\n（申し込みをいただいた方はTeamsより参加できるようになります）\n  https://www.geijutsu.tsukuba.ac.jp/global/626/\n\n「芸術系 留学説明会」\n10月23日（水）17:…",
-            "date_modified": "2024-10-01T03:00:00.000Z"
-        },
-        {
-            "id": "416892a8e58d93a51342f630ca3800b7",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5473",
-            "title": "【参加者募集】介護セミナー「在宅医療と在宅介護～住み慣れた家で人生の最後まで～」（10/22開催）",
-            "summary": "ヒューマンエンパワーメント推進局（BHE）では、「在宅医療・在宅介護」をテーマとした介護セミナーを開催いたします。\n今回のセミナーでは、在宅医療では具体的にどのようなことができるのか、介護保険のサービスにはどのようなものがあるのか、医療・介護に関する相談先等をご紹介します。\nオンライン開催なので、お気軽にご参加ください。\n\n＜イベント概要＞\n日時：2024年10月22日（火）15時～16時10分\n…",
-            "date_modified": "2024-10-01T03:00:00.000Z"
-        },
-        {
-            "id": "5befdf57d7ab773254433c9b7164e13d",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5472",
-            "title": "令和7年度学生宿舎入居募集スケジュールについて / AY 2025 Application schedule for student residence halls",
-            "summary": "令和7年度学生宿舎入居募集スケジュール（在学生向け）を添付ファイルの通りお知らせいたします。\nなお、それぞれの募集については別途掲示しますので、ご参照ください。\n\nWe would like to inform you of AY 2025 Application schedule for student residence halls for current students as the at…",
             "date_modified": "2024-10-01T03:00:00.000Z"
         }
     ]
