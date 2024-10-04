@@ -4,10 +4,18 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Fri, 04 Oct 2024 02:24:44 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 04 Oct 2024 04:01:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
+        <item>
+            <title><![CDATA[HPVワクチンの集団接種の実施について【再掲】]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5495</link>
+            <guid>729e871bc9e5db68ad26ea916bba3e76</guid>
+            <pubDate>Fri, 04 Oct 2024 03:00:00 GMT</pubDate>
+            <description><![CDATA[本学では、国がキャッチアップ期間（令和４（2022）年４月～令和７年（2025）３月の３年間）を設けてHPVワクチン接種の積極的な勧奨を再開していることから、教職員及び学生の健康管理の観点から、接種対象となる方のうち、希望者を対象として実施（接種場所：筑波大学附属病院）するものです。
+接種対象者、接種期間及び予約方法等の詳細については、下記リンク先より、スチューデントサポートセンターHPの「センタ…]]></description>
+        </item>
         <item>
             <title><![CDATA[ドイツ・ブランデンブルク工科大学コトブス＝ゼンフテンベルク校（BTU）への派遣学生の追加募集について（2025年4月派遣開始分）]]></title>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5494</link>
@@ -239,19 +247,6 @@ Mail:compliance@un.tsukuba.ac.jp TEL:029-853-2033
 つくば中央法律事務所（学外窓口）
 TEL:029-896-3530  FAX:029-896-3531
 ]]></description>
-        </item>
-        <item>
-            <title><![CDATA[芸術系「留学説明会2024（10/23 Teams開催）」のお知らせ]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5475</link>
-            <guid>588dbcae6264ef6aebcb9c2b2d5177d2</guid>
-            <pubDate>Tue, 01 Oct 2024 03:00:00 GMT</pubDate>
-            <description><![CDATA[10月23日（水）17:30より留学説明会（オンライン）を開催します。
-参加には10月22日までに事前申込みが必要になります。申し込みの方法等は以下のホームページを参照してください。
-（申し込みをいただいた方はTeamsより参加できるようになります）
-  https://www.geijutsu.tsukuba.ac.jp/global/626/
-
-「芸術系 留学説明会」
-10月23日（水）17:…]]></description>
         </item>
     </channel>
 </rss>
