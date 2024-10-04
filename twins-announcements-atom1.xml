@@ -2,10 +2,25 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/mkobayashime/twins-announcements</id>
     <title>在学生へのお知らせ | 筑波大学</title>
-    <updated>2024-10-04T05:01:38.717Z</updated>
+    <updated>2024-10-04T08:01:43.920Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://github.com/mkobayashime/twins-announcements"/>
     <subtitle>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</subtitle>
+    <entry>
+        <title type="html"><![CDATA[【開催案内】秋の図書館講習会 / Library Workshops]]></title>
+        <id>90d454be821ff6291a30f6c5bee37832</id>
+        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5498"/>
+        <updated>2024-10-04T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[【開催案内】秋の図書館講習会 / Library Workshops
+
+附属図書館では、10月から秋の講習会を開催します。
+図書館の使い方や各種データベースの使い方など、学習や研究に役立つ内容です。
+manabaでコース登録をしてご参加ください。
+皆様のご参加をお待ちしております。
+
+詳しくは下記Webページをご覧ください。
+https://www.tulips.tsukuba.ac.jp/lib…]]></summary>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2024年度第2期分授業料の納付について]]></title>
         <id>74095324798cf783ebc04fb1028d627f</id>
@@ -229,13 +244,5 @@ ECサイトは以下のリンクから
 また、緊急の場合はすぐに110番通報してください。
 
 On Octo…]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【参加者募集！２年次以上の全学群生対象】東南アジアでの海外教育実習インターンシップSEA-Teacherプログラム]]></title>
-        <id>cc5a1456d66a808177afe8081b9005d2</id>
-        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5477"/>
-        <updated>2024-10-02T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[東南アジアの提携大学での教育インターンシップへの参加者を募集します。現地教師の業務を実習し、授業を行うことを通して、グローバルな視野、異文化理解力、授業力、国際感覚を養うことが目標のプログラムです。2025年1月下旬から2月中旬の約一か月間、インドネシア、フィリピン、タイのいずれかの提携大学で実際に授業実習を行います。詳細は添付のチラシをご覧ください。
-事前説明会を下記日程で実施します。興味がある…]]></summary>
     </entry>
 </feed>

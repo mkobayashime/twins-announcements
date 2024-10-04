@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "90d454be821ff6291a30f6c5bee37832",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5498",
+            "title": "【開催案内】秋の図書館講習会 / Library Workshops",
+            "summary": "【開催案内】秋の図書館講習会 / Library Workshops\n\n附属図書館では、10月から秋の講習会を開催します。\n図書館の使い方や各種データベースの使い方など、学習や研究に役立つ内容です。\nmanabaでコース登録をしてご参加ください。\n皆様のご参加をお待ちしております。\n\n詳しくは下記Webページをご覧ください。\nhttps://www.tulips.tsukuba.ac.jp/lib…",
+            "date_modified": "2024-10-04T03:00:00.000Z"
+        },
+        {
             "id": "74095324798cf783ebc04fb1028d627f",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5497",
             "title": "2024年度第2期分授業料の納付について",
@@ -135,13 +142,6 @@
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5478",
             "title": "【注意喚起】本学構内における不審者の出没について／[caution] Suspicious Persons on the University's Campus",
             "summary": "10月1日（火）に、中央口案内センター付近において、道を尋ねた際に相手にハグを求める不審な外国人男性が現れました。\nキャンパス内では、不審者がいないか、不審な点がないか十分気をつけてください。\nキャンパス内で不審者・不審物の情報があれば、速やかに最寄りの警備員室または本部防災センター（029-853-2079）へご連絡ください。\nまた、緊急の場合はすぐに110番通報してください。\n\nOn Octo…",
-            "date_modified": "2024-10-02T03:00:00.000Z"
-        },
-        {
-            "id": "cc5a1456d66a808177afe8081b9005d2",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5477",
-            "title": "【参加者募集！２年次以上の全学群生対象】東南アジアでの海外教育実習インターンシップSEA-Teacherプログラム",
-            "summary": "東南アジアの提携大学での教育インターンシップへの参加者を募集します。現地教師の業務を実習し、授業を行うことを通して、グローバルな視野、異文化理解力、授業力、国際感覚を養うことが目標のプログラムです。2025年1月下旬から2月中旬の約一か月間、インドネシア、フィリピン、タイのいずれかの提携大学で実際に授業実習を行います。詳細は添付のチラシをご覧ください。\n事前説明会を下記日程で実施します。興味がある…",
             "date_modified": "2024-10-02T03:00:00.000Z"
         }
     ]
