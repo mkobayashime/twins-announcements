@@ -5,6 +5,20 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "685ad1c87770376452ea0f19919372bb",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5502",
+            "title": "(BHE)Appleの女性エンジニアに出会えるイベント(10/18)",
+            "summary": "海外に比べて、日本は女性エンジニアの数が非常に少ないことが指摘されています。\nしかし、実際にエンジニアとして活躍されている方は目覚ましい業績を上げているのです！\n\nそんな実態を知ってもらうべく、なんとApple社の女性エンジニアを交えたパネルセッションが開催されます。\nエンジニア職に興味がある、もしくは女性としてのワークライフバランスに興味がある…など、どんな理由でもぜひ参加してください。\n\n【日…",
+            "date_modified": "2024-10-07T03:00:00.000Z"
+        },
+        {
+            "id": "819463c8e08a3125c3178d0e669bd319",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5501",
+            "title": "（BHE)公務員内定者と話そう！　10月9日 学内「公務員内定者懇談会」",
+            "summary": "今年度の公務員試験内定者による内定者懇談会を開催します。\n受験体験談と共に、公務員試験の制度・対策・併願先等の理解を深めたり、受験にあたって準備すべきことを学ぶことができます。\n志望別に少人数に分かれての質疑応答の時間もあります。\n公務員試験受験予定の方や公務員に興味のある方はもちろん、今まで公務員を考えたことがなかった方も、\nまずは実際に試験を経験した先輩達のお話を聞いてみませんか。\n\n＜日時＞…",
+            "date_modified": "2024-10-07T03:00:00.000Z"
+        },
+        {
             "id": "0d8a427b5f3f5722401afca175df7e4e",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5500",
             "title": "【参加者募集】STEM ConnectHER「生成AIワークショップ＆ネットワーキング」",
@@ -128,20 +142,6 @@
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5482",
             "title": "（BHEキャリアサポーター企画）NHK内定者による座談会",
             "summary": "ヒューマンエンパワーメント推進局(BHE)キャリア支援チームです。\n本チームキャリアサポーターとして登録されている学生の有志企画についてお知らせします。\n----------\nこんにちは。BHEキャリアサポーターです。\n本学学生から高い人気を集める業界のひとつ＜テレビ業界＞について、なかなか情報交換できる機会は少ないですよね？\nこの業界について、また就職活動について、NHK内定者とNHK人事担当者…",
-            "date_modified": "2024-10-02T03:00:00.000Z"
-        },
-        {
-            "id": "e2906d7d0479e8a42462c4d5377cf488",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5481",
-            "title": "【参加者募集】院生女子会（10/18）",
-            "summary": "ヒューマンエンパワーメント推進局（BHE）の学生スタッフ（Co-Lab）主催で、10月18日（金）に「院生女子会」を開催いたします！\n院生になると研究室以外のつながりを持ちにくいですよね。\n（そのうえ女子の院生は3割程度しかいないんです。。。）\nそこで、いろんな分野の院生とつながりを作ろう、ということで本イベントを企画しました！\n所属関係なく参加できますので、気軽にご参加ください\n\n日程：10月1…",
-            "date_modified": "2024-10-02T03:00:00.000Z"
-        },
-        {
-            "id": "d70cd1952c690581c772bbed6221083f",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5480",
-            "title": "【比較文化学類】比較文化学類講演会のお知らせ",
-            "summary": "比較文化学類講演会のお知らせ\n\n※詳細は添付資料をご覧ください。",
             "date_modified": "2024-10-02T03:00:00.000Z"
         }
     ]
