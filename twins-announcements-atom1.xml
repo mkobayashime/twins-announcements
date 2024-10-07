@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/mkobayashime/twins-announcements</id>
     <title>在学生へのお知らせ | 筑波大学</title>
-    <updated>2024-10-06T21:06:26.753Z</updated>
+    <updated>2024-10-07T01:28:45.788Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://github.com/mkobayashime/twins-announcements"/>
     <subtitle>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</subtitle>
+    <entry>
+        <title type="html"><![CDATA[[リマインド]本日開催｜NHK内定者による座談会]]></title>
+        <id>cf165b74434c8ab2eea52b26ba5ef361</id>
+        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5499"/>
+        <updated>2024-10-07T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[ヒューマンエンパワーメント推進局(BHE)キャリア支援チームです。
+本日開催の、本チームキャリアサポーターとして登録されている学生の有志企画についてリマインドします。
+----------
+こんにちは。BHEキャリアサポーターです。
+本学学生から高い人気を集める業界のひとつ＜テレビ業界＞について、なかなか情報交換できる機会は少ないですよね？
+この業界について、また就職活動について、NHK内定者とN…]]></summary>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【開催案内】秋の図書館講習会 / Library Workshops]]></title>
         <id>90d454be821ff6291a30f6c5bee37832</id>
@@ -232,17 +244,5 @@ ECサイトは以下のリンクから
 まずは実際に試験を経験した先輩達のお話を聞いてみませんか。
 
 ＜日時＞…]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【注意喚起】本学構内における不審者の出没について／[caution] Suspicious Persons on the University's Campus]]></title>
-        <id>af841e636076093a2269457444e48cc8</id>
-        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5478"/>
-        <updated>2024-10-02T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[10月1日（火）に、中央口案内センター付近において、道を尋ねた際に相手にハグを求める不審な外国人男性が現れました。
-キャンパス内では、不審者がいないか、不審な点がないか十分気をつけてください。
-キャンパス内で不審者・不審物の情報があれば、速やかに最寄りの警備員室または本部防災センター（029-853-2079）へご連絡ください。
-また、緊急の場合はすぐに110番通報してください。
-
-On Octo…]]></summary>
     </entry>
 </feed>

@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "cf165b74434c8ab2eea52b26ba5ef361",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5499",
+            "title": "[リマインド]本日開催｜NHK内定者による座談会",
+            "summary": "ヒューマンエンパワーメント推進局(BHE)キャリア支援チームです。\n本日開催の、本チームキャリアサポーターとして登録されている学生の有志企画についてリマインドします。\n----------\nこんにちは。BHEキャリアサポーターです。\n本学学生から高い人気を集める業界のひとつ＜テレビ業界＞について、なかなか情報交換できる機会は少ないですよね？\nこの業界について、また就職活動について、NHK内定者とN…",
+            "date_modified": "2024-10-07T03:00:00.000Z"
+        },
+        {
             "id": "90d454be821ff6291a30f6c5bee37832",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5498",
             "title": "【開催案内】秋の図書館講習会 / Library Workshops",
@@ -135,13 +142,6 @@
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5479",
             "title": "（BHE)公務員内定者と話そう！　10月9日 学内「公務員内定者懇談会」",
             "summary": "今年度の公務員試験内定者による内定者懇談会を開催します。\n受験体験談と共に、公務員試験の制度・対策・併願先等の理解を深めたり、受験にあたって準備すべきことを学ぶことができます。\n志望別に少人数に分かれての質疑応答の時間もあります。\n公務員試験受験予定の方や公務員に興味のある方はもちろん、今まで公務員を考えたことがなかった方も、\nまずは実際に試験を経験した先輩達のお話を聞いてみませんか。\n\n＜日時＞…",
-            "date_modified": "2024-10-02T03:00:00.000Z"
-        },
-        {
-            "id": "af841e636076093a2269457444e48cc8",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5478",
-            "title": "【注意喚起】本学構内における不審者の出没について／[caution] Suspicious Persons on the University's Campus",
-            "summary": "10月1日（火）に、中央口案内センター付近において、道を尋ねた際に相手にハグを求める不審な外国人男性が現れました。\nキャンパス内では、不審者がいないか、不審な点がないか十分気をつけてください。\nキャンパス内で不審者・不審物の情報があれば、速やかに最寄りの警備員室または本部防災センター（029-853-2079）へご連絡ください。\nまた、緊急の場合はすぐに110番通報してください。\n\nOn Octo…",
             "date_modified": "2024-10-02T03:00:00.000Z"
         }
     ]
