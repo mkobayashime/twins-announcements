@@ -5,6 +5,34 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "2c6f5b33df7dfc4f0cf17ef98a801246",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5508",
+            "title": "明日開催！（BHE)公務員内定者と話そう！学内「公務員内定者懇談会」",
+            "summary": "今年度の公務員試験内定者による内定者懇談会を開催します。\n受験体験談と共に、公務員試験の制度・対策・併願先等の理解を深めたり、受験にあたって準備すべきことを学ぶことができます。\n志望別に少人数に分かれての質疑応答の時間もあります。\n公務員試験受験予定の方や公務員に興味のある方はもちろん、今まで公務員を考えたことがなかった方も、\nまずは実際に試験を経験した先輩達のお話を聞いてみませんか。\n\n＜日時＞…",
+            "date_modified": "2024-10-08T03:00:00.000Z"
+        },
+        {
+            "id": "8fb6103435abe89a49f824b9a249166c",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5507",
+            "title": "(茗渓会）10月9日　10月ぶっちゃけ相談会　特集テーマ 「金融業界」",
+            "summary": "毎月2名のOBOGが登壇し、ご自身のキャリアについて話をしてくださいます。\nみなさんが卒業した後に、どんなキャリア（人生、仕事、就職）を歩むのか？\n考えるきっかけとして、少し先に卒業した先輩が、何を考え、どう決断したのかを聞いてみてください。\nこれから就活が始まる方、卒業後の進路やキャリアに悩んでいる方、\nこれからの大学生活をどう過ごそうか考えている方、\nぜひ、先輩に質問してみてください。\n\n【参…",
+            "date_modified": "2024-10-08T03:00:00.000Z"
+        },
+        {
+            "id": "8688437a92f72f38f20ff631cbb6cc13",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5505",
+            "title": "第４８回秋季スポーツ・デー申し込みについてのお知らせ",
+            "summary": "筑波大学スポーツ・デー学生委員会からのお知らせです。\n\n１１月１６日（土）・１１月１７日（日）に第４８回秋季スポーツ・デーを開催いたします。\n\nスポーツ・デーとは、筑波大学の全学生・教職員の皆様にスポーツを提供する機会を与えることを目的とした筑波大学主催の行事です。\n\n今年度の秋季においては、恒例の正式種目はもちろん、e-sportsでは、試合の様子を中央体育館のラウンジにてパブリックビューイング…",
+            "date_modified": "2024-10-08T03:00:00.000Z"
+        },
+        {
+            "id": "6282ea88f79a6968c942282453218c2a",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5504",
+            "title": "第180回バイオeカフェ開催のお知らせ",
+            "summary": "第180回バイオeカフェを開催いたします。\n\n「人骨を掘って、装置で測る　ー生物としてのヒトと文化的存在としての人ー」\n　筑波大学人文社会系　板橋　悠先生\n\n日時：10月22日（火）　18時30分～20時\n場所：2B棟210　or　オンライン（Teams）\n\nバイオeカフェは、科学について詳しい人も、そうでない人も お菓子を片手に気軽に科学を楽しもうというイベントです。ぜひ気軽にご参加ください！！…",
+            "date_modified": "2024-10-08T03:00:00.000Z"
+        },
+        {
             "id": "30e8faedb9888000a2e184e9ff12bc1b",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5503",
             "title": "【開催案内】仏-UPHF主催 5th edition of the IAE School of Management International Week (IAE-IW 2025)",
@@ -115,34 +143,6 @@
             "title": "スーツの割引について（10/1更新）",
             "summary": "本学は紳士服の大手4社と契約しています。\nそのため、在学生とそのご家族の皆様には、\n全国のAOKI、コナカ、はるやま、洋服の青山（後日掲載）で、\n通常の割引価格から更に割引いた価格でスーツ等をご購入いただけます。\n大変お得ですので、是非ご利用ください。\n\n※ご購入いただいた金額の一部が大学に寄附されます。",
             "date_modified": "2024-10-03T03:00:00.000Z"
-        },
-        {
-            "id": "b32c28c08da6168c8d2be207b35e71a1",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5486",
-            "title": "筑波大学公式オリジナルグッズECサイト割引クーポンのお知らせ（10月） 2024/10/1～2024/10/31",
-            "summary": "筑波大学公式オリジナルグッズ販売サイト「TSUKUBA-SHOP」10月の割引クーポンコードをお知らせいたします！\n\nクーポンコード　：　tsnve10298n30\n有効期間　：　2024年10月1日～2024年10月31日\n\n\nどうぞご覧いただき、皆様の「日常生活」、「思い出」、「プレゼント🎁」などにご活用いただけますと幸いです。\n\nECサイトは以下のリンクから\n※学内専用割引コードをTWIN…",
-            "date_modified": "2024-10-03T03:00:00.000Z"
-        },
-        {
-            "id": "6fc96b45d1fdcbd7487a555076f9ac1e",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5485",
-            "title": "【周知】悪質なホストクラブ等の問題に関する注意喚起及び相談窓口について",
-            "summary": "\n    文部科学省より、悪質なホストクラブ等の問題に関する注意喚起及び相談窓口に関する資料の案内がありましたので、お知らせいたします。\n\n　本学では事例はありませんが、近年、ホストクラブ利用による高額な料金を返済するために売春に至る事例が生じており、女性相談支援センター等の相談機関には、本人や家族の方から、クレジットカード決済や消費者金融を利用し、返済能力を超える借金を抱えてしまい困っているとい…",
-            "date_modified": "2024-10-03T03:00:00.000Z"
-        },
-        {
-            "id": "5e83e0e4d7a6d2abf5cd6493ad6e8654",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5483",
-            "title": "(茗渓会・BHE）10月ぶっちゃけ相談会　特集テーマ 「金融業界」",
-            "summary": "毎月2名のOBOGが登壇し、ご自身のキャリアについて話をしてくださいます。\nみなさんが卒業した後に、どんなキャリア（人生、仕事、就職）を歩むのか？\n考えるきっかけとして、少し先に卒業した先輩が、何を考え、どう決断したのかを聞いてみてください。\nこれから就活が始まる方、卒業後の進路やキャリアに悩んでいる方、\nこれからの大学生活をどう過ごそうか考えている方、\nぜひ、先輩に質問してみてください。\n\n【参…",
-            "date_modified": "2024-10-03T03:00:00.000Z"
-        },
-        {
-            "id": "e2906d7d0479e8a42462c4d5377cf488",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5481",
-            "title": "【参加者募集】院生女子会（10/18）",
-            "summary": "ヒューマンエンパワーメント推進局（BHE）の学生スタッフ（Co-Lab）主催で、10月18日（金）に「院生女子会」を開催いたします！\n院生になると研究室以外のつながりを持ちにくいですよね。\n（そのうえ女子の院生は3割程度しかいないんです。。。）\nそこで、いろんな分野の院生とつながりを作ろう、ということで本イベントを企画しました！\n所属関係なく参加できますので、気軽にご参加ください\n\n日程：10月1…",
-            "date_modified": "2024-10-02T03:00:00.000Z"
         }
     ]
 }
