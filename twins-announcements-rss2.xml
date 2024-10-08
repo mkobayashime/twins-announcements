@@ -4,10 +4,21 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Mon, 07 Oct 2024 21:06:31 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 08 Oct 2024 01:28:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
+        <item>
+            <title><![CDATA[【開催案内】仏-UPHF主催 5th edition of the IAE School of Management International Week (IAE-IW 2025)]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5503</link>
+            <guid>30e8faedb9888000a2e184e9ff12bc1b</guid>
+            <pubDate>Tue, 08 Oct 2024 03:00:00 GMT</pubDate>
+            <description><![CDATA[システム情報工学研究群、工学システム学類、情報科学類、並びにシステム情報系と部局間交流協定を結んでいる、ポリテクニック・オー・ド・フランス(UPHF)より、標記の開催案内がありました。
+添付のフライヤー(1行目のリンクより入手可能、ファイルサイズの都合上直接ダウンロードをお願いいたします)をご覧いただき、2行目のリンクより直接お申し込みください。
+
+申込締切：2024年10月23日(仏時間)
+開催…]]></description>
+        </item>
         <item>
             <title><![CDATA[(BHE)Appleの女性エンジニアに出会えるイベント(10/18)]]></title>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5502</link>
@@ -241,15 +252,6 @@ ECサイトは以下のリンクから
 所属関係なく参加できますので、気軽にご参加ください
 
 日程：10月1…]]></description>
-        </item>
-        <item>
-            <title><![CDATA[【比較文化学類】比較文化学類講演会のお知らせ]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5480</link>
-            <guid>d70cd1952c690581c772bbed6221083f</guid>
-            <pubDate>Wed, 02 Oct 2024 03:00:00 GMT</pubDate>
-            <description><![CDATA[比較文化学類講演会のお知らせ
-
-※詳細は添付資料をご覧ください。]]></description>
         </item>
     </channel>
 </rss>

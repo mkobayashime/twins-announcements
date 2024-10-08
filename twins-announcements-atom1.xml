@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/mkobayashime/twins-announcements</id>
     <title>在学生へのお知らせ | 筑波大学</title>
-    <updated>2024-10-07T21:06:31.784Z</updated>
+    <updated>2024-10-08T01:28:32.767Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://github.com/mkobayashime/twins-announcements"/>
     <subtitle>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</subtitle>
+    <entry>
+        <title type="html"><![CDATA[【開催案内】仏-UPHF主催 5th edition of the IAE School of Management International Week (IAE-IW 2025)]]></title>
+        <id>30e8faedb9888000a2e184e9ff12bc1b</id>
+        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5503"/>
+        <updated>2024-10-08T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[システム情報工学研究群、工学システム学類、情報科学類、並びにシステム情報系と部局間交流協定を結んでいる、ポリテクニック・オー・ド・フランス(UPHF)より、標記の開催案内がありました。
+添付のフライヤー(1行目のリンクより入手可能、ファイルサイズの都合上直接ダウンロードをお願いいたします)をご覧いただき、2行目のリンクより直接お申し込みください。
+
+申込締切：2024年10月23日(仏時間)
+開催…]]></summary>
+    </entry>
     <entry>
         <title type="html"><![CDATA[(BHE)Appleの女性エンジニアに出会えるイベント(10/18)]]></title>
         <id>685ad1c87770376452ea0f19919372bb</id>
@@ -239,14 +250,5 @@ ECサイトは以下のリンクから
 所属関係なく参加できますので、気軽にご参加ください
 
 日程：10月1…]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【比較文化学類】比較文化学類講演会のお知らせ]]></title>
-        <id>d70cd1952c690581c772bbed6221083f</id>
-        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5480"/>
-        <updated>2024-10-02T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[比較文化学類講演会のお知らせ
-
-※詳細は添付資料をご覧ください。]]></summary>
     </entry>
 </feed>
