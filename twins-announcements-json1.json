@@ -5,6 +5,27 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "466113980d1179d3bb23e9c62355f717",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5511",
+            "title": "「MDA研究のフロンティア」のご案内 \"Frontier of MDA Research\" (10/24～)",
+            "summary": "今年度の「MDA研究のフロンティア」の内容が固まりました。\nMDA異分野融合/連携ゼミナールの科目ですが、1回のみの受講も可能です。\nキャリアパスを考える上で、ご自身のキャリアについてもお話いただく予定です。\n原則対面ですが、オンラインも可。\nぜひご参加ください。\n\n【科目履修せずに受講】\nお申込み：https://forms.office.com/r/25Z4KXCufu\n\n【科目履修】\n博士後…",
+            "date_modified": "2024-10-08T03:00:00.000Z"
+        },
+        {
+            "id": "9f84ca3e66a9b3230a395c433cd52ebf",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5510",
+            "title": "【11/5】セミナー「世界の子ども達に等しい教育の機会を―国際機関を通しての教育開発支援の経験から―」",
+            "summary": "第54回ASIP/TG合同セミナーの参加者を募集します。\n\n【世界の子ども達に等しい教育の機会を―国際機関を通しての教育開発支援の経験から―】\n日時：2024年11月5日（火）15：00～16：30\n方法：オンライン\n講師：中島（野呂）朋子氏（国際機関教育アドバイザー）\n\n内容：国連児童基金（UNICEF）、国連難民高等弁務官事務所（UNHCR）、世界銀行などの国際機関において、教育開発（特に教育…",
+            "date_modified": "2024-10-08T03:00:00.000Z"
+        },
+        {
+            "id": "9f84ca3e66a9b3230a395c433cd52ebf",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5509",
+            "title": "【11/5】セミナー「世界の子ども達に等しい教育の機会を―国際機関を通しての教育開発支援の経験から―」",
+            "summary": "第54回ASIP/TG合同セミナーの参加者を募集します。\n\n【世界の子ども達に等しい教育の機会を―国際機関を通しての教育開発支援の経験から―】\n日時：2024年11月5日（火）15：00～16：30\n方法：オンライン\n講師：中島（野呂）朋子氏（国際機関教育アドバイザー）\n\n内容：国連児童基金（UNICEF）、国連難民高等弁務官事務所（UNHCR）、世界銀行などの国際機関において、教育開発（特に教育…",
+            "date_modified": "2024-10-08T03:00:00.000Z"
+        },
+        {
             "id": "2c6f5b33df7dfc4f0cf17ef98a801246",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5508",
             "title": "明日開催！（BHE)公務員内定者と話そう！学内「公務員内定者懇談会」",
@@ -121,27 +142,6 @@
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5490",
             "title": "2025年秋学期渡航分　協定校留学説明会",
             "summary": "協定校留学の制度や注意点、学内公募から帰国後までの手続き、以下の対象協定校の概要と応募条件について説明します。留学に関心のある方の参加をお待ちしています。\n\n日時：2024年10月15日（火）18：30～20：00\n場所：スチューデント・コモンズ（第1エリア１A棟２階）\n※本説明会は録画し、後日スチューデントサポートセンターのウェブサイトで公開されます。\n\n◆対象協定校（国際交流支援室担当分）\n・…",
-            "date_modified": "2024-10-03T03:00:00.000Z"
-        },
-        {
-            "id": "2d454eefcf050d31e3a7e67b5755835a",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5489",
-            "title": "（附属図書館）ライティング支援連続セミナー2024を開催します（10/17～11/21）",
-            "summary": "読むこと、考えること、伝えること。高校までとは違う、大学での学びに必要なスキルをテーマ毎にご案内する、ライティング支援連続セミナーが始まります。\nレポート作成や論文執筆など、大学特有の課題形式に取り組むスキルを伸ばしたい方に特にお薦めです。\n\n受講対象者：筑波大学の関係者であればどなたでも受講できます。\n会場：中央図書館本館2階ギャラリーゾーン（入館ゲートを入って直ぐ）\n事前申し込みは不要です。当…",
-            "date_modified": "2024-10-03T03:00:00.000Z"
-        },
-        {
-            "id": "940b14f275f06428882ab922227e9565",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5488",
-            "title": "【周知】令和6年度犯罪被害者等支援に関する認知度調査アンケートについて",
-            "summary": "【周知】令和6年度犯罪被害者等支援に関する認知度調査アンケートについて\n茨城県より、アンケートへの協力依頼がありましたので、お知らせいたします。\n\n    茨城県では、犯罪被害者等支援窓口、性暴力被害者支援窓口等の認知度の向上等を通じて、県民の誰もが安心して暮らすことができる社会の実現を目指しています。\n　本アンケートは、学生の皆さんに、条例や被害に遭った際の対処方法、相談窓口があることを知ってい…",
-            "date_modified": "2024-10-03T03:00:00.000Z"
-        },
-        {
-            "id": "0cf5263e6185e75ebe9e4f0dbd7a555d",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5487",
-            "title": "スーツの割引について（10/1更新）",
-            "summary": "本学は紳士服の大手4社と契約しています。\nそのため、在学生とそのご家族の皆様には、\n全国のAOKI、コナカ、はるやま、洋服の青山（後日掲載）で、\n通常の割引価格から更に割引いた価格でスーツ等をご購入いただけます。\n大変お得ですので、是非ご利用ください。\n\n※ご購入いただいた金額の一部が大学に寄附されます。",
             "date_modified": "2024-10-03T03:00:00.000Z"
         }
     ]
