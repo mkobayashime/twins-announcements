@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/mkobayashime/twins-announcements</id>
     <title>在学生へのお知らせ | 筑波大学</title>
-    <updated>2024-10-09T01:28:40.374Z</updated>
+    <updated>2024-10-09T02:24:13.856Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://github.com/mkobayashime/twins-announcements"/>
     <subtitle>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</subtitle>
+    <entry>
+        <title type="html"><![CDATA[【開催案内・11/12】障害学生等支援防災ワーク（全学リスクマネジメントセミナー）]]></title>
+        <id>b2d98146d6a7a40033b6f074422f3418</id>
+        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5515"/>
+        <updated>2024-10-09T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[令和6年度全学防災訓練「障害学生等支援防災ワーク」（全学リスクマネジメントセミナー）を開催いたします。
+大学における障害学生への防災支援に焦点を当て、教職員や学生に日常業務や生活に取り入れやすい具体的な防災対策のヒントを提供することを目的とし、筑波地区防災訓練の一環として行います。
+なお、本防災ワークは全学リスクマネジメントセミナーを兼ねて実施します。
+皆さまのご参加をお待ちしております。
+
+実施…]]></summary>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【募集開始】SSC公募（一括公募）型CiCパートナー校及び全学対象協定校への交換留学（2025年秋学期渡航分）]]></title>
         <id>ba37e92a924cad748ec961952988be59</id>
@@ -248,16 +260,5 @@ https://www.tulips.tsukuba.ac.jp/lib…]]></summary>
 【募集内容の概要】
 留学先：ドイツ・ブランデンブルク工科大学コトブス＝ゼンフテンベルク校
 留学期間：2025年4月～2026年3月までの12ヵ月以内※少なくとも1学期間以上滞在することが望ましい。渡航時…]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【募集を締め切りました/Applications are closed】いけばな体験教室の開催について/The Lesson of Ikebana Experience]]></title>
-        <id>5576c17b07a1d3aa8a392aa71674c6ec</id>
-        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5493"/>
-        <updated>2024-10-04T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[10月19日開催のいけばな体験教室は定員に達したため、
-募集を締め切りました。
-
-The number of applicants for the lesson of Ikebana experience on October 19 has reached the limit,
-so we closed applications.]]></summary>
     </entry>
 </feed>
