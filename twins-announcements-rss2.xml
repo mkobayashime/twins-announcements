@@ -4,10 +4,20 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Wed, 09 Oct 2024 07:01:42 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 09 Oct 2024 08:01:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
+        <item>
+            <title><![CDATA[【開催案内・11/12】障害学生等支援防災ワーク（全学リスクマネジメントセミナー）]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5522</link>
+            <guid>b2d98146d6a7a40033b6f074422f3418</guid>
+            <pubDate>Wed, 09 Oct 2024 03:00:00 GMT</pubDate>
+            <description><![CDATA[　令和6年度全学防災訓練「障害学生等支援防災ワーク」（全学リスクマネジメントセミナー）を開催いたします。
+　大学における障害学生への防災支援に焦点を当て、教職員や学生に日常業務や生活に取り入れやすい具体的な防災対策のヒントを提供することを目的とし、筑波地区防災訓練の一環として行います。
+　なお、本防災ワークは全学リスクマネジメントセミナーを兼ねて実施します。
+　皆さまのご参加をお待ちしております。…]]></description>
+        </item>
         <item>
             <title><![CDATA[【CEGLOC】ビクトリア大学ウェリントン校(ニュージーランド）での語学研修についての説明会のお知らせ]]></title>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5521</link>
@@ -263,16 +273,6 @@ https://www.tulips.tsukuba.ac.jp/lib…]]></description>
             <description><![CDATA[2024年度第2期分授業料の納付について、添付の通りお知らせいたします。
 口座振替日、納付期限についてご確認をお願いいたします。
 ]]></description>
-        </item>
-        <item>
-            <title><![CDATA[【再募集・謝礼あり】大学内でリラックスできる学習・休憩環境を体験する実験の参加者募集]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5496</link>
-            <guid>8c586e7df1ea2f90ba52de376ef35752</guid>
-            <pubDate>Fri, 04 Oct 2024 03:00:00 GMT</pubDate>
-            <description><![CDATA[　筑波大学ヒューマンエンパワーメント推進局（BHE）では、大学生を対象に大学内でリラックスできる環境の構築に関する研究を進めています。
-このたび、多重感覚環境（センサリールーム）という、照明の色や明るさなどを好みに応じて変えられる環境などを実際に体験して、リラクゼーション効果を検証する研究を行うため、ご協力いただける大学生を募集します。研究内容の詳細は添付のチラシをご覧ください。
-
-＜対象者＞大学…]]></description>
         </item>
     </channel>
 </rss>
