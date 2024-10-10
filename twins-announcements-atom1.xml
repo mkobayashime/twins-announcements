@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/mkobayashime/twins-announcements</id>
     <title>在学生へのお知らせ | 筑波大学</title>
-    <updated>2024-10-10T01:28:52.429Z</updated>
+    <updated>2024-10-10T06:02:08.157Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://github.com/mkobayashime/twins-announcements"/>
     <subtitle>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</subtitle>
+    <entry>
+        <title type="html"><![CDATA[【留学生向け奨学金】公益財団法人　千本財団 (2025年度春季募集)]]></title>
+        <id>1682f72a01312719a36c95a895e9707b</id>
+        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5524"/>
+        <updated>2024-10-10T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[公益財団法人　千本財団 (2025年度春季募集)
+応募期間：2024年10月7日(月)～2024年12月9日(月)　※当日消印有効
+提出先　：財団へ直接応募
+募集要項：(PDF(資料1))
+財団HP：https://semmoto.or.jp/scholarship-system
+※この奨学金を受給する者は、受給期間中、他の大学推薦奨学金の申請資格がありません。
+※日本語能力試験N2程度以上の日本…]]></summary>
+    </entry>
     <entry>
         <title type="html"><![CDATA[就活セミナー「筑波＿卒業後を考える会」開催のお知らせ 　　]]></title>
         <id>4fe64a13cd82accda5b2503c8b0587fe</id>
@@ -259,20 +272,5 @@ MDA異分野融合/連携ゼミナールの科目ですが、1回のみの受講
 日程：2024年10月21日（月）17:00-20:00
 会場：筑波大学第3エリア3A棟304号室
 共催：非…]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【開催案内】秋の図書館講習会 / Library Workshops]]></title>
-        <id>90d454be821ff6291a30f6c5bee37832</id>
-        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5498"/>
-        <updated>2024-10-04T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[【開催案内】秋の図書館講習会 / Library Workshops
-
-附属図書館では、10月から秋の講習会を開催します。
-図書館の使い方や各種データベースの使い方など、学習や研究に役立つ内容です。
-manabaでコース登録をしてご参加ください。
-皆様のご参加をお待ちしております。
-
-詳しくは下記Webページをご覧ください。
-https://www.tulips.tsukuba.ac.jp/lib…]]></summary>
     </entry>
 </feed>

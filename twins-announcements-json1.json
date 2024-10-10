@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "1682f72a01312719a36c95a895e9707b",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5524",
+            "title": "【留学生向け奨学金】公益財団法人　千本財団 (2025年度春季募集)",
+            "summary": "公益財団法人　千本財団 (2025年度春季募集)\n応募期間：2024年10月7日(月)～2024年12月9日(月)　※当日消印有効\n提出先　：財団へ直接応募\n募集要項：(PDF(資料1))\n財団HP：https://semmoto.or.jp/scholarship-system\n※この奨学金を受給する者は、受給期間中、他の大学推薦奨学金の申請資格がありません。\n※日本語能力試験N2程度以上の日本…",
+            "date_modified": "2024-10-10T03:00:00.000Z"
+        },
+        {
             "id": "4fe64a13cd82accda5b2503c8b0587fe",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5523",
             "title": "就活セミナー「筑波＿卒業後を考える会」開催のお知らせ 　　",
@@ -136,13 +143,6 @@
             "title": "【参加者募集】STEM ConnectHER「生成AIワークショップ＆ネットワーキング」",
             "summary": "10月21日（月）に、女子学生・院生向け「生成AIワークショップ＆ネットワーキング」を開催いたします。\n参加費等は無料となっておりますので、ぜひお気軽にご参加ください。\n\n//////\nワークショップ開催概要\n名称：STEM ConnectHER「生成AIワークショップ＆ネットワーキング」\n日程：2024年10月21日（月）17:00-20:00\n会場：筑波大学第3エリア3A棟304号室\n共催：非…",
             "date_modified": "2024-10-07T03:00:00.000Z"
-        },
-        {
-            "id": "90d454be821ff6291a30f6c5bee37832",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5498",
-            "title": "【開催案内】秋の図書館講習会 / Library Workshops",
-            "summary": "【開催案内】秋の図書館講習会 / Library Workshops\n\n附属図書館では、10月から秋の講習会を開催します。\n図書館の使い方や各種データベースの使い方など、学習や研究に役立つ内容です。\nmanabaでコース登録をしてご参加ください。\n皆様のご参加をお待ちしております。\n\n詳しくは下記Webページをご覧ください。\nhttps://www.tulips.tsukuba.ac.jp/lib…",
-            "date_modified": "2024-10-04T03:00:00.000Z"
         }
     ]
 }
