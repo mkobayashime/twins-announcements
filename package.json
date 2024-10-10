@@ -2,7 +2,7 @@
   "name": "twins-announcements",
   "version": "1.0.0",
   "main": "index.js",
-  "packageManager": "pnpm@9.12.0+sha512.4abf725084d7bcbafbd728bfc7bee61f2f791f977fd87542b3579dcb23504d170d46337945e4c66485cd12d588a0c0e570ed9c477e7ccdd8507cf05f3f92eaca",
+  "packageManager": "pnpm@9.12.1+sha512.e5a7e52a4183a02d5931057f7a0dbff9d5e9ce3161e33fa68ae392125b79282a8a8a470a51dfc8a0ed86221442eb2fb57019b0990ed24fab519bf0e1bc5ccfc4",
   "author": "Masaki Kobayashi <contact@mkobayashi.me>",
   "license": "MIT",
   "private": true,
@@ -10,15 +10,15 @@
   "devDependencies": {
     "@biomejs/biome": "1.9.3",
     "@types/md5": "2.3.5",
-    "@types/node": "20.16.10",
+    "@types/node": "20.16.11",
     "date-fns": "4.1.0",
     "feed": "4.2.2",
     "fp-ts": "2.16.9",
     "md5": "2.3.0",
-    "puppeteer": "23.5.0",
+    "puppeteer": "23.5.2",
     "rimraf": "6.0.1",
     "tsx": "4.19.1",
-    "typescript": "5.6.2"
+    "typescript": "5.6.3"
   },
   "scripts": {
     "preinstall": "npx only-allow pnpm"
