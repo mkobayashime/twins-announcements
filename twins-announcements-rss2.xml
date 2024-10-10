@@ -4,10 +4,24 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Thu, 10 Oct 2024 06:02:08 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 10 Oct 2024 07:01:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
+        <item>
+            <title><![CDATA[【お知らせ】令和６年度筑波地区防災訓練の実施について11月12日（火）/ Implementation of the Tsukuba Area Disaster Drills for AY 2024]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5525</link>
+            <guid>5d1da8391c42c78d18e311a05dd1528d</guid>
+            <pubDate>Thu, 10 Oct 2024 03:00:00 GMT</pubDate>
+            <description><![CDATA[日頃より、本学の災害対策にご協力いただきありがとうございます。
+令和６年度筑波地区防災訓練の実施についてお知らせいたします。
+
+実施日時：令和６年１１月１２日（火）　１１時２５分（２限目終了時刻）
+参 加 者：学生、教職員、防災センター所属職員、参加可能な学内業務委託業者・福利厚生事業従業員等
+
+訓練の内容等につきましては、下記の環境安全管理室HPをご覧ください。
+https://anzenkan…]]></description>
+        </item>
         <item>
             <title><![CDATA[【留学生向け奨学金】公益財団法人　千本財団 (2025年度春季募集)]]></title>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5524</link>
@@ -259,21 +273,6 @@ MDA異分野融合/連携ゼミナールの科目ですが、1回のみの受講
 まずは実際に試験を経験した先輩達のお話を聞いてみませんか。
 
 ＜日時＞…]]></description>
-        </item>
-        <item>
-            <title><![CDATA[【参加者募集】STEM ConnectHER「生成AIワークショップ＆ネットワーキング」]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5500</link>
-            <guid>0d8a427b5f3f5722401afca175df7e4e</guid>
-            <pubDate>Mon, 07 Oct 2024 03:00:00 GMT</pubDate>
-            <description><![CDATA[10月21日（月）に、女子学生・院生向け「生成AIワークショップ＆ネットワーキング」を開催いたします。
-参加費等は無料となっておりますので、ぜひお気軽にご参加ください。
-
-//////
-ワークショップ開催概要
-名称：STEM ConnectHER「生成AIワークショップ＆ネットワーキング」
-日程：2024年10月21日（月）17:00-20:00
-会場：筑波大学第3エリア3A棟304号室
-共催：非…]]></description>
         </item>
     </channel>
 </rss>
