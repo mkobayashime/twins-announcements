@@ -4,10 +4,22 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Wed, 09 Oct 2024 21:06:28 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 10 Oct 2024 01:28:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
+        <item>
+            <title><![CDATA[就活セミナー「筑波＿卒業後を考える会」開催のお知らせ 　　]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5523</link>
+            <guid>4fe64a13cd82accda5b2503c8b0587fe</guid>
+            <pubDate>Thu, 10 Oct 2024 03:00:00 GMT</pubDate>
+            <description><![CDATA[筑波大学「世界を変えよう基金アカデミー」では、就活を終えた4年生が自らの経験を下級生に伝える「筑波＿卒業後を考える会」をZoomで毎年開催しています。
+ガクチカ、インターン体験、就活対象先を絞り込んで最終内定先を選んだ過程等、
+就活中あるいはこれから就活を始める皆さんにとって興味深いテーマを取り上げていただきます。
+
+今年の日程は下記のとおりです。
+10/20(日)20:00~、スピーカー（国際5…]]></description>
+        </item>
         <item>
             <title><![CDATA[【開催案内・11/12】障害学生等支援防災ワーク（全学リスクマネジメントセミナー）]]></title>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5522</link>
@@ -264,15 +276,6 @@ manabaでコース登録をしてご参加ください。
 
 詳しくは下記Webページをご覧ください。
 https://www.tulips.tsukuba.ac.jp/lib…]]></description>
-        </item>
-        <item>
-            <title><![CDATA[2024年度第2期分授業料の納付について]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5497</link>
-            <guid>74095324798cf783ebc04fb1028d627f</guid>
-            <pubDate>Fri, 04 Oct 2024 03:00:00 GMT</pubDate>
-            <description><![CDATA[2024年度第2期分授業料の納付について、添付の通りお知らせいたします。
-口座振替日、納付期限についてご確認をお願いいたします。
-]]></description>
         </item>
     </channel>
 </rss>

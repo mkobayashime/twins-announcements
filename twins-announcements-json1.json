@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "4fe64a13cd82accda5b2503c8b0587fe",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5523",
+            "title": "就活セミナー「筑波＿卒業後を考える会」開催のお知らせ 　　",
+            "summary": "筑波大学「世界を変えよう基金アカデミー」では、就活を終えた4年生が自らの経験を下級生に伝える「筑波＿卒業後を考える会」をZoomで毎年開催しています。\nガクチカ、インターン体験、就活対象先を絞り込んで最終内定先を選んだ過程等、\n就活中あるいはこれから就活を始める皆さんにとって興味深いテーマを取り上げていただきます。\n\n今年の日程は下記のとおりです。\n10/20(日)20:00~、スピーカー（国際5…",
+            "date_modified": "2024-10-10T03:00:00.000Z"
+        },
+        {
             "id": "b2d98146d6a7a40033b6f074422f3418",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5522",
             "title": "【開催案内・11/12】障害学生等支援防災ワーク（全学リスクマネジメントセミナー）",
@@ -135,13 +142,6 @@
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5498",
             "title": "【開催案内】秋の図書館講習会 / Library Workshops",
             "summary": "【開催案内】秋の図書館講習会 / Library Workshops\n\n附属図書館では、10月から秋の講習会を開催します。\n図書館の使い方や各種データベースの使い方など、学習や研究に役立つ内容です。\nmanabaでコース登録をしてご参加ください。\n皆様のご参加をお待ちしております。\n\n詳しくは下記Webページをご覧ください。\nhttps://www.tulips.tsukuba.ac.jp/lib…",
-            "date_modified": "2024-10-04T03:00:00.000Z"
-        },
-        {
-            "id": "74095324798cf783ebc04fb1028d627f",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5497",
-            "title": "2024年度第2期分授業料の納付について",
-            "summary": "2024年度第2期分授業料の納付について、添付の通りお知らせいたします。\n口座振替日、納付期限についてご確認をお願いいたします。\n",
             "date_modified": "2024-10-04T03:00:00.000Z"
         }
     ]

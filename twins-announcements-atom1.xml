@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/mkobayashime/twins-announcements</id>
     <title>在学生へのお知らせ | 筑波大学</title>
-    <updated>2024-10-09T21:06:28.218Z</updated>
+    <updated>2024-10-10T01:28:52.429Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://github.com/mkobayashime/twins-announcements"/>
     <subtitle>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</subtitle>
+    <entry>
+        <title type="html"><![CDATA[就活セミナー「筑波＿卒業後を考える会」開催のお知らせ 　　]]></title>
+        <id>4fe64a13cd82accda5b2503c8b0587fe</id>
+        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5523"/>
+        <updated>2024-10-10T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[筑波大学「世界を変えよう基金アカデミー」では、就活を終えた4年生が自らの経験を下級生に伝える「筑波＿卒業後を考える会」をZoomで毎年開催しています。
+ガクチカ、インターン体験、就活対象先を絞り込んで最終内定先を選んだ過程等、
+就活中あるいはこれから就活を始める皆さんにとって興味深いテーマを取り上げていただきます。
+
+今年の日程は下記のとおりです。
+10/20(日)20:00~、スピーカー（国際5…]]></summary>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【開催案内・11/12】障害学生等支援防災ワーク（全学リスクマネジメントセミナー）]]></title>
         <id>b2d98146d6a7a40033b6f074422f3418</id>
@@ -262,14 +274,5 @@ manabaでコース登録をしてご参加ください。
 
 詳しくは下記Webページをご覧ください。
 https://www.tulips.tsukuba.ac.jp/lib…]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2024年度第2期分授業料の納付について]]></title>
-        <id>74095324798cf783ebc04fb1028d627f</id>
-        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5497"/>
-        <updated>2024-10-04T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[2024年度第2期分授業料の納付について、添付の通りお知らせいたします。
-口座振替日、納付期限についてご確認をお願いいたします。
-]]></summary>
     </entry>
 </feed>
