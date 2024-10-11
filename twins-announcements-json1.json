@@ -5,6 +5,34 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "11dc9be31462f6ec24155e613eda6d77",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5529",
+            "title": "【奨学金/Scholarship】公益財団法人似鳥国際奨学財団 /Nitori International Scholarship Foundation",
+            "summary": "公益財団法人　似鳥国際奨学財団 2025年度(上期)\n応募期限：2024年11月7日（木）13時\n提出先　：財団へ直接応募\n募集要項：(PDF(資料1))\n財団HP：https://www.nitori-shougakuzaidan.com/application/#ryugaku\n※この奨学金を受給する者は、2025年度の大学推薦奨学金の申請資格がありません。\n※日本語能力検定N3以上程度の日本…",
+            "date_modified": "2024-10-11T03:00:00.000Z"
+        },
+        {
+            "id": "dc02a707a0f53f5c14711e3edd9554bb",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5528",
+            "title": "【On-site】World-science Leaders’ Seminar for all students on October 16th (Wed) 2024 15：15-16：30",
+            "summary": "The World-science Leaders’ Seminar is a part of classes in the Human Biology PhD program.\nStudents attending this seminar will learn the basics and latest research trends in the specialties of the wor…",
+            "date_modified": "2024-10-11T03:00:00.000Z"
+        },
+        {
+            "id": "42bfaea583ae0440fa9f59db6730c54a",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5527",
+            "title": "【通知】令和6年度全学停電に伴うTWINSおよびKdB休止のお知らせ（10/25(金)午後５時～10/28(月)午前12時まで）",
+            "summary": "TWINS・KdB利用者各位\n\n令和６年度全学停電に伴い、以下の期間TWINSおよびKdBのサービスを休止いたします。\nご迷惑をおかけしますが、ご協力をお願いします。\n\nTWINS・KdB運転休止期間：\n令和６年10月25日(金)　午後５時　から　10月28日(月)　午前12時　まで\n※28日は動作確認が完了次第復旧いたします。\n\nRoutine inspections on electrical…",
+            "date_modified": "2024-10-11T03:00:00.000Z"
+        },
+        {
+            "id": "6fe0766b02ef5851c061fae65692b29e",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5526",
+            "title": "公益財団法人　イノアック国際教育振興財団 第39期(2025年度)奨学金 タイプＡ",
+            "summary": "公益財団法人　イノアック国際教育振興財団 第39期(2025年度)奨学金 タイプＡ\n申請期限：2024年10月20日（日）23：00\n申請方法：以下のURLより財団へ直接応募\n※奨学生推薦書には、学生交流課での手続きが必要な箇所があります。\n　本奨学金応募希望者は、必ず10月15日（火）17時までに（isc-shien#@#un.tsukuba.ac.jp）\n（#@#を「@」に置き換えてください）…",
+            "date_modified": "2024-10-11T03:00:00.000Z"
+        },
+        {
             "id": "5d1da8391c42c78d18e311a05dd1528d",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5525",
             "title": "【お知らせ】令和６年度筑波地区防災訓練の実施について11月12日（火）/ Implementation of the Tsukuba Area Disaster Drills for AY 2024",
@@ -115,34 +143,6 @@
             "title": "第４８回秋季スポーツ・デー申し込みについてのお知らせ",
             "summary": "筑波大学スポーツ・デー学生委員会からのお知らせです。\n\n１１月１６日（土）・１１月１７日（日）に第４８回秋季スポーツ・デーを開催いたします。\n\nスポーツ・デーとは、筑波大学の全学生・教職員の皆様にスポーツを提供する機会を与えることを目的とした筑波大学主催の行事です。\n\n今年度の秋季においては、恒例の正式種目はもちろん、e-sportsでは、試合の様子を中央体育館のラウンジにてパブリックビューイング…",
             "date_modified": "2024-10-08T03:00:00.000Z"
-        },
-        {
-            "id": "6282ea88f79a6968c942282453218c2a",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5504",
-            "title": "第180回バイオeカフェ開催のお知らせ",
-            "summary": "第180回バイオeカフェを開催いたします。\n\n「人骨を掘って、装置で測る　ー生物としてのヒトと文化的存在としての人ー」\n　筑波大学人文社会系　板橋　悠先生\n\n日時：10月22日（火）　18時30分～20時\n場所：2B棟210　or　オンライン（Teams）\n\nバイオeカフェは、科学について詳しい人も、そうでない人も お菓子を片手に気軽に科学を楽しもうというイベントです。ぜひ気軽にご参加ください！！…",
-            "date_modified": "2024-10-08T03:00:00.000Z"
-        },
-        {
-            "id": "30e8faedb9888000a2e184e9ff12bc1b",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5503",
-            "title": "【開催案内】仏-UPHF主催 5th edition of the IAE School of Management International Week (IAE-IW 2025)",
-            "summary": "システム情報工学研究群、工学システム学類、情報科学類、並びにシステム情報系と部局間交流協定を結んでいる、ポリテクニック・オー・ド・フランス(UPHF)より、標記の開催案内がありました。\n添付のフライヤー(1行目のリンクより入手可能、ファイルサイズの都合上直接ダウンロードをお願いいたします)をご覧いただき、2行目のリンクより直接お申し込みください。\n\n申込締切：2024年10月23日(仏時間)\n開催…",
-            "date_modified": "2024-10-08T03:00:00.000Z"
-        },
-        {
-            "id": "685ad1c87770376452ea0f19919372bb",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5502",
-            "title": "(BHE)Appleの女性エンジニアに出会えるイベント(10/18)",
-            "summary": "海外に比べて、日本は女性エンジニアの数が非常に少ないことが指摘されています。\nしかし、実際にエンジニアとして活躍されている方は目覚ましい業績を上げているのです！\n\nそんな実態を知ってもらうべく、なんとApple社の女性エンジニアを交えたパネルセッションが開催されます。\nエンジニア職に興味がある、もしくは女性としてのワークライフバランスに興味がある…など、どんな理由でもぜひ参加してください。\n\n【日…",
-            "date_modified": "2024-10-07T03:00:00.000Z"
-        },
-        {
-            "id": "819463c8e08a3125c3178d0e669bd319",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5501",
-            "title": "（BHE)公務員内定者と話そう！　10月9日 学内「公務員内定者懇談会」",
-            "summary": "今年度の公務員試験内定者による内定者懇談会を開催します。\n受験体験談と共に、公務員試験の制度・対策・併願先等の理解を深めたり、受験にあたって準備すべきことを学ぶことができます。\n志望別に少人数に分かれての質疑応答の時間もあります。\n公務員試験受験予定の方や公務員に興味のある方はもちろん、今まで公務員を考えたことがなかった方も、\nまずは実際に試験を経験した先輩達のお話を聞いてみませんか。\n\n＜日時＞…",
-            "date_modified": "2024-10-07T03:00:00.000Z"
         }
     ]
 }
