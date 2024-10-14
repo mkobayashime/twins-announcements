@@ -1,13 +1,12 @@
-biome = pnpm exec biome
-typecheck = pnpm exec tsc --noEmit
-ts-node = pnpm exec tsx
+biome = bunx biome
+typecheck = bunx tsc --noEmit
+ts-node = bunx tsx
 
-node_modules: package.json pnpm-*.yaml
-	pnpm install
-	@touch node_modules
+node_modules: PHONY
+	bun install
 
 run: node_modules PHONY
-	$(ts-node) src/index.ts
+	bun run src/index.ts
 
 lint: node_modules PHONY
 	$(biome) check .
@@ -22,6 +21,6 @@ typecheck.watch: node_modules PHONY
 	$(typecheck) --watch
 
 clear: node_modules PHONY
-	pnpm exec rimraf dist
+	bunx rimraf dist
 
 PHONY:
