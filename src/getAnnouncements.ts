@@ -1,4 +1,3 @@
-import { setTimeout as setTimerTimeout } from "node:timers/promises";
 import { parse } from "date-fns";
 import * as O from "fp-ts/lib/Option.js";
 import md5 from "md5";
@@ -146,7 +145,7 @@ export const getAnnouncements = async ({
 
       await anchorElement?.click();
 
-      await setTimerTimeout(2000);
+      await new Promise((resolve) => setTimeout(resolve, 2000));
       await waitForAnnouncementToBeLoaded({ page });
 
       announcements.push({
