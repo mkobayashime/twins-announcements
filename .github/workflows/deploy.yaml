@@ -19,10 +19,6 @@ jobs:
       HEADLESS: true
     steps:
       - uses: actions/checkout@v4
-      - uses: actions/checkout@v4
-        with:
-          ref: dist
-          path: dist
       - uses: oven-sh/setup-bun@v2
         with:
           bun-version: latest
