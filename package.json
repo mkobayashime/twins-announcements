@@ -14,10 +14,10 @@
     "feed": "4.2.2",
     "fp-ts": "2.16.9",
     "md5": "2.3.0",
-    "puppeteer": "23.5.0",
+    "puppeteer": "23.5.3",
     "rimraf": "6.0.1",
     "tsx": "4.19.1",
-    "typescript": "5.6.2"
+    "typescript": "5.6.3"
   },
   "scripts": {
     "preinstall": "npx only-allow bun"
