@@ -148,6 +148,8 @@ export const getAnnouncements = async ({
       await new Promise((resolve) => setTimeout(resolve, 2000));
       await waitForAnnouncementToBeLoaded({ page });
 
+      console.log("Found announcement:", title);
+
       announcements.push({
         id: md5(title),
         title,
