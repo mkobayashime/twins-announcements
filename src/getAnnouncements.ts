@@ -1,7 +1,7 @@
 import { parse } from "date-fns";
 import * as O from "fp-ts/lib/Option.js";
 import md5 from "md5";
-import type { Page } from "puppeteer";
+import type { Page } from "playwright";
 
 import { getLatestAnnouncementTitle } from "./latestAnnouncementTitle.js";
 import type { Announcement } from "./types/index.js";
