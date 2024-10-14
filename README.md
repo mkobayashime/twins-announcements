@@ -16,7 +16,7 @@ TWINS の「在学生へのお知らせ」を定期的にスクレイピング�
 
 TWINS トップページのお知らせ欄のリンクはお知らせページへのリンク URL を持たないため、[Feed43](https://feed43.com/) などの HTML を静的に解析してフィード化するサービスでは各お知らせへの直リンクを取得することができません
 
-twins-announcements は [puppeteer](https://github.com/puppeteer/puppeteer) を用いてブラウザ挙動を再現し、実際に TWINS のページ上でお知らせを表示させた上で情報を取得しているため、直リンクやお知らせの本文などを提供しています
+twins-announcements は [Playwright](https://playwright.dev/) を用いてブラウザ挙動を再現し、実際に TWINS のページ上でお知らせを表示させた上で情報を取得しているため、直リンクやお知らせの本文などを提供しています
 
 ## 免責事項
 
@@ -38,7 +38,7 @@ make run # 実行
 
 | name                | description                                                                     |
 | ------------------- | ------------------------------------------------------------------------------- |
-| `HEADLESS`          | `true` の場合 puppeteer をヘッドレスで実行する                                  |
+| `HEADLESS`          | `true` の場合 Playwright をヘッドレスで実行する                                 |
 | `FORCE_FULL_FETCH`  | `true` の場合最新のお知らせが前回実行時と変わっていなくても処理をスキップしない |
 | `FEED_ITEMS_NUMBER` | 取得するお知らせの最大数                                                        |
 

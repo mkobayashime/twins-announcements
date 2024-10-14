@@ -1,5 +1,5 @@
 import * as O from "fp-ts/lib/Option.js";
-import puppeteer from "puppeteer";
+import playwright from "playwright";
 
 import { generateFeed, saveFeedToFiles } from "./feeds.js";
 import { getAnnouncements } from "./getAnnouncements.js";
@@ -23,11 +23,10 @@ const TWINS_ROOT_URL = "https://twins.tsukuba.ac.jp/campusweb/campusportal.do";
     10 * 60 * 1000,
   );
 
-  const browser = await puppeteer.launch({
+  const browser = await playwright.chromium.launch({
     headless: HEADLESS,
-    defaultViewport: null,
   });
-  const page = await browser.newPage();
+  const page = await browser.newPage({ viewport: null });
 
   /**
    * For forwarding logs in the browser to the terminal
