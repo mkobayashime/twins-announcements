@@ -5,6 +5,20 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "60fc9403435219e67ee8753a7c02a42a",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5535",
+            "title": "（附属図書館）ライティング支援連続セミナー 第1回『学術論文とそのほかの文章の特徴』【10/17(木)開催】",
+            "summary": "読むこと、考えること、伝えること。高校までとは違う、大学での学びに必要なスキルをテーマ毎にご案内する、ライティング支援連続セミナーが始まります。\nレポート作成や論文執筆など、大学特有の課題形式に取り組むスキルを伸ばしたい方に特にお薦めです。\n\n第1回：\n『学術論文とそのほかの文章の特徴』\n　小泉公乃先生(図書館情報メディア系)\n　学術論文やレポートで用いる文体について、そのほかのさまざまな種類の文…",
+            "date_modified": "2024-10-15T03:00:00.000Z"
+        },
+        {
+            "id": "943b8be95f7c6716eb21aecaabea7d43",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5534",
+            "title": "(BHE)10月18日開催　面接・GD練習会のご案内",
+            "summary": "就活に即役立つ、面接・GD練習会です。\n対面でもオンラインでも開催します。\n対面面接編ではビジネスマナーも学ぶことができます。\n就活中の方、ISの選考を受ける方だけでなく、低学年の皆さんの参加も大歓迎！「面接ってどんな感じ？」、「グループディスカッションってどんな話をすればいいの？」などちょっと知りたいという方もぜひどうぞ。\nBHEキャリア支援チームのファシリテーターからフィードバックがあります。…",
+            "date_modified": "2024-10-15T03:00:00.000Z"
+        },
+        {
             "id": "6e44f75605f964cd3727bfc83e00d068",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5533",
             "title": "中央図書館新館3、4階配架資料の一部利用制限について / Material use restrictions on new bldg. 3F and 4F of the Central Library",
@@ -128,20 +142,6 @@
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5511",
             "title": "「MDA研究のフロンティア」のご案内 \"Frontier of MDA Research\" (10/24～)",
             "summary": "今年度の「MDA研究のフロンティア」の内容が固まりました。\nMDA異分野融合/連携ゼミナールの科目ですが、1回のみの受講も可能です。\nキャリアパスを考える上で、ご自身のキャリアについてもお話いただく予定です。\n原則対面ですが、オンラインも可。\nぜひご参加ください。\n\n【科目履修せずに受講】\nお申込み：https://forms.office.com/r/25Z4KXCufu\n\n【科目履修】\n博士後…",
-            "date_modified": "2024-10-08T03:00:00.000Z"
-        },
-        {
-            "id": "9f84ca3e66a9b3230a395c433cd52ebf",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5509",
-            "title": "【11/5】セミナー「世界の子ども達に等しい教育の機会を―国際機関を通しての教育開発支援の経験から―」",
-            "summary": "第54回ASIP/TG合同セミナーの参加者を募集します。\n\n【世界の子ども達に等しい教育の機会を―国際機関を通しての教育開発支援の経験から―】\n日時：2024年11月5日（火）15：00～16：30\n方法：オンライン\n講師：中島（野呂）朋子氏（国際機関教育アドバイザー）\n\n内容：国連児童基金（UNICEF）、国連難民高等弁務官事務所（UNHCR）、世界銀行などの国際機関において、教育開発（特に教育…",
-            "date_modified": "2024-10-08T03:00:00.000Z"
-        },
-        {
-            "id": "2c6f5b33df7dfc4f0cf17ef98a801246",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5508",
-            "title": "明日開催！（BHE)公務員内定者と話そう！学内「公務員内定者懇談会」",
-            "summary": "今年度の公務員試験内定者による内定者懇談会を開催します。\n受験体験談と共に、公務員試験の制度・対策・併願先等の理解を深めたり、受験にあたって準備すべきことを学ぶことができます。\n志望別に少人数に分かれての質疑応答の時間もあります。\n公務員試験受験予定の方や公務員に興味のある方はもちろん、今まで公務員を考えたことがなかった方も、\nまずは実際に試験を経験した先輩達のお話を聞いてみませんか。\n\n＜日時＞…",
             "date_modified": "2024-10-08T03:00:00.000Z"
         }
     ]
