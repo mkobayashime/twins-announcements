@@ -2,10 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/mkobayashime/twins-announcements</id>
     <title>在学生へのお知らせ | 筑波大学</title>
-    <updated>2024-10-14T21:06:34.264Z</updated>
+    <updated>2024-10-15T01:33:48.602Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://github.com/mkobayashime/twins-announcements"/>
     <subtitle>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</subtitle>
+    <entry>
+        <title type="html"><![CDATA[（BHE）Teams内 情報発信チームのご案内]]></title>
+        <id>db21767d2c3d07188004ce652a974e31</id>
+        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5531"/>
+        <updated>2024-10-15T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[キャリア支援チームに日々届く、企業・自治体・学校からの求人情報や
+インターンシップ情報を発信しています。
+卒業年度別、進路志望別に就活に役立つ情報をタイムリーに掲載します。
+チームに参加して皆さんの就活に役立ててください。
+
+【参加方法】
+チーム名「BHEキャリア支援チーム　情報発信」
+以下のリンクから参加してください。
+
+【掲載情報例】
+（カテゴリー）
+企業（25卒向け・26卒向け）、教員、公務…]]></summary>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【奨学金/Scholarship】公益財団法人似鳥国際奨学財団 /Nitori International Scholarship Foundation]]></title>
         <id>11dc9be31462f6ec24155e613eda6d77</id>
@@ -254,20 +272,5 @@ MDA異分野融合/連携ゼミナールの科目ですが、1回のみの受講
 スポーツ・デーとは、筑波大学の全学生・教職員の皆様にスポーツを提供する機会を与えることを目的とした筑波大学主催の行事です。
 
 今年度の秋季においては、恒例の正式種目はもちろん、e-sportsでは、試合の様子を中央体育館のラウンジにてパブリックビューイング…]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[第180回バイオeカフェ開催のお知らせ]]></title>
-        <id>6282ea88f79a6968c942282453218c2a</id>
-        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5504"/>
-        <updated>2024-10-08T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[第180回バイオeカフェを開催いたします。
-
-「人骨を掘って、装置で測る　ー生物としてのヒトと文化的存在としての人ー」
-　筑波大学人文社会系　板橋　悠先生
-
-日時：10月22日（火）　18時30分～20時
-場所：2B棟210　or　オンライン（Teams）
-
-バイオeカフェは、科学について詳しい人も、そうでない人も お菓子を片手に気軽に科学を楽しもうというイベントです。ぜひ気軽にご参加ください！！…]]></summary>
     </entry>
 </feed>

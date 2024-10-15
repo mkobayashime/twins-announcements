@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "db21767d2c3d07188004ce652a974e31",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5531",
+            "title": "（BHE）Teams内 情報発信チームのご案内",
+            "summary": "キャリア支援チームに日々届く、企業・自治体・学校からの求人情報や\nインターンシップ情報を発信しています。\n卒業年度別、進路志望別に就活に役立つ情報をタイムリーに掲載します。\nチームに参加して皆さんの就活に役立ててください。\n\n【参加方法】\nチーム名「BHEキャリア支援チーム　情報発信」\n以下のリンクから参加してください。\n\n【掲載情報例】\n（カテゴリー）\n企業（25卒向け・26卒向け）、教員、公務…",
+            "date_modified": "2024-10-15T03:00:00.000Z"
+        },
+        {
             "id": "11dc9be31462f6ec24155e613eda6d77",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5529",
             "title": "【奨学金/Scholarship】公益財団法人似鳥国際奨学財団 /Nitori International Scholarship Foundation",
@@ -135,13 +142,6 @@
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5505",
             "title": "第４８回秋季スポーツ・デー申し込みについてのお知らせ",
             "summary": "筑波大学スポーツ・デー学生委員会からのお知らせです。\n\n１１月１６日（土）・１１月１７日（日）に第４８回秋季スポーツ・デーを開催いたします。\n\nスポーツ・デーとは、筑波大学の全学生・教職員の皆様にスポーツを提供する機会を与えることを目的とした筑波大学主催の行事です。\n\n今年度の秋季においては、恒例の正式種目はもちろん、e-sportsでは、試合の様子を中央体育館のラウンジにてパブリックビューイング…",
-            "date_modified": "2024-10-08T03:00:00.000Z"
-        },
-        {
-            "id": "6282ea88f79a6968c942282453218c2a",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5504",
-            "title": "第180回バイオeカフェ開催のお知らせ",
-            "summary": "第180回バイオeカフェを開催いたします。\n\n「人骨を掘って、装置で測る　ー生物としてのヒトと文化的存在としての人ー」\n　筑波大学人文社会系　板橋　悠先生\n\n日時：10月22日（火）　18時30分～20時\n場所：2B棟210　or　オンライン（Teams）\n\nバイオeカフェは、科学について詳しい人も、そうでない人も お菓子を片手に気軽に科学を楽しもうというイベントです。ぜひ気軽にご参加ください！！…",
             "date_modified": "2024-10-08T03:00:00.000Z"
         }
     ]
