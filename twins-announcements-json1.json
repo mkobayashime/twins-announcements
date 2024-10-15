@@ -5,6 +5,20 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "6e44f75605f964cd3727bfc83e00d068",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5533",
+            "title": "中央図書館新館3、4階配架資料の一部利用制限について / Material use restrictions on new bldg. 3F and 4F of the Central Library",
+            "summary": "中央図書館新館3、4階に集密書架を増設する工事に伴い、資料の一時利用停止を行います。\n新館4階の本学博士論文については、工事期間中に利用希望がある論文はあらかじめ取り置きをしますので、10月31日(木)17時までに中央図書館メインカウンターまでお申し込みください。\n取り置き受付期限後は、外部倉庫保管のためご利用になれません。\n\n【工事期間】 令和 6 年 11 月～令和 7 年 3 月（予定）\n\n…",
+            "date_modified": "2024-10-15T03:00:00.000Z"
+        },
+        {
+            "id": "588dbcae6264ef6aebcb9c2b2d5177d2",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5532",
+            "title": "芸術系「留学説明会2024（10/23 Teams開催）」のお知らせ",
+            "summary": "10月23日（水）17:30より留学説明会（オンライン）を開催します。\n参加には10月22日までに事前申込みが必要になります。申し込みの方法等は以下のホームページを参照してください。\n（申し込みをいただいた方はTeamsより参加できるようになります）\n  https://www.geijutsu.tsukuba.ac.jp/global/626/\n\n「芸術系 留学説明会」\n10月23日（水）17:…",
+            "date_modified": "2024-10-15T03:00:00.000Z"
+        },
+        {
             "id": "db21767d2c3d07188004ce652a974e31",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5531",
             "title": "（BHE）Teams内 情報発信チームのご案内",
@@ -128,20 +142,6 @@
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5508",
             "title": "明日開催！（BHE)公務員内定者と話そう！学内「公務員内定者懇談会」",
             "summary": "今年度の公務員試験内定者による内定者懇談会を開催します。\n受験体験談と共に、公務員試験の制度・対策・併願先等の理解を深めたり、受験にあたって準備すべきことを学ぶことができます。\n志望別に少人数に分かれての質疑応答の時間もあります。\n公務員試験受験予定の方や公務員に興味のある方はもちろん、今まで公務員を考えたことがなかった方も、\nまずは実際に試験を経験した先輩達のお話を聞いてみませんか。\n\n＜日時＞…",
-            "date_modified": "2024-10-08T03:00:00.000Z"
-        },
-        {
-            "id": "8fb6103435abe89a49f824b9a249166c",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5507",
-            "title": "(茗渓会）10月9日　10月ぶっちゃけ相談会　特集テーマ 「金融業界」",
-            "summary": "毎月2名のOBOGが登壇し、ご自身のキャリアについて話をしてくださいます。\nみなさんが卒業した後に、どんなキャリア（人生、仕事、就職）を歩むのか？\n考えるきっかけとして、少し先に卒業した先輩が、何を考え、どう決断したのかを聞いてみてください。\nこれから就活が始まる方、卒業後の進路やキャリアに悩んでいる方、\nこれからの大学生活をどう過ごそうか考えている方、\nぜひ、先輩に質問してみてください。\n\n【参…",
-            "date_modified": "2024-10-08T03:00:00.000Z"
-        },
-        {
-            "id": "8688437a92f72f38f20ff631cbb6cc13",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5505",
-            "title": "第４８回秋季スポーツ・デー申し込みについてのお知らせ",
-            "summary": "筑波大学スポーツ・デー学生委員会からのお知らせです。\n\n１１月１６日（土）・１１月１７日（日）に第４８回秋季スポーツ・デーを開催いたします。\n\nスポーツ・デーとは、筑波大学の全学生・教職員の皆様にスポーツを提供する機会を与えることを目的とした筑波大学主催の行事です。\n\n今年度の秋季においては、恒例の正式種目はもちろん、e-sportsでは、試合の様子を中央体育館のラウンジにてパブリックビューイング…",
             "date_modified": "2024-10-08T03:00:00.000Z"
         }
     ]
