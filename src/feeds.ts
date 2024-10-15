@@ -2,9 +2,14 @@ import { mkdir, writeFile } from "node:fs/promises";
 import path from "node:path";
 import { Feed } from "feed";
 
-import type { Announcement, Feeds } from "./types/index.js";
+import type { Announcement } from "./types/index.js";
 
-export const generateFeed = (announcements: Announcement[]): Feeds => {
+const feedFormats = ["rss2", "atom1", "json1"] as const;
+type FeedFormat = (typeof feedFormats)[number];
+
+export const generateFeed = (
+  announcements: Announcement[],
+): Record<FeedFormat, string> => {
   const feedClient = new Feed({
     title: "在学生へのお知らせ | 筑波大学",
     description:
@@ -32,7 +37,11 @@ export const generateFeed = (announcements: Announcement[]): Feeds => {
   };
 };
 
-export const saveFeedToFiles = async ({ rss2, atom1, json1 }: Feeds) => {
+export const saveFeedToFiles = async ({
+  rss2,
+  atom1,
+  json1,
+}: Record<FeedFormat, string>) => {
   await mkdir(path.resolve("dist"), { recursive: true });
 
   await writeFile(path.resolve("dist", "twins-announcements-rss2.xml"), rss2);
