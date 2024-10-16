@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "2d3be51a6271eeb91d8fe408b03bb930",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5543",
+            "title": "【10/23 開催】「文献管理ツールRefWorks活用法」図書館講習会",
+            "summary": "「文献管理ツールRefWorks活用法」の講習会を開催します。\n\n日時：10月23日（水）15:15-16:45\n開催方法： オンライン（Zoom)\n\n「あの論文、どこに保存したのか忘れちゃったな。どうしよう…」\n「文献リストの作成は時間がかかって面倒だな…。効率がいい方法があれば楽なのに。」\nと思っているそこのあなたに役立つ講習会です。\n\n秋学期は【中級編】として、具体的な操作についてデモを交え…",
+            "date_modified": "2024-10-16T03:00:00.000Z"
+        },
+        {
             "id": "1a82f90ecc271cb4a5034692a4c8df54",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5542",
             "title": "2024年度「海外英語研修II-c」（オーストラリア、3単位、実渡航）参加者募集　",
@@ -135,13 +142,6 @@
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5522",
             "title": "【開催案内・11/12】障害学生等支援防災ワーク（全学リスクマネジメントセミナー）",
             "summary": "　令和6年度全学防災訓練「障害学生等支援防災ワーク」（全学リスクマネジメントセミナー）を開催いたします。\n　大学における障害学生への防災支援に焦点を当て、教職員や学生に日常業務や生活に取り入れやすい具体的な防災対策のヒントを提供することを目的とし、筑波地区防災訓練の一環として行います。\n　なお、本防災ワークは全学リスクマネジメントセミナーを兼ねて実施します。\n　皆さまのご参加をお待ちしております。…",
-            "date_modified": "2024-10-09T03:00:00.000Z"
-        },
-        {
-            "id": "f33228352ede4855b3e2af2e10e0255c",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5521",
-            "title": "【CEGLOC】ビクトリア大学ウェリントン校(ニュージーランド）での語学研修についての説明会のお知らせ",
-            "summary": "日時：10月25日(金)　午前9時00分〜9時45分\n形態：オンライン (Zoom)\n使用言語: 英語を中心とする。（日本語での質疑応答も可）\n\n説明会への参加申し込み：下記からフォームを送信してください。\nhttps://forms.gle/qnEvPRXrPSQMHDXn9\n\n以下について説明します。\n・研修期間　2月19日〜3月28日\n・内容―EAP (学術目的の英語) コース\n・単位の取得…",
             "date_modified": "2024-10-09T03:00:00.000Z"
         }
     ]

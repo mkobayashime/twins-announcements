@@ -4,10 +4,26 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Wed, 16 Oct 2024 01:28:40 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 16 Oct 2024 02:25:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
+        <item>
+            <title><![CDATA[【10/23 開催】「文献管理ツールRefWorks活用法」図書館講習会]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5543</link>
+            <guid>2d3be51a6271eeb91d8fe408b03bb930</guid>
+            <pubDate>Wed, 16 Oct 2024 03:00:00 GMT</pubDate>
+            <description><![CDATA[「文献管理ツールRefWorks活用法」の講習会を開催します。
+
+日時：10月23日（水）15:15-16:45
+開催方法： オンライン（Zoom)
+
+「あの論文、どこに保存したのか忘れちゃったな。どうしよう…」
+「文献リストの作成は時間がかかって面倒だな…。効率がいい方法があれば楽なのに。」
+と思っているそこのあなたに役立つ講習会です。
+
+秋学期は【中級編】として、具体的な操作についてデモを交え…]]></description>
+        </item>
         <item>
             <title><![CDATA[2024年度「海外英語研修II-c」（オーストラリア、3単位、実渡航）参加者募集　]]></title>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5542</link>
@@ -253,23 +269,6 @@ https://anzenkan…]]></description>
 　大学における障害学生への防災支援に焦点を当て、教職員や学生に日常業務や生活に取り入れやすい具体的な防災対策のヒントを提供することを目的とし、筑波地区防災訓練の一環として行います。
 　なお、本防災ワークは全学リスクマネジメントセミナーを兼ねて実施します。
 　皆さまのご参加をお待ちしております。…]]></description>
-        </item>
-        <item>
-            <title><![CDATA[【CEGLOC】ビクトリア大学ウェリントン校(ニュージーランド）での語学研修についての説明会のお知らせ]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5521</link>
-            <guid>f33228352ede4855b3e2af2e10e0255c</guid>
-            <pubDate>Wed, 09 Oct 2024 03:00:00 GMT</pubDate>
-            <description><![CDATA[日時：10月25日(金)　午前9時00分〜9時45分
-形態：オンライン (Zoom)
-使用言語: 英語を中心とする。（日本語での質疑応答も可）
-
-説明会への参加申し込み：下記からフォームを送信してください。
-https://forms.gle/qnEvPRXrPSQMHDXn9
-
-以下について説明します。
-・研修期間　2月19日〜3月28日
-・内容―EAP (学術目的の英語) コース
-・単位の取得…]]></description>
         </item>
     </channel>
 </rss>
