@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/mkobayashime/twins-announcements</id>
     <title>在学生へのお知らせ | 筑波大学</title>
-    <updated>2024-10-15T21:06:42.698Z</updated>
+    <updated>2024-10-16T01:28:40.204Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://github.com/mkobayashime/twins-announcements"/>
     <subtitle>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</subtitle>
+    <entry>
+        <title type="html"><![CDATA[2024年度「海外英語研修II-c」（オーストラリア、3単位、実渡航）参加者募集　]]></title>
+        <id>1a82f90ecc271cb4a5034692a4c8df54</id>
+        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5542"/>
+        <updated>2024-10-16T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[本学の協定校、オーストラリア・ウーロンゴン大学の英語研修に3週間参加し、ホームステイ先に宿泊します。英語力の向上や異文化交流に関心のある学生の参加を募集します。
+詳細や申込方法については、manabaコース「xx20371　海外英語研修」に自己登録のうえ、募集説明会動画と資料を確認してください。
+
+※manabaの登録方法について
+manabaにログインし、マイページ右側の「自己登録について」＞「…]]></summary>
+    </entry>
     <entry>
         <title type="html"><![CDATA[第12回　OB・OGキャリアカフェ～いろんなセンパイと話をしてみよう～]]></title>
         <id>4647cfe2bfbaaafec906f050ae2a6460</id>
@@ -257,17 +268,5 @@ https://forms.gle/qnEvPRXrPSQMHDXn9
 ・研修期間　2月19日〜3月28日
 ・内容―EAP (学術目的の英語) コース
 ・単位の取得…]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【10/29-11/22開催】図書館特別展「忠孝一本－江戸時代のモラリティ－」]]></title>
-        <id>a881f382a308455d2c8ba57e84a9bb91</id>
-        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5520"/>
-        <updated>2024-10-09T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[令和6年度附属図書館特別展「忠孝一本－江戸時代のモラリティ－」を下記のとおり開催します。
-
-本展では、「忠」や「孝」といった儒教の考え方が江戸時代の人々にどのような影響を与えていたのかを紹介します。
-第１部：帝王学 -『貞観政要』と『帝鑑図説』、第２部：『孝経』と東アジアの孝子伝、第３部：地方の孝子伝、第４部：江戸時代の教育 藩校と寺子屋
-という四つの視点から迫ってゆきたく思います。
-この機会に、…]]></summary>
     </entry>
 </feed>
