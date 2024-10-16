@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "29ff324fde63ff3893988432b6b06d08",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5544",
+            "title": "【まもなく締切‗AIMSプログラム2025春学期渡航分交換留学】",
+            "summary": "スチューデントサポートセンター国際交流支援室では、AIMSプログラム（東南アジア協定校との交換留学プログラム）への交換留学について2025年春学期渡航分を【10/31（木）17：00まで】募集しています。興味がある学群生は、下記リンク先の募集要項をよく読み、応募してください。\n\nなお、一部の協定校はすでに募集が終了しています。\n",
+            "date_modified": "2024-10-16T03:00:00.000Z"
+        },
+        {
             "id": "2d3be51a6271eeb91d8fe408b03bb930",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5543",
             "title": "【10/23 開催】「文献管理ツールRefWorks活用法」図書館講習会",
@@ -136,13 +143,6 @@
             "title": "就活セミナー「筑波＿卒業後を考える会」開催のお知らせ 　　",
             "summary": "筑波大学「世界を変えよう基金アカデミー」では、就活を終えた4年生が自らの経験を下級生に伝える「筑波＿卒業後を考える会」をZoomで毎年開催しています。\nガクチカ、インターン体験、就活対象先を絞り込んで最終内定先を選んだ過程等、\n就活中あるいはこれから就活を始める皆さんにとって興味深いテーマを取り上げていただきます。\n\n今年の日程は下記のとおりです。\n10/20(日)20:00~、スピーカー（国際5…",
             "date_modified": "2024-10-10T03:00:00.000Z"
-        },
-        {
-            "id": "b2d98146d6a7a40033b6f074422f3418",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5522",
-            "title": "【開催案内・11/12】障害学生等支援防災ワーク（全学リスクマネジメントセミナー）",
-            "summary": "　令和6年度全学防災訓練「障害学生等支援防災ワーク」（全学リスクマネジメントセミナー）を開催いたします。\n　大学における障害学生への防災支援に焦点を当て、教職員や学生に日常業務や生活に取り入れやすい具体的な防災対策のヒントを提供することを目的とし、筑波地区防災訓練の一環として行います。\n　なお、本防災ワークは全学リスクマネジメントセミナーを兼ねて実施します。\n　皆さまのご参加をお待ちしております。…",
-            "date_modified": "2024-10-09T03:00:00.000Z"
         }
     ]
 }
