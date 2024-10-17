@@ -5,13 +5,6 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
-            "id": "df88e563302d5c421fbf640c876541c0",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5547",
-            "title": "【応募作品公開中！】キャンパスライフ魅力発信動画コンテスト[Entry works are now on view!] Campus Life Promotion Video Contest",
-            "summary": "現在、「筑波大学キャンパスライフ魅力発信動画コンテスト」の1次通過動画作品（6点）をJV-Campus連携室のホームページで公開中です。\n創意工夫やチームワークが感じられる作品で、とても楽しくご覧いただけると思います。\nぜひ、多くの本学関係者の皆様にご覧いただきたく、ご案内申し上げます！\n制作者への「応援メッセージ」「作品への応援投票」も同サイトで受け付けております。\nぜひ、下記サイトにてご覧くだ…",
-            "date_modified": "2024-10-17T03:00:00.000Z"
-        },
-        {
             "id": "af1d61dbee80f17e4a73af3728192d83",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5546",
             "title": "【トビタテ！留学JAPAN】新・日本代表プログラム　大学生等対象　2025年度（第17期）募集要項・募集説明会・留学体験発表会について",
@@ -75,13 +68,6 @@
             "date_modified": "2024-10-15T03:00:00.000Z"
         },
         {
-            "id": "60fc9403435219e67ee8753a7c02a42a",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5535",
-            "title": "（附属図書館）ライティング支援連続セミナー 第1回『学術論文とそのほかの文章の特徴』【10/17(木)開催】",
-            "summary": "読むこと、考えること、伝えること。高校までとは違う、大学での学びに必要なスキルをテーマ毎にご案内する、ライティング支援連続セミナーが始まります。\nレポート作成や論文執筆など、大学特有の課題形式に取り組むスキルを伸ばしたい方に特にお薦めです。\n\n第1回：\n『学術論文とそのほかの文章の特徴』\n　小泉公乃先生(図書館情報メディア系)\n　学術論文やレポートで用いる文体について、そのほかのさまざまな種類の文…",
-            "date_modified": "2024-10-15T03:00:00.000Z"
-        },
-        {
             "id": "943b8be95f7c6716eb21aecaabea7d43",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5534",
             "title": "(BHE)10月18日開催　面接・GD練習会のご案内",
@@ -142,6 +128,20 @@
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5525",
             "title": "【お知らせ】令和６年度筑波地区防災訓練の実施について11月12日（火）/ Implementation of the Tsukuba Area Disaster Drills for AY 2024",
             "summary": "日頃より、本学の災害対策にご協力いただきありがとうございます。\n令和６年度筑波地区防災訓練の実施についてお知らせいたします。\n\n実施日時：令和６年１１月１２日（火）　１１時２５分（２限目終了時刻）\n参 加 者：学生、教職員、防災センター所属職員、参加可能な学内業務委託業者・福利厚生事業従業員等\n\n訓練の内容等につきましては、下記の環境安全管理室HPをご覧ください。\nhttps://anzenkan…",
+            "date_modified": "2024-10-10T03:00:00.000Z"
+        },
+        {
+            "id": "1682f72a01312719a36c95a895e9707b",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5524",
+            "title": "【留学生向け奨学金】公益財団法人　千本財団 (2025年度春季募集)",
+            "summary": "公益財団法人　千本財団 (2025年度春季募集)\n応募期間：2024年10月7日(月)～2024年12月9日(月)　※当日消印有効\n提出先　：財団へ直接応募\n募集要項：(PDF(資料1))\n財団HP：https://semmoto.or.jp/scholarship-system\n※この奨学金を受給する者は、受給期間中、他の大学推薦奨学金の申請資格がありません。\n※日本語能力試験N2程度以上の日本…",
+            "date_modified": "2024-10-10T03:00:00.000Z"
+        },
+        {
+            "id": "4fe64a13cd82accda5b2503c8b0587fe",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5523",
+            "title": "就活セミナー「筑波＿卒業後を考える会」開催のお知らせ 　　",
+            "summary": "筑波大学「世界を変えよう基金アカデミー」では、就活を終えた4年生が自らの経験を下級生に伝える「筑波＿卒業後を考える会」をZoomで毎年開催しています。\nガクチカ、インターン体験、就活対象先を絞り込んで最終内定先を選んだ過程等、\n就活中あるいはこれから就活を始める皆さんにとって興味深いテーマを取り上げていただきます。\n\n今年の日程は下記のとおりです。\n10/20(日)20:00~、スピーカー（国際5…",
             "date_modified": "2024-10-10T03:00:00.000Z"
         }
     ]
