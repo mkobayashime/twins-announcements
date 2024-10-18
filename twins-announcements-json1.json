@@ -5,8 +5,15 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "862681dbf7b590b45fe2862089786f6d",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5551",
+            "title": "(BHE)10/29 オンライン面接練習会のご案内",
+            "summary": "就活に即役立つ、オンライン面接練習会です。\n就活中の方、ISの選考を受ける方だけでなく、低学年の皆さんの参加も大歓迎！「面接ってどんな感じ？」、「オンライン面接の注意点は？」などちょっと知りたいという方もぜひどうぞ。\nBHEキャリア支援チームのファシリテーターからフィードバックがあります。（日本語での開催です）\n\n＜オンライン＞\n日にち：令和６年10月29日（火）\n時間：集団面接編　10：00-1…",
+            "date_modified": "2024-10-18T03:00:00.000Z"
+        },
+        {
             "id": "620b9331135c148fd4f537ae100a4159",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5549",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5550",
             "title": "【再掲】11/5セミナー「世界の子ども達に等しい教育の機会を―国際機関を通しての教育開発支援の経験から―」",
             "summary": "第54回ASIP/TG合同セミナーの参加者を募集します。\n\n【世界の子ども達に等しい教育の機会を―国際機関を通しての教育開発支援の経験から―】\n日時：2024年11月5日（火）15：00～16：30\n方法：オンライン\n講師：中島（野呂）朋子氏（国際機関教育アドバイザー）\n\n内容：国連児童基金（UNICEF）、国連難民高等弁務官事務所（UNHCR）、世界銀行などの国際機関において、教育開発（特に教育…",
             "date_modified": "2024-10-18T03:00:00.000Z"
@@ -136,13 +143,6 @@
             "title": "公益財団法人　イノアック国際教育振興財団 第39期(2025年度)奨学金 タイプＡ",
             "summary": "公益財団法人　イノアック国際教育振興財団 第39期(2025年度)奨学金 タイプＡ\n申請期限：2024年10月20日（日）23：00\n申請方法：以下のURLより財団へ直接応募\n※奨学生推薦書には、学生交流課での手続きが必要な箇所があります。\n　本奨学金応募希望者は、必ず10月15日（火）17時までに（isc-shien#@#un.tsukuba.ac.jp）\n（#@#を「@」に置き換えてください）…",
             "date_modified": "2024-10-11T03:00:00.000Z"
-        },
-        {
-            "id": "5d1da8391c42c78d18e311a05dd1528d",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5525",
-            "title": "【お知らせ】令和６年度筑波地区防災訓練の実施について11月12日（火）/ Implementation of the Tsukuba Area Disaster Drills for AY 2024",
-            "summary": "日頃より、本学の災害対策にご協力いただきありがとうございます。\n令和６年度筑波地区防災訓練の実施についてお知らせいたします。\n\n実施日時：令和６年１１月１２日（火）　１１時２５分（２限目終了時刻）\n参 加 者：学生、教職員、防災センター所属職員、参加可能な学内業務委託業者・福利厚生事業従業員等\n\n訓練の内容等につきましては、下記の環境安全管理室HPをご覧ください。\nhttps://anzenkan…",
-            "date_modified": "2024-10-10T03:00:00.000Z"
         }
     ]
 }
