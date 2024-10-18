@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "f7d508055023e3b91a82796521102966",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5548",
+            "title": "【全学生対象】11/19-22「筑波大生のキャリアイベント」開催のお知らせ（BHEキャリア支援チーム）",
+            "summary": "こんにちは。\nヒューマンエンパワーメント推進局キャリア支援チーム（以下BHE)です。\n\n11月19日（火）から11月22日（金）の4日間\n大学会館にてBHE主催「筑波大生のキャリアイベント」を開催します！\n\n優良企業・団体・官公庁が筑波大に集結！\n特別企画 「OB・OG相談会」 も開催予定です。\n\n業界・業種やインターンシップの話はもちろん\n進学か就職か？　企業か公務員か？\n気になっていることを直…",
+            "date_modified": "2024-10-18T03:00:00.000Z"
+        },
+        {
             "id": "af1d61dbee80f17e4a73af3728192d83",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5546",
             "title": "【トビタテ！留学JAPAN】新・日本代表プログラム　大学生等対象　2025年度（第17期）募集要項・募集説明会・留学体験発表会について",
@@ -135,13 +142,6 @@
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5524",
             "title": "【留学生向け奨学金】公益財団法人　千本財団 (2025年度春季募集)",
             "summary": "公益財団法人　千本財団 (2025年度春季募集)\n応募期間：2024年10月7日(月)～2024年12月9日(月)　※当日消印有効\n提出先　：財団へ直接応募\n募集要項：(PDF(資料1))\n財団HP：https://semmoto.or.jp/scholarship-system\n※この奨学金を受給する者は、受給期間中、他の大学推薦奨学金の申請資格がありません。\n※日本語能力試験N2程度以上の日本…",
-            "date_modified": "2024-10-10T03:00:00.000Z"
-        },
-        {
-            "id": "4fe64a13cd82accda5b2503c8b0587fe",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5523",
-            "title": "就活セミナー「筑波＿卒業後を考える会」開催のお知らせ 　　",
-            "summary": "筑波大学「世界を変えよう基金アカデミー」では、就活を終えた4年生が自らの経験を下級生に伝える「筑波＿卒業後を考える会」をZoomで毎年開催しています。\nガクチカ、インターン体験、就活対象先を絞り込んで最終内定先を選んだ過程等、\n就活中あるいはこれから就活を始める皆さんにとって興味深いテーマを取り上げていただきます。\n\n今年の日程は下記のとおりです。\n10/20(日)20:00~、スピーカー（国際5…",
             "date_modified": "2024-10-10T03:00:00.000Z"
         }
     ]
