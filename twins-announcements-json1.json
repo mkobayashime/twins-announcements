@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "7d0357dbd968fcf463ed253d6f4a7307",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5552",
+            "title": "（ご案内）文科省主催：全国アントレプレナーシップ人材育成プログラム　特別講演",
+            "summary": "標記の件について、文部科学省から案内がありました。\n下記をご確認の上、参加希望の方は「プログラム詳細・申込ページ」（下記リンク）より直接申込をしてください。\n\n----------\n文部科学省では、全国の学生を対象に、アントレプレナーシップを身に付けるプログラムを実施しています。\nこの度、2024年11月16日(土)に、全米アントレプレナーシップ教育ランキングで30年連続1位を獲得しているバブソン…",
+            "date_modified": "2024-10-21T03:00:00.000Z"
+        },
+        {
             "id": "862681dbf7b590b45fe2862089786f6d",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5551",
             "title": "(BHE)10/29 オンライン面接練習会のご案内",
@@ -136,13 +143,6 @@
             "title": "【通知】令和6年度全学停電に伴うTWINSおよびKdB休止のお知らせ（10/25(金)午後５時～10/28(月)午前12時まで）",
             "summary": "TWINS・KdB利用者各位\n\n令和６年度全学停電に伴い、以下の期間TWINSおよびKdBのサービスを休止いたします。\nご迷惑をおかけしますが、ご協力をお願いします。\n\nTWINS・KdB運転休止期間：\n令和６年10月25日(金)　午後５時　から　10月28日(月)　午前12時　まで\n※28日は動作確認が完了次第復旧いたします。\n\nRoutine inspections on electrical…",
             "date_modified": "2024-10-11T03:00:00.000Z"
-        },
-        {
-            "id": "5d1da8391c42c78d18e311a05dd1528d",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5525",
-            "title": "【お知らせ】令和６年度筑波地区防災訓練の実施について11月12日（火）/ Implementation of the Tsukuba Area Disaster Drills for AY 2024",
-            "summary": "日頃より、本学の災害対策にご協力いただきありがとうございます。\n令和６年度筑波地区防災訓練の実施についてお知らせいたします。\n\n実施日時：令和６年１１月１２日（火）　１１時２５分（２限目終了時刻）\n参 加 者：学生、教職員、防災センター所属職員、参加可能な学内業務委託業者・福利厚生事業従業員等\n\n訓練の内容等につきましては、下記の環境安全管理室HPをご覧ください。\nhttps://anzenkan…",
-            "date_modified": "2024-10-10T03:00:00.000Z"
         }
     ]
 }

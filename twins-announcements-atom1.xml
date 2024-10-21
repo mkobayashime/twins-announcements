@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/mkobayashime/twins-announcements</id>
     <title>在学生へのお知らせ | 筑波大学</title>
-    <updated>2024-10-20T21:06:34.167Z</updated>
+    <updated>2024-10-21T02:25:50.832Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://github.com/mkobayashime/twins-announcements"/>
     <subtitle>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</subtitle>
+    <entry>
+        <title type="html"><![CDATA[（ご案内）文科省主催：全国アントレプレナーシップ人材育成プログラム　特別講演]]></title>
+        <id>7d0357dbd968fcf463ed253d6f4a7307</id>
+        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5552"/>
+        <updated>2024-10-21T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[標記の件について、文部科学省から案内がありました。
+下記をご確認の上、参加希望の方は「プログラム詳細・申込ページ」（下記リンク）より直接申込をしてください。
+
+----------
+文部科学省では、全国の学生を対象に、アントレプレナーシップを身に付けるプログラムを実施しています。
+この度、2024年11月16日(土)に、全米アントレプレナーシップ教育ランキングで30年連続1位を獲得しているバブソン…]]></summary>
+    </entry>
     <entry>
         <title type="html"><![CDATA[(BHE)10/29 オンライン面接練習会のご案内]]></title>
         <id>862681dbf7b590b45fe2862089786f6d</id>
@@ -259,19 +271,5 @@ TWINS・KdB運転休止期間：
 ※28日は動作確認が完了次第復旧いたします。
 
 Routine inspections on electrical…]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【お知らせ】令和６年度筑波地区防災訓練の実施について11月12日（火）/ Implementation of the Tsukuba Area Disaster Drills for AY 2024]]></title>
-        <id>5d1da8391c42c78d18e311a05dd1528d</id>
-        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5525"/>
-        <updated>2024-10-10T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[日頃より、本学の災害対策にご協力いただきありがとうございます。
-令和６年度筑波地区防災訓練の実施についてお知らせいたします。
-
-実施日時：令和６年１１月１２日（火）　１１時２５分（２限目終了時刻）
-参 加 者：学生、教職員、防災センター所属職員、参加可能な学内業務委託業者・福利厚生事業従業員等
-
-訓練の内容等につきましては、下記の環境安全管理室HPをご覧ください。
-https://anzenkan…]]></summary>
     </entry>
 </feed>
