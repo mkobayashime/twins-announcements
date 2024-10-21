@@ -4,10 +4,26 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Mon, 21 Oct 2024 05:01:41 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 21 Oct 2024 06:01:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
+        <item>
+            <title><![CDATA[【10/28開催】「化学分野データベース CAS SciFinder 活用法」図書館講習会]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5554</link>
+            <guid>afa2af8cec7766357b169fdf0d36068c</guid>
+            <pubDate>Mon, 21 Oct 2024 03:00:00 GMT</pubDate>
+            <description><![CDATA[「化学分野データベース CAS SciFinder 活用法」
+の講習会を開催します。
+
+日時：10/28(月)16:30-18:00
+開催方法：オンライン(Zoom)
+
+CAS SciFinderはCAS(America Chemical Society / Chemical Abstracts Service)が提供する、
+化学を中心とする科学の情報に簡単にアクセスできるデータベースです。
+
+物…]]></description>
+        </item>
         <item>
             <title><![CDATA[全学停電及びサーバー更新作業に伴う就職情報提供システム停止のお知らせ]]></title>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5553</link>
@@ -261,14 +277,6 @@ BHEキャリア支援チームのファシリテーターからフィードバ�
 財団HP：https://www.nitori-shougakuzaidan.com/application/#ryugaku
 ※この奨学金を受給する者は、2025年度の大学推薦奨学金の申請資格がありません。
 ※日本語能力検定N3以上程度の日本…]]></description>
-        </item>
-        <item>
-            <title><![CDATA[【On-site】World-science Leaders’ Seminar for all students on October 16th (Wed) 2024 15：15-16：30]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5528</link>
-            <guid>dc02a707a0f53f5c14711e3edd9554bb</guid>
-            <pubDate>Fri, 11 Oct 2024 03:00:00 GMT</pubDate>
-            <description><![CDATA[The World-science Leaders’ Seminar is a part of classes in the Human Biology PhD program.
-Students attending this seminar will learn the basics and latest research trends in the specialties of the wor…]]></description>
         </item>
     </channel>
 </rss>
