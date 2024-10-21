@@ -4,10 +4,22 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Mon, 21 Oct 2024 02:25:50 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 21 Oct 2024 05:01:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
+        <item>
+            <title><![CDATA[全学停電及びサーバー更新作業に伴う就職情報提供システム停止のお知らせ]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5553</link>
+            <guid>3d559a7480e123a9a014e4caaec7cc4d</guid>
+            <pubDate>Mon, 21 Oct 2024 03:00:00 GMT</pubDate>
+            <description><![CDATA[全学停電及びサーバー更新作業に伴い、下記の時間、就職情報提供システムが停止いたします。
+
+【システム停止日時】10/25（金）13：15　～　10/28（月）10：00
+
+なお、「学内専用ページ」、「ガイダンス等及び模試試験登録・申請」、「進路進捗状況届」へのアクセスはできません。
+皆様にはご迷惑をおかけいたしますが、ご理解、ご協力の程よろしくお願いいたします。]]></description>
+        </item>
         <item>
             <title><![CDATA[（ご案内）文科省主催：全国アントレプレナーシップ人材育成プログラム　特別講演]]></title>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5552</link>
@@ -257,22 +269,6 @@ BHEキャリア支援チームのファシリテーターからフィードバ�
             <pubDate>Fri, 11 Oct 2024 03:00:00 GMT</pubDate>
             <description><![CDATA[The World-science Leaders’ Seminar is a part of classes in the Human Biology PhD program.
 Students attending this seminar will learn the basics and latest research trends in the specialties of the wor…]]></description>
-        </item>
-        <item>
-            <title><![CDATA[【通知】令和6年度全学停電に伴うTWINSおよびKdB休止のお知らせ（10/25(金)午後５時～10/28(月)午前12時まで）]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5527</link>
-            <guid>42bfaea583ae0440fa9f59db6730c54a</guid>
-            <pubDate>Fri, 11 Oct 2024 03:00:00 GMT</pubDate>
-            <description><![CDATA[TWINS・KdB利用者各位
-
-令和６年度全学停電に伴い、以下の期間TWINSおよびKdBのサービスを休止いたします。
-ご迷惑をおかけしますが、ご協力をお願いします。
-
-TWINS・KdB運転休止期間：
-令和６年10月25日(金)　午後５時　から　10月28日(月)　午前12時　まで
-※28日は動作確認が完了次第復旧いたします。
-
-Routine inspections on electrical…]]></description>
         </item>
     </channel>
 </rss>

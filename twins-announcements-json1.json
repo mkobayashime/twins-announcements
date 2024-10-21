@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "3d559a7480e123a9a014e4caaec7cc4d",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5553",
+            "title": "全学停電及びサーバー更新作業に伴う就職情報提供システム停止のお知らせ",
+            "summary": "全学停電及びサーバー更新作業に伴い、下記の時間、就職情報提供システムが停止いたします。\n\n【システム停止日時】10/25（金）13：15　～　10/28（月）10：00\n\nなお、「学内専用ページ」、「ガイダンス等及び模試試験登録・申請」、「進路進捗状況届」へのアクセスはできません。\n皆様にはご迷惑をおかけいたしますが、ご理解、ご協力の程よろしくお願いいたします。",
+            "date_modified": "2024-10-21T03:00:00.000Z"
+        },
+        {
             "id": "7d0357dbd968fcf463ed253d6f4a7307",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5552",
             "title": "（ご案内）文科省主催：全国アントレプレナーシップ人材育成プログラム　特別講演",
@@ -135,13 +142,6 @@
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5528",
             "title": "【On-site】World-science Leaders’ Seminar for all students on October 16th (Wed) 2024 15：15-16：30",
             "summary": "The World-science Leaders’ Seminar is a part of classes in the Human Biology PhD program.\nStudents attending this seminar will learn the basics and latest research trends in the specialties of the wor…",
-            "date_modified": "2024-10-11T03:00:00.000Z"
-        },
-        {
-            "id": "42bfaea583ae0440fa9f59db6730c54a",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5527",
-            "title": "【通知】令和6年度全学停電に伴うTWINSおよびKdB休止のお知らせ（10/25(金)午後５時～10/28(月)午前12時まで）",
-            "summary": "TWINS・KdB利用者各位\n\n令和６年度全学停電に伴い、以下の期間TWINSおよびKdBのサービスを休止いたします。\nご迷惑をおかけしますが、ご協力をお願いします。\n\nTWINS・KdB運転休止期間：\n令和６年10月25日(金)　午後５時　から　10月28日(月)　午前12時　まで\n※28日は動作確認が完了次第復旧いたします。\n\nRoutine inspections on electrical…",
             "date_modified": "2024-10-11T03:00:00.000Z"
         }
     ]
