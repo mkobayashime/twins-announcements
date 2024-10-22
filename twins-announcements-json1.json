@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "6e23600d6e62ee96966058f165fe9c82",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5556",
+            "title": "2024年度　 海外インターンシップ（キルギス共和国・タジキスタン共和国・ウズベキスタン共和国） 　参加者募集！",
+            "summary": "2024年度春期に海外インターンシップを開催することになりましたので、参加学生を募集します。\n\n▶︎実施場所：\n・日本人開発センター（キルギス共和国　ビシュケク）\n・JICAタジキスタン事務所（タジキスタン共和国　ドゥシャンベ）\n・ウズベキスタン日本センター（ウズベキスタン共和国　タシケント）\n\n▶︎業務内容（例）：\n◉相互交流・ビジネス部門事務サポート\n◉日本語・日本文化イベントの実施補佐\n◉国…",
+            "date_modified": "2024-10-22T03:00:00.000Z"
+        },
+        {
             "id": "3a2cab68174ddb00072ba590cc522bdf",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5555",
             "title": "（附属図書館）ライティング支援連続セミナー 第2回『下書きからパラグラフライティングを目指す』【10/24(木)開催】",
@@ -135,13 +142,6 @@
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5532",
             "title": "芸術系「留学説明会2024（10/23 Teams開催）」のお知らせ",
             "summary": "10月23日（水）17:30より留学説明会（オンライン）を開催します。\n参加には10月22日までに事前申込みが必要になります。申し込みの方法等は以下のホームページを参照してください。\n（申し込みをいただいた方はTeamsより参加できるようになります）\n  https://www.geijutsu.tsukuba.ac.jp/global/626/\n\n「芸術系 留学説明会」\n10月23日（水）17:…",
-            "date_modified": "2024-10-15T03:00:00.000Z"
-        },
-        {
-            "id": "db21767d2c3d07188004ce652a974e31",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5531",
-            "title": "（BHE）Teams内 情報発信チームのご案内",
-            "summary": "キャリア支援チームに日々届く、企業・自治体・学校からの求人情報や\nインターンシップ情報を発信しています。\n卒業年度別、進路志望別に就活に役立つ情報をタイムリーに掲載します。\nチームに参加して皆さんの就活に役立ててください。\n\n【参加方法】\nチーム名「BHEキャリア支援チーム　情報発信」\n以下のリンクから参加してください。\n\n【掲載情報例】\n（カテゴリー）\n企業（25卒向け・26卒向け）、教員、公務…",
             "date_modified": "2024-10-15T03:00:00.000Z"
         }
     ]
