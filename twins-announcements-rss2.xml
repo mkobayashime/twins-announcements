@@ -4,10 +4,23 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Mon, 21 Oct 2024 21:06:39 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 22 Oct 2024 02:24:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
+        <item>
+            <title><![CDATA[（附属図書館）ライティング支援連続セミナー 第2回『下書きからパラグラフライティングを目指す』【10/24(木)開催】]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5555</link>
+            <guid>3a2cab68174ddb00072ba590cc522bdf</guid>
+            <pubDate>Tue, 22 Oct 2024 03:00:00 GMT</pubDate>
+            <description><![CDATA[読むこと、考えること、伝えること。高校までとは違う、大学での学びに必要なスキルをテーマ毎にご案内する、ライティング支援連続セミナーのご案内です。
+レポート作成や論文執筆など、大学特有の課題形式に取り組むスキルを伸ばしたい方に特にお薦めです。
+
+第2回：
+『下書きからパラグラフライティングを目指す』
+　田川拓海先生(人文社会系)
+　ライティングを見直すきっかけとして、下書きについて一緒に考えてみませ…]]></description>
+        </item>
         <item>
             <title><![CDATA[【10/28開催】「化学分野データベース CAS SciFinder 活用法」図書館講習会]]></title>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5554</link>
@@ -264,19 +277,6 @@ BHEキャリア支援チームのファシリテーターからフィードバ�
 【掲載情報例】
 （カテゴリー）
 企業（25卒向け・26卒向け）、教員、公務…]]></description>
-        </item>
-        <item>
-            <title><![CDATA[【奨学金/Scholarship】公益財団法人似鳥国際奨学財団 /Nitori International Scholarship Foundation]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5529</link>
-            <guid>11dc9be31462f6ec24155e613eda6d77</guid>
-            <pubDate>Fri, 11 Oct 2024 03:00:00 GMT</pubDate>
-            <description><![CDATA[公益財団法人　似鳥国際奨学財団 2025年度(上期)
-応募期限：2024年11月7日（木）13時
-提出先　：財団へ直接応募
-募集要項：(PDF(資料1))
-財団HP：https://www.nitori-shougakuzaidan.com/application/#ryugaku
-※この奨学金を受給する者は、2025年度の大学推薦奨学金の申請資格がありません。
-※日本語能力検定N3以上程度の日本…]]></description>
         </item>
     </channel>
 </rss>

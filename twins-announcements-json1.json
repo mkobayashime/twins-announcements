@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "3a2cab68174ddb00072ba590cc522bdf",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5555",
+            "title": "（附属図書館）ライティング支援連続セミナー 第2回『下書きからパラグラフライティングを目指す』【10/24(木)開催】",
+            "summary": "読むこと、考えること、伝えること。高校までとは違う、大学での学びに必要なスキルをテーマ毎にご案内する、ライティング支援連続セミナーのご案内です。\nレポート作成や論文執筆など、大学特有の課題形式に取り組むスキルを伸ばしたい方に特にお薦めです。\n\n第2回：\n『下書きからパラグラフライティングを目指す』\n　田川拓海先生(人文社会系)\n　ライティングを見直すきっかけとして、下書きについて一緒に考えてみませ…",
+            "date_modified": "2024-10-22T03:00:00.000Z"
+        },
+        {
             "id": "afa2af8cec7766357b169fdf0d36068c",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5554",
             "title": "【10/28開催】「化学分野データベース CAS SciFinder 活用法」図書館講習会",
@@ -136,13 +143,6 @@
             "title": "（BHE）Teams内 情報発信チームのご案内",
             "summary": "キャリア支援チームに日々届く、企業・自治体・学校からの求人情報や\nインターンシップ情報を発信しています。\n卒業年度別、進路志望別に就活に役立つ情報をタイムリーに掲載します。\nチームに参加して皆さんの就活に役立ててください。\n\n【参加方法】\nチーム名「BHEキャリア支援チーム　情報発信」\n以下のリンクから参加してください。\n\n【掲載情報例】\n（カテゴリー）\n企業（25卒向け・26卒向け）、教員、公務…",
             "date_modified": "2024-10-15T03:00:00.000Z"
-        },
-        {
-            "id": "11dc9be31462f6ec24155e613eda6d77",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5529",
-            "title": "【奨学金/Scholarship】公益財団法人似鳥国際奨学財団 /Nitori International Scholarship Foundation",
-            "summary": "公益財団法人　似鳥国際奨学財団 2025年度(上期)\n応募期限：2024年11月7日（木）13時\n提出先　：財団へ直接応募\n募集要項：(PDF(資料1))\n財団HP：https://www.nitori-shougakuzaidan.com/application/#ryugaku\n※この奨学金を受給する者は、2025年度の大学推薦奨学金の申請資格がありません。\n※日本語能力検定N3以上程度の日本…",
-            "date_modified": "2024-10-11T03:00:00.000Z"
         }
     ]
 }
