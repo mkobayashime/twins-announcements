@@ -4,7 +4,7 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Wed, 23 Oct 2024 09:07:28 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 23 Oct 2024 15:07:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
@@ -177,22 +177,6 @@ BHEキャリア支援チームのファシリテーターからフィードバ�
 ]]></description>
         </item>
         <item>
-            <title><![CDATA[【10/23 開催】「文献管理ツールRefWorks活用法」図書館講習会]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5543</link>
-            <guid>2d3be51a6271eeb91d8fe408b03bb930</guid>
-            <pubDate>Wed, 16 Oct 2024 03:00:00 GMT</pubDate>
-            <description><![CDATA[「文献管理ツールRefWorks活用法」の講習会を開催します。
-
-日時：10月23日（水）15:15-16:45
-開催方法： オンライン（Zoom)
-
-「あの論文、どこに保存したのか忘れちゃったな。どうしよう…」
-「文献リストの作成は時間がかかって面倒だな…。効率がいい方法があれば楽なのに。」
-と思っているそこのあなたに役立つ講習会です。
-
-秋学期は【中級編】として、具体的な操作についてデモを交え…]]></description>
-        </item>
-        <item>
             <title><![CDATA[2024年度「海外英語研修II-c」（オーストラリア、3単位、実渡航）参加者募集　]]></title>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5542</link>
             <guid>1a82f90ecc271cb4a5034692a4c8df54</guid>
@@ -282,6 +266,19 @@ KiteKite…]]></description>
 対面面接編ではビジネスマナーも学ぶことができます。
 就活中の方、ISの選考を受ける方だけでなく、低学年の皆さんの参加も大歓迎！「面接ってどんな感じ？」、「グループディスカッションってどんな話をすればいいの？」などちょっと知りたいという方もぜひどうぞ。
 BHEキャリア支援チームのファシリテーターからフィードバックがあります。…]]></description>
+        </item>
+        <item>
+            <title><![CDATA[中央図書館新館3、4階配架資料の一部利用制限について / Material use restrictions on new bldg. 3F and 4F of the Central Library]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5533</link>
+            <guid>6e44f75605f964cd3727bfc83e00d068</guid>
+            <pubDate>Tue, 15 Oct 2024 03:00:00 GMT</pubDate>
+            <description><![CDATA[中央図書館新館3、4階に集密書架を増設する工事に伴い、資料の一時利用停止を行います。
+新館4階の本学博士論文については、工事期間中に利用希望がある論文はあらかじめ取り置きをしますので、10月31日(木)17時までに中央図書館メインカウンターまでお申し込みください。
+取り置き受付期限後は、外部倉庫保管のためご利用になれません。
+
+【工事期間】 令和 6 年 11 月～令和 7 年 3 月（予定）
+
+…]]></description>
         </item>
     </channel>
 </rss>
