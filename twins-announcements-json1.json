@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "6d4e1db57d729d51973bf30f20e5b45e",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5561",
+            "title": "＼本日説明開催／SEA-Teacherプログラム説明会",
+            "summary": "【２年次以上の全学群生対象】東南アジアでの海外教育実習インターンシップSEA-Teacherプログラム\n日時：2024年10月24日（木）11:30-12:15　※飲食可\n場所：ステューデントコモンズ　※予約不要・入退場自由\n\n興味がある方はぜひ気軽にご参加ください。先輩の体験談も聞けます！\n\n東南アジアの提携大学での教育インターンシップへの参加者を募集します。\n現地教師の業務を実習し、授業を行う…",
+            "date_modified": "2024-10-24T03:00:00.000Z"
+        },
+        {
             "id": "5753a528d08e474f2a816c4d40cad55a",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5560",
             "title": "第12回　OB・OGキャリアカフェ～いろんなセンパイと話をしてみよう～　再掲",
@@ -135,13 +142,6 @@
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5537",
             "title": "次期全学計算機システムについてのアンケート調査",
             "summary": "授業関係者，サテライト担当者，学生 各位\n\n　　　　次期全学計算機システムについてのアンケート調査\n\n　　　　　　　　　　　　　　　　　　　　　学術情報メディアセンター\n\n学術情報メディアセンターでは次期全学計算機システム（2028年3月に導入\n予定）の仕様策定を進めています。それにあたり、関係者から広く意見を\n集めたいと考えており、アンケート調査へのご協力をお願いいたします。\n協力して下さる方は…",
-            "date_modified": "2024-10-15T03:00:00.000Z"
-        },
-        {
-            "id": "dfcd9f728bf8248194035a2ed2f5a140",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5536",
-            "title": "（再掲）【10月開室スケジュール】セーファースペース「KiteKite（きてきて）」",
-            "summary": "ヒューマンエンパワーメント推進局（BHE）ジェンダー支援チームでは、学生スタッフと共同で”セーファースペースKiteKite（きてきて）”を実施しています。\n10月の開室スケジュールをお知らせしますので、ぜひお気軽にご参加ください。\n\n※セーファースペースとは…LGBTQ＋や女性をはじめ、全ての人が自らのジェンダー・セクシュアリティについてより安全に話すことができる居場所のこと\n\nKiteKite…",
             "date_modified": "2024-10-15T03:00:00.000Z"
         }
     ]
