@@ -5,6 +5,20 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "2bc050c1aef407f1bd35068d5b8c1eab",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5563",
+            "title": "We have posted the online seminar video \"How to disseminate your doctoral thesis on the Internet\".",
+            "summary": "We have posted the video of the content of the recently held online seminar \"How to disseminate your doctoral thesis on the Internet\".\n\nThe video explains the precautions for writing a doctoral disser…",
+            "date_modified": "2024-10-24T03:00:00.000Z"
+        },
+        {
+            "id": "07a9a66c56fca53856888c7058b4b0fe",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5562",
+            "title": "manabaで動画を公開しました（オンライン講習会「博士論文インターネット公表の基礎知識」）",
+            "summary": "先日実施いたしましたオンライン講習会「博士論文インターネット公表の基礎知識」の内容を動画で公開いたしました。\n\n博士論文を執筆する際の注意事項や、提出について、提出後の流れなどを動画で説明しています。\n提出後はつくばリポジトリに登録し、公開していますが、そこまでの流れがわかる動画となっています。\n実際に博士論文を執筆する学生のみなさんだけでなく、教員のみなさまもぜひご視聴ください。\n\n特にリアルタ…",
+            "date_modified": "2024-10-24T03:00:00.000Z"
+        },
+        {
             "id": "6d4e1db57d729d51973bf30f20e5b45e",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5561",
             "title": "＼本日説明開催／SEA-Teacherプログラム説明会",
@@ -128,20 +142,6 @@
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5540",
             "title": "【BHE】Tsukuba Career Insight 2024 ～先輩に聞こう！障害学生が自分らしく生きていくための社会移行～",
             "summary": "キャリア支援セミナーのご案内です！\n\nEY JAPAN株式会社、東京消防庁、富士通株式会社よりゲストをお招きして、社会で活躍している障害のある方が自身のキャリアをどのように考え選択してきたのか、また、現在の働き方や生活の様子などをお話しいただきます。\n進路選択にお悩みの方、いろいろなキャリアパスを知りたい方など、有名企業・団体に就職した方のお話が聞ける貴重な機会になります！\n自分らしく働くことにつ…",
-            "date_modified": "2024-10-15T03:00:00.000Z"
-        },
-        {
-            "id": "48e0f28609f7592b50907e47d07f8c6d",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5538",
-            "title": "（茗渓会）11月ぶっちゃけ相談会のお知らせ（芸専特集）",
-            "summary": "\n\nこれから就活が始まる方、卒業後の進路やキャリアに悩んでいる方、\nこれからの大学生活をどう過ごそうか考えている方、\nぜひ、先輩に質問してみてください。\n\n【今月の登壇者】特集テーマ 「芸術専門学群を卒業の方、もしくは芸術研究科を修了の方」\n１人目は、自動車製造業 ステランティス N.V.、\n２人目は、IT業界 株式会社マネーフォワード（業務委託）で活躍されているお二人が登場します。\n\nみなさんが…",
-            "date_modified": "2024-10-15T03:00:00.000Z"
-        },
-        {
-            "id": "e7acfdf6c2adf80df9d73684d72e5f20",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5537",
-            "title": "次期全学計算機システムについてのアンケート調査",
-            "summary": "授業関係者，サテライト担当者，学生 各位\n\n　　　　次期全学計算機システムについてのアンケート調査\n\n　　　　　　　　　　　　　　　　　　　　　学術情報メディアセンター\n\n学術情報メディアセンターでは次期全学計算機システム（2028年3月に導入\n予定）の仕様策定を進めています。それにあたり、関係者から広く意見を\n集めたいと考えており、アンケート調査へのご協力をお願いいたします。\n協力して下さる方は…",
             "date_modified": "2024-10-15T03:00:00.000Z"
         }
     ]
