@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "620b9331135c148fd4f537ae100a4159",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5565",
+            "title": "【再掲】11/5セミナー「世界の子ども達に等しい教育の機会を―国際機関を通しての教育開発支援の経験から―」",
+            "summary": "第54回ASIP/TG合同セミナーの参加者を募集します。\n\n【世界の子ども達に等しい教育の機会を―国際機関を通しての教育開発支援の経験から―】\n日時：2024年11月5日（火）15：00～16：30\n方法：オンライン\n講師：中島（野呂）朋子氏（国際機関教育アドバイザー）\n\n内容：国連児童基金（UNICEF）、国連難民高等弁務官事務所（UNHCR）、世界銀行などの国際機関において、教育開発（特に教育…",
+            "date_modified": "2024-10-25T03:00:00.000Z"
+        },
+        {
             "id": "dcfc900d328f565d7ab12c9991e7f30a",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5564",
             "title": "[附属図書館] 図書館経費購入雑誌に関するアンケート/Questionnaire to select journals",
@@ -135,13 +142,6 @@
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5540",
             "title": "【BHE】Tsukuba Career Insight 2024 ～先輩に聞こう！障害学生が自分らしく生きていくための社会移行～",
             "summary": "キャリア支援セミナーのご案内です！\n\nEY JAPAN株式会社、東京消防庁、富士通株式会社よりゲストをお招きして、社会で活躍している障害のある方が自身のキャリアをどのように考え選択してきたのか、また、現在の働き方や生活の様子などをお話しいただきます。\n進路選択にお悩みの方、いろいろなキャリアパスを知りたい方など、有名企業・団体に就職した方のお話が聞ける貴重な機会になります！\n自分らしく働くことにつ…",
-            "date_modified": "2024-10-15T03:00:00.000Z"
-        },
-        {
-            "id": "48e0f28609f7592b50907e47d07f8c6d",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5538",
-            "title": "（茗渓会）11月ぶっちゃけ相談会のお知らせ（芸専特集）",
-            "summary": "\n\nこれから就活が始まる方、卒業後の進路やキャリアに悩んでいる方、\nこれからの大学生活をどう過ごそうか考えている方、\nぜひ、先輩に質問してみてください。\n\n【今月の登壇者】特集テーマ 「芸術専門学群を卒業の方、もしくは芸術研究科を修了の方」\n１人目は、自動車製造業 ステランティス N.V.、\n２人目は、IT業界 株式会社マネーフォワード（業務委託）で活躍されているお二人が登場します。\n\nみなさんが…",
             "date_modified": "2024-10-15T03:00:00.000Z"
         }
     ]
