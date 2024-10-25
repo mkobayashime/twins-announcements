@@ -4,10 +4,24 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Thu, 24 Oct 2024 21:06:54 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 25 Oct 2024 02:25:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
+        <item>
+            <title><![CDATA[[附属図書館] 図書館経費購入雑誌に関するアンケート/Questionnaire to select journals]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5564</link>
+            <guid>dcfc900d328f565d7ab12c9991e7f30a</guid>
+            <pubDate>Fri, 25 Oct 2024 03:00:00 GMT</pubDate>
+            <description><![CDATA[附属図書館では、図書館経費購入雑誌見直しにあたり、アンケート調査を行っております。
+是非ご協力ください。
+
+実施期間：10月25日（金）～11月25日（月）17:00
+
+以下のURLにアクセスし、回答してください。
+
+The University Library is conducting a questionnaire to select journals purchased at librar…]]></description>
+        </item>
         <item>
             <title><![CDATA[We have posted the online seminar video "How to disseminate your doctoral thesis on the Internet".]]></title>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5563</link>
@@ -258,22 +272,6 @@ EY JAPAN株式会社、東京消防庁、富士通株式会社よりゲストを
 ２人目は、IT業界 株式会社マネーフォワード（業務委託）で活躍されているお二人が登場します。
 
 みなさんが…]]></description>
-        </item>
-        <item>
-            <title><![CDATA[次期全学計算機システムについてのアンケート調査]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5537</link>
-            <guid>e7acfdf6c2adf80df9d73684d72e5f20</guid>
-            <pubDate>Tue, 15 Oct 2024 03:00:00 GMT</pubDate>
-            <description><![CDATA[授業関係者，サテライト担当者，学生 各位
-
-　　　　次期全学計算機システムについてのアンケート調査
-
-　　　　　　　　　　　　　　　　　　　　　学術情報メディアセンター
-
-学術情報メディアセンターでは次期全学計算機システム（2028年3月に導入
-予定）の仕様策定を進めています。それにあたり、関係者から広く意見を
-集めたいと考えており、アンケート調査へのご協力をお願いいたします。
-協力して下さる方は…]]></description>
         </item>
     </channel>
 </rss>
