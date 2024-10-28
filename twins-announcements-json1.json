@@ -5,6 +5,20 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "4b4eea3804500c4d14c96b2f6afbc32b",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5569",
+            "title": "【11/15開催】「キャリアデザインLAB ～現役大学院生から見た進路選択のリアル～｣中央図書館LAセミナー",
+            "summary": "・大学院進学、就職活動、教員採用試験どれにしよう？\n・留学してみたいけど、不安もある\n・進路が全然決められない！\n・・・そんなお悩みはありませんか？\n\nそれぞれを経験した現役大学院生のラーニング・アドバイザー（LA）が、\nキャリアデザインのヒントを提供します。\n\nセミナーは、テーマごとに4つのグループに分かれて行います。\n質問コーナーもあります。\nどのようなキャリアがあるか知りたい方も大歓迎！\nお…",
+            "date_modified": "2024-10-28T03:00:00.000Z"
+        },
+        {
+            "id": "e02d0d69d7212fb60dca8a1ffcf664e5",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5568",
+            "title": "就活セミナー「筑波＿卒業後を考える会」開催のお知らせ",
+            "summary": "筑波大学「世界を変えよう基金アカデミー」では、就活を終えた4年生が自らの経験を下級生に伝える「筑波＿卒業後を考える会」をZoomで毎年開催しています。\nガクチカ、インターン体験、就活対象先を絞り込んで最終内定先を選んだ過程等、\n就活中あるいはこれから就活を始める皆さんにとって興味深いテーマを取り上げていただきます。\n\n今年の日程は下記のとおりです。\n11/10(日)20:00~、スピーカー（国際5…",
+            "date_modified": "2024-10-28T03:00:00.000Z"
+        },
+        {
             "id": "4c7e87ac9a615de9d31533cb80f2c2bc",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5567",
             "title": "トビタテ！留学JAPAN新・日本代表プログラム2025年度応募に向けて、先輩トビタテ生の体験談を聞こう！（11/11）",
@@ -129,20 +143,6 @@
             "title": "【トビタテ！留学JAPAN】新・日本代表プログラム　大学生等対象　2025年度（第17期）募集要項・募集説明会・留学体験発表会について",
             "summary": "【募集要項について】\n文部科学省主催の「トビタテ！留学JAPAN新・日本代表プログラム」第17期募集要項が公開されました。応募を希望する学生は、「募集要項」及び「応募申請の手引き」（2024年11月下旬公開予定）を熟読の上、応募申請を行ってください。\n\n【募集説明会について】\n募集説明会が、対面及びオンラインにて開催されます。申込フォームからの事前申込が必要です。人数に限りがありますので、希望する…",
             "date_modified": "2024-10-17T03:00:00.000Z"
-        },
-        {
-            "id": "29ff324fde63ff3893988432b6b06d08",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5544",
-            "title": "【まもなく締切‗AIMSプログラム2025春学期渡航分交換留学】",
-            "summary": "スチューデントサポートセンター国際交流支援室では、AIMSプログラム（東南アジア協定校との交換留学プログラム）への交換留学について2025年春学期渡航分を【10/31（木）17：00まで】募集しています。興味がある学群生は、下記リンク先の募集要項をよく読み、応募してください。\n\nなお、一部の協定校はすでに募集が終了しています。\n",
-            "date_modified": "2024-10-16T03:00:00.000Z"
-        },
-        {
-            "id": "1a82f90ecc271cb4a5034692a4c8df54",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5542",
-            "title": "2024年度「海外英語研修II-c」（オーストラリア、3単位、実渡航）参加者募集　",
-            "summary": "本学の協定校、オーストラリア・ウーロンゴン大学の英語研修に3週間参加し、ホームステイ先に宿泊します。英語力の向上や異文化交流に関心のある学生の参加を募集します。\n詳細や申込方法については、manabaコース「xx20371　海外英語研修」に自己登録のうえ、募集説明会動画と資料を確認してください。\n\n※manabaの登録方法について\nmanabaにログインし、マイページ右側の「自己登録について」＞「…",
-            "date_modified": "2024-10-16T03:00:00.000Z"
         }
     ]
 }
