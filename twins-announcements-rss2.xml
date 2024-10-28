@@ -4,10 +4,19 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Mon, 28 Oct 2024 07:01:38 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 28 Oct 2024 08:01:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
+        <item>
+            <title><![CDATA[AIMS Programme presents_Cultural Exchange Activity]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5571</link>
+            <guid>b2ce7cfb7d6db159a1426b20167e79c1</guid>
+            <pubDate>Mon, 28 Oct 2024 03:00:00 GMT</pubDate>
+            <description><![CDATA[東南アジアの協定校から受け入れている短期留学生が、自国について紹介します！
+東南アジアに興味のある方、留学生と交流したい方はぜひお越しください。
+全５回開催。予約不要・入退場自由です。詳しいスケジュールはポスターをご確認ください。]]></description>
+        </item>
         <item>
             <title><![CDATA[【11/15開催】「キャリアデザインLAB ～現役大学院生から見た進路選択のリアル～｣中央図書館LAセミナー]]></title>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5569</link>
@@ -265,17 +274,6 @@ BHEキャリア支援チームのファシリテーターからフィードバ�
 業界・業種やインターンシップの話はもちろん
 進学か就職か？　企業か公務員か？
 気になっていることを直…]]></description>
-        </item>
-        <item>
-            <title><![CDATA[【トビタテ！留学JAPAN】新・日本代表プログラム　大学生等対象　2025年度（第17期）募集要項・募集説明会・留学体験発表会について]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5546</link>
-            <guid>af1d61dbee80f17e4a73af3728192d83</guid>
-            <pubDate>Thu, 17 Oct 2024 03:00:00 GMT</pubDate>
-            <description><![CDATA[【募集要項について】
-文部科学省主催の「トビタテ！留学JAPAN新・日本代表プログラム」第17期募集要項が公開されました。応募を希望する学生は、「募集要項」及び「応募申請の手引き」（2024年11月下旬公開予定）を熟読の上、応募申請を行ってください。
-
-【募集説明会について】
-募集説明会が、対面及びオンラインにて開催されます。申込フォームからの事前申込が必要です。人数に限りがありますので、希望する…]]></description>
         </item>
     </channel>
 </rss>
