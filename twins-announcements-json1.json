@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "4c7e87ac9a615de9d31533cb80f2c2bc",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5567",
+            "title": "トビタテ！留学JAPAN新・日本代表プログラム2025年度応募に向けて、先輩トビタテ生の体験談を聞こう！（11/11）",
+            "summary": "2025年度（第17期）トビタテ！の応募申請がいよいよ始まります。それに先立ち、留学経験の先輩トビタテ生からの体験談を聞きませんか？トビタテ！に申請する方に限りません。留学を志す皆さん、留学をためらっている皆さん、留学に関心がある皆さん、奮ってご参加ください。きっと、楽しいお話が聞けますよ。チラシも参考にしてください。\n　なお、トビタテ！応募申請に関して、質問のある方はスタッフからの説明も受けられ…",
+            "date_modified": "2024-10-28T03:00:00.000Z"
+        },
+        {
             "id": "b47a563312187fd5686055739532f6ba",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5566",
             "title": "【BHEお知らせ】日立製作所　冬季研究開発インターンシップについて",
@@ -136,13 +143,6 @@
             "title": "2024年度「海外英語研修II-c」（オーストラリア、3単位、実渡航）参加者募集　",
             "summary": "本学の協定校、オーストラリア・ウーロンゴン大学の英語研修に3週間参加し、ホームステイ先に宿泊します。英語力の向上や異文化交流に関心のある学生の参加を募集します。\n詳細や申込方法については、manabaコース「xx20371　海外英語研修」に自己登録のうえ、募集説明会動画と資料を確認してください。\n\n※manabaの登録方法について\nmanabaにログインし、マイページ右側の「自己登録について」＞「…",
             "date_modified": "2024-10-16T03:00:00.000Z"
-        },
-        {
-            "id": "4647cfe2bfbaaafec906f050ae2a6460",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5541",
-            "title": "第12回　OB・OGキャリアカフェ～いろんなセンパイと話をしてみよう～",
-            "summary": "筑波大生の皆さんへ\n2019 年より始まった筑波大学および大学院の卒業生と現役学生との交流の機会、「OB・OG キャリアカフェ」。大学の先輩から就職活動やキャリア、学生生活などのアドバイスについて本音で聞ける機会として、学生から高い満足度を得ています。\n前回同様、対面で開催します。\nさまざまな業界の企業人の方をお招きしています。\nぜひお見逃しなく！\n\n★社会人のリアルや業界・企業について知る機会★…",
-            "date_modified": "2024-10-15T03:00:00.000Z"
         }
     ]
 }
