@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/mkobayashime/twins-announcements</id>
     <title>在学生へのお知らせ | 筑波大学</title>
-    <updated>2024-10-28T10:01:52.310Z</updated>
+    <updated>2024-10-28T12:01:57.222Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://github.com/mkobayashime/twins-announcements"/>
     <subtitle>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</subtitle>
+    <entry>
+        <title type="html"><![CDATA[【オンライン相談会開催　10月31日（木）】海外インターンシッププログラム]]></title>
+        <id>e2f9270a63b4c9e1f15c2d02bbbd73bc</id>
+        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5574"/>
+        <updated>2024-10-28T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[2024年度　海外インターンシップ（キルギス共和国・タジキスタン共和国・ウズベキスタン共和国）ウェブ相談会を実施します。
+当該プログラムの応募資格などに関して質問のある方は是非、ご参加ください。
+（現地で実施されるインターンシッププログラムの内容等に関する説明会ではありません）
+
+開催日時：2024年10月31日（金）18：15～18：45
+相談会用Zoomリンク：
+https://us02web…]]></summary>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【お知らせ】令和６年度学園祭実施に伴う自転車の駐輪規制及び撤去について（2024/11/2(土)～）]]></title>
         <id>7d53f549efc839199ddd1c71bb2399b8</id>
@@ -249,18 +262,5 @@ CAS SciFinderはCAS(America Chemical Society / Chemical Abstracts Service)が提
 ----------
 文部科学省では、全国の学生を対象に、アントレプレナーシップを身に付けるプログラムを実施しています。
 この度、2024年11月16日(土)に、全米アントレプレナーシップ教育ランキングで30年連続1位を獲得しているバブソン…]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[(BHE)10/29 オンライン面接練習会のご案内]]></title>
-        <id>862681dbf7b590b45fe2862089786f6d</id>
-        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5551"/>
-        <updated>2024-10-18T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[就活に即役立つ、オンライン面接練習会です。
-就活中の方、ISの選考を受ける方だけでなく、低学年の皆さんの参加も大歓迎！「面接ってどんな感じ？」、「オンライン面接の注意点は？」などちょっと知りたいという方もぜひどうぞ。
-BHEキャリア支援チームのファシリテーターからフィードバックがあります。（日本語での開催です）
-
-＜オンライン＞
-日にち：令和６年10月29日（火）
-時間：集団面接編　10：00-1…]]></summary>
     </entry>
 </feed>
