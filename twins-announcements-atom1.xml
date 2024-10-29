@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/mkobayashime/twins-announcements</id>
     <title>在学生へのお知らせ | 筑波大学</title>
-    <updated>2024-10-29T01:28:38.255Z</updated>
+    <updated>2024-10-29T04:01:47.848Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://github.com/mkobayashime/twins-announcements"/>
     <subtitle>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</subtitle>
+    <entry>
+        <title type="html"><![CDATA[【11月開室スケジュール】セーファースペース「KiteKite（きてきて）」]]></title>
+        <id>99f73630fc8906ab875c347c92ea880a</id>
+        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5578"/>
+        <updated>2024-10-29T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[ヒューマンエンパワーメント推進局（BHE）ジェンダー支援チームでは、学生スタッフと共同で”セーファースペースKiteKite（きてきて）”を実施しています。
+11月の開室スケジュールをお知らせしますので、ぜひお気軽にご参加ください。
+
+※セーファースペースとは…LGBTQ＋や女性をはじめ、全ての人が自らのジェンダー・セクシュアリティについてより安全に話すことができる居場所のこと
+
+KiteKite…]]></summary>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【学生無料】第15回つくばリサイタルシリーズ ほのカルテット〜弦楽四重奏の魅力を解き明かす〜]]></title>
         <id>0b3ce7f86aaed5aef52613477a1e21b7</id>
@@ -251,22 +263,5 @@ https://tsukubalive.studio.site/Fxl3aPcv2/20241017
 
 
 ]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2024年度　 海外インターンシップ（キルギス共和国・タジキスタン共和国・ウズベキスタン共和国） 　参加者募集！]]></title>
-        <id>6e23600d6e62ee96966058f165fe9c82</id>
-        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5556"/>
-        <updated>2024-10-22T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[2024年度春期に海外インターンシップを開催することになりましたので、参加学生を募集します。
-
-▶︎実施場所：
-・日本人開発センター（キルギス共和国　ビシュケク）
-・JICAタジキスタン事務所（タジキスタン共和国　ドゥシャンベ）
-・ウズベキスタン日本センター（ウズベキスタン共和国　タシケント）
-
-▶︎業務内容（例）：
-◉相互交流・ビジネス部門事務サポート
-◉日本語・日本文化イベントの実施補佐
-◉国…]]></summary>
     </entry>
 </feed>

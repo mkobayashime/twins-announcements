@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "99f73630fc8906ab875c347c92ea880a",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5578",
+            "title": "【11月開室スケジュール】セーファースペース「KiteKite（きてきて）」",
+            "summary": "ヒューマンエンパワーメント推進局（BHE）ジェンダー支援チームでは、学生スタッフと共同で”セーファースペースKiteKite（きてきて）”を実施しています。\n11月の開室スケジュールをお知らせしますので、ぜひお気軽にご参加ください。\n\n※セーファースペースとは…LGBTQ＋や女性をはじめ、全ての人が自らのジェンダー・セクシュアリティについてより安全に話すことができる居場所のこと\n\nKiteKite…",
+            "date_modified": "2024-10-29T03:00:00.000Z"
+        },
+        {
             "id": "0b3ce7f86aaed5aef52613477a1e21b7",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5577",
             "title": "【学生無料】第15回つくばリサイタルシリーズ ほのカルテット〜弦楽四重奏の魅力を解き明かす〜",
@@ -136,13 +143,6 @@
             "title": "【11/17開催】筑波大学ホームゲーム「TSUKUBA LIVE!」",
             "summary": "\n11月17日（日）に開催される、筑波大学ホームゲームTOKIUM「TSUKUBA LIVE!」（男子バスケットボール）のチケット販売が開始されました！\n\n【500円割引クーポン】\n筑波大生の方には、先着50名が利用できる500円割引クーポンを配布！\n\n詳しくはこちらから\nhttps://tsukubalive.studio.site/Fxl3aPcv2/20241017\n\n\n\n\n",
             "date_modified": "2024-10-23T03:00:00.000Z"
-        },
-        {
-            "id": "6e23600d6e62ee96966058f165fe9c82",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5556",
-            "title": "2024年度　 海外インターンシップ（キルギス共和国・タジキスタン共和国・ウズベキスタン共和国） 　参加者募集！",
-            "summary": "2024年度春期に海外インターンシップを開催することになりましたので、参加学生を募集します。\n\n▶︎実施場所：\n・日本人開発センター（キルギス共和国　ビシュケク）\n・JICAタジキスタン事務所（タジキスタン共和国　ドゥシャンベ）\n・ウズベキスタン日本センター（ウズベキスタン共和国　タシケント）\n\n▶︎業務内容（例）：\n◉相互交流・ビジネス部門事務サポート\n◉日本語・日本文化イベントの実施補佐\n◉国…",
-            "date_modified": "2024-10-22T03:00:00.000Z"
         }
     ]
 }
