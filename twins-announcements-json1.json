@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "0f6ef5e37158132d99a4af17110f656b",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5582",
+            "title": "【周知】学生の安心・安全に係る指導・啓発の充実について",
+            "summary": "文部科学省より、新学期を迎えるにあたり、学生の安心・安全に関して参考となる各種資料（公表資料）が届きましたので、お知らせいたします。\n特に、長期休暇明けや新年度の開始時期は、新しい環境で生活を始める学生が多くなり、様々なトラブルや悩みを抱えやすい時期になります。\n下記添付資料に、啓発資料や学生が相談する窓口、学生の危険や悩みをまとめた資料、学生の安全・安心に係る役立つ情報集が、掲載されています。\n…",
+            "date_modified": "2024-10-29T03:00:00.000Z"
+        },
+        {
             "id": "8f7464bc89e00b01b8e60d44c96c36c9",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5581",
             "title": "【お知らせ】令和６年度学園祭打上げ花火に関するご案内、通行規制について（11/4(月・祝)）",
@@ -135,13 +142,6 @@
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5560",
             "title": "第12回　OB・OGキャリアカフェ～いろんなセンパイと話をしてみよう～　再掲",
             "summary": "筑波大生の皆さんへ\n2019年より始まった筑波大学および大学院の卒業生と現役学生との交流の機会、「OB・OG キャリアカフェ」。このイベントは、大学の先輩から就職活動やキャリア、学生生活などについて本音でアドバイスを聞ける貴重な機会として、学生から高い満足度を得ています。\n\n今回は、2部構成でパネルディスカッションと交流会を対面で開催いたします。様々な職種やキャリアを持つ企業人が参加しますので、幅…",
-            "date_modified": "2024-10-24T03:00:00.000Z"
-        },
-        {
-            "id": "ab0cb47a44c0b05690fdc3796de9ea32",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5559",
-            "title": "人文学学位プログラム大学院進学説明会開催のお知らせ 【２０２４年１１月１３日（水）17時開催】",
-            "summary": "下記のとおり人文学学位プログラムの説明会を開催いたします。\n人文学学位プログラムの各サブプログラム（哲学・思想、歴史・人類学、文学、言語学、現代文化学、英語教育学）へ進学を検討されている方や興味をお持ちの方は是非ご参加ください。\n\n日　　時：２０２４年１１月１３日（水）１７:００～１８:３０\n開催方法：Zoomミーティングによるオンライン開催（事前参加登録制）\n申込期限：１１月１１日（月）２３時４…",
             "date_modified": "2024-10-24T03:00:00.000Z"
         }
     ]
