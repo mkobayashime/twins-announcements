@@ -5,6 +5,27 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "0b3ce7f86aaed5aef52613477a1e21b7",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5577",
+            "title": "【学生無料】第15回つくばリサイタルシリーズ ほのカルテット〜弦楽四重奏の魅力を解き明かす〜",
+            "summary": "【学生無料】第15回つくばリサイタルシリーズ\nほのカルテット〜弦楽四重奏の魅力を解き明かす〜\n\n2025/1/25(土)　つくばカピオホール\n開場: 13:30 / 開始: 14:00\n\n出演者\nほのカルテット\n　ヴァイオリン：岸本萌乃加　\n　ヴァイオリン：林周雅 　\n　ヴィオラ： 長田健志　\n　チェロ ：蟹江慶行　\n\nプログラム\n江藤光紀/弦楽四重奏曲第4番 (初演)\nブリテン/弦楽四重奏曲第2…",
+            "date_modified": "2024-10-29T03:00:00.000Z"
+        },
+        {
+            "id": "21b5aa8b4deb2094496e7512252dfa4f",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5576",
+            "title": "“Paradoxes of War - 戦争の社会学的考察”　に関する勉強会参加者募集",
+            "summary": "筑波大学「世界を変えよう基金アカデミー」では、プリンストン大学Miguel A. Centino 教授の”Paradoxes of War” に関する英語講義ビデオを教材として、戦争の社会学的考察に関する勉強会を11月12日から毎週火曜日２限10:15~11:25 に開催します。\n\n勉強会では、英語講義ビデオを視聴した後、講義内容について英語で議論します。\n\nこれから英語圏での留学を考えている学生…",
+            "date_modified": "2024-10-29T03:00:00.000Z"
+        },
+        {
+            "id": "cb4ffecaa33c6d1f9a5f37fe8f75d108",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5575",
+            "title": "（附属図書館）ライティング支援連続セミナー 第3回『疑うことから始めようー批判的に考えるー』【10/31(木)開催】",
+            "summary": "読むこと、考えること、伝えること。高校までとは違う、大学での学びに必要なスキルをテーマ毎にご案内する、ライティング支援連続セミナーのご案内です。\nレポート作成や論文執筆など、大学特有の課題形式に取り組むスキルを伸ばしたい方に特にお薦めです。\n\n第3回：\n『疑うことから始めようー批判的に考えるー』\n　島田康行先生（人文社会系）\n　一年生大歓迎です！大学で学ぶために大切な「批判的思考」について解説しま…",
+            "date_modified": "2024-10-29T03:00:00.000Z"
+        },
+        {
             "id": "e2f9270a63b4c9e1f15c2d02bbbd73bc",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5574",
             "title": "【オンライン相談会開催　10月31日（木）】海外インターンシッププログラム",
@@ -122,27 +143,6 @@
             "title": "2024年度　 海外インターンシップ（キルギス共和国・タジキスタン共和国・ウズベキスタン共和国） 　参加者募集！",
             "summary": "2024年度春期に海外インターンシップを開催することになりましたので、参加学生を募集します。\n\n▶︎実施場所：\n・日本人開発センター（キルギス共和国　ビシュケク）\n・JICAタジキスタン事務所（タジキスタン共和国　ドゥシャンベ）\n・ウズベキスタン日本センター（ウズベキスタン共和国　タシケント）\n\n▶︎業務内容（例）：\n◉相互交流・ビジネス部門事務サポート\n◉日本語・日本文化イベントの実施補佐\n◉国…",
             "date_modified": "2024-10-22T03:00:00.000Z"
-        },
-        {
-            "id": "7d0357dbd968fcf463ed253d6f4a7307",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5552",
-            "title": "（ご案内）文科省主催：全国アントレプレナーシップ人材育成プログラム　特別講演",
-            "summary": "標記の件について、文部科学省から案内がありました。\n下記をご確認の上、参加希望の方は「プログラム詳細・申込ページ」（下記リンク）より直接申込をしてください。\n\n----------\n文部科学省では、全国の学生を対象に、アントレプレナーシップを身に付けるプログラムを実施しています。\nこの度、2024年11月16日(土)に、全米アントレプレナーシップ教育ランキングで30年連続1位を獲得しているバブソン…",
-            "date_modified": "2024-10-21T03:00:00.000Z"
-        },
-        {
-            "id": "862681dbf7b590b45fe2862089786f6d",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5551",
-            "title": "(BHE)10/29 オンライン面接練習会のご案内",
-            "summary": "就活に即役立つ、オンライン面接練習会です。\n就活中の方、ISの選考を受ける方だけでなく、低学年の皆さんの参加も大歓迎！「面接ってどんな感じ？」、「オンライン面接の注意点は？」などちょっと知りたいという方もぜひどうぞ。\nBHEキャリア支援チームのファシリテーターからフィードバックがあります。（日本語での開催です）\n\n＜オンライン＞\n日にち：令和６年10月29日（火）\n時間：集団面接編　10：00-1…",
-            "date_modified": "2024-10-18T03:00:00.000Z"
-        },
-        {
-            "id": "620b9331135c148fd4f537ae100a4159",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5550",
-            "title": "【再掲】11/5セミナー「世界の子ども達に等しい教育の機会を―国際機関を通しての教育開発支援の経験から―」",
-            "summary": "第54回ASIP/TG合同セミナーの参加者を募集します。\n\n【世界の子ども達に等しい教育の機会を―国際機関を通しての教育開発支援の経験から―】\n日時：2024年11月5日（火）15：00～16：30\n方法：オンライン\n講師：中島（野呂）朋子氏（国際機関教育アドバイザー）\n\n内容：国連児童基金（UNICEF）、国連難民高等弁務官事務所（UNHCR）、世界銀行などの国際機関において、教育開発（特に教育…",
-            "date_modified": "2024-10-18T03:00:00.000Z"
         }
     ]
 }
