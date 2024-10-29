@@ -4,10 +4,24 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Tue, 29 Oct 2024 08:01:50 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 29 Oct 2024 09:07:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
+        <item>
+            <title><![CDATA[＼参加者募集／青少年海外研修（ベトナム）]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5583</link>
+            <guid>ae618cd2f2bcf792345116058309448a</guid>
+            <pubDate>Tue, 29 Oct 2024 03:00:00 GMT</pubDate>
+            <description><![CDATA[茨城県ベトナム友好協会主催　青少年海外研修の参加者を募集しています。
+
+〔実施国〕ベトナム（スケジュール、訪問場所は添付資料参照）　　
+　　　　茨城県内の大学から約3名ずつの学生が参加予定
+
+〔渡航期間〕2025年 2月18日～2月22日
+〔参加費〕自己負担分：15万円程度＋諸費用（保険料・燃料サーチャージ代）※総額で19万円程度かかるう　　　　　　　ち、4万円を友好協会が補助
+〔応募方法〕参加希…]]></description>
+        </item>
         <item>
             <title><![CDATA[【周知】学生の安心・安全に係る指導・啓発の充実について]]></title>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5582</link>
@@ -252,16 +266,6 @@ The video explains the precautions for writing a doctoral disser…]]></descript
 実際に博士論文を執筆する学生のみなさんだけでなく、教員のみなさまもぜひご視聴ください。
 
 特にリアルタ…]]></description>
-        </item>
-        <item>
-            <title><![CDATA[第12回　OB・OGキャリアカフェ～いろんなセンパイと話をしてみよう～　再掲]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5560</link>
-            <guid>5753a528d08e474f2a816c4d40cad55a</guid>
-            <pubDate>Thu, 24 Oct 2024 03:00:00 GMT</pubDate>
-            <description><![CDATA[筑波大生の皆さんへ
-2019年より始まった筑波大学および大学院の卒業生と現役学生との交流の機会、「OB・OG キャリアカフェ」。このイベントは、大学の先輩から就職活動やキャリア、学生生活などについて本音でアドバイスを聞ける貴重な機会として、学生から高い満足度を得ています。
-
-今回は、2部構成でパネルディスカッションと交流会を対面で開催いたします。様々な職種やキャリアを持つ企業人が参加しますので、幅…]]></description>
         </item>
     </channel>
 </rss>

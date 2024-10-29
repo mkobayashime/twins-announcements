@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "ae618cd2f2bcf792345116058309448a",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5583",
+            "title": "＼参加者募集／青少年海外研修（ベトナム）",
+            "summary": "茨城県ベトナム友好協会主催　青少年海外研修の参加者を募集しています。\n\n〔実施国〕ベトナム（スケジュール、訪問場所は添付資料参照）　　\n　　　　茨城県内の大学から約3名ずつの学生が参加予定\n\n〔渡航期間〕2025年 2月18日～2月22日\n〔参加費〕自己負担分：15万円程度＋諸費用（保険料・燃料サーチャージ代）※総額で19万円程度かかるう　　　　　　　ち、4万円を友好協会が補助\n〔応募方法〕参加希…",
+            "date_modified": "2024-10-29T03:00:00.000Z"
+        },
+        {
             "id": "0f6ef5e37158132d99a4af17110f656b",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5582",
             "title": "【周知】学生の安心・安全に係る指導・啓発の充実について",
@@ -135,13 +142,6 @@
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5562",
             "title": "manabaで動画を公開しました（オンライン講習会「博士論文インターネット公表の基礎知識」）",
             "summary": "先日実施いたしましたオンライン講習会「博士論文インターネット公表の基礎知識」の内容を動画で公開いたしました。\n\n博士論文を執筆する際の注意事項や、提出について、提出後の流れなどを動画で説明しています。\n提出後はつくばリポジトリに登録し、公開していますが、そこまでの流れがわかる動画となっています。\n実際に博士論文を執筆する学生のみなさんだけでなく、教員のみなさまもぜひご視聴ください。\n\n特にリアルタ…",
-            "date_modified": "2024-10-24T03:00:00.000Z"
-        },
-        {
-            "id": "5753a528d08e474f2a816c4d40cad55a",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5560",
-            "title": "第12回　OB・OGキャリアカフェ～いろんなセンパイと話をしてみよう～　再掲",
-            "summary": "筑波大生の皆さんへ\n2019年より始まった筑波大学および大学院の卒業生と現役学生との交流の機会、「OB・OG キャリアカフェ」。このイベントは、大学の先輩から就職活動やキャリア、学生生活などについて本音でアドバイスを聞ける貴重な機会として、学生から高い満足度を得ています。\n\n今回は、2部構成でパネルディスカッションと交流会を対面で開催いたします。様々な職種やキャリアを持つ企業人が参加しますので、幅…",
             "date_modified": "2024-10-24T03:00:00.000Z"
         }
     ]
