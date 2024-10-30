@@ -5,6 +5,20 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "dc2f4ad70a253e3cd8b60f7b9fee1e17",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5586",
+            "title": "グアダラハラ大学（メキシコ）への短期研修生募集！（2024年度TTPP短期研修）",
+            "summary": "筑波トランスパシフィックプログラム（TTPP）短期研修プログラムへの参加者を募集しています！\n今年度の行先は、メキシコのグアダラハラ大学！\n現地学生との交流、文化や歴史とのふれあい、日系企業等の訪問などを通して、自分の世界を拡げてみませんか？\nあなたも、未知なる体験をメキシコで！\n\n【応募締切：11/20（水）8:30AM】\n\n詳細はスチューデントサポートセンターのホームページをご覧ください。\nお…",
+            "date_modified": "2024-10-30T03:00:00.000Z"
+        },
+        {
+            "id": "748ec3edbdf4a3ee33ccd1f4f6826974",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5585",
+            "title": "【再掲】【開催案内・11/12】障害学生等支援防災ワーク（全学リスクマネジメントセミナー）",
+            "summary": "令和6年度全学防災訓練「障害学生等支援防災ワーク」（全学リスクマネジメントセミナー）を開催いたします。\n大学における障害学生への防災支援に焦点を当て、教職員や学生に日常業務や生活に取り入れやすい具体的な防災対策のヒントを提供することを目的とし、筑波地区防災訓練の一環として行います。\nなお、本防災ワークは全学リスクマネジメントセミナーを兼ねて実施します。\n皆さまのご参加をお待ちしております。\n\n実施…",
+            "date_modified": "2024-10-30T03:00:00.000Z"
+        },
+        {
             "id": "ae618cd2f2bcf792345116058309448a",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5583",
             "title": "＼参加者募集／青少年海外研修（ベトナム）",
@@ -129,20 +143,6 @@
             "title": "[附属図書館] 図書館経費購入雑誌に関するアンケート/Questionnaire to select journals",
             "summary": "附属図書館では、図書館経費購入雑誌見直しにあたり、アンケート調査を行っております。\n是非ご協力ください。\n\n実施期間：10月25日（金）～11月25日（月）17:00\n\n以下のURLにアクセスし、回答してください。\n\nThe University Library is conducting a questionnaire to select journals purchased at librar…",
             "date_modified": "2024-10-25T03:00:00.000Z"
-        },
-        {
-            "id": "2bc050c1aef407f1bd35068d5b8c1eab",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5563",
-            "title": "We have posted the online seminar video \"How to disseminate your doctoral thesis on the Internet\".",
-            "summary": "We have posted the video of the content of the recently held online seminar \"How to disseminate your doctoral thesis on the Internet\".\n\nThe video explains the precautions for writing a doctoral disser…",
-            "date_modified": "2024-10-24T03:00:00.000Z"
-        },
-        {
-            "id": "07a9a66c56fca53856888c7058b4b0fe",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5562",
-            "title": "manabaで動画を公開しました（オンライン講習会「博士論文インターネット公表の基礎知識」）",
-            "summary": "先日実施いたしましたオンライン講習会「博士論文インターネット公表の基礎知識」の内容を動画で公開いたしました。\n\n博士論文を執筆する際の注意事項や、提出について、提出後の流れなどを動画で説明しています。\n提出後はつくばリポジトリに登録し、公開していますが、そこまでの流れがわかる動画となっています。\n実際に博士論文を執筆する学生のみなさんだけでなく、教員のみなさまもぜひご視聴ください。\n\n特にリアルタ…",
-            "date_modified": "2024-10-24T03:00:00.000Z"
         }
     ]
 }
