@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "d4ef2d65e5350327a06851f5de392f34",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5589",
+            "title": "令和７年度　学生宿舎の特別事情申請による入居者の決定について",
+            "summary": "表題の件につきまして、添付ファイルの通りお知らせいたします。\n対象者の方はご確認ください。",
+            "date_modified": "2024-10-30T03:00:00.000Z"
+        },
+        {
             "id": "e1316b19bea4f65c7ee3f5f694082114",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5588",
             "title": "(BHE)11月　面接・GD練習会のご案内",
@@ -135,13 +142,6 @@
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5567",
             "title": "トビタテ！留学JAPAN新・日本代表プログラム2025年度応募に向けて、先輩トビタテ生の体験談を聞こう！（11/11）",
             "summary": "2025年度（第17期）トビタテ！の応募申請がいよいよ始まります。それに先立ち、留学経験の先輩トビタテ生からの体験談を聞きませんか？トビタテ！に申請する方に限りません。留学を志す皆さん、留学をためらっている皆さん、留学に関心がある皆さん、奮ってご参加ください。きっと、楽しいお話が聞けますよ。チラシも参考にしてください。\n　なお、トビタテ！応募申請に関して、質問のある方はスタッフからの説明も受けられ…",
-            "date_modified": "2024-10-28T03:00:00.000Z"
-        },
-        {
-            "id": "b47a563312187fd5686055739532f6ba",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5566",
-            "title": "【BHEお知らせ】日立製作所　冬季研究開発インターンシップについて",
-            "summary": "日立製作所冬季研究開発インターンシップ（修士・博士）のお知らせです。\n\n日立製作所では100件の冬季インターンシップをHPで検索できます。\n特に博士人財、留学生人財を積極採用を目指しているとのことです。\n添付のエクセルを参考の上、『管理番号』を使ってHPより応募ください。\n＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊\n■募集スケジュール\n1期：2024年10月25日(金) ～…",
             "date_modified": "2024-10-28T03:00:00.000Z"
         }
     ]
