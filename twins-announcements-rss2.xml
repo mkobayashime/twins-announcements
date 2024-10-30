@@ -4,10 +4,21 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Wed, 30 Oct 2024 02:25:13 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 30 Oct 2024 03:07:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
+        <item>
+            <title><![CDATA[(BHE)11月　面接・GD練習会のご案内]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5588</link>
+            <guid>e1316b19bea4f65c7ee3f5f694082114</guid>
+            <pubDate>Wed, 30 Oct 2024 03:00:00 GMT</pubDate>
+            <description><![CDATA[就活に即役立つ、面接・GD練習会です。
+対面でもオンラインでも開催します。
+対面面接編ではビジネスマナーも学ぶことができます。
+就活中の方、ISの選考を受ける方だけでなく、低学年の皆さんの参加も大歓迎！「面接ってどんな感じ？」、「グループディスカッションってどんな話をすればいいの？」などちょっと知りたいという方もぜひどうぞ。
+BHEキャリア支援チームのファシリテーターからフィードバックがあります。…]]></description>
+        </item>
         <item>
             <title><![CDATA[【周知】ハンドブック「これってあり？まんが知って役立つ労働法Ｑ＆Ａ」の改訂について]]></title>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5587</link>
@@ -256,20 +267,6 @@ https://us02web…]]></description>
 ＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊
 ■募集スケジュール
 1期：2024年10月25日(金) ～…]]></description>
-        </item>
-        <item>
-            <title><![CDATA[【再掲】11/5セミナー「世界の子ども達に等しい教育の機会を―国際機関を通しての教育開発支援の経験から―」]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5565</link>
-            <guid>620b9331135c148fd4f537ae100a4159</guid>
-            <pubDate>Fri, 25 Oct 2024 03:00:00 GMT</pubDate>
-            <description><![CDATA[第54回ASIP/TG合同セミナーの参加者を募集します。
-
-【世界の子ども達に等しい教育の機会を―国際機関を通しての教育開発支援の経験から―】
-日時：2024年11月5日（火）15：00～16：30
-方法：オンライン
-講師：中島（野呂）朋子氏（国際機関教育アドバイザー）
-
-内容：国連児童基金（UNICEF）、国連難民高等弁務官事務所（UNHCR）、世界銀行などの国際機関において、教育開発（特に教育…]]></description>
         </item>
     </channel>
 </rss>
