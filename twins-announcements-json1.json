@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "fa82b44bd1f642099e331e5d3c09914b",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5592",
+            "title": "【開催案内11/19】第3回人文社会系研究交流セミナー",
+            "summary": "筑波大学人文社会系の教員の研究を紹介し、学内外の研究交流を促進するための「第3回人文社会系研究交流セミナー」をオンラインで開催いたします。\n\nポスターも添付しておりますので、ご参照ください。\n\n日　　時：11月19日（火）14:00-15:30\n講 演  者：岩崎 拓也 (日本学域・助教)\n演　　題：日本語の文を読みやすくする技術－句読法の変遷と課題\n事前申込：https://forms.gle/…",
+            "date_modified": "2024-10-31T03:00:00.000Z"
+        },
+        {
             "id": "fae358c87177295ed5345a5e22551fa1",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5591",
             "title": "【再掲】【BHE】Tsukuba Career Insight 2024 ～先輩に聞こう！障害学生が自分らしく生きていくための社会移行～",
@@ -135,13 +142,6 @@
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5571",
             "title": "AIMS Programme presents_Cultural Exchange Activity",
             "summary": "東南アジアの協定校から受け入れている短期留学生が、自国について紹介します！\n東南アジアに興味のある方、留学生と交流したい方はぜひお越しください。\n全５回開催。予約不要・入退場自由です。詳しいスケジュールはポスターをご確認ください。",
-            "date_modified": "2024-10-28T03:00:00.000Z"
-        },
-        {
-            "id": "4b4eea3804500c4d14c96b2f6afbc32b",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5569",
-            "title": "【11/15開催】「キャリアデザインLAB ～現役大学院生から見た進路選択のリアル～｣中央図書館LAセミナー",
-            "summary": "・大学院進学、就職活動、教員採用試験どれにしよう？\n・留学してみたいけど、不安もある\n・進路が全然決められない！\n・・・そんなお悩みはありませんか？\n\nそれぞれを経験した現役大学院生のラーニング・アドバイザー（LA）が、\nキャリアデザインのヒントを提供します。\n\nセミナーは、テーマごとに4つのグループに分かれて行います。\n質問コーナーもあります。\nどのようなキャリアがあるか知りたい方も大歓迎！\nお…",
             "date_modified": "2024-10-28T03:00:00.000Z"
         }
     ]
