@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "620b9331135c148fd4f537ae100a4159",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5594",
+            "title": "【再掲】11/5セミナー「世界の子ども達に等しい教育の機会を―国際機関を通しての教育開発支援の経験から―」",
+            "summary": "第54回ASIP/TG合同セミナーの参加者を募集します。\n\n【世界の子ども達に等しい教育の機会を―国際機関を通しての教育開発支援の経験から―】\n日時：2024年11月5日（火）15：00～16：30\n方法：オンライン\n講師：中島（野呂）朋子氏（国際機関教育アドバイザー）\n\n内容：国連児童基金（UNICEF）、国連難民高等弁務官事務所（UNHCR）、世界銀行などの国際機関において、教育開発（特に教育…",
+            "date_modified": "2024-10-31T03:00:00.000Z"
+        },
+        {
             "id": "6c4c8ccd3382c1b970cf7d0ad9e5d354",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5593",
             "title": "【全学生向け】Tsukuba Career Insight 2024 ～先輩に聞こう！障害学生が自分らしく生きていくための社会移行～",
@@ -135,13 +142,6 @@
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5573",
             "title": "【お知らせ】令和６年度学園祭実施に伴う自転車の駐輪規制及び撤去について（2024/11/2(土)～）",
             "summary": "学園祭期間中、学園祭会場内（第二・三エリア～体育・芸術エリア間のペデストリアンデッキ上）への自転車の駐輪を規制いたします。\n\n下記日時に、別添「自転車撤去図」の移動対象エリア（黄色の斜線部分）に駐輪してある自転車は、各撤去場所（赤枠部分）へ移動いたしますので、前日までに駐輪可能な場所へ自転車を移動させていただくようお願いいたします。\n\nご迷惑をおかけしますが、学園祭の安全かつ円滑な実施のため、ご理…",
-            "date_modified": "2024-10-28T03:00:00.000Z"
-        },
-        {
-            "id": "b2ce7cfb7d6db159a1426b20167e79c1",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5571",
-            "title": "AIMS Programme presents_Cultural Exchange Activity",
-            "summary": "東南アジアの協定校から受け入れている短期留学生が、自国について紹介します！\n東南アジアに興味のある方、留学生と交流したい方はぜひお越しください。\n全５回開催。予約不要・入退場自由です。詳しいスケジュールはポスターをご確認ください。",
             "date_modified": "2024-10-28T03:00:00.000Z"
         }
     ]
