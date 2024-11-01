@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "03058a0a8d0d567c6d0a61e856db63b0",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5595",
+            "title": "【周知】令和７年度以降における多子世帯の大学等授業料等無償化及び高等教育の修学支援新制度の学業要件について",
+            "summary": "　文科省より、多子世帯の大学等授業料等無償化及び高等教育の修学支援新制度の学業要件について通知がありましたので、お知らせいたします。\n　茨城県では、多子世帯に対する大学等の授業料等無償化は、令和７年度から実施することになり、また、高等教育の修学支援新制度では、支援を継続するために、一定の学習意欲と学習成果を測る要件を満たす必要があるとのことです。\n　この制度を利用する学生につきましては、ぜひ添付の…",
+            "date_modified": "2024-11-01T03:00:00.000Z"
+        },
+        {
             "id": "36b77108ebe78040c6390772e517a4ab",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5570",
             "title": "筑波大学公式オリジナルグッズECサイト割引クーポンのお知らせ（11月） 2024/11/1～2024/11/30",
@@ -135,13 +142,6 @@
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5573",
             "title": "【お知らせ】令和６年度学園祭実施に伴う自転車の駐輪規制及び撤去について（2024/11/2(土)～）",
             "summary": "学園祭期間中、学園祭会場内（第二・三エリア～体育・芸術エリア間のペデストリアンデッキ上）への自転車の駐輪を規制いたします。\n\n下記日時に、別添「自転車撤去図」の移動対象エリア（黄色の斜線部分）に駐輪してある自転車は、各撤去場所（赤枠部分）へ移動いたしますので、前日までに駐輪可能な場所へ自転車を移動させていただくようお願いいたします。\n\nご迷惑をおかけしますが、学園祭の安全かつ円滑な実施のため、ご理…",
-            "date_modified": "2024-10-28T03:00:00.000Z"
-        },
-        {
-            "id": "b2ce7cfb7d6db159a1426b20167e79c1",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5571",
-            "title": "AIMS Programme presents_Cultural Exchange Activity",
-            "summary": "東南アジアの協定校から受け入れている短期留学生が、自国について紹介します！\n東南アジアに興味のある方、留学生と交流したい方はぜひお越しください。\n全５回開催。予約不要・入退場自由です。詳しいスケジュールはポスターをご確認ください。",
             "date_modified": "2024-10-28T03:00:00.000Z"
         }
     ]
