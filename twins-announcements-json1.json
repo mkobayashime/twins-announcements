@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "16d2ca63ba4fc022351c06200417e76e",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5598",
+            "title": "11月14日（木）12:15-14:15「Business Leaders’ Seminar/ビジネスリーダーズセミナー」開催のお知らせ （対象：全学生）",
+            "summary": "ヒューマンバイオロジー学位プログラムでは授業の一環として「Business Leaders’ Seminar/ビジネスリーダーズセミナー」を開催しています。\n本セミナーは、世界のトップビジネスリーダーを招き、オムニバス形式でキャリア形成やビジネスに関する成功と失敗の話などの経験を紹介するものです。\n\n11月14日（木）12:15-14:15に開催するセミナーでは、1on1エンゲージメント研究所 代…",
+            "date_modified": "2024-11-01T03:00:00.000Z"
+        },
+        {
             "id": "24d42df5a03f37876093cedf31a83b41",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5597",
             "title": "【開催案内11/11】海外派遣報告会のお知らせ（数理物質科学研究群主催）",
@@ -135,13 +142,6 @@
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5578",
             "title": "【11月開室スケジュール】セーファースペース「KiteKite（きてきて）」",
             "summary": "ヒューマンエンパワーメント推進局（BHE）ジェンダー支援チームでは、学生スタッフと共同で”セーファースペースKiteKite（きてきて）”を実施しています。\n11月の開室スケジュールをお知らせしますので、ぜひお気軽にご参加ください。\n\n※セーファースペースとは…LGBTQ＋や女性をはじめ、全ての人が自らのジェンダー・セクシュアリティについてより安全に話すことができる居場所のこと\n\nKiteKite…",
-            "date_modified": "2024-10-29T03:00:00.000Z"
-        },
-        {
-            "id": "0b3ce7f86aaed5aef52613477a1e21b7",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5577",
-            "title": "【学生無料】第15回つくばリサイタルシリーズ ほのカルテット〜弦楽四重奏の魅力を解き明かす〜",
-            "summary": "【学生無料】第15回つくばリサイタルシリーズ\nほのカルテット〜弦楽四重奏の魅力を解き明かす〜\n\n2025/1/25(土)　つくばカピオホール\n開場: 13:30 / 開始: 14:00\n\n出演者\nほのカルテット\n　ヴァイオリン：岸本萌乃加　\n　ヴァイオリン：林周雅 　\n　ヴィオラ： 長田健志　\n　チェロ ：蟹江慶行　\n\nプログラム\n江藤光紀/弦楽四重奏曲第4番 (初演)\nブリテン/弦楽四重奏曲第2…",
             "date_modified": "2024-10-29T03:00:00.000Z"
         }
     ]
