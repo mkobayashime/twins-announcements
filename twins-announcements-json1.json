@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "24d42df5a03f37876093cedf31a83b41",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5597",
+            "title": "【開催案内11/11】海外派遣報告会のお知らせ（数理物質科学研究群主催）",
+            "summary": "数理物質科学研究群では、独自の教育プログラム「つくば共鳴教育プログラム」の履修学生による海外派遣報告会を実施いたします。\n発表者等の詳細は添付のPDFをご確認ください。\n\n大学院生・学群生を問わずどなたでもご参加いただけます。\n参加申し込みは不要ですので、ぜひご参加ください。\n\n日時：令和6年11月11日（月）14：00～15：00\n場所：総合研究棟B0110公開講義室\n\nハイブリッド開催について…",
+            "date_modified": "2024-11-01T03:00:00.000Z"
+        },
+        {
             "id": "6feb90d036981c59bc540aa9fcde8a94",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5596",
             "title": "＼24秋の留学フェア開催／11/11（月）～11/22（金）",
@@ -135,13 +142,6 @@
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5577",
             "title": "【学生無料】第15回つくばリサイタルシリーズ ほのカルテット〜弦楽四重奏の魅力を解き明かす〜",
             "summary": "【学生無料】第15回つくばリサイタルシリーズ\nほのカルテット〜弦楽四重奏の魅力を解き明かす〜\n\n2025/1/25(土)　つくばカピオホール\n開場: 13:30 / 開始: 14:00\n\n出演者\nほのカルテット\n　ヴァイオリン：岸本萌乃加　\n　ヴァイオリン：林周雅 　\n　ヴィオラ： 長田健志　\n　チェロ ：蟹江慶行　\n\nプログラム\n江藤光紀/弦楽四重奏曲第4番 (初演)\nブリテン/弦楽四重奏曲第2…",
-            "date_modified": "2024-10-29T03:00:00.000Z"
-        },
-        {
-            "id": "21b5aa8b4deb2094496e7512252dfa4f",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5576",
-            "title": "“Paradoxes of War - 戦争の社会学的考察”　に関する勉強会参加者募集",
-            "summary": "筑波大学「世界を変えよう基金アカデミー」では、プリンストン大学Miguel A. Centino 教授の”Paradoxes of War” に関する英語講義ビデオを教材として、戦争の社会学的考察に関する勉強会を11月12日から毎週火曜日２限10:15~11:25 に開催します。\n\n勉強会では、英語講義ビデオを視聴した後、講義内容について英語で議論します。\n\nこれから英語圏での留学を考えている学生…",
             "date_modified": "2024-10-29T03:00:00.000Z"
         }
     ]
