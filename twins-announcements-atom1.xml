@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/mkobayashime/twins-announcements</id>
     <title>在学生へのお知らせ | 筑波大学</title>
-    <updated>2024-11-01T02:28:03.647Z</updated>
+    <updated>2024-11-01T05:01:55.622Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://github.com/mkobayashime/twins-announcements"/>
     <subtitle>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</subtitle>
+    <entry>
+        <title type="html"><![CDATA[＼24秋の留学フェア開催／11/11（月）～11/22（金）]]></title>
+        <id>6feb90d036981c59bc540aa9fcde8a94</id>
+        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5596"/>
+        <updated>2024-11-01T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[スチューデントサポートセンター（SSC）では、秋の留学フェアを開催します！
+
+期間中、日替わり＆昼・夜で交換留学の概要、留学のための奨学金、各留学プログラム毎の説明会や、民間主催の海外インターンシップ、語学試験の説明会など様々なコンテンツをご用意しました。オンラインでの開催もあります。
+
+留学準備は早めが肝心です！ぜひお気軽にご参加ください。]]></summary>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【周知】令和７年度以降における多子世帯の大学等授業料等無償化及び高等教育の修学支援新制度の学業要件について]]></title>
         <id>03058a0a8d0d567c6d0a61e856db63b0</id>
@@ -248,16 +259,5 @@ KiteKite…]]></summary>
 勉強会では、英語講義ビデオを視聴した後、講義内容について英語で議論します。
 
 これから英語圏での留学を考えている学生…]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【お知らせ】令和６年度学園祭実施に伴う自転車の駐輪規制及び撤去について（2024/11/2(土)～）]]></title>
-        <id>7d53f549efc839199ddd1c71bb2399b8</id>
-        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5573"/>
-        <updated>2024-10-28T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[学園祭期間中、学園祭会場内（第二・三エリア～体育・芸術エリア間のペデストリアンデッキ上）への自転車の駐輪を規制いたします。
-
-下記日時に、別添「自転車撤去図」の移動対象エリア（黄色の斜線部分）に駐輪してある自転車は、各撤去場所（赤枠部分）へ移動いたしますので、前日までに駐輪可能な場所へ自転車を移動させていただくようお願いいたします。
-
-ご迷惑をおかけしますが、学園祭の安全かつ円滑な実施のため、ご理…]]></summary>
     </entry>
 </feed>
