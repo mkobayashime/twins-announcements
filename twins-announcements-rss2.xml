@@ -4,10 +4,21 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Tue, 05 Nov 2024 03:04:20 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 05 Nov 2024 04:01:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
+        <item>
+            <title><![CDATA[Initial Registration and Addition of E-mail Addresses, etc. to the ANPIC [Request]]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5600</link>
+            <guid>0728c88949058c384423d6a2d707716a</guid>
+            <pubDate>Tue, 05 Nov 2024 03:00:00 GMT</pubDate>
+            <description><![CDATA[＜Target of the Safety Confirmation Using ANPIC＞
+・Undergraduate Students and Graduate Students (Including Non-Degree Students)
+　※Those Registered in TWINS
+
+＜Initial Registration and Addition of E-mail …]]></description>
+        </item>
         <item>
             <title><![CDATA[筑波大学安否確認システム（ANPIC）の初期登録及びメールアドレスの追加等について【お願い】]]></title>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5599</link>
@@ -238,19 +249,6 @@ BHEキャリア支援チームのファシリテーターからフィードバ�
 
 　規制場所：石の広場周辺（理科系Ａ棟から３Ａ棟に向かうスロープ・階段及び通路）
 　　　　　　※詳…]]></description>
-        </item>
-        <item>
-            <title><![CDATA[心理学学位プログラム入試説明会（令和８年度入学者向け）開催案内]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5579</link>
-            <guid>704fc3b48e26177701ebf0b4791eb5f5</guid>
-            <pubDate>Tue, 29 Oct 2024 03:00:00 GMT</pubDate>
-            <description><![CDATA[筑波大学人間総合科学学術院心理学学位プログラムでは、下記の通り、令和８年度（2026年度）
-入学者向けの大学院説明会を開催いたします。
-参加を希望される方は、下記の申し込みフォームから参加申し込みをお願いいたします。
-参加申し込みをされた方にのみ、当日のZoomのURLをお送りいたします。
-
-日時：令和6年12月18日（水）13時00分～15時40分
-実施方法：Zoomによるオンライン・ライブ方式…]]></description>
         </item>
     </channel>
 </rss>

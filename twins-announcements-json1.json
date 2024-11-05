@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "0728c88949058c384423d6a2d707716a",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5600",
+            "title": "Initial Registration and Addition of E-mail Addresses, etc. to the ANPIC [Request]",
+            "summary": "＜Target of the Safety Confirmation Using ANPIC＞\n・Undergraduate Students and Graduate Students (Including Non-Degree Students)\n　※Those Registered in TWINS\n\n＜Initial Registration and Addition of E-mail …",
+            "date_modified": "2024-11-05T03:00:00.000Z"
+        },
+        {
             "id": "91cce8abfe0671e48985f4723d95a2cf",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5599",
             "title": "筑波大学安否確認システム（ANPIC）の初期登録及びメールアドレスの追加等について【お願い】",
@@ -135,13 +142,6 @@
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5580",
             "title": "【お知らせ】令和６年度学園祭実施に伴う石の広場周辺の交通規制について（10/31(木) 7:00～11/5(火) 19:00）",
             "summary": "\n学園祭実施にあたり、石の広場に特設ステージの設置をすることから、以下のとおり交通規制を行います。\nご迷惑をおかけしますが、ご理解とご協力のほどよろしくお願いいたします。\n\n　　　　　　　　　　　　　　　　　　　記\n\n　規制日時：令和６年10月31日(木) 7：00 ～ 11月5日(火) 19：00\n\n　規制場所：石の広場周辺（理科系Ａ棟から３Ａ棟に向かうスロープ・階段及び通路）\n　　　　　　※詳…",
-            "date_modified": "2024-10-29T03:00:00.000Z"
-        },
-        {
-            "id": "704fc3b48e26177701ebf0b4791eb5f5",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5579",
-            "title": "心理学学位プログラム入試説明会（令和８年度入学者向け）開催案内",
-            "summary": "筑波大学人間総合科学学術院心理学学位プログラムでは、下記の通り、令和８年度（2026年度）\n入学者向けの大学院説明会を開催いたします。\n参加を希望される方は、下記の申し込みフォームから参加申し込みをお願いいたします。\n参加申し込みをされた方にのみ、当日のZoomのURLをお送りいたします。\n\n日時：令和6年12月18日（水）13時00分～15時40分\n実施方法：Zoomによるオンライン・ライブ方式…",
             "date_modified": "2024-10-29T03:00:00.000Z"
         }
     ]
