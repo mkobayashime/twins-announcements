@@ -4,10 +4,26 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Tue, 05 Nov 2024 06:01:48 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 05 Nov 2024 07:01:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
+        <item>
+            <title><![CDATA[受水槽等清掃（断水あり）のお知らせ（通知）]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5602</link>
+            <guid>79f0d6502704c484466a946aded8dca8</guid>
+            <pubDate>Tue, 05 Nov 2024 03:00:00 GMT</pubDate>
+            <description><![CDATA[　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　令和６年１１月５日
+　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　施設部施設サービス課
+
+各位
+
+　　　　　　　　　　　受水槽等清掃（断水あり）のお知らせ（通知）
+
+
+　給水用の受水槽・高置水槽について、年に一度行っております清掃作業を以下の通り行いますので、お知らせします。
+　作業の際には一部建物で断水が発生し、ご迷惑をお…]]></description>
+        </item>
         <item>
             <title><![CDATA[(再掲)【11/15開催】「キャリアデザインLAB ～現役大学院生から見た進路選択のリアル～｣中央図書館LAセミナー]]></title>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5601</link>
@@ -238,19 +254,6 @@ BHEキャリア支援チームのファシリテーターからフィードバ�
 特に、長期休暇明けや新年度の開始時期は、新しい環境で生活を始める学生が多くなり、様々なトラブルや悩みを抱えやすい時期になります。
 下記添付資料に、啓発資料や学生が相談する窓口、学生の危険や悩みをまとめた資料、学生の安全・安心に係る役立つ情報集が、掲載されています。
 …]]></description>
-        </item>
-        <item>
-            <title><![CDATA[【お知らせ】令和６年度学園祭打上げ花火に関するご案内、通行規制について（11/4(月・祝)）]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5581</link>
-            <guid>8f7464bc89e00b01b8e60d44c96c36c9</guid>
-            <pubDate>Tue, 29 Oct 2024 03:00:00 GMT</pubDate>
-            <description><![CDATA[学園祭の最終日（11/4(月・祝)）の後夜祭において、下記のとおり花火を打ち上げます。
-
-打上げ花火の実施に伴い、準備及び周辺の安全確保のため、虹の広場周辺の通行規制を行いますので、ご理解とご協力をよろしくお願いいたします。
-
-                                                         記
-
-打上げ日時：令和６年１１月４日（月・祝）　２０：３０…]]></description>
         </item>
     </channel>
 </rss>
