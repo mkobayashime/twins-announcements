@@ -2,10 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/mkobayashime/twins-announcements</id>
     <title>在学生へのお知らせ | 筑波大学</title>
-    <updated>2024-11-05T04:01:42.084Z</updated>
+    <updated>2024-11-05T06:01:49.001Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://github.com/mkobayashime/twins-announcements"/>
     <subtitle>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</subtitle>
+    <entry>
+        <title type="html"><![CDATA[(再掲)【11/15開催】「キャリアデザインLAB ～現役大学院生から見た進路選択のリアル～｣中央図書館LAセミナー]]></title>
+        <id>48b90d6dcab3ccdbbdb3b9f002ff3fff</id>
+        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5601"/>
+        <updated>2024-11-05T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[・大学院進学、就職活動、教員採用試験どれにしよう？
+・留学してみたいけど、不安もある
+・進路が全然決められない！
+・・・そんなお悩みはありませんか？
+
+それぞれを経験した現役大学院生のラーニング・アドバイザー（LA）が、
+キャリアデザインのヒントを提供します。
+
+セミナーは、テーマごとに4つのグループに分かれて行います。
+質問コーナーもあります。
+どのようなキャリアがあるか知りたい方も大歓迎！
+お…]]></summary>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Initial Registration and Addition of E-mail Addresses, etc. to the ANPIC [Request]]]></title>
         <id>0728c88949058c384423d6a2d707716a</id>
@@ -231,21 +249,5 @@ BHEキャリア支援チームのファシリテーターからフィードバ�
                                                          記
 
 打上げ日時：令和６年１１月４日（月・祝）　２０：３０…]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【お知らせ】令和６年度学園祭実施に伴う石の広場周辺の交通規制について（10/31(木) 7:00～11/5(火) 19:00）]]></title>
-        <id>c7e5d4e8fda67319368d6d72b54bb155</id>
-        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5580"/>
-        <updated>2024-10-29T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[
-学園祭実施にあたり、石の広場に特設ステージの設置をすることから、以下のとおり交通規制を行います。
-ご迷惑をおかけしますが、ご理解とご協力のほどよろしくお願いいたします。
-
-　　　　　　　　　　　　　　　　　　　記
-
-　規制日時：令和６年10月31日(木) 7：00 ～ 11月5日(火) 19：00
-
-　規制場所：石の広場周辺（理科系Ａ棟から３Ａ棟に向かうスロープ・階段及び通路）
-　　　　　　※詳…]]></summary>
     </entry>
 </feed>

@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "48b90d6dcab3ccdbbdb3b9f002ff3fff",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5601",
+            "title": "(再掲)【11/15開催】「キャリアデザインLAB ～現役大学院生から見た進路選択のリアル～｣中央図書館LAセミナー",
+            "summary": "・大学院進学、就職活動、教員採用試験どれにしよう？\n・留学してみたいけど、不安もある\n・進路が全然決められない！\n・・・そんなお悩みはありませんか？\n\nそれぞれを経験した現役大学院生のラーニング・アドバイザー（LA）が、\nキャリアデザインのヒントを提供します。\n\nセミナーは、テーマごとに4つのグループに分かれて行います。\n質問コーナーもあります。\nどのようなキャリアがあるか知りたい方も大歓迎！\nお…",
+            "date_modified": "2024-11-05T03:00:00.000Z"
+        },
+        {
             "id": "0728c88949058c384423d6a2d707716a",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5600",
             "title": "Initial Registration and Addition of E-mail Addresses, etc. to the ANPIC [Request]",
@@ -135,13 +142,6 @@
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5581",
             "title": "【お知らせ】令和６年度学園祭打上げ花火に関するご案内、通行規制について（11/4(月・祝)）",
             "summary": "学園祭の最終日（11/4(月・祝)）の後夜祭において、下記のとおり花火を打ち上げます。\n\n打上げ花火の実施に伴い、準備及び周辺の安全確保のため、虹の広場周辺の通行規制を行いますので、ご理解とご協力をよろしくお願いいたします。\n\n                                                         記\n\n打上げ日時：令和６年１１月４日（月・祝）　２０：３０…",
-            "date_modified": "2024-10-29T03:00:00.000Z"
-        },
-        {
-            "id": "c7e5d4e8fda67319368d6d72b54bb155",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5580",
-            "title": "【お知らせ】令和６年度学園祭実施に伴う石の広場周辺の交通規制について（10/31(木) 7:00～11/5(火) 19:00）",
-            "summary": "\n学園祭実施にあたり、石の広場に特設ステージの設置をすることから、以下のとおり交通規制を行います。\nご迷惑をおかけしますが、ご理解とご協力のほどよろしくお願いいたします。\n\n　　　　　　　　　　　　　　　　　　　記\n\n　規制日時：令和６年10月31日(木) 7：00 ～ 11月5日(火) 19：00\n\n　規制場所：石の広場周辺（理科系Ａ棟から３Ａ棟に向かうスロープ・階段及び通路）\n　　　　　　※詳…",
             "date_modified": "2024-10-29T03:00:00.000Z"
         }
     ]
