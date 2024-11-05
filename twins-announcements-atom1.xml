@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/mkobayashime/twins-announcements</id>
     <title>在学生へのお知らせ | 筑波大学</title>
-    <updated>2024-11-04T21:06:39.309Z</updated>
+    <updated>2024-11-05T03:04:20.343Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://github.com/mkobayashime/twins-announcements"/>
     <subtitle>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</subtitle>
+    <entry>
+        <title type="html"><![CDATA[筑波大学安否確認システム（ANPIC）の初期登録及びメールアドレスの追加等について【お願い】]]></title>
+        <id>91cce8abfe0671e48985f4723d95a2cf</id>
+        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5599"/>
+        <updated>2024-11-05T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[日頃より、本学の災害対策にご協力いただきありがとうございます。
+令和２年11月１日から、本学の安否確認システムは、「筑波大学安否確認システム（ANPIC)」（以下、ANPICという。）による運用を開始いたしました。
+ANPICでは、大地震などの大規模災害発生時や防災訓練において、ANPICから学生・教職員のメールアドレス等に安否確認メールを配信します。速やかに安否報告ができるよう、必ず初期登録を行…]]></summary>
+    </entry>
     <entry>
         <title type="html"><![CDATA[11月14日（木）12:15-14:15「Business Leaders’ Seminar/ビジネスリーダーズセミナー」開催のお知らせ （対象：全学生）]]></title>
         <id>16d2ca63ba4fc022351c06200417e76e</id>
@@ -240,17 +249,5 @@ BHEキャリア支援チームのファシリテーターからフィードバ�
 
 日時：令和6年12月18日（水）13時00分～15時40分
 実施方法：Zoomによるオンライン・ライブ方式…]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【11月開室スケジュール】セーファースペース「KiteKite（きてきて）」]]></title>
-        <id>99f73630fc8906ab875c347c92ea880a</id>
-        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5578"/>
-        <updated>2024-10-29T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[ヒューマンエンパワーメント推進局（BHE）ジェンダー支援チームでは、学生スタッフと共同で”セーファースペースKiteKite（きてきて）”を実施しています。
-11月の開室スケジュールをお知らせしますので、ぜひお気軽にご参加ください。
-
-※セーファースペースとは…LGBTQ＋や女性をはじめ、全ての人が自らのジェンダー・セクシュアリティについてより安全に話すことができる居場所のこと
-
-KiteKite…]]></summary>
     </entry>
 </feed>
