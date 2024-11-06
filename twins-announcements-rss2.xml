@@ -4,10 +4,22 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Wed, 06 Nov 2024 01:28:41 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 Nov 2024 02:22:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
+        <item>
+            <title><![CDATA[【周知】スタートアップの芽支援事業（社会実装研究支援金）の募集について（筑波大学産学連携会）]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5605</link>
+            <guid>6b7b7d8f687977960868ffb68a5f8e6c</guid>
+            <pubDate>Wed, 06 Nov 2024 03:00:00 GMT</pubDate>
+            <description><![CDATA[筑波大学産学連携会（TOMO）より、スタートアップの芽支援事業（社会実装研究支援金）の募集がありましたので、本学の大学院生、ポスドク（博士研究員等）の方にお知らせします。
+
+【スタートアップの芽支援事業（社会実装研究支援金）】
+
+１．事業内容
+　　　筑波大学の大学院生、ポスドク（博士研究員等）が、将来の社会実装を見据えて行っている研究に対して資金面から支援します。それにより、筑波大学の研究成果のス…]]></description>
+        </item>
         <item>
             <title><![CDATA[[BHE]11/20(水),12/4(水)5限：公開授業「キャリアデザイン入門～世界にはばたく未来の自分～」]]></title>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5604</link>
@@ -245,20 +257,6 @@ BHEキャリア支援チームのファシリテーターからフィードバ�
 皆さまのご参加をお待ちしております。
 
 実施…]]></description>
-        </item>
-        <item>
-            <title><![CDATA[＼参加者募集／青少年海外研修（ベトナム）]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5583</link>
-            <guid>ae618cd2f2bcf792345116058309448a</guid>
-            <pubDate>Tue, 29 Oct 2024 03:00:00 GMT</pubDate>
-            <description><![CDATA[茨城県ベトナム友好協会主催　青少年海外研修の参加者を募集しています。
-
-〔実施国〕ベトナム（スケジュール、訪問場所は添付資料参照）　　
-　　　　茨城県内の大学から約3名ずつの学生が参加予定
-
-〔渡航期間〕2025年 2月18日～2月22日
-〔参加費〕自己負担分：15万円程度＋諸費用（保険料・燃料サーチャージ代）※総額で19万円程度かかるう　　　　　　　ち、4万円を友好協会が補助
-〔応募方法〕参加希…]]></description>
         </item>
     </channel>
 </rss>
