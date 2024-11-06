@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "1d1fa58fd04b82ecddc65681c06d4b50",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5606",
+            "title": "【周知】令和６年度消費者教育フェスタ」の開催について",
+            "summary": "文部科学省より、「令和６年度消費者教育フェスタ」の開催について開催通知がありましたので、お知らせします。\n\n文部科学省では、消費者教育の一層の推進を図るため、多様な関係者が情報を共有し、相互に連携するための場として、埼玉県川口市と熊本県熊本市で消費者教育フェスタ（現地開催及びオンライン配信あり・各１５０名参加無料先着順）を開催します。\n詳細は添付のＰＤＦからご確認ください。\n\n【消費者教育フェスタ…",
+            "date_modified": "2024-11-06T03:00:00.000Z"
+        },
+        {
             "id": "6b7b7d8f687977960868ffb68a5f8e6c",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5605",
             "title": "【周知】スタートアップの芽支援事業（社会実装研究支援金）の募集について（筑波大学産学連携会）",
@@ -135,13 +142,6 @@
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5586",
             "title": "グアダラハラ大学（メキシコ）への短期研修生募集！（2024年度TTPP短期研修）",
             "summary": "筑波トランスパシフィックプログラム（TTPP）短期研修プログラムへの参加者を募集しています！\n今年度の行先は、メキシコのグアダラハラ大学！\n現地学生との交流、文化や歴史とのふれあい、日系企業等の訪問などを通して、自分の世界を拡げてみませんか？\nあなたも、未知なる体験をメキシコで！\n\n【応募締切：11/20（水）8:30AM】\n\n詳細はスチューデントサポートセンターのホームページをご覧ください。\nお…",
-            "date_modified": "2024-10-30T03:00:00.000Z"
-        },
-        {
-            "id": "748ec3edbdf4a3ee33ccd1f4f6826974",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5585",
-            "title": "【再掲】【開催案内・11/12】障害学生等支援防災ワーク（全学リスクマネジメントセミナー）",
-            "summary": "令和6年度全学防災訓練「障害学生等支援防災ワーク」（全学リスクマネジメントセミナー）を開催いたします。\n大学における障害学生への防災支援に焦点を当て、教職員や学生に日常業務や生活に取り入れやすい具体的な防災対策のヒントを提供することを目的とし、筑波地区防災訓練の一環として行います。\nなお、本防災ワークは全学リスクマネジメントセミナーを兼ねて実施します。\n皆さまのご参加をお待ちしております。\n\n実施…",
             "date_modified": "2024-10-30T03:00:00.000Z"
         }
     ]
