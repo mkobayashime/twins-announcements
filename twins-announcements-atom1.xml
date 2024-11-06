@@ -2,10 +2,18 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/mkobayashime/twins-announcements</id>
     <title>在学生へのお知らせ | 筑波大学</title>
-    <updated>2024-11-06T09:07:37.326Z</updated>
+    <updated>2024-11-06T10:01:43.243Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://github.com/mkobayashime/twins-announcements"/>
     <subtitle>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</subtitle>
+    <entry>
+        <title type="html"><![CDATA[[Remind]11/7,8 Career Cafe in Autumn]]></title>
+        <id>1921ccbb594443fd56032391be6c80d3</id>
+        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5607"/>
+        <updated>2024-11-06T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[We will have a Career Cafe for international students.
+Anyone who would like to get some information on job hunting or talk with us about your career concern, please feel free to come to the Stundent …]]></summary>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【周知】令和６年度消費者教育フェスタ」の開催について]]></title>
         <id>1d1fa58fd04b82ecddc65681c06d4b50</id>
@@ -240,20 +248,5 @@ BHEキャリア支援チームのファシリテーターからフィードバ�
 
 　※厚生労働省のホームページ
 　・ハンドブック「これってあり？まんが知って…]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[グアダラハラ大学（メキシコ）への短期研修生募集！（2024年度TTPP短期研修）]]></title>
-        <id>dc2f4ad70a253e3cd8b60f7b9fee1e17</id>
-        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5586"/>
-        <updated>2024-10-30T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[筑波トランスパシフィックプログラム（TTPP）短期研修プログラムへの参加者を募集しています！
-今年度の行先は、メキシコのグアダラハラ大学！
-現地学生との交流、文化や歴史とのふれあい、日系企業等の訪問などを通して、自分の世界を拡げてみませんか？
-あなたも、未知なる体験をメキシコで！
-
-【応募締切：11/20（水）8:30AM】
-
-詳細はスチューデントサポートセンターのホームページをご覧ください。
-お…]]></summary>
     </entry>
 </feed>
