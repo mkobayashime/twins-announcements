@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "4f5804eba000fe81f8a2ca1d438435b6",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5604",
+            "title": "[BHE]11/20(水),12/4(水)5限：公開授業「キャリアデザイン入門～世界にはばたく未来の自分～」",
+            "summary": "学士基盤科目「キャリアデザイン入門～世界にはばたく未来の自分～」の第６回、第７回の授業を全学年の皆さんに公開します。\nゲストスピーカーとして筑波大学卒業生が、自分の歩んできた人生を語り、後輩の皆さんに、力強いメッセージを届けてくれます。\nこの貴重な機会を逃さず、先輩の話をきっかけとして、自分のこれからのキャリアについて考えてみませんか？\n\n◆日時とゲストスピーカー◆\n①11月20日(水) 15:1…",
+            "date_modified": "2024-11-06T03:00:00.000Z"
+        },
+        {
             "id": "e1b9c9eb11a7051ae4770dd95f70d8cd",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5603",
             "title": "第181回バイオeカフェ開催のお知らせ",
@@ -135,13 +142,6 @@
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5583",
             "title": "＼参加者募集／青少年海外研修（ベトナム）",
             "summary": "茨城県ベトナム友好協会主催　青少年海外研修の参加者を募集しています。\n\n〔実施国〕ベトナム（スケジュール、訪問場所は添付資料参照）　　\n　　　　茨城県内の大学から約3名ずつの学生が参加予定\n\n〔渡航期間〕2025年 2月18日～2月22日\n〔参加費〕自己負担分：15万円程度＋諸費用（保険料・燃料サーチャージ代）※総額で19万円程度かかるう　　　　　　　ち、4万円を友好協会が補助\n〔応募方法〕参加希…",
-            "date_modified": "2024-10-29T03:00:00.000Z"
-        },
-        {
-            "id": "0f6ef5e37158132d99a4af17110f656b",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5582",
-            "title": "【周知】学生の安心・安全に係る指導・啓発の充実について",
-            "summary": "文部科学省より、新学期を迎えるにあたり、学生の安心・安全に関して参考となる各種資料（公表資料）が届きましたので、お知らせいたします。\n特に、長期休暇明けや新年度の開始時期は、新しい環境で生活を始める学生が多くなり、様々なトラブルや悩みを抱えやすい時期になります。\n下記添付資料に、啓発資料や学生が相談する窓口、学生の危険や悩みをまとめた資料、学生の安全・安心に係る役立つ情報集が、掲載されています。\n…",
             "date_modified": "2024-10-29T03:00:00.000Z"
         }
     ]

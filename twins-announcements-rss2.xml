@@ -4,10 +4,22 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Wed, 06 Nov 2024 00:02:41 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 Nov 2024 01:28:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
+        <item>
+            <title><![CDATA[[BHE]11/20(水),12/4(水)5限：公開授業「キャリアデザイン入門～世界にはばたく未来の自分～」]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5604</link>
+            <guid>4f5804eba000fe81f8a2ca1d438435b6</guid>
+            <pubDate>Wed, 06 Nov 2024 03:00:00 GMT</pubDate>
+            <description><![CDATA[学士基盤科目「キャリアデザイン入門～世界にはばたく未来の自分～」の第６回、第７回の授業を全学年の皆さんに公開します。
+ゲストスピーカーとして筑波大学卒業生が、自分の歩んできた人生を語り、後輩の皆さんに、力強いメッセージを届けてくれます。
+この貴重な機会を逃さず、先輩の話をきっかけとして、自分のこれからのキャリアについて考えてみませんか？
+
+◆日時とゲストスピーカー◆
+①11月20日(水) 15:1…]]></description>
+        </item>
         <item>
             <title><![CDATA[第181回バイオeカフェ開催のお知らせ]]></title>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5603</link>
@@ -247,16 +259,6 @@ BHEキャリア支援チームのファシリテーターからフィードバ�
 〔渡航期間〕2025年 2月18日～2月22日
 〔参加費〕自己負担分：15万円程度＋諸費用（保険料・燃料サーチャージ代）※総額で19万円程度かかるう　　　　　　　ち、4万円を友好協会が補助
 〔応募方法〕参加希…]]></description>
-        </item>
-        <item>
-            <title><![CDATA[【周知】学生の安心・安全に係る指導・啓発の充実について]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5582</link>
-            <guid>0f6ef5e37158132d99a4af17110f656b</guid>
-            <pubDate>Tue, 29 Oct 2024 03:00:00 GMT</pubDate>
-            <description><![CDATA[文部科学省より、新学期を迎えるにあたり、学生の安心・安全に関して参考となる各種資料（公表資料）が届きましたので、お知らせいたします。
-特に、長期休暇明けや新年度の開始時期は、新しい環境で生活を始める学生が多くなり、様々なトラブルや悩みを抱えやすい時期になります。
-下記添付資料に、啓発資料や学生が相談する窓口、学生の危険や悩みをまとめた資料、学生の安全・安心に係る役立つ情報集が、掲載されています。
-…]]></description>
         </item>
     </channel>
 </rss>
