@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "4a0bb8bdf684512fbc871d85bff7303a",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5609",
+            "title": "【再掲‗明日11/8締切〕青少年海外研修（ベトナム）参加者募集",
+            "summary": "茨城県ベトナム友好協会主催　青少年海外研修の参加者を募集しています。\n\n〔実施国〕ベトナム（スケジュール、訪問場所は添付資料参照）　　\n　　　　茨城県内の大学から約3名ずつの学生が参加予定\n\n〔渡航期間〕2025年 2月18日～2月22日\n〔参加費〕自己負担分：15万円程度＋諸費用（保険料・燃料サーチャージ代）\n※総額で19万円程度かかるうち、4万円を友好協会が補助\n〔応募方法〕参加希望者は電子メ…",
+            "date_modified": "2024-11-07T03:00:00.000Z"
+        },
+        {
             "id": "864b003d11d33e5f5af827c1133b31d2",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5608",
             "title": "インターンシップについて",
@@ -135,13 +142,6 @@
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5589",
             "title": "令和７年度　学生宿舎の特別事情申請による入居者の決定について",
             "summary": "表題の件につきまして、添付ファイルの通りお知らせいたします。\n対象者の方はご確認ください。",
-            "date_modified": "2024-10-30T03:00:00.000Z"
-        },
-        {
-            "id": "e1316b19bea4f65c7ee3f5f694082114",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5588",
-            "title": "(BHE)11月　面接・GD練習会のご案内",
-            "summary": "就活に即役立つ、面接・GD練習会です。\n対面でもオンラインでも開催します。\n対面面接編ではビジネスマナーも学ぶことができます。\n就活中の方、ISの選考を受ける方だけでなく、低学年の皆さんの参加も大歓迎！「面接ってどんな感じ？」、「グループディスカッションってどんな話をすればいいの？」などちょっと知りたいという方もぜひどうぞ。\nBHEキャリア支援チームのファシリテーターからフィードバックがあります。…",
             "date_modified": "2024-10-30T03:00:00.000Z"
         }
     ]
