@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "6c4c8ccd3382c1b970cf7d0ad9e5d354",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5610",
+            "title": "【全学生向け】Tsukuba Career Insight 2024 ～先輩に聞こう！障害学生が自分らしく生きていくための社会移行～",
+            "summary": "キャリア支援セミナーのご案内です！\n\nEY JAPAN株式会社、東京消防庁、富士通株式会社よりゲストをお招きして、社会で活躍している障害のある方が自身のキャリアをどのように考え選択してきたのか、また、現在の働き方や生活の様子などをお話しいただきます。\n進路選択にお悩みの方、いろいろなキャリアパスを知りたい方など、有名企業・団体に就職した方のお話が聞ける貴重な機会になります！\n自分らしく働くことにつ…",
+            "date_modified": "2024-11-07T03:00:00.000Z"
+        },
+        {
             "id": "4a0bb8bdf684512fbc871d85bff7303a",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5609",
             "title": "【再掲‗明日11/8締切〕青少年海外研修（ベトナム）参加者募集",
@@ -135,13 +142,6 @@
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5590",
             "title": "【再掲】【茗渓会】第12回　OB・OGキャリアカフェ～いろんなセンパイと話をしてみよう～",
             "summary": "2019年より始まった筑波大学および大学院の卒業生と現役学生との交流の機会、「OB・OG キャリアカフェ」。このイベントは、大学の先輩から就職活動やキャリア、学生生活などについて本音でアドバイスを聞ける貴重な機会として、学生から高い満足度を得ています。\n\n今回は、2部構成でパネルディスカッションと交流会を対面で開催いたします。様々な職種やキャリアを持つ企業人が参加しますので、幅広い視点からのアドバ…",
-            "date_modified": "2024-10-30T03:00:00.000Z"
-        },
-        {
-            "id": "d4ef2d65e5350327a06851f5de392f34",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5589",
-            "title": "令和７年度　学生宿舎の特別事情申請による入居者の決定について",
-            "summary": "表題の件につきまして、添付ファイルの通りお知らせいたします。\n対象者の方はご確認ください。",
             "date_modified": "2024-10-30T03:00:00.000Z"
         }
     ]
