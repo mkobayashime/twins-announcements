@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "864b003d11d33e5f5af827c1133b31d2",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5608",
+            "title": "インターンシップについて",
+            "summary": "インターンシップの申し込みや手続きについてのご連絡です。\n\n・大学経由型インターンシップの書類は、各機関締切日の10日前です。\n・インターンシップ保険に加入してください。\n・インターンシップ参加届の入力をしてください。\n・教員（指導教員、クラス担任又は所属長等　どなたか1名）に事前報告をしてください。\n\nインターンシップに申込をする際は、必ず下記URLをご一読ください。\n※授業の一環として実施する…",
+            "date_modified": "2024-11-07T03:00:00.000Z"
+        },
+        {
             "id": "1921ccbb594443fd56032391be6c80d3",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5607",
             "title": "[Remind]11/7,8 Career Cafe in Autumn",
@@ -135,13 +142,6 @@
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5588",
             "title": "(BHE)11月　面接・GD練習会のご案内",
             "summary": "就活に即役立つ、面接・GD練習会です。\n対面でもオンラインでも開催します。\n対面面接編ではビジネスマナーも学ぶことができます。\n就活中の方、ISの選考を受ける方だけでなく、低学年の皆さんの参加も大歓迎！「面接ってどんな感じ？」、「グループディスカッションってどんな話をすればいいの？」などちょっと知りたいという方もぜひどうぞ。\nBHEキャリア支援チームのファシリテーターからフィードバックがあります。…",
-            "date_modified": "2024-10-30T03:00:00.000Z"
-        },
-        {
-            "id": "43faa624aafb3296a4e305b705d102eb",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5587",
-            "title": "【周知】ハンドブック「これってあり？まんが知って役立つ労働法Ｑ＆Ａ」の改訂について",
-            "summary": "　厚生労働省より、学生や生徒の利用に適した、分かりやすい労働法のハンドブック「これってあり？まんが知って役立つ労働法Ｑ＆Ａ」の内容の改訂について、お知らせがありました。\n　詳細は、下記ホームページをご確認ください。\n　また、ハンドブックの送付は今年度から取り止めているので、必要に応じてダウンロードや印刷をお願いします。\n\n\n　※厚生労働省のホームページ\n　・ハンドブック「これってあり？まんが知って…",
             "date_modified": "2024-10-30T03:00:00.000Z"
         }
     ]
