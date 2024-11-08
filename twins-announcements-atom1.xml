@@ -2,10 +2,24 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/mkobayashime/twins-announcements</id>
     <title>在学生へのお知らせ | 筑波大学</title>
-    <updated>2024-11-08T07:01:52.958Z</updated>
+    <updated>2024-11-08T09:01:42.628Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://github.com/mkobayashime/twins-announcements"/>
     <subtitle>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</subtitle>
+    <entry>
+        <title type="html"><![CDATA[【11/13開催】図書館講習会「論文投稿講座（Web of Science）～効果的な研究メソッドと文献の活用方法」]]></title>
+        <id>3486bdd51c276cb78c38e844ff5d1ed8</id>
+        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5623"/>
+        <updated>2024-11-08T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[「論文投稿講座（Web of Science）～効果的な研究メソッドと文献の活用方法」の講習会を開催します。
+
+日時：11/13(水)15:15-16:30
+開催方法：オンライン(Cisco Webex)
+
+投稿には本文の書き進め方とともに、執筆の前後のフローにも重要なコツやノウハウがあることをご存知ですか？
+
+アクセプトされる論文を書くために重要な研究の進め方や、論文の書き進め方、査読者への対応…]]></summary>
+    </entry>
     <entry>
         <title type="html"><![CDATA[11/11（JETRO主催） Career Discovery 2024 外資系企業と学生のオンライン交流会]]></title>
         <id>3abdce71754abba8e63cee154cdaf11d</id>
@@ -230,21 +244,5 @@ Anyone who would like to get some information on job hunting or talk with us abo
 ・対面で参加される方
 参加費100円/事前申込不要
 当日は会場 ( 筑波大学 2B棟2階210) に直接お越しください。お菓子と…]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[受水槽等清掃（断水あり）のお知らせ（通知）]]></title>
-        <id>79f0d6502704c484466a946aded8dca8</id>
-        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5602"/>
-        <updated>2024-11-05T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　令和６年１１月５日
-　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　施設部施設サービス課
-
-各位
-
-　　　　　　　　　　　受水槽等清掃（断水あり）のお知らせ（通知）
-
-
-　給水用の受水槽・高置水槽について、年に一度行っております清掃作業を以下の通り行いますので、お知らせします。
-　作業の際には一部建物で断水が発生し、ご迷惑をお…]]></summary>
     </entry>
 </feed>
