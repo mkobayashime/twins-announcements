@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "5d674d87f698ff60380b7afc189fa65c",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5619",
+            "title": "スーツの割引について（11月8日更新）",
+            "summary": "本学は紳士服の大手4社と契約しています。\nそのため、在学生とそのご家族の皆様には、\n全国のAOKI、コナカ、はるやま（後日掲載）、洋服の青山で、\n通常の割引価格から更に割引いた価格でスーツ等をご購入いただけます。\n大変お得ですので、是非ご利用ください。\n\n※ご購入いただいた金額の一部が大学に寄附されます。",
+            "date_modified": "2024-11-08T03:00:00.000Z"
+        },
+        {
             "id": "0cd77a1e8cdf973a51453efdad7fe223",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5618",
             "title": "【開催案内】NipCAプロジェクト　留学説明会・海外インターンシップ説明会　",
@@ -136,13 +143,6 @@
             "title": "筑波大学安否確認システム（ANPIC）の初期登録及びメールアドレスの追加等について【お願い】",
             "summary": "日頃より、本学の災害対策にご協力いただきありがとうございます。\n令和２年11月１日から、本学の安否確認システムは、「筑波大学安否確認システム（ANPIC)」（以下、ANPICという。）による運用を開始いたしました。\nANPICでは、大地震などの大規模災害発生時や防災訓練において、ANPICから学生・教職員のメールアドレス等に安否確認メールを配信します。速やかに安否報告ができるよう、必ず初期登録を行…",
             "date_modified": "2024-11-05T03:00:00.000Z"
-        },
-        {
-            "id": "16d2ca63ba4fc022351c06200417e76e",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5598",
-            "title": "11月14日（木）12:15-14:15「Business Leaders’ Seminar/ビジネスリーダーズセミナー」開催のお知らせ （対象：全学生）",
-            "summary": "ヒューマンバイオロジー学位プログラムでは授業の一環として「Business Leaders’ Seminar/ビジネスリーダーズセミナー」を開催しています。\n本セミナーは、世界のトップビジネスリーダーを招き、オムニバス形式でキャリア形成やビジネスに関する成功と失敗の話などの経験を紹介するものです。\n\n11月14日（木）12:15-14:15に開催するセミナーでは、1on1エンゲージメント研究所 代…",
-            "date_modified": "2024-11-01T03:00:00.000Z"
         }
     ]
 }

@@ -4,10 +4,23 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Fri, 08 Nov 2024 04:01:59 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 Nov 2024 05:01:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
+        <item>
+            <title><![CDATA[スーツの割引について（11月8日更新）]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5619</link>
+            <guid>5d674d87f698ff60380b7afc189fa65c</guid>
+            <pubDate>Fri, 08 Nov 2024 03:00:00 GMT</pubDate>
+            <description><![CDATA[本学は紳士服の大手4社と契約しています。
+そのため、在学生とそのご家族の皆様には、
+全国のAOKI、コナカ、はるやま（後日掲載）、洋服の青山で、
+通常の割引価格から更に割引いた価格でスーツ等をご購入いただけます。
+大変お得ですので、是非ご利用ください。
+
+※ご購入いただいた金額の一部が大学に寄附されます。]]></description>
+        </item>
         <item>
             <title><![CDATA[【開催案内】NipCAプロジェクト　留学説明会・海外インターンシップ説明会　]]></title>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5618</link>
@@ -236,16 +249,6 @@ Anyone who would like to get some information on job hunting or talk with us abo
             <description><![CDATA[日頃より、本学の災害対策にご協力いただきありがとうございます。
 令和２年11月１日から、本学の安否確認システムは、「筑波大学安否確認システム（ANPIC)」（以下、ANPICという。）による運用を開始いたしました。
 ANPICでは、大地震などの大規模災害発生時や防災訓練において、ANPICから学生・教職員のメールアドレス等に安否確認メールを配信します。速やかに安否報告ができるよう、必ず初期登録を行…]]></description>
-        </item>
-        <item>
-            <title><![CDATA[11月14日（木）12:15-14:15「Business Leaders’ Seminar/ビジネスリーダーズセミナー」開催のお知らせ （対象：全学生）]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5598</link>
-            <guid>16d2ca63ba4fc022351c06200417e76e</guid>
-            <pubDate>Fri, 01 Nov 2024 03:00:00 GMT</pubDate>
-            <description><![CDATA[ヒューマンバイオロジー学位プログラムでは授業の一環として「Business Leaders’ Seminar/ビジネスリーダーズセミナー」を開催しています。
-本セミナーは、世界のトップビジネスリーダーを招き、オムニバス形式でキャリア形成やビジネスに関する成功と失敗の話などの経験を紹介するものです。
-
-11月14日（木）12:15-14:15に開催するセミナーでは、1on1エンゲージメント研究所 代…]]></description>
         </item>
     </channel>
 </rss>
