@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/mkobayashime/twins-announcements</id>
     <title>在学生へのお知らせ | 筑波大学</title>
-    <updated>2024-11-08T09:07:19.561Z</updated>
+    <updated>2024-11-08T15:07:01.314Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://github.com/mkobayashime/twins-announcements"/>
     <subtitle>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</subtitle>
@@ -185,14 +185,6 @@ EY JAPAN株式会社、東京消防庁、富士通株式会社よりゲストを
 ※授業の一環として実施する…]]></summary>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[Remind]11/7,8 Career Cafe in Autumn]]></title>
-        <id>1921ccbb594443fd56032391be6c80d3</id>
-        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5607"/>
-        <updated>2024-11-06T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[We will have a Career Cafe for international students.
-Anyone who would like to get some information on job hunting or talk with us about your career concern, please feel free to come to the Stundent …]]></summary>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[【周知】令和６年度消費者教育フェスタ」の開催について]]></title>
         <id>1d1fa58fd04b82ecddc65681c06d4b50</id>
         <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5606"/>
@@ -244,5 +236,21 @@ Anyone who would like to get some information on job hunting or talk with us abo
 ・対面で参加される方
 参加費100円/事前申込不要
 当日は会場 ( 筑波大学 2B棟2階210) に直接お越しください。お菓子と…]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[受水槽等清掃（断水あり）のお知らせ（通知）]]></title>
+        <id>79f0d6502704c484466a946aded8dca8</id>
+        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5602"/>
+        <updated>2024-11-05T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　令和６年１１月５日
+　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　施設部施設サービス課
+
+各位
+
+　　　　　　　　　　　受水槽等清掃（断水あり）のお知らせ（通知）
+
+
+　給水用の受水槽・高置水槽について、年に一度行っております清掃作業を以下の通り行いますので、お知らせします。
+　作業の際には一部建物で断水が発生し、ご迷惑をお…]]></summary>
     </entry>
 </feed>
