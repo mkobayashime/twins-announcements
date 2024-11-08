@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "0cd77a1e8cdf973a51453efdad7fe223",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5618",
+            "title": "【開催案内】NipCAプロジェクト　留学説明会・海外インターンシップ説明会　",
+            "summary": "筑波⼤学「⽇本財団中央アジア・⽇本⼈材育成プロジェクト（NipCAプロジェクト）」では、春夏に実施するカザフスタンやキルギスなど、ロシア語圏への短期語学研修や医療視察研修の企画・派遣の他、協定校への交換留学に関する情報提供など、SSC国際交流⽀援室と共に中央アジア・コーカサス地域への留学を希望する筑波⼤⽣の相談窓⼝としても機能しています。\n\n11月に、留学説明会/留学相談会、及び海外インターンシッ…",
+            "date_modified": "2024-11-08T03:00:00.000Z"
+        },
+        {
             "id": "37347c4e1ed43ba30dca8f5508dad66f",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5617",
             "title": "【周知】【文部科学省】令和６年度「アルコール関連問題啓発週間」について",
@@ -135,13 +142,6 @@
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5598",
             "title": "11月14日（木）12:15-14:15「Business Leaders’ Seminar/ビジネスリーダーズセミナー」開催のお知らせ （対象：全学生）",
             "summary": "ヒューマンバイオロジー学位プログラムでは授業の一環として「Business Leaders’ Seminar/ビジネスリーダーズセミナー」を開催しています。\n本セミナーは、世界のトップビジネスリーダーを招き、オムニバス形式でキャリア形成やビジネスに関する成功と失敗の話などの経験を紹介するものです。\n\n11月14日（木）12:15-14:15に開催するセミナーでは、1on1エンゲージメント研究所 代…",
-            "date_modified": "2024-11-01T03:00:00.000Z"
-        },
-        {
-            "id": "24d42df5a03f37876093cedf31a83b41",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5597",
-            "title": "【開催案内11/11】海外派遣報告会のお知らせ（数理物質科学研究群主催）",
-            "summary": "数理物質科学研究群では、独自の教育プログラム「つくば共鳴教育プログラム」の履修学生による海外派遣報告会を実施いたします。\n発表者等の詳細は添付のPDFをご確認ください。\n\n大学院生・学群生を問わずどなたでもご参加いただけます。\n参加申し込みは不要ですので、ぜひご参加ください。\n\n日時：令和6年11月11日（月）14：00～15：00\n場所：総合研究棟B0110公開講義室\n\nハイブリッド開催について…",
             "date_modified": "2024-11-01T03:00:00.000Z"
         }
     ]
