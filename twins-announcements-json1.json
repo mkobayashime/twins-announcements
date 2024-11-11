@@ -5,6 +5,20 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "db21767d2c3d07188004ce652a974e31",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5625",
+            "title": "（BHE）Teams内 情報発信チームのご案内",
+            "summary": "キャリア支援チームに日々届く、企業・自治体・学校からの求人情報や\nインターンシップ情報を発信しています。\n卒業年度別、進路志望別に就活に役立つ情報をタイムリーに掲載します。\nチームに参加して皆さんの就活に役立ててください。\n\n【参加方法】\nチーム名「BHEキャリア支援チーム　情報発信」\n以下のリンクから参加してください。\n\n【掲載情報例】\n（カテゴリー）\n企業（25卒向け・26卒向け）、推薦求人、…",
+            "date_modified": "2024-11-11T03:00:00.000Z"
+        },
+        {
+            "id": "0637a05dd23ffde0a6b23ed4c531cd4d",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5624",
+            "title": "本日初日！24秋の留学フェア　11/11（月）～11/22（金）",
+            "summary": "本日初日です！留学を少しでも考えている方はぜひご参加ください。\n-------------\nスチューデントサポートセンター（SSC）では、秋の留学フェアを開催します！\n\n期間中、日替わり＆昼・夜で交換留学の概要、留学のための奨学金、各留学プログラム毎の説明会や、民間主催の海外インターンシップ、語学試験の説明会など様々なコンテンツをご用意しました。オンラインでの開催もあります。\n\n留学準備は早めがだ…",
+            "date_modified": "2024-11-11T03:00:00.000Z"
+        },
+        {
             "id": "3486bdd51c276cb78c38e844ff5d1ed8",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5623",
             "title": "【11/13開催】図書館講習会「論文投稿講座（Web of Science）～効果的な研究メソッドと文献の活用方法」",
@@ -129,20 +143,6 @@
             "title": "第181回バイオeカフェ開催のお知らせ",
             "summary": "生物学類主催のサイエンスカフェ第181回「バイオeカフェ」を以下のとおり開催いたします。\n\nテーマ：情報学で紐解くカエルの合唱法則\n（システム情報系　合原一究先生）\n\n日時：11月19日（火）18時30分～20時00分\n場所：2B210もしくはオンライン（Teams）\n\n・対面で参加される方\n参加費100円/事前申込不要\n当日は会場 ( 筑波大学 2B棟2階210) に直接お越しください。お菓子と…",
             "date_modified": "2024-11-06T03:00:00.000Z"
-        },
-        {
-            "id": "79f0d6502704c484466a946aded8dca8",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5602",
-            "title": "受水槽等清掃（断水あり）のお知らせ（通知）",
-            "summary": "　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　令和６年１１月５日\n　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　施設部施設サービス課\n\n各位\n\n　　　　　　　　　　　受水槽等清掃（断水あり）のお知らせ（通知）\n\n\n　給水用の受水槽・高置水槽について、年に一度行っております清掃作業を以下の通り行いますので、お知らせします。\n　作業の際には一部建物で断水が発生し、ご迷惑をお…",
-            "date_modified": "2024-11-05T03:00:00.000Z"
-        },
-        {
-            "id": "48b90d6dcab3ccdbbdb3b9f002ff3fff",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5601",
-            "title": "(再掲)【11/15開催】「キャリアデザインLAB ～現役大学院生から見た進路選択のリアル～｣中央図書館LAセミナー",
-            "summary": "・大学院進学、就職活動、教員採用試験どれにしよう？\n・留学してみたいけど、不安もある\n・進路が全然決められない！\n・・・そんなお悩みはありませんか？\n\nそれぞれを経験した現役大学院生のラーニング・アドバイザー（LA）が、\nキャリアデザインのヒントを提供します。\n\nセミナーは、テーマごとに4つのグループに分かれて行います。\n質問コーナーもあります。\nどのようなキャリアがあるか知りたい方も大歓迎！\nお…",
-            "date_modified": "2024-11-05T03:00:00.000Z"
         }
     ]
 }
