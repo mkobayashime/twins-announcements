@@ -4,10 +4,21 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Mon, 11 Nov 2024 02:24:17 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 Nov 2024 05:01:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
+        <item>
+            <title><![CDATA[(BHE)11月　面接・GD練習会のご案内]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5627</link>
+            <guid>e1316b19bea4f65c7ee3f5f694082114</guid>
+            <pubDate>Mon, 11 Nov 2024 03:00:00 GMT</pubDate>
+            <description><![CDATA[就活に即役立つ、面接・GD練習会です。
+対面でもオンラインでも開催します。
+対面面接編ではビジネスマナーも学ぶことができます。
+就活中の方、ISの選考を受ける方だけでなく、低学年の皆さんの参加も大歓迎！「面接ってどんな感じ？」、「グループディスカッションってどんな話をすればいいの？」などちょっと知りたいという方もぜひどうぞ。
+BHEキャリア支援チームのファシリテーターからフィードバックがあります。…]]></description>
+        </item>
         <item>
             <title><![CDATA[(再掲)【11/15開催】「キャリアデザインLAB ～現役大学院生から見た進路選択のリアル～｣中央図書館LAセミナー]]></title>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5626</link>
@@ -243,18 +254,6 @@ EY JAPAN株式会社、東京消防庁、富士通株式会社よりゲストを
 
 １．事業内容
 　　　筑波大学の大学院生、ポスドク（博士研究員等）が、将来の社会実装を見据えて行っている研究に対して資金面から支援します。それにより、筑波大学の研究成果のス…]]></description>
-        </item>
-        <item>
-            <title><![CDATA[[BHE]11/20(水),12/4(水)5限：公開授業「キャリアデザイン入門～世界にはばたく未来の自分～」]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5604</link>
-            <guid>4f5804eba000fe81f8a2ca1d438435b6</guid>
-            <pubDate>Wed, 06 Nov 2024 03:00:00 GMT</pubDate>
-            <description><![CDATA[学士基盤科目「キャリアデザイン入門～世界にはばたく未来の自分～」の第６回、第７回の授業を全学年の皆さんに公開します。
-ゲストスピーカーとして筑波大学卒業生が、自分の歩んできた人生を語り、後輩の皆さんに、力強いメッセージを届けてくれます。
-この貴重な機会を逃さず、先輩の話をきっかけとして、自分のこれからのキャリアについて考えてみませんか？
-
-◆日時とゲストスピーカー◆
-①11月20日(水) 15:1…]]></description>
         </item>
     </channel>
 </rss>

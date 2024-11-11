@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "e1316b19bea4f65c7ee3f5f694082114",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5627",
+            "title": "(BHE)11月　面接・GD練習会のご案内",
+            "summary": "就活に即役立つ、面接・GD練習会です。\n対面でもオンラインでも開催します。\n対面面接編ではビジネスマナーも学ぶことができます。\n就活中の方、ISの選考を受ける方だけでなく、低学年の皆さんの参加も大歓迎！「面接ってどんな感じ？」、「グループディスカッションってどんな話をすればいいの？」などちょっと知りたいという方もぜひどうぞ。\nBHEキャリア支援チームのファシリテーターからフィードバックがあります。…",
+            "date_modified": "2024-11-11T03:00:00.000Z"
+        },
+        {
             "id": "48b90d6dcab3ccdbbdb3b9f002ff3fff",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5626",
             "title": "(再掲)【11/15開催】「キャリアデザインLAB ～現役大学院生から見た進路選択のリアル～｣中央図書館LAセミナー",
@@ -135,13 +142,6 @@
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5605",
             "title": "【周知】スタートアップの芽支援事業（社会実装研究支援金）の募集について（筑波大学産学連携会）",
             "summary": "筑波大学産学連携会（TOMO）より、スタートアップの芽支援事業（社会実装研究支援金）の募集がありましたので、本学の大学院生、ポスドク（博士研究員等）の方にお知らせします。\n\n【スタートアップの芽支援事業（社会実装研究支援金）】\n\n１．事業内容\n　　　筑波大学の大学院生、ポスドク（博士研究員等）が、将来の社会実装を見据えて行っている研究に対して資金面から支援します。それにより、筑波大学の研究成果のス…",
-            "date_modified": "2024-11-06T03:00:00.000Z"
-        },
-        {
-            "id": "4f5804eba000fe81f8a2ca1d438435b6",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5604",
-            "title": "[BHE]11/20(水),12/4(水)5限：公開授業「キャリアデザイン入門～世界にはばたく未来の自分～」",
-            "summary": "学士基盤科目「キャリアデザイン入門～世界にはばたく未来の自分～」の第６回、第７回の授業を全学年の皆さんに公開します。\nゲストスピーカーとして筑波大学卒業生が、自分の歩んできた人生を語り、後輩の皆さんに、力強いメッセージを届けてくれます。\nこの貴重な機会を逃さず、先輩の話をきっかけとして、自分のこれからのキャリアについて考えてみませんか？\n\n◆日時とゲストスピーカー◆\n①11月20日(水) 15:1…",
             "date_modified": "2024-11-06T03:00:00.000Z"
         }
     ]
