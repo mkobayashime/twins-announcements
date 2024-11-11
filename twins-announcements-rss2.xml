@@ -4,10 +4,28 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Mon, 11 Nov 2024 01:28:42 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 Nov 2024 02:24:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
+        <item>
+            <title><![CDATA[(再掲)【11/15開催】「キャリアデザインLAB ～現役大学院生から見た進路選択のリアル～｣中央図書館LAセミナー]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5626</link>
+            <guid>48b90d6dcab3ccdbbdb3b9f002ff3fff</guid>
+            <pubDate>Mon, 11 Nov 2024 03:00:00 GMT</pubDate>
+            <description><![CDATA[・大学院進学、就職活動、教員採用試験どれにしよう？
+・留学してみたいけど、不安もある
+・進路が全然決められない！
+・・・そんなお悩みはありませんか？
+
+それぞれを経験した現役大学院生のラーニング・アドバイザー（LA）が、
+キャリアデザインのヒントを提供します。
+
+セミナーは、テーマごとに4つのグループに分かれて行います。
+質問コーナーもあります。
+どのようなキャリアがあるか知りたい方も大歓迎！
+お…]]></description>
+        </item>
         <item>
             <title><![CDATA[（BHE）Teams内 情報発信チームのご案内]]></title>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5625</link>
@@ -237,23 +255,6 @@ EY JAPAN株式会社、東京消防庁、富士通株式会社よりゲストを
 
 ◆日時とゲストスピーカー◆
 ①11月20日(水) 15:1…]]></description>
-        </item>
-        <item>
-            <title><![CDATA[第181回バイオeカフェ開催のお知らせ]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5603</link>
-            <guid>e1b9c9eb11a7051ae4770dd95f70d8cd</guid>
-            <pubDate>Wed, 06 Nov 2024 03:00:00 GMT</pubDate>
-            <description><![CDATA[生物学類主催のサイエンスカフェ第181回「バイオeカフェ」を以下のとおり開催いたします。
-
-テーマ：情報学で紐解くカエルの合唱法則
-（システム情報系　合原一究先生）
-
-日時：11月19日（火）18時30分～20時00分
-場所：2B210もしくはオンライン（Teams）
-
-・対面で参加される方
-参加費100円/事前申込不要
-当日は会場 ( 筑波大学 2B棟2階210) に直接お越しください。お菓子と…]]></description>
         </item>
     </channel>
 </rss>
