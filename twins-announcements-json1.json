@@ -5,6 +5,20 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "de886aea802fe43efed51b782dec4d4e",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5629",
+            "title": "【開催：11/27(水),28(木),29(金)】筑波大学システム情報工学関連 業界研究セミナー2024",
+            "summary": "本年度より、情報系の７つの学位プログラムに加えて、情報学学位プログラムが加わり、より充実した内容で「システム情報工学関連 業界研究セミナー2024」を開催します。\n企業・団体の基本的な情報に加え、HPでは伝わりにくい職場の雰囲気や働き方、また社会人やOBOGの視点からのアドバイスを直接聞いたり、質問したりすることができます。\nキャンパスにいながら、様々な企業・団体の情報収集を行うことができるチャン…",
+            "date_modified": "2024-11-11T03:00:00.000Z"
+        },
+        {
+            "id": "672799376e555cf6d935e135ede218df",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5628",
+            "title": "大学院進学と就職を考えるセミナー　理系編",
+            "summary": "このイベントは「大学院進学か就職か」について考えるセミナーです。理系特化型就活サイトを運営する株式会社Lab Base板倉氏を講師としてお招きして大学院進学のための心構えや必要な準備、博士後期課程まで含めた今後のキャリアパスについて解説いたします。\n\n日時 2024年11月27日(水)　17:00～18：00\n場所 オンライン(Zoom)　事前登録制※開催日前に申込者へリンクを送付します\n講師 板…",
+            "date_modified": "2024-11-11T03:00:00.000Z"
+        },
+        {
             "id": "e1316b19bea4f65c7ee3f5f694082114",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5627",
             "title": "(BHE)11月　面接・GD練習会のご案内",
@@ -129,20 +143,6 @@
             "title": "インターンシップについて",
             "summary": "インターンシップの申し込みや手続きについてのご連絡です。\n\n・大学経由型インターンシップの書類は、各機関締切日の10日前です。\n・インターンシップ保険に加入してください。\n・インターンシップ参加届の入力をしてください。\n・教員（指導教員、クラス担任又は所属長等　どなたか1名）に事前報告をしてください。\n\nインターンシップに申込をする際は、必ず下記URLをご一読ください。\n※授業の一環として実施する…",
             "date_modified": "2024-11-07T03:00:00.000Z"
-        },
-        {
-            "id": "1d1fa58fd04b82ecddc65681c06d4b50",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5606",
-            "title": "【周知】令和６年度消費者教育フェスタ」の開催について",
-            "summary": "文部科学省より、「令和６年度消費者教育フェスタ」の開催について開催通知がありましたので、お知らせします。\n\n文部科学省では、消費者教育の一層の推進を図るため、多様な関係者が情報を共有し、相互に連携するための場として、埼玉県川口市と熊本県熊本市で消費者教育フェスタ（現地開催及びオンライン配信あり・各１５０名参加無料先着順）を開催します。\n詳細は添付のＰＤＦからご確認ください。\n\n【消費者教育フェスタ…",
-            "date_modified": "2024-11-06T03:00:00.000Z"
-        },
-        {
-            "id": "6b7b7d8f687977960868ffb68a5f8e6c",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5605",
-            "title": "【周知】スタートアップの芽支援事業（社会実装研究支援金）の募集について（筑波大学産学連携会）",
-            "summary": "筑波大学産学連携会（TOMO）より、スタートアップの芽支援事業（社会実装研究支援金）の募集がありましたので、本学の大学院生、ポスドク（博士研究員等）の方にお知らせします。\n\n【スタートアップの芽支援事業（社会実装研究支援金）】\n\n１．事業内容\n　　　筑波大学の大学院生、ポスドク（博士研究員等）が、将来の社会実装を見据えて行っている研究に対して資金面から支援します。それにより、筑波大学の研究成果のス…",
-            "date_modified": "2024-11-06T03:00:00.000Z"
         }
     ]
 }
