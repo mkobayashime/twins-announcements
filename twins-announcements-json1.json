@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "ee996357227fdff15768c70d511ac73f",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5630",
+            "title": "第４４回つくばマラソン実施に伴う構内交通規制等について／On-campus traffic control during the 44th Tsukuba Marathon",
+            "summary": "　令和６年１１月２４日（日）に「第４４回つくばマラソン」が実施されます。\n　筑波大学構内がスタート及びゴール地点となるため、当日は６時３０分から１６時３０分頃まで構内ループ道路の交通規制が行われますのでご理解とご協力をお願いします。\n　詳細につきましては、以下の交通規制マップおよびつくばマラソンホームページをご覧ください。\n\nThe 44th Tsukuba Marathon will be he…",
+            "date_modified": "2024-11-11T03:00:00.000Z"
+        },
+        {
             "id": "de886aea802fe43efed51b782dec4d4e",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5629",
             "title": "【開催：11/27(水),28(木),29(金)】筑波大学システム情報工学関連 業界研究セミナー2024",
@@ -135,13 +142,6 @@
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5610",
             "title": "【全学生向け】Tsukuba Career Insight 2024 ～先輩に聞こう！障害学生が自分らしく生きていくための社会移行～",
             "summary": "キャリア支援セミナーのご案内です！\n\nEY JAPAN株式会社、東京消防庁、富士通株式会社よりゲストをお招きして、社会で活躍している障害のある方が自身のキャリアをどのように考え選択してきたのか、また、現在の働き方や生活の様子などをお話しいただきます。\n進路選択にお悩みの方、いろいろなキャリアパスを知りたい方など、有名企業・団体に就職した方のお話が聞ける貴重な機会になります！\n自分らしく働くことにつ…",
-            "date_modified": "2024-11-07T03:00:00.000Z"
-        },
-        {
-            "id": "864b003d11d33e5f5af827c1133b31d2",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5608",
-            "title": "インターンシップについて",
-            "summary": "インターンシップの申し込みや手続きについてのご連絡です。\n\n・大学経由型インターンシップの書類は、各機関締切日の10日前です。\n・インターンシップ保険に加入してください。\n・インターンシップ参加届の入力をしてください。\n・教員（指導教員、クラス担任又は所属長等　どなたか1名）に事前報告をしてください。\n\nインターンシップに申込をする際は、必ず下記URLをご一読ください。\n※授業の一環として実施する…",
             "date_modified": "2024-11-07T03:00:00.000Z"
         }
     ]
