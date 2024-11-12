@@ -2,10 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/mkobayashime/twins-announcements</id>
     <title>在学生へのお知らせ | 筑波大学</title>
-    <updated>2024-11-12T04:01:42.657Z</updated>
+    <updated>2024-11-12T09:01:47.452Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://github.com/mkobayashime/twins-announcements"/>
     <subtitle>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</subtitle>
+    <entry>
+        <title type="html"><![CDATA[【アルバイト募集】BHE主催「筑波大生のキャリアイベント」]]></title>
+        <id>f978d23db562f9c863d2b2e2b728bee4</id>
+        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5639"/>
+        <updated>2024-11-12T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[BHEキャリア支援チーム主催の「筑波大生のキャリアイベント」当日に
+アルバイト参加いただける学生を募集いたします！
+下記のURLより申し込みお待ちしています。
+＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝
+【日程】
+11月19日(火)、20日(水)、21日（木）、22日（金）11:00～19:00　※休憩１時間
+
+【場所】
+筑波大学大学会館  
+
+【内容】
+就職イベント当日に係る事前準備・受付・誘導等の業…]]></summary>
+    </entry>
     <entry>
         <title type="html"><![CDATA[（附属図書館）ライティング支援連続セミナー 第4・5回『事実と意見 / 文字と絵』【11/14(木)開催】]]></title>
         <id>58e8ef347ee07159e1379e1ce322068e</id>
@@ -260,18 +278,5 @@ BHEキャリア支援チームのファシリテーターからフィードバ�
 留学準備は渡航の１年前から始める必要があります。
 
 説明会以外の時間は、経験者の先輩…]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[スーツの割引について（11月8日更新）]]></title>
-        <id>5d674d87f698ff60380b7afc189fa65c</id>
-        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5619"/>
-        <updated>2024-11-08T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[本学は紳士服の大手4社と契約しています。
-そのため、在学生とそのご家族の皆様には、
-全国のAOKI、コナカ、はるやま（後日掲載）、洋服の青山で、
-通常の割引価格から更に割引いた価格でスーツ等をご購入いただけます。
-大変お得ですので、是非ご利用ください。
-
-※ご購入いただいた金額の一部が大学に寄附されます。]]></summary>
     </entry>
 </feed>

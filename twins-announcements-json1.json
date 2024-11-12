@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "f978d23db562f9c863d2b2e2b728bee4",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5639",
+            "title": "【アルバイト募集】BHE主催「筑波大生のキャリアイベント」",
+            "summary": "BHEキャリア支援チーム主催の「筑波大生のキャリアイベント」当日に\nアルバイト参加いただける学生を募集いたします！\n下記のURLより申し込みお待ちしています。\n＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝\n【日程】\n11月19日(火)、20日(水)、21日（木）、22日（金）11:00～19:00　※休憩１時間\n\n【場所】\n筑波大学大学会館  \n\n【内容】\n就職イベント当日に係る事前準備・受付・誘導等の業…",
+            "date_modified": "2024-11-12T03:00:00.000Z"
+        },
+        {
             "id": "58e8ef347ee07159e1379e1ce322068e",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5638",
             "title": "（附属図書館）ライティング支援連続セミナー 第4・5回『事実と意見 / 文字と絵』【11/14(木)開催】",
@@ -135,13 +142,6 @@
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5620",
             "title": "＼留学フェア‗AIMSデー／11/14（木）10：00-15：00",
             "summary": "東南アジアとの交換留学プログラム・AIMSの説明会＋留学経験者への相談会＋留学生との交流会を開催します！予約不要・入退場自由です。\n\n〔日時〕11/14（木）◆11：30-12：15　説明会　◆10：00-15：00　相談＆交流会　※説明会の時間をのぞく\n\n〔対象〕学群生（留学期間中に卒業しない年次であること）\n\n留学準備は渡航の１年前から始める必要があります。\n\n説明会以外の時間は、経験者の先輩…",
-            "date_modified": "2024-11-08T03:00:00.000Z"
-        },
-        {
-            "id": "5d674d87f698ff60380b7afc189fa65c",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5619",
-            "title": "スーツの割引について（11月8日更新）",
-            "summary": "本学は紳士服の大手4社と契約しています。\nそのため、在学生とそのご家族の皆様には、\n全国のAOKI、コナカ、はるやま（後日掲載）、洋服の青山で、\n通常の割引価格から更に割引いた価格でスーツ等をご購入いただけます。\n大変お得ですので、是非ご利用ください。\n\n※ご購入いただいた金額の一部が大学に寄附されます。",
             "date_modified": "2024-11-08T03:00:00.000Z"
         }
     ]
