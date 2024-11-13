@@ -4,10 +4,18 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Wed, 13 Nov 2024 01:28:36 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 Nov 2024 02:23:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
+        <item>
+            <title><![CDATA[[Notice] Safety Report Drill for AY 2024 (November 12-14)]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5649</link>
+            <guid>8e297b9bc7e16dd54b5747483573df66</guid>
+            <pubDate>Wed, 13 Nov 2024 03:00:00 GMT</pubDate>
+            <description><![CDATA[Thank you very much for your cooperation in the University's disaster preparedness.
+We are currently conducting a safety report drill using the University of Tsukuba Safety Confirmation System (ANPIC)…]]></description>
+        </item>
         <item>
             <title><![CDATA[11月15日開催　面接・GD練習会のご案内]]></title>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5648</link>
@@ -251,15 +259,6 @@ https://forms.gle/qnEvPRXrPSQMHDXn9
 　詳細につきましては、以下の交通規制マップおよびつくばマラソンホームページをご覧ください。
 
 The 44th Tsukuba Marathon will be he…]]></description>
-        </item>
-        <item>
-            <title><![CDATA[【開催：11/27(水),28(木),29(金)】筑波大学システム情報工学関連 業界研究セミナー2024]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5629</link>
-            <guid>de886aea802fe43efed51b782dec4d4e</guid>
-            <pubDate>Mon, 11 Nov 2024 03:00:00 GMT</pubDate>
-            <description><![CDATA[本年度より、情報系の７つの学位プログラムに加えて、情報学学位プログラムが加わり、より充実した内容で「システム情報工学関連 業界研究セミナー2024」を開催します。
-企業・団体の基本的な情報に加え、HPでは伝わりにくい職場の雰囲気や働き方、また社会人やOBOGの視点からのアドバイスを直接聞いたり、質問したりすることができます。
-キャンパスにいながら、様々な企業・団体の情報収集を行うことができるチャン…]]></description>
         </item>
     </channel>
 </rss>
