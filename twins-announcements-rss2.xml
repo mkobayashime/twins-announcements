@@ -4,10 +4,21 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Wed, 13 Nov 2024 21:06:45 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 Nov 2024 01:28:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
+        <item>
+            <title><![CDATA[本日開催＼留学フェア‗AIMSデー／10：00-15：00]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5652</link>
+            <guid>50fabf8802cde37424bbf605f02c7550</guid>
+            <pubDate>Thu, 14 Nov 2024 03:00:00 GMT</pubDate>
+            <description><![CDATA[本日AIMS（東南アジアデー）です！
+お昼のプログラム説明会は飲食持ち込みＯＫです。次回開催は半年後なので、少しでも留学を考えている方はぜひご参加ください。
+マレーシア・タイ・インドネシア・ブルネイ・フィリピンからの留学生も在室予定。言葉が不安でもスタッフがサポートします！
+ｰｰｰｰｰ
+東南アジアとの交換留学プログラム・AIMSの説明会＋留学経験者への相談会＋留学生との交流会を開催します！予約不要…]]></description>
+        </item>
         <item>
             <title><![CDATA[つくばリサイタルシリーズ実行委員会説明会]]></title>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5650</link>
@@ -242,27 +253,6 @@ https://forms.gle/qnEvPRXrPSQMHDXn9
             <description><![CDATA[つくば市より、「生涯学習のこれからを考えるワークショップ」の開催通知がありましたのでお知らせいたします。
 このワークショップは、１回完結型で全３回開催し、１回目のテーマが「子ども・青少年（大学生まで）の学び」となっています。
 つくば市の生涯学習のこれからを考えるにあたり、地域の中で学ぶこと、活動することに興味のある筑波大学の学生の意見は欠かすことのできない要素と認識されています。興味のある方はぜひ…]]></description>
-        </item>
-        <item>
-            <title><![CDATA[※全学生対象【参加企業リスト公開！！】11/19-22「筑波大生のキャリアイベント」（BHE主催）]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5631</link>
-            <guid>e6510a0ca799e05783c423951c22483f</guid>
-            <pubDate>Mon, 11 Nov 2024 03:00:00 GMT</pubDate>
-            <description><![CDATA[＼＼筑波大生のためのキャリアイベント開催！！／／
--業界研究・インターンシップ研究会 編-
-
-期間　11/19（火）-22（金）
-時間　14：00-18：00
-会場　大学会館
-
-★特別企画「OB・OG相談会」
-同会場で毎日2回開催（15：30-15：55、17：00-17：25）
-
-就職を希望する学生だけではなく、
-・進学と就職で悩んでいる
-・進学を希望している
-・企業と官公庁で迷っている
-・低学…]]></description>
         </item>
     </channel>
 </rss>
