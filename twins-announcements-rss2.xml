@@ -4,10 +4,18 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Thu, 14 Nov 2024 01:28:37 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 Nov 2024 02:24:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
+        <item>
+            <title><![CDATA[本日開催！【茗渓会】第12回　OB・OGキャリアカフェ～いろんなセンパイと話をしてみよう～ ※再掲]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5653</link>
+            <guid>c053f03093ce64dcd75aee66308b975c</guid>
+            <pubDate>Thu, 14 Nov 2024 03:00:00 GMT</pubDate>
+            <description><![CDATA[2019年より始まった筑波大学および大学院の卒業生と現役学生との交流の機会、「OB・OG キャリアカフェ」。このイベントは、大学の先輩から就職活動やキャリア、学生生活などについて本音でアドバイスを聞ける貴重な機会として、学生から高い満足度を得ています。
+今回は、2部構成でパネルディスカッションと交流会を対面で開催いたします。様々な職種やキャリアを持つ企業人が参加しますので、幅広い視点からのアドバイ…]]></description>
+        </item>
         <item>
             <title><![CDATA[本日開催＼留学フェア‗AIMSデー／10：00-15：00]]></title>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5652</link>
@@ -244,15 +252,6 @@ https://forms.gle/qnEvPRXrPSQMHDXn9
                （許立宏教授： 国立台湾体育運動大学）
 
 ■…]]></description>
-        </item>
-        <item>
-            <title><![CDATA[【周知】【つくば市生涯学習推進課】「生涯学習のこれからを考えるワークショップ」について]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5632</link>
-            <guid>583c00c0aa0ea124ca693f6ba8c8fd69</guid>
-            <pubDate>Mon, 11 Nov 2024 03:00:00 GMT</pubDate>
-            <description><![CDATA[つくば市より、「生涯学習のこれからを考えるワークショップ」の開催通知がありましたのでお知らせいたします。
-このワークショップは、１回完結型で全３回開催し、１回目のテーマが「子ども・青少年（大学生まで）の学び」となっています。
-つくば市の生涯学習のこれからを考えるにあたり、地域の中で学ぶこと、活動することに興味のある筑波大学の学生の意見は欠かすことのできない要素と認識されています。興味のある方はぜひ…]]></description>
         </item>
     </channel>
 </rss>
