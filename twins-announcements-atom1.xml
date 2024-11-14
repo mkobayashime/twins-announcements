@@ -2,10 +2,35 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/mkobayashime/twins-announcements</id>
     <title>在学生へのお知らせ | 筑波大学</title>
-    <updated>2024-11-14T06:01:51.421Z</updated>
+    <updated>2024-11-14T08:02:01.587Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://github.com/mkobayashime/twins-announcements"/>
     <subtitle>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</subtitle>
+    <entry>
+        <title type="html"><![CDATA[【周知】【茨城県警察本部生活安全総務課】いばらき防犯ファイルについて]]></title>
+        <id>76297db2351566babdc5076f5178a31d</id>
+        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5657"/>
+        <updated>2024-11-14T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[茨城県警察本部生活安全総務課よりいばらき防犯ファイル（令和６年１０月末）の送付がありましたので、添付のとおり掲載いたします。
+本ファイルは、県内で実際に発生した犯罪の情報のほか、防犯対策に役立つ情報が含まれております。ご自身の安全のためにも、ぜひご確認ください。
+]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[※全学生対象【特別企画の参加企業を公開！！】11/19-22「筑波大生のキャリアイベント」（BHE主催）]]></title>
+        <id>907f5af8f4eefc4e8d32e007131ab9cf</id>
+        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5656"/>
+        <updated>2024-11-14T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[＼＼筑波大生のためのキャリアイベント開催！！／／
+-業界研究・インターンシップ研究会 編-
+
+期間　11/19（火）-22（金）
+時間　14：00-18：00
+会場　大学会館
+
+★特別企画「OB・OG相談会」を同会場（大学会館）で
+毎日2回（15：30-15：55、17：00-17：25）開催します！
+参加企業については添付ファイルを確認してください。（※11/14時点で一部確認・調整中の情報があ…]]></summary>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【11/27(水)開催】人文社会科学研究群 公開講座「レキジン・アトリエ ～第2回 留学とフィールドワークの準備と実際～」のご案内]]></title>
         <id>8935054f7d8e8dceb073569b30402da3</id>
@@ -215,28 +240,5 @@ BHEキャリア支援チームのファシリテーターからフィードバ�
 ・筑波大学の博士の特徴　など
 
 気に…]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[いけばな体験教室の開催について/The Lesson of Ikebana Experience]]></title>
-        <id>5008e72d7e5a3cc4b6900315ee6a9547</id>
-        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5636"/>
-        <updated>2024-11-12T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[いけばな体験教室を11月23日に開催いたします。
-
-詳細は添付ファイルをご確認ください。
-
-
-Would you like to experience the Japanese culture of ikebana?
-
-For detail, please see the attached file.
-]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【12/2開催】教育関係共同利用拠点令和6年度第4回FD/SD研修会「高等教育の学生支援におけるDE&Iの実践モデルを考える」の開催について]]></title>
-        <id>0f7382f3e172e2e75343494931eda280</id>
-        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5635"/>
-        <updated>2024-11-12T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[  筑波大学ヒューマンエンパワーメント推進局（BHE）では，「本学に関わるすべての人の権利，多様性を尊重し，個々の能力が最大限に発揮される環境を整える」ことを基本理念とし，入学から卒後のキャリア形成まで，多様な学生を横断的に支援することを目指し，先駆的な取り組みを行なっています。
-  本シンポジウムでは、高等教育現場におけるDE&Iの実践方法に焦点を当て、筑波大学の取り組みを皆様と共有し，大学が直…]]></summary>
     </entry>
 </feed>
