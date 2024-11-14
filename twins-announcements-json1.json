@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "48d569a0e43007a3f28b4bd937412ffd",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5654",
+            "title": "大学院進学と就職を考えるセミナー　文系編",
+            "summary": "これは「大学院進学か就職か」について迷っている文系学生のためのセミナーです。大学院生の就活支援、キャリア支援サービスを手掛ける株式会社アカリクのキャリアサポーターであり、筑波大学OBでもある吉野宏志氏をお招きします。吉野氏は筑波大学人文社会科学研究科で言語学を専攻でした。今回は文系分野の学生に向けて大学院がどんな世界で何が得られるのか学群卒と大学院修了後のそれぞれの進路など大学院進学と就職のメリッ…",
+            "date_modified": "2024-11-14T03:00:00.000Z"
+        },
+        {
             "id": "c053f03093ce64dcd75aee66308b975c",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5653",
             "title": "本日開催！【茗渓会】第12回　OB・OGキャリアカフェ～いろんなセンパイと話をしてみよう～ ※再掲",
@@ -136,13 +143,6 @@
             "title": "【CEGLOC】ビクトリア大学ウェリントン校(ニュージーランド）での語学研修についての説明会のお知らせ",
             "summary": "日時：11月13日(水)　午前11時30分〜\n形態：CEGLOC棟CA306\n使用言語: 英語を中心とする。（日本語での質疑応答も可）\n\n説明会への参加申し込み：下記からフォームを送信してください。\nhttps://forms.gle/qnEvPRXrPSQMHDXn9\n\n以下について説明します。\n・研修期間　2月19日〜3月28日\n・内容―EAP (学術目的の英語) コース\n・単位の取得\n・宿泊…",
             "date_modified": "2024-11-12T03:00:00.000Z"
-        },
-        {
-            "id": "dcbc4ccbc6ed2d9cadd5536cd20ca570",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5633",
-            "title": "[Participants wanted] 2024/12/5, 12 (Thu) Seminar: Olympic Movement in Taiwan",
-            "summary": "このコースは英語で行われます。This seminar is in English.\n\n■Date and Time: December 5th, 12th (Thu) 11:00-12:20\n\n■Speaker: Professor Leo HSU, National Taiwan University of Sport\n               （許立宏教授： 国立台湾体育運動大学）\n\n■…",
-            "date_modified": "2024-11-11T03:00:00.000Z"
         }
     ]
 }

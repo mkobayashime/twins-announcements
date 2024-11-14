@@ -2,10 +2,17 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/mkobayashime/twins-announcements</id>
     <title>在学生へのお知らせ | 筑波大学</title>
-    <updated>2024-11-14T02:24:14.291Z</updated>
+    <updated>2024-11-14T03:05:49.767Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://github.com/mkobayashime/twins-announcements"/>
     <subtitle>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</subtitle>
+    <entry>
+        <title type="html"><![CDATA[大学院進学と就職を考えるセミナー　文系編]]></title>
+        <id>48d569a0e43007a3f28b4bd937412ffd</id>
+        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5654"/>
+        <updated>2024-11-14T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[これは「大学院進学か就職か」について迷っている文系学生のためのセミナーです。大学院生の就活支援、キャリア支援サービスを手掛ける株式会社アカリクのキャリアサポーターであり、筑波大学OBでもある吉野宏志氏をお招きします。吉野氏は筑波大学人文社会科学研究科で言語学を専攻でした。今回は文系分野の学生に向けて大学院がどんな世界で何が得られるのか学群卒と大学院修了後のそれぞれの進路など大学院進学と就職のメリッ…]]></summary>
+    </entry>
     <entry>
         <title type="html"><![CDATA[本日開催！【茗渓会】第12回　OB・OGキャリアカフェ～いろんなセンパイと話をしてみよう～ ※再掲]]></title>
         <id>c053f03093ce64dcd75aee66308b975c</id>
@@ -236,19 +243,5 @@ https://forms.gle/qnEvPRXrPSQMHDXn9
 ・内容―EAP (学術目的の英語) コース
 ・単位の取得
 ・宿泊…]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[Participants wanted] 2024/12/5, 12 (Thu) Seminar: Olympic Movement in Taiwan]]></title>
-        <id>dcbc4ccbc6ed2d9cadd5536cd20ca570</id>
-        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5633"/>
-        <updated>2024-11-11T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[このコースは英語で行われます。This seminar is in English.
-
-■Date and Time: December 5th, 12th (Thu) 11:00-12:20
-
-■Speaker: Professor Leo HSU, National Taiwan University of Sport
-               （許立宏教授： 国立台湾体育運動大学）
-
-■…]]></summary>
     </entry>
 </feed>
