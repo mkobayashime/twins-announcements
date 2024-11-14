@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "8935054f7d8e8dceb073569b30402da3",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5655",
+            "title": "【11/27(水)開催】人文社会科学研究群 公開講座「レキジン・アトリエ ～第2回 留学とフィールドワークの準備と実際～」のご案内",
+            "summary": "人文学学位プログラム歴史・人類学サブプログラムでは、\n今年度も毎月1回、全4回の公開講座「レキジン・アトリエ」を開催しています。\n\n大学院進学を検討している方や大学院での学修や進学後のキャリア形成について知りたいという学類生の皆さんに\n情報提供をおこなうと共に、文系大学院で学ぶということについて身近に考えてもらうことを目的にしています。\n\n第2回目は「留学とフィールドワークの準備と実際」をテーマに…",
+            "date_modified": "2024-11-14T03:00:00.000Z"
+        },
+        {
             "id": "48d569a0e43007a3f28b4bd937412ffd",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5654",
             "title": "大学院進学と就職を考えるセミナー　文系編",
@@ -135,13 +142,6 @@
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5635",
             "title": "【12/2開催】教育関係共同利用拠点令和6年度第4回FD/SD研修会「高等教育の学生支援におけるDE&Iの実践モデルを考える」の開催について",
             "summary": "  筑波大学ヒューマンエンパワーメント推進局（BHE）では，「本学に関わるすべての人の権利，多様性を尊重し，個々の能力が最大限に発揮される環境を整える」ことを基本理念とし，入学から卒後のキャリア形成まで，多様な学生を横断的に支援することを目指し，先駆的な取り組みを行なっています。\n  本シンポジウムでは、高等教育現場におけるDE&Iの実践方法に焦点を当て、筑波大学の取り組みを皆様と共有し，大学が直…",
-            "date_modified": "2024-11-12T03:00:00.000Z"
-        },
-        {
-            "id": "f33228352ede4855b3e2af2e10e0255c",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5634",
-            "title": "【CEGLOC】ビクトリア大学ウェリントン校(ニュージーランド）での語学研修についての説明会のお知らせ",
-            "summary": "日時：11月13日(水)　午前11時30分〜\n形態：CEGLOC棟CA306\n使用言語: 英語を中心とする。（日本語での質疑応答も可）\n\n説明会への参加申し込み：下記からフォームを送信してください。\nhttps://forms.gle/qnEvPRXrPSQMHDXn9\n\n以下について説明します。\n・研修期間　2月19日〜3月28日\n・内容―EAP (学術目的の英語) コース\n・単位の取得\n・宿泊…",
             "date_modified": "2024-11-12T03:00:00.000Z"
         }
     ]
