@@ -4,10 +4,24 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Fri, 15 Nov 2024 04:01:48 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Nov 2024 07:01:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
+        <item>
+            <title><![CDATA[【参加者募集】体育スポーツ局キャリア座談会「スポーツ業界研究会」]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5659</link>
+            <guid>cdb363a65945dce9713dc38377d10e36</guid>
+            <pubDate>Fri, 15 Nov 2024 03:00:00 GMT</pubDate>
+            <description><![CDATA[体育スポーツ局が開催するキャリアについて考える座談会企画 第1回目「スポーツ業界研究会」
+
+
+スポーツに関わる仕事をしたい人、必見！！
+「自分はどんな仕事に興味があるのだろう？」そんな疑問や悩みを抱えていませんか？
+今回は、あらゆるスポーツの現場で活躍されてきた、筑波大学体育スポーツ局大山高教授を迎え、スポーツ業界研究会を行います。
+
+本イベントは、どなたでも参加が可能となっておりますので興味があ…]]></description>
+        </item>
         <item>
             <title><![CDATA[(再掲・本日開催)【11/15開催】「キャリアデザインLAB ～現役大学院生から見た進路選択のリアル～｣中央図書館LAセミナー]]></title>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5658</link>
@@ -239,27 +253,6 @@ https://forms.gle/qnEvPRXrPSQMHDXn9
             <description><![CDATA[つくば市より、「生涯学習のこれからを考えるワークショップ」の開催通知がありましたのでお知らせいたします。
 このワークショップは、１回完結型で全３回開催し、１回目のテーマが「子ども・青少年（大学生まで）の学び」となっています。
 つくば市の生涯学習のこれからを考えるにあたり、地域の中で学ぶこと、活動することに興味のある筑波大学の学生の意見は欠かすことのできない要素と認識されています。興味のある方はぜひ…]]></description>
-        </item>
-        <item>
-            <title><![CDATA[※全学生対象【参加企業リスト公開！！】11/19-22「筑波大生のキャリアイベント」（BHE主催）]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5631</link>
-            <guid>e6510a0ca799e05783c423951c22483f</guid>
-            <pubDate>Mon, 11 Nov 2024 03:00:00 GMT</pubDate>
-            <description><![CDATA[＼＼筑波大生のためのキャリアイベント開催！！／／
--業界研究・インターンシップ研究会 編-
-
-期間　11/19（火）-22（金）
-時間　14：00-18：00
-会場　大学会館
-
-★特別企画「OB・OG相談会」
-同会場で毎日2回開催（15：30-15：55、17：00-17：25）
-
-就職を希望する学生だけではなく、
-・進学と就職で悩んでいる
-・進学を希望している
-・企業と官公庁で迷っている
-・低学…]]></description>
         </item>
     </channel>
 </rss>
