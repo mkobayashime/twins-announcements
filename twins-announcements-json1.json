@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "d35ac2bc68e07467be65c54f83ccc5c1",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5663",
+            "title": "【全学生向け】Tsukuba Career Insight 2024 ～先輩に聞こう！障害学生が自分らしく生きていくための社会移行～　※再掲",
+            "summary": "キャリア支援セミナーのご案内です！\n\nEY JAPAN株式会社、東京消防庁、富士通株式会社よりゲストをお招きして、社会で活躍している障害のある方が自身のキャリアをどのように考え選択してきたのか、また、現在の働き方や生活の様子などをお話しいただきます。\n進路選択にお悩みの方、いろいろなキャリアパスを知りたい方など、有名企業・団体に就職した方のお話が聞ける貴重な機会になります！\n自分らしく働くことにつ…",
+            "date_modified": "2024-11-18T03:00:00.000Z"
+        },
+        {
             "id": "acb2cffb1d160116a2af465c271bb40e",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5662",
             "title": "【見逃し配信】11/11開催　～トビタテ！留学JAPAN新・日本代表プログラム～　 ≪先輩の留学体験談発表≫",
@@ -135,13 +142,6 @@
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5633",
             "title": "[Participants wanted] 2024/12/5, 12 (Thu) Seminar: Olympic Movement in Taiwan",
             "summary": "このコースは英語で行われます。This seminar is in English.\n\n■Date and Time: December 5th, 12th (Thu) 11:00-12:20\n\n■Speaker: Professor Leo HSU, National Taiwan University of Sport\n               （許立宏教授： 国立台湾体育運動大学）\n\n■…",
-            "date_modified": "2024-11-11T03:00:00.000Z"
-        },
-        {
-            "id": "583c00c0aa0ea124ca693f6ba8c8fd69",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5632",
-            "title": "【周知】【つくば市生涯学習推進課】「生涯学習のこれからを考えるワークショップ」について",
-            "summary": "つくば市より、「生涯学習のこれからを考えるワークショップ」の開催通知がありましたのでお知らせいたします。\nこのワークショップは、１回完結型で全３回開催し、１回目のテーマが「子ども・青少年（大学生まで）の学び」となっています。\nつくば市の生涯学習のこれからを考えるにあたり、地域の中で学ぶこと、活動することに興味のある筑波大学の学生の意見は欠かすことのできない要素と認識されています。興味のある方はぜひ…",
             "date_modified": "2024-11-11T03:00:00.000Z"
         }
     ]
