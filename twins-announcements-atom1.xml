@@ -2,10 +2,24 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/mkobayashime/twins-announcements</id>
     <title>在学生へのお知らせ | 筑波大学</title>
-    <updated>2024-11-18T08:01:56.544Z</updated>
+    <updated>2024-11-18T09:01:59.716Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://github.com/mkobayashime/twins-announcements"/>
     <subtitle>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</subtitle>
+    <entry>
+        <title type="html"><![CDATA[教育における生成AI活用のガイドライン2024]]></title>
+        <id>f60eb46e0ab89da5055bc3d6a88659cf</id>
+        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5667"/>
+        <updated>2024-11-18T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[生成AIを学修に活用していますか？大学では、皆さんの学びを支えるための「教育における生成AI活用のガイドライン2024（学生向け） 」を作成しました。
+
+・生成AIの基本的な仕組み
+・正しく、効果的に使うためのポイント
+・学生生活や授業等で活用する場合の注意点
+
+などなど、ガイドラインを参照し、ルールを守って活用してください。
+]]></summary>
+    </entry>
     <entry>
         <title type="html"><![CDATA[11月22日（金）8：40-10：40「Business Leaders’ Seminar/ビジネスリーダーズセミナー」開催のお知らせ （対象：全学生）]]></title>
         <id>065c209bc9b036d8b34b20778c4317ba</id>
@@ -234,20 +248,5 @@ BHEキャリア支援チームのファシリテーターからフィードバ�
 ・筑波大学の博士の特徴　など
 
 気に…]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[いけばな体験教室の開催について/The Lesson of Ikebana Experience]]></title>
-        <id>5008e72d7e5a3cc4b6900315ee6a9547</id>
-        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5636"/>
-        <updated>2024-11-12T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[いけばな体験教室を11月23日に開催いたします。
-
-詳細は添付ファイルをご確認ください。
-
-
-Would you like to experience the Japanese culture of ikebana?
-
-For detail, please see the attached file.
-]]></summary>
     </entry>
 </feed>
