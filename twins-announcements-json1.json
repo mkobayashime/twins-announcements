@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "d6e343f5d04f547b1fae81e7a9966eaf",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5664",
+            "title": "【新規開講中！】オハイオ州立大学の学生と一緒に学び考える「インクルーシブなスマートソサエティ」",
+            "summary": "筑波大生の皆さんへ\n\n2024年度の秋学期から、ISSプログラム科目群が新規開講されています！\n\nISSプログラムは、筑波大学とオハイオ州立大学の共同教育プログラム。\n多様な背景を持った人々が等しく主役となる「インクルーシブなスマートソサエティ」の実現をリードする、国際スタートアップ人材の育成を目指しています☆\n\nISSプログラムに参加すると、両校の先生からインクルーシブなスマートソサエティの基礎…",
+            "date_modified": "2024-11-18T03:00:00.000Z"
+        },
+        {
             "id": "d35ac2bc68e07467be65c54f83ccc5c1",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5663",
             "title": "【全学生向け】Tsukuba Career Insight 2024 ～先輩に聞こう！障害学生が自分らしく生きていくための社会移行～　※再掲",
@@ -136,13 +143,6 @@
             "title": "【CEGLOC】ビクトリア大学ウェリントン校(ニュージーランド）での語学研修についての説明会のお知らせ",
             "summary": "日時：11月13日(水)　午前11時30分〜\n形態：CEGLOC棟CA306\n使用言語: 英語を中心とする。（日本語での質疑応答も可）\n\n説明会への参加申し込み：下記からフォームを送信してください。\nhttps://forms.gle/qnEvPRXrPSQMHDXn9\n\n以下について説明します。\n・研修期間　2月19日〜3月28日\n・内容―EAP (学術目的の英語) コース\n・単位の取得\n・宿泊…",
             "date_modified": "2024-11-12T03:00:00.000Z"
-        },
-        {
-            "id": "dcbc4ccbc6ed2d9cadd5536cd20ca570",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5633",
-            "title": "[Participants wanted] 2024/12/5, 12 (Thu) Seminar: Olympic Movement in Taiwan",
-            "summary": "このコースは英語で行われます。This seminar is in English.\n\n■Date and Time: December 5th, 12th (Thu) 11:00-12:20\n\n■Speaker: Professor Leo HSU, National Taiwan University of Sport\n               （許立宏教授： 国立台湾体育運動大学）\n\n■…",
-            "date_modified": "2024-11-11T03:00:00.000Z"
         }
     ]
 }

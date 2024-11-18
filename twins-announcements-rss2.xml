@@ -4,10 +4,24 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Mon, 18 Nov 2024 05:01:45 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 18 Nov 2024 06:01:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
+        <item>
+            <title><![CDATA[【新規開講中！】オハイオ州立大学の学生と一緒に学び考える「インクルーシブなスマートソサエティ」]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5664</link>
+            <guid>d6e343f5d04f547b1fae81e7a9966eaf</guid>
+            <pubDate>Mon, 18 Nov 2024 03:00:00 GMT</pubDate>
+            <description><![CDATA[筑波大生の皆さんへ
+
+2024年度の秋学期から、ISSプログラム科目群が新規開講されています！
+
+ISSプログラムは、筑波大学とオハイオ州立大学の共同教育プログラム。
+多様な背景を持った人々が等しく主役となる「インクルーシブなスマートソサエティ」の実現をリードする、国際スタートアップ人材の育成を目指しています☆
+
+ISSプログラムに参加すると、両校の先生からインクルーシブなスマートソサエティの基礎…]]></description>
+        </item>
         <item>
             <title><![CDATA[【全学生向け】Tsukuba Career Insight 2024 ～先輩に聞こう！障害学生が自分らしく生きていくための社会移行～　※再掲]]></title>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5663</link>
@@ -239,20 +253,6 @@ https://forms.gle/qnEvPRXrPSQMHDXn9
 ・内容―EAP (学術目的の英語) コース
 ・単位の取得
 ・宿泊…]]></description>
-        </item>
-        <item>
-            <title><![CDATA[[Participants wanted] 2024/12/5, 12 (Thu) Seminar: Olympic Movement in Taiwan]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5633</link>
-            <guid>dcbc4ccbc6ed2d9cadd5536cd20ca570</guid>
-            <pubDate>Mon, 11 Nov 2024 03:00:00 GMT</pubDate>
-            <description><![CDATA[このコースは英語で行われます。This seminar is in English.
-
-■Date and Time: December 5th, 12th (Thu) 11:00-12:20
-
-■Speaker: Professor Leo HSU, National Taiwan University of Sport
-               （許立宏教授： 国立台湾体育運動大学）
-
-■…]]></description>
         </item>
     </channel>
 </rss>
