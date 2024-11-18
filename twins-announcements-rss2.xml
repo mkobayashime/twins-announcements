@@ -4,10 +4,21 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Sun, 17 Nov 2024 21:06:31 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 18 Nov 2024 01:29:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
+        <item>
+            <title><![CDATA[【見逃し配信】11/11開催　～トビタテ！留学JAPAN新・日本代表プログラム～　 ≪先輩の留学体験談発表≫]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5662</link>
+            <guid>acb2cffb1d160116a2af465c271bb40e</guid>
+            <pubDate>Mon, 18 Nov 2024 03:00:00 GMT</pubDate>
+            <description><![CDATA[11月11日（月）に開催された～トビタテ！留学JAPAN新・日本代表プログラム～　≪先輩の留学体験談発表≫に参加できなかった方々のため、学習管理システム「manaba」に録画を掲載しましたのでご案内いたします（2025年1月31日までご視聴いただけます）。
+
+　●録画の視聴方法
+１　manaba  にログインし、右のメニュー「自己登録について」内の「＞コースを検索して登録」をクリック
+２　コースコ…]]></description>
+        </item>
         <item>
             <title><![CDATA[＼締切迫る！グアダラハラ大学（メキシコ）への短期研修生募集！（2024年度TTPP短期研修）／]]></title>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5661</link>
@@ -240,27 +251,6 @@ https://forms.gle/qnEvPRXrPSQMHDXn9
             <description><![CDATA[つくば市より、「生涯学習のこれからを考えるワークショップ」の開催通知がありましたのでお知らせいたします。
 このワークショップは、１回完結型で全３回開催し、１回目のテーマが「子ども・青少年（大学生まで）の学び」となっています。
 つくば市の生涯学習のこれからを考えるにあたり、地域の中で学ぶこと、活動することに興味のある筑波大学の学生の意見は欠かすことのできない要素と認識されています。興味のある方はぜひ…]]></description>
-        </item>
-        <item>
-            <title><![CDATA[※全学生対象【参加企業リスト公開！！】11/19-22「筑波大生のキャリアイベント」（BHE主催）]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5631</link>
-            <guid>e6510a0ca799e05783c423951c22483f</guid>
-            <pubDate>Mon, 11 Nov 2024 03:00:00 GMT</pubDate>
-            <description><![CDATA[＼＼筑波大生のためのキャリアイベント開催！！／／
--業界研究・インターンシップ研究会 編-
-
-期間　11/19（火）-22（金）
-時間　14：00-18：00
-会場　大学会館
-
-★特別企画「OB・OG相談会」
-同会場で毎日2回開催（15：30-15：55、17：00-17：25）
-
-就職を希望する学生だけではなく、
-・進学と就職で悩んでいる
-・進学を希望している
-・企業と官公庁で迷っている
-・低学…]]></description>
         </item>
     </channel>
 </rss>

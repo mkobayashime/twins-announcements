@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "acb2cffb1d160116a2af465c271bb40e",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5662",
+            "title": "【見逃し配信】11/11開催　～トビタテ！留学JAPAN新・日本代表プログラム～　 ≪先輩の留学体験談発表≫",
+            "summary": "11月11日（月）に開催された～トビタテ！留学JAPAN新・日本代表プログラム～　≪先輩の留学体験談発表≫に参加できなかった方々のため、学習管理システム「manaba」に録画を掲載しましたのでご案内いたします（2025年1月31日までご視聴いただけます）。\n\n　●録画の視聴方法\n１　manaba  にログインし、右のメニュー「自己登録について」内の「＞コースを検索して登録」をクリック\n２　コースコ…",
+            "date_modified": "2024-11-18T03:00:00.000Z"
+        },
+        {
             "id": "4e2138f1984c0d2fd52162207c5e9cd6",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5661",
             "title": "＼締切迫る！グアダラハラ大学（メキシコ）への短期研修生募集！（2024年度TTPP短期研修）／",
@@ -135,13 +142,6 @@
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5632",
             "title": "【周知】【つくば市生涯学習推進課】「生涯学習のこれからを考えるワークショップ」について",
             "summary": "つくば市より、「生涯学習のこれからを考えるワークショップ」の開催通知がありましたのでお知らせいたします。\nこのワークショップは、１回完結型で全３回開催し、１回目のテーマが「子ども・青少年（大学生まで）の学び」となっています。\nつくば市の生涯学習のこれからを考えるにあたり、地域の中で学ぶこと、活動することに興味のある筑波大学の学生の意見は欠かすことのできない要素と認識されています。興味のある方はぜひ…",
-            "date_modified": "2024-11-11T03:00:00.000Z"
-        },
-        {
-            "id": "e6510a0ca799e05783c423951c22483f",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5631",
-            "title": "※全学生対象【参加企業リスト公開！！】11/19-22「筑波大生のキャリアイベント」（BHE主催）",
-            "summary": "＼＼筑波大生のためのキャリアイベント開催！！／／\n-業界研究・インターンシップ研究会 編-\n\n期間　11/19（火）-22（金）\n時間　14：00-18：00\n会場　大学会館\n\n★特別企画「OB・OG相談会」\n同会場で毎日2回開催（15：30-15：55、17：00-17：25）\n\n就職を希望する学生だけではなく、\n・進学と就職で悩んでいる\n・進学を希望している\n・企業と官公庁で迷っている\n・低学…",
             "date_modified": "2024-11-11T03:00:00.000Z"
         }
     ]
