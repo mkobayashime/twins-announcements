@@ -4,10 +4,20 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Mon, 18 Nov 2024 07:01:47 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 18 Nov 2024 08:01:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
+        <item>
+            <title><![CDATA[11月22日（金）8：40-10：40「Business Leaders’ Seminar/ビジネスリーダーズセミナー」開催のお知らせ （対象：全学生）]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5666</link>
+            <guid>065c209bc9b036d8b34b20778c4317ba</guid>
+            <pubDate>Mon, 18 Nov 2024 03:00:00 GMT</pubDate>
+            <description><![CDATA[ヒューマンバイオロジー学位プログラムでは授業の一環として「Business Leaders’ Seminar/ビジネスリーダーズセミナー」を開催しています。
+本セミナーは、世界のトップビジネスリーダーを招き、オムニバス形式でキャリア形成やビジネスに関する成功と失敗の話などの経験を紹介するものです。
+
+11月22日（金）8：40-10：40に開催するセミナーでは、一般社団法人 日本CFO協会のFP&…]]></description>
+        </item>
         <item>
             <title><![CDATA[（附属図書館）ライティング支援連続セミナー 第6回『レポート執筆から論文投稿へ～書いた文章を学会に出す基本と注意点～』【11/21(木)開催】]]></title>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5665</link>
@@ -241,14 +251,6 @@ Would you like to experience the Japanese culture of ikebana?
 
 For detail, please see the attached file.
 ]]></description>
-        </item>
-        <item>
-            <title><![CDATA[【12/2開催】教育関係共同利用拠点令和6年度第4回FD/SD研修会「高等教育の学生支援におけるDE&Iの実践モデルを考える」の開催について]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5635</link>
-            <guid>0f7382f3e172e2e75343494931eda280</guid>
-            <pubDate>Tue, 12 Nov 2024 03:00:00 GMT</pubDate>
-            <description><![CDATA[  筑波大学ヒューマンエンパワーメント推進局（BHE）では，「本学に関わるすべての人の権利，多様性を尊重し，個々の能力が最大限に発揮される環境を整える」ことを基本理念とし，入学から卒後のキャリア形成まで，多様な学生を横断的に支援することを目指し，先駆的な取り組みを行なっています。
-  本シンポジウムでは、高等教育現場におけるDE&Iの実践方法に焦点を当て、筑波大学の取り組みを皆様と共有し，大学が直…]]></description>
         </item>
     </channel>
 </rss>

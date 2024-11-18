@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "065c209bc9b036d8b34b20778c4317ba",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5666",
+            "title": "11月22日（金）8：40-10：40「Business Leaders’ Seminar/ビジネスリーダーズセミナー」開催のお知らせ （対象：全学生）",
+            "summary": "ヒューマンバイオロジー学位プログラムでは授業の一環として「Business Leaders’ Seminar/ビジネスリーダーズセミナー」を開催しています。\n本セミナーは、世界のトップビジネスリーダーを招き、オムニバス形式でキャリア形成やビジネスに関する成功と失敗の話などの経験を紹介するものです。\n\n11月22日（金）8：40-10：40に開催するセミナーでは、一般社団法人 日本CFO協会のFP&…",
+            "date_modified": "2024-11-18T03:00:00.000Z"
+        },
+        {
             "id": "47862506d2ebfa9bd0f3e5bc69bbf003",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5665",
             "title": "（附属図書館）ライティング支援連続セミナー 第6回『レポート執筆から論文投稿へ～書いた文章を学会に出す基本と注意点～』【11/21(木)開催】",
@@ -135,13 +142,6 @@
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5636",
             "title": "いけばな体験教室の開催について/The Lesson of Ikebana Experience",
             "summary": "いけばな体験教室を11月23日に開催いたします。\n\n詳細は添付ファイルをご確認ください。\n\n\nWould you like to experience the Japanese culture of ikebana?\n\nFor detail, please see the attached file.\n",
-            "date_modified": "2024-11-12T03:00:00.000Z"
-        },
-        {
-            "id": "0f7382f3e172e2e75343494931eda280",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5635",
-            "title": "【12/2開催】教育関係共同利用拠点令和6年度第4回FD/SD研修会「高等教育の学生支援におけるDE&Iの実践モデルを考える」の開催について",
-            "summary": "  筑波大学ヒューマンエンパワーメント推進局（BHE）では，「本学に関わるすべての人の権利，多様性を尊重し，個々の能力が最大限に発揮される環境を整える」ことを基本理念とし，入学から卒後のキャリア形成まで，多様な学生を横断的に支援することを目指し，先駆的な取り組みを行なっています。\n  本シンポジウムでは、高等教育現場におけるDE&Iの実践方法に焦点を当て、筑波大学の取り組みを皆様と共有し，大学が直…",
             "date_modified": "2024-11-12T03:00:00.000Z"
         }
     ]
