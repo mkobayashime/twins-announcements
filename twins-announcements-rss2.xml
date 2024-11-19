@@ -4,10 +4,24 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Tue, 19 Nov 2024 01:28:56 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 Nov 2024 02:27:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
+        <item>
+            <title><![CDATA[校友会×全代会　合同企画　就職支援イベントのご案内]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5675</link>
+            <guid>118757ce8a9f01fbacafd7e735326a1a</guid>
+            <pubDate>Tue, 19 Nov 2024 03:00:00 GMT</pubDate>
+            <description><![CDATA[筑波大学校友会は、「校友会×全代会　合同企画　就職支援イベント」を開催いたします。
+「総合科目：卒業生による業界探訪」に履修登録のない方も、どなたでも参加可能です！
+
+日時：令和6年11月26日（火）16:45～18：00
+場所： ID201教室
+内容：本学卒業生で、NHK解説委員の神子田氏をお招きし、放送業界について講義をしていただきます。
+　　　講義のあとは質疑応答も可能です。
+　　　放送業界…]]></description>
+        </item>
         <item>
             <title><![CDATA[ﾘﾏｲﾝﾄﾞ: 11/20(水),12/4(水)5限：公開授業「キャリアデザイン入門～世界にはばたく未来の自分～」]]></title>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5674</link>
@@ -241,18 +255,6 @@ EY JAPAN株式会社、東京消防庁、富士通株式会社よりゲストを
             <pubDate>Wed, 13 Nov 2024 03:00:00 GMT</pubDate>
             <description><![CDATA[Thank you very much for your cooperation in the University's disaster preparedness.
 We are currently conducting a safety report drill using the University of Tsukuba Safety Confirmation System (ANPIC)…]]></description>
-        </item>
-        <item>
-            <title><![CDATA[11月15日開催　面接・GD練習会のご案内]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5648</link>
-            <guid>2b3567ea2d2a56f4e7b5c1dd698fbb35</guid>
-            <pubDate>Wed, 13 Nov 2024 03:00:00 GMT</pubDate>
-            <description><![CDATA[就活に即役立つ、面接・GD練習会です。
-対面でもオンラインでも開催します。
-対面面接編ではビジネスマナーも学ぶことができます。
-就活中の方、ISの選考を受ける方だけでなく、低学年の皆さんの参加も大歓迎！
-「面接ってどんな感じ？」、「グループディスカッションってどんな話をすればいいの？」などちょっと知りたいという方もぜひどうぞ。
-BHEキャリア支援チームのファシリテーターからフィードバックがあります…]]></description>
         </item>
     </channel>
 </rss>

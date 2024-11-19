@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "118757ce8a9f01fbacafd7e735326a1a",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5675",
+            "title": "校友会×全代会　合同企画　就職支援イベントのご案内",
+            "summary": "筑波大学校友会は、「校友会×全代会　合同企画　就職支援イベント」を開催いたします。\n「総合科目：卒業生による業界探訪」に履修登録のない方も、どなたでも参加可能です！\n\n日時：令和6年11月26日（火）16:45～18：00\n場所： ID201教室\n内容：本学卒業生で、NHK解説委員の神子田氏をお招きし、放送業界について講義をしていただきます。\n　　　講義のあとは質疑応答も可能です。\n　　　放送業界…",
+            "date_modified": "2024-11-19T03:00:00.000Z"
+        },
+        {
             "id": "3733b327659dbffd9ae490549fdab555",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5674",
             "title": "ﾘﾏｲﾝﾄﾞ: 11/20(水),12/4(水)5限：公開授業「キャリアデザイン入門～世界にはばたく未来の自分～」",
@@ -135,13 +142,6 @@
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5649",
             "title": "[Notice] Safety Report Drill for AY 2024 (November 12-14)",
             "summary": "Thank you very much for your cooperation in the University's disaster preparedness.\nWe are currently conducting a safety report drill using the University of Tsukuba Safety Confirmation System (ANPIC)…",
-            "date_modified": "2024-11-13T03:00:00.000Z"
-        },
-        {
-            "id": "2b3567ea2d2a56f4e7b5c1dd698fbb35",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5648",
-            "title": "11月15日開催　面接・GD練習会のご案内",
-            "summary": "就活に即役立つ、面接・GD練習会です。\n対面でもオンラインでも開催します。\n対面面接編ではビジネスマナーも学ぶことができます。\n就活中の方、ISの選考を受ける方だけでなく、低学年の皆さんの参加も大歓迎！\n「面接ってどんな感じ？」、「グループディスカッションってどんな話をすればいいの？」などちょっと知りたいという方もぜひどうぞ。\nBHEキャリア支援チームのファシリテーターからフィードバックがあります…",
             "date_modified": "2024-11-13T03:00:00.000Z"
         }
     ]
