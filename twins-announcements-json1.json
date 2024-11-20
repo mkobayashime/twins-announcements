@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "96a4dd07808776bed07e6a6936941622",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5681",
+            "title": "【12/13開催】第４回人文社会系研究交流セミナー「メディア史になにができるか？ 人文科学と社会科学をつなぐアプローチ」開催のご案内",
+            "summary": "筑波大学人文社会系の教員の研究を紹介し、学内外の研究交流を促進するための\n「第4回人文社会系研究交流セミナー」を開催します。\n\n第4回となる今回はシンポジウム形式での開催となります。\nテーマとなる「メディア史」の学際性と可能性について、研究来歴から具体的に紹介しながら、\n参加者の研究や発想も「メディア史」として成立可能であることを考えてもらう機会としたいと思います。\n詳細については、ポスターや下記…",
+            "date_modified": "2024-11-20T03:00:00.000Z"
+        },
+        {
             "id": "6da9c1aec6eb8213e5c19d467394a074",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5680",
             "title": "【奨学金/Scholarship】公益財団法人岩谷直治記念財団 /IWATANI International Scholarship",
@@ -135,13 +142,6 @@
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5657",
             "title": "【周知】【茨城県警察本部生活安全総務課】いばらき防犯ファイルについて",
             "summary": "茨城県警察本部生活安全総務課よりいばらき防犯ファイル（令和６年１０月末）の送付がありましたので、添付のとおり掲載いたします。\n本ファイルは、県内で実際に発生した犯罪の情報のほか、防犯対策に役立つ情報が含まれております。ご自身の安全のためにも、ぜひご確認ください。\n",
-            "date_modified": "2024-11-14T03:00:00.000Z"
-        },
-        {
-            "id": "907f5af8f4eefc4e8d32e007131ab9cf",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5656",
-            "title": "※全学生対象【特別企画の参加企業を公開！！】11/19-22「筑波大生のキャリアイベント」（BHE主催）",
-            "summary": "＼＼筑波大生のためのキャリアイベント開催！！／／\n-業界研究・インターンシップ研究会 編-\n\n期間　11/19（火）-22（金）\n時間　14：00-18：00\n会場　大学会館\n\n★特別企画「OB・OG相談会」を同会場（大学会館）で\n毎日2回（15：30-15：55、17：00-17：25）開催します！\n参加企業については添付ファイルを確認してください。（※11/14時点で一部確認・調整中の情報があ…",
             "date_modified": "2024-11-14T03:00:00.000Z"
         }
     ]
