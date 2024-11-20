@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/mkobayashime/twins-announcements</id>
     <title>在学生へのお知らせ | 筑波大学</title>
-    <updated>2024-11-20T05:01:42.599Z</updated>
+    <updated>2024-11-20T09:01:47.923Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://github.com/mkobayashime/twins-announcements"/>
     <subtitle>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</subtitle>
+    <entry>
+        <title type="html"><![CDATA[【12/8開催】 「エジプト博物館事情－その多様性と包摂性について－」開催のご案内]]></title>
+        <id>b388b771bdccfaf1d2f1d227c229a97d</id>
+        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5682"/>
+        <updated>2024-11-20T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[文化庁による令和6年度Innovate MUSEUM事業「国際連携による博物館の多様性・包摂性推進事業」の一環として、
+「エジプト博物館事情－その多様性と包摂性について－」と題して講演会（研修会）が開催されます。
+
+博物館実習の受入施設が数多く参画されている企画となっており、博物館学ご担当や博物館事業に興味をお持ちの先生方、
+学芸員を志す学生など、広く参加者を募っています。
+(参画施設：国立科学博…]]></summary>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【12/13開催】第４回人文社会系研究交流セミナー「メディア史になにができるか？ 人文科学と社会科学をつなぐアプローチ」開催のご案内]]></title>
         <id>96a4dd07808776bed07e6a6936941622</id>
@@ -254,14 +266,5 @@ EY JAPAN株式会社、東京消防庁、富士通株式会社よりゲストを
 今回は、あらゆるスポーツの現場で活躍されてきた、筑波大学体育スポーツ局大山高教授を迎え、スポーツ業界研究会を行います。
 
 本イベントは、どなたでも参加が可能となっておりますので興味があ…]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【周知】【茨城県警察本部生活安全総務課】いばらき防犯ファイルについて]]></title>
-        <id>76297db2351566babdc5076f5178a31d</id>
-        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5657"/>
-        <updated>2024-11-14T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[茨城県警察本部生活安全総務課よりいばらき防犯ファイル（令和６年１０月末）の送付がありましたので、添付のとおり掲載いたします。
-本ファイルは、県内で実際に発生した犯罪の情報のほか、防犯対策に役立つ情報が含まれております。ご自身の安全のためにも、ぜひご確認ください。
-]]></summary>
     </entry>
 </feed>
