@@ -4,7 +4,7 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Wed, 20 Nov 2024 09:07:22 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 20 Nov 2024 15:07:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
@@ -47,20 +47,6 @@
 ※この奨学金を受給する者は、2025年度の大学推薦奨学金の申請資格がありません。
 
 51th …]]></description>
-        </item>
-        <item>
-            <title><![CDATA[〔本日2回目‗ブルネイ〕Cultural Exchange Activity]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5678</link>
-            <guid>377bc9feafad6094da0a326efc958b1d</guid>
-            <pubDate>Wed, 20 Nov 2024 03:00:00 GMT</pubDate>
-            <description><![CDATA[＼予約不要・入退場自由／
-東南アジアの協定校から受け入れている短期留学生が、自国について紹介します！
-本日11/20の第２回はブルネイ。会場はグローバルヴィレッジコミュニティスペースです。
-
-https://www.tsukuba.ac.jp/access/tsukuba-campus/globalvillage.html
-
-東南アジアに興味のある方、留学生と交流したい方はぜひお越しください。
-全…]]></description>
         </item>
         <item>
             <title><![CDATA[ロシア語・カザフ語短期語学研修（カザフスタン） 2025年2月 参加者募集]]></title>
@@ -268,6 +254,15 @@ EY JAPAN株式会社、東京消防庁、富士通株式会社よりゲストを
 今回は、あらゆるスポーツの現場で活躍されてきた、筑波大学体育スポーツ局大山高教授を迎え、スポーツ業界研究会を行います。
 
 本イベントは、どなたでも参加が可能となっておりますので興味があ…]]></description>
+        </item>
+        <item>
+            <title><![CDATA[【周知】【茨城県警察本部生活安全総務課】いばらき防犯ファイルについて]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5657</link>
+            <guid>76297db2351566babdc5076f5178a31d</guid>
+            <pubDate>Thu, 14 Nov 2024 03:00:00 GMT</pubDate>
+            <description><![CDATA[茨城県警察本部生活安全総務課よりいばらき防犯ファイル（令和６年１０月末）の送付がありましたので、添付のとおり掲載いたします。
+本ファイルは、県内で実際に発生した犯罪の情報のほか、防犯対策に役立つ情報が含まれております。ご自身の安全のためにも、ぜひご確認ください。
+]]></description>
         </item>
     </channel>
 </rss>
