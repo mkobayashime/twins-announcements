@@ -5,6 +5,20 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "6da9c1aec6eb8213e5c19d467394a074",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5680",
+            "title": "【奨学金/Scholarship】公益財団法人岩谷直治記念財団 /IWATANI International Scholarship",
+            "summary": "公益財団法人　岩谷直治記念財団「第51回(2025年度)岩谷国際留学生奨学助成」募集\n応募期間：2024年12月1日(日)～20日(金)\n提出先　：財団へ直接応募\n募集要項：(PDF(資料1))\n財団HP：http://www.iwatani-foundation.or.jp/\n※日本語能力が必要です。\n※この奨学金を受給する者は、2025年度の大学推薦奨学金の申請資格がありません。\n\n51th …",
+            "date_modified": "2024-11-20T03:00:00.000Z"
+        },
+        {
+            "id": "377bc9feafad6094da0a326efc958b1d",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5678",
+            "title": "〔本日2回目‗ブルネイ〕Cultural Exchange Activity",
+            "summary": "＼予約不要・入退場自由／\n東南アジアの協定校から受け入れている短期留学生が、自国について紹介します！\n本日11/20の第２回はブルネイ。会場はグローバルヴィレッジコミュニティスペースです。\n\nhttps://www.tsukuba.ac.jp/access/tsukuba-campus/globalvillage.html\n\n東南アジアに興味のある方、留学生と交流したい方はぜひお越しください。\n全…",
+            "date_modified": "2024-11-20T03:00:00.000Z"
+        },
+        {
             "id": "04acd5dcedd72a0c31d3447a2d25fe44",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5677",
             "title": "ロシア語・カザフ語短期語学研修（カザフスタン） 2025年2月 参加者募集",
@@ -128,20 +142,6 @@
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5656",
             "title": "※全学生対象【特別企画の参加企業を公開！！】11/19-22「筑波大生のキャリアイベント」（BHE主催）",
             "summary": "＼＼筑波大生のためのキャリアイベント開催！！／／\n-業界研究・インターンシップ研究会 編-\n\n期間　11/19（火）-22（金）\n時間　14：00-18：00\n会場　大学会館\n\n★特別企画「OB・OG相談会」を同会場（大学会館）で\n毎日2回（15：30-15：55、17：00-17：25）開催します！\n参加企業については添付ファイルを確認してください。（※11/14時点で一部確認・調整中の情報があ…",
-            "date_modified": "2024-11-14T03:00:00.000Z"
-        },
-        {
-            "id": "8935054f7d8e8dceb073569b30402da3",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5655",
-            "title": "【11/27(水)開催】人文社会科学研究群 公開講座「レキジン・アトリエ ～第2回 留学とフィールドワークの準備と実際～」のご案内",
-            "summary": "人文学学位プログラム歴史・人類学サブプログラムでは、\n今年度も毎月1回、全4回の公開講座「レキジン・アトリエ」を開催しています。\n\n大学院進学を検討している方や大学院での学修や進学後のキャリア形成について知りたいという学類生の皆さんに\n情報提供をおこなうと共に、文系大学院で学ぶということについて身近に考えてもらうことを目的にしています。\n\n第2回目は「留学とフィールドワークの準備と実際」をテーマに…",
-            "date_modified": "2024-11-14T03:00:00.000Z"
-        },
-        {
-            "id": "48d569a0e43007a3f28b4bd937412ffd",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5654",
-            "title": "大学院進学と就職を考えるセミナー　文系編",
-            "summary": "これは「大学院進学か就職か」について迷っている文系学生のためのセミナーです。大学院生の就活支援、キャリア支援サービスを手掛ける株式会社アカリクのキャリアサポーターであり、筑波大学OBでもある吉野宏志氏をお招きします。吉野氏は筑波大学人文社会科学研究科で言語学を専攻でした。今回は文系分野の学生に向けて大学院がどんな世界で何が得られるのか学群卒と大学院修了後のそれぞれの進路など大学院進学と就職のメリッ…",
             "date_modified": "2024-11-14T03:00:00.000Z"
         }
     ]
