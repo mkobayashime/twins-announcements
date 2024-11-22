@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "672799376e555cf6d935e135ede218df",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5690",
+            "title": "大学院進学と就職を考えるセミナー　理系編",
+            "summary": "このイベントは「大学院進学か就職か」について考えるセミナーです。理系特化型就活サイトを運営する株式会社Lab Base板倉氏を講師としてお招きして大学院進学のための心構えや必要な準備、博士後期課程まで含めた今後のキャリアパスについて解説いたします。\n\n【日時】　　 2024年11月27日(水)　17:00～18：00\n【場所】　　 オンライン(Zoom)　事前登録制※開催日前に申込者へリンクを送付…",
+            "date_modified": "2024-11-22T03:00:00.000Z"
+        },
+        {
             "id": "0ad120c3717fd64b3b0999440d00e0f5",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5689",
             "title": "【12/17開催】どうするの？ 未来の大学キャンパス 〜大学からまちづくりへ〜（筑波大学Visionシンポジウム）",
@@ -135,13 +142,6 @@
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5667",
             "title": "教育における生成AI活用のガイドライン2024",
             "summary": "生成AIを学修に活用していますか？大学では、皆さんの学びを支えるための「教育における生成AI活用のガイドライン2024（学生向け） 」を作成しました。\n\n・生成AIの基本的な仕組み\n・正しく、効果的に使うためのポイント\n・学生生活や授業等で活用する場合の注意点\n\nなどなど、ガイドラインを参照し、ルールを守って活用してください。\n",
-            "date_modified": "2024-11-18T03:00:00.000Z"
-        },
-        {
-            "id": "065c209bc9b036d8b34b20778c4317ba",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5666",
-            "title": "11月22日（金）8：40-10：40「Business Leaders’ Seminar/ビジネスリーダーズセミナー」開催のお知らせ （対象：全学生）",
-            "summary": "ヒューマンバイオロジー学位プログラムでは授業の一環として「Business Leaders’ Seminar/ビジネスリーダーズセミナー」を開催しています。\n本セミナーは、世界のトップビジネスリーダーを招き、オムニバス形式でキャリア形成やビジネスに関する成功と失敗の話などの経験を紹介するものです。\n\n11月22日（金）8：40-10：40に開催するセミナーでは、一般社団法人 日本CFO協会のFP&…",
             "date_modified": "2024-11-18T03:00:00.000Z"
         }
     ]

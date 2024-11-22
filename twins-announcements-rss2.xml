@@ -4,10 +4,20 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Fri, 22 Nov 2024 09:07:37 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Nov 2024 10:01:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
+        <item>
+            <title><![CDATA[大学院進学と就職を考えるセミナー　理系編]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5690</link>
+            <guid>672799376e555cf6d935e135ede218df</guid>
+            <pubDate>Fri, 22 Nov 2024 03:00:00 GMT</pubDate>
+            <description><![CDATA[このイベントは「大学院進学か就職か」について考えるセミナーです。理系特化型就活サイトを運営する株式会社Lab Base板倉氏を講師としてお招きして大学院進学のための心構えや必要な準備、博士後期課程まで含めた今後のキャリアパスについて解説いたします。
+
+【日時】　　 2024年11月27日(水)　17:00～18：00
+【場所】　　 オンライン(Zoom)　事前登録制※開催日前に申込者へリンクを送付…]]></description>
+        </item>
         <item>
             <title><![CDATA[【12/17開催】どうするの？ 未来の大学キャンパス 〜大学からまちづくりへ〜（筑波大学Visionシンポジウム）]]></title>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5689</link>
@@ -257,16 +267,6 @@ EY JAPAN株式会社、東京消防庁、富士通株式会社よりゲストを
 
 などなど、ガイドラインを参照し、ルールを守って活用してください。
 ]]></description>
-        </item>
-        <item>
-            <title><![CDATA[11月22日（金）8：40-10：40「Business Leaders’ Seminar/ビジネスリーダーズセミナー」開催のお知らせ （対象：全学生）]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5666</link>
-            <guid>065c209bc9b036d8b34b20778c4317ba</guid>
-            <pubDate>Mon, 18 Nov 2024 03:00:00 GMT</pubDate>
-            <description><![CDATA[ヒューマンバイオロジー学位プログラムでは授業の一環として「Business Leaders’ Seminar/ビジネスリーダーズセミナー」を開催しています。
-本セミナーは、世界のトップビジネスリーダーを招き、オムニバス形式でキャリア形成やビジネスに関する成功と失敗の話などの経験を紹介するものです。
-
-11月22日（金）8：40-10：40に開催するセミナーでは、一般社団法人 日本CFO協会のFP&…]]></description>
         </item>
     </channel>
 </rss>
