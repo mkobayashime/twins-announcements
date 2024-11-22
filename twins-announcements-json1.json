@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "14880c541a8818157151f248f9f1ae0a",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5686",
+            "title": "【芸術系】2024-2025国際交流協定校への交換留学（派遣）の一括募集について",
+            "summary": "11月25日（月）～12月13日（金）にかけて、芸術系に所属する学生を対象に、以下12校の国際交流協定校への短期派遣（1年以内）を希望する方を募集します。\n\n①  国立台湾科技大学（台湾）\n②  国立台湾芸術大学（台湾）\n③  中国美術学院（中国）\n④  ホーチミン市美術大学（ベトナム）\n⑤  ストラートデザイン大学（フランス）\n⑥  スウェーデン王立美術大学（スウェーデン）\n⑦  ヘルシンキ芸術…",
+            "date_modified": "2024-11-22T03:00:00.000Z"
+        },
+        {
             "id": "9f771bca603d7056f085a1fecf45469e",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5685",
             "title": "(BHE)公務員を目指す学生の皆さんへ　「桐公会（とうこうかい）」　・コミュニケーションツールのご案内",
@@ -136,13 +143,6 @@
             "title": "【見逃し配信】11/11開催　～トビタテ！留学JAPAN新・日本代表プログラム～　 ≪先輩の留学体験談発表≫",
             "summary": "11月11日（月）に開催された～トビタテ！留学JAPAN新・日本代表プログラム～　≪先輩の留学体験談発表≫に参加できなかった方々のため、学習管理システム「manaba」に録画を掲載しましたのでご案内いたします（2025年1月31日までご視聴いただけます）。\n\n　●録画の視聴方法\n１　manaba  にログインし、右のメニュー「自己登録について」内の「＞コースを検索して登録」をクリック\n２　コースコ…",
             "date_modified": "2024-11-18T03:00:00.000Z"
-        },
-        {
-            "id": "4e2138f1984c0d2fd52162207c5e9cd6",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5661",
-            "title": "＼締切迫る！グアダラハラ大学（メキシコ）への短期研修生募集！（2024年度TTPP短期研修）／",
-            "summary": "筑波トランスパシフィックプログラム（TTPP）短期研修プログラムへの参加者を募集しています！\n\n今年度の行先は、メキシコのグアダラハラ大学！\n「メキシコの治安って大丈夫？」「語学に自信がない」といった不安がある方も、基本的に全日程とも引率教員と他参加者と一緒に行動することになるため、一人でいきなり渡航するよりもだいぶハードルは低いはず。\n\n現地学生との交流、文化や歴史とのふれあい、日系企業等の訪問…",
-            "date_modified": "2024-11-15T03:00:00.000Z"
         }
     ]
 }
