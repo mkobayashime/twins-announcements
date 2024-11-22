@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "5a3cd70de1b7011cadf274558ae6a2bf",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5683",
+            "title": "令和6年度薬品・実験廃棄物管理研修会（教職員向け）",
+            "summary": "環境安全管理室では、有害廃棄物及び動物実験系廃棄物を取扱う教職員に対し、本学におけるルールを周知し安全安心な教育研究活動に資することを目的に研修会を開催しております。\n有害廃棄物及び動物実験系廃棄物を取扱う組織（附属病院及び附属学校等は除く）の廃棄物管理責任者は必ず受講くださるようお願いします。\nなお、後日オンデマンドでも開催することを申し添えます。\n\n　　　　　　　　　　　　　　　　　　　　　　…",
+            "date_modified": "2024-11-22T03:00:00.000Z"
+        },
+        {
             "id": "b388b771bdccfaf1d2f1d227c229a97d",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5682",
             "title": "【12/8開催】 「エジプト博物館事情－その多様性と包摂性について－」開催のご案内",
@@ -135,13 +142,6 @@
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5657",
             "title": "【周知】【茨城県警察本部生活安全総務課】いばらき防犯ファイルについて",
             "summary": "茨城県警察本部生活安全総務課よりいばらき防犯ファイル（令和６年１０月末）の送付がありましたので、添付のとおり掲載いたします。\n本ファイルは、県内で実際に発生した犯罪の情報のほか、防犯対策に役立つ情報が含まれております。ご自身の安全のためにも、ぜひご確認ください。\n",
-            "date_modified": "2024-11-14T03:00:00.000Z"
-        },
-        {
-            "id": "907f5af8f4eefc4e8d32e007131ab9cf",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5656",
-            "title": "※全学生対象【特別企画の参加企業を公開！！】11/19-22「筑波大生のキャリアイベント」（BHE主催）",
-            "summary": "＼＼筑波大生のためのキャリアイベント開催！！／／\n-業界研究・インターンシップ研究会 編-\n\n期間　11/19（火）-22（金）\n時間　14：00-18：00\n会場　大学会館\n\n★特別企画「OB・OG相談会」を同会場（大学会館）で\n毎日2回（15：30-15：55、17：00-17：25）開催します！\n参加企業については添付ファイルを確認してください。（※11/14時点で一部確認・調整中の情報があ…",
             "date_modified": "2024-11-14T03:00:00.000Z"
         }
     ]

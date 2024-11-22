@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/mkobayashime/twins-announcements</id>
     <title>在学生へのお知らせ | 筑波大学</title>
-    <updated>2024-11-21T21:06:42.247Z</updated>
+    <updated>2024-11-22T01:28:56.455Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://github.com/mkobayashime/twins-announcements"/>
     <subtitle>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</subtitle>
+    <entry>
+        <title type="html"><![CDATA[令和6年度薬品・実験廃棄物管理研修会（教職員向け）]]></title>
+        <id>5a3cd70de1b7011cadf274558ae6a2bf</id>
+        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5683"/>
+        <updated>2024-11-22T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[環境安全管理室では、有害廃棄物及び動物実験系廃棄物を取扱う教職員に対し、本学におけるルールを周知し安全安心な教育研究活動に資することを目的に研修会を開催しております。
+有害廃棄物及び動物実験系廃棄物を取扱う組織（附属病院及び附属学校等は除く）の廃棄物管理責任者は必ず受講くださるようお願いします。
+なお、後日オンデマンドでも開催することを申し添えます。
+
+　　　　　　　　　　　　　　　　　　　　　　…]]></summary>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【12/8開催】 「エジプト博物館事情－その多様性と包摂性について－」開催のご案内]]></title>
         <id>b388b771bdccfaf1d2f1d227c229a97d</id>
@@ -247,21 +258,5 @@ EY JAPAN株式会社、東京消防庁、富士通株式会社よりゲストを
         <summary type="html"><![CDATA[茨城県警察本部生活安全総務課よりいばらき防犯ファイル（令和６年１０月末）の送付がありましたので、添付のとおり掲載いたします。
 本ファイルは、県内で実際に発生した犯罪の情報のほか、防犯対策に役立つ情報が含まれております。ご自身の安全のためにも、ぜひご確認ください。
 ]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[※全学生対象【特別企画の参加企業を公開！！】11/19-22「筑波大生のキャリアイベント」（BHE主催）]]></title>
-        <id>907f5af8f4eefc4e8d32e007131ab9cf</id>
-        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5656"/>
-        <updated>2024-11-14T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[＼＼筑波大生のためのキャリアイベント開催！！／／
--業界研究・インターンシップ研究会 編-
-
-期間　11/19（火）-22（金）
-時間　14：00-18：00
-会場　大学会館
-
-★特別企画「OB・OG相談会」を同会場（大学会館）で
-毎日2回（15：30-15：55、17：00-17：25）開催します！
-参加企業については添付ファイルを確認してください。（※11/14時点で一部確認・調整中の情報があ…]]></summary>
     </entry>
 </feed>
