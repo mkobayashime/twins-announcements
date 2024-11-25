@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "9f771bca603d7056f085a1fecf45469e",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5694",
+            "title": "(BHE)公務員を目指す学生の皆さんへ　「桐公会（とうこうかい）」　・コミュニケーションツールのご案内",
+            "summary": "公務員を目指す皆さんへ\n\n筑波大学ではこの度、「公務員を志望する後輩を支援したい！」という意思を持った内定学生によって\n「桐公会（とうこうかい）」が立ち上げられました。(学生団体ではなく有志の集まりです。)\n\nBHEによるバックアップのもと桐公会は、これから公務員を目指す筑波大生の皆さんを応援するために、\n下記のような活動を予定しています。\n①公務員を目指す学生からの相談対応\n（試験対策・仕事につ…",
+            "date_modified": "2024-11-25T03:00:00.000Z"
+        },
+        {
             "id": "ea073ffa877225c834ca8f917e91a233",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5693",
             "title": "【奨学金/Scholarship】公益財団法人佐藤陽国際奨学財団 /Sato Yo International Scholarship Foundation",
@@ -135,13 +142,6 @@
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5672",
             "title": "【〆切直前！全学生向け】11/25開催Tsukuba Career Insight 2024（オンライン開催）",
             "summary": "キャリア支援セミナーのご案内です！\n\nEY JAPAN株式会社、東京消防庁、富士通株式会社よりゲストをお招きして、社会で活躍している障害のある方が自身のキャリアをどのように考え選択してきたのか、また、現在の働き方や生活の様子などをお話しいただきます。\n進路選択にお悩みの方、いろいろなキャリアパスを知りたい方など、有名企業・団体に就職した方のお話が聞ける貴重な機会になります！\n自分らしく働くことにつ…",
-            "date_modified": "2024-11-19T03:00:00.000Z"
-        },
-        {
-            "id": "a957b6a963f2affe16dde175cc681e94",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5671",
-            "title": "【全学生向け】「留学」と「就職」オンラインセミナー（11/20）",
-            "summary": "留学に興味はあるけど就活との両立が心配、留学を就活に活かす方法が知りたい、という方必見！\n株式会社マイナビでキャリアサポーターとして活躍されている講師が、筑波大生のためにオンラインセミナーを開催します！\n少しでも興味があれば、是非ご参加ください！\n\nタイトル：「留学」と「就職」\n対象者：留学検討者・留学経験者、グローバル就職に興味がある全ての学生\n講座内容：\n・グローバル人材に企業が求めること\n・…",
             "date_modified": "2024-11-19T03:00:00.000Z"
         }
     ]
