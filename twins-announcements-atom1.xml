@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/mkobayashime/twins-announcements</id>
     <title>在学生へのお知らせ | 筑波大学</title>
-    <updated>2024-11-25T00:02:54.286Z</updated>
+    <updated>2024-11-25T01:29:05.173Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://github.com/mkobayashime/twins-announcements"/>
     <subtitle>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</subtitle>
+    <entry>
+        <title type="html"><![CDATA[【奨学金/Scholarship】公益財団法人佐藤陽国際奨学財団 /Sato Yo International Scholarship Foundation]]></title>
+        <id>ea073ffa877225c834ca8f917e91a233</id>
+        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5693"/>
+        <updated>2024-11-25T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[公益財団法人　佐藤陽国際奨学財団 （2025年4月期・春募集）
+※応募前に「応募フロー・注意事項」をよく確認してください。
+①Web応募フォーム入力期限：2024年12月13日（金）正午
+※Web応募フォームに入力する際、学生交流課で発行する「管理番号」が必要です。
+（isc-shien#@#un.tsukuba.ac.jp）（#@#を「@」に置き換えてください）へメールし、番号を取得してください…]]></summary>
+    </entry>
     <entry>
         <title type="html"><![CDATA[（BHE)11月27日　オンライン面接練習会のご案内]]></title>
         <id>d4999e311486bd7b286e9947efbf333c</id>
@@ -255,19 +266,5 @@ EY JAPAN株式会社、東京消防庁、富士通株式会社よりゲストを
 講座内容：
 ・グローバル人材に企業が求めること
 ・…]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[教育における生成AI活用のガイドライン2024]]></title>
-        <id>f60eb46e0ab89da5055bc3d6a88659cf</id>
-        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5667"/>
-        <updated>2024-11-18T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[生成AIを学修に活用していますか？大学では、皆さんの学びを支えるための「教育における生成AI活用のガイドライン2024（学生向け） 」を作成しました。
-
-・生成AIの基本的な仕組み
-・正しく、効果的に使うためのポイント
-・学生生活や授業等で活用する場合の注意点
-
-などなど、ガイドラインを参照し、ルールを守って活用してください。
-]]></summary>
     </entry>
 </feed>
