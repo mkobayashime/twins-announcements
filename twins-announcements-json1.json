@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "2247eee5dd213015197fb0b89803f170",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5695",
+            "title": "大学院進学と就職を考えるセミナー　理系編 ※再掲",
+            "summary": "このイベントは「大学院進学か就職か」について考えるセミナーです。理系特化型就活サイトを運営する株式会社Lab Base板倉氏を講師としてお招きして大学院進学のための心構えや必要な準備、博士後期課程まで含めた今後のキャリアパスについて解説いたします。\n\n【日時】 2024年11月27日(水)　17:00～18：00\n【場所】 オンライン(Zoom)　事前登録制※開催日前に申込者へリンクを送付します\n…",
+            "date_modified": "2024-11-26T03:00:00.000Z"
+        },
+        {
             "id": "9f771bca603d7056f085a1fecf45469e",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5694",
             "title": "(BHE)公務員を目指す学生の皆さんへ　「桐公会（とうこうかい）」　・コミュニケーションツールのご案内",
@@ -136,13 +143,6 @@
             "title": "【全学生向け】「留学」と「就職」オンラインセミナー（11/20）",
             "summary": "留学に興味はあるけど就活との両立が心配、留学を就活に活かす方法が知りたい、という方必見！\n株式会社マイナビでキャリアサポーターとして活躍されている講師が、筑波大生のためにオンラインセミナーを開催します！\n少しでも興味があれば、是非ご参加ください！\n\nタイトル：「留学」と「就職」\n対象者：留学検討者・留学経験者、グローバル就職に興味がある全ての学生\n講座内容：\n・グローバル人材に企業が求めること\n・…",
             "date_modified": "2024-11-19T03:00:00.000Z"
-        },
-        {
-            "id": "f60eb46e0ab89da5055bc3d6a88659cf",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5667",
-            "title": "教育における生成AI活用のガイドライン2024",
-            "summary": "生成AIを学修に活用していますか？大学では、皆さんの学びを支えるための「教育における生成AI活用のガイドライン2024（学生向け） 」を作成しました。\n\n・生成AIの基本的な仕組み\n・正しく、効果的に使うためのポイント\n・学生生活や授業等で活用する場合の注意点\n\nなどなど、ガイドラインを参照し、ルールを守って活用してください。\n",
-            "date_modified": "2024-11-18T03:00:00.000Z"
         }
     ]
 }

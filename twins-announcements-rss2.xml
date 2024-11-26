@@ -4,10 +4,21 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Mon, 25 Nov 2024 21:06:43 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 26 Nov 2024 01:28:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
+        <item>
+            <title><![CDATA[大学院進学と就職を考えるセミナー　理系編 ※再掲]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5695</link>
+            <guid>2247eee5dd213015197fb0b89803f170</guid>
+            <pubDate>Tue, 26 Nov 2024 03:00:00 GMT</pubDate>
+            <description><![CDATA[このイベントは「大学院進学か就職か」について考えるセミナーです。理系特化型就活サイトを運営する株式会社Lab Base板倉氏を講師としてお招きして大学院進学のための心構えや必要な準備、博士後期課程まで含めた今後のキャリアパスについて解説いたします。
+
+【日時】 2024年11月27日(水)　17:00～18：00
+【場所】 オンライン(Zoom)　事前登録制※開催日前に申込者へリンクを送付します
+…]]></description>
+        </item>
         <item>
             <title><![CDATA[(BHE)公務員を目指す学生の皆さんへ　「桐公会（とうこうかい）」　・コミュニケーションツールのご案内]]></title>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5694</link>
@@ -262,20 +273,6 @@ BHEによるバックアップのもと桐公会は、これから公務員を�
 講座内容：
 ・グローバル人材に企業が求めること
 ・…]]></description>
-        </item>
-        <item>
-            <title><![CDATA[教育における生成AI活用のガイドライン2024]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5667</link>
-            <guid>f60eb46e0ab89da5055bc3d6a88659cf</guid>
-            <pubDate>Mon, 18 Nov 2024 03:00:00 GMT</pubDate>
-            <description><![CDATA[生成AIを学修に活用していますか？大学では、皆さんの学びを支えるための「教育における生成AI活用のガイドライン2024（学生向け） 」を作成しました。
-
-・生成AIの基本的な仕組み
-・正しく、効果的に使うためのポイント
-・学生生活や授業等で活用する場合の注意点
-
-などなど、ガイドラインを参照し、ルールを守って活用してください。
-]]></description>
         </item>
     </channel>
 </rss>
