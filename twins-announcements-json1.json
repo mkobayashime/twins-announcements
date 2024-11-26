@@ -5,6 +5,20 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "78c02b4ba37ff171abfcdd2006e02f7f",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5697",
+            "title": "第182回バイオeカフェ開催のお知らせ",
+            "summary": "生物学類主催のサイエンスカフェ第182回「バイオeカフェ」を以下のとおり開催いたします。\n\nテーマ：昆虫の体内に住んで性や生殖を操るバクテリア\n（農研機構 生物機能利用研究部門 昆虫制御技術グループ 　陰山大輔先生）\n\n日時：12月10日（火）18時30分～20時00分\n場所：2B210もしくはオンライン（Teams）\n\n・対面で参加される方\n参加費100円/事前申込不要\n当日は会場 ( 筑波大学…",
+            "date_modified": "2024-11-26T03:00:00.000Z"
+        },
+        {
+            "id": "9c4431e60120812edc5753331f3bd132",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5696",
+            "title": "学群3年次対象TOEIC® L&R IPテスト(オンライン)受験について※再掲　なるべく本日11/26までに受験してください。",
+            "summary": "学群３年次生対象 TOEIC® L&R IPテスト(オンライン）を１１月２２日から実施しています。\n\n◆受験期間◆\n　　令和６年１１月２２日（金）　０：００　から\n　　令和６年１１月２９日（金）２３：５９　まで\n\n　　※１１月２７日～２９日の３日は通信不具合者等の受験予備期間として設定しています。\n　　　通信トラブル等を考慮し、なるべく１１月２６日（火）までに受験するようにしてください。\n　　　都…",
+            "date_modified": "2024-11-26T03:00:00.000Z"
+        },
+        {
             "id": "2247eee5dd213015197fb0b89803f170",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5695",
             "title": "大学院進学と就職を考えるセミナー　理系編 ※再掲",
@@ -128,20 +142,6 @@
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5675",
             "title": "校友会×全代会　合同企画　就職支援イベントのご案内",
             "summary": "筑波大学校友会は、「校友会×全代会　合同企画　就職支援イベント」を開催いたします。\n「総合科目：卒業生による業界探訪」に履修登録のない方も、どなたでも参加可能です！\n\n日時：令和6年11月26日（火）16:45～18：00\n場所： ID201教室\n内容：本学卒業生で、NHK解説委員の神子田氏をお招きし、放送業界について講義をしていただきます。\n　　　講義のあとは質疑応答も可能です。\n　　　放送業界…",
-            "date_modified": "2024-11-19T03:00:00.000Z"
-        },
-        {
-            "id": "8959ae4ffc6913495bf82a3ae6343faf",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5673",
-            "title": "本日から開催！【全学生対象】「筑波大生のキャリアイベント」（BHE主催）",
-            "summary": "大学会館にて、全学生対象の「筑波大生のキャリアイベント」を開催します。\n筑波大OBOGや企業の方と、気軽にお話をすることができます。この機会をお見逃しなく！\n\n期間　11/19（火）-22（金）\n時間　14：00-18：00\n会場　大学会館\n\n★特別企画「OB・OG相談会」\n・同会場で毎日2回開催（15：30-15：55、17：00-17：25）\n・本日のOBOG企画 参加企業⇒いすず自動車／オー…",
-            "date_modified": "2024-11-19T03:00:00.000Z"
-        },
-        {
-            "id": "a957b6a963f2affe16dde175cc681e94",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5671",
-            "title": "【全学生向け】「留学」と「就職」オンラインセミナー（11/20）",
-            "summary": "留学に興味はあるけど就活との両立が心配、留学を就活に活かす方法が知りたい、という方必見！\n株式会社マイナビでキャリアサポーターとして活躍されている講師が、筑波大生のためにオンラインセミナーを開催します！\n少しでも興味があれば、是非ご参加ください！\n\nタイトル：「留学」と「就職」\n対象者：留学検討者・留学経験者、グローバル就職に興味がある全ての学生\n講座内容：\n・グローバル人材に企業が求めること\n・…",
             "date_modified": "2024-11-19T03:00:00.000Z"
         }
     ]
