@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "75ff47609f546cd3cc3ffa59614ba796",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5706",
+            "title": "学生相談室で実施する研究に関するお知らせ",
+            "summary": "この度、学生相談室では、学生の皆さんにフレッシュマンセミナー／ファーストイヤーセミナーの中でご回答いただいた「新入生用学生相談室アンケート」の回答内容を用いて、新入生の回答の入学年度による変化を検討いたします（タイトルは「大学新入生のメンタルヘルスの継時的変化の検討」です）。\n\n学籍番号や氏名などの個人を特定するような情報は、研究には使用しません。\n詳細なご説明は添付ファイルをご確認ください。\n\n…",
+            "date_modified": "2024-11-27T03:00:00.000Z"
+        },
+        {
             "id": "38bb8b4801d8ba17581c277ea914a345",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5705",
             "title": "筑波大学公式オリジナルグッズECサイト割引クーポンのお知らせ（12月） 2024/12/1～2024/12/31",
@@ -135,13 +142,6 @@
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5685",
             "title": "(BHE)公務員を目指す学生の皆さんへ　「桐公会（とうこうかい）」　・コミュニケーションツールのご案内",
             "summary": "公務員を目指す皆さんへ\n\n筑波大学ではこの度、「公務員を志望する後輩を支援したい！」という意思を持った内定学生によって\n「桐公会（とうこうかい）」が立ち上げられました。(学生団体ではなく有志の集まりです。)\n\nBHEによるバックアップのもと桐公会は、これから公務員を目指す筑波大生の皆さんを応援するために、\n下記のような活動を予定しています。\n①公務員を目指す学生からの相談対応\n（試験対策・仕事につ…",
-            "date_modified": "2024-11-22T03:00:00.000Z"
-        },
-        {
-            "id": "02d81fd9b59245f87b1c861d864e9e4c",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5684",
-            "title": "【本日11/22(金)開始！】学群３年次生対象TOEIC IPテスト(オンライン）受験について※重要※",
-            "summary": "学群３年次生対象 TOEIC® L&R IPテスト(オンライン)は本日１１月２２日(金)から受験できます。\n\n受験対象者に個別のメール連絡はありません。\n各自で受験方法・資料を確認し、「受験者サイト」からログインの上受験してください。\n（受験対象者以外はログインできません）\n「受験者サイト」、マニュアル等の受験詳細はCEGLOCのHPに掲載しています。\n\n◆CEGLOC HP◆\n　令和６年度 学群…",
             "date_modified": "2024-11-22T03:00:00.000Z"
         }
     ]
