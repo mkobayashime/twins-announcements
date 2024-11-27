@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "38bb8b4801d8ba17581c277ea914a345",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5705",
+            "title": "筑波大学公式オリジナルグッズECサイト割引クーポンのお知らせ（12月） 2024/12/1～2024/12/31",
+            "summary": "筑波大学公式オリジナルグッズ販売サイト「TSUKUBA-SHOP」12月の割引クーポンコードをお知らせいたします！\n\nクーポンコード　：　tsjan12298n32\n有効期間　：　2024年12月1日～2024年12月31日\n\n\nどうぞご覧いただき、皆様の「日常生活」、「思い出」、「プレゼント🎁」などにご活用いただけますと幸いです。\n\nECサイトは以下のリンクから\n※学内専用割引コードをTWIN…",
+            "date_modified": "2024-11-27T03:00:00.000Z"
+        },
+        {
             "id": "48d569a0e43007a3f28b4bd937412ffd",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5704",
             "title": "大学院進学と就職を考えるセミナー　文系編",
@@ -135,13 +142,6 @@
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5684",
             "title": "【本日11/22(金)開始！】学群３年次生対象TOEIC IPテスト(オンライン）受験について※重要※",
             "summary": "学群３年次生対象 TOEIC® L&R IPテスト(オンライン)は本日１１月２２日(金)から受験できます。\n\n受験対象者に個別のメール連絡はありません。\n各自で受験方法・資料を確認し、「受験者サイト」からログインの上受験してください。\n（受験対象者以外はログインできません）\n「受験者サイト」、マニュアル等の受験詳細はCEGLOCのHPに掲載しています。\n\n◆CEGLOC HP◆\n　令和６年度 学群…",
-            "date_modified": "2024-11-22T03:00:00.000Z"
-        },
-        {
-            "id": "5a3cd70de1b7011cadf274558ae6a2bf",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5683",
-            "title": "令和6年度薬品・実験廃棄物管理研修会（教職員向け）",
-            "summary": "環境安全管理室では、有害廃棄物及び動物実験系廃棄物を取扱う教職員に対し、本学におけるルールを周知し安全安心な教育研究活動に資することを目的に研修会を開催しております。\n有害廃棄物及び動物実験系廃棄物を取扱う組織（附属病院及び附属学校等は除く）の廃棄物管理責任者は必ず受講くださるようお願いします。\nなお、後日オンデマンドでも開催することを申し添えます。\n\n　　　　　　　　　　　　　　　　　　　　　　…",
             "date_modified": "2024-11-22T03:00:00.000Z"
         }
     ]
