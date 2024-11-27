@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "368c2c2a668fe885b880d8bbe91e0dfb",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5702",
+            "title": "＼残り２日／学群3年次生対象TOEIC® L&R IPテスト(オンライン）受験について　※11/29（金）まで！必ず受験してください。（再掲）",
+            "summary": "学群３年次生対象 TOEIC® L&R IPテスト(オンライン）を１１月２２日から実施しています。\n受験可能期間は１１月２９日（金）まで、あと２日です！\n受験が完了していない学生は１１月２９日（金）までに受験を完了するようにしてください。\n\n◆受験期間◆\n　　令和６年１１月２２日（金）　０：００　から\n　　令和６年１１月２９日（金）２３：５９　まで\n\n　　　トラブル対処の窓口は１７時までです。回答…",
+            "date_modified": "2024-11-28T03:00:00.000Z"
+        },
+        {
             "id": "a537c094a231ab13d5077b8e53ee6cc6",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5708",
             "title": "【Free for Students!】 HONO Quartet (The 15th Tsukuba Recital Series)",
@@ -47,13 +54,6 @@
             "date_modified": "2024-11-27T03:00:00.000Z"
         },
         {
-            "id": "190b34829b8706514764520179420d9b",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5701",
-            "title": "【BHE】【本日開催】大学院進学と就職を考えるセミナー　理系編 ※再掲",
-            "summary": "このイベントは「大学院進学か就職か」について考えるセミナーです。理系特化型就活サイトを運営する株式会社Lab Base板倉氏を講師としてお招きして大学院進学のための心構えや必要な準備、博士後期課程まで含めた今後のキャリアパスについて解説いたします。\n\n【日時】 2024年11月27日(水)　17:00～18：00\n【場所】 オンライン(Zoom)　事前登録制※開催日前に申込者へリンクを送付します\n…",
-            "date_modified": "2024-11-27T03:00:00.000Z"
-        },
-        {
             "id": "c7a991279e027e82d2134e41e436c64f",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5700",
             "title": "学内GD練習会のご案内",
@@ -89,13 +89,6 @@
             "date_modified": "2024-11-26T03:00:00.000Z"
         },
         {
-            "id": "2247eee5dd213015197fb0b89803f170",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5695",
-            "title": "大学院進学と就職を考えるセミナー　理系編 ※再掲",
-            "summary": "このイベントは「大学院進学か就職か」について考えるセミナーです。理系特化型就活サイトを運営する株式会社Lab Base板倉氏を講師としてお招きして大学院進学のための心構えや必要な準備、博士後期課程まで含めた今後のキャリアパスについて解説いたします。\n\n【日時】 2024年11月27日(水)　17:00～18：00\n【場所】 オンライン(Zoom)　事前登録制※開催日前に申込者へリンクを送付します\n…",
-            "date_modified": "2024-11-26T03:00:00.000Z"
-        },
-        {
             "id": "9f771bca603d7056f085a1fecf45469e",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5694",
             "title": "(BHE)公務員を目指す学生の皆さんへ　「桐公会（とうこうかい）」　・コミュニケーションツールのご案内",
@@ -117,13 +110,6 @@
             "date_modified": "2024-11-25T03:00:00.000Z"
         },
         {
-            "id": "f7e5c4dc1ece4147cbde4ed3df16263e",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5691",
-            "title": "サーバー更新作業に伴うキャリア支援チームHP及び就職情報提供システム停止のお知らせ",
-            "summary": "サーバー更新作業に伴い、下記の時間、キャリア支援チームホームページ等へ繋がりにくくなります。\n【作業日時】11/27（水）9：00　～　13：15（予定）\n\nなお、サーバー更新作業中は、「学内専用ページ」、「ガイダンス等及び模試試験登録・申請」、「進路進捗状況届」へのアクセスはできません。\n皆様にはご迷惑をおかけいたしますが、ご理解、ご協力の程よろしくお願いいたします。\n",
-            "date_modified": "2024-11-22T03:00:00.000Z"
-        },
-        {
             "id": "0ad120c3717fd64b3b0999440d00e0f5",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5689",
             "title": "【12/17開催】どうするの？ 未来の大学キャンパス 〜大学からまちづくりへ〜（筑波大学Visionシンポジウム）",
@@ -142,6 +128,20 @@
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5687",
             "title": "【12/5開催】研究者ウェルビーイングワークショップ",
             "summary": "ヒューマンエンパワーメント推進局主催、研究戦略イニシアティブ推進機構研究マネジメント室共催で、研究者の研究と生活におけるウェルビーイングを考えるワークショップを開催します。\n\n参加者の皆さんで小グループを作り、自分にとっての「理想の研究ライフ」と「悩み」を分かち合いながら、「ウェルビーイングな状態で生きることを実現するためにできることを一緒に考える」ことが趣旨のイベントです。\n\n研究者として生きる…",
+            "date_modified": "2024-11-22T03:00:00.000Z"
+        },
+        {
+            "id": "14880c541a8818157151f248f9f1ae0a",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5686",
+            "title": "【芸術系】2024-2025国際交流協定校への交換留学（派遣）の一括募集について",
+            "summary": "11月25日（月）～12月13日（金）にかけて、芸術系に所属する学生を対象に、以下12校の国際交流協定校への短期派遣（1年以内）を希望する方を募集します。\n\n①  国立台湾科技大学（台湾）\n②  国立台湾芸術大学（台湾）\n③  中国美術学院（中国）\n④  ホーチミン市美術大学（ベトナム）\n⑤  ストラートデザイン大学（フランス）\n⑥  スウェーデン王立美術大学（スウェーデン）\n⑦  ヘルシンキ芸術…",
+            "date_modified": "2024-11-22T03:00:00.000Z"
+        },
+        {
+            "id": "9f771bca603d7056f085a1fecf45469e",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5685",
+            "title": "(BHE)公務員を目指す学生の皆さんへ　「桐公会（とうこうかい）」　・コミュニケーションツールのご案内",
+            "summary": "公務員を目指す皆さんへ\n\n筑波大学ではこの度、「公務員を志望する後輩を支援したい！」という意思を持った内定学生によって\n「桐公会（とうこうかい）」が立ち上げられました。(学生団体ではなく有志の集まりです。)\n\nBHEによるバックアップのもと桐公会は、これから公務員を目指す筑波大生の皆さんを応援するために、\n下記のような活動を予定しています。\n①公務員を目指す学生からの相談対応\n（試験対策・仕事につ…",
             "date_modified": "2024-11-22T03:00:00.000Z"
         }
     ]
