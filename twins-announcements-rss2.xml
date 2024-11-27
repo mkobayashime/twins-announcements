@@ -4,10 +4,17 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Wed, 27 Nov 2024 04:01:44 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Nov 2024 05:01:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
+        <item>
+            <title><![CDATA[大学院進学と就職を考えるセミナー　文系編]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5704</link>
+            <guid>48d569a0e43007a3f28b4bd937412ffd</guid>
+            <pubDate>Wed, 27 Nov 2024 03:00:00 GMT</pubDate>
+            <description><![CDATA[これは「大学院進学か就職か」について迷っている文系学生のためのセミナーです。大学院生の就活支援、キャリア支援サービスを手掛ける株式会社アカリクのキャリアサポーターであり、筑波大学OBでもある吉野宏志氏をお招きします。吉野氏は筑波大学人文社会科学研究科で言語学を専攻でした。今回は文系分野の学生に向けて大学院がどんな世界で何が得られるのか学群卒と大学院修了後のそれぞれの進路など大学院進学と就職のメリッ…]]></description>
+        </item>
         <item>
             <title><![CDATA[12/11(水) 15:00~ 国際学生ワークショップ・交流会「Information for pushing boundaries of our future（情報が拓く未来への展望）」]]></title>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5703</link>
@@ -256,18 +263,6 @@ BHEによるバックアップのもと桐公会は、これから公務員を�
 なお、後日オンデマンドでも開催することを申し添えます。
 
 　　　　　　　　　　　　　　　　　　　　　　…]]></description>
-        </item>
-        <item>
-            <title><![CDATA[【12/8開催】 「エジプト博物館事情－その多様性と包摂性について－」開催のご案内]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5682</link>
-            <guid>b388b771bdccfaf1d2f1d227c229a97d</guid>
-            <pubDate>Wed, 20 Nov 2024 03:00:00 GMT</pubDate>
-            <description><![CDATA[文化庁による令和6年度Innovate MUSEUM事業「国際連携による博物館の多様性・包摂性推進事業」の一環として、
-「エジプト博物館事情－その多様性と包摂性について－」と題して講演会（研修会）が開催されます。
-
-博物館実習の受入施設が数多く参画されている企画となっており、博物館学ご担当や博物館事業に興味をお持ちの先生方、
-学芸員を志す学生など、広く参加者を募っています。
-(参画施設：国立科学博…]]></description>
         </item>
     </channel>
 </rss>

@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "48d569a0e43007a3f28b4bd937412ffd",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5704",
+            "title": "大学院進学と就職を考えるセミナー　文系編",
+            "summary": "これは「大学院進学か就職か」について迷っている文系学生のためのセミナーです。大学院生の就活支援、キャリア支援サービスを手掛ける株式会社アカリクのキャリアサポーターであり、筑波大学OBでもある吉野宏志氏をお招きします。吉野氏は筑波大学人文社会科学研究科で言語学を専攻でした。今回は文系分野の学生に向けて大学院がどんな世界で何が得られるのか学群卒と大学院修了後のそれぞれの進路など大学院進学と就職のメリッ…",
+            "date_modified": "2024-11-27T03:00:00.000Z"
+        },
+        {
             "id": "f7ccf2e0df1fbbdba14aece1f3245bf8",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5703",
             "title": "12/11(水) 15:00~ 国際学生ワークショップ・交流会「Information for pushing boundaries of our future（情報が拓く未来への展望）」",
@@ -136,13 +143,6 @@
             "title": "令和6年度薬品・実験廃棄物管理研修会（教職員向け）",
             "summary": "環境安全管理室では、有害廃棄物及び動物実験系廃棄物を取扱う教職員に対し、本学におけるルールを周知し安全安心な教育研究活動に資することを目的に研修会を開催しております。\n有害廃棄物及び動物実験系廃棄物を取扱う組織（附属病院及び附属学校等は除く）の廃棄物管理責任者は必ず受講くださるようお願いします。\nなお、後日オンデマンドでも開催することを申し添えます。\n\n　　　　　　　　　　　　　　　　　　　　　　…",
             "date_modified": "2024-11-22T03:00:00.000Z"
-        },
-        {
-            "id": "b388b771bdccfaf1d2f1d227c229a97d",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5682",
-            "title": "【12/8開催】 「エジプト博物館事情－その多様性と包摂性について－」開催のご案内",
-            "summary": "文化庁による令和6年度Innovate MUSEUM事業「国際連携による博物館の多様性・包摂性推進事業」の一環として、\n「エジプト博物館事情－その多様性と包摂性について－」と題して講演会（研修会）が開催されます。\n\n博物館実習の受入施設が数多く参画されている企画となっており、博物館学ご担当や博物館事業に興味をお持ちの先生方、\n学芸員を志す学生など、広く参加者を募っています。\n(参画施設：国立科学博…",
-            "date_modified": "2024-11-20T03:00:00.000Z"
         }
     ]
 }
