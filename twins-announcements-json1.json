@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "98310cd28c538b6cd07348c8007561c9",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5712",
+            "title": "【令和6年度卒業･修了予定者の皆様へ】「進路進捗状況届」登録のお願い",
+            "summary": "学群・大学院の最終年次に在籍している全学生を対象に、自身の進路を届け出る「進路進捗状況届」の登録をお願いしています。\n就職・進学に限らず、資格試験等準備、職務復帰、家事手伝い、留年、帰国などすべての進路先が対象です。\n卒業・修了後の進路が決まりましたら、キャリア支援チームWebサイト内「進路進捗状況届」から進路を入力のうえ、決定処理をしてください。\nなお、決定処理は複数の進路先を入力されている場合…",
+            "date_modified": "2024-11-29T03:00:00.000Z"
+        },
+        {
             "id": "6459cf7f716b0fc0066dc9596dc81804",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5711",
             "title": "【再掲】2024/12/5, 12 (Thu) Seminar: Olympic Movement in Taiwan",
@@ -135,13 +142,6 @@
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5688",
             "title": "11月29日（金）8：40-10：40「Business Leaders’ Seminar/ビジネスリーダーズセミナー」開催のお知らせ （対象：全学生）",
             "summary": "ヒューマンバイオロジー学位プログラムでは授業の一環として「Business Leaders’ Seminar/ビジネスリーダーズセミナー」を開催しています。\n本セミナーは、世界のトップビジネスリーダーを招き、オムニバス形式でキャリア形成やビジネスに関する成功と失敗の話などの経験を紹介するものです。\n\n11月29日（金）8：40-10：40に開催するセミナーでは、株式会社ナノルクス 代表取締役社長　…",
-            "date_modified": "2024-11-22T03:00:00.000Z"
-        },
-        {
-            "id": "bac1461a3f6b521027c1821a46f2b797",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5687",
-            "title": "【12/5開催】研究者ウェルビーイングワークショップ",
-            "summary": "ヒューマンエンパワーメント推進局主催、研究戦略イニシアティブ推進機構研究マネジメント室共催で、研究者の研究と生活におけるウェルビーイングを考えるワークショップを開催します。\n\n参加者の皆さんで小グループを作り、自分にとっての「理想の研究ライフ」と「悩み」を分かち合いながら、「ウェルビーイングな状態で生きることを実現するためにできることを一緒に考える」ことが趣旨のイベントです。\n\n研究者として生きる…",
             "date_modified": "2024-11-22T03:00:00.000Z"
         }
     ]
