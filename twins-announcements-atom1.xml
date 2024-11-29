@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/mkobayashime/twins-announcements</id>
     <title>在学生へのお知らせ | 筑波大学</title>
-    <updated>2024-11-29T01:28:54.972Z</updated>
+    <updated>2024-11-29T06:02:08.764Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://github.com/mkobayashime/twins-announcements"/>
     <subtitle>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</subtitle>
+    <entry>
+        <title type="html"><![CDATA[【再掲】2024/12/5, 12 (Thu) Seminar: Olympic Movement in Taiwan]]></title>
+        <id>6459cf7f716b0fc0066dc9596dc81804</id>
+        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5711"/>
+        <updated>2024-11-29T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[このコースは英語で行われます。This seminar is in English.
+
+■Date and Time: December 5th, 12th (Thu) 13:00-14:20 ※時間が変更になりました。
+
+■Speaker: Professor Leo HSU, National Taiwan University of Sport
+               （許立宏教授： …]]></summary>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【本日11/29(金)最終日です！】学群３年次生対象 TOEIC® L&R IPテスト(オンライン）　全員必ず受験してください！]]></title>
         <id>993eccabf2ba9228731cbc99dfc4a68c</id>
@@ -254,20 +266,5 @@ BHE HP「イベントコンテンツ動画・資料…]]></summary>
 参加者の皆さんで小グループを作り、自分にとっての「理想の研究ライフ」と「悩み」を分かち合いながら、「ウェルビーイングな状態で生きることを実現するためにできることを一緒に考える」ことが趣旨のイベントです。
 
 研究者として生きる…]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【芸術系】2024-2025国際交流協定校への交換留学（派遣）の一括募集について]]></title>
-        <id>14880c541a8818157151f248f9f1ae0a</id>
-        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5686"/>
-        <updated>2024-11-22T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[11月25日（月）～12月13日（金）にかけて、芸術系に所属する学生を対象に、以下12校の国際交流協定校への短期派遣（1年以内）を希望する方を募集します。
-
-①  国立台湾科技大学（台湾）
-②  国立台湾芸術大学（台湾）
-③  中国美術学院（中国）
-④  ホーチミン市美術大学（ベトナム）
-⑤  ストラートデザイン大学（フランス）
-⑥  スウェーデン王立美術大学（スウェーデン）
-⑦  ヘルシンキ芸術…]]></summary>
     </entry>
 </feed>
