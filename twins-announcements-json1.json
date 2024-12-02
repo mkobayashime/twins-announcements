@@ -5,6 +5,20 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "b9e7c376b771e31792be25b31f9dc966",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5715",
+            "title": "2025年度第17期トビタテ！留学JAPAN新・日本代表プログラムの募集について（学内応募締切：2025年1月31日（金））",
+            "summary": "第17期官民協働海外留学支援制度～トビタテ！留学JAPAN新・日本代表プログラム～応募申請の手引きが公開され、応募申請システムへの入力が開始されますので、お知らせいたします。\n　申請希望者は「募集要項」を熟読のうえ、「応募申請の手引き」及び大学の指示に従って申請してください。\n■募集要項\nhttps://tobitate-mext.jasso.go.jp/newprogram/assets/pdf…",
+            "date_modified": "2024-12-02T03:00:00.000Z"
+        },
+        {
+            "id": "ed7d0be3d9195922485a5e8e04b643b7",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5714",
+            "title": "12月5日（木）12：00-13：30「Business Leaders’ Seminar/ビジネスリーダーズセミナー」開催のお知らせ （対象：全学生）",
+            "summary": "ヒューマンバイオロジー学位プログラムでは授業の一環として「Business Leaders’ Seminar/ビジネスリーダーズセミナー」を開催しています。\n本セミナーは、世界のトップビジネスリーダーを招き、オムニバス形式でキャリア形成やビジネスに関する成功と失敗の話などの経験を紹介するものです。\n\n12月5日（木）12：00-13：30に開催するセミナーでは、株式会社株式会社ミツカリ　代表取締役…",
+            "date_modified": "2024-12-02T03:00:00.000Z"
+        },
+        {
             "id": "0fba5fb64c3fde32895547b4b730591b",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5713",
             "title": "（BHE)面接・GD 対面練習会のお知らせ",
@@ -128,20 +142,6 @@
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5688",
             "title": "11月29日（金）8：40-10：40「Business Leaders’ Seminar/ビジネスリーダーズセミナー」開催のお知らせ （対象：全学生）",
             "summary": "ヒューマンバイオロジー学位プログラムでは授業の一環として「Business Leaders’ Seminar/ビジネスリーダーズセミナー」を開催しています。\n本セミナーは、世界のトップビジネスリーダーを招き、オムニバス形式でキャリア形成やビジネスに関する成功と失敗の話などの経験を紹介するものです。\n\n11月29日（金）8：40-10：40に開催するセミナーでは、株式会社ナノルクス 代表取締役社長　…",
-            "date_modified": "2024-11-22T03:00:00.000Z"
-        },
-        {
-            "id": "bac1461a3f6b521027c1821a46f2b797",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5687",
-            "title": "【12/5開催】研究者ウェルビーイングワークショップ",
-            "summary": "ヒューマンエンパワーメント推進局主催、研究戦略イニシアティブ推進機構研究マネジメント室共催で、研究者の研究と生活におけるウェルビーイングを考えるワークショップを開催します。\n\n参加者の皆さんで小グループを作り、自分にとっての「理想の研究ライフ」と「悩み」を分かち合いながら、「ウェルビーイングな状態で生きることを実現するためにできることを一緒に考える」ことが趣旨のイベントです。\n\n研究者として生きる…",
-            "date_modified": "2024-11-22T03:00:00.000Z"
-        },
-        {
-            "id": "14880c541a8818157151f248f9f1ae0a",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5686",
-            "title": "【芸術系】2024-2025国際交流協定校への交換留学（派遣）の一括募集について",
-            "summary": "11月25日（月）～12月13日（金）にかけて、芸術系に所属する学生を対象に、以下12校の国際交流協定校への短期派遣（1年以内）を希望する方を募集します。\n\n①  国立台湾科技大学（台湾）\n②  国立台湾芸術大学（台湾）\n③  中国美術学院（中国）\n④  ホーチミン市美術大学（ベトナム）\n⑤  ストラートデザイン大学（フランス）\n⑥  スウェーデン王立美術大学（スウェーデン）\n⑦  ヘルシンキ芸術…",
             "date_modified": "2024-11-22T03:00:00.000Z"
         }
     ]
