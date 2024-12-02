@@ -4,10 +4,17 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Mon, 02 Dec 2024 02:29:28 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 02 Dec 2024 03:16:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
+        <item>
+            <title><![CDATA[大学院進学と就職を考えるセミナー　文系編 ※再掲]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5717</link>
+            <guid>ef528f960e1f68f8f29c995d039f9223</guid>
+            <pubDate>Mon, 02 Dec 2024 03:00:00 GMT</pubDate>
+            <description><![CDATA[これは「大学院進学か就職か」について迷っている文系学生のためのセミナーです。大学院生の就活支援、キャリア支援サービスを手掛ける株式会社アカリクのキャリアサポーターであり、筑波大学OBでもある吉野宏志氏をお招きします。吉野氏は筑波大学人文社会科学研究科で言語学を専攻でした。今回は文系分野の学生に向けて大学院がどんな世界で何が得られるのか学群卒と大学院修了後のそれぞれの進路など大学院進学と就職のメリッ…]]></description>
+        </item>
         <item>
             <title><![CDATA[天久保歩道橋修繕工事に伴う通行止め(1月6日~)／Road Closure due to Amakubo Pedestrian Repair Work (from January 6)]]></title>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5716</link>
@@ -254,18 +261,6 @@ BHEキャリア支援チームのファシリテーターからフィードバ�
 11月27日（水）
 集団面接編　10：00-11：30
 BHE HP「イベントコンテンツ動画・資料…]]></description>
-        </item>
-        <item>
-            <title><![CDATA[【12/17開催】どうするの？ 未来の大学キャンパス 〜大学からまちづくりへ〜（筑波大学Visionシンポジウム）]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5689</link>
-            <guid>0ad120c3717fd64b3b0999440d00e0f5</guid>
-            <pubDate>Fri, 22 Nov 2024 03:00:00 GMT</pubDate>
-            <description><![CDATA[つくば市が大学等との協働で進めている「つくばスーパーサイエンスシティ構想」の取組を踏まえて、教職員・学生それぞれの立場から未来のキャンパスのあるべき姿や、大学が地域に対して果たすべき役割について考えるシンポジウムを開催します。
-
-【シンポジウム概要】
-名　称：どうするの？ 未来の大学キャンパス ～大学からまちづくりへ～
-日　時：令和６年12月17日（火） 16時00分～18時00分
-場　所：3B棟…]]></description>
         </item>
     </channel>
 </rss>

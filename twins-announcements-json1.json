@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "ef528f960e1f68f8f29c995d039f9223",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5717",
+            "title": "大学院進学と就職を考えるセミナー　文系編 ※再掲",
+            "summary": "これは「大学院進学か就職か」について迷っている文系学生のためのセミナーです。大学院生の就活支援、キャリア支援サービスを手掛ける株式会社アカリクのキャリアサポーターであり、筑波大学OBでもある吉野宏志氏をお招きします。吉野氏は筑波大学人文社会科学研究科で言語学を専攻でした。今回は文系分野の学生に向けて大学院がどんな世界で何が得られるのか学群卒と大学院修了後のそれぞれの進路など大学院進学と就職のメリッ…",
+            "date_modified": "2024-12-02T03:00:00.000Z"
+        },
+        {
             "id": "758f01f38e62bb33ec8d2e8d42d1d39b",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5716",
             "title": "天久保歩道橋修繕工事に伴う通行止め(1月6日~)／Road Closure due to Amakubo Pedestrian Repair Work (from January 6)",
@@ -136,13 +143,6 @@
             "title": "（BHE)11月27日　オンライン面接練習会のご案内",
             "summary": "BHE主催　就活支援企画　オンライン面接練習会\n\n就活に即役立つ、面接・GD練習会です。27日にオンラインでも開催します。\n就活中の方、ISの選考を受ける方、参加して役立ててください。\nBHEキャリア支援チームのファシリテーターからフィードバックがあります。（日本語での開催です）\n\n【詳細と申込み】\n11月27日（水）\n集団面接編　10：00-11：30\nBHE HP「イベントコンテンツ動画・資料…",
             "date_modified": "2024-11-25T03:00:00.000Z"
-        },
-        {
-            "id": "0ad120c3717fd64b3b0999440d00e0f5",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5689",
-            "title": "【12/17開催】どうするの？ 未来の大学キャンパス 〜大学からまちづくりへ〜（筑波大学Visionシンポジウム）",
-            "summary": "つくば市が大学等との協働で進めている「つくばスーパーサイエンスシティ構想」の取組を踏まえて、教職員・学生それぞれの立場から未来のキャンパスのあるべき姿や、大学が地域に対して果たすべき役割について考えるシンポジウムを開催します。\n\n【シンポジウム概要】\n名　称：どうするの？ 未来の大学キャンパス ～大学からまちづくりへ～\n日　時：令和６年12月17日（火） 16時00分～18時00分\n場　所：3B棟…",
-            "date_modified": "2024-11-22T03:00:00.000Z"
         }
     ]
 }
