@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "0fba5fb64c3fde32895547b4b730591b",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5713",
+            "title": "（BHE)面接・GD 対面練習会のお知らせ",
+            "summary": "BHE主催　就活支援企画　面接・GD練習会　チャレンジ実践会\n\n就活に即役立つ、面接・GD練習会です。対面でもオンラインでも開催します。\n\n対面面接編ではビジネスマナーも学ぶことができます。\n就活中の方、ISの選考を受ける方、参加して役立ててください。\nBHEキャリア支援チームのファシリテーターからフィードバックがあります。（日本語での開催です）\n\n【詳細と申込み】\n＜対面＞\n12月4日（水）\n集…",
+            "date_modified": "2024-12-02T03:00:00.000Z"
+        },
+        {
             "id": "98310cd28c538b6cd07348c8007561c9",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5712",
             "title": "【令和6年度卒業･修了予定者の皆様へ】「進路進捗状況届」登録のお願い",
@@ -135,13 +142,6 @@
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5686",
             "title": "【芸術系】2024-2025国際交流協定校への交換留学（派遣）の一括募集について",
             "summary": "11月25日（月）～12月13日（金）にかけて、芸術系に所属する学生を対象に、以下12校の国際交流協定校への短期派遣（1年以内）を希望する方を募集します。\n\n①  国立台湾科技大学（台湾）\n②  国立台湾芸術大学（台湾）\n③  中国美術学院（中国）\n④  ホーチミン市美術大学（ベトナム）\n⑤  ストラートデザイン大学（フランス）\n⑥  スウェーデン王立美術大学（スウェーデン）\n⑦  ヘルシンキ芸術…",
-            "date_modified": "2024-11-22T03:00:00.000Z"
-        },
-        {
-            "id": "9f771bca603d7056f085a1fecf45469e",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5685",
-            "title": "(BHE)公務員を目指す学生の皆さんへ　「桐公会（とうこうかい）」　・コミュニケーションツールのご案内",
-            "summary": "公務員を目指す皆さんへ\n\n筑波大学ではこの度、「公務員を志望する後輩を支援したい！」という意思を持った内定学生によって\n「桐公会（とうこうかい）」が立ち上げられました。(学生団体ではなく有志の集まりです。)\n\nBHEによるバックアップのもと桐公会は、これから公務員を目指す筑波大生の皆さんを応援するために、\n下記のような活動を予定しています。\n①公務員を目指す学生からの相談対応\n（試験対策・仕事につ…",
             "date_modified": "2024-11-22T03:00:00.000Z"
         }
     ]
