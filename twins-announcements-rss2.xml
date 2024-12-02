@@ -4,10 +4,26 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Mon, 02 Dec 2024 01:29:08 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 02 Dec 2024 02:29:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
+        <item>
+            <title><![CDATA[天久保歩道橋修繕工事に伴う通行止め(1月6日~)／Road Closure due to Amakubo Pedestrian Repair Work (from January 6)]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5716</link>
+            <guid>758f01f38e62bb33ec8d2e8d42d1d39b</guid>
+            <pubDate>Mon, 02 Dec 2024 03:00:00 GMT</pubDate>
+            <description><![CDATA[　茨城県土浦土木事務所より、天久保歩道橋の修繕工事について以下のとおり周知依頼がありました。
+　詳細については別添【工事のお知らせ】をご確認ください。
+　
+【場所】天久保歩道橋
+【工事期間】令和7年1月6日～令和7年2月15日
+※工事期間中は通行止めとなります。また天候等の影響により期間が延長となることがあります。
+【工事担当業者】株式会社　田﨑
+
+
+The Tsuchiura Civil Eng…]]></description>
+        </item>
         <item>
             <title><![CDATA[2025年度第17期トビタテ！留学JAPAN新・日本代表プログラムの募集について（学内応募締切：2025年1月31日（金））]]></title>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5715</link>
@@ -250,16 +266,6 @@ BHE HP「イベントコンテンツ動画・資料…]]></description>
 名　称：どうするの？ 未来の大学キャンパス ～大学からまちづくりへ～
 日　時：令和６年12月17日（火） 16時00分～18時00分
 場　所：3B棟…]]></description>
-        </item>
-        <item>
-            <title><![CDATA[11月29日（金）8：40-10：40「Business Leaders’ Seminar/ビジネスリーダーズセミナー」開催のお知らせ （対象：全学生）]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5688</link>
-            <guid>de17a67f1b409a32d1c0665fc98d9bd0</guid>
-            <pubDate>Fri, 22 Nov 2024 03:00:00 GMT</pubDate>
-            <description><![CDATA[ヒューマンバイオロジー学位プログラムでは授業の一環として「Business Leaders’ Seminar/ビジネスリーダーズセミナー」を開催しています。
-本セミナーは、世界のトップビジネスリーダーを招き、オムニバス形式でキャリア形成やビジネスに関する成功と失敗の話などの経験を紹介するものです。
-
-11月29日（金）8：40-10：40に開催するセミナーでは、株式会社ナノルクス 代表取締役社長　…]]></description>
         </item>
     </channel>
 </rss>
