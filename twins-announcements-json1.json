@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "7ac7d7f2c67b43a36d16c49d6685ef2f",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5719",
+            "title": "【開催案内】2024年度夏季　海外研修 合同帰国報告会 （カザフスタン・キルギス）",
+            "summary": "2024年度夏季に実施した、カザフスタン・キルギスにおける海外研修（ロシア語 キルギス語 語学研修/海外プロジェクト研修/カザフ語語学研修）を修了した学生による帰国報告会を実施いたします。\n\n中央アジアやロシア語圏の文化、海外研修などに関心のある方、是非お気軽にご来聴ください。\n\n【開催案内】\n2024年度夏季　海外研修 合同帰国報告会 （カザフスタン・キルギス）\n日時：令和6年12月12日（木）…",
+            "date_modified": "2024-12-03T03:00:00.000Z"
+        },
+        {
             "id": "689c7d9d4789fa6879661034d09ec56b",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5718",
             "title": "明日開催！（BHE)対面面接・GD練習会のご案内",
@@ -135,13 +142,6 @@
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5694",
             "title": "(BHE)公務員を目指す学生の皆さんへ　「桐公会（とうこうかい）」　・コミュニケーションツールのご案内",
             "summary": "公務員を目指す皆さんへ\n\n筑波大学ではこの度、「公務員を志望する後輩を支援したい！」という意思を持った内定学生によって\n「桐公会（とうこうかい）」が立ち上げられました。(学生団体ではなく有志の集まりです。)\n\nBHEによるバックアップのもと桐公会は、これから公務員を目指す筑波大生の皆さんを応援するために、\n下記のような活動を予定しています。\n①公務員を目指す学生からの相談対応\n（試験対策・仕事につ…",
-            "date_modified": "2024-11-25T03:00:00.000Z"
-        },
-        {
-            "id": "ea073ffa877225c834ca8f917e91a233",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5693",
-            "title": "【奨学金/Scholarship】公益財団法人佐藤陽国際奨学財団 /Sato Yo International Scholarship Foundation",
-            "summary": "公益財団法人　佐藤陽国際奨学財団 （2025年4月期・春募集）\n※応募前に「応募フロー・注意事項」をよく確認してください。\n①Web応募フォーム入力期限：2024年12月13日（金）正午\n※Web応募フォームに入力する際、学生交流課で発行する「管理番号」が必要です。\n（isc-shien#@#un.tsukuba.ac.jp）（#@#を「@」に置き換えてください）へメールし、番号を取得してください…",
             "date_modified": "2024-11-25T03:00:00.000Z"
         }
     ]
