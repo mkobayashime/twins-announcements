@@ -4,10 +4,28 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Mon, 02 Dec 2024 21:06:58 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 03 Dec 2024 01:29:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
+        <item>
+            <title><![CDATA[明日開催！（BHE)対面面接・GD練習会のご案内]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5718</link>
+            <guid>689c7d9d4789fa6879661034d09ec56b</guid>
+            <pubDate>Tue, 03 Dec 2024 03:00:00 GMT</pubDate>
+            <description><![CDATA[BHE主催　就活支援企画　面接・GD練習会　チャレンジ実践会
+
+就活に即役立つ、面接・GD練習会です。対面でもオンラインでも開催します。
+
+対面面接編ではビジネスマナーも学ぶことができます。
+就活中の方、ISの選考を受ける方、参加して役立ててください。
+BHEキャリア支援チームのファシリテーターからフィードバックがあります。（日本語での開催です）
+
+【詳細と申込み】
+＜対面＞
+12月4日（水）
+集…]]></description>
+        </item>
         <item>
             <title><![CDATA[大学院進学と就職を考えるセミナー　文系編 ※再掲]]></title>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5717</link>
@@ -245,22 +263,6 @@ BHEによるバックアップのもと桐公会は、これから公務員を�
 ①Web応募フォーム入力期限：2024年12月13日（金）正午
 ※Web応募フォームに入力する際、学生交流課で発行する「管理番号」が必要です。
 （isc-shien#@#un.tsukuba.ac.jp）（#@#を「@」に置き換えてください）へメールし、番号を取得してください…]]></description>
-        </item>
-        <item>
-            <title><![CDATA[（BHE)11月27日　オンライン面接練習会のご案内]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5692</link>
-            <guid>d4999e311486bd7b286e9947efbf333c</guid>
-            <pubDate>Mon, 25 Nov 2024 03:00:00 GMT</pubDate>
-            <description><![CDATA[BHE主催　就活支援企画　オンライン面接練習会
-
-就活に即役立つ、面接・GD練習会です。27日にオンラインでも開催します。
-就活中の方、ISの選考を受ける方、参加して役立ててください。
-BHEキャリア支援チームのファシリテーターからフィードバックがあります。（日本語での開催です）
-
-【詳細と申込み】
-11月27日（水）
-集団面接編　10：00-11：30
-BHE HP「イベントコンテンツ動画・資料…]]></description>
         </item>
     </channel>
 </rss>
