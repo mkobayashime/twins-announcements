@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "ebf633b9c778cc98bf49d9cfc9eb65ae",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5722",
+            "title": "【開催案内】第17回つくば３Ｅフォーラム会議（1/25（土））",
+            "summary": "つくば３Ｅフォーラムでは、1月25日（土）13:30～筑波大学情報メディアユニオンにおいて\n「第17回つくば３Ｅフォーラム会議」を開催いたします。\n第17回会議の今回は、「カーボンニュートラルのリアルを目指す」をテーマに、\n2050年カーボンニュートラルの実現にむけて真に何をすべきか、\n有効性のある取組み紹介などを通して皆さんと考えていきたいと思います。\nご参加をお待ちしております。\n\n日　時：令…",
+            "date_modified": "2024-12-04T03:00:00.000Z"
+        },
+        {
             "id": "0f14cf0200b764debaa7423cf271cffe",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5721",
             "title": "＼本日3回目はインドネシア／AIMS Cultural Exchange",
@@ -136,13 +143,6 @@
             "title": "【トビタテOB/OGによる相談会】～トビタテ！留学JAPAN新・日本代表プログラム～　 2025年度（第17期）応募希望学生対象",
             "summary": "トビタテ！留学JAPAN新・日本代表プログラム【大学生等対象】2025年度（第17期）の応募希望学生を対象に、対面またはオンラインにてトビタテOB/OGと話をすることができる相談会が実施されます。定員に限りがありますので、早めにお申し込みください。\n\n========================================================\nトビタテOB/OGによる相談会（応…",
             "date_modified": "2024-11-27T03:00:00.000Z"
-        },
-        {
-            "id": "893ef94253c5ff95f83fb50b538eba4f",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5698",
-            "title": "再掲：12/4(水)5限【公開授業】キャリアデザイン入門～世界にはばたく未来の自分～",
-            "summary": "学士基盤科目「キャリアデザイン入門～世界にはばたく未来の自分～」の第６回、第７回の授業を全学年の皆さんに公開します。\nゲストスピーカーとして筑波大学卒業生が、自分の歩んできた人生を語り、後輩の皆さんに、力強いメッセージを届けてくれます。\nこの貴重な機会を逃さず、先輩の話をきっかけとして、自分のこれからのキャリアについて考えてみませんか？\n\n◆日時とゲストスピーカー◆\n①11月20日(水) 15:1…",
-            "date_modified": "2024-11-26T03:00:00.000Z"
         }
     ]
 }
