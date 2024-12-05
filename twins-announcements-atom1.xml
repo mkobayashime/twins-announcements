@@ -2,10 +2,18 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/mkobayashime/twins-announcements</id>
     <title>在学生へのお知らせ | 筑波大学</title>
-    <updated>2024-12-05T02:28:54.667Z</updated>
+    <updated>2024-12-05T06:02:13.157Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://github.com/mkobayashime/twins-announcements"/>
     <subtitle>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</subtitle>
+    <entry>
+        <title type="html"><![CDATA[【12/23開催】数理・データサイエンス・AI教育に関するDE＆I推進についてのシンポジウム～女子学生への分野の魅力を伝える取り組み～]]></title>
+        <id>5eb56d39aefd739045bd6afd7e2f75fc</id>
+        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5728"/>
+        <updated>2024-12-05T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[筑波大学が担当拠点校を務める「数理・データサイエンス・AI教育強化拠点コンソーシアム・ダイバーシティ推進校会議」では、数理・データサイエンス・AI（MDA）教育やその活用において、ジェンダーギャップの解消、へき地や小規模校（高校）への教育支援、日本語非母語話者向けの教材開発といった活動を通じて、ダイバーシティの推進に取り組んでおります。
+この度、MDA教育やその活用におけるジェンダーギャップ解消を…]]></summary>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【重要】2024年度第2期分授業料の納入督促について /【Important】Reminder of Tuition Payment for second term of AY 2024]]></title>
         <id>1ecdb45d8a433daca638b2c5a9efdbf4</id>
@@ -254,23 +262,5 @@ ECサイトは以下のリンクから
 
 中国Jilin（吉林）大学i-School（Information School）の来訪に伴い、2024年12月11日(水) 15:00より国際交流イベントを開催いたします。
 本イベントは、学生ワークショップと交流会の二…]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[学内GD練習会のご案内]]></title>
-        <id>c7a991279e027e82d2134e41e436c64f</id>
-        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5700"/>
-        <updated>2024-11-27T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[対面GD練習会を以下の通り開催します。
-少人数での開催ですが、様々な所属の方と一緒に経験できる
-貴重なタイミングです！
-
-日時：11月29日（金）
-　　　14：15-15：15
-場所：ステューデントプラザ2階
-　　　ヒューマンエンパワーメント推進局内会議室
-定員：7名（最少催行人数4名）
-
-ご希望の方は以下までご連絡ください。
-bhe-career-student@un.tsukuba.ac.jp…]]></summary>
     </entry>
 </feed>

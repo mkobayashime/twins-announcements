@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "5eb56d39aefd739045bd6afd7e2f75fc",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5728",
+            "title": "【12/23開催】数理・データサイエンス・AI教育に関するDE＆I推進についてのシンポジウム～女子学生への分野の魅力を伝える取り組み～",
+            "summary": "筑波大学が担当拠点校を務める「数理・データサイエンス・AI教育強化拠点コンソーシアム・ダイバーシティ推進校会議」では、数理・データサイエンス・AI（MDA）教育やその活用において、ジェンダーギャップの解消、へき地や小規模校（高校）への教育支援、日本語非母語話者向けの教材開発といった活動を通じて、ダイバーシティの推進に取り組んでおります。\nこの度、MDA教育やその活用におけるジェンダーギャップ解消を…",
+            "date_modified": "2024-12-05T03:00:00.000Z"
+        },
+        {
             "id": "1ecdb45d8a433daca638b2c5a9efdbf4",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5727",
             "title": "【重要】2024年度第2期分授業料の納入督促について /【Important】Reminder of Tuition Payment for second term of AY 2024",
@@ -135,13 +142,6 @@
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5703",
             "title": "12/11(水) 15:00~ 国際学生ワークショップ・交流会「Information for pushing boundaries of our future（情報が拓く未来への展望）」",
             "summary": "〇日時：2024年12月11日(水) 15:00~\n〇場所：筑波大学 春日エリア 図書館情報メディアユニオン3階共同研究室1\n〇対象：本学学群生、大学院生等（留学生を含みます）\n\n中国Jilin（吉林）大学i-School（Information School）の来訪に伴い、2024年12月11日(水) 15:00より国際交流イベントを開催いたします。\n本イベントは、学生ワークショップと交流会の二…",
-            "date_modified": "2024-11-27T03:00:00.000Z"
-        },
-        {
-            "id": "c7a991279e027e82d2134e41e436c64f",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5700",
-            "title": "学内GD練習会のご案内",
-            "summary": "対面GD練習会を以下の通り開催します。\n少人数での開催ですが、様々な所属の方と一緒に経験できる\n貴重なタイミングです！\n\n日時：11月29日（金）\n　　　14：15-15：15\n場所：ステューデントプラザ2階\n　　　ヒューマンエンパワーメント推進局内会議室\n定員：7名（最少催行人数4名）\n\nご希望の方は以下までご連絡ください。\nbhe-career-student@un.tsukuba.ac.jp…",
             "date_modified": "2024-11-27T03:00:00.000Z"
         }
     ]
