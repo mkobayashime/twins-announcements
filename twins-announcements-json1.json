@@ -5,6 +5,27 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "fd92fe31a153842049192a140ff38ccf",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5726",
+            "title": "【重要】2024年度第2期分授業料の納入督促について",
+            "summary": "　2024年度第2期分授業料について、11月27日(水)に口座振替により引落しを行いました。残高不足等のため引落しができなかった者については、12月27日(金)に再度預金口座から引落しを行います。\n　つきましては、金融機関の前営業日である12月26日(木)までに登録した預金口座へ入金をお願いします。\n\n　なお、引落しがされている場合は、通帳に“ツクバダイ”と記帳されますので、登録した口座でのご確認…",
+            "date_modified": "2024-12-05T03:00:00.000Z"
+        },
+        {
+            "id": "c42b22ffe921b7da1b78e0924312bdb8",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5725",
+            "title": "【募集開始！】令和７年度「筑波大学社会貢献プロジェクト」について",
+            "summary": "つくば・地域連携推進室では、教職員や学生による多様な形での地域への貢献活動等を\n『筑波大学社会貢献プロジェクト』として採択し、活動経費の支援を行っております。\nつきましては、下記のとおり募集しますので、募集要項等をよくご確認の上、学内申請システムu-Radから申請いただくようお願いいたします。\n※募集要項等はu-Radにも掲載しております。\n\n【募集期間】令和６年12月５日（木）～令和７年１月27…",
+            "date_modified": "2024-12-05T03:00:00.000Z"
+        },
+        {
+            "id": "db21767d2c3d07188004ce652a974e31",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5724",
+            "title": "（BHE）Teams内 情報発信チームのご案内",
+            "summary": "キャリア支援チームに日々届く、企業・自治体・学校からの求人情報や\nインターンシップ情報を発信しています。\n卒業年度別、進路志望別に就活に役立つ情報をタイムリーに掲載します。\nチームに参加して皆さんの就活に役立ててください。\n\n【参加方法】\nチーム名「BHEキャリア支援チーム　情報発信」\n以下のリンクから参加してください。\n\n【掲載情報例】\n（カテゴリー）\n企業（25卒向け・26卒向け）、推薦求人、…",
+            "date_modified": "2024-12-05T03:00:00.000Z"
+        },
+        {
             "id": "a0950f3d687da19d5594829ca5701ae2",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5723",
             "title": "令和7年度 生命保険協会留学生奨学金申請について",
@@ -22,7 +43,7 @@
             "id": "c491e85c28cf661e603c9b9892b554e3",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5720",
             "title": "【学群生対象‗AIMSプログラム2025秋学期渡航分 募集開始！】",
-            "summary": "つくば３Ｅフォーラムでは、1月25日（土）13:30～筑波大学情報メディアユニオンにおいて\n「第17回つくば３Ｅフォーラム会議」を開催いたします。\n第17回会議の今回は、「カーボンニュートラルのリアルを目指す」をテーマに、\n2050年カーボンニュートラルの実現にむけて真に何をすべきか、\n有効性のある取組み紹介などを通して皆さんと考えていきたいと思います。\nご参加をお待ちしております。\n\n日　時：令…",
+            "summary": "東南アジアとの交換留学プログラム・AIMSプログラムは、2025年秋学期渡航分（2025年8～11月頃に渡航）の募集を開始しました。\n\nプログラムの専用サイトの募集要項を熟読し理解した上で、【2025年2月14日（金）17：00まで】に必要書類を提出してください。ご応募お待ちしています！\n\n※留学期間中を通して、本学の学群の正規過程に在籍する方が対象です。詳細は募集要項をご確認ください。\n",
             "date_modified": "2024-12-03T03:00:00.000Z"
         },
         {
@@ -122,27 +143,6 @@
             "title": "学内GD練習会のご案内",
             "summary": "対面GD練習会を以下の通り開催します。\n少人数での開催ですが、様々な所属の方と一緒に経験できる\n貴重なタイミングです！\n\n日時：11月29日（金）\n　　　14：15-15：15\n場所：ステューデントプラザ2階\n　　　ヒューマンエンパワーメント推進局内会議室\n定員：7名（最少催行人数4名）\n\nご希望の方は以下までご連絡ください。\nbhe-career-student@un.tsukuba.ac.jp…",
             "date_modified": "2024-11-27T03:00:00.000Z"
-        },
-        {
-            "id": "b1b0d73457c54874abe71c9ac4258e46",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5699",
-            "title": "【トビタテOB/OGによる相談会】～トビタテ！留学JAPAN新・日本代表プログラム～　 2025年度（第17期）応募希望学生対象",
-            "summary": "トビタテ！留学JAPAN新・日本代表プログラム【大学生等対象】2025年度（第17期）の応募希望学生を対象に、対面またはオンラインにてトビタテOB/OGと話をすることができる相談会が実施されます。定員に限りがありますので、早めにお申し込みください。\n\n========================================================\nトビタテOB/OGによる相談会（応…",
-            "date_modified": "2024-11-27T03:00:00.000Z"
-        },
-        {
-            "id": "78c02b4ba37ff171abfcdd2006e02f7f",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5697",
-            "title": "第182回バイオeカフェ開催のお知らせ",
-            "summary": "生物学類主催のサイエンスカフェ第182回「バイオeカフェ」を以下のとおり開催いたします。\n\nテーマ：昆虫の体内に住んで性や生殖を操るバクテリア\n（農研機構 生物機能利用研究部門 昆虫制御技術グループ 　陰山大輔先生）\n\n日時：12月10日（火）18時30分～20時00分\n場所：2B210もしくはオンライン（Teams）\n\n・対面で参加される方\n参加費100円/事前申込不要\n当日は会場 ( 筑波大学…",
-            "date_modified": "2024-11-26T03:00:00.000Z"
-        },
-        {
-            "id": "9f771bca603d7056f085a1fecf45469e",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5694",
-            "title": "(BHE)公務員を目指す学生の皆さんへ　「桐公会（とうこうかい）」　・コミュニケーションツールのご案内",
-            "summary": "公務員を目指す皆さんへ\n\n筑波大学ではこの度、「公務員を志望する後輩を支援したい！」という意思を持った内定学生によって\n「桐公会（とうこうかい）」が立ち上げられました。(学生団体ではなく有志の集まりです。)\n\nBHEによるバックアップのもと桐公会は、これから公務員を目指す筑波大生の皆さんを応援するために、\n下記のような活動を予定しています。\n①公務員を目指す学生からの相談対応\n（試験対策・仕事につ…",
-            "date_modified": "2024-11-25T03:00:00.000Z"
         }
     ]
 }
