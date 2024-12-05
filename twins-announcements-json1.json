@@ -5,6 +5,20 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "cb59b825dc437db25952d45dfd83ef8a",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5730",
+            "title": "【案内】茨城県国際交流協会「上海スタディツアー 4泊5日」",
+            "summary": "茨城県国際交流協会より「上海スタディツアー」の募集案内がありました。\nこのツアーは、日本国総領事館などの公的機関や、現地の企業等を訪問し、\n中国の社会・経済情勢や日本との関係などを直接聞くことができます。\nまた、現地の若い世代の人々との交流やグループでの市街地自由散策などもあります。\n\n関心のある方は、ぜひごお申し込みください。\n\n・開催日時：令和7年3月4日（火）〜8日（土）4泊5日\n・申込締切…",
+            "date_modified": "2024-12-05T03:00:00.000Z"
+        },
+        {
+            "id": "0e66b2a0156a1f375702d40dd064afdd",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5729",
+            "title": "【派遣学生募集】カリフォルニア大学アーバイン校（UCI）への交換留学（2025年秋渡航分）について",
+            "summary": "本学協定校のカリフォルニア大学アーバイン校（UCI）について、2025年秋渡航分の交換留学の募集が開始しました。\n下記募集内容をよく確認の上、manabaにて応募してください。\n\n【募集内容の概要】\n留学先：カリフォルニア大学アーバイン校（UCI）\n留学期間：2025年9月～（1学期間 or 1年間）\n募集人員：１～２名\n対象：学群生\n\n応募方法：\n応募はmanabaで行います。\nまず、manab…",
+            "date_modified": "2024-12-05T03:00:00.000Z"
+        },
+        {
             "id": "5eb56d39aefd739045bd6afd7e2f75fc",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5728",
             "title": "【12/23開催】数理・データサイエンス・AI教育に関するDE＆I推進についてのシンポジウム～女子学生への分野の魅力を伝える取り組み～",
@@ -128,20 +142,6 @@
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5706",
             "title": "学生相談室で実施する研究に関するお知らせ",
             "summary": "この度、学生相談室では、学生の皆さんにフレッシュマンセミナー／ファーストイヤーセミナーの中でご回答いただいた「新入生用学生相談室アンケート」の回答内容を用いて、新入生の回答の入学年度による変化を検討いたします（タイトルは「大学新入生のメンタルヘルスの継時的変化の検討」です）。\n\n学籍番号や氏名などの個人を特定するような情報は、研究には使用しません。\n詳細なご説明は添付ファイルをご確認ください。\n\n…",
-            "date_modified": "2024-11-27T03:00:00.000Z"
-        },
-        {
-            "id": "38bb8b4801d8ba17581c277ea914a345",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5705",
-            "title": "筑波大学公式オリジナルグッズECサイト割引クーポンのお知らせ（12月） 2024/12/1～2024/12/31",
-            "summary": "筑波大学公式オリジナルグッズ販売サイト「TSUKUBA-SHOP」12月の割引クーポンコードをお知らせいたします！\n\nクーポンコード　：　tsjan12298n32\n有効期間　：　2024年12月1日～2024年12月31日\n\n\nどうぞご覧いただき、皆様の「日常生活」、「思い出」、「プレゼント🎁」などにご活用いただけますと幸いです。\n\nECサイトは以下のリンクから\n※学内専用割引コードをTWIN…",
-            "date_modified": "2024-11-27T03:00:00.000Z"
-        },
-        {
-            "id": "f7ccf2e0df1fbbdba14aece1f3245bf8",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5703",
-            "title": "12/11(水) 15:00~ 国際学生ワークショップ・交流会「Information for pushing boundaries of our future（情報が拓く未来への展望）」",
-            "summary": "〇日時：2024年12月11日(水) 15:00~\n〇場所：筑波大学 春日エリア 図書館情報メディアユニオン3階共同研究室1\n〇対象：本学学群生、大学院生等（留学生を含みます）\n\n中国Jilin（吉林）大学i-School（Information School）の来訪に伴い、2024年12月11日(水) 15:00より国際交流イベントを開催いたします。\n本イベントは、学生ワークショップと交流会の二…",
             "date_modified": "2024-11-27T03:00:00.000Z"
         }
     ]
