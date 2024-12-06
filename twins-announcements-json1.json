@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "a9fa30373b604ed0f51f07074c5a0093",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5733",
+            "title": "令和7年度　JEES・T.バナージインド留学生奨学金申請について",
+            "summary": "令和7年度　JEES・T.バナージインド留学生奨学金\n\n*応募期限：2024年12月23日（月）17時厳守\n*提 出 先：学生部学生交流課（1A101）　　　　　　　　　　　　　　　　　　　　　　　　　　\n※提出書類をisc-shien#un.tsukuba.ac.jpへ提出してください。（＃を＠に替えてください）\n※「留学」ビザを持つインド国籍の方に限ります。\n※応募者多数の場合は学内選考の上、…",
+            "date_modified": "2024-12-06T03:00:00.000Z"
+        },
+        {
             "id": "eda409ba1bd408f9c7194d57a400b2d7",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5732",
             "title": "【重要】学群３年次生対象 TOEIC® L&R IPテスト(オンライン） テスト結果取得のお願い＆追試実施のお知らせ",
@@ -136,13 +143,6 @@
             "title": "【再掲】2024/12/5, 12 (Thu) Seminar: Olympic Movement in Taiwan",
             "summary": "このコースは英語で行われます。This seminar is in English.\n\n■Date and Time: December 5th, 12th (Thu) 13:00-14:20 ※時間が変更になりました。\n\n■Speaker: Professor Leo HSU, National Taiwan University of Sport\n               （許立宏教授： …",
             "date_modified": "2024-11-29T03:00:00.000Z"
-        },
-        {
-            "id": "a537c094a231ab13d5077b8e53ee6cc6",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5708",
-            "title": "【Free for Students!】 HONO Quartet (The 15th Tsukuba Recital Series)",
-            "summary": "― Kishimoto Honoka（1st Violin）\n― Hayashi Shuga（2nd Violin）\n― Nagata Kenshi（Viola）\n― Kanie Yoshiyuki（Cello）\n【Program】\nーUnraveling the Mystery of the String Quartetー\nEto Mitsunori / String Quartet No. 4…",
-            "date_modified": "2024-11-27T03:00:00.000Z"
         }
     ]
 }

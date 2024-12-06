@@ -4,10 +4,23 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Fri, 06 Dec 2024 03:14:55 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 06 Dec 2024 09:01:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
+        <item>
+            <title><![CDATA[令和7年度　JEES・T.バナージインド留学生奨学金申請について]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5733</link>
+            <guid>a9fa30373b604ed0f51f07074c5a0093</guid>
+            <pubDate>Fri, 06 Dec 2024 03:00:00 GMT</pubDate>
+            <description><![CDATA[令和7年度　JEES・T.バナージインド留学生奨学金
+
+*応募期限：2024年12月23日（月）17時厳守
+*提 出 先：学生部学生交流課（1A101）　　　　　　　　　　　　　　　　　　　　　　　　　　
+※提出書類をisc-shien#un.tsukuba.ac.jpへ提出してください。（＃を＠に替えてください）
+※「留学」ビザを持つインド国籍の方に限ります。
+※応募者多数の場合は学内選考の上、…]]></description>
+        </item>
         <item>
             <title><![CDATA[【重要】学群３年次生対象 TOEIC® L&R IPテスト(オンライン） テスト結果取得のお願い＆追試実施のお知らせ]]></title>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5732</link>
@@ -259,19 +272,6 @@ BHEキャリア支援チームのファシリテーターからフィードバ�
 
 ■Speaker: Professor Leo HSU, National Taiwan University of Sport
                （許立宏教授： …]]></description>
-        </item>
-        <item>
-            <title><![CDATA[【Free for Students!】 HONO Quartet (The 15th Tsukuba Recital Series)]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5708</link>
-            <guid>a537c094a231ab13d5077b8e53ee6cc6</guid>
-            <pubDate>Wed, 27 Nov 2024 03:00:00 GMT</pubDate>
-            <description><![CDATA[― Kishimoto Honoka（1st Violin）
-― Hayashi Shuga（2nd Violin）
-― Nagata Kenshi（Viola）
-― Kanie Yoshiyuki（Cello）
-【Program】
-ーUnraveling the Mystery of the String Quartetー
-Eto Mitsunori / String Quartet No. 4…]]></description>
         </item>
     </channel>
 </rss>
