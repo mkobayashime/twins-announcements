@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "eda409ba1bd408f9c7194d57a400b2d7",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5732",
+            "title": "【重要】学群３年次生対象 TOEIC® L&R IPテスト(オンライン） テスト結果取得のお願い＆追試実施のお知らせ",
+            "summary": "１１月実施、学群３年次生対象TOEIC® L&R IPテスト（オンライン）についてお知らせします。\n\n１．テスト結果取得のお願い\n\nテスト結果確認期間は２０２４年１２月３１日（火）までです。\nCEGLOCのHP（https://www.cegloc.tsukuba.ac.jp/page/page001075.html）\n「結果確認用サイト」より各自でログインの上取得してください。\nテスト結果の紙配…",
+            "date_modified": "2024-12-06T03:00:00.000Z"
+        },
+        {
             "id": "b201d9da286347e0b86f3b09516cea5b",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5731",
             "title": "【奨学金/Scholarship】公益信託久保田豊基金助成対象者募集/The Kubota Fund　Scholarship Grant Academic Year 2025/2026",
@@ -135,13 +142,6 @@
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5708",
             "title": "【Free for Students!】 HONO Quartet (The 15th Tsukuba Recital Series)",
             "summary": "― Kishimoto Honoka（1st Violin）\n― Hayashi Shuga（2nd Violin）\n― Nagata Kenshi（Viola）\n― Kanie Yoshiyuki（Cello）\n【Program】\nーUnraveling the Mystery of the String Quartetー\nEto Mitsunori / String Quartet No. 4…",
-            "date_modified": "2024-11-27T03:00:00.000Z"
-        },
-        {
-            "id": "653f497278bff191db2e2bbb73bb64b1",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5707",
-            "title": "【オンラインプログラム相談会　12月4日開催】　ロシア語・カザフ語短期語学研修（カザフスタン） 2025年2月派遣",
-            "summary": "表題のとおり、12月4日（水）18：15から30分程度オンライン相談会を開催します。\nプログラムに関心のある方、質問のある方、ぜひご参加ください：\nhttps://us02web.zoom.us/j/86704668298?pwd=ZaknTIaB0pffPyhnXXEbKrBnyfsPWD.1\n\nーーーーーーーーーーーーーーーーーーー\nCiC協定大学 アルファラビ・カザフ国立大学への短期語学研修…",
             "date_modified": "2024-11-27T03:00:00.000Z"
         }
     ]
