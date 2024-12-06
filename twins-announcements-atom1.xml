@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/mkobayashime/twins-announcements</id>
     <title>在学生へのお知らせ | 筑波大学</title>
-    <updated>2024-12-05T21:07:14.765Z</updated>
+    <updated>2024-12-06T02:28:33.568Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://github.com/mkobayashime/twins-announcements"/>
     <subtitle>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</subtitle>
+    <entry>
+        <title type="html"><![CDATA[【奨学金/Scholarship】公益信託久保田豊基金助成対象者募集/The Kubota Fund　Scholarship Grant Academic Year 2025/2026]]></title>
+        <id>b201d9da286347e0b86f3b09516cea5b</id>
+        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5731"/>
+        <updated>2024-12-06T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[応募締め切り：2025年1月17日(金)午後10時（日本標準時）
+提出先：事務局へ直接応募
+募集要項：(PDF(資料1))
+応募ページ：https://mypage.3050.i-webs.jp/kbt2023/
+
+Deadline: January 17 (Fri.), 2025　22：00（PM10:00）（JST）
+Submission: Please apply to the founda…]]></summary>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【案内】茨城県国際交流協会「上海スタディツアー 4泊5日」]]></title>
         <id>cb59b825dc437db25952d45dfd83ef8a</id>
@@ -255,17 +268,5 @@ https://us02web.zoom.us/j/86704668298?pwd=ZaknTIaB0pffPyhnXXEbKrBnyfsPWD.1
 
 ーーーーーーーーーーーーーーーーーーー
 CiC協定大学 アルファラビ・カザフ国立大学への短期語学研修…]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[学生相談室で実施する研究に関するお知らせ]]></title>
-        <id>75ff47609f546cd3cc3ffa59614ba796</id>
-        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5706"/>
-        <updated>2024-11-27T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[この度、学生相談室では、学生の皆さんにフレッシュマンセミナー／ファーストイヤーセミナーの中でご回答いただいた「新入生用学生相談室アンケート」の回答内容を用いて、新入生の回答の入学年度による変化を検討いたします（タイトルは「大学新入生のメンタルヘルスの継時的変化の検討」です）。
-
-学籍番号や氏名などの個人を特定するような情報は、研究には使用しません。
-詳細なご説明は添付ファイルをご確認ください。
-
-…]]></summary>
     </entry>
 </feed>
