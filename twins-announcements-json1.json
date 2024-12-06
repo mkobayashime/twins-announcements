@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "7574eecb046cb96fc4f15e96994deb9b",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5734",
+            "title": "Call for JEES・T.Banaji Indian International Student Scholarship 2025",
+            "summary": "JEES・T.Banaji Indian International Student Scholarship 2025\nDeadline: December 23rd  5pm, 2024\nSubmission: Division of Student Exchange (1A101)\n＊Submit required documents to isc-shien＃un.tsukuba.ac.jp…",
+            "date_modified": "2024-12-06T03:00:00.000Z"
+        },
+        {
             "id": "a9fa30373b604ed0f51f07074c5a0093",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5733",
             "title": "令和7年度　JEES・T.バナージインド留学生奨学金申請について",
@@ -135,13 +142,6 @@
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5712",
             "title": "【令和6年度卒業･修了予定者の皆様へ】「進路進捗状況届」登録のお願い",
             "summary": "学群・大学院の最終年次に在籍している全学生を対象に、自身の進路を届け出る「進路進捗状況届」の登録をお願いしています。\n就職・進学に限らず、資格試験等準備、職務復帰、家事手伝い、留年、帰国などすべての進路先が対象です。\n卒業・修了後の進路が決まりましたら、キャリア支援チームWebサイト内「進路進捗状況届」から進路を入力のうえ、決定処理をしてください。\nなお、決定処理は複数の進路先を入力されている場合…",
-            "date_modified": "2024-11-29T03:00:00.000Z"
-        },
-        {
-            "id": "6459cf7f716b0fc0066dc9596dc81804",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5711",
-            "title": "【再掲】2024/12/5, 12 (Thu) Seminar: Olympic Movement in Taiwan",
-            "summary": "このコースは英語で行われます。This seminar is in English.\n\n■Date and Time: December 5th, 12th (Thu) 13:00-14:20 ※時間が変更になりました。\n\n■Speaker: Professor Leo HSU, National Taiwan University of Sport\n               （許立宏教授： …",
             "date_modified": "2024-11-29T03:00:00.000Z"
         }
     ]

@@ -4,10 +4,20 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Fri, 06 Dec 2024 09:07:34 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 06 Dec 2024 10:01:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
+        <item>
+            <title><![CDATA[Call for JEES・T.Banaji Indian International Student Scholarship 2025]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5734</link>
+            <guid>7574eecb046cb96fc4f15e96994deb9b</guid>
+            <pubDate>Fri, 06 Dec 2024 03:00:00 GMT</pubDate>
+            <description><![CDATA[JEES・T.Banaji Indian International Student Scholarship 2025
+Deadline: December 23rd  5pm, 2024
+Submission: Division of Student Exchange (1A101)
+＊Submit required documents to isc-shien＃un.tsukuba.ac.jp…]]></description>
+        </item>
         <item>
             <title><![CDATA[令和7年度　JEES・T.バナージインド留学生奨学金申請について]]></title>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5733</link>
@@ -260,18 +270,6 @@ BHEキャリア支援チームのファシリテーターからフィードバ�
 就職・進学に限らず、資格試験等準備、職務復帰、家事手伝い、留年、帰国などすべての進路先が対象です。
 卒業・修了後の進路が決まりましたら、キャリア支援チームWebサイト内「進路進捗状況届」から進路を入力のうえ、決定処理をしてください。
 なお、決定処理は複数の進路先を入力されている場合…]]></description>
-        </item>
-        <item>
-            <title><![CDATA[【再掲】2024/12/5, 12 (Thu) Seminar: Olympic Movement in Taiwan]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5711</link>
-            <guid>6459cf7f716b0fc0066dc9596dc81804</guid>
-            <pubDate>Fri, 29 Nov 2024 03:00:00 GMT</pubDate>
-            <description><![CDATA[このコースは英語で行われます。This seminar is in English.
-
-■Date and Time: December 5th, 12th (Thu) 13:00-14:20 ※時間が変更になりました。
-
-■Speaker: Professor Leo HSU, National Taiwan University of Sport
-               （許立宏教授： …]]></description>
         </item>
     </channel>
 </rss>
