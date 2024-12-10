@@ -4,10 +4,20 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Tue, 10 Dec 2024 02:29:23 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 10 Dec 2024 08:01:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
+        <item>
+            <title><![CDATA[12月12日（木）13：00-14：30「Business Leaders’ Seminar/ビジネスリーダーズセミナー」開催のお知らせ （対象：全学生）]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5741</link>
+            <guid>ae51427658f0bed893cabfcc7a297e5b</guid>
+            <pubDate>Tue, 10 Dec 2024 03:00:00 GMT</pubDate>
+            <description><![CDATA[ヒューマンバイオロジー学位プログラムでは授業の一環として「Business Leaders’ Seminar/ビジネスリーダーズセミナー」を開催しています。
+本セミナーは、世界のトップビジネスリーダーを招き、オムニバス形式でキャリア形成やビジネスに関する成功と失敗の話などの経験を紹介するものです。
+
+12月12日（木）13：00-14：30に開催するセミナーでは、株式会社Doki 代表取締役　土岐…]]></description>
+        </item>
         <item>
             <title><![CDATA[いけばな体験教室の開催について/The Lesson of Ikebana Experience]]></title>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5740</link>
@@ -272,16 +282,6 @@ BHEキャリア支援チームのファシリテーターからフィードバ�
 
 
 The Tsuchiura Civil Eng…]]></description>
-        </item>
-        <item>
-            <title><![CDATA[2025年度第17期トビタテ！留学JAPAN新・日本代表プログラムの募集について（学内応募締切：2025年1月31日（金））]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5715</link>
-            <guid>b9e7c376b771e31792be25b31f9dc966</guid>
-            <pubDate>Mon, 02 Dec 2024 03:00:00 GMT</pubDate>
-            <description><![CDATA[第17期官民協働海外留学支援制度～トビタテ！留学JAPAN新・日本代表プログラム～応募申請の手引きが公開され、応募申請システムへの入力が開始されますので、お知らせいたします。
-　申請希望者は「募集要項」を熟読のうえ、「応募申請の手引き」及び大学の指示に従って申請してください。
-■募集要項
-https://tobitate-mext.jasso.go.jp/newprogram/assets/pdf…]]></description>
         </item>
     </channel>
 </rss>
