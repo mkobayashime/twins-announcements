@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "5008e72d7e5a3cc4b6900315ee6a9547",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5740",
+            "title": "いけばな体験教室の開催について/The Lesson of Ikebana Experience",
+            "summary": "いけばな体験教室を12月14日に開催いたします。\n\n詳細は添付ファイルをご確認ください。\n\n\nWould you like to experience the Japanese culture of ikebana?\n\nFor detail, please see the attached file.\n",
+            "date_modified": "2024-12-10T03:00:00.000Z"
+        },
+        {
             "id": "4e988d33d2fdcca030454fbe3360582a",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5739",
             "title": "【再掲】学群生対象＿AIMSプログラム2025秋学期渡航分募集開始！",
@@ -135,13 +142,6 @@
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5715",
             "title": "2025年度第17期トビタテ！留学JAPAN新・日本代表プログラムの募集について（学内応募締切：2025年1月31日（金））",
             "summary": "第17期官民協働海外留学支援制度～トビタテ！留学JAPAN新・日本代表プログラム～応募申請の手引きが公開され、応募申請システムへの入力が開始されますので、お知らせいたします。\n　申請希望者は「募集要項」を熟読のうえ、「応募申請の手引き」及び大学の指示に従って申請してください。\n■募集要項\nhttps://tobitate-mext.jasso.go.jp/newprogram/assets/pdf…",
-            "date_modified": "2024-12-02T03:00:00.000Z"
-        },
-        {
-            "id": "ed7d0be3d9195922485a5e8e04b643b7",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5714",
-            "title": "12月5日（木）12：00-13：30「Business Leaders’ Seminar/ビジネスリーダーズセミナー」開催のお知らせ （対象：全学生）",
-            "summary": "ヒューマンバイオロジー学位プログラムでは授業の一環として「Business Leaders’ Seminar/ビジネスリーダーズセミナー」を開催しています。\n本セミナーは、世界のトップビジネスリーダーを招き、オムニバス形式でキャリア形成やビジネスに関する成功と失敗の話などの経験を紹介するものです。\n\n12月5日（木）12：00-13：30に開催するセミナーでは、株式会社株式会社ミツカリ　代表取締役…",
             "date_modified": "2024-12-02T03:00:00.000Z"
         }
     ]
