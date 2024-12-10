@@ -4,10 +4,22 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Tue, 10 Dec 2024 08:01:51 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 10 Dec 2024 09:01:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
+        <item>
+            <title><![CDATA[【周知】自転車の無料回収について]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5742</link>
+            <guid>ce332762d25fe851943625a7d880e274</guid>
+            <pubDate>Tue, 10 Dec 2024 03:00:00 GMT</pubDate>
+            <description><![CDATA[　本学では、つくば市シルバー人材センターの協力を得て、昨年に引き続き自転車の回収・リサイクルを実施しております。本学を卒業及び修了するにあたって、自転車が不要となった場合は、下記回収場所に持ち込んでいただくようご協力お願いいたします。
+
+回収日程：月～金10：00～16：00（土・日・祝日を除く）
+※12月30日（月）～1月３日（金）の年末年始を除く
+場　　所：大学会館駐車場内（桐葉橋下）
+必要な…]]></description>
+        </item>
         <item>
             <title><![CDATA[12月12日（木）13：00-14：30「Business Leaders’ Seminar/ビジネスリーダーズセミナー」開催のお知らせ （対象：全学生）]]></title>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5741</link>
@@ -266,22 +278,6 @@ BHEキャリア支援チームのファシリテーターからフィードバ�
 ＜対面＞
 12月4日（水）
 集…]]></description>
-        </item>
-        <item>
-            <title><![CDATA[天久保歩道橋修繕工事に伴う通行止め(1月6日~)／Road Closure due to Amakubo Pedestrian Repair Work (from January 6)]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5716</link>
-            <guid>758f01f38e62bb33ec8d2e8d42d1d39b</guid>
-            <pubDate>Mon, 02 Dec 2024 03:00:00 GMT</pubDate>
-            <description><![CDATA[　茨城県土浦土木事務所より、天久保歩道橋の修繕工事について以下のとおり周知依頼がありました。
-　詳細については別添【工事のお知らせ】をご確認ください。
-　
-【場所】天久保歩道橋
-【工事期間】令和7年1月6日～令和7年2月15日
-※工事期間中は通行止めとなります。また天候等の影響により期間が延長となることがあります。
-【工事担当業者】株式会社　田﨑
-
-
-The Tsuchiura Civil Eng…]]></description>
         </item>
     </channel>
 </rss>
