@@ -4,10 +4,20 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Thu, 12 Dec 2024 02:28:38 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 12 Dec 2024 07:01:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
+        <item>
+            <title><![CDATA[Microsoft 365 ストレージの容量制限について]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5751</link>
+            <guid>7aa815c4f5eafc05f41ade92e1e254c7</guid>
+            <pubDate>Thu, 12 Dec 2024 03:00:00 GMT</pubDate>
+            <description><![CDATA[　Microsoft 社のテナントのストレージ容量の仕様変更に伴い、本学においてもストレージの利用状況が
+ひっ迫し、令和6年11月現在における利用状況は 約80％が既に利用済みとなっております。
+　この状況を踏まえ、本学においても、Microsoft 関連サービスにおける各個人のストレージ、
+SharePoint サイトの容量の上限を見直すこととなりました。現時点で決まっている内容について、下記の…]]></description>
+        </item>
         <item>
             <title><![CDATA[【周知】令和７年国勢調査 調査員の募集について]]></title>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5750</link>
@@ -261,14 +271,6 @@ Submission: Please apply to the founda…]]></description>
 応募方法：
 応募はmanabaで行います。
 まず、manab…]]></description>
-        </item>
-        <item>
-            <title><![CDATA[【12/23開催】数理・データサイエンス・AI教育に関するDE＆I推進についてのシンポジウム～女子学生への分野の魅力を伝える取り組み～]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5728</link>
-            <guid>5eb56d39aefd739045bd6afd7e2f75fc</guid>
-            <pubDate>Thu, 05 Dec 2024 03:00:00 GMT</pubDate>
-            <description><![CDATA[筑波大学が担当拠点校を務める「数理・データサイエンス・AI教育強化拠点コンソーシアム・ダイバーシティ推進校会議」では、数理・データサイエンス・AI（MDA）教育やその活用において、ジェンダーギャップの解消、へき地や小規模校（高校）への教育支援、日本語非母語話者向けの教材開発といった活動を通じて、ダイバーシティの推進に取り組んでおります。
-この度、MDA教育やその活用におけるジェンダーギャップ解消を…]]></description>
         </item>
     </channel>
 </rss>

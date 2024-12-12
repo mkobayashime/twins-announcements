@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "7aa815c4f5eafc05f41ade92e1e254c7",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5751",
+            "title": "Microsoft 365 ストレージの容量制限について",
+            "summary": "　Microsoft 社のテナントのストレージ容量の仕様変更に伴い、本学においてもストレージの利用状況が\nひっ迫し、令和6年11月現在における利用状況は 約80％が既に利用済みとなっております。\n　この状況を踏まえ、本学においても、Microsoft 関連サービスにおける各個人のストレージ、\nSharePoint サイトの容量の上限を見直すこととなりました。現時点で決まっている内容について、下記の…",
+            "date_modified": "2024-12-12T03:00:00.000Z"
+        },
+        {
             "id": "2aab29c3a82392f137a4bbb57cbaf250",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5750",
             "title": "【周知】令和７年国勢調査 調査員の募集について",
@@ -135,13 +142,6 @@
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5729",
             "title": "【派遣学生募集】カリフォルニア大学アーバイン校（UCI）への交換留学（2025年秋渡航分）について",
             "summary": "本学協定校のカリフォルニア大学アーバイン校（UCI）について、2025年秋渡航分の交換留学の募集が開始しました。\n下記募集内容をよく確認の上、manabaにて応募してください。\n\n【募集内容の概要】\n留学先：カリフォルニア大学アーバイン校（UCI）\n留学期間：2025年9月～（1学期間 or 1年間）\n募集人員：１～２名\n対象：学群生\n\n応募方法：\n応募はmanabaで行います。\nまず、manab…",
-            "date_modified": "2024-12-05T03:00:00.000Z"
-        },
-        {
-            "id": "5eb56d39aefd739045bd6afd7e2f75fc",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5728",
-            "title": "【12/23開催】数理・データサイエンス・AI教育に関するDE＆I推進についてのシンポジウム～女子学生への分野の魅力を伝える取り組み～",
-            "summary": "筑波大学が担当拠点校を務める「数理・データサイエンス・AI教育強化拠点コンソーシアム・ダイバーシティ推進校会議」では、数理・データサイエンス・AI（MDA）教育やその活用において、ジェンダーギャップの解消、へき地や小規模校（高校）への教育支援、日本語非母語話者向けの教材開発といった活動を通じて、ダイバーシティの推進に取り組んでおります。\nこの度、MDA教育やその活用におけるジェンダーギャップ解消を…",
             "date_modified": "2024-12-05T03:00:00.000Z"
         }
     ]
