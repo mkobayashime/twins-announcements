@@ -2,10 +2,24 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/mkobayashime/twins-announcements</id>
     <title>在学生へのお知らせ | 筑波大学</title>
-    <updated>2024-12-12T21:07:08.213Z</updated>
+    <updated>2024-12-13T05:01:42.011Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://github.com/mkobayashime/twins-announcements"/>
     <subtitle>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</subtitle>
+    <entry>
+        <title type="html"><![CDATA[【見逃し配信】令和6年度薬品・実験廃棄物管理研修会]]></title>
+        <id>6ce0e4206b34192b0ca81f57d5a22316</id>
+        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5752"/>
+        <updated>2024-12-13T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[令和６年１２月１０日（火）に開催しました令和６年度薬品・実験廃棄物管理研修会（教職員向け）の見逃し配信を下記のとおり行います。
+記
+
+１．内　容
+「廃棄物管理責任者にお願いしたいこと」（10分48秒）環境安全管理室長　中村修教授
+「廃棄物の手続き等」（21分26秒）環境安全管理室　貴志孝洋准教授
+「廃棄物持ち込みＮＧ集」（11分25秒）リスク・安全管理課　富沢美紀技術職員
+２．対象者　　廃棄物管理…]]></summary>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Microsoft 365 ストレージの容量制限について]]></title>
         <id>7aa815c4f5eafc05f41ade92e1e254c7</id>
@@ -251,23 +265,5 @@ Submission: Please apply to the founda…]]></summary>
 
 ・開催日時：令和7年3月4日（火）〜8日（土）4泊5日
 ・申込締切…]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【派遣学生募集】カリフォルニア大学アーバイン校（UCI）への交換留学（2025年秋渡航分）について]]></title>
-        <id>0e66b2a0156a1f375702d40dd064afdd</id>
-        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5729"/>
-        <updated>2024-12-05T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[本学協定校のカリフォルニア大学アーバイン校（UCI）について、2025年秋渡航分の交換留学の募集が開始しました。
-下記募集内容をよく確認の上、manabaにて応募してください。
-
-【募集内容の概要】
-留学先：カリフォルニア大学アーバイン校（UCI）
-留学期間：2025年9月～（1学期間 or 1年間）
-募集人員：１～２名
-対象：学群生
-
-応募方法：
-応募はmanabaで行います。
-まず、manab…]]></summary>
     </entry>
 </feed>

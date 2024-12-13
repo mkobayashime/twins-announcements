@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "6ce0e4206b34192b0ca81f57d5a22316",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5752",
+            "title": "【見逃し配信】令和6年度薬品・実験廃棄物管理研修会",
+            "summary": "令和６年１２月１０日（火）に開催しました令和６年度薬品・実験廃棄物管理研修会（教職員向け）の見逃し配信を下記のとおり行います。\n記\n\n１．内　容\n「廃棄物管理責任者にお願いしたいこと」（10分48秒）環境安全管理室長　中村修教授\n「廃棄物の手続き等」（21分26秒）環境安全管理室　貴志孝洋准教授\n「廃棄物持ち込みＮＧ集」（11分25秒）リスク・安全管理課　富沢美紀技術職員\n２．対象者　　廃棄物管理…",
+            "date_modified": "2024-12-13T03:00:00.000Z"
+        },
+        {
             "id": "7aa815c4f5eafc05f41ade92e1e254c7",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5751",
             "title": "Microsoft 365 ストレージの容量制限について",
@@ -135,13 +142,6 @@
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5730",
             "title": "【案内】茨城県国際交流協会「上海スタディツアー 4泊5日」",
             "summary": "茨城県国際交流協会より「上海スタディツアー」の募集案内がありました。\nこのツアーは、日本国総領事館などの公的機関や、現地の企業等を訪問し、\n中国の社会・経済情勢や日本との関係などを直接聞くことができます。\nまた、現地の若い世代の人々との交流やグループでの市街地自由散策などもあります。\n\n関心のある方は、ぜひごお申し込みください。\n\n・開催日時：令和7年3月4日（火）〜8日（土）4泊5日\n・申込締切…",
-            "date_modified": "2024-12-05T03:00:00.000Z"
-        },
-        {
-            "id": "0e66b2a0156a1f375702d40dd064afdd",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5729",
-            "title": "【派遣学生募集】カリフォルニア大学アーバイン校（UCI）への交換留学（2025年秋渡航分）について",
-            "summary": "本学協定校のカリフォルニア大学アーバイン校（UCI）について、2025年秋渡航分の交換留学の募集が開始しました。\n下記募集内容をよく確認の上、manabaにて応募してください。\n\n【募集内容の概要】\n留学先：カリフォルニア大学アーバイン校（UCI）\n留学期間：2025年9月～（1学期間 or 1年間）\n募集人員：１～２名\n対象：学群生\n\n応募方法：\n応募はmanabaで行います。\nまず、manab…",
             "date_modified": "2024-12-05T03:00:00.000Z"
         }
     ]
