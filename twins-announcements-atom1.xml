@@ -2,14 +2,14 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/mkobayashime/twins-announcements</id>
     <title>在学生へのお知らせ | 筑波大学</title>
-    <updated>2024-12-13T07:01:49.056Z</updated>
+    <updated>2024-12-13T09:07:36.038Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://github.com/mkobayashime/twins-announcements"/>
     <subtitle>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</subtitle>
     <entry>
         <title type="html"><![CDATA[サーバメンテナンスに伴う図書館webサービスの一時停止(12/26)]]></title>
         <id>6d67510b68d094dcb5ae1f6c84db8a87</id>
-        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5753"/>
+        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5755"/>
         <updated>2024-12-13T03:00:00.000Z</updated>
         <summary type="html"><![CDATA[サーバメンテナンスにより、下記の期間、図書館の一部サービスがご利用いただけなくなります。
 
@@ -20,6 +20,18 @@
 　・Tulips Searchで図書館の本・雑誌の検索はできますが、所在や請求記号の確認はできなくなります。
 　・代替手段としてCiNii Booksをご利用ください。
 　…]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Library web services temporarily unavailable due to server maintenance (Dec 26)]]></title>
+        <id>55736b6f92ef3c6b7f5e77d18b834e4d</id>
+        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5754"/>
+        <updated>2024-12-13T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Due to the maintenance of the servers, some services will be unavailable during the following period.
+
+Thursday, December 26, 2024, 9 am to 5 pm
+
+・Library catalog (OPAC)
+　・Tulips Search will be able t…]]></summary>
     </entry>
     <entry>
         <title type="html"><![CDATA[【見逃し配信】令和6年度薬品・実験廃棄物管理研修会]]></title>
@@ -252,18 +264,5 @@ Submission: Division of Student Exchange (1A101)
 CEGLOCのHP（https://www.cegloc.tsukuba.ac.jp/page/page001075.html）
 「結果確認用サイト」より各自でログインの上取得してください。
 テスト結果の紙配…]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【奨学金/Scholarship】公益信託久保田豊基金助成対象者募集/The Kubota Fund　Scholarship Grant Academic Year 2025/2026]]></title>
-        <id>b201d9da286347e0b86f3b09516cea5b</id>
-        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5731"/>
-        <updated>2024-12-06T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[応募締め切り：2025年1月17日(金)午後10時（日本標準時）
-提出先：事務局へ直接応募
-募集要項：(PDF(資料1))
-応募ページ：https://mypage.3050.i-webs.jp/kbt2023/
-
-Deadline: January 17 (Fri.), 2025　22：00（PM10:00）（JST）
-Submission: Please apply to the founda…]]></summary>
     </entry>
 </feed>
