@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/mkobayashime/twins-announcements</id>
     <title>在学生へのお知らせ | 筑波大学</title>
-    <updated>2024-12-16T21:06:59.522Z</updated>
+    <updated>2024-12-17T03:14:32.080Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://github.com/mkobayashime/twins-announcements"/>
     <subtitle>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</subtitle>
+    <entry>
+        <title type="html"><![CDATA[【周知】【茨城県警察本部生活安全総務課】いばらき防犯ファイルについて]]></title>
+        <id>76297db2351566babdc5076f5178a31d</id>
+        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5760"/>
+        <updated>2024-12-17T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[
+茨城県警察本部生活安全総務課よりいばらき防犯ファイル（令和６年11月末）の送付がありましたので、添付のとおり掲載いたします。
+本ファイルは、県内で実際に発生した犯罪の情報のほか、防犯対策に役立つ情報が含まれております。ご自身の安全のためにも、ぜひご確認ください。
+]]></summary>
+    </entry>
     <entry>
         <title type="html"><![CDATA[令和７年度 春学期の共通科目「情報リテラシー（講義）」「情報リテラシー（演習）」のTA募集]]></title>
         <id>1986e80b62c753104f23a40b41466bb2</id>
@@ -252,18 +262,5 @@ BHEによるバックアップのもと桐公会は、これから公務員を�
 Deadline: December 23rd  5pm, 2024
 Submission: Division of Student Exchange (1A101)
 ＊Submit required documents to isc-shien＃un.tsukuba.ac.jp…]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[令和7年度　JEES・T.バナージインド留学生奨学金申請について]]></title>
-        <id>a9fa30373b604ed0f51f07074c5a0093</id>
-        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5733"/>
-        <updated>2024-12-06T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[令和7年度　JEES・T.バナージインド留学生奨学金
-
-*応募期限：2024年12月23日（月）17時厳守
-*提 出 先：学生部学生交流課（1A101）　　　　　　　　　　　　　　　　　　　　　　　　　　
-※提出書類をisc-shien#un.tsukuba.ac.jpへ提出してください。（＃を＠に替えてください）
-※「留学」ビザを持つインド国籍の方に限ります。
-※応募者多数の場合は学内選考の上、…]]></summary>
     </entry>
 </feed>
