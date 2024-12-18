@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "4ea2a64412a77f5f57b3955f52270bcc",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5764",
+            "title": "【中央図書館】2025年度ラーニング・アドバイザー募集",
+            "summary": "来年度の学生サポートデスク（中央図書館2階ラーニング・スクエア内）のスタッフを募集します。\n学生の学習支援に興味のある【大学院生】の皆様、ぜひご応募ください！\n\nご希望の方は、以下のURLから指定の履歴書書式をダウンロードしてご記入のうえ、\n中央図書館レファレンスデスクへご持参ください。（受付時間：平日9時-17時）\nなお、書類審査がありますので「志望の動機」はしっかりご記入ください。\n\n※来年度…",
+            "date_modified": "2024-12-18T03:00:00.000Z"
+        },
+        {
             "id": "8341ee5d10c78fbe3c64cadbfa92bf4e",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5763",
             "title": "【再掲】茨城県国際交流協会「上海スタディツアー 4泊5日」",
@@ -135,13 +142,6 @@
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5739",
             "title": "【再掲】学群生対象＿AIMSプログラム2025秋学期渡航分募集開始！",
             "summary": "東南アジアとの交換留学プログラム・AIMSプログラムは、2025年秋学期渡航分（2025年8～11月頃に渡航）の募集を開始しました。\nプログラムの専用サイトの募集要項を熟読し理解した上で、【2025年2月14日（金）17：00まで】に必要書類を提出してください。ご応募お待ちしています！\n※留学期間中を通して、本学の学群の正規課程に在籍する方が対象です。詳細は募集要項をご確認ください。\n",
-            "date_modified": "2024-12-09T03:00:00.000Z"
-        },
-        {
-            "id": "db21767d2c3d07188004ce652a974e31",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5738",
-            "title": "（BHE）Teams内 情報発信チームのご案内",
-            "summary": "キャリア支援チームに日々届く、企業・自治体・学校からの求人情報や\nインターンシップ情報を発信しています。\n卒業年度別、進路志望別に就活に役立つ情報をタイムリーに掲載します。\nチームに参加して皆さんの就活に役立ててください。\n\n【参加方法】\nチーム名「BHEキャリア支援チーム　情報発信」\n１つ目のリンクから参加してください。\n\n【掲載情報例】\n（カテゴリー）\n企業（25卒向け・26卒向け）、推薦求人…",
             "date_modified": "2024-12-09T03:00:00.000Z"
         }
     ]
