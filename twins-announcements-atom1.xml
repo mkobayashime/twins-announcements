@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/mkobayashime/twins-announcements</id>
     <title>在学生へのお知らせ | 筑波大学</title>
-    <updated>2024-12-17T21:06:47.005Z</updated>
+    <updated>2024-12-18T00:02:46.356Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://github.com/mkobayashime/twins-announcements"/>
     <subtitle>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</subtitle>
+    <entry>
+        <title type="html"><![CDATA[【再掲】茨城県国際交流協会「上海スタディツアー 4泊5日」]]></title>
+        <id>8341ee5d10c78fbe3c64cadbfa92bf4e</id>
+        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5763"/>
+        <updated>2024-12-18T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[茨城県国際交流協会より「上海スタディツアー」の募集案内がありました。
+このツアーは、日本国総領事館などの公的機関や、現地の企業等を訪問し、
+中国の社会・経済情勢や日本との関係などを直接聞くことができます。
+また、現地の若い世代の人々との交流やグループでの市街地自由散策などもあります。
+・開催日時：令和7年3月4日（火）〜8日（土）4泊5日
+・申込締切：令和6年12月23日（月）まで
+・詳細：htt…]]></summary>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【再掲・Repost】海外からの肉製品や果物・野菜等の持ち込みについて Bringing in meat Products, Fruits,Vegetables, etc. From Abroad]]></title>
         <id>e875f7eb31a82bc719ac5d6d7341ea60</id>
@@ -242,20 +255,5 @@ http://syushoku.sec.tsukuba.a…]]></summary>
 【掲載情報例】
 （カテゴリー）
 企業（25卒向け・26卒向け）、推薦求人…]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[(BHE)公務員を目指す学生の皆さんへ　「桐公会（とうこうかい）」　・コミュニケーションツールのご案内]]></title>
-        <id>9f771bca603d7056f085a1fecf45469e</id>
-        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5736"/>
-        <updated>2024-12-09T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[公務員を目指す皆さんへ
-
-筑波大学ではこの度、「公務員を志望する後輩を支援したい！」という意思を持った内定学生によって
-「桐公会（とうこうかい）」が立ち上げられました。(学生団体ではなく有志の集まりです。)
-
-BHEによるバックアップのもと桐公会は、これから公務員を目指す筑波大生の皆さんを応援するために、
-下記のような活動を予定しています。
-①公務員を目指す学生からの相談対応
-（試験対策・仕事につ…]]></summary>
     </entry>
 </feed>
