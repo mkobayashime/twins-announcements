@@ -5,6 +5,20 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "e43695fb7d2b421c030753890dd11a97",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5766",
+            "title": "2025年度　公立学校教員採用試験　大学推薦のご案内",
+            "summary": "公立学校教員採用試験受験予定の方へ\n\n令和7年度実施　公立学校教員採用試験　大学推薦の案内を開始しています。\n詳細は以下に掲載していますのでご確認ください。\n\n〇BHE HP「教員採用試験の学校推薦情報」\n（下記URL1番目）\nhttps://syushoku.sec.tsukuba.ac.jp/pls/piss/HPFILE_STU_STAFF.kyoinfo\n\n〇Teams「BHEキャリア支援…",
+            "date_modified": "2024-12-18T03:00:00.000Z"
+        },
+        {
+            "id": "5b08aea6f64daf628bdc558624648d19",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5765",
+            "title": "1月開催　就活支援企画 面接・GD練習会のご案内",
+            "summary": "BHE主催　就活支援企画　面接・GD練習会　チャレンジ実践会\n\n就活に即役立つ、面接・GD練習会です。対面でもオンラインでも開催します。\n\n対面面接編ではビジネスマナーも学ぶことができます。\n就活中の方、ISの選考を受ける方、参加して役立ててください。\nBHEキャリア支援チームのファシリテーターからフィードバックがあります。（日本語での開催です）\n\n【詳細と申込み】\n＜対面＞\n1月17日（金）\nG…",
+            "date_modified": "2024-12-18T03:00:00.000Z"
+        },
+        {
             "id": "4ea2a64412a77f5f57b3955f52270bcc",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5764",
             "title": "【中央図書館】2025年度ラーニング・アドバイザー募集",
@@ -129,20 +143,6 @@
             "title": "【周知】自転車の無料回収について",
             "summary": "　本学では、つくば市シルバー人材センターの協力を得て、昨年に引き続き自転車の回収・リサイクルを実施しております。本学を卒業及び修了するにあたって、自転車が不要となった場合は、下記回収場所に持ち込んでいただくようご協力お願いいたします。\n\n回収日程：月～金10：00～16：00（土・日・祝日を除く）\n※12月30日（月）～1月３日（金）の年末年始を除く\n場　　所：大学会館駐車場内（桐葉橋下）\n必要な…",
             "date_modified": "2024-12-10T03:00:00.000Z"
-        },
-        {
-            "id": "ae51427658f0bed893cabfcc7a297e5b",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5741",
-            "title": "12月12日（木）13：00-14：30「Business Leaders’ Seminar/ビジネスリーダーズセミナー」開催のお知らせ （対象：全学生）",
-            "summary": "ヒューマンバイオロジー学位プログラムでは授業の一環として「Business Leaders’ Seminar/ビジネスリーダーズセミナー」を開催しています。\n本セミナーは、世界のトップビジネスリーダーを招き、オムニバス形式でキャリア形成やビジネスに関する成功と失敗の話などの経験を紹介するものです。\n\n12月12日（木）13：00-14：30に開催するセミナーでは、株式会社Doki 代表取締役　土岐…",
-            "date_modified": "2024-12-10T03:00:00.000Z"
-        },
-        {
-            "id": "4e988d33d2fdcca030454fbe3360582a",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5739",
-            "title": "【再掲】学群生対象＿AIMSプログラム2025秋学期渡航分募集開始！",
-            "summary": "東南アジアとの交換留学プログラム・AIMSプログラムは、2025年秋学期渡航分（2025年8～11月頃に渡航）の募集を開始しました。\nプログラムの専用サイトの募集要項を熟読し理解した上で、【2025年2月14日（金）17：00まで】に必要書類を提出してください。ご応募お待ちしています！\n※留学期間中を通して、本学の学群の正規課程に在籍する方が対象です。詳細は募集要項をご確認ください。\n",
-            "date_modified": "2024-12-09T03:00:00.000Z"
         }
     ]
 }
