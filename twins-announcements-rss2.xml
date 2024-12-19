@@ -4,10 +4,22 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Wed, 18 Dec 2024 15:07:37 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 19 Dec 2024 08:01:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
+        <item>
+            <title><![CDATA[【参加者募集】体育スポーツ局主催キャリアフェア]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5767</link>
+            <guid>c2f3b6e3ea2e57e7cd6aaee3d51c4417</guid>
+            <pubDate>Thu, 19 Dec 2024 03:00:00 GMT</pubDate>
+            <description><![CDATA[体育スポーツ局では、大学で運動部の所属している又は所属していた学生のための就職イベント「Student-Athelteキャリアフェア」を開催します。
+選手、スタッフ、マネージャー、コーチなど運動部活動に関わる全ての26卒（3年生/M1）の方が対象です。
+
+■Student-Athleteキャリアフェアとは？
+筑波大学の学生アスリート・スタッフを採用したい企業のみが出展する就職イベント
+・イベント当…]]></description>
+        </item>
         <item>
             <title><![CDATA[2025年度　公立学校教員採用試験　大学推薦のご案内]]></title>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5766</link>
@@ -211,11 +223,12 @@ SharePoint サイトの容量の上限を見直すこととなりました。現
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5747</link>
             <guid>892e803034e24c3bdcf334c9e6fdf5fd</guid>
             <pubDate>Wed, 11 Dec 2024 03:00:00 GMT</pubDate>
-            <description><![CDATA[本プログラムは、筑波⼤学の学⽣の皆さんに国際的に活躍する⼈材になってほしいとの願いのもと、学⽣の皆さんへ国際的な共修の場を提供し、海外での多⽂化共修を経験することを⽬指した事業です。
+            <description><![CDATA[CiC協定大学 アルファラビ・カザフ国立大学への短期語学研修（派遣）を下記の日程にて開催することになりましたので、参加学生を募集します。
 
-本プログラムに参加することで、海外の⼤学で現地学⽣達と共に課題の解決を導き出す⼀連のプロセスを経験することができ、⽂化や⾔語を超えた国際的なコミュニケーションを体感することができます。
-
-今回は三井不動産株式会社様…]]></description>
+▶︎研修期間：2025年2月23日（日）〜3月23日（日）（29日間。移動日含む。）
+▶︎研修地：カザフ国立大学（カザフスタン共和国アルマトイ市）
+▶︎対象：学群生、大学院生（ロシア語未修者も応募可能）
+▶︎研修内容：ロシア語研修、カザフ語研修、異文化理解研修…]]></description>
         </item>
         <item>
             <title><![CDATA[【明日12/12開催】2024年度夏季　海外研修 合同帰国報告会 （カザフスタン・キルギス）]]></title>
@@ -254,18 +267,6 @@ http://syushoku.sec.tsukuba.a…]]></description>
 これからの大学生活をどう過ごそうか考えている方、
 ぜひ、先輩に質問してみてください。
 【参加…]]></description>
-        </item>
-        <item>
-            <title><![CDATA[【周知】自転車の無料回収について]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5742</link>
-            <guid>ce332762d25fe851943625a7d880e274</guid>
-            <pubDate>Tue, 10 Dec 2024 03:00:00 GMT</pubDate>
-            <description><![CDATA[　本学では、つくば市シルバー人材センターの協力を得て、昨年に引き続き自転車の回収・リサイクルを実施しております。本学を卒業及び修了するにあたって、自転車が不要となった場合は、下記回収場所に持ち込んでいただくようご協力お願いいたします。
-
-回収日程：月～金10：00～16：00（土・日・祝日を除く）
-※12月30日（月）～1月３日（金）の年末年始を除く
-場　　所：大学会館駐車場内（桐葉橋下）
-必要な…]]></description>
         </item>
     </channel>
 </rss>

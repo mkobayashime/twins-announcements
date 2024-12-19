@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "c2f3b6e3ea2e57e7cd6aaee3d51c4417",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5767",
+            "title": "【参加者募集】体育スポーツ局主催キャリアフェア",
+            "summary": "体育スポーツ局では、大学で運動部の所属している又は所属していた学生のための就職イベント「Student-Athelteキャリアフェア」を開催します。\n選手、スタッフ、マネージャー、コーチなど運動部活動に関わる全ての26卒（3年生/M1）の方が対象です。\n\n■Student-Athleteキャリアフェアとは？\n筑波大学の学生アスリート・スタッフを採用したい企業のみが出展する就職イベント\n・イベント当…",
+            "date_modified": "2024-12-19T03:00:00.000Z"
+        },
+        {
             "id": "e43695fb7d2b421c030753890dd11a97",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5766",
             "title": "2025年度　公立学校教員採用試験　大学推薦のご案内",
@@ -113,7 +120,7 @@
             "id": "892e803034e24c3bdcf334c9e6fdf5fd",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5747",
             "title": "【締め切り迫る！12/13】ロシア語・カザフ語短期語学研修（カザフスタン） 2025年2月 参加者募集　　　（海外プロジェクト研修）",
-            "summary": "本プログラムは、筑波⼤学の学⽣の皆さんに国際的に活躍する⼈材になってほしいとの願いのもと、学⽣の皆さんへ国際的な共修の場を提供し、海外での多⽂化共修を経験することを⽬指した事業です。\n\n本プログラムに参加することで、海外の⼤学で現地学⽣達と共に課題の解決を導き出す⼀連のプロセスを経験することができ、⽂化や⾔語を超えた国際的なコミュニケーションを体感することができます。\n\n今回は三井不動産株式会社様…",
+            "summary": "CiC協定大学 アルファラビ・カザフ国立大学への短期語学研修（派遣）を下記の日程にて開催することになりましたので、参加学生を募集します。\n\n▶︎研修期間：2025年2月23日（日）〜3月23日（日）（29日間。移動日含む。）\n▶︎研修地：カザフ国立大学（カザフスタン共和国アルマトイ市）\n▶︎対象：学群生、大学院生（ロシア語未修者も応募可能）\n▶︎研修内容：ロシア語研修、カザフ語研修、異文化理解研修…",
             "date_modified": "2024-12-11T03:00:00.000Z"
         },
         {
@@ -136,13 +143,6 @@
             "title": "本日開催（茗渓会）12月ぶっちゃけ相談会　特集テーマ 「博士後期課程進学者」",
             "summary": "毎月2名のOBOGが登壇し、ご自身のキャリアについて話をしてくださいます。\nみなさんが卒業した後に、どんなキャリア（人生、仕事、就職）を歩むのか？\n考えるきっかけとして、少し先に卒業した先輩が、何を考え、どう決断したのかを聞いてみてください。\nこれから就活が始まる方、卒業後の進路やキャリアに悩んでいる方、\nこれからの大学生活をどう過ごそうか考えている方、\nぜひ、先輩に質問してみてください。\n【参加…",
             "date_modified": "2024-12-11T03:00:00.000Z"
-        },
-        {
-            "id": "ce332762d25fe851943625a7d880e274",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5742",
-            "title": "【周知】自転車の無料回収について",
-            "summary": "　本学では、つくば市シルバー人材センターの協力を得て、昨年に引き続き自転車の回収・リサイクルを実施しております。本学を卒業及び修了するにあたって、自転車が不要となった場合は、下記回収場所に持ち込んでいただくようご協力お願いいたします。\n\n回収日程：月～金10：00～16：00（土・日・祝日を除く）\n※12月30日（月）～1月３日（金）の年末年始を除く\n場　　所：大学会館駐車場内（桐葉橋下）\n必要な…",
-            "date_modified": "2024-12-10T03:00:00.000Z"
         }
     ]
 }
