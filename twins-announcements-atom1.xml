@@ -2,10 +2,24 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/mkobayashime/twins-announcements</id>
     <title>在学生へのお知らせ | 筑波大学</title>
-    <updated>2024-12-19T21:06:35.469Z</updated>
+    <updated>2024-12-20T03:05:53.726Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://github.com/mkobayashime/twins-announcements"/>
     <subtitle>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</subtitle>
+    <entry>
+        <title type="html"><![CDATA[桐公会・BHE共催　　「25年度公務員試験対策勉強会」]]></title>
+        <id>446f3896eac1b6733aa4d2d8a4d6b30a</id>
+        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5768"/>
+        <updated>2024-12-20T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[主に2025年度に公務員試験を受験する学生を対象とした勉強会です。
+2026年度以降に受験予定の方や公務員に興味のある方も参加することができます。
+公務員試験の筆記・面接対策、併願先などについて
+今年度の内定者から話を聞き、具体的かつ実践的な対策を学ぶことができます。
+
+日時：2025年1月15日（水）　15：30-17：00
+場所：1E棟302講義室
+内容：公務員試験について内定者と少人数懇談（…]]></summary>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【参加者募集】体育スポーツ局主催キャリアフェア]]></title>
         <id>c2f3b6e3ea2e57e7cd6aaee3d51c4417</id>
@@ -252,18 +266,5 @@ BHEキャリア支援チームのファシリテーターからフィードバ�
 集団面接編　10：00-11：30
 BHE HP「イベントコンテンツ動画・資料」→「就職情報」
 http://syushoku.sec.tsukuba.a…]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[本日開催（茗渓会）12月ぶっちゃけ相談会　特集テーマ 「博士後期課程進学者」]]></title>
-        <id>b5357e1320ac2169c1d2907fe3098467</id>
-        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5743"/>
-        <updated>2024-12-11T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[毎月2名のOBOGが登壇し、ご自身のキャリアについて話をしてくださいます。
-みなさんが卒業した後に、どんなキャリア（人生、仕事、就職）を歩むのか？
-考えるきっかけとして、少し先に卒業した先輩が、何を考え、どう決断したのかを聞いてみてください。
-これから就活が始まる方、卒業後の進路やキャリアに悩んでいる方、
-これからの大学生活をどう過ごそうか考えている方、
-ぜひ、先輩に質問してみてください。
-【参加…]]></summary>
     </entry>
 </feed>
