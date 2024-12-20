@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "729e871bc9e5db68ad26ea916bba3e76",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5769",
+            "title": "HPVワクチンの集団接種の実施について【再掲】",
+            "summary": "本学では、国がキャッチアップ期間（令和４（2022）年４月～令和７年（2025）３月の３年間）を設けてHPVワクチン接種の積極的な勧奨を再開していることから、教職員及び学生の健康管理の観点から、接種対象となる方のうち、希望者を対象として実施（接種場所：筑波大学附属病院）するものです。\n接種対象者、接種期間及び予約方法等の詳細については、下記リンク先より、スチューデントサポートセンターHPの「センタ…",
+            "date_modified": "2024-12-20T03:00:00.000Z"
+        },
+        {
             "id": "446f3896eac1b6733aa4d2d8a4d6b30a",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5768",
             "title": "桐公会・BHE共催　　「25年度公務員試験対策勉強会」",
@@ -135,13 +142,6 @@
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5746",
             "title": "【明日12/12開催】2024年度夏季　海外研修 合同帰国報告会 （カザフスタン・キルギス）",
             "summary": "2024年度夏季に実施した、カザフスタン・キルギスにおける海外研修（ロシア語 キルギス語 語学研修/海外プロジェクト研修/カザフ語語学研修）を修了した学生による帰国報告会を実施いたします。\n\n中央アジアやロシア語圏の文化、海外研修などに関心のある方、是非お気軽にご来聴ください。\n※2025年2月派遣「ロシア語・カザフ語研修（派遣先：アルファラビ・カザフ国立大学）」に参加予定の方にとってはカザフスタ…",
-            "date_modified": "2024-12-11T03:00:00.000Z"
-        },
-        {
-            "id": "0fdd7df23b4f64f30e390da5e1358b5a",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5744",
-            "title": "（BHE)12月17日　オンライン面接練習会のご案内",
-            "summary": "BHE主催　就活支援企画　面接・GD練習会　チャレンジ実践会\n\n就活に即役立つ、面接・GD練習会です。オンラインで開催します。\nBHEキャリア支援チームのファシリテーターからフィードバックがあります。（日本語での開催です）\n\n12月17日（火）\n集団面接編　10：00-11：30\nBHE HP「イベントコンテンツ動画・資料」→「就職情報」\nhttp://syushoku.sec.tsukuba.a…",
             "date_modified": "2024-12-11T03:00:00.000Z"
         }
     ]
