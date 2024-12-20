@@ -5,6 +5,20 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "2d197bd86eb1349a695e213326b4c500",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5772",
+            "title": "About Additional Medical Fees (Notice)",
+            "summary": "From December 2024, “Additional Medical Fees” has been introduced at medical institutions in Ibaraki Prefecture. This fee is charged when a patient's use of the emergency room is judged to be non-emer…",
+            "date_modified": "2024-12-20T03:00:00.000Z"
+        },
+        {
+            "id": "bb41212bad0ef9f58b7959eca0d9f8ab",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5771",
+            "title": "選定療養費について（お知らせ）",
+            "summary": "2024年12月から、茨城県内の医療機関では「選定療養費」が導入されました。この費用は、救急外来を利用した際に緊急性がないと判断された場合に発生します。\n\n●緊急性の判断について\n救急車を呼んだ時点の情報をもとに、医師が緊急性を判断します。以下の場合、緊急性がないとみなされることがあります。\n・症状が軽い場合\n・通常の診療時間内に受診可能な場合\n\n●救急車を呼ぶか迷ったら\n迷った際は、#7119（…",
+            "date_modified": "2024-12-20T03:00:00.000Z"
+        },
+        {
             "id": "729e871bc9e5db68ad26ea916bba3e76",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5769",
             "title": "HPVワクチンの集団接種の実施について【再掲】",
@@ -128,20 +142,6 @@
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5748",
             "title": "【参加者募集】国立成功大学（NCKU）学生交流プログラム DOJO in TAIWAN Sponsored by Mitsui Fudosan",
             "summary": "本プログラムは、筑波⼤学の学⽣の皆さんに国際的に活躍する⼈材になってほしいとの願いのもと、学⽣の皆さんへ国際的な共修の場を提供し、海外での多⽂化共修を経験することを⽬指した事業です。\n\n本プログラムに参加することで、海外の⼤学で現地学⽣達と共に課題の解決を導き出す⼀連のプロセスを経験することができ、⽂化や⾔語を超えた国際的なコミュニケーションを体感することができます。\n\n今回は三井不動産株式会社様…",
-            "date_modified": "2024-12-11T03:00:00.000Z"
-        },
-        {
-            "id": "892e803034e24c3bdcf334c9e6fdf5fd",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5747",
-            "title": "【締め切り迫る！12/13】ロシア語・カザフ語短期語学研修（カザフスタン） 2025年2月 参加者募集　　　（海外プロジェクト研修）",
-            "summary": "CiC協定大学 アルファラビ・カザフ国立大学への短期語学研修（派遣）を下記の日程にて開催することになりましたので、参加学生を募集します。\n\n▶︎研修期間：2025年2月23日（日）〜3月23日（日）（29日間。移動日含む。）\n▶︎研修地：カザフ国立大学（カザフスタン共和国アルマトイ市）\n▶︎対象：学群生、大学院生（ロシア語未修者も応募可能）\n▶︎研修内容：ロシア語研修、カザフ語研修、異文化理解研修…",
-            "date_modified": "2024-12-11T03:00:00.000Z"
-        },
-        {
-            "id": "68d729b52c14232345fdc65534f684d5",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5746",
-            "title": "【明日12/12開催】2024年度夏季　海外研修 合同帰国報告会 （カザフスタン・キルギス）",
-            "summary": "2024年度夏季に実施した、カザフスタン・キルギスにおける海外研修（ロシア語 キルギス語 語学研修/海外プロジェクト研修/カザフ語語学研修）を修了した学生による帰国報告会を実施いたします。\n\n中央アジアやロシア語圏の文化、海外研修などに関心のある方、是非お気軽にご来聴ください。\n※2025年2月派遣「ロシア語・カザフ語研修（派遣先：アルファラビ・カザフ国立大学）」に参加予定の方にとってはカザフスタ…",
             "date_modified": "2024-12-11T03:00:00.000Z"
         }
     ]
