@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/mkobayashime/twins-announcements</id>
     <title>在学生へのお知らせ | 筑波大学</title>
-    <updated>2024-12-22T21:06:19.636Z</updated>
+    <updated>2024-12-23T01:28:40.695Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://github.com/mkobayashime/twins-announcements"/>
     <subtitle>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</subtitle>
+    <entry>
+        <title type="html"><![CDATA[サーバー更新作業に伴うキャリア支援チームHP及び就職情報提供システム停止のお知らせ]]></title>
+        <id>f7e5c4dc1ece4147cbde4ed3df16263e</id>
+        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5774"/>
+        <updated>2024-12-23T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[サーバー更新作業に伴い、下記の時間、キャリア支援チームホームページ等へ繋がりにくくなります。
+【作業日時】12/24（火）9：00　～　13：15（予定）
+
+なお、サーバー更新作業中は、「学内専用ページ」、「ガイダンス等及び模試試験登録・申請」、「進路進捗状況届」へのアクセスはできません。
+皆様にはご迷惑をおかけいたしますが、ご理解、ご協力の程よろしくお願いいたします。]]></summary>
+    </entry>
     <entry>
         <title type="html"><![CDATA[About Additional Medical Fees (Notice)]]></title>
         <id>2d197bd86eb1349a695e213326b4c500</id>
@@ -248,16 +259,5 @@ SharePoint サイトの容量の上限を見直すこととなりました。現
         <updated>2024-12-12T03:00:00.000Z</updated>
         <summary type="html"><![CDATA[茨城県から、令和７年国勢調査 調査員の募集についてお知らせがありました。
 詳細はリーフレットやHPをご覧ください。]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【参加者募集】国立成功大学（NCKU）学生交流プログラム DOJO in TAIWAN Sponsored by Mitsui Fudosan]]></title>
-        <id>14fa5bd2458b389455a1318370d9e12e</id>
-        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5748"/>
-        <updated>2024-12-11T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[本プログラムは、筑波⼤学の学⽣の皆さんに国際的に活躍する⼈材になってほしいとの願いのもと、学⽣の皆さんへ国際的な共修の場を提供し、海外での多⽂化共修を経験することを⽬指した事業です。
-
-本プログラムに参加することで、海外の⼤学で現地学⽣達と共に課題の解決を導き出す⼀連のプロセスを経験することができ、⽂化や⾔語を超えた国際的なコミュニケーションを体感することができます。
-
-今回は三井不動産株式会社様…]]></summary>
     </entry>
 </feed>

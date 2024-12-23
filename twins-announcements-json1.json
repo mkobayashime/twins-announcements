@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "f7e5c4dc1ece4147cbde4ed3df16263e",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5774",
+            "title": "サーバー更新作業に伴うキャリア支援チームHP及び就職情報提供システム停止のお知らせ",
+            "summary": "サーバー更新作業に伴い、下記の時間、キャリア支援チームホームページ等へ繋がりにくくなります。\n【作業日時】12/24（火）9：00　～　13：15（予定）\n\nなお、サーバー更新作業中は、「学内専用ページ」、「ガイダンス等及び模試試験登録・申請」、「進路進捗状況届」へのアクセスはできません。\n皆様にはご迷惑をおかけいたしますが、ご理解、ご協力の程よろしくお願いいたします。",
+            "date_modified": "2024-12-23T03:00:00.000Z"
+        },
+        {
             "id": "2d197bd86eb1349a695e213326b4c500",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5772",
             "title": "About Additional Medical Fees (Notice)",
@@ -136,13 +143,6 @@
             "title": "【周知】令和７年国勢調査 調査員の募集について",
             "summary": "茨城県から、令和７年国勢調査 調査員の募集についてお知らせがありました。\n詳細はリーフレットやHPをご覧ください。",
             "date_modified": "2024-12-12T03:00:00.000Z"
-        },
-        {
-            "id": "14fa5bd2458b389455a1318370d9e12e",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5748",
-            "title": "【参加者募集】国立成功大学（NCKU）学生交流プログラム DOJO in TAIWAN Sponsored by Mitsui Fudosan",
-            "summary": "本プログラムは、筑波⼤学の学⽣の皆さんに国際的に活躍する⼈材になってほしいとの願いのもと、学⽣の皆さんへ国際的な共修の場を提供し、海外での多⽂化共修を経験することを⽬指した事業です。\n\n本プログラムに参加することで、海外の⼤学で現地学⽣達と共に課題の解決を導き出す⼀連のプロセスを経験することができ、⽂化や⾔語を超えた国際的なコミュニケーションを体感することができます。\n\n今回は三井不動産株式会社様…",
-            "date_modified": "2024-12-11T03:00:00.000Z"
         }
     ]
 }
