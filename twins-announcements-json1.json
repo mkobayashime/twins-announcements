@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "32d662847494a5b6169bea26d9bc4d71",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5777",
+            "title": "2025年度 筑波大学ベンチャー起業支援事業「つばさplus」の募集開始",
+            "summary": "筑波大学は、学内の優れた研究成果・技術シーズを基にした成長ポテンシャルの高い大学発ベンチャーの創出を促進することを目的として、ベンチャー起業支援事業「つばさ」を推進しています。\nつばさ事業は2020年度より5年間実施し、30チームの支援を行い、12社の起業や多くの学外プログラムの採択にいたりました。\n2025年度よりベンチャー起業支援事業「つばさplus」として、より効果的な社会実装への支援事業を…",
+            "date_modified": "2024-12-23T03:00:00.000Z"
+        },
+        {
             "id": "446f3896eac1b6733aa4d2d8a4d6b30a",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5776",
             "title": "桐公会・BHE共催　　「25年度公務員試験対策勉強会」",
@@ -135,13 +142,6 @@
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5755",
             "title": "サーバメンテナンスに伴う図書館webサービスの一時停止(12/26)",
             "summary": "サーバメンテナンスにより、下記の期間、図書館の一部サービスがご利用いただけなくなります。\n\n2024年12月26日(木) 9:00 ～ 17:00頃\n以下の図書館webサービスが利用できなくなります。\n\n・蔵書検索(OPAC)\n　・Tulips Searchで図書館の本・雑誌の検索はできますが、所在や請求記号の確認はできなくなります。\n　・代替手段としてCiNii Booksをご利用ください。\n　…",
-            "date_modified": "2024-12-13T03:00:00.000Z"
-        },
-        {
-            "id": "55736b6f92ef3c6b7f5e77d18b834e4d",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5754",
-            "title": "Library web services temporarily unavailable due to server maintenance (Dec 26)",
-            "summary": "Due to the maintenance of the servers, some services will be unavailable during the following period.\n\nThursday, December 26, 2024, 9 am to 5 pm\n\n・Library catalog (OPAC)\n　・Tulips Search will be able t…",
             "date_modified": "2024-12-13T03:00:00.000Z"
         }
     ]
