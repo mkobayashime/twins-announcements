@@ -4,10 +4,28 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Mon, 23 Dec 2024 01:28:40 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 23 Dec 2024 03:06:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
+        <item>
+            <title><![CDATA[【BHE】1月22日（水）～25日（土）筑波大生のキャリアイベント～企業説明会～]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5775</link>
+            <guid>e83274711e3145d1947d9379db778ea8</guid>
+            <pubDate>Mon, 23 Dec 2024 03:00:00 GMT</pubDate>
+            <description><![CDATA[11月に開催した業界研究会に続き、1月に企業説明会を開催いたします。
+
+企業研究会では、企業や業界について理解することはもちろん
+いろいろな企業の話を聞くことで、自分がどんな分野に興味を持って
+いるのかが分かり、自己分析にもなります。
+
+3月1日の求人情報解禁前最後の大規模キャリアイベントです。
+学生アンケートを反映して、今回は土曜日も開催します！
+
+◎全学生対象
+◎途中参加・退出可能
+◎服装自由…]]></description>
+        </item>
         <item>
             <title><![CDATA[サーバー更新作業に伴うキャリア支援チームHP及び就職情報提供システム停止のお知らせ]]></title>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5774</link>
@@ -253,14 +271,6 @@ Thursday, December 26, 2024, 9 am to 5 pm
 ひっ迫し、令和6年11月現在における利用状況は 約80％が既に利用済みとなっております。
 　この状況を踏まえ、本学においても、Microsoft 関連サービスにおける各個人のストレージ、
 SharePoint サイトの容量の上限を見直すこととなりました。現時点で決まっている内容について、下記の…]]></description>
-        </item>
-        <item>
-            <title><![CDATA[【周知】令和７年国勢調査 調査員の募集について]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5750</link>
-            <guid>2aab29c3a82392f137a4bbb57cbaf250</guid>
-            <pubDate>Thu, 12 Dec 2024 03:00:00 GMT</pubDate>
-            <description><![CDATA[茨城県から、令和７年国勢調査 調査員の募集についてお知らせがありました。
-詳細はリーフレットやHPをご覧ください。]]></description>
         </item>
     </channel>
 </rss>

@@ -2,10 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/mkobayashime/twins-announcements</id>
     <title>在学生へのお知らせ | 筑波大学</title>
-    <updated>2024-12-23T01:28:40.695Z</updated>
+    <updated>2024-12-23T03:06:36.117Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://github.com/mkobayashime/twins-announcements"/>
     <subtitle>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</subtitle>
+    <entry>
+        <title type="html"><![CDATA[【BHE】1月22日（水）～25日（土）筑波大生のキャリアイベント～企業説明会～]]></title>
+        <id>e83274711e3145d1947d9379db778ea8</id>
+        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5775"/>
+        <updated>2024-12-23T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[11月に開催した業界研究会に続き、1月に企業説明会を開催いたします。
+
+企業研究会では、企業や業界について理解することはもちろん
+いろいろな企業の話を聞くことで、自分がどんな分野に興味を持って
+いるのかが分かり、自己分析にもなります。
+
+3月1日の求人情報解禁前最後の大規模キャリアイベントです。
+学生アンケートを反映して、今回は土曜日も開催します！
+
+◎全学生対象
+◎途中参加・退出可能
+◎服装自由…]]></summary>
+    </entry>
     <entry>
         <title type="html"><![CDATA[サーバー更新作業に伴うキャリア支援チームHP及び就職情報提供システム停止のお知らせ]]></title>
         <id>f7e5c4dc1ece4147cbde4ed3df16263e</id>
@@ -251,13 +269,5 @@ Thursday, December 26, 2024, 9 am to 5 pm
 ひっ迫し、令和6年11月現在における利用状況は 約80％が既に利用済みとなっております。
 　この状況を踏まえ、本学においても、Microsoft 関連サービスにおける各個人のストレージ、
 SharePoint サイトの容量の上限を見直すこととなりました。現時点で決まっている内容について、下記の…]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【周知】令和７年国勢調査 調査員の募集について]]></title>
-        <id>2aab29c3a82392f137a4bbb57cbaf250</id>
-        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5750"/>
-        <updated>2024-12-12T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[茨城県から、令和７年国勢調査 調査員の募集についてお知らせがありました。
-詳細はリーフレットやHPをご覧ください。]]></summary>
     </entry>
 </feed>
