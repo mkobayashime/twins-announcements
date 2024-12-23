@@ -4,10 +4,24 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Mon, 23 Dec 2024 03:06:36 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 23 Dec 2024 05:01:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
+        <item>
+            <title><![CDATA[桐公会・BHE共催　　「25年度公務員試験対策勉強会」]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5776</link>
+            <guid>446f3896eac1b6733aa4d2d8a4d6b30a</guid>
+            <pubDate>Mon, 23 Dec 2024 03:00:00 GMT</pubDate>
+            <description><![CDATA[主に2025年度に公務員試験を受験する学生を対象とした勉強会です。
+2026年度以降に受験予定の方や公務員に興味のある方も参加することができます。
+公務員試験の筆記・面接対策、併願先などについて
+今年度の内定者から話を聞き、具体的かつ実践的な対策を学ぶことができます。
+
+日時：2025年1月15日（水）　15：30-17：00
+場所：1E棟302講義室
+内容：公務員試験について内定者と少人数懇談（…]]></description>
+        </item>
         <item>
             <title><![CDATA[【BHE】1月22日（水）～25日（土）筑波大生のキャリアイベント～企業説明会～]]></title>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5775</link>
@@ -261,16 +275,6 @@ Thursday, December 26, 2024, 9 am to 5 pm
 
 ・Library catalog (OPAC)
 　・Tulips Search will be able t…]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Microsoft 365 ストレージの容量制限について]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5751</link>
-            <guid>7aa815c4f5eafc05f41ade92e1e254c7</guid>
-            <pubDate>Thu, 12 Dec 2024 03:00:00 GMT</pubDate>
-            <description><![CDATA[　Microsoft 社のテナントのストレージ容量の仕様変更に伴い、本学においてもストレージの利用状況が
-ひっ迫し、令和6年11月現在における利用状況は 約80％が既に利用済みとなっております。
-　この状況を踏まえ、本学においても、Microsoft 関連サービスにおける各個人のストレージ、
-SharePoint サイトの容量の上限を見直すこととなりました。現時点で決まっている内容について、下記の…]]></description>
         </item>
     </channel>
 </rss>
