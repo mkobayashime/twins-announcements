@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "f4cd4b8e559e960b6bdf6017b59c7f3a",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5779",
+            "title": "【周知】筑波大学構内（１C棟横駐輪場）への「つくチャリ」サイクルポートの設置について",
+            "summary": "この度、つくば市からの依頼により、大学構内につくば市シェアサイクル事業「つくチャリ」のサイクルポートを設置することとなりましたので、お知らせいたします。\nなお、入試等で大学への入構制限を行う期間については、構内のサイクルポートの利用はできなくなりますので、予めご承知おきください。\n\n設置場所　：１C棟横駐輪場（ポート名：筑波大学第一エリア）\n設置日　　：令和７年1月22日（水）（※1）\n利用開始日…",
+            "date_modified": "2024-12-24T03:00:00.000Z"
+        },
+        {
             "id": "27f531313eb2ef66d25fb9077e392e51",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5778",
             "title": "【県立歴史館　なぜ恋してしまうのか？展、ホワイトライトアップのお知らせ】",
@@ -135,13 +142,6 @@
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5758",
             "title": "【2年生・最終学年学群生対象】全国学生調査2024の調査協力のお願い",
             "summary": "各学群２年生・最終学年の皆さんへ\n\n教育推進課です。\n\n本学は文部科学省が実施する「全国学生調査2024」に参加しております。\n\n調査対象となっている各学群の2年生及び最終学年の皆さんをmanabaにて\n下記のコースに登録しており、レポートより本調査のご案内を差し上げて\nおりますのでご確認ください。\n\nコース：【2年生・最終学年対象調査】全国学生調査\nレポート：全国学生調査2024の調査協力のお願…",
-            "date_modified": "2024-12-16T03:00:00.000Z"
-        },
-        {
-            "id": "30ea8e4a83d8f0d84effc4227e768a21",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5756",
-            "title": "締切まで2か月！‗AIMSプログラム2025秋学期渡航分募集",
-            "summary": "東南アジアとの交換留学プログラム・AIMSプログラムは2025年秋学期渡航分（2025年8～11月頃に渡航）を募集しています。\n\nプログラム専用サイトの募集要項を熟読し理解した上で、【2025年2月14日（金）17：00まで】に必要書類を提出してください。ご応募お待ちしています！\n\n※留学期間中を通して、本学学群の正規課程に在籍する方が対象です。詳細は募集要項をご確認ください。",
             "date_modified": "2024-12-16T03:00:00.000Z"
         }
     ]

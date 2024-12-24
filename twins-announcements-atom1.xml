@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/mkobayashime/twins-announcements</id>
     <title>在学生へのお知らせ | 筑波大学</title>
-    <updated>2024-12-24T01:28:39.846Z</updated>
+    <updated>2024-12-24T07:01:40.440Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://github.com/mkobayashime/twins-announcements"/>
     <subtitle>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</subtitle>
+    <entry>
+        <title type="html"><![CDATA[【周知】筑波大学構内（１C棟横駐輪場）への「つくチャリ」サイクルポートの設置について]]></title>
+        <id>f4cd4b8e559e960b6bdf6017b59c7f3a</id>
+        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5779"/>
+        <updated>2024-12-24T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[この度、つくば市からの依頼により、大学構内につくば市シェアサイクル事業「つくチャリ」のサイクルポートを設置することとなりましたので、お知らせいたします。
+なお、入試等で大学への入構制限を行う期間については、構内のサイクルポートの利用はできなくなりますので、予めご承知おきください。
+
+設置場所　：１C棟横駐輪場（ポート名：筑波大学第一エリア）
+設置日　　：令和７年1月22日（水）（※1）
+利用開始日…]]></summary>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【県立歴史館　なぜ恋してしまうのか？展、ホワイトライトアップのお知らせ】]]></title>
         <id>27f531313eb2ef66d25fb9077e392e51</id>
@@ -253,16 +265,5 @@ https://forms.office.…]]></summary>
 
 コース：【2年生・最終学年対象調査】全国学生調査
 レポート：全国学生調査2024の調査協力のお願…]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[締切まで2か月！‗AIMSプログラム2025秋学期渡航分募集]]></title>
-        <id>30ea8e4a83d8f0d84effc4227e768a21</id>
-        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5756"/>
-        <updated>2024-12-16T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[東南アジアとの交換留学プログラム・AIMSプログラムは2025年秋学期渡航分（2025年8～11月頃に渡航）を募集しています。
-
-プログラム専用サイトの募集要項を熟読し理解した上で、【2025年2月14日（金）17：00まで】に必要書類を提出してください。ご応募お待ちしています！
-
-※留学期間中を通して、本学学群の正規課程に在籍する方が対象です。詳細は募集要項をご確認ください。]]></summary>
     </entry>
 </feed>
