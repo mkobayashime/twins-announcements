@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "27f531313eb2ef66d25fb9077e392e51",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5778",
+            "title": "【県立歴史館　なぜ恋してしまうのか？展、ホワイトライトアップのお知らせ】",
+            "summary": "　茨城県教育庁より、「なぜ恋してしまうのか？展」の開催のお知らせがありましたので、ご連絡いたします。\n　水戸市緑町にあります県立歴史館では、１月２６日（日）まで、「なぜ恋してしまうのか？展」を開催しています。\n　この展覧会は、長い歴史の中で形を変えながらも続いてきた、私たちにとって切り離せないテーマである恋愛。その「恋愛」のあり方をテーマに、過去を学び未来を考えることをコンセプトに開催するものです…",
+            "date_modified": "2024-12-24T03:00:00.000Z"
+        },
+        {
             "id": "32d662847494a5b6169bea26d9bc4d71",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5777",
             "title": "2025年度 筑波大学ベンチャー起業支援事業「つばさplus」の募集開始",
@@ -136,13 +143,6 @@
             "title": "締切まで2か月！‗AIMSプログラム2025秋学期渡航分募集",
             "summary": "東南アジアとの交換留学プログラム・AIMSプログラムは2025年秋学期渡航分（2025年8～11月頃に渡航）を募集しています。\n\nプログラム専用サイトの募集要項を熟読し理解した上で、【2025年2月14日（金）17：00まで】に必要書類を提出してください。ご応募お待ちしています！\n\n※留学期間中を通して、本学学群の正規課程に在籍する方が対象です。詳細は募集要項をご確認ください。",
             "date_modified": "2024-12-16T03:00:00.000Z"
-        },
-        {
-            "id": "6d67510b68d094dcb5ae1f6c84db8a87",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5755",
-            "title": "サーバメンテナンスに伴う図書館webサービスの一時停止(12/26)",
-            "summary": "サーバメンテナンスにより、下記の期間、図書館の一部サービスがご利用いただけなくなります。\n\n2024年12月26日(木) 9:00 ～ 17:00頃\n以下の図書館webサービスが利用できなくなります。\n\n・蔵書検索(OPAC)\n　・Tulips Searchで図書館の本・雑誌の検索はできますが、所在や請求記号の確認はできなくなります。\n　・代替手段としてCiNii Booksをご利用ください。\n　…",
-            "date_modified": "2024-12-13T03:00:00.000Z"
         }
     ]
 }

@@ -4,10 +4,19 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Mon, 23 Dec 2024 21:06:51 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 24 Dec 2024 01:28:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
+        <item>
+            <title><![CDATA[【県立歴史館　なぜ恋してしまうのか？展、ホワイトライトアップのお知らせ】]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5778</link>
+            <guid>27f531313eb2ef66d25fb9077e392e51</guid>
+            <pubDate>Tue, 24 Dec 2024 03:00:00 GMT</pubDate>
+            <description><![CDATA[　茨城県教育庁より、「なぜ恋してしまうのか？展」の開催のお知らせがありましたので、ご連絡いたします。
+　水戸市緑町にあります県立歴史館では、１月２６日（日）まで、「なぜ恋してしまうのか？展」を開催しています。
+　この展覧会は、長い歴史の中で形を変えながらも続いてきた、私たちにとって切り離せないテーマである恋愛。その「恋愛」のあり方をテーマに、過去を学び未来を考えることをコンセプトに開催するものです…]]></description>
+        </item>
         <item>
             <title><![CDATA[2025年度 筑波大学ベンチャー起業支援事業「つばさplus」の募集開始]]></title>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5777</link>
@@ -257,21 +266,6 @@ https://forms.office.…]]></description>
 プログラム専用サイトの募集要項を熟読し理解した上で、【2025年2月14日（金）17：00まで】に必要書類を提出してください。ご応募お待ちしています！
 
 ※留学期間中を通して、本学学群の正規課程に在籍する方が対象です。詳細は募集要項をご確認ください。]]></description>
-        </item>
-        <item>
-            <title><![CDATA[サーバメンテナンスに伴う図書館webサービスの一時停止(12/26)]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5755</link>
-            <guid>6d67510b68d094dcb5ae1f6c84db8a87</guid>
-            <pubDate>Fri, 13 Dec 2024 03:00:00 GMT</pubDate>
-            <description><![CDATA[サーバメンテナンスにより、下記の期間、図書館の一部サービスがご利用いただけなくなります。
-
-2024年12月26日(木) 9:00 ～ 17:00頃
-以下の図書館webサービスが利用できなくなります。
-
-・蔵書検索(OPAC)
-　・Tulips Searchで図書館の本・雑誌の検索はできますが、所在や請求記号の確認はできなくなります。
-　・代替手段としてCiNii Booksをご利用ください。
-　…]]></description>
         </item>
     </channel>
 </rss>
