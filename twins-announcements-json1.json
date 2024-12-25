@@ -5,6 +5,27 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "cbb10a092adfb5b38e27f601ff6fcc61",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5785",
+            "title": "桐公会・BHE共催「25年度公務員試験対策勉強会」",
+            "summary": "主に2025年度に公務員試験を受験する学生を対象とした勉強会です。\n2026年度以降に受験予定の方や公務員に興味のある方も参加することができます。\n公務員試験の筆記・面接対策、併願先などについて\n今年度の内定者から話を聞き、具体的かつ実践的な対策を学ぶことができます。\n\n日時：2025年1月15日（水）　15：30-17：00\n場所：1E棟302講義室\n内容：公務員試験について内定者と少人数懇談（…",
+            "date_modified": "2024-12-25T03:00:00.000Z"
+        },
+        {
+            "id": "cd8c253a7e0ac5a3dc534b5f9cac87aa",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5784",
+            "title": "（BHE)就活ハラスメントで困っていませんか？",
+            "summary": "就活ハラスメントで困っていませんか？\n就活ハラスメントを知っていますか？。\n就活ハラスメントとは、応募する企業やその採用担当者が優越的な立場を利用して就職活動中や\nインターンシップ中の学生に行うセクハラやパワハラなどのこと。\n決して許されない行為です。\n「就活ハラスメントかも・・・」と感じたら、どうすればいいのか？\n相談先を以下紹介します。\n小さいことでも何か気になることがあれば、まずは気軽に相談…",
+            "date_modified": "2024-12-25T03:00:00.000Z"
+        },
+        {
+            "id": "e01679d337ba5b71bb9320a2038d5034",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5783",
+            "title": "（茗渓会キャリア支援）1月15日ぶっちゃけ相談会「就活支援業界編」",
+            "summary": "これから就活が始まる方、卒業後の進路やキャリアに悩んでいる方、\nこれからの大学生活をどう過ごそうか考えている方、\nぜひ、先輩に質問してみてください。\n\nぶっちゃけ相談会とは\n【今月の登壇者】特集テーマ 「就活支援業界」\n１人目は、株式会社リクルート、２人目は、株式会社マイナビ　で活躍されているお二人が登場します。\nみなさんが卒業した後に、どんなキャリア（人生、仕事、就職）を歩むのか？\n考えるきっか…",
+            "date_modified": "2024-12-25T03:00:00.000Z"
+        },
+        {
             "id": "57c959b614b154b6c7120a3572d3bb1a",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5782",
             "title": "【1月21日(火)-23日(木)】「日本文化ウィーク」をスチューデント・コモンズ(1A203)にて開催します！",
@@ -122,27 +143,6 @@
             "title": "【再掲】茨城県国際交流協会「上海スタディツアー 4泊5日」",
             "summary": "茨城県国際交流協会より「上海スタディツアー」の募集案内がありました。\nこのツアーは、日本国総領事館などの公的機関や、現地の企業等を訪問し、\n中国の社会・経済情勢や日本との関係などを直接聞くことができます。\nまた、現地の若い世代の人々との交流やグループでの市街地自由散策などもあります。\n・開催日時：令和7年3月4日（火）〜8日（土）4泊5日\n・申込締切：令和6年12月23日（月）まで\n・詳細：htt…",
             "date_modified": "2024-12-18T03:00:00.000Z"
-        },
-        {
-            "id": "e875f7eb31a82bc719ac5d6d7341ea60",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5762",
-            "title": "【再掲・Repost】海外からの肉製品や果物・野菜等の持ち込みについて Bringing in meat Products, Fruits,Vegetables, etc. From Abroad",
-            "summary": "海外から日本への肉製品や果物・野菜等の持ち込みは法律で厳しく制限されており、悪質性、違法性のある持ち込みに対しては近年厳罰化されています。\n\n筑波大学でも実際に、特に国際郵便での持ち込みの事例が複数発生しています。\n以下の点ご注意ください。\n・海外から持ち込む食品の成分表を確認し、製品に肉由来の成分がないか確認する\n・家族や知人に、肉製品や果物・野菜等を郵送しないよう周知する\n・万が一禁止製品が届…",
-            "date_modified": "2024-12-17T03:00:00.000Z"
-        },
-        {
-            "id": "873ff52d715ad5edee50a301e34151ce",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5761",
-            "title": "【重要】学群３年次生対象 TOEIC® L&R IPテスト(オンライン）追試実施期間変更＆受験方法に関するお知らせ",
-            "summary": "１１月実施 学群３年次生対象TOEIC® L&R IPテスト(オンライン）未受験者を対象とした追試を１月に実施いたします。\n１１月実施時にやむを得ず受験できなかった未受験者は、追試期間中に必ず受験するようにしてください。\n\n１）追試実施期間\n\n       ２０２５年　１月　９日（木）　０：００から\n       ２０２５年　１月１６日（木）２３：５９まで　　８日間※\n　  （ただし、１月１５日（…",
-            "date_modified": "2024-12-17T03:00:00.000Z"
-        },
-        {
-            "id": "76297db2351566babdc5076f5178a31d",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5760",
-            "title": "【周知】【茨城県警察本部生活安全総務課】いばらき防犯ファイルについて",
-            "summary": "\n茨城県警察本部生活安全総務課よりいばらき防犯ファイル（令和６年11月末）の送付がありましたので、添付のとおり掲載いたします。\n本ファイルは、県内で実際に発生した犯罪の情報のほか、防犯対策に役立つ情報が含まれております。ご自身の安全のためにも、ぜひご確認ください。\n",
-            "date_modified": "2024-12-17T03:00:00.000Z"
         }
     ]
 }
