@@ -4,10 +4,20 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Wed, 25 Dec 2024 06:01:55 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 25 Dec 2024 08:01:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
+        <item>
+            <title><![CDATA[【周知】　青少年をアルバイト感覚で犯罪に加担させないための対策について]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5786</link>
+            <guid>05aff892e4caad7fea9b419969a6a3f7</guid>
+            <pubDate>Wed, 25 Dec 2024 03:00:00 GMT</pubDate>
+            <description><![CDATA[文部科学省高等教育局学生支援課より注意喚起がありましたのでお知らせいたします。
+
+昨今、青少年が目先の利益を手に入れるため、いわゆる「闇バイト」に安易に応募し、特殊詐欺や強盗等の重大な犯罪に加担してしまうことが大きな社会問題となっており、これまでに逮捕された者や警察に保護を求めてきた者のうち、10代から20代の若年層が一定数を占めています。
+現在、報道等においては、「闇バイト」という用語が使用され…]]></description>
+        </item>
         <item>
             <title><![CDATA[桐公会・BHE共催「25年度公務員試験対策勉強会」]]></title>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5785</link>
@@ -255,19 +265,6 @@ G…]]></description>
 なお、書類審査がありますので「志望の動機」はしっかりご記入ください。
 
 ※来年度…]]></description>
-        </item>
-        <item>
-            <title><![CDATA[【再掲】茨城県国際交流協会「上海スタディツアー 4泊5日」]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5763</link>
-            <guid>8341ee5d10c78fbe3c64cadbfa92bf4e</guid>
-            <pubDate>Wed, 18 Dec 2024 03:00:00 GMT</pubDate>
-            <description><![CDATA[茨城県国際交流協会より「上海スタディツアー」の募集案内がありました。
-このツアーは、日本国総領事館などの公的機関や、現地の企業等を訪問し、
-中国の社会・経済情勢や日本との関係などを直接聞くことができます。
-また、現地の若い世代の人々との交流やグループでの市街地自由散策などもあります。
-・開催日時：令和7年3月4日（火）〜8日（土）4泊5日
-・申込締切：令和6年12月23日（月）まで
-・詳細：htt…]]></description>
         </item>
     </channel>
 </rss>
