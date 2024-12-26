@@ -5,6 +5,27 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "71b3a9e9ac8e8043f740dc0963642057",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5795",
+            "title": "【Notice】Request for Submission of Pledge for Security Export Control卒業時等安全保障輸出管理に係る誓約書提出のお願い",
+            "summary": "2024年度大学院修了予定者（退学等を含む）の皆様へ\nTo students scheduled to complete graduate school in AY2024 (including withdrawals, etc.)\n安全保障に関連する機微技術流出の防止のために、大学院修了時に「外国為替及び外国貿易法」を遵守する誓約書をmanabaから提出していただくことになっています。ご協力をよ…",
+            "date_modified": "2024-12-26T03:00:00.000Z"
+        },
+        {
+            "id": "c5cd96d2cc8b5021f41fb189da6ed144",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5794",
+            "title": "令和6年度春季休業前の海外危機管理セミナーについて",
+            "summary": "海外危機管理セミナーを開催しますので、お知らせいたします。\n海外危機管理に関するスペシャリストをお招きし、海外渡航前の準備事項と、現地での安全対策について学びます。\n\n\n１．日時：　令和7年1月27日（月）18：15～19：15\n\n２．内容・講師：\n\n　①「安全対策として渡航前準備事項を確認し、海外渡航中の安全管理を考える」\n　　　講師：日本エマージェンシーアシスタンス　齋藤 進　氏\n\n\n　②「海…",
+            "date_modified": "2024-12-26T03:00:00.000Z"
+        },
+        {
+            "id": "48e679b8d733a9e6328fcceb575ffd34",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5793",
+            "title": "【周知】「年末年始期間における「孤独・孤立相談ダイヤル ＃９９９９」等の実施について」について",
+            "summary": "内閣府孤独・孤立対策推進室より、「年末年始期間における「孤独・孤立相談ダイヤル ＃９９９９」の実施のお知らせがありましたのでご案内いたします。\n\n孤独・孤立の問題は、単身世帯等の増加等により更なる深刻化が懸念されております。\nこの相談ダイヤルでは、令和６年１２月２５日（水）から令和７年１月４日（土）までの期間において、「孤独や孤立に悩む方々が気軽に相談できる窓口として電話、チャット、メールでの相談…",
+            "date_modified": "2024-12-26T03:00:00.000Z"
+        },
+        {
             "id": "e2065bd011b806fb14f965fe12a35eb3",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5792",
             "title": "【周知】消費者志向経営の推進に係る啓発ポスターについて",
@@ -122,27 +143,6 @@
             "title": "【BHE】1月22日（水）～25日（土）筑波大生のキャリアイベント～企業説明会～",
             "summary": "11月に開催した業界研究会に続き、1月に企業説明会を開催いたします。\n\n企業研究会では、企業や業界について理解することはもちろん\nいろいろな企業の話を聞くことで、自分がどんな分野に興味を持って\nいるのかが分かり、自己分析にもなります。\n\n3月1日の求人情報解禁前最後の大規模キャリアイベントです。\n学生アンケートを反映して、今回は土曜日も開催します！\n\n◎全学生対象\n◎途中参加・退出可能\n◎服装自由…",
             "date_modified": "2024-12-23T03:00:00.000Z"
-        },
-        {
-            "id": "2d197bd86eb1349a695e213326b4c500",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5772",
-            "title": "About Additional Medical Fees (Notice)",
-            "summary": "From December 2024, “Additional Medical Fees” has been introduced at medical institutions in Ibaraki Prefecture. This fee is charged when a patient's use of the emergency room is judged to be non-emer…",
-            "date_modified": "2024-12-20T03:00:00.000Z"
-        },
-        {
-            "id": "bb41212bad0ef9f58b7959eca0d9f8ab",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5771",
-            "title": "選定療養費について（お知らせ）",
-            "summary": "2024年12月から、茨城県内の医療機関では「選定療養費」が導入されました。この費用は、救急外来を利用した際に緊急性がないと判断された場合に発生します。\n\n●緊急性の判断について\n救急車を呼んだ時点の情報をもとに、医師が緊急性を判断します。以下の場合、緊急性がないとみなされることがあります。\n・症状が軽い場合\n・通常の診療時間内に受診可能な場合\n\n●救急車を呼ぶか迷ったら\n迷った際は、#7119（…",
-            "date_modified": "2024-12-20T03:00:00.000Z"
-        },
-        {
-            "id": "729e871bc9e5db68ad26ea916bba3e76",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5769",
-            "title": "HPVワクチンの集団接種の実施について【再掲】",
-            "summary": "本学では、国がキャッチアップ期間（令和４（2022）年４月～令和７年（2025）３月の３年間）を設けてHPVワクチン接種の積極的な勧奨を再開していることから、教職員及び学生の健康管理の観点から、接種対象となる方のうち、希望者を対象として実施（接種場所：筑波大学附属病院）するものです。\n接種対象者、接種期間及び予約方法等の詳細については、下記リンク先より、スチューデントサポートセンターHPの「センタ…",
-            "date_modified": "2024-12-20T03:00:00.000Z"
         }
     ]
 }
