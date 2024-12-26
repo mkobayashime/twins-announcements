@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "2f90ef639ab7a920b3f994f4fed9f89d",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5787",
+            "title": "【周知】令和６年度　茨城県議会定例会広報ポスターの 図案募集について",
+            "summary": "茨城県議会では、定例会ごとに議会広報ポスターを作成し、広く県民に定例会の開催を周知しています。\n若者をはじめとした県民に分かりやすく参加しやすい県議会の環境づくりのため、学生・生徒を対象とした県議会広報ポスターの図案募集を下記のとおり実施します。\n１　応募期間：令和６年７月１日（月）から 令和７年２月 28 日（金）まで\n２　応募資格：茨城県内の学校\n３　コンセプト\n（１）デザイン部門\n・高校生や…",
+            "date_modified": "2024-12-26T03:00:00.000Z"
+        },
+        {
             "id": "05aff892e4caad7fea9b419969a6a3f7",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5786",
             "title": "【周知】　青少年をアルバイト感覚で犯罪に加担させないための対策について",
@@ -135,13 +142,6 @@
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5765",
             "title": "1月開催　就活支援企画 面接・GD練習会のご案内",
             "summary": "BHE主催　就活支援企画　面接・GD練習会　チャレンジ実践会\n\n就活に即役立つ、面接・GD練習会です。対面でもオンラインでも開催します。\n\n対面面接編ではビジネスマナーも学ぶことができます。\n就活中の方、ISの選考を受ける方、参加して役立ててください。\nBHEキャリア支援チームのファシリテーターからフィードバックがあります。（日本語での開催です）\n\n【詳細と申込み】\n＜対面＞\n1月17日（金）\nG…",
-            "date_modified": "2024-12-18T03:00:00.000Z"
-        },
-        {
-            "id": "4ea2a64412a77f5f57b3955f52270bcc",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5764",
-            "title": "【中央図書館】2025年度ラーニング・アドバイザー募集",
-            "summary": "来年度の学生サポートデスク（中央図書館2階ラーニング・スクエア内）のスタッフを募集します。\n学生の学習支援に興味のある【大学院生】の皆様、ぜひご応募ください！\n\nご希望の方は、以下のURLから指定の履歴書書式をダウンロードしてご記入のうえ、\n中央図書館レファレンスデスクへご持参ください。（受付時間：平日9時-17時）\nなお、書類審査がありますので「志望の動機」はしっかりご記入ください。\n\n※来年度…",
             "date_modified": "2024-12-18T03:00:00.000Z"
         }
     ]
