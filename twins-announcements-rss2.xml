@@ -4,7 +4,7 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Sat, 04 Jan 2025 09:06:49 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 04 Jan 2025 15:06:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
@@ -91,16 +91,6 @@ To students scheduled to complete graduate school in AY2024 (including withdrawa
 
 
 　②「海…]]></description>
-        </item>
-        <item>
-            <title><![CDATA[【周知】「年末年始期間における「孤独・孤立相談ダイヤル ＃９９９９」等の実施について」について]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5793</link>
-            <guid>48e679b8d733a9e6328fcceb575ffd34</guid>
-            <pubDate>Thu, 26 Dec 2024 03:00:00 GMT</pubDate>
-            <description><![CDATA[内閣府孤独・孤立対策推進室より、「年末年始期間における「孤独・孤立相談ダイヤル ＃９９９９」の実施のお知らせがありましたのでご案内いたします。
-
-孤独・孤立の問題は、単身世帯等の増加等により更なる深刻化が懸念されております。
-この相談ダイヤルでは、令和６年１２月２５日（水）から令和７年１月４日（土）までの期間において、「孤独や孤立に悩む方々が気軽に相談できる窓口として電話、チャット、メールでの相談…]]></description>
         </item>
         <item>
             <title><![CDATA[【周知】消費者志向経営の推進に係る啓発ポスターについて]]></title>
@@ -232,6 +222,21 @@ To students scheduled to complete graduate school in AY2024 (including withdrawa
 申込締切：2025年1月8日（水）12：00
 申込フォーム：必要事項を入力し、送信してください。
 https://forms.office.com/Pages/ResponsePage.aspx?id=_V1bnp1m-…]]></description>
+        </item>
+        <item>
+            <title><![CDATA[【奨学金/Scholarship】公益財団法人 東亜留学生育友会奨学金 /East Asian Circle of Applied Technology Foundation]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5780</link>
+            <guid>4cc0750c1e07fa202274cb9b848c0e17</guid>
+            <pubDate>Wed, 25 Dec 2024 03:00:00 GMT</pubDate>
+            <description><![CDATA[公益財団法人　東亜留学生育友会奨学金（2025年度）
+応募期限： 2025年2月3日(月)　※郵送必着
+提 出 先：財団へ直接応募
+募集要項：(PDF(資料1))
+申請書：(PDF(資料2) )
+※日本語能力が必要です。
+※この奨学金を受給する者は、2025年度の大学推薦奨学金の申請資格がありません。
+
+East Asian Circle of Applied Technology Foundat…]]></description>
         </item>
     </channel>
 </rss>
