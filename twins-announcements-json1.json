@@ -5,6 +5,20 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "71b3a9e9ac8e8043f740dc0963642057",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5819",
+            "title": "【Notice】Request for Submission of Pledge for Security Export Control卒業時等安全保障輸出管理に係る誓約書提出のお願い",
+            "summary": "2024年度大学院修了予定者（退学等を含む）の皆様へ\nTo students scheduled to complete graduate school in AY2024 (including withdrawals, etc.)\n安全保障に関連する機微技術流出の防止のために、大学院修了時に「外国為替及び外国貿易法」を遵守する誓約書をmanabaから提出していただくことになっています。ご協力をよ…",
+            "date_modified": "2025-01-06T03:00:00.000Z"
+        },
+        {
+            "id": "e01679d337ba5b71bb9320a2038d5034",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5818",
+            "title": "（茗渓会キャリア支援）1月15日ぶっちゃけ相談会「就活支援業界編」",
+            "summary": "これから就活が始まる方、卒業後の進路やキャリアに悩んでいる方、\nこれからの大学生活をどう過ごそうか考えている方、\nぜひ、先輩に質問してみてください。\n\nぶっちゃけ相談会とは\n【今月の登壇者】特集テーマ 「就活支援業界」\n１人目は、株式会社リクルート、２人目は、株式会社マイナビ　で活躍されているお二人が登場します。\nみなさんが卒業した後に、どんなキャリア（人生、仕事、就職）を歩むのか？\n考えるきっか…",
+            "date_modified": "2025-01-06T03:00:00.000Z"
+        },
+        {
             "id": "b39a720e93f0a892c45a4ea7da9a339c",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5817",
             "title": "【世帯用/Family Rooms】令和7年度学生宿舎入居者募集について/ AY 2025 Residence Hall Application",
@@ -128,20 +142,6 @@
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5785",
             "title": "桐公会・BHE共催「25年度公務員試験対策勉強会」",
             "summary": "主に2025年度に公務員試験を受験する学生を対象とした勉強会です。\n2026年度以降に受験予定の方や公務員に興味のある方も参加することができます。\n公務員試験の筆記・面接対策、併願先などについて\n今年度の内定者から話を聞き、具体的かつ実践的な対策を学ぶことができます。\n\n日時：2025年1月15日（水）　15：30-17：00\n場所：1E棟302講義室\n内容：公務員試験について内定者と少人数懇談（…",
-            "date_modified": "2024-12-25T03:00:00.000Z"
-        },
-        {
-            "id": "cd8c253a7e0ac5a3dc534b5f9cac87aa",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5784",
-            "title": "（BHE)就活ハラスメントで困っていませんか？",
-            "summary": "就活ハラスメントで困っていませんか？\n就活ハラスメントを知っていますか？。\n就活ハラスメントとは、応募する企業やその採用担当者が優越的な立場を利用して就職活動中や\nインターンシップ中の学生に行うセクハラやパワハラなどのこと。\n決して許されない行為です。\n「就活ハラスメントかも・・・」と感じたら、どうすればいいのか？\n相談先を以下紹介します。\n小さいことでも何か気になることがあれば、まずは気軽に相談…",
-            "date_modified": "2024-12-25T03:00:00.000Z"
-        },
-        {
-            "id": "e01679d337ba5b71bb9320a2038d5034",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5783",
-            "title": "（茗渓会キャリア支援）1月15日ぶっちゃけ相談会「就活支援業界編」",
-            "summary": "これから就活が始まる方、卒業後の進路やキャリアに悩んでいる方、\nこれからの大学生活をどう過ごそうか考えている方、\nぜひ、先輩に質問してみてください。\n\nぶっちゃけ相談会とは\n【今月の登壇者】特集テーマ 「就活支援業界」\n１人目は、株式会社リクルート、２人目は、株式会社マイナビ　で活躍されているお二人が登場します。\nみなさんが卒業した後に、どんなキャリア（人生、仕事、就職）を歩むのか？\n考えるきっか…",
             "date_modified": "2024-12-25T03:00:00.000Z"
         }
     ]
