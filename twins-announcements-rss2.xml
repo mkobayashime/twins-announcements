@@ -4,10 +4,29 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Mon, 06 Jan 2025 02:26:00 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 06 Jan 2025 04:01:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
+        <item>
+            <title><![CDATA[【学生無料】第15回つくばリサイタルシリーズ ほのカルテット〜弦楽四重奏の魅力を解き明かす〜]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5820</link>
+            <guid>0b3ce7f86aaed5aef52613477a1e21b7</guid>
+            <pubDate>Mon, 06 Jan 2025 03:00:00 GMT</pubDate>
+            <description><![CDATA[2025/1/25(土)　つくばカピオホール
+開場: 13:30 / 開始: 14:00
+
+出演者
+ほのカルテット
+　ヴァイオリン：岸本萌乃加
+　ヴァイオリン：林周雅
+　ヴィオラ： 長田健志
+　チェロ ：蟹江慶行　
+
+参考ショート動画
+https://www.youtube.com/shorts/cwi10AT3RxM
+<https://www.youtube.com/shorts/cwi10AT…]]></description>
+        </item>
         <item>
             <title><![CDATA[【Notice】Request for Submission of Pledge for Security Export Control卒業時等安全保障輸出管理に係る誓約書提出のお願い]]></title>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5819</link>
@@ -217,20 +236,6 @@ To students scheduled to complete graduate school in AY2024 (including withdrawa
 
 昨今、青少年が目先の利益を手に入れるため、いわゆる「闇バイト」に安易に応募し、特殊詐欺や強盗等の重大な犯罪に加担してしまうことが大きな社会問題となっており、これまでに逮捕された者や警察に保護を求めてきた者のうち、10代から20代の若年層が一定数を占めています。
 現在、報道等においては、「闇バイト」という用語が使用され…]]></description>
-        </item>
-        <item>
-            <title><![CDATA[桐公会・BHE共催「25年度公務員試験対策勉強会」]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5785</link>
-            <guid>cbb10a092adfb5b38e27f601ff6fcc61</guid>
-            <pubDate>Wed, 25 Dec 2024 03:00:00 GMT</pubDate>
-            <description><![CDATA[主に2025年度に公務員試験を受験する学生を対象とした勉強会です。
-2026年度以降に受験予定の方や公務員に興味のある方も参加することができます。
-公務員試験の筆記・面接対策、併願先などについて
-今年度の内定者から話を聞き、具体的かつ実践的な対策を学ぶことができます。
-
-日時：2025年1月15日（水）　15：30-17：00
-場所：1E棟302講義室
-内容：公務員試験について内定者と少人数懇談（…]]></description>
         </item>
     </channel>
 </rss>
