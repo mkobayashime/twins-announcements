@@ -4,7 +4,7 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Mon, 06 Jan 2025 09:07:57 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 06 Jan 2025 15:07:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
@@ -95,15 +95,6 @@ To students scheduled to complete graduate school in AY2024 (including withdrawa
 １人目は、株式会社リクルート、２人目は、株式会社マイナビ　で活躍されているお二人が登場します。
 みなさんが卒業した後に、どんなキャリア（人生、仕事、就職）を歩むのか？
 考えるきっか…]]></description>
-        </item>
-        <item>
-            <title><![CDATA[【世帯用/Family Rooms】令和7年度学生宿舎入居者募集について/ AY 2025 Residence Hall Application]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5817</link>
-            <guid>b39a720e93f0a892c45a4ea7da9a339c</guid>
-            <pubDate>Mon, 06 Jan 2025 03:00:00 GMT</pubDate>
-            <description><![CDATA[【世帯用/Family Rooms（２月期 February Call）】
-令和7年度学生宿舎入居募集（在学生向け）を添付ファイルの通りお知らせいたします。
-We would like to inform you of AY 2025 Application call for student residence halls for current students as the attached …]]></description>
         </item>
         <item>
             <title><![CDATA[【Event Info】 “Hello World” ハローワールド（小学生との交流会）]]></title>
@@ -235,6 +226,15 @@ To students scheduled to complete graduate school in AY2024 (including withdrawa
         <item>
             <title><![CDATA[【Notice】Request for Submission of Pledge for Security Export Control卒業時等安全保障輸出管理に係る誓約書提出のお願い]]></title>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5791</link>
+            <guid>71b3a9e9ac8e8043f740dc0963642057</guid>
+            <pubDate>Thu, 26 Dec 2024 03:00:00 GMT</pubDate>
+            <description><![CDATA[2024年度大学院修了予定者（退学等を含む）の皆様へ
+To students scheduled to complete graduate school in AY2024 (including withdrawals, etc.)
+安全保障に関連する機微技術流出の防止のために、大学院修了時に「外国為替及び外国貿易法」を遵守する誓約書をmanabaから提出していただくことになっています。ご協力をよ…]]></description>
+        </item>
+        <item>
+            <title><![CDATA[【Notice】Request for Submission of Pledge for Security Export Control卒業時等安全保障輸出管理に係る誓約書提出のお願い]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5789</link>
             <guid>71b3a9e9ac8e8043f740dc0963642057</guid>
             <pubDate>Thu, 26 Dec 2024 03:00:00 GMT</pubDate>
             <description><![CDATA[2024年度大学院修了予定者（退学等を含む）の皆様へ
