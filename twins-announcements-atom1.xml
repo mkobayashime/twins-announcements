@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/mkobayashime/twins-announcements</id>
     <title>在学生へのお知らせ | 筑波大学</title>
-    <updated>2025-01-06T04:01:41.232Z</updated>
+    <updated>2025-01-06T05:01:42.078Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://github.com/mkobayashime/twins-announcements"/>
     <subtitle>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</subtitle>
+    <entry>
+        <title type="html"><![CDATA[【再掲】トビタテ！留学JAPAN新・日本代表プログラム【大学生等対象】2025年度（第17期） 留学計画の添削希望者募集について（2025年1月8日12時締切）]]></title>
+        <id>f1042d666dd5f3d3db14b0acf7fbadf8</id>
+        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5821"/>
+        <updated>2025-01-06T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[留学計画の添削を希望する方を募り、応募するコースや地域に応じて、先輩トビタテ生を紹介します。下記申込フォームからお申し込みください。１月中旬以降、先輩トビタテ生をご紹介します。
+
+申込締切：2025年1月8日（水）12：00
+申込フォーム：必要事項を入力し、送信してください。
+https://forms.office.com/Pages/ResponsePage.aspx?id=_V1bnp1m-…]]></summary>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【学生無料】第15回つくばリサイタルシリーズ ほのカルテット〜弦楽四重奏の魅力を解き明かす〜]]></title>
         <id>0b3ce7f86aaed5aef52613477a1e21b7</id>
@@ -224,15 +235,5 @@ To students scheduled to complete graduate school in AY2024 (including withdrawa
 ３　コンセプト
 （１）デザイン部門
 ・高校生や…]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【周知】　青少年をアルバイト感覚で犯罪に加担させないための対策について]]></title>
-        <id>05aff892e4caad7fea9b419969a6a3f7</id>
-        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5786"/>
-        <updated>2024-12-25T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[文部科学省高等教育局学生支援課より注意喚起がありましたのでお知らせいたします。
-
-昨今、青少年が目先の利益を手に入れるため、いわゆる「闇バイト」に安易に応募し、特殊詐欺や強盗等の重大な犯罪に加担してしまうことが大きな社会問題となっており、これまでに逮捕された者や警察に保護を求めてきた者のうち、10代から20代の若年層が一定数を占めています。
-現在、報道等においては、「闇バイト」という用語が使用され…]]></summary>
     </entry>
 </feed>

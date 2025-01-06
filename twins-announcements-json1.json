@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "f1042d666dd5f3d3db14b0acf7fbadf8",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5821",
+            "title": "【再掲】トビタテ！留学JAPAN新・日本代表プログラム【大学生等対象】2025年度（第17期） 留学計画の添削希望者募集について（2025年1月8日12時締切）",
+            "summary": "留学計画の添削を希望する方を募り、応募するコースや地域に応じて、先輩トビタテ生を紹介します。下記申込フォームからお申し込みください。１月中旬以降、先輩トビタテ生をご紹介します。\n\n申込締切：2025年1月8日（水）12：00\n申込フォーム：必要事項を入力し、送信してください。\nhttps://forms.office.com/Pages/ResponsePage.aspx?id=_V1bnp1m-…",
+            "date_modified": "2025-01-06T03:00:00.000Z"
+        },
+        {
             "id": "0b3ce7f86aaed5aef52613477a1e21b7",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5820",
             "title": "【学生無料】第15回つくばリサイタルシリーズ ほのカルテット〜弦楽四重奏の魅力を解き明かす〜",
@@ -136,13 +143,6 @@
             "title": "【周知】令和６年度　茨城県議会定例会広報ポスターの 図案募集について",
             "summary": "茨城県議会では、定例会ごとに議会広報ポスターを作成し、広く県民に定例会の開催を周知しています。\n若者をはじめとした県民に分かりやすく参加しやすい県議会の環境づくりのため、学生・生徒を対象とした県議会広報ポスターの図案募集を下記のとおり実施します。\n１　応募期間：令和６年７月１日（月）から 令和７年２月 28 日（金）まで\n２　応募資格：茨城県内の学校\n３　コンセプト\n（１）デザイン部門\n・高校生や…",
             "date_modified": "2024-12-26T03:00:00.000Z"
-        },
-        {
-            "id": "05aff892e4caad7fea9b419969a6a3f7",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5786",
-            "title": "【周知】　青少年をアルバイト感覚で犯罪に加担させないための対策について",
-            "summary": "文部科学省高等教育局学生支援課より注意喚起がありましたのでお知らせいたします。\n\n昨今、青少年が目先の利益を手に入れるため、いわゆる「闇バイト」に安易に応募し、特殊詐欺や強盗等の重大な犯罪に加担してしまうことが大きな社会問題となっており、これまでに逮捕された者や警察に保護を求めてきた者のうち、10代から20代の若年層が一定数を占めています。\n現在、報道等においては、「闇バイト」という用語が使用され…",
-            "date_modified": "2024-12-25T03:00:00.000Z"
         }
     ]
 }
