@@ -2,10 +2,18 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/mkobayashime/twins-announcements</id>
     <title>在学生へのお知らせ | 筑波大学</title>
-    <updated>2025-01-06T06:01:51.488Z</updated>
+    <updated>2025-01-06T08:01:40.353Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://github.com/mkobayashime/twins-announcements"/>
     <subtitle>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</subtitle>
+    <entry>
+        <title type="html"><![CDATA[筑波会議2025セッション企画募集および説明会開催のご案内]]></title>
+        <id>4bc18ac9df02b315b194ac9c4fffd3ee</id>
+        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5824"/>
+        <updated>2025-01-06T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[筑波会議は、筑波会議委員会の主催により、世界の若手の研究者、技術者、起業家、投資家、社会起業家、ジャーナリスト、官公庁・国際機関職員、その他各界で活躍する者が筑波学園都市に参集し、科学と社会に関する知見を分かち合い、地球規模問題の解決策を模索することをコンセプトとして開催される国際会議です。
+4回目の開催となる「筑波会議2025」は、2025年10月1日（水）～3日（金）の日程で、つくば国際会議場…]]></summary>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【Free for Students!】 HONO Quartet (The 15th Tsukuba Recital Series)]]></title>
         <id>a537c094a231ab13d5077b8e53ee6cc6</id>
@@ -226,15 +234,6 @@ To students scheduled to complete graduate school in AY2024 (including withdrawa
         <title type="html"><![CDATA[【Notice】Request for Submission of Pledge for Security Export Control卒業時等安全保障輸出管理に係る誓約書提出のお願い]]></title>
         <id>71b3a9e9ac8e8043f740dc0963642057</id>
         <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5791"/>
-        <updated>2024-12-26T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[2024年度大学院修了予定者（退学等を含む）の皆様へ
-To students scheduled to complete graduate school in AY2024 (including withdrawals, etc.)
-安全保障に関連する機微技術流出の防止のために、大学院修了時に「外国為替及び外国貿易法」を遵守する誓約書をmanabaから提出していただくことになっています。ご協力をよ…]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【Notice】Request for Submission of Pledge for Security Export Control卒業時等安全保障輸出管理に係る誓約書提出のお願い]]></title>
-        <id>71b3a9e9ac8e8043f740dc0963642057</id>
-        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5789"/>
         <updated>2024-12-26T03:00:00.000Z</updated>
         <summary type="html"><![CDATA[2024年度大学院修了予定者（退学等を含む）の皆様へ
 To students scheduled to complete graduate school in AY2024 (including withdrawals, etc.)
