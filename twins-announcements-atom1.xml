@@ -2,10 +2,36 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/mkobayashime/twins-announcements</id>
     <title>在学生へのお知らせ | 筑波大学</title>
-    <updated>2025-01-06T21:06:40.333Z</updated>
+    <updated>2025-01-07T08:01:44.713Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://github.com/mkobayashime/twins-announcements"/>
     <subtitle>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</subtitle>
+    <entry>
+        <title type="html"><![CDATA[学生相談室主催（1/28）「ものづくり＆リフレッシュ：コスモサークルを作ろう」開催のお知らせ]]></title>
+        <id>23b2db10aeb11316c2c186e1e6b0c3a2</id>
+        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5827"/>
+        <updated>2025-01-07T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[　学生相談室では、相談活動以外にも、様々なイベントやグループ活動を開催しています。
+　忙しい毎日を少し忘れて、気軽なアート体験をしませんか？厚紙に糸をかけて曼荼羅のような模様を作る「コスモサークル」のワークショップです。
+好きな色を組み合わせて、自分だけの作品が簡単に作れます。もくもくと手を動かすことは、リフレッシュ効果も抜群です！お一人でも、友達と一緒でも大歓迎です。
+
+【日　時】1月28日（火…]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【人文社会科学研究群公開講座】Literature in Tsukuba Science City vol.4 「文学資源としての筑波山」（2/8, 2/15, 2/22開催）]]></title>
+        <id>29254cc69bd43472737c1586c28d56b5</id>
+        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5826"/>
+        <updated>2025-01-07T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[【講座概要】
+「筑波研究学園都市のなかの文学」をコンセプトに、第４回めの開催となる今回の講座では、『文学資源としての筑波山』と題し、日本文学を専門とする３名の講師がお話しいたします。
+
+＊週1回、各回14:00-15:15（無料）
+＊日程、担当講師・講座タイトルは以下の通りです。
+
+2025年
+2月 8日（土）馬場美佳「文学資源入門―近代小説のなかの筑波山―」
+2月15日（土）堀下　翔「高校校歌の…]]></summary>
+    </entry>
     <entry>
         <title type="html"><![CDATA[筑波会議2025セッション企画募集および説明会開催のご案内]]></title>
         <id>4bc18ac9df02b315b194ac9c4fffd3ee</id>
@@ -220,23 +246,5 @@ To students scheduled to complete graduate school in AY2024 (including withdrawa
 
 　【参考資料】
 （１）…]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【Notice】Request for Submission of Pledge for Security Export Control卒業時等安全保障輸出管理に係る誓約書提出のお願い]]></title>
-        <id>71b3a9e9ac8e8043f740dc0963642057</id>
-        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5791"/>
-        <updated>2024-12-26T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[2024年度大学院修了予定者（退学等を含む）の皆様へ
-To students scheduled to complete graduate school in AY2024 (including withdrawals, etc.)
-安全保障に関連する機微技術流出の防止のために、大学院修了時に「外国為替及び外国貿易法」を遵守する誓約書をmanabaから提出していただくことになっています。ご協力をよ…]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【Notice】Request for Submission of Pledge for Security Export Control卒業時等安全保障輸出管理に係る誓約書提出のお願い]]></title>
-        <id>71b3a9e9ac8e8043f740dc0963642057</id>
-        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5789"/>
-        <updated>2024-12-26T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[2024年度大学院修了予定者（退学等を含む）の皆様へ
-To students scheduled to complete graduate school in AY2024 (including withdrawals, etc.)
-安全保障に関連する機微技術流出の防止のために、大学院修了時に「外国為替及び外国貿易法」を遵守する誓約書をmanabaから提出していただくことになっています。ご協力をよ…]]></summary>
     </entry>
 </feed>
