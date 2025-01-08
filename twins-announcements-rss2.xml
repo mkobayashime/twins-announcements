@@ -4,10 +4,23 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Wed, 08 Jan 2025 04:01:39 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 08 Jan 2025 05:01:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
+        <item>
+            <title><![CDATA[【締切延長】トビタテ！留学JAPAN新・日本代表プログラム【大学生等対象】2025年度（第17期）留学計画の添削希望者募集について（2025年1月14日締切）]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5836</link>
+            <guid>1cd44c1dbad75b3e1cf448a40c78b9e0</guid>
+            <pubDate>Wed, 08 Jan 2025 03:00:00 GMT</pubDate>
+            <description><![CDATA[※締切を延長いたしました。
+
+留学計画の添削を希望する方を募り、応募するコースや地域に応じて、先輩トビタテ生を紹介します。下記申込フォームからお申し込みください。１月中旬以降、先輩トビタテ生をご紹介します。
+
+申込締切：2025年1月14日（火）
+申込フォーム：必要事項を入力し、送信してください。
+https://forms.office.com/Pages/ResponsePage.aspx?i…]]></description>
+        </item>
         <item>
             <title><![CDATA[[Library] Restriction on the use of journals issued before 1969 (General and Education, Jan 24-)]]></title>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5835</link>
@@ -225,15 +238,6 @@ To students scheduled to complete graduate school in AY2024 (including withdrawa
 【期間】
 2025年2月23日～2025年3月2日（現地との調整により若干短くなる可能性があります）
 成田空港集合・解散（全員同…]]></description>
-        </item>
-        <item>
-            <title><![CDATA[【Notice】Request for Submission of Pledge for Security Export Control卒業時等安全保障輸出管理に係る誓約書提出のお願い]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5798</link>
-            <guid>71b3a9e9ac8e8043f740dc0963642057</guid>
-            <pubDate>Thu, 26 Dec 2024 03:00:00 GMT</pubDate>
-            <description><![CDATA[2024年度大学院修了予定者（退学等を含む）の皆様へ
-To students scheduled to complete graduate school in AY2024 (including withdrawals, etc.)
-安全保障に関連する機微技術流出の防止のために、大学院修了時に「外国為替及び外国貿易法」を遵守する誓約書をmanabaから提出していただくことになっています。ご協力をよ…]]></description>
         </item>
     </channel>
 </rss>

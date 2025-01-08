@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/mkobayashime/twins-announcements</id>
     <title>在学生へのお知らせ | 筑波大学</title>
-    <updated>2025-01-08T04:01:39.693Z</updated>
+    <updated>2025-01-08T05:01:51.319Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://github.com/mkobayashime/twins-announcements"/>
     <subtitle>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</subtitle>
+    <entry>
+        <title type="html"><![CDATA[【締切延長】トビタテ！留学JAPAN新・日本代表プログラム【大学生等対象】2025年度（第17期）留学計画の添削希望者募集について（2025年1月14日締切）]]></title>
+        <id>1cd44c1dbad75b3e1cf448a40c78b9e0</id>
+        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5836"/>
+        <updated>2025-01-08T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[※締切を延長いたしました。
+
+留学計画の添削を希望する方を募り、応募するコースや地域に応じて、先輩トビタテ生を紹介します。下記申込フォームからお申し込みください。１月中旬以降、先輩トビタテ生をご紹介します。
+
+申込締切：2025年1月14日（火）
+申込フォーム：必要事項を入力し、送信してください。
+https://forms.office.com/Pages/ResponsePage.aspx?i…]]></summary>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[Library] Restriction on the use of journals issued before 1969 (General and Education, Jan 24-)]]></title>
         <id>6cdefffe03305c929d32fa42fa0ede2c</id>
@@ -223,14 +236,5 @@ To students scheduled to complete graduate school in AY2024 (including withdrawa
 【期間】
 2025年2月23日～2025年3月2日（現地との調整により若干短くなる可能性があります）
 成田空港集合・解散（全員同…]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【Notice】Request for Submission of Pledge for Security Export Control卒業時等安全保障輸出管理に係る誓約書提出のお願い]]></title>
-        <id>71b3a9e9ac8e8043f740dc0963642057</id>
-        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5798"/>
-        <updated>2024-12-26T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[2024年度大学院修了予定者（退学等を含む）の皆様へ
-To students scheduled to complete graduate school in AY2024 (including withdrawals, etc.)
-安全保障に関連する機微技術流出の防止のために、大学院修了時に「外国為替及び外国貿易法」を遵守する誓約書をmanabaから提出していただくことになっています。ご協力をよ…]]></summary>
     </entry>
 </feed>
