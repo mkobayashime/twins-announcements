@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "27083b8bb03f3e4a40d0b81a3a23bbc3",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5834",
+            "title": "中央図書館本館1階 1969年以前発行雑誌の利用制限について（対象分類:総記・教育、期間:1/24～2/7）",
+            "summary": "中央図書館本館1階にて下記の通り電動集密書架工事(2か所)を実施いたします。\n工事に伴い、資料の利用を停止させていただきます。また、騒音・振動の発生が見込まれますので、予めご了承ください。\n利用者の皆様にはご不便・ご迷惑をおかけしますが、ご協力の程よろしくお願いいたします。\n\n【実施期間】　令和7年1月24日(金) ～ 1月31日(金)（予定）\n【利用停止対象資料】1969 年以前に発行されたA分…",
+            "date_modified": "2025-01-08T03:00:00.000Z"
+        },
+        {
             "id": "1e383afa92a453c671b7cdd32ba66163",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5833",
             "title": "令和７年度２月期学生定期健康診断について",
@@ -133,13 +140,6 @@
         {
             "id": "71b3a9e9ac8e8043f740dc0963642057",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5797",
-            "title": "【Notice】Request for Submission of Pledge for Security Export Control卒業時等安全保障輸出管理に係る誓約書提出のお願い",
-            "summary": "2024年度大学院修了予定者（退学等を含む）の皆様へ\nTo students scheduled to complete graduate school in AY2024 (including withdrawals, etc.)\n安全保障に関連する機微技術流出の防止のために、大学院修了時に「外国為替及び外国貿易法」を遵守する誓約書をmanabaから提出していただくことになっています。ご協力をよ…",
-            "date_modified": "2024-12-26T03:00:00.000Z"
-        },
-        {
-            "id": "71b3a9e9ac8e8043f740dc0963642057",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5796",
             "title": "【Notice】Request for Submission of Pledge for Security Export Control卒業時等安全保障輸出管理に係る誓約書提出のお願い",
             "summary": "2024年度大学院修了予定者（退学等を含む）の皆様へ\nTo students scheduled to complete graduate school in AY2024 (including withdrawals, etc.)\n安全保障に関連する機微技術流出の防止のために、大学院修了時に「外国為替及び外国貿易法」を遵守する誓約書をmanabaから提出していただくことになっています。ご協力をよ…",
             "date_modified": "2024-12-26T03:00:00.000Z"
