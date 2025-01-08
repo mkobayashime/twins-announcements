@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "7454fc050ceb673acfff3e8ea0552fdb",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5837",
+            "title": "【開催通知】令和６年度救命講習会",
+            "summary": "いざという時、救急車が到着するまでの応急手当の方法を身につけるため、心肺蘇生法（主に成人）及びＡＥＤ取扱いをつくば市中央消防署の応急手当指導員から学ぶ救命講習会を下記のとおり開催します。\n\n　　　　　　　　　　　　　　　　　　　　　記\n\n１．日  　時　　令和７年３月３日（月）９：００～１０：３０\n２．場　　所　　総合研究棟Ａ１１１\n３．講　　師　　つくば市中央消防署桜分署　応急手当指導員\n４．対…",
+            "date_modified": "2025-01-08T03:00:00.000Z"
+        },
+        {
             "id": "1cd44c1dbad75b3e1cf448a40c78b9e0",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5836",
             "title": "【締切延長】トビタテ！留学JAPAN新・日本代表プログラム【大学生等対象】2025年度（第17期）留学計画の添削希望者募集について（2025年1月14日締切）",
@@ -135,13 +142,6 @@
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5811",
             "title": "【Notice】Request for Submission of Pledge for Security Export Control卒業時等安全保障輸出管理に係る誓約書提出のお願い",
             "summary": "2024年度大学院修了予定者（退学等を含む）の皆様へ\nTo students scheduled to complete graduate school in AY2024 (including withdrawals, etc.)\n安全保障に関連する機微技術流出の防止のために、大学院修了時に「外国為替及び外国貿易法」を遵守する誓約書をmanabaから提出していただくことになっています。ご協力をよ…",
-            "date_modified": "2024-12-26T03:00:00.000Z"
-        },
-        {
-            "id": "ea2029264a6fe5c6dd9a401e848b1912",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5810",
-            "title": "【学群生対象】「多文化共修 in タイランド」参加学生募集",
-            "summary": "令和6年度筑波大学が実施大学として採択された「大学の国際化によるソーシャルインパクト創出支援事業」で推奨されている多文化共修の一環として、タイ王国の協定校で現地学生との共修活動を行います。興味のある学生はふるって応募してください。詳細はリンク先URLをご確認ください。\n\n【期間】\n2025年2月23日～2025年3月2日（現地との調整により若干短くなる可能性があります）\n成田空港集合・解散（全員同…",
             "date_modified": "2024-12-26T03:00:00.000Z"
         }
     ]
