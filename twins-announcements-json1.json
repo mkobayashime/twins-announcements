@@ -5,6 +5,20 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "5057d22688f5c31cf8121f16318f7aed",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5839",
+            "title": "まもなく締切！【学群生対象】多文化共修 in タイランド参加者募集",
+            "summary": "令和6年度筑波大学が実施大学として採択された「大学の国際化によるソーシャルインパクト創出支援事業」で推奨されている多文化共修の一環として、タイ王国の協定校で現地学生との共修活動を行います。興味のある学生はふるって応募してください。詳細はリンク先URLをご確認ください。\n【期間】\n2025年2月23日～2025年3月2日（現地との調整により若干短くなる可能性があります）\n成田空港集合・解散（全員同じ…",
+            "date_modified": "2025-01-09T03:00:00.000Z"
+        },
+        {
+            "id": "fbd46bb2a50f05b7538753ae3f81d016",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5838",
+            "title": "第183回バイオeカフェ開催のお知らせ",
+            "summary": "生物学類主催のサイエンスカフェ第181回「バイオeカフェ」を以下のとおり開催いたします。\nバイオe カフェは、科学について詳しい人も、そうでない人もお菓子を片手に気軽に科学を楽しもうというイベントです。ぜひ気軽にご参加ください!!\n\nテーマ：親近な真菌の世界\n（筑波大学 山岳科学センター 菅平高原実験所　出川洋介先生）\n\n日時：1月21日（火）18時30分～20時00分\n場所：2B210もしくはオ…",
+            "date_modified": "2025-01-09T03:00:00.000Z"
+        },
+        {
             "id": "96dfa792a9c21fdb7f0e7ce798c3ce9f",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5825",
             "title": "学群３年次生対象 TOEIC® L&R IPテスト(オンライン）追試開始のお知らせ　1/9(木)～1/16(木)まで８日間",
@@ -129,20 +143,6 @@
             "title": "桐公会・BHE共催　　「25年度公務員試験対策勉強会」",
             "summary": "主に2025年度に公務員試験を受験する学生を対象とした勉強会を開催します。\n2026年度以降に受験予定の方や公務員に興味のある方も参加することができます。\n公務員試験の筆記・面接対策、併願先などについて\n今年度の内定者から話を聞き、具体的かつ実践的な対策を学ぶことができます。\n\n日時：2025年1月15日（水）　15：30-17：00\n場所：1E棟302講義室\n内容：公務員試験について内定者と少人…",
             "date_modified": "2025-01-06T03:00:00.000Z"
-        },
-        {
-            "id": "71b3a9e9ac8e8043f740dc0963642057",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5812",
-            "title": "【Notice】Request for Submission of Pledge for Security Export Control卒業時等安全保障輸出管理に係る誓約書提出のお願い",
-            "summary": "2024年度大学院修了予定者（退学等を含む）の皆様へ\nTo students scheduled to complete graduate school in AY2024 (including withdrawals, etc.)\n安全保障に関連する機微技術流出の防止のために、大学院修了時に「外国為替及び外国貿易法」を遵守する誓約書をmanabaから提出していただくことになっています。ご協力をよ…",
-            "date_modified": "2024-12-26T03:00:00.000Z"
-        },
-        {
-            "id": "71b3a9e9ac8e8043f740dc0963642057",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5811",
-            "title": "【Notice】Request for Submission of Pledge for Security Export Control卒業時等安全保障輸出管理に係る誓約書提出のお願い",
-            "summary": "2024年度大学院修了予定者（退学等を含む）の皆様へ\nTo students scheduled to complete graduate school in AY2024 (including withdrawals, etc.)\n安全保障に関連する機微技術流出の防止のために、大学院修了時に「外国為替及び外国貿易法」を遵守する誓約書をmanabaから提出していただくことになっています。ご協力をよ…",
-            "date_modified": "2024-12-26T03:00:00.000Z"
         }
     ]
 }
