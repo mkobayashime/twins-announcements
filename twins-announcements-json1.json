@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "0b9c20cd9aca3427e534f19166a1b223",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5840",
+            "title": "【ボランティア募集】OUT IN JAPAN",
+            "summary": "毎年1月に行われているOUT IN JAPANの展示準備のため、ボランティアを募集しています。\n写真とメッセージボードをホワイトボードに展示する作業です。\n＊＊＊＊＊＊＊＊＊＊\n【募集人数】3名\n【活動日時】2025年1月16日 13:30～15:00（※終わり次第解散）\n【集合時間】同日13:30\n【集合場所】筑波大学中央図書館2F 入口奥（ギャラリーゾーン）\n＊＊＊＊＊＊＊＊＊＊\nもし参加して…",
+            "date_modified": "2025-01-09T03:00:00.000Z"
+        },
+        {
             "id": "5057d22688f5c31cf8121f16318f7aed",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5839",
             "title": "まもなく締切！【学群生対象】多文化共修 in タイランド参加者募集",
@@ -135,13 +142,6 @@
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5814",
             "title": "【Event Info】 “Hello World” ハローワールド（小学生との交流会）",
             "summary": "<留学生対象>\n子供たちに、日本語で自分の国のことを紹介してください！\n\n★筑西きぬロータリークラブ主催\n日時：2025年2月19日（水）7:30～16:30\n場所：筑西市立関城西小学校、関城東小学校\n参加人数：留学生6名（一つの国から一名のみ参加可能）\n申込方法：参加希望者は、https://forms.office.com/r/8pGTEYF5fj（Forms）から\n1月20日(月)までに申し…",
-            "date_modified": "2025-01-06T03:00:00.000Z"
-        },
-        {
-            "id": "446f3896eac1b6733aa4d2d8a4d6b30a",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5813",
-            "title": "桐公会・BHE共催　　「25年度公務員試験対策勉強会」",
-            "summary": "主に2025年度に公務員試験を受験する学生を対象とした勉強会を開催します。\n2026年度以降に受験予定の方や公務員に興味のある方も参加することができます。\n公務員試験の筆記・面接対策、併願先などについて\n今年度の内定者から話を聞き、具体的かつ実践的な対策を学ぶことができます。\n\n日時：2025年1月15日（水）　15：30-17：00\n場所：1E棟302講義室\n内容：公務員試験について内定者と少人…",
             "date_modified": "2025-01-06T03:00:00.000Z"
         }
     ]

@@ -4,10 +4,25 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Thu, 09 Jan 2025 00:02:46 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 09 Jan 2025 03:17:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
+        <item>
+            <title><![CDATA[【ボランティア募集】OUT IN JAPAN]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5840</link>
+            <guid>0b9c20cd9aca3427e534f19166a1b223</guid>
+            <pubDate>Thu, 09 Jan 2025 03:00:00 GMT</pubDate>
+            <description><![CDATA[毎年1月に行われているOUT IN JAPANの展示準備のため、ボランティアを募集しています。
+写真とメッセージボードをホワイトボードに展示する作業です。
+＊＊＊＊＊＊＊＊＊＊
+【募集人数】3名
+【活動日時】2025年1月16日 13:30～15:00（※終わり次第解散）
+【集合時間】同日13:30
+【集合場所】筑波大学中央図書館2F 入口奥（ギャラリーゾーン）
+＊＊＊＊＊＊＊＊＊＊
+もし参加して…]]></description>
+        </item>
         <item>
             <title><![CDATA[まもなく締切！【学群生対象】多文化共修 in タイランド参加者募集]]></title>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5839</link>
@@ -236,20 +251,6 @@ To students scheduled to complete graduate school in AY2024 (including withdrawa
 参加人数：留学生6名（一つの国から一名のみ参加可能）
 申込方法：参加希望者は、https://forms.office.com/r/8pGTEYF5fj（Forms）から
 1月20日(月)までに申し…]]></description>
-        </item>
-        <item>
-            <title><![CDATA[桐公会・BHE共催　　「25年度公務員試験対策勉強会」]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5813</link>
-            <guid>446f3896eac1b6733aa4d2d8a4d6b30a</guid>
-            <pubDate>Mon, 06 Jan 2025 03:00:00 GMT</pubDate>
-            <description><![CDATA[主に2025年度に公務員試験を受験する学生を対象とした勉強会を開催します。
-2026年度以降に受験予定の方や公務員に興味のある方も参加することができます。
-公務員試験の筆記・面接対策、併願先などについて
-今年度の内定者から話を聞き、具体的かつ実践的な対策を学ぶことができます。
-
-日時：2025年1月15日（水）　15：30-17：00
-場所：1E棟302講義室
-内容：公務員試験について内定者と少人…]]></description>
         </item>
     </channel>
 </rss>
