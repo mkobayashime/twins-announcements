@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "b62f66bb09a8c073d62ebbde4513c109",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5844",
+            "title": "【重要】2024年度第2期分授業料の納入督促について/【Important】 About the tuition for first term of AY 2024",
+            "summary": "2024年度第2期分授業料未納者は、「払込取扱票」が送付されているので、再度確認の上、速やかに金融機関窓口にて納付されるようお願いします。\n納付されないときは、本学学則による除籍処分該当者となります。\n\n・払込取扱票が既に発行されている未納者は、お持ちの払込取扱票により納入をお願いします。\n\n※本掲示は全ての学生・教員に通知しております。\n\n\nThose who have not paid the…",
+            "date_modified": "2025-01-10T03:00:00.000Z"
+        },
+        {
             "id": "57c5d4b1b9a8421d8eca15d3c17495f6",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5843",
             "title": "【BHE】1月22日（水）～25日（土）筑波大学主催キャリアイベント「企業説明会」",
@@ -135,13 +142,6 @@
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5820",
             "title": "【学生無料】第15回つくばリサイタルシリーズ ほのカルテット〜弦楽四重奏の魅力を解き明かす〜",
             "summary": "2025/1/25(土)　つくばカピオホール\n開場: 13:30 / 開始: 14:00\n\n出演者\nほのカルテット\n　ヴァイオリン：岸本萌乃加\n　ヴァイオリン：林周雅\n　ヴィオラ： 長田健志\n　チェロ ：蟹江慶行　\n\n参考ショート動画\nhttps://www.youtube.com/shorts/cwi10AT3RxM\n<https://www.youtube.com/shorts/cwi10AT…",
-            "date_modified": "2025-01-06T03:00:00.000Z"
-        },
-        {
-            "id": "71b3a9e9ac8e8043f740dc0963642057",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5819",
-            "title": "【Notice】Request for Submission of Pledge for Security Export Control卒業時等安全保障輸出管理に係る誓約書提出のお願い",
-            "summary": "2024年度大学院修了予定者（退学等を含む）の皆様へ\nTo students scheduled to complete graduate school in AY2024 (including withdrawals, etc.)\n安全保障に関連する機微技術流出の防止のために、大学院修了時に「外国為替及び外国貿易法」を遵守する誓約書をmanabaから提出していただくことになっています。ご協力をよ…",
             "date_modified": "2025-01-06T03:00:00.000Z"
         }
     ]
