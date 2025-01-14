@@ -5,6 +5,20 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "285ce8cff3bfdd205e72c7e77d9b3270",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5849",
+            "title": "【周知】献血の実施について（1月31日実施）",
+            "summary": "日本赤十字社が附属病院に献血バスを配車して、以下のとおり献血を実施することとなりました。学生の皆さまのご協力をお願いいたします。\n\n日時：2025年1月31日（月）13：30～16：00\n場所：筑波大学附属病院　東玄関\n",
+            "date_modified": "2025-01-14T03:00:00.000Z"
+        },
+        {
+            "id": "45deca935eed735c8cb0c00a6cbd8814",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5848",
+            "title": "【開催案内】第51回「中央ユーラシアと日本の未来」公開講演会「ウズベキスタン・ タジキスタンの音楽」",
+            "summary": "【開催案内】第51回「中央ユーラシアと日本の未来」公開講演会\n\n講師：駒﨑 万集 氏  ドゥタール奏者\n\n題目：ウズベキスタン・タジキスタンの音楽\n\n日時：令和7年1月27日（月）18:15～19:30\n\n会場：筑波大学　スチューデント・コモンズ（1A203）\nおよびオンライン（Zoom）\n\n対象：本学学生、本学教職員、一般\nどなたでも無料でご参加いただけます。\n\n使用言語：日本語\n\n申込方法：\n…",
+            "date_modified": "2025-01-14T03:00:00.000Z"
+        },
+        {
             "id": "304f919af3c8db00f98067691a96e85c",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5847",
             "title": "（明日開催）桐公会・BHE共催「25年度公務員試験対策勉強会」",
@@ -129,20 +143,6 @@
             "title": "【人文社会科学研究群公開講座】Literature in Tsukuba Science City vol.4 「文学資源としての筑波山」（2/8, 2/15, 2/22開催）",
             "summary": "【講座概要】\n「筑波研究学園都市のなかの文学」をコンセプトに、第４回めの開催となる今回の講座では、『文学資源としての筑波山』と題し、日本文学を専門とする３名の講師がお話しいたします。\n\n＊週1回、各回14:00-15:15（無料）\n＊日程、担当講師・講座タイトルは以下の通りです。\n\n2025年\n2月 8日（土）馬場美佳「文学資源入門―近代小説のなかの筑波山―」\n2月15日（土）堀下　翔「高校校歌の…",
             "date_modified": "2025-01-07T03:00:00.000Z"
-        },
-        {
-            "id": "4bc18ac9df02b315b194ac9c4fffd3ee",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5824",
-            "title": "筑波会議2025セッション企画募集および説明会開催のご案内",
-            "summary": "筑波会議は、筑波会議委員会の主催により、世界の若手の研究者、技術者、起業家、投資家、社会起業家、ジャーナリスト、官公庁・国際機関職員、その他各界で活躍する者が筑波学園都市に参集し、科学と社会に関する知見を分かち合い、地球規模問題の解決策を模索することをコンセプトとして開催される国際会議です。\n4回目の開催となる「筑波会議2025」は、2025年10月1日（水）～3日（金）の日程で、つくば国際会議場…",
-            "date_modified": "2025-01-06T03:00:00.000Z"
-        },
-        {
-            "id": "a537c094a231ab13d5077b8e53ee6cc6",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5823",
-            "title": "【Free for Students!】 HONO Quartet (The 15th Tsukuba Recital Series)",
-            "summary": "― Kishimoto Honoka（1st Violin）\n― Hayashi Shuga（2nd Violin）\n― Nagata Kenshi（Viola）\n― Kanie Yoshiyuki（Cello）\n\n\n【Program】\nEto Mitsunori / String Quartet No. 4 (Premiere) B. Britten / String Quartet No. 2…",
-            "date_modified": "2025-01-06T03:00:00.000Z"
         }
     ]
 }
