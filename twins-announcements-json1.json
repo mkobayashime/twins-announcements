@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "304f919af3c8db00f98067691a96e85c",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5847",
+            "title": "（明日開催）桐公会・BHE共催「25年度公務員試験対策勉強会」",
+            "summary": "主に2025年度に公務員試験を受験する学生を対象とした勉強会です。\n2026年度以降に受験予定の方や公務員に興味のある方も参加することができます。\n公務員試験の筆記・面接対策、併願先などについて\n今年度の内定者から話を聞き、具体的かつ実践的な対策を学ぶことができます。\n\n日時：2025年1月15日（水）　15：30-17：00\n場所：1E棟302講義室\n内容：公務員試験について内定者と少人数懇談（…",
+            "date_modified": "2025-01-14T03:00:00.000Z"
+        },
+        {
             "id": "a49d7decd8f6d9221498317fb8cf192c",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5846",
             "title": "〔学群生対象〕締切まで１か月！AIMSプログラム2025秋学期渡航分募集",
@@ -135,13 +142,6 @@
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5823",
             "title": "【Free for Students!】 HONO Quartet (The 15th Tsukuba Recital Series)",
             "summary": "― Kishimoto Honoka（1st Violin）\n― Hayashi Shuga（2nd Violin）\n― Nagata Kenshi（Viola）\n― Kanie Yoshiyuki（Cello）\n\n\n【Program】\nEto Mitsunori / String Quartet No. 4 (Premiere) B. Britten / String Quartet No. 2…",
-            "date_modified": "2025-01-06T03:00:00.000Z"
-        },
-        {
-            "id": "184bd0ff26ef4bf1c903115244918a02",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5822",
-            "title": "【2/19開催】仕事に就くことと卒業後の生活を考えよう～障害者雇用と一般雇用の違いなど～",
-            "summary": "年が明け、皆さんの中には「そろそろ就活を始めようかな」と考えている方、もしくはお悩みを抱えている方もいらっしゃるのではないでしょうか。\nこの度、ヒューマンエンパワーメント推進局(BHE)では仕事に就くことや卒業後の生活を考えるためのセミナーを開催します。\n例えば、\n・就活ってどうやって始めるの？何を準備したらいいの？\n・就活中に自分の障害特性をどう伝える/伝えない？タイミングは？\n・採用枠によって…",
             "date_modified": "2025-01-06T03:00:00.000Z"
         }
     ]
