@@ -4,10 +4,24 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Tue, 14 Jan 2025 21:06:37 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 Jan 2025 01:28:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
+        <item>
+            <title><![CDATA[本日開催！　桐公会・BHE共催　　「25年度公務員試験対策勉強会」]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5852</link>
+            <guid>fdfa07308de74ab5180e1d9e77b9cb54</guid>
+            <pubDate>Wed, 15 Jan 2025 03:00:00 GMT</pubDate>
+            <description><![CDATA[主に2025年度に公務員試験を受験する学生を対象とした勉強会です。
+2026年度以降に受験予定の方や公務員に興味のある方も参加することができます。
+公務員試験の筆記・面接対策、併願先などについて
+今年度の内定者から話を聞き、具体的かつ実践的な対策を学ぶことができます。
+
+日時：2025年1月15日（水）　15：30-17：00
+場所：1E棟302講義室
+内容：公務員試験について内定者と少人数懇談（…]]></description>
+        </item>
         <item>
             <title><![CDATA[【Notice】Request for Submission of Pledge for Security Export Control卒業時等安全保障輸出管理に係る誓約書提出のお願い]]></title>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5851</link>
@@ -248,21 +262,6 @@ Due to the construction, access to the following materials will be suspended. P�
 好きな色を組み合わせて、自分だけの作品が簡単に作れます。もくもくと手を動かすことは、リフレッシュ効果も抜群です！お一人でも、友達と一緒でも大歓迎です。
 
 【日　時】1月28日（火…]]></description>
-        </item>
-        <item>
-            <title><![CDATA[【人文社会科学研究群公開講座】Literature in Tsukuba Science City vol.4 「文学資源としての筑波山」（2/8, 2/15, 2/22開催）]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5826</link>
-            <guid>29254cc69bd43472737c1586c28d56b5</guid>
-            <pubDate>Tue, 07 Jan 2025 03:00:00 GMT</pubDate>
-            <description><![CDATA[【講座概要】
-「筑波研究学園都市のなかの文学」をコンセプトに、第４回めの開催となる今回の講座では、『文学資源としての筑波山』と題し、日本文学を専門とする３名の講師がお話しいたします。
-
-＊週1回、各回14:00-15:15（無料）
-＊日程、担当講師・講座タイトルは以下の通りです。
-
-2025年
-2月 8日（土）馬場美佳「文学資源入門―近代小説のなかの筑波山―」
-2月15日（土）堀下　翔「高校校歌の…]]></description>
         </item>
     </channel>
 </rss>
