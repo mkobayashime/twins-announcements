@@ -5,6 +5,20 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "2372e74477c330f7db0d86519db884e1",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5855",
+            "title": "【2/19開催】仕事に就くことと卒業後の生活を考えよう～障害者雇用と一般雇用の違いなど～ ※リマインド",
+            "summary": "年が明け、皆さんの中には「そろそろ就活を始めようかな」と考えている方、もしくはお悩みを抱えている方もいらっしゃるのではないでしょうか。\nこの度、ヒューマンエンパワーメント推進局(BHE)では仕事に就くことや卒業後の生活を考えるためのセミナーを開催します。\n例えば、\n・就活ってどうやって始めるの？何を準備したらいいの？\n・就活中に自分の障害特性をどう伝える/伝えない？タイミングは？\n・採用枠によって…",
+            "date_modified": "2025-01-15T03:00:00.000Z"
+        },
+        {
+            "id": "eb76cd91dd6b1816477adfee898327a6",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5854",
+            "title": "（ご案内）「未踏事業」について",
+            "summary": "独立行政法人情報処理推進機構から、未踏事業の案内がありました。\n下記をご確認の上、応募等ご検討ください。\n\n【概要】\n「未踏事業」は、ITを駆使してイノベーションを創出することのできる独創的なアイディアと技術を有するとともに、これらを活用する優れた能力を持つ、突出した人材を発掘・育成することを目的としています。\n対象に応じた3つの人材育成プログラムを実施しています。\n※パンフレット：https:/…",
+            "date_modified": "2025-01-15T03:00:00.000Z"
+        },
+        {
             "id": "76297db2351566babdc5076f5178a31d",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5853",
             "title": "【周知】【茨城県警察本部生活安全総務課】いばらき防犯ファイルについて",
@@ -128,20 +142,6 @@
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5833",
             "title": "令和７年度２月期学生定期健康診断について",
             "summary": "令和７年度に実施する教育実習（特別支援教育実習を除く）を予定している学生、介護等体験に参加希望の学生（対象者は掲示参照）、医学類及び看護学類の臨床実習等を行う学生に対し、定期健康診断を次のとおり実施します。なお、今回の健康診断を受診できる介護等体験を履修する学生は、事前に申し込みをした者に限ります。詳細は以下のPDFまたはホームページをご確認ください。",
-            "date_modified": "2025-01-08T03:00:00.000Z"
-        },
-        {
-            "id": "68ec2fb2e695ed5cd5022b6e3d66f11f",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5832",
-            "title": "【開催通知】令和６年度高圧ガスボンベ利用者安全講習会",
-            "summary": "下記のとおり高圧ガスボンベ利用者安全講習会を開催いたします。\nこの講習会では、高圧ガスに関する基礎知識から安全な取扱方法、事故事例等について、専門家より最新の情報を交えながらお話しいただきます。参加をご希望の方は、１月２９日（水）までに以下のリンクからフォームに登録をお願いします。\n\n                                                         …",
-            "date_modified": "2025-01-08T03:00:00.000Z"
-        },
-        {
-            "id": "465cadd21e482a6d063f8c00a056287e",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5830",
-            "title": "【1/29開催】第6回博士のポートフォリオ大公開+ロールモデル懇談会",
-            "summary": "ヒューマンエンパワーメント推進局では、筑波大学に所属する全学群生・大学院生を対象に、多様な学生のキャリア形成に対する視野を開くこと、また、博士進学後のキャリアパスをクリアにすることを目的として、令和6年度第6回博士のポートフォリオ大公開+ロールモデル懇談会を開催いたします。\n博士課程に進学したきっかけや当時の悩みなど、筑波大学で博士号を取得した方に日ごろの疑問を質問できる貴重な機会です。\n障害の有…",
             "date_modified": "2025-01-08T03:00:00.000Z"
         }
     ]
