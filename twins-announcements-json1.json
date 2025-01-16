@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "0c86ffaf9bde7829a692a1eecafd1dd1",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5864",
+            "title": "大学入学者選抜における不正行為にご注意ください",
+            "summary": "添付のポスターをご確認いただき、大学入学者選抜の公平性・公正性を損なう不正行為に関与することがないようご注意ください。",
+            "date_modified": "2025-01-16T03:00:00.000Z"
+        },
+        {
             "id": "b4c33044c6b163d85ebeb658d89e4d2d",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5862",
             "title": "【再掲 1/21締切】（中央図書館）2025年度ラーニング・アドバイザー募集",
@@ -135,13 +142,6 @@
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5843",
             "title": "【BHE】1月22日（水）～25日（土）筑波大学主催キャリアイベント「企業説明会」",
             "summary": "いよいよ今月22日（水）から25日（土）の４日間で開催する\n筑波大学主催「企業説明会」の参加企業が決定しました！\nこの機会をお見逃しなく！\n\n◎全学生対象\n◎途中参加・退出可能\n◎服装自由\n★気軽にふらっとお越しください\n\n＜参加企業（参加日程はURLや添付ファイルを参照ください）＞　\n・楽天証券\n・日本郵船\n・三菱総合研究所\n・東京海上日動火災保険\n・日本経済新聞\n・テレビ朝日\n・パナソニックグ…",
-            "date_modified": "2025-01-09T03:00:00.000Z"
-        },
-        {
-            "id": "fce4f5127116f6a1c1f660ec1e342d35",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5841",
-            "title": "2.13セミナー【海外ボランティアから始まる／広がるマイキャリア・マイライフその３　理学療法士が歩む国際協力の世界と障がい者支援】のお知らせ",
-            "summary": "第55回ASIP/TG+公開セミナーのご案内です。\n\n【海外ボランティアから始まる／広がるマイキャリア・マイライフその３　理学療法士が歩む国際協力の世界と障がい者支援】\n\n日時：2025年2月13日（木）15：15～17：00\n場所：オンライン\n講師：大室　和也氏（特定非営利活動法人 難民を助ける会 地域統括）\n\n申込はこちらから→https://forms.gle/r2VtvYnr4RPXzCt…",
             "date_modified": "2025-01-09T03:00:00.000Z"
         }
     ]
