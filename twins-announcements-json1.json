@@ -5,6 +5,20 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "cd986cca0fc7c3366d22055c037d64ec",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5860",
+            "title": "本日1/16(木)最終日です！　学群３年次生対象TOEIC® L&R IPテスト(オンライン）追試実施について",
+            "summary": "１１月実施 学群３年次生対象TOEIC® L&R IPテスト(オンライン）未受験者を対象とした追試は\n本日、１月１６日(木)が最終日です。\n未受験者は、本日中に必ず受験するようにしてください。\n\n１）追試実施期間\n　　　２０２５年　１月　９日（木）　０：００から\n　　　２０２５年　１月１６日（木）２３：５９まで　　８日間\n　　（ただし、１月１５日（水） １１：００〜２０：００を除く）\n\n２）受験方…",
+            "date_modified": "2025-01-16T03:00:00.000Z"
+        },
+        {
+            "id": "b394be544e6dc70e273219490b7837f2",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5859",
+            "title": "＼締切間近／学群生対象‗多文化共修 in タイランド 参加者募集",
+            "summary": "令和6年度筑波大学が実施大学として採択された「大学の国際化によるソーシャルインパクト創出支援事業」で推奨されている多文化共修の一環として、タイ王国の協定校で現地学生との共修活動を行います。興味のある学生はふるって応募してください。詳細はリンク先URLをご確認ください。\n\n【期間】\n2025年2月23日～2025年3月2日 *現地との調整により若干短くなる可能性があります\n成田空港集合・解散 *全員…",
+            "date_modified": "2025-01-16T03:00:00.000Z"
+        },
+        {
             "id": "465cadd21e482a6d063f8c00a056287e",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5858",
             "title": "【1/29開催】第6回博士のポートフォリオ大公開+ロールモデル懇談会",
@@ -128,20 +142,6 @@
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5839",
             "title": "まもなく締切！【学群生対象】多文化共修 in タイランド参加者募集",
             "summary": "令和6年度筑波大学が実施大学として採択された「大学の国際化によるソーシャルインパクト創出支援事業」で推奨されている多文化共修の一環として、タイ王国の協定校で現地学生との共修活動を行います。興味のある学生はふるって応募してください。詳細はリンク先URLをご確認ください。\n【期間】\n2025年2月23日～2025年3月2日（現地との調整により若干短くなる可能性があります）\n成田空港集合・解散（全員同じ…",
-            "date_modified": "2025-01-09T03:00:00.000Z"
-        },
-        {
-            "id": "fbd46bb2a50f05b7538753ae3f81d016",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5838",
-            "title": "第183回バイオeカフェ開催のお知らせ",
-            "summary": "生物学類主催のサイエンスカフェ第181回「バイオeカフェ」を以下のとおり開催いたします。\nバイオe カフェは、科学について詳しい人も、そうでない人もお菓子を片手に気軽に科学を楽しもうというイベントです。ぜひ気軽にご参加ください!!\n\nテーマ：親近な真菌の世界\n（筑波大学 山岳科学センター 菅平高原実験所　出川洋介先生）\n\n日時：1月21日（火）18時30分～20時00分\n場所：2B210もしくはオ…",
-            "date_modified": "2025-01-09T03:00:00.000Z"
-        },
-        {
-            "id": "96dfa792a9c21fdb7f0e7ce798c3ce9f",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5825",
-            "title": "学群３年次生対象 TOEIC® L&R IPテスト(オンライン）追試開始のお知らせ　1/9(木)～1/16(木)まで８日間",
-            "summary": "１１月実施 学群３年次生対象TOEIC® L&R IPテスト(オンライン）未受験者を対象とした追試は\n本日、１月９日(木)から受験可能です。\n１１月実施時にやむを得ず受験できなかった未受験者は、追試期間中に必ず受験するようにしてください。\n\n１）追試実施期間\n　　　２０２５年　１月　９日（木）　０：００から\n　　　２０２５年　１月１６日（木）２３：５９まで　　８日間※\n　　（ただし、１月１５日（水…",
             "date_modified": "2025-01-09T03:00:00.000Z"
         }
     ]
