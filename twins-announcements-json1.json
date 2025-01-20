@@ -5,6 +5,27 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "0785e6acf20dcc155c124fef0d5c67d2",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5873",
+            "title": "【再周知】学生相談室主催（1/28）「ものづくり＆リフレッシュ：コスモサークルを作ろう」開催のお知らせ",
+            "summary": "学生相談室では、相談活動以外にも、様々なイベントやグループ活動を開催しています。\n忙しい毎日を少し忘れて、気軽なアート体験をしませんか？厚紙に糸をかけて曼荼羅のような模様を作る「コスモサークル」のワークショップです。\n好きな色を組み合わせて、自分だけの作品が簡単に作れます。もくもくと手を動かすことは、リフレッシュ効果も抜群です！\nお一人でも、友達と一緒でも大歓迎です。\n\n【日　時】1月28日（火）…",
+            "date_modified": "2025-01-20T03:00:00.000Z"
+        },
+        {
+            "id": "a537c094a231ab13d5077b8e53ee6cc6",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5872",
+            "title": "【Free for Students!】 HONO Quartet (The 15th Tsukuba Recital Series)",
+            "summary": "― Kishimoto Honoka（1st Violin）\n― Hayashi Shuga（2nd Violin）\n― Nagata Kenshi（Viola）\n― Kanie Yoshiyuki（Cello）\n\n\n【Program】\nEto Mitsunori / String Quartet No. 4 (Premiere) B. Britten / String Quartet No. 2…",
+            "date_modified": "2025-01-20T03:00:00.000Z"
+        },
+        {
+            "id": "0b3ce7f86aaed5aef52613477a1e21b7",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5871",
+            "title": "【学生無料】第15回つくばリサイタルシリーズ ほのカルテット〜弦楽四重奏の魅力を解き明かす〜",
+            "summary": "2025/1/25(土)　つくばカピオホール\n開場: 13:30 / 開始: 14:00\n\n出演者\nほのカルテット\n　ヴァイオリン：岸本萌乃加\n　ヴァイオリン：林周雅\n　ヴィオラ： 長田健志\n　チェロ ：蟹江慶行　\n\n参考ショート動画\nhttps://www.youtube.com/shorts/cwi10AT3RxM\nhttps://www.youtube.com/shorts/7Lp2DmnP…",
+            "date_modified": "2025-01-20T03:00:00.000Z"
+        },
+        {
             "id": "ddfef7fa00101b43f34aa84cc534df1d",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5870",
             "title": "【周知】海外同窓生ネットワーク・TUANのリレーション登録について",
@@ -121,27 +142,6 @@
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5851",
             "title": "【Notice】Request for Submission of Pledge for Security Export Control卒業時等安全保障輸出管理に係る誓約書提出のお願い",
             "summary": "2024年度大学院修了予定者（退学等を含む）の皆様へ\nTo students scheduled to complete graduate school in AY2024 (including withdrawals, etc.)\n安全保障に関連する機微技術流出の防止のために、大学院修了時に「外国為替及び外国貿易法」を遵守する誓約書をmanabaから提出していただくことになっています。ご協力をよ…",
-            "date_modified": "2025-01-14T03:00:00.000Z"
-        },
-        {
-            "id": "465cadd21e482a6d063f8c00a056287e",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5850",
-            "title": "【1/29開催】第6回博士のポートフォリオ大公開+ロールモデル懇談会",
-            "summary": "ヒューマンエンパワーメント推進局では、筑波大学に所属する全学群生・大学院生を対象に、多様な学生のキャリア形成に対する視野を開くこと、また、博士進学後のキャリアパスをクリアにすることを目的として、令和6年度第6回博士のポートフォリオ大公開+ロールモデル懇談会を開催いたします。\n博士課程に進学したきっかけや当時の悩みなど、筑波大学で博士号を取得した方に日ごろの疑問を質問できる貴重な機会です。\n障害の有…",
-            "date_modified": "2025-01-14T03:00:00.000Z"
-        },
-        {
-            "id": "285ce8cff3bfdd205e72c7e77d9b3270",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5849",
-            "title": "【周知】献血の実施について（1月31日実施）",
-            "summary": "日本赤十字社が附属病院に献血バスを配車して、以下のとおり献血を実施することとなりました。学生の皆さまのご協力をお願いいたします。\n\n日時：2025年1月31日（月）13：30～16：00\n場所：筑波大学附属病院　東玄関\n",
-            "date_modified": "2025-01-14T03:00:00.000Z"
-        },
-        {
-            "id": "45deca935eed735c8cb0c00a6cbd8814",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5848",
-            "title": "【開催案内】第51回「中央ユーラシアと日本の未来」公開講演会「ウズベキスタン・ タジキスタンの音楽」",
-            "summary": "【開催案内】第51回「中央ユーラシアと日本の未来」公開講演会\n\n講師：駒﨑 万集 氏  ドゥタール奏者\n\n題目：ウズベキスタン・タジキスタンの音楽\n\n日時：令和7年1月27日（月）18:15～19:30\n\n会場：筑波大学　スチューデント・コモンズ（1A203）\nおよびオンライン（Zoom）\n\n対象：本学学生、本学教職員、一般\nどなたでも無料でご参加いただけます。\n\n使用言語：日本語\n\n申込方法：\n…",
             "date_modified": "2025-01-14T03:00:00.000Z"
         }
     ]
