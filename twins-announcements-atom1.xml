@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/mkobayashime/twins-announcements</id>
     <title>在学生へのお知らせ | 筑波大学</title>
-    <updated>2025-01-20T06:01:40.985Z</updated>
+    <updated>2025-01-20T07:01:46.721Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://github.com/mkobayashime/twins-announcements"/>
     <subtitle>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</subtitle>
+    <entry>
+        <title type="html"><![CDATA[【〆切間近！】【1/29開催】第6回博士のポートフォリオ大公開+ロールモデル懇談会]]></title>
+        <id>1f765b09f6233189129cd732b5a76285</id>
+        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5875"/>
+        <updated>2025-01-20T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[ヒューマンエンパワーメント推進局では、筑波大学に所属する全学群生・大学院生を対象に、多様な学生のキャリア形成に対する視野を開くこと、また、博士進学後のキャリアパスをクリアにすることを目的として、令和6年度第6回博士のポートフォリオ大公開+ロールモデル懇談会を開催いたします。
+博士課程に進学したきっかけや当時の悩みなど、筑波大学で博士号を取得した方に日ごろの疑問を質問できる貴重な機会です。
+障害の有…]]></summary>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【開催案内】11th Borderless Onsite Meeting “Exploring Kyrgyzstan”]]></title>
         <id>0c14074f5c69a15f5a970086027e509f</id>
@@ -252,19 +261,5 @@ For detail, please see the attached file.
         <summary type="html"><![CDATA[茨城県警察本部生活安全総務課よりいばらき防犯ファイル（令和６年12月末）の送付がありましたので、添付のとおり掲載いたします。
 本ファイルは、県内で実際に発生した犯罪の情報のほか、防犯対策に役立つ情報が含まれております。ご自身の安全のためにも、ぜひご確認ください。
 ]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[本日開催！　桐公会・BHE共催　　「25年度公務員試験対策勉強会」]]></title>
-        <id>fdfa07308de74ab5180e1d9e77b9cb54</id>
-        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5852"/>
-        <updated>2025-01-15T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[主に2025年度に公務員試験を受験する学生を対象とした勉強会です。
-2026年度以降に受験予定の方や公務員に興味のある方も参加することができます。
-公務員試験の筆記・面接対策、併願先などについて
-今年度の内定者から話を聞き、具体的かつ実践的な対策を学ぶことができます。
-
-日時：2025年1月15日（水）　15：30-17：00
-場所：1E棟302講義室
-内容：公務員試験について内定者と少人数懇談（…]]></summary>
     </entry>
 </feed>
