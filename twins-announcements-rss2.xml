@@ -4,10 +4,21 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Mon, 20 Jan 2025 01:28:42 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 20 Jan 2025 02:22:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
+        <item>
+            <title><![CDATA[【周知】【総務省】住民票の異動及び投票方法に係る周知啓発等について]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5869</link>
+            <guid>ea3397de62ef60224a0f2882950f9639</guid>
+            <pubDate>Mon, 20 Jan 2025 03:00:00 GMT</pubDate>
+            <description><![CDATA[総務省より住民票の異動及び投票方法に係る周知啓発等の周知について、通知がありましたので、お知らせいたします。
+
+進学や就職等に伴う引っ越しにより住所移転した場合には、正確な住民票異動の届出を行う必要があり選挙で投票するためには、選挙権を有しているだけでなく、選挙人名簿に登録されていることが必要であり、当該選挙人名簿は、住民基本台帳の情報を基に作
+成されます。
+住民基本台帳は、選挙人名簿のほか様々な…]]></description>
+        </item>
         <item>
             <title><![CDATA[(BHE)公務員を目指す学生の皆さんへ　「桐公会（とうこうかい）」　・コミュニケーションツールのご案内]]></title>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5868</link>
@@ -257,17 +268,6 @@ To students scheduled to complete graduate school in AY2024 (including withdrawa
 日時：2025年1月15日（水）　15：30-17：00
 場所：1E棟302講義室
 内容：公務員試験について内定者と少人数懇談（…]]></description>
-        </item>
-        <item>
-            <title><![CDATA[〔学群生対象〕締切まで１か月！AIMSプログラム2025秋学期渡航分募集]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5846</link>
-            <guid>a49d7decd8f6d9221498317fb8cf192c</guid>
-            <pubDate>Tue, 14 Jan 2025 03:00:00 GMT</pubDate>
-            <description><![CDATA[東南アジアとの交換留学プログラム・AIMSプログラムでは、2025年秋学期渡航分（2025年8～11月頃に渡航）を募集中です。
-
-希望者はプログラム専用サイトの協定校情報および募集要項を熟読し理解の上、【2025年2月14日（金）17：00まで】に必要書類を提出してください。ご応募お待ちしています！
-
-※留学期間中を通して、本学の学群正規課程に在籍する方が対象です。詳細は募集要項をご確認くださ…]]></description>
         </item>
     </channel>
 </rss>
