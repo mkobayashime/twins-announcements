@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/mkobayashime/twins-announcements</id>
     <title>在学生へのお知らせ | 筑波大学</title>
-    <updated>2025-01-20T02:22:47.128Z</updated>
+    <updated>2025-01-20T03:03:37.878Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://github.com/mkobayashime/twins-announcements"/>
     <subtitle>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</subtitle>
+    <entry>
+        <title type="html"><![CDATA[【周知】海外同窓生ネットワーク・TUANのリレーション登録について]]></title>
+        <id>ddfef7fa00101b43f34aa84cc534df1d</id>
+        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5870"/>
+        <updated>2025-01-20T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[国際局グローバル・コモンズより、海外同窓生ネットワーク・TUANのリレーション登録について、通知がありましたので、お知らせいたします。
+
+本学では、海外の同窓会組織、海外同窓生のネットワーク構築及び母校とのつながりを、大学としてより強化していくとともに、新たな海外同窓会組織の設置の促進のために、昨年10月１日の創基151年筑波大学開学50周年記念事業イベントの際に、海外同窓生ネットワーク Tsuk…]]></summary>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【周知】【総務省】住民票の異動及び投票方法に係る周知啓発等について]]></title>
         <id>ea3397de62ef60224a0f2882950f9639</id>
@@ -252,19 +261,5 @@ To students scheduled to complete graduate school in AY2024 (including withdrawa
 
 申込方法：
 …]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[（明日開催）桐公会・BHE共催「25年度公務員試験対策勉強会」]]></title>
-        <id>304f919af3c8db00f98067691a96e85c</id>
-        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5847"/>
-        <updated>2025-01-14T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[主に2025年度に公務員試験を受験する学生を対象とした勉強会です。
-2026年度以降に受験予定の方や公務員に興味のある方も参加することができます。
-公務員試験の筆記・面接対策、併願先などについて
-今年度の内定者から話を聞き、具体的かつ実践的な対策を学ぶことができます。
-
-日時：2025年1月15日（水）　15：30-17：00
-場所：1E棟302講義室
-内容：公務員試験について内定者と少人数懇談（…]]></summary>
     </entry>
 </feed>
