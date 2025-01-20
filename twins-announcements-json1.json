@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "0c14074f5c69a15f5a970086027e509f",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5874",
+            "title": "【開催案内】11th Borderless Onsite Meeting “Exploring Kyrgyzstan”",
+            "summary": "【開催案内】11th Borderless Onsite Meeting\n\n留学生（外国人職員）が出身国を紹介するイベント”BOM”を月に一度ランチタイムに開催しています。1月は対面での開催です。英語によるフリーチャットや留学生によるプレゼンテーションをお楽しみください。\n\n今月のオンサイト開催は、NipCAフェロー2024　オトゥクルベクキジ・アクライさんがキルギスタンの紹介をしてくれます。\n\n…",
+            "date_modified": "2025-01-20T03:00:00.000Z"
+        },
+        {
             "id": "0785e6acf20dcc155c124fef0d5c67d2",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5873",
             "title": "【再周知】学生相談室主催（1/28）「ものづくり＆リフレッシュ：コスモサークルを作ろう」開催のお知らせ",
@@ -136,13 +143,6 @@
             "title": "本日開催！　桐公会・BHE共催　　「25年度公務員試験対策勉強会」",
             "summary": "主に2025年度に公務員試験を受験する学生を対象とした勉強会です。\n2026年度以降に受験予定の方や公務員に興味のある方も参加することができます。\n公務員試験の筆記・面接対策、併願先などについて\n今年度の内定者から話を聞き、具体的かつ実践的な対策を学ぶことができます。\n\n日時：2025年1月15日（水）　15：30-17：00\n場所：1E棟302講義室\n内容：公務員試験について内定者と少人数懇談（…",
             "date_modified": "2025-01-15T03:00:00.000Z"
-        },
-        {
-            "id": "71b3a9e9ac8e8043f740dc0963642057",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5851",
-            "title": "【Notice】Request for Submission of Pledge for Security Export Control卒業時等安全保障輸出管理に係る誓約書提出のお願い",
-            "summary": "2024年度大学院修了予定者（退学等を含む）の皆様へ\nTo students scheduled to complete graduate school in AY2024 (including withdrawals, etc.)\n安全保障に関連する機微技術流出の防止のために、大学院修了時に「外国為替及び外国貿易法」を遵守する誓約書をmanabaから提出していただくことになっています。ご協力をよ…",
-            "date_modified": "2025-01-14T03:00:00.000Z"
         }
     ]
 }
