@@ -2,10 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/mkobayashime/twins-announcements</id>
     <title>在学生へのお知らせ | 筑波大学</title>
-    <updated>2025-01-21T15:07:23.084Z</updated>
+    <updated>2025-01-22T01:28:49.241Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://github.com/mkobayashime/twins-announcements"/>
     <subtitle>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</subtitle>
+    <entry>
+        <title type="html"><![CDATA[【本日から開催！！】筑波大主催キャリアイベント「企業研究会」　／OBOG相談会 出席予定者リスト]]></title>
+        <id>c66bbf0d8adfe1acf00a2d89abf30c56</id>
+        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5882"/>
+        <updated>2025-01-22T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[本日22日（水）から25日（土）まで、毎日14時から
+大学会館にて筑波大学主催の企業説明会を開催いたします！
+企業研究会では、企業や業界について理解することはもちろん
+いろいろな企業の話を聞くことで、自分がどんな分野に興味を持っているのかが分かり、自己分析にもなります。
+この機会をお見逃しなく！
+
+◎全学生対象
+◎途中参加・退出可能
+◎服装自由
+★気軽にふらっとお越しください
+
+【概要】
+日程 　…]]></summary>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【全筑波大学生向け】【1/29開催】第6回博士のポートフォリオ大公開+ロールモデル懇談会]]></title>
         <id>838e2bcf41bcfabb0cf95c2193284834</id>
@@ -251,17 +270,5 @@ Would you like to experience the Japanese culture of ikebana?
 
 For detail, please see the attached file.
 ]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【2/19開催】仕事に就くことと卒業後の生活を考えよう～障害者雇用と一般雇用の違いなど～ ※リマインド]]></title>
-        <id>2372e74477c330f7db0d86519db884e1</id>
-        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5855"/>
-        <updated>2025-01-15T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[年が明け、皆さんの中には「そろそろ就活を始めようかな」と考えている方、もしくはお悩みを抱えている方もいらっしゃるのではないでしょうか。
-この度、ヒューマンエンパワーメント推進局(BHE)では仕事に就くことや卒業後の生活を考えるためのセミナーを開催します。
-例えば、
-・就活ってどうやって始めるの？何を準備したらいいの？
-・就活中に自分の障害特性をどう伝える/伝えない？タイミングは？
-・採用枠によって…]]></summary>
     </entry>
 </feed>

@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "c66bbf0d8adfe1acf00a2d89abf30c56",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5882",
+            "title": "【本日から開催！！】筑波大主催キャリアイベント「企業研究会」　／OBOG相談会 出席予定者リスト",
+            "summary": "本日22日（水）から25日（土）まで、毎日14時から\n大学会館にて筑波大学主催の企業説明会を開催いたします！\n企業研究会では、企業や業界について理解することはもちろん\nいろいろな企業の話を聞くことで、自分がどんな分野に興味を持っているのかが分かり、自己分析にもなります。\nこの機会をお見逃しなく！\n\n◎全学生対象\n◎途中参加・退出可能\n◎服装自由\n★気軽にふらっとお越しください\n\n【概要】\n日程 　…",
+            "date_modified": "2025-01-22T03:00:00.000Z"
+        },
+        {
             "id": "838e2bcf41bcfabb0cf95c2193284834",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5881",
             "title": "【全筑波大学生向け】【1/29開催】第6回博士のポートフォリオ大公開+ロールモデル懇談会",
@@ -135,13 +142,6 @@
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5856",
             "title": "いけばな体験教室の開催について/The Lesson of Ikebana Experience",
             "summary": "いけばな体験教室を1月25日に開催いたします。\n\n詳細は添付ファイルをご確認ください。\n\n\nWould you like to experience the Japanese culture of ikebana?\n\nFor detail, please see the attached file.\n",
-            "date_modified": "2025-01-15T03:00:00.000Z"
-        },
-        {
-            "id": "2372e74477c330f7db0d86519db884e1",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5855",
-            "title": "【2/19開催】仕事に就くことと卒業後の生活を考えよう～障害者雇用と一般雇用の違いなど～ ※リマインド",
-            "summary": "年が明け、皆さんの中には「そろそろ就活を始めようかな」と考えている方、もしくはお悩みを抱えている方もいらっしゃるのではないでしょうか。\nこの度、ヒューマンエンパワーメント推進局(BHE)では仕事に就くことや卒業後の生活を考えるためのセミナーを開催します。\n例えば、\n・就活ってどうやって始めるの？何を準備したらいいの？\n・就活中に自分の障害特性をどう伝える/伝えない？タイミングは？\n・採用枠によって…",
             "date_modified": "2025-01-15T03:00:00.000Z"
         }
     ]
