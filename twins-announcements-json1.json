@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "11e16c490740a88574e3bc7de11de56b",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5902",
+            "title": "（開催案内）学生向けデータ分析コンペティション「aihack」",
+            "summary": "アイフルグループ（アイフル、ライフカード共同）において、大学生を対象としたデータ分析コンペティション「aihack」を下記のとおり開催する運びとなりました。多くの学生のご参加をお待ちしております。\n■ コンペティション概要\n主催：アイフルグループ（アイフル、ライフカード共同）\n賞金総額：170万円\n参加対象：大学生（30歳未満）\n形式：オンライン予選および、上位入賞者による京都での本選\nスケジュー…",
+            "date_modified": "2025-01-23T03:00:00.000Z"
+        },
+        {
             "id": "f7e5c4dc1ece4147cbde4ed3df16263e",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5901",
             "title": "サーバー更新作業に伴うキャリア支援チームHP及び就職情報提供システム停止のお知らせ",
@@ -135,13 +142,6 @@
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5878",
             "title": "It starts today!! “Japanese Culture Week 日本文化ウィーク” will be held!! January 21st – 23rd",
             "summary": "Finally, It starts today.!!\nThe “Japanese Culture Week” will be held again this year to celebrate the New Year 2025 at the Student Commons (1A203)!\n\nWe have \"Today’s Special Event\". Shimenawa Rope Mak…",
-            "date_modified": "2025-01-21T03:00:00.000Z"
-        },
-        {
-            "id": "2d72098487215c427fdcafc65cdc4505",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5876",
-            "title": "桐公会・BHE主催　「文部科学省内定者との懇談会」",
-            "summary": "筑波大学所属の文科省内定者による少人数懇談会を開催します！\n教育・文化・学術・スポーツにすこしでも関心がある学生、専門は問いません！\n低学年も大歓迎！\n文科省について、国家公務員について、官庁訪問について・・・\n内定者とざっくばらんに話をしてみませんか。\n\n〇日時：1月29日（水）\n　　　　15:00-17:00\n〇場所：ステューデントプラザ2階\n　　　　ヒューマンエンパワーメント推進局会議室\n〇…",
             "date_modified": "2025-01-21T03:00:00.000Z"
         }
     ]
