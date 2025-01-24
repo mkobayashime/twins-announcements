@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "4816c1e7ecd66f73d36d96ad200a8d26",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5903",
+            "title": "【参加者募集/Recruitment of Participants】サービス工学シンポジウム開催のお知らせ(Notice of Symposium on Service Engineering)",
+            "summary": "この度、2025年2月18日（火）に筑波大学第3エリアにて、サービス工学シンポジウムを開催いたします。\n“システム情報工学研究群”かつ”つくばの社工”のサービス工学学位プログラムでは、毎年シンポジウムを開催しています。大学や企業から講演者をお招きしサービス工学に関する基調講演をいただくほか、学生による共同研究のポスター発表が行われます。詳細なプログラム等の情報については、添付のポスターやシンポジウ…",
+            "date_modified": "2025-01-24T03:00:00.000Z"
+        },
+        {
             "id": "11e16c490740a88574e3bc7de11de56b",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5902",
             "title": "（開催案内）学生向けデータ分析コンペティション「aihack」",
@@ -135,13 +142,6 @@
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5874",
             "title": "【開催案内】11th Borderless Onsite Meeting “Exploring Kyrgyzstan”",
             "summary": "【開催案内】11th Borderless Onsite Meeting\n\n留学生（外国人職員）が出身国を紹介するイベント”BOM”を月に一度ランチタイムに開催しています。1月は対面での開催です。英語によるフリーチャットや留学生によるプレゼンテーションをお楽しみください。\n\n今月のオンサイト開催は、NipCAフェロー2024　オトゥクルベクキジ・アクライさんがキルギスタンの紹介をしてくれます。\n\n…",
-            "date_modified": "2025-01-20T03:00:00.000Z"
-        },
-        {
-            "id": "0785e6acf20dcc155c124fef0d5c67d2",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5873",
-            "title": "【再周知】学生相談室主催（1/28）「ものづくり＆リフレッシュ：コスモサークルを作ろう」開催のお知らせ",
-            "summary": "学生相談室では、相談活動以外にも、様々なイベントやグループ活動を開催しています。\n忙しい毎日を少し忘れて、気軽なアート体験をしませんか？厚紙に糸をかけて曼荼羅のような模様を作る「コスモサークル」のワークショップです。\n好きな色を組み合わせて、自分だけの作品が簡単に作れます。もくもくと手を動かすことは、リフレッシュ効果も抜群です！\nお一人でも、友達と一緒でも大歓迎です。\n\n【日　時】1月28日（火）…",
             "date_modified": "2025-01-20T03:00:00.000Z"
         }
     ]
