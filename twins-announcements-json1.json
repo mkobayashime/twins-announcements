@@ -5,6 +5,20 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "a7688b8aa3e4ed70a9c5f38daf6da51b",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5913",
+            "title": "（BHE)2024年度学内内定者懇談会のお知らせ",
+            "summary": "今年度、就職活動を終えた先輩（キャリアサポーター）に就活の体験談を聞くことのできる座談会を\n対面で開催します。\n就活直後の先輩の話を聞ける貴重な機会です。\n就活において、不安に思っていることやわからないことを自由に話してみましょう。\n皆さまのご参加をおまちしています。\n\n〇対象：全学生就活中の方・これから就活を始める方\n〇当日参加してくれるキャリアサポーターの内定先\n☆企業：金融（三井住友銀行）・…",
+            "date_modified": "2025-01-27T03:00:00.000Z"
+        },
+        {
+            "id": "2d72098487215c427fdcafc65cdc4505",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5912",
+            "title": "桐公会・BHE主催　「文部科学省内定者との懇談会」",
+            "summary": "筑波大学所属の文科省内定者による少人数懇談会を開催します！\n教育・文化・学術・スポーツにすこしでも関心がある学生、専門は問いません！\n低学年も大歓迎！\n文科省について、国家公務員について、官庁訪問について・・・\n内定者とざっくばらんに話をしてみませんか。\n\n〇日時：1月29日（水）\n　　　　15:00-17:00\n〇場所：ステューデントプラザ2階\n　　　　ヒューマンエンパワーメント推進局会議室\n〇…",
+            "date_modified": "2025-01-27T03:00:00.000Z"
+        },
+        {
             "id": "38770eafc72d95b943ec774d9c4c7d3e",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5911",
             "title": "【開催通知】化学物質管理講習会",
@@ -128,20 +142,6 @@
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5885",
             "title": "桐公会・BHE主催　「文部科学省内定者との懇談会」",
             "summary": "筑波大学所属の文科省内定者による少人数懇談会を開催します！\n教育・文化・学術・スポーツにすこしでも関心がある学生、専門は問いません！\n低学年も大歓迎！\n文科省について、国家公務員について、官庁訪問について・・・\n内定者とざっくばらんに話をしてみませんか。\n\n〇日時：1月29日（水）\n　　　　15:00-17:00\n〇場所：ステューデントプラザ2階\n　　　　ヒューマンエンパワーメント推進局会議室\n〇…",
-            "date_modified": "2025-01-22T03:00:00.000Z"
-        },
-        {
-            "id": "592a884bc48a205493dd6dfd2465cfca",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5884",
-            "title": "【大学院に興味のある方向け】【1/29開催】第6回博士のポートフォリオ大公開+ロールモデル懇談会",
-            "summary": "ヒューマンエンパワーメント推進局では、筑波大学に所属する全学群生・大学院生を対象に、多様な学生のキャリア形成に対する視野を開くこと、また、博士進学後のキャリアパスをクリアにすることを目的として、令和6年度第6回博士のポートフォリオ大公開+ロールモデル懇談会を開催いたします。\n博士課程に進学したきっかけや当時の悩みなど、筑波大学で博士号を取得した方に日ごろの疑問を質問できる貴重な機会です。\n障害の有…",
-            "date_modified": "2025-01-22T03:00:00.000Z"
-        },
-        {
-            "id": "c66bbf0d8adfe1acf00a2d89abf30c56",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5882",
-            "title": "【本日から開催！！】筑波大主催キャリアイベント「企業研究会」　／OBOG相談会 出席予定者リスト",
-            "summary": "本日22日（水）から25日（土）まで、毎日14時から\n大学会館にて筑波大学主催の企業説明会を開催いたします！\n企業研究会では、企業や業界について理解することはもちろん\nいろいろな企業の話を聞くことで、自分がどんな分野に興味を持っているのかが分かり、自己分析にもなります。\nこの機会をお見逃しなく！\n\n◎全学生対象\n◎途中参加・退出可能\n◎服装自由\n★気軽にふらっとお越しください\n\n【概要】\n日程 　…",
             "date_modified": "2025-01-22T03:00:00.000Z"
         }
     ]
