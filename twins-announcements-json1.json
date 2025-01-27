@@ -5,6 +5,27 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "38770eafc72d95b943ec774d9c4c7d3e",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5911",
+            "title": "【開催通知】化学物質管理講習会",
+            "summary": "下記のとおり化学物質管理講習会を開催いたします。\n危険物管理責任者、防火区画内責任者、ゾーン管理者、高圧ガス管理責任者、試薬及び高圧ガスを使用される教職員・学生の方に出席いただきたいと考えております。\nなお、後日オンデマンド（英語字幕付き）でも開催することを申し添えます。\n\n　　　　　　　　　　　　　　　　　　記\n\n１．日　時　　令和７年３月１０日（月）１０時２５分～１１時２５分\n２．場　所　　１…",
+            "date_modified": "2025-01-27T03:00:00.000Z"
+        },
+        {
+            "id": "8992892935e26cc359b07462e6cbd285",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5910",
+            "title": "（3/4開催予定）令和８年度採用を目指す日本学術振興会特別研究員説明会について",
+            "summary": "令和８年度採用を目指す日本学術振興会特別研究員説明会について、2025年3月4日(火)午後にリアルタイムWeb配信にて開催予定です。採用内定者からのアドバイス、特別研究員審査会委員から見た申請にあたってのポイント等について、それぞれの講師から説明いただきます。質疑応答の時間を設けますので、気になることを直接質問できるチャンスです。ぜひご参加の上、積極的に申請してください。また、後日manabaにて…",
+            "date_modified": "2025-01-27T03:00:00.000Z"
+        },
+        {
+            "id": "833e9b6ac50b442c5bd8963f683154e6",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5909",
+            "title": "【お申込本日まで】【1/29開催】第6回博士のポートフォリオ大公開+ロールモデル懇談会",
+            "summary": "★全筑波大学生向け・大学院に興味のある方向け★\n\nヒューマンエンパワーメント推進局では、筑波大学に所属する全学群生・大学院生を対象に、多様な学生のキャリア形成に対する視野を開くこと、また、博士進学後のキャリアパスをクリアにすることを目的として、令和6年度第6回博士のポートフォリオ大公開+ロールモデル懇談会を開催いたします。\n博士課程に進学したきっかけや当時の悩みなど、筑波大学で博士号を取得した方に…",
+            "date_modified": "2025-01-27T03:00:00.000Z"
+        },
+        {
             "id": "a943e0063cb9621fb09a3090ecf6db72",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5908",
             "title": "「好きや得意を事業にしよう！」創業啓発セミナー（申込期限：2/4(火)）",
@@ -68,13 +89,6 @@
             "date_modified": "2025-01-23T03:00:00.000Z"
         },
         {
-            "id": "5d2d278455b4e455f9f23cbff31fccf4",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5896",
-            "title": "（3/4開催）令和８年度採用を目指す日本学術振興会特別研究員説明会について",
-            "summary": "令和８年度採用を目指す日本学術振興会特別研究員説明会について、2024年3月4日(火)午後にリアルタイムWeb配信にて開催予定です。採用内定者からのアドバイス、特別研究員審査会委員から見た申請にあたってのポイント等について、それぞれの講師から説明いただきます。質疑応答の時間を設けますので、気になることを直接質問できるチャンスです。ぜひご参加の上、積極的に申請してください。また、後日manabaにて…",
-            "date_modified": "2025-01-23T03:00:00.000Z"
-        },
-        {
             "id": "ae2917b9449175521b22ea9bb0234a9d",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5895",
             "title": "【本日2日目！！】筑波大主催キャリアイベント「企業研究会」　／OBOG相談会 出席予定者リスト",
@@ -129,20 +143,6 @@
             "title": "【本日から開催！！】筑波大主催キャリアイベント「企業研究会」　／OBOG相談会 出席予定者リスト",
             "summary": "本日22日（水）から25日（土）まで、毎日14時から\n大学会館にて筑波大学主催の企業説明会を開催いたします！\n企業研究会では、企業や業界について理解することはもちろん\nいろいろな企業の話を聞くことで、自分がどんな分野に興味を持っているのかが分かり、自己分析にもなります。\nこの機会をお見逃しなく！\n\n◎全学生対象\n◎途中参加・退出可能\n◎服装自由\n★気軽にふらっとお越しください\n\n【概要】\n日程 　…",
             "date_modified": "2025-01-22T03:00:00.000Z"
-        },
-        {
-            "id": "838e2bcf41bcfabb0cf95c2193284834",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5881",
-            "title": "【全筑波大学生向け】【1/29開催】第6回博士のポートフォリオ大公開+ロールモデル懇談会",
-            "summary": "ヒューマンエンパワーメント推進局では、筑波大学に所属する全学群生・大学院生を対象に、多様な学生のキャリア形成に対する視野を開くこと、また、博士進学後のキャリアパスをクリアにすることを目的として、令和6年度第6回博士のポートフォリオ大公開+ロールモデル懇談会を開催いたします。\n博士課程に進学したきっかけや当時の悩みなど、筑波大学で博士号を取得した方に日ごろの疑問を質問できる貴重な機会です。\n障害の有…",
-            "date_modified": "2025-01-21T03:00:00.000Z"
-        },
-        {
-            "id": "2672f7ed3d5702ea9cc6dc3fe4853846",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5880",
-            "title": "カナダのプリンスエドワード島大学夏期語学研修　履修生（参加者）募集",
-            "summary": "カナダのプリンスエドワード島大学夏期語学研修（8/4から8/22）参加者を募集します。\n参加するには、2024年度開講科目「比較文化国際研修オリエンテーション」(AC66001)\n2/14-15集中　オンライン(オンデマンド型). オンライン(同時双方向型) の受講が必須です。\nTWINS登録して受講してください。\n\n※  授業日程、履修登録期間については、添付を参照してください。\n※「比較文化国…",
-            "date_modified": "2025-01-21T03:00:00.000Z"
         }
     ]
 }
