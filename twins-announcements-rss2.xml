@@ -4,10 +4,23 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Sun, 26 Jan 2025 21:06:37 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 27 Jan 2025 00:02:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
+        <item>
+            <title><![CDATA[「好きや得意を事業にしよう！」創業啓発セミナー（申込期限：2/4(火)）]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5908</link>
+            <guid>a943e0063cb9621fb09a3090ecf6db72</guid>
+            <pubDate>Mon, 27 Jan 2025 03:00:00 GMT</pubDate>
+            <description><![CDATA[つくば市より、創業啓発セミナーのご案内をいただきました。
+下記の概要をご覧の上、興味がある方はURLから直接申し込みをしてください。
+
+--------------------以下、セミナー概要--------------------
+〇セミナー概要
+つくば市で創業を考えている方、好きな事・得意な事を事業として形にしてみたい方などを対象に無料のセミナーを開催します。
+専門家から創業に必要な基礎知識…]]></description>
+        </item>
         <item>
             <title><![CDATA[【〆切間近！】【1/29開催】第6回博士のポートフォリオ大公開+ロールモデル懇談会]]></title>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5907</link>
@@ -232,23 +245,6 @@ TWINS登録して受講してください。
 
 ※  授業日程、履修登録期間については、添付を参照してください。
 ※「比較文化国…]]></description>
-        </item>
-        <item>
-            <title><![CDATA[桐公会・BHE主催　「文部科学省内定者との懇談会」]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5876</link>
-            <guid>2d72098487215c427fdcafc65cdc4505</guid>
-            <pubDate>Tue, 21 Jan 2025 03:00:00 GMT</pubDate>
-            <description><![CDATA[筑波大学所属の文科省内定者による少人数懇談会を開催します！
-教育・文化・学術・スポーツにすこしでも関心がある学生、専門は問いません！
-低学年も大歓迎！
-文科省について、国家公務員について、官庁訪問について・・・
-内定者とざっくばらんに話をしてみませんか。
-
-〇日時：1月29日（水）
-　　　　15:00-17:00
-〇場所：ステューデントプラザ2階
-　　　　ヒューマンエンパワーメント推進局会議室
-〇…]]></description>
         </item>
     </channel>
 </rss>
