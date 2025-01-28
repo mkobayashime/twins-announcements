@@ -9,7 +9,7 @@
   "devDependencies": {
     "@biomejs/biome": "1.9.4",
     "@types/md5": "2.3.5",
-    "@types/node": "22.10.6",
+    "@types/node": "22.12.0",
     "date-fns": "4.1.0",
     "feed": "4.2.2",
     "fp-ts": "2.16.9",
