@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "b8773c5b5b4a538e2bdcef07c846562e",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5916",
+            "title": "Regarding the Enhancement of Microsoft Account Security",
+            "summary": "In recent years, Microsoft has been strengthening the security settings of MS accounts as part of its policy.\n\nDue to these security enhancements, users may be required to undergo multi-factor authent…",
+            "date_modified": "2025-01-28T03:00:00.000Z"
+        },
+        {
             "id": "51bd71e0ebd4adfd54c7d1927522d745",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5915",
             "title": "Microsoft アカウントのセキュリティ強化について",
@@ -135,13 +142,6 @@
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5891",
             "title": "【2/3開催】（関東ブロックFDセミナー）分野融合型でシームレスな筑波大学MDA教育の全貌とPBLを核とした企業連携",
             "summary": "このたび、筑波大学におけるMDA教育の全貌と、PBL（課題解決型学習）を核とした企業連携の実践に焦点を当てたFDセミナー を以下のとおり開催いたします。本セミナーでは、筑波大学のMDA教育の最前線をご紹介するとともに、PBLを活用した企業との連携活動の実例についてお伝えします。\n(1) 開催概要\n名　称：（関東ブロックFDセミナー）分野融合型でシームレスな筑波大学MDA教育の全貌とPBLを核とした…",
-            "date_modified": "2025-01-22T03:00:00.000Z"
-        },
-        {
-            "id": "b7e95e50ac1212383f05fa9ebcf7e9e0",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5888",
-            "title": "【周知】【厚生労働省】学生に対する国民年金制度周知用動画及び日本年金機構ホームページ等の周知について",
-            "summary": "厚生労働省より国民年金保険料の学生納付特例制度について、通知がありましたので、お知らせいたします。\n\n20歳以上の学生は、国民年金への加入及び保険料納付の義務があります。学生納付特例制度とは、20歳以上の学生で、所得が少なく（年収194万円が目安）以下であり、保険料を納めることが困難な場合、本人の申請により保険料の納付が猶予される制度です。\nこれにより、万が一、当該期間中のけがや病気により障害が残…",
             "date_modified": "2025-01-22T03:00:00.000Z"
         }
     ]
