@@ -4,10 +4,19 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Fri, 31 Jan 2025 05:01:39 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 31 Jan 2025 08:01:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
+        <item>
+            <title><![CDATA[【Event Info】 Cultural Exchange with Takezono Senior High School Students]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5924</link>
+            <guid>82bcb207af693e0135edf04e9f545df1</guid>
+            <pubDate>Fri, 31 Jan 2025 03:00:00 GMT</pubDate>
+            <description><![CDATA[Hosted by Takezono Senior High School
+
+"We are looking for international students studying at the University of Tsukuba to participate in cross-cultural exchange with our international track students"…]]></description>
+        </item>
         <item>
             <title><![CDATA[文部科学省：起業やスタートアップに対する意識やスキルに関するアンケート]]></title>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5923</link>
@@ -242,21 +251,6 @@ Due to these security enhancements, users may be required to undergo multi-facto
             <description><![CDATA[つくば市役所から「オンラインでの転出届」について、チラシでの案内がありましたのでお知らせいたします。
 
 詳細は添付ファイルをご確認ください。]]></description>
-        </item>
-        <item>
-            <title><![CDATA[2.13セミナー【海外ボランティアから始まる／広がるマイキャリア・マイライフその３　理学療法士が歩む国際協力の世界と障がい者支援】のお知らせ]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5898</link>
-            <guid>fce4f5127116f6a1c1f660ec1e342d35</guid>
-            <pubDate>Thu, 23 Jan 2025 03:00:00 GMT</pubDate>
-            <description><![CDATA[第55回ASIP/TG+公開セミナーのご案内です。
-
-【海外ボランティアから始まる／広がるマイキャリア・マイライフその３　理学療法士が歩む国際協力の世界と障がい者支援】
-
-日時：2025年2月13日（木）15：15～17：00
-場所：オンライン
-講師：大室　和也氏（特定非営利活動法人 難民を助ける会 地域統括）
-
-申込はこちらから→https://forms.gle/r2VtvYnr4RPXzCt…]]></description>
         </item>
     </channel>
 </rss>
