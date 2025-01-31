@@ -4,10 +4,27 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Fri, 31 Jan 2025 02:21:08 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 31 Jan 2025 04:01:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
+        <item>
+            <title><![CDATA[(BHE)内定者懇談会のお知らせ]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5922</link>
+            <guid>d3bd014af7da82d9fda6f90a708b56cb</guid>
+            <pubDate>Fri, 31 Jan 2025 03:00:00 GMT</pubDate>
+            <description><![CDATA[就活中のみなさんへ
+
+今年度、就職活動を終えた先輩（キャリアサポーター）に就活の体験談を聞くことのできる座談会を
+対面で開催します。
+就活直後の先輩の話を聞ける貴重な機会です。
+就活において、不安に思っていることやわからないことを自由に話してみましょう。
+皆さまのご参加をお待ちしています。
+
+〇対象：全学生就活中の方・これから就活を始める方
+〇当日参加してくれるキャリアサポーターの内定先
+☆企業：…]]></description>
+        </item>
         <item>
             <title><![CDATA[【資料掲載_2/3開催】高圧ガスボンベ利用者安全講習会]]></title>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5921</link>
@@ -247,14 +264,6 @@ OBOG相談会の出席者リストは添付の資料を確認ください　※�
 日程 　2025年1月22日（水）-1月25日（土）
 時間 　14：00-18：00
 会…]]></description>
-        </item>
-        <item>
-            <title><![CDATA[トビタテ！留学JAPAN　第6回 留学成果報告会について]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5893</link>
-            <guid>5b8b200d5060c6a6a0e5ef01352bc367</guid>
-            <pubDate>Thu, 23 Jan 2025 03:00:00 GMT</pubDate>
-            <description><![CDATA[2025年2月16日（日）に、文部科学省 講堂にて「トビタテ！留学JAPAN　第6回 留学成果報告会」が開催されます。先に行われた留学体験発表会での優良賞受賞者を代表して、高校生等部門16名・大学生等部門16名の計32名のトビタテ派遣留学生が、本会にて最終プレゼンテーションを行い、支援企業の御協力者の審査により、各部門最優秀賞1名、優秀賞2名を決定します。イベント観覧は無料で、入退場自由です。
-　…]]></description>
         </item>
     </channel>
 </rss>
