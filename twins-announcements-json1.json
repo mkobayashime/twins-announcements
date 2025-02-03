@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "4e389f9e1afc5e422e945ce397e8906b",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5928",
+            "title": "【見逃し配信】令和6年度全学防災訓練「障害学生等支援防災ワーク」（全学リスクマネジメントセミナー）",
+            "summary": "　令和6年11月12日（火）に開催しました、令和6年度全学防災訓練「障害学生等支援防災ワーク」（全学リスクマネジメントセミナー）の見逃し配信を行いますので、ご案内申し上げます。\n見逃し配信は、安定したインターネットに接続できる端末をご用意いただければ、下記の視聴期間中いつでもどこでも自由に視聴することができます。申込後に見逃し配信への接続方法がメールで自動的に通知されます。\nつきましては、見逃し配…",
+            "date_modified": "2025-02-03T03:00:00.000Z"
+        },
+        {
             "id": "13417e22717166b7fd688a896f844d08",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5926",
             "title": "【開催案内】講演会「社会変革を促す人材育成ビジョン～いまなぜ243制なのか～」",
@@ -135,13 +142,6 @@
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5910",
             "title": "（3/4開催予定）令和８年度採用を目指す日本学術振興会特別研究員説明会について",
             "summary": "令和８年度採用を目指す日本学術振興会特別研究員説明会について、2025年3月4日(火)午後にリアルタイムWeb配信にて開催予定です。採用内定者からのアドバイス、特別研究員審査会委員から見た申請にあたってのポイント等について、それぞれの講師から説明いただきます。質疑応答の時間を設けますので、気になることを直接質問できるチャンスです。ぜひご参加の上、積極的に申請してください。また、後日manabaにて…",
-            "date_modified": "2025-01-27T03:00:00.000Z"
-        },
-        {
-            "id": "a943e0063cb9621fb09a3090ecf6db72",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5908",
-            "title": "「好きや得意を事業にしよう！」創業啓発セミナー（申込期限：2/4(火)）",
-            "summary": "つくば市より、創業啓発セミナーのご案内をいただきました。\n下記の概要をご覧の上、興味がある方はURLから直接申し込みをしてください。\n\n--------------------以下、セミナー概要--------------------\n〇セミナー概要\nつくば市で創業を考えている方、好きな事・得意な事を事業として形にしてみたい方などを対象に無料のセミナーを開催します。\n専門家から創業に必要な基礎知識…",
             "date_modified": "2025-01-27T03:00:00.000Z"
         }
     ]
