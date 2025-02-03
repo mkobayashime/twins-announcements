@@ -4,7 +4,7 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Mon, 03 Feb 2025 09:08:01 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 03 Feb 2025 15:07:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
@@ -28,9 +28,15 @@
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5928</link>
             <guid>4e389f9e1afc5e422e945ce397e8906b</guid>
             <pubDate>Mon, 03 Feb 2025 03:00:00 GMT</pubDate>
-            <description><![CDATA[　令和6年11月12日（火）に開催しました、令和6年度全学防災訓練「障害学生等支援防災ワーク」（全学リスクマネジメントセミナー）の見逃し配信を行いますので、ご案内申し上げます。
-見逃し配信は、安定したインターネットに接続できる端末をご用意いただければ、下記の視聴期間中いつでもどこでも自由に視聴することができます。申込後に見逃し配信への接続方法がメールで自動的に通知されます。
-つきましては、見逃し配…]]></description>
+            <description><![CDATA[今年度、就職活動を終えた先輩（キャリアサポーター）に就活の体験談を聞くことのできる座談会を
+対面で開催します。
+就活直後の先輩の話を聞ける貴重な機会です。
+就活において、不安に思っていることやわからないことを自由に話してみましょう。
+皆さまのご参加をおまちしています。
+
+〇対象：全学生就活中の方・これから就活を始める方
+〇当日参加してくれるキャリアサポーターの内定先
+☆企業：金融（三井住友銀行）・…]]></description>
         </item>
         <item>
             <title><![CDATA[【開催案内】講演会「社会変革を促す人材育成ビジョン～いまなぜ243制なのか～」]]></title>
@@ -126,17 +132,6 @@ ECサイトは以下のリンクから
 〇対象：全学生就活中の方・これから就活を始める方
 〇当日参加してくれるキャリアサポーターの内定先
 ☆企業：…]]></description>
-        </item>
-        <item>
-            <title><![CDATA[【資料掲載_2/3開催】高圧ガスボンベ利用者安全講習会]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5921</link>
-            <guid>bb724415fc55eadb0174d05e101d9716</guid>
-            <pubDate>Fri, 31 Jan 2025 03:00:00 GMT</pubDate>
-            <description><![CDATA[下記のとおり高圧ガスボンベ利用者安全講習会を開催いたします。
-この講習会では、高圧ガスに関する基礎知識から安全な取扱方法、事故事例等について、専門家より最新の情報を交えながらお話しいただきます。当日の飛び込み参加も歓迎します。
-資料については、添付をダウンロードしてご持参ください。
-
-                                                         …]]></description>
         </item>
         <item>
             <title><![CDATA[（BHE)2月5日　2024年度学内内定者懇談会のお知らせ]]></title>
@@ -267,6 +262,13 @@ Due to these security enhancements, users may be required to undergo multi-facto
 
 １．日　時　　令和７年３月１０日（月）１０時２５分～１１時２５分
 ２．場　所　　１…]]></description>
+        </item>
+        <item>
+            <title><![CDATA[（3/4開催予定）令和８年度採用を目指す日本学術振興会特別研究員説明会について]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5910</link>
+            <guid>8992892935e26cc359b07462e6cbd285</guid>
+            <pubDate>Mon, 27 Jan 2025 03:00:00 GMT</pubDate>
+            <description><![CDATA[令和８年度採用を目指す日本学術振興会特別研究員説明会について、2025年3月4日(火)午後にリアルタイムWeb配信にて開催予定です。採用内定者からのアドバイス、特別研究員審査会委員から見た申請にあたってのポイント等について、それぞれの講師から説明いただきます。質疑応答の時間を設けますので、気になることを直接質問できるチャンスです。ぜひご参加の上、積極的に申請してください。また、後日manabaにて…]]></description>
         </item>
     </channel>
 </rss>
