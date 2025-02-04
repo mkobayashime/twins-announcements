@@ -9,12 +9,12 @@
   "devDependencies": {
     "@biomejs/biome": "1.9.4",
     "@types/md5": "2.3.5",
-    "@types/node": "22.13.0",
+    "@types/node": "22.13.1",
     "date-fns": "4.1.0",
     "feed": "4.2.2",
     "fp-ts": "2.16.9",
     "md5": "2.3.0",
-    "playwright": "1.50.0",
+    "playwright": "1.50.1",
     "rimraf": "6.0.1",
     "tsx": "4.19.2",
     "typescript": "5.7.3"
