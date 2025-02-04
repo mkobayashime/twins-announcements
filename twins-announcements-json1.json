@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "db21767d2c3d07188004ce652a974e31",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5930",
+            "title": "（BHE）Teams内 情報発信チームのご案内",
+            "summary": "キャリア支援チームに日々届く、企業・自治体・学校からの求人情報や\nインターンシップ情報を発信しています。\n卒業年度別、進路志望別に就活に役立つ情報をタイムリーに掲載します。\nチームに参加して皆さんの就活に役立ててください。\n\n【参加方法】\nチーム名「BHEキャリア支援チーム　情報発信」\n１つ目のリンクから参加してください。\n\n【掲載情報例】\n（カテゴリー）\n企業（25卒向け・26卒向け）、推薦求人…",
+            "date_modified": "2025-02-04T03:00:00.000Z"
+        },
+        {
             "id": "fa8f2ea7917b25087c190c79059431fe",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5929",
             "title": "2月5日開催‼（BHE)2024年度学内内定者懇談会のお知らせ",
@@ -135,13 +142,6 @@
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5911",
             "title": "【開催通知】化学物質管理講習会",
             "summary": "下記のとおり化学物質管理講習会を開催いたします。\n危険物管理責任者、防火区画内責任者、ゾーン管理者、高圧ガス管理責任者、試薬及び高圧ガスを使用される教職員・学生の方に出席いただきたいと考えております。\nなお、後日オンデマンド（英語字幕付き）でも開催することを申し添えます。\n\n　　　　　　　　　　　　　　　　　　記\n\n１．日　時　　令和７年３月１０日（月）１０時２５分～１１時２５分\n２．場　所　　１…",
-            "date_modified": "2025-01-27T03:00:00.000Z"
-        },
-        {
-            "id": "8992892935e26cc359b07462e6cbd285",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5910",
-            "title": "（3/4開催予定）令和８年度採用を目指す日本学術振興会特別研究員説明会について",
-            "summary": "令和８年度採用を目指す日本学術振興会特別研究員説明会について、2025年3月4日(火)午後にリアルタイムWeb配信にて開催予定です。採用内定者からのアドバイス、特別研究員審査会委員から見た申請にあたってのポイント等について、それぞれの講師から説明いただきます。質疑応答の時間を設けますので、気になることを直接質問できるチャンスです。ぜひご参加の上、積極的に申請してください。また、後日manabaにて…",
             "date_modified": "2025-01-27T03:00:00.000Z"
         }
     ]
