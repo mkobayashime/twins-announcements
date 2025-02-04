@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "12cdabb89e6faf57c9d877300a7d1397",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5932",
+            "title": "【周知】まんが労働法の動画版作成について",
+            "summary": "厚生労働省が、分かりやすい労働法のハンドブック「これってあり？まんが知って役立つ労働法Ｑ＆Ａ」動画版を作成しましたので、お知らせいたします。学生の利用に適したものとなっておりますので、ぜひチェックしてください。\n詳細は、下記ホームページをご確認ください。\n\n※厚生労働省のホームページ\n・動画版「これってあり？まんが知って役立つ労働法Ｑ＆Ａ」\nhttps://www.mhlw.go.jp/seisa…",
+            "date_modified": "2025-02-04T03:00:00.000Z"
+        },
+        {
             "id": "341acacd958bb5a6a190b9381457a101",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5931",
             "title": "リサイクリングプロジェクト～リユース品回収のお知らせ～",
@@ -135,13 +142,6 @@
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5913",
             "title": "（BHE)2024年度学内内定者懇談会のお知らせ",
             "summary": "今年度、就職活動を終えた先輩（キャリアサポーター）に就活の体験談を聞くことのできる座談会を\n対面で開催します。\n就活直後の先輩の話を聞ける貴重な機会です。\n就活において、不安に思っていることやわからないことを自由に話してみましょう。\n皆さまのご参加をおまちしています。\n\n〇対象：全学生就活中の方・これから就活を始める方\n〇当日参加してくれるキャリアサポーターの内定先\n☆企業：金融（三井住友銀行）・…",
-            "date_modified": "2025-01-27T03:00:00.000Z"
-        },
-        {
-            "id": "2d72098487215c427fdcafc65cdc4505",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5912",
-            "title": "桐公会・BHE主催　「文部科学省内定者との懇談会」",
-            "summary": "筑波大学所属の文科省内定者による少人数懇談会を開催します！\n教育・文化・学術・スポーツにすこしでも関心がある学生、専門は問いません！\n低学年も大歓迎！\n文科省について、国家公務員について、官庁訪問について・・・\n内定者とざっくばらんに話をしてみませんか。\n\n〇日時：1月29日（水）\n　　　　15:00-17:00\n〇場所：ステューデントプラザ2階\n　　　　ヒューマンエンパワーメント推進局会議室\n〇…",
             "date_modified": "2025-01-27T03:00:00.000Z"
         }
     ]

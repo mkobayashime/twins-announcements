@@ -4,10 +4,22 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Tue, 04 Feb 2025 05:01:39 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 04 Feb 2025 06:01:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
+        <item>
+            <title><![CDATA[【周知】まんが労働法の動画版作成について]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5932</link>
+            <guid>12cdabb89e6faf57c9d877300a7d1397</guid>
+            <pubDate>Tue, 04 Feb 2025 03:00:00 GMT</pubDate>
+            <description><![CDATA[厚生労働省が、分かりやすい労働法のハンドブック「これってあり？まんが知って役立つ労働法Ｑ＆Ａ」動画版を作成しましたので、お知らせいたします。学生の利用に適したものとなっておりますので、ぜひチェックしてください。
+詳細は、下記ホームページをご確認ください。
+
+※厚生労働省のホームページ
+・動画版「これってあり？まんが知って役立つ労働法Ｑ＆Ａ」
+https://www.mhlw.go.jp/seisa…]]></description>
+        </item>
         <item>
             <title><![CDATA[リサイクリングプロジェクト～リユース品回収のお知らせ～]]></title>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5931</link>
@@ -255,23 +267,6 @@ Due to these security enhancements, users may be required to undergo multi-facto
 〇対象：全学生就活中の方・これから就活を始める方
 〇当日参加してくれるキャリアサポーターの内定先
 ☆企業：金融（三井住友銀行）・…]]></description>
-        </item>
-        <item>
-            <title><![CDATA[桐公会・BHE主催　「文部科学省内定者との懇談会」]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5912</link>
-            <guid>2d72098487215c427fdcafc65cdc4505</guid>
-            <pubDate>Mon, 27 Jan 2025 03:00:00 GMT</pubDate>
-            <description><![CDATA[筑波大学所属の文科省内定者による少人数懇談会を開催します！
-教育・文化・学術・スポーツにすこしでも関心がある学生、専門は問いません！
-低学年も大歓迎！
-文科省について、国家公務員について、官庁訪問について・・・
-内定者とざっくばらんに話をしてみませんか。
-
-〇日時：1月29日（水）
-　　　　15:00-17:00
-〇場所：ステューデントプラザ2階
-　　　　ヒューマンエンパワーメント推進局会議室
-〇…]]></description>
         </item>
     </channel>
 </rss>
