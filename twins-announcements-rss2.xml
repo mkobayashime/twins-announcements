@@ -4,10 +4,25 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Tue, 04 Feb 2025 21:06:35 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 05 Feb 2025 00:02:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
+        <item>
+            <title><![CDATA[本日開催”！申込み可！（BHE)2024年度学内内定者懇談会のお知らせ]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5933</link>
+            <guid>f0991eefd7ce01599ca0a5dcd5fed85f</guid>
+            <pubDate>Wed, 05 Feb 2025 03:00:00 GMT</pubDate>
+            <description><![CDATA[今年度、就職活動を終えた先輩（キャリアサポーター）に就活の体験談を聞くことのできる座談会を
+対面で開催します。
+就活直後の先輩の話を聞ける貴重な機会です。
+就活において、不安に思っていることやわからないことを自由に話してみましょう。
+皆さまのご参加をおまちしています。
+
+〇対象：全学生就活中の方・これから就活を始める方
+〇当日参加してくれるキャリアサポーターの内定先
+☆企業：金融（三井住友銀行）・…]]></description>
+        </item>
         <item>
             <title><![CDATA[【周知】まんが労働法の動画版作成について]]></title>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5932</link>
@@ -252,21 +267,6 @@ Due to these security enhancements, users may be required to undergo multi-facto
 ・就活ってどうやって始めるの？何を準備したらいいの？
 ・就活中に自分の障害特性をどう伝える/伝えない？タイミングは？
 ・採用枠によって違いはある…]]></description>
-        </item>
-        <item>
-            <title><![CDATA[（BHE)2024年度学内内定者懇談会のお知らせ]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5913</link>
-            <guid>a7688b8aa3e4ed70a9c5f38daf6da51b</guid>
-            <pubDate>Mon, 27 Jan 2025 03:00:00 GMT</pubDate>
-            <description><![CDATA[今年度、就職活動を終えた先輩（キャリアサポーター）に就活の体験談を聞くことのできる座談会を
-対面で開催します。
-就活直後の先輩の話を聞ける貴重な機会です。
-就活において、不安に思っていることやわからないことを自由に話してみましょう。
-皆さまのご参加をおまちしています。
-
-〇対象：全学生就活中の方・これから就活を始める方
-〇当日参加してくれるキャリアサポーターの内定先
-☆企業：金融（三井住友銀行）・…]]></description>
         </item>
     </channel>
 </rss>

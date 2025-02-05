@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "f0991eefd7ce01599ca0a5dcd5fed85f",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5933",
+            "title": "本日開催”！申込み可！（BHE)2024年度学内内定者懇談会のお知らせ",
+            "summary": "今年度、就職活動を終えた先輩（キャリアサポーター）に就活の体験談を聞くことのできる座談会を\n対面で開催します。\n就活直後の先輩の話を聞ける貴重な機会です。\n就活において、不安に思っていることやわからないことを自由に話してみましょう。\n皆さまのご参加をおまちしています。\n\n〇対象：全学生就活中の方・これから就活を始める方\n〇当日参加してくれるキャリアサポーターの内定先\n☆企業：金融（三井住友銀行）・…",
+            "date_modified": "2025-02-05T03:00:00.000Z"
+        },
+        {
             "id": "12cdabb89e6faf57c9d877300a7d1397",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5932",
             "title": "【周知】まんが労働法の動画版作成について",
@@ -136,13 +143,6 @@
             "title": "【2/19開催】仕事に就くことと卒業後の生活を考えよう～障害者雇用と一般雇用の違いなど～ ※リマインドメール",
             "summary": "皆さんの中には「そろそろ就活を始めようかな」と考えている方、もしくはお悩みを抱えている方もいらっしゃるのではないでしょうか。\nこの度、ヒューマンエンパワーメント推進局(BHE)では仕事に就くことや卒業後の生活を考えるためのセミナーを開催します。\n例えば、\n・就活ってどうやって始めるの？何を準備したらいいの？\n・就活中に自分の障害特性をどう伝える/伝えない？タイミングは？\n・採用枠によって違いはある…",
             "date_modified": "2025-01-28T03:00:00.000Z"
-        },
-        {
-            "id": "a7688b8aa3e4ed70a9c5f38daf6da51b",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5913",
-            "title": "（BHE)2024年度学内内定者懇談会のお知らせ",
-            "summary": "今年度、就職活動を終えた先輩（キャリアサポーター）に就活の体験談を聞くことのできる座談会を\n対面で開催します。\n就活直後の先輩の話を聞ける貴重な機会です。\n就活において、不安に思っていることやわからないことを自由に話してみましょう。\n皆さまのご参加をおまちしています。\n\n〇対象：全学生就活中の方・これから就活を始める方\n〇当日参加してくれるキャリアサポーターの内定先\n☆企業：金融（三井住友銀行）・…",
-            "date_modified": "2025-01-27T03:00:00.000Z"
         }
     ]
 }
