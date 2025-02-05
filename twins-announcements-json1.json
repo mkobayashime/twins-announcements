@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "2372e74477c330f7db0d86519db884e1",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5937",
+            "title": "【2/19開催】仕事に就くことと卒業後の生活を考えよう～障害者雇用と一般雇用の違いなど～ ※リマインド",
+            "summary": "皆さんの中には「そろそろ就活を始めようかな」と考えている方、もしくはお悩みを抱えている方もいらっしゃるのではないでしょうか。\nこの度、ヒューマンエンパワーメント推進局(BHE)では仕事に就くことや卒業後の生活を考えるためのセミナーを開催します。\n例えば、\n・就活ってどうやって始めるの？何を準備したらいいの？\n・就活中に自分の障害特性をどう伝える/伝えない？タイミングは？\n・採用枠によって違いはある…",
+            "date_modified": "2025-02-05T03:00:00.000Z"
+        },
+        {
             "id": "fce4f5127116f6a1c1f660ec1e342d35",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5936",
             "title": "2.13セミナー【海外ボランティアから始まる／広がるマイキャリア・マイライフその３　理学療法士が歩む国際協力の世界と障がい者支援】のお知らせ",
@@ -135,13 +142,6 @@
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5917",
             "title": "※修正あり(再掲)【2/3開催】関東ブロックFDセミナー「分野融合型でシームレスな筑波大学MDA教育の全貌とPBLを核とした企業連携」",
             "summary": "※１月22日に掲載した開催案内について、以下のとおり修正しましたので、再掲いたします。\n修正部分：開催形式を「オンラインのみ」に変更いたします。\nーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーー\nこのたび、筑波大学におけるMDA教育の全貌と、PBL（課題解決型学習）を核とした企業連携の実践に焦点を当てたFDセミナー を以下のとおり開催いたします。…",
-            "date_modified": "2025-01-28T03:00:00.000Z"
-        },
-        {
-            "id": "b8773c5b5b4a538e2bdcef07c846562e",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5916",
-            "title": "Regarding the Enhancement of Microsoft Account Security",
-            "summary": "In recent years, Microsoft has been strengthening the security settings of MS accounts as part of its policy.\n\nDue to these security enhancements, users may be required to undergo multi-factor authent…",
             "date_modified": "2025-01-28T03:00:00.000Z"
         }
     ]

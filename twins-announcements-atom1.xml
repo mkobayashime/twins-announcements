@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/mkobayashime/twins-announcements</id>
     <title>在学生へのお知らせ | 筑波大学</title>
-    <updated>2025-02-05T05:01:41.830Z</updated>
+    <updated>2025-02-05T08:01:56.294Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://github.com/mkobayashime/twins-announcements"/>
     <subtitle>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</subtitle>
+    <entry>
+        <title type="html"><![CDATA[【2/19開催】仕事に就くことと卒業後の生活を考えよう～障害者雇用と一般雇用の違いなど～ ※リマインド]]></title>
+        <id>2372e74477c330f7db0d86519db884e1</id>
+        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5937"/>
+        <updated>2025-02-05T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[皆さんの中には「そろそろ就活を始めようかな」と考えている方、もしくはお悩みを抱えている方もいらっしゃるのではないでしょうか。
+この度、ヒューマンエンパワーメント推進局(BHE)では仕事に就くことや卒業後の生活を考えるためのセミナーを開催します。
+例えば、
+・就活ってどうやって始めるの？何を準備したらいいの？
+・就活中に自分の障害特性をどう伝える/伝えない？タイミングは？
+・採用枠によって違いはある…]]></summary>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2.13セミナー【海外ボランティアから始まる／広がるマイキャリア・マイライフその３　理学療法士が歩む国際協力の世界と障がい者支援】のお知らせ]]></title>
         <id>fce4f5127116f6a1c1f660ec1e342d35</id>
@@ -262,14 +274,5 @@ ECサイトは以下のリンクから
 修正部分：開催形式を「オンラインのみ」に変更いたします。
 ーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーー
 このたび、筑波大学におけるMDA教育の全貌と、PBL（課題解決型学習）を核とした企業連携の実践に焦点を当てたFDセミナー を以下のとおり開催いたします。…]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Regarding the Enhancement of Microsoft Account Security]]></title>
-        <id>b8773c5b5b4a538e2bdcef07c846562e</id>
-        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5916"/>
-        <updated>2025-01-28T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[In recent years, Microsoft has been strengthening the security settings of MS accounts as part of its policy.
-
-Due to these security enhancements, users may be required to undergo multi-factor authent…]]></summary>
     </entry>
 </feed>
