@@ -2,10 +2,17 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/mkobayashime/twins-announcements</id>
     <title>在学生へのお知らせ | 筑波大学</title>
-    <updated>2025-02-07T05:58:42.967Z</updated>
+    <updated>2025-02-07T07:01:57.045Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://github.com/mkobayashime/twins-announcements"/>
     <subtitle>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</subtitle>
+    <entry>
+        <title type="html"><![CDATA[【3/4開催】令和８年度採用を目指す日本学術振興会特別研究員説明会について]]></title>
+        <id>77c4a7f706fa3dd828cb6fd20aebdf62</id>
+        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5942"/>
+        <updated>2025-02-07T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[令和８年度採用を目指す日本学術振興会特別研究員説明会について、2025年3月4日(火)14時～16時にリアルタイムWeb配信にて開催いたします。採用内定者からのアドバイス、特別研究員審査会委員から見た申請にあたってのポイント等について、それぞれの講師から説明いただきます。質疑応答の時間を設けますので、気になることを直接質問できるチャンスです。ぜひご参加の上、積極的に申請してください。また、後日ma…]]></summary>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【注意喚起】春日エリアにおける喫煙マナーについてPlease do not smoke in the promenade on the south side of the Kasuga]]></title>
         <id>e0dafc56c276006202f4ac21b60cb813</id>
@@ -249,20 +256,5 @@ ECサイトは以下のリンクから
 〇対象：全学生就活中の方・これから就活を始める方
 〇当日参加してくれるキャリアサポーターの内定先
 ☆企業：…]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[（BHE)2月5日　2024年度学内内定者懇談会のお知らせ]]></title>
-        <id>6965b7af305d0d7cffa66b1d9fce4e60</id>
-        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5920"/>
-        <updated>2025-01-29T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[今年度、就職活動を終えた先輩（キャリアサポーター）に就活の体験談を聞くことのできる座談会を
-対面で開催します。
-就活直後の先輩の話を聞ける貴重な機会です。
-就活において、不安に思っていることやわからないことを自由に話してみましょう。
-皆さまのご参加をおまちしています。
-
-〇対象：全学生就活中の方・これから就活を始める方
-〇当日参加してくれるキャリアサポーターの内定先
-☆企業：金融（三井住友銀行）・…]]></summary>
     </entry>
 </feed>
