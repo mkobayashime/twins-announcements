@@ -5,6 +5,20 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "adfbfe22b3e6c9a82360eb070f69d340",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5945",
+            "title": "(茗渓会）第39回教職研修会",
+            "summary": "茗渓会では、下記の日程で教員採用試験対策のための研修会を行います。\n教員を志望する筑波大学学生の皆様ふるってご参加ください。\n教員の採用は、令和５年度４月の採用数は増加していますが、倍率は低下しました。\nまた、教員採用試験の６月16日以前（文科省が定めた標準日）実施の自治体は24自治体でした。今年は昨年より前倒しの自治体は現在3自治体にとどまっています。\n今回の教職研修会では、教職採用にかかわった…",
+            "date_modified": "2025-02-10T03:00:00.000Z"
+        },
+        {
+            "id": "90f728d694df6dcd19d3b184dd97eae0",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5944",
+            "title": "【大学院生募集】2025年度総合学域群ラーニングサポーター（物理、化学）",
+            "summary": "総合学域群では、総合学域群生に対して個別の学修相談を行う大学院生（物理、または化学担当）を募集します。\n詳細は添付のポスターをご確認ください。\n\n＊給与:本学給与規則により決定\n(2024年度実績 1,430円/時間、修士号を有する場合 1,610円/時間))\n＊来年度、本学の大学院に進学される学群４年生の方も応募可能です。\n\nぜひ気軽にお問い合わせ・ご応募ください。\nscs-jimu@un.ts…",
+            "date_modified": "2025-02-10T03:00:00.000Z"
+        },
+        {
             "id": "77c4a7f706fa3dd828cb6fd20aebdf62",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5942",
             "title": "【3/4開催】令和８年度採用を目指す日本学術振興会特別研究員説明会について",
@@ -128,20 +142,6 @@
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5924",
             "title": "【Event Info】 Cultural Exchange with Takezono Senior High School Students",
             "summary": "Hosted by Takezono Senior High School\n\n\"We are looking for international students studying at the University of Tsukuba to participate in cross-cultural exchange with our international track students\"…",
-            "date_modified": "2025-01-31T03:00:00.000Z"
-        },
-        {
-            "id": "7dbe083f7956ad5cb474d8bf75f3f84e",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5923",
-            "title": "文部科学省：起業やスタートアップに対する意識やスキルに関するアンケート",
-            "summary": "文部科学省より、「大学生の起業やスタートアップに対する意識やスキル」調査への協力依頼がありました。\n下記をご確認の上、回答フォームよりアンケートにご回答（任意）をお願いいたします。\n\n---以下、依頼内容---\n文部科学省では、全国アントレプレナーシップの醸成に向けて、「大学生の起業やスタートアップに対する意識やスキル」調査を実施しております。\n起業の意志や、アントレプレナーシップの関心有無に関わ…",
-            "date_modified": "2025-01-31T03:00:00.000Z"
-        },
-        {
-            "id": "d3bd014af7da82d9fda6f90a708b56cb",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5922",
-            "title": "(BHE)内定者懇談会のお知らせ",
-            "summary": "就活中のみなさんへ\n\n今年度、就職活動を終えた先輩（キャリアサポーター）に就活の体験談を聞くことのできる座談会を\n対面で開催します。\n就活直後の先輩の話を聞ける貴重な機会です。\n就活において、不安に思っていることやわからないことを自由に話してみましょう。\n皆さまのご参加をお待ちしています。\n\n〇対象：全学生就活中の方・これから就活を始める方\n〇当日参加してくれるキャリアサポーターの内定先\n☆企業：…",
             "date_modified": "2025-01-31T03:00:00.000Z"
         }
     ]
