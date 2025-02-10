@@ -5,6 +5,20 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "f68ea001664e708bff1d7e57a5cc7009",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5948",
+            "title": "令和6年度高圧ガスボンベ利用者安全講習会見逃し配信について",
+            "summary": "令和７年２月３日（月）に開催しました標記講習会の見逃し配信を下記のとおり行います。\n　　　　　　　　　　　　　　　　　　　記\n１．内容（日本語のみ）\n　　・高圧ガスとは\n　　・高圧ガス容器の正しい取り扱い・保管方法\n　　・ボンベ交換時の圧力調整器の取り付け方\n　　・可燃・酸素・毒性ガスを消費するための安全対策\n　　・事故事例\n　　\n２．対象者　高圧ガスボンベを使用する教職員・学生・研究員等\n\n３．…",
+            "date_modified": "2025-02-10T03:00:00.000Z"
+        },
+        {
+            "id": "2372e74477c330f7db0d86519db884e1",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5947",
+            "title": "【2/19開催】仕事に就くことと卒業後の生活を考えよう～障害者雇用と一般雇用の違いなど～ ※リマインド",
+            "summary": "皆さんの中には「そろそろ就活を始めようかな」と考えている方、もしくはお悩みを抱えている方もいらっしゃるのではないでしょうか。\nこの度、ヒューマンエンパワーメント推進局(BHE)では仕事に就くことや卒業後の生活を考えるためのセミナーを開催します。\n例えば、\n・就活ってどうやって始めるの？何を準備したらいいの？\n・就活中に自分の障害特性をどう伝える/伝えない？タイミングは？\n・採用枠によって違いはある…",
+            "date_modified": "2025-02-10T03:00:00.000Z"
+        },
+        {
             "id": "d33e942ffe805dc352bf83276da76d38",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5946",
             "title": "再掲：【世帯用/Family Rooms（２月期 February Call）】",
@@ -128,20 +142,6 @@
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5927",
             "title": "STOP！研究費不正使用！／STOP！Wrongful use of research funding！",
             "summary": "学生の皆さんが不正使用に巻き込まれるケースが多発しています。\n不正を見かけた、持ちかけられたら、通報窓口へ。\nコンプライアンス・ハラスメント対策室（学内窓口）\nMail:compliance@un.tsukuba.ac.jp TEL:029-853-2033\nつくば中央法律事務所（学外窓口）\nTEL:029-896-3530  FAX:029-896-3531",
-            "date_modified": "2025-02-01T03:00:00.000Z"
-        },
-        {
-            "id": "c4e4f82940e2eef7d9fa9af8dde2f9c5",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5905",
-            "title": "筑波大学公式オリジナルグッズECサイト割引クーポンのお知らせ（2月） 2025/2/1～2025/2/28",
-            "summary": "筑波大学公式オリジナルグッズ販売サイト「TSUKUBA-SHOP」12月の割引クーポンコードをお知らせいたします！\n\nクーポンコード　：　tsmar2298n34\n有効期間　：　2025年2月1日～2025年2月28日\n\n\nどうぞご覧いただき、皆様の「日常生活」、「思い出」、「プレゼント🎁」などにご活用いただけますと幸いです。\n\nECサイトは以下のリンクから\n※学内専用割引コードをTWINS掲示…",
-            "date_modified": "2025-02-01T03:00:00.000Z"
-        },
-        {
-            "id": "c4e4f82940e2eef7d9fa9af8dde2f9c5",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5904",
-            "title": "筑波大学公式オリジナルグッズECサイト割引クーポンのお知らせ（2月） 2025/2/1～2025/2/28",
-            "summary": "筑波大学公式オリジナルグッズ販売サイト「TSUKUBA-SHOP」12月の割引クーポンコードをお知らせいたします！\n\nクーポンコード　：　tsmar2298n34\n有効期間　：　2025年2月1日～2025年2月28日\n\n\nどうぞご覧いただき、皆様の「日常生活」、「思い出」、「プレゼント🎁」などにご活用いただけますと幸いです。\n\nECサイトは以下のリンクから\n※学内専用割引コードをTWINS掲示…",
             "date_modified": "2025-02-01T03:00:00.000Z"
         }
     ]
