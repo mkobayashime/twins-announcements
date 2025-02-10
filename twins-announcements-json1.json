@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "d33e942ffe805dc352bf83276da76d38",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5946",
+            "title": "再掲：【世帯用/Family Rooms（２月期 February Call）】",
+            "summary": "令和7年度学生宿舎入居募集（在学生向け）を添付ファイルの通りお知らせいたします。\nWe would like to inform you of AY 2025 Application call for student residence halls for current students as the attached files.",
+            "date_modified": "2025-02-10T03:00:00.000Z"
+        },
+        {
             "id": "adfbfe22b3e6c9a82360eb070f69d340",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5945",
             "title": "(茗渓会）第39回教職研修会",
@@ -136,13 +143,6 @@
             "title": "筑波大学公式オリジナルグッズECサイト割引クーポンのお知らせ（2月） 2025/2/1～2025/2/28",
             "summary": "筑波大学公式オリジナルグッズ販売サイト「TSUKUBA-SHOP」12月の割引クーポンコードをお知らせいたします！\n\nクーポンコード　：　tsmar2298n34\n有効期間　：　2025年2月1日～2025年2月28日\n\n\nどうぞご覧いただき、皆様の「日常生活」、「思い出」、「プレゼント🎁」などにご活用いただけますと幸いです。\n\nECサイトは以下のリンクから\n※学内専用割引コードをTWINS掲示…",
             "date_modified": "2025-02-01T03:00:00.000Z"
-        },
-        {
-            "id": "82bcb207af693e0135edf04e9f545df1",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5924",
-            "title": "【Event Info】 Cultural Exchange with Takezono Senior High School Students",
-            "summary": "Hosted by Takezono Senior High School\n\n\"We are looking for international students studying at the University of Tsukuba to participate in cross-cultural exchange with our international track students\"…",
-            "date_modified": "2025-01-31T03:00:00.000Z"
         }
     ]
 }
