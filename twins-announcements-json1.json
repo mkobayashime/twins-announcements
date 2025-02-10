@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "18eab2257c9fe93b57cf910106ea18f5",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5949",
+            "title": "留学生のチューター募集について（2025年度春学期）",
+            "summary": "留学生と交流したい、または留学生をサポートしたいと思っている正規課程の在学生の皆さん、ぜひチューターになってみませんか？\n\n2025年4月に多くの留学生が入学する予定です。\nこれに伴い、チューター支援（主に生活の立ち上げ支援（原則対面））を\n行ってくださるチューターを大募集しています！！！！\n\nチューター希望の学生は、下記URL上の「チューターバンク」に記載の登録方法に従い、チューターバンクに登録…",
+            "date_modified": "2025-02-10T03:00:00.000Z"
+        },
+        {
             "id": "f68ea001664e708bff1d7e57a5cc7009",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5948",
             "title": "令和6年度高圧ガスボンベ利用者安全講習会見逃し配信について",
@@ -136,13 +143,6 @@
             "title": "【開催案内】講演会「社会変革を促す人材育成ビジョン～いまなぜ243制なのか～」",
             "summary": "近年の社会状況を踏まえ、社会変革を促す人材育成のための今後の教育の在り方について、全学で意見交換するための講演会を開催します。是非ご参加ください。\n\n【講演会の概要】\n名　称：社会変革を促す人材育成ビジョン　～いまなぜ243制なのか～\n日　時：令和7年2月14日(金)9:30～11:30\n場　所：3A402（オンライン併用）\n講　師・パネリスト：永田恭介学長（ビデオ出演）、加藤光保教育担当副学長、…",
             "date_modified": "2025-02-03T03:00:00.000Z"
-        },
-        {
-            "id": "d07de3a2549e9d1109e19fd73f9711de",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5927",
-            "title": "STOP！研究費不正使用！／STOP！Wrongful use of research funding！",
-            "summary": "学生の皆さんが不正使用に巻き込まれるケースが多発しています。\n不正を見かけた、持ちかけられたら、通報窓口へ。\nコンプライアンス・ハラスメント対策室（学内窓口）\nMail:compliance@un.tsukuba.ac.jp TEL:029-853-2033\nつくば中央法律事務所（学外窓口）\nTEL:029-896-3530  FAX:029-896-3531",
-            "date_modified": "2025-02-01T03:00:00.000Z"
         }
     ]
 }
