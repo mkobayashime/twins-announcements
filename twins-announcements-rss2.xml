@@ -4,10 +4,21 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Thu, 13 Feb 2025 00:02:34 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 13 Feb 2025 02:23:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
+        <item>
+            <title><![CDATA[外国人留学生向け各種サポート業務（Ask Us Deskサポーター）]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5954</link>
+            <guid>1503731b1ec012a13fddfa754f1d5927</guid>
+            <pubDate>Thu, 13 Feb 2025 03:00:00 GMT</pubDate>
+            <description><![CDATA[学生部学生交流課では、Ask Us Deskサポーターを募集中です。
+
+応募要件は、外国人留学生の支援業務に意欲と熱意があり、日本語と英語によるコミュニケーションができること。積極的に自分でイベントを企画及び実施を行う等、行動力のある方を歓迎します。
+
+詳細は筑波大学学生人材バンクのHP（下記URL）でご確認ください。]]></description>
+        </item>
         <item>
             <title><![CDATA[【2/20(木)】DSEP成果報告会のご案内 DSEP Research Results Presentation Session Announcement]]></title>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5952</link>
@@ -243,24 +254,6 @@ The Student Support Center will launch the RECYCLING PROJECT to collect still us
 プロジェクト参加者は筑波大学の在籍者（学生、研究員、教職員）に限ります。
 
 【リユース品の回収】…]]></description>
-        </item>
-        <item>
-            <title><![CDATA[（BHE）Teams内 情報発信チームのご案内]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5930</link>
-            <guid>db21767d2c3d07188004ce652a974e31</guid>
-            <pubDate>Tue, 04 Feb 2025 03:00:00 GMT</pubDate>
-            <description><![CDATA[キャリア支援チームに日々届く、企業・自治体・学校からの求人情報や
-インターンシップ情報を発信しています。
-卒業年度別、進路志望別に就活に役立つ情報をタイムリーに掲載します。
-チームに参加して皆さんの就活に役立ててください。
-
-【参加方法】
-チーム名「BHEキャリア支援チーム　情報発信」
-１つ目のリンクから参加してください。
-
-【掲載情報例】
-（カテゴリー）
-企業（25卒向け・26卒向け）、推薦求人…]]></description>
         </item>
     </channel>
 </rss>

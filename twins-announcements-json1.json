@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "1503731b1ec012a13fddfa754f1d5927",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5954",
+            "title": "外国人留学生向け各種サポート業務（Ask Us Deskサポーター）",
+            "summary": "学生部学生交流課では、Ask Us Deskサポーターを募集中です。\n\n応募要件は、外国人留学生の支援業務に意欲と熱意があり、日本語と英語によるコミュニケーションができること。積極的に自分でイベントを企画及び実施を行う等、行動力のある方を歓迎します。\n\n詳細は筑波大学学生人材バンクのHP（下記URL）でご確認ください。",
+            "date_modified": "2025-02-13T03:00:00.000Z"
+        },
+        {
             "id": "95db875a9d353bcd468fc50f20f5955e",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5952",
             "title": "【2/20(木)】DSEP成果報告会のご案内 DSEP Research Results Presentation Session Announcement",
@@ -135,13 +142,6 @@
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5931",
             "title": "リサイクリングプロジェクト～リユース品回収のお知らせ～",
             "summary": "スチューデントサポートセンターでは、”RECYCLING PROJECT”として、学期が切り替わる２月から3月に、「まだ使用できる不用品」を回収し、新学期に新入生をはじめとした学生へ、無料譲渡するプロジェクトを実施します。\n\n捨てるにはもったいないけど、もう使わないものを、学生間でリユースしましょう！\nプロジェクト参加者は筑波大学の在籍者（学生、研究員、教職員）に限ります。\n\n【リユース品の回収】…",
-            "date_modified": "2025-02-04T03:00:00.000Z"
-        },
-        {
-            "id": "db21767d2c3d07188004ce652a974e31",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5930",
-            "title": "（BHE）Teams内 情報発信チームのご案内",
-            "summary": "キャリア支援チームに日々届く、企業・自治体・学校からの求人情報や\nインターンシップ情報を発信しています。\n卒業年度別、進路志望別に就活に役立つ情報をタイムリーに掲載します。\nチームに参加して皆さんの就活に役立ててください。\n\n【参加方法】\nチーム名「BHEキャリア支援チーム　情報発信」\n１つ目のリンクから参加してください。\n\n【掲載情報例】\n（カテゴリー）\n企業（25卒向け・26卒向け）、推薦求人…",
             "date_modified": "2025-02-04T03:00:00.000Z"
         }
     ]
