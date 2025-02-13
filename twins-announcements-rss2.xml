@@ -4,10 +4,31 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Thu, 13 Feb 2025 07:01:42 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 13 Feb 2025 08:01:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
+        <item>
+            <title><![CDATA[【募集】筑波大学ホームゲーム「TSUKUBA LIVE!」当日スタッフ（3/26・男子バレーボール）]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5956</link>
+            <guid>c5376cd3ab65b56a6e9f71f781cb0d12</guid>
+            <pubDate>Thu, 13 Feb 2025 03:00:00 GMT</pubDate>
+            <description><![CDATA[体育スポーツ局では、筑波大学ホームゲーム「TSUKUBA LIVE!」の当日運営スタッフを募集しています。
+
+【イベント名】
+筑波大学ホームゲーム 「TSUKUBA LIVE! 」
+
+【日程】
+2025年3月26日 （水)
+
+【場所】
+つくばカピオ
+
+【時間】
+＜会場設営＞25日(火) 13:00~18:00/26日(水) 8:00~9:00
+＜当日運営＞26日(水) 9:00~16:30
+＜会場…]]></description>
+        </item>
         <item>
             <title><![CDATA[（BHEキャリア支援）Teams内　キャリア支援情報発信チームのご案内]]></title>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5955</link>
@@ -244,21 +265,6 @@ The Student Support Center will launch the RECYCLING PROJECT to collect still us
 ※厚生労働省のホームページ
 ①動画版「これってあり？まんが知って役立つ労働法Ｑ＆Ａ」
 ➁厚生労働省YouTubeチャンネル]]></description>
-        </item>
-        <item>
-            <title><![CDATA[本日開催”！申込み可！（BHE)2024年度学内内定者懇談会のお知らせ]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5933</link>
-            <guid>f0991eefd7ce01599ca0a5dcd5fed85f</guid>
-            <pubDate>Wed, 05 Feb 2025 03:00:00 GMT</pubDate>
-            <description><![CDATA[今年度、就職活動を終えた先輩（キャリアサポーター）に就活の体験談を聞くことのできる座談会を
-対面で開催します。
-就活直後の先輩の話を聞ける貴重な機会です。
-就活において、不安に思っていることやわからないことを自由に話してみましょう。
-皆さまのご参加をおまちしています。
-
-〇対象：全学生就活中の方・これから就活を始める方
-〇当日参加してくれるキャリアサポーターの内定先
-☆企業：金融（三井住友銀行）・…]]></description>
         </item>
     </channel>
 </rss>
