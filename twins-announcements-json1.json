@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "3b4d39a499a12b9ae47b865e69e57ef7",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5964",
+            "title": "シンポジウム 「論文投稿と学術書出版のジオポリティクス—海外ジャーナルとアメリカ大学出版局—」【2025年3月14日】開催",
+            "summary": "科研シンポジウム 　大学院生と若手研究者「論文投稿と学術書出版のジオポリティクス—海外ジャーナルとアメリカ大学出版局—」を開催します。\n日時: 2025 年3月14日（金）15:00–17:00\n場所: 筑波大学東京キャンパス文京校舎 講義室119\n開催方法: ハイブリッド（対面＋オンライン開催）\n対象：一般/学生/教職員\n申し込み：以下のURLより\n\n詳細はポスター参照\n\n阿部幸大・竹谷悦子（研…",
+            "date_modified": "2025-02-14T03:00:00.000Z"
+        },
+        {
             "id": "a8a238948fe9fbb26dd9972308ae43bf",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5963",
             "title": "【BHE】3月3日（月）-5日（水）筑波大生のキャリアイベント-合同企業説明会-",
@@ -135,13 +142,6 @@
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5940",
             "title": "【注意喚起】春日エリアにおける喫煙マナーについてPlease do not smoke in the promenade on the south side of the Kasuga",
             "summary": "近隣住民の方から春日エリア南側の歩行者専用道路（詳細は添付ファイル参照）で学生が喫煙しており迷惑という苦情が入っております。\n当該歩道は住宅に近く、迷惑になりますので当該箇所で喫煙しないようお願いいたします。\n\nPlease do not smoke in the promenade on the south side of the Kasuga area, because we have rec…",
-            "date_modified": "2025-02-07T03:00:00.000Z"
-        },
-        {
-            "id": "860bf7335efedf0cd4dfd1fcd1eec1a9",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5939",
-            "title": "Recycling project",
-            "summary": "2025 Spring RECYCLING PROJECT\nThe Student Support Center will launch the RECYCLING PROJECT to collect still usable items from February to March, coinciding with the change of semester. These items wil…",
             "date_modified": "2025-02-07T03:00:00.000Z"
         }
     ]

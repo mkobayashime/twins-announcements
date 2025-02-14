@@ -2,10 +2,26 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/mkobayashime/twins-announcements</id>
     <title>在学生へのお知らせ | 筑波大学</title>
-    <updated>2025-02-14T07:01:41.315Z</updated>
+    <updated>2025-02-14T09:01:40.393Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://github.com/mkobayashime/twins-announcements"/>
     <subtitle>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</subtitle>
+    <entry>
+        <title type="html"><![CDATA[シンポジウム 「論文投稿と学術書出版のジオポリティクス—海外ジャーナルとアメリカ大学出版局—」【2025年3月14日】開催]]></title>
+        <id>3b4d39a499a12b9ae47b865e69e57ef7</id>
+        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5964"/>
+        <updated>2025-02-14T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[科研シンポジウム 　大学院生と若手研究者「論文投稿と学術書出版のジオポリティクス—海外ジャーナルとアメリカ大学出版局—」を開催します。
+日時: 2025 年3月14日（金）15:00–17:00
+場所: 筑波大学東京キャンパス文京校舎 講義室119
+開催方法: ハイブリッド（対面＋オンライン開催）
+対象：一般/学生/教職員
+申し込み：以下のURLより
+
+詳細はポスター参照
+
+阿部幸大・竹谷悦子（研…]]></summary>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【BHE】3月3日（月）-5日（水）筑波大生のキャリアイベント-合同企業説明会-]]></title>
         <id>a8a238948fe9fbb26dd9972308ae43bf</id>
@@ -261,13 +277,5 @@ We would like to inform you of AY 2025 Application call for student residence ha
 当該歩道は住宅に近く、迷惑になりますので当該箇所で喫煙しないようお願いいたします。
 
 Please do not smoke in the promenade on the south side of the Kasuga area, because we have rec…]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Recycling project]]></title>
-        <id>860bf7335efedf0cd4dfd1fcd1eec1a9</id>
-        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5939"/>
-        <updated>2025-02-07T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[2025 Spring RECYCLING PROJECT
-The Student Support Center will launch the RECYCLING PROJECT to collect still usable items from February to March, coinciding with the change of semester. These items wil…]]></summary>
     </entry>
 </feed>
