@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "e43695fb7d2b421c030753890dd11a97",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5967",
+            "title": "2025年度　公立学校教員採用試験　大学推薦のご案内",
+            "summary": "公立学校教員採用試験受験予定の方へ\n\n令和7年度実施　公立学校教員採用試験　大学推薦の案内を開始しています。\n現在、以下の自治体から募集案内が届いています。\n宮﨑県・長崎県・茨城県\n浜松市・堺市・岡山市・大阪市\n\n詳細は以下に掲載していますのでご確認ください。\n大学推薦を希望する場合には、早めにBHE教員担当までご連絡ください。\n\n〇BHE HP「教員採用試験の学校推薦情報」\nhttps://sy…",
+            "date_modified": "2025-02-17T03:00:00.000Z"
+        },
+        {
             "id": "6c812911eb5ce6b54ef81bb7a58a0772",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5966",
             "title": "【アンケート依頼】「数理・データサイエンス・AI教育」に関する卒業生向けアンケート実施について",
@@ -135,13 +142,6 @@
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5946",
             "title": "再掲：【世帯用/Family Rooms（２月期 February Call）】",
             "summary": "令和7年度学生宿舎入居募集（在学生向け）を添付ファイルの通りお知らせいたします。\nWe would like to inform you of AY 2025 Application call for student residence halls for current students as the attached files.",
-            "date_modified": "2025-02-10T03:00:00.000Z"
-        },
-        {
-            "id": "adfbfe22b3e6c9a82360eb070f69d340",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5945",
-            "title": "(茗渓会）第39回教職研修会",
-            "summary": "茗渓会では、下記の日程で教員採用試験対策のための研修会を行います。\n教員を志望する筑波大学学生の皆様ふるってご参加ください。\n教員の採用は、令和５年度４月の採用数は増加していますが、倍率は低下しました。\nまた、教員採用試験の６月16日以前（文科省が定めた標準日）実施の自治体は24自治体でした。今年は昨年より前倒しの自治体は現在3自治体にとどまっています。\n今回の教職研修会では、教職採用にかかわった…",
             "date_modified": "2025-02-10T03:00:00.000Z"
         }
     ]

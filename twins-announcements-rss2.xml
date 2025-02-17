@@ -4,10 +4,28 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Mon, 17 Feb 2025 07:01:59 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 17 Feb 2025 09:01:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
+        <item>
+            <title><![CDATA[2025年度　公立学校教員採用試験　大学推薦のご案内]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5967</link>
+            <guid>e43695fb7d2b421c030753890dd11a97</guid>
+            <pubDate>Mon, 17 Feb 2025 03:00:00 GMT</pubDate>
+            <description><![CDATA[公立学校教員採用試験受験予定の方へ
+
+令和7年度実施　公立学校教員採用試験　大学推薦の案内を開始しています。
+現在、以下の自治体から募集案内が届いています。
+宮﨑県・長崎県・茨城県
+浜松市・堺市・岡山市・大阪市
+
+詳細は以下に掲載していますのでご確認ください。
+大学推薦を希望する場合には、早めにBHE教員担当までご連絡ください。
+
+〇BHE HP「教員採用試験の学校推薦情報」
+https://sy…]]></description>
+        </item>
         <item>
             <title><![CDATA[【アンケート依頼】「数理・データサイエンス・AI教育」に関する卒業生向けアンケート実施について]]></title>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5966</link>
@@ -278,17 +296,6 @@ https://forms.…]]></description>
             <pubDate>Mon, 10 Feb 2025 03:00:00 GMT</pubDate>
             <description><![CDATA[令和7年度学生宿舎入居募集（在学生向け）を添付ファイルの通りお知らせいたします。
 We would like to inform you of AY 2025 Application call for student residence halls for current students as the attached files.]]></description>
-        </item>
-        <item>
-            <title><![CDATA[(茗渓会）第39回教職研修会]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5945</link>
-            <guid>adfbfe22b3e6c9a82360eb070f69d340</guid>
-            <pubDate>Mon, 10 Feb 2025 03:00:00 GMT</pubDate>
-            <description><![CDATA[茗渓会では、下記の日程で教員採用試験対策のための研修会を行います。
-教員を志望する筑波大学学生の皆様ふるってご参加ください。
-教員の採用は、令和５年度４月の採用数は増加していますが、倍率は低下しました。
-また、教員採用試験の６月16日以前（文科省が定めた標準日）実施の自治体は24自治体でした。今年は昨年より前倒しの自治体は現在3自治体にとどまっています。
-今回の教職研修会では、教職採用にかかわった…]]></description>
         </item>
     </channel>
 </rss>
