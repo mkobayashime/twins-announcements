@@ -2,10 +2,25 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/mkobayashime/twins-announcements</id>
     <title>在学生へのお知らせ | 筑波大学</title>
-    <updated>2025-02-16T21:06:29.504Z</updated>
+    <updated>2025-02-17T03:06:54.018Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://github.com/mkobayashime/twins-announcements"/>
     <subtitle>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</subtitle>
+    <entry>
+        <title type="html"><![CDATA[【募集】土浦第二高等学校「情報専門家活用プログラム」授業支援講師の募集]]></title>
+        <id>d2a1580424fd37d3ccb6044655a43ea6</id>
+        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5965"/>
+        <updated>2025-02-17T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[大学院生の皆さん、高校で授業支援をしてみませんか？
+-------------------------------------------------------------------------
+
+すべての日程に対応できる方のみ募集しています。
+業務内容等は次のとおりです。内容を熟読したうえでお申し込みください（先着順）
+
+■業務内容
+高等学校情報科の必履修科目である「情報Ｉ」の
+プログラミン…]]></summary>
+    </entry>
     <entry>
         <title type="html"><![CDATA[シンポジウム 「論文投稿と学術書出版のジオポリティクス—海外ジャーナルとアメリカ大学出版局—」【2025年3月14日】開催]]></title>
         <id>3b4d39a499a12b9ae47b865e69e57ef7</id>
@@ -38,11 +53,9 @@
         <id>dd873d07d6b652c63ebf8b409a8ac16e</id>
         <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5962"/>
         <updated>2025-02-14T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[3月3日(月)から3日間、100社以上の企業・団体・官公庁が集まる「合同企業説明会」を開催します。
-特別企画の「OB・OG相談会」も開催期間中に毎日実施！
-筑波大OBOGや社員との交流、これからインターンシップや就活を考える学生には絶好の機会です。
-公務員志望向け(茨城労働局、物質・材料研究機構、国際人材育成機構、日本学生支援機構)も参加します。(日程はHPを確認してください)
-この機会をお見逃し…]]></summary>
+        <summary type="html"><![CDATA[We would like to inform you that Tsukuba City Hall has informed us about the expected congestion at the address change counter and temporary reception counter on Saturday, April 5.
+
+For more details, …]]></summary>
     </entry>
     <entry>
         <title type="html"><![CDATA[【周知】【茨城県警察本部生活安全総務課】いばらき防犯ファイルについて]]></title>
@@ -269,15 +282,5 @@ We would like to inform you of AY 2025 Application call for student residence ha
         <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5942"/>
         <updated>2025-02-07T03:00:00.000Z</updated>
         <summary type="html"><![CDATA[令和８年度採用を目指す日本学術振興会特別研究員説明会について、2025年3月4日(火)14時～16時にリアルタイムWeb配信にて開催いたします。採用内定者からのアドバイス、特別研究員審査会委員から見た申請にあたってのポイント等について、それぞれの講師から説明いただきます。質疑応答の時間を設けますので、気になることを直接質問できるチャンスです。ぜひご参加の上、積極的に申請してください。また、後日ma…]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【注意喚起】春日エリアにおける喫煙マナーについてPlease do not smoke in the promenade on the south side of the Kasuga]]></title>
-        <id>e0dafc56c276006202f4ac21b60cb813</id>
-        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5940"/>
-        <updated>2025-02-07T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[近隣住民の方から春日エリア南側の歩行者専用道路（詳細は添付ファイル参照）で学生が喫煙しており迷惑という苦情が入っております。
-当該歩道は住宅に近く、迷惑になりますので当該箇所で喫煙しないようお願いいたします。
-
-Please do not smoke in the promenade on the south side of the Kasuga area, because we have rec…]]></summary>
     </entry>
 </feed>
