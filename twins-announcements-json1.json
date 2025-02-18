@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "5c06fe9e330eb3568d11411a68d31df0",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5968",
+            "title": "【注意喚起】大学構内での宗教勧誘について",
+            "summary": "学生の皆さんへ\n\n最近、大学構内において宗教勧誘の声掛けが増加しています。大学では、許可のない宗教勧誘活動を認めておらず、学内の秩序と学生の安全を守るために厳格な対応を行っています。学生の皆さんにおかれましても、知らない人からの声掛けには十分注意してください。\n\n宗教勧誘は、一見すると普通の会話や親切な申し出のように見えることが多く、気づかぬうちに巻き込まれるケースもあります。例えば、「学生生活の…",
+            "date_modified": "2025-02-18T03:00:00.000Z"
+        },
+        {
             "id": "e43695fb7d2b421c030753890dd11a97",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5967",
             "title": "2025年度　公立学校教員採用試験　大学推薦のご案内",
@@ -16,13 +23,6 @@
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5966",
             "title": "【アンケート依頼】「数理・データサイエンス・AI教育」に関する卒業生向けアンケート実施について",
             "summary": "令和6年度卒業予定の学群学生の皆様\n\n　本学では、基礎的な情報リテラシーとコンピュータの利用技術の習得を目的とした「情報リテラシー」、\nおよび、データに基づく客観的な意思決定の考え方の習得を目的とした「データサイエンス」の2科目を、\n共通科目「情報」として全学1年次の必修科目に定めています。（「データサイエンス・リテラシープログラム」）\n　また、「数理・データサイエンス・AI」に関する実践的な能力…",
-            "date_modified": "2025-02-17T03:00:00.000Z"
-        },
-        {
-            "id": "d2a1580424fd37d3ccb6044655a43ea6",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5965",
-            "title": "【募集】土浦第二高等学校「情報専門家活用プログラム」授業支援講師の募集",
-            "summary": "大学院生の皆さん、高校で授業支援をしてみませんか？\n-------------------------------------------------------------------------\n\nすべての日程に対応できる方のみ募集しています。\n業務内容等は次のとおりです。内容を熟読したうえでお申し込みください（先着順）\n\n■業務内容\n高等学校情報科の必履修科目である「情報Ｉ」の\nプログラミン…",
             "date_modified": "2025-02-17T03:00:00.000Z"
         },
         {
