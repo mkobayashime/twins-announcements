@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "dc46e19759cac33688ea13f762fdfb5e",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5969",
+            "title": "【開催案内】Let's talk about the SDGs in English",
+            "summary": "【開催案内】Let's talk about the SDGs in English\n\n【中央ユーラシアSDGs演習】（沖縄研修旅行）に参加した第6期NipCAフェローが、研修旅行で学んだSDG'sの取り組みについて発表、ディスカッションをします。\n\n日時：2025年2月26日（水）13:00～15:00\n\n会場：筑波大学　人文社会系棟A520\n\n対象：どなたでも無料でご参加いただけます\n\n使用言…",
+            "date_modified": "2025-02-19T03:00:00.000Z"
+        },
+        {
             "id": "5c06fe9e330eb3568d11411a68d31df0",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5968",
             "title": "【注意喚起】大学構内での宗教勧誘について",
@@ -135,13 +142,6 @@
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5947",
             "title": "【2/19開催】仕事に就くことと卒業後の生活を考えよう～障害者雇用と一般雇用の違いなど～ ※リマインド",
             "summary": "皆さんの中には「そろそろ就活を始めようかな」と考えている方、もしくはお悩みを抱えている方もいらっしゃるのではないでしょうか。\nこの度、ヒューマンエンパワーメント推進局(BHE)では仕事に就くことや卒業後の生活を考えるためのセミナーを開催します。\n例えば、\n・就活ってどうやって始めるの？何を準備したらいいの？\n・就活中に自分の障害特性をどう伝える/伝えない？タイミングは？\n・採用枠によって違いはある…",
-            "date_modified": "2025-02-10T03:00:00.000Z"
-        },
-        {
-            "id": "d33e942ffe805dc352bf83276da76d38",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5946",
-            "title": "再掲：【世帯用/Family Rooms（２月期 February Call）】",
-            "summary": "令和7年度学生宿舎入居募集（在学生向け）を添付ファイルの通りお知らせいたします。\nWe would like to inform you of AY 2025 Application call for student residence halls for current students as the attached files.",
             "date_modified": "2025-02-10T03:00:00.000Z"
         }
     ]

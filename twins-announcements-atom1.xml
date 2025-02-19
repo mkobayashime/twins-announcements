@@ -2,10 +2,27 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/mkobayashime/twins-announcements</id>
     <title>在学生へのお知らせ | 筑波大学</title>
-    <updated>2025-02-18T21:06:43.310Z</updated>
+    <updated>2025-02-19T02:23:39.161Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://github.com/mkobayashime/twins-announcements"/>
     <subtitle>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</subtitle>
+    <entry>
+        <title type="html"><![CDATA[【開催案内】Let's talk about the SDGs in English]]></title>
+        <id>dc46e19759cac33688ea13f762fdfb5e</id>
+        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5969"/>
+        <updated>2025-02-19T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[【開催案内】Let's talk about the SDGs in English
+
+【中央ユーラシアSDGs演習】（沖縄研修旅行）に参加した第6期NipCAフェローが、研修旅行で学んだSDG'sの取り組みについて発表、ディスカッションをします。
+
+日時：2025年2月26日（水）13:00～15:00
+
+会場：筑波大学　人文社会系棟A520
+
+対象：どなたでも無料でご参加いただけます
+
+使用言…]]></summary>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【注意喚起】大学構内での宗教勧誘について]]></title>
         <id>5c06fe9e330eb3568d11411a68d31df0</id>
@@ -282,13 +299,5 @@ https://forms.…]]></summary>
 ・就活ってどうやって始めるの？何を準備したらいいの？
 ・就活中に自分の障害特性をどう伝える/伝えない？タイミングは？
 ・採用枠によって違いはある…]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[再掲：【世帯用/Family Rooms（２月期 February Call）】]]></title>
-        <id>d33e942ffe805dc352bf83276da76d38</id>
-        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5946"/>
-        <updated>2025-02-10T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[令和7年度学生宿舎入居募集（在学生向け）を添付ファイルの通りお知らせいたします。
-We would like to inform you of AY 2025 Application call for student residence halls for current students as the attached files.]]></summary>
     </entry>
 </feed>
