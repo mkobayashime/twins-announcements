@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "7efd0c1f83f69b79024461c9c5342f36",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5971",
+            "title": "【重要】有効期限切れの学生証の更新について/【Notice】Regarding Renewal of Expired Student ID Card",
+            "summary": "　令和７年３月末に有効期限が切れる学生証をお持ちの方（留年予定者等）は更新手続きが必要となりますので、添付ファイルのとおり手続きをしてください。",
+            "date_modified": "2025-02-19T03:00:00.000Z"
+        },
+        {
             "id": "d8a8488f08061d8c8ca8a20082032e00",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5970",
             "title": "学生宿舎体験入居（3/7～3/8）の開催について",
@@ -135,13 +142,6 @@
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5949",
             "title": "留学生のチューター募集について（2025年度春学期）",
             "summary": "留学生と交流したい、または留学生をサポートしたいと思っている正規課程の在学生の皆さん、ぜひチューターになってみませんか？\n\n2025年4月に多くの留学生が入学する予定です。\nこれに伴い、チューター支援（主に生活の立ち上げ支援（原則対面））を\n行ってくださるチューターを大募集しています！！！！\n\nチューター希望の学生は、下記URL上の「チューターバンク」に記載の登録方法に従い、チューターバンクに登録…",
-            "date_modified": "2025-02-10T03:00:00.000Z"
-        },
-        {
-            "id": "f68ea001664e708bff1d7e57a5cc7009",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5948",
-            "title": "令和6年度高圧ガスボンベ利用者安全講習会見逃し配信について",
-            "summary": "令和７年２月３日（月）に開催しました標記講習会の見逃し配信を下記のとおり行います。\n　　　　　　　　　　　　　　　　　　　記\n１．内容（日本語のみ）\n　　・高圧ガスとは\n　　・高圧ガス容器の正しい取り扱い・保管方法\n　　・ボンベ交換時の圧力調整器の取り付け方\n　　・可燃・酸素・毒性ガスを消費するための安全対策\n　　・事故事例\n　　\n２．対象者　高圧ガスボンベを使用する教職員・学生・研究員等\n\n３．…",
             "date_modified": "2025-02-10T03:00:00.000Z"
         }
     ]

@@ -2,10 +2,17 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/mkobayashime/twins-announcements</id>
     <title>在学生へのお知らせ | 筑波大学</title>
-    <updated>2025-02-19T05:01:38.242Z</updated>
+    <updated>2025-02-19T06:01:50.478Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://github.com/mkobayashime/twins-announcements"/>
     <subtitle>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</subtitle>
+    <entry>
+        <title type="html"><![CDATA[【重要】有効期限切れの学生証の更新について/【Notice】Regarding Renewal of Expired Student ID Card]]></title>
+        <id>7efd0c1f83f69b79024461c9c5342f36</id>
+        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5971"/>
+        <updated>2025-02-19T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[　令和７年３月末に有効期限が切れる学生証をお持ちの方（留年予定者等）は更新手続きが必要となりますので、添付ファイルのとおり手続きをしてください。]]></summary>
+    </entry>
     <entry>
         <title type="html"><![CDATA[学生宿舎体験入居（3/7～3/8）の開催について]]></title>
         <id>d8a8488f08061d8c8ca8a20082032e00</id>
@@ -282,23 +289,5 @@ https://forms.…]]></summary>
 行ってくださるチューターを大募集しています！！！！
 
 チューター希望の学生は、下記URL上の「チューターバンク」に記載の登録方法に従い、チューターバンクに登録…]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[令和6年度高圧ガスボンベ利用者安全講習会見逃し配信について]]></title>
-        <id>f68ea001664e708bff1d7e57a5cc7009</id>
-        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5948"/>
-        <updated>2025-02-10T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[令和７年２月３日（月）に開催しました標記講習会の見逃し配信を下記のとおり行います。
-　　　　　　　　　　　　　　　　　　　記
-１．内容（日本語のみ）
-　　・高圧ガスとは
-　　・高圧ガス容器の正しい取り扱い・保管方法
-　　・ボンベ交換時の圧力調整器の取り付け方
-　　・可燃・酸素・毒性ガスを消費するための安全対策
-　　・事故事例
-　　
-２．対象者　高圧ガスボンベを使用する教職員・学生・研究員等
-
-３．…]]></summary>
     </entry>
 </feed>
