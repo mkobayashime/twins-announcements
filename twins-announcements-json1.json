@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "d8a8488f08061d8c8ca8a20082032e00",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5970",
+            "title": "学生宿舎体験入居（3/7～3/8）の開催について",
+            "summary": "学生宿舎に1泊2日の体験入居をしてみませんか？\n\nグローバルヴィレッジ（シェアハウス型学生宿舎）に体験入居して、\n学生宿舎や国際交流の感想をお聞かせください。\n　　　\n詳細は添付ファイルをご確認ください。\n",
+            "date_modified": "2025-02-19T03:00:00.000Z"
+        },
+        {
             "id": "dc46e19759cac33688ea13f762fdfb5e",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5969",
             "title": "【開催案内】Let's talk about the SDGs in English",
@@ -135,13 +142,6 @@
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5948",
             "title": "令和6年度高圧ガスボンベ利用者安全講習会見逃し配信について",
             "summary": "令和７年２月３日（月）に開催しました標記講習会の見逃し配信を下記のとおり行います。\n　　　　　　　　　　　　　　　　　　　記\n１．内容（日本語のみ）\n　　・高圧ガスとは\n　　・高圧ガス容器の正しい取り扱い・保管方法\n　　・ボンベ交換時の圧力調整器の取り付け方\n　　・可燃・酸素・毒性ガスを消費するための安全対策\n　　・事故事例\n　　\n２．対象者　高圧ガスボンベを使用する教職員・学生・研究員等\n\n３．…",
-            "date_modified": "2025-02-10T03:00:00.000Z"
-        },
-        {
-            "id": "2372e74477c330f7db0d86519db884e1",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5947",
-            "title": "【2/19開催】仕事に就くことと卒業後の生活を考えよう～障害者雇用と一般雇用の違いなど～ ※リマインド",
-            "summary": "皆さんの中には「そろそろ就活を始めようかな」と考えている方、もしくはお悩みを抱えている方もいらっしゃるのではないでしょうか。\nこの度、ヒューマンエンパワーメント推進局(BHE)では仕事に就くことや卒業後の生活を考えるためのセミナーを開催します。\n例えば、\n・就活ってどうやって始めるの？何を準備したらいいの？\n・就活中に自分の障害特性をどう伝える/伝えない？タイミングは？\n・採用枠によって違いはある…",
             "date_modified": "2025-02-10T03:00:00.000Z"
         }
     ]
