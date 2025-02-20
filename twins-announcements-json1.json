@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "3cd9c012afd6e1ca81cb4b95b1fee940",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5975",
+            "title": "Call of committee members (as short-time employment) for ISS Summer Festivall",
+            "summary": "Inclusive Smart Society (ISS) program will hold ISS Summer Festival in June, and we would like to recruit an organizing committee from English speaking students to organize and run the event.\nThe orga…",
+            "date_modified": "2025-02-20T03:00:00.000Z"
+        },
+        {
             "id": "e4d0ea2a3a7aaa5a1c3c05ebad1bb643",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5974",
             "title": "Notice on the current alert for overseas travel and stay during the spring recess",
@@ -135,13 +142,6 @@
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5954",
             "title": "外国人留学生向け各種サポート業務（Ask Us Deskサポーター）",
             "summary": "学生部学生交流課では、Ask Us Deskサポーターを募集中です。\n\n応募要件は、外国人留学生の支援業務に意欲と熱意があり、日本語と英語によるコミュニケーションができること。積極的に自分でイベントを企画及び実施を行う等、行動力のある方を歓迎します。\n\n詳細は筑波大学学生人材バンクのHP（下記URL）でご確認ください。",
-            "date_modified": "2025-02-13T03:00:00.000Z"
-        },
-        {
-            "id": "95db875a9d353bcd468fc50f20f5955e",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5952",
-            "title": "【2/20(木)】DSEP成果報告会のご案内 DSEP Research Results Presentation Session Announcement",
-            "summary": "(English follows)\n\n2/20(木)DSEP成果報告会を開催します。\nMDA後期研究留学(海外留学等)、MDA後期プロジェクト研究(共同研究/インターンシップ等)の履修生が履修成果を報告します。\nぜひご参加ください。\n\n日時：2月20日(木)13:30-15:30\n場所：3A204、またはオンライン\nお申込：2/19までにこちらよりお申し込みください。\nhttps://forms.…",
             "date_modified": "2025-02-13T03:00:00.000Z"
         }
     ]

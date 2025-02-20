@@ -4,10 +4,18 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Thu, 20 Feb 2025 09:07:56 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 20 Feb 2025 10:01:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
+        <item>
+            <title><![CDATA[Call of committee members (as short-time employment) for ISS Summer Festivall]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5975</link>
+            <guid>3cd9c012afd6e1ca81cb4b95b1fee940</guid>
+            <pubDate>Thu, 20 Feb 2025 03:00:00 GMT</pubDate>
+            <description><![CDATA[Inclusive Smart Society (ISS) program will hold ISS Summer Festival in June, and we would like to recruit an organizing committee from English speaking students to organize and run the event.
+The orga…]]></description>
+        </item>
         <item>
             <title><![CDATA[Notice on the current alert for overseas travel and stay during the spring recess]]></title>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5974</link>
@@ -267,22 +275,6 @@ HPや学内掲示板では発信しきれない情報をタイムリーに発信
 応募要件は、外国人留学生の支援業務に意欲と熱意があり、日本語と英語によるコミュニケーションができること。積極的に自分でイベントを企画及び実施を行う等、行動力のある方を歓迎します。
 
 詳細は筑波大学学生人材バンクのHP（下記URL）でご確認ください。]]></description>
-        </item>
-        <item>
-            <title><![CDATA[【2/20(木)】DSEP成果報告会のご案内 DSEP Research Results Presentation Session Announcement]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5952</link>
-            <guid>95db875a9d353bcd468fc50f20f5955e</guid>
-            <pubDate>Thu, 13 Feb 2025 03:00:00 GMT</pubDate>
-            <description><![CDATA[(English follows)
-
-2/20(木)DSEP成果報告会を開催します。
-MDA後期研究留学(海外留学等)、MDA後期プロジェクト研究(共同研究/インターンシップ等)の履修生が履修成果を報告します。
-ぜひご参加ください。
-
-日時：2月20日(木)13:30-15:30
-場所：3A204、またはオンライン
-お申込：2/19までにこちらよりお申し込みください。
-https://forms.…]]></description>
         </item>
     </channel>
 </rss>
