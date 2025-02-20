@@ -4,10 +4,29 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Wed, 19 Feb 2025 21:06:32 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 20 Feb 2025 02:23:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
+        <item>
+            <title><![CDATA[Notice on the current alert for overseas travel and stay during the spring recess]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5974</link>
+            <guid>e4d0ea2a3a7aaa5a1c3c05ebad1bb643</guid>
+            <pubDate>Thu, 20 Feb 2025 03:00:00 GMT</pubDate>
+            <description><![CDATA[To students who are thinking about traveling abroad before spring recess
+
+Our university has been informing students about the mindset required for risk management when traveling abroad through the "O…]]></description>
+        </item>
+        <item>
+            <title><![CDATA[春季休業中における海外渡航・滞在に関する注意喚起について（通知）]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5973</link>
+            <guid>a7cd6d49976430f9e6cc467d2c8d51d3</guid>
+            <pubDate>Thu, 20 Feb 2025 03:00:00 GMT</pubDate>
+            <description><![CDATA[春季休業を前に海外渡航を考える学生の皆様へ
+
+本学では、海外に渡航する際の危機管理に関する心構えについて、「筑波大学生のための海外安全ハンドブック」、「筑波大学海外安全リーフレット」および危機管理セミナー等により周知しておりますが、春季休業を目前に控え、今後益々海外への渡航者が増えることが見込まれることから、改めて学生の皆さんへ注意喚起いたします。
+春季休業中、海外への渡航を予定している学生の皆さ…]]></description>
+        </item>
         <item>
             <title><![CDATA[【重要】有効期限切れの学生証の更新について/【Notice】Regarding Renewal of Expired Student ID Card]]></title>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5971</link>
@@ -264,33 +283,6 @@ MDA後期研究留学(海外留学等)、MDA後期プロジェクト研究(共�
 場所：3A204、またはオンライン
 お申込：2/19までにこちらよりお申し込みください。
 https://forms.…]]></description>
-        </item>
-        <item>
-            <title><![CDATA[（茗渓会キャリア支援）2月19日ぶっちゃけ相談会「メーカー（モノづくり）編」]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5951</link>
-            <guid>137245dac414c1f3b88fe55042b23ae6</guid>
-            <pubDate>Wed, 12 Feb 2025 03:00:00 GMT</pubDate>
-            <description><![CDATA[これから就活が始まる方、卒業後の進路やキャリアに悩んでいる方、
-これからの大学生活をどう過ごそうか考えている方、
-ぜひ、先輩に質問してみてください。
-
-ぶっちゃけ相談会とは
-【今月の登壇者】特集テーマ 「メーカー（モノづくり）業界の方」
-１人目は、株式会社TMEIC／旧社名：東芝三菱電機産業システム、２人目は、株式会社モリタホールディングス　で活躍されているお二人が登場します。
-みなさんが卒業した…]]></description>
-        </item>
-        <item>
-            <title><![CDATA[留学生のチューター募集について（2025年度春学期）]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5949</link>
-            <guid>18eab2257c9fe93b57cf910106ea18f5</guid>
-            <pubDate>Mon, 10 Feb 2025 03:00:00 GMT</pubDate>
-            <description><![CDATA[留学生と交流したい、または留学生をサポートしたいと思っている正規課程の在学生の皆さん、ぜひチューターになってみませんか？
-
-2025年4月に多くの留学生が入学する予定です。
-これに伴い、チューター支援（主に生活の立ち上げ支援（原則対面））を
-行ってくださるチューターを大募集しています！！！！
-
-チューター希望の学生は、下記URL上の「チューターバンク」に記載の登録方法に従い、チューターバンクに登録…]]></description>
         </item>
     </channel>
 </rss>

@@ -5,6 +5,20 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "e4d0ea2a3a7aaa5a1c3c05ebad1bb643",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5974",
+            "title": "Notice on the current alert for overseas travel and stay during the spring recess",
+            "summary": "To students who are thinking about traveling abroad before spring recess\n\nOur university has been informing students about the mindset required for risk management when traveling abroad through the \"O…",
+            "date_modified": "2025-02-20T03:00:00.000Z"
+        },
+        {
+            "id": "a7cd6d49976430f9e6cc467d2c8d51d3",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5973",
+            "title": "春季休業中における海外渡航・滞在に関する注意喚起について（通知）",
+            "summary": "春季休業を前に海外渡航を考える学生の皆様へ\n\n本学では、海外に渡航する際の危機管理に関する心構えについて、「筑波大学生のための海外安全ハンドブック」、「筑波大学海外安全リーフレット」および危機管理セミナー等により周知しておりますが、春季休業を目前に控え、今後益々海外への渡航者が増えることが見込まれることから、改めて学生の皆さんへ注意喚起いたします。\n春季休業中、海外への渡航を予定している学生の皆さ…",
+            "date_modified": "2025-02-20T03:00:00.000Z"
+        },
+        {
             "id": "7efd0c1f83f69b79024461c9c5342f36",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5971",
             "title": "【重要】有効期限切れの学生証の更新について/【Notice】Regarding Renewal of Expired Student ID Card",
@@ -129,20 +143,6 @@
             "title": "【2/20(木)】DSEP成果報告会のご案内 DSEP Research Results Presentation Session Announcement",
             "summary": "(English follows)\n\n2/20(木)DSEP成果報告会を開催します。\nMDA後期研究留学(海外留学等)、MDA後期プロジェクト研究(共同研究/インターンシップ等)の履修生が履修成果を報告します。\nぜひご参加ください。\n\n日時：2月20日(木)13:30-15:30\n場所：3A204、またはオンライン\nお申込：2/19までにこちらよりお申し込みください。\nhttps://forms.…",
             "date_modified": "2025-02-13T03:00:00.000Z"
-        },
-        {
-            "id": "137245dac414c1f3b88fe55042b23ae6",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5951",
-            "title": "（茗渓会キャリア支援）2月19日ぶっちゃけ相談会「メーカー（モノづくり）編」",
-            "summary": "これから就活が始まる方、卒業後の進路やキャリアに悩んでいる方、\nこれからの大学生活をどう過ごそうか考えている方、\nぜひ、先輩に質問してみてください。\n\nぶっちゃけ相談会とは\n【今月の登壇者】特集テーマ 「メーカー（モノづくり）業界の方」\n１人目は、株式会社TMEIC／旧社名：東芝三菱電機産業システム、２人目は、株式会社モリタホールディングス　で活躍されているお二人が登場します。\nみなさんが卒業した…",
-            "date_modified": "2025-02-12T03:00:00.000Z"
-        },
-        {
-            "id": "18eab2257c9fe93b57cf910106ea18f5",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5949",
-            "title": "留学生のチューター募集について（2025年度春学期）",
-            "summary": "留学生と交流したい、または留学生をサポートしたいと思っている正規課程の在学生の皆さん、ぜひチューターになってみませんか？\n\n2025年4月に多くの留学生が入学する予定です。\nこれに伴い、チューター支援（主に生活の立ち上げ支援（原則対面））を\n行ってくださるチューターを大募集しています！！！！\n\nチューター希望の学生は、下記URL上の「チューターバンク」に記載の登録方法に従い、チューターバンクに登録…",
-            "date_modified": "2025-02-10T03:00:00.000Z"
         }
     ]
 }
