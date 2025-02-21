@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "a8a238948fe9fbb26dd9972308ae43bf",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5977",
+            "title": "【BHE】3月3日（月）-5日（水）筑波大生のキャリアイベント-合同企業説明会-",
+            "summary": "3月3日(月)から3日間、大学会館にて100社以上の企業・団体・官公庁が集まる「合同企業説明会」を開催します。\n特別企画の「OB・OG相談会」も開催期間中に毎日実施！\n筑波大OBOGや社員との交流、これからインターンシップや就活を考える学生には絶好の機会です。\n公務員志望向け(茨城労働局、物質・材料研究機構、国際人材育成機構、日本学生支援機構)も参加します。(参加日時は添付資料またはHPを確認して…",
+            "date_modified": "2025-02-21T03:00:00.000Z"
+        },
+        {
             "id": "e43695fb7d2b421c030753890dd11a97",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5976",
             "title": "2025年度　公立学校教員採用試験　大学推薦のご案内",
@@ -135,13 +142,6 @@
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5956",
             "title": "【募集】筑波大学ホームゲーム「TSUKUBA LIVE!」当日スタッフ（3/26・男子バレーボール）",
             "summary": "体育スポーツ局では、筑波大学ホームゲーム「TSUKUBA LIVE!」の当日運営スタッフを募集しています。\n\n【イベント名】\n筑波大学ホームゲーム 「TSUKUBA LIVE! 」\n\n【日程】\n2025年3月26日 （水)\n\n【場所】\nつくばカピオ\n\n【時間】\n＜会場設営＞25日(火) 13:00~18:00/26日(水) 8:00~9:00\n＜当日運営＞26日(水) 9:00~16:30\n＜会場…",
-            "date_modified": "2025-02-13T03:00:00.000Z"
-        },
-        {
-            "id": "6b5418cc9a064d8077cdc252d929f19b",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5955",
-            "title": "（BHEキャリア支援）Teams内　キャリア支援情報発信チームのご案内",
-            "summary": "Teams内　キャリア支援情報発信チームのご案内\n\nBHEには、日々、各所から求人・インターンシップ、各種イベントなど、\n筑波大生に向けた案内が届きます。\nHPや学内掲示板では発信しきれない情報をタイムリーに発信していきます。\n現在2200名の方が参加中です。\n卒業年度別や志望別のチャネルを設けていますので、ぜひ活用してください。\n\n【参加方法】\nチーム名「BHEキャリア支援チーム　情報発信」\n以…",
             "date_modified": "2025-02-13T03:00:00.000Z"
         }
     ]
