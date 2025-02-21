@@ -4,10 +4,28 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Thu, 20 Feb 2025 21:06:49 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 21 Feb 2025 00:02:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
+        <item>
+            <title><![CDATA[2025年度　公立学校教員採用試験　大学推薦のご案内]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5976</link>
+            <guid>e43695fb7d2b421c030753890dd11a97</guid>
+            <pubDate>Fri, 21 Feb 2025 03:00:00 GMT</pubDate>
+            <description><![CDATA[公立学校教員採用試験受験予定の方へ
+
+令和7年度実施　公立学校教員採用試験　大学推薦の案内を開始しています。
+現在、以下の自治体から募集案内が届いています。
+宮﨑県・長崎県・茨城県
+浜松市・堺市・岡山市・大阪市
+
+詳細は以下に掲載していますのでご確認ください。
+大学推薦を希望する場合には、早めにBHE教員担当までご連絡ください。
+
+〇BHE HP「教員採用試験の学校推薦情報」
+https://sy…]]></description>
+        </item>
         <item>
             <title><![CDATA[Call of committee members (as short-time employment) for ISS Summer Festivall]]></title>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5975</link>
@@ -264,17 +282,6 @@ HPや学内掲示板では発信しきれない情報をタイムリーに発信
 【参加方法】
 チーム名「BHEキャリア支援チーム　情報発信」
 以…]]></description>
-        </item>
-        <item>
-            <title><![CDATA[外国人留学生向け各種サポート業務（Ask Us Deskサポーター）]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5954</link>
-            <guid>1503731b1ec012a13fddfa754f1d5927</guid>
-            <pubDate>Thu, 13 Feb 2025 03:00:00 GMT</pubDate>
-            <description><![CDATA[学生部学生交流課では、Ask Us Deskサポーターを募集中です。
-
-応募要件は、外国人留学生の支援業務に意欲と熱意があり、日本語と英語によるコミュニケーションができること。積極的に自分でイベントを企画及び実施を行う等、行動力のある方を歓迎します。
-
-詳細は筑波大学学生人材バンクのHP（下記URL）でご確認ください。]]></description>
         </item>
     </channel>
 </rss>
