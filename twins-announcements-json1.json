@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "38d6bee8425c06494e27215491b620c3",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5978",
+            "title": "留年等に係る学研災再加入手続きについて / Gakkensai Insurance for Repeat Year Students: Coverage for Additional Terms",
+            "summary": "本学では，皆さんが安心して教育研究活動及び課外活動を行えるよう，学研災に必ず加入していただいております。\nIn the University of Tsukuba, all students must take out an insurance “Personal Accident Insurance for Student Pursuing Education and Research (PAS…",
+            "date_modified": "2025-02-21T03:00:00.000Z"
+        },
+        {
             "id": "a8a238948fe9fbb26dd9972308ae43bf",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5977",
             "title": "【BHE】3月3日（月）-5日（水）筑波大生のキャリアイベント-合同企業説明会-",
@@ -136,13 +143,6 @@
             "title": "【開催案内】第52回「中央ユーラシアと日本の未来」公開講演会「価値の言辞と日本外交・いつから・これから」",
             "summary": "【開催案内】第52回「中央ユーラシアと日本の未来」公開講演会\n\n講師：筑波大学特命教授　谷口 智彦 氏\n\n題目：価値の言辞と日本外交・いつから・これから\n\n日時：2025年2月21日（金）15:15～16:30\n\n会場：オンライン（Zoom）\n\n対象：本学学生、本学教職員、一般\nどなたでも無料でご参加いただけます。\n\n使用言語：日本語\n\n申込方法：下記申込フォームにて参加登録ください。\n\n※ご登録…",
             "date_modified": "2025-02-14T03:00:00.000Z"
-        },
-        {
-            "id": "c5376cd3ab65b56a6e9f71f781cb0d12",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5956",
-            "title": "【募集】筑波大学ホームゲーム「TSUKUBA LIVE!」当日スタッフ（3/26・男子バレーボール）",
-            "summary": "体育スポーツ局では、筑波大学ホームゲーム「TSUKUBA LIVE!」の当日運営スタッフを募集しています。\n\n【イベント名】\n筑波大学ホームゲーム 「TSUKUBA LIVE! 」\n\n【日程】\n2025年3月26日 （水)\n\n【場所】\nつくばカピオ\n\n【時間】\n＜会場設営＞25日(火) 13:00~18:00/26日(水) 8:00~9:00\n＜当日運営＞26日(水) 9:00~16:30\n＜会場…",
-            "date_modified": "2025-02-13T03:00:00.000Z"
         }
     ]
 }
