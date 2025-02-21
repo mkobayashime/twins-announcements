@@ -4,10 +4,24 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Fri, 21 Feb 2025 02:24:02 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 21 Feb 2025 03:06:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
+        <item>
+            <title><![CDATA[(BHE)25年度　学内公務員試験対策講座のご案内]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5979</link>
+            <guid>431ef1af5ebca737de925ce8269817d9</guid>
+            <pubDate>Fri, 21 Feb 2025 03:00:00 GMT</pubDate>
+            <description><![CDATA[25年度の公務員試験対策講座を以下の通り開催します。
+25年度、また26年度以降に公務員試験の受験を検討している方はぜひご参加ください。
+(注意）受験予定の年度別に開催日時が異なります。よく確認の上申し込んでください。
+
+〇2025年受験予定者対象　「公務員試験対策講座」
+日時：3月10日（月）
+　　　【第1部】１３：００－１４：１５　面接対策を攻略する
+　　　【第2部】１４：３０－１５：３０　官…]]></description>
+        </item>
         <item>
             <title><![CDATA[留年等に係る学研災再加入手続きについて / Gakkensai Insurance for Repeat Year Students: Coverage for Additional Terms]]></title>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5978</link>
@@ -238,30 +252,6 @@ For more details, …]]></description>
 使用言語：日本語
 
 申込方法：下記…]]></description>
-        </item>
-        <item>
-            <title><![CDATA[【開催案内】第52回「中央ユーラシアと日本の未来」公開講演会「価値の言辞と日本外交・いつから・これから」]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5957</link>
-            <guid>ed4c902b791eb7a952f6712c5d752110</guid>
-            <pubDate>Fri, 14 Feb 2025 03:00:00 GMT</pubDate>
-            <description><![CDATA[【開催案内】第52回「中央ユーラシアと日本の未来」公開講演会
-
-講師：筑波大学特命教授　谷口 智彦 氏
-
-題目：価値の言辞と日本外交・いつから・これから
-
-日時：2025年2月21日（金）15:15～16:30
-
-会場：オンライン（Zoom）
-
-対象：本学学生、本学教職員、一般
-どなたでも無料でご参加いただけます。
-
-使用言語：日本語
-
-申込方法：下記申込フォームにて参加登録ください。
-
-※ご登録…]]></description>
         </item>
     </channel>
 </rss>
