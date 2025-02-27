@@ -4,10 +4,27 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Thu, 27 Feb 2025 07:01:36 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 27 Feb 2025 09:07:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
+        <item>
+            <title><![CDATA[【Notice】Request for Submission of Pledge for Security Export Control卒業時等安全保障輸出管理に係る誓約書提出のお願い]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5994</link>
+            <guid>71b3a9e9ac8e8043f740dc0963642057</guid>
+            <pubDate>Thu, 27 Feb 2025 03:00:00 GMT</pubDate>
+            <description><![CDATA[2024年度大学院修了予定者（退学等を含む）の皆様へ
+To students scheduled to complete graduate school in AY2024 (including withdrawals, etc.)
+安全保障に関連する機微技術流出の防止のために、大学院修了時に「外国為替及び外国貿易法」を遵守する誓約書をmanabaから提出していただくことになっています。ご協力をよ…]]></description>
+        </item>
+        <item>
+            <title><![CDATA[[Library]Notice for Users expiring on 3/31(Graduating Students / Repeating Students / etc. )]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5993</link>
+            <guid>0fc9b5f2fba58ea1e29489b7a48d9c06</guid>
+            <pubDate>Thu, 27 Feb 2025 03:00:00 GMT</pubDate>
+            <description><![CDATA[〇Library Service Extension
+The undergraduate and graduate students who will remain enrolled next year due to repeating a year or other reasons can request continued library access. After completing th…]]></description>
+        </item>
         <item>
             <title><![CDATA[【Notice】Request for Submission of Pledge for Security Export Control卒業時等安全保障輸出管理に係る誓約書提出のお願い]]></title>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5992</link>
@@ -204,23 +221,6 @@ The orga…]]></description>
             <description><![CDATA[To students who are thinking about traveling abroad before spring recess
 
 Our university has been informing students about the mindset required for risk management when traveling abroad through the "O…]]></description>
-        </item>
-        <item>
-            <title><![CDATA[春季休業中における海外渡航・滞在に関する注意喚起について（通知）]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5973</link>
-            <guid>a7cd6d49976430f9e6cc467d2c8d51d3</guid>
-            <pubDate>Thu, 20 Feb 2025 03:00:00 GMT</pubDate>
-            <description><![CDATA[春季休業を前に海外渡航を考える学生の皆様へ
-
-本学では、海外に渡航する際の危機管理に関する心構えについて、「筑波大学生のための海外安全ハンドブック」、「筑波大学海外安全リーフレット」および危機管理セミナー等により周知しておりますが、春季休業を目前に控え、今後益々海外への渡航者が増えることが見込まれることから、改めて学生の皆さんへ注意喚起いたします。
-春季休業中、海外への渡航を予定している学生の皆さ…]]></description>
-        </item>
-        <item>
-            <title><![CDATA[【重要】有効期限切れの学生証の更新について/【Notice】Regarding Renewal of Expired Student ID Card]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5971</link>
-            <guid>7efd0c1f83f69b79024461c9c5342f36</guid>
-            <pubDate>Wed, 19 Feb 2025 03:00:00 GMT</pubDate>
-            <description><![CDATA[　令和７年３月末に有効期限が切れる学生証をお持ちの方（留年予定者等）は更新手続きが必要となりますので、添付ファイルのとおり手続きをしてください。]]></description>
         </item>
     </channel>
 </rss>
