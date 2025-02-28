@@ -5,6 +5,27 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "1b8a5038e63622257bf52be156269b6b",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5997",
+            "title": "Call for Applications for One-night Campus Housing Experience at Global Village",
+            "summary": "Would you like to experience living in a student dormitory?\nWe would like to offer our undergraduate first-year students an opportunity to experience one night stay at the Global Village (shared stude…",
+            "date_modified": "2025-02-28T03:00:00.000Z"
+        },
+        {
+            "id": "d8a8488f08061d8c8ca8a20082032e00",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5996",
+            "title": "学生宿舎体験入居（3/7～3/8）の開催について",
+            "summary": "学生宿舎に1泊2日の体験入居をしてみませんか？\nグローバルヴィレッジ（シェアハウス型学生宿舎）に体験入居して、\n学生宿舎や国際交流の感想をお聞かせください。\n　　　\n詳細は添付ファイルをご確認ください。\n",
+            "date_modified": "2025-02-28T03:00:00.000Z"
+        },
+        {
+            "id": "5008e72d7e5a3cc4b6900315ee6a9547",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5995",
+            "title": "いけばな体験教室の開催について/The Lesson of Ikebana Experience",
+            "summary": "いけばな体験教室を3月8日に開催いたします。\n\n詳細は添付ファイルをご確認ください。\n\n\nWould you like to experience the Japanese culture of ikebana?\n\nFor details, please see the attached file.\n",
+            "date_modified": "2025-02-28T03:00:00.000Z"
+        },
+        {
             "id": "71b3a9e9ac8e8043f740dc0963642057",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5994",
             "title": "【Notice】Request for Submission of Pledge for Security Export Control卒業時等安全保障輸出管理に係る誓約書提出のお願い",
@@ -122,27 +143,6 @@
             "title": "【BHE】3月3日（月）-5日（水）筑波大生のキャリアイベント-合同企業説明会-",
             "summary": "3月3日(月)から3日間、大学会館にて100社以上の企業・団体・官公庁が集まる「合同企業説明会」を開催します。\n特別企画の「OB・OG相談会」も開催期間中に毎日実施！\n筑波大OBOGや社員との交流、これからインターンシップや就活を考える学生には絶好の機会です。\n公務員志望向け(茨城労働局、物質・材料研究機構、国際人材育成機構、日本学生支援機構)も参加します。(参加日時は添付資料またはHPを確認して…",
             "date_modified": "2025-02-21T03:00:00.000Z"
-        },
-        {
-            "id": "e43695fb7d2b421c030753890dd11a97",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5976",
-            "title": "2025年度　公立学校教員採用試験　大学推薦のご案内",
-            "summary": "公立学校教員採用試験受験予定の方へ\n\n令和7年度実施　公立学校教員採用試験　大学推薦の案内を開始しています。\n現在、以下の自治体から募集案内が届いています。\n宮﨑県・長崎県・茨城県\n浜松市・堺市・岡山市・大阪市\n\n詳細は以下に掲載していますのでご確認ください。\n大学推薦を希望する場合には、早めにBHE教員担当までご連絡ください。\n\n〇BHE HP「教員採用試験の学校推薦情報」\nhttps://sy…",
-            "date_modified": "2025-02-21T03:00:00.000Z"
-        },
-        {
-            "id": "3cd9c012afd6e1ca81cb4b95b1fee940",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5975",
-            "title": "Call of committee members (as short-time employment) for ISS Summer Festivall",
-            "summary": "Inclusive Smart Society (ISS) program will hold ISS Summer Festival in June, and we would like to recruit an organizing committee from English speaking students to organize and run the event.\nThe orga…",
-            "date_modified": "2025-02-20T03:00:00.000Z"
-        },
-        {
-            "id": "e4d0ea2a3a7aaa5a1c3c05ebad1bb643",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5974",
-            "title": "Notice on the current alert for overseas travel and stay during the spring recess",
-            "summary": "To students who are thinking about traveling abroad before spring recess\n\nOur university has been informing students about the mindset required for risk management when traveling abroad through the \"O…",
-            "date_modified": "2025-02-20T03:00:00.000Z"
         }
     ]
 }
