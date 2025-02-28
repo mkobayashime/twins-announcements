@@ -4,10 +4,22 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Fri, 28 Feb 2025 01:28:45 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 28 Feb 2025 05:01:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
+        <item>
+            <title><![CDATA[AI利用に関する注意喚起]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5998</link>
+            <guid>bb24950ee86cacc2b1ef3deaf56b8742</guid>
+            <pubDate>Fri, 28 Feb 2025 03:00:00 GMT</pubDate>
+            <description><![CDATA[生成AIを活用する学生の皆様へ
+
+近年、AI技術の進展とともに、多くのオンラインサービスが提供されています。しかしながら、一部のサービスでは、利用者の入力データが意図せず第三者に共有されるリスクが指摘されており、注意が必要です。以下の点に留意し、安全に活用してください。詳しくは添付の通知をご確認ください。
+
+1. データの取り扱いに関するリスク
+インターネット上のサービスでは、入力された情報が外部…]]></description>
+        </item>
         <item>
             <title><![CDATA[Call for Applications for One-night Campus Housing Experience at Global Village]]></title>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5997</link>
@@ -211,16 +223,6 @@ http://syushoku.sec.tsukuba.ac.jp/pls/piss/web_guidance.proc_main
             <pubDate>Fri, 21 Feb 2025 03:00:00 GMT</pubDate>
             <description><![CDATA[本学では，皆さんが安心して教育研究活動及び課外活動を行えるよう，学研災に必ず加入していただいております。
 In the University of Tsukuba, all students must take out an insurance “Personal Accident Insurance for Student Pursuing Education and Research (PAS…]]></description>
-        </item>
-        <item>
-            <title><![CDATA[【BHE】3月3日（月）-5日（水）筑波大生のキャリアイベント-合同企業説明会-]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5977</link>
-            <guid>a8a238948fe9fbb26dd9972308ae43bf</guid>
-            <pubDate>Fri, 21 Feb 2025 03:00:00 GMT</pubDate>
-            <description><![CDATA[3月3日(月)から3日間、大学会館にて100社以上の企業・団体・官公庁が集まる「合同企業説明会」を開催します。
-特別企画の「OB・OG相談会」も開催期間中に毎日実施！
-筑波大OBOGや社員との交流、これからインターンシップや就活を考える学生には絶好の機会です。
-公務員志望向け(茨城労働局、物質・材料研究機構、国際人材育成機構、日本学生支援機構)も参加します。(参加日時は添付資料またはHPを確認して…]]></description>
         </item>
     </channel>
 </rss>

@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "bb24950ee86cacc2b1ef3deaf56b8742",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5998",
+            "title": "AI利用に関する注意喚起",
+            "summary": "生成AIを活用する学生の皆様へ\n\n近年、AI技術の進展とともに、多くのオンラインサービスが提供されています。しかしながら、一部のサービスでは、利用者の入力データが意図せず第三者に共有されるリスクが指摘されており、注意が必要です。以下の点に留意し、安全に活用してください。詳しくは添付の通知をご確認ください。\n\n1. データの取り扱いに関するリスク\nインターネット上のサービスでは、入力された情報が外部…",
+            "date_modified": "2025-02-28T03:00:00.000Z"
+        },
+        {
             "id": "1b8a5038e63622257bf52be156269b6b",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5997",
             "title": "Call for Applications for One-night Campus Housing Experience at Global Village",
@@ -135,13 +142,6 @@
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5978",
             "title": "留年等に係る学研災再加入手続きについて / Gakkensai Insurance for Repeat Year Students: Coverage for Additional Terms",
             "summary": "本学では，皆さんが安心して教育研究活動及び課外活動を行えるよう，学研災に必ず加入していただいております。\nIn the University of Tsukuba, all students must take out an insurance “Personal Accident Insurance for Student Pursuing Education and Research (PAS…",
-            "date_modified": "2025-02-21T03:00:00.000Z"
-        },
-        {
-            "id": "a8a238948fe9fbb26dd9972308ae43bf",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5977",
-            "title": "【BHE】3月3日（月）-5日（水）筑波大生のキャリアイベント-合同企業説明会-",
-            "summary": "3月3日(月)から3日間、大学会館にて100社以上の企業・団体・官公庁が集まる「合同企業説明会」を開催します。\n特別企画の「OB・OG相談会」も開催期間中に毎日実施！\n筑波大OBOGや社員との交流、これからインターンシップや就活を考える学生には絶好の機会です。\n公務員志望向け(茨城労働局、物質・材料研究機構、国際人材育成機構、日本学生支援機構)も参加します。(参加日時は添付資料またはHPを確認して…",
             "date_modified": "2025-02-21T03:00:00.000Z"
         }
     ]
