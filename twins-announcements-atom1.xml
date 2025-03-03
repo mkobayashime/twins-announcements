@@ -2,10 +2,24 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/mkobayashime/twins-announcements</id>
     <title>在学生へのお知らせ | 筑波大学</title>
-    <updated>2025-03-02T21:06:48.293Z</updated>
+    <updated>2025-03-03T01:29:24.279Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://github.com/mkobayashime/twins-announcements"/>
     <subtitle>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</subtitle>
+    <entry>
+        <title type="html"><![CDATA[【manaba掲載のお知らせ】令和6年度春季休業前の海外危機管理セミナーについて]]></title>
+        <id>08b493459d5066ddba4eb4a90c9f92b5</id>
+        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5999"/>
+        <updated>2025-03-03T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[1/27(月)に開催した標記セミナーについて、セミナーの動画と関係資料をmanabaに掲載しましたので、お知らせいたします。
+コース登録方法、動画視聴方法等につきましては、添付ファイルをご確認ください。
+
+
+
+＜以下、参考：セミナーの概要情報＞
+海外危機管理セミナーを開催しますので、お知らせいたします。
+海外危機管理に関するスペシャリストをお招きし、海外渡航前の準備事項と、現地での安全対策について…]]></summary>
+    </entry>
     <entry>
         <title type="html"><![CDATA[筑波大学公式オリジナルグッズECサイト割引クーポンのお知らせ（3月） 2025/3/1～2025/3/31]]></title>
         <id>ceca96f9f30b9d7b1d4ea7d37b0d3851</id>
@@ -212,13 +226,5 @@ To students scheduled to complete graduate school in AY2024 (including withdrawa
 日時：3月10日（月）
 　　　【第1部】１３：００－１４：１５　面接対策を攻略する
 　　　【第2部】１４：３０－１５：３０　官…]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[留年等に係る学研災再加入手続きについて / Gakkensai Insurance for Repeat Year Students: Coverage for Additional Terms]]></title>
-        <id>38d6bee8425c06494e27215491b620c3</id>
-        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5978"/>
-        <updated>2025-02-21T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[本学では，皆さんが安心して教育研究活動及び課外活動を行えるよう，学研災に必ず加入していただいております。
-In the University of Tsukuba, all students must take out an insurance “Personal Accident Insurance for Student Pursuing Education and Research (PAS…]]></summary>
     </entry>
 </feed>

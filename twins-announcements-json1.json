@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "08b493459d5066ddba4eb4a90c9f92b5",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5999",
+            "title": "【manaba掲載のお知らせ】令和6年度春季休業前の海外危機管理セミナーについて",
+            "summary": "1/27(月)に開催した標記セミナーについて、セミナーの動画と関係資料をmanabaに掲載しましたので、お知らせいたします。\nコース登録方法、動画視聴方法等につきましては、添付ファイルをご確認ください。\n\n\n\n＜以下、参考：セミナーの概要情報＞\n海外危機管理セミナーを開催しますので、お知らせいたします。\n海外危機管理に関するスペシャリストをお招きし、海外渡航前の準備事項と、現地での安全対策について…",
+            "date_modified": "2025-03-03T03:00:00.000Z"
+        },
+        {
             "id": "ceca96f9f30b9d7b1d4ea7d37b0d3851",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5972",
             "title": "筑波大学公式オリジナルグッズECサイト割引クーポンのお知らせ（3月） 2025/3/1～2025/3/31",
@@ -135,13 +142,6 @@
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5979",
             "title": "(BHE)25年度　学内公務員試験対策講座のご案内",
             "summary": "25年度の公務員試験対策講座を以下の通り開催します。\n25年度、また26年度以降に公務員試験の受験を検討している方はぜひご参加ください。\n(注意）受験予定の年度別に開催日時が異なります。よく確認の上申し込んでください。\n\n〇2025年受験予定者対象　「公務員試験対策講座」\n日時：3月10日（月）\n　　　【第1部】１３：００－１４：１５　面接対策を攻略する\n　　　【第2部】１４：３０－１５：３０　官…",
-            "date_modified": "2025-02-21T03:00:00.000Z"
-        },
-        {
-            "id": "38d6bee8425c06494e27215491b620c3",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5978",
-            "title": "留年等に係る学研災再加入手続きについて / Gakkensai Insurance for Repeat Year Students: Coverage for Additional Terms",
-            "summary": "本学では，皆さんが安心して教育研究活動及び課外活動を行えるよう，学研災に必ず加入していただいております。\nIn the University of Tsukuba, all students must take out an insurance “Personal Accident Insurance for Student Pursuing Education and Research (PAS…",
             "date_modified": "2025-02-21T03:00:00.000Z"
         }
     ]
