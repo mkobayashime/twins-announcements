@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "6ebdf1612ccb3aa9bf719372d9e1e3a7",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=6002",
+            "title": "令和７年度学生定期健康診断の実施について Regarding the 2025 Student Health Examination",
+            "summary": "令和７年度の学生定期健康診断を、身体検査とこころの健康調査に分けて実施します。\n必ず受診してください。\n\n身体検査\n４月１１日（金）から４月２３日（水）で実施されます。\n指定日時内の希望の時間を保健管理センターのホームページにて予約してください。\n\nこころの健康調査\n４月１１日(金) から５月３１日(土)で実施されます。\n学習管理システム（manaba）での回答となります。\n\n詳細はホームページを…",
+            "date_modified": "2025-03-03T03:00:00.000Z"
+        },
+        {
             "id": "71b3a9e9ac8e8043f740dc0963642057",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=6001",
             "title": "【Notice】Request for Submission of Pledge for Security Export Control卒業時等安全保障輸出管理に係る誓約書提出のお願い",
@@ -136,13 +143,6 @@
             "title": "【Notice】Request for Submission of Pledge for Security Export Control卒業時等安全保障輸出管理に係る誓約書提出のお願い",
             "summary": "2024年度大学院修了予定者（退学等を含む）の皆様へ\nTo students scheduled to complete graduate school in AY2024 (including withdrawals, etc.)\n安全保障に関連する機微技術流出の防止のために、大学院修了時に「外国為替及び外国貿易法」を遵守する誓約書をmanabaから提出していただくことになっています。ご協力をよ…",
             "date_modified": "2025-02-27T03:00:00.000Z"
-        },
-        {
-            "id": "76297db2351566babdc5076f5178a31d",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5982",
-            "title": "【周知】【茨城県警察本部生活安全総務課】いばらき防犯ファイルについて",
-            "summary": "茨城県警察本部生活安全総務課よりいばらき防犯ファイル（令和7年1月末）の送付がありましたので、添付のとおり掲載いたします。\n本ファイルは、県内で実際に発生した犯罪の情報のほか、防犯対策に役立つ情報が含まれております。ご自身の安全のためにも、ぜひご確認ください。\n",
-            "date_modified": "2025-02-26T03:00:00.000Z"
         }
     ]
 }
