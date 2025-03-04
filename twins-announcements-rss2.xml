@@ -4,10 +4,27 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Tue, 04 Mar 2025 00:02:46 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 04 Mar 2025 01:28:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
+        <item>
+            <title><![CDATA[【本日も大学会館で開催！！】筑波大生のキャリアイベント-合同企業説明会-]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=6005</link>
+            <guid>af66cd5c301d741b1d699c9f9daec1a0</guid>
+            <pubDate>Tue, 04 Mar 2025 03:00:00 GMT</pubDate>
+            <description><![CDATA[3月3日(月)から3日間、100社以上の企業・団体・官公庁が集まる「合同企業説明会」を開催！
+筑波大OBOGや社員との交流、これからインターンシップや就活を考える学生には絶好の機会です！
+
+◎主に26卒対象　27、28卒も歓迎
+◎途中参加・退出可能
+◎服装自由
+★気軽にふらっとお越しください
+  
+筑波大生のキャリアイベント-合同企業説明会-
+日程　3月3日(月)-5日(水)
+時間　14：00-1…]]></description>
+        </item>
         <item>
             <title><![CDATA[【本日3/4開催】令和８年度採用を目指す日本学術振興会特別研究員説明会について]]></title>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=6004</link>
@@ -227,15 +244,6 @@ To students scheduled to complete graduate school in AY2024 (including withdrawa
 接続先URLは下記をご参照ください。
 
 ※ Microso…]]></description>
-        </item>
-        <item>
-            <title><![CDATA[【Notice】Request for Submission of Pledge for Security Export Control卒業時等安全保障輸出管理に係る誓約書提出のお願い]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5984</link>
-            <guid>71b3a9e9ac8e8043f740dc0963642057</guid>
-            <pubDate>Thu, 27 Feb 2025 03:00:00 GMT</pubDate>
-            <description><![CDATA[2024年度大学院修了予定者（退学等を含む）の皆様へ
-To students scheduled to complete graduate school in AY2024 (including withdrawals, etc.)
-安全保障に関連する機微技術流出の防止のために、大学院修了時に「外国為替及び外国貿易法」を遵守する誓約書をmanabaから提出していただくことになっています。ご協力をよ…]]></description>
         </item>
     </channel>
 </rss>
