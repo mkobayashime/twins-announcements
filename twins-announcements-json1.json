@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "941163185354b84acff8847e96aceb41",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=6004",
+            "title": "【本日3/4開催】令和８年度採用を目指す日本学術振興会特別研究員説明会について",
+            "summary": "2025年3月4日(火)14時～16時にリアルタイムWeb配信にて開催の令和８年度採用を目指す日本学術振興会特別研究員説明会について、接続先情報を掲示いたします。\n\n【参加申込不要】参加方法：　Microsoft Teams ミーティング\n　接続情報\n　会議 ID: 485 645 744 553\n　パスコード: aj3L9h8K\n\n接続先URLは下記をご参照ください。\n\n※ Microsoft …",
+            "date_modified": "2025-03-04T03:00:00.000Z"
+        },
+        {
             "id": "8a50c58e4d4a6a9a8c0d6527084e6be5",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=6003",
             "title": "筑波大学「世界を変えよう基金」鈴木奨学金2025年度奨学生募集のお知らせ",
@@ -136,13 +143,6 @@
             "title": "【Notice】Request for Submission of Pledge for Security Export Control卒業時等安全保障輸出管理に係る誓約書提出のお願い",
             "summary": "2024年度大学院修了予定者（退学等を含む）の皆様へ\nTo students scheduled to complete graduate school in AY2024 (including withdrawals, etc.)\n安全保障に関連する機微技術流出の防止のために、大学院修了時に「外国為替及び外国貿易法」を遵守する誓約書をmanabaから提出していただくことになっています。ご協力をよ…",
             "date_modified": "2025-02-27T03:00:00.000Z"
-        },
-        {
-            "id": "76297db2351566babdc5076f5178a31d",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5982",
-            "title": "【周知】【茨城県警察本部生活安全総務課】いばらき防犯ファイルについて",
-            "summary": "茨城県警察本部生活安全総務課よりいばらき防犯ファイル（令和7年1月末）の送付がありましたので、添付のとおり掲載いたします。\n本ファイルは、県内で実際に発生した犯罪の情報のほか、防犯対策に役立つ情報が含まれております。ご自身の安全のためにも、ぜひご確認ください。\n",
-            "date_modified": "2025-02-26T03:00:00.000Z"
         }
     ]
 }

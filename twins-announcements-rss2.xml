@@ -4,10 +4,26 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Mon, 03 Mar 2025 21:07:08 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 04 Mar 2025 00:02:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
+        <item>
+            <title><![CDATA[【本日3/4開催】令和８年度採用を目指す日本学術振興会特別研究員説明会について]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=6004</link>
+            <guid>941163185354b84acff8847e96aceb41</guid>
+            <pubDate>Tue, 04 Mar 2025 03:00:00 GMT</pubDate>
+            <description><![CDATA[2025年3月4日(火)14時～16時にリアルタイムWeb配信にて開催の令和８年度採用を目指す日本学術振興会特別研究員説明会について、接続先情報を掲示いたします。
+
+【参加申込不要】参加方法：　Microsoft Teams ミーティング
+　接続情報
+　会議 ID: 485 645 744 553
+　パスコード: aj3L9h8K
+
+接続先URLは下記をご参照ください。
+
+※ Microsoft …]]></description>
+        </item>
         <item>
             <title><![CDATA[筑波大学「世界を変えよう基金」鈴木奨学金2025年度奨学生募集のお知らせ]]></title>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=6003</link>
@@ -220,15 +236,6 @@ To students scheduled to complete graduate school in AY2024 (including withdrawa
             <description><![CDATA[2024年度大学院修了予定者（退学等を含む）の皆様へ
 To students scheduled to complete graduate school in AY2024 (including withdrawals, etc.)
 安全保障に関連する機微技術流出の防止のために、大学院修了時に「外国為替及び外国貿易法」を遵守する誓約書をmanabaから提出していただくことになっています。ご協力をよ…]]></description>
-        </item>
-        <item>
-            <title><![CDATA[【周知】【茨城県警察本部生活安全総務課】いばらき防犯ファイルについて]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5982</link>
-            <guid>76297db2351566babdc5076f5178a31d</guid>
-            <pubDate>Wed, 26 Feb 2025 03:00:00 GMT</pubDate>
-            <description><![CDATA[茨城県警察本部生活安全総務課よりいばらき防犯ファイル（令和7年1月末）の送付がありましたので、添付のとおり掲載いたします。
-本ファイルは、県内で実際に発生した犯罪の情報のほか、防犯対策に役立つ情報が含まれております。ご自身の安全のためにも、ぜひご確認ください。
-]]></description>
         </item>
     </channel>
 </rss>
