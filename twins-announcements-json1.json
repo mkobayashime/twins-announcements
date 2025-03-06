@@ -5,6 +5,20 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "94017d4a5166d1c9241b4e1cec54c80f",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=6009",
+            "title": "【周知】 茨城県より、HPVワクチンキャッチアップ接種についての周知依頼がありましたので、お知らせいたします。",
+            "summary": "HPVワクチンキャッチアップ接種期間が令和６年度末までとされているところ、令和７年３月31日までに１回以上接種している方については、令和７年度４月以降も残りの接種を公費で３回受けられることになりました。\n\n　ワクチン接種方法について、ご不明な点がありましたらお住いの市町村へお問い合わせください（以下の県疾病対策課ホームページ参照）。\n\n※対象者：\nキャッチアップ接種対象者（平成９年度生まれ～平成1…",
+            "date_modified": "2025-03-06T03:00:00.000Z"
+        },
+        {
+            "id": "7061e6038168eb4cec68e86099edfc3b",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=6008",
+            "title": "【周知】引越時期の分散について",
+            "summary": "    文部科学省より、分散引越への協力依頼がありましたので、お知らせいたします。\n\n　引越事業においては、例年3月下旬から4月上旬にかけて引越の依頼が集中しているところ、従来より国土交通省では、引越時期の分散化に向けた周知広報を行っております。\n実際に引越時期を分散した利用者の方々からは「ピーク時より引越代金が安くなった」といった声も上がっているとのことですが、依然として同時期における依頼が集中…",
+            "date_modified": "2025-03-06T03:00:00.000Z"
+        },
+        {
             "id": "a8a4cefee2cfa01d5d0f56dccc0e6042",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=6007",
             "title": "2025年度春季SPRING/BOOST新規募集を開始しました。Call for New SPRING ＆BOOST Research Fellowship Students for AY2025.",
@@ -126,20 +140,6 @@
         {
             "id": "71b3a9e9ac8e8043f740dc0963642057",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5988",
-            "title": "【Notice】Request for Submission of Pledge for Security Export Control卒業時等安全保障輸出管理に係る誓約書提出のお願い",
-            "summary": "2024年度大学院修了予定者（退学等を含む）の皆様へ\nTo students scheduled to complete graduate school in AY2024 (including withdrawals, etc.)\n安全保障に関連する機微技術流出の防止のために、大学院修了時に「外国為替及び外国貿易法」を遵守する誓約書をmanabaから提出していただくことになっています。ご協力をよ…",
-            "date_modified": "2025-02-27T03:00:00.000Z"
-        },
-        {
-            "id": "71b3a9e9ac8e8043f740dc0963642057",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5987",
-            "title": "【Notice】Request for Submission of Pledge for Security Export Control卒業時等安全保障輸出管理に係る誓約書提出のお願い",
-            "summary": "2024年度大学院修了予定者（退学等を含む）の皆様へ\nTo students scheduled to complete graduate school in AY2024 (including withdrawals, etc.)\n安全保障に関連する機微技術流出の防止のために、大学院修了時に「外国為替及び外国貿易法」を遵守する誓約書をmanabaから提出していただくことになっています。ご協力をよ…",
-            "date_modified": "2025-02-27T03:00:00.000Z"
-        },
-        {
-            "id": "71b3a9e9ac8e8043f740dc0963642057",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5986",
             "title": "【Notice】Request for Submission of Pledge for Security Export Control卒業時等安全保障輸出管理に係る誓約書提出のお願い",
             "summary": "2024年度大学院修了予定者（退学等を含む）の皆様へ\nTo students scheduled to complete graduate school in AY2024 (including withdrawals, etc.)\n安全保障に関連する機微技術流出の防止のために、大学院修了時に「外国為替及び外国貿易法」を遵守する誓約書をmanabaから提出していただくことになっています。ご協力をよ…",
             "date_modified": "2025-02-27T03:00:00.000Z"
