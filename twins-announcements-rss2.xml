@@ -4,10 +4,27 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Fri, 07 Mar 2025 02:26:31 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 07 Mar 2025 08:01:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
+        <item>
+            <title><![CDATA[[Notice] Undergraduate / Graduate School Commencement Ceremonies for AY2024]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=6015</link>
+            <guid>09dd796b92a6fce617a70beda6d1c70f</guid>
+            <pubDate>Fri, 07 Mar 2025 03:00:00 GMT</pubDate>
+            <description><![CDATA[To Graduating Students
+Undergraduate and Graduate School Commencement Ceremonies for AY2024 will be held as shown in the
+attached file.]]></description>
+        </item>
+        <item>
+            <title><![CDATA[【お知らせ】令和6年度卒業式・学位記授与式の開催について]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=6014</link>
+            <guid>3ffb7f67e67da2ca9781d8b88948c219</guid>
+            <pubDate>Fri, 07 Mar 2025 03:00:00 GMT</pubDate>
+            <description><![CDATA[卒業生・修了生　各位
+令和6年度卒業式・学位記授与式を添付ファイルのとおり挙行いたしますので、お知らせします。]]></description>
+        </item>
         <item>
             <title><![CDATA[3月10日（月）開催　(BHE)25年度　学内公務員試験対策講座のご案内]]></title>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=6013</link>
@@ -231,27 +248,6 @@ To students scheduled to complete graduate school in AY2024 (including withdrawa
             <pubDate>Thu, 27 Feb 2025 03:00:00 GMT</pubDate>
             <description><![CDATA[〇Library Service Extension
 The undergraduate and graduate students who will remain enrolled next year due to repeating a year or other reasons can request continued library access. After completing th…]]></description>
-        </item>
-        <item>
-            <title><![CDATA[【Notice】Request for Submission of Pledge for Security Export Control卒業時等安全保障輸出管理に係る誓約書提出のお願い]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5992</link>
-            <guid>71b3a9e9ac8e8043f740dc0963642057</guid>
-            <pubDate>Thu, 27 Feb 2025 03:00:00 GMT</pubDate>
-            <description><![CDATA[024年度大学院修了予定者（退学等を含む）の皆様へ
-To students scheduled to complete graduate school in AY2024 (including withdrawals, etc.)
-安全保障に関連する機微技術流出の防止のために、大学院修了時に「外国為替及び外国貿易法」を遵守する誓約書をmanabaから提出していただくことになっています。ご協力をよろ…]]></description>
-        </item>
-        <item>
-            <title><![CDATA[【附属図書館】利用証の期限が3/31までの方へ（卒業・修了 / 大学院進学 / 留年・休学等）]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5991</link>
-            <guid>bf96f1c6887c438d8b40a8919a943a7b</guid>
-            <pubDate>Thu, 27 Feb 2025 03:00:00 GMT</pubDate>
-            <description><![CDATA[〇留年・休学等による期限延長手続きについて
-最終年次の学群生及び大学院学生で、留年・休学等の理由により、来年度も現在と同じ身分で在籍する方は、図書館で手続きをおこなうことで、延長して図書館サービスが受けられるようになります。
-該当する方は、3月３日以降に支援室で期限延長の手続きを済ませた後、各館のメインカウンターに申し出てください。
-
-受付時間
-　中央・体芸・医学・図情図書館：　平日　9:00-1…]]></description>
         </item>
     </channel>
 </rss>
