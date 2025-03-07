@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "49f7f651b377a6aa9f84b81f91f355b8",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=6013",
+            "title": "3月10日（月）開催　(BHE)25年度　学内公務員試験対策講座のご案内",
+            "summary": "25年度の公務員試験対策講座を以下の通り開催します。\n25年度、また26年度以降に公務員試験の受験を検討している方はぜひご参加ください。\n(注意）受験予定の年度別に開催日時が異なります。よく確認の上申し込んでください。\n\n〇2025年受験予定者対象　「公務員試験対策講座」\n日時：3月10日（月）\n　　　【第1部】１３：００－１４：１５　面接対策を攻略する\n　　　【第2部】１４：３０－１５：３０　官…",
+            "date_modified": "2025-03-07T03:00:00.000Z"
+        },
+        {
             "id": "73a4b38d3409a7bf8caec08713646c25",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=6012",
             "title": "再掲載【開催案内】第1回 オンラインによる中央アジア・コーカサス映画上映会 2025/2/14",
@@ -135,13 +142,6 @@
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5991",
             "title": "【附属図書館】利用証の期限が3/31までの方へ（卒業・修了 / 大学院進学 / 留年・休学等）",
             "summary": "〇留年・休学等による期限延長手続きについて\n最終年次の学群生及び大学院学生で、留年・休学等の理由により、来年度も現在と同じ身分で在籍する方は、図書館で手続きをおこなうことで、延長して図書館サービスが受けられるようになります。\n該当する方は、3月３日以降に支援室で期限延長の手続きを済ませた後、各館のメインカウンターに申し出てください。\n\n受付時間\n　中央・体芸・医学・図情図書館：　平日　9:00-1…",
-            "date_modified": "2025-02-27T03:00:00.000Z"
-        },
-        {
-            "id": "cab8503c7e40597f3717b584ff1ace05",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5990",
-            "title": "【開催案内】国際女性デーフェア（3/7～3/21）",
-            "summary": "2025年3月7日（金）～ 3月21日（金）に筑波大学附属中央図書館２Fギャラリーゾーンにて『国際女性デーフェア』を開催します。\n3月8日の 「国際女性デー」にちなんで、フェミニズムやジェンダー平等に関する教職員や学生の推薦書籍を常設展示します。\n展示中の書籍は貸出可能です。ぜひお手に取ってご覧ください。\n\n日時：2025年3月7日(金)～3月21日(金)　※期間中常設展示\n会場：附属中央図書館2…",
             "date_modified": "2025-02-27T03:00:00.000Z"
         }
     ]

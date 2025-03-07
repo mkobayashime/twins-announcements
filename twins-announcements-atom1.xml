@@ -2,10 +2,24 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/mkobayashime/twins-announcements</id>
     <title>在学生へのお知らせ | 筑波大学</title>
-    <updated>2025-03-07T01:28:52.303Z</updated>
+    <updated>2025-03-07T02:26:31.723Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://github.com/mkobayashime/twins-announcements"/>
     <subtitle>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</subtitle>
+    <entry>
+        <title type="html"><![CDATA[3月10日（月）開催　(BHE)25年度　学内公務員試験対策講座のご案内]]></title>
+        <id>49f7f651b377a6aa9f84b81f91f355b8</id>
+        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=6013"/>
+        <updated>2025-03-07T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[25年度の公務員試験対策講座を以下の通り開催します。
+25年度、また26年度以降に公務員試験の受験を検討している方はぜひご参加ください。
+(注意）受験予定の年度別に開催日時が異なります。よく確認の上申し込んでください。
+
+〇2025年受験予定者対象　「公務員試験対策講座」
+日時：3月10日（月）
+　　　【第1部】１３：００－１４：１５　面接対策を攻略する
+　　　【第2部】１４：３０－１５：３０　官…]]></summary>
+    </entry>
     <entry>
         <title type="html"><![CDATA[再掲載【開催案内】第1回 オンラインによる中央アジア・コーカサス映画上映会 2025/2/14]]></title>
         <id>73a4b38d3409a7bf8caec08713646c25</id>
@@ -236,17 +250,5 @@ To students scheduled to complete graduate school in AY2024 (including withdrawa
 
 受付時間
 　中央・体芸・医学・図情図書館：　平日　9:00-1…]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【開催案内】国際女性デーフェア（3/7～3/21）]]></title>
-        <id>cab8503c7e40597f3717b584ff1ace05</id>
-        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5990"/>
-        <updated>2025-02-27T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[2025年3月7日（金）～ 3月21日（金）に筑波大学附属中央図書館２Fギャラリーゾーンにて『国際女性デーフェア』を開催します。
-3月8日の 「国際女性デー」にちなんで、フェミニズムやジェンダー平等に関する教職員や学生の推薦書籍を常設展示します。
-展示中の書籍は貸出可能です。ぜひお手に取ってご覧ください。
-
-日時：2025年3月7日(金)～3月21日(金)　※期間中常設展示
-会場：附属中央図書館2…]]></summary>
     </entry>
 </feed>
