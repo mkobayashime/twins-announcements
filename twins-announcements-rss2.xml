@@ -4,7 +4,7 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Sat, 08 Mar 2025 09:07:12 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 08 Mar 2025 15:06:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
@@ -218,21 +218,6 @@ ECサイトは以下のリンクから
 インターネット上のサービスでは、入力された情報が外部…]]></description>
         </item>
         <item>
-            <title><![CDATA[いけばな体験教室の開催について/The Lesson of Ikebana Experience]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5995</link>
-            <guid>5008e72d7e5a3cc4b6900315ee6a9547</guid>
-            <pubDate>Fri, 28 Feb 2025 03:00:00 GMT</pubDate>
-            <description><![CDATA[いけばな体験教室を3月8日に開催いたします。
-
-詳細は添付ファイルをご確認ください。
-
-
-Would you like to experience the Japanese culture of ikebana?
-
-For details, please see the attached file.
-]]></description>
-        </item>
-        <item>
             <title><![CDATA[【Notice】Request for Submission of Pledge for Security Export Control卒業時等安全保障輸出管理に係る誓約書提出のお願い]]></title>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5994</link>
             <guid>71b3a9e9ac8e8043f740dc0963642057</guid>
@@ -248,6 +233,15 @@ To students scheduled to complete graduate school in AY2024 (including withdrawa
             <pubDate>Thu, 27 Feb 2025 03:00:00 GMT</pubDate>
             <description><![CDATA[〇Library Service Extension
 The undergraduate and graduate students who will remain enrolled next year due to repeating a year or other reasons can request continued library access. After completing th…]]></description>
+        </item>
+        <item>
+            <title><![CDATA[【Notice】Request for Submission of Pledge for Security Export Control卒業時等安全保障輸出管理に係る誓約書提出のお願い]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5992</link>
+            <guid>71b3a9e9ac8e8043f740dc0963642057</guid>
+            <pubDate>Thu, 27 Feb 2025 03:00:00 GMT</pubDate>
+            <description><![CDATA[024年度大学院修了予定者（退学等を含む）の皆様へ
+To students scheduled to complete graduate school in AY2024 (including withdrawals, etc.)
+安全保障に関連する機微技術流出の防止のために、大学院修了時に「外国為替及び外国貿易法」を遵守する誓約書をmanabaから提出していただくことになっています。ご協力をよろ…]]></description>
         </item>
     </channel>
 </rss>
