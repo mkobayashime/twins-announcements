@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "a26b9741a8ec7a383c51fc64d9988ff3",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=6017",
+            "title": "ぶっちゃけ相談会（OBOG 質問・相談会）",
+            "summary": "ぶっちゃけ相談会は筑波大のOBOGからオンラインでお話を聞く、学生からの質問・相談をする会です。\n（※茗渓会主催）\n\n今回は公務員特集。登壇される先輩は以下の2名です。\n・横浜市役所 政策経営局データ経営部データ経営課 課長補佐\n（第一学群 社会学類 2007年卒）\n・茨城県警察  結城警察署警務課警務係主任 兼 警務部警務課採用リクルーター\n（理工学群 応用理工学類 2020年卒）\n\n日時：3/…",
+            "date_modified": "2025-03-10T03:00:00.000Z"
+        },
+        {
             "id": "fce00e8c8e3240f97817868548ac2018",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=6016",
             "title": "キャリア支援チームホームページの不具合について",
@@ -135,13 +142,6 @@
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5994",
             "title": "【Notice】Request for Submission of Pledge for Security Export Control卒業時等安全保障輸出管理に係る誓約書提出のお願い",
             "summary": "2024年度大学院修了予定者（退学等を含む）の皆様へ\nTo students scheduled to complete graduate school in AY2024 (including withdrawals, etc.)\n安全保障に関連する機微技術流出の防止のために、大学院修了時に「外国為替及び外国貿易法」を遵守する誓約書をmanabaから提出していただくことになっています。ご協力をよ…",
-            "date_modified": "2025-02-27T03:00:00.000Z"
-        },
-        {
-            "id": "0fc9b5f2fba58ea1e29489b7a48d9c06",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5993",
-            "title": "[Library]Notice for Users expiring on 3/31(Graduating Students / Repeating Students / etc. )",
-            "summary": "〇Library Service Extension\nThe undergraduate and graduate students who will remain enrolled next year due to repeating a year or other reasons can request continued library access. After completing th…",
             "date_modified": "2025-02-27T03:00:00.000Z"
         }
     ]

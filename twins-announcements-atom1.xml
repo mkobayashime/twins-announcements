@@ -2,10 +2,26 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/mkobayashime/twins-announcements</id>
     <title>在学生へのお知らせ | 筑波大学</title>
-    <updated>2025-03-10T00:02:35.829Z</updated>
+    <updated>2025-03-10T01:28:15.412Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://github.com/mkobayashime/twins-announcements"/>
     <subtitle>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</subtitle>
+    <entry>
+        <title type="html"><![CDATA[ぶっちゃけ相談会（OBOG 質問・相談会）]]></title>
+        <id>a26b9741a8ec7a383c51fc64d9988ff3</id>
+        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=6017"/>
+        <updated>2025-03-10T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[ぶっちゃけ相談会は筑波大のOBOGからオンラインでお話を聞く、学生からの質問・相談をする会です。
+（※茗渓会主催）
+
+今回は公務員特集。登壇される先輩は以下の2名です。
+・横浜市役所 政策経営局データ経営部データ経営課 課長補佐
+（第一学群 社会学類 2007年卒）
+・茨城県警察  結城警察署警務課警務係主任 兼 警務部警務課採用リクルーター
+（理工学群 応用理工学類 2020年卒）
+
+日時：3/…]]></summary>
+    </entry>
     <entry>
         <title type="html"><![CDATA[キャリア支援チームホームページの不具合について]]></title>
         <id>fce00e8c8e3240f97817868548ac2018</id>
@@ -234,13 +250,5 @@ ECサイトは以下のリンクから
         <summary type="html"><![CDATA[2024年度大学院修了予定者（退学等を含む）の皆様へ
 To students scheduled to complete graduate school in AY2024 (including withdrawals, etc.)
 安全保障に関連する機微技術流出の防止のために、大学院修了時に「外国為替及び外国貿易法」を遵守する誓約書をmanabaから提出していただくことになっています。ご協力をよ…]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[Library]Notice for Users expiring on 3/31(Graduating Students / Repeating Students / etc. )]]></title>
-        <id>0fc9b5f2fba58ea1e29489b7a48d9c06</id>
-        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5993"/>
-        <updated>2025-02-27T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[〇Library Service Extension
-The undergraduate and graduate students who will remain enrolled next year due to repeating a year or other reasons can request continued library access. After completing th…]]></summary>
     </entry>
 </feed>
