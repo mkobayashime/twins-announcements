@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/mkobayashime/twins-announcements</id>
     <title>在学生へのお知らせ | 筑波大学</title>
-    <updated>2025-03-10T03:01:50.658Z</updated>
+    <updated>2025-03-10T06:01:41.321Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://github.com/mkobayashime/twins-announcements"/>
     <subtitle>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</subtitle>
+    <entry>
+        <title type="html"><![CDATA[キャリア支援チームホームページの不具合解消]]></title>
+        <id>7bc8cf0c59a8e6059d65077056f33ab2</id>
+        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=6019"/>
+        <updated>2025-03-10T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[3/10午前中に発生しておりましたキャリア支援チームホームページの不具合は現在解消され閲覧できるようになりました。
+また、本日、夜間帯（18時〜24時）に緊急のメンテナンス作業を行うため、一時的に閲覧できなくなる時間帯が発生します。
+ご迷惑をお掛けいたしますが、よろしくお願いいたします。]]></summary>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【開催案内】12th Borderless Onsite Meeting “Estonia: Where Medieval Charm Meets Digital Innovation“]]></title>
         <id>86ae681cfaaf9c860a175f78e18d06ee</id>
@@ -242,17 +251,5 @@ To students scheduled to complete graduate school in AY2024 (including withdrawa
 
 ECサイトは以下のリンクから
 ※学内専用割引コードをTWINS掲示「…]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AI利用に関する注意喚起]]></title>
-        <id>bb24950ee86cacc2b1ef3deaf56b8742</id>
-        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5998"/>
-        <updated>2025-02-28T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[生成AIを活用する学生の皆様へ
-
-近年、AI技術の進展とともに、多くのオンラインサービスが提供されています。しかしながら、一部のサービスでは、利用者の入力データが意図せず第三者に共有されるリスクが指摘されており、注意が必要です。以下の点に留意し、安全に活用してください。詳しくは添付の通知をご確認ください。
-
-1. データの取り扱いに関するリスク
-インターネット上のサービスでは、入力された情報が外部…]]></summary>
     </entry>
 </feed>

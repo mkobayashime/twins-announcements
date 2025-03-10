@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "7bc8cf0c59a8e6059d65077056f33ab2",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=6019",
+            "title": "キャリア支援チームホームページの不具合解消",
+            "summary": "3/10午前中に発生しておりましたキャリア支援チームホームページの不具合は現在解消され閲覧できるようになりました。\nまた、本日、夜間帯（18時〜24時）に緊急のメンテナンス作業を行うため、一時的に閲覧できなくなる時間帯が発生します。\nご迷惑をお掛けいたしますが、よろしくお願いいたします。",
+            "date_modified": "2025-03-10T03:00:00.000Z"
+        },
+        {
             "id": "86ae681cfaaf9c860a175f78e18d06ee",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=6018",
             "title": "【開催案内】12th Borderless Onsite Meeting “Estonia: Where Medieval Charm Meets Digital Innovation“",
@@ -136,13 +143,6 @@
             "title": "筑波大学公式オリジナルグッズECサイト割引クーポンのお知らせ（3月） 2025/3/1～2025/3/31",
             "summary": "筑波大学公式オリジナルグッズ販売サイト「TSUKUBA-SHOP」3月の割引クーポンコードをお知らせいたします！\n\nクーポンコード　：　tsapr3298n34\n有効期間　：　2025年3月1日～2025年3月31日\n\n\nどうぞご覧いただき、皆様の「日常生活」、「思い出」、「プレゼント🎁」などにご活用いただけますと幸いです。\n\nECサイトは以下のリンクから\n※学内専用割引コードをTWINS掲示「…",
             "date_modified": "2025-03-01T03:00:00.000Z"
-        },
-        {
-            "id": "bb24950ee86cacc2b1ef3deaf56b8742",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5998",
-            "title": "AI利用に関する注意喚起",
-            "summary": "生成AIを活用する学生の皆様へ\n\n近年、AI技術の進展とともに、多くのオンラインサービスが提供されています。しかしながら、一部のサービスでは、利用者の入力データが意図せず第三者に共有されるリスクが指摘されており、注意が必要です。以下の点に留意し、安全に活用してください。詳しくは添付の通知をご確認ください。\n\n1. データの取り扱いに関するリスク\nインターネット上のサービスでは、入力された情報が外部…",
-            "date_modified": "2025-02-28T03:00:00.000Z"
         }
     ]
 }
