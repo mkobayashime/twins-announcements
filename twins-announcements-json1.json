@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "fce00e8c8e3240f97817868548ac2018",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=6016",
+            "title": "キャリア支援チームホームページの不具合について",
+            "summary": "現在、キャリア支援チームのホームページが不具合により閲覧できなくなっております。\n不具合が解消しましたら改めてお知らせいたします。\nご迷惑をお掛けし申し訳ございません。\n\nよろしくお願いいたします。",
+            "date_modified": "2025-03-10T03:00:00.000Z"
+        },
+        {
             "id": "09dd796b92a6fce617a70beda6d1c70f",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=6015",
             "title": "[Notice] Undergraduate / Graduate School Commencement Ceremonies for AY2024",
@@ -135,13 +142,6 @@
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5993",
             "title": "[Library]Notice for Users expiring on 3/31(Graduating Students / Repeating Students / etc. )",
             "summary": "〇Library Service Extension\nThe undergraduate and graduate students who will remain enrolled next year due to repeating a year or other reasons can request continued library access. After completing th…",
-            "date_modified": "2025-02-27T03:00:00.000Z"
-        },
-        {
-            "id": "71b3a9e9ac8e8043f740dc0963642057",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5992",
-            "title": "【Notice】Request for Submission of Pledge for Security Export Control卒業時等安全保障輸出管理に係る誓約書提出のお願い",
-            "summary": "024年度大学院修了予定者（退学等を含む）の皆様へ\nTo students scheduled to complete graduate school in AY2024 (including withdrawals, etc.)\n安全保障に関連する機微技術流出の防止のために、大学院修了時に「外国為替及び外国貿易法」を遵守する誓約書をmanabaから提出していただくことになっています。ご協力をよろ…",
             "date_modified": "2025-02-27T03:00:00.000Z"
         }
     ]
