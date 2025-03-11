@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "d5233452c9ceeddb13cfe97adaaaea8d",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=6022",
+            "title": "【周知】文部科学大臣からの全国の学生へ向けたのメッセージについて",
+            "summary": "文部科学大臣より、新しい環境や学業に不安や悩みを感じている全国の学生へ向けたメッセージが送付されました。添付のホームページへのご案内も掲載されていますので、あわせてご確認ください。\n\n＜参考：厚生労働省や各自治体の相談窓口＞\n○まもろうよこころ（電話相談・SNS相談）\nhttps://www.mhlw.go.jp/mamorouyokokoro/\n○こころもメンテしよう\n～若者を支えるメンタルヘル…",
+            "date_modified": "2025-03-11T03:00:00.000Z"
+        },
+        {
             "id": "e948840dc2cb7922f6980b5487fdc95d",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=6021",
             "title": "急募【単位認定】日本語サポーター募集！（TWINS締切 3/19）",
@@ -71,7 +78,7 @@
             "id": "94017d4a5166d1c9241b4e1cec54c80f",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=6009",
             "title": "【周知】 茨城県より、HPVワクチンキャッチアップ接種についての周知依頼がありましたので、お知らせいたします。",
-            "summary": "体育スポーツ局では、つくばカピオを会場に筑波大学ホームゲーム「TSUKUBA LIVE!」（男子バレーボール）を開催します。\nご友人・ご家族をお誘い合わせの上、ぜひご来場ください。\n\n■開催日時　　2025年3月26日（水）12：50〜16:00予定\n　　開場12:50／開演13:30／14:00試合開始　\n■会場 　　つくばカピオ\n■競技 　　男子バレーボール\n■対戦カード　筑波大学vs中央大学…",
+            "summary": "HPVワクチンキャッチアップ接種期間が令和６年度末までとされているところ、令和７年３月31日までに１回以上接種している方については、令和７年度４月以降も残りの接種を公費で３回受けられることになりました。\n\n　ワクチン接種方法について、ご不明な点がありましたらお住いの市町村へお問い合わせください（以下の県疾病対策課ホームページ参照）。\n\n※対象者：\nキャッチアップ接種対象者（平成９年度生まれ～平成1…",
             "date_modified": "2025-03-06T03:00:00.000Z"
         },
         {
@@ -136,13 +143,6 @@
             "title": "筑波大学公式オリジナルグッズECサイト割引クーポンのお知らせ（3月） 2025/3/1～2025/3/31",
             "summary": "筑波大学公式オリジナルグッズ販売サイト「TSUKUBA-SHOP」3月の割引クーポンコードをお知らせいたします！\n\nクーポンコード　：　tsapr3298n34\n有効期間　：　2025年3月1日～2025年3月31日\n\n\nどうぞご覧いただき、皆様の「日常生活」、「思い出」、「プレゼント🎁」などにご活用いただけますと幸いです。\n\nECサイトは以下のリンクから\n※学内専用割引コードをTWINS掲示「…",
             "date_modified": "2025-03-01T03:00:00.000Z"
-        },
-        {
-            "id": "bb24950ee86cacc2b1ef3deaf56b8742",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=5998",
-            "title": "AI利用に関する注意喚起",
-            "summary": "生成AIを活用する学生の皆様へ\n\n近年、AI技術の進展とともに、多くのオンラインサービスが提供されています。しかしながら、一部のサービスでは、利用者の入力データが意図せず第三者に共有されるリスクが指摘されており、注意が必要です。以下の点に留意し、安全に活用してください。詳しくは添付の通知をご確認ください。\n\n1. データの取り扱いに関するリスク\nインターネット上のサービスでは、入力された情報が外部…",
-            "date_modified": "2025-02-28T03:00:00.000Z"
         }
     ]
 }

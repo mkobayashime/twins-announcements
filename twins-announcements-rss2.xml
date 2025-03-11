@@ -4,10 +4,23 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Mon, 10 Mar 2025 21:07:04 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 11 Mar 2025 08:02:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
+        <item>
+            <title><![CDATA[【周知】文部科学大臣からの全国の学生へ向けたのメッセージについて]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=6022</link>
+            <guid>d5233452c9ceeddb13cfe97adaaaea8d</guid>
+            <pubDate>Tue, 11 Mar 2025 03:00:00 GMT</pubDate>
+            <description><![CDATA[文部科学大臣より、新しい環境や学業に不安や悩みを感じている全国の学生へ向けたメッセージが送付されました。添付のホームページへのご案内も掲載されていますので、あわせてご確認ください。
+
+＜参考：厚生労働省や各自治体の相談窓口＞
+○まもろうよこころ（電話相談・SNS相談）
+https://www.mhlw.go.jp/mamorouyokokoro/
+○こころもメンテしよう
+～若者を支えるメンタルヘル…]]></description>
+        </item>
         <item>
             <title><![CDATA[急募【単位認定】日本語サポーター募集！（TWINS締切 3/19）]]></title>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=6021</link>
@@ -132,14 +145,12 @@ TSUKUBA LIVE!にて以下の運営に従事していただきます。
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=6009</link>
             <guid>94017d4a5166d1c9241b4e1cec54c80f</guid>
             <pubDate>Thu, 06 Mar 2025 03:00:00 GMT</pubDate>
-            <description><![CDATA[体育スポーツ局では、つくばカピオを会場に筑波大学ホームゲーム「TSUKUBA LIVE!」（男子バレーボール）を開催します。
-ご友人・ご家族をお誘い合わせの上、ぜひご来場ください。
+            <description><![CDATA[HPVワクチンキャッチアップ接種期間が令和６年度末までとされているところ、令和７年３月31日までに１回以上接種している方については、令和７年度４月以降も残りの接種を公費で３回受けられることになりました。
 
-■開催日時　　2025年3月26日（水）12：50〜16:00予定
-　　開場12:50／開演13:30／14:00試合開始　
-■会場 　　つくばカピオ
-■競技 　　男子バレーボール
-■対戦カード　筑波大学vs中央大学…]]></description>
+　ワクチン接種方法について、ご不明な点がありましたらお住いの市町村へお問い合わせください（以下の県疾病対策課ホームページ参照）。
+
+※対象者：
+キャッチアップ接種対象者（平成９年度生まれ～平成1…]]></description>
         </item>
         <item>
             <title><![CDATA[【周知】引越時期の分散について]]></title>
@@ -248,18 +259,6 @@ To students scheduled to complete graduate school in AY2024 (including withdrawa
 
 ECサイトは以下のリンクから
 ※学内専用割引コードをTWINS掲示「…]]></description>
-        </item>
-        <item>
-            <title><![CDATA[AI利用に関する注意喚起]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=5998</link>
-            <guid>bb24950ee86cacc2b1ef3deaf56b8742</guid>
-            <pubDate>Fri, 28 Feb 2025 03:00:00 GMT</pubDate>
-            <description><![CDATA[生成AIを活用する学生の皆様へ
-
-近年、AI技術の進展とともに、多くのオンラインサービスが提供されています。しかしながら、一部のサービスでは、利用者の入力データが意図せず第三者に共有されるリスクが指摘されており、注意が必要です。以下の点に留意し、安全に活用してください。詳しくは添付の通知をご確認ください。
-
-1. データの取り扱いに関するリスク
-インターネット上のサービスでは、入力された情報が外部…]]></description>
         </item>
     </channel>
 </rss>
