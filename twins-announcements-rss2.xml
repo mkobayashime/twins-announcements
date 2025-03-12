@@ -4,10 +4,19 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Wed, 12 Mar 2025 09:08:02 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 12 Mar 2025 12:01:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
+        <item>
+            <title><![CDATA[【Warning】Religious Solicitation on University Campus]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=6025</link>
+            <guid>84a8dcd1d1c0099b0bc4188da6403bdc</guid>
+            <pubDate>Wed, 12 Mar 2025 03:00:00 GMT</pubDate>
+            <description><![CDATA[Dear Students
+
+Recently, there has been an increase in the number of unauthorized religious solicitations on campus. For the safety of our students, the University strictly prohibits such activities. …]]></description>
+        </item>
         <item>
             <title><![CDATA[年度末・年度始のTWINSサービス休止のお知らせ／Suspension of TWINS service at the end and beginning of the Academic Year]]></title>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=6024</link>
@@ -238,15 +247,6 @@ Those who have not paid tuition fees AY 2024, the payment slip had been sent…]
         <item>
             <title><![CDATA[【Notice】Request for Submission of Pledge for Security Export Control卒業時等安全保障輸出管理に係る誓約書提出のお願い]]></title>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=6001</link>
-            <guid>71b3a9e9ac8e8043f740dc0963642057</guid>
-            <pubDate>Mon, 03 Mar 2025 03:00:00 GMT</pubDate>
-            <description><![CDATA[2024年度大学院修了予定者（退学等を含む）の皆様へ
-To students scheduled to complete graduate school in AY2024 (including withdrawals, etc.)
-安全保障に関連する機微技術流出の防止のために、大学院修了時に「外国為替及び外国貿易法」を遵守する誓約書をmanabaから提出していただくことになっています。ご協力をよ…]]></description>
-        </item>
-        <item>
-            <title><![CDATA[【Notice】Request for Submission of Pledge for Security Export Control卒業時等安全保障輸出管理に係る誓約書提出のお願い]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=6000</link>
             <guid>71b3a9e9ac8e8043f740dc0963642057</guid>
             <pubDate>Mon, 03 Mar 2025 03:00:00 GMT</pubDate>
             <description><![CDATA[2024年度大学院修了予定者（退学等を含む）の皆様へ
