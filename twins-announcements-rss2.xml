@@ -4,10 +4,23 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Fri, 14 Mar 2025 09:07:52 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 14 Mar 2025 11:01:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
+        <item>
+            <title><![CDATA[「防犯啓発ポスター」作成のお知らせ　/　Notice of the creation of "Crime Prevention Awareness Poster"]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=6029</link>
+            <guid>ee64c99dc5077bdb4c576428f32ee28e</guid>
+            <pubDate>Fri, 14 Mar 2025 03:00:00 GMT</pubDate>
+            <description><![CDATA[学生・教職員　各位
+
+　日頃より構内の防犯・防災対策活動に種々ご協力いただきありがとうございます。
+　この度、学内での防犯意識の醸成に資するため、防犯啓発ポスターを作成いたしました。
+　研究室・事務室内や建物の出入口に掲示するなど、ご活用ください。
+　また、学生・教職員が事件・事故の当事者・発見者となった際の対応フローをまとめました【事件・事故発生時の初期対応マニュアル】も併せてご活用ください。
+…]]></description>
+        </item>
         <item>
             <title><![CDATA[Otsuka Toshimi Scholarship Foundation 2025]]></title>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=6028</link>
@@ -242,15 +255,6 @@ TSUKUBA LIVE!にて以下の運営に従事していただきます。
 
 
 Those who have not paid tuition fees AY 2024, the payment slip had been sent…]]></description>
-        </item>
-        <item>
-            <title><![CDATA[筑波大学「世界を変えよう基金」鈴木奨学金2025年度奨学生募集のお知らせ]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=6003</link>
-            <guid>8a50c58e4d4a6a9a8c0d6527084e6be5</guid>
-            <pubDate>Mon, 03 Mar 2025 03:00:00 GMT</pubDate>
-            <description><![CDATA[筑波大学「世界を変えよう基金」は、2015年12月本学客員教授鈴木英明氏により創設され、大学内外の社会的・文化的ニーズに貢献する活動に従事する筑波大学生に対して資金支援を行っています。
-
-2020年の新型肺炎感染拡大を機に、日本社会・国際社会に将来貢献する意欲を有する学部生に対し、2020年7月から鈴木奨学金（月1.5万円相当)を支給しています。返済は不要ですが、月2回の「鈴木奨学金勉強会」（対面…]]></description>
         </item>
     </channel>
 </rss>

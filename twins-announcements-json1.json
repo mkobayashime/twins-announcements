@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "ee64c99dc5077bdb4c576428f32ee28e",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=6029",
+            "title": "「防犯啓発ポスター」作成のお知らせ　/　Notice of the creation of \"Crime Prevention Awareness Poster\"",
+            "summary": "学生・教職員　各位\n\n　日頃より構内の防犯・防災対策活動に種々ご協力いただきありがとうございます。\n　この度、学内での防犯意識の醸成に資するため、防犯啓発ポスターを作成いたしました。\n　研究室・事務室内や建物の出入口に掲示するなど、ご活用ください。\n　また、学生・教職員が事件・事故の当事者・発見者となった際の対応フローをまとめました【事件・事故発生時の初期対応マニュアル】も併せてご活用ください。\n…",
+            "date_modified": "2025-03-14T03:00:00.000Z"
+        },
+        {
             "id": "ed99205d2f8aafc893a8043ad09cf5d7",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=6028",
             "title": "Otsuka Toshimi Scholarship Foundation 2025",
@@ -136,13 +143,6 @@
             "title": "【重要】2024年度授業料の納入督促について/【Important】 About tuition fees of AY 2024",
             "summary": "2024年度授業料未納者は、「払込取扱票」が送付されているので、再度確認の上、速やかに金融機関窓口にて納付されるようお願いします。\n納付されないときは、本学学則による除籍処分該当者となります。\n\n※本掲示は全ての学生・教員に通知しております。\n\n\nThose who have not paid tuition fees AY 2024, the payment slip had been sent…",
             "date_modified": "2025-03-04T03:00:00.000Z"
-        },
-        {
-            "id": "8a50c58e4d4a6a9a8c0d6527084e6be5",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=6003",
-            "title": "筑波大学「世界を変えよう基金」鈴木奨学金2025年度奨学生募集のお知らせ",
-            "summary": "筑波大学「世界を変えよう基金」は、2015年12月本学客員教授鈴木英明氏により創設され、大学内外の社会的・文化的ニーズに貢献する活動に従事する筑波大学生に対して資金支援を行っています。\n\n2020年の新型肺炎感染拡大を機に、日本社会・国際社会に将来貢献する意欲を有する学部生に対し、2020年7月から鈴木奨学金（月1.5万円相当)を支給しています。返済は不要ですが、月2回の「鈴木奨学金勉強会」（対面…",
-            "date_modified": "2025-03-03T03:00:00.000Z"
         }
     ]
 }
