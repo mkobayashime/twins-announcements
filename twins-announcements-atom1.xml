@@ -2,10 +2,26 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/mkobayashime/twins-announcements</id>
     <title>在学生へのお知らせ | 筑波大学</title>
-    <updated>2025-03-16T21:06:29.791Z</updated>
+    <updated>2025-03-17T01:28:58.822Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://github.com/mkobayashime/twins-announcements"/>
     <subtitle>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</subtitle>
+    <entry>
+        <title type="html"><![CDATA[【参加者募集中】集団面接練習会（チャレンジ実践会）]]></title>
+        <id>088e730ded664a45edca45d1fac99d4a</id>
+        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=6030"/>
+        <updated>2025-03-17T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[就活に即役立つ、集団面接練習会です（GD編は定員に達したため締め切りました）
+対面面接編ではビジネスマナーも学ぶことができます。
+
+就活中の方、ISの選考を受ける方、参加して役立ててください。
+
+BHEキャリア支援チームのファシリテーターからフィードバックがあります。（日本語での開催です）
+【詳細と申込み】
+＜対面＞　 3月19日（水）
+集団面接編　　13：30-15：30
+BHE HP「ガイダン…]]></summary>
+    </entry>
     <entry>
         <title type="html"><![CDATA[「防犯啓発ポスター」作成のお知らせ　/　Notice of the creation of "Crime Prevention Awareness Poster"]]></title>
         <id>ee64c99dc5077bdb4c576428f32ee28e</id>
@@ -244,14 +260,5 @@ TSUKUBA LIVE!にて以下の運営に従事していただきます。
 
 
 Those who have not paid tuition fees AY 2024, the payment slip had been sent…]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[筑波大学「世界を変えよう基金」鈴木奨学金2025年度奨学生募集のお知らせ]]></title>
-        <id>8a50c58e4d4a6a9a8c0d6527084e6be5</id>
-        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=6003"/>
-        <updated>2025-03-03T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[筑波大学「世界を変えよう基金」は、2015年12月本学客員教授鈴木英明氏により創設され、大学内外の社会的・文化的ニーズに貢献する活動に従事する筑波大学生に対して資金支援を行っています。
-
-2020年の新型肺炎感染拡大を機に、日本社会・国際社会に将来貢献する意欲を有する学部生に対し、2020年7月から鈴木奨学金（月1.5万円相当)を支給しています。返済は不要ですが、月2回の「鈴木奨学金勉強会」（対面…]]></summary>
     </entry>
 </feed>
