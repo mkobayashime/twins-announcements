@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "9ddb578bdb8a7444bfce49f85685f453",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=6031",
+            "title": "再掲載【開催案内】第1回 オンラインによる中央アジア・コーカサス映画上映会",
+            "summary": "【開催案内】第1回 オンラインによる中央アジア・コーカサス映画上映会\n\n上映作品：アイスルタン・セイトフ監督『逃げろ』(2022年、120分)　\n＊カザフ語・ロシア語/日本語字幕付き\n\n日時：令和7年3月21日（金）19:00〜22:00\n19:00　Zoom開場　 ※お早めにお入りください\n19:15　作品解説　梶山祐治（筑波大学准教授）\n「映画で歴史の暗部を描くこと─中央アジア映画で描かれる〈…",
+            "date_modified": "2025-03-17T03:00:00.000Z"
+        },
+        {
             "id": "088e730ded664a45edca45d1fac99d4a",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=6030",
             "title": "【参加者募集中】集団面接練習会（チャレンジ実践会）",
@@ -136,13 +143,6 @@
             "title": "2025年度春季SPRING/BOOST新規募集を開始しました。Call for New SPRING ＆BOOST Research Fellowship Students for AY2025.",
             "summary": "2025（令和7）年度の新規研究奨励生（研究奨励費等支給対象学生）の募集を開始しました。SPRINGとBOOST*の同時申請が可能です。\n博士後期課程相当の希望者は下記リンクの募集要項を確認し、計画書を作成の上、筑波大学公募支援システムu-Radにより提出してください。\n\n＊BOOSTは、「AI分野及びAI分野における新興・融合領域（次世代AI分野）」を含む研究に限る。（D1、D2相当のみ応募可）…",
             "date_modified": "2025-03-05T03:00:00.000Z"
-        },
-        {
-            "id": "8ae3319842c6f99eabc9761628967986",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=6006",
-            "title": "【重要】2024年度授業料の納入督促について/【Important】 About tuition fees of AY 2024",
-            "summary": "2024年度授業料未納者は、「払込取扱票」が送付されているので、再度確認の上、速やかに金融機関窓口にて納付されるようお願いします。\n納付されないときは、本学学則による除籍処分該当者となります。\n\n※本掲示は全ての学生・教員に通知しております。\n\n\nThose who have not paid tuition fees AY 2024, the payment slip had been sent…",
-            "date_modified": "2025-03-04T03:00:00.000Z"
         }
     ]
 }

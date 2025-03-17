@@ -4,10 +4,25 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Mon, 17 Mar 2025 01:28:58 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 17 Mar 2025 02:28:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
+        <item>
+            <title><![CDATA[再掲載【開催案内】第1回 オンラインによる中央アジア・コーカサス映画上映会]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=6031</link>
+            <guid>9ddb578bdb8a7444bfce49f85685f453</guid>
+            <pubDate>Mon, 17 Mar 2025 03:00:00 GMT</pubDate>
+            <description><![CDATA[【開催案内】第1回 オンラインによる中央アジア・コーカサス映画上映会
+
+上映作品：アイスルタン・セイトフ監督『逃げろ』(2022年、120分)　
+＊カザフ語・ロシア語/日本語字幕付き
+
+日時：令和7年3月21日（金）19:00〜22:00
+19:00　Zoom開場　 ※お早めにお入りください
+19:15　作品解説　梶山祐治（筑波大学准教授）
+「映画で歴史の暗部を描くこと─中央アジア映画で描かれる〈…]]></description>
+        </item>
         <item>
             <title><![CDATA[【参加者募集中】集団面接練習会（チャレンジ実践会）]]></title>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=6030</link>
@@ -249,19 +264,6 @@ TSUKUBA LIVE!にて以下の運営に従事していただきます。
 博士後期課程相当の希望者は下記リンクの募集要項を確認し、計画書を作成の上、筑波大学公募支援システムu-Radにより提出してください。
 
 ＊BOOSTは、「AI分野及びAI分野における新興・融合領域（次世代AI分野）」を含む研究に限る。（D1、D2相当のみ応募可）…]]></description>
-        </item>
-        <item>
-            <title><![CDATA[【重要】2024年度授業料の納入督促について/【Important】 About tuition fees of AY 2024]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=6006</link>
-            <guid>8ae3319842c6f99eabc9761628967986</guid>
-            <pubDate>Tue, 04 Mar 2025 03:00:00 GMT</pubDate>
-            <description><![CDATA[2024年度授業料未納者は、「払込取扱票」が送付されているので、再度確認の上、速やかに金融機関窓口にて納付されるようお願いします。
-納付されないときは、本学学則による除籍処分該当者となります。
-
-※本掲示は全ての学生・教員に通知しております。
-
-
-Those who have not paid tuition fees AY 2024, the payment slip had been sent…]]></description>
         </item>
     </channel>
 </rss>
