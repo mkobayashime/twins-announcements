@@ -4,10 +4,22 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Mon, 17 Mar 2025 21:07:00 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 18 Mar 2025 00:02:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
+        <item>
+            <title><![CDATA[卒業記念花火の打ち上げについて（お知らせ）]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=6037</link>
+            <guid>379f8df467d4392a7e1d178ecceb8031</guid>
+            <pubDate>Tue, 18 Mar 2025 03:00:00 GMT</pubDate>
+            <description><![CDATA[令和６年度医学類卒業記念謝恩会実行委員会により、卒業記念の一環として学内において花火の打ち上げを予定しております。
+なお、安全のため花火打上場所となる多目的グラウンド内への立ち入りを制限させていただきます。
+学内各所にて、卒業生を祝う大輪の花々をお楽しみください。
+詳細は添付ファイルをご確認下さい。
+＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝
+打上日時：令和7年3月25日（火）1…]]></description>
+        </item>
         <item>
             <title><![CDATA[(BHE)2025年度　公立学校教員採用試験　大学推薦のご案内]]></title>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=6032</link>
@@ -260,16 +272,6 @@ TSUKUBA LIVE!にて以下の運営に従事していただきます。
 
 ※対象者：
 キャッチアップ接種対象者（平成９年度生まれ～平成1…]]></description>
-        </item>
-        <item>
-            <title><![CDATA[【周知】引越時期の分散について]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=6008</link>
-            <guid>7061e6038168eb4cec68e86099edfc3b</guid>
-            <pubDate>Thu, 06 Mar 2025 03:00:00 GMT</pubDate>
-            <description><![CDATA[    文部科学省より、分散引越への協力依頼がありましたので、お知らせいたします。
-
-　引越事業においては、例年3月下旬から4月上旬にかけて引越の依頼が集中しているところ、従来より国土交通省では、引越時期の分散化に向けた周知広報を行っております。
-実際に引越時期を分散した利用者の方々からは「ピーク時より引越代金が安くなった」といった声も上がっているとのことですが、依然として同時期における依頼が集中…]]></description>
         </item>
     </channel>
 </rss>
