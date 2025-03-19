@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "946b96dc6615228830fb36fe2423ec69",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=6045",
+            "title": "卒業祝賀飛行のお知らせ",
+            "summary": "卒業生のみなさんの門出をお祝いするため、岡田昌毅先生（人間系・心理学類）が\n3/25（火）、11:00～11:30の間の約15分間、祝賀飛行を行います。\nキャンパスから、石の広場付近上空をぜひ見上げてください。\n\n詳細は添付ファイルをご覧ください。",
+            "date_modified": "2025-03-19T03:00:00.000Z"
+        },
+        {
             "id": "379f8df467d4392a7e1d178ecceb8031",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=6037",
             "title": "卒業記念花火の打ち上げについて（お知らせ）",
@@ -136,13 +143,6 @@
             "title": "【周知】引越時期の分散について",
             "summary": "    文部科学省より、分散引越への協力依頼がありましたので、お知らせいたします。\n\n　引越事業においては、例年3月下旬から4月上旬にかけて引越の依頼が集中しているところ、従来より国土交通省では、引越時期の分散化に向けた周知広報を行っております。\n実際に引越時期を分散した利用者の方々からは「ピーク時より引越代金が安くなった」といった声も上がっているとのことですが、依然として同時期における依頼が集中…",
             "date_modified": "2025-03-06T03:00:00.000Z"
-        },
-        {
-            "id": "a8a4cefee2cfa01d5d0f56dccc0e6042",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=6007",
-            "title": "2025年度春季SPRING/BOOST新規募集を開始しました。Call for New SPRING ＆BOOST Research Fellowship Students for AY2025.",
-            "summary": "2025（令和7）年度の新規研究奨励生（研究奨励費等支給対象学生）の募集を開始しました。SPRINGとBOOST*の同時申請が可能です。\n博士後期課程相当の希望者は下記リンクの募集要項を確認し、計画書を作成の上、筑波大学公募支援システムu-Radにより提出してください。\n\n＊BOOSTは、「AI分野及びAI分野における新興・融合領域（次世代AI分野）」を含む研究に限る。（D1、D2相当のみ応募可）…",
-            "date_modified": "2025-03-05T03:00:00.000Z"
         }
     ]
 }
