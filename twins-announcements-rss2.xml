@@ -4,10 +4,19 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Wed, 19 Mar 2025 06:01:41 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 19 Mar 2025 08:01:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
+        <item>
+            <title><![CDATA[【周知】【茨城県警察本部生活安全総務課】いばらき防犯ファイルについて]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=6049</link>
+            <guid>76297db2351566babdc5076f5178a31d</guid>
+            <pubDate>Wed, 19 Mar 2025 03:00:00 GMT</pubDate>
+            <description><![CDATA[茨城県警察本部生活安全総務課よりいばらき防犯ファイル（令和7年2月末）の送付がありましたので、添付のとおり掲載いたします。
+本ファイルは、県内で実際に発生した犯罪の情報のほか、防犯対策に役立つ情報が含まれております。ご自身の安全のためにも、ぜひご確認ください。
+]]></description>
+        </item>
         <item>
             <title><![CDATA[【見逃し配信】化学物質管理講習会]]></title>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=6048</link>
@@ -253,23 +262,6 @@ attached file.]]></description>
 19:00　Zoom開場　 ※お早めにお入りください
 19:15　作品解説　梶山祐治（筑波大学准教授）
 「映画で歴史の暗部を描くこと─中央アジア映画で描かれる〈…]]></description>
-        </item>
-        <item>
-            <title><![CDATA[【スポーツイベントスタッフ募集】筑波大学ホームゲーム「TSUKUBA LIVE!」（男子バレーボール）]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=6011</link>
-            <guid>056f71c2a6b25844919a7cc6c73a0b78</guid>
-            <pubDate>Fri, 07 Mar 2025 03:00:00 GMT</pubDate>
-            <description><![CDATA[2025年3月26日（水）つくばカピオ（茨城県つくば市）にて開催される筑波大学ホームゲーム「TSUKUBA LIVE!」（男子バレーボール）で、ボランティアとして従事していただく当日スタッフを募集します。
-
-【募集要項】
-
-＜内容＞
-TSUKUBA LIVE!にて以下の運営に従事していただきます。
-
-
-【時間】
-＜会場設営＞25日（火）13:00〜18:00／26日（水）8:00〜9:00
-＜当日…]]></description>
         </item>
     </channel>
 </rss>
