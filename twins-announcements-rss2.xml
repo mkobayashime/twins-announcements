@@ -4,10 +4,27 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Wed, 19 Mar 2025 05:01:42 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 19 Mar 2025 06:01:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
+        <item>
+            <title><![CDATA[【見逃し配信】化学物質管理講習会]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=6048</link>
+            <guid>bccd22dbaec55ba25341ad6a35dec435</guid>
+            <pubDate>Wed, 19 Mar 2025 03:00:00 GMT</pubDate>
+            <description><![CDATA[令和７年３月１０日（月）に開催しました化学物質管理講習会（旧薬品・高圧ガス管理システム（CRIS）説明会）の見逃し配信を下記のとおり行います。
+なお、英語の動画は現在準備中で、４月中に掲載予定です。
+
+　　　　　　　　　　　　　　　　　　　　　　記
+
+１．内 容
+　　・試薬及び高圧ガス管理強化について（22分3秒）
+　　・CRISの使用方法と棚卸（21分52秒）
+
+２．対象者
+　　危険物管理責任者…]]></description>
+        </item>
         <item>
             <title><![CDATA[【令和6年度卒業･修了予定者の皆様へ】「進路進捗状況届」登録のお願い]]></title>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=6047</link>
@@ -253,20 +270,6 @@ TSUKUBA LIVE!にて以下の運営に従事していただきます。
 【時間】
 ＜会場設営＞25日（火）13:00〜18:00／26日（水）8:00〜9:00
 ＜当日…]]></description>
-        </item>
-        <item>
-            <title><![CDATA[【開催案内】筑波大学ホームゲーム「TSUKUBA LIVE!」（男子バレーボール）を開催します（3月26日）]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=6010</link>
-            <guid>303c63b2a59e84002cd8f0b048e0ac67</guid>
-            <pubDate>Fri, 07 Mar 2025 03:00:00 GMT</pubDate>
-            <description><![CDATA[体育スポーツ局では、つくばカピオを会場に筑波大学ホームゲーム「TSUKUBA LIVE!」（男子バレーボール）を開催します。
-ご友人・ご家族をお誘い合わせの上、ぜひご来場ください。
-
-■開催日時　　2025年3月26日（水）12：50〜16:00予定
-　　開場12:50／開演13:30／14:00試合開始　
-■会場 　　つくばカピオ
-■競技 　　男子バレーボール
-■対戦カード　筑波大学vs中央大学…]]></description>
         </item>
     </channel>
 </rss>
