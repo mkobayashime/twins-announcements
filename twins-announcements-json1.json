@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "98310cd28c538b6cd07348c8007561c9",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=6047",
+            "title": "【令和6年度卒業･修了予定者の皆様へ】「進路進捗状況届」登録のお願い",
+            "summary": "学群・大学院の最終年次に在籍している全学生を対象に、自身の進路を届け出る「進路進捗状況届」の登録をお願いしています。\n就職・進学に限らず、資格試験等準備、職務復帰、家事手伝い、留年、帰国などすべての進路先が対象です。\n卒業・修了後の進路が決まりましたら、キャリア支援チームWebサイト内「進路進捗状況届」から進路を入力のうえ、決定処理をしてください。\nなお、決定処理は複数の進路先を入力されている場合…",
+            "date_modified": "2025-03-19T03:00:00.000Z"
+        },
+        {
             "id": "8df1da2fdfa7e22a0fd79cb96fb82cd6",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=6046",
             "title": "【周知】HPVワクチン学内キャッチアップ接種の予約方法について",
@@ -136,13 +143,6 @@
             "title": "【開催案内】筑波大学ホームゲーム「TSUKUBA LIVE!」（男子バレーボール）を開催します（3月26日）",
             "summary": "体育スポーツ局では、つくばカピオを会場に筑波大学ホームゲーム「TSUKUBA LIVE!」（男子バレーボール）を開催します。\nご友人・ご家族をお誘い合わせの上、ぜひご来場ください。\n\n■開催日時　　2025年3月26日（水）12：50〜16:00予定\n　　開場12:50／開演13:30／14:00試合開始　\n■会場 　　つくばカピオ\n■競技 　　男子バレーボール\n■対戦カード　筑波大学vs中央大学…",
             "date_modified": "2025-03-07T03:00:00.000Z"
-        },
-        {
-            "id": "94017d4a5166d1c9241b4e1cec54c80f",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=6009",
-            "title": "【周知】 茨城県より、HPVワクチンキャッチアップ接種についての周知依頼がありましたので、お知らせいたします。",
-            "summary": "HPVワクチンキャッチアップ接種期間が令和６年度末までとされているところ、令和７年３月31日までに１回以上接種している方については、令和７年度４月以降も残りの接種を公費で３回受けられることになりました。\n\n　ワクチン接種方法について、ご不明な点がありましたらお住いの市町村へお問い合わせください（以下の県疾病対策課ホームページ参照）。\n\n※対象者：\nキャッチアップ接種対象者（平成９年度生まれ～平成1…",
-            "date_modified": "2025-03-06T03:00:00.000Z"
         }
     ]
 }

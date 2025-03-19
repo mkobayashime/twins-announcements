@@ -4,10 +4,20 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Wed, 19 Mar 2025 03:11:12 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 19 Mar 2025 05:01:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
+        <item>
+            <title><![CDATA[【令和6年度卒業･修了予定者の皆様へ】「進路進捗状況届」登録のお願い]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=6047</link>
+            <guid>98310cd28c538b6cd07348c8007561c9</guid>
+            <pubDate>Wed, 19 Mar 2025 03:00:00 GMT</pubDate>
+            <description><![CDATA[学群・大学院の最終年次に在籍している全学生を対象に、自身の進路を届け出る「進路進捗状況届」の登録をお願いしています。
+就職・進学に限らず、資格試験等準備、職務復帰、家事手伝い、留年、帰国などすべての進路先が対象です。
+卒業・修了後の進路が決まりましたら、キャリア支援チームWebサイト内「進路進捗状況届」から進路を入力のうえ、決定処理をしてください。
+なお、決定処理は複数の進路先を入力されている場合…]]></description>
+        </item>
         <item>
             <title><![CDATA[【周知】HPVワクチン学内キャッチアップ接種の予約方法について]]></title>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=6046</link>
@@ -257,18 +267,6 @@ TSUKUBA LIVE!にて以下の運営に従事していただきます。
 ■会場 　　つくばカピオ
 ■競技 　　男子バレーボール
 ■対戦カード　筑波大学vs中央大学…]]></description>
-        </item>
-        <item>
-            <title><![CDATA[【周知】 茨城県より、HPVワクチンキャッチアップ接種についての周知依頼がありましたので、お知らせいたします。]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=6009</link>
-            <guid>94017d4a5166d1c9241b4e1cec54c80f</guid>
-            <pubDate>Thu, 06 Mar 2025 03:00:00 GMT</pubDate>
-            <description><![CDATA[HPVワクチンキャッチアップ接種期間が令和６年度末までとされているところ、令和７年３月31日までに１回以上接種している方については、令和７年度４月以降も残りの接種を公費で３回受けられることになりました。
-
-　ワクチン接種方法について、ご不明な点がありましたらお住いの市町村へお問い合わせください（以下の県疾病対策課ホームページ参照）。
-
-※対象者：
-キャッチアップ接種対象者（平成９年度生まれ～平成1…]]></description>
         </item>
     </channel>
 </rss>
