@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/mkobayashime/twins-announcements</id>
     <title>在学生へのお知らせ | 筑波大学</title>
-    <updated>2025-03-19T11:01:33.645Z</updated>
+    <updated>2025-03-19T15:07:55.784Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://github.com/mkobayashime/twins-announcements"/>
     <subtitle>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</subtitle>
@@ -67,15 +67,10 @@ This time, we will invite the Vice President and Director of International Affai
         <id>8df1da2fdfa7e22a0fd79cb96fb82cd6</id>
         <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=6046"/>
         <updated>2025-03-19T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[現在HPVワクチン予約システムが使用できない状況が続いています。
-初回接種を希望する学生の学内接種日は、3月29日(土)が最終日となります。
-※学内で初回接種済みの方は4月以降も2回目、3回目接種が可能です。
-
-予約を希望する方は、以下のリンクより予約が可能です。
-forms.office.com/r/snQNy08hB1?origin=lprLink
-
-
-接種対象者、接種期間及び予約方法等の詳細…]]></summary>
+        <summary type="html"><![CDATA[学群・大学院の最終年次に在籍している全学生を対象に、自身の進路を届け出る「進路進捗状況届」の登録をお願いしています。
+就職・進学に限らず、資格試験等準備、職務復帰、家事手伝い、留年、帰国などすべての進路先が対象です。
+卒業・修了後の進路が決まりましたら、キャリア支援チームWebサイト内「進路進捗状況届」から進路を入力のうえ、決定処理をしてください。
+なお、決定処理は複数の進路先を入力されている場合…]]></summary>
     </entry>
     <entry>
         <title type="html"><![CDATA[卒業祝賀飛行のお知らせ]]></title>
@@ -93,12 +88,11 @@ forms.office.com/r/snQNy08hB1?origin=lprLink
         <id>379f8df467d4392a7e1d178ecceb8031</id>
         <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=6037"/>
         <updated>2025-03-18T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[令和６年度医学類卒業記念謝恩会実行委員会により、卒業記念の一環として学内において花火の打ち上げを予定しております。
-なお、安全のため花火打上場所となる多目的グラウンド内への立ち入りを制限させていただきます。
-学内各所にて、卒業生を祝う大輪の花々をお楽しみください。
-詳細は添付ファイルをご確認下さい。
-＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝
-打上日時：令和7年3月25日（火）1…]]></summary>
+        <summary type="html"><![CDATA[卒業生のみなさんの門出をお祝いするため、岡田昌毅先生（人間系・心理学類）が
+3/25（火）、11:00～11:30の間の約15分間、祝賀飛行を行います。
+キャンパスから、石の広場付近上空をぜひ見上げてください。
+
+詳細は添付ファイルをご覧ください。]]></summary>
     </entry>
     <entry>
         <title type="html"><![CDATA[(BHE)2025年度　公立学校教員採用試験　大学推薦のご案内]]></title>
