@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/mkobayashime/twins-announcements</id>
     <title>在学生へのお知らせ | 筑波大学</title>
-    <updated>2025-03-20T21:07:03.827Z</updated>
+    <updated>2025-03-21T09:07:50.387Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://github.com/mkobayashime/twins-announcements"/>
     <subtitle>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</subtitle>
+    <entry>
+        <title type="html"><![CDATA[【27卒28卒】就活＆インターンシップオンラインガイダンス　【基礎編】【応用編】]]></title>
+        <id>435e34b44839f68ed47709549d8902d8</id>
+        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=6052"/>
+        <updated>2025-03-21T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[就活＆インターンシップオンラインガイダンスを2回にわたって開催します。
+インターンシップの基礎知識や必要な準備から企業選び、人気のインターンシップ選考対策までマイナビのキャリアサポーターやマイナビの元採用コンサルタントが解説いたします。
+インターンシップは企業や働くことを知る第1歩です。就活生の方はもちろん、そうでない方もぜひご参加ください。
+
+①【基礎編】就職活動やインターンシップのポイントを知…]]></summary>
+    </entry>
     <entry>
         <title type="html"><![CDATA[University-wide FD/SD Seminar: Guest Lecture from The Ohio State University]]></title>
         <id>89ec9ec5ab31a89c41f4c6d50a837cc3</id>
@@ -19,12 +30,8 @@ This time, we will invite the Vice President and Director of International Affai
         <id>a9327aa72770d4bc7b096e3b9c7e84f8</id>
         <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=6050"/>
         <updated>2025-03-19T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[この度、以下の通り、全学FD/SDセミナーを実施いたします。
-今回は、オハイオ州立大学国際担当副学長およびディレクターを講師に招いて講演を行い、大学の国際連携と社会への影響について学びます。
-
-・日時：2025年3月27日（木）13:30～14:30
-・講師：Dr. Kaya Sahin — オハイオ州立大学グローバル戦略・国際担当副学長・教授
-         　  Dr. Rita Korya…]]></summary>
+        <summary type="html"><![CDATA[We will be holding a university-wide FD/SD seminar as follows.
+This time, we will invite the Vice President and Director of International Affairs of Ohio State University to give a lecture and learn a…]]></summary>
     </entry>
     <entry>
         <title type="html"><![CDATA[【周知】【茨城県警察本部生活安全総務課】いばらき防犯ファイルについて]]></title>
@@ -243,13 +250,5 @@ https://www.mhlw.go.jp/mamorouyokokoro/
         <summary type="html"><![CDATA[To Graduating Students
 Undergraduate and Graduate School Commencement Ceremonies for AY2024 will be held as shown in the
 attached file.]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【お知らせ】令和6年度卒業式・学位記授与式の開催について]]></title>
-        <id>3ffb7f67e67da2ca9781d8b88948c219</id>
-        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=6014"/>
-        <updated>2025-03-07T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[卒業生・修了生　各位
-令和6年度卒業式・学位記授与式を添付ファイルのとおり挙行いたしますので、お知らせします。]]></summary>
     </entry>
 </feed>

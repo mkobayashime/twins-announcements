@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "435e34b44839f68ed47709549d8902d8",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=6052",
+            "title": "【27卒28卒】就活＆インターンシップオンラインガイダンス　【基礎編】【応用編】",
+            "summary": "就活＆インターンシップオンラインガイダンスを2回にわたって開催します。\nインターンシップの基礎知識や必要な準備から企業選び、人気のインターンシップ選考対策までマイナビのキャリアサポーターやマイナビの元採用コンサルタントが解説いたします。\nインターンシップは企業や働くことを知る第1歩です。就活生の方はもちろん、そうでない方もぜひご参加ください。\n\n①【基礎編】就職活動やインターンシップのポイントを知…",
+            "date_modified": "2025-03-21T03:00:00.000Z"
+        },
+        {
             "id": "89ec9ec5ab31a89c41f4c6d50a837cc3",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=6051",
             "title": "University-wide FD/SD Seminar: Guest Lecture from The Ohio State University",
@@ -15,7 +22,7 @@
             "id": "a9327aa72770d4bc7b096e3b9c7e84f8",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=6050",
             "title": "全学FD/SDセミナー オハイオ州立大学による特別講演について",
-            "summary": "この度、以下の通り、全学FD/SDセミナーを実施いたします。\n今回は、オハイオ州立大学国際担当副学長およびディレクターを講師に招いて講演を行い、大学の国際連携と社会への影響について学びます。\n\n・日時：2025年3月27日（木）13:30～14:30\n・講師：Dr. Kaya Sahin — オハイオ州立大学グローバル戦略・国際担当副学長・教授\n         　  Dr. Rita Korya…",
+            "summary": "We will be holding a university-wide FD/SD seminar as follows.\nThis time, we will invite the Vice President and Director of International Affairs of Ohio State University to give a lecture and learn a…",
             "date_modified": "2025-03-19T03:00:00.000Z"
         },
         {
@@ -135,13 +142,6 @@
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=6015",
             "title": "[Notice] Undergraduate / Graduate School Commencement Ceremonies for AY2024",
             "summary": "To Graduating Students\nUndergraduate and Graduate School Commencement Ceremonies for AY2024 will be held as shown in the\nattached file.",
-            "date_modified": "2025-03-07T03:00:00.000Z"
-        },
-        {
-            "id": "3ffb7f67e67da2ca9781d8b88948c219",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=6014",
-            "title": "【お知らせ】令和6年度卒業式・学位記授与式の開催について",
-            "summary": "卒業生・修了生　各位\n令和6年度卒業式・学位記授与式を添付ファイルのとおり挙行いたしますので、お知らせします。",
             "date_modified": "2025-03-07T03:00:00.000Z"
         }
     ]
