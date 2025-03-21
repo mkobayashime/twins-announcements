@@ -4,7 +4,7 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Fri, 21 Mar 2025 09:07:50 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 21 Mar 2025 15:07:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
@@ -32,8 +32,12 @@ This time, we will invite the Vice President and Director of International Affai
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=6050</link>
             <guid>a9327aa72770d4bc7b096e3b9c7e84f8</guid>
             <pubDate>Wed, 19 Mar 2025 03:00:00 GMT</pubDate>
-            <description><![CDATA[We will be holding a university-wide FD/SD seminar as follows.
-This time, we will invite the Vice President and Director of International Affairs of Ohio State University to give a lecture and learn a…]]></description>
+            <description><![CDATA[この度、以下の通り、全学FD/SDセミナーを実施いたします。
+今回は、オハイオ州立大学国際担当副学長およびディレクターを講師に招いて講演を行い、大学の国際連携と社会への影響について学びます。
+
+・日時：2025年3月27日（木）13:30～14:30
+・講師：Dr. Kaya Sahin — オハイオ州立大学グローバル戦略・国際担当副学長・教授
+         　  Dr. Rita Korya…]]></description>
         </item>
         <item>
             <title><![CDATA[【周知】【茨城県警察本部生活安全総務課】いばらき防犯ファイルについて]]></title>
@@ -126,21 +130,6 @@ forms.office.com/r/snQNy08hB1?origin=lprLink
 https://syushoku.sec.tsukuba.ac.jp/pl…]]></description>
         </item>
         <item>
-            <title><![CDATA[再掲載【開催案内】第1回 オンラインによる中央アジア・コーカサス映画上映会]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=6031</link>
-            <guid>9ddb578bdb8a7444bfce49f85685f453</guid>
-            <pubDate>Mon, 17 Mar 2025 03:00:00 GMT</pubDate>
-            <description><![CDATA[【開催案内】第1回 オンラインによる中央アジア・コーカサス映画上映会
-
-上映作品：アイスルタン・セイトフ監督『逃げろ』(2022年、120分)　
-＊カザフ語・ロシア語/日本語字幕付き
-
-日時：令和7年3月21日（金）19:00〜22:00
-19:00　Zoom開場　 ※お早めにお入りください
-19:15　作品解説　梶山祐治（筑波大学准教授）
-「映画で歴史の暗部を描くこと─中央アジア映画で描かれる〈…]]></description>
-        </item>
-        <item>
             <title><![CDATA[「防犯啓発ポスター」作成のお知らせ　/　Notice of the creation of "Crime Prevention Awareness Poster"]]></title>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=6029</link>
             <guid>ee64c99dc5077bdb4c576428f32ee28e</guid>
@@ -209,14 +198,9 @@ Recently, there has been an increase in the number of unauthorized religious sol
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=6024</link>
             <guid>7029b620893465d0cacadf36bfc07005</guid>
             <pubDate>Wed, 12 Mar 2025 03:00:00 GMT</pubDate>
-            <description><![CDATA[TWINSの年度更新作業のため、下記の期間TWINSによる各種サービスを休止します。
-この間、成績照会や証明書の発行も行うことができません。
-ご不便をおかけしますが、ご協力をお願いします。
-TWINS・KdB運転休止期間：
-令和７年３月28日(金)８時から　４月１日(火)まで
-※１日は動作確認が完了次第復旧いたします。
+            <description><![CDATA[Dear Students
 
-Due to annual updates, various service…]]></description>
+Recently, there has been an increase in the number of unauthorized religious solicitations on campus. For the safety of our students, the University strictly prohibits such activities. …]]></description>
         </item>
         <item>
             <title><![CDATA[【周知】文部科学大臣からの全国の学生へ向けたのメッセージについて]]></title>
@@ -252,6 +236,14 @@ https://www.mhlw.go.jp/mamorouyokokoro/
             <description><![CDATA[To Graduating Students
 Undergraduate and Graduate School Commencement Ceremonies for AY2024 will be held as shown in the
 attached file.]]></description>
+        </item>
+        <item>
+            <title><![CDATA[【お知らせ】令和6年度卒業式・学位記授与式の開催について]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=6014</link>
+            <guid>3ffb7f67e67da2ca9781d8b88948c219</guid>
+            <pubDate>Fri, 07 Mar 2025 03:00:00 GMT</pubDate>
+            <description><![CDATA[卒業生・修了生　各位
+令和6年度卒業式・学位記授与式を添付ファイルのとおり挙行いたしますので、お知らせします。]]></description>
         </item>
     </channel>
 </rss>
