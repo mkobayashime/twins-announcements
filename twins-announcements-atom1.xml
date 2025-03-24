@@ -2,10 +2,17 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/mkobayashime/twins-announcements</id>
     <title>在学生へのお知らせ | 筑波大学</title>
-    <updated>2025-03-23T21:06:28.356Z</updated>
+    <updated>2025-03-24T01:29:04.114Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://github.com/mkobayashime/twins-announcements"/>
     <subtitle>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</subtitle>
+    <entry>
+        <title type="html"><![CDATA[2025年度（第17期）官民協働海外留学支援制度～トビタテ！留学JAPAN新・日本代表プログラム～【新大学１年生】の募集について（学内締切：2025年4月14日（月）17時）]]></title>
+        <id>410a43dccb901af1ec9074b54075193a</id>
+        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=6053"/>
+        <updated>2025-03-24T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[2025年度（第17期）官民協働海外留学支援制度～トビタテ！留学JAPAN新・日本代表プログラム～【新大学1年生】の募集につき、ご案内いたします。座学だけでなく、インターンシップや実習、ボランティア等の実践活動を含む留学計画が支援対象であり、留学の成果を積極的に社会に発信することが求められます。申請希望者は募集要項にて要件を確認の上、2025年4月14日（月）17時までに、応募申請システム（ガクシ…]]></summary>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【27卒28卒】就活＆インターンシップオンラインガイダンス　【基礎編】【応用編】]]></title>
         <id>435e34b44839f68ed47709549d8902d8</id>
@@ -239,13 +246,5 @@ https://www.mhlw.go.jp/mamorouyokokoro/
         <summary type="html"><![CDATA[To Graduating Students
 Undergraduate and Graduate School Commencement Ceremonies for AY2024 will be held as shown in the
 attached file.]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【お知らせ】令和6年度卒業式・学位記授与式の開催について]]></title>
-        <id>3ffb7f67e67da2ca9781d8b88948c219</id>
-        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=6014"/>
-        <updated>2025-03-07T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[卒業生・修了生　各位
-令和6年度卒業式・学位記授与式を添付ファイルのとおり挙行いたしますので、お知らせします。]]></summary>
     </entry>
 </feed>

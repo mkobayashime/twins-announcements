@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "410a43dccb901af1ec9074b54075193a",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=6053",
+            "title": "2025年度（第17期）官民協働海外留学支援制度～トビタテ！留学JAPAN新・日本代表プログラム～【新大学１年生】の募集について（学内締切：2025年4月14日（月）17時）",
+            "summary": "2025年度（第17期）官民協働海外留学支援制度～トビタテ！留学JAPAN新・日本代表プログラム～【新大学1年生】の募集につき、ご案内いたします。座学だけでなく、インターンシップや実習、ボランティア等の実践活動を含む留学計画が支援対象であり、留学の成果を積極的に社会に発信することが求められます。申請希望者は募集要項にて要件を確認の上、2025年4月14日（月）17時までに、応募申請システム（ガクシ…",
+            "date_modified": "2025-03-24T03:00:00.000Z"
+        },
+        {
             "id": "435e34b44839f68ed47709549d8902d8",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=6052",
             "title": "【27卒28卒】就活＆インターンシップオンラインガイダンス　【基礎編】【応用編】",
@@ -135,13 +142,6 @@
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=6015",
             "title": "[Notice] Undergraduate / Graduate School Commencement Ceremonies for AY2024",
             "summary": "To Graduating Students\nUndergraduate and Graduate School Commencement Ceremonies for AY2024 will be held as shown in the\nattached file.",
-            "date_modified": "2025-03-07T03:00:00.000Z"
-        },
-        {
-            "id": "3ffb7f67e67da2ca9781d8b88948c219",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=6014",
-            "title": "【お知らせ】令和6年度卒業式・学位記授与式の開催について",
-            "summary": "卒業生・修了生　各位\n令和6年度卒業式・学位記授与式を添付ファイルのとおり挙行いたしますので、お知らせします。",
             "date_modified": "2025-03-07T03:00:00.000Z"
         }
     ]
