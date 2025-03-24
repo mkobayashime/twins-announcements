@@ -4,10 +4,22 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Mon, 24 Mar 2025 01:29:04 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 24 Mar 2025 02:29:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
+        <item>
+            <title><![CDATA[サーバー更新作業に伴うキャリア支援チームHP及び就職情報提供システム停止のお知らせ]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=6054</link>
+            <guid>f7e5c4dc1ece4147cbde4ed3df16263e</guid>
+            <pubDate>Mon, 24 Mar 2025 03:00:00 GMT</pubDate>
+            <description><![CDATA[サーバー更新作業に伴い、下記の時間、キャリア支援チームホームページ等へ繋がりにくくなります。
+【作業日時】3/25（火）10：00　～　12：15（予定）
+　　　　　　3/26（水）  9：00　～　12：15（予定）
+
+なお、サーバー更新作業中は、「学内専用ページ」、「ガイダンス等及び模試試験登録・申請」、「進路進捗状況届」へのアクセスはできません。
+皆様にはご迷惑をおかけいたしますが、ご理解、…]]></description>
+        </item>
         <item>
             <title><![CDATA[2025年度（第17期）官民協働海外留学支援制度～トビタテ！留学JAPAN新・日本代表プログラム～【新大学１年生】の募集について（学内締切：2025年4月14日（月）17時）]]></title>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=6053</link>
@@ -239,15 +251,6 @@ https://www.mhlw.go.jp/mamorouyokokoro/
 
 日本語サポーターとして活動するには、下記の授業を履修し、研修を受講してください。
 ・科目番号：AE…]]></description>
-        </item>
-        <item>
-            <title><![CDATA[[Notice] Undergraduate / Graduate School Commencement Ceremonies for AY2024]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=6015</link>
-            <guid>09dd796b92a6fce617a70beda6d1c70f</guid>
-            <pubDate>Fri, 07 Mar 2025 03:00:00 GMT</pubDate>
-            <description><![CDATA[To Graduating Students
-Undergraduate and Graduate School Commencement Ceremonies for AY2024 will be held as shown in the
-attached file.]]></description>
         </item>
     </channel>
 </rss>
