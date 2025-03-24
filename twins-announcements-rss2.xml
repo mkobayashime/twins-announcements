@@ -4,10 +4,26 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Mon, 24 Mar 2025 02:29:14 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 24 Mar 2025 03:15:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
+        <item>
+            <title><![CDATA[(BHE)3月28日開催　(BHE)26年度以降受験予定者対象　学内公務員試験対策講座]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=6055</link>
+            <guid>9d68ab6036b288945ef3498053210de3</guid>
+            <pubDate>Mon, 24 Mar 2025 03:00:00 GMT</pubDate>
+            <description><![CDATA[26年度以降に公務員試験の受験を考えている方を対象に公務員試験対策講座を開催します。
+26年度以降に公務員試験の受験を検討している方はぜひご参加ください。
+
+〇2026年以降受験予定者対象　公務員試験対策講座
+「進路を考える　公務員になるという選択」
+日時：3月28日（金）　13：00-14：30
+手法：オンライン
+講師：LEC専任講師　大野純一先生
+詳細・申込：下記URL2つ目
+]]></description>
+        </item>
         <item>
             <title><![CDATA[サーバー更新作業に伴うキャリア支援チームHP及び就職情報提供システム停止のお知らせ]]></title>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=6054</link>
@@ -238,19 +254,6 @@ Due to annual updates, various service…]]></description>
 https://www.mhlw.go.jp/mamorouyokokoro/
 ○こころもメンテしよう
 ～若者を支えるメンタルヘル…]]></description>
-        </item>
-        <item>
-            <title><![CDATA[急募【単位認定】日本語サポーター募集！（TWINS締切 3/19）]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=6021</link>
-            <guid>e948840dc2cb7922f6980b5487fdc95d</guid>
-            <pubDate>Mon, 10 Mar 2025 03:00:00 GMT</pubDate>
-            <description><![CDATA[茨城県の小中学校と連携して、外国にルーツのある子どもたちに日本語学習や教科学習をサポートする
-「日本語サポーター」を募集します。
-来年度、授業の空き時間を利用して活動することができ、通年を通した活動で3単位が認定されます。
-学類や専門は問いません。自分の得意分野を活かして一緒に活動してみませんか。
-
-日本語サポーターとして活動するには、下記の授業を履修し、研修を受講してください。
-・科目番号：AE…]]></description>
         </item>
     </channel>
 </rss>
