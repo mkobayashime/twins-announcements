@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/mkobayashime/twins-announcements</id>
     <title>在学生へのお知らせ | 筑波大学</title>
-    <updated>2025-03-25T03:12:58.109Z</updated>
+    <updated>2025-03-25T06:01:57.935Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://github.com/mkobayashime/twins-announcements"/>
     <subtitle>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</subtitle>
+    <entry>
+        <title type="html"><![CDATA[【学生・教職員ボランティア募集】Tokyo Pride 2025]]></title>
+        <id>18f62c1d42bc23c1a1d5eba30f4c70c9</id>
+        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=6057"/>
+        <updated>2025-03-25T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[筑波大学ヒューマンエンパワーメント推進局（BHE）は2025年6月7日（土）・6月8日（日）に開催される、Tokyo Pride 2025にブース出展を行います。
+そこで、ブース出展の手伝いをお願いできる学生・教職員ボランティアを募集します。
+具体的な内容は以下の通りです。
+
+概要
+■日時：2025年6月7日（土）、8日（日）
+※ボランティアはいずれか1日だけや、一部の時間だけの参加でも構いません…]]></summary>
+    </entry>
     <entry>
         <title type="html"><![CDATA[（茗渓会）4月ぶっちゃけ相談会のご案内]]></title>
         <id>037b42b5a0887f75ba8f01a31d41c127</id>
@@ -241,19 +254,5 @@ Application Period:
         <summary type="html"><![CDATA[Dear Students
 
 Recently, there has been an increase in the number of unauthorized religious solicitations on campus. For the safety of our students, the University strictly prohibits such activities. …]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[年度末・年度始のTWINSサービス休止のお知らせ／Suspension of TWINS service at the end and beginning of the Academic Year]]></title>
-        <id>7029b620893465d0cacadf36bfc07005</id>
-        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=6024"/>
-        <updated>2025-03-12T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[TWINSの年度更新作業のため、下記の期間TWINSによる各種サービスを休止します。
-この間、成績照会や証明書の発行も行うことができません。
-ご不便をおかけしますが、ご協力をお願いします。
-TWINS・KdB運転休止期間：
-令和７年３月28日(金)８時から　４月１日(火)まで
-※１日は動作確認が完了次第復旧いたします。
-
-Due to annual updates, various service…]]></summary>
     </entry>
 </feed>

@@ -4,10 +4,23 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Tue, 25 Mar 2025 03:12:58 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 25 Mar 2025 06:01:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
+        <item>
+            <title><![CDATA[【学生・教職員ボランティア募集】Tokyo Pride 2025]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=6057</link>
+            <guid>18f62c1d42bc23c1a1d5eba30f4c70c9</guid>
+            <pubDate>Tue, 25 Mar 2025 03:00:00 GMT</pubDate>
+            <description><![CDATA[筑波大学ヒューマンエンパワーメント推進局（BHE）は2025年6月7日（土）・6月8日（日）に開催される、Tokyo Pride 2025にブース出展を行います。
+そこで、ブース出展の手伝いをお願いできる学生・教職員ボランティアを募集します。
+具体的な内容は以下の通りです。
+
+概要
+■日時：2025年6月7日（土）、8日（日）
+※ボランティアはいずれか1日だけや、一部の時間だけの参加でも構いません…]]></description>
+        </item>
         <item>
             <title><![CDATA[（茗渓会）4月ぶっちゃけ相談会のご案内]]></title>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=6056</link>
@@ -243,20 +256,6 @@ Application Period:
             <description><![CDATA[Dear Students
 
 Recently, there has been an increase in the number of unauthorized religious solicitations on campus. For the safety of our students, the University strictly prohibits such activities. …]]></description>
-        </item>
-        <item>
-            <title><![CDATA[年度末・年度始のTWINSサービス休止のお知らせ／Suspension of TWINS service at the end and beginning of the Academic Year]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=6024</link>
-            <guid>7029b620893465d0cacadf36bfc07005</guid>
-            <pubDate>Wed, 12 Mar 2025 03:00:00 GMT</pubDate>
-            <description><![CDATA[TWINSの年度更新作業のため、下記の期間TWINSによる各種サービスを休止します。
-この間、成績照会や証明書の発行も行うことができません。
-ご不便をおかけしますが、ご協力をお願いします。
-TWINS・KdB運転休止期間：
-令和７年３月28日(金)８時から　４月１日(火)まで
-※１日は動作確認が完了次第復旧いたします。
-
-Due to annual updates, various service…]]></description>
         </item>
     </channel>
 </rss>

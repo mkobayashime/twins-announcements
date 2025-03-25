@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "18f62c1d42bc23c1a1d5eba30f4c70c9",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=6057",
+            "title": "【学生・教職員ボランティア募集】Tokyo Pride 2025",
+            "summary": "筑波大学ヒューマンエンパワーメント推進局（BHE）は2025年6月7日（土）・6月8日（日）に開催される、Tokyo Pride 2025にブース出展を行います。\nそこで、ブース出展の手伝いをお願いできる学生・教職員ボランティアを募集します。\n具体的な内容は以下の通りです。\n\n概要\n■日時：2025年6月7日（土）、8日（日）\n※ボランティアはいずれか1日だけや、一部の時間だけの参加でも構いません…",
+            "date_modified": "2025-03-25T03:00:00.000Z"
+        },
+        {
             "id": "037b42b5a0887f75ba8f01a31d41c127",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=6056",
             "title": "（茗渓会）4月ぶっちゃけ相談会のご案内",
@@ -135,13 +142,6 @@
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=6025",
             "title": "【Warning】Religious Solicitation on University Campus",
             "summary": "Dear Students\n\nRecently, there has been an increase in the number of unauthorized religious solicitations on campus. For the safety of our students, the University strictly prohibits such activities. …",
-            "date_modified": "2025-03-12T03:00:00.000Z"
-        },
-        {
-            "id": "7029b620893465d0cacadf36bfc07005",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=6024",
-            "title": "年度末・年度始のTWINSサービス休止のお知らせ／Suspension of TWINS service at the end and beginning of the Academic Year",
-            "summary": "TWINSの年度更新作業のため、下記の期間TWINSによる各種サービスを休止します。\nこの間、成績照会や証明書の発行も行うことができません。\nご不便をおかけしますが、ご協力をお願いします。\nTWINS・KdB運転休止期間：\n令和７年３月28日(金)８時から　４月１日(火)まで\n※１日は動作確認が完了次第復旧いたします。\n\nDue to annual updates, various service…",
             "date_modified": "2025-03-12T03:00:00.000Z"
         }
     ]
