@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "037b42b5a0887f75ba8f01a31d41c127",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=6056",
+            "title": "（茗渓会）4月ぶっちゃけ相談会のご案内",
+            "summary": "【今月の登壇者】特集テーマ 「人事・採用」\n１人目は、茨城県庁、２人目は、フリーランス　で活躍されているお二人が登場します。\nみなさんが卒業した後に、どんなキャリア（人生、仕事、就職）を歩むのか？\n考えるきっかけとして、少し先に卒業した先輩が、何を考え、どう決断したのかを聞いてみてください。\n【登壇者No1】\n第一学群社会学類 2010年卒　\n茨城県庁\n人事委員会事務局　係長\n【登壇者No2】\n体…",
+            "date_modified": "2025-03-25T03:00:00.000Z"
+        },
+        {
             "id": "9d68ab6036b288945ef3498053210de3",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=6055",
             "title": "(BHE)3月28日開催　(BHE)26年度以降受験予定者対象　学内公務員試験対策講座",
@@ -136,13 +143,6 @@
             "title": "年度末・年度始のTWINSサービス休止のお知らせ／Suspension of TWINS service at the end and beginning of the Academic Year",
             "summary": "TWINSの年度更新作業のため、下記の期間TWINSによる各種サービスを休止します。\nこの間、成績照会や証明書の発行も行うことができません。\nご不便をおかけしますが、ご協力をお願いします。\nTWINS・KdB運転休止期間：\n令和７年３月28日(金)８時から　４月１日(火)まで\n※１日は動作確認が完了次第復旧いたします。\n\nDue to annual updates, various service…",
             "date_modified": "2025-03-12T03:00:00.000Z"
-        },
-        {
-            "id": "d5233452c9ceeddb13cfe97adaaaea8d",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=6022",
-            "title": "【周知】文部科学大臣からの全国の学生へ向けたのメッセージについて",
-            "summary": "文部科学大臣より、新しい環境や学業に不安や悩みを感じている全国の学生へ向けたメッセージが送付されました。添付のホームページへのご案内も掲載されていますので、あわせてご確認ください。\n\n＜参考：厚生労働省や各自治体の相談窓口＞\n○まもろうよこころ（電話相談・SNS相談）\nhttps://www.mhlw.go.jp/mamorouyokokoro/\n○こころもメンテしよう\n～若者を支えるメンタルヘル…",
-            "date_modified": "2025-03-11T03:00:00.000Z"
         }
     ]
 }

@@ -2,10 +2,26 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/mkobayashime/twins-announcements</id>
     <title>在学生へのお知らせ | 筑波大学</title>
-    <updated>2025-03-24T21:07:14.429Z</updated>
+    <updated>2025-03-25T03:12:58.109Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://github.com/mkobayashime/twins-announcements"/>
     <subtitle>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</subtitle>
+    <entry>
+        <title type="html"><![CDATA[（茗渓会）4月ぶっちゃけ相談会のご案内]]></title>
+        <id>037b42b5a0887f75ba8f01a31d41c127</id>
+        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=6056"/>
+        <updated>2025-03-25T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[【今月の登壇者】特集テーマ 「人事・採用」
+１人目は、茨城県庁、２人目は、フリーランス　で活躍されているお二人が登場します。
+みなさんが卒業した後に、どんなキャリア（人生、仕事、就職）を歩むのか？
+考えるきっかけとして、少し先に卒業した先輩が、何を考え、どう決断したのかを聞いてみてください。
+【登壇者No1】
+第一学群社会学類 2010年卒　
+茨城県庁
+人事委員会事務局　係長
+【登壇者No2】
+体…]]></summary>
+    </entry>
     <entry>
         <title type="html"><![CDATA[(BHE)3月28日開催　(BHE)26年度以降受験予定者対象　学内公務員試験対策講座]]></title>
         <id>9d68ab6036b288945ef3498053210de3</id>
@@ -239,18 +255,5 @@ TWINS・KdB運転休止期間：
 ※１日は動作確認が完了次第復旧いたします。
 
 Due to annual updates, various service…]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【周知】文部科学大臣からの全国の学生へ向けたのメッセージについて]]></title>
-        <id>d5233452c9ceeddb13cfe97adaaaea8d</id>
-        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=6022"/>
-        <updated>2025-03-11T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[文部科学大臣より、新しい環境や学業に不安や悩みを感じている全国の学生へ向けたメッセージが送付されました。添付のホームページへのご案内も掲載されていますので、あわせてご確認ください。
-
-＜参考：厚生労働省や各自治体の相談窓口＞
-○まもろうよこころ（電話相談・SNS相談）
-https://www.mhlw.go.jp/mamorouyokokoro/
-○こころもメンテしよう
-～若者を支えるメンタルヘル…]]></summary>
     </entry>
 </feed>
