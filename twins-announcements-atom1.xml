@@ -2,10 +2,25 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/mkobayashime/twins-announcements</id>
     <title>在学生へのお知らせ | 筑波大学</title>
-    <updated>2025-03-25T21:06:52.603Z</updated>
+    <updated>2025-03-26T00:02:44.102Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://github.com/mkobayashime/twins-announcements"/>
     <subtitle>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</subtitle>
+    <entry>
+        <title type="html"><![CDATA[【募集受付け中】DTF機構：学群生のアイデアを芽吹かせる研究助成（令和7年度エンブリオ・プログラム）]]></title>
+        <id>80b9bd3488b9e7d6fe5982ff36423860</id>
+        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=6060"/>
+        <updated>2025-03-26T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[筑波大学学群生3年次以下のチームが実施する自主的で独創的な研究活動に対し、活動経費の一部を支援します。
+
+１．支援対象の研究（①又は②）：
+① 現在および未来社会が抱える(地球規模)課題解決を目指す研究
+② 人、社会、地球の健全な未来の構築に資する研究
+
+２．支援の内容：
+① 1件あたり最大40万円。採択数５チーム程度　　※選考結果により金額・チーム数は増減があります。
+② 研究資金の使用例：実験…]]></summary>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【配信開始】令和８年度採用を目指す日本学術振興会特別研究員説明会について]]></title>
         <id>34d177d81747ab67fb07916765c2afa9</id>
@@ -247,14 +262,5 @@ Application Period:
 【新規申請者】
 -WEB提出：2025年3月6日(木) 9時～4月21日(月) 17時
 -郵送：2025年4月1日(火)～4…]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【Warning】Religious Solicitation on University Campus]]></title>
-        <id>84a8dcd1d1c0099b0bc4188da6403bdc</id>
-        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=6025"/>
-        <updated>2025-03-12T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Dear Students
-
-Recently, there has been an increase in the number of unauthorized religious solicitations on campus. For the safety of our students, the University strictly prohibits such activities. …]]></summary>
     </entry>
 </feed>

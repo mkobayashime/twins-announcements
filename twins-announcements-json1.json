@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "80b9bd3488b9e7d6fe5982ff36423860",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=6060",
+            "title": "【募集受付け中】DTF機構：学群生のアイデアを芽吹かせる研究助成（令和7年度エンブリオ・プログラム）",
+            "summary": "筑波大学学群生3年次以下のチームが実施する自主的で独創的な研究活動に対し、活動経費の一部を支援します。\n\n１．支援対象の研究（①又は②）：\n① 現在および未来社会が抱える(地球規模)課題解決を目指す研究\n② 人、社会、地球の健全な未来の構築に資する研究\n\n２．支援の内容：\n① 1件あたり最大40万円。採択数５チーム程度　　※選考結果により金額・チーム数は増減があります。\n② 研究資金の使用例：実験…",
+            "date_modified": "2025-03-26T03:00:00.000Z"
+        },
+        {
             "id": "34d177d81747ab67fb07916765c2afa9",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=6058",
             "title": "【配信開始】令和８年度採用を目指す日本学術振興会特別研究員説明会について",
@@ -136,13 +143,6 @@
             "title": "【奨学金】公益財団法人　大塚敏美育英奨学財団　2025年度",
             "summary": "公益財団法人　大塚敏美育英奨学財団　2025年度\n※「Web提出」と「原本の郵送」の両方の手続きが必須です。\n応募期間：\n【継続申請者】\n-WEB提出：2025年3月6日(木) 9時～4月14日(月) 17時\n-郵送：2025年4月1日(火)～4月17日(木)15時(必着)\n【新規申請者】\n-WEB提出：2025年3月6日(木) 9時～4月21日(月) 17時\n-郵送：2025年4月1日(火)～4…",
             "date_modified": "2025-03-14T03:00:00.000Z"
-        },
-        {
-            "id": "84a8dcd1d1c0099b0bc4188da6403bdc",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=6025",
-            "title": "【Warning】Religious Solicitation on University Campus",
-            "summary": "Dear Students\n\nRecently, there has been an increase in the number of unauthorized religious solicitations on campus. For the safety of our students, the University strictly prohibits such activities. …",
-            "date_modified": "2025-03-12T03:00:00.000Z"
         }
     ]
 }
