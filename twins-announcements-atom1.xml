@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/mkobayashime/twins-announcements</id>
     <title>在学生へのお知らせ | 筑波大学</title>
-    <updated>2025-03-26T00:02:44.102Z</updated>
+    <updated>2025-03-26T09:07:59.910Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://github.com/mkobayashime/twins-announcements"/>
     <subtitle>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</subtitle>
+    <entry>
+        <title type="html"><![CDATA[【27卒28卒】就活＆インターンシップオンラインガイダンス　【基礎編】【応用編】※リマインド]]></title>
+        <id>711bfc42cf27f66836fea344ca8381cb</id>
+        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=6061"/>
+        <updated>2025-03-26T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[就活＆インターンシップオンラインガイダンスを2回にわたって開催します。
+インターンシップの基礎知識や必要な準備から企業選び、人気のインターンシップ選考対策までマイナビのキャリアサポーターやマイナビの元採用コンサルタントが解説いたします。
+インターンシップは企業や働くことを知る第1歩です。就活生の方はもちろん、そうでない方もぜひご参加ください。
+
+①【基礎編】就職活動やインターンシップのポイントを知…]]></summary>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【募集受付け中】DTF機構：学群生のアイデアを芽吹かせる研究助成（令和7年度エンブリオ・プログラム）]]></title>
         <id>80b9bd3488b9e7d6fe5982ff36423860</id>
@@ -247,20 +258,5 @@ Application Period:
 講師：LEC専任講師　大野純一先生
 詳細・申込：下記URL2つ目
 ]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【奨学金】公益財団法人　大塚敏美育英奨学財団　2025年度]]></title>
-        <id>bb6505424598aa2b1d00d04571dc5bf8</id>
-        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=6026"/>
-        <updated>2025-03-14T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[公益財団法人　大塚敏美育英奨学財団　2025年度
-※「Web提出」と「原本の郵送」の両方の手続きが必須です。
-応募期間：
-【継続申請者】
--WEB提出：2025年3月6日(木) 9時～4月14日(月) 17時
--郵送：2025年4月1日(火)～4月17日(木)15時(必着)
-【新規申請者】
--WEB提出：2025年3月6日(木) 9時～4月21日(月) 17時
--郵送：2025年4月1日(火)～4…]]></summary>
     </entry>
 </feed>
