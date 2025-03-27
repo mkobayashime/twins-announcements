@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "36f21d0e2c6dad7e9724cb6e70ffe898",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=6062",
+            "title": "【奨学金/Scholarship】公益財団法人　似鳥国際奨学財団 /Nitori International Scholarship Foundation",
+            "summary": "公益財団法人　似鳥国際奨学財団 2025年度(下期)\n応募期限：2025年5月21日（水）13時\n提出先　：財団へ直接応募\n募集要項：(PDF(資料1))\n財団HP：https://www.nitori-shougakuzaidan.com/application/#ryugaku\n※この奨学金を受給する者は、2025年度の大学推薦奨学金の申請資格がありません。\n※日本語能力検定N3以上程度の日本…",
+            "date_modified": "2025-03-27T03:00:00.000Z"
+        },
+        {
             "id": "711bfc42cf27f66836fea344ca8381cb",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=6061",
             "title": "【27卒28卒】就活＆インターンシップオンラインガイダンス　【基礎編】【応用編】※リマインド",
@@ -136,13 +143,6 @@
             "title": "【奨学金】公益財団法人　大塚敏美育英奨学財団　2025年度",
             "summary": "公益財団法人　大塚敏美育英奨学財団　2025年度\n※「Web提出」と「原本の郵送」の両方の手続きが必須です。\n応募期間：\n【継続申請者】\n-WEB提出：2025年3月6日(木) 9時～4月14日(月) 17時\n-郵送：2025年4月1日(火)～4月17日(木)15時(必着)\n【新規申請者】\n-WEB提出：2025年3月6日(木) 9時～4月21日(月) 17時\n-郵送：2025年4月1日(火)～4…",
             "date_modified": "2025-03-14T03:00:00.000Z"
-        },
-        {
-            "id": "84a8dcd1d1c0099b0bc4188da6403bdc",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=6025",
-            "title": "【Warning】Religious Solicitation on University Campus",
-            "summary": "Dear Students\n\nRecently, there has been an increase in the number of unauthorized religious solicitations on campus. For the safety of our students, the University strictly prohibits such activities. …",
-            "date_modified": "2025-03-12T03:00:00.000Z"
         }
     ]
 }
