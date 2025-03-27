@@ -5,6 +5,34 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "3ce1f961f51596ea07b64cd02bb00f45",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=6067",
+            "title": "On the closure of the “Download Station” (DS)",
+            "summary": "Software currently distributed via DS, except those for which termination has been announced, will be provided on the portal site run by ACCC (https://portal.cc.tsukuba.ac.jp)\n\nPlease log in with your…",
+            "date_modified": "2025-03-27T03:00:00.000Z"
+        },
+        {
+            "id": "be54a8338358c44511c5570cf6528e13",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=6066",
+            "title": "ソフトウェア配布管理システム（DS）運用終了のお知らせ",
+            "summary": "これまでに予告しましたように，ソフトウェア配布管理システム（ダウンロードステーション，以下「DS」という）は\n3月31日をもって運用を終了します．現在DS上で配布している各種のソフトウェアは提供終了を予告したものを除き，\n次の「学術情報メディアセンタポータルサイト」(https://portal.cc.tsukuba.ac.jp)\nにおいて提供します．統一認証ID・パスワードからログインしてメニュ…",
+            "date_modified": "2025-03-27T03:00:00.000Z"
+        },
+        {
+            "id": "c3838cc2d579a6df738ed4435fd1d77c",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=6065",
+            "title": "【Scholarship】The Korean Scholarship foundation 2025",
+            "summary": "The Korean Scholarship foundation 2025\nApplication period: (New Applicant): April 23 (Wed.), 2025, 5:00p.m.\n　　　　　(Renewal applicants, Special permanent resident): Refer to application guide\nSubmission…",
+            "date_modified": "2025-03-27T03:00:00.000Z"
+        },
+        {
+            "id": "a09c5650f24c87c845239542f80f35d5",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=6063",
+            "title": "【奨学金】公益財団法人 朝鮮奨学会 2025年度大学・大学院奨学生募集",
+            "summary": "公益財団法人 朝鮮奨学会 2025年度大学・大学院奨学生募集\n応募締切：(新規)2025年4月23日(水)　17時\n　　　　(継続、特別永住者)募集要項参照\n提出先：(新規)筑波大学学生交流課 事務室(1A棟101)\n　　　　(継続、特別永住者)募集要項参照\n募集要項等、詳細については下記大学の奨学金のHPで確認してください。\nhttps://www.tsukuba.ac.jp/campuslif…",
+            "date_modified": "2025-03-27T03:00:00.000Z"
+        },
+        {
             "id": "36f21d0e2c6dad7e9724cb6e70ffe898",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=6062",
             "title": "【奨学金/Scholarship】公益財団法人　似鳥国際奨学財団 /Nitori International Scholarship Foundation",
@@ -115,34 +143,6 @@
             "title": "(BHE)2025年度　公立学校教員採用試験　大学推薦のご案内",
             "summary": "公立学校教員採用試験受験予定の方へ\n\n令和7年度実施　公立学校教員採用試験　大学推薦の案内を開始しています。\n現在、以下の自治体から募集案内が届いています。\n\n詳細は以下に掲載していますのでご確認ください。\n大学推薦を希望する場合には、早めにBHE教員担当までご連絡ください。\n\n〇BHE HP「教員採用試験の学校推薦情報」\nhttps://syushoku.sec.tsukuba.ac.jp/pl…",
             "date_modified": "2025-03-17T03:00:00.000Z"
-        },
-        {
-            "id": "ee64c99dc5077bdb4c576428f32ee28e",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=6029",
-            "title": "「防犯啓発ポスター」作成のお知らせ　/　Notice of the creation of \"Crime Prevention Awareness Poster\"",
-            "summary": "学生・教職員　各位\n\n　日頃より構内の防犯・防災対策活動に種々ご協力いただきありがとうございます。\n　この度、学内での防犯意識の醸成に資するため、防犯啓発ポスターを作成いたしました。\n　研究室・事務室内や建物の出入口に掲示するなど、ご活用ください。\n　また、学生・教職員が事件・事故の当事者・発見者となった際の対応フローをまとめました【事件・事故発生時の初期対応マニュアル】も併せてご活用ください。\n…",
-            "date_modified": "2025-03-14T03:00:00.000Z"
-        },
-        {
-            "id": "ed99205d2f8aafc893a8043ad09cf5d7",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=6028",
-            "title": "Otsuka Toshimi Scholarship Foundation 2025",
-            "summary": "Otsuka Toshimi Scholarship Foundation 2025\nApplicants must complete online submission then post mail the original documents to the Foundation.\nApplication Period:\n【Renewal applicants】\n-Online submissi…",
-            "date_modified": "2025-03-14T03:00:00.000Z"
-        },
-        {
-            "id": "116c32f78ed0b37d27449015582965e8",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=6027",
-            "title": "3月28日開催　(BHE)26年度以降受験予定者対象　学内公務員試験対策講座",
-            "summary": "26年度以降に公務員試験の受験を考えている方を対象に公務員試験対策講座を開催します。\n26年度以降に公務員試験の受験を検討している方はぜひご参加ください。\n\n〇2026年以降受験予定者対象　公務員試験対策講座\n「進路を考える　公務員になるという選択」\n日時：3月28日（金）　13：00-14：30\n手法：オンライン\n講師：LEC専任講師　大野純一先生\n詳細・申込：下記URL2つ目\n",
-            "date_modified": "2025-03-14T03:00:00.000Z"
-        },
-        {
-            "id": "bb6505424598aa2b1d00d04571dc5bf8",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=6026",
-            "title": "【奨学金】公益財団法人　大塚敏美育英奨学財団　2025年度",
-            "summary": "公益財団法人　大塚敏美育英奨学財団　2025年度\n※「Web提出」と「原本の郵送」の両方の手続きが必須です。\n応募期間：\n【継続申請者】\n-WEB提出：2025年3月6日(木) 9時～4月14日(月) 17時\n-郵送：2025年4月1日(火)～4月17日(木)15時(必着)\n【新規申請者】\n-WEB提出：2025年3月6日(木) 9時～4月21日(月) 17時\n-郵送：2025年4月1日(火)～4…",
-            "date_modified": "2025-03-14T03:00:00.000Z"
         }
     ]
 }
