@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "942296633d9658a8bb4b69570a5455ae",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=6068",
+            "title": "【お知らせ】授業で使用する教室の公開方法の変更について/【Notice】Change in the Method of Disclosing Classrooms Used for courses",
+            "summary": "学生　各位\n授業で使用する教室については、これまで開設授業科目一覧に掲載し、広く公開してきましたが、セキュリティリスクや情報漏洩の観点から、令和7（2025）年度からは学内者限定で公開することとします。\n今後は、各種システム（SharePoint(Microsoft 365), TWINS, manaba）にて教室情報を提供しますので、添付「授業で使用する教室の確認方法」を確認の上、履修する授業の…",
+            "date_modified": "2025-04-01T03:00:00.000Z"
+        },
+        {
             "id": "3ce1f961f51596ea07b64cd02bb00f45",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=6067",
             "title": "On the closure of the “Download Station” (DS)",
@@ -96,20 +103,6 @@
             "date_modified": "2025-03-21T03:00:00.000Z"
         },
         {
-            "id": "89ec9ec5ab31a89c41f4c6d50a837cc3",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=6051",
-            "title": "University-wide FD/SD Seminar: Guest Lecture from The Ohio State University",
-            "summary": "We will be holding a university-wide FD/SD seminar as follows.\nThis time, we will invite the Vice President and Director of International Affairs of Ohio State University to give a lecture and learn a…",
-            "date_modified": "2025-03-19T03:00:00.000Z"
-        },
-        {
-            "id": "a9327aa72770d4bc7b096e3b9c7e84f8",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=6050",
-            "title": "全学FD/SDセミナー オハイオ州立大学による特別講演について",
-            "summary": "この度、以下の通り、全学FD/SDセミナーを実施いたします。\n今回は、オハイオ州立大学国際担当副学長およびディレクターを講師に招いて講演を行い、大学の国際連携と社会への影響について学びます。\n\n・日時：2025年3月27日（木）13:30～14:30\n・講師：Dr. Kaya Sahin — オハイオ州立大学グローバル戦略・国際担当副学長・教授\n         　  Dr. Rita Korya…",
-            "date_modified": "2025-03-19T03:00:00.000Z"
-        },
-        {
             "id": "76297db2351566babdc5076f5178a31d",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=6049",
             "title": "【周知】【茨城県警察本部生活安全総務課】いばらき防犯ファイルについて",
@@ -124,25 +117,32 @@
             "date_modified": "2025-03-19T03:00:00.000Z"
         },
         {
-            "id": "98310cd28c538b6cd07348c8007561c9",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=6047",
-            "title": "【令和6年度卒業･修了予定者の皆様へ】「進路進捗状況届」登録のお願い",
-            "summary": "学群・大学院の最終年次に在籍している全学生を対象に、自身の進路を届け出る「進路進捗状況届」の登録をお願いしています。\n就職・進学に限らず、資格試験等準備、職務復帰、家事手伝い、留年、帰国などすべての進路先が対象です。\n卒業・修了後の進路が決まりましたら、キャリア支援チームWebサイト内「進路進捗状況届」から進路を入力のうえ、決定処理をしてください。\nなお、決定処理は複数の進路先を入力されている場合…",
-            "date_modified": "2025-03-19T03:00:00.000Z"
-        },
-        {
-            "id": "8df1da2fdfa7e22a0fd79cb96fb82cd6",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=6046",
-            "title": "【周知】HPVワクチン学内キャッチアップ接種の予約方法について",
-            "summary": "現在HPVワクチン予約システムが使用できない状況が続いています。\n初回接種を希望する学生の学内接種日は、3月29日(土)が最終日となります。\n※学内で初回接種済みの方は4月以降も2回目、3回目接種が可能です。\n\n予約を希望する方は、以下のリンクより予約が可能です。\nforms.office.com/r/snQNy08hB1?origin=lprLink\n\n\n接種対象者、接種期間及び予約方法等の詳細…",
-            "date_modified": "2025-03-19T03:00:00.000Z"
-        },
-        {
             "id": "8000d48bee8a381525bbba67d6600c12",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=6032",
             "title": "(BHE)2025年度　公立学校教員採用試験　大学推薦のご案内",
             "summary": "公立学校教員採用試験受験予定の方へ\n\n令和7年度実施　公立学校教員採用試験　大学推薦の案内を開始しています。\n現在、以下の自治体から募集案内が届いています。\n\n詳細は以下に掲載していますのでご確認ください。\n大学推薦を希望する場合には、早めにBHE教員担当までご連絡ください。\n\n〇BHE HP「教員採用試験の学校推薦情報」\nhttps://syushoku.sec.tsukuba.ac.jp/pl…",
             "date_modified": "2025-03-17T03:00:00.000Z"
+        },
+        {
+            "id": "ee64c99dc5077bdb4c576428f32ee28e",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=6029",
+            "title": "「防犯啓発ポスター」作成のお知らせ　/　Notice of the creation of \"Crime Prevention Awareness Poster\"",
+            "summary": "学生・教職員　各位\n\n　日頃より構内の防犯・防災対策活動に種々ご協力いただきありがとうございます。\n　この度、学内での防犯意識の醸成に資するため、防犯啓発ポスターを作成いたしました。\n　研究室・事務室内や建物の出入口に掲示するなど、ご活用ください。\n　また、学生・教職員が事件・事故の当事者・発見者となった際の対応フローをまとめました【事件・事故発生時の初期対応マニュアル】も併せてご活用ください。\n…",
+            "date_modified": "2025-03-14T03:00:00.000Z"
+        },
+        {
+            "id": "ed99205d2f8aafc893a8043ad09cf5d7",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=6028",
+            "title": "Otsuka Toshimi Scholarship Foundation 2025",
+            "summary": "Otsuka Toshimi Scholarship Foundation 2025\nApplicants must complete online submission then post mail the original documents to the Foundation.\nApplication Period:\n【Renewal applicants】\n-Online submissi…",
+            "date_modified": "2025-03-14T03:00:00.000Z"
+        },
+        {
+            "id": "116c32f78ed0b37d27449015582965e8",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=6027",
+            "title": "3月28日開催　(BHE)26年度以降受験予定者対象　学内公務員試験対策講座",
+            "summary": "26年度以降に公務員試験の受験を考えている方を対象に公務員試験対策講座を開催します。\n26年度以降に公務員試験の受験を検討している方はぜひご参加ください。\n\n〇2026年以降受験予定者対象　公務員試験対策講座\n「進路を考える　公務員になるという選択」\n日時：3月28日（金）　13：00-14：30\n手法：オンライン\n講師：LEC専任講師　大野純一先生\n詳細・申込：下記URL2つ目\n",
+            "date_modified": "2025-03-14T03:00:00.000Z"
         }
     ]
 }
