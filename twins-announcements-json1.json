@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "8d83ec74c2dd81d0252a3548bf5f107b",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=6069",
+            "title": "2025年度第1期分授業料の納付について",
+            "summary": "2025年度第1期分授業料の納付について、添付の通りお知らせいたします。\n口座振替日、納付期限についてご確認をお願いいたします。\n\n",
+            "date_modified": "2025-04-01T03:00:00.000Z"
+        },
+        {
             "id": "942296633d9658a8bb4b69570a5455ae",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=6068",
             "title": "【お知らせ】授業で使用する教室の公開方法の変更について/【Notice】Change in the Method of Disclosing Classrooms Used for courses",
@@ -135,13 +142,6 @@
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=6028",
             "title": "Otsuka Toshimi Scholarship Foundation 2025",
             "summary": "Otsuka Toshimi Scholarship Foundation 2025\nApplicants must complete online submission then post mail the original documents to the Foundation.\nApplication Period:\n【Renewal applicants】\n-Online submissi…",
-            "date_modified": "2025-03-14T03:00:00.000Z"
-        },
-        {
-            "id": "116c32f78ed0b37d27449015582965e8",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=6027",
-            "title": "3月28日開催　(BHE)26年度以降受験予定者対象　学内公務員試験対策講座",
-            "summary": "26年度以降に公務員試験の受験を考えている方を対象に公務員試験対策講座を開催します。\n26年度以降に公務員試験の受験を検討している方はぜひご参加ください。\n\n〇2026年以降受験予定者対象　公務員試験対策講座\n「進路を考える　公務員になるという選択」\n日時：3月28日（金）　13：00-14：30\n手法：オンライン\n講師：LEC専任講師　大野純一先生\n詳細・申込：下記URL2つ目\n",
             "date_modified": "2025-03-14T03:00:00.000Z"
         }
     ]
