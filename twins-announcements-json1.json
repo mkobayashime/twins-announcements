@@ -5,6 +5,20 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "e0301a7e585d88dfabfce7259d6ab7cb",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=6076",
+            "title": "TA training 2025 launched on manaba",
+            "summary": "Dear graduate students\n\nThe TA training seminar has been now launched on manaba. Those scheduled to engage in TA duties must complete the seminar before commencing their tasks.\n",
+            "date_modified": "2025-04-02T03:00:00.000Z"
+        },
+        {
+            "id": "40c2f861de7d073d0ea605da3ee29eba",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=6075",
+            "title": "令和７年度全学ＴＡ研修会の開催について",
+            "summary": "大学院生各位\n\n全学TA研修会をmanabaで配信開始しました。TA業務にあたる予定の方は、業務開始前に必ず受講してください。\n\nDear graduate students,\n\nThe TA training seminar has now launched on manaba. Those scheduled to engage in TA duties must  complete the …",
+            "date_modified": "2025-04-02T03:00:00.000Z"
+        },
+        {
             "id": "fb7e940323d174bdfaac4717e1c7b2b2",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=6074",
             "title": "【新入生歓迎！】院生ネットワーク：新歓企画、院生花見のお知らせ（4/12開催・参加無料）",
@@ -129,20 +143,6 @@
             "title": "(BHE)3月28日開催　(BHE)26年度以降受験予定者対象　学内公務員試験対策講座",
             "summary": "26年度以降に公務員試験の受験を考えている方を対象に公務員試験対策講座を開催します。\n26年度以降に公務員試験の受験を検討している方はぜひご参加ください。\n\n〇2026年以降受験予定者対象　公務員試験対策講座\n「進路を考える　公務員になるという選択」\n日時：3月28日（金）　13：00-14：30\n手法：オンライン\n講師：LEC専任講師　大野純一先生\n詳細・申込：下記URL2つ目\n",
             "date_modified": "2025-03-24T03:00:00.000Z"
-        },
-        {
-            "id": "410a43dccb901af1ec9074b54075193a",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=6053",
-            "title": "2025年度（第17期）官民協働海外留学支援制度～トビタテ！留学JAPAN新・日本代表プログラム～【新大学１年生】の募集について（学内締切：2025年4月14日（月）17時）",
-            "summary": "2025年度（第17期）官民協働海外留学支援制度～トビタテ！留学JAPAN新・日本代表プログラム～【新大学1年生】の募集につき、ご案内いたします。座学だけでなく、インターンシップや実習、ボランティア等の実践活動を含む留学計画が支援対象であり、留学の成果を積極的に社会に発信することが求められます。申請希望者は募集要項にて要件を確認の上、2025年4月14日（月）17時までに、応募申請システム（ガクシ…",
-            "date_modified": "2025-03-24T03:00:00.000Z"
-        },
-        {
-            "id": "435e34b44839f68ed47709549d8902d8",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=6052",
-            "title": "【27卒28卒】就活＆インターンシップオンラインガイダンス　【基礎編】【応用編】",
-            "summary": "就活＆インターンシップオンラインガイダンスを2回にわたって開催します。\nインターンシップの基礎知識や必要な準備から企業選び、人気のインターンシップ選考対策までマイナビのキャリアサポーターやマイナビの元採用コンサルタントが解説いたします。\nインターンシップは企業や働くことを知る第1歩です。就活生の方はもちろん、そうでない方もぜひご参加ください。\n\n①【基礎編】就職活動やインターンシップのポイントを知…",
-            "date_modified": "2025-03-21T03:00:00.000Z"
         }
     ]
 }
