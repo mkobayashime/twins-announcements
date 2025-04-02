@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/mkobayashime/twins-announcements</id>
     <title>在学生へのお知らせ | 筑波大学</title>
-    <updated>2025-04-02T02:28:23.428Z</updated>
+    <updated>2025-04-02T08:01:37.503Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://github.com/mkobayashime/twins-announcements"/>
     <subtitle>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</subtitle>
+    <entry>
+        <title type="html"><![CDATA[【新入生歓迎！】院生ネットワーク：新歓企画、院生花見のお知らせ（4/12開催・参加無料）]]></title>
+        <id>fb7e940323d174bdfaac4717e1c7b2b2</id>
+        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=6074"/>
+        <updated>2025-04-02T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[院生ネットワークからのお知らせです。
+
+新年度が始まりましたね！皆さん、いかがお過ごしでしょうか。
+さて、この度、新しく大学院に入学された皆さんを歓迎し、また在学生同士の交流を深めるため、大学院生向けのお花見交流会を企画しました！
+春の心地よい季節に、満開の桜の下でお菓子を食べながら、研究室や専門分野を超えて気軽に交流しませんか？
+新しい出会いや情報交換の場としても、ぜひご活用ください。
+大学院に…]]></summary>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Announcement for application of Multicultural Co-learning in Bordeaux/France]]></title>
         <id>a7907f3295289c8d6daad365e012b7a0</id>
@@ -237,14 +250,5 @@ https://www.tsukuba.ac.jp/campuslif…]]></summary>
 インターンシップは企業や働くことを知る第1歩です。就活生の方はもちろん、そうでない方もぜひご参加ください。
 
 ①【基礎編】就職活動やインターンシップのポイントを知…]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【周知】【茨城県警察本部生活安全総務課】いばらき防犯ファイルについて]]></title>
-        <id>76297db2351566babdc5076f5178a31d</id>
-        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=6049"/>
-        <updated>2025-03-19T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[茨城県警察本部生活安全総務課よりいばらき防犯ファイル（令和7年2月末）の送付がありましたので、添付のとおり掲載いたします。
-本ファイルは、県内で実際に発生した犯罪の情報のほか、防犯対策に役立つ情報が含まれております。ご自身の安全のためにも、ぜひご確認ください。
-]]></summary>
     </entry>
 </feed>
