@@ -4,7 +4,7 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Fri, 04 Apr 2025 15:07:56 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 04 Apr 2025 21:06:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
@@ -24,11 +24,19 @@
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=6089</link>
             <guid>293be0610bc5fc586105292b040bb8a7</guid>
             <pubDate>Fri, 04 Apr 2025 03:00:00 GMT</pubDate>
-            <description><![CDATA[筑波大学卒業生でベンチャー企業を立ち上げ活躍する下柿元 智也氏の講演を、「筑波クリエイティブ・キャンプ・ベーシック」（学群自由科目）第2回授業内で実施いたします。
-授業履修生以外の方の参加も可能ですので、起業や事業立ち上げにご興味のある方はぜひご参加ください！
+            <description><![CDATA[学生各位
 
-■講演者　　　　：下柿元 智也氏　PLIMES株式会社の代表取締役副社長・共同創業者
-■日時　　　　　：2025年4月23日（水）13:…]]></description>
+このことについて、授業日数確保のため、下記のとおり曜日が振替になっていますので、ご注意願います。
+（但し、東京キャンパスは除く。）
+
+　　　　　　　　　　　　　　　　記
+【春学期授業】
+令和７年  ５月  ７日（水）は、火曜日の授業を実施（終日）
+
+【秋学期授業】
+令和７年１０月１６日（木）は、月曜日の授業を実施（終日）
+令和７年１１月   ５日（水）は、火曜日の授業を実施（終日）
+令…]]></description>
         </item>
         <item>
             <title><![CDATA[To All the students (NOTICE)：Changes in Class Dates in 2025]]></title>
@@ -49,14 +57,9 @@ Tue…]]></description>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=6086</link>
             <guid>d7ccfb1e70f115847653d77d1fd7719e</guid>
             <pubDate>Fri, 04 Apr 2025 03:00:00 GMT</pubDate>
-            <description><![CDATA[To All the students:
+            <description><![CDATA[To All Doctoral and Master's Students,
 
-In order to ensure certain number of class days, classes on listed dates are scheduled to be held as follows (excluding Tokyo Campus):
-
-　　　　　　　　　　Statement
-
-【Spring semester】
-Tue…]]></description>
+We are pleased to announce the upcoming Course Enrollment Orientation for the Data Science Expert Program (DSEP)one of the certified learning programs in the fi…]]></description>
         </item>
         <item>
             <title><![CDATA[【開催案内】博士課程対象「データサイエンス・エキスパート・プログラム（DSEP）」履修説明会（4/10(木)14：00～15：00開催）]]></title>
