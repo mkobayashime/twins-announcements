@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/mkobayashime/twins-announcements</id>
     <title>在学生へのお知らせ | 筑波大学</title>
-    <updated>2025-04-04T09:07:47.932Z</updated>
+    <updated>2025-04-04T15:01:38.948Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://github.com/mkobayashime/twins-announcements"/>
     <subtitle>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</subtitle>
+    <entry>
+        <title type="html"><![CDATA[筑波大学発ベンチャー・PLIMES株式会社下柿元 智也氏講演「世界最先端の研究成果を人々と社会のために」]]></title>
+        <id>85acb1c8197b29672aa970adce7f4a1b</id>
+        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=6090"/>
+        <updated>2025-04-05T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[筑波大学卒業生でベンチャー企業を立ち上げ活躍する下柿元 智也氏の講演を、「筑波クリエイティブ・キャンプ・ベーシック」（学群自由科目）第2回授業内で実施いたします。
+授業履修生以外の方の参加も可能ですので、起業や事業立ち上げにご興味のある方はぜひご参加ください！
+
+■講演者　　　　：下柿元 智也氏　PLIMES株式会社の代表取締役副社長・共同創業者
+■日時　　　　　：2025年4月23日（水）13:…]]></summary>
+    </entry>
     <entry>
         <title type="html"><![CDATA[令和7年度 授業の曜日振替について（お知らせ）]]></title>
         <id>293be0610bc5fc586105292b040bb8a7</id>
@@ -250,14 +261,5 @@ ECサイトは以下のリンクから
         <summary type="html"><![CDATA[学生　各位
 授業で使用する教室については、これまで開設授業科目一覧に掲載し、広く公開してきましたが、セキュリティリスクや情報漏洩の観点から、令和7（2025）年度からは学内者限定で公開することとします。
 今後は、各種システム（SharePoint(Microsoft 365), TWINS, manaba）にて教室情報を提供しますので、添付「授業で使用する教室の確認方法」を確認の上、履修する授業の…]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[On the closure of the “Download Station” (DS)]]></title>
-        <id>3ce1f961f51596ea07b64cd02bb00f45</id>
-        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=6067"/>
-        <updated>2025-03-27T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Software currently distributed via DS, except those for which termination has been announced, will be provided on the portal site run by ACCC (https://portal.cc.tsukuba.ac.jp)
-
-Please log in with your…]]></summary>
     </entry>
 </feed>
