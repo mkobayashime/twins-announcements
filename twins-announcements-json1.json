@@ -5,6 +5,20 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "293be0610bc5fc586105292b040bb8a7",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=6089",
+            "title": "令和7年度 授業の曜日振替について（お知らせ）",
+            "summary": "学生各位\n\nこのことについて、授業日数確保のため、下記のとおり曜日が振替になっていますので、ご注意願います。\n（但し、東京キャンパスは除く。）\n\n　　　　　　　　　　　　　　　　記\n【春学期授業】\n令和７年  ５月  ７日（水）は、火曜日の授業を実施（終日）\n\n【秋学期授業】\n令和７年１０月１６日（木）は、月曜日の授業を実施（終日）\n令和７年１１月   ５日（水）は、火曜日の授業を実施（終日）\n令…",
+            "date_modified": "2025-04-04T03:00:00.000Z"
+        },
+        {
+            "id": "fbac8c54bffb1cc6d5fe3badde9cf9d6",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=6088",
+            "title": "To All the students (NOTICE)：Changes in Class Dates in 2025",
+            "summary": "To All the students:\n\nIn order to ensure certain number of class days, classes on listed dates are scheduled to be held as follows (excluding Tokyo Campus):\n\n　　　　　　　　　　Statement\n\n【Spring semester】\nTue…",
+            "date_modified": "2025-04-04T03:00:00.000Z"
+        },
+        {
             "id": "d7ccfb1e70f115847653d77d1fd7719e",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=6086",
             "title": "[Event Announcement – April 10 (Thu), 14:00-15:00]DSEP Course Enrollment Orientation",
@@ -128,20 +142,6 @@
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=6067",
             "title": "On the closure of the “Download Station” (DS)",
             "summary": "Software currently distributed via DS, except those for which termination has been announced, will be provided on the portal site run by ACCC (https://portal.cc.tsukuba.ac.jp)\n\nPlease log in with your…",
-            "date_modified": "2025-03-27T03:00:00.000Z"
-        },
-        {
-            "id": "be54a8338358c44511c5570cf6528e13",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=6066",
-            "title": "ソフトウェア配布管理システム（DS）運用終了のお知らせ",
-            "summary": "これまでに予告しましたように，ソフトウェア配布管理システム（ダウンロードステーション，以下「DS」という）は\n3月31日をもって運用を終了します．現在DS上で配布している各種のソフトウェアは提供終了を予告したものを除き，\n次の「学術情報メディアセンタポータルサイト」(https://portal.cc.tsukuba.ac.jp)\nにおいて提供します．統一認証ID・パスワードからログインしてメニュ…",
-            "date_modified": "2025-03-27T03:00:00.000Z"
-        },
-        {
-            "id": "c3838cc2d579a6df738ed4435fd1d77c",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=6065",
-            "title": "【Scholarship】The Korean Scholarship foundation 2025",
-            "summary": "The Korean Scholarship foundation 2025\nApplication period: (New Applicant): April 23 (Wed.), 2025, 5:00p.m.\n　　　　　(Renewal applicants, Special permanent resident): Refer to application guide\nSubmission…",
             "date_modified": "2025-03-27T03:00:00.000Z"
         }
     ]

@@ -2,10 +2,43 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/mkobayashime/twins-announcements</id>
     <title>在学生へのお知らせ | 筑波大学</title>
-    <updated>2025-04-04T06:01:44.101Z</updated>
+    <updated>2025-04-04T09:07:47.932Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://github.com/mkobayashime/twins-announcements"/>
     <subtitle>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</subtitle>
+    <entry>
+        <title type="html"><![CDATA[令和7年度 授業の曜日振替について（お知らせ）]]></title>
+        <id>293be0610bc5fc586105292b040bb8a7</id>
+        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=6089"/>
+        <updated>2025-04-04T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[学生各位
+
+このことについて、授業日数確保のため、下記のとおり曜日が振替になっていますので、ご注意願います。
+（但し、東京キャンパスは除く。）
+
+　　　　　　　　　　　　　　　　記
+【春学期授業】
+令和７年  ５月  ７日（水）は、火曜日の授業を実施（終日）
+
+【秋学期授業】
+令和７年１０月１６日（木）は、月曜日の授業を実施（終日）
+令和７年１１月   ５日（水）は、火曜日の授業を実施（終日）
+令…]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[To All the students (NOTICE)：Changes in Class Dates in 2025]]></title>
+        <id>fbac8c54bffb1cc6d5fe3badde9cf9d6</id>
+        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=6088"/>
+        <updated>2025-04-04T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[To All the students:
+
+In order to ensure certain number of class days, classes on listed dates are scheduled to be held as follows (excluding Tokyo Campus):
+
+　　　　　　　　　　Statement
+
+【Spring semester】
+Tue…]]></summary>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[Event Announcement – April 10 (Thu), 14:00-15:00]DSEP Course Enrollment Orientation]]></title>
         <id>d7ccfb1e70f115847653d77d1fd7719e</id>
@@ -226,25 +259,5 @@ ECサイトは以下のリンクから
         <summary type="html"><![CDATA[Software currently distributed via DS, except those for which termination has been announced, will be provided on the portal site run by ACCC (https://portal.cc.tsukuba.ac.jp)
 
 Please log in with your…]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ソフトウェア配布管理システム（DS）運用終了のお知らせ]]></title>
-        <id>be54a8338358c44511c5570cf6528e13</id>
-        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=6066"/>
-        <updated>2025-03-27T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[これまでに予告しましたように，ソフトウェア配布管理システム（ダウンロードステーション，以下「DS」という）は
-3月31日をもって運用を終了します．現在DS上で配布している各種のソフトウェアは提供終了を予告したものを除き，
-次の「学術情報メディアセンタポータルサイト」(https://portal.cc.tsukuba.ac.jp)
-において提供します．統一認証ID・パスワードからログインしてメニュ…]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【Scholarship】The Korean Scholarship foundation 2025]]></title>
-        <id>c3838cc2d579a6df738ed4435fd1d77c</id>
-        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=6065"/>
-        <updated>2025-03-27T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[The Korean Scholarship foundation 2025
-Application period: (New Applicant): April 23 (Wed.), 2025, 5:00p.m.
-　　　　　(Renewal applicants, Special permanent resident): Refer to application guide
-Submission…]]></summary>
     </entry>
 </feed>
