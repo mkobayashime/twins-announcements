@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "ee0147c0934823bf74eca08b78dce83c",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=6083",
+            "title": "【再掲】令和７年度学生定期健康診断について　Announcement on the AY2025 Student Health Examination",
+            "summary": "令和７年度の学生定期健康診断を、身体検査とこころの健康調査に分けて実施します。対象者は必ず受診してください。\n\n身体検査\n４月１１日（金）から４月２３日（水）で実施されます。\n指定日時内の希望の時間を保健管理センターのホームページにて予約してください。\n\nこころの健康調査\n４月１１日（金）から５月３１日（土）で実施されます。\n学習管理システム（manaba）での回答となります。\n\n詳細は以下のPD…",
+            "date_modified": "2025-04-04T03:00:00.000Z"
+        },
+        {
             "id": "711bfc42cf27f66836fea344ca8381cb",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=6080",
             "title": "【27卒28卒】就活＆インターンシップオンラインガイダンス　【基礎編】【応用編】※リマインド",
@@ -82,6 +89,13 @@
             "date_modified": "2025-04-02T03:00:00.000Z"
         },
         {
+            "id": "da0acc9fa42ca31d1f8714acaadce877",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=6082",
+            "title": "筑波大学公式オリジナルグッズECサイト割引クーポンのお知らせ（4月） 2025/4/1～2025/4/30",
+            "summary": "筑波大学公式オリジナルグッズ販売サイト「TSUKUBA-SHOP」4月の割引クーポンコードをお知らせいたします！\n\nクーポンコード　：　tsmay4298n35\n有効期間　：　2025年4月1日～2025年4月30日\n\n\nどうぞご覧いただき、皆様の「日常生活」、「思い出」、「プレゼント🎁」などにご活用いただけますと幸いです。\n\nECサイトは以下のリンクから\n※学内専用割引コードをTWINS掲示「…",
+            "date_modified": "2025-04-01T03:00:00.000Z"
+        },
+        {
             "id": "8d83ec74c2dd81d0252a3548bf5f107b",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=6069",
             "title": "2025年度第1期分授業料の納付について",
@@ -129,20 +143,6 @@
             "title": "【奨学金/Scholarship】公益財団法人　似鳥国際奨学財団 /Nitori International Scholarship Foundation",
             "summary": "公益財団法人　似鳥国際奨学財団 2025年度(下期)\n応募期限：2025年5月21日（水）13時\n提出先　：財団へ直接応募\n募集要項：(PDF(資料1))\n財団HP：https://www.nitori-shougakuzaidan.com/application/#ryugaku\n※この奨学金を受給する者は、2025年度の大学推薦奨学金の申請資格がありません。\n※日本語能力検定N3以上程度の日本…",
             "date_modified": "2025-03-27T03:00:00.000Z"
-        },
-        {
-            "id": "711bfc42cf27f66836fea344ca8381cb",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=6061",
-            "title": "【27卒28卒】就活＆インターンシップオンラインガイダンス　【基礎編】【応用編】※リマインド",
-            "summary": "就活＆インターンシップオンラインガイダンスを2回にわたって開催します。\nインターンシップの基礎知識や必要な準備から企業選び、人気のインターンシップ選考対策までマイナビのキャリアサポーターやマイナビの元採用コンサルタントが解説いたします。\nインターンシップは企業や働くことを知る第1歩です。就活生の方はもちろん、そうでない方もぜひご参加ください。\n\n①【基礎編】就職活動やインターンシップのポイントを知…",
-            "date_modified": "2025-03-26T03:00:00.000Z"
-        },
-        {
-            "id": "80b9bd3488b9e7d6fe5982ff36423860",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=6060",
-            "title": "【募集受付け中】DTF機構：学群生のアイデアを芽吹かせる研究助成（令和7年度エンブリオ・プログラム）",
-            "summary": "筑波大学学群生3年次以下のチームが実施する自主的で独創的な研究活動に対し、活動経費の一部を支援します。\n\n１．支援対象の研究（①又は②）：\n① 現在および未来社会が抱える(地球規模)課題解決を目指す研究\n② 人、社会、地球の健全な未来の構築に資する研究\n\n２．支援の内容：\n① 1件あたり最大40万円。採択数５チーム程度　　※選考結果により金額・チーム数は増減があります。\n② 研究資金の使用例：実験…",
-            "date_modified": "2025-03-26T03:00:00.000Z"
         }
     ]
 }
