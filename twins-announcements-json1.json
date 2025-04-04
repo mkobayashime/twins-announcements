@@ -5,13 +5,6 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
-            "id": "ee0147c0934823bf74eca08b78dce83c",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=6083",
-            "title": "【再掲】令和７年度学生定期健康診断について　Announcement on the AY2025 Student Health Examination",
-            "summary": "令和７年度の学生定期健康診断を、身体検査とこころの健康調査に分けて実施します。対象者は必ず受診してください。\n\n身体検査\n４月１１日（金）から４月２３日（水）で実施されます。\n指定日時内の希望の時間を保健管理センターのホームページにて予約してください。\n\nこころの健康調査\n４月１１日（金）から５月３１日（土）で実施されます。\n学習管理システム（manaba）での回答となります。\n\n詳細は以下のPD…",
-            "date_modified": "2025-04-04T03:00:00.000Z"
-        },
-        {
             "id": "711bfc42cf27f66836fea344ca8381cb",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=6080",
             "title": "【27卒28卒】就活＆インターンシップオンラインガイダンス　【基礎編】【応用編】※リマインド",
@@ -143,6 +136,13 @@
             "title": "【奨学金/Scholarship】公益財団法人　似鳥国際奨学財団 /Nitori International Scholarship Foundation",
             "summary": "公益財団法人　似鳥国際奨学財団 2025年度(下期)\n応募期限：2025年5月21日（水）13時\n提出先　：財団へ直接応募\n募集要項：(PDF(資料1))\n財団HP：https://www.nitori-shougakuzaidan.com/application/#ryugaku\n※この奨学金を受給する者は、2025年度の大学推薦奨学金の申請資格がありません。\n※日本語能力検定N3以上程度の日本…",
             "date_modified": "2025-03-27T03:00:00.000Z"
+        },
+        {
+            "id": "711bfc42cf27f66836fea344ca8381cb",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=6061",
+            "title": "【27卒28卒】就活＆インターンシップオンラインガイダンス　【基礎編】【応用編】※リマインド",
+            "summary": "就活＆インターンシップオンラインガイダンスを2回にわたって開催します。\nインターンシップの基礎知識や必要な準備から企業選び、人気のインターンシップ選考対策までマイナビのキャリアサポーターやマイナビの元採用コンサルタントが解説いたします。\nインターンシップは企業や働くことを知る第1歩です。就活生の方はもちろん、そうでない方もぜひご参加ください。\n\n①【基礎編】就職活動やインターンシップのポイントを知…",
+            "date_modified": "2025-03-26T03:00:00.000Z"
         }
     ]
 }
