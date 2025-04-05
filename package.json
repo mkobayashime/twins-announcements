@@ -17,7 +17,7 @@
     "playwright": "1.51.1",
     "rimraf": "6.0.1",
     "tsx": "4.19.3",
-    "typescript": "5.8.2"
+    "typescript": "5.8.3"
   },
   "scripts": {
     "preinstall": "npx only-allow bun",
