@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/mkobayashime/twins-announcements</id>
     <title>在学生へのお知らせ | 筑波大学</title>
-    <updated>2025-04-05T09:07:06.474Z</updated>
+    <updated>2025-04-05T15:06:32.139Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://github.com/mkobayashime/twins-announcements"/>
     <subtitle>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</subtitle>
@@ -172,29 +172,6 @@ The TA training seminar has now launched on manaba. Those scheduled to engage in
 大学院に…]]></summary>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Announcement for application of Multicultural Co-learning in Bordeaux/France]]></title>
-        <id>a7907f3295289c8d6daad365e012b7a0</id>
-        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=6073"/>
-        <updated>2025-04-02T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Field study program University of Bordeaux, France under following objectives;
-1) To learn overview on biological resources and relates industries
-2) To discuss current issues relate d biological reso…]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[多文化共修 in ボルドー／フランス参加者募集のお知らせ]]></title>
-        <id>5ffed301f3070cf44f7962fa9ff7cd4c</id>
-        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=6072"/>
-        <updated>2025-04-02T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[概要 
-フランス　ボルドー大学において 、 講義 ・ 生物資源に係る実験を通じて 当該国における 生物資源の特色や 地域性を学び、国際的な視野に立ったキャリア意識を醸成する 。参加者は「国際農業研修Ⅲ(EC41133)」または「Agricultural Internship Abroad Ⅲ (EG50023)」 を履修していただきます。
-
-講師（添付URL）
-
-実施
-7月７日～7月18日
-（日本…]]></summary>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[【重要】学生証の常時携帯のお願い [Important] Notice of the Requirement to Carry Your Student ID Card at All Times]]></title>
         <id>5ccc558d7d25743809c9fc775638b1fa</id>
         <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=6071"/>
@@ -261,5 +238,24 @@ ECサイトは以下のリンクから
         <summary type="html"><![CDATA[学生　各位
 授業で使用する教室については、これまで開設授業科目一覧に掲載し、広く公開してきましたが、セキュリティリスクや情報漏洩の観点から、令和7（2025）年度からは学内者限定で公開することとします。
 今後は、各種システム（SharePoint(Microsoft 365), TWINS, manaba）にて教室情報を提供しますので、添付「授業で使用する教室の確認方法」を確認の上、履修する授業の…]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[On the closure of the “Download Station” (DS)]]></title>
+        <id>3ce1f961f51596ea07b64cd02bb00f45</id>
+        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=6067"/>
+        <updated>2025-03-27T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Software currently distributed via DS, except those for which termination has been announced, will be provided on the portal site run by ACCC (https://portal.cc.tsukuba.ac.jp)
+
+Please log in with your…]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ソフトウェア配布管理システム（DS）運用終了のお知らせ]]></title>
+        <id>be54a8338358c44511c5570cf6528e13</id>
+        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=6066"/>
+        <updated>2025-03-27T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[これまでに予告しましたように，ソフトウェア配布管理システム（ダウンロードステーション，以下「DS」という）は
+3月31日をもって運用を終了します．現在DS上で配布している各種のソフトウェアは提供終了を予告したものを除き，
+次の「学術情報メディアセンタポータルサイト」(https://portal.cc.tsukuba.ac.jp)
+において提供します．統一認証ID・パスワードからログインしてメニュ…]]></summary>
     </entry>
 </feed>
