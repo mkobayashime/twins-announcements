@@ -4,10 +4,31 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Sun, 06 Apr 2025 21:06:45 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 07 Apr 2025 00:03:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
+        <item>
+            <title><![CDATA[【募集】学生スタッフ（ピアスタッフ）若干名（１～２名）]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=6092</link>
+            <guid>9a28ef5edc330db0c1fe0f16c8a98a30</guid>
+            <pubDate>Mon, 07 Apr 2025 03:00:00 GMT</pubDate>
+            <description><![CDATA[お世話になっております。ヒューマンエンパワーメント推進局（BHE）ジェンダー支援チームです。
+BHEでは、ピアスタッフという学生スタッフ制度を設けて、ジェンダー・セクシュアリティに関する学生企画を実施しています。この度８月頃からコアスタッフとして参加していただける方を募集します。
+
+＊ピアスタッフとは
+…学生が主体となってジェンダー・セクシュアリティに関する企画の立案・運営を行う制度です。定期的・…]]></description>
+        </item>
+        <item>
+            <title><![CDATA[（再掲）【学生・教職員ボランティア募集】Tokyo Pride 2025]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=6091</link>
+            <guid>8807f68f9d8d18937d5517af54518d03</guid>
+            <pubDate>Mon, 07 Apr 2025 03:00:00 GMT</pubDate>
+            <description><![CDATA[筑波大学ヒューマンエンパワーメント推進局（BHE）は、2025年6月7日（土）・8日（日）に開催されるTokyo Pride 2025（旧：東京レインボープライド）にブース出展を行います。そこで、ブース出展の手伝いをお願いできる学生・教職員ボランティアを募集します。具体的な内容は以下の通りです。みなさまのご応募をお待ちしています！
+
+日時：2025年6月7日（土）、8日（日）
+※ボランティアはいず…]]></description>
+        </item>
         <item>
             <title><![CDATA[筑波大学発ベンチャー・PLIMES株式会社下柿元 智也氏講演「世界最先端の研究成果を人々と社会のために」]]></title>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=6090</link>
@@ -240,25 +261,6 @@ ECサイトは以下のリンクから
             <description><![CDATA[学生　各位
 授業で使用する教室については、これまで開設授業科目一覧に掲載し、広く公開してきましたが、セキュリティリスクや情報漏洩の観点から、令和7（2025）年度からは学内者限定で公開することとします。
 今後は、各種システム（SharePoint(Microsoft 365), TWINS, manaba）にて教室情報を提供しますので、添付「授業で使用する教室の確認方法」を確認の上、履修する授業の…]]></description>
-        </item>
-        <item>
-            <title><![CDATA[On the closure of the “Download Station” (DS)]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=6067</link>
-            <guid>3ce1f961f51596ea07b64cd02bb00f45</guid>
-            <pubDate>Thu, 27 Mar 2025 03:00:00 GMT</pubDate>
-            <description><![CDATA[Software currently distributed via DS, except those for which termination has been announced, will be provided on the portal site run by ACCC (https://portal.cc.tsukuba.ac.jp)
-
-Please log in with your…]]></description>
-        </item>
-        <item>
-            <title><![CDATA[ソフトウェア配布管理システム（DS）運用終了のお知らせ]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=6066</link>
-            <guid>be54a8338358c44511c5570cf6528e13</guid>
-            <pubDate>Thu, 27 Mar 2025 03:00:00 GMT</pubDate>
-            <description><![CDATA[これまでに予告しましたように，ソフトウェア配布管理システム（ダウンロードステーション，以下「DS」という）は
-3月31日をもって運用を終了します．現在DS上で配布している各種のソフトウェアは提供終了を予告したものを除き，
-次の「学術情報メディアセンタポータルサイト」(https://portal.cc.tsukuba.ac.jp)
-において提供します．統一認証ID・パスワードからログインしてメニュ…]]></description>
         </item>
     </channel>
 </rss>
