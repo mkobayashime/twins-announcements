@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "a5745ba72bf255563cac30b12cc8ab38",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=6103",
+            "title": "カナダのプリンスエドワード島大学「英語で授業ができる教員養成のためのTA・TF夏期海外研修プログラム」説明会開催",
+            "summary": "カナダのプリンスエドワード島大学「英語で授業ができる教員養成のためのTA・TF夏期海外研修プログラム」（海外研究・教育実践演習 II  0BBAJC2 ）の説明会を４月１６日（水）（１１時３０分から１２時）にオンラインで開催します。「はばたけ！筑大生」一人あたり20万円支給（先着10人）。説明会参加希望者は担当教員までメールしてください。前日の１５日にリンクを送ります。\n\n詳細はポスター参照\n",
+            "date_modified": "2025-04-07T03:00:00.000Z"
+        },
+        {
             "id": "711bfc42cf27f66836fea344ca8381cb",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=6102",
             "title": "【27卒28卒】就活＆インターンシップオンラインガイダンス　【基礎編】【応用編】※リマインド",
@@ -15,7 +22,7 @@
             "id": "541fb3c6bfba696cc212b8f666f52f1b",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=6101",
             "title": "LEC東京リーガルマインド　「26年合格目標　筑波大学公務員講座」のご案内",
-            "summary": "就活＆インターンシップオンラインガイダンスを2回にわたって開催します。\nインターンシップの基礎知識や必要な準備から企業選び、人気のインターンシップ選考対策までマイナビのキャリアサポーターやマイナビの元採用コンサルタントが解説いたします。\nインターンシップは企業や働くことを知る第1歩です。就活生の方はもちろん、そうでない方もぜひご参加ください。\n\n①【基礎編】就職活動やインターンシップのポイントを知…",
+            "summary": "LEC東京リーガルマインドによる、筑波大生向けの公務員講座を開催します。\n26年の公務員試験受験を目指す方は、ぜひご検討ください。\n\n〇開講日：5月22日\n〇詳細：HP・パンフレット参照\nhttps://public.lec-jp.com/univ-tsukuba/\n〇申込期間：～4月18日\n\n講座の内容については、以下へ直接お問い合わせください。\nLEC東京リーガルマインド大学営業課\nTEL／0…",
             "date_modified": "2025-04-07T03:00:00.000Z"
         },
         {
@@ -36,7 +43,7 @@
             "id": "592362d98dff761da54ce0cfc648a4d6",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=6098",
             "title": "茨城県留学生親善大使募集(Application for Ibaraki Foreign Student Goodwill Ambassador.)",
-            "summary": "表題の募集のご案内をいたします。座学だけでなく、インターンシップや実習、ボランティア等の実践活動を含む留学計画が支援対象であり、留学の成果を積極的に社会に発信することが求められます。申請希望者は募集要項にて要件を確認し、下記の通り応募申請を完了してください。また所属する教育組織に対応した支援室等に所得証明関連書類を同日17時までに提出してください。応募申請は本学を通して行う必要があり、この締切日時…",
+            "summary": "<<留学生対象>>\n公益財団法人　茨城県国際交流協会より、留学生親善大使募集のお知らせがありました。\nそこで、留学生親善大使を募集します。\n興味のある方は、「2025 留学生親善大使申込書(Application Form)」を下記からダウンロードして、学生交流課留学生支援宛に2025年5月6日(火)までにメールで応募してください。学生証と在留カードの表と裏の写しも同時に送ってください。\n(メール…",
             "date_modified": "2025-04-07T03:00:00.000Z"
         },
         {
@@ -50,7 +57,7 @@
             "id": "81fbb2040d8fb23635f4023a088d60ea",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=6095",
             "title": "キャリアや就活が気になる方へ！（BHE）Teams内　キャリア支援情報発信チームのご案内",
-            "summary": "「留学には、興味があるけどよくわからない」、「プログラムについてもっと知りたい」、「語学研修やインターンシップが気になる」「お金は？」というあなたのために春の留学フェアを開催します！\n交換留学の概要、留学のための奨学金、各留学プログラム毎の説明会や、民間主催の海外インターンシップ、語学試験の説明会など、この期間にまとめてどどっと！開催しますので、ぜひスチューデント・コモンズ（一部オンライン）にて参…",
+            "summary": "Teams内　キャリア支援情報発信チームのご案内\n\nBHEには、日々、各所から求人・インターンシップ、各種イベントなど、\n筑波大生に向けた案内が届きます。\nHPや学内掲示板では発信しきれない情報をタイムリーに発信していきます。\n現在2200名の方が参加中です。\n卒業年度別や志望別のチャネルを設けていますので、ぜひ活用してください。\n博士後期学生の方は専用のチームがありますので、そちらへご参加くださ…",
             "date_modified": "2025-04-07T03:00:00.000Z"
         },
         {
@@ -85,7 +92,7 @@
             "id": "85acb1c8197b29672aa970adce7f4a1b",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=6090",
             "title": "筑波大学発ベンチャー・PLIMES株式会社下柿元 智也氏講演「世界最先端の研究成果を人々と社会のために」",
-            "summary": "筑波大学ヒューマンエンパワーメント推進局（BHE）は、2025年6月7日（土）・8日（日）に開催されるTokyo Pride 2025（旧：東京レインボープライド）にブース出展を行います。そこで、ブース出展の手伝いをお願いできる学生・教職員ボランティアを募集します。具体的な内容は以下の通りです。みなさまのご応募をお待ちしています！\n\n日時：2025年6月7日（土）、8日（日）\n※ボランティアはいず…",
+            "summary": "筑波大学卒業生でベンチャー企業を立ち上げ活躍する下柿元 智也氏の講演を、「筑波クリエイティブ・キャンプ・ベーシック」（学群自由科目）第2回授業内で実施いたします。\n授業履修生以外の方の参加も可能ですので、起業や事業立ち上げにご興味のある方はぜひご参加ください！\n\n■講演者　　　　：下柿元 智也氏　PLIMES株式会社の代表取締役副社長・共同創業者\n■日時　　　　　：2025年4月23日（水）13:…",
             "date_modified": "2025-04-05T03:00:00.000Z"
         },
         {
@@ -99,7 +106,7 @@
             "id": "fbac8c54bffb1cc6d5fe3badde9cf9d6",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=6088",
             "title": "To All the students (NOTICE)：Changes in Class Dates in 2025",
-            "summary": "学生各位\n\nこのことについて、授業日数確保のため、下記のとおり曜日が振替になっていますので、ご注意願います。\n（但し、東京キャンパスは除く。）\n\n　　　　　　　　　　　　　　　　記\n【春学期授業】\n令和７年  ５月  ７日（水）は、火曜日の授業を実施（終日）\n\n【秋学期授業】\n令和７年１０月１６日（木）は、月曜日の授業を実施（終日）\n令和７年１１月   ５日（水）は、火曜日の授業を実施（終日）\n令…",
+            "summary": "To All the students:\n\nIn order to ensure certain number of class days, classes on listed dates are scheduled to be held as follows (excluding Tokyo Campus):\n\n　　　　　　　　　　Statement\n\n【Spring semester】\nTue…",
             "date_modified": "2025-04-04T03:00:00.000Z"
         },
         {
@@ -113,7 +120,7 @@
             "id": "73869b7bee6a25aeed919039405ce49e",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=6085",
             "title": "【開催案内】博士課程対象「データサイエンス・エキスパート・プログラム（DSEP）」履修説明会（4/10(木)14：00～15：00開催）",
-            "summary": "To All Doctoral and Master's Students,\n\nWe are pleased to announce the upcoming Course Enrollment Orientation for the Data Science Expert Program (DSEP)one of the certified learning programs in the fi…",
+            "summary": "博士課程の学生　各位\n\nこのたび、本学の数理・データサイエンス・AI（MDA）教育における学修証明プログラムの一つである「データサイエンス・エキスパート・プログラム（DSEP）」の履修説明会を開催します。\n\n本プログラムは、博士後期課程に在籍する全ての学生が申請可能で、所定の単位を修得した学生には、学長名の修了認定証が授与されます。\nDSEPでは、イノベーション創出力に優れ、実社会の問題解決を推進…",
             "date_modified": "2025-04-04T03:00:00.000Z"
         },
         {
@@ -127,7 +134,7 @@
             "id": "711bfc42cf27f66836fea344ca8381cb",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=6080",
             "title": "【27卒28卒】就活＆インターンシップオンラインガイダンス　【基礎編】【応用編】※リマインド",
-            "summary": "令和７年度の学生定期健康診断を、身体検査とこころの健康調査に分けて実施します。対象者は必ず受診してください。\n\n身体検査\n４月１１日（金）から４月２３日（水）で実施されます。\n指定日時内の希望の時間を保健管理センターのホームページにて予約してください。\n\nこころの健康調査\n４月１１日（金）から５月３１日（土）で実施されます。\n学習管理システム（manaba）での回答となります。\n\n詳細は以下のPD…",
+            "summary": "就活＆インターンシップオンラインガイダンスを2回にわたって開催します。\nインターンシップの基礎知識や必要な準備から企業選び、人気のインターンシップ選考対策までマイナビのキャリアサポーターやマイナビの元採用コンサルタントが解説いたします。\nインターンシップは企業や働くことを知る第1歩です。就活生の方はもちろん、そうでない方もぜひご参加ください。\n\n①【基礎編】就職活動やインターンシップのポイントを知…",
             "date_modified": "2025-04-03T03:00:00.000Z"
         },
         {
@@ -135,13 +142,6 @@
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=6079",
             "title": "【奨学金/Scholarship】東京YWCA学金 /Tokyo YWCA Scholarship",
             "summary": "東京YWCA「留学生の母親」運動奨学金（2025年度）\n応募期間：2025年5月7日(水)～14日(水)　※必着\n提出先：財団へ直接応募\n募集要項：(PDF(資料1))\n財団HP：https://www.tokyo.ywca.or.jp/peace/ryugakusei/scholarship\n※日本語能力が必要です。\n※この奨学金を受給する者は、2025年度の大学推薦奨学金の申請資格がありません…",
-            "date_modified": "2025-04-03T03:00:00.000Z"
-        },
-        {
-            "id": "36ac3e9703d23b0e8a804c7077c1973f",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=6078",
-            "title": "利用しませんか？個別キャリア相談",
-            "summary": "キャリア支援チームでは、就職・進路に関する個別キャリア相談を随時お受けしています。\n就職活動や進路選択にまつわること、インターンシップのことなど、\n悩んでいることや相談したいことがあれば、どんなことでも。\n経験豊富な相談員が個別にお話をうかがい、情報提供やアドバイスなどを行います。\n\n相談したい内容が整理されていなくても構いません。\n何から取り組んでいくかを、一緒に考えていきましょう。\n面接練習や…",
             "date_modified": "2025-04-03T03:00:00.000Z"
         }
     ]
