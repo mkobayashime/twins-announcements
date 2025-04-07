@@ -4,10 +4,21 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Mon, 07 Apr 2025 09:08:30 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 07 Apr 2025 13:08:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
+        <item>
+            <title><![CDATA[一部の建物への入構方法変更について / Changes to entrance procedures for some buildings]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=6104</link>
+            <guid>b3e8330be6f1896dc1b1ebae87b268c5</guid>
+            <pubDate>Mon, 07 Apr 2025 03:00:00 GMT</pubDate>
+            <description><![CDATA[本学のセキュリティ確保の観点から、令和7年4月より、一部の建物において、入構時に学生証・職員証を提示することとなります。
+また、学生証・職員証を忘れた者の入構については、各所属組織にて本人確認を実施したうえでの臨時入構を認めることとします。
+ついては、添付の対応フローに基づきご対応いただけますようお願いいたします。
+
+To ensure security, starting in April 20…]]></description>
+        </item>
         <item>
             <title><![CDATA[カナダのプリンスエドワード島大学「英語で授業ができる教員養成のためのTA・TF夏期海外研修プログラム」説明会開催]]></title>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=6103</link>
@@ -242,19 +253,6 @@ DSEPでは、イノベーション創出力に優れ、実社会の問題解決�
 インターンシップは企業や働くことを知る第1歩です。就活生の方はもちろん、そうでない方もぜひご参加ください。
 
 ①【基礎編】就職活動やインターンシップのポイントを知…]]></description>
-        </item>
-        <item>
-            <title><![CDATA[【奨学金/Scholarship】東京YWCA学金 /Tokyo YWCA Scholarship]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=6079</link>
-            <guid>68d751a8b0b5ed1983f90d4010ad9cec</guid>
-            <pubDate>Thu, 03 Apr 2025 03:00:00 GMT</pubDate>
-            <description><![CDATA[東京YWCA「留学生の母親」運動奨学金（2025年度）
-応募期間：2025年5月7日(水)～14日(水)　※必着
-提出先：財団へ直接応募
-募集要項：(PDF(資料1))
-財団HP：https://www.tokyo.ywca.or.jp/peace/ryugakusei/scholarship
-※日本語能力が必要です。
-※この奨学金を受給する者は、2025年度の大学推薦奨学金の申請資格がありません…]]></description>
         </item>
     </channel>
 </rss>

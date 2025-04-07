@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "b3e8330be6f1896dc1b1ebae87b268c5",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=6104",
+            "title": "一部の建物への入構方法変更について / Changes to entrance procedures for some buildings",
+            "summary": "本学のセキュリティ確保の観点から、令和7年4月より、一部の建物において、入構時に学生証・職員証を提示することとなります。\nまた、学生証・職員証を忘れた者の入構については、各所属組織にて本人確認を実施したうえでの臨時入構を認めることとします。\nついては、添付の対応フローに基づきご対応いただけますようお願いいたします。\n\nTo ensure security, starting in April 20…",
+            "date_modified": "2025-04-07T03:00:00.000Z"
+        },
+        {
             "id": "a5745ba72bf255563cac30b12cc8ab38",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=6103",
             "title": "カナダのプリンスエドワード島大学「英語で授業ができる教員養成のためのTA・TF夏期海外研修プログラム」説明会開催",
@@ -135,13 +142,6 @@
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=6080",
             "title": "【27卒28卒】就活＆インターンシップオンラインガイダンス　【基礎編】【応用編】※リマインド",
             "summary": "就活＆インターンシップオンラインガイダンスを2回にわたって開催します。\nインターンシップの基礎知識や必要な準備から企業選び、人気のインターンシップ選考対策までマイナビのキャリアサポーターやマイナビの元採用コンサルタントが解説いたします。\nインターンシップは企業や働くことを知る第1歩です。就活生の方はもちろん、そうでない方もぜひご参加ください。\n\n①【基礎編】就職活動やインターンシップのポイントを知…",
-            "date_modified": "2025-04-03T03:00:00.000Z"
-        },
-        {
-            "id": "68d751a8b0b5ed1983f90d4010ad9cec",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=6079",
-            "title": "【奨学金/Scholarship】東京YWCA学金 /Tokyo YWCA Scholarship",
-            "summary": "東京YWCA「留学生の母親」運動奨学金（2025年度）\n応募期間：2025年5月7日(水)～14日(水)　※必着\n提出先：財団へ直接応募\n募集要項：(PDF(資料1))\n財団HP：https://www.tokyo.ywca.or.jp/peace/ryugakusei/scholarship\n※日本語能力が必要です。\n※この奨学金を受給する者は、2025年度の大学推薦奨学金の申請資格がありません…",
             "date_modified": "2025-04-03T03:00:00.000Z"
         }
     ]
