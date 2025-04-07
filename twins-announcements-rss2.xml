@@ -4,10 +4,27 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Mon, 07 Apr 2025 04:01:58 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 07 Apr 2025 05:01:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
+        <item>
+            <title><![CDATA[LEC東京リーガルマインド　「26年合格目標　筑波大学公務員講座」のご案内]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=6101</link>
+            <guid>541fb3c6bfba696cc212b8f666f52f1b</guid>
+            <pubDate>Mon, 07 Apr 2025 03:00:00 GMT</pubDate>
+            <description><![CDATA[LEC東京リーガルマインドによる、筑波大生向けの公務員講座を開催します。
+26年の公務員試験受験を目指す方は、ぜひご検討ください。
+
+〇開講日：5月22日
+〇詳細：HP・パンフレット参照
+https://public.lec-jp.com/univ-tsukuba/
+〇申込期間：～4月18日
+
+講座の内容については、以下へ直接お問い合わせください。
+LEC東京リーガルマインド大学営業課
+TEL／0…]]></description>
+        </item>
         <item>
             <title><![CDATA[就活/キャリアについてのぶっちゃけ質問会,相談会(4月)]]></title>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=6100</link>
@@ -240,16 +257,6 @@ DSEPでは、イノベーション創出力に優れ、実社会の問題解決�
             <description><![CDATA[グローバルコミュニケーション教育センター（CEGLOC）が開講する日本語コースの受講を希望する留学生等は、下記のリンクから受講手続を確認してください。
 
 If you are interested in the Japanese Language Courses offered by the Center for Education of Global Communication (CEGLOC)…]]></description>
-        </item>
-        <item>
-            <title><![CDATA[TA training 2025 launched on manaba]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=6076</link>
-            <guid>e0301a7e585d88dfabfce7259d6ab7cb</guid>
-            <pubDate>Wed, 02 Apr 2025 03:00:00 GMT</pubDate>
-            <description><![CDATA[Dear graduate students
-
-The TA training seminar has been now launched on manaba. Those scheduled to engage in TA duties must complete the seminar before commencing their tasks.
-]]></description>
         </item>
     </channel>
 </rss>

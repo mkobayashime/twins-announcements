@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "541fb3c6bfba696cc212b8f666f52f1b",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=6101",
+            "title": "LEC東京リーガルマインド　「26年合格目標　筑波大学公務員講座」のご案内",
+            "summary": "LEC東京リーガルマインドによる、筑波大生向けの公務員講座を開催します。\n26年の公務員試験受験を目指す方は、ぜひご検討ください。\n\n〇開講日：5月22日\n〇詳細：HP・パンフレット参照\nhttps://public.lec-jp.com/univ-tsukuba/\n〇申込期間：～4月18日\n\n講座の内容については、以下へ直接お問い合わせください。\nLEC東京リーガルマインド大学営業課\nTEL／0…",
+            "date_modified": "2025-04-07T03:00:00.000Z"
+        },
+        {
             "id": "83eb3a09381af549589d3e7c79024733",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=6100",
             "title": "就活/キャリアについてのぶっちゃけ質問会,相談会(4月)",
@@ -136,13 +143,6 @@
             "title": "2025年度 日本語コースの実施/Japanese Language Courses for AY2025",
             "summary": "グローバルコミュニケーション教育センター（CEGLOC）が開講する日本語コースの受講を希望する留学生等は、下記のリンクから受講手続を確認してください。\n\nIf you are interested in the Japanese Language Courses offered by the Center for Education of Global Communication (CEGLOC)…",
             "date_modified": "2025-04-03T03:00:00.000Z"
-        },
-        {
-            "id": "e0301a7e585d88dfabfce7259d6ab7cb",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=6076",
-            "title": "TA training 2025 launched on manaba",
-            "summary": "Dear graduate students\n\nThe TA training seminar has been now launched on manaba. Those scheduled to engage in TA duties must complete the seminar before commencing their tasks.\n",
-            "date_modified": "2025-04-02T03:00:00.000Z"
         }
     ]
 }
