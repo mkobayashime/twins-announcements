@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/mkobayashime/twins-announcements</id>
     <title>在学生へのお知らせ | 筑波大学</title>
-    <updated>2025-04-07T00:03:14.532Z</updated>
+    <updated>2025-04-07T01:29:02.542Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://github.com/mkobayashime/twins-announcements"/>
     <subtitle>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</subtitle>
+    <entry>
+        <title type="html"><![CDATA[「投資のキホン勉強会」開催のお知らせ（世界を変えよう基金）]]></title>
+        <id>38e9cd05cf3ae429a9a55544b2d3cbd9</id>
+        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=6093"/>
+        <updated>2025-04-07T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[「筑波大学・世界を変えよう基金アカデミー」では、投資の基本を理解するために必要な最低限のマクロ経済学、企業財務分析、株式投資、債券投資、外貨投資、不動産投資について学ぶ「投資のキホン勉強会」を対面で４月18日から毎週金曜日10:30~12:00 に約４か月間開催します。
+
+　講師は、財務省、金融庁に長年勤務した「世界を変えよう基金」代表の鈴木英明客員教授（国際総合学類）です。
+
+教科書：「最初でつ…]]></summary>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【募集】学生スタッフ（ピアスタッフ）若干名（１～２名）]]></title>
         <id>9a28ef5edc330db0c1fe0f16c8a98a30</id>
@@ -250,14 +261,5 @@ ECサイトは以下のリンクから
 口座振替日、納付期限についてご確認をお願いいたします。
 
 ]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【お知らせ】授業で使用する教室の公開方法の変更について/【Notice】Change in the Method of Disclosing Classrooms Used for courses]]></title>
-        <id>942296633d9658a8bb4b69570a5455ae</id>
-        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=6068"/>
-        <updated>2025-04-01T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[学生　各位
-授業で使用する教室については、これまで開設授業科目一覧に掲載し、広く公開してきましたが、セキュリティリスクや情報漏洩の観点から、令和7（2025）年度からは学内者限定で公開することとします。
-今後は、各種システム（SharePoint(Microsoft 365), TWINS, manaba）にて教室情報を提供しますので、添付「授業で使用する教室の確認方法」を確認の上、履修する授業の…]]></summary>
     </entry>
 </feed>
