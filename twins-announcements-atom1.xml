@@ -2,10 +2,18 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/mkobayashime/twins-announcements</id>
     <title>在学生へのお知らせ | 筑波大学</title>
-    <updated>2025-04-08T05:01:37.885Z</updated>
+    <updated>2025-04-08T06:01:34.378Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://github.com/mkobayashime/twins-announcements"/>
     <subtitle>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</subtitle>
+    <entry>
+        <title type="html"><![CDATA[【募集】ビクトリア大学ウェリントン校（ニュージーランド）における2025年度海外語学研修（英語）]]></title>
+        <id>a7d119de2de1de9de2af4f789d54d4fb</id>
+        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=6110"/>
+        <updated>2025-04-08T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[ビクトリア大学ウェリントン校（ニュージーランド）における2025年度海外語学研修（英語）に参加される学部生/大学院生を募集しています．
+この6週間の語学研修プログラムは，毎年7〜9月に夏期集中講座として実施されます．（最初の1週間は，国内にてオンラインのオリエンテーションに参加します．）このプログラムを修了することで3単位（特設自由科目：海外語学研修英語）を取得できます．詳細は添付ファイルをご覧く…]]></summary>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【募集】世界展開力強化事業（CAMPUS-Asia6）海外派遣学生（第4期生）派遣説明会開催！]]></title>
         <id>0356ec5ac437708f32e6cfebf6a290d1</id>
@@ -234,19 +242,5 @@ BHEでは、ピアスタッフという学生スタッフ制度を設けて、�
 令和７年１０月１６日（木）は、月曜日の授業を実施（終日）
 令和７年１１月   ５日（水）は、火曜日の授業を実施（終日）
 令…]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[To All the students (NOTICE)：Changes in Class Dates in 2025]]></title>
-        <id>fbac8c54bffb1cc6d5fe3badde9cf9d6</id>
-        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=6088"/>
-        <updated>2025-04-04T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[To All the students:
-
-In order to ensure certain number of class days, classes on listed dates are scheduled to be held as follows (excluding Tokyo Campus):
-
-　　　　　　　　　　Statement
-
-【Spring semester】
-Tue…]]></summary>
     </entry>
 </feed>
