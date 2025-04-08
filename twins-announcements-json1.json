@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "0356ec5ac437708f32e6cfebf6a290d1",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=6109",
+            "title": "【募集】世界展開力強化事業（CAMPUS-Asia6）海外派遣学生（第4期生）派遣説明会開催！",
+            "summary": "世界展開力強化事業「アジア高等教育共同体形成促進」（CAMPUS-Asia6）では海外派遣学生（第4期生）の募集を開始します！\n日本、中国、韓国およびASEAN（インドネシア、タイ、マレーシア）で行う交換留学プログラムです。\n各国の大学院生との交流を通して「地球規模課題」について考えてみませんか？\n\n募集にあたりプログラム説明会を開催します。CAMPUS-Asia6プログラム、アジアの国々、留学に…",
+            "date_modified": "2025-04-08T03:00:00.000Z"
+        },
+        {
             "id": "b11da0d0806949223b69590cbd8ab999",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=6108",
             "title": "【夏インターンを検討中の学生はぜひ！】5/13～16「インターンシップ・業界研究会」（BHE）",
@@ -135,13 +142,6 @@
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=6088",
             "title": "To All the students (NOTICE)：Changes in Class Dates in 2025",
             "summary": "To All the students:\n\nIn order to ensure certain number of class days, classes on listed dates are scheduled to be held as follows (excluding Tokyo Campus):\n\n　　　　　　　　　　Statement\n\n【Spring semester】\nTue…",
-            "date_modified": "2025-04-04T03:00:00.000Z"
-        },
-        {
-            "id": "d7ccfb1e70f115847653d77d1fd7719e",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=6086",
-            "title": "[Event Announcement – April 10 (Thu), 14:00-15:00]DSEP Course Enrollment Orientation",
-            "summary": "To All Doctoral and Master's Students,\n\nWe are pleased to announce the upcoming Course Enrollment Orientation for the Data Science Expert Program (DSEP)one of the certified learning programs in the fi…",
             "date_modified": "2025-04-04T03:00:00.000Z"
         }
     ]
