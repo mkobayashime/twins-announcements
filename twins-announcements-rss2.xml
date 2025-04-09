@@ -4,10 +4,21 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Wed, 09 Apr 2025 06:01:46 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 09 Apr 2025 08:01:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
+        <item>
+            <title><![CDATA[【支援金】DSEP共同研究・研究留学の支援金を公募します [Funding Opportunity] DSEP Joint Research and Study Abroad Support]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=6113</link>
+            <guid>2273f0731e1eb512a9f81193e2145b6f</guid>
+            <pubDate>Wed, 09 Apr 2025 03:00:00 GMT</pubDate>
+            <description><![CDATA[データサイエンス・エキスパート・プログラム（DSEP）で開講している「MDA後期プロジェクト研究」「MDA後期研究留学」の科目では、前者は国内、後者は海外の、共同研究やインターンシップ等の活動に対し、研究費や旅費等、最大50万円を支援します。
+DSEP履修生を対象とします。
+4月30日(水)締切です。ぜひご応募ください。
+
+4/10(木)14時から開催する DSEP履修説明会 にて、詳細のご説明を…]]></description>
+        </item>
         <item>
             <title><![CDATA[[Participants wanted] 2025/4/23 Lecture and Workshop on the Olympic Values Education Programme]]></title>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=6112</link>
@@ -70,17 +81,13 @@ https://forms.office.…]]></description>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=6107</link>
             <guid>385dd424befbe4dd1650aa4559b8b9c2</guid>
             <pubDate>Tue, 08 Apr 2025 03:00:00 GMT</pubDate>
-            <description><![CDATA[LEC東京リーガルマインドによる、筑波大生向けの公務員講座を開催します。
-26年の公務員試験受験を目指す方は、ぜひご検討ください。
+            <description><![CDATA[ヒューマンエンパワーメント推進局（BHE）キャリア支援チームでは、5月13日（火）から5月16日（金）まで
+「筑波大生のキャリアイベント -インターンシップ・業界研究会- 」を開催！
+4日間で120社以上の企業・団体・官公庁が大学会館に集結します！
 
-〇開講日：5月22日
-〇詳細：HP・パンフレット参照
-https://public.lec-jp.com/univ-tsukuba/
-〇申込期間：～4月18日
-
-講座の内容については、以下へ直接お問い合わせください。
-LEC東京リーガルマインド大学営業課
-TEL／0…]]></description>
+特別企画として、開催前夜には「優良企業・研究機関の探し方講座（オンライン）」　、
+開催期間中は毎日「OB・OG相談会」を実施します。
+夏休みにインタ…]]></description>
         </item>
         <item>
             <title><![CDATA[キャリアや就活が気になる方へ！（BHE）Teams内　キャリア支援情報発信チームのご案内]]></title>
@@ -229,16 +236,6 @@ BHEでは、ピアスタッフという学生スタッフ制度を設けて、�
 
 ＊ピアスタッフとは
 …学生が主体となってジェンダー・セクシュアリティに関する企画の立案・運営を行う制度です。定期的・…]]></description>
-        </item>
-        <item>
-            <title><![CDATA[（再掲）【学生・教職員ボランティア募集】Tokyo Pride 2025]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=6091</link>
-            <guid>8807f68f9d8d18937d5517af54518d03</guid>
-            <pubDate>Mon, 07 Apr 2025 03:00:00 GMT</pubDate>
-            <description><![CDATA[筑波大学ヒューマンエンパワーメント推進局（BHE）は、2025年6月7日（土）・8日（日）に開催されるTokyo Pride 2025（旧：東京レインボープライド）にブース出展を行います。そこで、ブース出展の手伝いをお願いできる学生・教職員ボランティアを募集します。具体的な内容は以下の通りです。みなさまのご応募をお待ちしています！
-
-日時：2025年6月7日（土）、8日（日）
-※ボランティアはいず…]]></description>
         </item>
     </channel>
 </rss>
