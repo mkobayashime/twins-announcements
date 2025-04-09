@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/mkobayashime/twins-announcements</id>
     <title>在学生へのお知らせ | 筑波大学</title>
-    <updated>2025-04-09T02:28:27.211Z</updated>
+    <updated>2025-04-09T06:01:46.494Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://github.com/mkobayashime/twins-announcements"/>
     <subtitle>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</subtitle>
+    <entry>
+        <title type="html"><![CDATA[[Participants wanted] 2025/4/23 Lecture and Workshop on the Olympic Values Education Programme]]></title>
+        <id>32382d4d5a41303278288d9f44694c71</id>
+        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=6112"/>
+        <updated>2025-04-09T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[このコースは英語で行われます。
+
+　This special lecture will be conducted as part of the “Olympic and Paralympic Education” subject of TIAS 2.0. Basically, it will be conducted in English only.
+　The lecturer, who was …]]></summary>
+    </entry>
     <entry>
         <title type="html"><![CDATA[自然保護寄附講座の新規受講生募集説明会開催のお知らせ / CPNC Orientation Sessions will begin]]></title>
         <id>6b87b9d3a9df3aa40dcae2275140fb43</id>
@@ -227,16 +237,5 @@ BHEでは、ピアスタッフという学生スタッフ制度を設けて、�
 
 日時：2025年6月7日（土）、8日（日）
 ※ボランティアはいず…]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[筑波大学発ベンチャー・PLIMES株式会社下柿元 智也氏講演「世界最先端の研究成果を人々と社会のために」]]></title>
-        <id>85acb1c8197b29672aa970adce7f4a1b</id>
-        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=6090"/>
-        <updated>2025-04-05T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[筑波大学卒業生でベンチャー企業を立ち上げ活躍する下柿元 智也氏の講演を、「筑波クリエイティブ・キャンプ・ベーシック」（学群自由科目）第2回授業内で実施いたします。
-授業履修生以外の方の参加も可能ですので、起業や事業立ち上げにご興味のある方はぜひご参加ください！
-
-■講演者　　　　：下柿元 智也氏　PLIMES株式会社の代表取締役副社長・共同創業者
-■日時　　　　　：2025年4月23日（水）13:…]]></summary>
     </entry>
 </feed>
