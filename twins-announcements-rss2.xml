@@ -4,10 +4,25 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Thu, 10 Apr 2025 01:29:04 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 10 Apr 2025 05:01:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
+        <item>
+            <title><![CDATA[自然保護寄附講座新規受講生募集説明会開催のお知らせ / Certificate Programme on Nature Conservation Orientation Sessions]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=6119</link>
+            <guid>121eee4ed01adce629613930cb142454</guid>
+            <pubDate>Thu, 10 Apr 2025 03:00:00 GMT</pubDate>
+            <description><![CDATA[自然保護寄附講座の新規受講生募集の説明会が本日も開催されます。
+
+説明会の参加申し込みフォームに不具合が生じていましたが、現在は申し込めるようになっています。
+
+寄附講座のHP
+https://www.conservation.tsukuba.ac.jp/plugin/blogs/show/12/71/816#frame-71
+
+説明会申し込みform
+https://forms.office.c…]]></description>
+        </item>
         <item>
             <title><![CDATA[【開催通知】受動喫煙対策講習会]]></title>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=6118</link>
@@ -235,17 +250,6 @@ HPや学内掲示板では発信しきれない情報をタイムリーに発信
 現在2200名の方が参加中です。
 卒業年度別や志望別のチャネルを設けていますので、ぜひ活用してください。
 博士後期学生の方は専用のチームがありますので、そちらへご参加くださ…]]></description>
-        </item>
-        <item>
-            <title><![CDATA[「現代中国勉強会」開催のお知らせ（世界を変えよう基金）]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=6094</link>
-            <guid>1ff906b1edca51322051cec7e83bc008</guid>
-            <pubDate>Mon, 07 Apr 2025 03:00:00 GMT</pubDate>
-            <description><![CDATA[筑波大学「世界を変えよう基金アカデミー」では、Harvard大学で実施された”Contemporary China” の英語講義ビデオを教材として、現代中国に関する勉強会を4月後半から毎週水曜日10:30~12:00, 16:30~18:00 に開催します。
-
-勉強会では、英語講義ビデオを視聴した後、講義内容について議論します。
-
-これから英語圏での留学を考えている学生には、英語の listeni…]]></description>
         </item>
     </channel>
 </rss>

@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "121eee4ed01adce629613930cb142454",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=6119",
+            "title": "自然保護寄附講座新規受講生募集説明会開催のお知らせ / Certificate Programme on Nature Conservation Orientation Sessions",
+            "summary": "自然保護寄附講座の新規受講生募集の説明会が本日も開催されます。\n\n説明会の参加申し込みフォームに不具合が生じていましたが、現在は申し込めるようになっています。\n\n寄附講座のHP\nhttps://www.conservation.tsukuba.ac.jp/plugin/blogs/show/12/71/816#frame-71\n\n説明会申し込みform\nhttps://forms.office.c…",
+            "date_modified": "2025-04-10T03:00:00.000Z"
+        },
+        {
             "id": "954f2b4d7bb0544e42fc60703c0fd31a",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=6118",
             "title": "【開催通知】受動喫煙対策講習会",
@@ -135,13 +142,6 @@
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=6095",
             "title": "キャリアや就活が気になる方へ！（BHE）Teams内　キャリア支援情報発信チームのご案内",
             "summary": "Teams内　キャリア支援情報発信チームのご案内\n\nBHEには、日々、各所から求人・インターンシップ、各種イベントなど、\n筑波大生に向けた案内が届きます。\nHPや学内掲示板では発信しきれない情報をタイムリーに発信していきます。\n現在2200名の方が参加中です。\n卒業年度別や志望別のチャネルを設けていますので、ぜひ活用してください。\n博士後期学生の方は専用のチームがありますので、そちらへご参加くださ…",
-            "date_modified": "2025-04-07T03:00:00.000Z"
-        },
-        {
-            "id": "1ff906b1edca51322051cec7e83bc008",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=6094",
-            "title": "「現代中国勉強会」開催のお知らせ（世界を変えよう基金）",
-            "summary": "筑波大学「世界を変えよう基金アカデミー」では、Harvard大学で実施された”Contemporary China” の英語講義ビデオを教材として、現代中国に関する勉強会を4月後半から毎週水曜日10:30~12:00, 16:30~18:00 に開催します。\n\n勉強会では、英語講義ビデオを視聴した後、講義内容について議論します。\n\nこれから英語圏での留学を考えている学生には、英語の listeni…",
             "date_modified": "2025-04-07T03:00:00.000Z"
         }
     ]
