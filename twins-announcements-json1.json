@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "dd89e67f82ab91ff4bd7fe44daa22366",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=6127",
+            "title": "【開催案内】2024年度春季 合同帰国報告会 (カザフスタン/キルギス/タジキスタン)",
+            "summary": "2024年度春季に実施した、海外研修（プロジェクト研修（語学研修）/医療視察研修/インターンシップ）を修了した学生による帰国報告会を実施いたします。\n\n中央アジアやロシア語圏の文化、海外研修などに関心のある方、是非お気軽にご来聴ください。\n\n【開催案内】2024年度春季 合同帰国報告会\n\n日時：2025年4月17日（木）18:15～20:00　\n場所：筑波大学　スチューデント・コモンズ（1A棟20…",
+            "date_modified": "2025-04-11T03:00:00.000Z"
+        },
+        {
             "id": "44b2e528d3bb25c69e7129b616ca1b0d",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=6126",
             "title": "【参加者募集中】BHE オンライン面接練習会",
@@ -135,13 +142,6 @@
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=6104",
             "title": "一部の建物への入構方法変更について / Changes to entrance procedures for some buildings",
             "summary": "本学のセキュリティ確保の観点から、令和7年4月より、一部の建物において、入構時に学生証・職員証を提示することとなります。\nまた、学生証・職員証を忘れた者の入構については、各所属組織にて本人確認を実施したうえでの臨時入構を認めることとします。\nついては、添付の対応フローに基づきご対応いただけますようお願いいたします。\n\nTo ensure security, starting in April 20…",
-            "date_modified": "2025-04-07T03:00:00.000Z"
-        },
-        {
-            "id": "a5745ba72bf255563cac30b12cc8ab38",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=6103",
-            "title": "カナダのプリンスエドワード島大学「英語で授業ができる教員養成のためのTA・TF夏期海外研修プログラム」説明会開催",
-            "summary": "カナダのプリンスエドワード島大学「英語で授業ができる教員養成のためのTA・TF夏期海外研修プログラム」（海外研究・教育実践演習 II  0BBAJC2 ）の説明会を４月１６日（水）（１１時３０分から１２時）にオンラインで開催します。「はばたけ！筑大生」一人あたり20万円支給（先着10人）。説明会参加希望者は担当教員までメールしてください。前日の１５日にリンクを送ります。\n\n詳細はポスター参照\n",
             "date_modified": "2025-04-07T03:00:00.000Z"
         }
     ]
