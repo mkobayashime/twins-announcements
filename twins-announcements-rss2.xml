@@ -4,10 +4,25 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Fri, 11 Apr 2025 01:29:08 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 11 Apr 2025 02:28:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
+        <item>
+            <title><![CDATA[【参加者募集中】BHE オンライン面接練習会]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=6126</link>
+            <guid>44b2e528d3bb25c69e7129b616ca1b0d</guid>
+            <pubDate>Fri, 11 Apr 2025 03:00:00 GMT</pubDate>
+            <description><![CDATA[Zoomを使った面接練習会を開催します。
+グループレッスンで自分の苦手な部分へのフィードバックもあります。
+「まだ面接練習に慣れていない」、「練習する場がない」などお困りの方、参加しませんか。
+学年は問いません。どなたでも参加歓迎です！
+
+＜オンライン面接編＞
+4月18日（金）13：30-15：00 Zoomを使って行います。
+
+※4月の対面練習会（面接・GD）と5月以降の予定は添付ファイルを参照…]]></description>
+        </item>
         <item>
             <title><![CDATA[【奨学金/Scholarship】実践桜会国際交流基金奨学生募集（2025年度） /Jissen Sakura-kai Foundation for AY2025]]></title>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=6125</link>
@@ -247,17 +262,6 @@ To ensure security, starting in April 20…]]></description>
 
 詳細はポスター参照
 ]]></description>
-        </item>
-        <item>
-            <title><![CDATA[【27卒28卒】就活＆インターンシップオンラインガイダンス　【基礎編】【応用編】※リマインド]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=6102</link>
-            <guid>711bfc42cf27f66836fea344ca8381cb</guid>
-            <pubDate>Mon, 07 Apr 2025 03:00:00 GMT</pubDate>
-            <description><![CDATA[就活＆インターンシップオンラインガイダンスを2回にわたって開催します。
-インターンシップの基礎知識や必要な準備から企業選び、人気のインターンシップ選考対策までマイナビのキャリアサポーターやマイナビの元採用コンサルタントが解説いたします。
-インターンシップは企業や働くことを知る第1歩です。就活生の方はもちろん、そうでない方もぜひご参加ください。
-
-①【基礎編】就職活動やインターンシップのポイントを知…]]></description>
         </item>
     </channel>
 </rss>
