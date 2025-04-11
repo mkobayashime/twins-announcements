@@ -4,10 +4,21 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Fri, 11 Apr 2025 04:01:37 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 11 Apr 2025 05:01:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
+        <item>
+            <title><![CDATA[【27卒28卒】就活＆インターンシップオンラインガイダンス　【基礎編】【応用編】]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=6130</link>
+            <guid>435e34b44839f68ed47709549d8902d8</guid>
+            <pubDate>Fri, 11 Apr 2025 03:00:00 GMT</pubDate>
+            <description><![CDATA[就活＆インターンシップオンラインガイダンスを2回にわたって開催します。
+インターンシップの基礎知識や必要な準備から企業選び、人気のインターンシップ選考対策までマイナビのキャリアサポーターやマイナビの元採用コンサルタントが解説いたします。
+インターンシップは企業や働くことを知る第1歩です。就活生の方はもちろん、そうでない方もぜひご参加ください。
+
+①【基礎編】就職活動やインターンシップのポイントを知…]]></description>
+        </item>
         <item>
             <title><![CDATA[キャリアや就活が気になる方へ！（BHE）Teams内　キャリア支援情報発信チームのご案内]]></title>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=6128</link>
@@ -257,18 +268,6 @@ HPや学内掲示板では発信しきれない情報をタイムリーに発信
 現在2200名の方が参加中です。
 卒業年度別や志望別のチャネルを設けていますので、ぜひ活用してください。
 博士後期学生の方は専用のチームがありますので、そちらへご参加くださ…]]></description>
-        </item>
-        <item>
-            <title><![CDATA[スーツ等の割引サービスについて(2025/4/8更新)]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=6081</link>
-            <guid>2ffc32394b1790b7853ba8e01e62f3b4</guid>
-            <pubDate>Tue, 08 Apr 2025 03:00:00 GMT</pubDate>
-            <description><![CDATA[本学では、教職員の皆様の福利厚生を目的として、紳士服の大手4社と契約しています。
-教職員の皆様には、全国のAOKI、コナカ、はるやま、洋服の青山で、通常の割引価格から更に割引いた価格でスーツ等をご購入いただけます。
-大変お得ですので、是非ご利用ください（五十音順掲載）。
-※ご購入いただいた金額の一部が大学に寄附されます。
-
-チラシ有効期限：2025年9月30日(火)まで ※コナカ、はるやま、洋服の…]]></description>
         </item>
     </channel>
 </rss>
