@@ -5,6 +5,20 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "8139d9275e8a01aff9490009fcd86df9",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=6125",
+            "title": "【奨学金/Scholarship】実践桜会国際交流基金奨学生募集（2025年度） /Jissen Sakura-kai Foundation for AY2025",
+            "summary": "実践桜会国際交流基金奨学生募集（2025年度）\n応募期限：\n(Googleフォームによるエントリー締切)2025年５月23日（金）\n(応募書類提出締切)2024年5月30日（金）16時　※必着\n募集要項：(PDF(資料1))\n応募フォーム・必要書類一式：https://www.j-sakura.org/contents/society/application.htm\n提出先：財団に直接応募\n※日本…",
+            "date_modified": "2025-04-11T03:00:00.000Z"
+        },
+        {
+            "id": "3747796146a0ec1cdc19454fa1f8063e",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=6124",
+            "title": "【派遣学生募集】カリフォルニア大学アーバイン校（UCI）への交換留学（2026年春渡航分）について",
+            "summary": "本学協定校のカリフォルニア大学アーバイン校（UCI）について、2026年春渡航分の募集案内がありました。\n下記募集ページの内容をよく確認の上応募してください。\n\n募集ページ：https://ssc.sec.tsukuba.ac.jp/archives/51510\n\n【募集内容の概要】\n留学先：カリフォルニア大学アーバイン校（UCI）\n留学期間：2026年1月～2026年6月（冬学期及び春学期の統合…",
+            "date_modified": "2025-04-11T03:00:00.000Z"
+        },
+        {
             "id": "d83f41c01f02aeeac980bdcb8eb8c2af",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=6123",
             "title": "【アルバイト募集中！4/18(金)〆切】「筑波大生のキャリアイベント -インターンシップ・業界研究会-」（BHE）",
@@ -128,20 +142,6 @@
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=6102",
             "title": "【27卒28卒】就活＆インターンシップオンラインガイダンス　【基礎編】【応用編】※リマインド",
             "summary": "就活＆インターンシップオンラインガイダンスを2回にわたって開催します。\nインターンシップの基礎知識や必要な準備から企業選び、人気のインターンシップ選考対策までマイナビのキャリアサポーターやマイナビの元採用コンサルタントが解説いたします。\nインターンシップは企業や働くことを知る第1歩です。就活生の方はもちろん、そうでない方もぜひご参加ください。\n\n①【基礎編】就職活動やインターンシップのポイントを知…",
-            "date_modified": "2025-04-07T03:00:00.000Z"
-        },
-        {
-            "id": "541fb3c6bfba696cc212b8f666f52f1b",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=6101",
-            "title": "LEC東京リーガルマインド　「26年合格目標　筑波大学公務員講座」のご案内",
-            "summary": "LEC東京リーガルマインドによる、筑波大生向けの公務員講座を開催します。\n26年の公務員試験受験を目指す方は、ぜひご検討ください。\n\n〇開講日：5月22日\n〇詳細：HP・パンフレット参照\nhttps://public.lec-jp.com/univ-tsukuba/\n〇申込期間：～4月18日\n\n講座の内容については、以下へ直接お問い合わせください。\nLEC東京リーガルマインド大学営業課\nTEL／0…",
-            "date_modified": "2025-04-07T03:00:00.000Z"
-        },
-        {
-            "id": "ed17b8df16b3853d046050a7ee0f3c7b",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=6099",
-            "title": "(再掲)2025年度（第17期）官民協働海外留学支援制度～トビタテ！留学JAPAN新・日本代表プログラム～【新大学１年生】の募集について（学内締切：2025年4月14日（月）17時）",
-            "summary": "表題の募集のご案内をいたします。座学だけでなく、インターンシップや実習、ボランティア等の実践活動を含む留学計画が支援対象であり、留学の成果を積極的に社会に発信することが求められます。申請希望者は募集要項にて要件を確認し、下記の通り応募申請を完了してください。また所属する教育組織に対応した支援室等に所得証明関連書類を同日17時までに提出してください。応募申請は本学を通して行う必要があり、この締切日時…",
             "date_modified": "2025-04-07T03:00:00.000Z"
         }
     ]
