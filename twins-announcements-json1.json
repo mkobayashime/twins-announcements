@@ -5,6 +5,20 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "435e34b44839f68ed47709549d8902d8",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=6136",
+            "title": "【27卒28卒】就活＆インターンシップオンラインガイダンス　【基礎編】【応用編】",
+            "summary": "就活＆インターンシップオンラインガイダンスを2回にわたって開催します。\nインターンシップの基礎知識や必要な準備から企業選び、人気のインターンシップ選考対策までマイナビのキャリアサポーターやマイナビの元採用コンサルタントが解説いたします。\nインターンシップは企業や働くことを知る第1歩です。就活生の方はもちろん、そうでない方もぜひご参加ください。\n\n①【基礎編】就職活動やインターンシップのポイントを知…",
+            "date_modified": "2025-04-14T03:00:00.000Z"
+        },
+        {
+            "id": "541fb3c6bfba696cc212b8f666f52f1b",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=6135",
+            "title": "LEC東京リーガルマインド　「26年合格目標　筑波大学公務員講座」のご案内",
+            "summary": "LEC東京リーガルマインドによる、筑波大生向けの公務員講座を開催します。\n26年の公務員試験受験を目指す方は、ぜひご検討ください。\n\n〇開講日：5月22日\n〇詳細：HP・パンフレット参照\nhttps://public.lec-jp.com/univ-tsukuba/\n〇申込期間：～4月18日\n\n講座の内容については、以下へ直接お問い合わせください。\nLEC東京リーガルマインド大学営業課\nTEL／0…",
+            "date_modified": "2025-04-14T03:00:00.000Z"
+        },
+        {
             "id": "6bffb5d316b9ac3adef6dc7d78fed861",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=6134",
             "title": "＼本日から開催／【留学フェア2025年春】【スチューデント・コモンズ（1A203）】2025年4月14日（月）～4月25日（金）",
@@ -128,20 +142,6 @@
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=6113",
             "title": "【支援金】DSEP共同研究・研究留学の支援金を公募します [Funding Opportunity] DSEP Joint Research and Study Abroad Support",
             "summary": "データサイエンス・エキスパート・プログラム（DSEP）で開講している「MDA後期プロジェクト研究」「MDA後期研究留学」の科目では、前者は国内、後者は海外の、共同研究やインターンシップ等の活動に対し、研究費や旅費等、最大50万円を支援します。\nDSEP履修生を対象とします。\n4月30日(水)締切です。ぜひご応募ください。\n\n4/10(木)14時から開催する DSEP履修説明会 にて、詳細のご説明を…",
-            "date_modified": "2025-04-09T03:00:00.000Z"
-        },
-        {
-            "id": "32382d4d5a41303278288d9f44694c71",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=6112",
-            "title": "[Participants wanted] 2025/4/23 Lecture and Workshop on the Olympic Values Education Programme",
-            "summary": "このコースは英語で行われます。\n\n　This special lecture will be conducted as part of the “Olympic and Paralympic Education” subject of TIAS 2.0. Basically, it will be conducted in English only.\n　The lecturer, who was …",
-            "date_modified": "2025-04-09T03:00:00.000Z"
-        },
-        {
-            "id": "6b87b9d3a9df3aa40dcae2275140fb43",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=6111",
-            "title": "自然保護寄附講座の新規受講生募集説明会開催のお知らせ / CPNC Orientation Sessions will begin",
-            "summary": "今日から自然保護寄附講座の新規受講生募集の説明会が開催されます。\n\n説明会の参加申し込みフォームに不具合が生じていましたが、現在は申し込めるようになっています。\n\n寄附講座のHP\nhttps://www.conservation.tsukuba.ac.jp/plugin/blogs/show/12/71/816#frame-71\n\n説明会申し込みform\nhttps://forms.office.…",
             "date_modified": "2025-04-09T03:00:00.000Z"
         }
     ]
