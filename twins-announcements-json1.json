@@ -5,6 +5,20 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "ec19d1c0c941ab705bfae5e2c170694c",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=6144",
+            "title": "＼この後すぐ／フランス留学説明会（フランシュ＝コンテ大学・CLAフランス語学学校）",
+            "summary": "この後、18時10分からフランス留学説明会をオンラインで開催します！\n本学協定校であるフランシュ＝コンテ大学の担当教員や、CLAフランス語学学校の担当者から直接話を聞ける貴重な機会です！\n\n開催日時：2025年4月14日（月）18:10-19:00\n開催形態：オンライン（参加URLは、参加登録した人にメールにて送信されます。）\n\nフランスの大学への交換留学に少しでも興味があれば、参加登録の上、是非…",
+            "date_modified": "2025-04-14T03:00:00.000Z"
+        },
+        {
+            "id": "53ed402c874787c7ff3f280371075d08",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=6143",
+            "title": "[April 23] MDA Special Exercise Orientation for Doctoral and Master's Students",
+            "summary": "The Data Science Expert Program (DSEP) will hold a course orientation for doctoral and master's students on the MDA Special Exercise for Top-level Human Resource Development/Training. In this course, …",
+            "date_modified": "2025-04-14T03:00:00.000Z"
+        },
+        {
             "id": "63a2723f8ecf5220ceb5639793c7c671",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=6142",
             "title": "【4/23開催】MDAトップ人材養成/育成特別演習 履修説明会(博士後期・前期)",
@@ -128,20 +142,6 @@
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=6123",
             "title": "【アルバイト募集中！4/18(金)〆切】「筑波大生のキャリアイベント -インターンシップ・業界研究会-」（BHE）",
             "summary": "ヒューマンエンパワーメント推進局キャリア支援チーム(以下BHE)です。\nBHE主催の「筑波大生のキャリアイベント -インターンシップ・業界研究会-」で\nアルバイトをしてくれる方を募集中です！\n下記日程でご協力いただけそうでしたら、【　4/18（金）まで　】にお申込お待ちしております。\n\n--------------------------------------------------------…",
-            "date_modified": "2025-04-10T03:00:00.000Z"
-        },
-        {
-            "id": "d2433a8ac7ca2fc839746002fd2f6813",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=6121",
-            "title": "University of Tsukuba Study Abroad Support Programs AY2025 2nd Announcement (Habatake!)",
-            "summary": "2nd Call for applications for AY2025 University of Tsukuba Study Abroad Support Programs.\n\n1  Application Documents\nPlease apply according to the application guidelines for each support program.\nAppli…",
-            "date_modified": "2025-04-10T03:00:00.000Z"
-        },
-        {
-            "id": "f5955d2aefbd6f32f98e49489f9f85ca",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=6120",
-            "title": "（通知）令和７（２０２５）年度筑波大学海外留学支援事業 （はばたけ！筑大生）第２回募集について",
-            "summary": "令和７（２０２５）年度海外留学支援事業（はばたけ！筑大生）の第２回募集を下記のとおり実施します。\n\n①支援プログラム\n  1 国際交流協定校交換留学支援プログラム →　募集\n  2 ソーシャルインパクト・ＣｉＣ支援プログラム  →　募集\n  3 語学研修・海外研修参加支援プログラム→　募集\n  4 海外武者修行支援プログラム →　募集\n（注）海外学会等参加支援プログラム  →　募集なし（令和７年度…",
             "date_modified": "2025-04-10T03:00:00.000Z"
         }
     ]
