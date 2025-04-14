@@ -4,10 +4,18 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Sun, 13 Apr 2025 21:07:16 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 14 Apr 2025 01:29:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
+        <item>
+            <title><![CDATA[＼本日から開催／【留学フェア2025年春】【スチューデント・コモンズ（1A203）】2025年4月14日（月）～4月25日（金）]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=6134</link>
+            <guid>6bffb5d316b9ac3adef6dc7d78fed861</guid>
+            <pubDate>Mon, 14 Apr 2025 03:00:00 GMT</pubDate>
+            <description><![CDATA[「留学には、興味があるけどよくわからない」、「プログラムについてもっと知りたい」、「語学研修やインターンシップが気になる」「お金は？」というあなたのために春の留学フェアを開催します！
+交換留学の概要、留学のための奨学金、各留学プログラム毎の説明会や、民間主催の海外インターンシップ、語学試験の説明会など、この期間にまとめてどどっと！開催しますので、ぜひスチューデント・コモンズ（一部オンライン）にて参…]]></description>
+        </item>
         <item>
             <title><![CDATA[「筑波大学キャンパスマップ」に関するアンケートを実施しています]]></title>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=6129</link>
@@ -251,14 +259,6 @@ https://www.conservation.tsukuba.ac.jp/plugin/blogs/show/12/71/816#frame-71
 
 説明会申し込みform
 https://forms.office.…]]></description>
-        </item>
-        <item>
-            <title><![CDATA[【募集】ビクトリア大学ウェリントン校（ニュージーランド）における2025年度海外語学研修（英語）]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=6110</link>
-            <guid>a7d119de2de1de9de2af4f789d54d4fb</guid>
-            <pubDate>Tue, 08 Apr 2025 03:00:00 GMT</pubDate>
-            <description><![CDATA[ビクトリア大学ウェリントン校（ニュージーランド）における2025年度海外語学研修（英語）に参加される学部生/大学院生を募集しています．
-この6週間の語学研修プログラムは，毎年7〜9月に夏期集中講座として実施されます．（最初の1週間は，国内にてオンラインのオリエンテーションに参加します．）このプログラムを修了することで3単位（特設自由科目：海外語学研修英語）を取得できます．詳細は添付ファイルをご覧く…]]></description>
         </item>
     </channel>
 </rss>
