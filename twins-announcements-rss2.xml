@@ -4,10 +4,27 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Mon, 14 Apr 2025 21:07:07 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 15 Apr 2025 00:02:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
+        <item>
+            <title><![CDATA[第17回JCKフォーラム参加者募集／Call-for-participation to JCK Forum 2025]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=6145</link>
+            <guid>ea33b79fd50ac856a05caca33bbaeae6</guid>
+            <pubDate>Tue, 15 Apr 2025 03:00:00 GMT</pubDate>
+            <description><![CDATA[日中韓国際大学院生アカデミックフォーラムが今年は筑波大学でオンライン開催されます。
+
+日時：2025年9月18日（木）～9月19日（金）
+会場：筑波大学　オンライン開催（Zoom）
+対象：農学、環境科学、生命科学、地球科学を専攻する大学院生
+発表形式：口頭発表（英語）
+参加費：無料
+登録締切：令和7年5月12日（月）
+要旨提出締切：令和7年5月30日（金）
+
+登録用リンクは添付ポスターにあります。…]]></description>
+        </item>
         <item>
             <title><![CDATA[[April 23] MDA Special Exercise Orientation for Doctoral and Master's Students]]></title>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=6143</link>
@@ -236,17 +253,6 @@ BHE主催の「筑波大生のキャリアイベント -インターンシップ
 下記日程でご協力いただけそうでしたら、【　4/18（金）まで　】にお申込お待ちしております。
 
 --------------------------------------------------------…]]></description>
-        </item>
-        <item>
-            <title><![CDATA[University of Tsukuba Study Abroad Support Programs AY2025 2nd Announcement (Habatake!)]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=6121</link>
-            <guid>d2433a8ac7ca2fc839746002fd2f6813</guid>
-            <pubDate>Thu, 10 Apr 2025 03:00:00 GMT</pubDate>
-            <description><![CDATA[2nd Call for applications for AY2025 University of Tsukuba Study Abroad Support Programs.
-
-1  Application Documents
-Please apply according to the application guidelines for each support program.
-Appli…]]></description>
         </item>
     </channel>
 </rss>

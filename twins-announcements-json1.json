@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "ea33b79fd50ac856a05caca33bbaeae6",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=6145",
+            "title": "第17回JCKフォーラム参加者募集／Call-for-participation to JCK Forum 2025",
+            "summary": "日中韓国際大学院生アカデミックフォーラムが今年は筑波大学でオンライン開催されます。\n\n日時：2025年9月18日（木）～9月19日（金）\n会場：筑波大学　オンライン開催（Zoom）\n対象：農学、環境科学、生命科学、地球科学を専攻する大学院生\n発表形式：口頭発表（英語）\n参加費：無料\n登録締切：令和7年5月12日（月）\n要旨提出締切：令和7年5月30日（金）\n\n登録用リンクは添付ポスターにあります。…",
+            "date_modified": "2025-04-15T03:00:00.000Z"
+        },
+        {
             "id": "53ed402c874787c7ff3f280371075d08",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=6143",
             "title": "[April 23] MDA Special Exercise Orientation for Doctoral and Master's Students",
@@ -135,13 +142,6 @@
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=6123",
             "title": "【アルバイト募集中！4/18(金)〆切】「筑波大生のキャリアイベント -インターンシップ・業界研究会-」（BHE）",
             "summary": "ヒューマンエンパワーメント推進局キャリア支援チーム(以下BHE)です。\nBHE主催の「筑波大生のキャリアイベント -インターンシップ・業界研究会-」で\nアルバイトをしてくれる方を募集中です！\n下記日程でご協力いただけそうでしたら、【　4/18（金）まで　】にお申込お待ちしております。\n\n--------------------------------------------------------…",
-            "date_modified": "2025-04-10T03:00:00.000Z"
-        },
-        {
-            "id": "d2433a8ac7ca2fc839746002fd2f6813",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=6121",
-            "title": "University of Tsukuba Study Abroad Support Programs AY2025 2nd Announcement (Habatake!)",
-            "summary": "2nd Call for applications for AY2025 University of Tsukuba Study Abroad Support Programs.\n\n1  Application Documents\nPlease apply according to the application guidelines for each support program.\nAppli…",
             "date_modified": "2025-04-10T03:00:00.000Z"
         }
     ]
