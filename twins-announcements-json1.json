@@ -5,6 +5,27 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "41743ceaefc1c4187c7f53867db84077",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=6155",
+            "title": "【参加者募集】オハイオ州立大生と一緒に「未来のコミュニティとモビリティ」を考えよう！",
+            "summary": "5月に、オハイオ州立大学工学系の学生15名と職員2名が来筑！\n\nその滞在中に行われる「未来のコミュニティとモビリティ」をテーマにしたオハイオ州立大生と筑波大生によるグループワークの参加者を募集します！\n\n\n\n○日時\n\nオハイオ州立大生の来筑期間は2025年5月8日（木）～5/15（木）です。\n\nこの期間に、グループワークの機会を複数回設け、5/15（木）に発表会を行う予定です。\n\n詳しい日時は決ま…",
+            "date_modified": "2025-04-16T03:00:00.000Z"
+        },
+        {
+            "id": "81fbb2040d8fb23635f4023a088d60ea",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=6154",
+            "title": "キャリアや就活が気になる方へ！（BHE）Teams内　キャリア支援情報発信チームのご案内",
+            "summary": "Teams内　キャリア支援情報発信チームのご案内\n\nBHEには、日々、各所から求人・インターンシップ、各種イベントなど、\n筑波大生に向けた案内が届きます。\nHPや学内掲示板では発信しきれない情報をタイムリーに発信していきます。\n現在2200名の方が参加中です。\n卒業年度別や志望別のチャネルを設けていますので、ぜひ活用してください。\n博士後期学生の方は専用のチームがありますので、そちらへご参加くださ…",
+            "date_modified": "2025-04-16T03:00:00.000Z"
+        },
+        {
+            "id": "2154a3f292a0d2cfde8d1f1641bb2b79",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=6153",
+            "title": "「26年合格目標　筑波大学公務員講座」のご案内　LEC東京リーガルマインド主催　",
+            "summary": "LEC東京リーガルマインドによる、筑波大生向けの公務員講座を開催します。\n26年の公務員試験受験を目指す方は、ぜひご検討ください。\n\n〇開講日：5月22日\n〇詳細：HP・パンフレット参照\nhttps://public.lec-jp.com/univ-tsukuba/\n〇申込期間：～4月18日\n\n講座の内容については、以下へ直接お問い合わせください。\nLEC東京リーガルマインド大学営業課\nTEL／0…",
+            "date_modified": "2025-04-16T03:00:00.000Z"
+        },
+        {
             "id": "e09a9de0d6206d5ab0455a964e09ac08",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=6152",
             "title": "サイエンスコミュニケーション学修証明プログラム（募集中）",
@@ -121,27 +142,6 @@
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=6133",
             "title": "【開催案内】留学説明会（CIS、コーカサス、バルト、東欧諸国）",
             "summary": "NipCAプロジェクトと日本留学促進のための海外ネットワーク機能強化事業（文科省受託事業）との共催で2部構成の留学説明会を開催します。\n\n日時：2025年4月16日（水）18：00～20：00\n場所：第1部　筑波大学　スチューデント・コモンズ（１A棟203）\n\n第1部は、日本人学生を対象にNipCAプロジェクトが支援するCIS、コーカサス、バルト、東欧諸国への短期留学・海外研修プログラムについて紹…",
-            "date_modified": "2025-04-11T03:00:00.000Z"
-        },
-        {
-            "id": "b4745c1126c23d9b3f8c4667362ab95d",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=6132",
-            "title": "【学生・教職員ボランティア募集】Tokyo Pride 2025【募集期間延長】",
-            "summary": "筑波大学ヒューマンエンパワーメント推進局（BHE）は、2025年6月7日（土）・8日（日）に開催されるTokyo Pride 2025（旧：東京レインボープライド）にブース出展を行います。\nそこで、ブース出展の手伝いをお願いできる学生・教職員ボランティアを募集します。\n具体的な内容は以下の通りです。みなさまのご応募をお待ちしています！\n\n概要\n日時：2025年6月7日（土）、8日（日）\n※ボランテ…",
-            "date_modified": "2025-04-11T03:00:00.000Z"
-        },
-        {
-            "id": "eee5e7d244b25c3c55a9feee1517b2da",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=6131",
-            "title": "インターンシップ・業界研究会プレイベント 「優良企業・研究機関の探し方講座」",
-            "summary": "企業研究の仕方や優良企業の選び方、研究職・技術職などを募集する企業や公的機関の探し方について数多くのビジネス書を手掛けてきたダイヤモンド社ならではの視点で解説いたします。\n大学１年生から博士後期学生まで全学生対象のセミナーです。ぜひ皆様の進路を考えるうえでお役立てください。\nこの講座を聞いたら、ぜひ5/13（火）から大学会館で開催する「インターンシップ・業界研究会」にもご参加ください！\n\n【日時】…",
-            "date_modified": "2025-04-11T03:00:00.000Z"
-        },
-        {
-            "id": "435e34b44839f68ed47709549d8902d8",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=6130",
-            "title": "【27卒28卒】就活＆インターンシップオンラインガイダンス　【基礎編】【応用編】",
-            "summary": "就活＆インターンシップオンラインガイダンスを2回にわたって開催します。\nインターンシップの基礎知識や必要な準備から企業選び、人気のインターンシップ選考対策までマイナビのキャリアサポーターやマイナビの元採用コンサルタントが解説いたします。\nインターンシップは企業や働くことを知る第1歩です。就活生の方はもちろん、そうでない方もぜひご参加ください。\n\n①【基礎編】就職活動やインターンシップのポイントを知…",
             "date_modified": "2025-04-11T03:00:00.000Z"
         }
     ]
