@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "17b270031889b5c5cb07267d0d30623e",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=6161",
+            "title": "学生証の常時携帯について（再周知） Reminder: Carrying Your Student ID Card at All Times",
+            "summary": "学生各位\n\n学生証は筑波大学の学生であることを証明する大切な証明書です。\n学生証を常に携帯し、筑波大学の教職員やみなさんの安全を守る警備員から求められた場合は\n提示してください。添付の啓発ポスターもぜひご参照ください。\n\n\nDear Students,\n\nYour student ID card is an important form of identification that proves …",
+            "date_modified": "2025-04-17T03:00:00.000Z"
+        },
+        {
             "id": "0b69f5021eadec331709eb64d43afb8b",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=6160",
             "title": "ISSサマーフェスティバル開催！参加者・出展者を募集中です☆",
@@ -135,13 +142,6 @@
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=6137",
             "title": "☆学群生対象☆4/18（金）留学プログラム説明会（東南アジア）",
             "summary": "日時：4月18日（金）11：30-12：10　※飲食自由\n場所：スチューデントコモンズ（1A棟203）\n対象：学群生　\n\n春の留学フェア 4/18（金）お昼の部は東南アジア圏との学部生向け交換留学プログラム・AIMS（エイムス）の説明会。入退場自由・予約不要です。お昼休みの時間帯なので、飲食も自由！\n\nフィリピンに留学中の先輩と、マレーシアから帰ってきたばかりの先輩による現地での学生生活についての…",
-            "date_modified": "2025-04-14T03:00:00.000Z"
-        },
-        {
-            "id": "435e34b44839f68ed47709549d8902d8",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=6136",
-            "title": "【27卒28卒】就活＆インターンシップオンラインガイダンス　【基礎編】【応用編】",
-            "summary": "就活＆インターンシップオンラインガイダンスを2回にわたって開催します。\nインターンシップの基礎知識や必要な準備から企業選び、人気のインターンシップ選考対策までマイナビのキャリアサポーターやマイナビの元採用コンサルタントが解説いたします。\nインターンシップは企業や働くことを知る第1歩です。就活生の方はもちろん、そうでない方もぜひご参加ください。\n\n①【基礎編】就職活動やインターンシップのポイントを知…",
             "date_modified": "2025-04-14T03:00:00.000Z"
         }
     ]
