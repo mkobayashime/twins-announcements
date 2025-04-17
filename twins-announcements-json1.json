@@ -5,6 +5,20 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "3cba1c93c9053b9438cdaec64bde81a1",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=6159",
+            "title": "【見逃し配信】化学物質管理講習英語字幕付版/Chemical Substance Management Seminar(with English subtitles)",
+            "summary": "令和7年3月10日（月）に開催した化学物質管理講習会（旧薬品・高圧ガス管理システム（CRIS）説明会）の英語字幕版の見逃し配信を開始します。\nWe are pleased to announce that the Chemical Substance Management Seminar(with English subtitles) is now available on demand.\n\nCo…",
+            "date_modified": "2025-04-17T03:00:00.000Z"
+        },
+        {
+            "id": "b68cf2ae13d6e0139bbae168002e157d",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=6158",
+            "title": "【明日開催】4/18 オンライン面接練習会（就職活動支援）",
+            "summary": "就活のための面接練習会をZoomを使って開催します。\nグループレッスンで自分の苦手な部分へのフィードバックもあります。\n\n「まだ面接練習に慣れていない」、「練習する場がない」などお困りの方、参加しませんか。\n学年は問いません。どなたでも参加歓迎です！\n\n＜オンライン面接＞4月18日（金）\n集団面接編　13：30-15：00 Zoom\n\n参加申し込みはこちらから↓↓\nBHE主催 就活支援企画 面接・…",
+            "date_modified": "2025-04-17T03:00:00.000Z"
+        },
+        {
             "id": "752f8f1e6e7b0ad612b6469c667b617b",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=6157",
             "title": "（再掲）【募集】学生スタッフ（ピアスタッフ）若干名（１～２名）",
@@ -128,20 +142,6 @@
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=6135",
             "title": "LEC東京リーガルマインド　「26年合格目標　筑波大学公務員講座」のご案内",
             "summary": "LEC東京リーガルマインドによる、筑波大生向けの公務員講座を開催します。\n26年の公務員試験受験を目指す方は、ぜひご検討ください。\n\n〇開講日：5月22日\n〇詳細：HP・パンフレット参照\nhttps://public.lec-jp.com/univ-tsukuba/\n〇申込期間：～4月18日\n\n講座の内容については、以下へ直接お問い合わせください。\nLEC東京リーガルマインド大学営業課\nTEL／0…",
-            "date_modified": "2025-04-14T03:00:00.000Z"
-        },
-        {
-            "id": "6bffb5d316b9ac3adef6dc7d78fed861",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=6134",
-            "title": "＼本日から開催／【留学フェア2025年春】【スチューデント・コモンズ（1A203）】2025年4月14日（月）～4月25日（金）",
-            "summary": "「留学には、興味があるけどよくわからない」、「プログラムについてもっと知りたい」、「語学研修やインターンシップが気になる」「お金は？」というあなたのために春の留学フェアを開催します！\n交換留学の概要、留学のための奨学金、各留学プログラム毎の説明会や、民間主催の海外インターンシップ、語学試験の説明会など、この期間にまとめてどどっと！開催しますので、ぜひスチューデント・コモンズ（一部オンライン）にて参…",
-            "date_modified": "2025-04-14T03:00:00.000Z"
-        },
-        {
-            "id": "4d8c00cb50e18b4029edec9818d94bf5",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=6129",
-            "title": "「筑波大学キャンパスマップ」に関するアンケートを実施しています",
-            "summary": "「筑波大学キャンパスマップ」に関するアンケートを実施しています。\n今後より良いものにしていくために、アンケートにご協力願います。\nTWINSのメニューから「アンケート」⇒「アンケート回答」⇒「筑波大学キャンパスマップに関するアンケート」をクリックし、行ってください。\n回答期限は6月30日です。",
             "date_modified": "2025-04-14T03:00:00.000Z"
         }
     ]
