@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "c7542fda07d577946debd8ef0f753e99",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=6167",
+            "title": "5/9 BHEオンライン面接練習会（就職活動支援）",
+            "summary": "就活のための面接練習会をZoomを使って開催します。\nグループレッスンで自分の苦手な部分へのフィードバックもあります。\n\n「まだ面接練習に慣れていない」、「練習する場がない」などお困りの方、参加しませんか。\n学年は問いません。どなたでも参加歓迎です！\n\n＜オンライン面接＞5月9日（金）\nオンライン集団面接　13：30-15：00 Zoom\n",
+            "date_modified": "2025-04-18T03:00:00.000Z"
+        },
+        {
             "id": "3b807f90f2d248262fbc4ccebd8f7057",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=6166",
             "title": "（附属図書館）LA企画セミナー「新入生集まれ！現役大学院生が伝える！レポートの書き方セミナー」（5/9）",
@@ -135,13 +142,6 @@
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=6146",
             "title": "マーサージャパン 人と仕事の未来 研究所 第2回懸賞論文募集のお知らせ",
             "summary": "マーサージャパン 人と仕事の未来 研究所より、第2回懸賞論文募集のお知らせがありましたので、ご連絡いたします。\n　人事関連の中長期的な課題の解決に向けた研究を支援することを目的に、研究者と実務家を対象とした懸賞論文事業を募集しますので、奮って応募ください。\n\n詳細は下記リンクとPDFをご覧ください。\n・第2回懸賞論文ホームページ\n\n",
-            "date_modified": "2025-04-15T03:00:00.000Z"
-        },
-        {
-            "id": "ea33b79fd50ac856a05caca33bbaeae6",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=6145",
-            "title": "第17回JCKフォーラム参加者募集／Call-for-participation to JCK Forum 2025",
-            "summary": "日中韓国際大学院生アカデミックフォーラムが今年は筑波大学でオンライン開催されます。\n\n日時：2025年9月18日（木）～9月19日（金）\n会場：筑波大学　オンライン開催（Zoom）\n対象：農学、環境科学、生命科学、地球科学を専攻する大学院生\n発表形式：口頭発表（英語）\n参加費：無料\n登録締切：令和7年5月12日（月）\n要旨提出締切：令和7年5月30日（金）\n\n登録用リンクは添付ポスターにあります。…",
             "date_modified": "2025-04-15T03:00:00.000Z"
         }
     ]

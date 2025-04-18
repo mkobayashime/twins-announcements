@@ -4,10 +4,25 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Fri, 18 Apr 2025 06:01:44 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 18 Apr 2025 07:01:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
+        <item>
+            <title><![CDATA[5/9 BHEオンライン面接練習会（就職活動支援）]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=6167</link>
+            <guid>c7542fda07d577946debd8ef0f753e99</guid>
+            <pubDate>Fri, 18 Apr 2025 03:00:00 GMT</pubDate>
+            <description><![CDATA[就活のための面接練習会をZoomを使って開催します。
+グループレッスンで自分の苦手な部分へのフィードバックもあります。
+
+「まだ面接練習に慣れていない」、「練習する場がない」などお困りの方、参加しませんか。
+学年は問いません。どなたでも参加歓迎です！
+
+＜オンライン面接＞5月9日（金）
+オンライン集団面接　13：30-15：00 Zoom
+]]></description>
+        </item>
         <item>
             <title><![CDATA[（附属図書館）LA企画セミナー「新入生集まれ！現役大学院生が伝える！レポートの書き方セミナー」（5/9）]]></title>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=6166</link>
@@ -280,23 +295,6 @@ TEL／0…]]></description>
 ・第2回懸賞論文ホームページ
 
 ]]></description>
-        </item>
-        <item>
-            <title><![CDATA[第17回JCKフォーラム参加者募集／Call-for-participation to JCK Forum 2025]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=6145</link>
-            <guid>ea33b79fd50ac856a05caca33bbaeae6</guid>
-            <pubDate>Tue, 15 Apr 2025 03:00:00 GMT</pubDate>
-            <description><![CDATA[日中韓国際大学院生アカデミックフォーラムが今年は筑波大学でオンライン開催されます。
-
-日時：2025年9月18日（木）～9月19日（金）
-会場：筑波大学　オンライン開催（Zoom）
-対象：農学、環境科学、生命科学、地球科学を専攻する大学院生
-発表形式：口頭発表（英語）
-参加費：無料
-登録締切：令和7年5月12日（月）
-要旨提出締切：令和7年5月30日（金）
-
-登録用リンクは添付ポスターにあります。…]]></description>
         </item>
     </channel>
 </rss>
