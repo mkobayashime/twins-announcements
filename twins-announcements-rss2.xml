@@ -4,7 +4,7 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Sat, 19 Apr 2025 21:06:35 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 20 Apr 2025 15:06:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
@@ -76,23 +76,6 @@ NHKとJR東日本企画にお勤めの先輩が登壇します。
 
 特別企画として、開催前夜には「優良企業・研究機関の探し方講座（オンライン）」　、
 開催期間中は毎日「…]]></description>
-        </item>
-        <item>
-            <title><![CDATA[自然保護寄附講座の新規受講生募集説明会開催のお知らせ / CPNC Orientation Sessions]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=6163</link>
-            <guid>d2a748d2d2348980671dadb20a220fdc</guid>
-            <pubDate>Fri, 18 Apr 2025 03:00:00 GMT</pubDate>
-            <description><![CDATA[今日も自然保護寄附講座の新規受講生募集の説明会が開催されます。
-
-寄附講座のHP
-https://www.conservation.tsukuba.ac.jp/plugin/blogs/show/12/71/816#frame-71
-
-説明会申し込みform
-https://forms.office.com/r/M0z9AhhQAW
-
-ぜひお申し込みの上、説明会にお越しください。
-
-Dear al…]]></description>
         </item>
         <item>
             <title><![CDATA[学生証の常時携帯について（再周知） Reminder: Carrying Your Student ID Card at All Times]]></title>
@@ -292,6 +275,13 @@ TEL／0…]]></description>
 要旨提出締切：令和7年5月30日（金）
 
 登録用リンクは添付ポスターにあります。…]]></description>
+        </item>
+        <item>
+            <title><![CDATA[[April 23] MDA Special Exercise Orientation for Doctoral and Master's Students]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=6143</link>
+            <guid>53ed402c874787c7ff3f280371075d08</guid>
+            <pubDate>Mon, 14 Apr 2025 03:00:00 GMT</pubDate>
+            <description><![CDATA[The Data Science Expert Program (DSEP) will hold a course orientation for doctoral and master's students on the MDA Special Exercise for Top-level Human Resource Development/Training. In this course, …]]></description>
         </item>
     </channel>
 </rss>
