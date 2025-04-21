@@ -5,6 +5,27 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "675b41280b061f0c7210141473d4d43c",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=6171",
+            "title": "2週目開催中【留学フェア2025年春】【スチューデント・コモンズ（1A203）～4月25日（金",
+            "summary": "\n留学フェア2週間目が始まります！皆さんでぜひお越しください！\n※本日開催予定の「奨学金の概要説明会」「トビタテ奨学金の説明会」は中止となりました。※\n\n\n交換留学の概要、留学のための奨学金、各留学プログラム毎の説明会や、民間主催の海外インターンシップ、語学試験の説明会など、この期間にまとめてどどっと！開催しますので、ぜひスチューデント・コモンズ（一部オンライン）に足をお運びください！予約不要、筑…",
+            "date_modified": "2025-04-21T03:00:00.000Z"
+        },
+        {
+            "id": "864b003d11d33e5f5af827c1133b31d2",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=6170",
+            "title": "インターンシップについて",
+            "summary": "官公庁の夏インターンシップの申し込みが始まっています。\n\nJAXAをお申込みの方は、至急ご提出ください。\n国土地理院は5月1日まで\n法務省人間科学系は5月16日まで\n\n申込方法は下記のHPをご確認ください。\n\n-----------------------------------------------\n\nインターンシップの申し込みや手続きについてのご連絡です。\n\n・大学経由型インターンシップの書…",
+            "date_modified": "2025-04-21T03:00:00.000Z"
+        },
+        {
+            "id": "55a7885f8f1e252dcd888bc5897d57c6",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=6169",
+            "title": "国際パートナーシップ研修(東南アジア) （全学自由科目（特設）2単位）参加希望者の募集",
+            "summary": "海外派遣コースへの参加者を募集します。\n対象：全学類生、募集人員10名\n\n派遣日程：2025年8月23日-8月31日頃の一週間程度、（調整中ですが、およそこの時期に実施）\nコース名：Workshop on Infection Diagnosis 感染症診断ワークショップ\n場所：ホーチミン市の協定機関\n対象者：筑波大学・学類生（全学）、ベトナム学生/社会人\n主旨：薬剤耐性菌対策（AMR対策）という世…",
+            "date_modified": "2025-04-21T03:00:00.000Z"
+        },
+        {
             "id": "4ca39c93259a3809252bcdf9fa2e3af5",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=6168",
             "title": "【BHE】就活＆インターンシップガイダンス開催のご案内　4/15(火)・4/23(水)　15:15～16:35　",
@@ -122,27 +143,6 @@
             "title": "【周知】【農林水産省】「第2回みどり戦略学生チャレンジ」の参加登録について",
             "summary": "農林水産省より、「第2回みどり戦略学生チャレンジ」の参加登録の開始に関する通知がありましたのでお知らせいたします。農林水産省では「みどりの食料システム戦略」の実現に向けて、将来を担う若い世代の環境に配慮した取組を促すため、大学生や高校生等の個人・グループが「みどりの食料システム戦略」に基づいた活動を実践する機会として「みどり戦略学生チャレンジ」を実施しています。\n\n【参加登録】\n　令和７年４月１日…",
             "date_modified": "2025-04-15T03:00:00.000Z"
-        },
-        {
-            "id": "f98a40e0466bac80b7e91d42f6d48726",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=6146",
-            "title": "マーサージャパン 人と仕事の未来 研究所 第2回懸賞論文募集のお知らせ",
-            "summary": "マーサージャパン 人と仕事の未来 研究所より、第2回懸賞論文募集のお知らせがありましたので、ご連絡いたします。\n　人事関連の中長期的な課題の解決に向けた研究を支援することを目的に、研究者と実務家を対象とした懸賞論文事業を募集しますので、奮って応募ください。\n\n詳細は下記リンクとPDFをご覧ください。\n・第2回懸賞論文ホームページ\n\n",
-            "date_modified": "2025-04-15T03:00:00.000Z"
-        },
-        {
-            "id": "ea33b79fd50ac856a05caca33bbaeae6",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=6145",
-            "title": "第17回JCKフォーラム参加者募集／Call-for-participation to JCK Forum 2025",
-            "summary": "日中韓国際大学院生アカデミックフォーラムが今年は筑波大学でオンライン開催されます。\n\n日時：2025年9月18日（木）～9月19日（金）\n会場：筑波大学　オンライン開催（Zoom）\n対象：農学、環境科学、生命科学、地球科学を専攻する大学院生\n発表形式：口頭発表（英語）\n参加費：無料\n登録締切：令和7年5月12日（月）\n要旨提出締切：令和7年5月30日（金）\n\n登録用リンクは添付ポスターにあります。…",
-            "date_modified": "2025-04-15T03:00:00.000Z"
-        },
-        {
-            "id": "53ed402c874787c7ff3f280371075d08",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=6143",
-            "title": "[April 23] MDA Special Exercise Orientation for Doctoral and Master's Students",
-            "summary": "The Data Science Expert Program (DSEP) will hold a course orientation for doctoral and master's students on the MDA Special Exercise for Top-level Human Resource Development/Training. In this course, …",
-            "date_modified": "2025-04-14T03:00:00.000Z"
         }
     ]
 }
