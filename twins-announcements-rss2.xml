@@ -4,10 +4,21 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Mon, 21 Apr 2025 02:30:30 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 21 Apr 2025 08:01:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
+        <item>
+            <title><![CDATA[筑波大学生向けキャッシュレスサービス「Olive」新規登録のご案内（今ならVポイント2000円分プレゼント！）]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=6174</link>
+            <guid>b02793b54417428882fdf8b2de7f5739</guid>
+            <pubDate>Mon, 21 Apr 2025 03:00:00 GMT</pubDate>
+            <description><![CDATA[筑波大学の皆さんへ
+
+筑波大学では学内のキャッシュレス化を推進しており、その一環として株式会社三井住友銀行と提携し、便利でお得なサービス「Olive」を導入しています。
+
+Oliveは1枚のカードでクレジットカード、デビットカード、プリペイドカードの3つの機能を自由に使い分けられる、新しいタイプのキャッシュレスサービスです。カードの切り替えもスマホアプリで簡単に操作可能です。 本サービスは卒業後も…]]></description>
+        </item>
         <item>
             <title><![CDATA[【募集開始】SSC公募（一括公募）型CiCパートナー校及び全学対象協定校への交換留学（2026年春学期渡航分）]]></title>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=6173</link>
@@ -280,19 +291,6 @@ TEL／0…]]></description>
 プログラムコースのリストの中から６単位を取得する必要があります。
 定員は年間10名です。
 修士および博士課程の学習と同…]]></description>
-        </item>
-        <item>
-            <title><![CDATA[【周知】海外渡航システム（TRIP）に係る周知について]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=6150</link>
-            <guid>7fa83cb45d22837492e0481a88d12f44</guid>
-            <pubDate>Tue, 15 Apr 2025 03:00:00 GMT</pubDate>
-            <description><![CDATA[日頃より本学の海外危機管理へのご理解とご協力をいただきましてありがとうございます。
-新年度となりましたので、「海外渡航システム (TRIP)」につきまして、改めて周知させていただきます。
-
-【概要】
-学生・教職員にかかるリアルタイムでの渡航情報の把握と迅速な安否確認実施のため、本学では「海外渡航システム（TRIP）」を運用。
-（学生）
-海外渡航時（留学・休学・出張・私事・留学生の一時帰国等の理由に…]]></description>
         </item>
     </channel>
 </rss>

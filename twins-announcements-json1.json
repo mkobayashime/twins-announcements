@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "b02793b54417428882fdf8b2de7f5739",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=6174",
+            "title": "筑波大学生向けキャッシュレスサービス「Olive」新規登録のご案内（今ならVポイント2000円分プレゼント！）",
+            "summary": "筑波大学の皆さんへ\n\n筑波大学では学内のキャッシュレス化を推進しており、その一環として株式会社三井住友銀行と提携し、便利でお得なサービス「Olive」を導入しています。\n\nOliveは1枚のカードでクレジットカード、デビットカード、プリペイドカードの3つの機能を自由に使い分けられる、新しいタイプのキャッシュレスサービスです。カードの切り替えもスマホアプリで簡単に操作可能です。 本サービスは卒業後も…",
+            "date_modified": "2025-04-21T03:00:00.000Z"
+        },
+        {
             "id": "5c0910df9885d50afb14296eb5863ce0",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=6173",
             "title": "【募集開始】SSC公募（一括公募）型CiCパートナー校及び全学対象協定校への交換留学（2026年春学期渡航分）",
@@ -135,13 +142,6 @@
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=6152",
             "title": "サイエンスコミュニケーション学修証明プログラム（募集中）",
             "summary": "サイエンスコミュニケーション学修証明プログラムについて\n\n2025年度の申請を只今募集しています。\n締切は2025年4月18日（金）です。\n\n筑波大学の修士課程または博士課程に在籍している方を対象としています。\nサイエンスコミュニケーション学修証明プログラムの資格を得るためには、\nプログラムコースのリストの中から６単位を取得する必要があります。\n定員は年間10名です。\n修士および博士課程の学習と同…",
-            "date_modified": "2025-04-15T03:00:00.000Z"
-        },
-        {
-            "id": "7fa83cb45d22837492e0481a88d12f44",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=6150",
-            "title": "【周知】海外渡航システム（TRIP）に係る周知について",
-            "summary": "日頃より本学の海外危機管理へのご理解とご協力をいただきましてありがとうございます。\n新年度となりましたので、「海外渡航システム (TRIP)」につきまして、改めて周知させていただきます。\n\n【概要】\n学生・教職員にかかるリアルタイムでの渡航情報の把握と迅速な安否確認実施のため、本学では「海外渡航システム（TRIP）」を運用。\n（学生）\n海外渡航時（留学・休学・出張・私事・留学生の一時帰国等の理由に…",
             "date_modified": "2025-04-15T03:00:00.000Z"
         }
     ]
