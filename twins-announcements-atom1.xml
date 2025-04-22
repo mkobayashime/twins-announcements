@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/mkobayashime/twins-announcements</id>
     <title>在学生へのお知らせ | 筑波大学</title>
-    <updated>2025-04-22T02:29:02.524Z</updated>
+    <updated>2025-04-22T05:01:36.129Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://github.com/mkobayashime/twins-announcements"/>
     <subtitle>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</subtitle>
+    <entry>
+        <title type="html"><![CDATA[授業料振替口座の登録について]]></title>
+        <id>d48f90a4cbfee52152e2201a62736d39</id>
+        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=6178"/>
+        <updated>2025-04-22T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[学生各位
+
+　本学の授業料は口座振替（口座引き落とし）で納付していただきます。(国費等の奨学金が認められている方や、企業払い、金融機関からの要請等の理由により払込票で納付している方を除きます)
+　4月21日現在、約2,000名の学生が口座未登録となっております。5月27日に第1期分授業料の口座振替を実施いたしますので、口座を登録していない方は添付の案内に従って４月末日までに登録をお願いいたします。…]]></summary>
+    </entry>
     <entry>
         <title type="html"><![CDATA[キャリアや就活が気になる方へ！（BHE）Teams内　キャリア支援情報発信チームのご案内]]></title>
         <id>81fbb2040d8fb23635f4023a088d60ea</id>
@@ -264,24 +274,5 @@ BHEでは、ピアスタッフという学生スタッフ制度を設けて、�
 
 
 International Student Exchange Club (The 15th Term)      …]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【参加者募集】オハイオ州立大生と一緒に「未来のコミュニティとモビリティ」を考えよう！]]></title>
-        <id>41743ceaefc1c4187c7f53867db84077</id>
-        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=6155"/>
-        <updated>2025-04-16T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[5月に、オハイオ州立大学工学系の学生15名と職員2名が来筑！
-
-その滞在中に行われる「未来のコミュニティとモビリティ」をテーマにしたオハイオ州立大生と筑波大生によるグループワークの参加者を募集します！
-
-
-
-○日時
-
-オハイオ州立大生の来筑期間は2025年5月8日（木）～5/15（木）です。
-
-この期間に、グループワークの機会を複数回設け、5/15（木）に発表会を行う予定です。
-
-詳しい日時は決ま…]]></summary>
     </entry>
 </feed>

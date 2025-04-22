@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "d48f90a4cbfee52152e2201a62736d39",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=6178",
+            "title": "授業料振替口座の登録について",
+            "summary": "学生各位\n\n　本学の授業料は口座振替（口座引き落とし）で納付していただきます。(国費等の奨学金が認められている方や、企業払い、金融機関からの要請等の理由により払込票で納付している方を除きます)\n　4月21日現在、約2,000名の学生が口座未登録となっております。5月27日に第1期分授業料の口座振替を実施いたしますので、口座を登録していない方は添付の案内に従って４月末日までに登録をお願いいたします。…",
+            "date_modified": "2025-04-22T03:00:00.000Z"
+        },
+        {
             "id": "81fbb2040d8fb23635f4023a088d60ea",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=6177",
             "title": "キャリアや就活が気になる方へ！（BHE）Teams内　キャリア支援情報発信チームのご案内",
@@ -135,13 +142,6 @@
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=6156",
             "title": "【奨学金/Scholarship】留学生交流クラブ　第15期留学生会員募集 /International Student Exchange Club (The 15th Term)",
             "summary": "留学生交流クラブ　第15期留学生会員募集　\n応募締め切り：2025年5月7日（水）18：00まで\n提出先：クラブへ直接応募（オンライン申請）\n募集要項：（PDF(資料1)）\n※日本語能力が必要です。\n※この奨学金を受給する者は、2025年度の大学推薦奨学金の申請資格がありません。\n\n\nInternational Student Exchange Club (The 15th Term)      …",
-            "date_modified": "2025-04-16T03:00:00.000Z"
-        },
-        {
-            "id": "41743ceaefc1c4187c7f53867db84077",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=6155",
-            "title": "【参加者募集】オハイオ州立大生と一緒に「未来のコミュニティとモビリティ」を考えよう！",
-            "summary": "5月に、オハイオ州立大学工学系の学生15名と職員2名が来筑！\n\nその滞在中に行われる「未来のコミュニティとモビリティ」をテーマにしたオハイオ州立大生と筑波大生によるグループワークの参加者を募集します！\n\n\n\n○日時\n\nオハイオ州立大生の来筑期間は2025年5月8日（木）～5/15（木）です。\n\nこの期間に、グループワークの機会を複数回設け、5/15（木）に発表会を行う予定です。\n\n詳しい日時は決ま…",
             "date_modified": "2025-04-16T03:00:00.000Z"
         }
     ]
