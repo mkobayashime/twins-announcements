@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "fb6b46bd0a9f7570ec01a43565d9df92",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=6175",
+            "title": "「さあ就活を始めようー先輩の経験を聞く会」開催のお知らせ",
+            "summary": "筑波大学「世界を変えよう基金アカデミー」では、これから就活準備を始める学生を対象に、\n就活を終えた4年生及び修士2年生が自らの経験を伝える「さあ就活を始めようー先輩の経験を聞く会」をZoomで開催します。\nお二人の就活ストラテジー、経験に基づく就活ツールの活用方法、OＢ／OＧへのアプローチ方法、就活対象先を絞り込んで最終内定先を選んだ過程等、\n就活を始める皆さんにとって興味深いお話を聞くことができ…",
+            "date_modified": "2025-04-22T03:00:00.000Z"
+        },
+        {
             "id": "b02793b54417428882fdf8b2de7f5739",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=6174",
             "title": "筑波大学生向けキャッシュレスサービス「Olive」新規登録のご案内（今ならVポイント2000円分プレゼント！）",
@@ -136,13 +143,6 @@
             "title": "「26年合格目標　筑波大学公務員講座」のご案内　LEC東京リーガルマインド主催　",
             "summary": "LEC東京リーガルマインドによる、筑波大生向けの公務員講座を開催します。\n26年の公務員試験受験を目指す方は、ぜひご検討ください。\n\n〇開講日：5月22日\n〇詳細：HP・パンフレット参照\nhttps://public.lec-jp.com/univ-tsukuba/\n〇申込期間：～4月18日\n\n講座の内容については、以下へ直接お問い合わせください。\nLEC東京リーガルマインド大学営業課\nTEL／0…",
             "date_modified": "2025-04-16T03:00:00.000Z"
-        },
-        {
-            "id": "e09a9de0d6206d5ab0455a964e09ac08",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=6152",
-            "title": "サイエンスコミュニケーション学修証明プログラム（募集中）",
-            "summary": "サイエンスコミュニケーション学修証明プログラムについて\n\n2025年度の申請を只今募集しています。\n締切は2025年4月18日（金）です。\n\n筑波大学の修士課程または博士課程に在籍している方を対象としています。\nサイエンスコミュニケーション学修証明プログラムの資格を得るためには、\nプログラムコースのリストの中から６単位を取得する必要があります。\n定員は年間10名です。\n修士および博士課程の学習と同…",
-            "date_modified": "2025-04-15T03:00:00.000Z"
         }
     ]
 }

@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/mkobayashime/twins-announcements</id>
     <title>在学生へのお知らせ | 筑波大学</title>
-    <updated>2025-04-21T21:07:20.550Z</updated>
+    <updated>2025-04-22T01:29:20.615Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://github.com/mkobayashime/twins-announcements"/>
     <subtitle>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</subtitle>
+    <entry>
+        <title type="html"><![CDATA[「さあ就活を始めようー先輩の経験を聞く会」開催のお知らせ]]></title>
+        <id>fb6b46bd0a9f7570ec01a43565d9df92</id>
+        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=6175"/>
+        <updated>2025-04-22T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[筑波大学「世界を変えよう基金アカデミー」では、これから就活準備を始める学生を対象に、
+就活を終えた4年生及び修士2年生が自らの経験を伝える「さあ就活を始めようー先輩の経験を聞く会」をZoomで開催します。
+お二人の就活ストラテジー、経験に基づく就活ツールの活用方法、OＢ／OＧへのアプローチ方法、就活対象先を絞り込んで最終内定先を選んだ過程等、
+就活を始める皆さんにとって興味深いお話を聞くことができ…]]></summary>
+    </entry>
     <entry>
         <title type="html"><![CDATA[筑波大学生向けキャッシュレスサービス「Olive」新規登録のご案内（今ならVポイント2000円分プレゼント！）]]></title>
         <id>b02793b54417428882fdf8b2de7f5739</id>
@@ -273,21 +283,5 @@ https://public.lec-jp.com/univ-tsukuba/
 講座の内容については、以下へ直接お問い合わせください。
 LEC東京リーガルマインド大学営業課
 TEL／0…]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[サイエンスコミュニケーション学修証明プログラム（募集中）]]></title>
-        <id>e09a9de0d6206d5ab0455a964e09ac08</id>
-        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=6152"/>
-        <updated>2025-04-15T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[サイエンスコミュニケーション学修証明プログラムについて
-
-2025年度の申請を只今募集しています。
-締切は2025年4月18日（金）です。
-
-筑波大学の修士課程または博士課程に在籍している方を対象としています。
-サイエンスコミュニケーション学修証明プログラムの資格を得るためには、
-プログラムコースのリストの中から６単位を取得する必要があります。
-定員は年間10名です。
-修士および博士課程の学習と同…]]></summary>
     </entry>
 </feed>
