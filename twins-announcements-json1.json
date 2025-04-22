@@ -5,6 +5,20 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "81fbb2040d8fb23635f4023a088d60ea",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=6177",
+            "title": "キャリアや就活が気になる方へ！（BHE）Teams内　キャリア支援情報発信チームのご案内",
+            "summary": "Teams内　キャリア支援情報発信チームのご案内\n\nBHEには、日々、各所から求人・インターンシップ、各種イベントなど、\n筑波大生に向けた案内が届きます。\nHPや学内掲示板では発信しきれない情報をタイムリーに発信していきます。\n現在2200名の方が参加中です。\n卒業年度別や志望別のチャネルを設けていますので、ぜひ活用してください。\n博士後期学生の方は専用のチームがありますので、そちらへご参加くださ…",
+            "date_modified": "2025-04-22T03:00:00.000Z"
+        },
+        {
+            "id": "541fb3c6bfba696cc212b8f666f52f1b",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=6176",
+            "title": "LEC東京リーガルマインド　「26年合格目標　筑波大学公務員講座」のご案内",
+            "summary": "LEC東京リーガルマインドによる、筑波大生向けの公務員講座を開催します。\n26年の公務員試験受験を目指す方は、ぜひご検討ください。\n\n〇開講日：5月22日\n〇詳細：HP・パンフレット参照\nhttps://public.lec-jp.com/univ-tsukuba/\n〇申込期間：5月1日まで延長中\n\n講座の内容については、以下へ直接お問い合わせください。\nLEC東京リーガルマインド大学営業課\nTE…",
+            "date_modified": "2025-04-22T03:00:00.000Z"
+        },
+        {
             "id": "fb6b46bd0a9f7570ec01a43565d9df92",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=6175",
             "title": "「さあ就活を始めようー先輩の経験を聞く会」開催のお知らせ",
@@ -128,20 +142,6 @@
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=6155",
             "title": "【参加者募集】オハイオ州立大生と一緒に「未来のコミュニティとモビリティ」を考えよう！",
             "summary": "5月に、オハイオ州立大学工学系の学生15名と職員2名が来筑！\n\nその滞在中に行われる「未来のコミュニティとモビリティ」をテーマにしたオハイオ州立大生と筑波大生によるグループワークの参加者を募集します！\n\n\n\n○日時\n\nオハイオ州立大生の来筑期間は2025年5月8日（木）～5/15（木）です。\n\nこの期間に、グループワークの機会を複数回設け、5/15（木）に発表会を行う予定です。\n\n詳しい日時は決ま…",
-            "date_modified": "2025-04-16T03:00:00.000Z"
-        },
-        {
-            "id": "81fbb2040d8fb23635f4023a088d60ea",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=6154",
-            "title": "キャリアや就活が気になる方へ！（BHE）Teams内　キャリア支援情報発信チームのご案内",
-            "summary": "Teams内　キャリア支援情報発信チームのご案内\n\nBHEには、日々、各所から求人・インターンシップ、各種イベントなど、\n筑波大生に向けた案内が届きます。\nHPや学内掲示板では発信しきれない情報をタイムリーに発信していきます。\n現在2200名の方が参加中です。\n卒業年度別や志望別のチャネルを設けていますので、ぜひ活用してください。\n博士後期学生の方は専用のチームがありますので、そちらへご参加くださ…",
-            "date_modified": "2025-04-16T03:00:00.000Z"
-        },
-        {
-            "id": "2154a3f292a0d2cfde8d1f1641bb2b79",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=6153",
-            "title": "「26年合格目標　筑波大学公務員講座」のご案内　LEC東京リーガルマインド主催　",
-            "summary": "LEC東京リーガルマインドによる、筑波大生向けの公務員講座を開催します。\n26年の公務員試験受験を目指す方は、ぜひご検討ください。\n\n〇開講日：5月22日\n〇詳細：HP・パンフレット参照\nhttps://public.lec-jp.com/univ-tsukuba/\n〇申込期間：～4月18日\n\n講座の内容については、以下へ直接お問い合わせください。\nLEC東京リーガルマインド大学営業課\nTEL／0…",
             "date_modified": "2025-04-16T03:00:00.000Z"
         }
     ]
