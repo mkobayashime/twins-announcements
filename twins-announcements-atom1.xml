@@ -2,10 +2,24 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/mkobayashime/twins-announcements</id>
     <title>在学生へのお知らせ | 筑波大学</title>
-    <updated>2025-04-25T07:01:43.007Z</updated>
+    <updated>2025-04-25T09:01:42.683Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://github.com/mkobayashime/twins-announcements"/>
     <subtitle>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</subtitle>
+    <entry>
+        <title type="html"><![CDATA[【公募】筑波大学教育情報システム（TWINS） トップページ画像の募集について]]></title>
+        <id>f656939c6469020bd3239fe8b418ec57</id>
+        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=6188"/>
+        <updated>2025-04-25T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[筑波大学教育情報システム（TWINS）は、令和7年10月にシステム更新を予定しています。そこで、次期システムのトップページに掲載する画像を募集いたします。
+
+【テーマ】
+特にテーマの制限はありません。
+TWINSの顔となるページですので、学生や大学生活をイメージできるデザインを歓迎します。
+
+【画像形式】
+サイズや拡張子に関する制限はありません。HTML上で表示可能な一般的な形式でご提出ください。…]]></summary>
+    </entry>
     <entry>
         <title type="html"><![CDATA[「途上国フィールド・ワーク「ラオス少数民族と暮らして」報告会開催のお知らせ]]></title>
         <id>12ec6c2b41ed170f67ba2adf145cff5e</id>
@@ -257,22 +271,5 @@ NHKとJR東日本企画にお勤めの先輩が登壇します。
 Dear Students,
 
 Your student ID card is an important form of identification that proves …]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ISSサマーフェスティバル開催！参加者・出展者を募集中です☆]]></title>
-        <id>0b69f5021eadec331709eb64d43afb8b</id>
-        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=6160"/>
-        <updated>2025-04-17T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[6月にISSサマーフェスティバルを開催します！
-ISSサマーフェスティバルにて優秀学生に選ばれた学生へは、相手校への渡航権をプレゼント！
-詳細はこちらからご覧ください。
-https://iss-summer-festival.jimdofree.com/%E6%B3%A8%E6%84%8F/
-
-
-【開催日時】
-
-〇開催期間
-日本時間：6月13日（金）午前9時～6月15日（日）午前11時
-この期間内…]]></summary>
     </entry>
 </feed>
