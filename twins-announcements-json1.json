@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "6a5117eea173e644c9ed620921e97471",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=6191",
+            "title": "【R6博士後期課程在籍学生対象/For Doctoral Students in 2024】財務省予算執行調査/Budget Execution Survey, FY2025",
+            "summary": "本調査は、財務省が博士（後期）課程学生への支援事業「次世代研究者挑戦的研究プログラム（SPRING）」による支援を受けた大学を対象に、博士（後期）課程学生の進路や支援の状況等を尋ねるものです。\n本調査結果は、今後の博士（後期）課程学生への支援策等を検討するための基礎データとして活用されるため、ご協力のほどよろしくお願いいたします。\n\nThis survey, conducted by the MO…",
+            "date_modified": "2025-04-28T03:00:00.000Z"
+        },
+        {
             "id": "eee5e7d244b25c3c55a9feee1517b2da",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=6190",
             "title": "インターンシップ・業界研究会プレイベント 「優良企業・研究機関の探し方講座」",
@@ -135,13 +142,6 @@
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=6165",
             "title": "【キャリア支援】ぶっちゃけ質問相談会（茗渓会）",
             "summary": "各業界のOBOGからお話を聞ける機会です。\n５月のテーマは「マスコミ」です。\nNHKとJR東日本企画にお勤めの先輩が登壇します。\n\n【日時】2025年5月21日（水）21：00～22：00（オンライン）\n【参加対象者】筑波大学および大学院のすべての学生（学年不問）\n【登壇者】\n　日本放送協会（NHK）ディレクター（生命環境学群生物資源学類2014年卒）\n　株式会社ジェイアール東日本企画 駅消費研究…",
-            "date_modified": "2025-04-18T03:00:00.000Z"
-        },
-        {
-            "id": "b11da0d0806949223b69590cbd8ab999",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=6164",
-            "title": "【夏インターンを検討中の学生はぜひ！】5/13～16「インターンシップ・業界研究会」（BHE）",
-            "summary": "ヒューマンエンパワーメント推進局（BHE）キャリア支援チームでは、5月13日（火）から5月16日（金）まで\n「筑波大生のキャリアイベント -インターンシップ・業界研究会- 」を開催！\n4日間で130社以上の企業・団体・官公庁が大学会館に集結します！\n（日程別の参加企業リストを公式サイトで公開中）\n\n特別企画として、開催前夜には「優良企業・研究機関の探し方講座（オンライン）」　、\n開催期間中は毎日「…",
             "date_modified": "2025-04-18T03:00:00.000Z"
         }
     ]
