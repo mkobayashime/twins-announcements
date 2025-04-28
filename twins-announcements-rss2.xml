@@ -4,10 +4,23 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Sun, 27 Apr 2025 21:06:31 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 28 Apr 2025 06:03:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
+        <item>
+            <title><![CDATA[日本財団OCI主催「課題解決型PBL」2025年度参加学生募集について【5/11締切】]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=6189</link>
+            <guid>d51c9166099437fcc1aa86c12972874b</guid>
+            <pubDate>Mon, 28 Apr 2025 03:00:00 GMT</pubDate>
+            <description><![CDATA[2025年度「課題解決型プロジェクト演習（PBL）」の参加学生募集を開始いたしました。
+
+■プログラム概要
+本PBLは、海洋エネルギー、洋上風力、海洋ビジネスなど、発展途上かつ社会的意義の大きい「海洋開発」をテーマに、実際の事業課題に学生チームが挑む実践型プログラムです。
+プログラムを通じて、以下の力を育むことを目指しています。
+• 正解のない課題に向き合い、考え抜く力
+• チームの中で役割を担い…]]></description>
+        </item>
         <item>
             <title><![CDATA[【公募】筑波大学教育情報システム（TWINS） トップページ画像の募集について]]></title>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=6188</link>
@@ -261,23 +274,6 @@ NHKとJR東日本企画にお勤めの先輩が登壇します。
 Dear Students,
 
 Your student ID card is an important form of identification that proves …]]></description>
-        </item>
-        <item>
-            <title><![CDATA[ISSサマーフェスティバル開催！参加者・出展者を募集中です☆]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=6160</link>
-            <guid>0b69f5021eadec331709eb64d43afb8b</guid>
-            <pubDate>Thu, 17 Apr 2025 03:00:00 GMT</pubDate>
-            <description><![CDATA[6月にISSサマーフェスティバルを開催します！
-ISSサマーフェスティバルにて優秀学生に選ばれた学生へは、相手校への渡航権をプレゼント！
-詳細はこちらからご覧ください。
-https://iss-summer-festival.jimdofree.com/%E6%B3%A8%E6%84%8F/
-
-
-【開催日時】
-
-〇開催期間
-日本時間：6月13日（金）午前9時～6月15日（日）午前11時
-この期間内…]]></description>
         </item>
     </channel>
 </rss>
