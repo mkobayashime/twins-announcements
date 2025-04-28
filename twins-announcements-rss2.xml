@@ -4,10 +4,21 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Mon, 28 Apr 2025 06:03:47 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 28 Apr 2025 07:08:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
+        <item>
+            <title><![CDATA[インターンシップ・業界研究会プレイベント 「優良企業・研究機関の探し方講座」]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=6190</link>
+            <guid>eee5e7d244b25c3c55a9feee1517b2da</guid>
+            <pubDate>Mon, 28 Apr 2025 03:00:00 GMT</pubDate>
+            <description><![CDATA[企業研究の仕方や優良企業の選び方、研究職・技術職などを募集する企業や公的機関の探し方について数多くのビジネス書を手掛けてきたダイヤモンド社ならではの視点で解説いたします。
+大学１年生から博士後期学生まで全学生対象のセミナーです。ぜひ皆様の進路を考えるうえでお役立てください。
+この講座を聞いたら、ぜひ5/13（火）から大学会館で開催する「インターンシップ・業界研究会」にもご参加ください！
+
+【日時】…]]></description>
+        </item>
         <item>
             <title><![CDATA[日本財団OCI主催「課題解決型PBL」2025年度参加学生募集について【5/11締切】]]></title>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=6189</link>
@@ -258,22 +269,6 @@ NHKとJR東日本企画にお勤めの先輩が登壇します。
 
 特別企画として、開催前夜には「優良企業・研究機関の探し方講座（オンライン）」　、
 開催期間中は毎日「…]]></description>
-        </item>
-        <item>
-            <title><![CDATA[学生証の常時携帯について（再周知） Reminder: Carrying Your Student ID Card at All Times]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=6161</link>
-            <guid>17b270031889b5c5cb07267d0d30623e</guid>
-            <pubDate>Thu, 17 Apr 2025 03:00:00 GMT</pubDate>
-            <description><![CDATA[学生各位
-
-学生証は筑波大学の学生であることを証明する大切な証明書です。
-学生証を常に携帯し、筑波大学の教職員やみなさんの安全を守る警備員から求められた場合は
-提示してください。添付の啓発ポスターもぜひご参照ください。
-
-
-Dear Students,
-
-Your student ID card is an important form of identification that proves …]]></description>
         </item>
     </channel>
 </rss>
