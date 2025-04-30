@@ -4,10 +4,26 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Wed, 30 Apr 2025 01:29:13 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 30 Apr 2025 02:29:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
+        <item>
+            <title><![CDATA[”海外留学のための奨学金”及び”トビタテ！留学JAPAN”奨学金の説明会～5/8(木)18：10～19：00]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=6193</link>
+            <guid>4757a786853810cb0b73b1c06d5dc140</guid>
+            <pubDate>Wed, 30 Apr 2025 03:00:00 GMT</pubDate>
+            <description><![CDATA[SSCからのお知らせ  2025年4月30日
+日時：5月8日（木）18：10～19：00
+
+場所：スチューデント・コモンズ（1A203）
+
+参加方法：予約不要！入退室自由！
+
+■問合せ先
+　学生部学生交流課（海外留学）　
+　E-mail：isc-kaigai@un.tsukuba.ac.jp]]></description>
+        </item>
         <item>
             <title><![CDATA[第17回JCKフォーラム参加者募集／Call-for-participation to JCK Forum 2025]]></title>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=6192</link>
@@ -252,22 +268,6 @@ JAXAをお申込みの方は、至急ご提出ください。
 ＜オンライン面接＞5月9日（金）
 オンライン集団面接　13：30-15：00 Zoom
 ]]></description>
-        </item>
-        <item>
-            <title><![CDATA[（附属図書館）LA企画セミナー「新入生集まれ！現役大学院生が伝える！レポートの書き方セミナー」（5/9）]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=6166</link>
-            <guid>3b807f90f2d248262fbc4ccebd8f7057</guid>
-            <pubDate>Fri, 18 Apr 2025 03:00:00 GMT</pubDate>
-            <description><![CDATA[中央図書館の学生サポートデスクで活動するラーニング･アドバイザー（LA）が、
-「新入生集まれ！現役大学院生が伝える！レポートの書き方セミナー」
-を開催します。
-
-　日　時：5/9（金）17:00～18:00
-　場　所：中央図書館本館2F ラーニング・スクエア
-　対象者：主に学群生向け
-　　　　　大学院生、教職員も参加可能
-
-セミナーでは、レポート作成に関する以下の4つの視点から、LAがレポート作成…]]></description>
         </item>
     </channel>
 </rss>
