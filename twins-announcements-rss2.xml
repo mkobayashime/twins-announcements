@@ -4,10 +4,33 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Wed, 30 Apr 2025 07:01:48 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 30 Apr 2025 08:01:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
+        <item>
+            <title><![CDATA[安全保障輸出管理研修及び誓約書提出のお願い]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=6196</link>
+            <guid>f64c08e5aed55e43e841ecbc699a5aa9</guid>
+            <pubDate>Wed, 30 Apr 2025 03:00:00 GMT</pubDate>
+            <description><![CDATA[日頃より安全保障輸出管理にご協力いただきありがとうございます。
+令和７年度の新入生及び昨年度未受講の方を対象に、安全保障輸出管理の
+Eラーニング研修を受講いただくことになりました。
+
+つきましては、添付のマニュアルを確認の上、研修動画の視聴および
+誓約書の提出をお願いいたします。]]></description>
+        </item>
+        <item>
+            <title><![CDATA[クラス連絡会等における全学的要望への対応について]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=6195</link>
+            <guid>f786e4d7230b0c84087424d2672dad3c</guid>
+            <pubDate>Wed, 30 Apr 2025 03:00:00 GMT</pubDate>
+            <description><![CDATA[クラス連絡会等における全学的要望への対応内容について、令和６年度下半期に
+エリア支援室等から提出され、担当部署から回答があったものを学生生活関係HPに
+掲載いたしました。
+
+※学生生活関係HPは学内専用となっております。]]></description>
+        </item>
         <item>
             <title><![CDATA[つくばリサイタルシリーズ実行委員会説明会開催のお知らせ]]></title>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=6194</link>
@@ -230,39 +253,6 @@ Oliveは1枚のカードでクレジットカード、デビットカード、�
 【募集内容の概要】
 ・応募可能な協定校：募集ページ（URL先）の 「2026年春学期渡航分協定校一覧」を参照
 ・応募締切：2025年6月18日（水）…]]></description>
-        </item>
-        <item>
-            <title><![CDATA[インターンシップについて]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=6170</link>
-            <guid>864b003d11d33e5f5af827c1133b31d2</guid>
-            <pubDate>Mon, 21 Apr 2025 03:00:00 GMT</pubDate>
-            <description><![CDATA[官公庁の夏インターンシップの申し込みが始まっています。
-
-JAXAをお申込みの方は、至急ご提出ください。
-国土地理院は5月1日まで
-法務省人間科学系は5月16日まで
-
-申込方法は下記のHPをご確認ください。
-
------------------------------------------------
-
-インターンシップの申し込みや手続きについてのご連絡です。
-
-・大学経由型インターンシップの書…]]></description>
-        </item>
-        <item>
-            <title><![CDATA[国際パートナーシップ研修(東南アジア) （全学自由科目（特設）2単位）参加希望者の募集]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=6169</link>
-            <guid>55a7885f8f1e252dcd888bc5897d57c6</guid>
-            <pubDate>Mon, 21 Apr 2025 03:00:00 GMT</pubDate>
-            <description><![CDATA[海外派遣コースへの参加者を募集します。
-対象：全学類生、募集人員10名
-
-派遣日程：2025年8月23日-8月31日頃の一週間程度、（調整中ですが、およそこの時期に実施）
-コース名：Workshop on Infection Diagnosis 感染症診断ワークショップ
-場所：ホーチミン市の協定機関
-対象者：筑波大学・学類生（全学）、ベトナム学生/社会人
-主旨：薬剤耐性菌対策（AMR対策）という世…]]></description>
         </item>
     </channel>
 </rss>
