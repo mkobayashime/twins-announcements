@@ -4,10 +4,20 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Wed, 30 Apr 2025 02:29:41 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 30 Apr 2025 07:01:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
+        <item>
+            <title><![CDATA[つくばリサイタルシリーズ実行委員会説明会開催のお知らせ]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=6194</link>
+            <guid>597eea8dbf8beb50b41b8c99ac7f0513</guid>
+            <pubDate>Wed, 30 Apr 2025 03:00:00 GMT</pubDate>
+            <description><![CDATA[つくばリサイタルシリーズ実行委員会は筑波大学の有志学生からなる団体で、比較文化学類の共催をいただき、一流のクラシック音楽の演奏家をお招きして、学生無料のコンサートを開催しています。
+
+当委員会では現在、一緒に演奏会を作り上げる仲間を募集しています。
+芸術や文化を地域社会に広めたい方、社会とのつながりを意識しながら活動を行いたい方、一流の演奏家の演奏を間近で聴きたい方など、どんな方でも歓迎します！音…]]></description>
+        </item>
         <item>
             <title><![CDATA[”海外留学のための奨学金”及び”トビタテ！留学JAPAN”奨学金の説明会～5/8(木)18：10～19：00]]></title>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=6193</link>
@@ -253,21 +263,6 @@ JAXAをお申込みの方は、至急ご提出ください。
 場所：ホーチミン市の協定機関
 対象者：筑波大学・学類生（全学）、ベトナム学生/社会人
 主旨：薬剤耐性菌対策（AMR対策）という世…]]></description>
-        </item>
-        <item>
-            <title><![CDATA[5/9 BHEオンライン面接練習会（就職活動支援）]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=6167</link>
-            <guid>c7542fda07d577946debd8ef0f753e99</guid>
-            <pubDate>Fri, 18 Apr 2025 03:00:00 GMT</pubDate>
-            <description><![CDATA[就活のための面接練習会をZoomを使って開催します。
-グループレッスンで自分の苦手な部分へのフィードバックもあります。
-
-「まだ面接練習に慣れていない」、「練習する場がない」などお困りの方、参加しませんか。
-学年は問いません。どなたでも参加歓迎です！
-
-＜オンライン面接＞5月9日（金）
-オンライン集団面接　13：30-15：00 Zoom
-]]></description>
         </item>
     </channel>
 </rss>

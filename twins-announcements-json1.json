@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "597eea8dbf8beb50b41b8c99ac7f0513",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=6194",
+            "title": "つくばリサイタルシリーズ実行委員会説明会開催のお知らせ",
+            "summary": "つくばリサイタルシリーズ実行委員会は筑波大学の有志学生からなる団体で、比較文化学類の共催をいただき、一流のクラシック音楽の演奏家をお招きして、学生無料のコンサートを開催しています。\n\n当委員会では現在、一緒に演奏会を作り上げる仲間を募集しています。\n芸術や文化を地域社会に広めたい方、社会とのつながりを意識しながら活動を行いたい方、一流の演奏家の演奏を間近で聴きたい方など、どんな方でも歓迎します！音…",
+            "date_modified": "2025-04-30T03:00:00.000Z"
+        },
+        {
             "id": "4757a786853810cb0b73b1c06d5dc140",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=6193",
             "title": "”海外留学のための奨学金”及び”トビタテ！留学JAPAN”奨学金の説明会～5/8(木)18：10～19：00",
@@ -136,13 +143,6 @@
             "title": "国際パートナーシップ研修(東南アジア) （全学自由科目（特設）2単位）参加希望者の募集",
             "summary": "海外派遣コースへの参加者を募集します。\n対象：全学類生、募集人員10名\n\n派遣日程：2025年8月23日-8月31日頃の一週間程度、（調整中ですが、およそこの時期に実施）\nコース名：Workshop on Infection Diagnosis 感染症診断ワークショップ\n場所：ホーチミン市の協定機関\n対象者：筑波大学・学類生（全学）、ベトナム学生/社会人\n主旨：薬剤耐性菌対策（AMR対策）という世…",
             "date_modified": "2025-04-21T03:00:00.000Z"
-        },
-        {
-            "id": "c7542fda07d577946debd8ef0f753e99",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=6167",
-            "title": "5/9 BHEオンライン面接練習会（就職活動支援）",
-            "summary": "就活のための面接練習会をZoomを使って開催します。\nグループレッスンで自分の苦手な部分へのフィードバックもあります。\n\n「まだ面接練習に慣れていない」、「練習する場がない」などお困りの方、参加しませんか。\n学年は問いません。どなたでも参加歓迎です！\n\n＜オンライン面接＞5月9日（金）\nオンライン集団面接　13：30-15：00 Zoom\n",
-            "date_modified": "2025-04-18T03:00:00.000Z"
         }
     ]
 }
