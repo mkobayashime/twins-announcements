@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "8810ab646bfcdc60b2bcacb753087d6e",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=6203",
+            "title": "令和７年度　茗渓会学生活動支援事業について　2025/5/1",
+            "summary": "茗渓会による学生活動支援事業の実施について、お知らせいたします。\n詳細は、添付ファイルの事業要項をご確認ください。\n申請を希望する団体は、申請書と構成員名簿を申請窓口にご提出ください。\n\n申請期限：５月３０日（金）まで\n申請窓口：茗渓会筑波事務所（総合交流会館２階）",
+            "date_modified": "2025-05-01T03:00:00.000Z"
+        },
+        {
             "id": "a1ccb7cff7d82ac3441a1a4ac6da549b",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=6202",
             "title": "【学群生対象】2026春学期渡航分募集開始！東南アジアとの交換留学プログラム（AIMS）",
@@ -136,13 +143,6 @@
             "title": "【グローバルな学びに興味がある方へ！】未来を創るグローバルスタートアッパーへの道 セッションのご案内",
             "summary": "筑波大学を舞台に、そして世界を舞台に、多文化共修プログラムに参加して、日本と世界をつなぐグローバルな視野を獲得しよう！長期的な留学に参加する前に、学内で、そして国外、海外で短期の「多文化共修」に参加してみませんか？\n\n特別ゲストとして筑波大学修了生のEU代 科学技術フェロー・松本健氏をお招きし、ご自身のキャリアについてもお話しいただきます。海外に飛び出すためのヒントが満載のセミナーです！多文化共修…",
             "date_modified": "2025-04-25T03:00:00.000Z"
-        },
-        {
-            "id": "9bae312b2061028fdd06eb6df60633aa",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=6184",
-            "title": "【学生募集】理工系学生向け｜浮体式洋上風車設計製作セミナー「ぷかぷか風車大作戦2025」（日本財団OIC主催）【6/10締切】",
-            "summary": "OICでは、海洋開発分野を担う次世代の人材育成を目的として、専門的な講義と実践的なものづくりを組み合わせたセミナーを定期的に開催しています。\nこのたび、全国の理工系学生を対象とした技術体験セミナー\n「ぷかぷか風車大作戦2025」 を開催いたします。\n\n■ セミナー概要\n浮体式洋上風車の設計・製作にチームで挑戦する、実践型の技術プログラムです。\n構想・設計・試作・試験・発表までを一貫して体験できる3…",
-            "date_modified": "2025-04-24T03:00:00.000Z"
         }
     ]
 }

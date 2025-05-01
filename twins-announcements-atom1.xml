@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/mkobayashime/twins-announcements</id>
     <title>在学生へのお知らせ | 筑波大学</title>
-    <updated>2025-05-01T02:32:29.579Z</updated>
+    <updated>2025-05-01T06:01:41.835Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://github.com/mkobayashime/twins-announcements"/>
     <subtitle>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</subtitle>
+    <entry>
+        <title type="html"><![CDATA[令和７年度　茗渓会学生活動支援事業について　2025/5/1]]></title>
+        <id>8810ab646bfcdc60b2bcacb753087d6e</id>
+        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=6203"/>
+        <updated>2025-05-01T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[茗渓会による学生活動支援事業の実施について、お知らせいたします。
+詳細は、添付ファイルの事業要項をご確認ください。
+申請を希望する団体は、申請書と構成員名簿を申請窓口にご提出ください。
+
+申請期限：５月３０日（金）まで
+申請窓口：茗渓会筑波事務所（総合交流会館２階）]]></summary>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【学群生対象】2026春学期渡航分募集開始！東南アジアとの交換留学プログラム（AIMS）]]></title>
         <id>a1ccb7cff7d82ac3441a1a4ac6da549b</id>
@@ -242,18 +254,5 @@ TWINSの顔となるページですので、学生や大学生活をイメージ
         <summary type="html"><![CDATA[筑波大学を舞台に、そして世界を舞台に、多文化共修プログラムに参加して、日本と世界をつなぐグローバルな視野を獲得しよう！長期的な留学に参加する前に、学内で、そして国外、海外で短期の「多文化共修」に参加してみませんか？
 
 特別ゲストとして筑波大学修了生のEU代 科学技術フェロー・松本健氏をお招きし、ご自身のキャリアについてもお話しいただきます。海外に飛び出すためのヒントが満載のセミナーです！多文化共修…]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【学生募集】理工系学生向け｜浮体式洋上風車設計製作セミナー「ぷかぷか風車大作戦2025」（日本財団OIC主催）【6/10締切】]]></title>
-        <id>9bae312b2061028fdd06eb6df60633aa</id>
-        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=6184"/>
-        <updated>2025-04-24T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[OICでは、海洋開発分野を担う次世代の人材育成を目的として、専門的な講義と実践的なものづくりを組み合わせたセミナーを定期的に開催しています。
-このたび、全国の理工系学生を対象とした技術体験セミナー
-「ぷかぷか風車大作戦2025」 を開催いたします。
-
-■ セミナー概要
-浮体式洋上風車の設計・製作にチームで挑戦する、実践型の技術プログラムです。
-構想・設計・試作・試験・発表までを一貫して体験できる3…]]></summary>
     </entry>
 </feed>
