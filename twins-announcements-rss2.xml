@@ -4,10 +4,23 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Wed, 30 Apr 2025 21:07:07 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 01 May 2025 01:29:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
+        <item>
+            <title><![CDATA[日本語教員の新卒採用説明会]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=6198</link>
+            <guid>dc8e94edb5a3c8a0c4c2991d879c4b65</guid>
+            <pubDate>Thu, 01 May 2025 03:00:00 GMT</pubDate>
+            <description><![CDATA[都内の日本語専門学校「東洋言語学院」から、新卒での日本語教員の採用説明会のご案内をいただきました。本学の卒業生もここで活躍しています。
+
+プロの日本語教員になるにはどうしたら良いか、日本語学校では実際にどのような仕事をしているのか、また在学中に参加可能なインターンシップの説明など、関心のある方はぜひ参加してみてください。（参加はチラシのWQコードから）
+
+
+
+本件問合せ：日本語・日本文化学類　澤田…]]></description>
+        </item>
         <item>
             <title><![CDATA[筑波大学公式オリジナルグッズECサイト割引クーポンのお知らせ（５月）]]></title>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=6179</link>
@@ -245,17 +258,6 @@ TE…]]></description>
 就活を終えた4年生及び修士2年生が自らの経験を伝える「さあ就活を始めようー先輩の経験を聞く会」をZoomで開催します。
 お二人の就活ストラテジー、経験に基づく就活ツールの活用方法、OＢ／OＧへのアプローチ方法、就活対象先を絞り込んで最終内定先を選んだ過程等、
 就活を始める皆さんにとって興味深いお話を聞くことができ…]]></description>
-        </item>
-        <item>
-            <title><![CDATA[筑波大学生向けキャッシュレスサービス「Olive」新規登録のご案内（今ならVポイント2000円分プレゼント！）]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=6174</link>
-            <guid>b02793b54417428882fdf8b2de7f5739</guid>
-            <pubDate>Mon, 21 Apr 2025 03:00:00 GMT</pubDate>
-            <description><![CDATA[筑波大学の皆さんへ
-
-筑波大学では学内のキャッシュレス化を推進しており、その一環として株式会社三井住友銀行と提携し、便利でお得なサービス「Olive」を導入しています。
-
-Oliveは1枚のカードでクレジットカード、デビットカード、プリペイドカードの3つの機能を自由に使い分けられる、新しいタイプのキャッシュレスサービスです。カードの切り替えもスマホアプリで簡単に操作可能です。 本サービスは卒業後も…]]></description>
         </item>
     </channel>
 </rss>

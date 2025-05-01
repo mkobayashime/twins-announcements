@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "dc8e94edb5a3c8a0c4c2991d879c4b65",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=6198",
+            "title": "日本語教員の新卒採用説明会",
+            "summary": "都内の日本語専門学校「東洋言語学院」から、新卒での日本語教員の採用説明会のご案内をいただきました。本学の卒業生もここで活躍しています。\n\nプロの日本語教員になるにはどうしたら良いか、日本語学校では実際にどのような仕事をしているのか、また在学中に参加可能なインターンシップの説明など、関心のある方はぜひ参加してみてください。（参加はチラシのWQコードから）\n\n\n\n本件問合せ：日本語・日本文化学類　澤田…",
+            "date_modified": "2025-05-01T03:00:00.000Z"
+        },
+        {
             "id": "87985a51a4d2e5577005952e78c34774",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=6179",
             "title": "筑波大学公式オリジナルグッズECサイト割引クーポンのお知らせ（５月）",
@@ -136,13 +143,6 @@
             "title": "「さあ就活を始めようー先輩の経験を聞く会」開催のお知らせ",
             "summary": "筑波大学「世界を変えよう基金アカデミー」では、これから就活準備を始める学生を対象に、\n就活を終えた4年生及び修士2年生が自らの経験を伝える「さあ就活を始めようー先輩の経験を聞く会」をZoomで開催します。\nお二人の就活ストラテジー、経験に基づく就活ツールの活用方法、OＢ／OＧへのアプローチ方法、就活対象先を絞り込んで最終内定先を選んだ過程等、\n就活を始める皆さんにとって興味深いお話を聞くことができ…",
             "date_modified": "2025-04-22T03:00:00.000Z"
-        },
-        {
-            "id": "b02793b54417428882fdf8b2de7f5739",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=6174",
-            "title": "筑波大学生向けキャッシュレスサービス「Olive」新規登録のご案内（今ならVポイント2000円分プレゼント！）",
-            "summary": "筑波大学の皆さんへ\n\n筑波大学では学内のキャッシュレス化を推進しており、その一環として株式会社三井住友銀行と提携し、便利でお得なサービス「Olive」を導入しています。\n\nOliveは1枚のカードでクレジットカード、デビットカード、プリペイドカードの3つの機能を自由に使い分けられる、新しいタイプのキャッシュレスサービスです。カードの切り替えもスマホアプリで簡単に操作可能です。 本サービスは卒業後も…",
-            "date_modified": "2025-04-21T03:00:00.000Z"
         }
     ]
 }
