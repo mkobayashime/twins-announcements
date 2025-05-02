@@ -5,6 +5,27 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "3f626c6f58135bc0c3a8b378efac6b60",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=6207",
+            "title": "【周知】「献血開催のお知らせ」について",
+            "summary": "献血の開催について周知依頼がありましたのでお知らせいたします。\n以下のとおり実施しますので、ご協力をお願いいたします。\n\n日時：5月19日（月）9:30～12:00\n会場：アマゾンジャパン つくばDS（つくば市さくらの森25-2 LFつくば1F）\n\n献血は、飲んでいる薬の種類や海外での滞在経験によっては献血できない場合もありますが、16歳以上の健康な人であれば、若い世代から中高年まで安全にできる社…",
+            "date_modified": "2025-05-02T03:00:00.000Z"
+        },
+        {
+            "id": "5c0a17c621ae87432760309b348fe001",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=6206",
+            "title": "【周知】2025年度「SecHack365」プログラムについて",
+            "summary": "文部科学省より、「SecHack365」プログラムについて、情報提供がありましたので、お知らせします。\n\n国立研究開発法人情報通信研究機構(NICT)　ナショナルサイバートレーニングセンターでは、総務省補助事業として、25歳以下の学生や社会人を対象とし、他に例の無い1年間の長期ハッカソンによってサイバーセキュリティを考慮したモノづくりに取り組む「SecHack365」（セックハックサンロクゴ）プロ…",
+            "date_modified": "2025-05-02T03:00:00.000Z"
+        },
+        {
+            "id": "1d17d9d547204f280a9124bd44d306f7",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=6205",
+            "title": "【周知】「六本木アートナイト2025作品公募」について",
+            "summary": "六本木アートナイト2025の作品公募について周知依頼がありましたのでお知らせいたします。\n興味のある方はぜひご応募ください。\n\n※詳細は、添付のチラシをご覧ください。",
+            "date_modified": "2025-05-02T03:00:00.000Z"
+        },
+        {
             "id": "ea33b79fd50ac856a05caca33bbaeae6",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=6204",
             "title": "第17回JCKフォーラム参加者募集／Call-for-participation to JCK Forum 2025",
@@ -121,27 +142,6 @@
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=6188",
             "title": "【公募】筑波大学教育情報システム（TWINS） トップページ画像の募集について",
             "summary": "筑波大学教育情報システム（TWINS）は、令和7年10月にシステム更新を予定しています。そこで、次期システムのトップページに掲載する画像を募集いたします。\n\n【テーマ】\n特にテーマの制限はありません。\nTWINSの顔となるページですので、学生や大学生活をイメージできるデザインを歓迎します。\n\n【画像形式】\nサイズや拡張子に関する制限はありません。HTML上で表示可能な一般的な形式でご提出ください。…",
-            "date_modified": "2025-04-25T03:00:00.000Z"
-        },
-        {
-            "id": "12ec6c2b41ed170f67ba2adf145cff5e",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=6187",
-            "title": "「途上国フィールド・ワーク「ラオス少数民族と暮らして」報告会開催のお知らせ",
-            "summary": "\n筑波大学「世界を変えよう基金アカデミー」では、文科省留学プログラム「トビタテ！留学JAPAN」の支援を受けて、ラオスの山間地域に生活する少数民族の集落で2回に亘り延べ2か月間生活し、少数民族の人々の暮らしぶりを記録してきた筑波大生の報告会「ラオス少数民族と暮らして」を下記の要領で開催します。\n\n日時：5月26日19:00~20:30\n場所：ハイブリッド開催（中央図書館セミナー室+Zoom）\n\n他…",
-            "date_modified": "2025-04-25T03:00:00.000Z"
-        },
-        {
-            "id": "808e0b9081aa173a7aa6d47288a91033",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=6186",
-            "title": "理工系学生対象“水中ヘリ脱出訓練”を含む｜HSE×洋上風力体験セミナー開催（日本財団OIC主催）【6/10締切】",
-            "summary": "日本財団オーシャンイノベーションコンソーシアムは、海洋開発分野の次世代人材を育成するため、専門的な講義と現場での実地体験を組み合わせたセミナーを定期的に開催しています。\n\nこのたび、理工系の大学生・大学院生を対象とした海洋開発現場体験型セミナー「大学で学ぶ機会は少ないけれど…HSEはエンジニアの必須スキル！」の参加者を募集いたします。\n\n◆ 大学で学ぶ機会は少ないけれど…HSEはエンジニアの必須ス…",
-            "date_modified": "2025-04-25T03:00:00.000Z"
-        },
-        {
-            "id": "af533193cb2848b5baa4559478c91805",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=6181",
-            "title": "【グローバルな学びに興味がある方へ！】未来を創るグローバルスタートアッパーへの道 セッションのご案内",
-            "summary": "筑波大学を舞台に、そして世界を舞台に、多文化共修プログラムに参加して、日本と世界をつなぐグローバルな視野を獲得しよう！長期的な留学に参加する前に、学内で、そして国外、海外で短期の「多文化共修」に参加してみませんか？\n\n特別ゲストとして筑波大学修了生のEU代 科学技術フェロー・松本健氏をお招きし、ご自身のキャリアについてもお話しいただきます。海外に飛び出すためのヒントが満載のセミナーです！多文化共修…",
             "date_modified": "2025-04-25T03:00:00.000Z"
         }
     ]
