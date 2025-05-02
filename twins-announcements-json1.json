@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "5e1fba04b493b2b633c6d87a55413830",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=6209",
+            "title": "【WANTED】English Conversation Partners for University Staff (Due 05/12/2025)",
+            "summary": "Global Commons at University of Tsukuba seek International Students for our 2025 English Conversation Partners program organized to develop English skills of university staff.\n*Hourly wage: 1,100 yen …",
+            "date_modified": "2025-05-02T03:00:00.000Z"
+        },
+        {
             "id": "3f626c6f58135bc0c3a8b378efac6b60",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=6207",
             "title": "【周知】「献血開催のお知らせ」について",
@@ -136,13 +143,6 @@
             "title": "日本財団OCI主催「課題解決型PBL」2025年度参加学生募集について【5/11締切】",
             "summary": "2025年度「課題解決型プロジェクト演習（PBL）」の参加学生募集を開始いたしました。\n\n■プログラム概要\n本PBLは、海洋エネルギー、洋上風力、海洋ビジネスなど、発展途上かつ社会的意義の大きい「海洋開発」をテーマに、実際の事業課題に学生チームが挑む実践型プログラムです。\nプログラムを通じて、以下の力を育むことを目指しています。\n• 正解のない課題に向き合い、考え抜く力\n• チームの中で役割を担い…",
             "date_modified": "2025-04-28T03:00:00.000Z"
-        },
-        {
-            "id": "f656939c6469020bd3239fe8b418ec57",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=6188",
-            "title": "【公募】筑波大学教育情報システム（TWINS） トップページ画像の募集について",
-            "summary": "筑波大学教育情報システム（TWINS）は、令和7年10月にシステム更新を予定しています。そこで、次期システムのトップページに掲載する画像を募集いたします。\n\n【テーマ】\n特にテーマの制限はありません。\nTWINSの顔となるページですので、学生や大学生活をイメージできるデザインを歓迎します。\n\n【画像形式】\nサイズや拡張子に関する制限はありません。HTML上で表示可能な一般的な形式でご提出ください。…",
-            "date_modified": "2025-04-25T03:00:00.000Z"
         }
     ]
 }
