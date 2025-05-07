@@ -2,10 +2,24 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/mkobayashime/twins-announcements</id>
     <title>在学生へのお知らせ | 筑波大学</title>
-    <updated>2025-05-07T06:02:01.373Z</updated>
+    <updated>2025-05-07T08:01:41.299Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://github.com/mkobayashime/twins-announcements"/>
     <subtitle>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</subtitle>
+    <entry>
+        <title type="html"><![CDATA[子どもたちと一緒に科学を楽しもう！「つくばSKIPアカデミー」「筑波大学GFEST」アシスタント登録者募集]]></title>
+        <id>376a1f25b2ba6d35edbb7badedd4245f</id>
+        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=6216"/>
+        <updated>2025-05-07T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[筑波大学では例年、自然科学に対する卓越した興味・関心を持つ児童生徒へ向けた取組を行っております。
+本年度も、小中学生には「つくばSKIPアカデミー」、高校生には「筑波大学GFEST」を実施することになりました。
+ついては、科学教育やサイエンスコミュニケーションに興味や関心のある、学類生・大学院生のTA登録者を募集します。
+
+１　対象
+　筑波大学の学類生・大学院生（所属は問いません）
+２　時給単価
+…]]></summary>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【WANTED】English Conversation Partners for University Staff (Due 05/12/2025)]]></title>
         <id>5e1fba04b493b2b633c6d87a55413830</id>
@@ -259,16 +273,5 @@ Eラーニング研修を受講いただくことになりました。
 
 つきましては、添付のマニュアルを確認の上、研修動画の視聴および
 誓約書の提出をお願いいたします。]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[クラス連絡会等における全学的要望への対応について]]></title>
-        <id>f786e4d7230b0c84087424d2672dad3c</id>
-        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=6195"/>
-        <updated>2025-04-30T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[クラス連絡会等における全学的要望への対応内容について、令和６年度下半期に
-エリア支援室等から提出され、担当部署から回答があったものを学生生活関係HPに
-掲載いたしました。
-
-※学生生活関係HPは学内専用となっております。]]></summary>
     </entry>
 </feed>

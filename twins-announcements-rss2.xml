@@ -4,10 +4,24 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Wed, 07 May 2025 06:02:01 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 07 May 2025 08:01:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
+        <item>
+            <title><![CDATA[子どもたちと一緒に科学を楽しもう！「つくばSKIPアカデミー」「筑波大学GFEST」アシスタント登録者募集]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=6216</link>
+            <guid>376a1f25b2ba6d35edbb7badedd4245f</guid>
+            <pubDate>Wed, 07 May 2025 03:00:00 GMT</pubDate>
+            <description><![CDATA[筑波大学では例年、自然科学に対する卓越した興味・関心を持つ児童生徒へ向けた取組を行っております。
+本年度も、小中学生には「つくばSKIPアカデミー」、高校生には「筑波大学GFEST」を実施することになりました。
+ついては、科学教育やサイエンスコミュニケーションに興味や関心のある、学類生・大学院生のTA登録者を募集します。
+
+１　対象
+　筑波大学の学類生・大学院生（所属は問いません）
+２　時給単価
+…]]></description>
+        </item>
         <item>
             <title><![CDATA[【WANTED】English Conversation Partners for University Staff (Due 05/12/2025)]]></title>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=6215</link>
@@ -261,17 +275,6 @@ Eラーニング研修を受講いただくことになりました。
 
 つきましては、添付のマニュアルを確認の上、研修動画の視聴および
 誓約書の提出をお願いいたします。]]></description>
-        </item>
-        <item>
-            <title><![CDATA[クラス連絡会等における全学的要望への対応について]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=6195</link>
-            <guid>f786e4d7230b0c84087424d2672dad3c</guid>
-            <pubDate>Wed, 30 Apr 2025 03:00:00 GMT</pubDate>
-            <description><![CDATA[クラス連絡会等における全学的要望への対応内容について、令和６年度下半期に
-エリア支援室等から提出され、担当部署から回答があったものを学生生活関係HPに
-掲載いたしました。
-
-※学生生活関係HPは学内専用となっております。]]></description>
         </item>
     </channel>
 </rss>
