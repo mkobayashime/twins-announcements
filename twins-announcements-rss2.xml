@@ -4,10 +4,18 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Wed, 07 May 2025 05:01:35 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 07 May 2025 06:02:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
+        <item>
+            <title><![CDATA[【WANTED】English Conversation Partners for University Staff (Due 05/12/2025)]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=6215</link>
+            <guid>5e1fba04b493b2b633c6d87a55413830</guid>
+            <pubDate>Wed, 07 May 2025 03:00:00 GMT</pubDate>
+            <description><![CDATA[Global Commons at University of Tsukuba seek International Students for our 2025 English Conversation Partners program organized to develop English skills of university staff.
+*Hourly wage: 1,100 yen …]]></description>
+        </item>
         <item>
             <title><![CDATA[【開催案内】第55回「中央ユーラシアと日本の未来」公開講演会「ウズベキスタン観光業の課題と可能性： サマルカンドでのJOCVとしての活動から」]]></title>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=6214</link>
@@ -264,16 +272,6 @@ Eラーニング研修を受講いただくことになりました。
 掲載いたしました。
 
 ※学生生活関係HPは学内専用となっております。]]></description>
-        </item>
-        <item>
-            <title><![CDATA[つくばリサイタルシリーズ実行委員会説明会開催のお知らせ]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=6194</link>
-            <guid>597eea8dbf8beb50b41b8c99ac7f0513</guid>
-            <pubDate>Wed, 30 Apr 2025 03:00:00 GMT</pubDate>
-            <description><![CDATA[つくばリサイタルシリーズ実行委員会は筑波大学の有志学生からなる団体で、比較文化学類の共催をいただき、一流のクラシック音楽の演奏家をお招きして、学生無料のコンサートを開催しています。
-
-当委員会では現在、一緒に演奏会を作り上げる仲間を募集しています。
-芸術や文化を地域社会に広めたい方、社会とのつながりを意識しながら活動を行いたい方、一流の演奏家の演奏を間近で聴きたい方など、どんな方でも歓迎します！音…]]></description>
         </item>
     </channel>
 </rss>
