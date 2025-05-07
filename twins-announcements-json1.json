@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "bc46f4fcdcf7ea4f2c062d09015df156",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=6210",
+            "title": "Join! YUKATA WEEK – Monday, June 9th to Friday, June 13th, 2025 –",
+            "summary": "Experience the Spirit of Japanese Summer in a Yukata!\n\nStudent Support Center will hold a fun event, “Join! YUKATA WEEK”, mainly for international students at the University of Tsukuba! It will take p…",
+            "date_modified": "2025-05-07T03:00:00.000Z"
+        },
+        {
             "id": "3f626c6f58135bc0c3a8b378efac6b60",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=6207",
             "title": "【周知】「献血開催のお知らせ」について",
@@ -135,13 +142,6 @@
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=6188",
             "title": "【公募】筑波大学教育情報システム（TWINS） トップページ画像の募集について",
             "summary": "筑波大学教育情報システム（TWINS）は、令和7年10月にシステム更新を予定しています。そこで、次期システムのトップページに掲載する画像を募集いたします。\n\n【テーマ】\n特にテーマの制限はありません。\nTWINSの顔となるページですので、学生や大学生活をイメージできるデザインを歓迎します。\n\n【画像形式】\nサイズや拡張子に関する制限はありません。HTML上で表示可能な一般的な形式でご提出ください。…",
-            "date_modified": "2025-04-25T03:00:00.000Z"
-        },
-        {
-            "id": "12ec6c2b41ed170f67ba2adf145cff5e",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=6187",
-            "title": "「途上国フィールド・ワーク「ラオス少数民族と暮らして」報告会開催のお知らせ",
-            "summary": "\n筑波大学「世界を変えよう基金アカデミー」では、文科省留学プログラム「トビタテ！留学JAPAN」の支援を受けて、ラオスの山間地域に生活する少数民族の集落で2回に亘り延べ2か月間生活し、少数民族の人々の暮らしぶりを記録してきた筑波大生の報告会「ラオス少数民族と暮らして」を下記の要領で開催します。\n\n日時：5月26日19:00~20:30\n場所：ハイブリッド開催（中央図書館セミナー室+Zoom）\n\n他…",
             "date_modified": "2025-04-25T03:00:00.000Z"
         }
     ]
