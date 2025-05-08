@@ -4,10 +4,23 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Thu, 08 May 2025 05:01:48 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 08 May 2025 07:01:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
+        <item>
+            <title><![CDATA[【派遣学生募集】ドイツ・ブランデンブルク工科大学コトブス＝ゼンフテンベルク校（BTU）への派遣学生の追加募集について（2025年10月派遣開始分）]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=6222</link>
+            <guid>f453f6b02fdef17437bdb29aaa70b57c</guid>
+            <pubDate>Thu, 08 May 2025 03:00:00 GMT</pubDate>
+            <description><![CDATA[SSC公募型対象校のドイツ・ブランデンブルク工科大学コトブス＝ゼンフテンベルク校（BTU）について、2025年10月派遣開始分を追加募集いたします。
+添付の募集内容をよく確認の上応募してください。
+
+【募集内容の概要】
+留学先：ドイツ・ブランデンブルク工科大学コトブス＝ゼンフテンベルク校
+留学期間：2025年10月～2026年9月までの12ヵ月以内
+募集人員：筑波大学の学部生・大学院生を2名程度を…]]></description>
+        </item>
         <item>
             <title><![CDATA[再掲【開催通知】受動喫煙対策講習会]]></title>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=6221</link>
@@ -272,22 +285,6 @@ Student Support Center will hold a fun event, “Join! YUKATA WEEK”, mainly fo
             <description><![CDATA[In order to support teaching and learning, we provide an eBook trial service.For the first time in 2025, KinoDen, provided by Kinokuniya Bookstore, will be available for a limited time.
 
 You can try a…]]></description>
-        </item>
-        <item>
-            <title><![CDATA[【附属図書館】電子ブック 全文無料試し読みサービスのご案内【期間限定！】]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=6200</link>
-            <guid>72ae9939afe59d790ff3f1ddf7f4b812</guid>
-            <pubDate>Thu, 01 May 2025 03:00:00 GMT</pubDate>
-            <description><![CDATA[附属図書館では、教育・学習を支援するため、電子ブックの全文無料試し読みサービスを実施しています。2025年度第一弾として、紀伊國屋書店が提供するKinoDenの試し読みサービスが利用できます。
-
-【実施期間】
-・2025年5月1日(木)～7月31日(木)
-【対象プラットフォーム】
-・KinoDen（紀伊國屋書店）
-
-詳しくは附属図書館Webページをご参照ください。
-
-サービス期間中は、KinoDe…]]></description>
         </item>
     </channel>
 </rss>
