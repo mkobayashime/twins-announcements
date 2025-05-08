@@ -4,10 +4,25 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Thu, 08 May 2025 03:19:16 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 08 May 2025 04:02:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
+        <item>
+            <title><![CDATA[【5/14開催】オハイオ州立大学との交流会のご案内/Invitation to the Exchange Session with The Ohio State University]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=6220</link>
+            <guid>3c5af93d9733c3c8b3c1658d12c0391b</guid>
+            <pubDate>Thu, 08 May 2025 03:00:00 GMT</pubDate>
+            <description><![CDATA[様々な分野の学生が研究やピッチの発表を行い、オハイオ州立大学の教員と自由な意見交換・交流を行います。研究/プロジェクトのピッチの発表者も募集しています。
+ぜひご参加をお待ちしております。
+
+〔開催概要〕
+日時：5/14(水) 14:00-15:30
+場所：第3エリア3C棟 2階201
+プログラム：
+Session 1: Student Presentation
+Session 2: Project…]]></description>
+        </item>
         <item>
             <title><![CDATA[（明日5/9開催）【附属図書館】LA企画セミナー「新入生集まれ！現役大学院生が伝える！レポートの書き方セミナー」]]></title>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=6219</link>
@@ -276,19 +291,6 @@ You can try a…]]></description>
 　　　　　大学院生、教職員も参加可能
 
 セミナーでは、レポート作成に関する以下の4つの視点から、LAがレポート作成…]]></description>
-        </item>
-        <item>
-            <title><![CDATA[日本語教員の新卒採用説明会]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=6198</link>
-            <guid>dc8e94edb5a3c8a0c4c2991d879c4b65</guid>
-            <pubDate>Thu, 01 May 2025 03:00:00 GMT</pubDate>
-            <description><![CDATA[都内の日本語専門学校「東洋言語学院」から、新卒での日本語教員の採用説明会のご案内をいただきました。本学の卒業生もここで活躍しています。
-
-プロの日本語教員になるにはどうしたら良いか、日本語学校では実際にどのような仕事をしているのか、また在学中に参加可能なインターンシップの説明など、関心のある方はぜひ参加してみてください。（参加はチラシのWQコードから）
-
-
-
-本件問合せ：日本語・日本文化学類　澤田…]]></description>
         </item>
     </channel>
 </rss>
