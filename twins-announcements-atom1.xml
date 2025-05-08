@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/mkobayashime/twins-announcements</id>
     <title>在学生へのお知らせ | 筑波大学</title>
-    <updated>2025-05-08T04:02:45.294Z</updated>
+    <updated>2025-05-08T05:01:48.724Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://github.com/mkobayashime/twins-announcements"/>
     <subtitle>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</subtitle>
+    <entry>
+        <title type="html"><![CDATA[再掲【開催通知】受動喫煙対策講習会]]></title>
+        <id>b39a34fb065e9061a24c755cc03e69b2</id>
+        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=6221"/>
+        <updated>2025-05-08T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[下記のとおり受動喫煙対策講習会を開催いたします。この講習は、本学関係者であればどなたでも聴講できます。参加をご希望の方は、５月１６日（金）までに以下のURLからフォームに登録をお願いします。
+　　　　　　　　　　　　　　　　 記
+１．日　　時：令和７年５月２３日（金）　１５：１５～１６：１５
+２．場　　所：春日エリア　７A１０５講義室
+３．テーマ：新型タバコについて
+４．対象者：本学教職員・学生
+…]]></summary>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【5/14開催】オハイオ州立大学との交流会のご案内/Invitation to the Exchange Session with The Ohio State University]]></title>
         <id>3c5af93d9733c3c8b3c1658d12c0391b</id>
@@ -273,21 +286,5 @@ You can try a…]]></summary>
 詳しくは附属図書館Webページをご参照ください。
 
 サービス期間中は、KinoDe…]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[（再掲）【附属図書館】LA企画セミナー「新入生集まれ！現役大学院生が伝える！レポートの書き方セミナー」]]></title>
-        <id>c854d442dfc0169ef8cb6ae4ce696d22</id>
-        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=6199"/>
-        <updated>2025-05-01T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[中央図書館の学生サポートデスクで活動するラーニング･アドバイザー（LA）が、
-「新入生集まれ！現役大学院生が伝える！レポートの書き方セミナー」
-を開催します。
-
-　日　時：5/9（金）17:00～18:00
-　場　所：中央図書館本館2F ラーニング・スクエア
-　対象者：主に学群生向け
-　　　　　大学院生、教職員も参加可能
-
-セミナーでは、レポート作成に関する以下の4つの視点から、LAがレポート作成…]]></summary>
     </entry>
 </feed>

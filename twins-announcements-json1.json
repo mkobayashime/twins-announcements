@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "b39a34fb065e9061a24c755cc03e69b2",
+            "content_html": "下記のとおり受動喫煙対策講習会を開催いたします。この講習は、本学関係者であればどなたでも聴講できます。参加をご希望の方は、５月１６日（金）までに以下のURLからフォームに登録をお願いします。\n　　　　　　　　　　　　　　　　 記\n１．日　　時：令和７年５月２３日（金）　１５：１５～１６：１５\n２．場　　所：春日エリア　７A１０５講義室\n３．テーマ：新型タバコについて\n４．対象者：本学教職員・学生\n…",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=6221",
+            "title": "再掲【開催通知】受動喫煙対策講習会",
+            "date_modified": "2025-05-08T03:00:00.000Z"
+        },
+        {
             "id": "3c5af93d9733c3c8b3c1658d12c0391b",
             "content_html": "様々な分野の学生が研究やピッチの発表を行い、オハイオ州立大学の教員と自由な意見交換・交流を行います。研究/プロジェクトのピッチの発表者も募集しています。\nぜひご参加をお待ちしております。\n\n〔開催概要〕\n日時：5/14(水) 14:00-15:30\n場所：第3エリア3C棟 2階201\nプログラム：\nSession 1: Student Presentation\nSession 2: Project…",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=6220",
@@ -135,13 +142,6 @@
             "content_html": "附属図書館では、教育・学習を支援するため、電子ブックの全文無料試し読みサービスを実施しています。2025年度第一弾として、紀伊國屋書店が提供するKinoDenの試し読みサービスが利用できます。\n\n【実施期間】\n・2025年5月1日(木)～7月31日(木)\n【対象プラットフォーム】\n・KinoDen（紀伊國屋書店）\n\n詳しくは附属図書館Webページをご参照ください。\n\nサービス期間中は、KinoDe…",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=6200",
             "title": "【附属図書館】電子ブック 全文無料試し読みサービスのご案内【期間限定！】",
-            "date_modified": "2025-05-01T03:00:00.000Z"
-        },
-        {
-            "id": "c854d442dfc0169ef8cb6ae4ce696d22",
-            "content_html": "中央図書館の学生サポートデスクで活動するラーニング･アドバイザー（LA）が、\n「新入生集まれ！現役大学院生が伝える！レポートの書き方セミナー」\nを開催します。\n\n　日　時：5/9（金）17:00～18:00\n　場　所：中央図書館本館2F ラーニング・スクエア\n　対象者：主に学群生向け\n　　　　　大学院生、教職員も参加可能\n\nセミナーでは、レポート作成に関する以下の4つの視点から、LAがレポート作成…",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=6199",
-            "title": "（再掲）【附属図書館】LA企画セミナー「新入生集まれ！現役大学院生が伝える！レポートの書き方セミナー」",
             "date_modified": "2025-05-01T03:00:00.000Z"
         }
     ]

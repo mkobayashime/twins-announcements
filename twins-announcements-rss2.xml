@@ -4,10 +4,23 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Thu, 08 May 2025 04:02:45 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 08 May 2025 05:01:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
+        <item>
+            <title><![CDATA[再掲【開催通知】受動喫煙対策講習会]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=6221</link>
+            <guid>b39a34fb065e9061a24c755cc03e69b2</guid>
+            <pubDate>Thu, 08 May 2025 03:00:00 GMT</pubDate>
+            <description><![CDATA[下記のとおり受動喫煙対策講習会を開催いたします。この講習は、本学関係者であればどなたでも聴講できます。参加をご希望の方は、５月１６日（金）までに以下のURLからフォームに登録をお願いします。
+　　　　　　　　　　　　　　　　 記
+１．日　　時：令和７年５月２３日（金）　１５：１５～１６：１５
+２．場　　所：春日エリア　７A１０５講義室
+３．テーマ：新型タバコについて
+４．対象者：本学教職員・学生
+…]]></description>
+        </item>
         <item>
             <title><![CDATA[【5/14開催】オハイオ州立大学との交流会のご案内/Invitation to the Exchange Session with The Ohio State University]]></title>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=6220</link>
@@ -275,22 +288,6 @@ You can try a…]]></description>
 詳しくは附属図書館Webページをご参照ください。
 
 サービス期間中は、KinoDe…]]></description>
-        </item>
-        <item>
-            <title><![CDATA[（再掲）【附属図書館】LA企画セミナー「新入生集まれ！現役大学院生が伝える！レポートの書き方セミナー」]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=6199</link>
-            <guid>c854d442dfc0169ef8cb6ae4ce696d22</guid>
-            <pubDate>Thu, 01 May 2025 03:00:00 GMT</pubDate>
-            <description><![CDATA[中央図書館の学生サポートデスクで活動するラーニング･アドバイザー（LA）が、
-「新入生集まれ！現役大学院生が伝える！レポートの書き方セミナー」
-を開催します。
-
-　日　時：5/9（金）17:00～18:00
-　場　所：中央図書館本館2F ラーニング・スクエア
-　対象者：主に学群生向け
-　　　　　大学院生、教職員も参加可能
-
-セミナーでは、レポート作成に関する以下の4つの視点から、LAがレポート作成…]]></description>
         </item>
     </channel>
 </rss>
