@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "639729e07ed85bfdae20cb6a5920d73c",
+            "content_html": "5月13日（火）から5月16日（金）までの4日間、120社以上の企業・団体・官公庁が大学会館に集結！\n特別企画として、毎日OB・OG相談会を実施します。（時間はチラシや添付の画像を確認ください）\n現在担当されている仕事内容はもちろん、所属した研究室・ゼミ、部活やサークルを\n公開しているOB・OGもいるので、ぜひ事前にリストを確認してからご参加ください‼\n\n夏休みにインターンシップへの参加を考えてい…",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=6229",
+            "title": "「インターンシップ・業界研究会」　《特別企画》　OB・OG相談会 出席者リスト",
+            "date_modified": "2025-05-09T03:00:00.000Z"
+        },
+        {
             "id": "f75a4d195ff032b1e8cf9627a9c3ba0d",
             "content_html": "企業研究の仕方や優良企業の選び方、研究職・技術職などを募集する企業や公的機関の探し方について数多くのビジネス書を手掛けてきたダイヤモンド社ならではの視点で解説いたします。\n大学１年生から博士後期学生まで全学生対象のセミナーです。ぜひ皆様の進路を考えるうえでお役立てください。\nこの講座を聞いたら、ぜひ5/13（火）から大学会館で開催する「インターンシップ・業界研究会」にもご参加ください！\n\n【日時】…",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=6227",
@@ -135,13 +142,6 @@
             "content_html": "献血の開催について周知依頼がありましたのでお知らせいたします。\n以下のとおり実施しますので、ご協力をお願いいたします。\n\n日時：5月19日（月）9:30～12:00\n会場：アマゾンジャパン つくばDS（つくば市さくらの森25-2 LFつくば1F）\n\n献血は、飲んでいる薬の種類や海外での滞在経験によっては献血できない場合もありますが、16歳以上の健康な人であれば、若い世代から中高年まで安全にできる社…",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=6207",
             "title": "【周知】「献血開催のお知らせ」について",
-            "date_modified": "2025-05-02T03:00:00.000Z"
-        },
-        {
-            "id": "5c0a17c621ae87432760309b348fe001",
-            "content_html": "文部科学省より、「SecHack365」プログラムについて、情報提供がありましたので、お知らせします。\n\n国立研究開発法人情報通信研究機構(NICT)　ナショナルサイバートレーニングセンターでは、総務省補助事業として、25歳以下の学生や社会人を対象とし、他に例の無い1年間の長期ハッカソンによってサイバーセキュリティを考慮したモノづくりに取り組む「SecHack365」（セックハックサンロクゴ）プロ…",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=6206",
-            "title": "【周知】2025年度「SecHack365」プログラムについて",
             "date_modified": "2025-05-02T03:00:00.000Z"
         }
     ]

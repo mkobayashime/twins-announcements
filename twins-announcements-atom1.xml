@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/mkobayashime/twins-announcements</id>
     <title>在学生へのお知らせ | 筑波大学</title>
-    <updated>2025-05-09T07:01:46.066Z</updated>
+    <updated>2025-05-09T09:01:38.548Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://github.com/mkobayashime/twins-announcements"/>
     <subtitle>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</subtitle>
+    <entry>
+        <title type="html"><![CDATA[「インターンシップ・業界研究会」　《特別企画》　OB・OG相談会 出席者リスト]]></title>
+        <id>639729e07ed85bfdae20cb6a5920d73c</id>
+        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=6229"/>
+        <updated>2025-05-09T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[5月13日（火）から5月16日（金）までの4日間、120社以上の企業・団体・官公庁が大学会館に集結！
+特別企画として、毎日OB・OG相談会を実施します。（時間はチラシや添付の画像を確認ください）
+現在担当されている仕事内容はもちろん、所属した研究室・ゼミ、部活やサークルを
+公開しているOB・OGもいるので、ぜひ事前にリストを確認してからご参加ください‼
+
+夏休みにインターンシップへの参加を考えてい…]]></summary>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【開催間近】インターンシップ・業界研究会プレイベント 「優良企業・研究機関の探し方講座」]]></title>
         <id>f75a4d195ff032b1e8cf9627a9c3ba0d</id>
@@ -278,14 +290,5 @@ Student Support Center will hold a fun event, “Join! YUKATA WEEK”, mainly fo
 会場：アマゾンジャパン つくばDS（つくば市さくらの森25-2 LFつくば1F）
 
 献血は、飲んでいる薬の種類や海外での滞在経験によっては献血できない場合もありますが、16歳以上の健康な人であれば、若い世代から中高年まで安全にできる社…]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【周知】2025年度「SecHack365」プログラムについて]]></title>
-        <id>5c0a17c621ae87432760309b348fe001</id>
-        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=6206"/>
-        <updated>2025-05-02T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[文部科学省より、「SecHack365」プログラムについて、情報提供がありましたので、お知らせします。
-
-国立研究開発法人情報通信研究機構(NICT)　ナショナルサイバートレーニングセンターでは、総務省補助事業として、25歳以下の学生や社会人を対象とし、他に例の無い1年間の長期ハッカソンによってサイバーセキュリティを考慮したモノづくりに取り組む「SecHack365」（セックハックサンロクゴ）プロ…]]></summary>
     </entry>
 </feed>
