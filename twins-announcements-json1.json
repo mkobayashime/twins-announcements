@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "07a1210006dd6f4e3ef839c756296814",
+            "content_html": "2024年度から国家資格「登録日本語教員」がスタートしています。\n制度についてわかりやすく説明しますので、興味のある方はご参加ください。\n\n日時：2025年５月21日（水）11：40～12：10\n場所：２Ｃ４０７（第２エリアＣ棟４階）",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=6223",
+            "title": "日本語教育のための修了証と国家資格のガイダンス",
+            "date_modified": "2025-05-09T03:00:00.000Z"
+        },
+        {
             "id": "f453f6b02fdef17437bdb29aaa70b57c",
             "content_html": "SSC公募型対象校のドイツ・ブランデンブルク工科大学コトブス＝ゼンフテンベルク校（BTU）について、2025年10月派遣開始分を追加募集いたします。\n添付の募集内容をよく確認の上応募してください。\n\n【募集内容の概要】\n留学先：ドイツ・ブランデンブルク工科大学コトブス＝ゼンフテンベルク校\n留学期間：2025年10月～2026年9月までの12ヵ月以内\n募集人員：筑波大学の学部生・大学院生を2名程度を…",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=6222",
@@ -135,13 +142,6 @@
             "content_html": "東南アジアとの交換留学プログラム・AIMSは2026年春学期渡航分（2026年1～3月頃に渡航）の募集を開始しました。\n\n下記リンク先プログラムサイトの募集要項等を熟読し理解した上で、【2025年7月1日（金）17：00まで】に必要書類を提出してください。ご応募お待ちしています！\n\n※留学期間中を通して、本学学群の正規課程に在籍する方が対象です。詳細は募集要項をご確認ください。",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=6202",
             "title": "【学群生対象】2026春学期渡航分募集開始！東南アジアとの交換留学プログラム（AIMS）",
-            "date_modified": "2025-05-01T03:00:00.000Z"
-        },
-        {
-            "id": "65ec12d0553626aaf49baf77d109d521",
-            "content_html": "In order to support teaching and learning, we provide an eBook trial service.For the first time in 2025, KinoDen, provided by Kinokuniya Bookstore, will be available for a limited time.\n\nYou can try a…",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=6201",
-            "title": "(Library) Free Ebook Trial Service (May 1-July 31)",
             "date_modified": "2025-05-01T03:00:00.000Z"
         }
     ]

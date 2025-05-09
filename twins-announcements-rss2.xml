@@ -4,10 +4,21 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Thu, 08 May 2025 21:07:13 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 09 May 2025 01:29:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
+        <item>
+            <title><![CDATA[日本語教育のための修了証と国家資格のガイダンス]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=6223</link>
+            <guid>07a1210006dd6f4e3ef839c756296814</guid>
+            <pubDate>Fri, 09 May 2025 03:00:00 GMT</pubDate>
+            <description><![CDATA[2024年度から国家資格「登録日本語教員」がスタートしています。
+制度についてわかりやすく説明しますので、興味のある方はご参加ください。
+
+日時：2025年５月21日（水）11：40～12：10
+場所：２Ｃ４０７（第２エリアＣ棟４階）]]></description>
+        </item>
         <item>
             <title><![CDATA[【派遣学生募集】ドイツ・ブランデンブルク工科大学コトブス＝ゼンフテンベルク校（BTU）への派遣学生の追加募集について（2025年10月派遣開始分）]]></title>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=6222</link>
@@ -276,15 +287,6 @@ Student Support Center will hold a fun event, “Join! YUKATA WEEK”, mainly fo
 下記リンク先プログラムサイトの募集要項等を熟読し理解した上で、【2025年7月1日（金）17：00まで】に必要書類を提出してください。ご応募お待ちしています！
 
 ※留学期間中を通して、本学学群の正規課程に在籍する方が対象です。詳細は募集要項をご確認ください。]]></description>
-        </item>
-        <item>
-            <title><![CDATA[(Library) Free Ebook Trial Service (May 1-July 31)]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=6201</link>
-            <guid>65ec12d0553626aaf49baf77d109d521</guid>
-            <pubDate>Thu, 01 May 2025 03:00:00 GMT</pubDate>
-            <description><![CDATA[In order to support teaching and learning, we provide an eBook trial service.For the first time in 2025, KinoDen, provided by Kinokuniya Bookstore, will be available for a limited time.
-
-You can try a…]]></description>
         </item>
     </channel>
 </rss>
