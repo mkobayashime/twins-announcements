@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/mkobayashime/twins-announcements</id>
     <title>在学生へのお知らせ | 筑波大学</title>
-    <updated>2025-05-09T13:09:16.209Z</updated>
+    <updated>2025-05-09T14:01:43.412Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://github.com/mkobayashime/twins-announcements"/>
     <subtitle>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</subtitle>
+    <entry>
+        <title type="html"><![CDATA[【参加者絶賛募集中】キルギスで学ぶロシア語！　「海外語学研修ロシア語B」 学群科目8330416]]></title>
+        <id>8b80526bd941366ab6a7fe738f026b33</id>
+        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=6231"/>
+        <updated>2025-05-09T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[「2025 年夏季 KRJC ロシア語 1 カ月スキルアップコース」の参加者を募集します。
+
+研修内容：URLからプログラムの詳細スケジュールの確認が可能です。
+▶︎研修期間：2025 年8月11日（月）から 9月6日（土）の 27泊、28 日間  
+▶︎研修地：キルギス共和国　首都ビシュケク
+▶︎対象：ロシア語を履修している学群生、大学院生が望ましいですが、初学者でも出発までにキリル文字を覚える…]]></summary>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【参加者絶賛募集中】　ガクチカを作ろう！国際協力体験プログラム]]></title>
         <id>5754aa66161fd411617acb7db6601099</id>
@@ -278,14 +290,5 @@ https://www.tulips.tsukuba.ac.jp/lib/support/guidance
 ---
 
 In the library,…]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Join! YUKATA WEEK – Monday, June 9th to Friday, June 13th, 2025 –]]></title>
-        <id>bc46f4fcdcf7ea4f2c062d09015df156</id>
-        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=6210"/>
-        <updated>2025-05-07T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Experience the Spirit of Japanese Summer in a Yukata!
-
-Student Support Center will hold a fun event, “Join! YUKATA WEEK”, mainly for international students at the University of Tsukuba! It will take p…]]></summary>
     </entry>
 </feed>
