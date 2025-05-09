@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "f75a4d195ff032b1e8cf9627a9c3ba0d",
+            "content_html": "企業研究の仕方や優良企業の選び方、研究職・技術職などを募集する企業や公的機関の探し方について数多くのビジネス書を手掛けてきたダイヤモンド社ならではの視点で解説いたします。\n大学１年生から博士後期学生まで全学生対象のセミナーです。ぜひ皆様の進路を考えるうえでお役立てください。\nこの講座を聞いたら、ぜひ5/13（火）から大学会館で開催する「インターンシップ・業界研究会」にもご参加ください！\n\n【日時】…",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=6227",
+            "title": "【開催間近】インターンシップ・業界研究会プレイベント 「優良企業・研究機関の探し方講座」",
+            "date_modified": "2025-05-09T03:00:00.000Z"
+        },
+        {
             "id": "bd67a7049b99005dbbe83544865d95f3",
             "content_html": "お世話になっております。ヒューマンエンパワーメント推進局（BHE）ジェンダー支援チームです。\n\nBHEでは、５月30日（金）に、アジア財団・エスティローダー・筑波大学共催の講演会を開催します。\n国際的に活躍する方々が、理工系・IT系など理工学分野への進路を考える女子学生を対象にキャリアの歩みや挑戦、未来へのヒントを語ります。\n\nご参加いただいた方には、エスティローダーのサンプルをプレゼントします。…",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=6226",
@@ -135,13 +142,6 @@
             "content_html": "文部科学省より、「SecHack365」プログラムについて、情報提供がありましたので、お知らせします。\n\n国立研究開発法人情報通信研究機構(NICT)　ナショナルサイバートレーニングセンターでは、総務省補助事業として、25歳以下の学生や社会人を対象とし、他に例の無い1年間の長期ハッカソンによってサイバーセキュリティを考慮したモノづくりに取り組む「SecHack365」（セックハックサンロクゴ）プロ…",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=6206",
             "title": "【周知】2025年度「SecHack365」プログラムについて",
-            "date_modified": "2025-05-02T03:00:00.000Z"
-        },
-        {
-            "id": "1d17d9d547204f280a9124bd44d306f7",
-            "content_html": "六本木アートナイト2025の作品公募について周知依頼がありましたのでお知らせいたします。\n興味のある方はぜひご応募ください。\n\n※詳細は、添付のチラシをご覧ください。",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=6205",
-            "title": "【周知】「六本木アートナイト2025作品公募」について",
             "date_modified": "2025-05-02T03:00:00.000Z"
         }
     ]

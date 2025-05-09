@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/mkobayashime/twins-announcements</id>
     <title>在学生へのお知らせ | 筑波大学</title>
-    <updated>2025-05-09T06:01:40.747Z</updated>
+    <updated>2025-05-09T07:01:46.066Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://github.com/mkobayashime/twins-announcements"/>
     <subtitle>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</subtitle>
+    <entry>
+        <title type="html"><![CDATA[【開催間近】インターンシップ・業界研究会プレイベント 「優良企業・研究機関の探し方講座」]]></title>
+        <id>f75a4d195ff032b1e8cf9627a9c3ba0d</id>
+        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=6227"/>
+        <updated>2025-05-09T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[企業研究の仕方や優良企業の選び方、研究職・技術職などを募集する企業や公的機関の探し方について数多くのビジネス書を手掛けてきたダイヤモンド社ならではの視点で解説いたします。
+大学１年生から博士後期学生まで全学生対象のセミナーです。ぜひ皆様の進路を考えるうえでお役立てください。
+この講座を聞いたら、ぜひ5/13（火）から大学会館で開催する「インターンシップ・業界研究会」にもご参加ください！
+
+【日時】…]]></summary>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【参加者募集】キャリアで世界を変える：先輩たちに聞く未来のヒント（5/30開催）]]></title>
         <id>bd67a7049b99005dbbe83544865d95f3</id>
@@ -276,15 +287,5 @@ Student Support Center will hold a fun event, “Join! YUKATA WEEK”, mainly fo
         <summary type="html"><![CDATA[文部科学省より、「SecHack365」プログラムについて、情報提供がありましたので、お知らせします。
 
 国立研究開発法人情報通信研究機構(NICT)　ナショナルサイバートレーニングセンターでは、総務省補助事業として、25歳以下の学生や社会人を対象とし、他に例の無い1年間の長期ハッカソンによってサイバーセキュリティを考慮したモノづくりに取り組む「SecHack365」（セックハックサンロクゴ）プロ…]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【周知】「六本木アートナイト2025作品公募」について]]></title>
-        <id>1d17d9d547204f280a9124bd44d306f7</id>
-        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=6205"/>
-        <updated>2025-05-02T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[六本木アートナイト2025の作品公募について周知依頼がありましたのでお知らせいたします。
-興味のある方はぜひご応募ください。
-
-※詳細は、添付のチラシをご覧ください。]]></summary>
     </entry>
 </feed>
