@@ -4,10 +4,22 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Fri, 09 May 2025 02:05:47 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 09 May 2025 06:01:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
+        <item>
+            <title><![CDATA[【参加者募集】キャリアで世界を変える：先輩たちに聞く未来のヒント（5/30開催）]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=6226</link>
+            <guid>bd67a7049b99005dbbe83544865d95f3</guid>
+            <pubDate>Fri, 09 May 2025 03:00:00 GMT</pubDate>
+            <description><![CDATA[お世話になっております。ヒューマンエンパワーメント推進局（BHE）ジェンダー支援チームです。
+
+BHEでは、５月30日（金）に、アジア財団・エスティローダー・筑波大学共催の講演会を開催します。
+国際的に活躍する方々が、理工系・IT系など理工学分野への進路を考える女子学生を対象にキャリアの歩みや挑戦、未来へのヒントを語ります。
+
+ご参加いただいた方には、エスティローダーのサンプルをプレゼントします。…]]></description>
+        </item>
         <item>
             <title><![CDATA[【募集】2025/6/8 (sun) 鹿島神宮ツアー]]></title>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=6225</link>
@@ -276,23 +288,6 @@ Student Support Center will hold a fun event, “Join! YUKATA WEEK”, mainly fo
 興味のある方はぜひご応募ください。
 
 ※詳細は、添付のチラシをご覧ください。]]></description>
-        </item>
-        <item>
-            <title><![CDATA[第17回JCKフォーラム参加者募集／Call-for-participation to JCK Forum 2025]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=6204</link>
-            <guid>ea33b79fd50ac856a05caca33bbaeae6</guid>
-            <pubDate>Thu, 01 May 2025 03:00:00 GMT</pubDate>
-            <description><![CDATA[日中韓国際大学院生アカデミックフォーラムが今年は筑波大学でオンライン開催されます。
-
-日時：2025年9月18日（木）～9月19日（金）
-会場：筑波大学　オンライン開催（Zoom）
-対象：農学、環境科学、生命科学、地球科学を専攻する大学院生
-発表形式：口頭発表（英語）
-参加費：無料
-登録締切：令和7年5月12日（月）
-要旨提出締切：令和7年5月30日（金）
-
-登録用リンクは添付ポスターにあります。…]]></description>
         </item>
     </channel>
 </rss>
