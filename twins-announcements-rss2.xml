@@ -4,10 +4,20 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Fri, 09 May 2025 09:08:08 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 09 May 2025 13:09:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
+        <item>
+            <title><![CDATA[【参加者絶賛募集中】　ガクチカを作ろう！国際協力体験プログラム]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=6230</link>
+            <guid>5754aa66161fd411617acb7db6601099</guid>
+            <pubDate>Fri, 09 May 2025 03:00:00 GMT</pubDate>
+            <description><![CDATA[筑波大学NipCAプロジェクトとキルギス日本人材開発センターが共同開発した海外研修プログラム、第２回「2025年夏季　カザフスタン・キルギス共和国合同　中央アジアシルクロード探求の旅～悠久の天山山脈のもとで学ぶ観光学と国際協力・国際ボランティア～」への参加者を募集します。
+
+研修内容： URLからも詳細をご確認いただけます！
+▶︎研修期間：2024年8月4日（月）から8月17日（日）の14日間（カ…]]></description>
+        </item>
         <item>
             <title><![CDATA[「インターンシップ・業界研究会」　《特別企画》　OB・OG相談会 出席者リスト]]></title>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=6229</link>
@@ -279,19 +289,6 @@ In the library,…]]></description>
             <description><![CDATA[Experience the Spirit of Japanese Summer in a Yukata!
 
 Student Support Center will hold a fun event, “Join! YUKATA WEEK”, mainly for international students at the University of Tsukuba! It will take p…]]></description>
-        </item>
-        <item>
-            <title><![CDATA[【周知】「献血開催のお知らせ」について]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=6207</link>
-            <guid>3f626c6f58135bc0c3a8b378efac6b60</guid>
-            <pubDate>Fri, 02 May 2025 03:00:00 GMT</pubDate>
-            <description><![CDATA[献血の開催について周知依頼がありましたのでお知らせいたします。
-以下のとおり実施しますので、ご協力をお願いいたします。
-
-日時：5月19日（月）9:30～12:00
-会場：アマゾンジャパン つくばDS（つくば市さくらの森25-2 LFつくば1F）
-
-献血は、飲んでいる薬の種類や海外での滞在経験によっては献血できない場合もありますが、16歳以上の健康な人であれば、若い世代から中高年まで安全にできる社…]]></description>
         </item>
     </channel>
 </rss>
