@@ -4,7 +4,7 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Sat, 10 May 2025 09:07:24 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 10 May 2025 15:06:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
@@ -147,22 +147,6 @@ Session 1: Student Presentation
 Session 2: Project…]]></description>
         </item>
         <item>
-            <title><![CDATA[（明日5/9開催）【附属図書館】LA企画セミナー「新入生集まれ！現役大学院生が伝える！レポートの書き方セミナー」]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=6219</link>
-            <guid>64b63354f485284df30529d119fe5383</guid>
-            <pubDate>Thu, 08 May 2025 03:00:00 GMT</pubDate>
-            <description><![CDATA[中央図書館の学生サポートデスクで活動するラーニング･アドバイザー（LA）が、
-「新入生集まれ！現役大学院生が伝える！レポートの書き方セミナー」
-を開催します。
-
-　日　時：5/9（金）17:00～18:00
-　場　所：中央図書館本館2F ラーニング・スクエア
-　対象者：主に学群生向け
-　　　　　大学院生、教職員も参加可能
-
-セミナーでは、レポート作成に関する以下の4つの視点から、LAがレポート作成…]]></description>
-        </item>
-        <item>
             <title><![CDATA[子どもたちと一緒に科学を楽しもう！「つくばSKIPアカデミー」「筑波大学GFEST」アシスタント登録者募集]]></title>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=6216</link>
             <guid>376a1f25b2ba6d35edbb7badedd4245f</guid>
@@ -279,6 +263,15 @@ Student Support Center will hold a fun event, “Join! YUKATA WEEK”, mainly fo
 会場：アマゾンジャパン つくばDS（つくば市さくらの森25-2 LFつくば1F）
 
 献血は、飲んでいる薬の種類や海外での滞在経験によっては献血できない場合もありますが、16歳以上の健康な人であれば、若い世代から中高年まで安全にできる社…]]></description>
+        </item>
+        <item>
+            <title><![CDATA[【周知】2025年度「SecHack365」プログラムについて]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=6206</link>
+            <guid>5c0a17c621ae87432760309b348fe001</guid>
+            <pubDate>Fri, 02 May 2025 03:00:00 GMT</pubDate>
+            <description><![CDATA[文部科学省より、「SecHack365」プログラムについて、情報提供がありましたので、お知らせします。
+
+国立研究開発法人情報通信研究機構(NICT)　ナショナルサイバートレーニングセンターでは、総務省補助事業として、25歳以下の学生や社会人を対象とし、他に例の無い1年間の長期ハッカソンによってサイバーセキュリティを考慮したモノづくりに取り組む「SecHack365」（セックハックサンロクゴ）プロ…]]></description>
         </item>
     </channel>
 </rss>
