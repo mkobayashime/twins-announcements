@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "af8222ad37c4bd91dd02adb9657787a5",
+            "content_html": "文献管理と共有・論文作成支援Webサービス「RefWorks」について、\nRefWorks提供元のインストラクターが活用方法をご案内する講習会を開催します。\n\n日時：5月14日（水）15:15-16:45\n開催方法： オンライン（Zoom)\n\n今回は「初級者編」として、アカウント作成方法、各種データベースからの取り込み、\n参考文献リストの自動作成などの基本的な操作方法をご説明します。\n\n「あの論文…",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=6228",
+            "title": "【5/14開催】「文献管理ツールRefWorks活用法（初級者編）」図書館講習会",
+            "date_modified": "2025-05-12T03:00:00.000Z"
+        },
+        {
             "id": "8b80526bd941366ab6a7fe738f026b33",
             "content_html": "「2025 年夏季 KRJC ロシア語 1 カ月スキルアップコース」の参加者を募集します。\n\n研修内容：URLからプログラムの詳細スケジュールの確認が可能です。\n▶︎研修期間：2025 年8月11日（月）から 9月6日（土）の 27泊、28 日間  \n▶︎研修地：キルギス共和国　首都ビシュケク\n▶︎対象：ロシア語を履修している学群生、大学院生が望ましいですが、初学者でも出発までにキリル文字を覚える…",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=6231",
@@ -135,13 +142,6 @@
             "content_html": "献血の開催について周知依頼がありましたのでお知らせいたします。\n以下のとおり実施しますので、ご協力をお願いいたします。\n\n日時：5月19日（月）9:30～12:00\n会場：アマゾンジャパン つくばDS（つくば市さくらの森25-2 LFつくば1F）\n\n献血は、飲んでいる薬の種類や海外での滞在経験によっては献血できない場合もありますが、16歳以上の健康な人であれば、若い世代から中高年まで安全にできる社…",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=6207",
             "title": "【周知】「献血開催のお知らせ」について",
-            "date_modified": "2025-05-02T03:00:00.000Z"
-        },
-        {
-            "id": "5c0a17c621ae87432760309b348fe001",
-            "content_html": "文部科学省より、「SecHack365」プログラムについて、情報提供がありましたので、お知らせします。\n\n国立研究開発法人情報通信研究機構(NICT)　ナショナルサイバートレーニングセンターでは、総務省補助事業として、25歳以下の学生や社会人を対象とし、他に例の無い1年間の長期ハッカソンによってサイバーセキュリティを考慮したモノづくりに取り組む「SecHack365」（セックハックサンロクゴ）プロ…",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=6206",
-            "title": "【周知】2025年度「SecHack365」プログラムについて",
             "date_modified": "2025-05-02T03:00:00.000Z"
         }
     ]
