@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "095338c653a57bc4758435158cf3e796",
+            "content_html": "令和7年度学生宿舎入居募集についてお知らせいたします。\n（【グローバルヴィレッジ】）\n学生宿舎への入居を希望される方は、添付ファイルをご参照ください。\n\nWe will inform you of AY2025 Residence Hall Application.\n(【Global Village】)\nPlease refer to the attached PDF if you are int…",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=6232",
+            "title": "学生宿舎入居募集について / Information of Residence Hall Application【グローバルヴィレッジ/Global Village】",
+            "date_modified": "2025-05-12T03:00:00.000Z"
+        },
+        {
             "id": "af8222ad37c4bd91dd02adb9657787a5",
             "content_html": "文献管理と共有・論文作成支援Webサービス「RefWorks」について、\nRefWorks提供元のインストラクターが活用方法をご案内する講習会を開催します。\n\n日時：5月14日（水）15:15-16:45\n開催方法： オンライン（Zoom)\n\n今回は「初級者編」として、アカウント作成方法、各種データベースからの取り込み、\n参考文献リストの自動作成などの基本的な操作方法をご説明します。\n\n「あの論文…",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=6228",
@@ -136,13 +143,6 @@
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=6210",
             "title": "Join! YUKATA WEEK – Monday, June 9th to Friday, June 13th, 2025 –",
             "date_modified": "2025-05-07T03:00:00.000Z"
-        },
-        {
-            "id": "3f626c6f58135bc0c3a8b378efac6b60",
-            "content_html": "献血の開催について周知依頼がありましたのでお知らせいたします。\n以下のとおり実施しますので、ご協力をお願いいたします。\n\n日時：5月19日（月）9:30～12:00\n会場：アマゾンジャパン つくばDS（つくば市さくらの森25-2 LFつくば1F）\n\n献血は、飲んでいる薬の種類や海外での滞在経験によっては献血できない場合もありますが、16歳以上の健康な人であれば、若い世代から中高年まで安全にできる社…",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=6207",
-            "title": "【周知】「献血開催のお知らせ」について",
-            "date_modified": "2025-05-02T03:00:00.000Z"
         }
     ]
 }
