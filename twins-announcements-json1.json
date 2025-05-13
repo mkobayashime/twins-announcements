@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "e115704f91a035776ed2cb3681e2d0af",
+            "content_html": "オープンファシリティー研究機器共同利用説明会を6月3日にオンライン開催いたします。\n13回目の開催となる本年度の説明会では、筑波大学の研究機器だけでなく、物質・材料研究機構及び高エネルギー加速器研究機構の研究機器も含め、つくば地区の共用機器を幅広くご紹介いたします。（参加無料です）\n研究促進に役立つ情報を多数提供しますので、是非ご参加ください。\nなお、ZOOMによるオンライン開催とさせていただきま…",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=6240",
+            "title": "【6/2 12時申込〆6/3開催】第13回筑波大学オープンファシリティー研究機器共同利用説明会",
+            "date_modified": "2025-05-13T03:00:00.000Z"
+        },
+        {
             "id": "dc3ee5b991f0260261ab6a080863eec1",
             "content_html": "「2025 年夏季 KRJC ロシア語 1 カ月スキルアップコース」の参加者を募集します。\n\n研修内容：URLからプログラムの詳細スケジュールの確認が可能です。\n▶︎研修期間：2025 年8月11日（月）から 9月6日（土）の 27泊、28 日間  \n▶︎研修地：キルギス共和国　首都ビシュケク\n▶︎対象：ロシア語を履修している学群生、大学院生が望ましいですが、初学者でも出発までにキリル文字を覚える…",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=6239",
@@ -136,13 +143,6 @@
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=6220",
             "title": "【5/14開催】オハイオ州立大学との交流会のご案内/Invitation to the Exchange Session with The Ohio State University",
             "date_modified": "2025-05-08T03:00:00.000Z"
-        },
-        {
-            "id": "376a1f25b2ba6d35edbb7badedd4245f",
-            "content_html": "筑波大学では例年、自然科学に対する卓越した興味・関心を持つ児童生徒へ向けた取組を行っております。\n本年度も、小中学生には「つくばSKIPアカデミー」、高校生には「筑波大学GFEST」を実施することになりました。\nついては、科学教育やサイエンスコミュニケーションに興味や関心のある、学類生・大学院生のTA登録者を募集します。\n\n１　対象\n　筑波大学の学類生・大学院生（所属は問いません）\n２　時給単価\n…",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=6216",
-            "title": "子どもたちと一緒に科学を楽しもう！「つくばSKIPアカデミー」「筑波大学GFEST」アシスタント登録者募集",
-            "date_modified": "2025-05-07T03:00:00.000Z"
         }
     ]
 }

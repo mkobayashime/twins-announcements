@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/mkobayashime/twins-announcements</id>
     <title>在学生へのお知らせ | 筑波大学</title>
-    <updated>2025-05-12T21:07:06.019Z</updated>
+    <updated>2025-05-13T00:03:17.501Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://github.com/mkobayashime/twins-announcements"/>
     <subtitle>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</subtitle>
+    <entry>
+        <title type="html"><![CDATA[【6/2 12時申込〆6/3開催】第13回筑波大学オープンファシリティー研究機器共同利用説明会]]></title>
+        <id>e115704f91a035776ed2cb3681e2d0af</id>
+        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=6240"/>
+        <updated>2025-05-13T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[オープンファシリティー研究機器共同利用説明会を6月3日にオンライン開催いたします。
+13回目の開催となる本年度の説明会では、筑波大学の研究機器だけでなく、物質・材料研究機構及び高エネルギー加速器研究機構の研究機器も含め、つくば地区の共用機器を幅広くご紹介いたします。（参加無料です）
+研究促進に役立つ情報を多数提供しますので、是非ご参加ください。
+なお、ZOOMによるオンライン開催とさせていただきま…]]></summary>
+    </entry>
     <entry>
         <title type="html"><![CDATA[再掲載【参加者絶賛募集中】キルギスで学ぶロシア語！「海外語学研修ロシア語B」学群科目8330416]]></title>
         <id>dc3ee5b991f0260261ab6a080863eec1</id>
@@ -249,19 +259,5 @@ Budoに興味のある方はもちろん、留学生との交流に関心のあ�
 プログラム：
 Session 1: Student Presentation
 Session 2: Project…]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[子どもたちと一緒に科学を楽しもう！「つくばSKIPアカデミー」「筑波大学GFEST」アシスタント登録者募集]]></title>
-        <id>376a1f25b2ba6d35edbb7badedd4245f</id>
-        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=6216"/>
-        <updated>2025-05-07T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[筑波大学では例年、自然科学に対する卓越した興味・関心を持つ児童生徒へ向けた取組を行っております。
-本年度も、小中学生には「つくばSKIPアカデミー」、高校生には「筑波大学GFEST」を実施することになりました。
-ついては、科学教育やサイエンスコミュニケーションに興味や関心のある、学類生・大学院生のTA登録者を募集します。
-
-１　対象
-　筑波大学の学類生・大学院生（所属は問いません）
-２　時給単価
-…]]></summary>
     </entry>
 </feed>
