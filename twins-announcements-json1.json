@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "f4c287af4f45dcb23fd5ca980c5ad905",
+            "content_html": "学群1年次対象 TOEIC L&R IPオンラインテスト（英語プレイスメントテスト）の結果取得期間は5/31（土）までです。\n結果確認用URLからログインし、PDF形式のTest Result（TOEIC発行の証明書）の印刷・保存ができます。\n大学から証明書の配付はありませんのでご自身でサイトにアクセスの上取得をお願いします。\n結果確認方法詳細については添付マニュアルをご確認ください。\n\n■結果確…",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=6252",
+            "title": "【学群1年次】英語プレイスメントテスト（TOEIC L&R IPテスト）結果取得について　※取得期間は5/31まで！",
+            "date_modified": "2025-05-14T03:00:00.000Z"
+        },
+        {
             "id": "c5d92ae75dfcf4bbc0b74f414ceecb52",
             "content_html": "大学院修了後の活躍の場は日本国内だけじゃない。\n今回は、大学の国際化を支援する欧州連合日本政府代表部(EU代)科学技術フェローで本学修了生の松本健氏を招き、世界で働く面白さ、勇気をもって世界へ飛び出すことで見えてくる様々な視点について、お話をいただきます。\n\n〇5月28日（水）\n　16：00-17：00\n〇ステューデントプラザ2階　ヒューマンエンパワーメント推進局内会議室\n〇グローバルキャリアにつ…",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=6251",
@@ -135,13 +142,6 @@
             "content_html": "令和7年度学生宿舎入居募集についてお知らせいたします。\n（【一の矢継続入居棟（一般単身改修棟）】）\n学生宿舎への入居を希望される方は、添付ファイルをご参照ください。\n\nWe will inform you of AY2025 Residence Hall Application.\n(【Ichinoya for Long Term (Single, Renovated Room)】)\nPlease …",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=6233",
             "title": "学生宿舎入居募集について / Information of Residence Hall Application【一の矢継続入居棟/Ichinoya for Long Term】",
-            "date_modified": "2025-05-12T03:00:00.000Z"
-        },
-        {
-            "id": "095338c653a57bc4758435158cf3e796",
-            "content_html": "令和7年度学生宿舎入居募集についてお知らせいたします。\n（【グローバルヴィレッジ】）\n学生宿舎への入居を希望される方は、添付ファイルをご参照ください。\n\nWe will inform you of AY2025 Residence Hall Application.\n(【Global Village】)\nPlease refer to the attached PDF if you are int…",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=6232",
-            "title": "学生宿舎入居募集について / Information of Residence Hall Application【グローバルヴィレッジ/Global Village】",
             "date_modified": "2025-05-12T03:00:00.000Z"
         }
     ]

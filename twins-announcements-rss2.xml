@@ -4,10 +4,22 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Wed, 14 May 2025 06:01:46 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 14 May 2025 07:01:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
+        <item>
+            <title><![CDATA[【学群1年次】英語プレイスメントテスト（TOEIC L&R IPテスト）結果取得について　※取得期間は5/31まで！]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=6252</link>
+            <guid>f4c287af4f45dcb23fd5ca980c5ad905</guid>
+            <pubDate>Wed, 14 May 2025 03:00:00 GMT</pubDate>
+            <description><![CDATA[学群1年次対象 TOEIC L&R IPオンラインテスト（英語プレイスメントテスト）の結果取得期間は5/31（土）までです。
+結果確認用URLからログインし、PDF形式のTest Result（TOEIC発行の証明書）の印刷・保存ができます。
+大学から証明書の配付はありませんのでご自身でサイトにアクセスの上取得をお願いします。
+結果確認方法詳細については添付マニュアルをご確認ください。
+
+■結果確…]]></description>
+        </item>
         <item>
             <title><![CDATA[「世界に広がる大学院修了後のキャリアパス」～EU代表部科学技術フェローに聞くグローバルキャリア]]></title>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=6251</link>
@@ -239,19 +251,6 @@ Please refer to th…]]></description>
 We will inform you of AY2025 Residence Hall Application.
 (【Ichinoya for Long Term (Single, Renovated Room)】)
 Please …]]></description>
-        </item>
-        <item>
-            <title><![CDATA[学生宿舎入居募集について / Information of Residence Hall Application【グローバルヴィレッジ/Global Village】]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=6232</link>
-            <guid>095338c653a57bc4758435158cf3e796</guid>
-            <pubDate>Mon, 12 May 2025 03:00:00 GMT</pubDate>
-            <description><![CDATA[令和7年度学生宿舎入居募集についてお知らせいたします。
-（【グローバルヴィレッジ】）
-学生宿舎への入居を希望される方は、添付ファイルをご参照ください。
-
-We will inform you of AY2025 Residence Hall Application.
-(【Global Village】)
-Please refer to the attached PDF if you are int…]]></description>
         </item>
     </channel>
 </rss>
