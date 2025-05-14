@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "fdfa3ff286b271a42374adba7f948fd9",
+            "content_html": "日本年金機構より国民年金制度について、周知がありましたので、お知らせいたします。\n\n●国民年金制度および日本年金機構ホームページのご案内\n日本にお住いの 20 歳以上の方は国民年金に加入し保険料を納付する必要があります。日本年金機構では、国民年金制度の内容やメリット、保険料の納付方法と共に、保険料の納付が経済的に難しい方に向けて学生納付特例の手続きなどをわかりやすく動画等でご案内しています。ぜひ、…",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=6247",
+            "title": "【周知】【日本年金機構】国民年金制度について",
+            "date_modified": "2025-05-14T03:00:00.000Z"
+        },
+        {
             "id": "1da6ea0a7f87351eb77a8c6a8284ccfd",
             "content_html": "この度、本学の同窓会である茗溪会にて、生物学類OGにキャリア相談会を開催します\n現在就活中の方、将来就職先に関心がある方、理系女子のキャリアの興味がある方、是非ご参加ください。\n\n【内容】\nhttps://www.meikei.or.jp/event/6876.html\n\n【開催日程と手法】\n　・6月11日（水）21時～22時　受付：20時50分～\n　・ZOOM\n　　※申し込み後にZOOMのURL…",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=6246",
@@ -135,13 +142,6 @@
             "content_html": "5月13日（火）から5月16日（金）までの4日間、120社以上の企業・団体・官公庁が大学会館に集結！\n特別企画として、毎日OB・OG相談会を実施します。（時間はチラシや添付の画像を確認ください）\n現在担当されている仕事内容はもちろん、所属した研究室・ゼミ、部活やサークルを\n公開しているOB・OGもいるので、ぜひ事前にリストを確認してからご参加ください‼\n\n夏休みにインターンシップへの参加を考えてい…",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=6229",
             "title": "「インターンシップ・業界研究会」　《特別企画》　OB・OG相談会 出席者リスト",
-            "date_modified": "2025-05-09T03:00:00.000Z"
-        },
-        {
-            "id": "bd67a7049b99005dbbe83544865d95f3",
-            "content_html": "お世話になっております。ヒューマンエンパワーメント推進局（BHE）ジェンダー支援チームです。\n\nBHEでは、５月30日（金）に、アジア財団・エスティローダー・筑波大学共催の講演会を開催します。\n国際的に活躍する方々が、理工系・IT系など理工学分野への進路を考える女子学生を対象にキャリアの歩みや挑戦、未来へのヒントを語ります。\n\nご参加いただいた方には、エスティローダーのサンプルをプレゼントします。…",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=6226",
-            "title": "【参加者募集】キャリアで世界を変える：先輩たちに聞く未来のヒント（5/30開催）",
             "date_modified": "2025-05-09T03:00:00.000Z"
         }
     ]
