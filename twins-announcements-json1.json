@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "e77269586d5f18b46c40f01ba6ad84df",
+            "content_html": "The World-science Leaders’ Seminar is a part of classes in the Human Biology PhD program.\nStudents attending this seminar will learn the basics and latest research trends in the specialties of the wor…",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=6253",
+            "title": "【On-site】World-science Leaders’ Seminar for all students on May 23rd. (Fri) 2025 13:30-15:00",
+            "date_modified": "2025-05-14T03:00:00.000Z"
+        },
+        {
             "id": "f4c287af4f45dcb23fd5ca980c5ad905",
             "content_html": "学群1年次対象 TOEIC L&R IPオンラインテスト（英語プレイスメントテスト）の結果取得期間は5/31（土）までです。\n結果確認用URLからログインし、PDF形式のTest Result（TOEIC発行の証明書）の印刷・保存ができます。\n大学から証明書の配付はありませんのでご自身でサイトにアクセスの上取得をお願いします。\n結果確認方法詳細については添付マニュアルをご確認ください。\n\n■結果確…",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=6252",
@@ -135,13 +142,6 @@
             "content_html": "筑波大学と１５の企業・研究機関の協働によるレジリエンス研究教育推進コンソーシアムが企画する\n学生向けキャリア関連イベント「キャリアマッチングデー」が開催されます。\n各業界をリードする企業・研究機関の採用担当者、実務担当者、研究者の方々と、学生が直接交流できる貴重な機会です。\nぜひ皆様の進路を考えるうえでお役立てください。\n\n【概要】\n■日　時　：令和7年6月5日（木）13:00-16:00\n■会　…",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=6234",
             "title": "【参加者募集】就職関連イベント「キャリアマッチングデー」（6/5開催）",
-            "date_modified": "2025-05-12T03:00:00.000Z"
-        },
-        {
-            "id": "fe3e73ff54ef4f7c61f698c7ec7093ea",
-            "content_html": "令和7年度学生宿舎入居募集についてお知らせいたします。\n（【一の矢継続入居棟（一般単身改修棟）】）\n学生宿舎への入居を希望される方は、添付ファイルをご参照ください。\n\nWe will inform you of AY2025 Residence Hall Application.\n(【Ichinoya for Long Term (Single, Renovated Room)】)\nPlease …",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=6233",
-            "title": "学生宿舎入居募集について / Information of Residence Hall Application【一の矢継続入居棟/Ichinoya for Long Term】",
             "date_modified": "2025-05-12T03:00:00.000Z"
         }
     ]
