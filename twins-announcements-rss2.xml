@@ -4,10 +4,26 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Thu, 15 May 2025 01:29:00 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 15 May 2025 02:30:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
+        <item>
+            <title><![CDATA[【参加者募集中】　5月21日 BHE 面接・GD練習会]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=6255</link>
+            <guid>7c196394b0f4f884bb04f11f7e677f92</guid>
+            <pubDate>Thu, 15 May 2025 03:00:00 GMT</pubDate>
+            <description><![CDATA[BHE主催の就活支援企画、面接・GD練習会です。生活に即役立つ、面接・GD練習会です。
+対面面接編ではビジネスマナーも学ぶことができます。
+就活中の方、ISの選考を受ける方、参加して役立ててください。
+BHEキャリア支援チームのファシリテーターからフィードバックがあります。 （日本語での開催です）
+
+【詳細と申込み】 〇定員各回12名
+
+＜対面面接・GD編＞　 5月21日（水）
+GD編
+10：00…]]></description>
+        </item>
         <item>
             <title><![CDATA[筑波大学大学院英語教育学サブプログラム【フォーラム & 大学院進学相談会 】]]></title>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=6254</link>
@@ -235,19 +251,6 @@ Please refer to the attached PDF…]]></description>
 We will inform you of AY2025 Residence Hall Application.
 (【Twin Room for Single Use】)
 Please refer to the attached PDF if you …]]></description>
-        </item>
-        <item>
-            <title><![CDATA[学生宿舎入居募集について / Information of Residence Hall Application【Family Rooms -Ichinoya Bldg. No.17-19】]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=6235</link>
-            <guid>3e08fe73b6bd47511fd6ed4cd98620c5</guid>
-            <pubDate>Mon, 12 May 2025 03:00:00 GMT</pubDate>
-            <description><![CDATA[令和7年度学生宿舎入居募集についてお知らせいたします。
-（【世帯用宿舎 一の矢１７～１９号棟】）
-学生宿舎への入居を希望される方は、添付ファイルをご参照ください。
-
-We will inform you of AY2025 Residence Hall Application.
-(【Family Rooms -Ichinoya Bldg. No.17-19】)
-Please refer to th…]]></description>
         </item>
     </channel>
 </rss>
