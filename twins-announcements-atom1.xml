@@ -2,10 +2,26 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/mkobayashime/twins-announcements</id>
     <title>在学生へのお知らせ | 筑波大学</title>
-    <updated>2025-05-14T21:06:30.396Z</updated>
+    <updated>2025-05-15T01:29:00.809Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://github.com/mkobayashime/twins-announcements"/>
     <subtitle>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</subtitle>
+    <entry>
+        <title type="html"><![CDATA[筑波大学大学院英語教育学サブプログラム【フォーラム & 大学院進学相談会 】]]></title>
+        <id>7911541a390adefe4d8d7ff89212cd26</id>
+        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=6254"/>
+        <updated>2025-05-15T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[各位
+
+筑波大学大学院人文社会科学研究群人文学学位プログラム・英語教育学サブプログラム
+博士前期課程・後期課程（修士／博士）2025年度第1回フォーラム &大学院進学相談会について
+お知らせいたします。詳細は添付ファイルにてご確認ください。
+
+2025年8月1日（金）1７:00～1９:00
+開催方法：Zoom によるオンライン開催（事前参加登録制）
+
+英語教育学サブプログラムでは、第二言語習得論お…]]></summary>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【On-site】World-science Leaders’ Seminar for all students on May 23rd. (Fri) 2025 13:30-15:00]]></title>
         <id>e77269586d5f18b46c40f01ba6ad84df</id>
@@ -230,19 +246,5 @@ Please refer to the attached PDF if you …]]></summary>
 We will inform you of AY2025 Residence Hall Application.
 (【Family Rooms -Ichinoya Bldg. No.17-19】)
 Please refer to th…]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【参加者募集】就職関連イベント「キャリアマッチングデー」（6/5開催）]]></title>
-        <id>bd2df67274a97369d96e67a85fa2e189</id>
-        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=6234"/>
-        <updated>2025-05-12T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[筑波大学と１５の企業・研究機関の協働によるレジリエンス研究教育推進コンソーシアムが企画する
-学生向けキャリア関連イベント「キャリアマッチングデー」が開催されます。
-各業界をリードする企業・研究機関の採用担当者、実務担当者、研究者の方々と、学生が直接交流できる貴重な機会です。
-ぜひ皆様の進路を考えるうえでお役立てください。
-
-【概要】
-■日　時　：令和7年6月5日（木）13:00-16:00
-■会　…]]></summary>
     </entry>
 </feed>
