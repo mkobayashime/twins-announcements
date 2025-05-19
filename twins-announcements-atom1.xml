@@ -2,10 +2,39 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/mkobayashime/twins-announcements</id>
     <title>在学生へのお知らせ | 筑波大学</title>
-    <updated>2025-05-19T03:23:18.894Z</updated>
+    <updated>2025-05-19T09:01:43.130Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://github.com/mkobayashime/twins-announcements"/>
     <subtitle>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</subtitle>
+    <entry>
+        <title type="html"><![CDATA[【参加者募集】就職関連イベント「キャリアマッチングデー」（6/5開催）]]></title>
+        <id>bd2df67274a97369d96e67a85fa2e189</id>
+        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=6272"/>
+        <updated>2025-05-19T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[筑波大学と１５の企業・研究機関の協働によるレジリエンス研究教育推進コンソーシアムが企画する
+学生向けキャリア関連イベント「キャリアマッチングデー」が開催されます。
+各業界をリードする企業・研究機関の採用担当者、実務担当者、研究者の方々と、学生が直接交流できる貴重な機会です。
+ぜひ皆様の進路を考えるうえでお役立てください。
+
+【概要】
+■日　時　：令和7年6月5日（木）13:00-16:00
+■会　…]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[就活/キャリアについてのぶっちゃけ質問会,相談会(5月)]]></title>
+        <id>93133d5b0495bb19228520a389f6eb25</id>
+        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=6271"/>
+        <updated>2025-05-19T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[各業界のOBOGからお話を聞ける機会です。
+５月のテーマは「マスコミ」です。
+NHKとJR東日本企画にお勤めの先輩が登壇します。
+
+【日時】2025年5月21日（水）21：00～22：00（オンライン）
+【参加対象者】筑波大学および大学院のすべての学生（学年不問）
+【登壇者】
+　日本放送協会（NHK）ディレクター（生命環境学群生物資源学類2014年卒）
+　株式会社ジェイアール東日本企画 駅消費研究…]]></summary>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【オンデマンド配信中！】ガクチカと作ろう！国際協力体験プログラム説明会]]></title>
         <id>767dfacaa3cdc078ba6beb268fc6b82a</id>
@@ -226,24 +255,5 @@ Students attending this seminar will learn the basics and latest research trends
 なお、サーバー更新作業中は、「学内専用ページ」、「ガイダンス等及び模試試験登録・申請」、「進路進捗状況届」へのアクセスはできません。
 皆様にはご迷惑をおかけいたしますが、ご理解、ご協力の程よろしくお願いいたします。
 ]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【周知】からだ・こころ・性の相談窓口「青のカフェ」について]]></title>
-        <id>8ac14f7232c30af47e94bfcb5a5b49d0</id>
-        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=6249"/>
-        <updated>2025-05-14T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[つくば市より、相談窓口「青のカフェ」の開設について、情報提供がありましたのでお知らせいたします。
-
-この事業は、からだやこころ、性に関する様々な悩みを抱えた若者に対し、保健師や助産師等の専門職が寄り添い、適切な支援を提供していくものです。また、「青のカフェ」開催日には、DVDの放映やチラシ配布等による思春期保健に関する啓発も行う予定です。
-
-※詳細は、添付のチラシをご覧ください。]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【Notice】【Japan Pension Service】Regarding to the National Pension System]]></title>
-        <id>3eb8a7c5671f3e155ae85dd4ce6d50f2</id>
-        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=6248"/>
-        <updated>2025-05-14T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[To students in Japan; from Japan Pension Service：
-Regardless of nationality, all people in Japan, aged between 20 and 59 must be covered by the National Pension system and pay contributions by law, an…]]></summary>
     </entry>
 </feed>
