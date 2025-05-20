@@ -2,10 +2,26 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/mkobayashime/twins-announcements</id>
     <title>在学生へのお知らせ | 筑波大学</title>
-    <updated>2025-05-19T21:07:06.442Z</updated>
+    <updated>2025-05-20T07:01:48.533Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://github.com/mkobayashime/twins-announcements"/>
     <subtitle>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</subtitle>
+    <entry>
+        <title type="html"><![CDATA[【開催通知】学生の皆さんが安心して化学実験を行うための研修会]]></title>
+        <id>13f02c2058365993efae8277a1fbc818</id>
+        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=6274"/>
+        <updated>2025-05-20T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[下記のとおり研修会を開催いたしますので、奮ってご参加ください。（参加は任意です。）
+
+１．目的
+　　実験に携わる学群・大学院生向けに、化学物質の危険性や有害性を伝え、事件事故や健康障害を引き起こすリスクを減らすこと
+
+２．開催日時および場所
+　　日時：令和７年６月１８日（水）１０時１０分～１１時２５分場所：１Ｈ１０１
+３．内容
+　（１）化学物質の安全な取り扱いについて
+　（２）廃棄物・実験排水につ…]]></summary>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【参加者募集】就職関連イベント「キャリアマッチングデー」（6/5開催）]]></title>
         <id>bd2df67274a97369d96e67a85fa2e189</id>
@@ -238,16 +254,5 @@ Students attending this seminar will learn the basics and latest research trends
 なお、サーバー更新作業中は、「学内専用ページ」、「ガイダンス等及び模試試験登録・申請」、「進路進捗状況届」へのアクセスはできません。
 皆様にはご迷惑をおかけいたしますが、ご理解、ご協力の程よろしくお願いいたします。
 ]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【周知】からだ・こころ・性の相談窓口「青のカフェ」について]]></title>
-        <id>8ac14f7232c30af47e94bfcb5a5b49d0</id>
-        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=6249"/>
-        <updated>2025-05-14T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[つくば市より、相談窓口「青のカフェ」の開設について、情報提供がありましたのでお知らせいたします。
-
-この事業は、からだやこころ、性に関する様々な悩みを抱えた若者に対し、保健師や助産師等の専門職が寄り添い、適切な支援を提供していくものです。また、「青のカフェ」開催日には、DVDの放映やチラシ配布等による思春期保健に関する啓発も行う予定です。
-
-※詳細は、添付のチラシをご覧ください。]]></summary>
     </entry>
 </feed>
