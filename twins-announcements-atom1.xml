@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/mkobayashime/twins-announcements</id>
     <title>在学生へのお知らせ | 筑波大学</title>
-    <updated>2025-05-21T21:07:05.172Z</updated>
+    <updated>2025-05-22T02:30:54.978Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://github.com/mkobayashime/twins-announcements"/>
     <subtitle>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</subtitle>
+    <entry>
+        <title type="html"><![CDATA[【参加募集　締切：5/28（水）正午】茨城県大子町の課題を解決する多文化共修プログラム]]></title>
+        <id>a453c3b7ff742fba6848d58463fa8f25</id>
+        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=6277"/>
+        <updated>2025-05-22T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[筑波大学は、国際的に活躍する人材育成を目指し「多文化共修」を推進しています。今回は茨城県大子町と連携し、少子高齢化など地域課題の理解と解決をテーマに、BPGI学生11名とともに現地調査・分析・ワークショップを行います。（詳細は添付の募集要項を参照）
+
+■プログラムの実施方法
+参加学生5～7人で1グループをつくり、各グループが課題の現地調査とワークショップを通して課題についての理解を深め、解決方法を…]]></summary>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【周知】令和7年度夏季休業前の海外危機管理セミナー開催について]]></title>
         <id>055dc53cda351ee065b3beb22905b070</id>
@@ -235,16 +245,5 @@ Students attending this seminar will learn the basics and latest research trends
 なお、サーバー更新作業中は、「学内専用ページ」、「ガイダンス等及び模試試験登録・申請」、「進路進捗状況届」へのアクセスはできません。
 皆様にはご迷惑をおかけいたしますが、ご理解、ご協力の程よろしくお願いいたします。
 ]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【周知】からだ・こころ・性の相談窓口「青のカフェ」について]]></title>
-        <id>8ac14f7232c30af47e94bfcb5a5b49d0</id>
-        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=6249"/>
-        <updated>2025-05-14T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[つくば市より、相談窓口「青のカフェ」の開設について、情報提供がありましたのでお知らせいたします。
-
-この事業は、からだやこころ、性に関する様々な悩みを抱えた若者に対し、保健師や助産師等の専門職が寄り添い、適切な支援を提供していくものです。また、「青のカフェ」開催日には、DVDの放映やチラシ配布等による思春期保健に関する啓発も行う予定です。
-
-※詳細は、添付のチラシをご覧ください。]]></summary>
     </entry>
 </feed>
