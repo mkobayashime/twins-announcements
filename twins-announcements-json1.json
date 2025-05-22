@@ -5,6 +5,20 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "d6c2b4b3142e358aef5856ede7c8765c",
+            "content_html": "AdobeCC ご利用者のうち、@u のアカウントを使用している方向けのお知らせです。\n\nAdobeCC は M365 の認証を用いていますが、ユーザ名表記に日本語文字を使用すると一部で不具合が発生することがわかりました。\n\nこのため、AdobeCC 上でのユーザ名情報には UTID-NAME を用いるようにシステム設定を改修中です。\n現在は姓名と UTID-NAME が併記されているような状態で…",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=6282",
+            "title": "AdobeCC ユーザー名登録の変更について",
+            "date_modified": "2025-05-22T03:00:00.000Z"
+        },
+        {
+            "id": "1e836cf5d44307af100f838b01cbee97",
+            "content_html": "お世話になっております。ヒューマンエンパワーメント推進局（BHE）ジェンダー支援チームです。\n\nBHEでは、５月30日（金）に、アジア財団・エスティローダー・筑波大学共催の講演会を開催します。\n国際的に活躍する方々が、理工系・IT系など理工学分野への進路を考える女子学生を対象にキャリアの歩みや挑戦、未来へのヒントを語ります。\n\nご参加いただいた方には、エスティローダーのサンプルをプレゼントします。…",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=6281",
+            "title": "再掲【サンプルプレゼント！】【参加者募集】キャリアで世界を変える：先輩たちに聞く未来のヒント（5/30開催）",
+            "date_modified": "2025-05-22T03:00:00.000Z"
+        },
+        {
             "id": "e660f0a313a791688f29e77fe5e8bdf7",
             "content_html": "外国語文献データベースProQuest Centralの基本操作の解説と研究紹介の実例を、提供元インストラクターがお伝えする講習会を開催します。\n\n日時： 5月28日（水）15:15-16:15\n開催方法： オンライン（Webex)\n\nProQuest Centralは学術論文以外にも、新聞記事やレポート、学位論文など幅広く探すことができます。\nレポートや論文執筆、研究活動、学生指導などに役立つ知…",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=6280",
@@ -129,20 +143,6 @@
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=6256",
             "title": "【イベント迫る！グローバルな学びに興味がある方へ！】未来を創るグローバルスタートアッパーへの道　セッションのご案内（途中退室可）",
             "date_modified": "2025-05-15T03:00:00.000Z"
-        },
-        {
-            "id": "7911541a390adefe4d8d7ff89212cd26",
-            "content_html": "各位\n\n筑波大学大学院人文社会科学研究群人文学学位プログラム・英語教育学サブプログラム\n博士前期課程・後期課程（修士／博士）2025年度第1回フォーラム &大学院進学相談会について\nお知らせいたします。詳細は添付ファイルにてご確認ください。\n\n2025年8月1日（金）1７:00～1９:00\n開催方法：Zoom によるオンライン開催（事前参加登録制）\n\n英語教育学サブプログラムでは、第二言語習得論お…",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=6254",
-            "title": "筑波大学大学院英語教育学サブプログラム【フォーラム & 大学院進学相談会 】",
-            "date_modified": "2025-05-15T03:00:00.000Z"
-        },
-        {
-            "id": "e77269586d5f18b46c40f01ba6ad84df",
-            "content_html": "The World-science Leaders’ Seminar is a part of classes in the Human Biology PhD program.\nStudents attending this seminar will learn the basics and latest research trends in the specialties of the wor…",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=6253",
-            "title": "【On-site】World-science Leaders’ Seminar for all students on May 23rd. (Fri) 2025 13:30-15:00",
-            "date_modified": "2025-05-14T03:00:00.000Z"
         }
     ]
 }
