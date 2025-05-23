@@ -4,10 +4,20 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Thu, 22 May 2025 21:07:13 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 23 May 2025 01:29:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
+        <item>
+            <title><![CDATA[English Camp in Nasu (July 2025 ~ September 2025)]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=6283</link>
+            <guid>480e9d83600359a65055f8e3f2d341ae</guid>
+            <pubDate>Fri, 23 May 2025 03:00:00 GMT</pubDate>
+            <description><![CDATA[<<For International Students>>
+
+■What’s English Camp in Nasu?:
+  The Kita Ward Board of Education organizes a 3-day English camp for junior high school students (8th graders, ages 13–14) in Kita Ward,…]]></description>
+        </item>
         <item>
             <title><![CDATA[AdobeCC ユーザー名登録の変更について]]></title>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=6282</link>
@@ -243,14 +253,6 @@ BHEでは、５月30日（金）に、アジア財団・エスティローダー
 国際的に活躍する方々が、理工系・IT系など理工学分野への進路を考える女子学生を対象にキャリアの歩みや挑戦、未来へのヒントを語ります。
 
 ご参加いただいた方には、エスティローダーのサンプルをプレゼントします。…]]></description>
-        </item>
-        <item>
-            <title><![CDATA[【イベント迫る！グローバルな学びに興味がある方へ！】未来を創るグローバルスタートアッパーへの道　セッションのご案内（途中退室可）]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=6256</link>
-            <guid>0a4b0d0bdb6fd6655877d60ac4ee7135</guid>
-            <pubDate>Thu, 15 May 2025 03:00:00 GMT</pubDate>
-            <description><![CDATA[筑波大学を舞台に、そして世界を舞台に、多文化共修プログラムに参加して、日本と世界をつなぐグローバルな視野を獲得しよう！長期的な留学に参加する前に、学内で、そして国外、海外で短期の「多文化共修」に参加してみませんか？
-特別ゲストとして筑波大学修了生のEU代 科学技術フェロー・松本健氏をお招きし、ご自身のキャリアについてもお話しいただきます。海外に飛び出すためのヒントが満載のセミナーです！多文化共修や…]]></description>
         </item>
     </channel>
 </rss>
