@@ -2,10 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/mkobayashime/twins-announcements</id>
     <title>在学生へのお知らせ | 筑波大学</title>
-    <updated>2025-05-23T01:29:14.670Z</updated>
+    <updated>2025-05-23T03:19:17.638Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://github.com/mkobayashime/twins-announcements"/>
     <subtitle>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</subtitle>
+    <entry>
+        <title type="html"><![CDATA[【周知】戸籍の振り仮名制度に係る周知・広報について]]></title>
+        <id>d47039bdb024d90b4995e5b335156935</id>
+        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=6285"/>
+        <updated>2025-05-23T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[文部科学省を通じて法務省より、標記の件について周知・広報がありましたのでお知らせいたします。
+
+「行政手続における特定の個人を識別するための番号の利用等に関する法律等の一部を改正する法律」（令和５年法律第48号。以下「改正法」といいます。）の施行（令和７年５月２６日）により、戸籍の氏名に振り仮名が追加されることになっています。
+
+令和７年５月２６日以降、本籍地の市区町村から、戸籍に記載する予定の振…]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【周知】【茨城県警察本部生活安全総務課】いばらき防犯ファイルについて]]></title>
+        <id>76297db2351566babdc5076f5178a31d</id>
+        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=6284"/>
+        <updated>2025-05-23T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[茨城県警察本部生活安全総務課より、いばらき防犯ファイル（令和7年４月末）の送付がありましたので、添付のとおり掲載いたします。
+
+本ファイルは、県内で実際に発生した犯罪の情報のほか、防犯対策に役立つ情報が含まれております。ご自身の安全のためにも、ぜひご確認ください。
+]]></summary>
+    </entry>
     <entry>
         <title type="html"><![CDATA[English Camp in Nasu (July 2025 ~ September 2025)]]></title>
         <id>480e9d83600359a65055f8e3f2d341ae</id>
@@ -227,29 +248,5 @@ Budoに興味のある方はもちろん、留学生との交流に関心のあ�
 
 
 ■日時：2025年6月8日…]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【学生の皆様へ】STOP！研究費不正使用！／STOP! Wrongful use of research funding!]]></title>
-        <id>42148a8d569fd2a413b0f4d4a9ff0709</id>
-        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=6262"/>
-        <updated>2025-05-16T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[筑波大学では、公的研究費を適正に管理するために、学長の責任とリーダーシップの下で実効性ある体制を整備し、
-研究費のみにとらわれずに教育に係る経費も含めた全ての教育研究費を対象として不正防止対策の基本方針を定め、
-本学の役員、教職員、学生及び本学の教育研究費の運営・管理に関わる者（以下「構成員」という。）に対し周知
-徹底し、運営及び管理することとしています。
-
-学生の皆様は今後、TA、RA等になった…]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【サンプルプレゼント！】【参加者募集】キャリアで世界を変える：先輩たちに聞く未来のヒント（5/30開催）]]></title>
-        <id>79bcea013a51cb9526ce692d229c0c0d</id>
-        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=6258"/>
-        <updated>2025-05-15T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[お世話になっております。ヒューマンエンパワーメント推進局（BHE）ジェンダー支援チームです。
-
-BHEでは、５月30日（金）に、アジア財団・エスティローダー・筑波大学共催の講演会を開催します。
-国際的に活躍する方々が、理工系・IT系など理工学分野への進路を考える女子学生を対象にキャリアの歩みや挑戦、未来へのヒントを語ります。
-
-ご参加いただいた方には、エスティローダーのサンプルをプレゼントします。…]]></summary>
     </entry>
 </feed>
