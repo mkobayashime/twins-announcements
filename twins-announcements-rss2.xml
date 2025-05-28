@@ -4,7 +4,7 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Wed, 28 May 2025 15:07:42 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 28 May 2025 21:07:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
@@ -207,10 +207,12 @@ h…]]></description>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=6282</link>
             <guid isPermaLink="false">d6c2b4b3142e358aef5856ede7c8765c</guid>
             <pubDate>Thu, 22 May 2025 03:00:00 GMT</pubDate>
-            <description><![CDATA[<<For International Students>>
+            <description><![CDATA[AdobeCC ご利用者のうち、@u のアカウントを使用している方向けのお知らせです。
 
-■What’s English Camp in Nasu?:
-  The Kita Ward Board of Education organizes a 3-day English camp for junior high school students (8th graders, ages 13–14) in Kita Ward,…]]></description>
+AdobeCC は M365 の認証を用いていますが、ユーザ名表記に日本語文字を使用すると一部で不具合が発生することがわかりました。
+
+このため、AdobeCC 上でのユーザ名情報には UTID-NAME を用いるようにシステム設定を改修中です。
+現在は姓名と UTID-NAME が併記されているような状態で…]]></description>
         </item>
         <item>
             <title><![CDATA[再掲【サンプルプレゼント！】【参加者募集】キャリアで世界を変える：先輩たちに聞く未来のヒント（5/30開催）]]></title>
