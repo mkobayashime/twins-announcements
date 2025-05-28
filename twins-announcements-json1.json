@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "f7eae1a9075203aded14159cf076c094",
+            "content_html": "サーバー更新作業に伴い、下記の時間、キャリア支援チームホームページ等へ繋がりにくくなります。\n【作業日時】5/28（水）9：00　～　13：15（予定）\n\nなお、サーバー更新作業中は、「学内専用ページ」、「ガイダンス等及び模試試験登録・申請」、「進路進捗状況届」へのアクセスはできません。\n皆様にはご迷惑をおかけいたしますが、ご理解、ご協力の程よろしくお願いいたします。\n",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=6304",
+            "title": "サーバー更新作業に伴うキャリア支援チームHP及び就職情報提供システム停止のお知らせ　",
+            "date_modified": "2025-05-28T03:00:00.000Z"
+        },
+        {
             "id": "9cc9b06dc0cfb7467c9be9b16b82983c",
             "content_html": "《概要 Outline》\nインドネシア スマトラ島、ジャワ島の協定校において、講義 ・ 生物資源に係るフィールド実習、現地調査を通じ当該国における生物資源の特色や地域性を学び、国際的な視野に立ったキャリア形成意識を育みます。\n本プログラムは筑波大学附属坂戸高校と連携して実施され、同高校からも数名の高校生が参加する予定です。\n\n《時期 Program Duration》\n2025年7月26日（東京発…",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=6303",
@@ -135,13 +142,6 @@
             "content_html": "筑波大学教育情報システム（TWINS）は、令和7年10月にシステム更新を予定しています。そこで、次期システムのトップページに掲載する画像を募集いたします。\n\n【テーマ】\n特にテーマの制限はありません。\nTWINSの顔となるページですので、学生や大学生活をイメージできるデザインを歓迎します。\n\n【画像形式】\nサイズや拡張子に関する制限はありません。HTML上で表示可能な一般的な形式でご提出ください。…",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=6279",
             "title": "再掲【公募】筑波大学教育情報システム（TWINS） トップページ画像の募集について",
-            "date_modified": "2025-05-22T03:00:00.000Z"
-        },
-        {
-            "id": "47a0da89f32b3f444fd480b4d491f280",
-            "content_html": "第106回　人間系コロキアムが下記の通り開催されますので、お知らせします。\n人間系のHPにも掲載しておりますので、ご覧下さい。\nhttps://www2.human.tsukuba.ac.jp/research/archives/50114\n\n　大学院・学類学生など、多くの方々のご参加をお待ちしております。\n\n日  時：  2025年6月11日（水）12:15~ 13:15  \n場  所： zoo…",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=6278",
-            "title": "第106回　人間系コロキアムのお知らせ",
             "date_modified": "2025-05-22T03:00:00.000Z"
         }
     ]

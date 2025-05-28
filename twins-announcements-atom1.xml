@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/mkobayashime/twins-announcements</id>
     <title>在学生へのお知らせ | 筑波大学</title>
-    <updated>2025-05-27T21:07:34.188Z</updated>
+    <updated>2025-05-28T00:03:33.921Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://github.com/mkobayashime/twins-announcements"/>
     <subtitle>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</subtitle>
+    <entry>
+        <title type="html"><![CDATA[サーバー更新作業に伴うキャリア支援チームHP及び就職情報提供システム停止のお知らせ　]]></title>
+        <id>f7eae1a9075203aded14159cf076c094</id>
+        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=6304"/>
+        <updated>2025-05-28T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[サーバー更新作業に伴い、下記の時間、キャリア支援チームホームページ等へ繋がりにくくなります。
+【作業日時】5/28（水）9：00　～　13：15（予定）
+
+なお、サーバー更新作業中は、「学内専用ページ」、「ガイダンス等及び模試試験登録・申請」、「進路進捗状況届」へのアクセスはできません。
+皆様にはご迷惑をおかけいたしますが、ご理解、ご協力の程よろしくお願いいたします。
+]]></summary>
+    </entry>
     <entry>
         <title type="html"><![CDATA[多文化共修 in インドネシア 参加者募集]]></title>
         <id>9cc9b06dc0cfb7467c9be9b16b82983c</id>
@@ -246,19 +258,5 @@ TWINSの顔となるページですので、学生や大学生活をイメージ
 
 【画像形式】
 サイズや拡張子に関する制限はありません。HTML上で表示可能な一般的な形式でご提出ください。…]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[第106回　人間系コロキアムのお知らせ]]></title>
-        <id>47a0da89f32b3f444fd480b4d491f280</id>
-        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=6278"/>
-        <updated>2025-05-22T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[第106回　人間系コロキアムが下記の通り開催されますので、お知らせします。
-人間系のHPにも掲載しておりますので、ご覧下さい。
-https://www2.human.tsukuba.ac.jp/research/archives/50114
-
-　大学院・学類学生など、多くの方々のご参加をお待ちしております。
-
-日  時：  2025年6月11日（水）12:15~ 13:15  
-場  所： zoo…]]></summary>
     </entry>
 </feed>
