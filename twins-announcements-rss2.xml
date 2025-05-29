@@ -4,10 +4,18 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Thu, 29 May 2025 09:08:26 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 29 May 2025 10:01:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
+        <item>
+            <title><![CDATA[[Notice] Safety Report Drill for AY 2025 (June 11-13)]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=6312</link>
+            <guid isPermaLink="false">a80335ccd248fd836961e6987b75f5b9</guid>
+            <pubDate>Thu, 29 May 2025 03:00:00 GMT</pubDate>
+            <description><![CDATA[Thank you very much for your cooperation in the University's disaster preparedness.
+This is to inform you that the 2025 Safety Report Drill using the University of Tsukuba Safety Confirmation System (…]]></description>
+        </item>
         <item>
             <title><![CDATA[【お知らせ】令和7年度安否報告訓練の実施について(6月11日～13日)]]></title>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=6311</link>
@@ -248,18 +256,6 @@ h…]]></description>
 
 ■What’s English Camp in Nasu?:
   The Kita Ward Board of Education organizes a 3-day English camp for junior high school students (8th graders, ages 13–14) in Kita Ward,…]]></description>
-        </item>
-        <item>
-            <title><![CDATA[AdobeCC ユーザー名登録の変更について]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=6282</link>
-            <guid isPermaLink="false">d6c2b4b3142e358aef5856ede7c8765c</guid>
-            <pubDate>Thu, 22 May 2025 03:00:00 GMT</pubDate>
-            <description><![CDATA[AdobeCC ご利用者のうち、@u のアカウントを使用している方向けのお知らせです。
-
-AdobeCC は M365 の認証を用いていますが、ユーザ名表記に日本語文字を使用すると一部で不具合が発生することがわかりました。
-
-このため、AdobeCC 上でのユーザ名情報には UTID-NAME を用いるようにシステム設定を改修中です。
-現在は姓名と UTID-NAME が併記されているような状態で…]]></description>
         </item>
     </channel>
 </rss>
