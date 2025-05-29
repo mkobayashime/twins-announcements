@@ -4,10 +4,27 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Thu, 29 May 2025 05:01:37 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 29 May 2025 09:01:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
+        <item>
+            <title><![CDATA[【お知らせ】令和7年度安否報告訓練の実施について(6月11日～13日)]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=6311</link>
+            <guid isPermaLink="false">d741a326ee58fe4384649f9e66034ae8</guid>
+            <pubDate>Thu, 29 May 2025 03:00:00 GMT</pubDate>
+            <description><![CDATA[日頃より、本学の災害対策にご協力いただきましてありがとうございます。
+筑波大学安否確認システム（ANPIC）を利用した令和７年度安否報告訓練の実施についてお知らせいたします。
+
+１．目的
+大規模災害時における、本学の学生・教職員の安否を正確かつ迅速に把握するため、全学で安否報告訓練を実施する。
+
+２．実施日時
+令和７年６月１１日（水）～１３日（金）
+
+３．対象者
+　学生：学群生・大学院生（非正規生…]]></description>
+        </item>
         <item>
             <title><![CDATA[【さあ、世界に飛び出そう！】5/30昼休み：多文化共修セミナー]]></title>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=6310</link>
@@ -243,18 +260,6 @@ AdobeCC は M365 の認証を用いていますが、ユーザ名表記に日本
 
 このため、AdobeCC 上でのユーザ名情報には UTID-NAME を用いるようにシステム設定を改修中です。
 現在は姓名と UTID-NAME が併記されているような状態で…]]></description>
-        </item>
-        <item>
-            <title><![CDATA[再掲【サンプルプレゼント！】【参加者募集】キャリアで世界を変える：先輩たちに聞く未来のヒント（5/30開催）]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=6281</link>
-            <guid isPermaLink="false">1e836cf5d44307af100f838b01cbee97</guid>
-            <pubDate>Thu, 22 May 2025 03:00:00 GMT</pubDate>
-            <description><![CDATA[お世話になっております。ヒューマンエンパワーメント推進局（BHE）ジェンダー支援チームです。
-
-BHEでは、５月30日（金）に、アジア財団・エスティローダー・筑波大学共催の講演会を開催します。
-国際的に活躍する方々が、理工系・IT系など理工学分野への進路を考える女子学生を対象にキャリアの歩みや挑戦、未来へのヒントを語ります。
-
-ご参加いただいた方には、エスティローダーのサンプルをプレゼントします。…]]></description>
         </item>
     </channel>
 </rss>

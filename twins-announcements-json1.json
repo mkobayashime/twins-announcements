@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "d741a326ee58fe4384649f9e66034ae8",
+            "content_html": "日頃より、本学の災害対策にご協力いただきましてありがとうございます。\n筑波大学安否確認システム（ANPIC）を利用した令和７年度安否報告訓練の実施についてお知らせいたします。\n\n１．目的\n大規模災害時における、本学の学生・教職員の安否を正確かつ迅速に把握するため、全学で安否報告訓練を実施する。\n\n２．実施日時\n令和７年６月１１日（水）～１３日（金）\n\n３．対象者\n　学生：学群生・大学院生（非正規生…",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=6311",
+            "title": "【お知らせ】令和7年度安否報告訓練の実施について(6月11日～13日)",
+            "date_modified": "2025-05-29T03:00:00.000Z"
+        },
+        {
             "id": "37398e059eb40e6d338d8c776e69dbb0",
             "content_html": "筑波大学、そして世界を舞台に、様々な「多文化共修」に参加して、日本と世界をつなぐグローバルな視野を獲得しよう！長期的な留学に参加する時間やお金はないけれど、短期のプログラムで国際的な活動がしてみたい学生の皆様、大歓迎です。国内で、そして海外で、「多文化共修」に参加してみませんか？\n今回は特別ゲストとして筑波大学修了生のEU代 科学技術フェロー・松本健氏をお招きし、ご自身の国際キャリアについてもお話…",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=6310",
@@ -135,13 +142,6 @@
             "content_html": "AdobeCC ご利用者のうち、@u のアカウントを使用している方向けのお知らせです。\n\nAdobeCC は M365 の認証を用いていますが、ユーザ名表記に日本語文字を使用すると一部で不具合が発生することがわかりました。\n\nこのため、AdobeCC 上でのユーザ名情報には UTID-NAME を用いるようにシステム設定を改修中です。\n現在は姓名と UTID-NAME が併記されているような状態で…",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=6282",
             "title": "AdobeCC ユーザー名登録の変更について",
-            "date_modified": "2025-05-22T03:00:00.000Z"
-        },
-        {
-            "id": "1e836cf5d44307af100f838b01cbee97",
-            "content_html": "お世話になっております。ヒューマンエンパワーメント推進局（BHE）ジェンダー支援チームです。\n\nBHEでは、５月30日（金）に、アジア財団・エスティローダー・筑波大学共催の講演会を開催します。\n国際的に活躍する方々が、理工系・IT系など理工学分野への進路を考える女子学生を対象にキャリアの歩みや挑戦、未来へのヒントを語ります。\n\nご参加いただいた方には、エスティローダーのサンプルをプレゼントします。…",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=6281",
-            "title": "再掲【サンプルプレゼント！】【参加者募集】キャリアで世界を変える：先輩たちに聞く未来のヒント（5/30開催）",
             "date_modified": "2025-05-22T03:00:00.000Z"
         }
     ]
