@@ -5,6 +5,20 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "7f33de7a74f279013bd343c173cdb7f0",
+            "content_html": "つくばアントレプレナー育成プログラム BizDev講座 は、主に教育・研究機関等に所属する研究者等を対象として開設する筑波大学エクステンションプログラムです。アントレプレナーの輩出と研究・技術シーズに基づくスタートアップ創出の促進を目的とした有料講座です。\n\n国際産学連携本部では学内参加者を支援するため、起業や新規事業創出のため事業化の必須スキルを実践的に学び、事業化シーズを投資対象となるビジネス…",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=6314",
+            "title": "【学内参加者募集】2025年度つくばアントレプレナー育成プログラム BizDev講座",
+            "date_modified": "2025-05-30T03:00:00.000Z"
+        },
+        {
+            "id": "e1ba2214333cd2cf814b0fefd6f82366",
+            "content_html": "　本学では、良好な構内環境を保持するため、本学の要項に基づき、放置車両と思われる車両については、撤去通告書を車両に貼付後、一定の期間を置いてから一斉撤去を実施します。\n　つきましては、別添に日程等詳細を記載しておりますので、所有されている車両について現状確認をしていただくようお願いします。\n　また、駐車場、駐輪場、駐輪スペース以外に停めている場合は、必ず移動してください。\n\n　In order t…",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=6313",
+            "title": "【周知】令和７年度 構内における放置自転車・放置自動車等の一斉撤去について / Removal of All Abandoned Bicycles and Vehicles in Campus",
+            "date_modified": "2025-05-30T03:00:00.000Z"
+        },
+        {
             "id": "a80335ccd248fd836961e6987b75f5b9",
             "content_html": "Thank you very much for your cooperation in the University's disaster preparedness.\nThis is to inform you that the 2025 Safety Report Drill using the University of Tsukuba Safety Confirmation System (…",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=6312",
@@ -128,20 +142,6 @@
             "content_html": "文部科学省を通じて法務省より、標記の件について周知・広報がありましたのでお知らせいたします。\n\n「行政手続における特定の個人を識別するための番号の利用等に関する法律等の一部を改正する法律」（令和５年法律第48号。以下「改正法」といいます。）の施行（令和７年５月２６日）により、戸籍の氏名に振り仮名が追加されることになっています。\n\n令和７年５月２６日以降、本籍地の市区町村から、戸籍に記載する予定の振…",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=6285",
             "title": "【周知】戸籍の振り仮名制度に係る周知・広報について",
-            "date_modified": "2025-05-23T03:00:00.000Z"
-        },
-        {
-            "id": "76297db2351566babdc5076f5178a31d",
-            "content_html": "茨城県警察本部生活安全総務課より、いばらき防犯ファイル（令和7年４月末）の送付がありましたので、添付のとおり掲載いたします。\n\n本ファイルは、県内で実際に発生した犯罪の情報のほか、防犯対策に役立つ情報が含まれております。ご自身の安全のためにも、ぜひご確認ください。\n",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=6284",
-            "title": "【周知】【茨城県警察本部生活安全総務課】いばらき防犯ファイルについて",
-            "date_modified": "2025-05-23T03:00:00.000Z"
-        },
-        {
-            "id": "480e9d83600359a65055f8e3f2d341ae",
-            "content_html": "<<For International Students>>\n\n■What’s English Camp in Nasu?:\n  The Kita Ward Board of Education organizes a 3-day English camp for junior high school students (8th graders, ages 13–14) in Kita Ward,…",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=6283",
-            "title": "English Camp in Nasu (July 2025 ~ September 2025)",
             "date_modified": "2025-05-23T03:00:00.000Z"
         }
     ]
