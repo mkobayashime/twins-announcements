@@ -4,10 +4,25 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Fri, 30 May 2025 01:29:10 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 30 May 2025 03:19:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
+        <item>
+            <title><![CDATA[つくば市　学生翻訳スタッフ募集]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=6315</link>
+            <guid isPermaLink="false">7bac609501f06d4f2691a25d9bd65a17</guid>
+            <pubDate>Fri, 30 May 2025 03:00:00 GMT</pubDate>
+            <description><![CDATA[つくば市国際都市推進課では、市が発行する外国語広報紙の翻訳をしていただける学生翻訳スタッフを募集します。
+つくば市在住・在学の短期大学、大学、大学院に通っている学生（国籍に関係なく日本人も可）ぜひ、応募してください！
+
+●募集言語
+スペイン語（1名）、タイ語（２名）、インドネシア語（2名）
+
+●詳細
+応募に関する詳細はホームページをご確認ください。
+http://www.city.tsukuba.…]]></description>
+        </item>
         <item>
             <title><![CDATA[【学内参加者募集】2025年度つくばアントレプレナー育成プログラム BizDev講座]]></title>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=6314</link>
@@ -245,17 +260,6 @@ h…]]></description>
 …などなど、参加するだけでワクワクが止まりません！
 
 さらに！アクティビティに参加してポイン…]]></description>
-        </item>
-        <item>
-            <title><![CDATA[【周知】戸籍の振り仮名制度に係る周知・広報について]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=6285</link>
-            <guid isPermaLink="false">d47039bdb024d90b4995e5b335156935</guid>
-            <pubDate>Fri, 23 May 2025 03:00:00 GMT</pubDate>
-            <description><![CDATA[文部科学省を通じて法務省より、標記の件について周知・広報がありましたのでお知らせいたします。
-
-「行政手続における特定の個人を識別するための番号の利用等に関する法律等の一部を改正する法律」（令和５年法律第48号。以下「改正法」といいます。）の施行（令和７年５月２６日）により、戸籍の氏名に振り仮名が追加されることになっています。
-
-令和７年５月２６日以降、本籍地の市区町村から、戸籍に記載する予定の振…]]></description>
         </item>
     </channel>
 </rss>
