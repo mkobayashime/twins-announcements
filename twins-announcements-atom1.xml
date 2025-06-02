@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/mkobayashime/twins-announcements</id>
     <title>在学生へのお知らせ | 筑波大学</title>
-    <updated>2025-06-02T00:03:08.620Z</updated>
+    <updated>2025-06-02T01:29:35.582Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://github.com/mkobayashime/twins-announcements"/>
     <subtitle>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</subtitle>
+    <entry>
+        <title type="html"><![CDATA[🚨まもなく締切＼参加者募集・奨学金あり／チェンマイ大学サマープログラム]]></title>
+        <id>55b0aa5e2ba68bbd3c34b8e1120834a7</id>
+        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=6319"/>
+        <updated>2025-06-02T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[🐘明後日6/4（水）正午締切です🐘
+
+東南アジアとの交換留学プログラム・AIMS（エイムス）プログラムでは、AIMS協定校のチェンマイ大学（タイ）でのサマープログラム「The Summer Sustainability School 2025」にJASSO奨学金によって支援を受け参加する学群生を募集します。学期単位の長期留学のお試しとしての海外滞在としてもおすすめです！
+
+☆対象：学群生　※大…]]></summary>
+    </entry>
     <entry>
         <title type="html"><![CDATA[献血、骨髄バンクドナー登録会の実施について（6月9日実施）]]></title>
         <id>e86ae6087f1c7c4f38f07d5e33be4721</id>
@@ -242,16 +253,5 @@ This is to inform you that the 2025 Safety Report Drill using the University of 
 
 　〇冷房運転
 　　・冷房期間：令和７年６月２３日（月…]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[無料講座のお知らせ　Nature Masterclasses On-demand]]></title>
-        <id>86c4c85b4b6228f5d8a7820332c86431</id>
-        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=6290"/>
-        <updated>2025-05-23T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Nature Masterclasses On-demandは、Natureポートフォリオジャーナルの編集者と専門家が監修した研究者向けオンライントレーニングです。筑波大学の教職員・学生は無料で受講できます。
-
-※SpringerNatureの登録には、筑波大学から付与されたアドレスで学内LANでの接続が必須です。
-Nature Masterclasses On-demand にアクセス！  
-h…]]></summary>
     </entry>
 </feed>
