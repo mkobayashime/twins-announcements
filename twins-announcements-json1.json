@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "e86ae6087f1c7c4f38f07d5e33be4721",
+            "content_html": "日本赤十字社が学内に献血バスを配車して、以下のとおり献血を実施することとなりました。また、茨城県つくば保健所による骨髄バンクドナー登録会も実施されます。学生の皆さまのご協力をお願いいたします。\n\n日時：2025年6月9日（月）9：45～12：15、13：30～16：00\n　　　（骨髄バンクドナー登録会は15：45まで）\n場所：第３エリア食堂前\n",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=6318",
+            "title": "献血、骨髄バンクドナー登録会の実施について（6月9日実施）",
+            "date_modified": "2025-06-02T03:00:00.000Z"
+        },
+        {
             "id": "8762a2cbd6437ecb92bb7413cb44f6c0",
             "content_html": "外国語論文データベースWeb of Scienceの基本操作な操作方法について、\n提供元インストラクターが初心者向けに詳しくお伝えする講習会を開催します。\n\n日時： 6月4日（水）15:15-16:30\n開催方法： オンライン（Webex)\n\n外国語論文を検索することに抵抗がある人も、\n講習会を受講することでそのハードルを下げることができるかもしれません。\n\nこの機会に是非Web of Scien…",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=6317",
@@ -135,13 +142,6 @@
             "content_html": "Nature Masterclasses On-demandは、Natureポートフォリオジャーナルの編集者と専門家が監修した研究者向けオンライントレーニングです。筑波大学の教職員・学生は無料で受講できます。\n\n※SpringerNatureの登録には、筑波大学から付与されたアドレスで学内LANでの接続が必須です。\nNature Masterclasses On-demand にアクセス！  \nh…",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=6290",
             "title": "無料講座のお知らせ　Nature Masterclasses On-demand",
-            "date_modified": "2025-05-23T03:00:00.000Z"
-        },
-        {
-            "id": "fc4e0791a0c13897c480a29de3f88c78",
-            "content_html": "BHEキャリア支援チーム　主催イベントのお知らせです。\n\n本イベントでは、博士人材の就活に関する基礎知識の獲得、他分野の博士学生同士の交流・情報交換や、博士学生に特化したキャリア相談の場を提供します。\nまた、積極的な博士採用を実施している企業をお呼びします。企業での博士人材の活躍の場など、生の声を聴ける貴重な機会です。\n\n【日時】2025年6月20日（金）16：00-18：00\n【プログラム】\n1…",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=6288",
-            "title": "【博士】6/20キャリア開発交流会2025",
             "date_modified": "2025-05-23T03:00:00.000Z"
         }
     ]

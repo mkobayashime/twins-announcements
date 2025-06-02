@@ -4,10 +4,22 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Sun, 01 Jun 2025 21:06:39 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 02 Jun 2025 00:03:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
+        <item>
+            <title><![CDATA[献血、骨髄バンクドナー登録会の実施について（6月9日実施）]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=6318</link>
+            <guid isPermaLink="false">e86ae6087f1c7c4f38f07d5e33be4721</guid>
+            <pubDate>Mon, 02 Jun 2025 03:00:00 GMT</pubDate>
+            <description><![CDATA[日本赤十字社が学内に献血バスを配車して、以下のとおり献血を実施することとなりました。また、茨城県つくば保健所による骨髄バンクドナー登録会も実施されます。学生の皆さまのご協力をお願いいたします。
+
+日時：2025年6月9日（月）9：45～12：15、13：30～16：00
+　　　（骨髄バンクドナー登録会は15：45まで）
+場所：第３エリア食堂前
+]]></description>
+        </item>
         <item>
             <title><![CDATA[【6/4開催】Web of Science講習会]]></title>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=6317</link>
@@ -243,20 +255,6 @@ This is to inform you that the 2025 Safety Report Drill using the University of 
 ※SpringerNatureの登録には、筑波大学から付与されたアドレスで学内LANでの接続が必須です。
 Nature Masterclasses On-demand にアクセス！  
 h…]]></description>
-        </item>
-        <item>
-            <title><![CDATA[【博士】6/20キャリア開発交流会2025]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=6288</link>
-            <guid isPermaLink="false">fc4e0791a0c13897c480a29de3f88c78</guid>
-            <pubDate>Fri, 23 May 2025 03:00:00 GMT</pubDate>
-            <description><![CDATA[BHEキャリア支援チーム　主催イベントのお知らせです。
-
-本イベントでは、博士人材の就活に関する基礎知識の獲得、他分野の博士学生同士の交流・情報交換や、博士学生に特化したキャリア相談の場を提供します。
-また、積極的な博士採用を実施している企業をお呼びします。企業での博士人材の活躍の場など、生の声を聴ける貴重な機会です。
-
-【日時】2025年6月20日（金）16：00-18：00
-【プログラム】
-1…]]></description>
         </item>
     </channel>
 </rss>
