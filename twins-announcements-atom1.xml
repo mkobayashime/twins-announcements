@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/mkobayashime/twins-announcements</id>
     <title>在学生へのお知らせ | 筑波大学</title>
-    <updated>2025-06-03T02:31:23.809Z</updated>
+    <updated>2025-06-03T05:01:51.295Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://github.com/mkobayashime/twins-announcements"/>
     <subtitle>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</subtitle>
+    <entry>
+        <title type="html"><![CDATA[【動画配信】SOGI/LGBTQ+に関する基礎知識 （配信期間：６月２日～30日）]]></title>
+        <id>4613279c2556f81cba50ad78c42e09c8</id>
+        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=6327"/>
+        <updated>2025-06-03T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[ヒューマンエンパワーメント推進局（BHE）は、在学生向けに、気軽にダイバーシティやインクルージョンについて学べる基礎知識の動画を配信します。
+
+６月７日、８日に「Tokyo Pride」というLGBTQ＋をはじめとした性の多様性を祝うイベントが行われるのをご存知でしょうか。
+BHEでは昨年に引き続いて、今年もこのTokyo Prideにブースを出展します。
+この機会に、LGBTQ＋をはじめとした性…]]></summary>
+    </entry>
     <entry>
         <title type="html"><![CDATA[☆ISSマンガストーリーコンペティション☆作品募集のお知らせ]]></title>
         <id>e46fe085bb00763de4fd21be2d2ad49d</id>
@@ -235,19 +246,5 @@ This is to inform you that the 2025 Safety Report Drill using the University of 
 
 《時期 Program Duration》
 2025年7月26日（東京発…]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[★☆★理系学生必見★☆★【参加者募集】就職関連イベント「キャリアマッチングデー」（6/5開催）]]></title>
-        <id>49cc8d0b0cc625d9d298720a58f813f5</id>
-        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=6300"/>
-        <updated>2025-05-27T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[【参加者募集】就職関連イベント「キャリアマッチングデー」（6/5開催）
-
-筑波大学と１５の企業・研究機関の協働によるレジリエンス研究教育推進コンソーシアムが企画する
-学生向けキャリア関連イベント「キャリアマッチングデー」が開催されます。
-各業界をリードする企業・研究機関の採用担当者、実務担当者、研究者の方々と、学生が直接交流できる貴重な機会です。
-ぜひ皆様の進路を考えるうえでお役立てください。
-
-…]]></summary>
     </entry>
 </feed>
