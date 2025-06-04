@@ -2,10 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/mkobayashime/twins-announcements</id>
     <title>在学生へのお知らせ | 筑波大学</title>
-    <updated>2025-06-04T06:01:51.737Z</updated>
+    <updated>2025-06-04T09:01:57.981Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://github.com/mkobayashime/twins-announcements"/>
     <subtitle>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</subtitle>
+    <entry>
+        <title type="html"><![CDATA[7/8(火)、7/17(木)開催　映画鑑賞会「もののけ姫」「すずめの戸締まり」]]></title>
+        <id>4713854cf4f9ed96f31fca0336a92e0a</id>
+        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=6332"/>
+        <updated>2025-06-04T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[CEGLOCメディアライブラリーでは映画鑑賞会を開催します。
+添付ポスターの掲示等により貴組織の所属学生に広く周知をお願いいたします。
+
+〇7月8日（火）「もののけ姫」
+〇7月17日（木）「すずめの戸締まり」
+
+場所：CA207（メディアライブラリー内）
+開場：14：00　開始：14：15　終了：17：00
+音声：日本語、字幕：英語で鑑賞、鑑賞後日英でディスカッション
+参加費：無料
+
+予約は不要で…]]></summary>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【参加者募集】2025年度夏季 カザフ語短期語学研修（カザフスタン）2025年8-9月]]></title>
         <id>966b26e93ba09fb8b5dc78c922536952</id>
@@ -230,22 +248,5 @@ http://www.city.tsukuba.…]]></summary>
         <updated>2025-05-29T03:00:00.000Z</updated>
         <summary type="html"><![CDATA[Thank you very much for your cooperation in the University's disaster preparedness.
 This is to inform you that the 2025 Safety Report Drill using the University of Tsukuba Safety Confirmation System (…]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【お知らせ】令和7年度安否報告訓練の実施について(6月11日～13日)]]></title>
-        <id>d741a326ee58fe4384649f9e66034ae8</id>
-        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=6311"/>
-        <updated>2025-05-29T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[日頃より、本学の災害対策にご協力いただきましてありがとうございます。
-筑波大学安否確認システム（ANPIC）を利用した令和７年度安否報告訓練の実施についてお知らせいたします。
-
-１．目的
-大規模災害時における、本学の学生・教職員の安否を正確かつ迅速に把握するため、全学で安否報告訓練を実施する。
-
-２．実施日時
-令和７年６月１１日（水）～１３日（金）
-
-３．対象者
-　学生：学群生・大学院生（非正規生…]]></summary>
     </entry>
 </feed>
