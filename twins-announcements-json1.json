@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "3a757755c2cdd7d65e637d7293f61cb5",
+            "content_html": "つくば市より「ものづくり企業とベンチャー企業と研究者たちの交流会inつくば」のご案内をいただきました。\n対象はベンチャー企業・研究者の方ですが、これから起業を考えられる方や学生の皆さんも参加可能です。\n下記イベントHPより詳細をご確認の上、参加ご希望の方は申込フォームより直接お申込みください。\n\nhttps://www.tsukuba-tci.co.jp/info/2025/05/22/20238…",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=6336",
+            "title": "【開催案内】ものづくり企業とベンチャー企業と研究者たちの交流会inつくば（6月26日（木）開催）",
+            "date_modified": "2025-06-05T03:00:00.000Z"
+        },
+        {
             "id": "7a63872a8e0a2bf74f93e7d88749806e",
             "content_html": "25年度に公務員（国家・地方）、準公務員（大学職員等）を受験する方を対象にした面接練習会です。\n集団面接形式で行います。ビジネスマナーも学ぶことができます。\n選考を受ける方、参加して役立ててください。\nBHEキャリア支援チームのファシリテーターからフィードバックがあります。（日本語での開催です）\n\n〇 日にち：令和６年6月18日（水）\n\n〇時間：10:00-12:00\n\n場所：筑波大学筑波キャンパ…",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=6335",
@@ -135,13 +142,6 @@
             "content_html": "つくばアントレプレナー育成プログラム BizDev講座 は、主に教育・研究機関等に所属する研究者等を対象として開設する筑波大学エクステンションプログラムです。アントレプレナーの輩出と研究・技術シーズに基づくスタートアップ創出の促進を目的とした有料講座です。\n\n国際産学連携本部では学内参加者を支援するため、起業や新規事業創出のため事業化の必須スキルを実践的に学び、事業化シーズを投資対象となるビジネス…",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=6314",
             "title": "【学内参加者募集】2025年度つくばアントレプレナー育成プログラム BizDev講座",
-            "date_modified": "2025-05-30T03:00:00.000Z"
-        },
-        {
-            "id": "e1ba2214333cd2cf814b0fefd6f82366",
-            "content_html": "　本学では、良好な構内環境を保持するため、本学の要項に基づき、放置車両と思われる車両については、撤去通告書を車両に貼付後、一定の期間を置いてから一斉撤去を実施します。\n　つきましては、別添に日程等詳細を記載しておりますので、所有されている車両について現状確認をしていただくようお願いします。\n　また、駐車場、駐輪場、駐輪スペース以外に停めている場合は、必ず移動してください。\n\n　In order t…",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=6313",
-            "title": "【周知】令和７年度 構内における放置自転車・放置自動車等の一斉撤去について / Removal of All Abandoned Bicycles and Vehicles in Campus",
             "date_modified": "2025-05-30T03:00:00.000Z"
         }
     ]
