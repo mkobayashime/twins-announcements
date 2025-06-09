@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/mkobayashime/twins-announcements</id>
     <title>在学生へのお知らせ | 筑波大学</title>
-    <updated>2025-06-09T01:29:34.373Z</updated>
+    <updated>2025-06-09T06:01:37.462Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://github.com/mkobayashime/twins-announcements"/>
     <subtitle>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</subtitle>
+    <entry>
+        <title type="html"><![CDATA[サーバー更新作業に伴うキャリア支援チームHP及び就職情報提供システム停止のお知らせ]]></title>
+        <id>f7e5c4dc1ece4147cbde4ed3df16263e</id>
+        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=6340"/>
+        <updated>2025-06-09T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[サーバー更新作業に伴い、下記の時間、キャリア支援チームホームページ等へ繋がりにくくなります。
+【作業日時】6/25（水）9：00　～　13：15（予定）
+
+なお、サーバー更新作業中は、「学内専用ページ」、「ガイダンス等及び模試試験登録・申請」、「進路進捗状況届」へのアクセスはできません。
+皆様にはご迷惑をおかけいたしますが、ご理解、ご協力の程よろしくお願いいたします。
+]]></summary>
+    </entry>
     <entry>
         <title type="html"><![CDATA[BHE主催　就活支援企画　6/13 BHEオンライン面接練習会のご案内]]></title>
         <id>b54767c5576b328dcf40289c6df3588d</id>
@@ -257,14 +269,5 @@ https://inclusi…]]></summary>
 ●詳細
 応募に関する詳細はホームページをご確認ください。
 http://www.city.tsukuba.…]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【学内参加者募集】2025年度つくばアントレプレナー育成プログラム BizDev講座]]></title>
-        <id>7f33de7a74f279013bd343c173cdb7f0</id>
-        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=6314"/>
-        <updated>2025-05-30T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[つくばアントレプレナー育成プログラム BizDev講座 は、主に教育・研究機関等に所属する研究者等を対象として開設する筑波大学エクステンションプログラムです。アントレプレナーの輩出と研究・技術シーズに基づくスタートアップ創出の促進を目的とした有料講座です。
-
-国際産学連携本部では学内参加者を支援するため、起業や新規事業創出のため事業化の必須スキルを実践的に学び、事業化シーズを投資対象となるビジネス…]]></summary>
     </entry>
 </feed>
