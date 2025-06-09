@@ -5,6 +5,20 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "b54767c5576b328dcf40289c6df3588d",
+            "content_html": "就活中の方、ISの選考を受ける方、参加して役立ててください。集団面接形式です。\nBHEキャリア支援チームのファシリテーターからフィードバックがあります。 （日本語での開催です）\n\n【詳細と申込み】\n\n＜オンライン＞6月13日（金）\n\n集団面接　13：30-15：00 Zoom\nBHE HP「イベントコンテンツ動画・資料」→「就職情報」\n\nhttp://syushoku.sec.tsukuba.ac…",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=6339",
+            "title": "BHE主催　就活支援企画　6/13 BHEオンライン面接練習会のご案内",
+            "date_modified": "2025-06-09T03:00:00.000Z"
+        },
+        {
+            "id": "7a63872a8e0a2bf74f93e7d88749806e",
+            "content_html": "25年度に公務員（国家・地方）、準公務員（大学職員等）を受験する方を対象にした面接練習会です。\n集団面接形式で行います。ビジネスマナーも学ぶことができます。\n選考を受ける方、参加して役立ててください。\nBHEキャリア支援チームのファシリテーターからフィードバックがあります。（日本語での開催です）\n\n〇 日にち：令和６年6月18日（水）\n\n〇時間：10:00-12:00\n\n場所：筑波大学筑波キャンパ…",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=6338",
+            "title": "6月18日　25年度公務員試験受験予定者向け 面接練習会のご案内",
+            "date_modified": "2025-06-09T03:00:00.000Z"
+        },
+        {
             "id": "5008e72d7e5a3cc4b6900315ee6a9547",
             "content_html": "いけばな体験教室を６月２２日に開催いたします。\n\n詳細は添付ファイルをご確認ください。\n\n\nWould you like to experience the Japanese culture of ikebana?\n\nFor details, please see the attached file.\n",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=6337",
@@ -129,20 +143,6 @@
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=6314",
             "title": "【学内参加者募集】2025年度つくばアントレプレナー育成プログラム BizDev講座",
             "date_modified": "2025-05-30T03:00:00.000Z"
-        },
-        {
-            "id": "e1ba2214333cd2cf814b0fefd6f82366",
-            "content_html": "　本学では、良好な構内環境を保持するため、本学の要項に基づき、放置車両と思われる車両については、撤去通告書を車両に貼付後、一定の期間を置いてから一斉撤去を実施します。\n　つきましては、別添に日程等詳細を記載しておりますので、所有されている車両について現状確認をしていただくようお願いします。\n　また、駐車場、駐輪場、駐輪スペース以外に停めている場合は、必ず移動してください。\n\n　In order t…",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=6313",
-            "title": "【周知】令和７年度 構内における放置自転車・放置自動車等の一斉撤去について / Removal of All Abandoned Bicycles and Vehicles in Campus",
-            "date_modified": "2025-05-30T03:00:00.000Z"
-        },
-        {
-            "id": "a80335ccd248fd836961e6987b75f5b9",
-            "content_html": "Thank you very much for your cooperation in the University's disaster preparedness.\nThis is to inform you that the 2025 Safety Report Drill using the University of Tsukuba Safety Confirmation System (…",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=6312",
-            "title": "[Notice] Safety Report Drill for AY 2025 (June 11-13)",
-            "date_modified": "2025-05-29T03:00:00.000Z"
         }
     ]
 }
