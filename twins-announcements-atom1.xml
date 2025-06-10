@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/mkobayashime/twins-announcements</id>
     <title>在学生へのお知らせ | 筑波大学</title>
-    <updated>2025-06-10T00:03:16.647Z</updated>
+    <updated>2025-06-10T01:29:39.705Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://github.com/mkobayashime/twins-announcements"/>
     <subtitle>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</subtitle>
+    <entry>
+        <title type="html"><![CDATA[【開催案内 6/26 】2025年度中性子実験技術基礎講習会（レベル１講習会）]]></title>
+        <id>39ba7a16ceb7edd215202c923b63639c</id>
+        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=6345"/>
+        <updated>2025-06-10T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[＊＊＊中性子産業利用推進協議会（略称：IUSNA）より、筑波大学の学生に向けたお知らせです＊＊＊
+
+中性子実験技術の初心者の方を対象に中性子実験技術の基礎的事項を紹介し、中性子実験施設（J-PARC MLF、 JRR-3等）での実験計画立案や課題申請に役立てていただくことを目的として、中性子実験技術基礎講習会（レベル１講習会）を開催します。
+
+学生の方は、参加費無料（学生証要提出）となっております…]]></summary>
+    </entry>
     <entry>
         <title type="html"><![CDATA[第186回バイオeカフェ開催のお知らせ]]></title>
         <id>ebbe1c38982bfefd4da2fa1cc899d5f5</id>
@@ -253,16 +264,5 @@ BHEでは昨年に引き続いて、今年もこのTokyo Prideにブースを出
 
 詳細はこちらからご確認ください。
 https://inclusi…]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【周知】第27回参議院議員通常選挙に向けての主権者教育等の充実及び周知啓発について]]></title>
-        <id>3ea8e8cd1af9b0a2d6b0a14a11031f53</id>
-        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=6321"/>
-        <updated>2025-06-02T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[文部科学省を通じて、総務省より標記の件について、周知啓発に係る通知がありましたので、お知らせいたします。
-
-本年夏には第27 回参議院議員通常選挙が予定されているところであり、有権者の積極的な投票参加を促すためには、政治参加意識の向上に取り組むとともに、投票に必要となる事項について、十分に周知を図ることが重要であり、改めて以下の事項も含め周知啓発の依頼がありました。
-
-【住民票の異動及び投票方法に…]]></summary>
     </entry>
 </feed>
