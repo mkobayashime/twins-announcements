@@ -4,7 +4,7 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Fri, 13 Jun 2025 09:08:34 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 13 Jun 2025 15:08:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
@@ -78,27 +78,6 @@ BHEキャリア支援チームのファシリテーターからフィードバ�
 (1) マレーシア実習
 科目番号：AE14C23
 科目名・単位数：日本語教…]]></description>
-        </item>
-        <item>
-            <title><![CDATA[【明日開催】BHE主催　就活支援企画 BHEオンライン面接練習会のご案内]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=6346</link>
-            <guid isPermaLink="false">ba6555b5d350841fb722a1545ed76591</guid>
-            <pubDate>Thu, 12 Jun 2025 03:00:00 GMT</pubDate>
-            <description><![CDATA[就活に即役立つ、オンライン面接練習会を開催します。
-
-就活中の方、ISの選考を受ける方、参加して役立ててください。
-BHEキャリア支援チームのファシリテーターからフィードバックがあります。 （日本語での開催です）
-
-【詳細と申込み】
-
-＜オンライン＞6月13日（金）
-
-集団面接
-
-13：30-15：00 Zoom
-BHE HP「イベントコンテンツ動画・資料」→「就職情報」
-
-http://syus…]]></description>
         </item>
         <item>
             <title><![CDATA[【開催案内 6/26 】2025年度中性子実験技術基礎講習会（レベル１講習会）]]></title>
@@ -282,6 +261,19 @@ BHE HP「イ…]]></description>
 研修内容：
 ▶︎研修期間：2025年8月11日（月）〜9月8日（月）（移動日含め29日間）
 ▶︎研修地：カザフ国立大学（カザフスタン共和国アルマト…]]></description>
+        </item>
+        <item>
+            <title><![CDATA[再掲【開催通知】学生の皆さんが安心して化学実験を行うための研修会]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=6330</link>
+            <guid isPermaLink="false">ff57fd6b2b5202afd0b36c75169d2fac</guid>
+            <pubDate>Wed, 04 Jun 2025 03:00:00 GMT</pubDate>
+            <description><![CDATA[下記のとおり研修会を開催いたしますので、奮ってご参加ください。（参加は任意です。）
+参加をご希望の方は、６月１１日（水）までに以下のリンクからフォームに登録をお願いします。
+
+１．目的
+　　実験に携わる学群・大学院生向けに、化学物質の危険性や有害性を伝え、事件事故や健康障害を引き起こすリスクを減らすこと
+２．開催日時および場所
+　　日時：令和７年６月１８日（水）１０時１０分～１１時２５分場所：１Ｈ…]]></description>
         </item>
     </channel>
 </rss>
