@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/mkobayashime/twins-announcements</id>
     <title>在学生へのお知らせ | 筑波大学</title>
-    <updated>2025-06-12T21:07:45.145Z</updated>
+    <updated>2025-06-13T00:03:19.180Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://github.com/mkobayashime/twins-announcements"/>
     <subtitle>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</subtitle>
+    <entry>
+        <title type="html"><![CDATA[【再掲】【参加者募集】第44回エンカウンター合宿の開催について]]></title>
+        <id>26826cae1004361c14446fda20ad75fc</id>
+        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=6348"/>
+        <updated>2025-06-13T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[学生相談室では、下記の要領で「第44回エンカウンター合宿」を開催します。緑豊かなログハウスで各種心理学的ワークやBBQを行い、自己理解や参加者同士の相互交流を深めます。コロナ禍で開催できなかった時期もありましたが、今年で44回目となる伝統あるイベントです。日々に変化がほしい人、他学類・他専攻の友達を作りたい人、自分についてちょっと考えてみたい人、ぜひご参加下さい。就活にも役立つかも。
+
+＜開催概要…]]></summary>
+    </entry>
     <entry>
         <title type="html"><![CDATA[マレーシア実習・スロベニア実習履修説明会（7月15日開催）]]></title>
         <id>e7765c9b83692fcbdf7b7783826febee</id>
@@ -259,16 +268,5 @@ Eラーニング研修を受講いただくことになっております。
 
 未受講の方は、添付のマニュアルを確認の上、研修動画の視聴および
 誓約書の提出をお願いいたします]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【動画配信】SOGI/LGBTQ+に関する基礎知識 （配信期間：６月２日～30日）]]></title>
-        <id>4613279c2556f81cba50ad78c42e09c8</id>
-        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=6327"/>
-        <updated>2025-06-03T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[ヒューマンエンパワーメント推進局（BHE）は、在学生向けに、気軽にダイバーシティやインクルージョンについて学べる基礎知識の動画を配信します。
-
-６月７日、８日に「Tokyo Pride」というLGBTQ＋をはじめとした性の多様性を祝うイベントが行われるのをご存知でしょうか。
-BHEでは昨年に引き続いて、今年もこのTokyo Prideにブースを出展します。
-この機会に、LGBTQ＋をはじめとした性…]]></summary>
     </entry>
 </feed>
