@@ -4,27 +4,10 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Sun, 15 Jun 2025 09:07:46 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 15 Jun 2025 15:01:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
-        <item>
-            <title><![CDATA[🌟 筑波大学 × オハイオ州立大学 ISSサマーフェスティバル開催中！🌟]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=6351</link>
-            <guid isPermaLink="false">ea1e6d47df6cc1ef716dfd7977645829</guid>
-            <pubDate>Fri, 13 Jun 2025 03:00:00 GMT</pubDate>
-            <description><![CDATA[UTとOSU の学生がつながるオンラインフェスティバルが、ついにスタートしました！
-
-6月は、ワクワクするメタバース空間で楽しい企画が盛りだくさん！
-まだ間に合います！今すぐログインして参加しましょう✨
-
-🎮 白熱のeスポーツトーナメント
-🎤 トークショーやパフォーマンス
-🎨 学生団体によるインタラクティブなバーチャルブース
-…などなど、これからのコンテンツも目白押し！
-
-🎁 さらに！活動…]]></description>
-        </item>
         <item>
             <title><![CDATA[🎉 超・院生ひろば 開催のお知らせ]]></title>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=6350</link>
@@ -274,6 +257,14 @@ BHE HP「イ…]]></description>
 　　実験に携わる学群・大学院生向けに、化学物質の危険性や有害性を伝え、事件事故や健康障害を引き起こすリスクを減らすこと
 ２．開催日時および場所
 　　日時：令和７年６月１８日（水）１０時１０分～１１時２５分場所：１Ｈ…]]></description>
+        </item>
+        <item>
+            <title><![CDATA[【重要】2025年度第1期分授業料の納入督促について /【Important】Reminder of Tuition Payment for first term of AY 2025]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=6329</link>
+            <guid isPermaLink="false">e086036d1e5931ece50f3feb0496883c</guid>
+            <pubDate>Wed, 04 Jun 2025 03:00:00 GMT</pubDate>
+            <description><![CDATA[　2025年度第一期分授業料について、5月2７日(火)に口座振替により引落しを行いました。残高不足等のため引落しができなかった者については、6月2７日(金)に再度預金口座から引落しを行います。つきましては、金融機関の前営業日である6月2６日(木)までに登録した預金口座へ入金をお願いします。
+　なお、引落しがされている場合は、通帳に“ツクバダイ”と記帳されますので、引落しがされているか登録した口座で…]]></description>
         </item>
     </channel>
 </rss>
