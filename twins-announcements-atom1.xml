@@ -2,10 +2,24 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/mkobayashime/twins-announcements</id>
     <title>在学生へのお知らせ | 筑波大学</title>
-    <updated>2025-06-15T21:06:52.011Z</updated>
+    <updated>2025-06-16T01:29:37.595Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://github.com/mkobayashime/twins-announcements"/>
     <subtitle>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</subtitle>
+    <entry>
+        <title type="html"><![CDATA[【奨学金/Scholarship】公益財団法人佐藤陽国際奨学財団 /Sato Yo International Scholarship Foundation]]></title>
+        <id>ea073ffa877225c834ca8f917e91a233</id>
+        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=6352"/>
+        <updated>2025-06-16T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[公益財団法人　佐藤陽国際奨学財団 （秋募集）
+※応募前に「応募フロー・注意事項」をよく確認してください。
+※A・Bで学内書類提出期限が異なるため注意すること
+
+Web応募フォーム入力期限：
+（A）2025年8月20日（水）　（B）2025年8月20日（水）
+※Web応募フォームに入力する際、学生交流課で発行する「管理番号」が必要です。
+（isc-shien#@#un.tsukuba.ac.jp）（…]]></summary>
+    </entry>
     <entry>
         <title type="html"><![CDATA[🎉 超・院生ひろば 開催のお知らせ]]></title>
         <id>a554e953d277af09d8451c1d71502e10</id>
@@ -255,13 +269,5 @@ BHE HP「イ…]]></summary>
 　　実験に携わる学群・大学院生向けに、化学物質の危険性や有害性を伝え、事件事故や健康障害を引き起こすリスクを減らすこと
 ２．開催日時および場所
 　　日時：令和７年６月１８日（水）１０時１０分～１１時２５分場所：１Ｈ…]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【重要】2025年度第1期分授業料の納入督促について /【Important】Reminder of Tuition Payment for first term of AY 2025]]></title>
-        <id>e086036d1e5931ece50f3feb0496883c</id>
-        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=6329"/>
-        <updated>2025-06-04T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[　2025年度第一期分授業料について、5月2７日(火)に口座振替により引落しを行いました。残高不足等のため引落しができなかった者については、6月2７日(金)に再度預金口座から引落しを行います。つきましては、金融機関の前営業日である6月2６日(木)までに登録した預金口座へ入金をお願いします。
-　なお、引落しがされている場合は、通帳に“ツクバダイ”と記帳されますので、引落しがされているか登録した口座で…]]></summary>
     </entry>
 </feed>
