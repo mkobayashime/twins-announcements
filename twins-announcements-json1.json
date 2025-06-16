@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "39c6f529d3d86d0f4cb59633cac6aa8a",
+            "content_html": "2年生以上の学群生の皆様\n\n本学に対し、大学基準協会より、大学生の学習成果と満足度に関する国際的調査に関するアンケートへの協力依頼がございました。\n\nご多用のところ誠に恐縮ですが、差支えのない範囲で本アンケートにご協力くださいますよう、よろしくお願いいたします。\n\nmanabaにコースを設定し、履修生として登録しておりますので、コースニュースより大学基準協会のアンケート回答ページへアクセスいただく…",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=6355",
+            "title": "2025年度大学生の学習成果と満足度に関する国際的調査について",
+            "date_modified": "2025-06-16T03:00:00.000Z"
+        },
+        {
             "id": "76297db2351566babdc5076f5178a31d",
             "content_html": "茨城県警察本部生活安全総務課より、いばらき防犯ファイル（令和7年５月末）の送付がありましたので、添付のとおり掲載いたします。\n\n本ファイルは、県内で実際に発生した犯罪の情報のほか、防犯対策に役立つ情報が含まれております。ご自身の安全のためにも、ぜひご確認ください。\n",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=6354",
@@ -136,13 +143,6 @@
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=6333",
             "title": "BHE主催　就活支援企画　6月 BHE面接・GD練習会のご案内",
             "date_modified": "2025-06-05T03:00:00.000Z"
-        },
-        {
-            "id": "4713854cf4f9ed96f31fca0336a92e0a",
-            "content_html": "CEGLOCメディアライブラリーでは映画鑑賞会を開催します。\n添付ポスターの掲示等により貴組織の所属学生に広く周知をお願いいたします。\n\n〇7月8日（火）「もののけ姫」\n〇7月17日（木）「すずめの戸締まり」\n\n場所：CA207（メディアライブラリー内）\n開場：14：00　開始：14：15　終了：17：00\n音声：日本語、字幕：英語で鑑賞、鑑賞後日英でディスカッション\n参加費：無料\n\n予約は不要で…",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=6332",
-            "title": "7/8(火)、7/17(木)開催　映画鑑賞会「もののけ姫」「すずめの戸締まり」",
-            "date_modified": "2025-06-04T03:00:00.000Z"
         }
     ]
 }
