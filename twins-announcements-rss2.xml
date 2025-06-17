@@ -4,10 +4,40 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Tue, 17 Jun 2025 02:32:16 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 17 Jun 2025 06:01:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
+        <item>
+            <title><![CDATA[【周知】バス停留所の名称変更について / Notice regarding bus stop name changes]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=6361</link>
+            <guid isPermaLink="false">dd7a0238ae1cea57afc3772e6cc1899e</guid>
+            <pubDate>Tue, 17 Jun 2025 03:00:00 GMT</pubDate>
+            <description><![CDATA[下記のとおり学内に設置されている路線バスの停留所名称が変更となりますのでお知らせします。
+
+1.変更内容
+　
+　旧名称：筑波大学病院入口　→　新名称：筑波大学病院東
+
+2.変更日
+
+　令和7年８月8日（金）～
+
+---------------------------------------------------------------------------------
+
+We would li…]]></description>
+        </item>
+        <item>
+            <title><![CDATA[【6/22開催】海洋開発業界セミナー開催（日本財団OIC主催）]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=6360</link>
+            <guid isPermaLink="false">8d751f602c4012a0990823851bce302d</guid>
+            <pubDate>Tue, 17 Jun 2025 03:00:00 GMT</pubDate>
+            <description><![CDATA[OICではコンソーシアム参加企業による業界及び各社企業紹介となります「海洋開発業界セミナー」を開催いたします。
+本セミナーでは、洋上風力発電、海洋石油・天然ガス開発等、海洋開発の様々な分野において、日本企業の様々な取り組みを知っていただき、学生の皆さんの将来の進路検討の一助となることを目的としております。
+
+◆ 海洋開発業界セミナー（対面開催）
+• 開催日程： 2025年6月22日（日）10:00…]]></description>
+        </item>
         <item>
             <title><![CDATA[【女子大学院生のスタッフ募集】のぞき見Science2025～はじめてラボ～]]></title>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=6359</link>
@@ -217,32 +247,6 @@ BHEキャリア支援チームのファシリテーターからフィードバ�
 〇時間：10:00-12:00
 
 場所：筑波大学筑波キャンパ…]]></description>
-        </item>
-        <item>
-            <title><![CDATA[いけばな体験教室の開催について/The Lesson of Ikebana Experience]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=6337</link>
-            <guid isPermaLink="false">5008e72d7e5a3cc4b6900315ee6a9547</guid>
-            <pubDate>Fri, 06 Jun 2025 03:00:00 GMT</pubDate>
-            <description><![CDATA[いけばな体験教室を６月２２日に開催いたします。
-
-詳細は添付ファイルをご確認ください。
-
-
-Would you like to experience the Japanese culture of ikebana?
-
-For details, please see the attached file.
-]]></description>
-        </item>
-        <item>
-            <title><![CDATA[【開催案内】ものづくり企業とベンチャー企業と研究者たちの交流会inつくば（6月26日（木）開催）]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=6336</link>
-            <guid isPermaLink="false">3a757755c2cdd7d65e637d7293f61cb5</guid>
-            <pubDate>Thu, 05 Jun 2025 03:00:00 GMT</pubDate>
-            <description><![CDATA[つくば市より「ものづくり企業とベンチャー企業と研究者たちの交流会inつくば」のご案内をいただきました。
-対象はベンチャー企業・研究者の方ですが、これから起業を考えられる方や学生の皆さんも参加可能です。
-下記イベントHPより詳細をご確認の上、参加ご希望の方は申込フォームより直接お申込みください。
-
-https://www.tsukuba-tci.co.jp/info/2025/05/22/20238…]]></description>
         </item>
     </channel>
 </rss>
