@@ -4,10 +4,25 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Tue, 17 Jun 2025 06:01:59 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 17 Jun 2025 07:01:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
+        <item>
+            <title><![CDATA[🌟 ISSマンガストーリーコンペティション🌟作品募集のお知らせ]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=6362</link>
+            <guid isPermaLink="false">cc64c6e263b9044570bc51bafee1bcf4</guid>
+            <pubDate>Tue, 17 Jun 2025 03:00:00 GMT</pubDate>
+            <description><![CDATA[インクルーシブなスマートソサエティー（ISS）が実現した未来を舞台にしたマンガストーリーコンペティションを行います！
+
+マンガ、シナリオが書けなくても、あらすじだけでOKです。
+もちろんマンガ作品、シナリオのご応募も大歓迎です。
+
+最優秀作品の作者は、2025年10月2日開催の筑波会議ISSセッションに登壇者として招待いたします！
+
+詳細はこちらからご確認ください。
+https://inclusi…]]></description>
+        </item>
         <item>
             <title><![CDATA[【周知】バス停留所の名称変更について / Notice regarding bus stop name changes]]></title>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=6361</link>
@@ -231,22 +246,6 @@ BHEキャリア支援チームのファシリテーターからフィードバ�
 なお、サーバー更新作業中は、「学内専用ページ」、「ガイダンス等及び模試試験登録・申請」、「進路進捗状況届」へのアクセスはできません。
 皆様にはご迷惑をおかけいたしますが、ご理解、ご協力の程よろしくお願いいたします。
 ]]></description>
-        </item>
-        <item>
-            <title><![CDATA[6月18日　25年度公務員試験受験予定者向け 面接練習会のご案内]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=6338</link>
-            <guid isPermaLink="false">7a63872a8e0a2bf74f93e7d88749806e</guid>
-            <pubDate>Mon, 09 Jun 2025 03:00:00 GMT</pubDate>
-            <description><![CDATA[25年度に公務員（国家・地方）、準公務員（大学職員等）を受験する方を対象にした面接練習会です。
-集団面接形式で行います。ビジネスマナーも学ぶことができます。
-選考を受ける方、参加して役立ててください。
-BHEキャリア支援チームのファシリテーターからフィードバックがあります。（日本語での開催です）
-
-〇 日にち：令和６年6月18日（水）
-
-〇時間：10:00-12:00
-
-場所：筑波大学筑波キャンパ…]]></description>
         </item>
     </channel>
 </rss>

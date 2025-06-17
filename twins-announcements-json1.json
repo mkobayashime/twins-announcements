@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "cc64c6e263b9044570bc51bafee1bcf4",
+            "content_html": "インクルーシブなスマートソサエティー（ISS）が実現した未来を舞台にしたマンガストーリーコンペティションを行います！\n\nマンガ、シナリオが書けなくても、あらすじだけでOKです。\nもちろんマンガ作品、シナリオのご応募も大歓迎です。\n\n最優秀作品の作者は、2025年10月2日開催の筑波会議ISSセッションに登壇者として招待いたします！\n\n詳細はこちらからご確認ください。\nhttps://inclusi…",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=6362",
+            "title": "🌟 ISSマンガストーリーコンペティション🌟作品募集のお知らせ",
+            "date_modified": "2025-06-17T03:00:00.000Z"
+        },
+        {
             "id": "dd7a0238ae1cea57afc3772e6cc1899e",
             "content_html": "下記のとおり学内に設置されている路線バスの停留所名称が変更となりますのでお知らせします。\n\n1.変更内容\n　\n　旧名称：筑波大学病院入口　→　新名称：筑波大学病院東\n\n2.変更日\n\n　令和7年８月8日（金）～\n\n---------------------------------------------------------------------------------\n\nWe would li…",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=6361",
@@ -135,13 +142,6 @@
             "content_html": "サーバー更新作業に伴い、下記の時間、キャリア支援チームホームページ等へ繋がりにくくなります。\n【作業日時】6/25（水）9：00　～　13：15（予定）\n\nなお、サーバー更新作業中は、「学内専用ページ」、「ガイダンス等及び模試試験登録・申請」、「進路進捗状況届」へのアクセスはできません。\n皆様にはご迷惑をおかけいたしますが、ご理解、ご協力の程よろしくお願いいたします。\n",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=6340",
             "title": "サーバー更新作業に伴うキャリア支援チームHP及び就職情報提供システム停止のお知らせ",
-            "date_modified": "2025-06-09T03:00:00.000Z"
-        },
-        {
-            "id": "7a63872a8e0a2bf74f93e7d88749806e",
-            "content_html": "25年度に公務員（国家・地方）、準公務員（大学職員等）を受験する方を対象にした面接練習会です。\n集団面接形式で行います。ビジネスマナーも学ぶことができます。\n選考を受ける方、参加して役立ててください。\nBHEキャリア支援チームのファシリテーターからフィードバックがあります。（日本語での開催です）\n\n〇 日にち：令和６年6月18日（水）\n\n〇時間：10:00-12:00\n\n場所：筑波大学筑波キャンパ…",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=6338",
-            "title": "6月18日　25年度公務員試験受験予定者向け 面接練習会のご案内",
             "date_modified": "2025-06-09T03:00:00.000Z"
         }
     ]
