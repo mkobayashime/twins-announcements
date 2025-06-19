@@ -5,6 +5,20 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "a6e3ec0a14861d0ba3c325b4639a70ab",
+            "content_html": "このイベントは、大学の先輩から就職活動やキャリア、学生生活などについて本音でアドバイスを聞ける貴重な機会として、学生から高い満足度を得ています。\n\n今回は、2部構成でパネルディスカッションと交流会を対面で開催いたします。様々な職種やキャリアを持つ企業人が参加しますので、幅広い視点からのアドバイスを得られる絶好のチャンスです。\n\nぜひお見逃しなく！\n\n★社会人のリアルや業界・企業について知る機会★\n…",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=6365",
+            "title": "第13回　OB・OGキャリアカフェ～いろんなセンパイと話をしてみよう～",
+            "date_modified": "2025-06-19T03:00:00.000Z"
+        },
+        {
+            "id": "b8bb5671d10851e3cfcc0e8ebc9c6ab6",
+            "content_html": "◆25年度教員採用試験受験対策◆\n\n受験生同士、BHEスタッフからのフィードバックあります。\n面接が苦手な方、一緒に練習しましょう。\n\n日にち：令和7年7月2日（水）\n時　間：10：00-12：00\n\n場　所：筑波大学筑波キャンパス　人間系学系棟A　114\n申込み：BHE HP「ガイダンス等及び模擬試験　登録・申請」\nhttps://syushoku.sec.tsukuba.ac.jp/pls/p…",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=6364",
+            "title": "教員採用試験受験者対象 面接練習会",
+            "date_modified": "2025-06-19T03:00:00.000Z"
+        },
+        {
             "id": "603d517f9daed5bbea9f8de0a4aa5cae",
             "content_html": "東南アジア（マレーシア/タイ/インドネシアなど）との交換留学プログラム・AIMS（エイムス）は2026年春学期渡航分（2026年1～3月頃に渡航）を募集しています。\n\n🪄応募締切：2025年７月1日（火）17：00\n\n下記リンク先プログラムサイトの募集要項等を熟読し理解した上で、指定締切日時までに必要書類を提出してください。ご応募お待ちしています！\nまた、留学先についての相談も随時受け付けていま…",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=6363",
@@ -129,20 +143,6 @@
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=6341",
             "title": "📣募集中📣奨学金あり！メーファールアン大学Agro-Industry学部サマープログラム",
             "date_modified": "2025-06-09T03:00:00.000Z"
-        },
-        {
-            "id": "f7e5c4dc1ece4147cbde4ed3df16263e",
-            "content_html": "サーバー更新作業に伴い、下記の時間、キャリア支援チームホームページ等へ繋がりにくくなります。\n【作業日時】6/25（水）9：00　～　13：15（予定）\n\nなお、サーバー更新作業中は、「学内専用ページ」、「ガイダンス等及び模試試験登録・申請」、「進路進捗状況届」へのアクセスはできません。\n皆様にはご迷惑をおかけいたしますが、ご理解、ご協力の程よろしくお願いいたします。\n",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=6340",
-            "title": "サーバー更新作業に伴うキャリア支援チームHP及び就職情報提供システム停止のお知らせ",
-            "date_modified": "2025-06-09T03:00:00.000Z"
-        },
-        {
-            "id": "5008e72d7e5a3cc4b6900315ee6a9547",
-            "content_html": "いけばな体験教室を６月２２日に開催いたします。\n\n詳細は添付ファイルをご確認ください。\n\n\nWould you like to experience the Japanese culture of ikebana?\n\nFor details, please see the attached file.\n",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=6337",
-            "title": "いけばな体験教室の開催について/The Lesson of Ikebana Experience",
-            "date_modified": "2025-06-06T03:00:00.000Z"
         }
     ]
 }
