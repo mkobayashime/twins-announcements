@@ -5,6 +5,20 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "14c6f1bc56d19cbb73934e06aa4a3e8a",
+            "content_html": "文部科学省を通じて、こども家庭庁より、標記の件について周知依頼がありましたのでお知らせいたします。\n\nこども家庭庁においては、児童虐待問題に対する社会的関心を喚起するため、児童虐待防止法が施行された11月に「オレンジリボン・児童虐待防止推進キャンペーン」により、集中的な広報啓発活動を実施することとしており、その取組の一つとして、標語の募集を行うこととしています。\n\n詳細は、添付ファイルをご確認くだ…",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=6367",
+            "title": "【周知】【こども家庭庁】令和７年度「オレンジリボン・児童虐待防止推進キャンペーン」標語募集について",
+            "date_modified": "2025-06-20T03:00:00.000Z"
+        },
+        {
+            "id": "5e33ce9b504b66fc8a0309f018b036dd",
+            "content_html": "茨城県より、標記の件について、周知依頼がありましたのでお知らせいたします。\n\n茨城県とイタリア＝エミリア・ロマーニャ州は、1985年に茨城県で開催された国際科学技術博覧会（つくば万博）を契機に、1986年に友好提携を締結しました。つくば万博から40 年の時を経て、現在開催されている大阪・関西万博の機会を捉え、茨城県では、内閣官房が推進する「万博国際交流プログラム」に参画し、イタリア＝エミリア・　ロ…",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=6366",
+            "title": "【周知】ローマ・サピエンツァ大学東洋学科准教授マルコ・デル・ベーネ氏によるオンライン講演会「徳川斉昭公時代のエミリア・ロマーニャ州」について",
+            "date_modified": "2025-06-20T03:00:00.000Z"
+        },
+        {
             "id": "a6e3ec0a14861d0ba3c325b4639a70ab",
             "content_html": "このイベントは、大学の先輩から就職活動やキャリア、学生生活などについて本音でアドバイスを聞ける貴重な機会として、学生から高い満足度を得ています。\n\n今回は、2部構成でパネルディスカッションと交流会を対面で開催いたします。様々な職種やキャリアを持つ企業人が参加しますので、幅広い視点からのアドバイスを得られる絶好のチャンスです。\n\nぜひお見逃しなく！\n\n★社会人のリアルや業界・企業について知る機会★\n…",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=6365",
@@ -129,20 +143,6 @@
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=6345",
             "title": "【開催案内 6/26 】2025年度中性子実験技術基礎講習会（レベル１講習会）",
             "date_modified": "2025-06-10T03:00:00.000Z"
-        },
-        {
-            "id": "2e430fda615034c01f03521a574d5d13",
-            "content_html": "25年度に公務員（国家・地方）、準公務員（大学職員等）を受験する方を対象にした面接練習会です。\n集団面接形式で行います。ビジネスマナーも学ぶことができます。\n選考を受ける方、参加して役立ててください。\nBHEキャリア支援チームのファシリテーターからフィードバックがあります。（日本語での開催です）\n\n〇 日にち：令和６年6月18日（水）\n〇時間：10:00-12:00\n場所：筑波大学筑波キャンパス　…",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=6342",
-            "title": "（BHE)6月18日　25年度公務員試験受験予定者向け 面接練習会",
-            "date_modified": "2025-06-09T03:00:00.000Z"
-        },
-        {
-            "id": "2446b2716249e0d65840ca741699d7b1",
-            "content_html": "東南アジアとの交換留学プログラム・AIMS（エイムス）プログラムでは、AIMS協定校のメーファールアン大学（タイ・チェンライ）のAgro-Industry学部によるサマープログラム「Sustainable Food Systems & Cultural Discovery Program」にJASSO奨学金によって支援を受け参加する学群生を募集しています。カルチャーやフードのアクティビティ満載のプ…",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=6341",
-            "title": "📣募集中📣奨学金あり！メーファールアン大学Agro-Industry学部サマープログラム",
-            "date_modified": "2025-06-09T03:00:00.000Z"
         }
     ]
 }
