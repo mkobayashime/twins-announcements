@@ -4,7 +4,7 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Sun, 22 Jun 2025 09:07:34 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 22 Jun 2025 15:07:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
@@ -104,17 +104,6 @@ https://inclusi…]]></description>
 ---------------------------------------------------------------------------------
 
 We would li…]]></description>
-        </item>
-        <item>
-            <title><![CDATA[【6/22開催】海洋開発業界セミナー開催（日本財団OIC主催）]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=6360</link>
-            <guid isPermaLink="false">8d751f602c4012a0990823851bce302d</guid>
-            <pubDate>Tue, 17 Jun 2025 03:00:00 GMT</pubDate>
-            <description><![CDATA[OICではコンソーシアム参加企業による業界及び各社企業紹介となります「海洋開発業界セミナー」を開催いたします。
-本セミナーでは、洋上風力発電、海洋石油・天然ガス開発等、海洋開発の様々な分野において、日本企業の様々な取り組みを知っていただき、学生の皆さんの将来の進路検討の一助となることを目的としております。
-
-◆ 海洋開発業界セミナー（対面開催）
-• 開催日程： 2025年6月22日（日）10:00…]]></description>
         </item>
         <item>
             <title><![CDATA[【女子大学院生のスタッフ募集】のぞき見Science2025～はじめてラボ～]]></title>
@@ -257,6 +246,18 @@ BHEキャリア支援チームのファシリテーターからフィードバ�
 〇 日にち：令和６年6月18日（水）
 〇時間：10:00-12:00
 場所：筑波大学筑波キャンパス　…]]></description>
+        </item>
+        <item>
+            <title><![CDATA[サーバー更新作業に伴うキャリア支援チームHP及び就職情報提供システム停止のお知らせ]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=6340</link>
+            <guid isPermaLink="false">f7e5c4dc1ece4147cbde4ed3df16263e</guid>
+            <pubDate>Mon, 09 Jun 2025 03:00:00 GMT</pubDate>
+            <description><![CDATA[サーバー更新作業に伴い、下記の時間、キャリア支援チームホームページ等へ繋がりにくくなります。
+【作業日時】6/25（水）9：00　～　13：15（予定）
+
+なお、サーバー更新作業中は、「学内専用ページ」、「ガイダンス等及び模試試験登録・申請」、「進路進捗状況届」へのアクセスはできません。
+皆様にはご迷惑をおかけいたしますが、ご理解、ご協力の程よろしくお願いいたします。
+]]></description>
         </item>
     </channel>
 </rss>
