@@ -5,6 +5,27 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "4ee769c9692f72f85f020edd8c84f19e",
+            "content_html": "To All Students\n\nDue to the Undergraduate Entrance Examinations, such as the Transfer Examination\n(Gakugun Hennyugaku Shiken); the Entrance Examination by School Recommendation (Suisen Nyūshi); the Co…",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=6375",
+            "title": "【Announcement】AY 2025 Class Recess Due to the Undergraduate Entrance Examinations",
+            "date_modified": "2025-06-24T03:00:00.000Z"
+        },
+        {
+            "id": "6492a6d0dd5f841308b4f9ebc14b267b",
+            "content_html": "令和７年６月１８日（水）に開催いたしました標記研修会の見逃し配信を下記のとおり行います。\n当日参加できなかった方、もう一度ご覧になりたい方はぜひご利用ください。\n\nWe are pleased to announce that the above seminar with English version is now available for rerun.\nIf you were unable …",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=6374",
+            "title": "【見逃し配信】学生の皆さんが安心して化学実験を行うための研修会/On-demand viewing of the Seminar for students(Notice)",
+            "date_modified": "2025-06-24T03:00:00.000Z"
+        },
+        {
+            "id": "eedb8263bf4db85aeb245e55381b11fa",
+            "content_html": "全学学生\n\n学群編入学試験、推薦入試、大学入学共通テスト及び個別学力検査等の実施に伴い、添付ファイルのとおり、試験場設営期間及び試験実施日の全学の授業を臨時休業とし、実施施設、その周辺及び周辺区域への立ち入りを禁止します。試験日程の変更が生じた場合は、決定次第改めて通知します。",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=6373",
+            "title": "【お知らせ】学群入学試験等の実施に伴う令和7年度授業の臨時休業について",
+            "date_modified": "2025-06-24T03:00:00.000Z"
+        },
+        {
             "id": "fd39c98de8fb54c6423acfd48a0ae03b",
             "content_html": "夏季休業を前に海外渡航を考える学生の皆様へ\n\n本学では、海外に渡航する際の危機管理に関する心構えについて、「筑波大学生のための海外安全ハンドブック」、「筑波大学海外安全リーフレット」および危機管理セミナー等により周知しておりますが、夏季休業を目前に控え、今後益々海外への渡航者が増えることが見込まれることから、改めて学生の皆さんへ注意喚起いたします。\n夏季休業中、海外への渡航を予定している学生の皆さ…",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=6372",
@@ -122,27 +143,6 @@
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=6353",
             "title": "【周知】【文部科学省】令和7年度パテントコンテスト及びデザインコンテストの開催について",
             "date_modified": "2025-06-16T03:00:00.000Z"
-        },
-        {
-            "id": "ea073ffa877225c834ca8f917e91a233",
-            "content_html": "公益財団法人　佐藤陽国際奨学財団 （秋募集）\n※応募前に「応募フロー・注意事項」をよく確認してください。\n※A・Bで学内書類提出期限が異なるため注意すること\n\nWeb応募フォーム入力期限：\n（A）2025年8月20日（水）　（B）2025年8月20日（水）\n※Web応募フォームに入力する際、学生交流課で発行する「管理番号」が必要です。\n（isc-shien#@#un.tsukuba.ac.jp）（…",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=6352",
-            "title": "【奨学金/Scholarship】公益財団法人佐藤陽国際奨学財団 /Sato Yo International Scholarship Foundation",
-            "date_modified": "2025-06-16T03:00:00.000Z"
-        },
-        {
-            "id": "a554e953d277af09d8451c1d71502e10",
-            "content_html": "🎉 超・院生ひろば 開催のお知らせ\nJSTに採用された皆さんおめでとうございます🎉\n超異分野な大学院生団体、つくば院生ネットワーク代表の滝波です。3月に開催した交流イベント「院生ひろば」が好評だったため、パワーアップした「超・院生ひろば」を開催します！\n\n開催概要\n日時：6月18日（水）18:30〜\n場所：ARATA（オープン日に実施）\n対象：大学院生（学群生も大歓迎！）\n参加費：無料（軽食・…",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=6350",
-            "title": "🎉 超・院生ひろば 開催のお知らせ",
-            "date_modified": "2025-06-13T03:00:00.000Z"
-        },
-        {
-            "id": "26826cae1004361c14446fda20ad75fc",
-            "content_html": "学生相談室では、下記の要領で「第44回エンカウンター合宿」を開催します。緑豊かなログハウスで各種心理学的ワークやBBQを行い、自己理解や参加者同士の相互交流を深めます。コロナ禍で開催できなかった時期もありましたが、今年で44回目となる伝統あるイベントです。日々に変化がほしい人、他学類・他専攻の友達を作りたい人、自分についてちょっと考えてみたい人、ぜひご参加下さい。就活にも役立つかも。\n\n＜開催概要…",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=6348",
-            "title": "【再掲】【参加者募集】第44回エンカウンター合宿の開催について",
-            "date_modified": "2025-06-13T03:00:00.000Z"
         }
     ]
 }
