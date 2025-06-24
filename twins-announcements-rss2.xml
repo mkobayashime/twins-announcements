@@ -4,10 +4,20 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Tue, 24 Jun 2025 04:07:39 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 24 Jun 2025 06:01:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
+        <item>
+            <title><![CDATA[【周知】夏季休業中における海外渡航・滞在に関する注意喚起について]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=6372</link>
+            <guid isPermaLink="false">fd39c98de8fb54c6423acfd48a0ae03b</guid>
+            <pubDate>Tue, 24 Jun 2025 03:00:00 GMT</pubDate>
+            <description><![CDATA[夏季休業を前に海外渡航を考える学生の皆様へ
+
+本学では、海外に渡航する際の危機管理に関する心構えについて、「筑波大学生のための海外安全ハンドブック」、「筑波大学海外安全リーフレット」および危機管理セミナー等により周知しておりますが、夏季休業を目前に控え、今後益々海外への渡航者が増えることが見込まれることから、改めて学生の皆さんへ注意喚起いたします。
+夏季休業中、海外への渡航を予定している学生の皆さ…]]></description>
+        </item>
         <item>
             <title><![CDATA[第107回　人間系コロキアムのお知らせ]]></title>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=6371</link>
@@ -237,23 +247,6 @@ JSTに採用された皆さんおめでとうございます🎉
             <description><![CDATA[学生相談室では、下記の要領で「第44回エンカウンター合宿」を開催します。緑豊かなログハウスで各種心理学的ワークやBBQを行い、自己理解や参加者同士の相互交流を深めます。コロナ禍で開催できなかった時期もありましたが、今年で44回目となる伝統あるイベントです。日々に変化がほしい人、他学類・他専攻の友達を作りたい人、自分についてちょっと考えてみたい人、ぜひご参加下さい。就活にも役立つかも。
 
 ＜開催概要…]]></description>
-        </item>
-        <item>
-            <title><![CDATA[マレーシア実習・スロベニア実習履修説明会（7月15日開催）]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=6347</link>
-            <guid isPermaLink="false">e7765c9b83692fcbdf7b7783826febee</guid>
-            <pubDate>Thu, 12 Jun 2025 03:00:00 GMT</pubDate>
-            <description><![CDATA[下記の科目について、履修説明会を開催します。
-履修を希望している方は、必ずご参加ください。
-当日、プログラムの内容や渡航日程、奨学金、履修希望申請の方法について説明します。
-
-----------------------------------
-日時：2025年7月15日（火）11:30-12:10
-場所：2C407教室
-
-(1) マレーシア実習
-科目番号：AE14C23
-科目名・単位数：日本語教…]]></description>
         </item>
     </channel>
 </rss>
