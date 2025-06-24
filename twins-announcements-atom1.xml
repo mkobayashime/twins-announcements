@@ -2,14 +2,27 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/mkobayashime/twins-announcements</id>
     <title>在学生へのお知らせ | 筑波大学</title>
-    <updated>2025-06-24T02:32:48.336Z</updated>
+    <updated>2025-06-24T04:07:39.736Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://github.com/mkobayashime/twins-announcements"/>
     <subtitle>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</subtitle>
     <entry>
+        <title type="html"><![CDATA[第107回　人間系コロキアムのお知らせ]]></title>
+        <id>77e38b9f02428cef01ef2c1fe49b2c07</id>
+        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=6371"/>
+        <updated>2025-06-24T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[第107回　人間系コロキアムが下記の通り開催されますので、お知らせします。
+人間系のHPにも掲載しておりますので、ご覧下さい。
+https://www2.human.tsukuba.ac.jp/research/archives/50137
+　大学院・学類学生など、多くの方々のご参加をお待ちしております。
+
+日  時：  2025年7月9日（水）12:15~ 13:15  
+場  所： zoomで…]]></summary>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[【7/24開催】教育関係共同利用拠点令和7年度第1回FD/SD研修会 「マジョリティ特権を可視化する」の開催について]]></title>
         <id>6e4a2a197948cbbddc8425426a1230e4</id>
-        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=6369"/>
+        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=6370"/>
         <updated>2025-06-24T03:00:00.000Z</updated>
         <summary type="html"><![CDATA[この度は「差別の問題は，マジョリティ側の問題である」ということを前提に，いわゆるこれまでの社会の主流を形成しているマジョリティ側が，自身の特権への気づきを促すための研修会を開催します。特権は，たまたま自身が生まれた社会集団に属していることで，自動的に受けられる恩恵のこと（出口,2020）であるため，自身の特権には無自覚であることが多いものです。マジョリティ側が，無自覚な特権について自覚し，マジョリ…]]></summary>
     </entry>
@@ -239,16 +252,5 @@ JSTに採用された皆さんおめでとうございます🎉
 (1) マレーシア実習
 科目番号：AE14C23
 科目名・単位数：日本語教…]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【開催案内 6/26 】2025年度中性子実験技術基礎講習会（レベル１講習会）]]></title>
-        <id>39ba7a16ceb7edd215202c923b63639c</id>
-        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=6345"/>
-        <updated>2025-06-10T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[＊＊＊中性子産業利用推進協議会（略称：IUSNA）より、筑波大学の学生に向けたお知らせです＊＊＊
-
-中性子実験技術の初心者の方を対象に中性子実験技術の基礎的事項を紹介し、中性子実験施設（J-PARC MLF、 JRR-3等）での実験計画立案や課題申請に役立てていただくことを目的として、中性子実験技術基礎講習会（レベル１講習会）を開催します。
-
-学生の方は、参加費無料（学生証要提出）となっております…]]></summary>
     </entry>
 </feed>

@@ -5,9 +5,16 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "77e38b9f02428cef01ef2c1fe49b2c07",
+            "content_html": "第107回　人間系コロキアムが下記の通り開催されますので、お知らせします。\n人間系のHPにも掲載しておりますので、ご覧下さい。\nhttps://www2.human.tsukuba.ac.jp/research/archives/50137\n　大学院・学類学生など、多くの方々のご参加をお待ちしております。\n\n日  時：  2025年7月9日（水）12:15~ 13:15  \n場  所： zoomで…",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=6371",
+            "title": "第107回　人間系コロキアムのお知らせ",
+            "date_modified": "2025-06-24T03:00:00.000Z"
+        },
+        {
             "id": "6e4a2a197948cbbddc8425426a1230e4",
             "content_html": "この度は「差別の問題は，マジョリティ側の問題である」ということを前提に，いわゆるこれまでの社会の主流を形成しているマジョリティ側が，自身の特権への気づきを促すための研修会を開催します。特権は，たまたま自身が生まれた社会集団に属していることで，自動的に受けられる恩恵のこと（出口,2020）であるため，自身の特権には無自覚であることが多いものです。マジョリティ側が，無自覚な特権について自覚し，マジョリ…",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=6369",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=6370",
             "title": "【7/24開催】教育関係共同利用拠点令和7年度第1回FD/SD研修会 「マジョリティ特権を可視化する」の開催について",
             "date_modified": "2025-06-24T03:00:00.000Z"
         },
@@ -136,13 +143,6 @@
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=6347",
             "title": "マレーシア実習・スロベニア実習履修説明会（7月15日開催）",
             "date_modified": "2025-06-12T03:00:00.000Z"
-        },
-        {
-            "id": "39ba7a16ceb7edd215202c923b63639c",
-            "content_html": "＊＊＊中性子産業利用推進協議会（略称：IUSNA）より、筑波大学の学生に向けたお知らせです＊＊＊\n\n中性子実験技術の初心者の方を対象に中性子実験技術の基礎的事項を紹介し、中性子実験施設（J-PARC MLF、 JRR-3等）での実験計画立案や課題申請に役立てていただくことを目的として、中性子実験技術基礎講習会（レベル１講習会）を開催します。\n\n学生の方は、参加費無料（学生証要提出）となっております…",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=6345",
-            "title": "【開催案内 6/26 】2025年度中性子実験技術基礎講習会（レベル１講習会）",
-            "date_modified": "2025-06-10T03:00:00.000Z"
         }
     ]
 }
