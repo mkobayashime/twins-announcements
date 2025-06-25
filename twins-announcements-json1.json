@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "c445167f5eb5360d698c9453598c2a0e",
+            "content_html": "【開催案内】14th Borderless Onsite Meeting\n\n留学生が出身国を紹介するイベント“BOM”をランチタイムに開催しています。留学生によるプレゼンテーションや英語によるフリーチャットをお楽しみください。\n\n7月２回目の開催では、NipCAフェロー2024のアクラモワヴァ・ローラさんとラシドヴァ・ルフソラさんが母国ウズベキスタンの紹介をしてくれます。\n\nテーマは『石と模様のエ…",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=6378",
+            "title": "【開催案内】14th Borderless Onsite Meeting",
+            "date_modified": "2025-06-25T03:00:00.000Z"
+        },
+        {
             "id": "394c2ada4ef24d5a2cd1b69c4d2faa91",
             "content_html": "各位\n\n以下の通り研究会、ワークショップを行います。\nご興味のある方は、是非ご参加ください。\n詳細・ポスター参照\n\nワークショップ講師：村上 明（英国バーミンガム大学）\nテーマ：「第二言語研究のためのベイズ統計モデリング入門」\n日時：2025年8月26日（火）9:30～16:00\n形態：ハイブリッド型（対面発表＋Zoomを用いたオンライン発表。事後の録画提供はなし）\n対面会場：筑波大学 人文社会学…",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=6377",
@@ -136,13 +143,6 @@
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=6356",
             "title": "【募集】2024/7/1, 3, 4, 9「国際スポーツイベントマネジメント論」",
             "date_modified": "2025-06-17T03:00:00.000Z"
-        },
-        {
-            "id": "39c6f529d3d86d0f4cb59633cac6aa8a",
-            "content_html": "2年生以上の学群生の皆様\n\n本学に対し、大学基準協会より、大学生の学習成果と満足度に関する国際的調査に関するアンケートへの協力依頼がございました。\n\nご多用のところ誠に恐縮ですが、差支えのない範囲で本アンケートにご協力くださいますよう、よろしくお願いいたします。\n\nmanabaにコースを設定し、履修生として登録しておりますので、コースニュースより大学基準協会のアンケート回答ページへアクセスいただく…",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=6355",
-            "title": "2025年度大学生の学習成果と満足度に関する国際的調査について",
-            "date_modified": "2025-06-16T03:00:00.000Z"
         }
     ]
 }

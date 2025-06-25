@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/mkobayashime/twins-announcements</id>
     <title>在学生へのお知らせ | 筑波大学</title>
-    <updated>2025-06-25T01:29:21.458Z</updated>
+    <updated>2025-06-25T02:33:06.999Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://github.com/mkobayashime/twins-announcements"/>
     <subtitle>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</subtitle>
+    <entry>
+        <title type="html"><![CDATA[【開催案内】14th Borderless Onsite Meeting]]></title>
+        <id>c445167f5eb5360d698c9453598c2a0e</id>
+        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=6378"/>
+        <updated>2025-06-25T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[【開催案内】14th Borderless Onsite Meeting
+
+留学生が出身国を紹介するイベント“BOM”をランチタイムに開催しています。留学生によるプレゼンテーションや英語によるフリーチャットをお楽しみください。
+
+7月２回目の開催では、NipCAフェロー2024のアクラモワヴァ・ローラさんとラシドヴァ・ルフソラさんが母国ウズベキスタンの紹介をしてくれます。
+
+テーマは『石と模様のエ…]]></summary>
+    </entry>
     <entry>
         <title type="html"><![CDATA[第9回言語学習評価研究会]]></title>
         <id>394c2ada4ef24d5a2cd1b69c4d2faa91</id>
@@ -238,18 +251,5 @@ We would li…]]></summary>
         <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=6356"/>
         <updated>2025-06-17T03:00:00.000Z</updated>
         <summary type="html"><![CDATA[このコースは英語で行われます。Sport Event Management course will provide open-participation lectures in this year. Please make a contact if you want to join the class. Participants are required to introduce yourself…]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2025年度大学生の学習成果と満足度に関する国際的調査について]]></title>
-        <id>39c6f529d3d86d0f4cb59633cac6aa8a</id>
-        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=6355"/>
-        <updated>2025-06-16T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[2年生以上の学群生の皆様
-
-本学に対し、大学基準協会より、大学生の学習成果と満足度に関する国際的調査に関するアンケートへの協力依頼がございました。
-
-ご多用のところ誠に恐縮ですが、差支えのない範囲で本アンケートにご協力くださいますよう、よろしくお願いいたします。
-
-manabaにコースを設定し、履修生として登録しておりますので、コースニュースより大学基準協会のアンケート回答ページへアクセスいただく…]]></summary>
     </entry>
 </feed>
