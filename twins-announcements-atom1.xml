@@ -2,10 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/mkobayashime/twins-announcements</id>
     <title>在学生へのお知らせ | 筑波大学</title>
-    <updated>2025-06-25T02:33:06.999Z</updated>
+    <updated>2025-06-25T09:09:39.305Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://github.com/mkobayashime/twins-announcements"/>
     <subtitle>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</subtitle>
+    <entry>
+        <title type="html"><![CDATA[大学院入試に伴う3K棟の入構制限について]]></title>
+        <id>07be85b552a4af456ca40f88a6e6ab99</id>
+        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=6379"/>
+        <updated>2025-06-25T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[学生各位
+
+大学院入試に伴う3K棟の一部エリアへの立ち入り禁止のお知らせです。
+
+日時：【7月4日（金）終日】
+立入禁止エリア：【3K棟2～3階（研究科棟側※）】
+
+※研究科棟側について
+2階及び3階には「ここから先は研究科棟」である旨を記載した立て看板がありますので、
+それより先には立ち入らないようにしてください。
+具体的には2階の「3Kサテライト室」及び3階「3K303会議室」より北側です。
+…]]></summary>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【開催案内】14th Borderless Onsite Meeting]]></title>
         <id>c445167f5eb5360d698c9453598c2a0e</id>
@@ -244,12 +262,5 @@ We would li…]]></summary>
 
 日本語サポーターとして活動するには、下記の授業を履修し、研修を受講してください。
 ・科目番号：A…]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【募集】2024/7/1, 3, 4, 9「国際スポーツイベントマネジメント論」]]></title>
-        <id>4d0dbd3b8e2f48cf5b846ee6bd71ba06</id>
-        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=6356"/>
-        <updated>2025-06-17T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[このコースは英語で行われます。Sport Event Management course will provide open-participation lectures in this year. Please make a contact if you want to join the class. Participants are required to introduce yourself…]]></summary>
     </entry>
 </feed>
