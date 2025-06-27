@@ -4,10 +4,18 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Thu, 26 Jun 2025 21:07:21 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 27 Jun 2025 06:01:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
+        <item>
+            <title><![CDATA[地域のための日本語サポートセミナー]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=6381</link>
+            <guid isPermaLink="false">afa55d2a4776f445ebbd2e65150bd508</guid>
+            <pubDate>Fri, 27 Jun 2025 03:00:00 GMT</pubDate>
+            <description><![CDATA[(公財)茨城県国際交流協会では、日本人と外国人が相互に理解し、対等な関係をつくり、ともに参加する活力ある多文化共生の地域づくりを目指し、外国人住民のコミュニケーションを支援するための日本語サポーターの育成を図ります。
+詳細・申込はHPをご確認ください。]]></description>
+        </item>
         <item>
             <title><![CDATA[BHE主催　就活支援企画　7月 BHE 面接・GD練習会のご案内]]></title>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=6380</link>
@@ -255,18 +263,6 @@ We would li…]]></description>
 詳しくは、募集要項及びHPをご覧ください。
 皆様からのご応募お待ちしております。
 ---------------------------------------------------------------------------------…]]></description>
-        </item>
-        <item>
-            <title><![CDATA[【単位認定】日本語サポーター募集！（TWINS締切 6/30）]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=6357</link>
-            <guid isPermaLink="false">da0640c2f1a22d131c5b0f253fb21bf1</guid>
-            <pubDate>Tue, 17 Jun 2025 03:00:00 GMT</pubDate>
-            <description><![CDATA[茨城県の小中学校と連携して、外国にルーツのある子どもたちに日本語学習や教科学習をサポートする「日本語サポーター」を募集します。
-
-秋学期以降、授業の空き時間を利用して活動することができ、年間を通した活動で3単位が認定されます。学類や専門は問いません。自分の得意分野を活かして一緒に活動してみませんか。
-
-日本語サポーターとして活動するには、下記の授業を履修し、研修を受講してください。
-・科目番号：A…]]></description>
         </item>
     </channel>
 </rss>
