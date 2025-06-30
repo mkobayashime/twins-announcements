@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "8c05e970a84aa9642eb4f5bff7df324b",
+            "content_html": "論文や研究データのオープンアクセス（OA）化に関するセミナーを開催します。論文を書く皆さんに役立つ情報です。\n\n2024年、統合イノベーション戦略推進会議により「学術論文等の即時オープンアクセスの実現に向けた基本方針」が策定され、2025年度新規公募分より、主要な競争的資金による学術論文とその根拠データの即時オープンアクセス化が義務化されました。\nこのセミナーでは、基本方針の説明に加え、論文や研究…",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=6385",
+            "title": "全学FD「オープンアクセス推進セミナー」を開催します(7/15)",
+            "date_modified": "2025-06-30T03:00:00.000Z"
+        },
+        {
             "id": "534cabb86c539d895c6a4efc36780062",
             "content_html": "OICではこの夏、浮体式風車の浮体部分設計に関するコンペティションを開催します。\n詳細・ご応募は掲載しておりますURLよりお申込みください。\n\n--------------------------------------------------------------------------------------------------------------------------------…",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=6383",
@@ -136,13 +143,6 @@
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=6363",
             "title": "✈️まもなく締切✈️学群生対象‗AIMSプログラム2026春学期渡航分",
             "date_modified": "2025-06-19T03:00:00.000Z"
-        },
-        {
-            "id": "cc64c6e263b9044570bc51bafee1bcf4",
-            "content_html": "インクルーシブなスマートソサエティー（ISS）が実現した未来を舞台にしたマンガストーリーコンペティションを行います！\n\nマンガ、シナリオが書けなくても、あらすじだけでOKです。\nもちろんマンガ作品、シナリオのご応募も大歓迎です。\n\n最優秀作品の作者は、2025年10月2日開催の筑波会議ISSセッションに登壇者として招待いたします！\n\n詳細はこちらからご確認ください。\nhttps://inclusi…",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=6362",
-            "title": "🌟 ISSマンガストーリーコンペティション🌟作品募集のお知らせ",
-            "date_modified": "2025-06-17T03:00:00.000Z"
         }
     ]
 }

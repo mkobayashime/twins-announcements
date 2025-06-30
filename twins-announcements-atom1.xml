@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/mkobayashime/twins-announcements</id>
     <title>在学生へのお知らせ | 筑波大学</title>
-    <updated>2025-06-30T03:28:12.481Z</updated>
+    <updated>2025-06-30T08:01:45.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://github.com/mkobayashime/twins-announcements"/>
     <subtitle>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</subtitle>
+    <entry>
+        <title type="html"><![CDATA[全学FD「オープンアクセス推進セミナー」を開催します(7/15)]]></title>
+        <id>8c05e970a84aa9642eb4f5bff7df324b</id>
+        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=6385"/>
+        <updated>2025-06-30T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[論文や研究データのオープンアクセス（OA）化に関するセミナーを開催します。論文を書く皆さんに役立つ情報です。
+
+2024年、統合イノベーション戦略推進会議により「学術論文等の即時オープンアクセスの実現に向けた基本方針」が策定され、2025年度新規公募分より、主要な競争的資金による学術論文とその根拠データの即時オープンアクセス化が義務化されました。
+このセミナーでは、基本方針の説明に加え、論文や研究…]]></summary>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【7/15締切】洋上風車の浮体設計コンテスト開催（日本財団OIC主催）]]></title>
         <id>534cabb86c539d895c6a4efc36780062</id>
@@ -237,20 +247,5 @@ https://syushoku.sec.tsukuba.ac.jp/pls/p…]]></summary>
 
 下記リンク先プログラムサイトの募集要項等を熟読し理解した上で、指定締切日時までに必要書類を提出してください。ご応募お待ちしています！
 また、留学先についての相談も随時受け付けていま…]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[🌟 ISSマンガストーリーコンペティション🌟作品募集のお知らせ]]></title>
-        <id>cc64c6e263b9044570bc51bafee1bcf4</id>
-        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=6362"/>
-        <updated>2025-06-17T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[インクルーシブなスマートソサエティー（ISS）が実現した未来を舞台にしたマンガストーリーコンペティションを行います！
-
-マンガ、シナリオが書けなくても、あらすじだけでOKです。
-もちろんマンガ作品、シナリオのご応募も大歓迎です。
-
-最優秀作品の作者は、2025年10月2日開催の筑波会議ISSセッションに登壇者として招待いたします！
-
-詳細はこちらからご確認ください。
-https://inclusi…]]></summary>
     </entry>
 </feed>

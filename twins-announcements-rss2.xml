@@ -4,10 +4,20 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Mon, 30 Jun 2025 03:28:12 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 30 Jun 2025 08:01:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
+        <item>
+            <title><![CDATA[全学FD「オープンアクセス推進セミナー」を開催します(7/15)]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=6385</link>
+            <guid isPermaLink="false">8c05e970a84aa9642eb4f5bff7df324b</guid>
+            <pubDate>Mon, 30 Jun 2025 03:00:00 GMT</pubDate>
+            <description><![CDATA[論文や研究データのオープンアクセス（OA）化に関するセミナーを開催します。論文を書く皆さんに役立つ情報です。
+
+2024年、統合イノベーション戦略推進会議により「学術論文等の即時オープンアクセスの実現に向けた基本方針」が策定され、2025年度新規公募分より、主要な競争的資金による学術論文とその根拠データの即時オープンアクセス化が義務化されました。
+このセミナーでは、基本方針の説明に加え、論文や研究…]]></description>
+        </item>
         <item>
             <title><![CDATA[【7/15締切】洋上風車の浮体設計コンテスト開催（日本財団OIC主催）]]></title>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=6383</link>
@@ -239,21 +249,6 @@ https://syushoku.sec.tsukuba.ac.jp/pls/p…]]></description>
 
 下記リンク先プログラムサイトの募集要項等を熟読し理解した上で、指定締切日時までに必要書類を提出してください。ご応募お待ちしています！
 また、留学先についての相談も随時受け付けていま…]]></description>
-        </item>
-        <item>
-            <title><![CDATA[🌟 ISSマンガストーリーコンペティション🌟作品募集のお知らせ]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=6362</link>
-            <guid isPermaLink="false">cc64c6e263b9044570bc51bafee1bcf4</guid>
-            <pubDate>Tue, 17 Jun 2025 03:00:00 GMT</pubDate>
-            <description><![CDATA[インクルーシブなスマートソサエティー（ISS）が実現した未来を舞台にしたマンガストーリーコンペティションを行います！
-
-マンガ、シナリオが書けなくても、あらすじだけでOKです。
-もちろんマンガ作品、シナリオのご応募も大歓迎です。
-
-最優秀作品の作者は、2025年10月2日開催の筑波会議ISSセッションに登壇者として招待いたします！
-
-詳細はこちらからご確認ください。
-https://inclusi…]]></description>
         </item>
     </channel>
 </rss>
