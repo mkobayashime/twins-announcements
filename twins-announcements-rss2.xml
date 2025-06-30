@@ -4,10 +4,20 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Mon, 30 Jun 2025 01:29:37 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 30 Jun 2025 03:28:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
+        <item>
+            <title><![CDATA[【7/15締切】洋上風車の浮体設計コンテスト開催（日本財団OIC主催）]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=6383</link>
+            <guid isPermaLink="false">534cabb86c539d895c6a4efc36780062</guid>
+            <pubDate>Mon, 30 Jun 2025 03:00:00 GMT</pubDate>
+            <description><![CDATA[OICではこの夏、浮体式風車の浮体部分設計に関するコンペティションを開催します。
+詳細・ご応募は掲載しておりますURLよりお申込みください。
+
+--------------------------------------------------------------------------------------------------------------------------------…]]></description>
+        </item>
         <item>
             <title><![CDATA[再掲【単位認定】日本語サポーター募集！（TWINS締切 本日 6/30）]]></title>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=6382</link>
@@ -244,25 +254,6 @@ https://syushoku.sec.tsukuba.ac.jp/pls/p…]]></description>
 
 詳細はこちらからご確認ください。
 https://inclusi…]]></description>
-        </item>
-        <item>
-            <title><![CDATA[【周知】バス停留所の名称変更について / Notice regarding bus stop name changes]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=6361</link>
-            <guid isPermaLink="false">dd7a0238ae1cea57afc3772e6cc1899e</guid>
-            <pubDate>Tue, 17 Jun 2025 03:00:00 GMT</pubDate>
-            <description><![CDATA[下記のとおり学内に設置されている路線バスの停留所名称が変更となりますのでお知らせします。
-
-1.変更内容
-　
-　旧名称：筑波大学病院入口　→　新名称：筑波大学病院東
-
-2.変更日
-
-　令和7年８月8日（金）～
-
----------------------------------------------------------------------------------
-
-We would li…]]></description>
         </item>
     </channel>
 </rss>
