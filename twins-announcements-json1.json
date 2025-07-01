@@ -5,6 +5,20 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "bed3648f5a128671fa6cad0a39329087",
+            "content_html": "Student Support Center will launch RECYCLING PROJECT to collect “still usable items” from July to August, coinciding with the change of semester. These items will be redistributed for free to students…",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=6387",
+            "title": "【Secondhand item collection】【 July 22– August 28】2025 Fall RECYCLING PROJECT!",
+            "date_modified": "2025-07-01T03:00:00.000Z"
+        },
+        {
+            "id": "77d2c856568b69abe5be3d6d157eb8c0",
+            "content_html": "スチューデントサポートセンターでは、 RECYCLING PROJECTとして、学期が切り替わる7月から8月に、「まだ使用できる不用品」を回収し、新学期に新入生をはじめとした学生へ、無料譲渡するプロジェクトを実施します。捨てるにはもったいないけど、もう使わないものを、学生間でリユースしましょう！\nプロジェクト参加者は筑波大学の在籍者（学生、研究員、教職員）に限ります。\n\nリユース品の回収\n\n期間：…",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=6386",
+            "title": "【不用品回収】【7月22日～8月28日】2025 秋 RECYCLING PROJECT",
+            "date_modified": "2025-07-01T03:00:00.000Z"
+        },
+        {
             "id": "8c05e970a84aa9642eb4f5bff7df324b",
             "content_html": "論文や研究データのオープンアクセス（OA）化に関するセミナーを開催します。論文を書く皆さんに役立つ情報です。\n\n2024年、統合イノベーション戦略推進会議により「学術論文等の即時オープンアクセスの実現に向けた基本方針」が策定され、2025年度新規公募分より、主要な競争的資金による学術論文とその根拠データの即時オープンアクセス化が義務化されました。\nこのセミナーでは、基本方針の説明に加え、論文や研究…",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=6385",
@@ -129,20 +143,6 @@
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=6366",
             "title": "【周知】ローマ・サピエンツァ大学東洋学科准教授マルコ・デル・ベーネ氏によるオンライン講演会「徳川斉昭公時代のエミリア・ロマーニャ州」について",
             "date_modified": "2025-06-20T03:00:00.000Z"
-        },
-        {
-            "id": "b8bb5671d10851e3cfcc0e8ebc9c6ab6",
-            "content_html": "◆25年度教員採用試験受験対策◆\n\n受験生同士、BHEスタッフからのフィードバックあります。\n面接が苦手な方、一緒に練習しましょう。\n\n日にち：令和7年7月2日（水）\n時　間：10：00-12：00\n\n場　所：筑波大学筑波キャンパス　人間系学系棟A　114\n申込み：BHE HP「ガイダンス等及び模擬試験　登録・申請」\nhttps://syushoku.sec.tsukuba.ac.jp/pls/p…",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=6364",
-            "title": "教員採用試験受験者対象 面接練習会",
-            "date_modified": "2025-06-19T03:00:00.000Z"
-        },
-        {
-            "id": "603d517f9daed5bbea9f8de0a4aa5cae",
-            "content_html": "東南アジア（マレーシア/タイ/インドネシアなど）との交換留学プログラム・AIMS（エイムス）は2026年春学期渡航分（2026年1～3月頃に渡航）を募集しています。\n\n🪄応募締切：2025年７月1日（火）17：00\n\n下記リンク先プログラムサイトの募集要項等を熟読し理解した上で、指定締切日時までに必要書類を提出してください。ご応募お待ちしています！\nまた、留学先についての相談も随時受け付けていま…",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=6363",
-            "title": "✈️まもなく締切✈️学群生対象‗AIMSプログラム2026春学期渡航分",
-            "date_modified": "2025-06-19T03:00:00.000Z"
         }
     ]
 }
