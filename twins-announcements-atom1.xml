@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/mkobayashime/twins-announcements</id>
     <title>在学生へのお知らせ | 筑波大学</title>
-    <updated>2025-07-01T02:41:14.060Z</updated>
+    <updated>2025-07-01T04:14:00.860Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://github.com/mkobayashime/twins-announcements"/>
     <subtitle>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</subtitle>
+    <entry>
+        <title type="html"><![CDATA[【附属図書館】7/21(月・祝)の開館時間について / (Library) Opening hours on Monday, July 21th (national holiday)]]></title>
+        <id>f27d4738bd06d77ee9cef17d09647412</id>
+        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=6388"/>
+        <updated>2025-07-01T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[7月21日(月・祝)は、祝日の開館時間です。
+中央・医学図書館は9時開館、体芸・図情図書館は10時開館、大塚図書館は休館です。
+筑波キャンパスは授業日ですが、お間違えのないようお願いいたします。
+
+Although it will be a class day, but we will be open during the holiday hours on Monday, July 21th (n…]]></summary>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【Secondhand item collection】【 July 22– August 28】2025 Fall RECYCLING PROJECT!]]></title>
         <id>bed3648f5a128671fa6cad0a39329087</id>
@@ -228,14 +239,5 @@ https://www2.human.tsukuba.ac.jp/research/archives/50137
 こども家庭庁においては、児童虐待問題に対する社会的関心を喚起するため、児童虐待防止法が施行された11月に「オレンジリボン・児童虐待防止推進キャンペーン」により、集中的な広報啓発活動を実施することとしており、その取組の一つとして、標語の募集を行うこととしています。
 
 詳細は、添付ファイルをご確認くだ…]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【周知】ローマ・サピエンツァ大学東洋学科准教授マルコ・デル・ベーネ氏によるオンライン講演会「徳川斉昭公時代のエミリア・ロマーニャ州」について]]></title>
-        <id>5e33ce9b504b66fc8a0309f018b036dd</id>
-        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=6366"/>
-        <updated>2025-06-20T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[茨城県より、標記の件について、周知依頼がありましたのでお知らせいたします。
-
-茨城県とイタリア＝エミリア・ロマーニャ州は、1985年に茨城県で開催された国際科学技術博覧会（つくば万博）を契機に、1986年に友好提携を締結しました。つくば万博から40 年の時を経て、現在開催されている大阪・関西万博の機会を捉え、茨城県では、内閣官房が推進する「万博国際交流プログラム」に参画し、イタリア＝エミリア・　ロ…]]></summary>
     </entry>
 </feed>
