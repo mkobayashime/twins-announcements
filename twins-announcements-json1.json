@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "6ca11a0a45a3dad44782cf6f560ac319",
+            "content_html": "国立大学協会から内閣府を通じて、「地方創生☆政策アイデアコンテスト2025」について、周知依頼がありましたので、お知らせします。\n\n本コンテストは、地域経済の構造データを見える化した「地域経済分析システム（RESAS：リーサス）」やデータにより地域課題を捉え、目標達成を後押しするプラットフォームである「地方創生データ分析評価プラットフォーム（RAIDA：レイダ）」などを活用し、データ分析を踏まえた…",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=6397",
+            "title": "【周知】（内閣府）地方創生☆政策アイデアコンテスト2025について",
+            "date_modified": "2025-07-03T03:00:00.000Z"
+        },
+        {
             "id": "4e1407802beccf11edc8e50d5951e7b1",
             "content_html": "本学の同窓会である茗溪会にて、OBOGキャリア相談会を開催します\n現在就活中の方、将来就職先に関心がある方、是非ご参加ください。\n\n【今月の登壇者】特集テーマ 「コンサル・マーケティング」\nhttps://www.meikei.or.jp/event/6906.html\n\n【登壇者No1】\n理工学群　応用理工学類 2012年卒\n東京大学大学院工学研究科物理工学専攻　　2015年修了　\nIT・EC業…",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=6396",
@@ -135,13 +142,6 @@
             "content_html": "To All Students\n\nDue to the Undergraduate Entrance Examinations, such as the Transfer Examination\n(Gakugun Hennyugaku Shiken); the Entrance Examination by School Recommendation (Suisen Nyūshi); the Co…",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=6375",
             "title": "【Announcement】AY 2025 Class Recess Due to the Undergraduate Entrance Examinations",
-            "date_modified": "2025-06-24T03:00:00.000Z"
-        },
-        {
-            "id": "6492a6d0dd5f841308b4f9ebc14b267b",
-            "content_html": "令和７年６月１８日（水）に開催いたしました標記研修会の見逃し配信を下記のとおり行います。\n当日参加できなかった方、もう一度ご覧になりたい方はぜひご利用ください。\n\nWe are pleased to announce that the above seminar with English version is now available for rerun.\nIf you were unable …",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=6374",
-            "title": "【見逃し配信】学生の皆さんが安心して化学実験を行うための研修会/On-demand viewing of the Seminar for students(Notice)",
             "date_modified": "2025-06-24T03:00:00.000Z"
         }
     ]

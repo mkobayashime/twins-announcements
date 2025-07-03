@@ -4,10 +4,19 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Thu, 03 Jul 2025 01:29:26 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 03 Jul 2025 05:04:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
+        <item>
+            <title><![CDATA[【周知】（内閣府）地方創生☆政策アイデアコンテスト2025について]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=6397</link>
+            <guid isPermaLink="false">6ca11a0a45a3dad44782cf6f560ac319</guid>
+            <pubDate>Thu, 03 Jul 2025 03:00:00 GMT</pubDate>
+            <description><![CDATA[国立大学協会から内閣府を通じて、「地方創生☆政策アイデアコンテスト2025」について、周知依頼がありましたので、お知らせします。
+
+本コンテストは、地域経済の構造データを見える化した「地域経済分析システム（RESAS：リーサス）」やデータにより地域課題を捉え、目標達成を後押しするプラットフォームである「地方創生データ分析評価プラットフォーム（RAIDA：レイダ）」などを活用し、データ分析を踏まえた…]]></description>
+        </item>
         <item>
             <title><![CDATA[就活/キャリアについてのぶっちゃけ質問会,相談会(7月)]]></title>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=6396</link>
@@ -246,17 +255,6 @@ BHEキャリア支援チームのファシリテーターからフィードバ�
 
 Due to the Undergraduate Entrance Examinations, such as the Transfer Examination
 (Gakugun Hennyugaku Shiken); the Entrance Examination by School Recommendation (Suisen Nyūshi); the Co…]]></description>
-        </item>
-        <item>
-            <title><![CDATA[【見逃し配信】学生の皆さんが安心して化学実験を行うための研修会/On-demand viewing of the Seminar for students(Notice)]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=6374</link>
-            <guid isPermaLink="false">6492a6d0dd5f841308b4f9ebc14b267b</guid>
-            <pubDate>Tue, 24 Jun 2025 03:00:00 GMT</pubDate>
-            <description><![CDATA[令和７年６月１８日（水）に開催いたしました標記研修会の見逃し配信を下記のとおり行います。
-当日参加できなかった方、もう一度ご覧になりたい方はぜひご利用ください。
-
-We are pleased to announce that the above seminar with English version is now available for rerun.
-If you were unable …]]></description>
         </item>
     </channel>
 </rss>
