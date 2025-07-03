@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "ee0ed5626e380d35641ee3527777d4cb",
+            "content_html": "６月２４日に掲載された、\n『【お知らせ】学群入学試験等の実施に伴う令和７年度授業等の臨時休業について』\nの添付ファイルにある、編入学試験の※について、\n第二試験場の入場（入構）制限の開始時刻は、２B・２C・２D棟全て、\n\n７月１１日（金）１８時３０分\n\nとなりますので周知します。\n上記時刻から立入禁止となりますので、各棟の利用者は、１８時３０分までに速やかに\n退場してください。\n",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=6398",
+            "title": "【重要】編入学試験実施に伴う入場（入構）制限開始時刻",
+            "date_modified": "2025-07-03T03:00:00.000Z"
+        },
+        {
             "id": "6ca11a0a45a3dad44782cf6f560ac319",
             "content_html": "国立大学協会から内閣府を通じて、「地方創生☆政策アイデアコンテスト2025」について、周知依頼がありましたので、お知らせします。\n\n本コンテストは、地域経済の構造データを見える化した「地域経済分析システム（RESAS：リーサス）」やデータにより地域課題を捉え、目標達成を後押しするプラットフォームである「地方創生データ分析評価プラットフォーム（RAIDA：レイダ）」などを活用し、データ分析を踏まえた…",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=6397",
@@ -136,13 +143,6 @@
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=6376",
             "title": "小泉利恵・阿部真理子科研 2025年度 夏の研究報告会・意見交換会（公開）",
             "date_modified": "2025-06-25T03:00:00.000Z"
-        },
-        {
-            "id": "4ee769c9692f72f85f020edd8c84f19e",
-            "content_html": "To All Students\n\nDue to the Undergraduate Entrance Examinations, such as the Transfer Examination\n(Gakugun Hennyugaku Shiken); the Entrance Examination by School Recommendation (Suisen Nyūshi); the Co…",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=6375",
-            "title": "【Announcement】AY 2025 Class Recess Due to the Undergraduate Entrance Examinations",
-            "date_modified": "2025-06-24T03:00:00.000Z"
         }
     ]
 }

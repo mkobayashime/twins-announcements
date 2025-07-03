@@ -4,10 +4,27 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Thu, 03 Jul 2025 05:04:15 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 03 Jul 2025 08:01:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
+        <item>
+            <title><![CDATA[【重要】編入学試験実施に伴う入場（入構）制限開始時刻]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=6398</link>
+            <guid isPermaLink="false">ee0ed5626e380d35641ee3527777d4cb</guid>
+            <pubDate>Thu, 03 Jul 2025 03:00:00 GMT</pubDate>
+            <description><![CDATA[６月２４日に掲載された、
+『【お知らせ】学群入学試験等の実施に伴う令和７年度授業等の臨時休業について』
+の添付ファイルにある、編入学試験の※について、
+第二試験場の入場（入構）制限の開始時刻は、２B・２C・２D棟全て、
+
+７月１１日（金）１８時３０分
+
+となりますので周知します。
+上記時刻から立入禁止となりますので、各棟の利用者は、１８時３０分までに速やかに
+退場してください。
+]]></description>
+        </item>
         <item>
             <title><![CDATA[【周知】（内閣府）地方創生☆政策アイデアコンテスト2025について]]></title>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=6397</link>
@@ -245,16 +262,6 @@ BHEキャリア支援チームのファシリテーターからフィードバ�
 形態：ハイブリッド型（対面発表＋Zoomを用いたオンライン発表。事後の録画提供はなし）
 対面会場：筑波大学 人文社会学系棟 5階 A520
 （https://www.hass.tsukuba.ac.jp/access…]]></description>
-        </item>
-        <item>
-            <title><![CDATA[【Announcement】AY 2025 Class Recess Due to the Undergraduate Entrance Examinations]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=6375</link>
-            <guid isPermaLink="false">4ee769c9692f72f85f020edd8c84f19e</guid>
-            <pubDate>Tue, 24 Jun 2025 03:00:00 GMT</pubDate>
-            <description><![CDATA[To All Students
-
-Due to the Undergraduate Entrance Examinations, such as the Transfer Examination
-(Gakugun Hennyugaku Shiken); the Entrance Examination by School Recommendation (Suisen Nyūshi); the Co…]]></description>
         </item>
     </channel>
 </rss>
