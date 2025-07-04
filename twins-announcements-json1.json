@@ -5,6 +5,20 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "49a6e1b66fb24aa9a7614d0553cb0259",
+            "content_html": "土木研究所から仕事体験案内がありました。\n3日間で盛りだくさんの仕事体験で，構内施設や専門家解説付きで土木施設見学，研究部の業務体験ができます。\n\n＜土木研究所　夏の仕事体験＞\n応募締切(Deadline for application)：2025年7月21日（月）\n日時(Dates)：8月27日（水）、28日（木）、29日（金）\n対象：学類生，大学院生（学年は問いません）",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=6401",
+            "title": "【周知】土木研究所　夏の仕事体験",
+            "date_modified": "2025-07-04T03:00:00.000Z"
+        },
+        {
+            "id": "3f0707a6381adf20c695491e6e2d66a2",
+            "content_html": "留学生と交流したい、または留学生をサポートしたいと思っている正規課程の在学生の皆さん、ぜひチューターになってみませんか？\n\n2025年9月・10月に多くの留学生が入学する予定です。\nこれに伴い、チューター支援（主に生活の立ち上げ支援（原則対面））を\n行ってくださるチューターを大募集しています！\n\nチューター希望の学生は、下記URL上の「チューターバンク」に記載の登録方法に従い、チューターバンクに登…",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=6400",
+            "title": "留学生のチューター募集について（2025年度秋学期）",
+            "date_modified": "2025-07-04T03:00:00.000Z"
+        },
+        {
             "id": "a036265fe0afaf768abdcbf9d4b1663e",
             "content_html": "（日）\n公益財団法人　渥美国際交流財団（2026年度）\n応募期間：2025年9月1日(月)～20(土)\n提出先：財団へ直接応募\n募集要項：（PDF(資料1)）\n財団HP：http://www.aisf.or.jp/jp/\n※この奨学金を受給する者は、2026年度の大学推薦奨学金の申請資格がありません。\n※高い日本語能力が必要です。\n\n(英)\nAtsumi International Foundat…",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=6399",
@@ -128,20 +142,6 @@
             "content_html": "学生各位\n\n大学院入試に伴う3K棟の一部エリアへの立ち入り禁止のお知らせです。\n\n日時：【7月4日（金）終日】\n立入禁止エリア：【3K棟2～3階（研究科棟側※）】\n\n※研究科棟側について\n2階及び3階には「ここから先は研究科棟」である旨を記載した立て看板がありますので、\nそれより先には立ち入らないようにしてください。\n具体的には2階の「3Kサテライト室」及び3階「3K303会議室」より北側です。\n…",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=6379",
             "title": "大学院入試に伴う3K棟の入構制限について",
-            "date_modified": "2025-06-25T03:00:00.000Z"
-        },
-        {
-            "id": "c445167f5eb5360d698c9453598c2a0e",
-            "content_html": "【開催案内】14th Borderless Onsite Meeting\n\n留学生が出身国を紹介するイベント“BOM”をランチタイムに開催しています。留学生によるプレゼンテーションや英語によるフリーチャットをお楽しみください。\n\n7月２回目の開催では、NipCAフェロー2024のアクラモワヴァ・ローラさんとラシドヴァ・ルフソラさんが母国ウズベキスタンの紹介をしてくれます。\n\nテーマは『石と模様のエ…",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=6378",
-            "title": "【開催案内】14th Borderless Onsite Meeting",
-            "date_modified": "2025-06-25T03:00:00.000Z"
-        },
-        {
-            "id": "394c2ada4ef24d5a2cd1b69c4d2faa91",
-            "content_html": "各位\n\n以下の通り研究会、ワークショップを行います。\nご興味のある方は、是非ご参加ください。\n詳細・ポスター参照\n\nワークショップ講師：村上 明（英国バーミンガム大学）\nテーマ：「第二言語研究のためのベイズ統計モデリング入門」\n日時：2025年8月26日（火）9:30～16:00\n形態：ハイブリッド型（対面発表＋Zoomを用いたオンライン発表。事後の録画提供はなし）\n対面会場：筑波大学 人文社会学…",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=6377",
-            "title": "第9回言語学習評価研究会",
             "date_modified": "2025-06-25T03:00:00.000Z"
         }
     ]
