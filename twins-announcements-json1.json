@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "a036265fe0afaf768abdcbf9d4b1663e",
+            "content_html": "（日）\n公益財団法人　渥美国際交流財団（2026年度）\n応募期間：2025年9月1日(月)～20(土)\n提出先：財団へ直接応募\n募集要項：（PDF(資料1)）\n財団HP：http://www.aisf.or.jp/jp/\n※この奨学金を受給する者は、2026年度の大学推薦奨学金の申請資格がありません。\n※高い日本語能力が必要です。\n\n(英)\nAtsumi International Foundat…",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=6399",
+            "title": "【奨学金/Scholarship】公益財団法人　渥美国際交流財団 /Atsumi International Foundation",
+            "date_modified": "2025-07-04T03:00:00.000Z"
+        },
+        {
             "id": "ee0ed5626e380d35641ee3527777d4cb",
             "content_html": "６月２４日に掲載された、\n『【お知らせ】学群入学試験等の実施に伴う令和７年度授業等の臨時休業について』\nの添付ファイルにある、編入学試験の※について、\n第二試験場の入場（入構）制限の開始時刻は、２B・２C・２D棟全て、\n\n７月１１日（金）１８時３０分\n\nとなりますので周知します。\n上記時刻から立入禁止となりますので、各棟の利用者は、１８時３０分までに速やかに\n退場してください。\n",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=6398",
@@ -135,13 +142,6 @@
             "content_html": "各位\n\n以下の通り研究会、ワークショップを行います。\nご興味のある方は、是非ご参加ください。\n詳細・ポスター参照\n\nワークショップ講師：村上 明（英国バーミンガム大学）\nテーマ：「第二言語研究のためのベイズ統計モデリング入門」\n日時：2025年8月26日（火）9:30～16:00\n形態：ハイブリッド型（対面発表＋Zoomを用いたオンライン発表。事後の録画提供はなし）\n対面会場：筑波大学 人文社会学…",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=6377",
             "title": "第9回言語学習評価研究会",
-            "date_modified": "2025-06-25T03:00:00.000Z"
-        },
-        {
-            "id": "8fb4734517838ec8e120834483bc904f",
-            "content_html": "各位\n\n以下の通り研究報告会が行われます。\nご興味のあります方は、是非ご参加ください。\n\nテーマ：英語スピーキングの発達と評価\n日時：2025年8月25日（月）10:30～17:00\n形態：ハイブリッド型（対面発表＋Zoomを用いたオンライン発表。事後の録画提供はなし）\n対面会場：筑波大学 人文社会学系棟 5階 A520\n（https://www.hass.tsukuba.ac.jp/access…",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=6376",
-            "title": "小泉利恵・阿部真理子科研 2025年度 夏の研究報告会・意見交換会（公開）",
             "date_modified": "2025-06-25T03:00:00.000Z"
         }
     ]

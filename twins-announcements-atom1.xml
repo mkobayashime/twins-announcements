@@ -2,10 +2,27 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/mkobayashime/twins-announcements</id>
     <title>在学生へのお知らせ | 筑波大学</title>
-    <updated>2025-07-03T21:07:29.225Z</updated>
+    <updated>2025-07-04T00:03:18.688Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://github.com/mkobayashime/twins-announcements"/>
     <subtitle>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</subtitle>
+    <entry>
+        <title type="html"><![CDATA[【奨学金/Scholarship】公益財団法人　渥美国際交流財団 /Atsumi International Foundation]]></title>
+        <id>a036265fe0afaf768abdcbf9d4b1663e</id>
+        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=6399"/>
+        <updated>2025-07-04T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[（日）
+公益財団法人　渥美国際交流財団（2026年度）
+応募期間：2025年9月1日(月)～20(土)
+提出先：財団へ直接応募
+募集要項：（PDF(資料1)）
+財団HP：http://www.aisf.or.jp/jp/
+※この奨学金を受給する者は、2026年度の大学推薦奨学金の申請資格がありません。
+※高い日本語能力が必要です。
+
+(英)
+Atsumi International Foundat…]]></summary>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【重要】編入学試験実施に伴う入場（入構）制限開始時刻]]></title>
         <id>ee0ed5626e380d35641ee3527777d4cb</id>
@@ -244,21 +261,5 @@ BHEキャリア支援チームのファシリテーターからフィードバ�
 日時：2025年8月26日（火）9:30～16:00
 形態：ハイブリッド型（対面発表＋Zoomを用いたオンライン発表。事後の録画提供はなし）
 対面会場：筑波大学 人文社会学…]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[小泉利恵・阿部真理子科研 2025年度 夏の研究報告会・意見交換会（公開）]]></title>
-        <id>8fb4734517838ec8e120834483bc904f</id>
-        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=6376"/>
-        <updated>2025-06-25T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[各位
-
-以下の通り研究報告会が行われます。
-ご興味のあります方は、是非ご参加ください。
-
-テーマ：英語スピーキングの発達と評価
-日時：2025年8月25日（月）10:30～17:00
-形態：ハイブリッド型（対面発表＋Zoomを用いたオンライン発表。事後の録画提供はなし）
-対面会場：筑波大学 人文社会学系棟 5階 A520
-（https://www.hass.tsukuba.ac.jp/access…]]></summary>
     </entry>
 </feed>
