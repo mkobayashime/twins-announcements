@@ -4,10 +4,19 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Fri, 04 Jul 2025 01:29:32 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 04 Jul 2025 08:01:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
+        <item>
+            <title><![CDATA[【セミナー開催】国境なきキャリア～世界に飛び出す勇気を持とう！～　]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=6402</link>
+            <guid isPermaLink="false">19f35e37eaac1e10c713dbffea0033a6</guid>
+            <pubDate>Fri, 04 Jul 2025 03:00:00 GMT</pubDate>
+            <description><![CDATA[ソーシャルインパクト推進室では、国際的な視野を広げるためのRUN-UP活動を学内で随時企画しています。今回は、本学人間学群卒業生で現在フランス、パリのユネスコで活躍中の水野谷優先生をお招きして、第３回グローバルスタートアッパーセミナーを実施します。全学群生、大学院生、教職員対象で、どなたでも自由にご参加いただけます。海外でのキャリアに興味のある方、この貴重な機会をお見逃しなく！
+
+セッション１では…]]></description>
+        </item>
         <item>
             <title><![CDATA[【周知】土木研究所　夏の仕事体験]]></title>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=6401</link>
@@ -241,24 +250,6 @@ BHEキャリア支援チームのファシリテーターからフィードバ�
 【詳細と申込み】
 
 ＜オンライン＞ 7月11日（金）…]]></description>
-        </item>
-        <item>
-            <title><![CDATA[大学院入試に伴う3K棟の入構制限について]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=6379</link>
-            <guid isPermaLink="false">07be85b552a4af456ca40f88a6e6ab99</guid>
-            <pubDate>Wed, 25 Jun 2025 03:00:00 GMT</pubDate>
-            <description><![CDATA[学生各位
-
-大学院入試に伴う3K棟の一部エリアへの立ち入り禁止のお知らせです。
-
-日時：【7月4日（金）終日】
-立入禁止エリア：【3K棟2～3階（研究科棟側※）】
-
-※研究科棟側について
-2階及び3階には「ここから先は研究科棟」である旨を記載した立て看板がありますので、
-それより先には立ち入らないようにしてください。
-具体的には2階の「3Kサテライト室」及び3階「3K303会議室」より北側です。
-…]]></description>
         </item>
     </channel>
 </rss>
