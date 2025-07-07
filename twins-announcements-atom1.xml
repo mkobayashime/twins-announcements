@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/mkobayashime/twins-announcements</id>
     <title>在学生へのお知らせ | 筑波大学</title>
-    <updated>2025-07-07T06:01:49.521Z</updated>
+    <updated>2025-07-07T09:02:44.913Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://github.com/mkobayashime/twins-announcements"/>
     <subtitle>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</subtitle>
+    <entry>
+        <title type="html"><![CDATA[【CEGLOC】語学学習相談デーの開催　7/24（木）]]></title>
+        <id>b0cc7373f0878d4f4fc093a6cdaaad6a</id>
+        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=6405"/>
+        <updated>2025-07-07T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[CEGLOCメディアライブラリーと、アカデミックライティングサポートデスク（AWSD）では語学学習相談デーを開催します。
+
+日時： 2025年7月24日（木）5限（15:15~16:30）
+場所： CEGLOC メディアライブラリー
+相談できる内容：各言語の学習方法、試験対策、その他
+相談できる言語：英語、韓国語、スペイン語、中国語、ドイツ語、日本語、フランス語、ロシア語
+☆予約不要　入室・退室自…]]></summary>
+    </entry>
     <entry>
         <title type="html"><![CDATA[第10 回言語学習評価研究会（Language Learning Assessment Group Meeting）]]></title>
         <id>6f26b8651a6a2a1d484f632d1f2a7502</id>
@@ -246,16 +259,5 @@ Although it will be a class day, but we will be open during the holiday hours on
 詳細・ご応募は掲載しておりますURLよりお申込みください。
 
 --------------------------------------------------------------------------------------------------------------------------------…]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[再掲【単位認定】日本語サポーター募集！（TWINS締切 本日 6/30）]]></title>
-        <id>25459a0602773e4a87707414666d6fe1</id>
-        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=6382"/>
-        <updated>2025-06-30T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[茨城県の小中学校と連携して、外国にルーツのある子どもたちに日本語学習や教科学習をサポートする「日本語サポーター」を募集します。
-秋学期以降、授業の空き時間を利用して活動することができ、年間を通した活動で3単位が認定されます。学類や専門は問いません。自分の得意分野を活かして一緒に活動してみませんか。
-日本語サポーターとして活動するには、下記の授業を履修し、研修を受講してください。
-
-・科目番号：AE…]]></summary>
     </entry>
 </feed>
