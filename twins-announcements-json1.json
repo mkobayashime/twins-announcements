@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "6f26b8651a6a2a1d484f632d1f2a7502",
+            "content_html": "各位\n\n以下の日程にて、第10 回言語学習評価研究会を行います。\nご興味のあります方は是非ご参加ください。\n\n詳細は添付資料をご参照ください。\n\n日時：2025 年10 月25 日（土）15:00～18:00\n形態：完全オンライン（Zoom を用いたオンライン開催。事後の録画提供はなし）\n使用言語：日本語\n事前申込：要（https://forms.gle/hZQ2K6yGQ5jtgxzo9）\n参加…",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=6404",
+            "title": "第10 回言語学習評価研究会（Language Learning Assessment Group Meeting）",
+            "date_modified": "2025-07-07T03:00:00.000Z"
+        },
+        {
             "id": "8377ce72ca02276d6181010d00d9ec71",
             "content_html": "本学の同窓会である茗溪会にて、OBOGキャリア相談会を開催します\n現在就活中の方、将来就職先に関心がある方、是非ご参加ください。\n\n【今月の登壇者】特集テーマ 「コンサル・マーケティング」\nhttps://www.meikei.or.jp/event/6906.html\n\n【登壇者No1】\n理工学群　応用理工学類 2012年卒\n東京大学大学院工学研究科物理工学専攻　　2015年修了　\nIT・EC業…",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=6403",
@@ -136,13 +143,6 @@
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=6382",
             "title": "再掲【単位認定】日本語サポーター募集！（TWINS締切 本日 6/30）",
             "date_modified": "2025-06-30T03:00:00.000Z"
-        },
-        {
-            "id": "afa55d2a4776f445ebbd2e65150bd508",
-            "content_html": "(公財)茨城県国際交流協会では、日本人と外国人が相互に理解し、対等な関係をつくり、ともに参加する活力ある多文化共生の地域づくりを目指し、外国人住民のコミュニケーションを支援するための日本語サポーターの育成を図ります。\n詳細・申込はHPをご確認ください。",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=6381",
-            "title": "地域のための日本語サポートセミナー",
-            "date_modified": "2025-06-27T03:00:00.000Z"
         }
     ]
 }
