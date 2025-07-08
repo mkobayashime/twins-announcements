@@ -5,6 +5,20 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "79070e10adbb8357e597b1e491a27306",
+            "content_html": "筑波トランスパシフィックプログラム（TTPP）交換留学について、2026年春学期渡航分（1～3月頃渡航）の募集を開始しました！\n\nラテンアメリカへの交換留学に興味のある方は、リンク先の募集要項をよく読み、応募してください。お問い合わせに関しても、募集要項内に記載されている問い合わせ先に連絡してください。\n\n応募締め切り：【2025年8月18日（月）午前8:00】（締切厳守）\n\n★交換留学に興味のあ…",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=6409",
+            "title": "【締切: 8/18(月)8:00AM】＼筑波トランスパシフィックプログラム（TTPP）2026年春渡航 交換留学生募集／",
+            "date_modified": "2025-07-08T03:00:00.000Z"
+        },
+        {
+            "id": "e99d90cf7c824ac405656cf217c7cb2f",
+            "content_html": "2025年度第１期分授業料未納者は、「払込取扱票」が送付されているので、再度確認の上、速やかに金融機関窓口にて納付されるようお願いします。\n納付されないときは、本学学則による除籍処分該当者となります。\n\n・口座振替対象の未納者は、7月に発行される払込取扱票により納入をお願いします。\n・払込取扱票を既に発行されている未納者は、お持ちの払込取扱票により納入をお願いします。\n\nThose who hav…",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=6408",
+            "title": "【重要】2025年度第１期分授業料の納入督促について/【Important】About Tuition for First term of AY 2025",
+            "date_modified": "2025-07-07T03:00:00.000Z"
+        },
+        {
             "id": "b0cc7373f0878d4f4fc093a6cdaaad6a",
             "content_html": "CEGLOCメディアライブラリーと、アカデミックライティングサポートデスク（AWSD）では語学学習相談デーを開催します。\n\n日時： 2025年7月24日（木）5限（15:15~16:30）\n場所： CEGLOC メディアライブラリー\n相談できる内容：各言語の学習方法、試験対策、その他\n相談できる言語：英語、韓国語、スペイン語、中国語、ドイツ語、日本語、フランス語、ロシア語\n☆予約不要　入室・退室自…",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=6405",
@@ -128,20 +142,6 @@
             "content_html": "論文や研究データのオープンアクセス（OA）化に関するセミナーを開催します。論文を書く皆さんに役立つ情報です。\n\n2024年、統合イノベーション戦略推進会議により「学術論文等の即時オープンアクセスの実現に向けた基本方針」が策定され、2025年度新規公募分より、主要な競争的資金による学術論文とその根拠データの即時オープンアクセス化が義務化されました。\nこのセミナーでは、基本方針の説明に加え、論文や研究…",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=6385",
             "title": "全学FD「オープンアクセス推進セミナー」を開催します(7/15)",
-            "date_modified": "2025-06-30T03:00:00.000Z"
-        },
-        {
-            "id": "534cabb86c539d895c6a4efc36780062",
-            "content_html": "OICではこの夏、浮体式風車の浮体部分設計に関するコンペティションを開催します。\n詳細・ご応募は掲載しておりますURLよりお申込みください。\n\n--------------------------------------------------------------------------------------------------------------------------------…",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=6383",
-            "title": "【7/15締切】洋上風車の浮体設計コンテスト開催（日本財団OIC主催）",
-            "date_modified": "2025-06-30T03:00:00.000Z"
-        },
-        {
-            "id": "25459a0602773e4a87707414666d6fe1",
-            "content_html": "茨城県の小中学校と連携して、外国にルーツのある子どもたちに日本語学習や教科学習をサポートする「日本語サポーター」を募集します。\n秋学期以降、授業の空き時間を利用して活動することができ、年間を通した活動で3単位が認定されます。学類や専門は問いません。自分の得意分野を活かして一緒に活動してみませんか。\n日本語サポーターとして活動するには、下記の授業を履修し、研修を受講してください。\n\n・科目番号：AE…",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=6382",
-            "title": "再掲【単位認定】日本語サポーター募集！（TWINS締切 本日 6/30）",
             "date_modified": "2025-06-30T03:00:00.000Z"
         }
     ]
