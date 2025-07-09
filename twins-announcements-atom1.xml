@@ -2,10 +2,24 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/mkobayashime/twins-announcements</id>
     <title>在学生へのお知らせ | 筑波大学</title>
-    <updated>2025-07-09T05:04:14.576Z</updated>
+    <updated>2025-07-09T07:02:36.875Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://github.com/mkobayashime/twins-announcements"/>
     <subtitle>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</subtitle>
+    <entry>
+        <title type="html"><![CDATA[【リスク工学研究会】東日本大震災・原子力災害からの創造的復興を目指す福島国際研究教育機構の取組み]]></title>
+        <id>d500e409b808d147bd96b09b60dbd8b8</id>
+        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=6413"/>
+        <updated>2025-07-09T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[リスク・レジリエンス工学学位プログラムでは以下の講演会を開催します。
+ご所属問わず、幅広い学生の皆さんのご参加をお待ちしております。
+
+***
+第235回筑波大学リスク工学研究会（RERM）
+「東日本大震災・原子力災害からの創造的復興を目指す福島国際研究教育機構の取組み」
+■日　時：2025年7月14日(月) 18:15-19:15
+■場　所：筑波大学総合研究棟B0110とTeamsによるハイブリ…]]></summary>
+    </entry>
     <entry>
         <title type="html"><![CDATA[（附属図書館）夏季休業期間の貸出および休館について / Library Closure & Loan Info for Summer]]></title>
         <id>028ffb41f69d8267ba3cd1b77215189b</id>
@@ -249,17 +263,5 @@ Although it will be a class day, but we will be open during the holiday hours on
         <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=6387"/>
         <updated>2025-07-01T03:00:00.000Z</updated>
         <summary type="html"><![CDATA[Student Support Center will launch RECYCLING PROJECT to collect “still usable items” from July to August, coinciding with the change of semester. These items will be redistributed for free to students…]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【不用品回収】【7月22日～8月28日】2025 秋 RECYCLING PROJECT]]></title>
-        <id>77d2c856568b69abe5be3d6d157eb8c0</id>
-        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=6386"/>
-        <updated>2025-07-01T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[スチューデントサポートセンターでは、 RECYCLING PROJECTとして、学期が切り替わる7月から8月に、「まだ使用できる不用品」を回収し、新学期に新入生をはじめとした学生へ、無料譲渡するプロジェクトを実施します。捨てるにはもったいないけど、もう使わないものを、学生間でリユースしましょう！
-プロジェクト参加者は筑波大学の在籍者（学生、研究員、教職員）に限ります。
-
-リユース品の回収
-
-期間：…]]></summary>
     </entry>
 </feed>

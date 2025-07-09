@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "d500e409b808d147bd96b09b60dbd8b8",
+            "content_html": "リスク・レジリエンス工学学位プログラムでは以下の講演会を開催します。\nご所属問わず、幅広い学生の皆さんのご参加をお待ちしております。\n\n***\n第235回筑波大学リスク工学研究会（RERM）\n「東日本大震災・原子力災害からの創造的復興を目指す福島国際研究教育機構の取組み」\n■日　時：2025年7月14日(月) 18:15-19:15\n■場　所：筑波大学総合研究棟B0110とTeamsによるハイブリ…",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=6413",
+            "title": "【リスク工学研究会】東日本大震災・原子力災害からの創造的復興を目指す福島国際研究教育機構の取組み",
+            "date_modified": "2025-07-09T03:00:00.000Z"
+        },
+        {
             "id": "028ffb41f69d8267ba3cd1b77215189b",
             "content_html": "■ 夏季休業期間の休館\n   ・筑波地区は、8/12-8/15に休館します。（全学一斉休業期間のため）\n   ・大塚図書館は、8/11-8/16に休館します。\n   ・9月に館内整理日があります。（大塚図書館 9/2、中央図書館 9/3、体芸・医学・図情図書館 9/4）\n\n■ 図書貸出期間の変更\n　貸出・更新した図書（Webからの更新を含む）の貸出期間が、通常の3週間より長くなります。\n　詳しくは…",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=6412",
@@ -135,13 +142,6 @@
             "content_html": "Student Support Center will launch RECYCLING PROJECT to collect “still usable items” from July to August, coinciding with the change of semester. These items will be redistributed for free to students…",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=6387",
             "title": "【Secondhand item collection】【 July 22– August 28】2025 Fall RECYCLING PROJECT!",
-            "date_modified": "2025-07-01T03:00:00.000Z"
-        },
-        {
-            "id": "77d2c856568b69abe5be3d6d157eb8c0",
-            "content_html": "スチューデントサポートセンターでは、 RECYCLING PROJECTとして、学期が切り替わる7月から8月に、「まだ使用できる不用品」を回収し、新学期に新入生をはじめとした学生へ、無料譲渡するプロジェクトを実施します。捨てるにはもったいないけど、もう使わないものを、学生間でリユースしましょう！\nプロジェクト参加者は筑波大学の在籍者（学生、研究員、教職員）に限ります。\n\nリユース品の回収\n\n期間：…",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=6386",
-            "title": "【不用品回収】【7月22日～8月28日】2025 秋 RECYCLING PROJECT",
             "date_modified": "2025-07-01T03:00:00.000Z"
         }
     ]
