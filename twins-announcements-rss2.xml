@@ -4,10 +4,17 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Wed, 09 Jul 2025 09:09:50 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 09 Jul 2025 11:02:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
+        <item>
+            <title><![CDATA[就活セミナー「公的セクターの就活体験（外務省・国際協力銀行に挑戦）」開催のお知らせ]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=6414</link>
+            <guid isPermaLink="false">09192522a1eda5975f11d427faf1a648</guid>
+            <pubDate>Wed, 09 Jul 2025 03:00:00 GMT</pubDate>
+            <description><![CDATA[筑波大学「世界を変えよう基金アカデミー」では、国家公務員総合職試験に合格し外務省に内定した4年生、および日本企業の海外進出を資金面で支援する政府系金融機関の国際協力銀行に内定した4年生のお二人(国際総合学類)をお招きして、外務省・国際協力銀行を志望した動機、具体的な就活対策、面接試験の経験等を話していただく、Zoom就活セミナー「公的セクターの就活体験ー外務省・国際協力銀行に挑戦」を8月3日（日）…]]></description>
+        </item>
         <item>
             <title><![CDATA[【リスク工学研究会】東日本大震災・原子力災害からの創造的復興を目指す福島国際研究教育機構の取組み]]></title>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=6413</link>
@@ -258,13 +265,6 @@ manabaにコースを設定し、履修生として登録しておりますの�
 筑波キャンパスは授業日ですが、お間違えのないようお願いいたします。
 
 Although it will be a class day, but we will be open during the holiday hours on Monday, July 21th (n…]]></description>
-        </item>
-        <item>
-            <title><![CDATA[【Secondhand item collection】【 July 22– August 28】2025 Fall RECYCLING PROJECT!]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=6387</link>
-            <guid isPermaLink="false">bed3648f5a128671fa6cad0a39329087</guid>
-            <pubDate>Tue, 01 Jul 2025 03:00:00 GMT</pubDate>
-            <description><![CDATA[Student Support Center will launch RECYCLING PROJECT to collect “still usable items” from July to August, coinciding with the change of semester. These items will be redistributed for free to students…]]></description>
         </item>
     </channel>
 </rss>
