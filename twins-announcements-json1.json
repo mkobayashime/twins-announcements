@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "028ffb41f69d8267ba3cd1b77215189b",
+            "content_html": "■ 夏季休業期間の休館\n   ・筑波地区は、8/12-8/15に休館します。（全学一斉休業期間のため）\n   ・大塚図書館は、8/11-8/16に休館します。\n   ・9月に館内整理日があります。（大塚図書館 9/2、中央図書館 9/3、体芸・医学・図情図書館 9/4）\n\n■ 図書貸出期間の変更\n　貸出・更新した図書（Webからの更新を含む）の貸出期間が、通常の3週間より長くなります。\n　詳しくは…",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=6412",
+            "title": "（附属図書館）夏季休業期間の貸出および休館について / Library Closure & Loan Info for Summer",
+            "date_modified": "2025-07-09T03:00:00.000Z"
+        },
+        {
             "id": "9e66b5b11b8efbb9be6f626f9a3bb397",
             "content_html": "７月４日から７日に実施された茨城県大子町でのGASSHUKUの活動報告会を開催します！GASSHUKUが、国内で日本人学生と外国人学生が共に社会課題に取り組む場で、今回の大子町を舞台にしたGASSHUKUでは、大子町の抱える社会課題について、本学地球規模課題対応プログラム（BPGI）の学生を中心に課題解決型学習（PBL）を実施し、外国人学生と日本人学生それぞれの多様な視点を生かして、解決策を考案し…",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=6411",
@@ -136,13 +143,6 @@
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=6386",
             "title": "【不用品回収】【7月22日～8月28日】2025 秋 RECYCLING PROJECT",
             "date_modified": "2025-07-01T03:00:00.000Z"
-        },
-        {
-            "id": "8c05e970a84aa9642eb4f5bff7df324b",
-            "content_html": "論文や研究データのオープンアクセス（OA）化に関するセミナーを開催します。論文を書く皆さんに役立つ情報です。\n\n2024年、統合イノベーション戦略推進会議により「学術論文等の即時オープンアクセスの実現に向けた基本方針」が策定され、2025年度新規公募分より、主要な競争的資金による学術論文とその根拠データの即時オープンアクセス化が義務化されました。\nこのセミナーでは、基本方針の説明に加え、論文や研究…",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=6385",
-            "title": "全学FD「オープンアクセス推進セミナー」を開催します(7/15)",
-            "date_modified": "2025-06-30T03:00:00.000Z"
         }
     ]
 }

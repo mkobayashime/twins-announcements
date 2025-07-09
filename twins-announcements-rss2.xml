@@ -4,10 +4,24 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Wed, 09 Jul 2025 02:34:28 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 09 Jul 2025 05:04:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
+        <item>
+            <title><![CDATA[（附属図書館）夏季休業期間の貸出および休館について / Library Closure & Loan Info for Summer]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=6412</link>
+            <guid isPermaLink="false">028ffb41f69d8267ba3cd1b77215189b</guid>
+            <pubDate>Wed, 09 Jul 2025 03:00:00 GMT</pubDate>
+            <description><![CDATA[■ 夏季休業期間の休館
+   ・筑波地区は、8/12-8/15に休館します。（全学一斉休業期間のため）
+   ・大塚図書館は、8/11-8/16に休館します。
+   ・9月に館内整理日があります。（大塚図書館 9/2、中央図書館 9/3、体芸・医学・図情図書館 9/4）
+
+■ 図書貸出期間の変更
+　貸出・更新した図書（Webからの更新を含む）の貸出期間が、通常の3週間より長くなります。
+　詳しくは…]]></description>
+        </item>
         <item>
             <title><![CDATA[【多文化共修報告会開催！】GASSHUKU in 大子町]]></title>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=6411</link>
@@ -249,16 +263,6 @@ Although it will be a class day, but we will be open during the holiday hours on
 リユース品の回収
 
 期間：…]]></description>
-        </item>
-        <item>
-            <title><![CDATA[全学FD「オープンアクセス推進セミナー」を開催します(7/15)]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=6385</link>
-            <guid isPermaLink="false">8c05e970a84aa9642eb4f5bff7df324b</guid>
-            <pubDate>Mon, 30 Jun 2025 03:00:00 GMT</pubDate>
-            <description><![CDATA[論文や研究データのオープンアクセス（OA）化に関するセミナーを開催します。論文を書く皆さんに役立つ情報です。
-
-2024年、統合イノベーション戦略推進会議により「学術論文等の即時オープンアクセスの実現に向けた基本方針」が策定され、2025年度新規公募分より、主要な競争的資金による学術論文とその根拠データの即時オープンアクセス化が義務化されました。
-このセミナーでは、基本方針の説明に加え、論文や研究…]]></description>
         </item>
     </channel>
 </rss>
