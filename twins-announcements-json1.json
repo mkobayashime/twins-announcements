@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "6ad26403b7396c46821b35d85776e517",
+            "content_html": "７月４日から７日に実施される大子町でのGASSHUKUの活動報告会が開催します。大子町でのGASSHUKUでは、大子町の抱える社会課題について、本学地球規模課題対応プログラム（BPGI）の学生を中心に課題解決型学習（PBL）を実施し、外国人学生と日本人学生それぞれの多様な視点を生かして、解決策を考案しました。\n３つのグループそれぞれによる学びの発表や質疑セッションなど、実際の活動内容を知ることが出…",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=6410",
+            "title": "多文化共修 活動報告会 GASSHUKU in 大子町",
+            "date_modified": "2025-07-09T03:00:00.000Z"
+        },
+        {
             "id": "79070e10adbb8357e597b1e491a27306",
             "content_html": "筑波トランスパシフィックプログラム（TTPP）交換留学について、2026年春学期渡航分（1～3月頃渡航）の募集を開始しました！\n\nラテンアメリカへの交換留学に興味のある方は、リンク先の募集要項をよく読み、応募してください。お問い合わせに関しても、募集要項内に記載されている問い合わせ先に連絡してください。\n\n応募締め切り：【2025年8月18日（月）午前8:00】（締切厳守）\n\n★交換留学に興味のあ…",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=6409",
@@ -135,13 +142,6 @@
             "content_html": "論文や研究データのオープンアクセス（OA）化に関するセミナーを開催します。論文を書く皆さんに役立つ情報です。\n\n2024年、統合イノベーション戦略推進会議により「学術論文等の即時オープンアクセスの実現に向けた基本方針」が策定され、2025年度新規公募分より、主要な競争的資金による学術論文とその根拠データの即時オープンアクセス化が義務化されました。\nこのセミナーでは、基本方針の説明に加え、論文や研究…",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=6385",
             "title": "全学FD「オープンアクセス推進セミナー」を開催します(7/15)",
-            "date_modified": "2025-06-30T03:00:00.000Z"
-        },
-        {
-            "id": "534cabb86c539d895c6a4efc36780062",
-            "content_html": "OICではこの夏、浮体式風車の浮体部分設計に関するコンペティションを開催します。\n詳細・ご応募は掲載しておりますURLよりお申込みください。\n\n--------------------------------------------------------------------------------------------------------------------------------…",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=6383",
-            "title": "【7/15締切】洋上風車の浮体設計コンテスト開催（日本財団OIC主催）",
             "date_modified": "2025-06-30T03:00:00.000Z"
         }
     ]
