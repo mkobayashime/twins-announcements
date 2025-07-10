@@ -4,10 +4,28 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Wed, 09 Jul 2025 21:07:29 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 10 Jul 2025 01:29:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
+        <item>
+            <title><![CDATA[明日開催！オンライン面接練習会（インターンシップ・本選考）]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=6415</link>
+            <guid isPermaLink="false">294e83fc49613fefbaaa031d263f0f35</guid>
+            <pubDate>Thu, 10 Jul 2025 03:00:00 GMT</pubDate>
+            <description><![CDATA[以下の方におススメのオンライン面接練習会です。
+
+「面接練習の場を増やしたい！」
+「他の人はどんなふうに面接で話しているのか知りたい！」
+「フィードバックをもらって、面接がもっと上手になりたい！」
+
+学年専攻は問いません。初心者大歓迎です。
+
+＜オンライン集団面接＞　7月11日（金）　13：30-15：00 Zoom
+BHE HP「イベントコンテンツ動画・資料」→「就職情報」
+
+http://sy…]]></description>
+        </item>
         <item>
             <title><![CDATA[就活セミナー「公的セクターの就活体験（外務省・国際協力銀行に挑戦）」開催のお知らせ]]></title>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=6414</link>
@@ -249,18 +267,6 @@ Although it will be a class day, but we will be open during the holiday hours on
             <guid isPermaLink="false">bed3648f5a128671fa6cad0a39329087</guid>
             <pubDate>Tue, 01 Jul 2025 03:00:00 GMT</pubDate>
             <description><![CDATA[Student Support Center will launch RECYCLING PROJECT to collect “still usable items” from July to August, coinciding with the change of semester. These items will be redistributed for free to students…]]></description>
-        </item>
-        <item>
-            <title><![CDATA[【不用品回収】【7月22日～8月28日】2025 秋 RECYCLING PROJECT]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=6386</link>
-            <guid isPermaLink="false">77d2c856568b69abe5be3d6d157eb8c0</guid>
-            <pubDate>Tue, 01 Jul 2025 03:00:00 GMT</pubDate>
-            <description><![CDATA[スチューデントサポートセンターでは、 RECYCLING PROJECTとして、学期が切り替わる7月から8月に、「まだ使用できる不用品」を回収し、新学期に新入生をはじめとした学生へ、無料譲渡するプロジェクトを実施します。捨てるにはもったいないけど、もう使わないものを、学生間でリユースしましょう！
-プロジェクト参加者は筑波大学の在籍者（学生、研究員、教職員）に限ります。
-
-リユース品の回収
-
-期間：…]]></description>
         </item>
     </channel>
 </rss>
