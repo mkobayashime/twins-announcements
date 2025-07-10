@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "ba10bd94366cefa4c09d30eedfd42446",
+            "content_html": "文部科学省を通じて、総務省より標記の件について、周知啓発に係る通知がありましたので、お知らせいたします。\n\n第27回参議院議員通常選挙は、７月３日（木）に公示され、７月20日（日）が投票日となっており、総務省では、投票日の周知と投票参加を呼びかけるため、様々な選挙啓発活動を行っています。このたび、その一環として、参議院議員通常選挙啓発用ポスターが作成されましたので、お目通しください。\n\nまた、総務…",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=6416",
+            "title": "【周知】第27回参議院議員通常選挙に係る選挙啓発について",
+            "date_modified": "2025-07-10T03:00:00.000Z"
+        },
+        {
             "id": "294e83fc49613fefbaaa031d263f0f35",
             "content_html": "以下の方におススメのオンライン面接練習会です。\n\n「面接練習の場を増やしたい！」\n「他の人はどんなふうに面接で話しているのか知りたい！」\n「フィードバックをもらって、面接がもっと上手になりたい！」\n\n学年専攻は問いません。初心者大歓迎です。\n\n＜オンライン集団面接＞　7月11日（金）　13：30-15：00 Zoom\nBHE HP「イベントコンテンツ動画・資料」→「就職情報」\n\nhttp://sy…",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=6415",
@@ -135,13 +142,6 @@
             "content_html": "7月21日(月・祝)は、祝日の開館時間です。\n中央・医学図書館は9時開館、体芸・図情図書館は10時開館、大塚図書館は休館です。\n筑波キャンパスは授業日ですが、お間違えのないようお願いいたします。\n\nAlthough it will be a class day, but we will be open during the holiday hours on Monday, July 21th (n…",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=6388",
             "title": "【附属図書館】7/21(月・祝)の開館時間について / (Library) Opening hours on Monday, July 21th (national holiday)",
-            "date_modified": "2025-07-01T03:00:00.000Z"
-        },
-        {
-            "id": "bed3648f5a128671fa6cad0a39329087",
-            "content_html": "Student Support Center will launch RECYCLING PROJECT to collect “still usable items” from July to August, coinciding with the change of semester. These items will be redistributed for free to students…",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=6387",
-            "title": "【Secondhand item collection】【 July 22– August 28】2025 Fall RECYCLING PROJECT!",
             "date_modified": "2025-07-01T03:00:00.000Z"
         }
     ]
