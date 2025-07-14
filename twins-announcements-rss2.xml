@@ -4,10 +4,20 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Mon, 14 Jul 2025 03:30:01 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 14 Jul 2025 08:01:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
+        <item>
+            <title><![CDATA[外国人留学生のための日本語　大学院共通科目「学術活動と生活に役立つ日本語・日本文化入門」受講のご案内]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=6420</link>
+            <guid isPermaLink="false">d5e9de3ae3584e331231c83f0b9ab372</guid>
+            <pubDate>Mon, 14 Jul 2025 03:00:00 GMT</pubDate>
+            <description><![CDATA[大学院に在学する外国人留学生は、（3）に示す実施期間の中から自分の都合の良い授業を選び、必ず履修登録してください（論文研究等により履修時間が確保できない場合を除く）。
+本科目は単位付与対象科目であり、課題提出・小テストの実施を通じて成績評価を行います。
+日本語能力は問いません。
+]]></description>
+        </item>
         <item>
             <title><![CDATA[8/6（水）鉄道・自動車業界のOBOGと話そう！「ぶっちゃけ質問会、相談会」]]></title>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=6419</link>
@@ -258,15 +268,6 @@ manabaにコースを設定し、履修生として登録しておりますの�
 
 予約は不要です。定員数（20人）に達した時点で受付を終了します。
 ぜひ友達を誘って参加…]]></description>
-        </item>
-        <item>
-            <title><![CDATA[【7/14(月)開催！】2025春 TTPP留学成果報告会 / 2025 Spring TTPP Final Presentation]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=6390</link>
-            <guid isPermaLink="false">519f5ee8cda57f86d66bbc752f36558f</guid>
-            <pubDate>Tue, 01 Jul 2025 03:00:00 GMT</pubDate>
-            <description><![CDATA[筑波トランスパシフィックプログラムを通して留学を終えた／もうすぐ終えようとしている学生たちの留学成果報告会を開催します！
-筑波大生、中南米の各大学からの短期交換留学生、計4名による最終プレゼンテーションを行います。
-プレゼンテーションのテーマは、「留学で得た体験談や成果について」そして「SDGsについて」です。TTPP修了認定証の授与式も行い、イベント後は学生に質問したり、交流したりもできます！す…]]></description>
         </item>
     </channel>
 </rss>
