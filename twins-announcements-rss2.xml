@@ -4,10 +4,23 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Mon, 14 Jul 2025 21:07:50 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 15 Jul 2025 01:29:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
+        <item>
+            <title><![CDATA[(BHE)7月23日 　BHE 面接・GD練習会のご案内]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=6422</link>
+            <guid isPermaLink="false">155942146f22a1f44b2b0b9ffbb1983d</guid>
+            <pubDate>Tue, 15 Jul 2025 03:00:00 GMT</pubDate>
+            <description><![CDATA[BHE主催　就活支援企画　7月　BHE面接・GD練習会
+
+就活に即役立つ、面接・GD練習会です。対面でもオンラインでも開催します。
+
+対面面接編ではビジネスマナーも学ぶことができます。
+就活中の方、ISの選考を受ける方、参加して役立ててください。
+BHEキャリア支援チームのファシリテーターからフィードバックがあります。 （日本語開催）]]></description>
+        </item>
         <item>
             <title><![CDATA[外国人留学生のための日本語　大学院共通科目「学術活動と生活に役立つ日本語・日本文化入門」受講のご案内]]></title>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=6420</link>
@@ -251,17 +264,6 @@ manabaにコースを設定し、履修生として登録しておりますの�
 
 予約は不要です。定員数（20人）に達した時点で受付を終了します。
 ぜひ友達を誘って参加…]]></description>
-        </item>
-        <item>
-            <title><![CDATA[【附属図書館】7/21(月・祝)の開館時間について / (Library) Opening hours on Monday, July 21th (national holiday)]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=6388</link>
-            <guid isPermaLink="false">f27d4738bd06d77ee9cef17d09647412</guid>
-            <pubDate>Tue, 01 Jul 2025 03:00:00 GMT</pubDate>
-            <description><![CDATA[7月21日(月・祝)は、祝日の開館時間です。
-中央・医学図書館は9時開館、体芸・図情図書館は10時開館、大塚図書館は休館です。
-筑波キャンパスは授業日ですが、お間違えのないようお願いいたします。
-
-Although it will be a class day, but we will be open during the holiday hours on Monday, July 21th (n…]]></description>
         </item>
     </channel>
 </rss>

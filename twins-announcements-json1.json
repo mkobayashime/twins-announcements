@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "155942146f22a1f44b2b0b9ffbb1983d",
+            "content_html": "BHE主催　就活支援企画　7月　BHE面接・GD練習会\n\n就活に即役立つ、面接・GD練習会です。対面でもオンラインでも開催します。\n\n対面面接編ではビジネスマナーも学ぶことができます。\n就活中の方、ISの選考を受ける方、参加して役立ててください。\nBHEキャリア支援チームのファシリテーターからフィードバックがあります。 （日本語開催）",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=6422",
+            "title": "(BHE)7月23日 　BHE 面接・GD練習会のご案内",
+            "date_modified": "2025-07-15T03:00:00.000Z"
+        },
+        {
             "id": "d5e9de3ae3584e331231c83f0b9ab372",
             "content_html": "大学院に在学する外国人留学生は、（3）に示す実施期間の中から自分の都合の良い授業を選び、必ず履修登録してください（論文研究等により履修時間が確保できない場合を除く）。\n本科目は単位付与対象科目であり、課題提出・小テストの実施を通じて成績評価を行います。\n日本語能力は問いません。\n",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=6420",
@@ -136,13 +143,6 @@
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=6393",
             "title": "（再掲）【CEGLOC】7/8(火)、7/17(木)開催　映画鑑賞会「もののけ姫」「すずめの戸締まり」",
             "date_modified": "2025-07-02T03:00:00.000Z"
-        },
-        {
-            "id": "f27d4738bd06d77ee9cef17d09647412",
-            "content_html": "7月21日(月・祝)は、祝日の開館時間です。\n中央・医学図書館は9時開館、体芸・図情図書館は10時開館、大塚図書館は休館です。\n筑波キャンパスは授業日ですが、お間違えのないようお願いいたします。\n\nAlthough it will be a class day, but we will be open during the holiday hours on Monday, July 21th (n…",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=6388",
-            "title": "【附属図書館】7/21(月・祝)の開館時間について / (Library) Opening hours on Monday, July 21th (national holiday)",
-            "date_modified": "2025-07-01T03:00:00.000Z"
         }
     ]
 }
