@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "159bae0896700478839d2897d87830f7",
+            "content_html": "FAOはじめ国際機関に関心のある学生の皆様に、外務省国際機関人事センター並びにFAO担当者（日本人）から\n直接、国際機関の業務内容やキャリアパスについて説明を聞く機会を提供します。\n国際機関を目指す第一歩にしてください。\n\n【開催概要】\n日時：7月28日（月）　13：30-15：00\n場所：筑波大学　1E棟302講義室\n定員：40名\n申込：https://forms.office.com/r/Jp…",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=6424",
+            "title": "(BHE)7月28日　外務省主催　国連食糧農業機関（FAO）キャリアセミナー",
+            "date_modified": "2025-07-15T03:00:00.000Z"
+        },
+        {
             "id": "f7e5c4dc1ece4147cbde4ed3df16263e",
             "content_html": "サーバー更新作業に伴い、下記の時間、キャリア支援チームホームページ等へ繋がりにくくなります。\n【作業日時】7/23（水）9：00　～　13：15（予定）\n\nなお、サーバー更新作業中は、「学内専用ページ」、「ガイダンス等及び模試試験登録・申請」、「進路進捗状況届」へのアクセスはできません。\n皆様にはご迷惑をおかけいたしますが、ご理解、ご協力の程よろしくお願いいたします。\n",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=6423",
@@ -136,13 +143,6 @@
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=6395",
             "title": "【再掲】2025年度大学生の学習成果と満足度に関する国際的調査について",
             "date_modified": "2025-07-03T03:00:00.000Z"
-        },
-        {
-            "id": "609d55d8646966a6051b696ff5e97f28",
-            "content_html": "【開催案内】第57回「中央ユーラシアと日本の未来」公開講演会\n\n講師： 大学共同利用機関法人 人間文化研究機構 国立民族学博物館 学術資源研究開発センター 准教授　寺村 裕史氏\n題目：ウズベキスタン共和国カフィル・カラ遺跡の発掘調査と出土遺物　―ゾロアスター教の女神ナナに関わる木彫板の発見―\n\n日時：2025年7月31日（木）15:15～16:30\n会場：オンライン（Zoom）\n対象：本学学生、本…",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=6394",
-            "title": "【開催案内】第57回「中央ユーラシアと日本の未来」公開講演会「ウズベキスタン共和国カフィル・カラ遺跡の発掘調査と出土遺物 ―ゾロアスター教の女神ナナに関わる木彫板の発見―」",
-            "date_modified": "2025-07-02T03:00:00.000Z"
         }
     ]
 }
