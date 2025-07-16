@@ -2,10 +2,27 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/mkobayashime/twins-announcements</id>
     <title>在学生へのお知らせ | 筑波大学</title>
-    <updated>2025-07-16T05:05:30.761Z</updated>
+    <updated>2025-07-16T06:01:43.246Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://github.com/mkobayashime/twins-announcements"/>
     <subtitle>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</subtitle>
+    <entry>
+        <title type="html"><![CDATA[【募集】茨城県教育委員会「情報専門家活用プログラム」授業支援講師の募集]]></title>
+        <id>a3657c56a22041156fc19502651119da</id>
+        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=6428"/>
+        <updated>2025-07-16T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[大学院生の皆さん、高校で授業支援をしてみませんか？
+【業務内容】
+高等学校情報科の必履修科目である「情報Ｉ」の情報デザイン領域、データ分析領域等において、
+県立高校等の校長の指示に基づき、次の業務を行います。
+
+・生徒への指導、助言に必要な資料の作成
+・情報Ｉの授業における生徒への指導、助言
+・担当教員との意見交換等
+
+※情報Ⅰの授業とは？
+文部科学省のウェブサイトに動画が掲載されていますのでご覧…]]></summary>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【Event Information】Let’s talk about the SDGs in English]]></title>
         <id>0dc8e7a517e35a288389928a960ce040</id>
@@ -240,18 +257,5 @@ Those who hav…]]></summary>
 応募締切(Deadline for application)：2025年7月21日（月）
 日時(Dates)：8月27日（水）、28日（木）、29日（金）
 対象：学類生，大学院生（学年は問いません）]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[留学生のチューター募集について（2025年度秋学期）]]></title>
-        <id>3f0707a6381adf20c695491e6e2d66a2</id>
-        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=6400"/>
-        <updated>2025-07-04T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[留学生と交流したい、または留学生をサポートしたいと思っている正規課程の在学生の皆さん、ぜひチューターになってみませんか？
-
-2025年9月・10月に多くの留学生が入学する予定です。
-これに伴い、チューター支援（主に生活の立ち上げ支援（原則対面））を
-行ってくださるチューターを大募集しています！
-
-チューター希望の学生は、下記URL上の「チューターバンク」に記載の登録方法に従い、チューターバンクに登…]]></summary>
     </entry>
 </feed>
