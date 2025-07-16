@@ -4,10 +4,23 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Wed, 16 Jul 2025 06:01:43 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 16 Jul 2025 08:01:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
+        <item>
+            <title><![CDATA[【掲載】令和６年度社会貢献プロジェクト報告書について]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=6429</link>
+            <guid isPermaLink="false">8b16c4a7a7cdf94d35f11b06d722ce8c</guid>
+            <pubDate>Wed, 16 Jul 2025 03:00:00 GMT</pubDate>
+            <description><![CDATA[つくば・地域連携推進室では、本学と社会・地域との多様な形での連携活動やその取組等を
+「社会貢献プロジェクト」として採択し、経費支援等を行っています。
+※「社会貢献プロジェクト」は、学生も申請できるものとなっています。
+
+このたび、「令和６年度社会貢献プロジェクト報告書」を下記ホームページに掲載しましたので
+お知らせします。
+筑波大学社会貢献・地域連携HP： https://scpj.tsukuba…]]></description>
+        </item>
         <item>
             <title><![CDATA[【募集】茨城県教育委員会「情報専門家活用プログラム」授業支援講師の募集]]></title>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=6428</link>
@@ -246,19 +259,6 @@ Those who hav…]]></description>
             <description><![CDATA[ソーシャルインパクト推進室では、国際的な視野を広げるためのRUN-UP活動を学内で随時企画しています。今回は、本学人間学群卒業生で現在フランス、パリのユネスコで活躍中の水野谷優先生をお招きして、第３回グローバルスタートアッパーセミナーを実施します。全学群生、大学院生、教職員対象で、どなたでも自由にご参加いただけます。海外でのキャリアに興味のある方、この貴重な機会をお見逃しなく！
 
 セッション１では…]]></description>
-        </item>
-        <item>
-            <title><![CDATA[【周知】土木研究所　夏の仕事体験]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=6401</link>
-            <guid isPermaLink="false">49a6e1b66fb24aa9a7614d0553cb0259</guid>
-            <pubDate>Fri, 04 Jul 2025 03:00:00 GMT</pubDate>
-            <description><![CDATA[土木研究所から仕事体験案内がありました。
-3日間で盛りだくさんの仕事体験で，構内施設や専門家解説付きで土木施設見学，研究部の業務体験ができます。
-
-＜土木研究所　夏の仕事体験＞
-応募締切(Deadline for application)：2025年7月21日（月）
-日時(Dates)：8月27日（水）、28日（木）、29日（金）
-対象：学類生，大学院生（学年は問いません）]]></description>
         </item>
     </channel>
 </rss>
