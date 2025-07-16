@@ -4,10 +4,34 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Tue, 15 Jul 2025 21:06:33 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 16 Jul 2025 05:05:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
+        <item>
+            <title><![CDATA[【Event Information】Let’s talk about the SDGs in English]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=6427</link>
+            <guid isPermaLink="false">0dc8e7a517e35a288389928a960ce040</guid>
+            <pubDate>Wed, 16 Jul 2025 03:00:00 GMT</pubDate>
+            <description><![CDATA[【Event Information】Let’s talk about the SDGs in English
+
+Reflection Meeting of “Japanese Corporation Internship I (Hokkaido Training Programs)
+(0ABC831)” in 2025 Spring C
+
+“Join us for a discussion on…]]></description>
+        </item>
+        <item>
+            <title><![CDATA[【開催案内】Let's talk about the SDGs in English]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=6426</link>
+            <guid isPermaLink="false">dc46e19759cac33688ea13f762fdfb5e</guid>
+            <pubDate>Wed, 16 Jul 2025 03:00:00 GMT</pubDate>
+            <description><![CDATA[【開催案内】Let's talk about the SDGs in English
+「日本企業インターンシップI」（0ABC831）」（北海道研修）のリフレクションミーティング
+
+持続可能な開発目標（SDGs）について英語でディスカッションしませんか？
+
+【日本企業インターンシップI】（北海道研修）に参加した第6期・第7期NipCAフェローが、研修旅行で学んだ現地企業のSDG'sの取り組みについ…]]></description>
+        </item>
         <item>
             <title><![CDATA[「お金の超基本勉強会―卒業してからでは遅すぎる」第18回開催のお知らせ]]></title>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=6425</link>
@@ -231,32 +255,6 @@ Those who hav…]]></description>
 行ってくださるチューターを大募集しています！
 
 チューター希望の学生は、下記URL上の「チューターバンク」に記載の登録方法に従い、チューターバンクに登…]]></description>
-        </item>
-        <item>
-            <title><![CDATA[【奨学金/Scholarship】公益財団法人　渥美国際交流財団 /Atsumi International Foundation]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=6399</link>
-            <guid isPermaLink="false">a036265fe0afaf768abdcbf9d4b1663e</guid>
-            <pubDate>Fri, 04 Jul 2025 03:00:00 GMT</pubDate>
-            <description><![CDATA[（日）
-公益財団法人　渥美国際交流財団（2026年度）
-応募期間：2025年9月1日(月)～20(土)
-提出先：財団へ直接応募
-募集要項：（PDF(資料1)）
-財団HP：http://www.aisf.or.jp/jp/
-※この奨学金を受給する者は、2026年度の大学推薦奨学金の申請資格がありません。
-※高い日本語能力が必要です。
-
-(英)
-Atsumi International Foundat…]]></description>
-        </item>
-        <item>
-            <title><![CDATA[【周知】（内閣府）地方創生☆政策アイデアコンテスト2025について]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=6397</link>
-            <guid isPermaLink="false">6ca11a0a45a3dad44782cf6f560ac319</guid>
-            <pubDate>Thu, 03 Jul 2025 03:00:00 GMT</pubDate>
-            <description><![CDATA[国立大学協会から内閣府を通じて、「地方創生☆政策アイデアコンテスト2025」について、周知依頼がありましたので、お知らせします。
-
-本コンテストは、地域経済の構造データを見える化した「地域経済分析システム（RESAS：リーサス）」やデータにより地域課題を捉え、目標達成を後押しするプラットフォームである「地方創生データ分析評価プラットフォーム（RAIDA：レイダ）」などを活用し、データ分析を踏まえた…]]></description>
         </item>
     </channel>
 </rss>

@@ -5,6 +5,20 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "0dc8e7a517e35a288389928a960ce040",
+            "content_html": "【Event Information】Let’s talk about the SDGs in English\n\nReflection Meeting of “Japanese Corporation Internship I (Hokkaido Training Programs)\n(0ABC831)” in 2025 Spring C\n\n“Join us for a discussion on…",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=6427",
+            "title": "【Event Information】Let’s talk about the SDGs in English",
+            "date_modified": "2025-07-16T03:00:00.000Z"
+        },
+        {
+            "id": "dc46e19759cac33688ea13f762fdfb5e",
+            "content_html": "【開催案内】Let's talk about the SDGs in English\n「日本企業インターンシップI」（0ABC831）」（北海道研修）のリフレクションミーティング\n\n持続可能な開発目標（SDGs）について英語でディスカッションしませんか？\n\n【日本企業インターンシップI】（北海道研修）に参加した第6期・第7期NipCAフェローが、研修旅行で学んだ現地企業のSDG'sの取り組みについ…",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=6426",
+            "title": "【開催案内】Let's talk about the SDGs in English",
+            "date_modified": "2025-07-16T03:00:00.000Z"
+        },
+        {
             "id": "08e95601d98462afe24bf8094bfd743e",
             "content_html": "「筑波大学・世界を変えよう基金アカデミー」では、お金に関する基礎知識（税金、結婚、教育、マイホーム、老後・病気への備え、投資運用,　NISA活用方法等）を学ぶ「お金の超基本勉強会―卒業してからでは遅すぎる」を7月末から3回に亘って開催します。\n\n開催日：第1回は下記のいずれかの日に対面（中央図書館セミナー室）で開催。\n7月28日（月）18:15~20:00、\n7月30日（水）18:15~20:00…",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=6425",
@@ -129,20 +143,6 @@
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=6400",
             "title": "留学生のチューター募集について（2025年度秋学期）",
             "date_modified": "2025-07-04T03:00:00.000Z"
-        },
-        {
-            "id": "a036265fe0afaf768abdcbf9d4b1663e",
-            "content_html": "（日）\n公益財団法人　渥美国際交流財団（2026年度）\n応募期間：2025年9月1日(月)～20(土)\n提出先：財団へ直接応募\n募集要項：（PDF(資料1)）\n財団HP：http://www.aisf.or.jp/jp/\n※この奨学金を受給する者は、2026年度の大学推薦奨学金の申請資格がありません。\n※高い日本語能力が必要です。\n\n(英)\nAtsumi International Foundat…",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=6399",
-            "title": "【奨学金/Scholarship】公益財団法人　渥美国際交流財団 /Atsumi International Foundation",
-            "date_modified": "2025-07-04T03:00:00.000Z"
-        },
-        {
-            "id": "6ca11a0a45a3dad44782cf6f560ac319",
-            "content_html": "国立大学協会から内閣府を通じて、「地方創生☆政策アイデアコンテスト2025」について、周知依頼がありましたので、お知らせします。\n\n本コンテストは、地域経済の構造データを見える化した「地域経済分析システム（RESAS：リーサス）」やデータにより地域課題を捉え、目標達成を後押しするプラットフォームである「地方創生データ分析評価プラットフォーム（RAIDA：レイダ）」などを活用し、データ分析を踏まえた…",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=6397",
-            "title": "【周知】（内閣府）地方創生☆政策アイデアコンテスト2025について",
-            "date_modified": "2025-07-03T03:00:00.000Z"
         }
     ]
 }
