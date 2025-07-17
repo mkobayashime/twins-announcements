@@ -4,10 +4,25 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Thu, 17 Jul 2025 01:29:48 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 Jul 2025 05:04:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
+        <item>
+            <title><![CDATA[いけばな体験教室の開催について/The Lesson of Ikebana Experience]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=6433</link>
+            <guid isPermaLink="false">5008e72d7e5a3cc4b6900315ee6a9547</guid>
+            <pubDate>Thu, 17 Jul 2025 03:00:00 GMT</pubDate>
+            <description><![CDATA[いけばな体験教室を７月２６日に開催いたします。
+
+詳細は添付ファイルをご確認ください。
+
+
+Would you like to experience the Japanese culture of ikebana?
+
+For details, please see the attached file.
+]]></description>
+        </item>
         <item>
             <title><![CDATA[【人社支援室】授業料免除・猶予結果について／The result of tuition exemption]]></title>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=6432</link>
@@ -247,24 +262,6 @@ Those who hav…]]></description>
 相談できる内容：各言語の学習方法、試験対策、その他
 相談できる言語：英語、韓国語、スペイン語、中国語、ドイツ語、日本語、フランス語、ロシア語
 ☆予約不要　入室・退室自…]]></description>
-        </item>
-        <item>
-            <title><![CDATA[第10 回言語学習評価研究会（Language Learning Assessment Group Meeting）]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=6404</link>
-            <guid isPermaLink="false">6f26b8651a6a2a1d484f632d1f2a7502</guid>
-            <pubDate>Mon, 07 Jul 2025 03:00:00 GMT</pubDate>
-            <description><![CDATA[各位
-
-以下の日程にて、第10 回言語学習評価研究会を行います。
-ご興味のあります方は是非ご参加ください。
-
-詳細は添付資料をご参照ください。
-
-日時：2025 年10 月25 日（土）15:00～18:00
-形態：完全オンライン（Zoom を用いたオンライン開催。事後の録画提供はなし）
-使用言語：日本語
-事前申込：要（https://forms.gle/hZQ2K6yGQ5jtgxzo9）
-参加…]]></description>
         </item>
     </channel>
 </rss>

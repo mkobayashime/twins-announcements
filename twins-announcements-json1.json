@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "5008e72d7e5a3cc4b6900315ee6a9547",
+            "content_html": "いけばな体験教室を７月２６日に開催いたします。\n\n詳細は添付ファイルをご確認ください。\n\n\nWould you like to experience the Japanese culture of ikebana?\n\nFor details, please see the attached file.\n",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=6433",
+            "title": "いけばな体験教室の開催について/The Lesson of Ikebana Experience",
+            "date_modified": "2025-07-17T03:00:00.000Z"
+        },
+        {
             "id": "9a226e4d1bb741bbe7cdb07d4acebdfa",
             "content_html": "7月16日（水）から、2025年度春学期分の授業料免除・猶予結果通知を配付します。\n\n対象の学生は、学生証をお持ちのうえ人文社会エリア支援室（1A棟3階）で受け取ってください。\n\n事情により郵送での受け取りを希望する方は、理由を添えて下記のメールアドレスへご相談ください。\n※国外への発送はできません。\n　　\n　　jinsya.gakusei@un.tsukuba.ac.jp　(人文社会エリア支援室…",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=6432",
@@ -135,13 +142,6 @@
             "content_html": "CEGLOCメディアライブラリーと、アカデミックライティングサポートデスク（AWSD）では語学学習相談デーを開催します。\n\n日時： 2025年7月24日（木）5限（15:15~16:30）\n場所： CEGLOC メディアライブラリー\n相談できる内容：各言語の学習方法、試験対策、その他\n相談できる言語：英語、韓国語、スペイン語、中国語、ドイツ語、日本語、フランス語、ロシア語\n☆予約不要　入室・退室自…",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=6405",
             "title": "【CEGLOC】語学学習相談デーの開催　7/24（木）",
-            "date_modified": "2025-07-07T03:00:00.000Z"
-        },
-        {
-            "id": "6f26b8651a6a2a1d484f632d1f2a7502",
-            "content_html": "各位\n\n以下の日程にて、第10 回言語学習評価研究会を行います。\nご興味のあります方は是非ご参加ください。\n\n詳細は添付資料をご参照ください。\n\n日時：2025 年10 月25 日（土）15:00～18:00\n形態：完全オンライン（Zoom を用いたオンライン開催。事後の録画提供はなし）\n使用言語：日本語\n事前申込：要（https://forms.gle/hZQ2K6yGQ5jtgxzo9）\n参加…",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=6404",
-            "title": "第10 回言語学習評価研究会（Language Learning Assessment Group Meeting）",
             "date_modified": "2025-07-07T03:00:00.000Z"
         }
     ]
