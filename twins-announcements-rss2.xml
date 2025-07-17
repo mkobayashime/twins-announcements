@@ -4,10 +4,24 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Wed, 16 Jul 2025 21:08:04 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 Jul 2025 01:29:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
+        <item>
+            <title><![CDATA[【人社支援室】授業料免除・猶予結果について／The result of tuition exemption]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=6432</link>
+            <guid isPermaLink="false">9a226e4d1bb741bbe7cdb07d4acebdfa</guid>
+            <pubDate>Thu, 17 Jul 2025 03:00:00 GMT</pubDate>
+            <description><![CDATA[7月16日（水）から、2025年度春学期分の授業料免除・猶予結果通知を配付します。
+
+対象の学生は、学生証をお持ちのうえ人文社会エリア支援室（1A棟3階）で受け取ってください。
+
+事情により郵送での受け取りを希望する方は、理由を添えて下記のメールアドレスへご相談ください。
+※国外への発送はできません。
+　　
+　　jinsya.gakusei@un.tsukuba.ac.jp　(人文社会エリア支援室…]]></description>
+        </item>
         <item>
             <title><![CDATA[【ご案内】エスティローダーさくら工場の見学（9/25）]]></title>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=6431</link>
@@ -251,15 +265,6 @@ Those who hav…]]></description>
 使用言語：日本語
 事前申込：要（https://forms.gle/hZQ2K6yGQ5jtgxzo9）
 参加…]]></description>
-        </item>
-        <item>
-            <title><![CDATA[【セミナー開催】国境なきキャリア～世界に飛び出す勇気を持とう！～　]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=6402</link>
-            <guid isPermaLink="false">19f35e37eaac1e10c713dbffea0033a6</guid>
-            <pubDate>Fri, 04 Jul 2025 03:00:00 GMT</pubDate>
-            <description><![CDATA[ソーシャルインパクト推進室では、国際的な視野を広げるためのRUN-UP活動を学内で随時企画しています。今回は、本学人間学群卒業生で現在フランス、パリのユネスコで活躍中の水野谷優先生をお招きして、第３回グローバルスタートアッパーセミナーを実施します。全学群生、大学院生、教職員対象で、どなたでも自由にご参加いただけます。海外でのキャリアに興味のある方、この貴重な機会をお見逃しなく！
-
-セッション１では…]]></description>
         </item>
     </channel>
 </rss>

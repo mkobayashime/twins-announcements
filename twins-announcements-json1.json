@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "9a226e4d1bb741bbe7cdb07d4acebdfa",
+            "content_html": "7月16日（水）から、2025年度春学期分の授業料免除・猶予結果通知を配付します。\n\n対象の学生は、学生証をお持ちのうえ人文社会エリア支援室（1A棟3階）で受け取ってください。\n\n事情により郵送での受け取りを希望する方は、理由を添えて下記のメールアドレスへご相談ください。\n※国外への発送はできません。\n　　\n　　jinsya.gakusei@un.tsukuba.ac.jp　(人文社会エリア支援室…",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=6432",
+            "title": "【人社支援室】授業料免除・猶予結果について／The result of tuition exemption",
+            "date_modified": "2025-07-17T03:00:00.000Z"
+        },
+        {
             "id": "62c249fb18ce926e4ab5b7c3c99ab807",
             "content_html": "お世話になっております。筑波大学BHEジェンダー支援チームです。\nアジア財団の小宮様より、エスティローダーさくら工場の見学のご案内が届きましたので、お知らせします。\nご興味がございましたら、申込フォームよりお申込ください。\n皆さまのご参加お待ちしております。\n\n＊＊＊＊＊\n皆様\n\nお世話になっております。\nアジア財団の小宮理奈です。\n\nこの度、エスティローダーさくら工場見学を実施いたします。\n詳細…",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=6431",
@@ -136,13 +143,6 @@
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=6404",
             "title": "第10 回言語学習評価研究会（Language Learning Assessment Group Meeting）",
             "date_modified": "2025-07-07T03:00:00.000Z"
-        },
-        {
-            "id": "19f35e37eaac1e10c713dbffea0033a6",
-            "content_html": "ソーシャルインパクト推進室では、国際的な視野を広げるためのRUN-UP活動を学内で随時企画しています。今回は、本学人間学群卒業生で現在フランス、パリのユネスコで活躍中の水野谷優先生をお招きして、第３回グローバルスタートアッパーセミナーを実施します。全学群生、大学院生、教職員対象で、どなたでも自由にご参加いただけます。海外でのキャリアに興味のある方、この貴重な機会をお見逃しなく！\n\nセッション１では…",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=6402",
-            "title": "【セミナー開催】国境なきキャリア～世界に飛び出す勇気を持とう！～　",
-            "date_modified": "2025-07-04T03:00:00.000Z"
         }
     ]
 }

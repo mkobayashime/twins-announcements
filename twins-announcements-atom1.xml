@@ -2,10 +2,24 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/mkobayashime/twins-announcements</id>
     <title>在学生へのお知らせ | 筑波大学</title>
-    <updated>2025-07-16T21:08:04.590Z</updated>
+    <updated>2025-07-17T01:29:48.826Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://github.com/mkobayashime/twins-announcements"/>
     <subtitle>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</subtitle>
+    <entry>
+        <title type="html"><![CDATA[【人社支援室】授業料免除・猶予結果について／The result of tuition exemption]]></title>
+        <id>9a226e4d1bb741bbe7cdb07d4acebdfa</id>
+        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=6432"/>
+        <updated>2025-07-17T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[7月16日（水）から、2025年度春学期分の授業料免除・猶予結果通知を配付します。
+
+対象の学生は、学生証をお持ちのうえ人文社会エリア支援室（1A棟3階）で受け取ってください。
+
+事情により郵送での受け取りを希望する方は、理由を添えて下記のメールアドレスへご相談ください。
+※国外への発送はできません。
+　　
+　　jinsya.gakusei@un.tsukuba.ac.jp　(人文社会エリア支援室…]]></summary>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【ご案内】エスティローダーさくら工場の見学（9/25）]]></title>
         <id>62c249fb18ce926e4ab5b7c3c99ab807</id>
@@ -249,14 +263,5 @@ Those who hav…]]></summary>
 使用言語：日本語
 事前申込：要（https://forms.gle/hZQ2K6yGQ5jtgxzo9）
 参加…]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【セミナー開催】国境なきキャリア～世界に飛び出す勇気を持とう！～　]]></title>
-        <id>19f35e37eaac1e10c713dbffea0033a6</id>
-        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=6402"/>
-        <updated>2025-07-04T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[ソーシャルインパクト推進室では、国際的な視野を広げるためのRUN-UP活動を学内で随時企画しています。今回は、本学人間学群卒業生で現在フランス、パリのユネスコで活躍中の水野谷優先生をお招きして、第３回グローバルスタートアッパーセミナーを実施します。全学群生、大学院生、教職員対象で、どなたでも自由にご参加いただけます。海外でのキャリアに興味のある方、この貴重な機会をお見逃しなく！
-
-セッション１では…]]></summary>
     </entry>
 </feed>
