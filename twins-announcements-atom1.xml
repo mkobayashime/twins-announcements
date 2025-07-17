@@ -2,10 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/mkobayashime/twins-announcements</id>
     <title>在学生へのお知らせ | 筑波大学</title>
-    <updated>2025-07-17T05:04:54.428Z</updated>
+    <updated>2025-07-17T08:01:50.009Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://github.com/mkobayashime/twins-announcements"/>
     <subtitle>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</subtitle>
+    <entry>
+        <title type="html"><![CDATA[【大学院生募集！謝金・旅費支給】情報デザイン・データ分析など情報分野を高校で教えてみませんか？]]></title>
+        <id>64756445b028ea5b806e12da93623db8</id>
+        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=6434"/>
+        <updated>2025-07-17T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[【募集】茨城県教育委員会「情報専門家活用プログラム」授業支援講師の募集
+
+大学院生の皆さん、高校で授業支援をしてみませんか？
+【業務内容】
+高等学校情報科の必履修科目である「情報Ｉ」の情報デザイン領域、データ分析領域等において、
+県立高校等の校長の指示に基づき、次の業務を行います。
+
+・生徒への指導、助言に必要な資料の作成
+・情報Ｉの授業における生徒への指導、助言
+・担当教員との意見交換等
+
+※情…]]></summary>
+    </entry>
     <entry>
         <title type="html"><![CDATA[いけばな体験教室の開催について/The Lesson of Ikebana Experience]]></title>
         <id>5008e72d7e5a3cc4b6900315ee6a9547</id>
@@ -247,18 +265,5 @@ https://www.meikei.or.jp/event/6960.html
 ・払込取扱票を既に発行されている未納者は、お持ちの払込取扱票により納入をお願いします。
 
 Those who hav…]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【CEGLOC】語学学習相談デーの開催　7/24（木）]]></title>
-        <id>b0cc7373f0878d4f4fc093a6cdaaad6a</id>
-        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=6405"/>
-        <updated>2025-07-07T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[CEGLOCメディアライブラリーと、アカデミックライティングサポートデスク（AWSD）では語学学習相談デーを開催します。
-
-日時： 2025年7月24日（木）5限（15:15~16:30）
-場所： CEGLOC メディアライブラリー
-相談できる内容：各言語の学習方法、試験対策、その他
-相談できる言語：英語、韓国語、スペイン語、中国語、ドイツ語、日本語、フランス語、ロシア語
-☆予約不要　入室・退室自…]]></summary>
     </entry>
 </feed>
