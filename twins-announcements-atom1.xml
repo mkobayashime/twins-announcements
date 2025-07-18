@@ -2,10 +2,26 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/mkobayashime/twins-announcements</id>
     <title>在学生へのお知らせ | 筑波大学</title>
-    <updated>2025-07-18T06:01:44.704Z</updated>
+    <updated>2025-07-18T08:01:43.337Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://github.com/mkobayashime/twins-announcements"/>
     <subtitle>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</subtitle>
+    <entry>
+        <title type="html"><![CDATA[【manaba掲載のお知らせ】令和7年度夏季休業前の海外危機管理セミナーについて]]></title>
+        <id>922ebbae31f14609c4c37b61323b8686</id>
+        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=6440"/>
+        <updated>2025-07-18T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[7/4（金）に開催した標題のセミナーについて、
+セミナー当日の動画と関係資料をmanabaにて掲載しましたので、お知らせいたします。
+コースの登録方法、動画視聴方法等につきましては、
+添付ファイルをご確認ください。
+
+〈以下参考：セミナーの概要情報〉
+海外危機管理に関するスペシャリストをお招きします。
+海外渡航前の準備事項と、現地での安全対策について学べます。
+
+１． 日時：　令和7年7月4日（金…]]></summary>
+    </entry>
     <entry>
         <title type="html"><![CDATA[教育学学位P次世代SP大学院説明会のお知らせ]]></title>
         <id>53ad08f34a324935577f7c6aefa3385c</id>
@@ -262,16 +278,5 @@ https://www.meikei.or.jp/event/6960.html
 
 7月17日（木）8：40-10：10に開催するセミナーでは、阿部・井窪・片山法律事務所
 パートナー…]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【周知】第27回参議院議員通常選挙に係る選挙啓発について]]></title>
-        <id>ba10bd94366cefa4c09d30eedfd42446</id>
-        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=6416"/>
-        <updated>2025-07-10T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[文部科学省を通じて、総務省より標記の件について、周知啓発に係る通知がありましたので、お知らせいたします。
-
-第27回参議院議員通常選挙は、７月３日（木）に公示され、７月20日（日）が投票日となっており、総務省では、投票日の周知と投票参加を呼びかけるため、様々な選挙啓発活動を行っています。このたび、その一環として、参議院議員通常選挙啓発用ポスターが作成されましたので、お目通しください。
-
-また、総務…]]></summary>
     </entry>
 </feed>
