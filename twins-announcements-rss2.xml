@@ -4,10 +4,25 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Fri, 18 Jul 2025 05:05:35 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 18 Jul 2025 06:01:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
+        <item>
+            <title><![CDATA[教育学学位P次世代SP大学院説明会のお知らせ]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=6439</link>
+            <guid isPermaLink="false">53ad08f34a324935577f7c6aefa3385c</guid>
+            <pubDate>Fri, 18 Jul 2025 03:00:00 GMT</pubDate>
+            <description><![CDATA[下記の日程で教育学学位プログラム大学院説明会を開催いたします。
+奮ってご参加ください。
+
+・8月30日（土）13時～　次世代学校教育創成サブプログラム
+詳細及び参加登録（必須）は、下記をご覧ください。
+https://www.education.tsukuba.ac.jp/news/5701/
+
+当日は、修了生座談会も同時開催いたします。
+大学院での学びと進路との関連について、知ることができる機会…]]></description>
+        </item>
         <item>
             <title><![CDATA[【多文化共修】インド工科大学とのGASSHUKU型プログラム参加者募集]]></title>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=6437</link>
@@ -260,13 +275,6 @@ https://www.meikei.or.jp/event/6960.html
 第27回参議院議員通常選挙は、７月３日（木）に公示され、７月20日（日）が投票日となっており、総務省では、投票日の周知と投票参加を呼びかけるため、様々な選挙啓発活動を行っています。このたび、その一環として、参議院議員通常選挙啓発用ポスターが作成されましたので、お目通しください。
 
 また、総務…]]></description>
-        </item>
-        <item>
-            <title><![CDATA[就活セミナー「公的セクターの就活体験（外務省・国際協力銀行に挑戦）」開催のお知らせ]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=6414</link>
-            <guid isPermaLink="false">09192522a1eda5975f11d427faf1a648</guid>
-            <pubDate>Wed, 09 Jul 2025 03:00:00 GMT</pubDate>
-            <description><![CDATA[筑波大学「世界を変えよう基金アカデミー」では、国家公務員総合職試験に合格し外務省に内定した4年生、および日本企業の海外進出を資金面で支援する政府系金融機関の国際協力銀行に内定した4年生のお二人(国際総合学類)をお招きして、外務省・国際協力銀行を志望した動機、具体的な就活対策、面接試験の経験等を話していただく、Zoom就活セミナー「公的セクターの就活体験ー外務省・国際協力銀行に挑戦」を8月3日（日）…]]></description>
         </item>
     </channel>
 </rss>
