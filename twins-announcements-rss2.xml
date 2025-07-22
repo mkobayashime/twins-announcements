@@ -4,10 +4,19 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Tue, 22 Jul 2025 09:11:07 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 22 Jul 2025 10:01:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
+        <item>
+            <title><![CDATA[【お知らせ】Teamsで海外留学や国際交流の最新情報を発信します！]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=6444</link>
+            <guid isPermaLink="false">4256f994e9570b3eba8ea0d4640f5f06</guid>
+            <pubDate>Tue, 22 Jul 2025 03:00:00 GMT</pubDate>
+            <description><![CDATA[スチューデントサポートセンター国際交流支援室では、本日からTeamsで海外留学や国際交流の最新情報の発信しています！
+
+少しでも留学や国際交流に興味があれば、是非添付のURLまたはチラシのQRコードから、「筑大生 海外留学・国際交流情報-public」に参加登録してください！]]></description>
+        </item>
         <item>
             <title><![CDATA[【7/30締切】日本財団OIC事業における学生向けイベントについて]]></title>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=6443</link>
@@ -274,16 +283,6 @@ Reflection Meeting of “Japanese Corporation Internship I (Hokkaido Training Pr
 対面面接編ではビジネスマナーも学ぶことができます。
 就活中の方、ISの選考を受ける方、参加して役立ててください。
 BHEキャリア支援チームのファシリテーターからフィードバックがあります。 （日本語開催）]]></description>
-        </item>
-        <item>
-            <title><![CDATA[外国人留学生のための日本語　大学院共通科目「学術活動と生活に役立つ日本語・日本文化入門」受講のご案内]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=6420</link>
-            <guid isPermaLink="false">d5e9de3ae3584e331231c83f0b9ab372</guid>
-            <pubDate>Mon, 14 Jul 2025 03:00:00 GMT</pubDate>
-            <description><![CDATA[大学院に在学する外国人留学生は、（3）に示す実施期間の中から自分の都合の良い授業を選び、必ず履修登録してください（論文研究等により履修時間が確保できない場合を除く）。
-本科目は単位付与対象科目であり、課題提出・小テストの実施を通じて成績評価を行います。
-日本語能力は問いません。
-]]></description>
         </item>
     </channel>
 </rss>
