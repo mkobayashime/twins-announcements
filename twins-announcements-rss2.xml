@@ -4,10 +4,25 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Thu, 24 Jul 2025 05:05:18 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 24 Jul 2025 06:01:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
+        <item>
+            <title><![CDATA[(BHE)7月28日　外務省主催　国連食糧農業機関（FAO）キャリアセミナー]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=6454</link>
+            <guid isPermaLink="false">159bae0896700478839d2897d87830f7</guid>
+            <pubDate>Thu, 24 Jul 2025 03:00:00 GMT</pubDate>
+            <description><![CDATA[FAOはじめ国際機関に関心のある学生の皆様に、外務省国際機関人事センター並びにFAO担当者（日本人）から
+直接、国際機関の業務内容やキャリアパスについて説明を聞く機会を提供します。
+国際機関を目指す第一歩にしてください。
+
+【開催概要】
+日時：7月28日（月）　13：30-15：00
+場所：筑波大学　1E棟302講義室
+定員：40名
+申込：https://forms.office.com/r/Jp…]]></description>
+        </item>
         <item>
             <title><![CDATA[BHE主催　就活支援企画　8月 BHE 面接・GD練習会のご案内]]></title>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=6453</link>
@@ -275,17 +290,6 @@ For details, please see the attached file.
             <description><![CDATA[筑波大学DESIGN THE FUTURE機構では、筑波大学CO₂削減プロジェクトの一環として、今年度も「学食メニューのCO₂見える化プロジェクト」（学食プロジェクト）を実施します。
 
 このプロジェクトでは、筑波大学の学食メニューのカーボンフットプリント(CFP)を計算し、地球温暖化への負荷を見える化することで、学生たちに食事が提供されるまでの環境負荷を意識してもらい、自分の健康だけでなく、地球の…]]></description>
-        </item>
-        <item>
-            <title><![CDATA[「お金の超基本勉強会―卒業してからでは遅すぎる」第18回開催のお知らせ]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=6425</link>
-            <guid isPermaLink="false">08e95601d98462afe24bf8094bfd743e</guid>
-            <pubDate>Tue, 15 Jul 2025 03:00:00 GMT</pubDate>
-            <description><![CDATA[「筑波大学・世界を変えよう基金アカデミー」では、お金に関する基礎知識（税金、結婚、教育、マイホーム、老後・病気への備え、投資運用,　NISA活用方法等）を学ぶ「お金の超基本勉強会―卒業してからでは遅すぎる」を7月末から3回に亘って開催します。
-
-開催日：第1回は下記のいずれかの日に対面（中央図書館セミナー室）で開催。
-7月28日（月）18:15~20:00、
-7月30日（水）18:15~20:00…]]></description>
         </item>
     </channel>
 </rss>

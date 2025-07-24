@@ -2,10 +2,25 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/mkobayashime/twins-announcements</id>
     <title>在学生へのお知らせ | 筑波大学</title>
-    <updated>2025-07-24T05:05:18.941Z</updated>
+    <updated>2025-07-24T06:01:42.815Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://github.com/mkobayashime/twins-announcements"/>
     <subtitle>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</subtitle>
+    <entry>
+        <title type="html"><![CDATA[(BHE)7月28日　外務省主催　国連食糧農業機関（FAO）キャリアセミナー]]></title>
+        <id>159bae0896700478839d2897d87830f7</id>
+        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=6454"/>
+        <updated>2025-07-24T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[FAOはじめ国際機関に関心のある学生の皆様に、外務省国際機関人事センター並びにFAO担当者（日本人）から
+直接、国際機関の業務内容やキャリアパスについて説明を聞く機会を提供します。
+国際機関を目指す第一歩にしてください。
+
+【開催概要】
+日時：7月28日（月）　13：30-15：00
+場所：筑波大学　1E棟302講義室
+定員：40名
+申込：https://forms.office.com/r/Jp…]]></summary>
+    </entry>
     <entry>
         <title type="html"><![CDATA[BHE主催　就活支援企画　8月 BHE 面接・GD練習会のご案内]]></title>
         <id>c0f3a3615b994d41ff36199a8102c78c</id>
@@ -273,16 +288,5 @@ For details, please see the attached file.
         <summary type="html"><![CDATA[筑波大学DESIGN THE FUTURE機構では、筑波大学CO₂削減プロジェクトの一環として、今年度も「学食メニューのCO₂見える化プロジェクト」（学食プロジェクト）を実施します。
 
 このプロジェクトでは、筑波大学の学食メニューのカーボンフットプリント(CFP)を計算し、地球温暖化への負荷を見える化することで、学生たちに食事が提供されるまでの環境負荷を意識してもらい、自分の健康だけでなく、地球の…]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[「お金の超基本勉強会―卒業してからでは遅すぎる」第18回開催のお知らせ]]></title>
-        <id>08e95601d98462afe24bf8094bfd743e</id>
-        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=6425"/>
-        <updated>2025-07-15T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[「筑波大学・世界を変えよう基金アカデミー」では、お金に関する基礎知識（税金、結婚、教育、マイホーム、老後・病気への備え、投資運用,　NISA活用方法等）を学ぶ「お金の超基本勉強会―卒業してからでは遅すぎる」を7月末から3回に亘って開催します。
-
-開催日：第1回は下記のいずれかの日に対面（中央図書館セミナー室）で開催。
-7月28日（月）18:15~20:00、
-7月30日（水）18:15~20:00…]]></summary>
     </entry>
 </feed>
