@@ -4,10 +4,24 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Wed, 23 Jul 2025 21:08:20 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 24 Jul 2025 00:03:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
+        <item>
+            <title><![CDATA[【本日11:30-開催】 医学食堂を追悼するランチ会のお知らせ/つくば院生ネットワーク]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=6452</link>
+            <guid isPermaLink="false">5f6192983272241180ae9aba240a4473</guid>
+            <pubDate>Thu, 24 Jul 2025 03:00:00 GMT</pubDate>
+            <description><![CDATA[なんと、医学食堂が2025年8月2日にその幕を閉じます！
+そこで、今回筑波大学医学食堂との"追悼ランチ会"を開催いたします。
+
+長年にわたり私たちの学生生活を支えてくれた思い出深い場所に、感謝の気持ちを込めて最後のひとときを過ごしませんか。
+
+今回は特別企画として、TGN外部の方もご参加いただけるオープンなランチ会といたします。
+ぜひお知り合いの方もお誘いください。
+===============…]]></description>
+        </item>
         <item>
             <title><![CDATA[🐘参加者募集🐘8/25（月）～28（木）多文化共修 with カセサート大学（タイ王国）@かすみがうら市]]></title>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=6451</link>
@@ -269,16 +283,6 @@ For details, please see the attached file.
 場所：筑波大学　1E棟302講義室
 定員：40名
 申込：https://forms.office.com/r/Jp…]]></description>
-        </item>
-        <item>
-            <title><![CDATA[外国人留学生のための日本語　大学院共通科目「学術活動と生活に役立つ日本語・日本文化入門」受講のご案内]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=6420</link>
-            <guid isPermaLink="false">d5e9de3ae3584e331231c83f0b9ab372</guid>
-            <pubDate>Mon, 14 Jul 2025 03:00:00 GMT</pubDate>
-            <description><![CDATA[大学院に在学する外国人留学生は、（3）に示す実施期間の中から自分の都合の良い授業を選び、必ず履修登録してください（論文研究等により履修時間が確保できない場合を除く）。
-本科目は単位付与対象科目であり、課題提出・小テストの実施を通じて成績評価を行います。
-日本語能力は問いません。
-]]></description>
         </item>
     </channel>
 </rss>
