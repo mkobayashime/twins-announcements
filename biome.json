@@ -1,9 +1,4 @@
 {
-  "$schema": "https://biomejs.dev/schemas/2.1.2/schema.json",
-  "extends": ["@mkobayashime/shared-config/biome"],
-  "formatter": {
-    "enabled": true,
-    "indentStyle": "space",
-    "indentWidth": 2
-  }
+	"$schema": "https://biomejs.dev/schemas/2.1.2/schema.json",
+	"extends": ["@mkobayashime/shared-config/biome"]
 }
