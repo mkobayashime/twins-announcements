@@ -8,30 +8,30 @@ import type { Announcement } from "./types/index.js";
 const filePath = path.resolve("dist", "latestAnnouncementTitle");
 
 export const getLatestAnnouncementTitle = async (): Promise<
-  O.Option<string>
+	O.Option<string>
 > => {
-  try {
-    if (!existsSync(filePath)) return O.none;
+	try {
+		if (!existsSync(filePath)) return O.none;
 
-    const titleBuffer = await readFile(filePath);
+		const titleBuffer = await readFile(filePath);
 
-    return O.some(titleBuffer.toString());
-  } catch (err) {
-    console.error(err);
-    throw new Error(
-      "Failed to read title of latest announcement from the file",
-    );
-  }
+		return O.some(titleBuffer.toString());
+	} catch (err) {
+		console.error(err);
+		throw new Error(
+			"Failed to read title of latest announcement from the file",
+		);
+	}
 };
 
 export const saveLatestAnnouncementTitle = async (
-  announcements: Announcement[],
+	announcements: Announcement[],
 ): Promise<void> => {
-  const latestAnnouncement = announcements[0];
-  if (!latestAnnouncement) {
-    throw new Error("No announcements passed to `saveLatestAnnouncementTitle`");
-  }
+	const latestAnnouncement = announcements[0];
+	if (!latestAnnouncement) {
+		throw new Error("No announcements passed to `saveLatestAnnouncementTitle`");
+	}
 
-  await mkdir(path.resolve("dist"), { recursive: true });
-  await writeFile(filePath, latestAnnouncement.title);
+	await mkdir(path.resolve("dist"), { recursive: true });
+	await writeFile(filePath, latestAnnouncement.title);
 };
