@@ -2,10 +2,24 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/mkobayashime/twins-announcements</id>
     <title>在学生へのお知らせ | 筑波大学</title>
-    <updated>2025-07-29T01:30:14.927Z</updated>
+    <updated>2025-07-29T08:01:44.056Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://github.com/mkobayashime/twins-announcements"/>
     <subtitle>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</subtitle>
+    <entry>
+        <title type="html"><![CDATA[【お知らせ】東京国立博物館キャンパスメンバーズ特典ご案内について]]></title>
+        <id>35b05b3013fb22c763ef8e43ed1872a3</id>
+        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=6462"/>
+        <updated>2025-07-29T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[　東京国立博物館より、キャンパスメンバーズ会員校の学生の皆様宛てに、
+現在東京国立博物館にて行われている「東博コレクション」並びに「特別展」に
+ついて別紙のとおり案内がありましたので、お知らせいたします。
+
+　本学は東京国立博物館キャンパスメンバーズ会員校となっておりますので、
+平常展並びに特別展の観覧に際に特典を受けられます。
+　詳細につきましては別紙をご確認ください。
+　　　]]></summary>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【多文化共修】インド工科大学とのGASSHUKU型プログラム参加者募集]]></title>
         <id>0a9a61e48a7741eb1bcca7034d59689b</id>
@@ -250,20 +264,5 @@ BHE HP「…]]></summary>
 海外渡航前の準備事項と、現地での安全対策について学べます。
 
 １． 日時：　令和7年7月4日（金…]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[教育学学位P次世代SP大学院説明会のお知らせ]]></title>
-        <id>53ad08f34a324935577f7c6aefa3385c</id>
-        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=6439"/>
-        <updated>2025-07-18T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[下記の日程で教育学学位プログラム大学院説明会を開催いたします。
-奮ってご参加ください。
-
-・8月30日（土）13時～　次世代学校教育創成サブプログラム
-詳細及び参加登録（必須）は、下記をご覧ください。
-https://www.education.tsukuba.ac.jp/news/5701/
-
-当日は、修了生座談会も同時開催いたします。
-大学院での学びと進路との関連について、知ることができる機会…]]></summary>
     </entry>
 </feed>
