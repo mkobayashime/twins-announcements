@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/mkobayashime/twins-announcements</id>
     <title>在学生へのお知らせ | 筑波大学</title>
-    <updated>2025-07-28T21:07:51.342Z</updated>
+    <updated>2025-07-29T01:30:14.927Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://github.com/mkobayashime/twins-announcements"/>
     <subtitle>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</subtitle>
+    <entry>
+        <title type="html"><![CDATA[【多文化共修】インド工科大学とのGASSHUKU型プログラム参加者募集]]></title>
+        <id>0a9a61e48a7741eb1bcca7034d59689b</id>
+        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=6461"/>
+        <updated>2025-07-29T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[オーガニック農園への訪問、ディスカッション、発表等を通して、国際的なコミュニケーション能力の習得や地域・社会が抱える様々な課題解決に取り組んでいきます。（8月にオンラインでの説明等があります）
+
+詳細は、PDF及びPDF内のQRコードの詳細をご確認ください。
+授業があるが参加したい等、ご相談やご不明点についてお気軽にお問い合わせください。
+
+問い合わせ先：tias-admin@un.tsukuba…]]></summary>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【奨学金/Scholarship】一般社団法人CWAJ奨学金 /CWAJ Scholarship Program]]></title>
         <id>2c33106734918068336ebbd6d853d1d9</id>
@@ -253,17 +265,5 @@ https://www.education.tsukuba.ac.jp/news/5701/
 
 当日は、修了生座談会も同時開催いたします。
 大学院での学びと進路との関連について、知ることができる機会…]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【再掲】安全保障輸出管理研修及び誓約書提出のお願い]]></title>
-        <id>b45d35345b14d10bc89733a5782c6fd3</id>
-        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=6436"/>
-        <updated>2025-07-18T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[日頃より安全保障輸出管理にご協力いただきありがとうございます。
-Thank you for your continued cooperation with security export control.
-
-令和７年度の新入生及び昨年度未受講の方を対象に、安全保障輸出管理の
-Eラーニング研修を受講いただくことになっております。
-New students enrolled in the 2025 a…]]></summary>
     </entry>
 </feed>
