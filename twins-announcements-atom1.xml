@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/mkobayashime/twins-announcements</id>
     <title>在学生へのお知らせ | 筑波大学</title>
-    <updated>2025-07-29T21:08:04.249Z</updated>
+    <updated>2025-07-30T07:04:58.351Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://github.com/mkobayashime/twins-announcements"/>
     <subtitle>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</subtitle>
+    <entry>
+        <title type="html"><![CDATA[【募集】短期交換留学生派遣募集　令和8(2026)年度　オハイオ州立大学]]></title>
+        <id>05cc94d21d9a76a1acb2223d1fab6a3a</id>
+        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=6463"/>
+        <updated>2025-07-30T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[国際総合学類、比較文化学類、日本語・日本文化学類、人文学類、人間学群　学生各位
+
+令和8(2026)年度　オハイオ州立大学（Ohio State University）/ アメリカ合衆国
+短期交換留学生派遣応募要項をお知らせします。
+
+留学を希望する学生は添付の要項をよく確認し、【令和7(2025)年12月5日(金)　午後5時（厳守）】までに、
+応募書類をシステム情報エリア支援室学群教務窓口(3A…]]></summary>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【お知らせ】東京国立博物館キャンパスメンバーズ特典ご案内について]]></title>
         <id>35b05b3013fb22c763ef8e43ed1872a3</id>
@@ -248,21 +261,5 @@ BHE HP「…]]></summary>
 このイベントは職員との交流等を通して、学生の皆様に当所の研究活動を知っていただくことを目的としております。
 
 参加希望の学生は、以下の案内…]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【manaba掲載のお知らせ】令和7年度夏季休業前の海外危機管理セミナーについて]]></title>
-        <id>922ebbae31f14609c4c37b61323b8686</id>
-        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=6440"/>
-        <updated>2025-07-18T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[7/4（金）に開催した標題のセミナーについて、
-セミナー当日の動画と関係資料をmanabaにて掲載しましたので、お知らせいたします。
-コースの登録方法、動画視聴方法等につきましては、
-添付ファイルをご確認ください。
-
-〈以下参考：セミナーの概要情報〉
-海外危機管理に関するスペシャリストをお招きします。
-海外渡航前の準備事項と、現地での安全対策について学べます。
-
-１． 日時：　令和7年7月4日（金…]]></summary>
     </entry>
 </feed>
