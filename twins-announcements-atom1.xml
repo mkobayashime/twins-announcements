@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/mkobayashime/twins-announcements</id>
     <title>在学生へのお知らせ | 筑波大学</title>
-    <updated>2025-07-30T21:08:02.810Z</updated>
+    <updated>2025-07-31T02:40:15.967Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://github.com/mkobayashime/twins-announcements"/>
     <subtitle>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</subtitle>
+    <entry>
+        <title type="html"><![CDATA[DTF機構 学食プロジェクト・SDGs活動 参加学生募集]]></title>
+        <id>def4204bc9ec08a3fb89316f10e0074d</id>
+        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=6464"/>
+        <updated>2025-07-31T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[筑波大学DESIGN THE FUTURE機構（DTF機構）では、今年秋に実施予定の「学食プロジェクト」（学食メニューのCO₂見える化プロジェクト）や、広くSDGsに関連するプロジェクトに関わってみたい、という学生を募集します。
+
+【募集対象】
+・学食プロジェクトの運営スタッフに参加したい/興味がある方
+・広くSDGsに関連するプロジェクトに参加したい/興味がある方
+
+詳細PDF内QRコードもしく…]]></summary>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【募集】短期交換留学生派遣募集　令和8(2026)年度　オハイオ州立大学]]></title>
         <id>05cc94d21d9a76a1acb2223d1fab6a3a</id>
@@ -247,19 +260,5 @@ BHE HP「…]]></summary>
 
 詳細は、PDF及びPDF内のQRコードの詳細をご確認ください。
 授業があるが参加した…]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【周知】電子航法研究所　オープンカンパニーのお知らせ]]></title>
-        <id>c22b5cb2d94a72c75e2e2e1d40cbde9c</id>
-        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=6441"/>
-        <updated>2025-07-22T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[航空交通システムに関する研究開発を行う国立研究開発法人 電子航法研究所より、オープンカンパニー（研究所説明会）の案内がありました。
-
-***
-8月29日（金）、9月4日（木）、9月5日（金）（いずれか1日）に、当研究所にてオープンカンパニーを実施いたします。
-
-このイベントは職員との交流等を通して、学生の皆様に当所の研究活動を知っていただくことを目的としております。
-
-参加希望の学生は、以下の案内…]]></summary>
     </entry>
 </feed>
