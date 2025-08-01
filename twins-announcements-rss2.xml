@@ -4,10 +4,26 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Thu, 31 Jul 2025 21:08:08 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 01 Aug 2025 05:09:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
+        <item>
+            <title><![CDATA[【お知らせ】「海の自然史学的研究」（臨海実習）受講者募集のお知らせ（国立科学博物館）]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=6466</link>
+            <guid isPermaLink="false">c7fe71448a4a23b090f998cf8482a1f2</guid>
+            <pubDate>Fri, 01 Aug 2025 03:00:00 GMT</pubDate>
+            <description><![CDATA[　国立科学博物館から、例年お茶の水女子大学との連携事業「海の自然史学的研究」
+（臨海実習）の募集案内がありましたので、周知いたします。詳細については
+別紙をご確認ください。
+
+※本学は国立科学博物館大学パートナーシップ入会校であり、入会校生は本件の募集
+について優先枠が設けられております。
+　
+「海の自然史学的研究」（臨海実習）
+［実施期間］令和8年3月23日（月）～3月27日（金）
+［対象学生］…]]></description>
+        </item>
         <item>
             <title><![CDATA[筑波大学公式オリジナルグッズECサイト割引クーポンのお知らせ（8月） 2025/8/1～2025/8/31]]></title>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=6449</link>
@@ -248,22 +264,6 @@ BHE HP「…]]></description>
 このイベントは職員との交流等を通して、学生の皆様に当所の研究活動を知っていただくことを目的としております。
 
 参加希望の学生は、以下の案内…]]></description>
-        </item>
-        <item>
-            <title><![CDATA[【manaba掲載のお知らせ】令和7年度夏季休業前の海外危機管理セミナーについて]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=6440</link>
-            <guid isPermaLink="false">922ebbae31f14609c4c37b61323b8686</guid>
-            <pubDate>Fri, 18 Jul 2025 03:00:00 GMT</pubDate>
-            <description><![CDATA[7/4（金）に開催した標題のセミナーについて、
-セミナー当日の動画と関係資料をmanabaにて掲載しましたので、お知らせいたします。
-コースの登録方法、動画視聴方法等につきましては、
-添付ファイルをご確認ください。
-
-〈以下参考：セミナーの概要情報〉
-海外危機管理に関するスペシャリストをお招きします。
-海外渡航前の準備事項と、現地での安全対策について学べます。
-
-１． 日時：　令和7年7月4日（金…]]></description>
         </item>
     </channel>
 </rss>
