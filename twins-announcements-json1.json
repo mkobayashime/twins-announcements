@@ -5,6 +5,20 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "031d0959cd68cdb46eb4b8887b55ad21",
+            "content_html": "In order to support teaching and learning, we provide an eBook trial service. Ebooks on KinoDen platform, provided by Kinokuniya Bookstore, has extended its free service period by one month and will b…",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=6470",
+            "title": "【Library】[Period extended]Free Ebook Trial Service(-Aug.31)",
+            "date_modified": "2025-08-01T03:00:00.000Z"
+        },
+        {
+            "id": "b3e94ac3ed54f5d98282bb8ea55e7f37",
+            "content_html": "5月から実施中の電子ブックの全文無料試し読みサービス期間が1か月延長になりました。\n\n【実施期間と対象プラットフォーム】\n・KinoDen（紀伊國屋書店）　8月31日(木)まで\n　https://kinoden-kinokuniya-co-jp.tsukuba.idm.oclc.org/TsukubaUniv/\n　(学外から利用の際は統一認証のID/PWの入力が求められます)\n\n自宅や帰省先からも…",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=6469",
+            "title": "【附属図書館】[期間延長！8月31日まで]電子ブック 全文無料試し読みサービスのご案内",
+            "date_modified": "2025-08-01T03:00:00.000Z"
+        },
+        {
             "id": "28d68bf3a9e0964c71b8cc02415fc69b",
             "content_html": "〔再掲〕国際交流支援室より、多文化共修プログラムの参加者募集のお知らせです。\n\nタイの協定校・カセサート大学から学生を迎えて、茨城県かすみがうら市をフィールドとして開催するプログラムへの参加者を募集しています。参加費無料です。\n\n応募締切：８月９日（土）正午（日本時間）\n\n詳しい日程や応募方法は、リンク先SSCサイトをぜひご確認ください！たくさんのご応募お待ちしています。\n\n",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=6468",
@@ -129,20 +143,6 @@
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=6445",
             "title": "【人社支援室】入学料免除・徴収猶予結果について",
             "date_modified": "2025-07-23T03:00:00.000Z"
-        },
-        {
-            "id": "4256f994e9570b3eba8ea0d4640f5f06",
-            "content_html": "スチューデントサポートセンター国際交流支援室では、本日からTeamsで海外留学や国際交流の最新情報の発信しています！\n\n少しでも留学や国際交流に興味があれば、是非添付のURLまたはチラシのQRコードから、「筑大生 海外留学・国際交流情報-public」に参加登録してください！",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=6444",
-            "title": "【お知らせ】Teamsで海外留学や国際交流の最新情報を発信します！",
-            "date_modified": "2025-07-22T03:00:00.000Z"
-        },
-        {
-            "id": "11e00a207b6a6c34be9ad7943897fd27",
-            "content_html": "船舶のゼロエミッション化を学ぶことを目的として、\n「Ride the Green Wave！ ゼロエミッションの未来を動かす、\n船舶燃料転換の最前線を体験する5日間」を開催予定です。\n\n開催日程：2025年8月24日～8月28日\n開催場所：姫路市～伊万里市\n費用：旅費支給を目的とした奨学金・開催期間中の食費支給あり\n\n※　募集要項上は学部3年生～修士1年生を対象としておりますが、\n　　学部1年生～…",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=6443",
-            "title": "【7/30締切】日本財団OIC事業における学生向けイベントについて",
-            "date_modified": "2025-07-22T03:00:00.000Z"
         }
     ]
 }

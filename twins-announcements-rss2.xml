@@ -4,10 +4,31 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Fri, 01 Aug 2025 08:01:41 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 01 Aug 2025 09:04:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
+        <item>
+            <title><![CDATA[【Library】[Period extended]Free Ebook Trial Service(-Aug.31)]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=6470</link>
+            <guid isPermaLink="false">031d0959cd68cdb46eb4b8887b55ad21</guid>
+            <pubDate>Fri, 01 Aug 2025 03:00:00 GMT</pubDate>
+            <description><![CDATA[In order to support teaching and learning, we provide an eBook trial service. Ebooks on KinoDen platform, provided by Kinokuniya Bookstore, has extended its free service period by one month and will b…]]></description>
+        </item>
+        <item>
+            <title><![CDATA[【附属図書館】[期間延長！8月31日まで]電子ブック 全文無料試し読みサービスのご案内]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=6469</link>
+            <guid isPermaLink="false">b3e94ac3ed54f5d98282bb8ea55e7f37</guid>
+            <pubDate>Fri, 01 Aug 2025 03:00:00 GMT</pubDate>
+            <description><![CDATA[5月から実施中の電子ブックの全文無料試し読みサービス期間が1か月延長になりました。
+
+【実施期間と対象プラットフォーム】
+・KinoDen（紀伊國屋書店）　8月31日(木)まで
+　https://kinoden-kinokuniya-co-jp.tsukuba.idm.oclc.org/TsukubaUniv/
+　(学外から利用の際は統一認証のID/PWの入力が求められます)
+
+自宅や帰省先からも…]]></description>
+        </item>
         <item>
             <title><![CDATA[🪄【8/9正午締切】8/25（月）～28（木）多文化共修 with カセサート大学　参加者募集]]></title>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=6468</link>
@@ -243,31 +264,6 @@ BHE HP「…]]></description>
 徴収猶予を許可された者：　2026年2月27日（金）
 
 事情により郵送での受け取りを希望する方は、理由を添えて下記のメールアドレスへご相談く…]]></description>
-        </item>
-        <item>
-            <title><![CDATA[【お知らせ】Teamsで海外留学や国際交流の最新情報を発信します！]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=6444</link>
-            <guid isPermaLink="false">4256f994e9570b3eba8ea0d4640f5f06</guid>
-            <pubDate>Tue, 22 Jul 2025 03:00:00 GMT</pubDate>
-            <description><![CDATA[スチューデントサポートセンター国際交流支援室では、本日からTeamsで海外留学や国際交流の最新情報の発信しています！
-
-少しでも留学や国際交流に興味があれば、是非添付のURLまたはチラシのQRコードから、「筑大生 海外留学・国際交流情報-public」に参加登録してください！]]></description>
-        </item>
-        <item>
-            <title><![CDATA[【7/30締切】日本財団OIC事業における学生向けイベントについて]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=6443</link>
-            <guid isPermaLink="false">11e00a207b6a6c34be9ad7943897fd27</guid>
-            <pubDate>Tue, 22 Jul 2025 03:00:00 GMT</pubDate>
-            <description><![CDATA[船舶のゼロエミッション化を学ぶことを目的として、
-「Ride the Green Wave！ ゼロエミッションの未来を動かす、
-船舶燃料転換の最前線を体験する5日間」を開催予定です。
-
-開催日程：2025年8月24日～8月28日
-開催場所：姫路市～伊万里市
-費用：旅費支給を目的とした奨学金・開催期間中の食費支給あり
-
-※　募集要項上は学部3年生～修士1年生を対象としておりますが、
-　　学部1年生～…]]></description>
         </item>
     </channel>
 </rss>
