@@ -4,10 +4,18 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Mon, 04 Aug 2025 03:36:23 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 04 Aug 2025 05:13:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
+        <item>
+            <title><![CDATA[筑波会議2025開催のお知らせ～参加登録受付中～/Registration for Tsukuba Conference 2025 is now open!]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=6472</link>
+            <guid isPermaLink="false">20c7b3c27816a5bc46253ea34f25e329</guid>
+            <pubDate>Mon, 04 Aug 2025 03:00:00 GMT</pubDate>
+            <description><![CDATA[筑波会議は、産官学の若手が「社会と科学技術」の諸課題について議論し交流する国際会議です。4回目の開催となる筑波会議2025では、”Going into New Frontiers with Society”をメインテーマに様々なセッションを実施します。9月30日正午まで参加登録を受け付けておりますので、興味のある方はぜひご参加ください。
+The Tsukuba Conference is an i…]]></description>
+        </item>
         <item>
             <title><![CDATA[BHE主催　就活支援企画　8月 BHE 面接・GD練習会のご案内]]></title>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=6471</link>
@@ -260,14 +268,6 @@ BHE HP「…]]></description>
 応募締切：８月９日（土）正午（日本時間）
 
 詳しい日程や応募方法は、リンク先SSCサイトをぜひご確認ください。夏休みに国際交流できるチャンスです]]></description>
-        </item>
-        <item>
-            <title><![CDATA[【参加者募集】Tsukuba × Latin America オンライン交流プログラム（9/24(水)～26(金)開催）※申込〆切：8/20(金)]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=6446</link>
-            <guid isPermaLink="false">65a6a6aec9c2907bfaa026a617c5cac1</guid>
-            <pubDate>Wed, 23 Jul 2025 03:00:00 GMT</pubDate>
-            <description><![CDATA[毎年好評の“筑波大 × 中南米協定校 オンライン交流プログラム”、今年も開催します！
-中南米交換留学プログラム－筑波トランスパシフィックプログラム（TTPP）が主催する本プログラムでは、3日目である最終日のプレゼンテーション発表に向けて、5～6名ほどのスモールグループにてトピックに基づきディスカッションを行います。自信のない方、不安な方も、大丈夫！例年、はじめは緊張していた参加学生の方も、最後には…]]></description>
         </item>
     </channel>
 </rss>
