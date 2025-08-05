@@ -4,10 +4,24 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Mon, 04 Aug 2025 21:08:07 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 05 Aug 2025 01:30:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
+        <item>
+            <title><![CDATA[（附属図書館）9月の休館について / (Library) Closure on September]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=6474</link>
+            <guid isPermaLink="false">3e3615cc598dd2f24003a9f26556ab0a</guid>
+            <pubDate>Tue, 05 Aug 2025 03:00:00 GMT</pubDate>
+            <description><![CDATA[館内整備日のため、以下のとおり休館いたします。ご不便をおかけしますが、ご協力の程よろしくお願いいたします。
+For organizing the books, the library will be closed as follows. Thank you for your cooperation.
+
+・令和7年9月2日（火）
+　　大塚図書館
+・令和7年9月3日（水）
+　　中央図書館
+・令和7年9…]]></description>
+        </item>
         <item>
             <title><![CDATA[【開催通知】令和７年度高圧ガスボンベ利用者安全講習会の開催について]]></title>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=6473</link>
@@ -255,19 +269,6 @@ BHEキャリア支援チームのファシリテーターからフィードバ�
 
 13：30-15：00 Zoom
 BHE HP「…]]></description>
-        </item>
-        <item>
-            <title><![CDATA[🐘参加者募集🐘8/25（月）～28（木）多文化共修 with カセサート大学（タイ王国）@かすみがうら市]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=6451</link>
-            <guid isPermaLink="false">dff4aed76093eaaa107a441bae2b5fa7</guid>
-            <pubDate>Wed, 23 Jul 2025 03:00:00 GMT</pubDate>
-            <description><![CDATA[国際交流支援室より、多文化共修プログラムの参加者募集のお知らせです。
-
-タイの協定校・カセサート大学から学生を迎えて、茨城県かすみがうら市をフィールドとして開催するプログラムへの参加者を募集しています。参加費無料です。
-
-応募締切：８月９日（土）正午（日本時間）
-
-詳しい日程や応募方法は、リンク先SSCサイトをぜひご確認ください！たくさんのご応募お待ちしています。]]></description>
         </item>
     </channel>
 </rss>
