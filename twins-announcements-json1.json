@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "fd7837b1de324688698549a299d83d4d",
+            "content_html": "一般財団法人　高久国際奨学財団奨学生募集（2026年度）\n応募期間：2025年11月1日～30日　※当日消印有効\n提出先：財団へ直接応募　(普通郵便またはレターパックライトで送付)\n募集要項・申請書等様式：http://www.takaku-foundation.com/\n※日本語能力が必要です。(日本語能力試験1級程度の会話力及び文章力)\n※この奨学金を受給する者は、2026年度の大学推薦奨学金…",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=6475",
+            "title": "【奨学金/Scholarship】高久国際奨学財団奨学生募集 /TAKAKU foundation",
+            "date_modified": "2025-08-06T03:00:00.000Z"
+        },
+        {
             "id": "3e3615cc598dd2f24003a9f26556ab0a",
             "content_html": "館内整備日のため、以下のとおり休館いたします。ご不便をおかけしますが、ご協力の程よろしくお願いいたします。\nFor organizing the books, the library will be closed as follows. Thank you for your cooperation.\n\n・令和7年9月2日（火）\n　　大塚図書館\n・令和7年9月3日（水）\n　　中央図書館\n・令和7年9…",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=6474",
@@ -136,13 +143,6 @@
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=6455",
             "title": "【再掲】就活セミナー「公的セクターの就活体験ー外務省・国際協力銀行に挑戦」開催のお知らせ",
             "date_modified": "2025-07-25T03:00:00.000Z"
-        },
-        {
-            "id": "c0f3a3615b994d41ff36199a8102c78c",
-            "content_html": "就活に即役立つ、面接・GD練習会です。対面でもオンラインでも開催します。\n\n対面面接編ではビジネスマナーも学ぶことができます。\n就活中の方、ISの選考を受ける方、参加して役立ててください。\nBHEキャリア支援チームのファシリテーターからフィードバックがあります。 （日本語での開催です）\n\n【詳細と申込み】\n\n＜オンライン集団面接＞　8月8日（金）\n\n13：30-15：00 Zoom\nBHE HP「…",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=6453",
-            "title": "BHE主催　就活支援企画　8月 BHE 面接・GD練習会のご案内",
-            "date_modified": "2025-07-24T03:00:00.000Z"
         }
     ]
 }

@@ -4,10 +4,22 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Tue, 05 Aug 2025 21:07:58 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 Aug 2025 05:08:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
+        <item>
+            <title><![CDATA[【奨学金/Scholarship】高久国際奨学財団奨学生募集 /TAKAKU foundation]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=6475</link>
+            <guid isPermaLink="false">fd7837b1de324688698549a299d83d4d</guid>
+            <pubDate>Wed, 06 Aug 2025 03:00:00 GMT</pubDate>
+            <description><![CDATA[一般財団法人　高久国際奨学財団奨学生募集（2026年度）
+応募期間：2025年11月1日～30日　※当日消印有効
+提出先：財団へ直接応募　(普通郵便またはレターパックライトで送付)
+募集要項・申請書等様式：http://www.takaku-foundation.com/
+※日本語能力が必要です。(日本語能力試験1級程度の会話力及び文章力)
+※この奨学金を受給する者は、2026年度の大学推薦奨学金…]]></description>
+        </item>
         <item>
             <title><![CDATA[（附属図書館）9月の休館について / (Library) Closure on September]]></title>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=6474</link>
@@ -251,24 +263,6 @@ Application period: From July 1 to…]]></description>
             <guid isPermaLink="false">d918024b94acc6d9d57245ae90a398f9</guid>
             <pubDate>Fri, 25 Jul 2025 03:00:00 GMT</pubDate>
             <description><![CDATA[筑波大学「世界を変えよう基金アカデミー」では、国家公務員総合職試験に合格し外務省に内定した4年生、および日本企業の海外進出を資金面で支援する政府系金融機関の国際協力銀行に内定した4年生のお二人(国際総合学類)をお招きして、外務省・国際協力銀行を志望した動機、具体的な就活対策、面接試験の経験等を話していただく、Zoom就活セミナー「公的セクターの就活体験ー外務省・国際協力銀行に挑戦」を8月3日（日）…]]></description>
-        </item>
-        <item>
-            <title><![CDATA[BHE主催　就活支援企画　8月 BHE 面接・GD練習会のご案内]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=6453</link>
-            <guid isPermaLink="false">c0f3a3615b994d41ff36199a8102c78c</guid>
-            <pubDate>Thu, 24 Jul 2025 03:00:00 GMT</pubDate>
-            <description><![CDATA[就活に即役立つ、面接・GD練習会です。対面でもオンラインでも開催します。
-
-対面面接編ではビジネスマナーも学ぶことができます。
-就活中の方、ISの選考を受ける方、参加して役立ててください。
-BHEキャリア支援チームのファシリテーターからフィードバックがあります。 （日本語での開催です）
-
-【詳細と申込み】
-
-＜オンライン集団面接＞　8月8日（金）
-
-13：30-15：00 Zoom
-BHE HP「…]]></description>
         </item>
     </channel>
 </rss>
