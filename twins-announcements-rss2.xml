@@ -4,10 +4,28 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Wed, 06 Aug 2025 21:08:00 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Aug 2025 01:37:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
+        <item>
+            <title><![CDATA[【明日開催】就活支援企画オンライン面接練習会]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=6476</link>
+            <guid isPermaLink="false">a17009fc4d08a3a3d05e0a097e486aa1</guid>
+            <pubDate>Thu, 07 Aug 2025 03:00:00 GMT</pubDate>
+            <description><![CDATA[就活に即役立つ面接練習会です。明日はオンラインで開催します。
+
+【詳細と申込み】
+
+＜オンライン集団面接＞　8月8日（金）
+
+13：30-15：00 Zoom
+BHE HP「イベントコンテンツ動画・資料」→「就職情報」
+
+http://syushoku.sec.tsukuba.ac.jp/pls/piss/web_guidance.proc_main
+※ログインが必要です。
+ユーザー名：学籍番号　…]]></description>
+        </item>
         <item>
             <title><![CDATA[【奨学金/Scholarship】高久国際奨学財団奨学生募集 /TAKAKU foundation]]></title>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=6475</link>
@@ -256,13 +274,6 @@ Application period: From July 1 to…]]></description>
 
 本ファイルは、県内で実際に発生した犯罪の情報のほか、防犯対策に役立つ情報が含まれております。ご自身の安全のためにも、ぜひご確認ください。
 ]]></description>
-        </item>
-        <item>
-            <title><![CDATA[【再掲】就活セミナー「公的セクターの就活体験ー外務省・国際協力銀行に挑戦」開催のお知らせ]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=6455</link>
-            <guid isPermaLink="false">d918024b94acc6d9d57245ae90a398f9</guid>
-            <pubDate>Fri, 25 Jul 2025 03:00:00 GMT</pubDate>
-            <description><![CDATA[筑波大学「世界を変えよう基金アカデミー」では、国家公務員総合職試験に合格し外務省に内定した4年生、および日本企業の海外進出を資金面で支援する政府系金融機関の国際協力銀行に内定した4年生のお二人(国際総合学類)をお招きして、外務省・国際協力銀行を志望した動機、具体的な就活対策、面接試験の経験等を話していただく、Zoom就活セミナー「公的セクターの就活体験ー外務省・国際協力銀行に挑戦」を8月3日（日）…]]></description>
         </item>
     </channel>
 </rss>
