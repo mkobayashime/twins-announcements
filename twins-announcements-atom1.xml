@@ -2,10 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/mkobayashime/twins-announcements</id>
     <title>在学生へのお知らせ | 筑波大学</title>
-    <updated>2025-08-07T01:37:42.007Z</updated>
+    <updated>2025-08-07T08:01:49.798Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://github.com/mkobayashime/twins-announcements"/>
     <subtitle>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</subtitle>
+    <entry>
+        <title type="html"><![CDATA[9/29(月）開催：合同研究機関等説明会]]></title>
+        <id>3edb2a9a5fb9203aef789b68a09b7ef6</id>
+        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=6477"/>
+        <updated>2025-08-07T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[合同研究機関等説明会を開催いたします！
+
+公的な研究機関が一堂に会する説明会を開催いたします。
+研究機関に興味のある方、この機会にぜひ研究所の職員の方にお話を聞いてみませんか。
+
+博士後期課程進学を検討している学群生や、博士前期課程の学生に対する連携大学院の説明会も予定されています。
+
+日時 ：2025年9月29日（月）
+12：00-連携大学院説明会
+13：00-合同研究機関等説明会
+
+場所 ：つ…]]></summary>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【明日開催】就活支援企画オンライン面接練習会]]></title>
         <id>a17009fc4d08a3a3d05e0a097e486aa1</id>
@@ -262,15 +280,5 @@ Application period: From July 1 to…]]></summary>
 
 国土交通省では、全国の市町村が企画する体験交流型のプログラム（地域づくり活動、農林漁業体験、就業体験等）をとりまとめて、全国の大学に情報発信しています。
 こうしたプログラムでは、地域の方々と交流し、地域の価値を発掘するお手伝いや課題解…]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【周知】【茨城県警察本部生活安全総務課】いばらき防犯ファイルについて]]></title>
-        <id>76297db2351566babdc5076f5178a31d</id>
-        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=6456"/>
-        <updated>2025-07-25T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[茨城県警察本部生活安全総務課より、いばらき防犯ファイル（令和7年６月末）の送付がありましたので、添付のとおり掲載いたします。
-
-本ファイルは、県内で実際に発生した犯罪の情報のほか、防犯対策に役立つ情報が含まれております。ご自身の安全のためにも、ぜひご確認ください。
-]]></summary>
     </entry>
 </feed>
