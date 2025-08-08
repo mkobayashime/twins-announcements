@@ -4,10 +4,25 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Fri, 08 Aug 2025 01:29:51 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 Aug 2025 02:41:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
+        <item>
+            <title><![CDATA[【周知】学生の皆さんに対する注意喚起について（つくば警察署）]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=6481</link>
+            <guid isPermaLink="false">d49d699c6d983158da5741d161e05d81</guid>
+            <pubDate>Fri, 08 Aug 2025 03:00:00 GMT</pubDate>
+            <description><![CDATA[つくば警察署から以下のとおり周知がありましたので、お知らせいたします。
+夏季休業に入りますが、事件・事故に巻き込まれないよう、十分留意の上、お過ごしください。
+
+（以下、周知文）
+ーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーー
+つくば警察署から筑波大学の皆さんへのお願いです。
+
+これから夏休みに入り、旅行や部活動、実家への帰省など色々な計画を立てていると思います。
+皆さ…]]></description>
+        </item>
         <item>
             <title><![CDATA[【研究費最大150万円！】若手研究者向け支援プログラム 募集中！]]></title>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=6480</link>
@@ -263,18 +278,6 @@ ECサイトは以下のリンクから
 平常展並びに特別展の観覧に際に特典を受けられます。
 　詳細につきましては別紙をご確認ください。
 　　　]]></description>
-        </item>
-        <item>
-            <title><![CDATA[【多文化共修】インド工科大学とのGASSHUKU型プログラム参加者募集]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=6461</link>
-            <guid isPermaLink="false">0a9a61e48a7741eb1bcca7034d59689b</guid>
-            <pubDate>Tue, 29 Jul 2025 03:00:00 GMT</pubDate>
-            <description><![CDATA[オーガニック農園への訪問、ディスカッション、発表等を通して、国際的なコミュニケーション能力の習得や地域・社会が抱える様々な課題解決に取り組んでいきます。（8月にオンラインでの説明等があります）
-
-詳細は、PDF及びPDF内のQRコードの詳細をご確認ください。
-授業があるが参加したい等、ご相談やご不明点についてお気軽にお問い合わせください。
-
-問い合わせ先：tias-admin@un.tsukuba…]]></description>
         </item>
     </channel>
 </rss>
