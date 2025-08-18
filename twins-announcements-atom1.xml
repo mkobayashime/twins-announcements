@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/mkobayashime/twins-announcements</id>
     <title>在学生へのお知らせ | 筑波大学</title>
-    <updated>2025-08-18T01:29:55.388Z</updated>
+    <updated>2025-08-18T02:38:16.969Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://github.com/mkobayashime/twins-announcements"/>
     <subtitle>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</subtitle>
+    <entry>
+        <title type="html"><![CDATA[【9/10（水）21：00オンライン開催】メーカーで活躍するOBOGと話そう！]]></title>
+        <id>3527ce8ab3aebb2c10b0db41bc85cd69</id>
+        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=6483"/>
+        <updated>2025-08-18T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[本学の同窓会である茗溪会にて、OBOGキャリア相談会を開催します
+現在就活中の方、将来就職先に関心がある方、是非ご参加ください。
+今回はキリンホールディングス株式会社（飲料業界）、VAIO株式会社（パソコン・PC関連サービス業界）で活躍されている先輩が登場します。
+詳細（自己紹介・経歴等）は以下URLに掲載
+https://www.meikei.or.jp/event/7016.html
+
+【開催…]]></summary>
+    </entry>
     <entry>
         <title type="html"><![CDATA[個別キャリア相談空き情報]]></title>
         <id>6d80e54f8ab49c8b8fd063ad425da49c</id>
@@ -261,20 +274,5 @@ ECサイトは以下のリンクから
 授業があるが参加したい等、ご相談やご不明点についてお気軽にお問い合わせください。
 
 問い合わせ先：tias-admin@un.tsukuba…]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【奨学金/Scholarship】一般社団法人CWAJ奨学金 /CWAJ Scholarship Program]]></title>
-        <id>2c33106734918068336ebbd6d853d1d9</id>
-        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=6460"/>
-        <updated>2025-07-28T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[一般社団法人　CWAJ奨学金（2026年度）
-応募期間：2025年7月1日～10月6日
-提出先：財団へ直接応募
-ポスター：(PDF(資料1))
-財団HP：https://cwaj.org
-※この奨学金を受給する者は、2026年度の大学推薦奨学金の申請資格がありません。
-
-CWAJ Scholarship Program 2026
-Application period: From July 1 to…]]></summary>
     </entry>
 </feed>
