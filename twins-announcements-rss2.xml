@@ -4,10 +4,35 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Mon, 18 Aug 2025 05:04:16 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 18 Aug 2025 08:01:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
+        <item>
+            <title><![CDATA[【開催案内】第58回「中央ユーラシアと日本の未来」公開講演会]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=6485</link>
+            <guid isPermaLink="false">fc342bc56b43ded6249d0bc65ca5ceeb</guid>
+            <pubDate>Mon, 18 Aug 2025 03:00:00 GMT</pubDate>
+            <description><![CDATA[【開催案内】第58回「中央ユーラシアと日本の未来」公開講演会
+
+講師：大阪公立大学 文学部 准教授
+大山 万容 氏
+
+題目：複言語主義で読み解く教育と社会
+
+日時：2025年8月28日（木）15:15～16:30
+
+会場：オンライン（Zoom）
+
+対象：本学学生、本学教職員、一般
+どなたでも無料でご参加いただけます。
+
+使用言語：日本語
+
+申込方法：下記申込フォームにて参加登録ください。
+
+※ご登…]]></description>
+        </item>
         <item>
             <title><![CDATA[8/27開催　面接＆GD練習会参加者募集中！]]></title>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=6484</link>
@@ -265,20 +290,6 @@ ECサイトは以下のリンクから
 
 留学を希望する学生は添付の要項をよく確認し、【令和7(2025)年12月5日(金)　午後5時（厳守）】までに、
 応募書類をシステム情報エリア支援室学群教務窓口(3A…]]></description>
-        </item>
-        <item>
-            <title><![CDATA[【お知らせ】東京国立博物館キャンパスメンバーズ特典ご案内について]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=6462</link>
-            <guid isPermaLink="false">35b05b3013fb22c763ef8e43ed1872a3</guid>
-            <pubDate>Tue, 29 Jul 2025 03:00:00 GMT</pubDate>
-            <description><![CDATA[　東京国立博物館より、キャンパスメンバーズ会員校の学生の皆様宛てに、
-現在東京国立博物館にて行われている「東博コレクション」並びに「特別展」に
-ついて別紙のとおり案内がありましたので、お知らせいたします。
-
-　本学は東京国立博物館キャンパスメンバーズ会員校となっておりますので、
-平常展並びに特別展の観覧に際に特典を受けられます。
-　詳細につきましては別紙をご確認ください。
-　　　]]></description>
         </item>
     </channel>
 </rss>
