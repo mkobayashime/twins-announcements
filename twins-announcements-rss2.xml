@@ -4,10 +4,30 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Sun, 17 Aug 2025 21:07:11 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 18 Aug 2025 01:29:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
+        <item>
+            <title><![CDATA[個別キャリア相談空き情報]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=6482</link>
+            <guid isPermaLink="false">6d80e54f8ab49c8b8fd063ad425da49c</guid>
+            <pubDate>Mon, 18 Aug 2025 03:00:00 GMT</pubDate>
+            <description><![CDATA[ES添削、面接練習、進路の悩みなどなどお気軽に相談することができます。
+ご希望の方はご連絡ください。
+午前がオンライン面談（zoom)、午後が対面面談です。
+
+◆ 本日(8/18)の個別キャリア相談
+10：20～11：05
+13：20～14：05
+14：20～15：05
+15：20～16：05
+
+が予約可能です。
+
+連絡先
+・メール：bhe-career-student@un.tsukuba.ac…]]></description>
+        </item>
         <item>
             <title><![CDATA[【周知】学生の皆さんに対する注意喚起について（つくば警察署）]]></title>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=6481</link>
@@ -258,18 +278,6 @@ ECサイトは以下のリンクから
 
 CWAJ Scholarship Program 2026
 Application period: From July 1 to…]]></description>
-        </item>
-        <item>
-            <title><![CDATA[【周知】夏季における休業に伴う証明書発行サービス休止のお知らせ]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=6458</link>
-            <guid isPermaLink="false">7b305175fd9877f938717b0b19b2674b</guid>
-            <pubDate>Mon, 28 Jul 2025 03:00:00 GMT</pubDate>
-            <description><![CDATA[教職員の夏季における休業に伴い、以下の期間は証明書発行業務を休止します。この間、郵送による受付・発送業務、証明書自動発行機のサービスも休止します。ご迷惑をおかけしますが、ご協力をお願いします。
-
-証明書発行サービス休止期間：
-令和7年8月8日(金)17時　から　8月18日(月)9時　まで
-（東京地区は8月9日(土)18時30分から8月18日(月)10時まで
-詳しくはURL：https://www.…]]></description>
         </item>
     </channel>
 </rss>
