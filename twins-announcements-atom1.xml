@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/mkobayashime/twins-announcements</id>
     <title>在学生へのお知らせ | 筑波大学</title>
-    <updated>2025-08-19T09:08:20.345Z</updated>
+    <updated>2025-08-19T15:08:36.164Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://github.com/mkobayashime/twins-announcements"/>
     <subtitle>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</subtitle>
@@ -83,26 +83,6 @@ BHEキャリア支援チームのファシリテーターからフィードバ�
 https://www.meikei.or.jp/event/7016.html
 
 【開催…]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[個別キャリア相談空き情報]]></title>
-        <id>6d80e54f8ab49c8b8fd063ad425da49c</id>
-        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=6482"/>
-        <updated>2025-08-18T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[ES添削、面接練習、進路の悩みなどなどお気軽に相談することができます。
-ご希望の方はご連絡ください。
-午前がオンライン面談（zoom)、午後が対面面談です。
-
-◆ 本日(8/18)の個別キャリア相談
-10：20～11：05
-13：20～14：05
-14：20～15：05
-15：20～16：05
-
-が予約可能です。
-
-連絡先
-・メール：bhe-career-student@un.tsukuba.ac…]]></summary>
     </entry>
     <entry>
         <title type="html"><![CDATA[【周知】学生の皆さんに対する注意喚起について（つくば警察署）]]></title>
@@ -287,5 +267,18 @@ BHE HP「…]]></summary>
 
 ECサイトは以下のリンクから
 ※学内専用割引コードをTWINS掲示「…]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DTF機構 学食プロジェクト・SDGs活動 参加学生募集]]></title>
+        <id>def4204bc9ec08a3fb89316f10e0074d</id>
+        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=6464"/>
+        <updated>2025-07-31T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[筑波大学DESIGN THE FUTURE機構（DTF機構）では、今年秋に実施予定の「学食プロジェクト」（学食メニューのCO₂見える化プロジェクト）や、広くSDGsに関連するプロジェクトに関わってみたい、という学生を募集します。
+
+【募集対象】
+・学食プロジェクトの運営スタッフに参加したい/興味がある方
+・広くSDGsに関連するプロジェクトに参加したい/興味がある方
+
+詳細PDF内QRコードもしく…]]></summary>
     </entry>
 </feed>
