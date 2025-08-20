@@ -4,10 +4,24 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Tue, 19 Aug 2025 21:07:20 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 20 Aug 2025 00:02:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
+        <item>
+            <title><![CDATA[【人社支援室】授業料免除・猶予結果について／The result of tuition exemption]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=6488</link>
+            <guid isPermaLink="false">9a226e4d1bb741bbe7cdb07d4acebdfa</guid>
+            <pubDate>Wed, 20 Aug 2025 03:00:00 GMT</pubDate>
+            <description><![CDATA[8月20日（水）から、2025年度春学期分の授業料免除・猶予結果通知を配付します。
+
+対象の学生は、学生証をお持ちのうえ人文社会エリア支援室（1A棟3階）で受け取ってください。
+
+事情により郵送での受け取りを希望する方は、理由を添えて下記のメールアドレスへご相談ください。
+※国外への発送はできません。
+　　
+　　jinsya.gakusei@un.tsukuba.ac.jp　(人文社会エリア支援室…]]></description>
+        </item>
         <item>
             <title><![CDATA[【留学生奨学金】ロータリー米山記念奨学金 学内公募について／ 【Scholarship for International Students】Rotary Yoneyama Scholarship]]></title>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=6487</link>
@@ -269,19 +283,6 @@ BHE HP「…]]></description>
 
 ECサイトは以下のリンクから
 ※学内専用割引コードをTWINS掲示「…]]></description>
-        </item>
-        <item>
-            <title><![CDATA[DTF機構 学食プロジェクト・SDGs活動 参加学生募集]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=6464</link>
-            <guid isPermaLink="false">def4204bc9ec08a3fb89316f10e0074d</guid>
-            <pubDate>Thu, 31 Jul 2025 03:00:00 GMT</pubDate>
-            <description><![CDATA[筑波大学DESIGN THE FUTURE機構（DTF機構）では、今年秋に実施予定の「学食プロジェクト」（学食メニューのCO₂見える化プロジェクト）や、広くSDGsに関連するプロジェクトに関わってみたい、という学生を募集します。
-
-【募集対象】
-・学食プロジェクトの運営スタッフに参加したい/興味がある方
-・広くSDGsに関連するプロジェクトに参加したい/興味がある方
-
-詳細PDF内QRコードもしく…]]></description>
         </item>
     </channel>
 </rss>
