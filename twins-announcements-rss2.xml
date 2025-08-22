@@ -4,10 +4,24 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Fri, 22 Aug 2025 02:29:54 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Aug 2025 06:01:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
+        <item>
+            <title><![CDATA[【参加者募集】JASSO 給付型奨学金プログラム（交換留学 6 か月～12 か月） 「中央アジア・コーカサス・バルト・東欧諸国を対象としたマルチリンガル人材育成派遣プログラム」]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=6497</link>
+            <guid isPermaLink="false">87ab0ef622376e9b46cac4881b594dec</guid>
+            <pubDate>Fri, 22 Aug 2025 03:00:00 GMT</pubDate>
+            <description><![CDATA[2025 年度 JASSO プログラムに採択された「中央アジア・コーカサス・バルト・東欧諸国を対象としたマルチリンガル人材育成派遣 プログラム」のプログラム生を募集します。
+
+参加者は、NipCAフレンドシップメンバーとして登録されます。
+
+【派遣対象学生】
+・全学群の学生および人文社会科学研究群、ビジネス科学研究群の院生
+・2024 年度の GPA が 3 点満点中 2.3 以上の学生
+・202…]]></description>
+        </item>
         <item>
             <title><![CDATA[【奨学金/Scholarship】公益財団法人　帝人久村奨学生募集（2027年度） /Teijin scholarship Foundation Kumura 2027]]></title>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=6496</link>
@@ -289,20 +303,6 @@ https://www.meikei.or.jp/event/7016.html
 募集要項・申請書等様式：http://www.takaku-foundation.com/
 ※日本語能力が必要です。(日本語能力試験1級程度の会話力及び文章力)
 ※この奨学金を受給する者は、2026年度の大学推薦奨学金…]]></description>
-        </item>
-        <item>
-            <title><![CDATA[（附属図書館）9月の休館について / (Library) Closure on September]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=6474</link>
-            <guid isPermaLink="false">3e3615cc598dd2f24003a9f26556ab0a</guid>
-            <pubDate>Tue, 05 Aug 2025 03:00:00 GMT</pubDate>
-            <description><![CDATA[館内整備日のため、以下のとおり休館いたします。ご不便をおかけしますが、ご協力の程よろしくお願いいたします。
-For organizing the books, the library will be closed as follows. Thank you for your cooperation.
-
-・令和7年9月2日（火）
-　　大塚図書館
-・令和7年9月3日（水）
-　　中央図書館
-・令和7年9…]]></description>
         </item>
     </channel>
 </rss>
