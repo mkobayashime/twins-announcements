@@ -4,10 +4,25 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Mon, 25 Aug 2025 01:29:29 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Aug 2025 03:22:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
+        <item>
+            <title><![CDATA[8/27 面接＆GD練習会 参加者募集中！]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=6501</link>
+            <guid isPermaLink="false">d6e07c74daa44e5f148504aec0ed096b</guid>
+            <pubDate>Mon, 25 Aug 2025 03:00:00 GMT</pubDate>
+            <description><![CDATA[就活やインターンシップに即役立つ、面接・GD練習会です。
+低学年のみなさんの参加も大歓迎です！
+コミュニケーション苦手の克服にもぜひ、この機会を活用してください。
+
+対面面接編でビジネスマナーも学びましょう。
+就活中の方、ISの選考を受ける方、参加して役立ててください。
+BHEキャリア支援チームのファシリテーターからフィードバックがあります。 （日本語での開催です）
+【詳細と申込み】
+＜対面集団面…]]></description>
+        </item>
         <item>
             <title><![CDATA[Announcement on the Student Health Examination for Fall Semester 2025]]></title>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=6500</link>
@@ -288,16 +303,6 @@ https://www.meikei.or.jp/event/7016.html
 
 【コンテスト応募期間】
 令和７年9月1日（月）～9月3…]]></description>
-        </item>
-        <item>
-            <title><![CDATA[8/21締切　子どもの日本語教育フォーラム]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=6478</link>
-            <guid isPermaLink="false">ce6a0c2a5f4e5c6596da9cd49fa56cde</guid>
-            <pubDate>Fri, 08 Aug 2025 03:00:00 GMT</pubDate>
-            <description><![CDATA[いま日本の学校教育の現場では、外国にルーツを持つ子どもたちが増えています。インクルーシブな教育を目指すには、日本語教育のスキルを持った教員の養成が重要となってきています。このフォーラムでは、日本語指導のできる教員育成の仕組みづくりで実績のある福岡市の事例をもとに、子どもの日本語教育に関わるキャリアパスについて考えます。
-これからの学校と地域をつなぐ日本語教育ー制度、実践、そして次世代へー
-
-【日…]]></description>
         </item>
     </channel>
 </rss>
