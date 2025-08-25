@@ -2,10 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/mkobayashime/twins-announcements</id>
     <title>在学生へのお知らせ | 筑波大学</title>
-    <updated>2025-08-24T21:06:56.216Z</updated>
+    <updated>2025-08-25T00:02:54.615Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://github.com/mkobayashime/twins-announcements"/>
     <subtitle>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</subtitle>
+    <entry>
+        <title type="html"><![CDATA[個別キャリア相談空き情報]]></title>
+        <id>6d80e54f8ab49c8b8fd063ad425da49c</id>
+        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=6498"/>
+        <updated>2025-08-25T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[ES添削、面接練習、進路の悩みなどなどお気軽に相談することができます。
+低学年の方も積極的に活用してください。
+午前がオンライン面談（zoom)、午後が対面面談です。
+
+◆ 本日（8/25）の個別キャリア相談
+9：20～10：05（オンライン）
+10：20～11：05（オンライン）
+11：20～12：05
+15：20～16：05
+16：20～17：05
+
+◆8/26（火）の個別キャリア相談
+11：…]]></summary>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【参加者募集】JASSO 給付型奨学金プログラム（交換留学 6 か月～12 か月） 「中央アジア・コーカサス・バルト・東欧諸国を対象としたマルチリンガル人材育成派遣プログラム」]]></title>
         <id>87ab0ef622376e9b46cac4881b594dec</id>
@@ -281,19 +300,5 @@ https://www.meikei.or.jp/event/7016.html
 募集要項・申請書等様式：http://www.takaku-foundation.com/
 ※日本語能力が必要です。(日本語能力試験1級程度の会話力及び文章力)
 ※この奨学金を受給する者は、2026年度の大学推薦奨学金…]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[（附属図書館）9月の休館について / (Library) Closure on September]]></title>
-        <id>3e3615cc598dd2f24003a9f26556ab0a</id>
-        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=6474"/>
-        <updated>2025-08-05T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[館内整備日のため、以下のとおり休館いたします。ご不便をおかけしますが、ご協力の程よろしくお願いいたします。
-For organizing the books, the library will be closed as follows. Thank you for your cooperation.
-
-・令和7年9月2日（火）
-　　大塚図書館
-・令和7年9月3日（水）
-　　中央図書館
-・令和7年9…]]></summary>
     </entry>
 </feed>

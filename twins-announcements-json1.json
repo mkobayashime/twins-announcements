@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "6d80e54f8ab49c8b8fd063ad425da49c",
+            "content_html": "ES添削、面接練習、進路の悩みなどなどお気軽に相談することができます。\n低学年の方も積極的に活用してください。\n午前がオンライン面談（zoom)、午後が対面面談です。\n\n◆ 本日（8/25）の個別キャリア相談\n9：20～10：05（オンライン）\n10：20～11：05（オンライン）\n11：20～12：05\n15：20～16：05\n16：20～17：05\n\n◆8/26（火）の個別キャリア相談\n11：…",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=6498",
+            "title": "個別キャリア相談空き情報",
+            "date_modified": "2025-08-25T03:00:00.000Z"
+        },
+        {
             "id": "87ab0ef622376e9b46cac4881b594dec",
             "content_html": "2025 年度 JASSO プログラムに採択された「中央アジア・コーカサス・バルト・東欧諸国を対象としたマルチリンガル人材育成派遣 プログラム」のプログラム生を募集します。\n\n参加者は、NipCAフレンドシップメンバーとして登録されます。\n\n【派遣対象学生】\n・全学群の学生および人文社会科学研究群、ビジネス科学研究群の院生\n・2024 年度の GPA が 3 点満点中 2.3 以上の学生\n・202…",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=6497",
@@ -136,13 +143,6 @@
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=6475",
             "title": "【奨学金/Scholarship】高久国際奨学財団奨学生募集 /TAKAKU foundation",
             "date_modified": "2025-08-06T03:00:00.000Z"
-        },
-        {
-            "id": "3e3615cc598dd2f24003a9f26556ab0a",
-            "content_html": "館内整備日のため、以下のとおり休館いたします。ご不便をおかけしますが、ご協力の程よろしくお願いいたします。\nFor organizing the books, the library will be closed as follows. Thank you for your cooperation.\n\n・令和7年9月2日（火）\n　　大塚図書館\n・令和7年9月3日（水）\n　　中央図書館\n・令和7年9…",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=6474",
-            "title": "（附属図書館）9月の休館について / (Library) Closure on September",
-            "date_modified": "2025-08-05T03:00:00.000Z"
         }
     ]
 }
