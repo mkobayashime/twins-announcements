@@ -4,10 +4,36 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Mon, 25 Aug 2025 00:02:54 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Aug 2025 01:29:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
+        <item>
+            <title><![CDATA[Announcement on the Student Health Examination for Fall Semester 2025]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=6500</link>
+            <guid isPermaLink="false">62ca4a63d9edea3019adbc793b861047</guid>
+            <pubDate>Mon, 25 Aug 2025 03:00:00 GMT</pubDate>
+            <description><![CDATA[The Student Health Examination for Fall Semester 2025 will be divided into a physical examination and a mental health survey as follows.
+Please be sure to take the examination if you are eligible.
+
+Ph…]]></description>
+        </item>
+        <item>
+            <title><![CDATA[令和７年度秋学期学生健康診断について]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=6499</link>
+            <guid isPermaLink="false">4718902402ddcab92983a95efd40bb91</guid>
+            <pubDate>Mon, 25 Aug 2025 03:00:00 GMT</pubDate>
+            <description><![CDATA[令和７年度秋学期学生健康診断について、身体検査とこころの健康調査に分けて以下の通り実施します。
+該当者は必ず受診してください。
+
+身体検査
+１０月２１日(火) から１０月２２日(水) で実施されます。
+【対象】・令和７年５月以降に入学した学生
+　　　　・令和７年４月の健康診断実施時に留学中・休学中などやむを得ない事由によって受診できなかった学生
+
+こころの健康調査
+１０月１５日(水) から１０月３…]]></description>
+        </item>
         <item>
             <title><![CDATA[個別キャリア相談空き情報]]></title>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=6498</link>
@@ -272,36 +298,6 @@ https://www.meikei.or.jp/event/7016.html
 これからの学校と地域をつなぐ日本語教育ー制度、実践、そして次世代へー
 
 【日…]]></description>
-        </item>
-        <item>
-            <title><![CDATA[9/29(月）開催：合同研究機関等説明会]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=6477</link>
-            <guid isPermaLink="false">3edb2a9a5fb9203aef789b68a09b7ef6</guid>
-            <pubDate>Thu, 07 Aug 2025 03:00:00 GMT</pubDate>
-            <description><![CDATA[合同研究機関等説明会を開催いたします！
-
-公的な研究機関が一堂に会する説明会を開催いたします。
-研究機関に興味のある方、この機会にぜひ研究所の職員の方にお話を聞いてみませんか。
-
-博士後期課程進学を検討している学群生や、博士前期課程の学生に対する連携大学院の説明会も予定されています。
-
-日時 ：2025年9月29日（月）
-12：00-連携大学院説明会
-13：00-合同研究機関等説明会
-
-場所 ：つ…]]></description>
-        </item>
-        <item>
-            <title><![CDATA[【奨学金/Scholarship】高久国際奨学財団奨学生募集 /TAKAKU foundation]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=6475</link>
-            <guid isPermaLink="false">fd7837b1de324688698549a299d83d4d</guid>
-            <pubDate>Wed, 06 Aug 2025 03:00:00 GMT</pubDate>
-            <description><![CDATA[一般財団法人　高久国際奨学財団奨学生募集（2026年度）
-応募期間：2025年11月1日～30日　※当日消印有効
-提出先：財団へ直接応募　(普通郵便またはレターパックライトで送付)
-募集要項・申請書等様式：http://www.takaku-foundation.com/
-※日本語能力が必要です。(日本語能力試験1級程度の会話力及び文章力)
-※この奨学金を受給する者は、2026年度の大学推薦奨学金…]]></description>
         </item>
     </channel>
 </rss>

@@ -5,6 +5,20 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "62ca4a63d9edea3019adbc793b861047",
+            "content_html": "The Student Health Examination for Fall Semester 2025 will be divided into a physical examination and a mental health survey as follows.\nPlease be sure to take the examination if you are eligible.\n\nPh…",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=6500",
+            "title": "Announcement on the Student Health Examination for Fall Semester 2025",
+            "date_modified": "2025-08-25T03:00:00.000Z"
+        },
+        {
+            "id": "4718902402ddcab92983a95efd40bb91",
+            "content_html": "令和７年度秋学期学生健康診断について、身体検査とこころの健康調査に分けて以下の通り実施します。\n該当者は必ず受診してください。\n\n身体検査\n１０月２１日(火) から１０月２２日(水) で実施されます。\n【対象】・令和７年５月以降に入学した学生\n　　　　・令和７年４月の健康診断実施時に留学中・休学中などやむを得ない事由によって受診できなかった学生\n\nこころの健康調査\n１０月１５日(水) から１０月３…",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=6499",
+            "title": "令和７年度秋学期学生健康診断について",
+            "date_modified": "2025-08-25T03:00:00.000Z"
+        },
+        {
             "id": "6d80e54f8ab49c8b8fd063ad425da49c",
             "content_html": "ES添削、面接練習、進路の悩みなどなどお気軽に相談することができます。\n低学年の方も積極的に活用してください。\n午前がオンライン面談（zoom)、午後が対面面談です。\n\n◆ 本日（8/25）の個別キャリア相談\n9：20～10：05（オンライン）\n10：20～11：05（オンライン）\n11：20～12：05\n15：20～16：05\n16：20～17：05\n\n◆8/26（火）の個別キャリア相談\n11：…",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=6498",
@@ -129,20 +143,6 @@
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=6478",
             "title": "8/21締切　子どもの日本語教育フォーラム",
             "date_modified": "2025-08-08T03:00:00.000Z"
-        },
-        {
-            "id": "3edb2a9a5fb9203aef789b68a09b7ef6",
-            "content_html": "合同研究機関等説明会を開催いたします！\n\n公的な研究機関が一堂に会する説明会を開催いたします。\n研究機関に興味のある方、この機会にぜひ研究所の職員の方にお話を聞いてみませんか。\n\n博士後期課程進学を検討している学群生や、博士前期課程の学生に対する連携大学院の説明会も予定されています。\n\n日時 ：2025年9月29日（月）\n12：00-連携大学院説明会\n13：00-合同研究機関等説明会\n\n場所 ：つ…",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=6477",
-            "title": "9/29(月）開催：合同研究機関等説明会",
-            "date_modified": "2025-08-07T03:00:00.000Z"
-        },
-        {
-            "id": "fd7837b1de324688698549a299d83d4d",
-            "content_html": "一般財団法人　高久国際奨学財団奨学生募集（2026年度）\n応募期間：2025年11月1日～30日　※当日消印有効\n提出先：財団へ直接応募　(普通郵便またはレターパックライトで送付)\n募集要項・申請書等様式：http://www.takaku-foundation.com/\n※日本語能力が必要です。(日本語能力試験1級程度の会話力及び文章力)\n※この奨学金を受給する者は、2026年度の大学推薦奨学金…",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=6475",
-            "title": "【奨学金/Scholarship】高久国際奨学財団奨学生募集 /TAKAKU foundation",
-            "date_modified": "2025-08-06T03:00:00.000Z"
         }
     ]
 }
