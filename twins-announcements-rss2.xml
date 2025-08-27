@@ -4,7 +4,7 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Wed, 27 Aug 2025 09:08:22 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Aug 2025 15:08:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
@@ -105,10 +105,19 @@ https://www.mext.go.jp/a_menu/shotou/seitoshid…]]></description>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=6500</link>
             <guid isPermaLink="false">62ca4a63d9edea3019adbc793b861047</guid>
             <pubDate>Mon, 25 Aug 2025 03:00:00 GMT</pubDate>
-            <description><![CDATA[The Student Health Examination for Fall Semester 2025 will be divided into a physical examination and a mental health survey as follows.
-Please be sure to take the examination if you are eligible.
+            <description><![CDATA[ES添削、面接練習、進路の悩みなどなどお気軽に相談することができます。
+低学年の方も積極的に活用してください。
+午前がオンライン面談（zoom)、午後が対面面談です。
 
-Ph…]]></description>
+◆ 本日（8/27）の個別キャリア相談
+13：20～14：05
+14：20～15：05
+15：20～16：05
+
+◆明日（8/28）の個別キャリア相談
+9：20～10：05（オンライン）
+11：20～12：05（オンライン）
+14…]]></description>
         </item>
         <item>
             <title><![CDATA[令和７年度秋学期学生健康診断について]]></title>
@@ -224,18 +233,6 @@ https://www.tsukuba.ac.jp/campuslife/supportinternational/scholarships/individua
 申請期間：2…]]></description>
         </item>
         <item>
-            <title><![CDATA[サーバー更新作業に伴うキャリア支援チームHP及び就職情報提供システム停止のお知らせ]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=6486</link>
-            <guid isPermaLink="false">f7e5c4dc1ece4147cbde4ed3df16263e</guid>
-            <pubDate>Tue, 19 Aug 2025 03:00:00 GMT</pubDate>
-            <description><![CDATA[サーバー更新作業に伴い、下記の時間、キャリア支援チームホームページ等へ繋がりにくくなります。
-【作業日時】8/27（水）9：00　～　13：15（予定）
-
-なお、サーバー更新作業中は、「学内専用ページ」、「ガイダンス等及び模試試験登録・申請」、「進路進捗状況届」へのアクセスはできません。
-皆様にはご迷惑をおかけいたしますが、ご理解、ご協力の程よろしくお願いいたします。
-]]></description>
-        </item>
-        <item>
             <title><![CDATA[【開催案内】第58回「中央ユーラシアと日本の未来」公開講演会]]></title>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=6485</link>
             <guid isPermaLink="false">fc342bc56b43ded6249d0bc65ca5ceeb</guid>
@@ -272,6 +269,21 @@ https://www.tsukuba.ac.jp/campuslife/supportinternational/scholarships/individua
 https://www.meikei.or.jp/event/7016.html
 
 【開催…]]></description>
+        </item>
+        <item>
+            <title><![CDATA[【周知】学生の皆さんに対する注意喚起について（つくば警察署）]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=6481</link>
+            <guid isPermaLink="false">d49d699c6d983158da5741d161e05d81</guid>
+            <pubDate>Fri, 08 Aug 2025 03:00:00 GMT</pubDate>
+            <description><![CDATA[つくば警察署から以下のとおり周知がありましたので、お知らせいたします。
+夏季休業に入りますが、事件・事故に巻き込まれないよう、十分留意の上、お過ごしください。
+
+（以下、周知文）
+ーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーー
+つくば警察署から筑波大学の皆さんへのお願いです。
+
+これから夏休みに入り、旅行や部活動、実家への帰省など色々な計画を立てていると思います。
+皆さ…]]></description>
         </item>
     </channel>
 </rss>
