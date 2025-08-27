@@ -4,10 +4,20 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Wed, 27 Aug 2025 05:01:40 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Aug 2025 07:01:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
+        <item>
+            <title><![CDATA[【お知らせ】令和7年度冷房実施期間の延長について]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=6510</link>
+            <guid isPermaLink="false">9dd65e9396fc26adfb99efcc9b4c91f1</guid>
+            <pubDate>Wed, 27 Aug 2025 03:00:00 GMT</pubDate>
+            <description><![CDATA[本年度の冷房実施期間は、令和７年５月２６日掲載の「令和7年度冷暖房の運転について」のお知らせにて、９月１２日（金）までを予定としていたところでありますが、気象庁の予報では外気温が９月１３日以降も２８℃を上回る日が予想されていますので、９月２６日（金）まで期間の延長をします。
+
+なお、引き続き厳しい残暑が続く場合には、学生及び教職員の皆様には、健康に留意し、適切な対応をお願いします。
+　　　　　　　…]]></description>
+        </item>
         <item>
             <title><![CDATA[【周知】消費者志向経営の推進に係る啓発ポスターについて]]></title>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=6509</link>
@@ -262,21 +272,6 @@ https://www.tsukuba.ac.jp/campuslife/supportinternational/scholarships/individua
 https://www.meikei.or.jp/event/7016.html
 
 【開催…]]></description>
-        </item>
-        <item>
-            <title><![CDATA[【周知】学生の皆さんに対する注意喚起について（つくば警察署）]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=6481</link>
-            <guid isPermaLink="false">d49d699c6d983158da5741d161e05d81</guid>
-            <pubDate>Fri, 08 Aug 2025 03:00:00 GMT</pubDate>
-            <description><![CDATA[つくば警察署から以下のとおり周知がありましたので、お知らせいたします。
-夏季休業に入りますが、事件・事故に巻き込まれないよう、十分留意の上、お過ごしください。
-
-（以下、周知文）
-ーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーー
-つくば警察署から筑波大学の皆さんへのお願いです。
-
-これから夏休みに入り、旅行や部活動、実家への帰省など色々な計画を立てていると思います。
-皆さ…]]></description>
         </item>
     </channel>
 </rss>
