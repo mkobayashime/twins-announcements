@@ -5,6 +5,20 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "f4c60a88300f784e1dc38146412af3a5",
+            "content_html": "Some services will be unavailable during the following maintenance;\n \n　Tue, Sep 9, 2025, 9:00 a.m.–Wed, Sep 10, 2025, 5:00 p.m.\n \nAffected: \n• Library Catalog (OPAC)\n   – Tulips Search: you can search…",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=6514",
+            "title": "Library web services temporarily unavailable due to server maintenance (Sep. 9- Sep. 10)",
+            "date_modified": "2025-08-29T03:00:00.000Z"
+        },
+        {
+            "id": "b7c866aa1470b65e5288a8e2da925ccd",
+            "content_html": "サーバメンテナンスにより、下記の期間、図書館の一部サービスがご利用いただけなくなります。\n\n2025年9月9日（火）9:00 ～ 2025年9月10日（水）17:00頃\n以下の図書館webサービスが利用できなくなります。\n\n・蔵書検索（OPAC）\n　-Tulips Searchでは図書館の本や雑誌の検索が可能ですが、所在や請求記号を確認することはできません。\n　-代替手段としてCiNii Book…",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=6513",
+            "title": "【附属図書館】サーバメンテナンスに伴う図書館webサービスの一時停止(9/9-10)",
+            "date_modified": "2025-08-29T03:00:00.000Z"
+        },
+        {
             "id": "196d5b35feef17467ccb97d6f345c715",
             "content_html": "9月24日（水）、25日（木）に、全学・全学年の学生を対象として「筑波大学情報関連 業界研究セミナー2025」を開催します。\n本セミナーは、MDA教育推進室・高度人材育成事業・システム情報工学研究群・情報学学位プログラムの共催により実施するもので、２日間で合計60（30×2日間）の、情報通信業をはじめとする多様な企業・団体の採用担当者および本学のOBOGが来学し、学生の皆様と直接お話しができる機会…",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=6512",
@@ -129,20 +143,6 @@
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=6483",
             "title": "【9/10（水）21：00オンライン開催】メーカーで活躍するOBOGと話そう！",
             "date_modified": "2025-08-18T03:00:00.000Z"
-        },
-        {
-            "id": "d49d699c6d983158da5741d161e05d81",
-            "content_html": "つくば警察署から以下のとおり周知がありましたので、お知らせいたします。\n夏季休業に入りますが、事件・事故に巻き込まれないよう、十分留意の上、お過ごしください。\n\n（以下、周知文）\nーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーー\nつくば警察署から筑波大学の皆さんへのお願いです。\n\nこれから夏休みに入り、旅行や部活動、実家への帰省など色々な計画を立てていると思います。\n皆さ…",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=6481",
-            "title": "【周知】学生の皆さんに対する注意喚起について（つくば警察署）",
-            "date_modified": "2025-08-08T03:00:00.000Z"
-        },
-        {
-            "id": "986da040d304ddc70272c4c0f040b93c",
-            "content_html": "＼ AI・医療・工学など、異なる分野をつなぐ学際的な研究に挑戦したい大学院生のみなさんへ ／\n\n筑波大学サイバーメディスン研究センター（https://cyber-m.mc-tsukuba.com/）では、医・情報・工の融合による新しい医療に関連する学際研究に取り組む若手を応援するため、令和7年度「若手研究支援プログラム（第1回）」の募集を開始しました！\n\n研究費は最大150万円！ アイデア段階で…",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=6480",
-            "title": "【研究費最大150万円！】若手研究者向け支援プログラム 募集中！",
-            "date_modified": "2025-08-08T03:00:00.000Z"
         }
     ]
 }

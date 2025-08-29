@@ -4,10 +4,37 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Fri, 29 Aug 2025 05:01:35 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 Aug 2025 08:01:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
+        <item>
+            <title><![CDATA[Library web services temporarily unavailable due to server maintenance (Sep. 9- Sep. 10)]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=6514</link>
+            <guid isPermaLink="false">f4c60a88300f784e1dc38146412af3a5</guid>
+            <pubDate>Fri, 29 Aug 2025 03:00:00 GMT</pubDate>
+            <description><![CDATA[Some services will be unavailable during the following maintenance;
+ 
+　Tue, Sep 9, 2025, 9:00 a.m.–Wed, Sep 10, 2025, 5:00 p.m.
+ 
+Affected: 
+• Library Catalog (OPAC)
+   – Tulips Search: you can search…]]></description>
+        </item>
+        <item>
+            <title><![CDATA[【附属図書館】サーバメンテナンスに伴う図書館webサービスの一時停止(9/9-10)]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=6513</link>
+            <guid isPermaLink="false">b7c866aa1470b65e5288a8e2da925ccd</guid>
+            <pubDate>Fri, 29 Aug 2025 03:00:00 GMT</pubDate>
+            <description><![CDATA[サーバメンテナンスにより、下記の期間、図書館の一部サービスがご利用いただけなくなります。
+
+2025年9月9日（火）9:00 ～ 2025年9月10日（水）17:00頃
+以下の図書館webサービスが利用できなくなります。
+
+・蔵書検索（OPAC）
+　-Tulips Searchでは図書館の本や雑誌の検索が可能ですが、所在や請求記号を確認することはできません。
+　-代替手段としてCiNii Book…]]></description>
+        </item>
         <item>
             <title><![CDATA[【開催案内：9/24(水), 25(木)】筑波大学情報関連 業界研究セミナー2025]]></title>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=6512</link>
@@ -224,32 +251,6 @@ https://www.tsukuba.ac.jp/campuslife/supportinternational/scholarships/individua
 https://www.meikei.or.jp/event/7016.html
 
 【開催…]]></description>
-        </item>
-        <item>
-            <title><![CDATA[【周知】学生の皆さんに対する注意喚起について（つくば警察署）]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=6481</link>
-            <guid isPermaLink="false">d49d699c6d983158da5741d161e05d81</guid>
-            <pubDate>Fri, 08 Aug 2025 03:00:00 GMT</pubDate>
-            <description><![CDATA[つくば警察署から以下のとおり周知がありましたので、お知らせいたします。
-夏季休業に入りますが、事件・事故に巻き込まれないよう、十分留意の上、お過ごしください。
-
-（以下、周知文）
-ーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーー
-つくば警察署から筑波大学の皆さんへのお願いです。
-
-これから夏休みに入り、旅行や部活動、実家への帰省など色々な計画を立てていると思います。
-皆さ…]]></description>
-        </item>
-        <item>
-            <title><![CDATA[【研究費最大150万円！】若手研究者向け支援プログラム 募集中！]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=6480</link>
-            <guid isPermaLink="false">986da040d304ddc70272c4c0f040b93c</guid>
-            <pubDate>Fri, 08 Aug 2025 03:00:00 GMT</pubDate>
-            <description><![CDATA[＼ AI・医療・工学など、異なる分野をつなぐ学際的な研究に挑戦したい大学院生のみなさんへ ／
-
-筑波大学サイバーメディスン研究センター（https://cyber-m.mc-tsukuba.com/）では、医・情報・工の融合による新しい医療に関連する学際研究に取り組む若手を応援するため、令和7年度「若手研究支援プログラム（第1回）」の募集を開始しました！
-
-研究費は最大150万円！ アイデア段階で…]]></description>
         </item>
     </channel>
 </rss>
