@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "e7452e063d7315338d98b08a5dbcc9bf",
+            "content_html": "世界展開力強化事業CAMPUS-Asia6（海外交流プログラム）では、プログラムのオンライン科目を筑波大学院生の皆さんにも受講いただけるよう、以下のオンライン科目を提供しています。筑波大学、華東師範大学（中国）、韓国教員大学校（韓国）から提供された講義で構成されており、幅広い講義を受けられるチャンスです。\n地球規模課題の解決に向けた第一歩を学んでみませんか？\n\n0ATAY03　社会の課題と教育政策…",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=6516",
+            "title": "【募集】オンライン科目受講生募集（2025年10月開講） Call for Graduate Students to Take Online Courses in English!",
+            "date_modified": "2025-09-01T03:00:00.000Z"
+        },
+        {
             "id": "68bec7a05008da10a1b7117075b5a52b",
             "content_html": "日本自動車研究所(JARI)より、学生の皆様向けに「JARI城里テストセンター特別公開」について案内をいただきましたので、お知らせします。\n車に興味のある学生の方はもちろん、最新の試験設備や自動運転のテストコースをご覧いただける貴重な機会となっております。\n詳細は添付ファイルおよびURLにありますので、ご興味のある方はぜひご確認ください。\n\n◆JARI城里テストセンター特別公開◆\n2025年9月2…",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=6515",
@@ -136,13 +143,6 @@
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=6488",
             "title": "【人社支援室】授業料免除・猶予結果について／The result of tuition exemption",
             "date_modified": "2025-08-20T03:00:00.000Z"
-        },
-        {
-            "id": "5ccbbd1764c857d4ca750e4d48867b31",
-            "content_html": "標記奨学金の学内公募について、学生交流課から通知がありました。\n申請希望者は、下記のURLを参照のうえ期間内に書類を提出してください。\n\nキャンパスライフ＞留学生のための学生支援＞奨学金＞個人応募　\nhttps://www.tsukuba.ac.jp/campuslife/supportinternational/scholarships/individual/index.html\n\n申請期間：2…",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=6487",
-            "title": "【留学生奨学金】ロータリー米山記念奨学金 学内公募について／ 【Scholarship for International Students】Rotary Yoneyama Scholarship",
-            "date_modified": "2025-08-19T03:00:00.000Z"
         }
     ]
 }
