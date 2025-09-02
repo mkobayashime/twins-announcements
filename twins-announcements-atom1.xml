@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/mkobayashime/twins-announcements</id>
     <title>在学生へのお知らせ | 筑波大学</title>
-    <updated>2025-09-02T06:01:47.132Z</updated>
+    <updated>2025-09-02T07:01:42.861Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://github.com/mkobayashime/twins-announcements"/>
     <subtitle>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</subtitle>
+    <entry>
+        <title type="html"><![CDATA[【開催案内】筑波会議2025 「映画を通してウクライナを知る」]]></title>
+        <id>c7eba692e3f0a16c0aef62b76a3fd9a5</id>
+        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=6519"/>
+        <updated>2025-09-02T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[【開催案内】Getting to know Ukraine through film　映画を通してウクライナを知る
+
+筑波大学NipCAプロジェクトでは、この度、在日本ウクライナ大使館との共催により、日本未公開のウクライナ映画上映とシンポジウムを合わせた企画「映画を通してウクライナを知る」を開催することになりました。茨城県つくば市にて10月上旬に開催される筑波会議2025において、一般市民に開かれ…]]></summary>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【事前参加登録〆切：9/19（金）】人文社会科学研究群オンライン説明会〔（9/27（土）〕開催のお知らせ]]></title>
         <id>4d198c254176307b48ec4acda264c364</id>
@@ -231,16 +240,5 @@ Ph…]]></summary>
 ※この奨学金を受給する者は、2027年度の大学推薦奨学金の申請資格がありません。
 
 Teijin scholarshi…]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【奨学金】日本台湾交流協会日本奨学金留学生（2026年度）]]></title>
-        <id>e0bda2d310f66a7b92160585ff3c3256</id>
-        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=6494"/>
-        <updated>2025-08-22T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[公益財団法人　日本台湾交流協会日本奨学金留学生（2026年度）
-申請期限：2025年10月24日（金）当日消印有効
-提出先：財団へ直接応募のこと（大学ではとりまとめしません）
-募集要項・申請書等様式　https://www.koryu.or.jp/business/scholarship/longterm/detail11.html
-※この奨学金を受給する者は、2026年度の大学推薦奨学金の申請資…]]></summary>
     </entry>
 </feed>
