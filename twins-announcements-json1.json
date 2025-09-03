@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "6d80e54f8ab49c8b8fd063ad425da49c",
+            "content_html": "ES添削、面接練習、進路の悩みなどなどお気軽に相談することができます。\n低学年の方も積極的に活用してください。\n\n午前がオンライン面談（zoom)、午後が対面面談です。\n\n◆ 本日（9/3）の個別キャリア相談\n13：20～14：05\n14：20～15：05\n15：20～16：05\n\n◆明日（9/4）の個別キャリア相談\n9：20～10：05（オンライン）\n10：20～11：05（オンライン）\n11：…",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=6521",
+            "title": "個別キャリア相談空き情報",
+            "date_modified": "2025-09-03T03:00:00.000Z"
+        },
+        {
             "id": "a27b025af3a785bd2b10766df1a4837d",
             "content_html": "茨城大学茨城県スポーツ推進課より下記のとおり案内がありましたのでお知らせいたします。\nご興味のある方は、公式HPからエントリーしてください。\n\n■Okukuji「X」（おくくじくろす）\n開催日時：10/18（土）-19（日）\n競技内容：以下①～③のいずれかに申込可能\n　　　　　①クロス（サイクリング＆トレイルランニング）部門（10/18-19）\n　　　　　②サイクリング部門（10/18）\n　　　　…",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=6520",
@@ -136,13 +143,6 @@
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=6499",
             "title": "令和７年度秋学期学生健康診断について",
             "date_modified": "2025-08-25T03:00:00.000Z"
-        },
-        {
-            "id": "87ab0ef622376e9b46cac4881b594dec",
-            "content_html": "2025 年度 JASSO プログラムに採択された「中央アジア・コーカサス・バルト・東欧諸国を対象としたマルチリンガル人材育成派遣 プログラム」のプログラム生を募集します。\n\n参加者は、NipCAフレンドシップメンバーとして登録されます。\n\n【派遣対象学生】\n・全学群の学生および人文社会科学研究群、ビジネス科学研究群の院生\n・2024 年度の GPA が 3 点満点中 2.3 以上の学生\n・202…",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=6497",
-            "title": "【参加者募集】JASSO 給付型奨学金プログラム（交換留学 6 か月～12 か月） 「中央アジア・コーカサス・バルト・東欧諸国を対象としたマルチリンガル人材育成派遣プログラム」",
-            "date_modified": "2025-08-22T03:00:00.000Z"
         }
     ]
 }
