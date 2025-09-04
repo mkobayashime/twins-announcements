@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/mkobayashime/twins-announcements</id>
     <title>在学生へのお知らせ | 筑波大学</title>
-    <updated>2025-09-04T03:10:14.872Z</updated>
+    <updated>2025-09-04T08:01:47.394Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://github.com/mkobayashime/twins-announcements"/>
     <subtitle>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</subtitle>
+    <entry>
+        <title type="html"><![CDATA[【重要】2025年度第１期分授業料の納入督促について/【Important】About Tuition for First term of AY 2025]]></title>
+        <id>e99d90cf7c824ac405656cf217c7cb2f</id>
+        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=6527"/>
+        <updated>2025-09-04T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[2025年度第１期分授業料未納者は、「払込取扱票」が発行されているので、再度確認の上、速やかに金融機関窓口にて納付されるようお願いします。
+納付されないときは、本学学則による除籍処分該当者となります。
+
+For those who have not paid the tuition for first term of AY 2025, the payment slip has been issue…]]></summary>
+    </entry>
     <entry>
         <title type="html"><![CDATA[9/26（金） 対面面接＆GD練習会 参加者募集中！]]></title>
         <id>878e684242fe3e1ae3b8f7fbda85566d</id>
@@ -252,14 +262,5 @@ https://www.caa.go.…]]></summary>
 （期日前投票所）
 ・日　時：9月2日（火）10時～19時
 ・場　…]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【周知】富山大学和漢医薬学総合研究所紹介イベント「WAKAN2025」開催案内について]]></title>
-        <id>2d5f657dde606f6ff0dbd3251dbeb884</id>
-        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=6507"/>
-        <updated>2025-08-27T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[富山大学より、富山大学和漢医薬学総合研究所紹介イベント「WAKAN2025」の開催案内がありましたので、お知らせいたします。
-
-本セミナーはサブタイトルを「『和漢研で学ぼう！』 多様な背景を持つ研究者と共におもしろい研究をしよう」と題し、大学院で学ぶことの面白さや、専門分野を変えて学ぶという新たな選択肢について紹介します。これから進学や進路について考えている若い学生の皆さんはもちろん、研究に興味の…]]></summary>
     </entry>
 </feed>
