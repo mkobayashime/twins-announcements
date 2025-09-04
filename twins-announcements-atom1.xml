@@ -2,10 +2,26 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/mkobayashime/twins-announcements</id>
     <title>在学生へのお知らせ | 筑波大学</title>
-    <updated>2025-09-04T01:28:57.375Z</updated>
+    <updated>2025-09-04T02:25:23.281Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://github.com/mkobayashime/twins-announcements"/>
     <subtitle>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</subtitle>
+    <entry>
+        <title type="html"><![CDATA[個別キャリア相談空き情報]]></title>
+        <id>6d80e54f8ab49c8b8fd063ad425da49c</id>
+        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=6524"/>
+        <updated>2025-09-04T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[9/10（水）オンライン 面接練習会 参加者募集中！
+就活やインターンシップに即役立つ、面接練習会を開催します。
+採用試験やIS選考のために、練習しませんか。
+低学年のみなさんの参加も大歓迎です！
+コミュニケーション苦手の克服にもぜひ、この機会を活用してください。
+
+【詳細と申込み】
+＜オンライン集団面接＞　9月10日（水）13：30～15：00
+〇申し込みURL（ZOOM）
+https://us…]]></summary>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【10/10㈮開催】大学院進学と就職を考えるセミナー]]></title>
         <id>8ca5b646d2d6e5b9ee61dd884bd99cef</id>
@@ -240,14 +256,5 @@ https://www.mext.go.jp/a_menu/shotou/seitoshid…]]></summary>
         <summary type="html"><![CDATA[茨城県警察本部生活安全総務課より、いばらき防犯ファイル（令和7年7月末）の送付がありましたので、添付のとおり掲載いたします。
 
 本ファイルは、県内で実際に発生した犯罪の情報のほか、防犯対策に役立つ情報が含まれております。ご自身の安全のためにも、ぜひご確認ください。]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【周知】スポーツ・健康まちづくりデザイン学生コンペティション2025について]]></title>
-        <id>f81a69bcca024f2d6e990f67baa0a8f8</id>
-        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=6503"/>
-        <updated>2025-08-27T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[文部科学省からスポーツ庁主催の「スポーツ・健康まちづくりデザイン学生コンペティション2025」について、案内がありましたので、お知らせします。
-
-本コンペティションは、どこでもスポーツに親しむことができる「まち」を実現するために、学生のみなさまからの多様で柔軟な「スポーツ・健康まちづくりデザイン」のアイデアを募集しています。事前参加エントリーされた方は、8月20日・9月8日に開催するオンラインレク…]]></summary>
     </entry>
 </feed>

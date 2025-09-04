@@ -4,10 +4,26 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Thu, 04 Sep 2025 01:28:57 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 04 Sep 2025 02:25:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
+        <item>
+            <title><![CDATA[個別キャリア相談空き情報]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=6524</link>
+            <guid isPermaLink="false">6d80e54f8ab49c8b8fd063ad425da49c</guid>
+            <pubDate>Thu, 04 Sep 2025 03:00:00 GMT</pubDate>
+            <description><![CDATA[9/10（水）オンライン 面接練習会 参加者募集中！
+就活やインターンシップに即役立つ、面接練習会を開催します。
+採用試験やIS選考のために、練習しませんか。
+低学年のみなさんの参加も大歓迎です！
+コミュニケーション苦手の克服にもぜひ、この機会を活用してください。
+
+【詳細と申込み】
+＜オンライン集団面接＞　9月10日（水）13：30～15：00
+〇申し込みURL（ZOOM）
+https://us…]]></description>
+        </item>
         <item>
             <title><![CDATA[【10/10㈮開催】大学院進学と就職を考えるセミナー]]></title>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=6523</link>
@@ -242,15 +258,6 @@ https://www.mext.go.jp/a_menu/shotou/seitoshid…]]></description>
             <description><![CDATA[茨城県警察本部生活安全総務課より、いばらき防犯ファイル（令和7年7月末）の送付がありましたので、添付のとおり掲載いたします。
 
 本ファイルは、県内で実際に発生した犯罪の情報のほか、防犯対策に役立つ情報が含まれております。ご自身の安全のためにも、ぜひご確認ください。]]></description>
-        </item>
-        <item>
-            <title><![CDATA[【周知】スポーツ・健康まちづくりデザイン学生コンペティション2025について]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=6503</link>
-            <guid isPermaLink="false">f81a69bcca024f2d6e990f67baa0a8f8</guid>
-            <pubDate>Wed, 27 Aug 2025 03:00:00 GMT</pubDate>
-            <description><![CDATA[文部科学省からスポーツ庁主催の「スポーツ・健康まちづくりデザイン学生コンペティション2025」について、案内がありましたので、お知らせします。
-
-本コンペティションは、どこでもスポーツに親しむことができる「まち」を実現するために、学生のみなさまからの多様で柔軟な「スポーツ・健康まちづくりデザイン」のアイデアを募集しています。事前参加エントリーされた方は、8月20日・9月8日に開催するオンラインレク…]]></description>
         </item>
     </channel>
 </rss>
