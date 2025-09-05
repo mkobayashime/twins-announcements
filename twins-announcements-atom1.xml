@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/mkobayashime/twins-announcements</id>
     <title>在学生へのお知らせ | 筑波大学</title>
-    <updated>2025-09-05T00:03:03.225Z</updated>
+    <updated>2025-09-05T08:02:05.891Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://github.com/mkobayashime/twins-announcements"/>
     <subtitle>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</subtitle>
+    <entry>
+        <title type="html"><![CDATA[個別キャリア相談空き状況]]></title>
+        <id>87ecff5d57a72aff1d267e9f4bc88b4a</id>
+        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=6530"/>
+        <updated>2025-09-05T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[◆来週月曜日（9/8）の個別キャリア相談
+11：20～12：05（オンライン）
+13：20～14：05
+14：20～15：05
+15：20～16：05
+16：20～17：05
+が予約可能です。
+
+連絡先
+・メール：bhe-career-student@un.tsukuba.ac.jp
+・（お急ぎの方は）電話：029-853-8444
+・明日以降の通常予約：予約フォーム
+
+※時間を要しない相談は、「…]]></summary>
+    </entry>
     <entry>
         <title type="html"><![CDATA[40th period (2026) INOAC International Education and Scholarship Foundation typeA]]></title>
         <id>6fc1cffcdc5aac336766f4358d6e7268</id>
@@ -237,17 +257,5 @@ Affected: 
 
 なお、引き続き厳しい残暑が続く場合には、学生及び教職員の皆様には、健康に留意し、適切な対応をお願いします。
 　　　　　　　…]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【周知】消費者志向経営の推進に係る啓発ポスターについて]]></title>
-        <id>e2065bd011b806fb14f965fe12a35eb3</id>
-        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=6509"/>
-        <updated>2025-08-27T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[文部科学省を通じて、消費者庁より消費者志向経営の推進に関する啓発ポスターが届きましたので、お知らせします。
-消費者庁では、持続可能な社会の実現に向けて、事業者が消費者と協働して行う「消費者志向経営」を推進し、広報活動として、事業者の取組を消費者や社会へ広く発信しています。学生の皆様も、ぜひ一度ご覧下さい。
-
-（参考資料）
-（１） 消費者志向経営推進組織の活動
-https://www.caa.go.…]]></summary>
     </entry>
 </feed>
