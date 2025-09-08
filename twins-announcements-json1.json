@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "b2bc8ea17e711053b549cefc81eaa824",
+            "content_html": "超異分野院生団体「つくば院生ネットワーク」からのお知らせです。\n本日は筑波会議での開催する「つくばQxQ Meet & Research」の発表者募集のご案内です。\n■ つくばQxQ Meet & Researchとは\n「問い」を通じた学際的研究交流の場です\n学会とは異なり、専門性の壁を越えた対話を重視します\n■ それぞれの立場での参加価値\n【学群生の皆様】\n・研究発表の第一歩として最適な環境です…",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=6541",
+            "title": "異分野交流イベントのお知らせ@筑波会議",
+            "date_modified": "2025-09-08T03:00:00.000Z"
+        },
+        {
             "id": "5a726da485bf02801ae82ced9e20227c",
             "content_html": "就活やインターンシップに即役立つ、面接練習会を開催します。\n採用試験やIS選考のために、練習しませんか。\n低学年のみなさんの参加も大歓迎です！\nコミュニケーション苦手の克服にもぜひ、この機会を活用してください。\n\n【詳細と申込み】\n＜オンライン集団面接＞　9月10日（水）13：30～15：00\n〇申し込みURL（ZOOM）\nhttps://us02web.zoom.us/meeting/regis…",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=6539",
@@ -135,13 +142,6 @@
             "content_html": "茨城大学茨城県スポーツ推進課より下記のとおり案内がありましたのでお知らせいたします。\nご興味のある方は、公式HPからエントリーしてください。\n\n■Okukuji「X」（おくくじくろす）\n開催日時：10/18（土）-19（日）\n競技内容：以下①～③のいずれかに申込可能\n　　　　　①クロス（サイクリング＆トレイルランニング）部門（10/18-19）\n　　　　　②サイクリング部門（10/18）\n　　　　…",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=6520",
             "title": "【参加者募集】「サイクリング」と「トレイルランニング」を組合わせたサバイバルレース、「Okukuji「X」」について（茨城県）",
-            "date_modified": "2025-09-02T03:00:00.000Z"
-        },
-        {
-            "id": "c7eba692e3f0a16c0aef62b76a3fd9a5",
-            "content_html": "【開催案内】Getting to know Ukraine through film　映画を通してウクライナを知る\n\n筑波大学NipCAプロジェクトでは、この度、在日本ウクライナ大使館との共催により、日本未公開のウクライナ映画上映とシンポジウムを合わせた企画「映画を通してウクライナを知る」を開催することになりました。茨城県つくば市にて10月上旬に開催される筑波会議2025において、一般市民に開かれ…",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=6519",
-            "title": "【開催案内】筑波会議2025 「映画を通してウクライナを知る」",
             "date_modified": "2025-09-02T03:00:00.000Z"
         }
     ]

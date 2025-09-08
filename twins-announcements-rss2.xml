@@ -4,10 +4,24 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Mon, 08 Sep 2025 03:17:44 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 08 Sep 2025 07:01:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
+        <item>
+            <title><![CDATA[異分野交流イベントのお知らせ@筑波会議]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=6541</link>
+            <guid isPermaLink="false">b2bc8ea17e711053b549cefc81eaa824</guid>
+            <pubDate>Mon, 08 Sep 2025 03:00:00 GMT</pubDate>
+            <description><![CDATA[超異分野院生団体「つくば院生ネットワーク」からのお知らせです。
+本日は筑波会議での開催する「つくばQxQ Meet & Research」の発表者募集のご案内です。
+■ つくばQxQ Meet & Researchとは
+「問い」を通じた学際的研究交流の場です
+学会とは異なり、専門性の壁を越えた対話を重視します
+■ それぞれの立場での参加価値
+【学群生の皆様】
+・研究発表の第一歩として最適な環境です…]]></description>
+        </item>
         <item>
             <title><![CDATA[9/10（水）オンライン 面接練習会 参加者募集中！]]></title>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=6539</link>
@@ -260,15 +274,6 @@ For details, please see the attached file.
 　　　　　①クロス（サイクリング＆トレイルランニング）部門（10/18-19）
 　　　　　②サイクリング部門（10/18）
 　　　　…]]></description>
-        </item>
-        <item>
-            <title><![CDATA[【開催案内】筑波会議2025 「映画を通してウクライナを知る」]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=6519</link>
-            <guid isPermaLink="false">c7eba692e3f0a16c0aef62b76a3fd9a5</guid>
-            <pubDate>Tue, 02 Sep 2025 03:00:00 GMT</pubDate>
-            <description><![CDATA[【開催案内】Getting to know Ukraine through film　映画を通してウクライナを知る
-
-筑波大学NipCAプロジェクトでは、この度、在日本ウクライナ大使館との共催により、日本未公開のウクライナ映画上映とシンポジウムを合わせた企画「映画を通してウクライナを知る」を開催することになりました。茨城県つくば市にて10月上旬に開催される筑波会議2025において、一般市民に開かれ…]]></description>
         </item>
     </channel>
 </rss>
