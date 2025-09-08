@@ -4,10 +4,21 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Sun, 07 Sep 2025 21:07:05 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 08 Sep 2025 01:29:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
+        <item>
+            <title><![CDATA[【参加者募集！】多文化共修プログラム in コートジボワール プログラム説明会について]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=6531</link>
+            <guid isPermaLink="false">bff9bedda54cf4b34f484ca8f613eb89</guid>
+            <pubDate>Mon, 08 Sep 2025 03:00:00 GMT</pubDate>
+            <description><![CDATA[春期休暇中（2026年2月-3月）に西アフリカ・コートジボワールを訪問し、講義やフィールドワーク、現地の大学生とのグループワークを通して、サブサハラ・アフリカ諸国が抱える社会課題について理解を深め、解決策を考える実践型プログラムです。
+
+10月16日（木）と10月21日（火）にプログラム説明会を実施します。興味のある方は気軽に説明会にお越しください。詳細は添付のチラシをご覧ください。
+
+「説明会に…]]></description>
+        </item>
         <item>
             <title><![CDATA[個別キャリア相談空き状況]]></title>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=6530</link>
@@ -249,16 +260,6 @@ Affected: 
             <pubDate>Fri, 29 Aug 2025 03:00:00 GMT</pubDate>
             <description><![CDATA[9月24日（水）、25日（木）に、全学・全学年の学生を対象として「筑波大学情報関連 業界研究セミナー2025」を開催します。
 本セミナーは、MDA教育推進室・高度人材育成事業・システム情報工学研究群・情報学学位プログラムの共催により実施するもので、２日間で合計60（30×2日間）の、情報通信業をはじめとする多様な企業・団体の採用担当者および本学のOBOGが来学し、学生の皆様と直接お話しができる機会…]]></description>
-        </item>
-        <item>
-            <title><![CDATA[【お知らせ】令和7年度冷房実施期間の延長について]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=6510</link>
-            <guid isPermaLink="false">9dd65e9396fc26adfb99efcc9b4c91f1</guid>
-            <pubDate>Wed, 27 Aug 2025 03:00:00 GMT</pubDate>
-            <description><![CDATA[本年度の冷房実施期間は、令和７年５月２６日掲載の「令和7年度冷暖房の運転について」のお知らせにて、９月１２日（金）までを予定としていたところでありますが、気象庁の予報では外気温が９月１３日以降も２８℃を上回る日が予想されていますので、９月２６日（金）まで期間の延長をします。
-
-なお、引き続き厳しい残暑が続く場合には、学生及び教職員の皆様には、健康に留意し、適切な対応をお願いします。
-　　　　　　　…]]></description>
         </item>
     </channel>
 </rss>
