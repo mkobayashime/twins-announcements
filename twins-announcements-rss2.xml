@@ -4,10 +4,24 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Mon, 15 Sep 2025 09:08:52 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 15 Sep 2025 15:01:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
+        <item>
+            <title><![CDATA[【つくば市よりおしらせ】令和7年国勢調査にご回答ください！]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=6549</link>
+            <guid isPermaLink="false">146457e4f7d39c0093888a7c7c30710e</guid>
+            <pubDate>Tue, 16 Sep 2025 03:00:00 GMT</pubDate>
+            <description><![CDATA[つくば市より、令和７年国勢調査について連絡がありましたので、おしらせします。
+
+--------------------------------------------------------------------------------
+
+令和7年国勢調査にご回答ください！
+
+◆国勢調査は、日本に住むすべての人及び世帯（外国人の方も含む）を対象とする、日本で最も重要な統計調査です。
+◆９月２０…]]></description>
+        </item>
         <item>
             <title><![CDATA[【再掲】令和７年度高圧ガスボンベ利用者安全講習会の開催について]]></title>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=6548</link>
@@ -243,18 +257,6 @@ For those who have not paid the tuition for first term of AY 2025, the payment s
 BHEキャリア支援チームのファシリテーターからフィードバックがあります。 （日本語での開催です）
 【詳細と申込み】
 ＜対…]]></description>
-        </item>
-        <item>
-            <title><![CDATA[【10/10㈮開催】大学院進学と就職を考えるセミナー]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=6523</link>
-            <guid isPermaLink="false">8ca5b646d2d6e5b9ee61dd884bd99cef</guid>
-            <pubDate>Thu, 04 Sep 2025 03:00:00 GMT</pubDate>
-            <description><![CDATA[「大学院進学か就職か」で悩みを抱えている方はいませんか？
-このイベントでは大学院生の就職支援をしている株式会社アカリクの講師をお招きし、大学院進学することの意味や学群卒と院卒の違い、大学院生の就職事情、また院進学に向けての準備や心構えについても解説していただきます。
-ぜひこのセミナーでご自身のキャリアと向き合ってみましょう。
-
-◆日時 2025年10月10日(金)　18:00～19:15
-◆開催場…]]></description>
         </item>
     </channel>
 </rss>
