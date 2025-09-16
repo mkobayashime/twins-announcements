@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "f7e5c4dc1ece4147cbde4ed3df16263e",
+            "content_html": "サーバー更新作業に伴い、下記の時間、キャリア支援チームホームページ等へ繋がりにくくなります。\n【作業日時】9/24（水）9：00　～　13：15（予定）\n\nなお、サーバー更新作業中は、「学内専用ページ」、「ガイダンス等及び模試試験登録・申請」、「進路進捗状況届」へのアクセスはできません。\n皆様にはご迷惑をおかけいたしますが、ご理解、ご協力の程よろしくお願いいたします。\n",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=6552",
+            "title": "サーバー更新作業に伴うキャリア支援チームHP及び就職情報提供システム停止のお知らせ",
+            "date_modified": "2025-09-16T03:00:00.000Z"
+        },
+        {
             "id": "2fcd96a157909e8642215c2fec13fe22",
             "content_html": "大学、大学院の先の活躍の場は、日本国内だけじゃない！\nお待たせしました。グローバルスタートアッパーセミナー第４弾です。\n今回は、本学卒業生で現在フロリダ州立大学、アメリカ教育学（AERA)の主要雑誌の総編集長を務める秋場素子氏を招き、世界で働く面白さ、勇気をもって世界へ飛び出すことで見えてくる様々な視点について、お話をいただきます。ぜひお友達を誘って、お気軽にお越しください。\n\n〇10月17日（金…",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=6551",
@@ -136,13 +143,6 @@
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=6528",
             "title": "公益財団法人　イノアック国際教育振興財団 第40期(2026年度)奨学金 タイプＡ",
             "date_modified": "2025-09-05T03:00:00.000Z"
-        },
-        {
-            "id": "28bbe24b455b16ce7fcf2bc0bbca6882",
-            "content_html": "令和7（2025）年７月24日（木）に開催しました教育関係共同利用拠点令和７年度第１回FD/SD研修会「マジョリティ特権を可視化する」について、見逃し配信をを行いますので、ご案内申し上げます。\n見逃し配信は、安定したインターネットに接続できる端末をご用意いただければ、下記の視聴期間中いつでもどこでも自由に視聴することができます。\n申込後に見逃し配信への接続方法がメールで自動的に通知されます。\nつき…",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=6540",
-            "title": "【見逃し配信】教育関係共同利用拠点令和７年度第１回FD/SD研修会「マジョリティ特権を可視化する」について",
-            "date_modified": "2025-09-04T03:00:00.000Z"
         }
     ]
 }
