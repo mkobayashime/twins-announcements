@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "51fc650b8672ce37f2bfd3f34153323f",
+            "content_html": "第3エリア(SCP)\n社会実験と通行規制のお知らせ\n\n日時：10/1(水)～10/24(金)\n場所：三学食堂前から天の川のエリア（添付ポスター参照)\n\n10/1から10/24の期間、スマートキャンパス化にむけた社会実験を行います。\n学生参加型のプレイスメイキングや春学期中に行なった調査結果を踏まえ、三学食堂前〜天の川のエリア中心に、ベンチなどの設置および自転車通行・駐輪ルールの変更を行います。\n期…",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=6550",
+            "title": "社会実験と通行規制のお知らせ　「第３エリア　スマートキャンパスプロジェクト（SCP）」",
+            "date_modified": "2025-09-16T03:00:00.000Z"
+        },
+        {
             "id": "146457e4f7d39c0093888a7c7c30710e",
             "content_html": "つくば市より、令和７年国勢調査について連絡がありましたので、おしらせします。\n\n--------------------------------------------------------------------------------\n\n令和7年国勢調査にご回答ください！\n\n◆国勢調査は、日本に住むすべての人及び世帯（外国人の方も含む）を対象とする、日本で最も重要な統計調査です。\n◆９月２０…",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=6549",
@@ -135,13 +142,6 @@
             "content_html": "2025年度第１期分授業料未納者は、「払込取扱票」が発行されているので、再度確認の上、速やかに金融機関窓口にて納付されるようお願いします。\n納付されないときは、本学学則による除籍処分該当者となります。\n\nFor those who have not paid the tuition for first term of AY 2025, the payment slip has been issue…",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=6527",
             "title": "【重要】2025年度第１期分授業料の納入督促について/【Important】About Tuition for First term of AY 2025",
-            "date_modified": "2025-09-04T03:00:00.000Z"
-        },
-        {
-            "id": "878e684242fe3e1ae3b8f7fbda85566d",
-            "content_html": "就活やインターンシップに即役立つ、面接とグループディスカッション練習会を開催します。\n採用試験やIS選考のために、練習しませんか。\n低学年のみなさんの参加も大歓迎です！\nコミュニケーション苦手の克服にもぜひ、この機会を活用してください。\n\n対面面接編でビジネスマナーも学べます。\nBHEキャリア支援チームのファシリテーターからフィードバックがあります。 （日本語での開催です）\n【詳細と申込み】\n＜対…",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=6526",
-            "title": "9/26（金） 対面面接＆GD練習会 参加者募集中！",
             "date_modified": "2025-09-04T03:00:00.000Z"
         }
     ]

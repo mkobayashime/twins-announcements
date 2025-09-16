@@ -4,10 +4,25 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Mon, 15 Sep 2025 21:06:56 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 16 Sep 2025 01:29:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
+        <item>
+            <title><![CDATA[社会実験と通行規制のお知らせ　「第３エリア　スマートキャンパスプロジェクト（SCP）」]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=6550</link>
+            <guid isPermaLink="false">51fc650b8672ce37f2bfd3f34153323f</guid>
+            <pubDate>Tue, 16 Sep 2025 03:00:00 GMT</pubDate>
+            <description><![CDATA[第3エリア(SCP)
+社会実験と通行規制のお知らせ
+
+日時：10/1(水)～10/24(金)
+場所：三学食堂前から天の川のエリア（添付ポスター参照)
+
+10/1から10/24の期間、スマートキャンパス化にむけた社会実験を行います。
+学生参加型のプレイスメイキングや春学期中に行なった調査結果を踏まえ、三学食堂前〜天の川のエリア中心に、ベンチなどの設置および自転車通行・駐輪ルールの変更を行います。
+期…]]></description>
+        </item>
         <item>
             <title><![CDATA[【つくば市よりおしらせ】令和7年国勢調査にご回答ください！]]></title>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=6549</link>
@@ -242,21 +257,6 @@ How to apply: Please apply to the foundation directly from the following URL.…
 納付されないときは、本学学則による除籍処分該当者となります。
 
 For those who have not paid the tuition for first term of AY 2025, the payment slip has been issue…]]></description>
-        </item>
-        <item>
-            <title><![CDATA[9/26（金） 対面面接＆GD練習会 参加者募集中！]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=6526</link>
-            <guid isPermaLink="false">878e684242fe3e1ae3b8f7fbda85566d</guid>
-            <pubDate>Thu, 04 Sep 2025 03:00:00 GMT</pubDate>
-            <description><![CDATA[就活やインターンシップに即役立つ、面接とグループディスカッション練習会を開催します。
-採用試験やIS選考のために、練習しませんか。
-低学年のみなさんの参加も大歓迎です！
-コミュニケーション苦手の克服にもぜひ、この機会を活用してください。
-
-対面面接編でビジネスマナーも学べます。
-BHEキャリア支援チームのファシリテーターからフィードバックがあります。 （日本語での開催です）
-【詳細と申込み】
-＜対…]]></description>
         </item>
     </channel>
 </rss>
