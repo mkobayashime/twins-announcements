@@ -5,6 +5,20 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "7974c807b6aa3d1287dcab6dec130dcf",
+            "content_html": "(1) Category\n1. Partner University Student Exchange(For Students)\n2. CiC Partner University Student Exchange, etc.(For Students)\n3. Multicultural Co-learning Activity*1\n4. Overseas Language Training a…",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=6561",
+            "title": "3rd Call for applications for AY2025 University of Tsukuba Study Abroad Support Program",
+            "date_modified": "2025-09-19T03:00:00.000Z"
+        },
+        {
+            "id": "43eb07ffee4ad89748b11366a5e66826",
+            "content_html": "２０２５年度海外留学支援事業（はばたけ！筑大生）の第3回募集を下記のとおり実施します。\n\n（１）筑波大学海外留学支援事業（はばたけ！筑大生）の支援区分\n１．国際交流協定校交換留学支援【学生が申請】\n２．CiC協定等派遣支援【学生が申請】\n３．多文化共修活動参加支援【教職員が申請】※１\n４．語学研修・海外研修参加支援【教職員が申請】※１\n５．海外武者修行支援プログラム【学生が申請】（第３回での募集な…",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=6559",
+            "title": "２０２５年度筑波大学海外留学支援事業 （はばたけ！筑大生）第3回募集について（通知）",
+            "date_modified": "2025-09-19T03:00:00.000Z"
+        },
+        {
             "id": "b5b1813068f0e0f1c063371297f4c8ac",
             "content_html": "筑波大学DESIGN THE FUTURE機構（DTF機構）では、11-12月に実施予定の「学食プロジェクト」（学食メニューのCO₂見える化プロジェクト）に関わっていただける学生を募集します。\n\n【募集対象】\n学食プロジェクトの運営スタッフに参加したい/興味がある方\n\n詳細PDF内QRコードもしくはリンクから応募　https://forms.office.com/r/vm6a39vn4i\n\n「学食…",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=6564",
@@ -129,20 +143,6 @@
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=6542",
             "title": "【10/10㈮開催】大学院進学と就職を考えるセミナー 　※リマインド",
             "date_modified": "2025-09-09T03:00:00.000Z"
-        },
-        {
-            "id": "b2bc8ea17e711053b549cefc81eaa824",
-            "content_html": "超異分野院生団体「つくば院生ネットワーク」からのお知らせです。\n本日は筑波会議での開催する「つくばQxQ Meet & Research」の発表者募集のご案内です。\n■ つくばQxQ Meet & Researchとは\n「問い」を通じた学際的研究交流の場です\n学会とは異なり、専門性の壁を越えた対話を重視します\n■ それぞれの立場での参加価値\n【学群生の皆様】\n・研究発表の第一歩として最適な環境です…",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=6541",
-            "title": "異分野交流イベントのお知らせ@筑波会議",
-            "date_modified": "2025-09-08T03:00:00.000Z"
-        },
-        {
-            "id": "fb4185d4b25f6c12833b9ddd059b8377",
-            "content_html": "関東鉄道（株）より、令和7年10月1日（水）から、高速バスつくば号（つくば～東京駅線）のダイヤ改正及び運賃改定を実施する旨お知らせがありました。\n\nダイヤ改正に伴い、これまで学内に乗り入れていた一部の便がつくばセンター発着となりますのでご注意ください。\n\n詳細は、下記の関東鉄道バスHPをご覧ください。\n\n-----------------------------------------------…",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=6538",
-            "title": "【周知】高速バス つくば号（つくば～東京駅線）のダイヤ改正・運賃改定について（10/1～）",
-            "date_modified": "2025-09-08T03:00:00.000Z"
         }
     ]
 }
