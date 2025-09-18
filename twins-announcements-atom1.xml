@@ -2,10 +2,25 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/mkobayashime/twins-announcements</id>
     <title>在学生へのお知らせ | 筑波大学</title>
-    <updated>2025-09-17T21:07:10.623Z</updated>
+    <updated>2025-09-18T00:03:14.633Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://github.com/mkobayashime/twins-announcements"/>
     <subtitle>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</subtitle>
+    <entry>
+        <title type="html"><![CDATA[【保健管理センター】インフルエンザワクチン接種、今年もやります。]]></title>
+        <id>11b6e6fdfe6b172668bfad580b33ec6b</id>
+        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=6553"/>
+        <updated>2025-09-18T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[今年度もインフルエンザのワクチン接種を行います。
+接種を希望される方は、以下の予約ページより事前にご予約をお願いします。
+
+　予約開始　：　令和７年９月２５日（木）１９：００頃～
+　接種期間　：　令和７年１０月３日（金）～
+　対　　象　：　筑波大学 学生・職員（本学の学生証または、職員証がある方）
+　料　　金　：　３，０００円
+
+　※接種当日は「インフルエンザHAワクチン予防接種予診票」をご記入の…]]></summary>
+    </entry>
     <entry>
         <title type="html"><![CDATA[サーバー更新作業に伴うキャリア支援チームHP及び就職情報提供システム停止のお知らせ]]></title>
         <id>f7e5c4dc1ece4147cbde4ed3df16263e</id>
@@ -23,12 +38,11 @@
         <id>2fcd96a157909e8642215c2fec13fe22</id>
         <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=6551"/>
         <updated>2025-09-16T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[サーバー更新作業に伴い、下記の時間、キャリア支援チームホームページ等へ繋がりにくくなります。
-【作業日時】9/24（水）9：00　～　13：15（予定）
+        <summary type="html"><![CDATA[大学、大学院の先の活躍の場は、日本国内だけじゃない！
+お待たせしました。グローバルスタートアッパーセミナー第４弾です。
+今回は、本学卒業生で現在フロリダ州立大学、アメリカ教育学（AERA)の主要雑誌の総編集長を務める秋場素子氏を招き、世界で働く面白さ、勇気をもって世界へ飛び出すことで見えてくる様々な視点について、お話をいただきます。ぜひお友達を誘って、お気軽にお越しください。
 
-なお、サーバー更新作業中は、「学内専用ページ」、「ガイダンス等及び模試試験登録・申請」、「進路進捗状況届」へのアクセスはできません。
-皆様にはご迷惑をおかけいたしますが、ご理解、ご協力の程よろしくお願いいたします。
-]]></summary>
+〇10月17日（金…]]></summary>
     </entry>
     <entry>
         <title type="html"><![CDATA[社会実験と通行規制のお知らせ　「第３エリア　スマートキャンパスプロジェクト（SCP）」]]></title>
@@ -248,16 +262,5 @@ BHEキャリア支援チームのファシリテーターからフィードバ�
         <summary type="html"><![CDATA[40th period (2026) INOAC International Education and Scholarship Foundation typeA
 Deadline：October 13th (Mon.), 2025 13：00
 How to apply: Please apply to the foundation directly from the following URL.…]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[公益財団法人　イノアック国際教育振興財団 第40期(2026年度)奨学金 タイプＡ]]></title>
-        <id>83e88cfb1044d4a597659a69d1688ee8</id>
-        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=6528"/>
-        <updated>2025-09-05T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[公益財団法人　イノアック国際教育振興財団 第40期(2026年度)奨学金 タイプＡ
-申請期限：2025年10月13日（月）13：00
-申請方法：以下のURLより財団へ直接応募https://gaxi.jp/organization/4wmry8lMWx6OpoYN/project/GMQ4e8Dxv38zLr0D
-※奨学生推薦書には、学生交流課での手続きが必要な箇所があります。
-　本奨学金応募希望…]]></summary>
     </entry>
 </feed>
