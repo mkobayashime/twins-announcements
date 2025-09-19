@@ -4,10 +4,19 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Fri, 19 Sep 2025 08:01:52 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 19 Sep 2025 09:01:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
+        <item>
+            <title><![CDATA[【参加者募集！】第２回TUAN総会 and Alumni Talk]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=6573</link>
+            <guid isPermaLink="false">6c318490ca18051b7933ed55d1122d22</guid>
+            <pubDate>Fri, 19 Sep 2025 03:00:00 GMT</pubDate>
+            <description><![CDATA[このたび、第２回TUAN総会の特別企画イベントの一環として、卒業生によるキャリアトークイベント「TUAN Alumni Talk」を開催いたします。
+
+本イベントでは、国際的に活躍する本学同窓生の武藤康平氏 (CEO, Double Feather Partners Inc.)・Neven Stubic氏 (Founder, KADRO)の2名の卒業生をお招きし、それぞれのキャリアの歩みや、グロー…]]></description>
+        </item>
         <item>
             <title><![CDATA[【聴講者募集！】エジプト・日本科学技術大学における多文化共修サマープログラム 2025 帰国報告会について]]></title>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=6572</link>
@@ -250,18 +259,6 @@ https://www.meikei.or.jp/event/7075.html
 　料　　金　：　３，０００円
 
 　※接種当日は「インフルエンザHAワクチン予防接種予診票」をご記入の…]]></description>
-        </item>
-        <item>
-            <title><![CDATA[サーバー更新作業に伴うキャリア支援チームHP及び就職情報提供システム停止のお知らせ]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=6552</link>
-            <guid isPermaLink="false">f7e5c4dc1ece4147cbde4ed3df16263e</guid>
-            <pubDate>Tue, 16 Sep 2025 03:00:00 GMT</pubDate>
-            <description><![CDATA[サーバー更新作業に伴い、下記の時間、キャリア支援チームホームページ等へ繋がりにくくなります。
-【作業日時】9/24（水）9：00　～　13：15（予定）
-
-なお、サーバー更新作業中は、「学内専用ページ」、「ガイダンス等及び模試試験登録・申請」、「進路進捗状況届」へのアクセスはできません。
-皆様にはご迷惑をおかけいたしますが、ご理解、ご協力の程よろしくお願いいたします。
-]]></description>
         </item>
     </channel>
 </rss>

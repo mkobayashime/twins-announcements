@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "6c318490ca18051b7933ed55d1122d22",
+            "content_html": "このたび、第２回TUAN総会の特別企画イベントの一環として、卒業生によるキャリアトークイベント「TUAN Alumni Talk」を開催いたします。\n\n本イベントでは、国際的に活躍する本学同窓生の武藤康平氏 (CEO, Double Feather Partners Inc.)・Neven Stubic氏 (Founder, KADRO)の2名の卒業生をお招きし、それぞれのキャリアの歩みや、グロー…",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=6573",
+            "title": "【参加者募集！】第２回TUAN総会 and Alumni Talk",
+            "date_modified": "2025-09-19T03:00:00.000Z"
+        },
+        {
             "id": "b71943bc4b96255279589cbc029021a0",
             "content_html": "今夏、エジプト・日本科学技術大学 (E-JUST) と本学が共同開発した特別プログラムがスタートしました。\n帰国報告会を、下記の日程で行います。\n\n日時: 2025年9月22日(月) 15:00-16:00\n\n場所: 中央図書館本館2階 チャットフレームB\n\n発表者: 5名 （五十音順）\n　　　　伊藤 圭吾(人文・文化学群 人文学類)\n　　　　伊藤 駿(理工情報生命学術院 生命地球科学研究群環境科…",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=6572",
@@ -136,13 +143,6 @@
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=6553",
             "title": "【保健管理センター】インフルエンザワクチン接種、今年もやります。",
             "date_modified": "2025-09-18T03:00:00.000Z"
-        },
-        {
-            "id": "f7e5c4dc1ece4147cbde4ed3df16263e",
-            "content_html": "サーバー更新作業に伴い、下記の時間、キャリア支援チームホームページ等へ繋がりにくくなります。\n【作業日時】9/24（水）9：00　～　13：15（予定）\n\nなお、サーバー更新作業中は、「学内専用ページ」、「ガイダンス等及び模試試験登録・申請」、「進路進捗状況届」へのアクセスはできません。\n皆様にはご迷惑をおかけいたしますが、ご理解、ご協力の程よろしくお願いいたします。\n",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=6552",
-            "title": "サーバー更新作業に伴うキャリア支援チームHP及び就職情報提供システム停止のお知らせ",
-            "date_modified": "2025-09-16T03:00:00.000Z"
         }
     ]
 }
