@@ -2,10 +2,18 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/mkobayashime/twins-announcements</id>
     <title>在学生へのお知らせ | 筑波大学</title>
-    <updated>2025-09-19T09:08:44.781Z</updated>
+    <updated>2025-09-19T10:01:50.413Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://github.com/mkobayashime/twins-announcements"/>
     <subtitle>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</subtitle>
+    <entry>
+        <title type="html"><![CDATA[【Call for participants!】Invitation to the 2nd TUAN General Meeting]]></title>
+        <id>a6630f731c16d6b9057e600a13c219ca</id>
+        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=6574"/>
+        <updated>2025-09-19T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[We are pleased to announce that the 2nd General Meeting will be held as detailed below.
+In addition, as part of a related event, alumni Mr. Kohei Muto (CEO, Double Feather Partners) and Mr. Neven Stub…]]></summary>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【参加者募集！】第２回TUAN総会 and Alumni Talk]]></title>
         <id>6c318490ca18051b7933ed55d1122d22</id>
@@ -242,20 +250,5 @@ https://www.meikei.or.jp/event/7075.html
 詳細は添付資料を参照してください。
 
 (1) My Life x Money: 100歳までに必…]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【保健管理センター】インフルエンザワクチン接種、今年もやります。]]></title>
-        <id>11b6e6fdfe6b172668bfad580b33ec6b</id>
-        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=6553"/>
-        <updated>2025-09-18T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[今年度もインフルエンザのワクチン接種を行います。
-接種を希望される方は、以下の予約ページより事前にご予約をお願いします。
-
-　予約開始　：　令和７年９月２５日（木）１９：００頃～
-　接種期間　：　令和７年１０月３日（金）～
-　対　　象　：　筑波大学 学生・職員（本学の学生証または、職員証がある方）
-　料　　金　：　３，０００円
-
-　※接種当日は「インフルエンザHAワクチン予防接種予診票」をご記入の…]]></summary>
     </entry>
 </feed>
