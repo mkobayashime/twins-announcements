@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/mkobayashime/twins-announcements</id>
     <title>在学生へのお知らせ | 筑波大学</title>
-    <updated>2025-09-19T06:01:57.989Z</updated>
+    <updated>2025-09-19T07:01:48.003Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://github.com/mkobayashime/twins-announcements"/>
     <subtitle>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</subtitle>
+    <entry>
+        <title type="html"><![CDATA[【イベント案内】文化講演会「新疆から見る満洲語の世界～言語と歴史の交差点～」開催のご案内【11/3 10:00-11:30】]]></title>
+        <id>5501c4d1209ddb89f2a56397b65cdcdb</id>
+        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=6569"/>
+        <updated>2025-09-19T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[2025年11月3日(月)10時より人文学類文化講演会を開催いたします。
+
+本講演会では、毎年異なるテーマについて、各分野で活躍されている研究者等を学外よりお招きして講演していただいています。
+本年は、中国・清朝において広く用いられていた満洲語（マンジュ語）について、新疆出身の清朝史研究者の先生にご講演いただきます。
+「参加費無料」「事前の参加登録は不要」、どなたでもご参加いただくことが可能です。…]]></summary>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【開催中！】ISSプログラム関連特別展『セリフのないバンド・デシネ／マンガ展 in つくば』]]></title>
         <id>2c41d354643155950a2b1799054a928f</id>
@@ -250,19 +261,5 @@ https://www.meikei.or.jp/event/7075.html
 
 ◆国勢調査は、日本に住むすべての人及び世帯（外国人の方も含む）を対象とする、日本で最も重要な統計調査です。
 ◆９月２０…]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【再掲】令和７年度高圧ガスボンベ利用者安全講習会の開催について]]></title>
-        <id>9df172243ba005938fb86f53ec6425df</id>
-        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=6548"/>
-        <updated>2025-09-11T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[この度、下記のとおり高圧ガスボンベ利用者安全講習会を開催いたします。
-この講習会では、高圧ガスに関する基礎知識から安全な取扱方法、事故事例等について、最新の情報を交えながらお話しいたします。
-
-　　　　　　　　　　　　　　　　　　　記
-
-１．日　　時　　令和７年９月２４日（水）　１０時１０分～１１時２５分
-２．場　　所　　１Ｈ２０１講義室
-３．講　　師　　中村　修　教授　筑波大学環境安全管理室室長…]]></summary>
     </entry>
 </feed>
