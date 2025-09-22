@@ -4,10 +4,23 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Mon, 22 Sep 2025 05:02:44 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 22 Sep 2025 06:01:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
+        <item>
+            <title><![CDATA[【大学院生募集！】高校生の個人研究サポーター募集「筑波大学GFEST」]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=6576</link>
+            <guid isPermaLink="false">07a1f189efce7952d6d4bd80542ba77d</guid>
+            <pubDate>Mon, 22 Sep 2025 03:00:00 GMT</pubDate>
+            <description><![CDATA[筑波大学では、「筑波大学GFEST」という科学人材育成プログラムを実施しており、科学に強い関心を持つ高校生の個人研究・学習等の支援を行っています。プログラムの一環として高校生の個人研究を個別にサポートしており、そのサポーターとして、自身の分野の専門性を活かしてアドバイスをしていただける理系の大学院生を募集しています。
+
+１　対象
+　筑波大学の理系の大学院生
+
+２　謝金
+個人研究サポート：１時間あた…]]></description>
+        </item>
         <item>
             <title><![CDATA[第108回　人間系コロキアムのお知らせ]]></title>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=6575</link>
@@ -239,20 +252,6 @@ https://www.meikei.or.jp/event/7075.html
 集合場所：TX守谷駅改札口近く
 募集人数：約10名（応募者多数の場合は、抽選で決定します）
 申込方法：参加希望者は、https://forms.office.com/r/XMqF4nZjsj（For…]]></description>
-        </item>
-        <item>
-            <title><![CDATA[【追加枠募集！】多文化共修 with マレーシアの大学生【再掲】]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=6555</link>
-            <guid isPermaLink="false">92b7634ef36d4acbdfa73d785bac4ce6</guid>
-            <pubDate>Thu, 18 Sep 2025 03:00:00 GMT</pubDate>
-            <description><![CDATA[英語で外国人の学生と交流をしてみたい方、大歓迎！
-多文化共修が初めての方、大歓迎！
-長期の留学は難しいけれど、、、学内でマレーシアの大学生と話してみませんか？
-（9/8にTWINSにアップした内容です。今回、追加でもう数名、ご参加いただける学生を募集します！ぜひこの機会に参加登録を♪）
-
-・日時　９月２５日（木）0900-1200
-
-・参加大学　マラヤ大学（マレーシア）Applied Scienc…]]></description>
         </item>
     </channel>
 </rss>
