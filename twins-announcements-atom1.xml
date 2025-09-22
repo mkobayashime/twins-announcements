@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/mkobayashime/twins-announcements</id>
     <title>在学生へのお知らせ | 筑波大学</title>
-    <updated>2025-09-22T06:01:55.971Z</updated>
+    <updated>2025-09-22T08:01:46.768Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://github.com/mkobayashime/twins-announcements"/>
     <subtitle>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</subtitle>
+    <entry>
+        <title type="html"><![CDATA[研究報告会「ラオス少数民族と暮らして（第２回)」開催お知らせ]]></title>
+        <id>98dec327236ae74f66d63909c3fab296</id>
+        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=6577"/>
+        <updated>2025-09-22T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[筑波大学「世界を変えよう基金」では、ラオスの少数民族の研究をしている学生団体maryの研究報告会「ラオス少数民族と暮らして（第２回）」を下記の要領で開催します。
+10月13日13:00~16:00　ハイブリッド開催（中央図書館セミナー室+Zoom）
+
+学生団体mary のメンバー学生は、文科省留学プログラム「トビタテ！留学JAPAN」等の支援を受けて、ラオスの山間地域に生活する少数民族の集落をこれ…]]></summary>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【大学院生募集！】高校生の個人研究サポーター募集「筑波大学GFEST」]]></title>
         <id>07a1f189efce7952d6d4bd80542ba77d</id>
@@ -235,20 +245,5 @@ https://www.meikei.or.jp/event/7075.html
 • 定員： 最大10名
 • 参加費： NZD$3,775（保険等別途必要）
 • 自己負担費用： 航空券…]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【Event Info】One-Day Home Visit （ホームステイ体験）]]></title>
-        <id>ce9ba96348e6fa5a50c2e5e0861c689e</id>
-        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=6557"/>
-        <updated>2025-09-18T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[<留学生対象>
-
-守谷市国際交流協会では、ホームステイに参加する外国人留学生を募集しています。
-日本の一般家庭の方々と交流する貴重な機会です。
-
-集合日時：2025年11月15日(土)  午前9:20
-集合場所：TX守谷駅改札口近く
-募集人数：約10名（応募者多数の場合は、抽選で決定します）
-申込方法：参加希望者は、https://forms.office.com/r/XMqF4nZjsj（For…]]></summary>
     </entry>
 </feed>
