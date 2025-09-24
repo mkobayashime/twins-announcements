@@ -5,6 +5,20 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "60e7835944228c51f2fe0c361cbca24d",
+            "content_html": "データサイエンス・エキスパート・プログラム（DSEP）履修説明会を開催します。\nDSEP/DSEP+の概要や履修方法、共同研究費等の支援、企業等との学外連携活動、MDA開設科目等についてご説明します。\n終了後に個別のご質問・ご相談も受け付けます。\n\n秋学期には、MDA開設科目として、「MDA異分野融合/連携ゼミナール」が開講します。\n・博士後期→MDA異分野融合ゼミナール（科目番号：0BL0000…",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=6585",
+            "title": "【10/6開催】データサイエンス・エキスパート・プログラム(DSEP)履修説明会",
+            "date_modified": "2025-09-24T03:00:00.000Z"
+        },
+        {
+            "id": "ab0c75d3fc190cb0cbcd8b8f78853218",
+            "content_html": "読むこと、考えること、伝えること。\n大学での学びに必要なスキルをテーマ毎にご案内する、ライティング支援連続セミナーを今年も開催します。\n筑波大の先生方による、筑波大生のための特別セミナーです。\n\nレポート作成や論文執筆など、大学特有の課題形式に取り組むスキルを伸ばしたい方に特にお薦めです。\n各回完結型なので、1回だけでも参加でもOKですが、連続受講するとさらに効果的です。\n在学生の皆さん、ぜひご参…",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=6584",
+            "title": "【開催案内】ライティング支援連続セミナー2025(中央図書館:10/2～11/13)",
+            "date_modified": "2025-09-24T03:00:00.000Z"
+        },
+        {
             "id": "f7605cb9172c1e00baeb09fc7c85b0bf",
             "content_html": "文部科学省高等教育局学生支援課より、標記の件について、周知依頼がありましたのでお知らせいたします。\n\nいわゆるオンラインカジノに接続して賭博を行うことは違法であり、警察においては、オンラインカジノに係る賭博事犯について取締りや広報啓発を推進しているところです。\n\n今般、国内にある不特定の者に対し、オンラインカジノを含む違法オンラインギャンブ\nル等を行う場を提供するウェブサイト又はプログラム（アプリ…",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=6583",
@@ -128,20 +142,6 @@
             "content_html": "本学の同窓会である茗溪会主催のOBOGキャリア相談会を開催します。\n現在就活中の方、将来就職先に関心がある方、是非ご参加ください。\n今回はダイハツ工業株式会社（自動車業界）、ソニーグループ株式会社（エレクトロニクス他業界）で活躍されている先輩が登場します。\n詳細（自己紹介・経歴等）は以下URLに掲載中↓\nhttps://www.meikei.or.jp/event/7075.html\n\n【開催日程…",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=6565",
             "title": "【10/8（水）21：00オンライン開催】メーカーで活躍するOBOGと話そう！ぶっちゃけ相談会",
-            "date_modified": "2025-09-19T03:00:00.000Z"
-        },
-        {
-            "id": "7974c807b6aa3d1287dcab6dec130dcf",
-            "content_html": "(1) Category\n1. Partner University Student Exchange(For Students)\n2. CiC Partner University Student Exchange, etc.(For Students)\n3. Multicultural Co-learning Activity*1\n4. Overseas Language Training a…",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=6561",
-            "title": "3rd Call for applications for AY2025 University of Tsukuba Study Abroad Support Program",
-            "date_modified": "2025-09-19T03:00:00.000Z"
-        },
-        {
-            "id": "43eb07ffee4ad89748b11366a5e66826",
-            "content_html": "２０２５年度海外留学支援事業（はばたけ！筑大生）の第3回募集を下記のとおり実施します。\n\n（１）筑波大学海外留学支援事業（はばたけ！筑大生）の支援区分\n１．国際交流協定校交換留学支援【学生が申請】\n２．CiC協定等派遣支援【学生が申請】\n３．多文化共修活動参加支援【教職員が申請】※１\n４．語学研修・海外研修参加支援【教職員が申請】※１\n５．海外武者修行支援プログラム【学生が申請】（第３回での募集な…",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=6559",
-            "title": "２０２５年度筑波大学海外留学支援事業 （はばたけ！筑大生）第3回募集について（通知）",
             "date_modified": "2025-09-19T03:00:00.000Z"
         }
     ]
