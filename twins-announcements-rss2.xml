@@ -4,7 +4,7 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Wed, 24 Sep 2025 09:08:42 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 24 Sep 2025 15:07:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
@@ -123,21 +123,6 @@ BHEキャリア支援チームのファシリテーターからフィードバ�
 講師は、財務省、金融庁に長年勤務した「世界を変えよう基金…]]></description>
         </item>
         <item>
-            <title><![CDATA[【本日開催：当日参加OK】令和７年度高圧ガスボンベ利用者安全講習会]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=6578</link>
-            <guid isPermaLink="false">4a52eb6b4cbf4248dea4538ca118c484</guid>
-            <pubDate>Wed, 24 Sep 2025 03:00:00 GMT</pubDate>
-            <description><![CDATA[令和７年度高圧ガスボンベ利用者安全講習会の開催について
-
-この度、下記のとおり高圧ガスボンベ利用者安全講習会を開催いたします。
-この講習会では、高圧ガスに関する基礎知識から安全な取扱方法、事故事例等について、最新の情報を交えながらお話しいたします。
-
-　　　　　　　　　　　　　　　　　　　記
-
-１．日　　時　　令和７年９月２４日（水）　１０時１０分～１１時２５分
-２．場　　所　　１Ｈ２０１講義室　…]]></description>
-        </item>
-        <item>
             <title><![CDATA[研究報告会「ラオス少数民族と暮らして（第２回)」開催お知らせ]]></title>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=6577</link>
             <guid isPermaLink="false">98dec327236ae74f66d63909c3fab296</guid>
@@ -178,8 +163,13 @@ https://www2.human.tsukuba.ac.jp/research/archives/50671
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=6574</link>
             <guid isPermaLink="false">a6630f731c16d6b9057e600a13c219ca</guid>
             <pubDate>Fri, 19 Sep 2025 03:00:00 GMT</pubDate>
-            <description><![CDATA[We are pleased to announce that the 2nd General Meeting will be held as detailed below.
-In addition, as part of a related event, alumni Mr. Kohei Muto (CEO, Double Feather Partners) and Mr. Neven Stub…]]></description>
+            <description><![CDATA[第108回　人間系コロキアムが下記の通り開催されますので、お知らせします。
+人間系のHPにも掲載しておりますので、ご覧下さい。
+https://www2.human.tsukuba.ac.jp/research/archives/50671
+　大学院・学類学生など、多くの方々のご参加をお待ちしております。
+
+日  時：  2025年10月8日（水）12:15~ 13:15  
+場  所： zoom…]]></description>
         </item>
         <item>
             <title><![CDATA[【参加者募集！】第２回TUAN総会 and Alumni Talk]]></title>
@@ -250,6 +240,16 @@ In addition, as part of a related event, alumni Mr. Kohei Muto (CEO, Double Feat
 BHEキャリア支援チームのファシリテーターからフィードバックがあります。 （日本語での開催です）
 【詳細と申込み】
 ＜対…]]></description>
+        </item>
+        <item>
+            <title><![CDATA[【再掲】オンライン科目受講生募集（2025年10月開講）Call for Graduate Students: online on-demand courses in English!]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=6566</link>
+            <guid isPermaLink="false">24327719e9158087838bd7631ae8153a</guid>
+            <pubDate>Fri, 19 Sep 2025 03:00:00 GMT</pubDate>
+            <description><![CDATA[世界展開力強化事業CAMPUS-Asia6（海外交流プログラム）では、プログラムのオンライン科目を筑波大学院生の皆さんにも受講いただけるよう、以下のオンライン科目を提供しています。筑波大学、華東師範大学（中国）、韓国教員大学校（韓国）から提供された講義で構成されており、幅広い講義を受けられるチャンスです。
+地球規模課題の解決に向けた第一歩を学んでみませんか？
+
+0ATAY03　社会の課題と教育政策…]]></description>
         </item>
     </channel>
 </rss>
