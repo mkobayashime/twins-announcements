@@ -4,10 +4,21 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Thu, 25 Sep 2025 05:01:45 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 25 Sep 2025 06:02:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
+        <item>
+            <title><![CDATA[【11/25開催】教育関係共同利用拠点令和７年度第4回FD/SD研修会 「学生が時間管理をできるようになるための支援法」の開催について]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=6596</link>
+            <guid isPermaLink="false">2ac1ae842ba45d5ccc1cafc6d2c8fdef</guid>
+            <pubDate>Thu, 25 Sep 2025 03:00:00 GMT</pubDate>
+            <description><![CDATA[第4回は、「学生が時間管理をできるようになるための支援法」というテーマで中島美鈴先生よりご講演をいただきます。「レポートが出せない」、「授業に間に合わない」・・時間管理の問題を抱える学生は少なくありません。本研修会を通して、学生が自分で時間管理をできるようになるための具体的な方法を、その場でできる実習を交えながら一緒に学びましょう。
+
+
+【開催日時】
+2025年11月25日（火）14時00分〜16…]]></description>
+        </item>
         <item>
             <title><![CDATA[【開催案内】「いばらき教育の日・教育月間シンポジウム」について（茨城県）]]></title>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=6592</link>
@@ -237,18 +248,6 @@ In addition, as part of a related event, alumni Mr. Kohei Muto (CEO, Double Feat
             <description><![CDATA[このたび、第２回TUAN総会の特別企画イベントの一環として、卒業生によるキャリアトークイベント「TUAN Alumni Talk」を開催いたします。
 
 本イベントでは、国際的に活躍する本学同窓生の武藤康平氏 (CEO, Double Feather Partners Inc.)・Neven Stubic氏 (Founder, KADRO)の2名の卒業生をお招きし、それぞれのキャリアの歩みや、グロー…]]></description>
-        </item>
-        <item>
-            <title><![CDATA[個別キャリア相談スケジュール公開中（9/22～10/3）]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=6571</link>
-            <guid isPermaLink="false">df226aee6a878ea47e57f9a3516a83e0</guid>
-            <pubDate>Fri, 19 Sep 2025 03:00:00 GMT</pubDate>
-            <description><![CDATA[BHEでは土日祝を除く毎日、個別キャリア相談を実施しています。
-就活中の皆さんはもちろん、これからどんなキャリアを進んでいきたいか誰かに話を聞いて欲しいという皆さんもぜひ利用してください。
-全員国家資格を所持したキャリアコンサルタントが相談員として対応いたします。
-秘密厳守です。お気軽にご利用ください（基本的に午前はオンライン、午後は対面での相談です）。
-
-相談申し込みフォーム（相談日時選択をクリ…]]></description>
         </item>
     </channel>
 </rss>
