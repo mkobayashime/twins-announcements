@@ -4,10 +4,23 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Mon, 29 Sep 2025 02:28:17 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 29 Sep 2025 03:16:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
+        <item>
+            <title><![CDATA[【数理物質科学研究群】博士後期課程学生の就活紹介の動画公開について]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=6610</link>
+            <guid isPermaLink="false">c7f169378e327b83daaf0248fdbc4628</guid>
+            <pubDate>Mon, 29 Sep 2025 03:00:00 GMT</pubDate>
+            <description><![CDATA[2025年７月25日にオンライン開催した、数理物質科学研究群による「第３回博士後期課程学生の就活紹介」の動画を数理物質科学研究群及びその他の学生へ期間限定で公開いたします。
+
+公開期間：2025年10月1日～10月31日
+公開方法：Teamsの「博士後期課程学生の就活紹介」内、視聴専用チャネルにて公開
+★登壇者への質問も受け付けます。
+★動画はすべて日本語です。
+視聴申請：Google Formに…]]></description>
+        </item>
         <item>
             <title><![CDATA[【10/16まで履修登録】異なる所属の大学院生でアイデアソンを行う大学院共通科目0A00407「ダイバーシティとソリューション」]]></title>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=6607</link>
@@ -211,18 +224,6 @@ DSEP履修生を対象に、これらの活動にかかる費用を支援致し�
             <pubDate>Wed, 24 Sep 2025 03:00:00 GMT</pubDate>
             <description><![CDATA[We will be holding the Course Enrollment Orientation for the Data Science Expert Program (DSEP).
 The session will provide an overview of DSEP/DSEP+, course registration, research funding, collaboratio…]]></description>
-        </item>
-        <item>
-            <title><![CDATA[【10/6開催】データサイエンス・エキスパート・プログラム(DSEP)履修説明会]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=6585</link>
-            <guid isPermaLink="false">60e7835944228c51f2fe0c361cbca24d</guid>
-            <pubDate>Wed, 24 Sep 2025 03:00:00 GMT</pubDate>
-            <description><![CDATA[データサイエンス・エキスパート・プログラム（DSEP）履修説明会を開催します。
-DSEP/DSEP+の概要や履修方法、共同研究費等の支援、企業等との学外連携活動、MDA開設科目等についてご説明します。
-終了後に個別のご質問・ご相談も受け付けます。
-
-秋学期には、MDA開設科目として、「MDA異分野融合/連携ゼミナール」が開講します。
-・博士後期→MDA異分野融合ゼミナール（科目番号：0BL0000…]]></description>
         </item>
     </channel>
 </rss>
