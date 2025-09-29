@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "3e6c4d6103891d5e5a05304a7973a965",
+            "content_html": "日本赤十字社が学内に献血バスを配車して、以下のとおり献血を実施することとなりました。学生の皆さまのご協力をお願いいたします。\n\n日時：2025年10月3日（金）9：45～12：15、13：30～16：00\n場所：第３エリア食堂前\n",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=6613",
+            "title": "【周知】献血の実施について（10月3日実施）",
+            "date_modified": "2025-09-29T03:00:00.000Z"
+        },
+        {
             "id": "9aa7c9405b1741763fc5a0346316d7e7",
             "content_html": "この度、大学院共通科目「ダイバーシティとソリューション（旧科目名：脳の多様性とセルフマネジメント）」を開講いたします。\n\n本科目は大学院共通科目であり、全学の大学院生が受講できる科目となります。\n毎年、哲学・理学・社会工学・情報学・生物学・心理学・障害科学・医学・看護学・体育学・芸術学・図書館情報学など筑波大学の多様な専門の大学院生が受講しており、専門領域の垣根を超えて、他の大学院生と交流し、学び…",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=6612",
@@ -34,7 +41,7 @@
         },
         {
             "id": "a83393466c78fbd55902c4770d6d4584",
-            "content_html": "電気設備点検に伴う全学停電のため、10月25日(土)と26日(日)に休館となる図書館があります（中央・体芸・医学）。\nWebサービスへの影響はない予定です。\n利用者の皆様にはご不便をおかけしますが、ご協力をお願いいたします。\n\nDue to scheduled power outages, some libraries (Central, Medical and A&PE) will be clo…",
+            "content_html": "毎年人気の東南アジアの提携大学での教育インターンシップへの参加者を募集します。現地教師の業務を実習し、授業を行うことを通して、グローバルな視野、異文化理解力、授業力、国際感覚を養うことが目標のプログラムです。2026年2月2日から2月28日の約一か月間、インドネシア、フィリピン、タイのいずれかの提携大学で実際に授業実習を行います。詳細は添付のフライヤをご覧ください。\n\n★事前説明会を下記日程で実施…",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=6605",
             "title": "【お待たせしました、参加者募集開始！２年次以上の全学群生対象】東南アジアでの海外教育実習インターンシップSEA-Teacherプログラム",
             "date_modified": "2025-09-27T03:00:00.000Z"
@@ -97,7 +104,7 @@
         },
         {
             "id": "2ac1ae842ba45d5ccc1cafc6d2c8fdef",
-            "content_html": "春期休暇中（2026年2月-3月）に西アフリカ・コートジボワールを訪問し、講義やフィールドワーク、現地の大学生とのグループワークを通して、サブサハラ・アフリカ諸国が抱える社会課題について理解を深め、解決策を考える実践型プログラムです。\n\n10月16日（木）と10月21日（火）にプログラム説明会を実施します。興味のある方は気軽に説明会にお越しください。詳細は添付のチラシをご覧ください。\n\n「説明会に…",
+            "content_html": "第4回は、「学生が時間管理をできるようになるための支援法」というテーマで中島美鈴先生よりご講演をいただきます。「レポートが出せない」、「授業に間に合わない」・・時間管理の問題を抱える学生は少なくありません。本研修会を通して、学生が自分で時間管理をできるようになるための具体的な方法を、その場でできる実習を交えながら一緒に学びましょう。\n\n\n【開催日時】\n2025年11月25日（火）14時00分〜16…",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=6596",
             "title": "【11/25開催】教育関係共同利用拠点令和７年度第4回FD/SD研修会 「学生が時間管理をできるようになるための支援法」の開催について",
             "date_modified": "2025-09-25T03:00:00.000Z"
@@ -136,13 +143,6 @@
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=6588",
             "title": "【10/10㈮開催】大学院進学と就職を考えるセミナー 　※リマインド",
             "date_modified": "2025-09-25T03:00:00.000Z"
-        },
-        {
-            "id": "ed321a991445242738d4e3d7d342a2e6",
-            "content_html": "データサイエンス・エキスパート・プログラム（DSEP）で開講している「MDA後期プロジェクト研究」は、共同研究やインターンシップ等を通じて、課題解決にデータを活用できる実践的な力を養うことを目的とした科目です。\nDSEP履修生を対象に、これらの活動にかかる費用を支援致します。\n10月31日(金)までにぜひご応募ください。\n\n申請方法は、manabaの「MDAコース」（登録キー：1443621）のニ…",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=6587",
-            "title": "[DSEP]共同研究等の費用支援のご案内 Funding for Research Activities",
-            "date_modified": "2025-09-24T03:00:00.000Z"
         }
     ]
 }
