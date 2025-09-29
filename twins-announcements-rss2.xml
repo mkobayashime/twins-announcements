@@ -4,10 +4,20 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Mon, 29 Sep 2025 01:29:16 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 29 Sep 2025 02:28:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
+        <item>
+            <title><![CDATA[【10/16まで履修登録】異なる所属の大学院生でアイデアソンを行う大学院共通科目0A00407「ダイバーシティとソリューション」]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=6607</link>
+            <guid isPermaLink="false">9aa7c9405b1741763fc5a0346316d7e7</guid>
+            <pubDate>Mon, 29 Sep 2025 03:00:00 GMT</pubDate>
+            <description><![CDATA[この度、大学院共通科目「ダイバーシティとソリューション（旧科目名：脳の多様性とセルフマネジメント）」を開講いたします。
+
+本科目は大学院共通科目であり、全学の大学院生が受講できる科目となります。
+毎年、哲学・理学・社会工学・情報学・生物学・心理学・障害科学・医学・看護学・体育学・芸術学・図書館情報学など筑波大学の多様な専門の大学院生が受講しており、専門領域の垣根を超えて、他の大学院生と交流し、学び…]]></description>
+        </item>
         <item>
             <title><![CDATA[【附属図書館】全学停電による休館（10/25-26）/(Library) Temporary closure(Oct. 25-26)]]></title>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=6606</link>
@@ -213,19 +223,6 @@ DSEP/DSEP+の概要や履修方法、共同研究費等の支援、企業等と�
 
 秋学期には、MDA開設科目として、「MDA異分野融合/連携ゼミナール」が開講します。
 ・博士後期→MDA異分野融合ゼミナール（科目番号：0BL0000…]]></description>
-        </item>
-        <item>
-            <title><![CDATA[【開催案内】ライティング支援連続セミナー2025(中央図書館:10/2～11/13)]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=6584</link>
-            <guid isPermaLink="false">ab0c75d3fc190cb0cbcd8b8f78853218</guid>
-            <pubDate>Wed, 24 Sep 2025 03:00:00 GMT</pubDate>
-            <description><![CDATA[読むこと、考えること、伝えること。
-大学での学びに必要なスキルをテーマ毎にご案内する、ライティング支援連続セミナーを今年も開催します。
-筑波大の先生方による、筑波大生のための特別セミナーです。
-
-レポート作成や論文執筆など、大学特有の課題形式に取り組むスキルを伸ばしたい方に特にお薦めです。
-各回完結型なので、1回だけでも参加でもOKですが、連続受講するとさらに効果的です。
-在学生の皆さん、ぜひご参…]]></description>
         </item>
     </channel>
 </rss>

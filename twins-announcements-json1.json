@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "9aa7c9405b1741763fc5a0346316d7e7",
+            "content_html": "この度、大学院共通科目「ダイバーシティとソリューション（旧科目名：脳の多様性とセルフマネジメント）」を開講いたします。\n\n本科目は大学院共通科目であり、全学の大学院生が受講できる科目となります。\n毎年、哲学・理学・社会工学・情報学・生物学・心理学・障害科学・医学・看護学・体育学・芸術学・図書館情報学など筑波大学の多様な専門の大学院生が受講しており、専門領域の垣根を超えて、他の大学院生と交流し、学び…",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=6607",
+            "title": "【10/16まで履修登録】異なる所属の大学院生でアイデアソンを行う大学院共通科目0A00407「ダイバーシティとソリューション」",
+            "date_modified": "2025-09-29T03:00:00.000Z"
+        },
+        {
             "id": "96cd666ae5afa16c3911df2b0754c742",
             "content_html": "電気設備点検に伴う全学停電のため、10月25日(土)と26日(日)に休館となる図書館があります（中央・体芸・医学）。\nWebサービスへの影響はない予定です。\n利用者の皆様にはご不便をおかけしますが、ご協力をお願いいたします。\n\nDue to scheduled power outages, some libraries (Central, Medical and A&PE) will be clo…",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=6606",
@@ -135,13 +142,6 @@
             "content_html": "データサイエンス・エキスパート・プログラム（DSEP）履修説明会を開催します。\nDSEP/DSEP+の概要や履修方法、共同研究費等の支援、企業等との学外連携活動、MDA開設科目等についてご説明します。\n終了後に個別のご質問・ご相談も受け付けます。\n\n秋学期には、MDA開設科目として、「MDA異分野融合/連携ゼミナール」が開講します。\n・博士後期→MDA異分野融合ゼミナール（科目番号：0BL0000…",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=6585",
             "title": "【10/6開催】データサイエンス・エキスパート・プログラム(DSEP)履修説明会",
-            "date_modified": "2025-09-24T03:00:00.000Z"
-        },
-        {
-            "id": "ab0c75d3fc190cb0cbcd8b8f78853218",
-            "content_html": "読むこと、考えること、伝えること。\n大学での学びに必要なスキルをテーマ毎にご案内する、ライティング支援連続セミナーを今年も開催します。\n筑波大の先生方による、筑波大生のための特別セミナーです。\n\nレポート作成や論文執筆など、大学特有の課題形式に取り組むスキルを伸ばしたい方に特にお薦めです。\n各回完結型なので、1回だけでも参加でもOKですが、連続受講するとさらに効果的です。\n在学生の皆さん、ぜひご参…",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=6584",
-            "title": "【開催案内】ライティング支援連続セミナー2025(中央図書館:10/2～11/13)",
             "date_modified": "2025-09-24T03:00:00.000Z"
         }
     ]
