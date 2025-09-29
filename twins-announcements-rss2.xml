@@ -4,10 +4,22 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Mon, 29 Sep 2025 06:01:44 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 29 Sep 2025 08:01:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
+        <item>
+            <title><![CDATA[筑波大学「世界を変えよう基金」―勉強会 ”World x Talks” 参加学生募集]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=6614</link>
+            <guid isPermaLink="false">3be29c0381c1cde0126f05e428b074fa</guid>
+            <pubDate>Mon, 29 Sep 2025 03:00:00 GMT</pubDate>
+            <description><![CDATA[筑波大学「世界を変えよう基金」では、10月中旬から週1回（75~90分程度）、国際政治・経済問題について英語でプレゼンし少人数で議論する勉強会 “World x Talks” を開催します。
+今後留学を予定している学生には特に有益な勉強会です。
+
+勉強会のプログラムについては添付資料を参照してください。
+
+講師は、財務省、金融庁,　世界銀行、IMFに長年勤務した「世界を変えよう基金」代表の鈴木英明…]]></description>
+        </item>
         <item>
             <title><![CDATA[【周知】献血の実施について（10月3日実施）]]></title>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=6613</link>
@@ -219,18 +231,6 @@ Due to scheduled power outages, some libraries (Central, Medical and A&PE) will 
 近年、電話やビデオ通話を用いて、警察官や検察官を名乗り、信用させた上で金銭や個人情報をだまし取る詐欺（ニセ警察詐欺）の手口が確認されています。
 犯人は、パソコンやスマートフォンのビデオ通話を利用して制服姿や身分証の提示を行い、あたかも“本物の捜査員”のように見せかけて被害者を信用させます。
 このような手口は全…]]></description>
-        </item>
-        <item>
-            <title><![CDATA[【10/10㈮開催】大学院進学と就職を考えるセミナー 　※リマインド]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=6588</link>
-            <guid isPermaLink="false">ed7e575c9933532413c104bb503d9195</guid>
-            <pubDate>Thu, 25 Sep 2025 03:00:00 GMT</pubDate>
-            <description><![CDATA[「大学院進学か就職か」で悩みを抱えている方はいませんか？
-このイベントでは大学院生の就職支援をしている株式会社アカリクの講師をお招きし、大学院進学することの意味や学群卒と院卒の違い、大学院生の就職事情、また院進学に向けての準備や心構えについても解説していただきます。
-ぜひこのセミナーでご自身のキャリアと向き合ってみましょう。
-
-◆日時 2025年10月10日(金)　18:00～19:15
-◆開催場…]]></description>
         </item>
     </channel>
 </rss>
