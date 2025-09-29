@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "96cd666ae5afa16c3911df2b0754c742",
+            "content_html": "電気設備点検に伴う全学停電のため、10月25日(土)と26日(日)に休館となる図書館があります（中央・体芸・医学）。\nWebサービスへの影響はない予定です。\n利用者の皆様にはご不便をおかけしますが、ご協力をお願いいたします。\n\nDue to scheduled power outages, some libraries (Central, Medical and A&PE) will be clo…",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=6606",
+            "title": "【附属図書館】全学停電による休館（10/25-26）/(Library) Temporary closure(Oct. 25-26)",
+            "date_modified": "2025-09-29T03:00:00.000Z"
+        },
+        {
             "id": "a83393466c78fbd55902c4770d6d4584",
             "content_html": "毎年人気の東南アジアの提携大学での教育インターンシップへの参加者を募集します。現地教師の業務を実習し、授業を行うことを通して、グローバルな視野、異文化理解力、授業力、国際感覚を養うことが目標のプログラムです。2026年2月2日から2月28日の約一か月間、インドネシア、フィリピン、タイのいずれかの提携大学で実際に授業実習を行います。詳細は添付のフライヤをご覧ください。\n\n★事前説明会を下記日程で実施…",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=6605",
@@ -135,13 +142,6 @@
             "content_html": "読むこと、考えること、伝えること。\n大学での学びに必要なスキルをテーマ毎にご案内する、ライティング支援連続セミナーを今年も開催します。\n筑波大の先生方による、筑波大生のための特別セミナーです。\n\nレポート作成や論文執筆など、大学特有の課題形式に取り組むスキルを伸ばしたい方に特にお薦めです。\n各回完結型なので、1回だけでも参加でもOKですが、連続受講するとさらに効果的です。\n在学生の皆さん、ぜひご参…",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=6584",
             "title": "【開催案内】ライティング支援連続セミナー2025(中央図書館:10/2～11/13)",
-            "date_modified": "2025-09-24T03:00:00.000Z"
-        },
-        {
-            "id": "f7605cb9172c1e00baeb09fc7c85b0bf",
-            "content_html": "文部科学省高等教育局学生支援課より、標記の件について、周知依頼がありましたのでお知らせいたします。\n\nいわゆるオンラインカジノに接続して賭博を行うことは違法であり、警察においては、オンラインカジノに係る賭博事犯について取締りや広報啓発を推進しているところです。\n\n今般、国内にある不特定の者に対し、オンラインカジノを含む違法オンラインギャンブ\nル等を行う場を提供するウェブサイト又はプログラム（アプリ…",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=6583",
-            "title": "【周知】オンラインカジノに関する広報啓発資料の活用について",
             "date_modified": "2025-09-24T03:00:00.000Z"
         }
     ]
