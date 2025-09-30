@@ -2,10 +2,24 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/mkobayashime/twins-announcements</id>
     <title>在学生へのお知らせ | 筑波大学</title>
-    <updated>2025-09-30T01:29:11.238Z</updated>
+    <updated>2025-09-30T02:25:53.394Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://github.com/mkobayashime/twins-announcements"/>
     <subtitle>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</subtitle>
+    <entry>
+        <title type="html"><![CDATA[本日開催【イベント案内】秋新歓「Tsuku・Koi 2025」]]></title>
+        <id>80643502f942b915493cfc5f296d9630</id>
+        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=6616"/>
+        <updated>2025-09-30T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[本イベントは、留学生を対象とした秋の新歓イベントです。
+留学生サークルはもちろん、日本人サークルも多数参加します。また、つくば市や大学関係の組織も参加予定です。
+ブースでサークルの勧誘を行うブース企画・ホールでパフォーマンスを行うホール企画などを用意しております。
+
+留学生サークルに興味のある方、国際交流を楽しみたい方は、ぜひお気軽にご参加ください！
+日本人の方も大歓迎です！！
+
+【開催日時】　9…]]></summary>
+    </entry>
     <entry>
         <title type="html"><![CDATA[「筑波大生のキャリアイベント」について]]></title>
         <id>e846d6e6013081bdb5e51be14ff03cd4</id>
@@ -225,15 +239,5 @@ Due to scheduled power outages, some libraries (Central, Medical and A&PE) will 
 スポーツ・デーとは、筑波大学の全学生・教職員の皆様にスポーツの機会を与え、学内におけるスポーツ活動の振興を図ることを目的とした公式行事です。
 
 今年度の秋季スポーツ・デーにおいては、正式種目としてサッカー、バレーボール、バドミントン、ソフトボール、e-sport…]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【周知】【茨城県警察本部生活安全総務課】いばらき防犯ファイルについて]]></title>
-        <id>76297db2351566babdc5076f5178a31d</id>
-        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=6590"/>
-        <updated>2025-09-25T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[茨城県警察本部生活安全総務課より、いばらき防犯ファイル（令和7年8月末）の送付がありましたので、添付のとおり掲載いたします。
-
-本ファイルは、県内で実際に発生した犯罪の情報のほか、防犯対策に役立つ情報が含まれております。ご自身の安全のためにも、ぜひご確認ください。
-]]></summary>
     </entry>
 </feed>
