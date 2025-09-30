@@ -4,10 +4,27 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Mon, 29 Sep 2025 21:07:05 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 30 Sep 2025 01:29:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
+        <item>
+            <title><![CDATA[「筑波大生のキャリアイベント」について]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=6615</link>
+            <guid isPermaLink="false">e846d6e6013081bdb5e51be14ff03cd4</guid>
+            <pubDate>Tue, 30 Sep 2025 03:00:00 GMT</pubDate>
+            <description><![CDATA[10月15日（水）～17日（金）の３日間、BHEキャリア支援チーム主催
+「筑波大生のキャリアイベント」を開催いたします。
+
+就職を希望する学生だけではなく、
+・進学と就職で悩んでいる学生
+・進学を希望している学生
+・企業と官公庁で迷っている学生
+・低学年の学生　など
+
+すべての筑波大生に、キャリアを考える機会として活用していただきたいと考えています。
+チラシを添付いたしますので、教職員の方も、ご興…]]></description>
+        </item>
         <item>
             <title><![CDATA[筑波大学「世界を変えよう基金」―勉強会 ”World x Talks” 参加学生募集]]></title>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=6614</link>
@@ -220,17 +237,6 @@ Due to scheduled power outages, some libraries (Central, Medical and A&PE) will 
 
 本ファイルは、県内で実際に発生した犯罪の情報のほか、防犯対策に役立つ情報が含まれております。ご自身の安全のためにも、ぜひご確認ください。
 ]]></description>
-        </item>
-        <item>
-            <title><![CDATA[【周知】特殊詐欺被害防止に向けた情報発信について]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=6589</link>
-            <guid isPermaLink="false">85de5f281c346482453c5b4c21b545ac</guid>
-            <pubDate>Thu, 25 Sep 2025 03:00:00 GMT</pubDate>
-            <description><![CDATA[文部科学省より、標記の件について以下のとおり情報提供がありましたので、お知らせします。
-
-近年、電話やビデオ通話を用いて、警察官や検察官を名乗り、信用させた上で金銭や個人情報をだまし取る詐欺（ニセ警察詐欺）の手口が確認されています。
-犯人は、パソコンやスマートフォンのビデオ通話を利用して制服姿や身分証の提示を行い、あたかも“本物の捜査員”のように見せかけて被害者を信用させます。
-このような手口は全…]]></description>
         </item>
     </channel>
 </rss>

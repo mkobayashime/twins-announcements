@@ -2,10 +2,27 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/mkobayashime/twins-announcements</id>
     <title>在学生へのお知らせ | 筑波大学</title>
-    <updated>2025-09-29T21:07:05.333Z</updated>
+    <updated>2025-09-30T01:29:11.238Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://github.com/mkobayashime/twins-announcements"/>
     <subtitle>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</subtitle>
+    <entry>
+        <title type="html"><![CDATA[「筑波大生のキャリアイベント」について]]></title>
+        <id>e846d6e6013081bdb5e51be14ff03cd4</id>
+        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=6615"/>
+        <updated>2025-09-30T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[10月15日（水）～17日（金）の３日間、BHEキャリア支援チーム主催
+「筑波大生のキャリアイベント」を開催いたします。
+
+就職を希望する学生だけではなく、
+・進学と就職で悩んでいる学生
+・進学を希望している学生
+・企業と官公庁で迷っている学生
+・低学年の学生　など
+
+すべての筑波大生に、キャリアを考える機会として活用していただきたいと考えています。
+チラシを添付いたしますので、教職員の方も、ご興…]]></summary>
+    </entry>
     <entry>
         <title type="html"><![CDATA[筑波大学「世界を変えよう基金」―勉強会 ”World x Talks” 参加学生募集]]></title>
         <id>3be29c0381c1cde0126f05e428b074fa</id>
@@ -218,16 +235,5 @@ Due to scheduled power outages, some libraries (Central, Medical and A&PE) will 
 
 本ファイルは、県内で実際に発生した犯罪の情報のほか、防犯対策に役立つ情報が含まれております。ご自身の安全のためにも、ぜひご確認ください。
 ]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【周知】特殊詐欺被害防止に向けた情報発信について]]></title>
-        <id>85de5f281c346482453c5b4c21b545ac</id>
-        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=6589"/>
-        <updated>2025-09-25T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[文部科学省より、標記の件について以下のとおり情報提供がありましたので、お知らせします。
-
-近年、電話やビデオ通話を用いて、警察官や検察官を名乗り、信用させた上で金銭や個人情報をだまし取る詐欺（ニセ警察詐欺）の手口が確認されています。
-犯人は、パソコンやスマートフォンのビデオ通話を利用して制服姿や身分証の提示を行い、あたかも“本物の捜査員”のように見せかけて被害者を信用させます。
-このような手口は全…]]></summary>
     </entry>
 </feed>
