@@ -4,10 +4,18 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Tue, 30 Sep 2025 02:25:53 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 30 Sep 2025 06:01:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
+        <item>
+            <title><![CDATA[【Notice】Educational materials on Chemicals and Experiment Waste Management]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=6617</link>
+            <guid isPermaLink="false">facbfffc308ffa8720aca483356bfaa3</guid>
+            <pubDate>Tue, 30 Sep 2025 03:00:00 GMT</pubDate>
+            <description><![CDATA[We are pleased to announce the Educational materials on chemicals and experiment waste management for International students are now available.
+Please find the attached file and watch the video for in…]]></description>
+        </item>
         <item>
             <title><![CDATA[本日開催【イベント案内】秋新歓「Tsuku・Koi 2025」]]></title>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=6616</link>
@@ -228,19 +236,6 @@ Due to scheduled power outages, some libraries (Central, Medical and A&PE) will 
 場　所　茨城県庁　講堂
 費　用　無料
 申　込　10/…]]></description>
-        </item>
-        <item>
-            <title><![CDATA[第４９回秋季スポーツ・デー申し込みについてのお知らせ]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=6591</link>
-            <guid isPermaLink="false">1395c03649d79e69ceaba4984003a3c2</guid>
-            <pubDate>Thu, 25 Sep 2025 03:00:00 GMT</pubDate>
-            <description><![CDATA[筑波大学スポーツ・デーについてのお知らせです。
-
-１１月１５日（土）・１１月１６日（日）に第４9回秋季スポーツ・デーを開催いたします。
-
-スポーツ・デーとは、筑波大学の全学生・教職員の皆様にスポーツの機会を与え、学内におけるスポーツ活動の振興を図ることを目的とした公式行事です。
-
-今年度の秋季スポーツ・デーにおいては、正式種目としてサッカー、バレーボール、バドミントン、ソフトボール、e-sport…]]></description>
         </item>
     </channel>
 </rss>
