@@ -4,10 +4,24 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Tue, 30 Sep 2025 06:01:48 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 30 Sep 2025 08:01:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
+        <item>
+            <title><![CDATA[【システム情報工学研究群】博士後期課程進学説明会 ～ハカセになろう～（11/5(水)開催）]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=6618</link>
+            <guid isPermaLink="false">ebe304f544fb5e7f96195c4bc65130b9</guid>
+            <pubDate>Tue, 30 Sep 2025 03:00:00 GMT</pubDate>
+            <description><![CDATA[システム情報工学研究群では、熱意のある学生の博士後期課程への進学を
+積極的に支援しており、その一環として、「博士後期課程進学説明会 ～ハカセになろう～」を
+11月5日（水）16:00～　対面及びオンラインで開催します。
+（「博士後期課程OB／現役生との座談会」は対面のみとなります）
+
+事前登録は不要ですので、進学に興味のある学生の皆さんは気軽にご参加ください。
+
+-----------------…]]></description>
+        </item>
         <item>
             <title><![CDATA[【Notice】Educational materials on Chemicals and Experiment Waste Management]]></title>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=6617</link>
@@ -219,23 +233,6 @@ Due to scheduled power outages, some libraries (Central, Medical and A&PE) will 
 
 【開催日時】
 2025年11月25日（火）14時00分〜16…]]></description>
-        </item>
-        <item>
-            <title><![CDATA[【開催案内】「いばらき教育の日・教育月間シンポジウム」について（茨城県）]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=6592</link>
-            <guid isPermaLink="false">a22b178e29a835a04c25f53a0c71042f</guid>
-            <pubDate>Thu, 25 Sep 2025 03:00:00 GMT</pubDate>
-            <description><![CDATA[標記について、茨城県教育庁より案内がありましたのでお知らせいたします。
-＝＝＝
-いばらき教育の日・教育月間シンポジウム
-県では、県民の皆様の教育に関する関心と理解を深めていただくため、
-「いばらき教育の日・教育月間シンポジウム」を開催いたします。ぜひご参加ください。
-
-テーマ　情報化の進展と教育
-日　時　令和７年11月15日（土）13:30開会
-場　所　茨城県庁　講堂
-費　用　無料
-申　込　10/…]]></description>
         </item>
     </channel>
 </rss>
