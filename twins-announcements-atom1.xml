@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/mkobayashime/twins-announcements</id>
     <title>在学生へのお知らせ | 筑波大学</title>
-    <updated>2025-10-01T08:01:44.245Z</updated>
+    <updated>2025-10-01T09:01:56.029Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://github.com/mkobayashime/twins-announcements"/>
     <subtitle>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</subtitle>
+    <entry>
+        <title type="html"><![CDATA[筑波大生のキャリアイベントについて]]></title>
+        <id>18350b1ac9f550109423874318b5d6f8</id>
+        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=6633"/>
+        <updated>2025-10-01T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[【筑波大学主催】10/15-17「業界研究会・インターンシップ研究会」（BHE）
+
+こんにちは。ヒューマンエンパワーメント推進局キャリア支援チーム(以下BHE)です。
+BHEでは、10月15日(水)から10月17日(金)まで「筑波大生のキャリアイベント -業界研究会・インターンシップ研究会- 」を開催！
+3日間で120社以上の企業・団体・官公庁が大学会館に集結します！
+
+特別企画として、開催前夜に…]]></summary>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【参加者募集】共通の課題解決のための日韓学生間多文化化共修セミナー]]></title>
         <id>5183f85a53472cf38d7d267a2e978b9d</id>
@@ -256,18 +269,5 @@ ISSプログラムは、筑波大学とオハイオ州立大学の共同教育�
 
 ・ISS概論I：秋AB、理論編講義
 （学群）https://kdb.tsukuba.…]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【数理物質科学研究群】博士後期課程学生の就活紹介の動画公開について]]></title>
-        <id>c7f169378e327b83daaf0248fdbc4628</id>
-        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=6610"/>
-        <updated>2025-09-29T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[2025年７月25日にオンライン開催した、数理物質科学研究群による「第３回博士後期課程学生の就活紹介」の動画を数理物質科学研究群及びその他の学生へ期間限定で公開いたします。
-
-公開期間：2025年10月1日～10月31日
-公開方法：Teamsの「博士後期課程学生の就活紹介」内、視聴専用チャネルにて公開
-★登壇者への質問も受け付けます。
-★動画はすべて日本語です。
-視聴申請：Google Formに…]]></summary>
     </entry>
 </feed>

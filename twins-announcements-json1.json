@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "18350b1ac9f550109423874318b5d6f8",
+            "content_html": "【筑波大学主催】10/15-17「業界研究会・インターンシップ研究会」（BHE）\n\nこんにちは。ヒューマンエンパワーメント推進局キャリア支援チーム(以下BHE)です。\nBHEでは、10月15日(水)から10月17日(金)まで「筑波大生のキャリアイベント -業界研究会・インターンシップ研究会- 」を開催！\n3日間で120社以上の企業・団体・官公庁が大学会館に集結します！\n\n特別企画として、開催前夜に…",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=6633",
+            "title": "筑波大生のキャリアイベントについて",
+            "date_modified": "2025-10-01T03:00:00.000Z"
+        },
+        {
             "id": "5183f85a53472cf38d7d267a2e978b9d",
             "content_html": "令和７年 12 ⽉〜令和 8 年 2 ⽉末に日本と韓国において戦争と平和／少子・高齢化／気候変動／AIと教育／ジェンダー等の社会課題についてプレゼンテーション・グループディスカッション等を行う共修活動への参加者を募集しています。\n詳細は添付ファイルをご確認のうえ、QRコードから申し込みを行ってください。",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=6632",
@@ -135,13 +142,6 @@
             "content_html": "秋学期に、ISSプログラム科目群が開講されます！\n\nISSプログラムは、筑波大学とオハイオ州立大学の共同教育プログラム。\n多様な背景を持った人々が等しく主役となる「インクルーシブなスマートソサエティ（ISS）」の実現をリードする、国際スタートアップ人材の育成を目指しています。\n\n開講されるのは以下の3科目です！\n\n・ISS概論I：秋AB、理論編講義\n（学群）https://kdb.tsukuba.…",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=6611",
             "title": "【秋学期開講】オハイオ州立大学の学生と一緒に学ぼう！ISSプログラム科目群とISSインターンシップについて",
-            "date_modified": "2025-09-29T03:00:00.000Z"
-        },
-        {
-            "id": "c7f169378e327b83daaf0248fdbc4628",
-            "content_html": "2025年７月25日にオンライン開催した、数理物質科学研究群による「第３回博士後期課程学生の就活紹介」の動画を数理物質科学研究群及びその他の学生へ期間限定で公開いたします。\n\n公開期間：2025年10月1日～10月31日\n公開方法：Teamsの「博士後期課程学生の就活紹介」内、視聴専用チャネルにて公開\n★登壇者への質問も受け付けます。\n★動画はすべて日本語です。\n視聴申請：Google Formに…",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=6610",
-            "title": "【数理物質科学研究群】博士後期課程学生の就活紹介の動画公開について",
             "date_modified": "2025-09-29T03:00:00.000Z"
         }
     ]
