@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "d163360bb9ee99fb942b45310b1300ff",
+            "content_html": "筑波大学の大学院生を対象に、「筑波大学学生生活実態調査」を実施します。学習管理システムmanabaを通して回答することができます。ぜひ調査へのご協力をお願いします。\n※調査結果は統計的に処理され、個人を特定できるデータは一切公開されません。\nThe \" Survey for Student Life\" will be conducted targeting graduate students at…",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=6630",
+            "title": "【大学院生対象】筑波大学学生生活実態調査にご協力をお願いいたします Please cooperate and participate in a Survey for Student Life",
+            "date_modified": "2025-10-01T03:00:00.000Z"
+        },
+        {
             "id": "d6c990e48b47d8769ebc4ec999b1b207",
             "content_html": "公益財団法人　伊藤国際教育交流財団（2026年度）\n応募期間：2025年10月1日(水)～31日(金)　※当日消印有効\n提出先：財団へ直接応募\nお知らせ：(PDF(資料1))\n募集要項：https://www.itofound.or.jp/\n※日本語能力が要求されます。\n※この奨学金を受給する者は、2026年度の大学推薦奨学金の申請資格がありません。\n\nITO Foundation for Int…",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=6627",
@@ -136,13 +143,6 @@
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=6605",
             "title": "【お待たせしました、参加者募集開始！２年次以上の全学群生対象】東南アジアでの海外教育実習インターンシップSEA-Teacherプログラム",
             "date_modified": "2025-09-27T03:00:00.000Z"
-        },
-        {
-            "id": "1a34f825b02f4c3b893d789d569a037e",
-            "content_html": "ヒューマンバイオロジー学位プログラムでは授業の一環として「Business Leaders’ Seminar/ビジネスリーダーズセミナー」を開催しています。\n本セミナーは、世界のトップビジネスリーダーを招き、オムニバス形式でキャリア形成やビジネスに関する成功と失敗の話などの経験を紹介するものです。\n\n10月2日（木）12：15-13：45に開催するセミナーでは、株式会社ネオキュア 代表取締役社長　…",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=6604",
-            "title": "10月2日（木）12：15-13：45「Business Leaders’ Seminar/ビジネスリーダーズセミナー」開催のお知らせ",
-            "date_modified": "2025-09-26T03:00:00.000Z"
         }
     ]
 }

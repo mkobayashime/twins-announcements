@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/mkobayashime/twins-announcements</id>
     <title>在学生へのお知らせ | 筑波大学</title>
-    <updated>2025-10-01T05:01:46.546Z</updated>
+    <updated>2025-10-01T06:01:49.610Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://github.com/mkobayashime/twins-announcements"/>
     <subtitle>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</subtitle>
+    <entry>
+        <title type="html"><![CDATA[【大学院生対象】筑波大学学生生活実態調査にご協力をお願いいたします Please cooperate and participate in a Survey for Student Life]]></title>
+        <id>d163360bb9ee99fb942b45310b1300ff</id>
+        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=6630"/>
+        <updated>2025-10-01T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[筑波大学の大学院生を対象に、「筑波大学学生生活実態調査」を実施します。学習管理システムmanabaを通して回答することができます。ぜひ調査へのご協力をお願いします。
+※調査結果は統計的に処理され、個人を特定できるデータは一切公開されません。
+The " Survey for Student Life" will be conducted targeting graduate students at…]]></summary>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【奨学金/Scholarship】伊藤国際教育交流財団/ITO Foundation for International Education Exchange]]></title>
         <id>d6c990e48b47d8769ebc4ec999b1b207</id>
@@ -257,15 +266,5 @@ Due to scheduled power outages, some libraries (Central, Medical and A&PE) will 
         <summary type="html"><![CDATA[毎年人気の東南アジアの提携大学での教育インターンシップへの参加者を募集します。現地教師の業務を実習し、授業を行うことを通して、グローバルな視野、異文化理解力、授業力、国際感覚を養うことが目標のプログラムです。2026年2月2日から2月28日の約一か月間、インドネシア、フィリピン、タイのいずれかの提携大学で実際に授業実習を行います。詳細は添付のフライヤをご覧ください。
 
 ★事前説明会を下記日程で実施…]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[10月2日（木）12：15-13：45「Business Leaders’ Seminar/ビジネスリーダーズセミナー」開催のお知らせ]]></title>
-        <id>1a34f825b02f4c3b893d789d569a037e</id>
-        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=6604"/>
-        <updated>2025-09-26T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[ヒューマンバイオロジー学位プログラムでは授業の一環として「Business Leaders’ Seminar/ビジネスリーダーズセミナー」を開催しています。
-本セミナーは、世界のトップビジネスリーダーを招き、オムニバス形式でキャリア形成やビジネスに関する成功と失敗の話などの経験を紹介するものです。
-
-10月2日（木）12：15-13：45に開催するセミナーでは、株式会社ネオキュア 代表取締役社長　…]]></summary>
     </entry>
 </feed>
