@@ -4,10 +4,18 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Wed, 01 Oct 2025 07:01:49 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 01 Oct 2025 08:01:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
+        <item>
+            <title><![CDATA[【参加者募集】共通の課題解決のための日韓学生間多文化化共修セミナー]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=6632</link>
+            <guid isPermaLink="false">5183f85a53472cf38d7d267a2e978b9d</guid>
+            <pubDate>Wed, 01 Oct 2025 03:00:00 GMT</pubDate>
+            <description><![CDATA[令和７年 12 ⽉〜令和 8 年 2 ⽉末に日本と韓国において戦争と平和／少子・高齢化／気候変動／AIと教育／ジェンダー等の社会課題についてプレゼンテーション・グループディスカッション等を行う共修活動への参加者を募集しています。
+詳細は添付ファイルをご確認のうえ、QRコードから申し込みを行ってください。]]></description>
+        </item>
         <item>
             <title><![CDATA[10/22（水） 対面面接＆GD練習会 参加者募集中！]]></title>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=6631</link>
@@ -263,17 +271,6 @@ ISSプログラムは、筑波大学とオハイオ州立大学の共同教育�
 ★登壇者への質問も受け付けます。
 ★動画はすべて日本語です。
 視聴申請：Google Formに…]]></description>
-        </item>
-        <item>
-            <title><![CDATA[【附属図書館】全学停電による休館（10/25-26）/(Library) Temporary closure(Oct. 25-26)]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=6606</link>
-            <guid isPermaLink="false">96cd666ae5afa16c3911df2b0754c742</guid>
-            <pubDate>Mon, 29 Sep 2025 03:00:00 GMT</pubDate>
-            <description><![CDATA[電気設備点検に伴う全学停電のため、10月25日(土)と26日(日)に休館となる図書館があります（中央・体芸・医学）。
-Webサービスへの影響はない予定です。
-利用者の皆様にはご不便をおかけしますが、ご協力をお願いいたします。
-
-Due to scheduled power outages, some libraries (Central, Medical and A&PE) will be clo…]]></description>
         </item>
     </channel>
 </rss>
