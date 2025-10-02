@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/mkobayashime/twins-announcements</id>
     <title>在学生へのお知らせ | 筑波大学</title>
-    <updated>2025-10-02T09:08:10.918Z</updated>
+    <updated>2025-10-02T15:01:46.534Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://github.com/mkobayashime/twins-announcements"/>
     <subtitle>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</subtitle>
+    <entry>
+        <title type="html"><![CDATA[【つくば市よりお知らせ】令和7年国勢調査への回答はお済みですか！？]]></title>
+        <id>027b717d7518280b19718f41871820db</id>
+        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=6636"/>
+        <updated>2025-10-03T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[「国勢調査への回答はお済みですか？」
+◆国勢調査への回答がお済みでない世帯は、１０月８日（水曜日）までに回答をお願いします。
+◆簡単・便利なインターネット回答がおすすめです！
+・短い時間で回答できます。一人暮らし世帯の場合、所要時間の目安は５～10分です。
+・主要７言語（英語、中国語（簡体字）、中国語（繁体字）、韓国語、ベトナム語、スペイン語、ポルトガル語）で回答できます。
+　　　◆回答がお済みで…]]></summary>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Free Ebook Trial Service Part2]]></title>
         <id>3c31eda2472779f71da36b95e770c162</id>
@@ -251,13 +263,5 @@ ECサイトは以下のリンクから
 事前登録は不要ですので、進学に興味のある学生の皆さんは気軽にご参加ください。
 
 -----------------…]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【Notice】Educational materials on Chemicals and Experiment Waste Management]]></title>
-        <id>facbfffc308ffa8720aca483356bfaa3</id>
-        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=6617"/>
-        <updated>2025-09-30T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[We are pleased to announce the Educational materials on chemicals and experiment waste management for International students are now available.
-Please find the attached file and watch the video for in…]]></summary>
     </entry>
 </feed>

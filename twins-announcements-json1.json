@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "027b717d7518280b19718f41871820db",
+            "content_html": "「国勢調査への回答はお済みですか？」\n◆国勢調査への回答がお済みでない世帯は、１０月８日（水曜日）までに回答をお願いします。\n◆簡単・便利なインターネット回答がおすすめです！\n・短い時間で回答できます。一人暮らし世帯の場合、所要時間の目安は５～10分です。\n・主要７言語（英語、中国語（簡体字）、中国語（繁体字）、韓国語、ベトナム語、スペイン語、ポルトガル語）で回答できます。\n　　　◆回答がお済みで…",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=6636",
+            "title": "【つくば市よりお知らせ】令和7年国勢調査への回答はお済みですか！？",
+            "date_modified": "2025-10-03T03:00:00.000Z"
+        },
+        {
             "id": "3c31eda2472779f71da36b95e770c162",
             "content_html": "In order to support teaching and learning, the library provides an eBook trial service again!\n\nYou can try any part of the eBooks from the following eBook platforms for free for five minutes per title…",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=6638",
@@ -135,13 +142,6 @@
             "content_html": "システム情報工学研究群では、熱意のある学生の博士後期課程への進学を\n積極的に支援しており、その一環として、「博士後期課程進学説明会 ～ハカセになろう～」を\n11月5日（水）16:00～　対面及びオンラインで開催します。\n（「博士後期課程OB／現役生との座談会」は対面のみとなります）\n\n事前登録は不要ですので、進学に興味のある学生の皆さんは気軽にご参加ください。\n\n-----------------…",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=6618",
             "title": "【システム情報工学研究群】博士後期課程進学説明会 ～ハカセになろう～（11/5(水)開催）",
-            "date_modified": "2025-09-30T03:00:00.000Z"
-        },
-        {
-            "id": "facbfffc308ffa8720aca483356bfaa3",
-            "content_html": "We are pleased to announce the Educational materials on chemicals and experiment waste management for International students are now available.\nPlease find the attached file and watch the video for in…",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=6617",
-            "title": "【Notice】Educational materials on Chemicals and Experiment Waste Management",
             "date_modified": "2025-09-30T03:00:00.000Z"
         }
     ]
