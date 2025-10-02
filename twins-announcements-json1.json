@@ -5,6 +5,20 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "3c31eda2472779f71da36b95e770c162",
+            "content_html": "In order to support teaching and learning, the library provides an eBook trial service again!\n\nYou can try any part of the eBooks from the following eBook platforms for free for five minutes per title…",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=6638",
+            "title": "Free Ebook Trial Service Part2",
+            "date_modified": "2025-10-02T03:00:00.000Z"
+        },
+        {
+            "id": "1b478e9edf50ee6d1d8207e2c1d64cba",
+            "content_html": "附属図書館では、電子ブックの全文無料試し読みサービスの今年度第２弾を実施します。\n今回は、丸善雄松堂が提供するMaruzen eBook Libraryを期間限定でご利用いただけます。\n\n対象プラットフォームの電子ブックからお好きな部分を1タイトルにつき5分間、試し読みすることができます。また、リクエストを送信することもできます。この機会にぜひお試しください。\n\n【実施期間と対象プラットフォーム】…",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=6637",
+            "title": "電子ブック 全文無料試し読みサービス　第２弾のご案内",
+            "date_modified": "2025-10-02T03:00:00.000Z"
+        },
+        {
             "id": "ed7e575c9933532413c104bb503d9195",
             "content_html": "「大学院進学か就職か」で悩みを抱えている方はいませんか？\nこのイベントでは大学院生の就職支援をしている株式会社アカリクの講師をお招きし、大学院進学することの意味や学群卒と院卒の違い、大学院生の就職事情、また院進学に向けての準備や心構えについても解説していただきます。\nぜひこのセミナーでご自身のキャリアと向き合ってみましょう。\n\n◆日時 2025年10月10日(金)　18:00～19:15\n◆開催場…",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=6635",
@@ -129,20 +143,6 @@
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=6617",
             "title": "【Notice】Educational materials on Chemicals and Experiment Waste Management",
             "date_modified": "2025-09-30T03:00:00.000Z"
-        },
-        {
-            "id": "e846d6e6013081bdb5e51be14ff03cd4",
-            "content_html": "10月15日（水）～17日（金）の３日間、BHEキャリア支援チーム主催\n「筑波大生のキャリアイベント」を開催いたします。\n\n就職を希望する学生だけではなく、\n・進学と就職で悩んでいる学生\n・進学を希望している学生\n・企業と官公庁で迷っている学生\n・低学年の学生　など\n\nすべての筑波大生に、キャリアを考える機会として活用していただきたいと考えています。\nチラシを添付いたしますので、教職員の方も、ご興…",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=6615",
-            "title": "「筑波大生のキャリアイベント」について",
-            "date_modified": "2025-09-30T03:00:00.000Z"
-        },
-        {
-            "id": "3be29c0381c1cde0126f05e428b074fa",
-            "content_html": "筑波大学「世界を変えよう基金」では、10月中旬から週1回（75~90分程度）、国際政治・経済問題について英語でプレゼンし少人数で議論する勉強会 “World x Talks” を開催します。\n今後留学を予定している学生には特に有益な勉強会です。\n\n勉強会のプログラムについては添付資料を参照してください。\n\n講師は、財務省、金融庁,　世界銀行、IMFに長年勤務した「世界を変えよう基金」代表の鈴木英明…",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=6614",
-            "title": "筑波大学「世界を変えよう基金」―勉強会 ”World x Talks” 参加学生募集",
-            "date_modified": "2025-09-29T03:00:00.000Z"
         }
     ]
 }

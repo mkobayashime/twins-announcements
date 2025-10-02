@@ -2,10 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/mkobayashime/twins-announcements</id>
     <title>在学生へのお知らせ | 筑波大学</title>
-    <updated>2025-10-02T00:03:08.574Z</updated>
+    <updated>2025-10-02T06:01:46.525Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://github.com/mkobayashime/twins-announcements"/>
     <subtitle>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</subtitle>
+    <entry>
+        <title type="html"><![CDATA[Free Ebook Trial Service Part2]]></title>
+        <id>3c31eda2472779f71da36b95e770c162</id>
+        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=6638"/>
+        <updated>2025-10-02T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[In order to support teaching and learning, the library provides an eBook trial service again!
+
+You can try any part of the eBooks from the following eBook platforms for free for five minutes per title…]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[電子ブック 全文無料試し読みサービス　第２弾のご案内]]></title>
+        <id>1b478e9edf50ee6d1d8207e2c1d64cba</id>
+        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=6637"/>
+        <updated>2025-10-02T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[附属図書館では、電子ブックの全文無料試し読みサービスの今年度第２弾を実施します。
+今回は、丸善雄松堂が提供するMaruzen eBook Libraryを期間限定でご利用いただけます。
+
+対象プラットフォームの電子ブックからお好きな部分を1タイトルにつき5分間、試し読みすることができます。また、リクエストを送信することもできます。この機会にぜひお試しください。
+
+【実施期間と対象プラットフォーム】…]]></summary>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【10/10㈮開催】大学院進学と就職を考えるセミナー 　※リマインド]]></title>
         <id>ed7e575c9933532413c104bb503d9195</id>
@@ -238,34 +259,5 @@ ECサイトは以下のリンクから
         <updated>2025-09-30T03:00:00.000Z</updated>
         <summary type="html"><![CDATA[We are pleased to announce the Educational materials on chemicals and experiment waste management for International students are now available.
 Please find the attached file and watch the video for in…]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[「筑波大生のキャリアイベント」について]]></title>
-        <id>e846d6e6013081bdb5e51be14ff03cd4</id>
-        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=6615"/>
-        <updated>2025-09-30T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[10月15日（水）～17日（金）の３日間、BHEキャリア支援チーム主催
-「筑波大生のキャリアイベント」を開催いたします。
-
-就職を希望する学生だけではなく、
-・進学と就職で悩んでいる学生
-・進学を希望している学生
-・企業と官公庁で迷っている学生
-・低学年の学生　など
-
-すべての筑波大生に、キャリアを考える機会として活用していただきたいと考えています。
-チラシを添付いたしますので、教職員の方も、ご興…]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[筑波大学「世界を変えよう基金」―勉強会 ”World x Talks” 参加学生募集]]></title>
-        <id>3be29c0381c1cde0126f05e428b074fa</id>
-        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=6614"/>
-        <updated>2025-09-29T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[筑波大学「世界を変えよう基金」では、10月中旬から週1回（75~90分程度）、国際政治・経済問題について英語でプレゼンし少人数で議論する勉強会 “World x Talks” を開催します。
-今後留学を予定している学生には特に有益な勉強会です。
-
-勉強会のプログラムについては添付資料を参照してください。
-
-講師は、財務省、金融庁,　世界銀行、IMFに長年勤務した「世界を変えよう基金」代表の鈴木英明…]]></summary>
     </entry>
 </feed>
