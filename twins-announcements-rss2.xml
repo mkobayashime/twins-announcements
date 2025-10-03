@@ -4,10 +4,22 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Fri, 03 Oct 2025 06:01:48 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 03 Oct 2025 08:01:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
+        <item>
+            <title><![CDATA[人間総合科学学術院・研究科 学生の集い／Graduate School of Comprehensive Human Sciences Gakusei no Tsudoi]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=6646</link>
+            <guid isPermaLink="false">a48dbfe61c77521a1a44d3011902b4be</guid>
+            <pubDate>Fri, 03 Oct 2025 03:00:00 GMT</pubDate>
+            <description><![CDATA[人間総合科学学術院・研究科では毎年、学位プログラムや研究分野の垣根を越えて、大学院生同士が自然の中で親睦を深めることを目的とした「学生の集い」を開催しています。
+今年は以下のとおり開催いたしますので、ご興味のある方は添付のPDFをご確認のうえ、参加フォームよりご登録をお願いいたします。
+
+日時：2025年11月7日（金）　17:00～20:00
+場所：筑波大学「野性の森」
+　　　※雨天の場合：クラ…]]></description>
+        </item>
         <item>
             <title><![CDATA[個別キャリア相談スケジュール公開中（～10/17）]]></title>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=6645</link>
@@ -254,15 +266,6 @@ ITO Foundation for Int…]]></description>
 ３．視聴方法
 オンデマンド※視聴にはmanabaへのログインが必要です。
 視聴をご希望…]]></description>
-        </item>
-        <item>
-            <title><![CDATA[【開催：10月20日（月）】（MDAセミナー：浜銀総合研究所）データサイエンスが支える金融ビジネス　―コンサルティング事例が示す実践的アプローチ―」]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=6623</link>
-            <guid isPermaLink="false">6b1f880ada2d2d420f6ff3d2d40ddc1b</guid>
-            <pubDate>Wed, 01 Oct 2025 03:00:00 GMT</pubDate>
-            <description><![CDATA[10月20日（月）に、学生・教職員の皆様を対象として、「MDAセミナー（浜銀総合研究所）：データサイエンスが支える金融ビジネス―コンサルティング事例が示す実践的アプローチ―」を開催します。
-
-本セミナーは、システム情報工学研究群、MDA教育推進室、情報学学位プログラム、高度情報専門人材育成事業の共催により開催するもので、横浜銀行（コンコルディア・フィナンシャルグループ、東証プライム上場）系列のシン…]]></description>
         </item>
     </channel>
 </rss>
