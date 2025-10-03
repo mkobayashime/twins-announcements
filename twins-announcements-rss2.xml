@@ -4,10 +4,33 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Fri, 03 Oct 2025 03:10:51 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 03 Oct 2025 05:01:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
+        <item>
+            <title><![CDATA[【学生無料】第16回つくばリサイタルシリーズ 小林壱成 ヴァイオリン 〜心震わす名曲との出会い〜]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=6642</link>
+            <guid isPermaLink="false">3ed6a7e177b2b4027a5cbd4fcef3ae69</guid>
+            <pubDate>Fri, 03 Oct 2025 03:00:00 GMT</pubDate>
+            <description><![CDATA[【学生無料】第16回つくばリサイタルシリーズ
+小林壱成 ヴァイオリン 〜心震わす名曲との出会い〜
+
+2025/12/12(金)　つくばカピオホール
+開場: 18:30 / 開始: 19:00
+
+出演者
+ヴァイオリン：小林壱成
+ピアノ：高倉圭吾
+
+プログラム：
+シマノフスキ/ノクターンとタランテラ
+ブラームス/ヴァイオリン・ソナタ第3番
+江藤光紀/新作
+R・シュトラウス/ヴァイオリン・ソナタ
+
+みど…]]></description>
+        </item>
         <item>
             <title><![CDATA[秋の図書館講習会/Library Workshops]]></title>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=6641</link>
@@ -249,21 +272,6 @@ ITO Foundation for Int…]]></description>
 ＜オンライン集団面接＞　10月10日（水）13：30～15：00
 〇申し込みURL（ZOOM）
 https://us02web.zoom.us/meeting/regi…]]></description>
-        </item>
-        <item>
-            <title><![CDATA[【本日も開催】図書館講習会「博士論文インターネット公開の基礎知識」]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=6619</link>
-            <guid isPermaLink="false">e305880fae92d97332a3db2a2937b9e4</guid>
-            <pubDate>Wed, 01 Oct 2025 03:00:00 GMT</pubDate>
-            <description><![CDATA[10月1日(水)、10月3日(金)、10月4日(土)の全3回にわたり「博士論文インターネット講習会の基礎知識」
-をオンラインで開催します。
-
-本講習会では博士論文を執筆する際の注意事項や提出方法、提出後の流れなどをご説明いたします。
-実際に博士論文を執筆される学生の方々だけでなく、教員の方々もご活用いただける内容となっております。
-
-講習会の詳細は以下のとおりです。
-
-▼開催日時　※各回とも同じ内…]]></description>
         </item>
     </channel>
 </rss>
