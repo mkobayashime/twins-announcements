@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "4b9789e4492154bb51db2dda2024f93f",
+            "content_html": "10月30日（木）に「芸術系留学説明会」をオンライン（Teams）で開催いたします。\n留学の検討をされている方は，ぜひご参加ください。\n\n「芸術系 留学説明会」\n開催日時：10月30日（木）17:30-19:00\n開催方法：オンライン（Teamsにて）\nプログラム：\n17:30　開会\n17:35　留学報告（３名の留学体験者より報告予定）\n18:20　筑波大学RUN UP事業について\n18:30　交…",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=6652",
+            "title": "芸術系「留学説明会2025（10/30 Teams開催）」のお知らせ",
+            "date_modified": "2025-10-06T03:00:00.000Z"
+        },
+        {
             "id": "e8ebd04c546d84715d83f157f418eb5a",
             "content_html": "＜JFEミネラル　秋冬仕事体験＞\n日　時：2025年11月～12月（詳細はポスター参照）\n場　所：全国各地\n対　象：学類生，大学院生，研究室は問いません\n\n申込はJFEミネラルのマイページからお願いいたします。\n詳細は，添付のポスターをご覧ください。\n",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=6651",
@@ -135,13 +142,6 @@
             "content_html": "【筑波大学主催】10/15-17「業界研究会・インターンシップ研究会」（BHE）\n\nこんにちは。ヒューマンエンパワーメント推進局キャリア支援チーム(以下BHE)です。\nBHEでは、10月15日(水)から10月17日(金)まで「筑波大生のキャリアイベント -業界研究会・インターンシップ研究会- 」を開催！\n3日間で120社以上の企業・団体・官公庁が大学会館に集結します！\n\n特別企画として、開催前夜に…",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=6633",
             "title": "筑波大生のキャリアイベントについて",
-            "date_modified": "2025-10-01T03:00:00.000Z"
-        },
-        {
-            "id": "5183f85a53472cf38d7d267a2e978b9d",
-            "content_html": "令和７年 12 ⽉〜令和 8 年 2 ⽉末に日本と韓国において戦争と平和／少子・高齢化／気候変動／AIと教育／ジェンダー等の社会課題についてプレゼンテーション・グループディスカッション等を行う共修活動への参加者を募集しています。\n詳細は添付ファイルをご確認のうえ、QRコードから申し込みを行ってください。",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=6632",
-            "title": "【参加者募集】共通の課題解決のための日韓学生間多文化化共修セミナー",
             "date_modified": "2025-10-01T03:00:00.000Z"
         }
     ]

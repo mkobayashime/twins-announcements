@@ -4,10 +4,27 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Mon, 06 Oct 2025 00:03:07 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 06 Oct 2025 01:29:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
+        <item>
+            <title><![CDATA[芸術系「留学説明会2025（10/30 Teams開催）」のお知らせ]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=6652</link>
+            <guid isPermaLink="false">4b9789e4492154bb51db2dda2024f93f</guid>
+            <pubDate>Mon, 06 Oct 2025 03:00:00 GMT</pubDate>
+            <description><![CDATA[10月30日（木）に「芸術系留学説明会」をオンライン（Teams）で開催いたします。
+留学の検討をされている方は，ぜひご参加ください。
+
+「芸術系 留学説明会」
+開催日時：10月30日（木）17:30-19:00
+開催方法：オンライン（Teamsにて）
+プログラム：
+17:30　開会
+17:35　留学報告（３名の留学体験者より報告予定）
+18:20　筑波大学RUN UP事業について
+18:30　交…]]></description>
+        </item>
         <item>
             <title><![CDATA[JFEミネラル　秋冬仕事体験]]></title>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=6651</link>
@@ -246,14 +263,6 @@ BHEでは、10月15日(水)から10月17日(金)まで「筑波大生のキャ�
 3日間で120社以上の企業・団体・官公庁が大学会館に集結します！
 
 特別企画として、開催前夜に…]]></description>
-        </item>
-        <item>
-            <title><![CDATA[【参加者募集】共通の課題解決のための日韓学生間多文化化共修セミナー]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=6632</link>
-            <guid isPermaLink="false">5183f85a53472cf38d7d267a2e978b9d</guid>
-            <pubDate>Wed, 01 Oct 2025 03:00:00 GMT</pubDate>
-            <description><![CDATA[令和７年 12 ⽉〜令和 8 年 2 ⽉末に日本と韓国において戦争と平和／少子・高齢化／気候変動／AIと教育／ジェンダー等の社会課題についてプレゼンテーション・グループディスカッション等を行う共修活動への参加者を募集しています。
-詳細は添付ファイルをご確認のうえ、QRコードから申し込みを行ってください。]]></description>
         </item>
     </channel>
 </rss>
