@@ -4,10 +4,23 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Mon, 06 Oct 2025 02:27:20 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 06 Oct 2025 06:01:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
+        <item>
+            <title><![CDATA[（BHE)10/14 合説プレイベント　内定者も歓迎「その会社大丈夫？就職前に知るべき働くルール」]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=6656</link>
+            <guid isPermaLink="false">c02954cc5ab2d29a49776bdafd116b57</guid>
+            <pubDate>Mon, 06 Oct 2025 03:00:00 GMT</pubDate>
+            <description><![CDATA[15日からの業界研究会のプレイベントとして、学生の内に知っておくべき労働法を学ぶセミナーを開催します。
+元大手企業人事担当で、現社会保険労務士の増田豊氏をお招きして「働くルール」をわかりやすく解説していただきます。
+タイトルだけでは少々とっつきにくイメージがありますが、
+知っておくと今後のアルバイトや就活で役立つことがたくさんあります。
+自衛はまずは知識から。ぜひ学生の内に学んでください。
+
+＜内…]]></description>
+        </item>
         <item>
             <title><![CDATA[【ご案内】「あなたの生理の困りごとを教えて～筑波大学産婦人科医とお話ししませんか～」【10/22開催】]]></title>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=6655</link>
@@ -265,16 +278,6 @@ You can try any part of the eBooks from the following eBook platforms for free f
             <description><![CDATA[スチューデントサポートセンター国際交流支援室では、Teamsで海外留学や国際交流の最新情報を発信しています。
 
 少しでも留学や国際交流に興味があれば、是非添付のURL「筑大生 海外留学・国際交流情報-public」に参加登録してください！]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Announcement on the Student Health Examination for Fall Semester 2025]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=6629</link>
-            <guid isPermaLink="false">62ca4a63d9edea3019adbc793b861047</guid>
-            <pubDate>Thu, 02 Oct 2025 03:00:00 GMT</pubDate>
-            <description><![CDATA[The Student Health Examination for Fall Semester 2025 will be divided into a physical examination and a mental health survey as follows.
-Please be sure to take the examination if you are eligible.
-
-Ph…]]></description>
         </item>
     </channel>
 </rss>
