@@ -2,10 +2,27 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/mkobayashime/twins-announcements</id>
     <title>在学生へのお知らせ | 筑波大学</title>
-    <updated>2025-10-07T01:29:03.339Z</updated>
+    <updated>2025-10-07T03:12:01.624Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://github.com/mkobayashime/twins-announcements"/>
     <subtitle>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</subtitle>
+    <entry>
+        <title type="html"><![CDATA[【SNSについて聞かせてください！】図書館公式SNSアカウント運用検討のためのアンケート実施中（10/6-10/27）]]></title>
+        <id>e0fc1c0538a9457b282eca37c23b347d</id>
+        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=6660"/>
+        <updated>2025-10-07T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[附属図書館では、公式SNSアカウントの運用について検討しています。
+検討の参考にするため、アンケートへのご協力をお願いします。
+（設問は3問のみ、すぐ終わります！）
+
+▼ウェブフォームから回答
+下記のURLからご回答ください。
+
+▼中央図書館で回答
+中央図書館本館2階ギャラリーゾーン（全学計算機側）にて、シールを貼って投票いただけます。
+
+皆さんの声をもとに、よりよい広報活動を目指してまいります。…]]></summary>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【（再掲）参加者募集！国際キャリアに興味のある方へ！】「学生生活から社会人へ：世界を舞台に」秋場素子先生によるグローバルキャリア]]></title>
         <id>7d1ec9a0dd9fe7b1a01c3a643cad36da</id>
@@ -264,14 +281,5 @@ In the library,…]]></summary>
 ・短い時間で回答できます。一人暮らし世帯の場合、所要時間の目安は５～10分です。
 ・主要７言語（英語、中国語（簡体字）、中国語（繁体字）、韓国語、ベトナム語、スペイン語、ポルトガル語）で回答できます。
 　　　◆回答がお済みで…]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Free Ebook Trial Service Part2]]></title>
-        <id>3c31eda2472779f71da36b95e770c162</id>
-        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=6638"/>
-        <updated>2025-10-02T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[In order to support teaching and learning, the library provides an eBook trial service again!
-
-You can try any part of the eBooks from the following eBook platforms for free for five minutes per title…]]></summary>
     </entry>
 </feed>

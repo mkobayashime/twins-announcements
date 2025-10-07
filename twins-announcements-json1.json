@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "e0fc1c0538a9457b282eca37c23b347d",
+            "content_html": "附属図書館では、公式SNSアカウントの運用について検討しています。\n検討の参考にするため、アンケートへのご協力をお願いします。\n（設問は3問のみ、すぐ終わります！）\n\n▼ウェブフォームから回答\n下記のURLからご回答ください。\n\n▼中央図書館で回答\n中央図書館本館2階ギャラリーゾーン（全学計算機側）にて、シールを貼って投票いただけます。\n\n皆さんの声をもとに、よりよい広報活動を目指してまいります。…",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=6660",
+            "title": "【SNSについて聞かせてください！】図書館公式SNSアカウント運用検討のためのアンケート実施中（10/6-10/27）",
+            "date_modified": "2025-10-07T03:00:00.000Z"
+        },
+        {
             "id": "7d1ec9a0dd9fe7b1a01c3a643cad36da",
             "content_html": "大学、大学院の先の活躍の場は、日本国内だけじゃない！\nお待たせしました。グローバルスタートアッパーセミナー第４弾です。\n今回は、本学卒業生で現在フロリダ州立大学、アメリカ教育学（AERA)の主要雑誌の総編集長を務める秋場素子氏を招き、世界で働く面白さ、勇気をもって世界へ飛び出すことで見えてくる様々な視点について、お話をいただきます。昼休みにぜひお友達を誘って、お気軽にお越しください。\n\n〇10月1…",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=6659",
@@ -136,13 +143,6 @@
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=6636",
             "title": "【つくば市よりお知らせ】令和7年国勢調査への回答はお済みですか！？",
             "date_modified": "2025-10-03T03:00:00.000Z"
-        },
-        {
-            "id": "3c31eda2472779f71da36b95e770c162",
-            "content_html": "In order to support teaching and learning, the library provides an eBook trial service again!\n\nYou can try any part of the eBooks from the following eBook platforms for free for five minutes per title…",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=6638",
-            "title": "Free Ebook Trial Service Part2",
-            "date_modified": "2025-10-02T03:00:00.000Z"
         }
     ]
 }

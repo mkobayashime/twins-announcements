@@ -4,10 +4,27 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Tue, 07 Oct 2025 01:29:03 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 07 Oct 2025 03:12:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
+        <item>
+            <title><![CDATA[【SNSについて聞かせてください！】図書館公式SNSアカウント運用検討のためのアンケート実施中（10/6-10/27）]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=6660</link>
+            <guid isPermaLink="false">e0fc1c0538a9457b282eca37c23b347d</guid>
+            <pubDate>Tue, 07 Oct 2025 03:00:00 GMT</pubDate>
+            <description><![CDATA[附属図書館では、公式SNSアカウントの運用について検討しています。
+検討の参考にするため、アンケートへのご協力をお願いします。
+（設問は3問のみ、すぐ終わります！）
+
+▼ウェブフォームから回答
+下記のURLからご回答ください。
+
+▼中央図書館で回答
+中央図書館本館2階ギャラリーゾーン（全学計算機側）にて、シールを貼って投票いただけます。
+
+皆さんの声をもとに、よりよい広報活動を目指してまいります。…]]></description>
+        </item>
         <item>
             <title><![CDATA[【（再掲）参加者募集！国際キャリアに興味のある方へ！】「学生生活から社会人へ：世界を舞台に」秋場素子先生によるグローバルキャリア]]></title>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=6659</link>
@@ -266,15 +283,6 @@ In the library,…]]></description>
 ・短い時間で回答できます。一人暮らし世帯の場合、所要時間の目安は５～10分です。
 ・主要７言語（英語、中国語（簡体字）、中国語（繁体字）、韓国語、ベトナム語、スペイン語、ポルトガル語）で回答できます。
 　　　◆回答がお済みで…]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Free Ebook Trial Service Part2]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=6638</link>
-            <guid isPermaLink="false">3c31eda2472779f71da36b95e770c162</guid>
-            <pubDate>Thu, 02 Oct 2025 03:00:00 GMT</pubDate>
-            <description><![CDATA[In order to support teaching and learning, the library provides an eBook trial service again!
-
-You can try any part of the eBooks from the following eBook platforms for free for five minutes per title…]]></description>
         </item>
     </channel>
 </rss>
