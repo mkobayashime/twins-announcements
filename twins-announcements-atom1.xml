@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/mkobayashime/twins-announcements</id>
     <title>在学生へのお知らせ | 筑波大学</title>
-    <updated>2025-10-06T21:06:53.666Z</updated>
+    <updated>2025-10-07T01:29:03.339Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://github.com/mkobayashime/twins-announcements"/>
     <subtitle>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</subtitle>
+    <entry>
+        <title type="html"><![CDATA[【（再掲）参加者募集！国際キャリアに興味のある方へ！】「学生生活から社会人へ：世界を舞台に」秋場素子先生によるグローバルキャリア]]></title>
+        <id>7d1ec9a0dd9fe7b1a01c3a643cad36da</id>
+        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=6659"/>
+        <updated>2025-10-07T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[大学、大学院の先の活躍の場は、日本国内だけじゃない！
+お待たせしました。グローバルスタートアッパーセミナー第４弾です。
+今回は、本学卒業生で現在フロリダ州立大学、アメリカ教育学（AERA)の主要雑誌の総編集長を務める秋場素子氏を招き、世界で働く面白さ、勇気をもって世界へ飛び出すことで見えてくる様々な視点について、お話をいただきます。昼休みにぜひお友達を誘って、お気軽にお越しください。
+
+〇10月1…]]></summary>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【開催案内】16th Borderless Onsite Meeting（10/27）]]></title>
         <id>5642ff365bfd455e26307222bba447f6</id>
@@ -262,17 +273,5 @@ In the library,…]]></summary>
         <summary type="html"><![CDATA[In order to support teaching and learning, the library provides an eBook trial service again!
 
 You can try any part of the eBooks from the following eBook platforms for free for five minutes per title…]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[電子ブック 全文無料試し読みサービス　第２弾のご案内]]></title>
-        <id>1b478e9edf50ee6d1d8207e2c1d64cba</id>
-        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=6637"/>
-        <updated>2025-10-02T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[附属図書館では、電子ブックの全文無料試し読みサービスの今年度第２弾を実施します。
-今回は、丸善雄松堂が提供するMaruzen eBook Libraryを期間限定でご利用いただけます。
-
-対象プラットフォームの電子ブックからお好きな部分を1タイトルにつき5分間、試し読みすることができます。また、リクエストを送信することもできます。この機会にぜひお試しください。
-
-【実施期間と対象プラットフォーム】…]]></summary>
     </entry>
 </feed>
