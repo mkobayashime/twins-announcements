@@ -4,10 +4,20 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Tue, 07 Oct 2025 07:01:56 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 07 Oct 2025 08:01:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
+        <item>
+            <title><![CDATA[【開催案内】講演会「教育力×研究力＝社会を動かす知の創造－未来を拓く教育改革の展望ー」]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=6665</link>
+            <guid isPermaLink="false">e10cf3197277f8d4ece83c7aa369c06e</guid>
+            <pubDate>Tue, 07 Oct 2025 03:00:00 GMT</pubDate>
+            <description><![CDATA[教学デザイン室では、昨年度に続き、社会変革を担う人材育成に向けた筑波大学の教育の在り方を検討しています。本講演会では、まず社会から大学教育への期待を共有し、次に学内の現状の課題を共有します。その上で、教育力を研究力へと接続する具体的な方策について議論し、今後の学士・大学院課程の改革や大学院の構想を展望します。
+未来の筑波大学の姿を、学生と教職員が一緒に考える場です。ぜひ、ご参加ください！
+
+名　称…]]></description>
+        </item>
         <item>
             <title><![CDATA[【参加無料！参加者募集！申込締切10/13】筑波大学Open Facility Week2025開催のご案内(10/20-24)]]></title>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=6664</link>
@@ -258,29 +268,6 @@ For details, please see the attached file.
             <description><![CDATA[11月25日（火）に学群生・大学院生を対象として、「12thシンポジウム：インターセクション～交わることで生まれる、新たなデータの価値～」を開催します。
 本シンポジウムは、一般社団法人データサイエンティスト協会の主催により開催するもので、プログラムの一つとして「学生ポスターセッション」を実施します。
 ポスターセッションでは、AI、機械学習をはじめとするデータサイエンスに関連する学びや研究成果を広く…]]></description>
-        </item>
-        <item>
-            <title><![CDATA[【学生無料】第16回つくばリサイタルシリーズ 小林壱成 ヴァイオリン 〜心震わす名曲との出会い〜]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=6642</link>
-            <guid isPermaLink="false">3ed6a7e177b2b4027a5cbd4fcef3ae69</guid>
-            <pubDate>Fri, 03 Oct 2025 03:00:00 GMT</pubDate>
-            <description><![CDATA[【学生無料】第16回つくばリサイタルシリーズ
-小林壱成 ヴァイオリン 〜心震わす名曲との出会い〜
-
-2025/12/12(金)　つくばカピオホール
-開場: 18:30 / 開始: 19:00
-
-出演者
-ヴァイオリン：小林壱成
-ピアノ：高倉圭吾
-
-プログラム：
-シマノフスキ/ノクターンとタランテラ
-ブラームス/ヴァイオリン・ソナタ第3番
-江藤光紀/新作
-R・シュトラウス/ヴァイオリン・ソナタ
-
-みど…]]></description>
         </item>
     </channel>
 </rss>
