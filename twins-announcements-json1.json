@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "90b098fe48e9f55f7f151d11f7c590d6",
+            "content_html": "オープンファシリティー推進機構では、教育研究を効率的に推進するため、540台以上の共用機器をオープンファシリティーシステムに登録し、設備の有効活用に伴う利用サポートを実施いたしております。\nこの度、10月20日（月）から10月24日（金）までの期間を機器共用促進の重点実施期間として、「筑波大学オープンファシリティーウィーク2025」を下記のとおり、開催することとなりましたので、ご案内申し上げます。…",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=6664",
+            "title": "【参加無料！参加者募集！申込締切10/13】筑波大学Open Facility Week2025開催のご案内(10/20-24)",
+            "date_modified": "2025-10-07T03:00:00.000Z"
+        },
+        {
             "id": "9e41867f38b8663c99e983727f0726de",
             "content_html": "筑波大学校友会は、「総合科目×校友会主催×全代会協力イベント 飲料業界探訪」を開催いたします。\n「総合科目：卒業生による業界探訪」に履修登録のない方も参加可能です！\n\n日時：令和7年10月30日（木）講義16:45～18：00、懇親会18：15～19：30\n場所： 講義 ID201教室、懇親会 スープファクトリー\n内容：本学卒業生で、ニッカウヰスキー株式会社 常勤顧問の佐藤氏をお招きし、飲料業界に…",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=6663",
@@ -135,13 +142,6 @@
             "content_html": "【学生無料】第16回つくばリサイタルシリーズ\n小林壱成 ヴァイオリン 〜心震わす名曲との出会い〜\n\n2025/12/12(金)　つくばカピオホール\n開場: 18:30 / 開始: 19:00\n\n出演者\nヴァイオリン：小林壱成\nピアノ：高倉圭吾\n\nプログラム：\nシマノフスキ/ノクターンとタランテラ\nブラームス/ヴァイオリン・ソナタ第3番\n江藤光紀/新作\nR・シュトラウス/ヴァイオリン・ソナタ\n\nみど…",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=6642",
             "title": "【学生無料】第16回つくばリサイタルシリーズ 小林壱成 ヴァイオリン 〜心震わす名曲との出会い〜",
-            "date_modified": "2025-10-03T03:00:00.000Z"
-        },
-        {
-            "id": "ad378bface4a3be4c12f00e7715d0ea6",
-            "content_html": "附属図書館では、秋の講習会を開催しています。\n図書館の使い方や各種データベースの使い方など、学習や研究に役立つ内容です。\nmanabaでコース登録をしてご参加ください。\n皆様のご参加をお待ちしております。\n\n詳しくは下記Webページをご覧ください。\nhttps://www.tulips.tsukuba.ac.jp/lib/support/guidance\n\n---\n\nIn the library,…",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=6641",
-            "title": "秋の図書館講習会/Library Workshops",
             "date_modified": "2025-10-03T03:00:00.000Z"
         }
     ]
