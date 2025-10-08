@@ -5,6 +5,34 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "0f6ef5e37158132d99a4af17110f656b",
+            "content_html": "文部科学省より、新学期を迎えるにあたり、学生の安心・安全に関して参考となる各種資料（公表資料）が届きましたので、お知らせいたします。\n特に、長期休暇明けや新年度の開始時期は、新しい環境で生活を始める学生が多くなり、様々なトラブルや悩みを抱えやすい時期になります。\n下記リンク先に、啓発資料や学生が相談する窓口、学生の危険や悩みをまとめた資料、学生の安全・安心に係る役立つ情報集が掲載されています。\n　…",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=6674",
+            "title": "【周知】学生の安心・安全に係る指導・啓発の充実について",
+            "date_modified": "2025-10-08T03:00:00.000Z"
+        },
+        {
+            "id": "83f8d21c4db3bd715e9464bc127e6486",
+            "content_html": "株式会社日立ハイテク、日本イーライリリー、朝日新聞社より人事担当者と先輩社員をお招きして、企業が実践する多様性の取り組みや若手社員による体験談などをお話しいただきます。\n進路選択に悩んでいる方、さまざまなキャリアパスを知りたい方、また障がいをもちながら社会で働くことをイメージしたい方はぜひご参加ください。\n\n自分らしく働くことについてお話を聞いてみませんか？\n障害の有無にかかわらず、お気軽にご参加…",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=6673",
+            "title": "【BHE主催】リアルキャリアトーク ～障害学生と企業をつなぐ～",
+            "date_modified": "2025-10-08T03:00:00.000Z"
+        },
+        {
+            "id": "8ca5b646d2d6e5b9ee61dd884bd99cef",
+            "content_html": "「大学院進学か就職か」で悩みを抱えている方はいませんか？\nこのイベントでは大学院生の就職支援をしている株式会社アカリクの講師をお招きし、大学院進学することの意味や学群卒と院卒の違い、大学院生の就職事情、また院進学に向けての準備や心構えについても解説していただきます。\nぜひこのセミナーでご自身のキャリアと向き合ってみましょう。\n\n◆日時 2025年10月10日(金)　18:00～19:15\n◆開催場…",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=6672",
+            "title": "【10/10㈮開催】大学院進学と就職を考えるセミナー",
+            "date_modified": "2025-10-08T03:00:00.000Z"
+        },
+        {
+            "id": "cc04a31d5b5ddeaf24dc25d753e86ef8",
+            "content_html": "【筑波大学主催】10/15-17「業界研究会・インターンシップ研究会」（BHE）\n\nこんにちは。ヒューマンエンパワーメント推進局キャリア支援チーム(以下BHE)です。\nBHEでは、10月15日(水)から10月17日(金)まで「筑波大生のキャリアイベント -業界研究会・インターンシップ研究会- 」を開催！\n3日間で120社以上の企業・団体・官公庁が大学会館に集結します！\n\n◎就活準備や秋冬インターン…",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=6671",
+            "title": "【BHE主催】筑波大生のキャリアイベント開催のご案内",
+            "date_modified": "2025-10-08T03:00:00.000Z"
+        },
+        {
             "id": "0837567974b001f4ffc7462219717987",
             "content_html": "キャリア支援チームではこれから就活を始める皆さんに向けて、26卒内定者の方にご自身の就活についてお話いただくイベントを企画中です。\n今までのご自身の就活を振り返り、後輩の就活を応援したい26卒の皆さんの協力をお願いいたします。\nぜひご自身の就活体験談や就活のアドバイスをお聞かせください。\n\n25年度内定者懇談会\n日時：2025年11月12日もしくは26日（水）※調整中\n場所：調整中（対面）\n内容：…",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=6670",
@@ -114,34 +142,6 @@
             "content_html": "お世話になっております。ヒューマンエンパワーメント推進局 ジェンダー支援チームです。\nつくりけCo-Labより、女子学生・院生のみなさんへ交流会のお知らせです。\n\n女子学生・院生が気軽に集まり、交流できるイベントです。\n軽食と飲み物をご用意しています。初めての方も大歓迎です！\n皆さまのご参加を心よりお待ちしています。\n\n【概要】\n日　時：10月17日（金）17:30〜19:30\n場　所：スチューデ…",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=6654",
             "title": "【ご案内】つくりけCo-Labハロウィンイベント2025「女子学生・院生交流会'25」【10/17開催】",
-            "date_modified": "2025-10-06T03:00:00.000Z"
-        },
-        {
-            "id": "5008e72d7e5a3cc4b6900315ee6a9547",
-            "content_html": "いけばな体験教室を10月18日、11月8日、12月6日に開催いたします。\n\n詳細は添付ファイルをご確認ください。\n\n\nWould you like to experience the Japanese culture of ikebana?\n\nFor details, please see the attached file.\n",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=6653",
-            "title": "いけばな体験教室の開催について/The Lesson of Ikebana Experience",
-            "date_modified": "2025-10-06T03:00:00.000Z"
-        },
-        {
-            "id": "4b9789e4492154bb51db2dda2024f93f",
-            "content_html": "10月30日（木）に「芸術系留学説明会」をオンライン（Teams）で開催いたします。\n留学の検討をされている方は，ぜひご参加ください。\n\n「芸術系 留学説明会」\n開催日時：10月30日（木）17:30-19:00\n開催方法：オンライン（Teamsにて）\nプログラム：\n17:30　開会\n17:35　留学報告（３名の留学体験者より報告予定）\n18:20　筑波大学RUN UP事業について\n18:30　交…",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=6652",
-            "title": "芸術系「留学説明会2025（10/30 Teams開催）」のお知らせ",
-            "date_modified": "2025-10-06T03:00:00.000Z"
-        },
-        {
-            "id": "e8ebd04c546d84715d83f157f418eb5a",
-            "content_html": "＜JFEミネラル　秋冬仕事体験＞\n日　時：2025年11月～12月（詳細はポスター参照）\n場　所：全国各地\n対　象：学類生，大学院生，研究室は問いません\n\n申込はJFEミネラルのマイページからお願いいたします。\n詳細は，添付のポスターをご覧ください。\n",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=6651",
-            "title": "JFEミネラル　秋冬仕事体験",
-            "date_modified": "2025-10-06T03:00:00.000Z"
-        },
-        {
-            "id": "d15cbc41ac049ed754473f27dabdea93",
-            "content_html": "皆様\nお世話になっております。ヒューマンエンパワーメント推進局ジェンダー支援チームです。\n\nヒューマンエンパワーメント推進局では、今年度の雙峰祭にて学生ピアスタッフと一緒にジェンダー・セクシュアリティに関する企画を出展します。\nそこで、企画の手伝いをお願いできる学生のボランティアスタッフを募集します。詳しくは、添付したチラシをご覧ください。\n皆様からのご応募、お待ちしております！\n\n【企画概要】\n…",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=6650",
-            "title": "【学生ボランティアスタッフ募集】雙峰祭2025 11/1～11/3",
             "date_modified": "2025-10-06T03:00:00.000Z"
         }
     ]
