@@ -4,10 +4,19 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Thu, 09 Oct 2025 01:29:11 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 09 Oct 2025 02:26:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
+        <item>
+            <title><![CDATA[【参加者募集】2025年度 国立台湾大学との学生交流プロジェクト (11月～2026年2月に実施）]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=6679</link>
+            <guid isPermaLink="false">3f6bd22bbde4021e8fb492291ef3636f</guid>
+            <pubDate>Thu, 09 Oct 2025 03:00:00 GMT</pubDate>
+            <description><![CDATA[Z世代のアイデンティティとは何か？AI時代において、年長世代とどう共存すべきか？疑問に思ったことはありませんか？協定校の国立台湾大学の学生さんと一緒に考え、英語でディスカッションしましょう！
+
+2025年度は「Z世代」「世代をつなぐ力」「AI」「未来の働き方」をテーマとして、国立台湾大学と筑波大学の学生でつくった少人数グループで複数回オンラインディスカッションを行った後、国立台湾大学の学生が筑波大…]]></description>
+        </item>
         <item>
             <title><![CDATA[Tsukuba International Language Assessment Symposium 2025 (筑波国際言語評価シンポジウム2025)]]></title>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=6678</link>
@@ -244,15 +253,6 @@ BHEでは、10月15日(水)から10月17日(金)まで「筑波大生のキャ�
 
 タイトルは
 “Tajikistan: History, people and c…]]></description>
-        </item>
-        <item>
-            <title><![CDATA[【開催案内】15th Borderless Onsite Meeting (10/14)]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=6657</link>
-            <guid isPermaLink="false">1587943601c91316348f0cb709a28d62</guid>
-            <pubDate>Mon, 06 Oct 2025 03:00:00 GMT</pubDate>
-            <description><![CDATA[留学生が出身国を紹介するイベント“BOM”をランチタイムに開催しています。留学生によるプレゼンテーションや英語によるフリーチャットをお楽しみください。15回目となる今回は、NipCAフェロー2024のムハンマドイブロヒモフ・ボティルジョンさんが、母国ウズベキスタンの紹介をしてくれます。
-
-タイトルは　“Uzbekistan Behind the ‘Curtain’: Customs and Hum…]]></description>
         </item>
     </channel>
 </rss>
