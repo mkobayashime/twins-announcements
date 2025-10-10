@@ -4,10 +4,26 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Fri, 10 Oct 2025 07:01:52 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 10 Oct 2025 08:01:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
+        <item>
+            <title><![CDATA[【10/15開催】「文献管理ツールRefWorks活用法（中級者編）]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=6695</link>
+            <guid isPermaLink="false">a18c322c9830f3a6be99efbc84d47695</guid>
+            <pubDate>Fri, 10 Oct 2025 03:00:00 GMT</pubDate>
+            <description><![CDATA[文献管理・共有・論文作成支援Webサービス「RefWorks」について、
+RefWorks提供元のインストラクターが活用方法をご案内する講習会を開催します。
+
+日時：10月15日（水）15:15-16:30
+開催方法： オンライン
+
+今回は「中級者編」として、各種データベースからの取り込みや、
+取り込んだレコードの編集方法などの、具体的な操作についてデモを交えてご説明します。
+
+講習会への参加には…]]></description>
+        </item>
         <item>
             <title><![CDATA[Popularize Science! – Bringing Science Closer to Everyone!]]></title>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=6694</link>
@@ -243,18 +259,6 @@ Guest speaker: Dr. David Wei Dai (Lecturer/Assistant Professor in Professional C
 
 自分らしく働くことについてお話を聞いてみませんか？
 障害の有無にかかわらず、お気軽にご参加…]]></description>
-        </item>
-        <item>
-            <title><![CDATA[【10/10㈮開催】大学院進学と就職を考えるセミナー]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=6672</link>
-            <guid isPermaLink="false">8ca5b646d2d6e5b9ee61dd884bd99cef</guid>
-            <pubDate>Wed, 08 Oct 2025 03:00:00 GMT</pubDate>
-            <description><![CDATA[「大学院進学か就職か」で悩みを抱えている方はいませんか？
-このイベントでは大学院生の就職支援をしている株式会社アカリクの講師をお招きし、大学院進学することの意味や学群卒と院卒の違い、大学院生の就職事情、また院進学に向けての準備や心構えについても解説していただきます。
-ぜひこのセミナーでご自身のキャリアと向き合ってみましょう。
-
-◆日時 2025年10月10日(金)　18:00～19:15
-◆開催場…]]></description>
         </item>
     </channel>
 </rss>
