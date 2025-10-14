@@ -4,10 +4,22 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Tue, 14 Oct 2025 07:01:53 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 14 Oct 2025 08:01:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
+        <item>
+            <title><![CDATA[【BHE主催】筑波大生のキャリアイベント開催のご案内]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=6700</link>
+            <guid isPermaLink="false">cc04a31d5b5ddeaf24dc25d753e86ef8</guid>
+            <pubDate>Tue, 14 Oct 2025 03:00:00 GMT</pubDate>
+            <description><![CDATA[【筑波大学主催】10/15-17「業界研究会・インターンシップ研究会」（BHE）
+
+こんにちは。ヒューマンエンパワーメント推進局キャリア支援チーム(以下BHE)です。
+BHEでは、10月15日(水)から10月17日(金)まで「筑波大生のキャリアイベント -業界研究会・インターンシップ研究会- 」をいよいよ明日から3日間開催！！
+3日間で120社以上の企業・団体・官公庁が大学会館に集結します！
+これ…]]></description>
+        </item>
         <item>
             <title><![CDATA[[Participants wanted] 2025/12/4, 11 (Thu) Olympic Movement in Taiwan]]></title>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=6699</link>
@@ -246,20 +258,6 @@ Theme: Assessing Interactional Competence in the Second Language Classroo…]]><
 BHEキャリア支援チームのファシリテーターからフィードバックがあります。 （日本語での開催です）
 【詳細と申込み】
 ＜対…]]></description>
-        </item>
-        <item>
-            <title><![CDATA[【10月12日（土）】第49回 筑波大学 現代語・現代文化フォーラム]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=6676</link>
-            <guid isPermaLink="false">85c4a72dcc10c2bde73d1b365d1f7bef</guid>
-            <pubDate>Thu, 09 Oct 2025 03:00:00 GMT</pubDate>
-            <description><![CDATA[各位
-
-第49回 筑波大学 現代語・現代文化フォーラムにつきまして
-以下の日程で行います。（オンライン開催　via Zoom ）※詳細はポスターにてご確認ください。
-
-10月12日（土）　17：00～18：00
-
-Guest speaker: Dr. David Wei Dai (Lecturer/Assistant Professor in Professional Communication …]]></description>
         </item>
     </channel>
 </rss>
