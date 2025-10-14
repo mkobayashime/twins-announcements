@@ -4,10 +4,23 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Mon, 13 Oct 2025 21:06:49 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 14 Oct 2025 03:14:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
+        <item>
+            <title><![CDATA[（BHE)本日開催！申込可「その会社大丈夫？就職前に知るべき働くルール」]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=6696</link>
+            <guid isPermaLink="false">a4bda3887287a26f1963e5acb9d5504b</guid>
+            <pubDate>Tue, 14 Oct 2025 03:00:00 GMT</pubDate>
+            <description><![CDATA[明日からの業界研究会のプレイベントとして、学生の内に知っておくべき労働法を学ぶセミナーを開催します。
+元大手企業人事担当で、現社会保険労務士の増田豊氏をお招きして「働くルール」をわかりやすく解説していただきます。
+タイトルだけでは少々とっつきにくイメージがありますが、
+知っておくと今後のアルバイトや就活で役立つことがたくさんあります。
+自衛はまずは知識から。ぜひ学生の内に学んでください。
+
+＜内容…]]></description>
+        </item>
         <item>
             <title><![CDATA[【10/15開催】「文献管理ツールRefWorks活用法（中級者編）]]></title>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=6695</link>
@@ -244,20 +257,6 @@ BHEでは、10月15日(水)から10月17日(金)まで「筑波大生のキャ�
 3日間で120社以上の企業・団体・官公庁が大学会館に集結します！
 
 ◎就活準備や秋冬インターン…]]></description>
-        </item>
-        <item>
-            <title><![CDATA[BHE主催 内定者懇談会に協力してくださる学生ボランティア、募集中！（キャリアサポーター）]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=6670</link>
-            <guid isPermaLink="false">0837567974b001f4ffc7462219717987</guid>
-            <pubDate>Wed, 08 Oct 2025 03:00:00 GMT</pubDate>
-            <description><![CDATA[キャリア支援チームではこれから就活を始める皆さんに向けて、26卒内定者の方にご自身の就活についてお話いただくイベントを企画中です。
-今までのご自身の就活を振り返り、後輩の就活を応援したい26卒の皆さんの協力をお願いいたします。
-ぜひご自身の就活体験談や就活のアドバイスをお聞かせください。
-
-25年度内定者懇談会
-日時：2025年11月12日もしくは26日（水）※調整中
-場所：調整中（対面）
-内容：…]]></description>
         </item>
     </channel>
 </rss>
