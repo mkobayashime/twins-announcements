@@ -4,10 +4,23 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Tue, 14 Oct 2025 03:14:31 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 14 Oct 2025 06:01:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
+        <item>
+            <title><![CDATA[【留学相談デスク】再開しました]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=6697</link>
+            <guid isPermaLink="false">d8a4f5e79e639ddf5b1b65cb89bef4b0</guid>
+            <pubDate>Tue, 14 Oct 2025 03:00:00 GMT</pubDate>
+            <description><![CDATA[「留学体験者の話を聞きたい！」「留学先の大学はどうやって選べばいいの？」「留学準備はどこから手をつけたらいいかな？」そんな疑問に留学経験がある学生スタッフが回答します！
+
+秋学期の留学相談が始まりました！ぜひお気軽にお越しください
+留学相談デスク＠スチューデントコモンズ（1A203）　
+開室時間：平日12：00～17：00（学年暦による）
+
+]]></description>
+        </item>
         <item>
             <title><![CDATA[（BHE)本日開催！申込可「その会社大丈夫？就職前に知るべき働くルール」]]></title>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=6696</link>
@@ -244,19 +257,6 @@ Guest speaker: Dr. David Wei Dai (Lecturer/Assistant Professor in Professional C
 
 自分らしく働くことについてお話を聞いてみませんか？
 障害の有無にかかわらず、お気軽にご参加…]]></description>
-        </item>
-        <item>
-            <title><![CDATA[【BHE主催】筑波大生のキャリアイベント開催のご案内]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=6671</link>
-            <guid isPermaLink="false">cc04a31d5b5ddeaf24dc25d753e86ef8</guid>
-            <pubDate>Wed, 08 Oct 2025 03:00:00 GMT</pubDate>
-            <description><![CDATA[【筑波大学主催】10/15-17「業界研究会・インターンシップ研究会」（BHE）
-
-こんにちは。ヒューマンエンパワーメント推進局キャリア支援チーム(以下BHE)です。
-BHEでは、10月15日(水)から10月17日(金)まで「筑波大生のキャリアイベント -業界研究会・インターンシップ研究会- 」を開催！
-3日間で120社以上の企業・団体・官公庁が大学会館に集結します！
-
-◎就活準備や秋冬インターン…]]></description>
         </item>
     </channel>
 </rss>

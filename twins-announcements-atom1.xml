@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/mkobayashime/twins-announcements</id>
     <title>在学生へのお知らせ | 筑波大学</title>
-    <updated>2025-10-14T03:14:31.162Z</updated>
+    <updated>2025-10-14T06:01:53.875Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://github.com/mkobayashime/twins-announcements"/>
     <subtitle>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</subtitle>
+    <entry>
+        <title type="html"><![CDATA[【留学相談デスク】再開しました]]></title>
+        <id>d8a4f5e79e639ddf5b1b65cb89bef4b0</id>
+        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=6697"/>
+        <updated>2025-10-14T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[「留学体験者の話を聞きたい！」「留学先の大学はどうやって選べばいいの？」「留学準備はどこから手をつけたらいいかな？」そんな疑問に留学経験がある学生スタッフが回答します！
+
+秋学期の留学相談が始まりました！ぜひお気軽にお越しください
+留学相談デスク＠スチューデントコモンズ（1A203）　
+開室時間：平日12：00～17：00（学年暦による）
+
+]]></summary>
+    </entry>
     <entry>
         <title type="html"><![CDATA[（BHE)本日開催！申込可「その会社大丈夫？就職前に知るべき働くルール」]]></title>
         <id>a4bda3887287a26f1963e5acb9d5504b</id>
@@ -242,18 +255,5 @@ Guest speaker: Dr. David Wei Dai (Lecturer/Assistant Professor in Professional C
 
 自分らしく働くことについてお話を聞いてみませんか？
 障害の有無にかかわらず、お気軽にご参加…]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【BHE主催】筑波大生のキャリアイベント開催のご案内]]></title>
-        <id>cc04a31d5b5ddeaf24dc25d753e86ef8</id>
-        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=6671"/>
-        <updated>2025-10-08T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[【筑波大学主催】10/15-17「業界研究会・インターンシップ研究会」（BHE）
-
-こんにちは。ヒューマンエンパワーメント推進局キャリア支援チーム(以下BHE)です。
-BHEでは、10月15日(水)から10月17日(金)まで「筑波大生のキャリアイベント -業界研究会・インターンシップ研究会- 」を開催！
-3日間で120社以上の企業・団体・官公庁が大学会館に集結します！
-
-◎就活準備や秋冬インターン…]]></summary>
     </entry>
 </feed>
