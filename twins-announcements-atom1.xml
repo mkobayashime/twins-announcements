@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/mkobayashime/twins-announcements</id>
     <title>在学生へのお知らせ | 筑波大学</title>
-    <updated>2025-10-15T09:08:47.043Z</updated>
+    <updated>2025-10-15T12:01:52.682Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://github.com/mkobayashime/twins-announcements"/>
     <subtitle>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</subtitle>
+    <entry>
+        <title type="html"><![CDATA[【11/2開催】ジャーナリストカフェ in 筑波大学「メディアのあり方を考える」～情報革命に溺れないために～]]></title>
+        <id>18760941939fdeeb542994ef5966428d</id>
+        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=6709"/>
+        <updated>2025-10-15T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[激変する情報・メディア環境の中で健全なジャーナリズムとは何かを考えるため、
+テレビ朝日「報道ステーション」キャスター 大越健介氏が、
+全国各地の大学などと共同で開催している「ジャーナリスト カフェ」。
+今回は筑波大学の学園祭「雙峰祭」に連動して、学生や観覧者の声も取り込んだインタラクティブなスタイルで開催します。
+
+日時：   2025年11月2日（日）14時30分～17時30分
+場所：   筑波…]]></summary>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【募集開始】SSC公募（一括公募）型CiCパートナー校及び全学対象協定校への交換留学（2026年秋学期渡航分）]]></title>
         <id>4dd69ce11585176ab1f2721fa2e02920</id>
@@ -238,17 +251,5 @@ RefWorks提供元のインストラクターが活用方法をご案内する講
 【使用言語】 英語及びスペイン語（スペイン語のレベルは問わない）
 【単位】 2単位（国際パートナーシップ研修（中南米））
 【応募…]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【参加学生募集】韓国での多文化共修による課題解決実習（海外）B（１単位/秋学期随時）]]></title>
-        <id>43c053c03e9051b4a01b075f159edc71</id>
-        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=6685"/>
-        <updated>2025-10-09T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[この度、ソーシャルインパクト事業の一環として、韓国・全州市を舞台としたDOJO（道場）型の多文化共修プログラムを実施することとしましたので、下記の通りご案内いたします。関心のある多くの学生の履修をお待ちしております。
-
-この授業の履修は先着順です。希望する学生は、申込フォームより必要情報を登録してください。履修登録は参加決定者に対し事務室で行います。
-
-＜授業名＞
-【8331183】多文化共修によ…]]></summary>
     </entry>
 </feed>
