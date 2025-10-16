@@ -4,10 +4,25 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Thu, 16 Oct 2025 02:28:05 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 16 Oct 2025 03:16:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
+        <item>
+            <title><![CDATA[【参加者募集中】11月12日（水）オンライン面接練習会]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=6712</link>
+            <guid isPermaLink="false">8c814da8ec648ae79b4aa7294ca7fc6f</guid>
+            <pubDate>Thu, 16 Oct 2025 03:00:00 GMT</pubDate>
+            <description><![CDATA[選考早期に行われることの多いオンライン面接。
+ISや早期選考対策に練習してみませんか。
+当日飛び入り参加＆初心者大歓迎です！
+低学年のみなさんの参加も大歓迎です！
+コミュニケーション苦手の克服にもぜひ、この機会を活用してください。
+【詳細と申込み】
+＜オンライン集団面接＞　11月12日（水）13：30～15：00
+〇申し込みURL（ZOOM）
+https://us02web.zoom.us/mee…]]></description>
+        </item>
         <item>
             <title><![CDATA[【本日10/16説明会開催！】多文化共修プログラム in コートジボワール プログラム説明会について]]></title>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=6711</link>
@@ -237,21 +252,6 @@ Basically, it will be conducted in English only.
 自衛はまずは知識から。ぜひ学生の内に学んでください。
 
 ＜内…]]></description>
-        </item>
-        <item>
-            <title><![CDATA[【募集】 筑波トランスパシフィックプログラム（TTPP）2025年度ペルー・カトリカ大学短期研修参加生]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=6686</link>
-            <guid isPermaLink="false">d04d0ca2516f54c455f306ad6878aceb</guid>
-            <pubDate>Thu, 09 Oct 2025 03:00:00 GMT</pubDate>
-            <description><![CDATA[学生交流課 筑波トランスパシフィックプログラム（TTPP）からのお知らせです。
-2025年度短期研修参加学生の募集を開始しました。
-
------------------
-【渡航時期】 2026/3/1 ～ 3/13頃（変更の可能性あり）
-【渡航先】 ペルー・カトリカ大学
-【使用言語】 英語及びスペイン語（スペイン語のレベルは問わない）
-【単位】 2単位（国際パートナーシップ研修（中南米））
-【応募…]]></description>
         </item>
     </channel>
 </rss>
