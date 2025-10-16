@@ -4,10 +4,23 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Thu, 16 Oct 2025 07:01:44 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 16 Oct 2025 08:01:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
+        <item>
+            <title><![CDATA[【派遣学生募集】ドイツ・ブランデンブルク工科大学コトブス＝ゼンフテンベルク校（BTU）への派遣学生の追加募集について（2026年4月派遣開始分）]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=6715</link>
+            <guid isPermaLink="false">e731bc60bea26c746d98034b07bd37a1</guid>
+            <pubDate>Thu, 16 Oct 2025 03:00:00 GMT</pubDate>
+            <description><![CDATA[SSC公募型対象校のドイツ・ブランデンブルク工科大学コトブス＝ゼンフテンベルク校（BTU）について、2026年4月派遣開始分を追加募集いたします。
+添付の募集要項をよく確認の上、manabaにて応募してください。
+
+【募集内容の概要】
+留学先：ドイツ・ブランデンブルク工科大学コトブス＝ゼンフテンベルク校
+留学期間：2026年4月～2027年3月までの12ヵ月以内　
+※少なくとも1学期間以上滞在する…]]></description>
+        </item>
         <item>
             <title><![CDATA[クラス連絡会等における全学的要望にかかる対応内容の掲載について]]></title>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=6714</link>
@@ -239,15 +252,6 @@ Basically, it will be conducted in English only.
 　本学術院は、AI・ライフサイエンス・環境・法・経営など多様な分野を横断し、学問の「知の総和」を結集して社会課題の解決に挑む高度人材の育成を目的としています。
 
 この新たな大学院の開…]]></description>
-        </item>
-        <item>
-            <title><![CDATA[【周知】「全国型CTFコンテスト」開催について]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=6691</link>
-            <guid isPermaLink="false">ac6e430d5a3f0c0db3258124800b78ff</guid>
-            <pubDate>Fri, 10 Oct 2025 03:00:00 GMT</pubDate>
-            <description><![CDATA[文部科学省を通じて、総務省より、標記の件についてお知らせがありましたので、周知いたします。
-詳細は添付ファイル（詳細内容・PDF版）の通りになります。
-]]></description>
         </item>
     </channel>
 </rss>

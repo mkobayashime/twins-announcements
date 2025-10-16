@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "e731bc60bea26c746d98034b07bd37a1",
+            "content_html": "SSC公募型対象校のドイツ・ブランデンブルク工科大学コトブス＝ゼンフテンベルク校（BTU）について、2026年4月派遣開始分を追加募集いたします。\n添付の募集要項をよく確認の上、manabaにて応募してください。\n\n【募集内容の概要】\n留学先：ドイツ・ブランデンブルク工科大学コトブス＝ゼンフテンベルク校\n留学期間：2026年4月～2027年3月までの12ヵ月以内　\n※少なくとも1学期間以上滞在する…",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=6715",
+            "title": "【派遣学生募集】ドイツ・ブランデンブルク工科大学コトブス＝ゼンフテンベルク校（BTU）への派遣学生の追加募集について（2026年4月派遣開始分）",
+            "date_modified": "2025-10-16T03:00:00.000Z"
+        },
+        {
             "id": "8bfe9848b08f49854816634e672adea8",
             "content_html": "クラス連絡会等における全学的要望への対応内容について、令和７年度上半期に\nエリア支援室等から提出され、担当部署から回答があったものを学生生活関係HPに\n掲載いたしました。\n\n※学生生活関係HPは学内専用となっております。",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=6714",
@@ -135,13 +142,6 @@
             "content_html": "学生の皆さんへ\n\n　平素より筑波大学の教育・研究活動にご理解とご協力をいただき、ありがとうございます。\n本学では、急速に変化する社会課題に応えるため、新たに 「学際創成学術院（仮称）」 を設置する構想を進めています。\n　本学術院は、AI・ライフサイエンス・環境・法・経営など多様な分野を横断し、学問の「知の総和」を結集して社会課題の解決に挑む高度人材の育成を目的としています。\n\nこの新たな大学院の開…",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=6692",
             "title": "筑波大学の新しい大学院「学際創成学術院（仮称）」に関するアンケートへのご協力のお願い",
-            "date_modified": "2025-10-10T03:00:00.000Z"
-        },
-        {
-            "id": "ac6e430d5a3f0c0db3258124800b78ff",
-            "content_html": "文部科学省を通じて、総務省より、標記の件についてお知らせがありましたので、周知いたします。\n詳細は添付ファイル（詳細内容・PDF版）の通りになります。\n",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=6691",
-            "title": "【周知】「全国型CTFコンテスト」開催について",
             "date_modified": "2025-10-10T03:00:00.000Z"
         }
     ]
