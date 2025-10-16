@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/mkobayashime/twins-announcements</id>
     <title>在学生へのお知らせ | 筑波大学</title>
-    <updated>2025-10-16T03:16:16.501Z</updated>
+    <updated>2025-10-16T07:01:44.229Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://github.com/mkobayashime/twins-announcements"/>
     <subtitle>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</subtitle>
+    <entry>
+        <title type="html"><![CDATA[クラス連絡会等における全学的要望にかかる対応内容の掲載について]]></title>
+        <id>8bfe9848b08f49854816634e672adea8</id>
+        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=6714"/>
+        <updated>2025-10-16T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[クラス連絡会等における全学的要望への対応内容について、令和７年度上半期に
+エリア支援室等から提出され、担当部署から回答があったものを学生生活関係HPに
+掲載いたしました。
+
+※学生生活関係HPは学内専用となっております。]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【留学フェア2025年秋】2025年11月10日（月）～11月19日（水）（場所：スチューデント・コモンズ（1A203）※一部オンライン開催）]]></title>
+        <id>826d5d54cccc865414e963f7ac74950b</id>
+        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=6713"/>
+        <updated>2025-10-16T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[春に大好評だった「留学フェア」を、この秋にも開催します！
+「留学に興味があるけど…」と思ったまま、なかなか前に進めないあなたの背中をそっと押すイベントです。留学に関する様々な説明会をギュギュっとまとめて開催します。一歩踏み出すヒントがきっと見つかります。ぜひお気軽にご参加ください！予約不要、筑波大生ならどなたでも参加OKです♪
+　また、実際の留学生活や協定校について、留学経験者に話を聞いてみたいと…]]></summary>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【参加者募集中】11月12日（水）オンライン面接練習会]]></title>
         <id>8c814da8ec648ae79b4aa7294ca7fc6f</id>
@@ -226,29 +246,5 @@ Basically, it will be conducted in English only.
         <summary type="html"><![CDATA[文部科学省を通じて、総務省より、標記の件についてお知らせがありましたので、周知いたします。
 詳細は添付ファイル（詳細内容・PDF版）の通りになります。
 ]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【周知】第67回（令和７年度）「教育・文化週間」の実施について]]></title>
-        <id>2edc0891f15cc0cb0c6f187569f9b2fc</id>
-        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=6690"/>
-        <updated>2025-10-10T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[文部科学省より、標記の件についてお知らせがありましたので、周知いたします。
-詳細は以下のポスターからご確認ください。
-
-第67回（令和7年度）「教育・文化週間」： 11月1日（土）～11月7日（金）
-]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[（BHE)10/14 労働法セミナー「その会社大丈夫？就職前に知るべき働くルール」]]></title>
-        <id>20208bbf309282ae0d55055aa1fa1b10</id>
-        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=6687"/>
-        <updated>2025-10-10T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[15日からの業界研究会のプレイベントとして、学生の内に知っておくべき労働法を学ぶセミナーを開催します。
-元大手企業人事担当で、現社会保険労務士の増田豊氏をお招きして「働くルール」をわかりやすく解説していただきます。
-タイトルだけでは少々とっつきにくイメージがありますが、
-知っておくと今後のアルバイトや就活で役立つことがたくさんあります。
-自衛はまずは知識から。ぜひ学生の内に学んでください。
-
-＜内…]]></summary>
     </entry>
 </feed>
