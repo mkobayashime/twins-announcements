@@ -2,10 +2,25 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/mkobayashime/twins-announcements</id>
     <title>在学生へのお知らせ | 筑波大学</title>
-    <updated>2025-10-15T21:07:00.015Z</updated>
+    <updated>2025-10-16T01:29:30.212Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://github.com/mkobayashime/twins-announcements"/>
     <subtitle>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</subtitle>
+    <entry>
+        <title type="html"><![CDATA[【奨学金/Scholarship】公益財団法人 千本財団 / Frances & Sachio Semmoto Foundation]]></title>
+        <id>5dfd0ccda65c4b8b97f0f0d8c658503b</id>
+        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=6710"/>
+        <updated>2025-10-16T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[公益財団法人　千本財団 (2026年度春季募集)
+応募期間：2025年10月6日(月)～2025年12月8日(月)　※当日消印有効
+提出先　：財団へ直接応募
+募集要項：(PDF(資料1))
+財団HP：https://semmoto.or.jp/scholarship-system
+※この奨学金を受給する者は、受給期間中、他の大学推薦奨学金の申請資格がありません。
+
+
+Frances & Sachi…]]></summary>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【11/2開催】ジャーナリストカフェ in 筑波大学「メディアのあり方を考える」～情報革命に溺れないために～]]></title>
         <id>18760941939fdeeb542994ef5966428d</id>
@@ -235,17 +250,5 @@ Basically, it will be conducted in English only.
 【使用言語】 英語及びスペイン語（スペイン語のレベルは問わない）
 【単位】 2単位（国際パートナーシップ研修（中南米））
 【応募…]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【参加学生募集】韓国での多文化共修による課題解決実習（海外）B（１単位/秋学期随時）]]></title>
-        <id>43c053c03e9051b4a01b075f159edc71</id>
-        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=6685"/>
-        <updated>2025-10-09T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[この度、ソーシャルインパクト事業の一環として、韓国・全州市を舞台としたDOJO（道場）型の多文化共修プログラムを実施することとしましたので、下記の通りご案内いたします。関心のある多くの学生の履修をお待ちしております。
-
-この授業の履修は先着順です。希望する学生は、申込フォームより必要情報を登録してください。履修登録は参加決定者に対し事務室で行います。
-
-＜授業名＞
-【8331183】多文化共修によ…]]></summary>
     </entry>
 </feed>
