@@ -4,7 +4,7 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Thu, 16 Oct 2025 09:09:10 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 16 Oct 2025 15:08:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
@@ -20,26 +20,6 @@
 留学先：ドイツ・ブランデンブルク工科大学コトブス＝ゼンフテンベルク校
 留学期間：2026年4月～2027年3月までの12ヵ月以内　
 ※少なくとも1学期間以上滞在する…]]></description>
-        </item>
-        <item>
-            <title><![CDATA[クラス連絡会等における全学的要望にかかる対応内容の掲載について]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=6714</link>
-            <guid isPermaLink="false">8bfe9848b08f49854816634e672adea8</guid>
-            <pubDate>Thu, 16 Oct 2025 03:00:00 GMT</pubDate>
-            <description><![CDATA[クラス連絡会等における全学的要望への対応内容について、令和７年度上半期に
-エリア支援室等から提出され、担当部署から回答があったものを学生生活関係HPに
-掲載いたしました。
-
-※学生生活関係HPは学内専用となっております。]]></description>
-        </item>
-        <item>
-            <title><![CDATA[【留学フェア2025年秋】2025年11月10日（月）～11月19日（水）（場所：スチューデント・コモンズ（1A203）※一部オンライン開催）]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=6713</link>
-            <guid isPermaLink="false">826d5d54cccc865414e963f7ac74950b</guid>
-            <pubDate>Thu, 16 Oct 2025 03:00:00 GMT</pubDate>
-            <description><![CDATA[春に大好評だった「留学フェア」を、この秋にも開催します！
-「留学に興味があるけど…」と思ったまま、なかなか前に進めないあなたの背中をそっと押すイベントです。留学に関する様々な説明会をギュギュっとまとめて開催します。一歩踏み出すヒントがきっと見つかります。ぜひお気軽にご参加ください！予約不要、筑波大生ならどなたでも参加OKです♪
-　また、実際の留学生活や協定校について、留学経験者に話を聞いてみたいと…]]></description>
         </item>
         <item>
             <title><![CDATA[【参加者募集中】11月12日（水）オンライン面接練習会]]></title>
@@ -252,6 +232,26 @@ Basically, it will be conducted in English only.
 　本学術院は、AI・ライフサイエンス・環境・法・経営など多様な分野を横断し、学問の「知の総和」を結集して社会課題の解決に挑む高度人材の育成を目的としています。
 
 この新たな大学院の開…]]></description>
+        </item>
+        <item>
+            <title><![CDATA[【周知】「全国型CTFコンテスト」開催について]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=6691</link>
+            <guid isPermaLink="false">ac6e430d5a3f0c0db3258124800b78ff</guid>
+            <pubDate>Fri, 10 Oct 2025 03:00:00 GMT</pubDate>
+            <description><![CDATA[文部科学省を通じて、総務省より、標記の件についてお知らせがありましたので、周知いたします。
+詳細は添付ファイル（詳細内容・PDF版）の通りになります。
+]]></description>
+        </item>
+        <item>
+            <title><![CDATA[【周知】第67回（令和７年度）「教育・文化週間」の実施について]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=6690</link>
+            <guid isPermaLink="false">2edc0891f15cc0cb0c6f187569f9b2fc</guid>
+            <pubDate>Fri, 10 Oct 2025 03:00:00 GMT</pubDate>
+            <description><![CDATA[文部科学省より、標記の件についてお知らせがありましたので、周知いたします。
+詳細は以下のポスターからご確認ください。
+
+第67回（令和7年度）「教育・文化週間」： 11月1日（土）～11月7日（金）
+]]></description>
         </item>
     </channel>
 </rss>
