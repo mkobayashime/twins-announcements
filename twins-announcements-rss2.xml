@@ -4,10 +4,27 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Fri, 17 Oct 2025 06:01:47 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 17 Oct 2025 07:01:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
+        <item>
+            <title><![CDATA[（再掲）【SNSについて聞かせてください！】図書館公式SNSアカウント運用検討のためのアンケート実施中（10/6-10/27）]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=6720</link>
+            <guid isPermaLink="false">65d17bc8e5166c7987a8e1387aef39de</guid>
+            <pubDate>Fri, 17 Oct 2025 03:00:00 GMT</pubDate>
+            <description><![CDATA[附属図書館では、公式SNSアカウントの運用について検討しています。
+検討の参考にするため、アンケートへのご協力をお願いします。
+（設問は3問のみ、すぐ終わります！）
+
+▼ウェブフォームから回答
+下記のURLからご回答ください。
+
+▼中央図書館で回答
+中央図書館本館2階ギャラリーゾーン（全学計算機側）にて、シールを貼って投票いただけます。
+
+皆さんの声をもとに、よりよい広報活動を目指してまいります。…]]></description>
+        </item>
         <item>
             <title><![CDATA[個別キャリア相談スケジュール公開中（～10/31）]]></title>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=6719</link>
@@ -245,15 +262,6 @@ Basically, it will be conducted in English only.
 自衛はまずは知識から。ぜひ学生の内に学んでください。
 
 ＜内容…]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Popularize Science! – Bringing Science Closer to Everyone!]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=6694</link>
-            <guid isPermaLink="false">c480b852964f122510a3c61a283cc970</guid>
-            <pubDate>Fri, 10 Oct 2025 03:00:00 GMT</pubDate>
-            <description><![CDATA[子どもたちに科学の楽しさを伝えるには？体験型イベント「Popularize Science!」を開催します！
-科学教育やアウトリーチ活動に関心のある方、英語でのコミュニケーションや実験・プレゼンテーションスキルを磨きたい方にぴったりのプログラムです。
-ポリマー素材を使った実験デモンストレーションを通じて、科学の魅力を中高生に伝えるための練習をしてみませんか。科学の楽しさを共有しながら、自身のスキル…]]></description>
         </item>
     </channel>
 </rss>

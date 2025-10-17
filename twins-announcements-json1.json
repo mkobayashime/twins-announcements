@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "65d17bc8e5166c7987a8e1387aef39de",
+            "content_html": "附属図書館では、公式SNSアカウントの運用について検討しています。\n検討の参考にするため、アンケートへのご協力をお願いします。\n（設問は3問のみ、すぐ終わります！）\n\n▼ウェブフォームから回答\n下記のURLからご回答ください。\n\n▼中央図書館で回答\n中央図書館本館2階ギャラリーゾーン（全学計算機側）にて、シールを貼って投票いただけます。\n\n皆さんの声をもとに、よりよい広報活動を目指してまいります。…",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=6720",
+            "title": "（再掲）【SNSについて聞かせてください！】図書館公式SNSアカウント運用検討のためのアンケート実施中（10/6-10/27）",
+            "date_modified": "2025-10-17T03:00:00.000Z"
+        },
+        {
             "id": "bc3c7c1c84a0b929641c0b5a0182657c",
             "content_html": "BHEでは土日祝を除く毎日、個別キャリア相談を実施しています。\n就活中の皆さんはもちろん、どんなキャリアを進んでいきたいか誰かに話を聞いて欲しいという皆さんもぜひ利用してください。\nキャリアコンサルタントが相談員として対応いたします（全員国家資格所持）。\n秘密厳守です。お気軽にご利用ください（基本的に午前はオンライン、午後は対面での相談です）。\n\n相談申し込みフォーム（相談日時選択をクリックして希…",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=6719",
@@ -136,13 +143,6 @@
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=6696",
             "title": "（BHE)本日開催！申込可「その会社大丈夫？就職前に知るべき働くルール」",
             "date_modified": "2025-10-14T03:00:00.000Z"
-        },
-        {
-            "id": "c480b852964f122510a3c61a283cc970",
-            "content_html": "子どもたちに科学の楽しさを伝えるには？体験型イベント「Popularize Science!」を開催します！\n科学教育やアウトリーチ活動に関心のある方、英語でのコミュニケーションや実験・プレゼンテーションスキルを磨きたい方にぴったりのプログラムです。\nポリマー素材を使った実験デモンストレーションを通じて、科学の魅力を中高生に伝えるための練習をしてみませんか。科学の楽しさを共有しながら、自身のスキル…",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=6694",
-            "title": "Popularize Science! – Bringing Science Closer to Everyone!",
-            "date_modified": "2025-10-10T03:00:00.000Z"
         }
     ]
 }
