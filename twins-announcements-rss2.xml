@@ -4,10 +4,22 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Fri, 17 Oct 2025 05:01:45 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 17 Oct 2025 06:01:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
+        <item>
+            <title><![CDATA[個別キャリア相談スケジュール公開中（～10/31）]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=6719</link>
+            <guid isPermaLink="false">bc3c7c1c84a0b929641c0b5a0182657c</guid>
+            <pubDate>Fri, 17 Oct 2025 03:00:00 GMT</pubDate>
+            <description><![CDATA[BHEでは土日祝を除く毎日、個別キャリア相談を実施しています。
+就活中の皆さんはもちろん、どんなキャリアを進んでいきたいか誰かに話を聞いて欲しいという皆さんもぜひ利用してください。
+キャリアコンサルタントが相談員として対応いたします（全員国家資格所持）。
+秘密厳守です。お気軽にご利用ください（基本的に午前はオンライン、午後は対面での相談です）。
+
+相談申し込みフォーム（相談日時選択をクリックして希…]]></description>
+        </item>
         <item>
             <title><![CDATA[【BHE主催】リアルキャリアトーク ～障害学生と企業をつなぐ～]]></title>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=6718</link>
@@ -242,18 +254,6 @@ Basically, it will be conducted in English only.
             <description><![CDATA[子どもたちに科学の楽しさを伝えるには？体験型イベント「Popularize Science!」を開催します！
 科学教育やアウトリーチ活動に関心のある方、英語でのコミュニケーションや実験・プレゼンテーションスキルを磨きたい方にぴったりのプログラムです。
 ポリマー素材を使った実験デモンストレーションを通じて、科学の魅力を中高生に伝えるための練習をしてみませんか。科学の楽しさを共有しながら、自身のスキル…]]></description>
-        </item>
-        <item>
-            <title><![CDATA[個別キャリア相談スケジュール公開中（～10/24）]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=6693</link>
-            <guid isPermaLink="false">3ed696799fb4ba2c85b86d3e57075b9a</guid>
-            <pubDate>Fri, 10 Oct 2025 03:00:00 GMT</pubDate>
-            <description><![CDATA[BHEでは土日祝を除く毎日、個別キャリア相談を実施しています。
-就活中の皆さんはもちろん、どんなキャリアを進んでいきたいか誰かに話を聞いて欲しいという皆さんもぜひ利用してください。
-キャリアコンサルタントが相談員として対応いたします（全員国家資格所持）。
-秘密厳守です。お気軽にご利用ください（基本的に午前はオンライン、午後は対面での相談です）。
-
-相談申し込みフォーム（相談日時選択をクリックして希…]]></description>
         </item>
     </channel>
 </rss>

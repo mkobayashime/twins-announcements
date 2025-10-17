@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/mkobayashime/twins-announcements</id>
     <title>在学生へのお知らせ | 筑波大学</title>
-    <updated>2025-10-17T05:01:45.915Z</updated>
+    <updated>2025-10-17T06:01:47.032Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://github.com/mkobayashime/twins-announcements"/>
     <subtitle>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</subtitle>
+    <entry>
+        <title type="html"><![CDATA[個別キャリア相談スケジュール公開中（～10/31）]]></title>
+        <id>bc3c7c1c84a0b929641c0b5a0182657c</id>
+        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=6719"/>
+        <updated>2025-10-17T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[BHEでは土日祝を除く毎日、個別キャリア相談を実施しています。
+就活中の皆さんはもちろん、どんなキャリアを進んでいきたいか誰かに話を聞いて欲しいという皆さんもぜひ利用してください。
+キャリアコンサルタントが相談員として対応いたします（全員国家資格所持）。
+秘密厳守です。お気軽にご利用ください（基本的に午前はオンライン、午後は対面での相談です）。
+
+相談申し込みフォーム（相談日時選択をクリックして希…]]></summary>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【BHE主催】リアルキャリアトーク ～障害学生と企業をつなぐ～]]></title>
         <id>83f8d21c4db3bd715e9464bc127e6486</id>
@@ -240,17 +252,5 @@ Basically, it will be conducted in English only.
         <summary type="html"><![CDATA[子どもたちに科学の楽しさを伝えるには？体験型イベント「Popularize Science!」を開催します！
 科学教育やアウトリーチ活動に関心のある方、英語でのコミュニケーションや実験・プレゼンテーションスキルを磨きたい方にぴったりのプログラムです。
 ポリマー素材を使った実験デモンストレーションを通じて、科学の魅力を中高生に伝えるための練習をしてみませんか。科学の楽しさを共有しながら、自身のスキル…]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[個別キャリア相談スケジュール公開中（～10/24）]]></title>
-        <id>3ed696799fb4ba2c85b86d3e57075b9a</id>
-        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=6693"/>
-        <updated>2025-10-10T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[BHEでは土日祝を除く毎日、個別キャリア相談を実施しています。
-就活中の皆さんはもちろん、どんなキャリアを進んでいきたいか誰かに話を聞いて欲しいという皆さんもぜひ利用してください。
-キャリアコンサルタントが相談員として対応いたします（全員国家資格所持）。
-秘密厳守です。お気軽にご利用ください（基本的に午前はオンライン、午後は対面での相談です）。
-
-相談申し込みフォーム（相談日時選択をクリックして希…]]></summary>
     </entry>
 </feed>
