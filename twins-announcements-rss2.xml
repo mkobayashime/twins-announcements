@@ -4,10 +4,21 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Mon, 20 Oct 2025 03:22:50 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 20 Oct 2025 05:01:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
+        <item>
+            <title><![CDATA[OBOGキャリアカフェ ～卒業生に聞く！ 職種（仕事）研究 【地方公務員編】～]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=6728</link>
+            <guid isPermaLink="false">119de1191f946b5a9d395bfd2b02e4f4</guid>
+            <pubDate>Mon, 20 Oct 2025 03:00:00 GMT</pubDate>
+            <description><![CDATA[「OB・OGキャリアカフェ」は、筑波大学の卒業生が大学内に集まり、学生のみなさんとキャリアや就職について交流する機会です。これまでに13回開催し、学生の参加者満足度は96.9％となっています。
+今回は、1C棟教室で対面開催です！
+
+今回はその第一段として、筑波大生の就職先として人気がある「茨城県庁（地方公務員）」を取り上げます。
+参加予定の卒業生の方は、同じ茨城県庁職員ですが、部署が異なる6名（文…]]></description>
+        </item>
         <item>
             <title><![CDATA[【11/12（水）21：00オンライン開催】メーカーで活躍するOBOGと話そう！ぶっちゃけ相談会参加者募集]]></title>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=6727</link>
@@ -245,19 +256,6 @@ Routine inspections on electrical…]]></description>
 BHEキャリア支援チームのファシリテーターからフィードバックがあります。 （日本語での開催です）
 【詳細と申込み】
 ＜対…]]></description>
-        </item>
-        <item>
-            <title><![CDATA[【奨学金/Scholarship】渡邉利三国際奨学金 奨学生募集 / The Toshizo Watanabe International Scholarship 2026]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=6702</link>
-            <guid isPermaLink="false">fd8f0c4420b416ca1a0cd5e619f63881</guid>
-            <pubDate>Wed, 15 Oct 2025 03:00:00 GMT</pubDate>
-            <description><![CDATA[渡邉利三国際奨学金（パスウェイズ・ジャパン）　奨学生募集（2026年度）
-※主な対象：難民、避難民
-応募期間：2025年10月27日(月)～2026年1月5日(月)
-提出先：直接応募
-募集案内：(PDF(資料1))
-財団HP：https://pathways-j.org/twis_2026
-※奨学金のオンライン説明会が2025年10月24日（金）と2025年11月25日（火）に開催されます。参加を…]]></description>
         </item>
     </channel>
 </rss>
