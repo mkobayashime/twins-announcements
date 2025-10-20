@@ -4,7 +4,7 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Mon, 20 Oct 2025 15:01:52 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 20 Oct 2025 15:08:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
@@ -48,9 +48,11 @@ Due to scheduled power outages, some libraries (Central, Medical and A&PE) will 
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=6724</link>
             <guid isPermaLink="false">826d5d54cccc865414e963f7ac74950b</guid>
             <pubDate>Mon, 20 Oct 2025 03:00:00 GMT</pubDate>
-            <description><![CDATA[春に大好評だった「留学フェア」を、この秋にも開催します！
-「留学に興味があるけど…」と思ったまま、なかなか前に進めないあなたの背中をそっと押すイベントです。留学に関する様々な説明会をギュギュっとまとめて開催します。一歩踏み出すヒントがきっと見つかります。ぜひお気軽にご参加ください！予約不要、筑波大生ならどなたでも参加OKです♪
-　また、実際の留学生活や協定校について、留学経験者に話を聞いてみたいと…]]></description>
+            <description><![CDATA[電気設備点検に伴う全学停電のため、10月25日(土)と26日(日)に休館となる図書館があります（中央・体芸・医学）。
+Webサービスへの影響はない予定です。
+利用者の皆様にはご不便をおかけしますが、ご協力をお願いいたします。
+
+Due to scheduled power outages, some libraries (Central, Medical and A&PE) will be clo…]]></description>
         </item>
         <item>
             <title><![CDATA[【参加者募集】済州での多文化共修による課題解決実習（海外）B]]></title>
