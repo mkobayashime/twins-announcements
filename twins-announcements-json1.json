@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "83f8d21c4db3bd715e9464bc127e6486",
+            "content_html": "株式会社日立ハイテク、日本イーライリリー、朝日新聞社より人事担当者と先輩社員をお招きして、企業が実践する多様性の取り組みや若手社員による体験談などをお話しいただきます。\n進路選択に悩んでいる方、さまざまなキャリアパスを知りたい方、また障がいをもちながら社会で働くことをイメージしたい方はぜひご参加ください。\n\n自分らしく働くことについてお話を聞いてみませんか？\n障害の有無にかかわらず、お気軽にご参加…",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=6731",
+            "title": "【BHE主催】リアルキャリアトーク ～障害学生と企業をつなぐ～",
+            "date_modified": "2025-10-21T03:00:00.000Z"
+        },
+        {
             "id": "9e41867f38b8663c99e983727f0726de",
             "content_html": "筑波大学校友会は、「総合科目×校友会主催×全代会協力イベント 飲料業界探訪」を開催いたします。\n「総合科目：卒業生による業界探訪」に履修登録のない方も参加可能です！\n\n日時：令和7年10月30日（木）講義16:45～18：00、懇親会18：15～19：30\n場所： 講義 ID201教室、懇親会 スープファクトリー\n内容：本学卒業生で、ニッカウヰスキー株式会社 常勤顧問の佐藤氏をお招きし、飲料業界に…",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=6730",
@@ -135,13 +142,6 @@
             "content_html": "海外渡航システム（TRIP）のメンテナンス作業に伴い、システムの運用を下記の日程で休止します。\n作業完了次第、運用を再開いたします。ご迷惑をおかけしますが、どうぞよろしくお願いいたします。\n\n※作業の進捗によっては、システムの休止期間が延長される場合があります。\n※休止期間中は、TRIPに登録された渡航者の安否確認を、海外危機管理アドレス（gc-assistance@un.tsukuba.ac.j…",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=6705",
             "title": "【通知】海外渡航システム（TRIP）運用休止について（2025/10/21（火）17:00～10/22（水）17:00（予定））",
-            "date_modified": "2025-10-15T03:00:00.000Z"
-        },
-        {
-            "id": "8026adb320e5b9e2e8555255dc34ecc0",
-            "content_html": "TWINS・KdB利用者各位\n\n令和７年度全学停電に伴い、以下の期間TWINSおよびKdBのサービスを休止いたします。\nご迷惑をおかけしますが、ご協力をお願いします。\n\nTWINS・KdB運転休止期間：\n令和７年10月24日(金)　午後５時　から　10月27日(月)　午前10時　まで\n※27日は動作確認が完了次第復旧いたします。\n\nRoutine inspections on electrical…",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=6704",
-            "title": "【通知】令和７年度全学停電に伴うTWINSおよびKdB休止のお知らせ（10/24(金)午後５時～10/27(月)午前10時まで）",
             "date_modified": "2025-10-15T03:00:00.000Z"
         }
     ]

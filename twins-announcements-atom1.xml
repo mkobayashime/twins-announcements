@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/mkobayashime/twins-announcements</id>
     <title>在学生へのお知らせ | 筑波大学</title>
-    <updated>2025-10-21T03:17:25.679Z</updated>
+    <updated>2025-10-21T04:01:48.995Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://github.com/mkobayashime/twins-announcements"/>
     <subtitle>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</subtitle>
+    <entry>
+        <title type="html"><![CDATA[【BHE主催】リアルキャリアトーク ～障害学生と企業をつなぐ～]]></title>
+        <id>83f8d21c4db3bd715e9464bc127e6486</id>
+        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=6731"/>
+        <updated>2025-10-21T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[株式会社日立ハイテク、日本イーライリリー、朝日新聞社より人事担当者と先輩社員をお招きして、企業が実践する多様性の取り組みや若手社員による体験談などをお話しいただきます。
+進路選択に悩んでいる方、さまざまなキャリアパスを知りたい方、また障がいをもちながら社会で働くことをイメージしたい方はぜひご参加ください。
+
+自分らしく働くことについてお話を聞いてみませんか？
+障害の有無にかかわらず、お気軽にご参加…]]></summary>
+    </entry>
     <entry>
         <title type="html"><![CDATA[「総合科目×校友会主催×全代会協力イベント 飲料業界探訪」のご案内]]></title>
         <id>9e41867f38b8663c99e983727f0726de</id>
@@ -236,21 +247,5 @@ We apologize for any inconvenience this may cause.
 
 ※作業の進捗によっては、システムの休止期間が延長される場合があります。
 ※休止期間中は、TRIPに登録された渡航者の安否確認を、海外危機管理アドレス（gc-assistance@un.tsukuba.ac.j…]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【通知】令和７年度全学停電に伴うTWINSおよびKdB休止のお知らせ（10/24(金)午後５時～10/27(月)午前10時まで）]]></title>
-        <id>8026adb320e5b9e2e8555255dc34ecc0</id>
-        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=6704"/>
-        <updated>2025-10-15T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[TWINS・KdB利用者各位
-
-令和７年度全学停電に伴い、以下の期間TWINSおよびKdBのサービスを休止いたします。
-ご迷惑をおかけしますが、ご協力をお願いします。
-
-TWINS・KdB運転休止期間：
-令和７年10月24日(金)　午後５時　から　10月27日(月)　午前10時　まで
-※27日は動作確認が完了次第復旧いたします。
-
-Routine inspections on electrical…]]></summary>
     </entry>
 </feed>
