@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/mkobayashime/twins-announcements</id>
     <title>在学生へのお知らせ | 筑波大学</title>
-    <updated>2025-10-21T06:01:57.974Z</updated>
+    <updated>2025-10-21T07:01:52.525Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://github.com/mkobayashime/twins-announcements"/>
     <subtitle>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</subtitle>
+    <entry>
+        <title type="html"><![CDATA[２０２５年度海外留学支援制度（JASSO） 大学の国際化によるソーシャルインパクト創出支援事業タイプII （協定派遣）交換留学募集要項]]></title>
+        <id>08fd4ee31f64846c354104d457c195af</id>
+        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=6733"/>
+        <updated>2025-10-21T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[文部科学省「大学の国際化によるソーシャルインパクト創出支援事業」の採択校として、日本学生支援機構（JASSO）より重点政策枠の配分を受けております。この重点政策枠により、本学と学生交流協定を締結している海外の大学等に留学する者のうち、条件を満たす者に対して奨学金を支給することができます。
+
+留学期間：2026年1月1日から2026年3月31日までに留学期間が開始（移動日を除く）し、かつ、1年以内の…]]></summary>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【周知】【茨城県警察本部生活安全総務課】いばらき防犯ファイルについて]]></title>
         <id>76297db2351566babdc5076f5178a31d</id>
@@ -236,15 +245,5 @@ Frances & Sachi…]]></summary>
 ・応募可能な協定校：URL先の 「2026年秋学期渡航分協定校一覧」を参照
 ・応募締切：2025年12月17日（水）8時半
 …]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Temporary Suspension of Overseas Travel System ”TRIP” (Oct 21, 2025 17:00 - Oct 22, 2025 17:00)]]></title>
-        <id>01cf8b83105c051738a9d2f1419df741</id>
-        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=6706"/>
-        <updated>2025-10-15T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Due to system maintenance, the Overseas Travel System "TRIP" will not be available during the time specified below.
-We apologize for any inconvenience this may cause.
-
-＊Please note：the suspension peri…]]></summary>
     </entry>
 </feed>

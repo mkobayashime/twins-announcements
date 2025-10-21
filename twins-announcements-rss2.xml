@@ -4,10 +4,19 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Tue, 21 Oct 2025 06:01:57 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 21 Oct 2025 07:01:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
+        <item>
+            <title><![CDATA[２０２５年度海外留学支援制度（JASSO） 大学の国際化によるソーシャルインパクト創出支援事業タイプII （協定派遣）交換留学募集要項]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=6733</link>
+            <guid isPermaLink="false">08fd4ee31f64846c354104d457c195af</guid>
+            <pubDate>Tue, 21 Oct 2025 03:00:00 GMT</pubDate>
+            <description><![CDATA[文部科学省「大学の国際化によるソーシャルインパクト創出支援事業」の採択校として、日本学生支援機構（JASSO）より重点政策枠の配分を受けております。この重点政策枠により、本学と学生交流協定を締結している海外の大学等に留学する者のうち、条件を満たす者に対して奨学金を支給することができます。
+
+留学期間：2026年1月1日から2026年3月31日までに留学期間が開始（移動日を除く）し、かつ、1年以内の…]]></description>
+        </item>
         <item>
             <title><![CDATA[【周知】【茨城県警察本部生活安全総務課】いばらき防犯ファイルについて]]></title>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=6732</link>
@@ -238,16 +247,6 @@ Frances & Sachi…]]></description>
 ・応募可能な協定校：URL先の 「2026年秋学期渡航分協定校一覧」を参照
 ・応募締切：2025年12月17日（水）8時半
 …]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Temporary Suspension of Overseas Travel System ”TRIP” (Oct 21, 2025 17:00 - Oct 22, 2025 17:00)]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=6706</link>
-            <guid isPermaLink="false">01cf8b83105c051738a9d2f1419df741</guid>
-            <pubDate>Wed, 15 Oct 2025 03:00:00 GMT</pubDate>
-            <description><![CDATA[Due to system maintenance, the Overseas Travel System "TRIP" will not be available during the time specified below.
-We apologize for any inconvenience this may cause.
-
-＊Please note：the suspension peri…]]></description>
         </item>
     </channel>
 </rss>
