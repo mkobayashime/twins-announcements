@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/mkobayashime/twins-announcements</id>
     <title>在学生へのお知らせ | 筑波大学</title>
-    <updated>2025-10-21T04:01:48.995Z</updated>
+    <updated>2025-10-21T06:01:57.974Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://github.com/mkobayashime/twins-announcements"/>
     <subtitle>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</subtitle>
+    <entry>
+        <title type="html"><![CDATA[【周知】【茨城県警察本部生活安全総務課】いばらき防犯ファイルについて]]></title>
+        <id>76297db2351566babdc5076f5178a31d</id>
+        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=6732"/>
+        <updated>2025-10-21T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[茨城県警察本部生活安全総務課より、いばらき防犯ファイル（令和7年9月末）の送付がありましたので、添付のとおり掲載いたします。
+
+本ファイルは、県内で実際に発生した犯罪の情報のほか、防犯対策に役立つ情報が含まれております。ご自身の安全のためにも、ぜひご確認ください。
+]]></summary>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【BHE主催】リアルキャリアトーク ～障害学生と企業をつなぐ～]]></title>
         <id>83f8d21c4db3bd715e9464bc127e6486</id>
@@ -236,16 +246,5 @@ Frances & Sachi…]]></summary>
 We apologize for any inconvenience this may cause.
 
 ＊Please note：the suspension peri…]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【通知】海外渡航システム（TRIP）運用休止について（2025/10/21（火）17:00～10/22（水）17:00（予定））]]></title>
-        <id>73463d2958fee29999c033ed4c6c71b2</id>
-        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=6705"/>
-        <updated>2025-10-15T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[海外渡航システム（TRIP）のメンテナンス作業に伴い、システムの運用を下記の日程で休止します。
-作業完了次第、運用を再開いたします。ご迷惑をおかけしますが、どうぞよろしくお願いいたします。
-
-※作業の進捗によっては、システムの休止期間が延長される場合があります。
-※休止期間中は、TRIPに登録された渡航者の安否確認を、海外危機管理アドレス（gc-assistance@un.tsukuba.ac.j…]]></summary>
     </entry>
 </feed>

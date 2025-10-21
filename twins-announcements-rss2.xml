@@ -4,10 +4,20 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Tue, 21 Oct 2025 04:01:48 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 21 Oct 2025 06:01:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
+        <item>
+            <title><![CDATA[【周知】【茨城県警察本部生活安全総務課】いばらき防犯ファイルについて]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=6732</link>
+            <guid isPermaLink="false">76297db2351566babdc5076f5178a31d</guid>
+            <pubDate>Tue, 21 Oct 2025 03:00:00 GMT</pubDate>
+            <description><![CDATA[茨城県警察本部生活安全総務課より、いばらき防犯ファイル（令和7年9月末）の送付がありましたので、添付のとおり掲載いたします。
+
+本ファイルは、県内で実際に発生した犯罪の情報のほか、防犯対策に役立つ情報が含まれております。ご自身の安全のためにも、ぜひご確認ください。
+]]></description>
+        </item>
         <item>
             <title><![CDATA[【BHE主催】リアルキャリアトーク ～障害学生と企業をつなぐ～]]></title>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=6731</link>
@@ -238,17 +248,6 @@ Frances & Sachi…]]></description>
 We apologize for any inconvenience this may cause.
 
 ＊Please note：the suspension peri…]]></description>
-        </item>
-        <item>
-            <title><![CDATA[【通知】海外渡航システム（TRIP）運用休止について（2025/10/21（火）17:00～10/22（水）17:00（予定））]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=6705</link>
-            <guid isPermaLink="false">73463d2958fee29999c033ed4c6c71b2</guid>
-            <pubDate>Wed, 15 Oct 2025 03:00:00 GMT</pubDate>
-            <description><![CDATA[海外渡航システム（TRIP）のメンテナンス作業に伴い、システムの運用を下記の日程で休止します。
-作業完了次第、運用を再開いたします。ご迷惑をおかけしますが、どうぞよろしくお願いいたします。
-
-※作業の進捗によっては、システムの休止期間が延長される場合があります。
-※休止期間中は、TRIPに登録された渡航者の安否確認を、海外危機管理アドレス（gc-assistance@un.tsukuba.ac.j…]]></description>
         </item>
     </channel>
 </rss>

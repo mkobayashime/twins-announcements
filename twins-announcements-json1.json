@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "76297db2351566babdc5076f5178a31d",
+            "content_html": "茨城県警察本部生活安全総務課より、いばらき防犯ファイル（令和7年9月末）の送付がありましたので、添付のとおり掲載いたします。\n\n本ファイルは、県内で実際に発生した犯罪の情報のほか、防犯対策に役立つ情報が含まれております。ご自身の安全のためにも、ぜひご確認ください。\n",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=6732",
+            "title": "【周知】【茨城県警察本部生活安全総務課】いばらき防犯ファイルについて",
+            "date_modified": "2025-10-21T03:00:00.000Z"
+        },
+        {
             "id": "83f8d21c4db3bd715e9464bc127e6486",
             "content_html": "株式会社日立ハイテク、日本イーライリリー、朝日新聞社より人事担当者と先輩社員をお招きして、企業が実践する多様性の取り組みや若手社員による体験談などをお話しいただきます。\n進路選択に悩んでいる方、さまざまなキャリアパスを知りたい方、また障がいをもちながら社会で働くことをイメージしたい方はぜひご参加ください。\n\n自分らしく働くことについてお話を聞いてみませんか？\n障害の有無にかかわらず、お気軽にご参加…",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=6731",
@@ -135,13 +142,6 @@
             "content_html": "Due to system maintenance, the Overseas Travel System \"TRIP\" will not be available during the time specified below.\nWe apologize for any inconvenience this may cause.\n\n＊Please note：the suspension peri…",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=6706",
             "title": "Temporary Suspension of Overseas Travel System ”TRIP” (Oct 21, 2025 17:00 - Oct 22, 2025 17:00)",
-            "date_modified": "2025-10-15T03:00:00.000Z"
-        },
-        {
-            "id": "73463d2958fee29999c033ed4c6c71b2",
-            "content_html": "海外渡航システム（TRIP）のメンテナンス作業に伴い、システムの運用を下記の日程で休止します。\n作業完了次第、運用を再開いたします。ご迷惑をおかけしますが、どうぞよろしくお願いいたします。\n\n※作業の進捗によっては、システムの休止期間が延長される場合があります。\n※休止期間中は、TRIPに登録された渡航者の安否確認を、海外危機管理アドレス（gc-assistance@un.tsukuba.ac.j…",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=6705",
-            "title": "【通知】海外渡航システム（TRIP）運用休止について（2025/10/21（火）17:00～10/22（水）17:00（予定））",
             "date_modified": "2025-10-15T03:00:00.000Z"
         }
     ]
