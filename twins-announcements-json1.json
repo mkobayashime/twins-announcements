@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "9109c466ea0ee2c699e8756033a82989",
+            "content_html": "最近、大学構内で、正体を隠した悪質なカルト団体が勧誘してくるケースが増えています。\n\n一見楽しそうな誘い文句に応じて話をしてみると、相手は非常に言葉巧みに安心感を与え、コミュニティに勧誘してきます。一度参加してしまうと、人とのつながりができることで、怪しいと感じても断りにくい環境が作られてしまいます。\n\nこのような勧誘に遭遇した際の注意点は次の5つです。\n\n①初対面の人に対して警戒心を持つこと\n　…",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=6749",
+            "title": "カルト団体への注意喚起",
+            "date_modified": "2025-10-23T03:00:00.000Z"
+        },
+        {
             "id": "02114f9d12d64b508d4c9030b49208e9",
             "content_html": "ヒューマンバイオロジー学位プログラムでは授業の一環として「Business Leaders’ Seminar/ビジネスリーダーズセミナー」を開催しています。\n本セミナーは、世界のトップビジネスリーダーを招き、オムニバス形式でキャリア形成やビジネスに関する成功と失敗の話などの経験を紹介するものです。\n\n10月30日（木）12：15-14：15に開催するセミナーでは、１on１ Engagement I…",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=6748",
@@ -136,13 +143,6 @@
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=6729",
             "title": "「総合科目×校友会主催×全代会協力イベント 放送業界探訪」のご案内",
             "date_modified": "2025-10-21T03:00:00.000Z"
-        },
-        {
-            "id": "428967169e95709737d59870dc9a1a46",
-            "content_html": "本学の同窓会である茗溪会にて、OBOGキャリア相談会を開催します\n現在就活中の方、将来就職先に関心がある方、是非ご参加ください。\n今回の特集テーマは「体専（スポーツ）」。\n住友金属鉱山株式会社（非鉄金属）※元千葉ロッテマリーンズトレーニングコーチ\n株式会社NHKグローバルメディアサービス（マスコミ）スポーツセンター（中継業務）\n体育専門学群を卒業した先輩２名が登壇します。\n\n詳細（自己紹介・経歴等…",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=6727",
-            "title": "【11/12（水）21：00オンライン開催】メーカーで活躍するOBOGと話そう！ぶっちゃけ相談会参加者募集",
-            "date_modified": "2025-10-20T03:00:00.000Z"
         }
     ]
 }

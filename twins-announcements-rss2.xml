@@ -4,10 +4,24 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Thu, 23 Oct 2025 08:02:11 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Oct 2025 09:01:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
+        <item>
+            <title><![CDATA[カルト団体への注意喚起]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=6749</link>
+            <guid isPermaLink="false">9109c466ea0ee2c699e8756033a82989</guid>
+            <pubDate>Thu, 23 Oct 2025 03:00:00 GMT</pubDate>
+            <description><![CDATA[最近、大学構内で、正体を隠した悪質なカルト団体が勧誘してくるケースが増えています。
+
+一見楽しそうな誘い文句に応じて話をしてみると、相手は非常に言葉巧みに安心感を与え、コミュニティに勧誘してきます。一度参加してしまうと、人とのつながりができることで、怪しいと感じても断りにくい環境が作られてしまいます。
+
+このような勧誘に遭遇した際の注意点は次の5つです。
+
+①初対面の人に対して警戒心を持つこと
+　…]]></description>
+        </item>
         <item>
             <title><![CDATA[10月30日（木）12：15-14：15「Business Leaders’ Seminar/ビジネスリーダーズセミナー」開催のお知らせ （対象：全学生）]]></title>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=6748</link>
@@ -233,20 +247,6 @@ https://anzenk…]]></description>
 日時：令和7年10月23日（木）　講義16:45～18：00、懇親会18：15～19：30
 場所： 講義 ID201教室、懇親会 スープファクトリー
 内容：本学卒業生で、NHK解説委員の神子田氏をお招きし、放送業界について講義をして…]]></description>
-        </item>
-        <item>
-            <title><![CDATA[【11/12（水）21：00オンライン開催】メーカーで活躍するOBOGと話そう！ぶっちゃけ相談会参加者募集]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=6727</link>
-            <guid isPermaLink="false">428967169e95709737d59870dc9a1a46</guid>
-            <pubDate>Mon, 20 Oct 2025 03:00:00 GMT</pubDate>
-            <description><![CDATA[本学の同窓会である茗溪会にて、OBOGキャリア相談会を開催します
-現在就活中の方、将来就職先に関心がある方、是非ご参加ください。
-今回の特集テーマは「体専（スポーツ）」。
-住友金属鉱山株式会社（非鉄金属）※元千葉ロッテマリーンズトレーニングコーチ
-株式会社NHKグローバルメディアサービス（マスコミ）スポーツセンター（中継業務）
-体育専門学群を卒業した先輩２名が登壇します。
-
-詳細（自己紹介・経歴等…]]></description>
         </item>
     </channel>
 </rss>
