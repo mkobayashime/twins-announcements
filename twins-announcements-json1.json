@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "b7880d579241ff40e2e1307e4899d085",
+            "content_html": "学園祭期間中、会場内ペデストリアンデッキ上への自転車の駐輪を規制いたします。\n対象場所へ駐輪されている場合、以下の日時までに回収をお願いいたします。\nなお、指定の時間になっても駐輪されている自転車は、添付資料に示す場所に撤去いたします。\n\n〈詳細〉\n撤去日時：令和7年11月1日(土) 9:00～\nただし、石の広場西側は10月30日(木) 7:00～　※ステージ設営のため\n撤去理由：テントの設営、物…",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=6743",
+            "title": "【お知らせ】学園祭に伴う自転車の駐輪規制および撤去について　2025/10/30～",
+            "date_modified": "2025-10-23T03:00:00.000Z"
+        },
+        {
             "id": "d1a0f7b4eb91643a41653e8ab6d3f0c5",
             "content_html": "筑波大学の大学院生を対象に、「筑波大学学生生活実態調査」を実施しています。\n学習管理システムmanabaを通して回答することができます。ぜひ調査へのご協力をお願いします。\n※調査結果は統計的に処理され、個人を特定できるデータは一切公開されません。\nThe \" Survey for Student Life\" will be conducted targeting graduate students…",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=6742",
@@ -135,13 +142,6 @@
             "content_html": "附属図書館では、公式SNSアカウントの運用について検討しています。\n検討の参考にするため、アンケートへのご協力をお願いします。\n（設問は3問のみ、すぐ終わります！）\n\n▼ウェブフォームから回答\n下記のURLからご回答ください。\n\n▼中央図書館で回答\n中央図書館本館2階ギャラリーゾーン（全学計算機側）にて、シールを貼って投票いただけます。\n\n皆さんの声をもとに、よりよい広報活動を目指してまいります。…",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=6720",
             "title": "（再掲）【SNSについて聞かせてください！】図書館公式SNSアカウント運用検討のためのアンケート実施中（10/6-10/27）",
-            "date_modified": "2025-10-17T03:00:00.000Z"
-        },
-        {
-            "id": "bc3c7c1c84a0b929641c0b5a0182657c",
-            "content_html": "BHEでは土日祝を除く毎日、個別キャリア相談を実施しています。\n就活中の皆さんはもちろん、どんなキャリアを進んでいきたいか誰かに話を聞いて欲しいという皆さんもぜひ利用してください。\nキャリアコンサルタントが相談員として対応いたします（全員国家資格所持）。\n秘密厳守です。お気軽にご利用ください（基本的に午前はオンライン、午後は対面での相談です）。\n\n相談申し込みフォーム（相談日時選択をクリックして希…",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=6719",
-            "title": "個別キャリア相談スケジュール公開中（～10/31）",
             "date_modified": "2025-10-17T03:00:00.000Z"
         }
     ]

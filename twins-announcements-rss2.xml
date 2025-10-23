@@ -4,10 +4,24 @@
         <title>在学生へのお知らせ | 筑波大学</title>
         <link>https://github.com/mkobayashime/twins-announcements</link>
         <description>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</description>
-        <lastBuildDate>Wed, 22 Oct 2025 21:07:03 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Oct 2025 01:29:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
+        <item>
+            <title><![CDATA[【お知らせ】学園祭に伴う自転車の駐輪規制および撤去について　2025/10/30～]]></title>
+            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=6743</link>
+            <guid isPermaLink="false">b7880d579241ff40e2e1307e4899d085</guid>
+            <pubDate>Thu, 23 Oct 2025 03:00:00 GMT</pubDate>
+            <description><![CDATA[学園祭期間中、会場内ペデストリアンデッキ上への自転車の駐輪を規制いたします。
+対象場所へ駐輪されている場合、以下の日時までに回収をお願いいたします。
+なお、指定の時間になっても駐輪されている自転車は、添付資料に示す場所に撤去いたします。
+
+〈詳細〉
+撤去日時：令和7年11月1日(土) 9:00～
+ただし、石の広場西側は10月30日(木) 7:00～　※ステージ設営のため
+撤去理由：テントの設営、物…]]></description>
+        </item>
         <item>
             <title><![CDATA[学生生活実態調査実施中！]]></title>
             <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=6742</link>
@@ -225,18 +239,6 @@ Due to scheduled power outages, some libraries (Central, Medical and A&PE) will 
 中央図書館本館2階ギャラリーゾーン（全学計算機側）にて、シールを貼って投票いただけます。
 
 皆さんの声をもとに、よりよい広報活動を目指してまいります。…]]></description>
-        </item>
-        <item>
-            <title><![CDATA[個別キャリア相談スケジュール公開中（～10/31）]]></title>
-            <link>https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=6719</link>
-            <guid isPermaLink="false">bc3c7c1c84a0b929641c0b5a0182657c</guid>
-            <pubDate>Fri, 17 Oct 2025 03:00:00 GMT</pubDate>
-            <description><![CDATA[BHEでは土日祝を除く毎日、個別キャリア相談を実施しています。
-就活中の皆さんはもちろん、どんなキャリアを進んでいきたいか誰かに話を聞いて欲しいという皆さんもぜひ利用してください。
-キャリアコンサルタントが相談員として対応いたします（全員国家資格所持）。
-秘密厳守です。お気軽にご利用ください（基本的に午前はオンライン、午後は対面での相談です）。
-
-相談申し込みフォーム（相談日時選択をクリックして希…]]></description>
         </item>
     </channel>
 </rss>
