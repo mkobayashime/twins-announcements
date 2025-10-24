@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/mkobayashime/twins-announcements</id>
     <title>在学生へのお知らせ | 筑波大学</title>
-    <updated>2025-10-23T21:07:12.770Z</updated>
+    <updated>2025-10-24T00:02:53.407Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://github.com/mkobayashime/twins-announcements"/>
     <subtitle>TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.</subtitle>
+    <entry>
+        <title type="html"><![CDATA[全学停電及びサーバー更新作業に伴うキャリア支援チームHP及び就職情報提供システム停止のお知らせ]]></title>
+        <id>6af8409687f160bc663f71ffab216243</id>
+        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=6750"/>
+        <updated>2025-10-24T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[全学停電及びサーバー更新作業に伴い、下記の時間、就職情報提供システムが停止いたします。そのため、キャリア支援チームホームページ等へ繋がりにくくなります。
+
+【システム停止日時】10/24（金）13：15　～　10/27（月）10：00
+
+なお、「学内専用ページ」、「ガイダンス等及び模試試験登録・申請」、「進路進捗状況届」へのアクセスはできません。
+皆様にはご迷惑をおかけいたしますが、ご理解、ご協力…]]></summary>
+    </entry>
     <entry>
         <title type="html"><![CDATA[カルト団体への注意喚起]]></title>
         <id>9109c466ea0ee2c699e8756033a82989</id>
@@ -233,16 +245,5 @@ https://anzenk…]]></summary>
 体育専門学群を卒業した先輩２名が登壇します。
 
 詳細（自己紹介・経歴等…]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[（再掲）【附属図書館】全学停電による休館（10/25-26）/(Library) Temporary closure(Oct. 25-26)]]></title>
-        <id>66f554abb64c1a693e7e1741992f5c4b</id>
-        <link href="https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&amp;_campus_new_portal=true&amp;_action_id=displayPortletRequest&amp;calledFlow=keiji&amp;keijitype=4&amp;genrecd=281&amp;seqNo=6725"/>
-        <updated>2025-10-20T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[電気設備点検に伴う全学停電のため、10月25日(土)と26日(日)に休館となる図書館があります（中央・体芸・医学）。
-Webサービスへの影響はない予定です。
-利用者の皆様にはご不便をおかけしますが、ご協力をお願いいたします。
-
-Due to scheduled power outages, some libraries (Central, Medical and A&PE) will be clo…]]></summary>
     </entry>
 </feed>

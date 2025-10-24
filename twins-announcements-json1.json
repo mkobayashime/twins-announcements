@@ -5,6 +5,13 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
+            "id": "6af8409687f160bc663f71ffab216243",
+            "content_html": "全学停電及びサーバー更新作業に伴い、下記の時間、就職情報提供システムが停止いたします。そのため、キャリア支援チームホームページ等へ繋がりにくくなります。\n\n【システム停止日時】10/24（金）13：15　～　10/27（月）10：00\n\nなお、「学内専用ページ」、「ガイダンス等及び模試試験登録・申請」、「進路進捗状況届」へのアクセスはできません。\n皆様にはご迷惑をおかけいたしますが、ご理解、ご協力…",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=6750",
+            "title": "全学停電及びサーバー更新作業に伴うキャリア支援チームHP及び就職情報提供システム停止のお知らせ",
+            "date_modified": "2025-10-24T03:00:00.000Z"
+        },
+        {
             "id": "9109c466ea0ee2c699e8756033a82989",
             "content_html": "最近、大学構内で、正体を隠した悪質なカルト団体が勧誘してくるケースが増えています。\n\n一見楽しそうな誘い文句に応じて話をしてみると、相手は非常に言葉巧みに安心感を与え、コミュニティに勧誘してきます。一度参加してしまうと、人とのつながりができることで、怪しいと感じても断りにくい環境が作られてしまいます。\n\nこのような勧誘に遭遇した際の注意点は次の5つです。\n\n①初対面の人に対して警戒心を持つこと\n　…",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=6749",
@@ -135,13 +142,6 @@
             "content_html": "本学の同窓会である茗溪会にて、OBOGキャリア相談会を開催します\n現在就活中の方、将来就職先に関心がある方、是非ご参加ください。\n今回の特集テーマは「体専（スポーツ）」。\n住友金属鉱山株式会社（非鉄金属）※元千葉ロッテマリーンズトレーニングコーチ\n株式会社NHKグローバルメディアサービス（マスコミ）スポーツセンター（中継業務）\n体育専門学群を卒業した先輩２名が登壇します。\n\n詳細（自己紹介・経歴等…",
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=6727",
             "title": "【11/12（水）21：00オンライン開催】メーカーで活躍するOBOGと話そう！ぶっちゃけ相談会参加者募集",
-            "date_modified": "2025-10-20T03:00:00.000Z"
-        },
-        {
-            "id": "66f554abb64c1a693e7e1741992f5c4b",
-            "content_html": "電気設備点検に伴う全学停電のため、10月25日(土)と26日(日)に休館となる図書館があります（中央・体芸・医学）。\nWebサービスへの影響はない予定です。\n利用者の皆様にはご不便をおかけしますが、ご協力をお願いいたします。\n\nDue to scheduled power outages, some libraries (Central, Medical and A&PE) will be clo…",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=6725",
-            "title": "（再掲）【附属図書館】全学停電による休館（10/25-26）/(Library) Temporary closure(Oct. 25-26)",
             "date_modified": "2025-10-20T03:00:00.000Z"
         }
     ]
