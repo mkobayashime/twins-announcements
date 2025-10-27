@@ -5,11 +5,18 @@
     "description": "TWINSのトップページに掲載される「在学生へのお知らせ」を定期的に取得し、RSSなどの各種フィードとして提供しています. ご連絡は https://github.com/mkobayashime/twins-announcements までお願いします.",
     "items": [
         {
-            "id": "e6b945e10b3ad07aa544edd9be803257",
-            "content_html": "【件名】EU世界展開力事業 事務局よりイベントのお知らせ\n【本文】\nEU世界展開力事務局よりイベントのお知らせです。\n本日15:00より、グルノーブル・アルプ大学のVincent Mareau先生をお招きして、ポリマーサイエンスの特別講義を開催いたします。\nお時間のある方はぜひ3F600へお越しください。オンライン参加も可能です。\n\n日時：10月24日（木）15:00～\n場所：3F600（工学系F…",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=6755",
-            "title": "【10/24開催】EU世界展開力事業 事務局よりイベントのお知らせ",
-            "date_modified": "2025-10-24T03:00:00.000Z"
+            "id": "e1817088bb68b5dbcbe53365424366da",
+            "content_html": "第109回　人間系コロキアムが下記の通り開催されますので、お知らせします。\n人間系のHPにも掲載しておりますので、ご覧下さい。\nhttps://www2.human.tsukuba.ac.jp/research/archives/50678\n　大学院・学類学生など、多くの方々のご参加をお待ちしております。\n\n日  時：  2025年11月12日（水）12:15~ 13:15  \n場  所： zoo…",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=6757",
+            "title": "第109回　人間系コロキアムのお知らせ",
+            "date_modified": "2025-10-27T03:00:00.000Z"
+        },
+        {
+            "id": "39cb81f44b225108c19d61a41efb1a24",
+            "content_html": "春期休暇中（2026年2月-3月）に西アフリカ・コートジボワールを訪問し、講義やフィールドワーク、現地の大学生とのグループワークを通して、サブサハラ・アフリカ諸国が抱える社会課題について理解を深め、解決策を考える実践型プログラムです。\n\n10月31日（金）まで参加申し込みを受け付けています。詳細は添付のチラシをご覧ください。\n\nプログラムについてご不明なことがある場合は、気軽にメールでお問い合わせ…",
+            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=6756",
+            "title": "【参加者募集中！】多文化共修プログラム in コートジボワール",
+            "date_modified": "2025-10-27T03:00:00.000Z"
         },
         {
             "id": "83f8d21c4db3bd715e9464bc127e6486",
@@ -136,13 +143,6 @@
             "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=6736",
             "title": "２０２５年度海外留学支援制度（JASSO） 大学の国際化によるソーシャルインパクト創出支援事業タイプII （協定派遣）交換留学募集要項",
             "date_modified": "2025-10-22T03:00:00.000Z"
-        },
-        {
-            "id": "da84c05685196eecbee8cc02a590c689",
-            "content_html": "オーストラリアの協定校・ウーロンゴン大学で、オーストラリアの動物・環境・文化について英語で学び、ホームステイ先に宿泊します。本研修による単位の付与はありません。\n申込方法等の詳細については、募集説明会で説明しますので、参加希望の方は必ず参加（もしくは後日動画を視聴）してください。\n\n【研修内容】\n・研修期間：2026年2月21日（土）～3月8日（日）（渡航日含む）\n・プログラム費用：約$3,000…",
-            "url": "https://twins.tsukuba.ac.jp/campusweb/campussquare.do?_flowId=POW1200000-flow&_campus_new_portal=true&_action_id=displayPortletRequest&calledFlow=keiji&keijitype=4&genrecd=281&seqNo=6735",
-            "title": "春休み多文化共修プログラム in オーストラリア　募集説明会（10/24）",
-            "date_modified": "2025-10-21T03:00:00.000Z"
         }
     ]
 }
